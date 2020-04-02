@@ -1,0 +1,4 @@
+---
+title: "Netto"
+url: /bochum/netto-7/
+---

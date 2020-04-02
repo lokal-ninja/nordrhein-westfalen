@@ -1,0 +1,4 @@
+---
+title: "Alt Eiberger Getränkemarkt"
+url: /essen/alt-eiberger-getraenkemarkt/
+---

@@ -1,0 +1,4 @@
+---
+title: "Galerie Dickmeis"
+url: /dueren/galerie-dickmeis/
+---

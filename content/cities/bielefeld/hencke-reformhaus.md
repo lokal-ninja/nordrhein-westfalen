@@ -1,0 +1,4 @@
+---
+title: "Hencke Reformhaus"
+url: /bielefeld/hencke-reformhaus/
+---

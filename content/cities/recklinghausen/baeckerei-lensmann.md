@@ -1,0 +1,4 @@
+---
+title: "Bäckerei Lensmann"
+url: /recklinghausen/baeckerei-lensmann/
+---

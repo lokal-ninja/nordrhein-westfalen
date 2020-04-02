@@ -1,0 +1,4 @@
+---
+title: "Beauty Nails"
+url: /marl/beauty-nails/
+---

@@ -1,0 +1,4 @@
+---
+title: "Friseursalon Schmalkoke"
+url: /euskirchen/friseursalon-schmalkoke/
+---

@@ -1,0 +1,4 @@
+---
+title: Stirpe
+url: /stirpe/
+---

@@ -1,0 +1,4 @@
+---
+title: "Getränke Star"
+url: /gelsenkirchen/getraenke-star/
+---

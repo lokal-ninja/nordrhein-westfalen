@@ -1,0 +1,4 @@
+---
+title: "FahrRadCenter Tendick"
+url: /neukirchen-vluyn/fahrradcenter-tendick/
+---

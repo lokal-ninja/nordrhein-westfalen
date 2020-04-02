@@ -1,0 +1,4 @@
+---
+title: "Friseursalon Anja"
+url: /gelsenkirchen/friseursalon-anja/
+---

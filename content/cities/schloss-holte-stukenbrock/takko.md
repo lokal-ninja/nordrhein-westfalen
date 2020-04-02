@@ -1,0 +1,4 @@
+---
+title: "Takko"
+url: /schloss-holte-stukenbrock/takko/
+---

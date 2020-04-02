@@ -1,0 +1,4 @@
+---
+title: "Rolf Rixen"
+url: /frechen/rolf-rixen/
+---

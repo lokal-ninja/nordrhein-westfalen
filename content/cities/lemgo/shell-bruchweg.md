@@ -1,0 +1,4 @@
+---
+title: "Shell Bruchweg"
+url: /lemgo/shell-bruchweg/
+---

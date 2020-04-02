@@ -1,0 +1,4 @@
+---
+title: Schöppingen
+url: /schoeppingen/
+---

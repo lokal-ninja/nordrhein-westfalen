@@ -1,0 +1,4 @@
+---
+title: "Zoo Papesch"
+url: /bochum/zoo-papesch/
+---

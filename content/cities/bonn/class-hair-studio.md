@@ -1,0 +1,4 @@
+---
+title: "Class Hair Studio"
+url: /bonn/class-hair-studio/
+---

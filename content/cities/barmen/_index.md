@@ -1,0 +1,4 @@
+---
+title: Barmen
+url: /barmen/
+---

@@ -1,0 +1,4 @@
+---
+title: "Lotto-Kiosk"
+url: /kaarst/lotto-kiosk/
+---

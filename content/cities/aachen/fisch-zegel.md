@@ -1,0 +1,4 @@
+---
+title: "Fisch Zegel"
+url: /aachen/fisch-zegel/
+---

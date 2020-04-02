@@ -1,0 +1,4 @@
+---
+title: "Westhoffsche Buchhandlung"
+url: /essen/westhoffsche-buchhandlung/
+---

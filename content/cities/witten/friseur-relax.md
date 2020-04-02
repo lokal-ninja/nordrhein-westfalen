@@ -1,0 +1,4 @@
+---
+title: "Friseur Relax"
+url: /witten/friseur-relax/
+---

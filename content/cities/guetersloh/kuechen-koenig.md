@@ -1,0 +1,4 @@
+---
+title: "Küchen König"
+url: /guetersloh/kuechen-koenig/
+---

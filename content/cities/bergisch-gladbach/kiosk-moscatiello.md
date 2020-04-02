@@ -1,0 +1,4 @@
+---
+title: "Kiosk Moscatiello"
+url: /bergisch-gladbach/kiosk-moscatiello/
+---

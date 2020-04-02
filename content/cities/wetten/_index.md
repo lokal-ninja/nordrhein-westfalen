@@ -1,0 +1,4 @@
+---
+title: Wetten
+url: /wetten/
+---

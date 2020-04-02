@@ -1,0 +1,4 @@
+---
+title: "Waschbar Nr. 23"
+url: /lippstadt/waschbar-nr-23/
+---

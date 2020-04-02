@@ -1,0 +1,4 @@
+---
+title: "Hestert Kiosk"
+url: /hagen/hestert-kiosk/
+---

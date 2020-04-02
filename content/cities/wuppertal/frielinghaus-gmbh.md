@@ -1,0 +1,4 @@
+---
+title: "Frielinghaus GmbH"
+url: /wuppertal/frielinghaus-gmbh/
+---

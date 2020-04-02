@@ -1,0 +1,4 @@
+---
+title: Reichshof
+url: /reichshof/
+---

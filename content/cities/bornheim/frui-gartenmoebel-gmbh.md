@@ -1,0 +1,4 @@
+---
+title: "Frui Gartenmöbel GmbH"
+url: /bornheim/frui-gartenmoebel-gmbh/
+---

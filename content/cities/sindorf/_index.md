@@ -1,0 +1,4 @@
+---
+title: Sindorf
+url: /sindorf/
+---

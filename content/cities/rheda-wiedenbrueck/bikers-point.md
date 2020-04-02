@@ -1,0 +1,4 @@
+---
+title: "Bikers Point"
+url: /rheda-wiedenbrueck/bikers-point/
+---

@@ -1,0 +1,4 @@
+---
+title: "Parfümerie Michel"
+url: /bonn/parfuemerie-michel/
+---

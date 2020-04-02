@@ -1,0 +1,4 @@
+---
+title: "Class Hair"
+url: /luedenscheid/class-hair/
+---
