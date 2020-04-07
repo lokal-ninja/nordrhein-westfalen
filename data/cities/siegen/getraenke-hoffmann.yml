@@ -1,12 +1,12 @@
-id: 152899546
-type: way
+id: 970683249
+type: node
 shop: Getränke
-latitude: 50.886625900000006
-longitude: 8.0272588
-postcode: 57072
+latitude: 50.9084781
+longitude: 8.008975900000001
+postcode: 57078
 city: Siegen
-street: "In der Hüttenwiese"
-housenumber: 11
+street: "Birlenbacher Straße"
+housenumber: 15b
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00,Sa 08:00-18:00; PH off"
-website: "https://www.dursty.de/"
+opening_hours: ""
+website: ""

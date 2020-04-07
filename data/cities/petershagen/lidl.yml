@@ -1,12 +1,12 @@
-id: 1539591069
-type: node
+id: 148234620
+type: way
 shop: Supermarkt
-latitude: 52.37592
-longitude: 8.9965876
+latitude: 52.3756702
+longitude: 8.996359
 postcode: 32469
 city: Petershagen
 street: "Dingbreite"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/filialen/petershagen/lahde-dingbreite-1.html"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

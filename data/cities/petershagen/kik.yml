@@ -1,12 +1,12 @@
-id: 1539591066
-type: node
+id: 148234618
+type: way
 shop: Kleidung
-latitude: 52.375796
-longitude: 8.9970131
+latitude: 52.375657700000005
+longitude: 8.9968199
 postcode: 32469
 city: Petershagen
 street: "Dingbreite"
-housenumber: 1
+housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.kik.de/"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+website: ""

@@ -1,4 +1,4 @@
 ---
-title: "Globus-Baumarkt"
+title: "Globus Baumarkt"
 url: /bergkamen/globus-baumarkt/
 ---

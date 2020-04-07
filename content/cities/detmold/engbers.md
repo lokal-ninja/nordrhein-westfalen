@@ -1,4 +1,4 @@
 ---
-title: "engbers"
+title: "Engbers"
 url: /detmold/engbers/
 ---

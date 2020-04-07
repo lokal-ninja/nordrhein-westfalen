@@ -1,12 +1,12 @@
-id: 6356133899
-type: node
+id: 89674421
+type: way
 shop: Supermarkt
-latitude: 51.4727807
-longitude: 7.2442514000000005
-postcode: 44803
+latitude: 51.466631400000004
+longitude: 7.2041002
+postcode: 44795
 city: Bochum
-street: "Lindengraben"
-housenumber: 14
+street: "An der Landwehr"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00; PH off"
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

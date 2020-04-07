@@ -1,4 +1,4 @@
 ---
-title: "StyleX"
+title: "Stylex"
 url: /paderborn/stylex-2/
 ---
