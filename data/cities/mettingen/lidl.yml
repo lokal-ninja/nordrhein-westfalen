@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.314465500000004
 longitude: 7.784131400000001
-postcode: 49497
+postcode: "49497"
 city: Mettingen
 street: "Westerkappelner Straße"
 housenumber: 20

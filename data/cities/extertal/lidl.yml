@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0687811
 longitude: 9.107805200000001
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Breslauer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.699617700000005
 longitude: 6.6600459
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Römerallee"
 housenumber: 65

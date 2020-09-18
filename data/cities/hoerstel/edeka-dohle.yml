@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.334529
 longitude: 7.5068511
-postcode: 48477
+postcode: "48477"
 city: Hörstel
 street: "Hauptstraße"
 housenumber: 9

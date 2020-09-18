@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.050940000000004
 longitude: 8.552201
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Engersche Straße"
 housenumber: 96

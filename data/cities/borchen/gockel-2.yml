@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.668312
 longitude: 8.7238199
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Wegelange"
 housenumber: 6

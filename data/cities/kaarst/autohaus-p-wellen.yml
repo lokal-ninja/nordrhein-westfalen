@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1964729
 longitude: 6.612116400000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Gutenbergstraße"
 housenumber: 2

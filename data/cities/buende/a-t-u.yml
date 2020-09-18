@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.202238300000005
 longitude: 8.5776327
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Wasserbreite"
 housenumber: 31

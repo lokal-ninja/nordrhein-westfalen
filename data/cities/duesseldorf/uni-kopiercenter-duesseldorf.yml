@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.2005362
 longitude: 6.789473
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Solenanderstraße"
 housenumber: 2a

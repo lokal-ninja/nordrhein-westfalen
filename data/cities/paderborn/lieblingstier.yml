@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.7117274
 longitude: 8.758792
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Brüderstraße"
 housenumber: 13

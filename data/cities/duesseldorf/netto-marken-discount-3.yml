@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2139181
 longitude: 6.766206800000001
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Lorettostraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2401792
 longitude: 7.535694100000001
-postcode: 58579
+postcode: "58579"
 city: Schalksmühle
 street: "Bahnhofstraße"
 housenumber: 39

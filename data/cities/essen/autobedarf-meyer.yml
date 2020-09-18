@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.4735686
 longitude: 6.9130244
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Himmelpforten"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0322674
 longitude: 8.573406700000001
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Ziegelstraße"
 housenumber: 27

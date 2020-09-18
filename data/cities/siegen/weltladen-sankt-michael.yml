@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.8801356
 longitude: 8.0307343
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Kampenstraße"
 housenumber: 50

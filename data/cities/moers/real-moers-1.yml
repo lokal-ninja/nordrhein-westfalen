@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4553384
 longitude: 6.6574735
-postcode: 47443
+postcode: "47443"
 city: Moers
 street: "Römerstraße"
 housenumber: 570

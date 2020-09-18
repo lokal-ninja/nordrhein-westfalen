@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.74471320000001
 longitude: 8.713558800000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Residenzstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.7996526
 longitude: 8.0229814
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3729093
 longitude: 6.785006500000001
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Am Dickelsbach"
 housenumber: 50

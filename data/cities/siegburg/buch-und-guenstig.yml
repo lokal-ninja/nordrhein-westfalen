@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7979684
 longitude: 7.2095963
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Holzgasse"
 housenumber: 21

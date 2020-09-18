@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.1677491
 longitude: 6.684455600000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 498i

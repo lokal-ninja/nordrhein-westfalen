@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5382778
 longitude: 6.4311875
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Weseler Straße"
 housenumber: 45

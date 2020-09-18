@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.8243912
 longitude: 8.434546600000001
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Lange Straße"
 housenumber: 24

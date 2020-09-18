@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8629231
 longitude: 7.0941583
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Albin-Köbis-Straße"
 housenumber: 1

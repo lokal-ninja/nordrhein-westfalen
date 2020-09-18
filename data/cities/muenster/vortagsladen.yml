@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9598931
 longitude: 7.603912500000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Hüfferstraße"
 housenumber: 69

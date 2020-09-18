@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3489031
 longitude: 8.2818051
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Ruhrplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.729161000000005
 longitude: 8.9462539
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Industriestraße"
 housenumber: 2

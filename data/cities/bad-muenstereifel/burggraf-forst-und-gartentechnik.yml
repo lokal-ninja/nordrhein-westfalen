@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.540386600000005
 longitude: 6.8836608
-postcode: 53902
+postcode: "53902"
 city: Bad Münstereifel
 street: "Webersbenden"
 housenumber: 14

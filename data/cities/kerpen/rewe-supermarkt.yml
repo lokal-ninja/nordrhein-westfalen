@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.860054500000004
 longitude: 6.7550072000000005
-postcode: 50169
+postcode: "50169"
 city: Kerpen
 street: "Am Markt"
 housenumber: 8

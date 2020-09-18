@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.526888500000005
 longitude: 9.0369925
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Kasseler Tor"
 housenumber: 40a

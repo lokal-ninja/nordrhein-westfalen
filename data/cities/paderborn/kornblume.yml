@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7129824
 longitude: 8.7508531
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Geroldstraße"
 housenumber: 21a

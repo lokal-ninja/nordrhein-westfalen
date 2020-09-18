@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.226823
 longitude: 6.805531200000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Birkenstraße"
 housenumber: 85

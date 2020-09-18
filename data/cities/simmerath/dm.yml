@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.60654
 longitude: 6.306302100000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Humboldtstraße"
 housenumber: 15

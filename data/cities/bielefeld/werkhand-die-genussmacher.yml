@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.0117623
 longitude: 8.5464265
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Ehlentruper Weg"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.1907514
 longitude: 6.6895077
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Jülicher Straße"
 housenumber: 43

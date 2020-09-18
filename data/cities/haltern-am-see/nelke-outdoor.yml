@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 51.737037
 longitude: 7.1766484
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Annabergstraße"
 housenumber: 46

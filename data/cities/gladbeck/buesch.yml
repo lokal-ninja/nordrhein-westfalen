@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5958473
 longitude: 6.9864961
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Leineweberweg"
 housenumber: 85

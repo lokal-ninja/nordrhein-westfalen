@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.2262058
 longitude: 6.784991000000001
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Wagnerstraße"
 housenumber: 9

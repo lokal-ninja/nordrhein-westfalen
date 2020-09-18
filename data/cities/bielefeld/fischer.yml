@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.070533000000005
 longitude: 8.6029306
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Braker Straße"
 housenumber: 66

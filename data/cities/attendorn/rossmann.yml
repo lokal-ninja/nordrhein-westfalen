@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.125621100000004
 longitude: 7.9035193
-postcode: 57439
+postcode: "57439"
 city: Attendorn
 street: "Wasserstraße"
 housenumber: 1

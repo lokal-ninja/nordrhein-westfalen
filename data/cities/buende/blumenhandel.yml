@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.1906478
 longitude: 8.6119268
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Mindener Straße"
 housenumber: 80

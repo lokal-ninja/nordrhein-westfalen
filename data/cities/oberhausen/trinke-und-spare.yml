@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.5032803
 longitude: 6.8840427
-postcode: 46117
+postcode: "46117"
 city: Oberhausen
 street: "Kettelerstraße"
 housenumber: 4

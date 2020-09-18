@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.3976702
 longitude: 8.5844416
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Keffelker Straße"
 housenumber: 43

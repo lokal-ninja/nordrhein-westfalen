@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.207897900000006
 longitude: 6.6756622000000005
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Further Straße"
 housenumber: 108

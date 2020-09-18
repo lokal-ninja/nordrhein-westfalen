@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.932936700000006
 longitude: 6.9352152
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Mozartstraße"
 housenumber: 49

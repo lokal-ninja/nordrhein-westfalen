@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 51.2221957
 longitude: 6.7795448
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 60

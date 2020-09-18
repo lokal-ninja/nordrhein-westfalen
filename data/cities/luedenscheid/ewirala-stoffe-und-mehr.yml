@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.215160700000006
 longitude: 7.6327189
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Grabenstraße"
 housenumber: 10

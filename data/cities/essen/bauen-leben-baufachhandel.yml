@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.360961700000004
 longitude: 6.948253500000001
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Güterstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.0305509
 longitude: 8.605603200000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Hillegosser Straße"
 housenumber: 27

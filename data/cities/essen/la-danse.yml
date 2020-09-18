@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.452612200000004
 longitude: 7.0154309
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Hollestraße"
 housenumber: 1e

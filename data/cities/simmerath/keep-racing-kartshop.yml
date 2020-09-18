@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.638779400000004
 longitude: 6.268924500000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Trafoweg"
 housenumber: 2

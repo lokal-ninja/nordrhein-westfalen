@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8742031
 longitude: 8.0145751
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Am Bahnhof"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2814953
 longitude: 7.171786000000001
-postcode: 42109
+postcode: "42109"
 city: Wuppertal
 street: "Uellendahler Straße"
 housenumber: 502

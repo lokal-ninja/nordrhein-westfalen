@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4817034
 longitude: 7.220836800000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Untere Marktstraße"
 housenumber: 1

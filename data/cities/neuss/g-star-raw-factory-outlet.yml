@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.1527655
 longitude: 6.7354722
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Thomas-Mann-Straße"
 housenumber: 30

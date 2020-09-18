@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.194962000000004
 longitude: 8.5340959
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Marktstraße"
 housenumber: 2

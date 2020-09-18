@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.161055600000005
 longitude: 6.6594426
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Röckrather Weg"
 housenumber: 1

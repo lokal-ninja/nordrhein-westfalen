@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2036134
 longitude: 6.3884162
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Mürrigerstraße"
 housenumber: 25

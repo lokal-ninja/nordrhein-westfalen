@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.622650900000004
 longitude: 7.1245419000000005
-postcode: 53343
+postcode: "53343"
 city: Wachtberg
 street: "Bernareggio-Platz"
 housenumber: 6

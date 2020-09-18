@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9612842
 longitude: 6.9546409
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Neusser Straße"
 housenumber: 206-208

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.6841044
 longitude: 6.7377598
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Annostraße"
 housenumber: 47

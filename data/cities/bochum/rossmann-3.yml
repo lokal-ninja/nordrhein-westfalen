@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4533641
 longitude: 7.232762800000001
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 42

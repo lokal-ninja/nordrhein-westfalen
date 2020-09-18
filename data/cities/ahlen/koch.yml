@@ -3,10 +3,10 @@ type: way
 shop: Bestattungen
 latitude: 51.767650800000006
 longitude: 7.8944217000000005
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Warendorfer Straße"
 housenumber: 15
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-16:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.9955343
 longitude: 6.9256006
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "Altonaer Straße"
 housenumber: 26

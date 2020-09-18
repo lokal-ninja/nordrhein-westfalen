@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8585873
 longitude: 6.185195800000001
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Blumenrather Straße"
 housenumber: 83a

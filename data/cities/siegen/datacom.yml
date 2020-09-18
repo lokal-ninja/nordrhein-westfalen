@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.8692356
 longitude: 8.0162031
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Sankt-Johann-Straße"
 housenumber: 27

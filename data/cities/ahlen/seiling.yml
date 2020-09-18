@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.771389000000006
 longitude: 7.9206852
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Voltastraße"
 housenumber: 28

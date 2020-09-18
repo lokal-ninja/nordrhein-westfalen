@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5170764
 longitude: 7.620338200000001
-postcode: 59439
+postcode: "59439"
 city: Holzwickede
 street: "Zur Alten Kolonie"
 housenumber: 6

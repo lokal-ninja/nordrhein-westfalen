@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.96387300000001
 longitude: 7.0211202
-postcode: 51067
+postcode: "51067"
 city: Köln
 street: "Wichheimer Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3600365
 longitude: 6.7327374
-postcode: 
+postcode: ""
 city: Duisburg
 street: "Am Finkenacker"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.754954600000005
 longitude: 8.3892232
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Lippstädter Straße"
 housenumber: 26

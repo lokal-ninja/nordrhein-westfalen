@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.2388661
 longitude: 6.777700800000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Kaiserswerther Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.937748400000004
 longitude: 8.883748500000001
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Hasselter Platz"
 housenumber: 1

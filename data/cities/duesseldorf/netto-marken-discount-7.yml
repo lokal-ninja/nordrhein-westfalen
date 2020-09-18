@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2154983
 longitude: 6.797772
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Ellerstraße"
 housenumber: 123

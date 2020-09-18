@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.9821771
 longitude: 6.5160891
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Elsdorfer Straße"
 housenumber: 3

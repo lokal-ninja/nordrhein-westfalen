@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.443343500000005
 longitude: 8.3514072
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Hochstraße"
 housenumber: 10

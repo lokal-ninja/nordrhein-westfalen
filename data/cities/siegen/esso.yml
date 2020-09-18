@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.888545
 longitude: 8.0288596
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Weidenauer Straße"
 housenumber: 273

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.022182
 longitude: 7.774628300000001
-postcode: 57489
+postcode: "57489"
 city: Drolshagen
 street: "Gerberstraße"
 housenumber: 33

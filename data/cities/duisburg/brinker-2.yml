@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.527487400000005
 longitude: 6.7421750000000005
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Dr.-Wilhelm-Roelen-Straße"
 housenumber: 435

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0284318
 longitude: 8.9016544
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 54

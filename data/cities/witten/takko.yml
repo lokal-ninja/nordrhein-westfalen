@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.4377427
 longitude: 7.3251276
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Herbeder Straße"
 housenumber: 17

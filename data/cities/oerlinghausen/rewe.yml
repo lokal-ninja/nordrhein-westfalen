@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9460829
 longitude: 8.6548557
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Holter Straße"
 housenumber: 61

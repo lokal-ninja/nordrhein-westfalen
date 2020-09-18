@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.165382900000004
 longitude: 6.757485000000001
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Jagenbergstraße"
 housenumber: 4

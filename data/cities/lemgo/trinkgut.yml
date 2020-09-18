@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0262667
 longitude: 8.8877646
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Grevenmarschstraße"
 housenumber: 18-22

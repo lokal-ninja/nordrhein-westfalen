@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 50.9126247
 longitude: 8.0056034
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Tannenburgstraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 10:00-12:30, Mo-Fr 14:30-18:30, We 10:00-12:30; Sa 08:30-12:30"
 website: ""

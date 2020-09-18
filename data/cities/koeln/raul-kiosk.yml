@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.8924564
 longitude: 7.0774162
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 577a

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.7791742
 longitude: 6.12784
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hoffmannallee"
 housenumber: 53a

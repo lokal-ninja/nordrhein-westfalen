@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4511893
 longitude: 7.9645988
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Hauptstraße"
 housenumber: 23

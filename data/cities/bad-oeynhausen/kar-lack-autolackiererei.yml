@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2298051
 longitude: 8.817884900000001
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Kleine Heide"
 housenumber: 3

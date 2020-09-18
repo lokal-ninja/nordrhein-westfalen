@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.32677
 longitude: 8.0041574
-postcode: 59846
+postcode: "59846"
 city: Sundern (Sauerland)
 street: "Hauptstraße"
 housenumber: 63

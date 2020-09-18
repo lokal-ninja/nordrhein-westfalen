@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.305601200000005
 longitude: 8.934514400000001
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Friedrich-Wilhelm-Straße"
 housenumber: 98

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.878145200000006
 longitude: 8.9505089
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Kampstraße"
 housenumber: 33

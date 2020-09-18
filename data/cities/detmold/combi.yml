@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9466163
 longitude: 8.783350800000001
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Oerlinghauser Straße"
 housenumber: 111

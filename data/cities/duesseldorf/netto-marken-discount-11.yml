@@ -1,12 +1,12 @@
-id: 4796598565
+id: 5225086320
 type: node
 shop: Supermarkt
-latitude: 51.2125314
-longitude: 6.757365600000001
-postcode: 40219
+latitude: 51.2323601
+longitude: 6.808503300000001
+postcode: "40237"
 city: Düsseldorf
-street: "Gladbacher Straße"
-housenumber: 53
+street: "Lindemannstraße"
+housenumber: 83
 phone: ""
-opening_hours: ""
-website: "http://www.netto-online.de"
+opening_hours: "Mo-Sa 7:00-22:00"
+website: ""

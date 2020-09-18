@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4958078
 longitude: 7.587632
-postcode: 44289
+postcode: "44289"
 city: Dortmund
 street: "Sölder Straße"
 housenumber: 115

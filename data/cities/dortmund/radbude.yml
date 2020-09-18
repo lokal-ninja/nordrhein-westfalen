@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.531057700000005
 longitude: 7.4549921
-postcode: 44147
+postcode: "44147"
 city: Dortmund
 street: "Kleiststraße"
 housenumber: 7

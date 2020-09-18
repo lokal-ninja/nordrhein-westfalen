@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9221596
 longitude: 6.359026500000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 2

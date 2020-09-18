@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9170573
 longitude: 6.1251582
-postcode: 52531
+postcode: "52531"
 city: Übach-Palenberg
 street: "Freiheitstraße"
 housenumber: 37

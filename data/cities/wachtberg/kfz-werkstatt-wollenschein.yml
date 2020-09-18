@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.6411378
 longitude: 7.1759214
-postcode: 53343
+postcode: "53343"
 city: Wachtberg
 street: "Konrad-Adenauer-Straße"
 housenumber: 

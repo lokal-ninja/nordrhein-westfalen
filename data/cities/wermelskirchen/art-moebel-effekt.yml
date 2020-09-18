@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.1401533
 longitude: 7.2154068
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Kölner Straße"
 housenumber: 10

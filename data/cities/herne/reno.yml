@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.5399405
 longitude: 7.222895100000001
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Bahnhofstraße"
 housenumber: 41

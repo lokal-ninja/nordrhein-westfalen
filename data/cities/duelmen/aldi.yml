@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.839911
 longitude: 7.287948200000001
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Münsterstraße"
 housenumber: 151

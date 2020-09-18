@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.262777
 longitude: 8.8971835
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Erbeweg"
 housenumber: 25

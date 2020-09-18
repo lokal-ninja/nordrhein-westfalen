@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.213214400000005
 longitude: 7.8741745000000005
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Grünestraße"
 housenumber: 1

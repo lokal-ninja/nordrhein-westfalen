@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.210958500000004
 longitude: 8.5959106
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Spradower Schweiz"
 housenumber: 17

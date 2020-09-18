@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.952266
 longitude: 6.9255089000000005
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Subbelrather Straße"
 housenumber: 168

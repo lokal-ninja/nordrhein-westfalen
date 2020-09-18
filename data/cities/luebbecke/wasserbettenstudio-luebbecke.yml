@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.304446500000005
 longitude: 8.6165062
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Niedernstraße"
 housenumber: 35

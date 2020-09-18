@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.7989255
 longitude: 8.0178543
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Mark I"
 housenumber: 4

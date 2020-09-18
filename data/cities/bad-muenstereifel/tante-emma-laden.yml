@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 50.5192586
 longitude: 6.861854200000001
-postcode: 53902
+postcode: "53902"
 city: Bad Münstereifel
 street: "Letherter Landstraße"
 housenumber: 1 b

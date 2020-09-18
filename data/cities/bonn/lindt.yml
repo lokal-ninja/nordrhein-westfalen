@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 50.7329639
 longitude: 7.101105700000001
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Am Neutor"
 housenumber: 6

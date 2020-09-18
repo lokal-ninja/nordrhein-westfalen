@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.1940116
 longitude: 7.0097101
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Neuer Markt"
 housenumber: 56

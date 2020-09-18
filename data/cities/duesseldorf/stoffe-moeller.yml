@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.22498160000001
 longitude: 6.7872915
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Klosterstraße"
 housenumber: 47

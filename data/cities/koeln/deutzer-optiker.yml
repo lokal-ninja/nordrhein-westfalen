@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9366878
 longitude: 6.973783500000001
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Deutzer Freiheit"
 housenumber: 70

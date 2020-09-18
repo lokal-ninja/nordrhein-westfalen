@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.007506400000004
 longitude: 8.4125569
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Bahnhofstraße"
 housenumber: 13

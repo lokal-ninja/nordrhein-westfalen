@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.5667332
 longitude: 8.187654400000001
-postcode: 59505
+postcode: "59505"
 city: Bad Sassendorf
 street: "An der Helle"
 housenumber: 18

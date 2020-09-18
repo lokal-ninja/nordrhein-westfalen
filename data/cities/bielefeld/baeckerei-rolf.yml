@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.097870300000004
 longitude: 8.512903600000001
-postcode: 33739
+postcode: "33739"
 city: Bielefeld
 street: "Beckendorfstraße"
 housenumber: 8

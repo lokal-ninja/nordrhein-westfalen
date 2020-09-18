@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.871735
 longitude: 8.0166514
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Koblenzer Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.458136800000005
 longitude: 6.6923759
-postcode: 47198
+postcode: "47198"
 city: Duisburg
 street: "Halener Straße"
 housenumber: 25

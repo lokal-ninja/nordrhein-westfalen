@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.741528200000005
 longitude: 8.725127
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Marienloher Straße"
 housenumber: 40

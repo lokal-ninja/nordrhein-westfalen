@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 51.0204704
 longitude: 6.9199712
-postcode: 50769
+postcode: "50769"
 city: Köln
 street: "Stallagsbergweg"
 housenumber: 1A

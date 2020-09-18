@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.4496143
 longitude: 7.3644933
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Im Wullen"
 housenumber: 3

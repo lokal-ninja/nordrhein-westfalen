@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.51520480000001
 longitude: 6.9561906
-postcode: 46238
+postcode: "46238"
 city: Bottrop
 street: "An der Knippenburg"
 housenumber: 107

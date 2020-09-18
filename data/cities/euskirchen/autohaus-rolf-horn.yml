@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.653370200000005
 longitude: 6.793163000000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Eifelring"
 housenumber: 44-46

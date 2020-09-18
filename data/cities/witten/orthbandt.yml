@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4386954
 longitude: 7.3341354
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Beethovenstraße"
 housenumber: 3

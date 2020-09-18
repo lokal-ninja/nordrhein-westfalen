@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.574243800000005
 longitude: 6.968693300000001
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Stollenstraße"
 housenumber: 7

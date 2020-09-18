@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.799077600000004
 longitude: 6.1381905
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Flutstraße"
 housenumber: 81

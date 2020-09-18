@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.076815800000006
 longitude: 7.9504353000000005
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "An der Hütte"
 housenumber: 1

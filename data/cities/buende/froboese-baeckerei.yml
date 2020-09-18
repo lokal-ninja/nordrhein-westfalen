@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.215027000000006
 longitude: 8.6278436
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Lübbecker Straße"
 housenumber: 321

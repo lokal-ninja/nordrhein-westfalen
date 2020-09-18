@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9277931
 longitude: 8.433599300000001
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Industriestraße"
 housenumber: 3

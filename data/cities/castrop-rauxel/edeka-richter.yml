@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5422717
 longitude: 7.3347416
-postcode: 44577
+postcode: "44577"
 city: Castrop-Rauxel
 street: "Dortmunder Straße"
 housenumber: 185

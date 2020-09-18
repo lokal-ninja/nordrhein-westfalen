@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.703082300000005
 longitude: 8.7693236
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Husener Straße"
 housenumber: 121

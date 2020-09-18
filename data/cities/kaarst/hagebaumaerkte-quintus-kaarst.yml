@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.2265346
 longitude: 6.599750200000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Gustav-Heinemann-Straße"
 housenumber: 9

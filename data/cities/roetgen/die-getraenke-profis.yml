@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.643255100000005
 longitude: 6.189053400000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 49

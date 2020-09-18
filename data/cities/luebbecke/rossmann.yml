@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3039597
 longitude: 8.616811
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Lange Straße"
 housenumber: 24

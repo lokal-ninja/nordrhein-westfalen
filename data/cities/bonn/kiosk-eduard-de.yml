@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.716595600000005
 longitude: 7.108263300000001
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Eduard-Otto-Straße"
 housenumber: 26

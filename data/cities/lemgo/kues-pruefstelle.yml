@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.019397100000006
 longitude: 8.8756547
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Gildestraße"
 housenumber: 5

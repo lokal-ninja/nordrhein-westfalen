@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.003759200000005
 longitude: 8.4125938
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Woerdener Straße"
 housenumber: 6

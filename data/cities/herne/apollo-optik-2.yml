@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.538473700000004
 longitude: 7.2247408
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Bahnhofstraße"
 housenumber: 22

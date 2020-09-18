@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2230171
 longitude: 8.7976539
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Eidinghausener Straße"
 housenumber: 127

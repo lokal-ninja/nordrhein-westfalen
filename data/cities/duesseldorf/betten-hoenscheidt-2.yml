@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.2229819
 longitude: 6.774346
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Benrather Straße"
 housenumber: 9

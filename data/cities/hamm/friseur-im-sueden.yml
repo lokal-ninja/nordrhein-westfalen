@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.671953200000004
 longitude: 7.8225784
-postcode: 
+postcode: ""
 city: Hamm
 street: "Alleestraße"
 housenumber: 18a

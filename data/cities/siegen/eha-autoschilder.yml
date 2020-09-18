@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.870025000000005
 longitude: 8.0162042
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Sankt-Johann-Straße"
 housenumber: 23

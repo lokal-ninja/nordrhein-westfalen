@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.6371083
 longitude: 6.5809578
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Perricher Weg"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.6415038
 longitude: 6.191048
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 68

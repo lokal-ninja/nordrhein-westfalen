@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.635847600000005
 longitude: 8.5020067
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Erwitter Straße"
 housenumber: 28

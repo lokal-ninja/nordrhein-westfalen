@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.936710600000005
 longitude: 6.933127900000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Aachener Straße"
 housenumber: 70

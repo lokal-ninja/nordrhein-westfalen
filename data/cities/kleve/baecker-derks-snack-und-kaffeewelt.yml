@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.786422
 longitude: 6.1368583
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 3

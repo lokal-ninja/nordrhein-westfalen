@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1843998
 longitude: 8.320838400000001
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Alter Bahnhof"
 housenumber: 26

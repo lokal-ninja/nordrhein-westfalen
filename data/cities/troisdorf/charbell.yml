@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.815329600000005
 longitude: 7.156173900000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Kölner Straße"
 housenumber: 70a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.082844800000004
 longitude: 7.530906300000001
-postcode: 51709
+postcode: "51709"
 city: Marienheide
 street: "Landwehrstraße"
 housenumber: 4

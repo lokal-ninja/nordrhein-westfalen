@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.257401200000004
 longitude: 6.3848481
-postcode: 41747
+postcode: "41747"
 city: Viersen
 street: "Löhstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.704002
 longitude: 8.7699116
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

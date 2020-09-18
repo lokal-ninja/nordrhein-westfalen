@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1932484
 longitude: 7.0115628
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Neuer Markt"
 housenumber: 16

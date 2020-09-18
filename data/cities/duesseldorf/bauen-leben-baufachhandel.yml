@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.2021607
 longitude: 6.854536700000001
-postcode: 40627
+postcode: "40627"
 city: Düsseldorf
 street: "Am Kleinforst"
 housenumber: 5

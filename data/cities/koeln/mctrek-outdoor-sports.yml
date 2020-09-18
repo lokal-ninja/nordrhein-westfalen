@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.9343146
 longitude: 6.9391205000000005
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Hohenstaufenring"
 housenumber: 61

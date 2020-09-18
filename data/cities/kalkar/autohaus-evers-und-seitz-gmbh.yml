@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.730540700000006
 longitude: 6.299502700000001
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Oyweg"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7725299
 longitude: 8.7146054
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bielefelder Straße"
 housenumber: 137

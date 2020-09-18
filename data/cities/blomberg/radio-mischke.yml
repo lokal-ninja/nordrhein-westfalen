@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.944880600000005
 longitude: 9.095292200000001
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Hagenstraße"
 housenumber: 25

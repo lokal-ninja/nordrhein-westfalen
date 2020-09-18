@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.1919565
 longitude: 6.8149554000000006
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Kölner Landstraße"
 housenumber: 115

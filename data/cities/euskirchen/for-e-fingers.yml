@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.623439000000005
 longitude: 6.8497202
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Pützgasse"
 housenumber: 12

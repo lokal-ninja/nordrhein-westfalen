@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.4829907
 longitude: 7.211199000000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Westring"
 housenumber: 45

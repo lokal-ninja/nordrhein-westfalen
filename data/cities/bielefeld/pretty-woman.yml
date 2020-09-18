@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.999573500000004
 longitude: 8.5889377
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Stieghorster Straße"
 housenumber: 20

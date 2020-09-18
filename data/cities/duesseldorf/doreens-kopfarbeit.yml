@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.239947900000004
 longitude: 6.7825911
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Blücherstraße"
 housenumber: 11

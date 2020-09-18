@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0271192
 longitude: 8.887895700000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Grevenmarschstraße"
 housenumber: 18-22

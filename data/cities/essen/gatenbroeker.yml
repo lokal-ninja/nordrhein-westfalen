@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4671888
 longitude: 7.088170000000001
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Korthover Weg"
 housenumber: 57-59

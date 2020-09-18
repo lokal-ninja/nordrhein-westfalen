@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.665424200000004
 longitude: 6.8048555
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "An der Erftbastei"
 housenumber: 4

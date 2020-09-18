@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.9469519
 longitude: 8.427880400000001
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Sinnernweg"
 housenumber: 8

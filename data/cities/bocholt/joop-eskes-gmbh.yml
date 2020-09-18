@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.8116922
 longitude: 6.545971700000001
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Schlavenhorst"
 housenumber: 80

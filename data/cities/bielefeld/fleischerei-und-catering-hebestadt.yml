@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.016497900000005
 longitude: 8.553832
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Spindelstraße"
 housenumber: 70

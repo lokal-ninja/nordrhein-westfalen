@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.8140489
 longitude: 7.178201700000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Frankfurter Straße"
 housenumber: 110

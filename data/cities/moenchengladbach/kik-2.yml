@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.1504726
 longitude: 6.360501
-postcode: 41179
+postcode: "41179"
 city: Mönchengladbach
 street: "Gladbacher Straße"
 housenumber: 9

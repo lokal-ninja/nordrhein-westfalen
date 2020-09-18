@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.3779137
 longitude: 6.773328200000001
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Keniastraße"
 housenumber: 39

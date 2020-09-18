@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 51.581747
 longitude: 7.529969500000001
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Derner Straße"
 housenumber: 84

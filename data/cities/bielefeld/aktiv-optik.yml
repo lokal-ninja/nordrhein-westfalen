@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9462947
 longitude: 8.5848264
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Reichowplatz"
 housenumber: 18

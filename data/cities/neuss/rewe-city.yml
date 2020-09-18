@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.199176
 longitude: 6.690328600000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Büchel"
 housenumber: 48

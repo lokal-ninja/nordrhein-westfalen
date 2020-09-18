@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9368898
 longitude: 6.922996700000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Aachener Straße"
 housenumber: 188

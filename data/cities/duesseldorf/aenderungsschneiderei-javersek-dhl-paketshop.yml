@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.264295700000005
 longitude: 6.804755
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Rather Kreuzweg"
 housenumber: 66

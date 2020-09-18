@@ -1,12 +1,12 @@
 id: 6965751347
 type: node
 shop: Kleidung
-latitude: 51.57484
-longitude: 8.1050999
-postcode: 59494
+latitude: 51.574811700000005
+longitude: 8.1051214
+postcode: "59494"
 city: Soest
 street: "Brüderstraße"
 housenumber: 25
 phone: ""
-opening_hours: "off"
+opening_hours: ""
 website: ""

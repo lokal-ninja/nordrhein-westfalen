@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.534159200000005
 longitude: 7.6924789
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Ostring"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.877670900000005
 longitude: 8.0155092
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Freudenberger Straße"
 housenumber: 18

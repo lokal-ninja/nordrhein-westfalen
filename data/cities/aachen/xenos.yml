@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.774982200000004
 longitude: 6.092408000000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Adalbertstraße"
 housenumber: 100

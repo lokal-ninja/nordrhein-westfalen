@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.8151462
 longitude: 7.157526300000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Kölner Straße"
 housenumber: 59

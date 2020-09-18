@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.150277300000006
 longitude: 7.3429178
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Bahnhofstraße"
 housenumber: 8

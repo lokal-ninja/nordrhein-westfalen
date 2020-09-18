@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2279002
 longitude: 7.6397406000000005
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Vogelberger Weg"
 housenumber: 1-3

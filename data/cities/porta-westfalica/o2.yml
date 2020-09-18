@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.26203640000001
 longitude: 8.899500900000001
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Flurweg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.2243846
 longitude: 6.7725191
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Berger Straße"
 housenumber: 18

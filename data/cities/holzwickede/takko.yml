@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.506477600000004
 longitude: 7.6224442
-postcode: 59439
+postcode: "59439"
 city: Holzwickede
 street: "August-Borsig-Straße"
 housenumber: 10

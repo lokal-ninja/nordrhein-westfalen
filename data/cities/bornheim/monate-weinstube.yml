@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.7952242
 longitude: 6.956705100000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Bahnhofstraße"
 housenumber: 49

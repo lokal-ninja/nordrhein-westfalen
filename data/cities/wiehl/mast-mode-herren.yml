@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.94932480000001
 longitude: 7.547775000000001
-postcode: 51674
+postcode: "51674"
 city: Wiehl
 street: "Hauptstraße"
 housenumber: 

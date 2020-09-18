@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.7159824
 longitude: 8.7475614
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Westernstraße"
 housenumber: 40

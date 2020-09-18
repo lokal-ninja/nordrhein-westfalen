@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.1980561
 longitude: 8.817252700000001
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Weserstraße"
 housenumber: 73
-phone: "+49 5731 - 2 90 70"
+phone: "+49 5731 29070"
 opening_hours: "Mo-Sa 07:00-22:00"
 website: "https://wez.de/"

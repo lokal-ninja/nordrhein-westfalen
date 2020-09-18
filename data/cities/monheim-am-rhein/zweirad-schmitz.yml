@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.0919402
 longitude: 6.890151
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Gartzenweg"
 housenumber: 9

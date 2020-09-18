@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9512523
 longitude: 8.5693541
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Hansestraße"
 housenumber: 1

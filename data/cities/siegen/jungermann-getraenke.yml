@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.914455600000004
 longitude: 8.0033925
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "In der Lehmkuhle"
 housenumber: 2

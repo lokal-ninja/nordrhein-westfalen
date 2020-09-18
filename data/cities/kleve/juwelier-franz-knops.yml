@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.786469200000006
 longitude: 6.1369302
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 1

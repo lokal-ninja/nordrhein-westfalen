@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.611680500000006
 longitude: 7.1083667
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Mühlenstraße"
 housenumber: 53a

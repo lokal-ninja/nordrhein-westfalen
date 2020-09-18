@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.4247523
 longitude: 6.844753300000001
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Wissollstraße"
 housenumber: 62

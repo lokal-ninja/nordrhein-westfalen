@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.66200430000001
 longitude: 6.786295600000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Annaturmstraße"
 housenumber: 9

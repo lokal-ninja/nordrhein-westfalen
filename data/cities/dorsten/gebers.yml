@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 51.659133600000004
 longitude: 6.9637530000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Essener Straße"
 housenumber: 26

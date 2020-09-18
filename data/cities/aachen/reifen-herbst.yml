@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.7790188
 longitude: 6.1413479
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Rödgener Straße"
 housenumber: 189

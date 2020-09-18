@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.649263700000006
 longitude: 6.7943968
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Rudolf-Diesel-Straße"
 housenumber: 22

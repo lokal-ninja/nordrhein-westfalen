@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9268476
 longitude: 6.944828
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Salierring"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.021342000000004
 longitude: 8.530397500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Hagenbruchstraße"
 housenumber: 6

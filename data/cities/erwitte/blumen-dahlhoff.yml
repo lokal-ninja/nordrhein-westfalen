@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.631076400000005
 longitude: 8.3611656
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Aspenstraße"
 housenumber: 12

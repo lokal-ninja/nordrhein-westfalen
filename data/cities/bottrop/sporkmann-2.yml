@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5225115
 longitude: 6.938571700000001
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Paßstraße"
 housenumber: 54

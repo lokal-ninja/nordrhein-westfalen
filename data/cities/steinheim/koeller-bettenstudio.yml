@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.8649697
 longitude: 9.080238900000001
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Industriestraße"
 housenumber: 32-34

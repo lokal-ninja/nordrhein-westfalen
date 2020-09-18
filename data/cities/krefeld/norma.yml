@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3167625
 longitude: 6.575562000000001
-postcode: 47805
+postcode: "47805"
 city: Krefeld
 street: "Kölner Straße"
 housenumber: 235

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.6967541
 longitude: 7.8292944
-postcode: 59073
+postcode: "59073"
 city: Hamm
 street: "Heessener Straße"
 housenumber: 146

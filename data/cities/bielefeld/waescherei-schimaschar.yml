@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.0368046
 longitude: 8.4851275
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Wertherstraße"
 housenumber: 263

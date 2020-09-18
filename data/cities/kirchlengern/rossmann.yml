@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1977205
 longitude: 8.6401941
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Im Obrock"
 housenumber: 15a

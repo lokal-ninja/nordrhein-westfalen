@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8195769
 longitude: 6.4454871
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Bocholter Straße"
 housenumber: 6

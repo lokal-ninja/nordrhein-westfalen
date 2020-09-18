@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9435117
 longitude: 6.9585398000000005
-postcode: 
+postcode: ""
 city: Köln
 street: ""
 housenumber: 

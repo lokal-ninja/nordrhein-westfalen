@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.9347233
 longitude: 6.9486068
-postcode: 50676
+postcode: "50676"
 city: Köln
 street: "Fleischmengergasse"
 housenumber: 49-51

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8749155
 longitude: 8.0205775
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Sandstraße"
 housenumber: 8

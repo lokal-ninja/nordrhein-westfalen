@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.741263700000005
 longitude: 8.7619323
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Dr.-Rörig-Damm"
 housenumber: 114

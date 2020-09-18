@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1173311
 longitude: 8.653524500000001
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Westring"
 housenumber: 70

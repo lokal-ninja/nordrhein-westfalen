@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5084425
 longitude: 7.188953400000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Dorstener Straße"
 housenumber: 425

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.737106700000005
 longitude: 7.1024859000000005
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wenzelgasse"
 housenumber: 35

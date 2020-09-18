@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.657010500000005
 longitude: 6.6179759
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Windstege"
 housenumber: 7

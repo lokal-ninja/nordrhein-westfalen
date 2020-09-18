@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 50.6204059
 longitude: 7.023110900000001
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Hauptstraße"
 housenumber: 112
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-13:00"
 website: ""

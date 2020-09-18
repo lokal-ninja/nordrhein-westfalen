@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.717720500000006
 longitude: 7.039258500000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Langobardenring"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.281732100000006
 longitude: 7.035828100000001
-postcode: 42489
+postcode: "42489"
 city: Wülfrath
 street: "Wilhelmstraße"
 housenumber: 143

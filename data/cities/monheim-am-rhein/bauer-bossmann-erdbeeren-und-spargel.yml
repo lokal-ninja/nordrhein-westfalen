@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.120766100000004
 longitude: 6.910239000000001
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Neuverser Hof"
 housenumber: 

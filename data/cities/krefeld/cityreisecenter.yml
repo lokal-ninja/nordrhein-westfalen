@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3361436
 longitude: 6.5773428
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Uerdinger Straße"
 housenumber: 99

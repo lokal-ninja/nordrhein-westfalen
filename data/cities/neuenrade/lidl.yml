@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2811443
 longitude: 7.7842080000000005
-postcode: 58809
+postcode: "58809"
 city: Neuenrade
 street: "Mühlendorf"
 housenumber: 12

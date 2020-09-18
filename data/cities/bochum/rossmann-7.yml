@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.491185900000005
 longitude: 7.2430104
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Castroper Straße"
 housenumber: 202-210

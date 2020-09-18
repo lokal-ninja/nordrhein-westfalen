@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.510905300000005
 longitude: 6.9352026
-postcode: 46242
+postcode: "46242"
 city: Bottrop
 street: "Am Südring-Center"
 housenumber: 3

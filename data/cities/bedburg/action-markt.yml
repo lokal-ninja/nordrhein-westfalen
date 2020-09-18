@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.9921857
 longitude: 6.571277200000001
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Neusser Straße"
 housenumber: 1

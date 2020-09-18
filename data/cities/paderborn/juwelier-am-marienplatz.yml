@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.7173834
 longitude: 8.7523935
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienplatz"
 housenumber: 2

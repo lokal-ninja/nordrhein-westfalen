@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7721813
 longitude: 6.0848075
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kapuzinergraben"
 housenumber: 44

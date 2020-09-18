@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.3576101
 longitude: 8.4762929
-postcode: 59939
+postcode: "59939"
 city: Olsberg
 street: "Hauptstraße"
 housenumber: 75

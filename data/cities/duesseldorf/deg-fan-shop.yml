@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.2432607
 longitude: 6.8014378
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Grunerstraße"
 housenumber: 43

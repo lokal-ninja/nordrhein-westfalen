@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.871483000000005
 longitude: 6.8912332
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Bonnstraße"
 housenumber: 258

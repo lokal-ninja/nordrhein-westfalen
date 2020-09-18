@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.954669900000006
 longitude: 6.9247719000000005
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Ottostraße"
 housenumber: 61

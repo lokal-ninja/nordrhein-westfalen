@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0083099
 longitude: 8.5177683
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Artur-Ladebeck-Straße"
 housenumber: 81

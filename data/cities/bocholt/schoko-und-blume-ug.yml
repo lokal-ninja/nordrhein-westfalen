@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.815390400000005
 longitude: 6.6166561
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Willi-Pattberg-Ring"
 housenumber: 10

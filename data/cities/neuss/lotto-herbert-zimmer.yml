@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.151742000000006
 longitude: 6.7347666
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Lessingplatz"
 housenumber: 3

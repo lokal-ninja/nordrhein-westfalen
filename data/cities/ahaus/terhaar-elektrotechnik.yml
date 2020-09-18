@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1221308
 longitude: 6.9874796
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Hauptstraße"
 housenumber: 18

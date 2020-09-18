@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7500196
 longitude: 6.1591923
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Antoniterstraße"
 housenumber: 2

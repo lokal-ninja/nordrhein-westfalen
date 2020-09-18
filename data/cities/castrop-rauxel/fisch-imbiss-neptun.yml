@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.5808533
 longitude: 7.308529900000001
-postcode: 44579
+postcode: "44579"
 city: Castrop-Rauxel
 street: "Siemensstraße"
 housenumber: 10

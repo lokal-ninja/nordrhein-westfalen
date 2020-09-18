@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9640423
 longitude: 7.0112389
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Keupstraße"
 housenumber: 102

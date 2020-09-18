@@ -1,12 +1,12 @@
 id: 5485405565
 type: node
 shop: Schlüsseldienst
-latitude: 51.472629500000004
-longitude: 7.215060500000001
-postcode: 44789
+latitude: 51.472571
+longitude: 7.2149280000000005
+postcode: "44789"
 city: Bochum
 street: "Hattinger Straße"
-housenumber: 10
+housenumber: 12-14
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00,Sa 10:00-12:00"
-website: "http://www.schluessel-mueller.de/"
+website: ""

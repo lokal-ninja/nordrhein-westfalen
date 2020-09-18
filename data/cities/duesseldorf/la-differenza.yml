@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.238633
 longitude: 6.801054000000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 166

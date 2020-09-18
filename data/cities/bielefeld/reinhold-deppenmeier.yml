@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.990235500000004
 longitude: 8.5112378
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 83

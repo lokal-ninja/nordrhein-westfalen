@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.200593500000004
 longitude: 8.569426700000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Wilhelmstraße"
 housenumber: 10-28

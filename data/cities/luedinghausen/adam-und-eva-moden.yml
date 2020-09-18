@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7715844
 longitude: 7.445480300000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Wilhelmstraße"
 housenumber: 3

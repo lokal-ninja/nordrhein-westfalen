@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.020800300000005
 longitude: 8.5316101
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Niedernstraße"
 housenumber: 3

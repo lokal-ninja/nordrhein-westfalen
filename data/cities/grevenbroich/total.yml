@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.121777200000004
 longitude: 6.6661232
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Jägerhof"
 housenumber: 10

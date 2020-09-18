@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2307774
 longitude: 6.8015512000000005
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Grafenberger Allee"
 housenumber: 68

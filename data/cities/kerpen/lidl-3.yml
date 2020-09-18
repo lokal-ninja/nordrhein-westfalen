@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9229439
 longitude: 6.7076943
-postcode: 50169
+postcode: "50169"
 city: Kerpen
 street: "Hauptstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.092463200000005
 longitude: 6.8113899
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Kieler Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.414001000000006
 longitude: 6.5944722
-postcode: 47447
+postcode: "47447"
 city: Moers
 street: "Bahnhofstraße"
 housenumber: 51

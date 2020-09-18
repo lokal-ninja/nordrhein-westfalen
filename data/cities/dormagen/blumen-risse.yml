@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.0927092
 longitude: 6.8144495
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 101

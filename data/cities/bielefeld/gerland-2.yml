@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.0231001
 longitude: 8.5222836
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Kiskerstraße"
 housenumber: 19

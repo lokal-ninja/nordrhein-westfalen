@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.456944400000005
 longitude: 6.9842313
-postcode: 45143
+postcode: "45143"
 city: Essen
 street: "Haedenkampstraße"
 housenumber: 21

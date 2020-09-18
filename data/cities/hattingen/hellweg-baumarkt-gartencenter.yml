@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.4079406
 longitude: 7.1957529000000005
-postcode: 45527
+postcode: "45527"
 city: Hattingen
 street: "Am Büchsenschütz"
 housenumber: 10

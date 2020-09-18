@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.393189500000005
 longitude: 8.134014
-postcode: 59823
+postcode: "59823"
 city: Arnsberg
 street: "Am Bahnhof"
 housenumber: 6

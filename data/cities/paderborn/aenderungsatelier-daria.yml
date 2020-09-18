@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.7156321
 longitude: 8.749176400000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Franziskanermauer"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.371057400000005
 longitude: 6.5114945
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Krefelder Straße"
 housenumber: 47

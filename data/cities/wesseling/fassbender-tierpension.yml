@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.833925
 longitude: 6.945146
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Langenackerstraße"
 housenumber: 14

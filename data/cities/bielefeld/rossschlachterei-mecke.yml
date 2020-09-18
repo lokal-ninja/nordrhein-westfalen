@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.029284700000005
 longitude: 8.528436300000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Friedrichstraße"
 housenumber: 63

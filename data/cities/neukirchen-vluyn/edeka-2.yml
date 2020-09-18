@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4499122
 longitude: 6.577975400000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Mozartstraße"
 housenumber: 9

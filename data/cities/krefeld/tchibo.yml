@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.331390400000004
 longitude: 6.5631962
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Hochstraße"
 housenumber: 83

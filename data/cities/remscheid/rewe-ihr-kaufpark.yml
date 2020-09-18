@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1761952
 longitude: 7.2067065
-postcode: 42859
+postcode: "42859"
 city: Remscheid
 street: "Bismarckstraße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.907422200000006
 longitude: 8.6077773
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Schlossstraße"
 housenumber: 18

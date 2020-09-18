@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.5009365
 longitude: 6.5497674
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Moerser Straße"
 housenumber: 277

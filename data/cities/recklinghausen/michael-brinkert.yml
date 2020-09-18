@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6007289
 longitude: 7.180578100000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Holthoffstraße"
 housenumber: 128

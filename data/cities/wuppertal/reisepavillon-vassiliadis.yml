@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.275663400000006
 longitude: 7.218040800000001
-postcode: 42277
+postcode: "42277"
 city: Wuppertal
 street: "Wichlinghauser Straße"
 housenumber: 4

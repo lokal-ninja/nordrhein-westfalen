@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0162853
 longitude: 8.5236012
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Gadderbaumer Straße"
 housenumber: 14

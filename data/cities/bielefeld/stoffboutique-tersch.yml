@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.034219300000004
 longitude: 8.572314
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Ziegelstraße"
 housenumber: 41a

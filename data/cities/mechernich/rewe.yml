@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.590186700000004
 longitude: 6.6542102000000005
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "St. Florian Straße"
 housenumber: 1

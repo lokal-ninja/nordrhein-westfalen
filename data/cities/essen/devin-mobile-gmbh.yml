@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.449606800000005
 longitude: 6.9738245
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Frohnhauser Straße"
 housenumber: 257

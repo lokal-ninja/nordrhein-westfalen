@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.638657900000005
 longitude: 6.5857457
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Weseler Straße"
 housenumber: 99

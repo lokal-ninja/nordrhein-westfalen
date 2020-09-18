@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.33368230000001
 longitude: 6.560662600000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Sankt-Anton-Straße"
 housenumber: 63

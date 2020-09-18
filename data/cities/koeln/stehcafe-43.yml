@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.946378800000005
 longitude: 6.958806900000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Domstraße"
 housenumber: 43-45

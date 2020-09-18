@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.191770000000005
 longitude: 7.258080400000001
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Kölner Straße"
 housenumber: 11

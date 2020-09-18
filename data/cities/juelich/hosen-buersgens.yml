@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9211662
 longitude: 6.3582432
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Marktstraße"
 housenumber: 7

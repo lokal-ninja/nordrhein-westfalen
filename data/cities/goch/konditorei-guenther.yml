@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6801813
 longitude: 6.1602857
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Bahnhofstraße"
 housenumber: 77

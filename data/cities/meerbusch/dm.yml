@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2448564
 longitude: 6.6966973
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Düsseldorfer Straße"
 housenumber: 77

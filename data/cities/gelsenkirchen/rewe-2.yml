@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.512687500000006
 longitude: 7.0961178
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Margarethe-Zingler-Platz"
 housenumber: 1

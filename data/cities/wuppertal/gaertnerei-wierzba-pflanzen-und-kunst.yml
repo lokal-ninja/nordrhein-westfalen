@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.2570629
 longitude: 7.1752915
-postcode: 42285
+postcode: "42285"
 city: Wuppertal
 street: "Oberbergische Straße"
 housenumber: 44

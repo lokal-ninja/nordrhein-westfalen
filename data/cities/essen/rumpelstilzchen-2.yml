@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.441507300000005
 longitude: 6.9981093
-postcode: 45128
+postcode: "45128"
 city: Essen
 street: "Kahrstraße"
 housenumber: 87

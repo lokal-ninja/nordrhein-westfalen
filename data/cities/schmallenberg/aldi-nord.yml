@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.158015400000004
 longitude: 8.2917585
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Bahnhofstraße"
 housenumber: 42a

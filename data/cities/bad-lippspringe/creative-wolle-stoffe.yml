@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.7837204
 longitude: 8.8186186
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Arminiusstraße"
 housenumber: 10

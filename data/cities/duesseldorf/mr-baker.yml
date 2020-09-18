@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1618998
 longitude: 6.8747331
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Heubesstraße"
 housenumber: 3

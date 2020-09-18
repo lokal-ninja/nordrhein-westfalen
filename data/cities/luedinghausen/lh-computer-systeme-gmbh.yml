@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.7659674
 longitude: 7.4415842
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Tüllinghofer Straße"
 housenumber: 32

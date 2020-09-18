@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9112413
 longitude: 8.1039384
-postcode: 57250
+postcode: "57250"
 city: Netphen
 street: "Neumarkt"
 housenumber: 26

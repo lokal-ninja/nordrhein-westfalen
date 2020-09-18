@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 51.978173500000004
 longitude: 7.6057408
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Gasselstiege"
 housenumber: 115
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
+opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00"
 website: ""

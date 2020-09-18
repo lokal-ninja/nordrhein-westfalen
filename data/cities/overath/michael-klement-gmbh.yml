@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.933559200000005
 longitude: 7.2880596
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Hauptstraße"
 housenumber: 77

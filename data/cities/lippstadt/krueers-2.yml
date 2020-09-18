@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.65580670000001
 longitude: 8.3574991
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Windmüllerstraße"
 housenumber: 32

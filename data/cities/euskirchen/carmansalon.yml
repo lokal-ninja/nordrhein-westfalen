@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6476313
 longitude: 6.7880329
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Boenerstraße"
 housenumber: 17

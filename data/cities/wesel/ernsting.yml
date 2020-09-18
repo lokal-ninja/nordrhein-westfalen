@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.680939
 longitude: 6.5726003
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Am Markt"
 housenumber: 1

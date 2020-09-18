@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3365911
 longitude: 7.868039700000001
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Hönnetalstraße"
 housenumber: 31a

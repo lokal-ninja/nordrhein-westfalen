@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.68766900000001
 longitude: 7.8857907
-postcode: 59071
+postcode: "59071"
 city: Hamm
 street: "Ostwennemarstraße"
 housenumber: 100

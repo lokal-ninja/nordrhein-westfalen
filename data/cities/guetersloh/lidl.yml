@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9052415
 longitude: 8.3460561
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Auf dem Stempel"
 housenumber: 10

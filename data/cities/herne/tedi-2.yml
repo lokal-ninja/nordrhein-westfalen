@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.543234000000005
 longitude: 7.2202975
-postcode: 44629
+postcode: "44629"
 city: Herne
 street: "Bahnhofstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4529384
 longitude: 8.359811500000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Alte Kreisstraße"
 housenumber: 11

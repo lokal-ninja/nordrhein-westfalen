@@ -1,12 +1,12 @@
-id: 108430019
+id: 119019605
 type: way
 shop: Supermarkt
-latitude: 51.227862300000005
-longitude: 7.2017604
-postcode: 42369
+latitude: 51.249990600000004
+longitude: 7.1506924000000005
+postcode: "42119"
 city: Wuppertal
-street: "Ascheweg"
-housenumber: 19
-phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00"
-website: ""
+street: "Blankstraße"
+housenumber: 40
+phone: "+49 202 2422022"
+opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-22:00"
+website: "http://www.ihr-kaufpark.de/"

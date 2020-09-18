@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7376214
 longitude: 9.0059106
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 2

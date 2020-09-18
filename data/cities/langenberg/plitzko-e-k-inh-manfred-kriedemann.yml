@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.7720634
 longitude: 8.3153748
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Klutenbrinkstraße"
 housenumber: 8

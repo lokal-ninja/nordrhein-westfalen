@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.4455709
 longitude: 7.3703491
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Annenstraße"
 housenumber: 130

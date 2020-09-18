@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.434938200000005
 longitude: 6.9172772
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Wiescher Weg"
 housenumber: 78

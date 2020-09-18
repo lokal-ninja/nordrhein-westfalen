@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.498616600000005
 longitude: 7.5879422000000005
-postcode: 44289
+postcode: "44289"
 city: Dortmund
 street: "Sölder Straße"
 housenumber: 74

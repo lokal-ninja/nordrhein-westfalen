@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.086035900000006
 longitude: 8.745776300000001
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Lange Straße"
 housenumber: 32

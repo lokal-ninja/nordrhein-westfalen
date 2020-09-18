@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9547874
 longitude: 6.9094011
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Venloer Straße"
 housenumber: 474

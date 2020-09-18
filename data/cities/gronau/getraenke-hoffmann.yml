@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.218800400000006
 longitude: 7.009433700000001
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Königstraße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.363570900000006
 longitude: 6.937272500000001
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Hauptstraße"
 housenumber: 108

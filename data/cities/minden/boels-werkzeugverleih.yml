@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.282171600000005
 longitude: 8.8994573
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Kuckuckstraße"
 housenumber: 17 d

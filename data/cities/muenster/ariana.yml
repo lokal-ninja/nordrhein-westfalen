@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.965421500000005
 longitude: 7.627134600000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Tibusplatz"
 housenumber: 6

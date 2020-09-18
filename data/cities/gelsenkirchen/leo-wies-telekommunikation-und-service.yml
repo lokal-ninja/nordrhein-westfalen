@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.5577983
 longitude: 7.094043200000001
-postcode: 45891
+postcode: "45891"
 city: Gelsenkirchen
 street: "Cranger Straße"
 housenumber: 321

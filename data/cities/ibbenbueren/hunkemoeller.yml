@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2766755
 longitude: 7.715508000000001
-postcode: 49477
+postcode: "49477"
 city: Ibbenbüren
 street: "Große Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8952565
 longitude: 6.2841024
-postcode: 52457
+postcode: "52457"
 city: Aldenhoven
 street: "Alte Turmstraße"
 housenumber: 12

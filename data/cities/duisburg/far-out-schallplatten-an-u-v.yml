@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.434761
 longitude: 6.764835000000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Obermauerstraße"
 housenumber: 39

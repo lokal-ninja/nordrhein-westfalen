@@ -1,4 +1,4 @@
 ---
-title: "Real"
+title: "real"
 url: /lippstadt/real/
 ---

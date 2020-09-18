@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7786297
 longitude: 6.0953113000000005
-postcode: 
+postcode: ""
 city: Aachen
 street: "Jülicher Straße"
 housenumber: 1

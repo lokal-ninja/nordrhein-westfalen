@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.4952692
 longitude: 6.5567954
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Kattenstraße"
 housenumber: 120

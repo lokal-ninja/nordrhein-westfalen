@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.2021871
 longitude: 7.027896
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Eper Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.123848
 longitude: 7.605462800000001
-postcode: 58566
+postcode: "58566"
 city: Kierspe
 street: "Dr. Hans Wernscheid Straße"
 housenumber: 11

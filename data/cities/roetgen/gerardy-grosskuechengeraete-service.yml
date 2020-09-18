@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.6522744
 longitude: 6.1853366
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Vennstraße"
 housenumber: 1

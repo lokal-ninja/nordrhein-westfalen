@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.3459579
 longitude: 8.2847607
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Zeughausstraße"
 housenumber: 6

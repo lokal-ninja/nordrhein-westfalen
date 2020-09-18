@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.891538100000005
 longitude: 6.992825600000001
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Schillingsrotter Straße"
 housenumber: 6

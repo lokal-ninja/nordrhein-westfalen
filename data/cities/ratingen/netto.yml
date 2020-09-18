@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.293922300000006
 longitude: 6.823942300000001
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Berliner Straße"
 housenumber: 31

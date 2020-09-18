@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.680701600000006
 longitude: 7.814288400000001
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Weststraße"
 housenumber: 50

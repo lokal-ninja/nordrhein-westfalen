@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.085717
 longitude: 6.9699055
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Opladener Straße"
 housenumber: 112 - 120

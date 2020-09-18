@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.64943
 longitude: 6.1971349
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Hauptstraße"
 housenumber: 75

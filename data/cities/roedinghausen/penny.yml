@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.2461915
 longitude: 8.5012988
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
-street: ""
-housenumber: 
+street: "Bünder Straße"
+housenumber: 83
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.0889333
 longitude: 6.5891487
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Breite Straße"
 housenumber: 29

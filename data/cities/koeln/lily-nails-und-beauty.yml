@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9478379
 longitude: 6.9568162000000004
-postcode: 
+postcode: ""
 city: Köln
 street: "Eigelstein"
 housenumber: 68

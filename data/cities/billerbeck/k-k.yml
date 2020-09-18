@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9806826
 longitude: 7.2917852000000005
-postcode: 48727
+postcode: "48727"
 city: Billerbeck
 street: "Industriestraße"
 housenumber: 2

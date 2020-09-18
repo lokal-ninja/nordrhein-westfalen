@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.461980700000005
 longitude: 7.3237031
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Langendreerstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0310162
 longitude: 6.695914200000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.6848862
 longitude: 6.5753067000000005
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Reeser Landstraße"
 housenumber: 211

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.384142100000005
 longitude: 6.7648894
-postcode: 47249
+postcode: "47249"
 city: Duisburg
 street: "Münchener Straße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.202738000000004
 longitude: 6.773577
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Suitbertusstraße"
 housenumber: 127

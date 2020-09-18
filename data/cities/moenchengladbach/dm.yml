@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1966988
 longitude: 6.4433534
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Hindenburgstraße"
 housenumber: 171

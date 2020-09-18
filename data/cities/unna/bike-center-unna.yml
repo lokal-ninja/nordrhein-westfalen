@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.538423
 longitude: 7.669785300000001
-postcode: 59425
+postcode: "59425"
 city: Unna
 street: "Oberer Kohlenweg"
 housenumber: 8

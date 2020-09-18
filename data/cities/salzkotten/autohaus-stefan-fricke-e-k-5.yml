@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.676228800000004
 longitude: 8.6181031
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Paderborner Straße"
 housenumber: 49

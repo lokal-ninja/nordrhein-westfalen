@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.610625500000005
 longitude: 7.178124100000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Westring"
 housenumber: 55

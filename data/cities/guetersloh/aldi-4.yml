@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9165787
 longitude: 8.372375
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Brockhäger Straße"
 housenumber: 24

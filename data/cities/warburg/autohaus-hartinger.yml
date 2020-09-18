@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.522315400000004
 longitude: 9.0582954
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Ossendorfer Straße"
 housenumber: 20

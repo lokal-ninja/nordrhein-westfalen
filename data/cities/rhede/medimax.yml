@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.851266700000004
 longitude: 6.6977067
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Gronauer Straße"
 housenumber: 23

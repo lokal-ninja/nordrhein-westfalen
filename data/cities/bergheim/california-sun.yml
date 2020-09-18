@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9433456
 longitude: 6.628562100000001
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Sportparkstraße"
 housenumber: 6

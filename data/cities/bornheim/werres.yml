@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.79187760000001
 longitude: 7.027858200000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Römerstraße"
 housenumber: 85

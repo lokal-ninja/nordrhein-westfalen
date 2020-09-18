@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.948725
 longitude: 6.619543
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Heisenbergstraße"
 housenumber: 1

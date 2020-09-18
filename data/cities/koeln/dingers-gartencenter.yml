@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.965274900000004
 longitude: 6.8685258000000005
-postcode: 50829
+postcode: "50829"
 city: Köln
 street: "Goldammerweg"
 housenumber: 361

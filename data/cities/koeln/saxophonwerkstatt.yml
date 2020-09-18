@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.9608063
 longitude: 6.9508711000000005
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Cranachstraße"
 housenumber: 27

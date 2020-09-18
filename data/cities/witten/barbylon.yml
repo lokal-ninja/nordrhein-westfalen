@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.437863300000004
 longitude: 7.3324213
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Berliner Straße"
 housenumber: 4

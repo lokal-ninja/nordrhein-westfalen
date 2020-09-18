@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.0521356
 longitude: 7.002623300000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Julius-Doms-Straße"
 housenumber: 12

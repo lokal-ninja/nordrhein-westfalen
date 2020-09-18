@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 51.236583
 longitude: 6.800324000000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Achenbachstraße"
 housenumber: 136

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0364816
 longitude: 6.8214714
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Freiheit"
 housenumber: 5

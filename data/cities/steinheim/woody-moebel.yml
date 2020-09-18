@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.873718100000005
 longitude: 9.0866053
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Beller Straße"
 housenumber: 7

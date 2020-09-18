@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2550079
 longitude: 6.9839507
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Johannes-Flintrop-Straße"
 housenumber: 103

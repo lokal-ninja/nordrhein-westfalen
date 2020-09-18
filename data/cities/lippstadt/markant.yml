@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.677374500000006
 longitude: 8.3251763
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Am Weinberg"
 housenumber: 15

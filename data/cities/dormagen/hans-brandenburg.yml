@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.090836100000004
 longitude: 6.8125998
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 16

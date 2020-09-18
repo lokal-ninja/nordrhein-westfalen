@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.786082500000006
 longitude: 8.824277200000001
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Detmolder Straße"
 housenumber: 196

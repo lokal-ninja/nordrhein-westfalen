@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9195885
 longitude: 6.923032
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Marsiliusstraße"
 housenumber: 34

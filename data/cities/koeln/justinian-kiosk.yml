@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9382
 longitude: 6.977814800000001
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Justinianstraße"
 housenumber: 11

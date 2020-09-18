@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3378724
 longitude: 6.8280354
-postcode: 40885
+postcode: "40885"
 city: Ratingen
 street: "Duisburger Straße"
 housenumber: 44

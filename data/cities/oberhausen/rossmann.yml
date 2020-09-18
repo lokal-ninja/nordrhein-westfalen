@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4680443
 longitude: 6.8644591
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Rolandstraße"
 housenumber: 25

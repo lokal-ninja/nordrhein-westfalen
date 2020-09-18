@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.654867200000005
 longitude: 6.625353100000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Dinslakener Landstraße"
 housenumber: 5

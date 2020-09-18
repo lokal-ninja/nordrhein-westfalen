@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2159003
 longitude: 7.6356488
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Loher Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.023100500000005
 longitude: 8.5398444
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 97b

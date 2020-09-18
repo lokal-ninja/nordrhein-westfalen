@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.1665098
 longitude: 6.926981400000001
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Wehrstraße"
 housenumber: 3-5

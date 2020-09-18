@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.133436800000005
 longitude: 6.6406292
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Neubrück"
 housenumber: 25

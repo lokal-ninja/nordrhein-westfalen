@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 51.5183855
 longitude: 7.0079506
-postcode: 45329
+postcode: "45329"
 city: Essen
 street: "Lohwiese"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.422783300000006
 longitude: 7.281537
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Meesmannstraße"
 housenumber: 43

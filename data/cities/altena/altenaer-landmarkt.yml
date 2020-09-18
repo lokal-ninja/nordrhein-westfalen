@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2981198
 longitude: 7.6735699
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Lennestraße"
 housenumber: 64

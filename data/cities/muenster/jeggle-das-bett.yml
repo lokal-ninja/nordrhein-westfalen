@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.933124600000006
 longitude: 7.6313462
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Robert-Bosch-Straße"
 housenumber: 2

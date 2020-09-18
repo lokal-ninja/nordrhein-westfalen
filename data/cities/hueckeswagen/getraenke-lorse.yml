@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.1484036
 longitude: 7.3050984
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Industriestraße"
 housenumber: 2

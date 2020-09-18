@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3975948
 longitude: 7.170083600000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Hufeisenstraße"
 housenumber: 2

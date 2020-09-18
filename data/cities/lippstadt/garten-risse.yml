@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.654364900000004
 longitude: 8.3446532
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Planckstraße"
 housenumber: 4

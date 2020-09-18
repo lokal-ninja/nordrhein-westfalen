@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1685791
 longitude: 6.9337384
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Mittelstraße"
 housenumber: 75

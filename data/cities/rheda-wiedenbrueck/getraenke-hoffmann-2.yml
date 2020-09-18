@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.8564361
 longitude: 8.306185000000001
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Gütersloher Straße"
 housenumber: 75

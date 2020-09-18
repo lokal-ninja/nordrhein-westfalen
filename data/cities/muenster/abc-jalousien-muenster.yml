@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.9960825
 longitude: 7.612015700000001
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Janningsweg"
 housenumber: 8

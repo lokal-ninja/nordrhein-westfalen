@@ -1,12 +1,12 @@
-id: 2561592794
+id: 4166369292
 type: node
 shop: Supermarkt
-latitude: 51.199952
-longitude: 6.782013
-postcode: 40225
+latitude: 51.2392096
+longitude: 6.847938900000001
+postcode: "40625"
 city: Düsseldorf
-street: "Himmelgeister Straße"
-housenumber: 86
-phone: ""
+street: "Benderstraße"
+housenumber: 123
+phone: "+49 211 2804565"
 opening_hours: ""
-website: ""
+website: "http://www.netto-online.de"

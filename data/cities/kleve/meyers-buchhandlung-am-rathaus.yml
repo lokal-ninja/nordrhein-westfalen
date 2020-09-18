@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.785777200000005
 longitude: 6.136261
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.6590867
 longitude: 6.791169300000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Bahnhofstraße"
 housenumber: 16-18

@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.1723986
 longitude: 6.687453100000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Lupinenstraße"
 housenumber: 7a

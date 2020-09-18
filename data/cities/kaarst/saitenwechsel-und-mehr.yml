@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.2312944
 longitude: 6.5971348
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Broicherdorfstraße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2407255
 longitude: 7.6217661
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Brockhauser Weg"
 housenumber: 39

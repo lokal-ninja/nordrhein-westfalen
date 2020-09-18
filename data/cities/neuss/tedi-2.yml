@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.2005716
 longitude: 6.688396
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Niederstraße"
 housenumber: 28b

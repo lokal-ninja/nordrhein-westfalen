@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.542195400000004
 longitude: 6.8195614
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Hiesfelder Straße"
 housenumber: 208

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.606360800000004
 longitude: 7.2068887
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Hubertusstraße"
 housenumber: 61

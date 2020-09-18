@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.38617240000001
 longitude: 8.5089441
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Briloner Tor"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9100076
 longitude: 6.8131392
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 31

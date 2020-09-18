@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.699854
 longitude: 8.730518100000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Stettiner Straße"
 housenumber: 4-6

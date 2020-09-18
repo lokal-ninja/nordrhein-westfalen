@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4473974
 longitude: 6.2689101
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Von-Galen-Straße"
 housenumber: 1

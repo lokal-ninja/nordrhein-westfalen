@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.914596700000004
 longitude: 8.3908906
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Pfälzer Straße"
 housenumber: 2

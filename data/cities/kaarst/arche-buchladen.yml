@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.196606700000004
 longitude: 6.606554
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Robert-Grootens-Platz"
 housenumber: 3

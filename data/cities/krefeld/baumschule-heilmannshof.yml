@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.377879
 longitude: 6.5698556
-postcode: 47802
+postcode: "47802"
 city: Krefeld
 street: "Maria-Sohmann-Straße"
 housenumber: 93

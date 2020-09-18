@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.495344900000006
 longitude: 7.147395
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Günnigfelder Straße"
 housenumber: 81

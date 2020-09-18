@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0078669
 longitude: 8.5629948
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Schweriner Straße"
 housenumber: 4

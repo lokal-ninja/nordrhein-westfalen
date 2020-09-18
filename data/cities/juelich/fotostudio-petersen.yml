@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.9228789
 longitude: 6.3572217
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Raderstraße"
 housenumber: 2

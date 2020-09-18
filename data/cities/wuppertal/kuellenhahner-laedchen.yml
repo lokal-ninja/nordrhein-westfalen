@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.2289271
 longitude: 7.1351876
-postcode: 42349
+postcode: "42349"
 city: Wuppertal
 street: "Küllenhahner Straße"
 housenumber: 214

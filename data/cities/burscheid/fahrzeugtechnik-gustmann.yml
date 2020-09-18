@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0875301
 longitude: 7.0832307000000005
-postcode: 51399
+postcode: "51399"
 city: Burscheid
 street: "Industriestraße"
 housenumber: 105

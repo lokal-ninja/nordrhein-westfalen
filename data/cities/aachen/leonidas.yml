@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 50.777005700000004
 longitude: 6.0843059
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Markt"
 housenumber: 45-47

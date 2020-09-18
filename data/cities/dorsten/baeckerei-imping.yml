@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6514296
 longitude: 6.955380000000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "An der Seikenkapelle"
 housenumber: 23

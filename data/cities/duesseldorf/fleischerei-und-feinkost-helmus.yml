@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2312543
 longitude: 6.748608000000001
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Cheruskerstraße"
 housenumber: 107

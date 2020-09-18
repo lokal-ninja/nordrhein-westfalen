@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.480418300000004
 longitude: 7.2206444
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Hellweg"
 housenumber: 1

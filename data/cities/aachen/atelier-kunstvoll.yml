@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.7702711
 longitude: 6.0921913000000005
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Horngasse"
 housenumber: 1

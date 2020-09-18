@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.625150000000005
 longitude: 6.846618800000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Geierstraße"
 housenumber: 7

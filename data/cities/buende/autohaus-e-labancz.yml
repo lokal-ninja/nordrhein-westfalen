@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.186081800000004
 longitude: 8.5939084
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Weseler Straße"
 housenumber: 46

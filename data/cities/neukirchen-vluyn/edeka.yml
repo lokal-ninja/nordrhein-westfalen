@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.438012300000004
 longitude: 6.5275737000000005
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Niederrheinallee"
 housenumber: 347

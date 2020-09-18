@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0582318
 longitude: 8.5437218
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Westerfeldstraße"
 housenumber: 48

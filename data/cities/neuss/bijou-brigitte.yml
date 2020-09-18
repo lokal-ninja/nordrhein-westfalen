@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2011654
 longitude: 6.7188039
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2-4

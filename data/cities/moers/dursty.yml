@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.456167400000005
 longitude: 6.6180862000000005
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Am Schürmannshütt"
 housenumber: 30z

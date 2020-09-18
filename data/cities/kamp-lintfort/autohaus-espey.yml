@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.506908800000005
 longitude: 6.545364200000001
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Prinzenstraße"
 housenumber: 101

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.019995300000005
 longitude: 8.531394500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 1a

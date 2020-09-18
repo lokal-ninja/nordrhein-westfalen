@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 50.9370242
 longitude: 6.8985517000000005
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Aachener Straße"
 housenumber: 525

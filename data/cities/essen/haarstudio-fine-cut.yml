@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4591198
 longitude: 7.0104626
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kreuzeskirchstraße"
 housenumber: 21

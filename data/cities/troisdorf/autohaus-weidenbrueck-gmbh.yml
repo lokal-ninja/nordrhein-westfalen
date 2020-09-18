@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.822838000000004
 longitude: 7.1096212
-postcode: 53842
+postcode: "53842"
 city: Troisdorf
 street: "Langbaurghstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.7782015
 longitude: 6.0928541
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Hansemannplatz"
 housenumber: 1

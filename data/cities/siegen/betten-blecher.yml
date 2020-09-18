@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.8951915
 longitude: 8.026545500000001
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Poststraße"
 housenumber: 7-9

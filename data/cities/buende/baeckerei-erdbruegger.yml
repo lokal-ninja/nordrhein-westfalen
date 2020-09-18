@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.200656200000005
 longitude: 8.5891889
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Goetheplatz"
 housenumber: 3

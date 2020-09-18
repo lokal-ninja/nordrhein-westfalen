@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.628048500000006
 longitude: 9.0269327
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Gänsebruch"
 housenumber: 

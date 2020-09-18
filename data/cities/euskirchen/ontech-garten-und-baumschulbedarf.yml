@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.68989800000001
 longitude: 6.821605300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Schneppenheimer Weg"
 housenumber: 8

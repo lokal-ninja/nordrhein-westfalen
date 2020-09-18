@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.036926
 longitude: 6.6776647
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 143

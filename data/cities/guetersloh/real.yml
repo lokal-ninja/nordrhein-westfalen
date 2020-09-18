@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.899743300000004
 longitude: 8.4014497
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Am Anger"
 housenumber: 22

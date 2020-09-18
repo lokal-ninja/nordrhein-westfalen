@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1692577
 longitude: 6.8727855
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Hasselsstraße"
 housenumber: 1

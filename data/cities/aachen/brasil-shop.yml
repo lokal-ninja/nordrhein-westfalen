@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.779445800000005
 longitude: 6.088228300000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Sandkaulstraße"
 housenumber: 29/33

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.238034400000004
 longitude: 6.7991348
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 134

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.028339300000006
 longitude: 7.0140402
-postcode: 51377
+postcode: "51377"
 city: Leverkusen
 street: "Stixchesstraße"
 housenumber: 123

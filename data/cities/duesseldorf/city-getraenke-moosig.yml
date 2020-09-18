@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.203596700000006
 longitude: 6.9000798
-postcode: 40627
+postcode: "40627"
 city: Düsseldorf
 street: "Gerresheimer Landstraße"
 housenumber: 99

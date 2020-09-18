@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.153126500000006
 longitude: 6.280991
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "In Berg"
 housenumber: 8

@@ -1,12 +1,12 @@
-id: 32343354
+id: 30426270
 type: way
 shop: Supermarkt
-latitude: 51.001571500000004
-longitude: 6.9873984
-postcode: 51061
+latitude: 50.8624548
+longitude: 6.928521900000001
+postcode: "50997"
 city: Köln
-street: "Roggendorfstraße"
-housenumber: 76
+street: "Brühler Landstraße"
+housenumber: 401
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: ""
+website: ""

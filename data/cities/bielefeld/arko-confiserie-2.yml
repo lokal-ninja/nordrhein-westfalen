@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.0203554
 longitude: 8.5305695
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 12

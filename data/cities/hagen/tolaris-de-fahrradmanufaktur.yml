@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3614492
 longitude: 7.499829500000001
-postcode: 58093
+postcode: "58093"
 city: Hagen
 street: "Eppenhauser Straße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.0291671
 longitude: 8.8989893
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Echternstraße"
 housenumber: 93

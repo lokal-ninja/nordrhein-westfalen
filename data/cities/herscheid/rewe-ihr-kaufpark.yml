@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1779911
 longitude: 7.7458904
-postcode: 58849
+postcode: "58849"
 city: Herscheid
 street: "Neuer Weg"
 housenumber: 11

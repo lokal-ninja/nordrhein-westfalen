@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.937781300000005
 longitude: 6.954019300000001
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Herzogstraße"
 housenumber: 34

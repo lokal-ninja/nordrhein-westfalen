@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9519255
 longitude: 6.915326
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Schönsteinstraße"
 housenumber: 5

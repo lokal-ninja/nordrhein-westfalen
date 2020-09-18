@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.37210940000001
 longitude: 7.463988700000001
-postcode: 58097
+postcode: "58097"
 city: Hagen
 street: "Boeler Straße"
 housenumber: 14

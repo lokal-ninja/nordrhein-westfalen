@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.197051800000004
 longitude: 6.6943837
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Oberstraße"
 housenumber: 103

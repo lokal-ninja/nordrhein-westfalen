@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.9211675
 longitude: 6.1733094
-postcode: 52499
+postcode: "52499"
 city: Baesweiler
 street: "Am Beeckfließ"
 housenumber: 2

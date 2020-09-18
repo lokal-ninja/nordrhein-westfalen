@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.946715000000005
 longitude: 7.6267398
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Olfersstraße"
 housenumber: 3-7

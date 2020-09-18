@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.713517
 longitude: 8.741513300000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Bahnhofstraße"
 housenumber: 27

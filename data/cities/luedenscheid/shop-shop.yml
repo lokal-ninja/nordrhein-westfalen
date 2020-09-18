@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2152073
 longitude: 7.632804200000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Freiherr-vom-Stein-Straße"
 housenumber: 10

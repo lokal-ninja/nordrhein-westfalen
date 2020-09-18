@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.937723600000005
 longitude: 8.8837686
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Hasselter Platz"
 housenumber: 1

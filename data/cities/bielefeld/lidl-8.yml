@@ -1,12 +1,12 @@
-id: 2692319749
+id: 2692319750
 type: node
 shop: Supermarkt
-latitude: 51.953262200000005
-longitude: 8.5756335
-postcode: 33689
+latitude: 51.97113
+longitude: 8.465902400000001
+postcode: "33649"
 city: Bielefeld
-street: "Industriestraße"
-housenumber: 8
+street: "Kasseler Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00"
+opening_hours: ""
 website: ""

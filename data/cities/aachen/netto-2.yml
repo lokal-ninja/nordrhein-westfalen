@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7678754
 longitude: 6.072909500000001
-postcode: 
+postcode: ""
 city: Aachen
 street: "Lütticher Straße"
 housenumber: 36

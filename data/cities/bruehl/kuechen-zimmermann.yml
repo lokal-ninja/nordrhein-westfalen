@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.8168998
 longitude: 6.891235200000001
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Euskirchener Straße"
 housenumber: 39

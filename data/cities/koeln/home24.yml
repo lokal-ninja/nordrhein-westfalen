@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.92203790000001
 longitude: 6.854924100000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Max-Planck-Straße"
 housenumber: 7

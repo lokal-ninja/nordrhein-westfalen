@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.6520677
 longitude: 6.8245592
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Im Höstert"
 housenumber: 2

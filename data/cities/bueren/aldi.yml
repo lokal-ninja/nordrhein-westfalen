@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5459747
 longitude: 8.564338300000001
-postcode: 33142
+postcode: "33142"
 city: Büren
 street: "Fürstenberger Straße"
 housenumber: 24

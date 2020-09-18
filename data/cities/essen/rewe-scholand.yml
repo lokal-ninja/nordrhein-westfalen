@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4591148
 longitude: 7.006495500000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Limbecker Platz"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.764918300000005
 longitude: 8.784139
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Im Vogtland"
 housenumber: 10

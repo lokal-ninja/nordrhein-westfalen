@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7586968
 longitude: 8.664064900000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Sennelagerstraße"
 housenumber: 16

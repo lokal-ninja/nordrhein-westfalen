@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 51.6095729
 longitude: 7.054467600000001
-postcode: 45896
+postcode: "45896"
 city: Gelsenkirchen
 street: "Eppmannsweg"
 housenumber: 32
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 209 377 80319"
+opening_hours: "Tu,Th,Fr 15:30-18:00; Sa 09:00-12:00"
+website: "https://www.2-rad-werkstatt.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.270121
 longitude: 6.7738879
-postcode: 40468
+postcode: "40468"
 city: Düsseldorf
 street: "Kalkumer Straße"
 housenumber: 127

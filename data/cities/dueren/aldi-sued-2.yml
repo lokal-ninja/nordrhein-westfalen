@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.808233400000006
 longitude: 6.477631000000001
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Fritz-Erler-Straße"
 housenumber: 11

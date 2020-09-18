@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8804408
 longitude: 7.0697625
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Kaiserstraße"
 housenumber: 103

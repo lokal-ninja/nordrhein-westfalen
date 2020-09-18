@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.369243600000004
 longitude: 6.7776202
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Großenbaumer Allee"
 housenumber: 61

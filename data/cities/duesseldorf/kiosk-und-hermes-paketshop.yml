@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1737552
 longitude: 6.8303362000000005
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Itterstraße"
 housenumber: 27

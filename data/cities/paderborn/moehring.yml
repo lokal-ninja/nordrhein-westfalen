@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.7429611
 longitude: 8.711476600000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Residenzstraße"
 housenumber: 35

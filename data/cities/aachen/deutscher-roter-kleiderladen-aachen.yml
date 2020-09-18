@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7775559
 longitude: 6.0982579
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Rudolfstraße"
 housenumber: 29

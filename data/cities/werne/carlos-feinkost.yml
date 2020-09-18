@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.6633623
 longitude: 7.6351713000000005
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Kirchhof"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6541234
 longitude: 6.796407100000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "An der Vogelrute"
 housenumber: 28

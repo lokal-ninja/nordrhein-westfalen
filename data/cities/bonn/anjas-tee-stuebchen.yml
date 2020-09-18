@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.7148863
 longitude: 7.0482281
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 216

@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 51.7170885
 longitude: 8.7504947
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königsplatz"
 housenumber: 18

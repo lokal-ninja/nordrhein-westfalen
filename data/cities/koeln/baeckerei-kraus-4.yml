@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9335643
 longitude: 6.8595582
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Kirchweg"
 housenumber: 100

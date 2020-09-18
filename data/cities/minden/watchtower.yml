@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.2875919
 longitude: 8.9161829
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Obermarktstraße"
 housenumber: 2

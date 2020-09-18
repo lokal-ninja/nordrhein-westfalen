@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.7057565
 longitude: 6.1809650000000005
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Prämienstraße"
 housenumber: 7

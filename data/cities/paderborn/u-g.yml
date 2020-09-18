@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7162044
 longitude: 8.748316200000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Westernstraße"
 housenumber: 34

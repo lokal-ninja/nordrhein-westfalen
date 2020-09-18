@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.087760900000006
 longitude: 6.592482
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 58

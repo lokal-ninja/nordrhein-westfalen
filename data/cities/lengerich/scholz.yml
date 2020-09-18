@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.180820600000004
 longitude: 7.8723191
-postcode: 49525
+postcode: "49525"
 city: Lengerich
 street: "Lienener Straße"
 housenumber: 3

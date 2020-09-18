@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.8185165
 longitude: 6.3574961000000005
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Hauptstraße"
 housenumber: 33

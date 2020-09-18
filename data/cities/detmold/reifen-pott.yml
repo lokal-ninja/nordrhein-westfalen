@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.961669900000004
 longitude: 8.8385873
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Westerfeldstraße"
 housenumber: 21

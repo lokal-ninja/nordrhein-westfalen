@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 51.7159769
 longitude: 8.7517645
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rosenstraße"
 housenumber: 12

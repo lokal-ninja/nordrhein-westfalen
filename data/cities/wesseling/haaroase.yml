@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.825289500000004
 longitude: 6.9832212
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "An St. Germanus"
 housenumber: 2

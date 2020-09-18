@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.467700400000005
 longitude: 6.778666200000001
-postcode: 47137
+postcode: "47137"
 city: Duisburg
 street: "Von-der-Mark-Straße"
 housenumber: 34

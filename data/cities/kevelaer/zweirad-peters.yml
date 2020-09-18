@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5827554
 longitude: 6.245924700000001
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Annastraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.8744755
 longitude: 8.0208496
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Kölner Straße"
 housenumber: 62

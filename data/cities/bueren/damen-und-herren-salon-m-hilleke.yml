@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.60598
 longitude: 8.655196
-postcode: 33142
+postcode: "33142"
 city: Büren
 street: "Lange Straße"
 housenumber: 2

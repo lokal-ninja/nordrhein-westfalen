@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4541502
 longitude: 7.0120426
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Rathenaustraße"
 housenumber: 2

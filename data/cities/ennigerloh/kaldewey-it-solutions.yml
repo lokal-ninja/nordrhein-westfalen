@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.84476900000001
 longitude: 8.0220702
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Kastanienallee"
 housenumber: 48A

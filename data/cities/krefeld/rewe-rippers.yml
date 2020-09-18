@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3294487
 longitude: 6.669739000000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Düsseldorfer Straße"
 housenumber: 304

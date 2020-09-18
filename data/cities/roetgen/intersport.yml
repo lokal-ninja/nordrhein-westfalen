@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.6360429
 longitude: 6.2079200000000005
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Grünepleistraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4459347
 longitude: 7.964041000000001
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Tappeweg"
 housenumber: 3

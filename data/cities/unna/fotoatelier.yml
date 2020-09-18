@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.5385622
 longitude: 7.691064300000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Bahnhofstraße"
 housenumber: 45g

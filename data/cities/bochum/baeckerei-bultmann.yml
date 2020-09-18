@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.483141200000006
 longitude: 7.149257
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Bismarckstraße"
 housenumber: 1

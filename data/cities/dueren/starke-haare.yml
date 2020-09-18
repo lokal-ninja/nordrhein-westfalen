@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.801335200000004
 longitude: 6.481496900000001
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Weierstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6613133
 longitude: 6.791111000000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Am Bollwerk"
 housenumber: 8

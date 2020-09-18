@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.405474500000004
 longitude: 6.705329300000001
-postcode: 47226
+postcode: "47226"
 city: Duisburg
 street: "Krefelder Straße"
 housenumber: 136

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.025274700000004
 longitude: 8.5573727
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Bleichstraße"
 housenumber: 113

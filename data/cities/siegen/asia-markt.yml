@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.875356800000006
 longitude: 8.0195865
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Herrengarten"
 housenumber: 2

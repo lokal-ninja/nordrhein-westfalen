@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7878945
 longitude: 7.182551800000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Einsteinstraße"
 housenumber: 1

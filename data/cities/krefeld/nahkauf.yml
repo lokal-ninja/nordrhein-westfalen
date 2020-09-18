@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3203868
 longitude: 6.5264712000000005
-postcode: 47804
+postcode: "47804"
 city: Krefeld
 street: "Dülkener Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.917905000000005
 longitude: 6.9248811
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 217

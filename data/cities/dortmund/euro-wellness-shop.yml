@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 51.5195644
 longitude: 7.4995162
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Hannöversche Straße"
 housenumber: 13

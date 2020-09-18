@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.219579100000004
 longitude: 7.623914
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.571949100000005
 longitude: 6.9922871
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Goethestraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.6199675
 longitude: 7.1400709
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Richterstraße"
 housenumber: 16

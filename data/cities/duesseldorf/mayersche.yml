@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.2253947
 longitude: 6.7798832
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 18

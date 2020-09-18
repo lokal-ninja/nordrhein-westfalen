@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.6170558
 longitude: 8.8953833
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Lange Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.289616200000005
 longitude: 8.9162728
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Scharn"
 housenumber: 9-17

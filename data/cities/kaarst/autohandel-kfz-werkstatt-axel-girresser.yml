@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.197205800000006
 longitude: 6.615195000000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Gutenbergstraße"
 housenumber: 12

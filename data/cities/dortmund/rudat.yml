@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.487213100000005
 longitude: 7.3799348
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Borussiastraße"
 housenumber: 26

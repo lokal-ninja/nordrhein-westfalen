@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.646065400000005
 longitude: 6.8026574
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Narzissenweg"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3412736
 longitude: 6.584067
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Grenzstraße"
 housenumber: 155

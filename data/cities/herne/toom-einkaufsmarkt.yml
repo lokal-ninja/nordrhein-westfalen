@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.549174400000005
 longitude: 7.2188413
-postcode: 44629
+postcode: "44629"
 city: Herne
 street: "Bahnhofstraße"
 housenumber: 152

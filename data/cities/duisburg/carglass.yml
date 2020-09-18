@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4177892
 longitude: 6.7097604
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Asterlager Straße"
 housenumber: 37

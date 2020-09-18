@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9972232
 longitude: 8.486074700000001
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Carl-Severing-Straße"
 housenumber: 91

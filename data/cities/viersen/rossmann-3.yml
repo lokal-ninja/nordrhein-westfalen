@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.257719300000005
 longitude: 6.3880262000000005
-postcode: 41747
+postcode: "41747"
 city: Viersen
 street: "Hauptstraße"
 housenumber: 23-27

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.954922100000005
 longitude: 7.0078079
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Hofstraße"
 housenumber: 15

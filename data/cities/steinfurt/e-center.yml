@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.1204637
 longitude: 7.392533800000001
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Gantenstraße"
 housenumber: 8

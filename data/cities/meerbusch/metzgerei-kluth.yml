@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2672011
 longitude: 6.6369154
-postcode: 40670
+postcode: "40670"
 city: Meerbusch
 street: "Neusser Feldweg"
 housenumber: 1

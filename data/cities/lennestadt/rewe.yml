@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1503505
 longitude: 8.0605452
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Bielefelder Straße"
 housenumber: 10c

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.6235128
 longitude: 6.8441409
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 51

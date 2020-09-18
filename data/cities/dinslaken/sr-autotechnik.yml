@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.563845900000004
 longitude: 6.8013972
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Lanterstraße"
 housenumber: 37d

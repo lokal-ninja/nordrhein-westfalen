@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4577346
 longitude: 7.4415918
-postcode: 44229
+postcode: "44229"
 city: Dortmund
 street: "Löttringhauser Straße"
 housenumber: 230

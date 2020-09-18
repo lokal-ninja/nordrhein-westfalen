@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.4770588
 longitude: 7.3025197
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 202

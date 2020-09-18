@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.473068500000004
 longitude: 7.214571
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Alte Hattinger Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7254201
 longitude: 8.776975400000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Arndtstraße"
 housenumber: 25

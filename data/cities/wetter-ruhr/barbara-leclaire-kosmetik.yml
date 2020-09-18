@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.3855932
 longitude: 7.387341
-postcode: 58300
+postcode: "58300"
 city: Wetter (Ruhr)
 street: "Bahnhofstraße"
 housenumber: 9a

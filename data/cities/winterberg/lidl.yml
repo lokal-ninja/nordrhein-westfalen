@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1921466
 longitude: 8.530884
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Im Mühlengrund"
 housenumber: 1

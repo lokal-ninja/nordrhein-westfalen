@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.6628556
 longitude: 6.6101622
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Reeser Landstraße"
 housenumber: 12

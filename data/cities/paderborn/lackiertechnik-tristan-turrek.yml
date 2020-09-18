@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.698501900000004
 longitude: 8.730876400000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Frankfurter Weg"
 housenumber: 

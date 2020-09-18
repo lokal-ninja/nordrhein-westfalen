@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.071289400000005
 longitude: 9.116699
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Bruchweg"
 housenumber: 3c

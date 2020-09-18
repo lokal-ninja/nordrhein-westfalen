@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.382822100000006
 longitude: 9.003236600000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Industriestraße"
 housenumber: 1

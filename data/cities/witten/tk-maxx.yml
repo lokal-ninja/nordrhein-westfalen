@@ -1,9 +1,9 @@
 id: 1359384065
 type: node
-shop: Kleidung
+shop: Warenhaus
 latitude: 51.436758100000006
 longitude: 7.331660200000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Hammerstraße"
 housenumber: 9,11

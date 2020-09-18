@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.0124908
 longitude: 9.048714200000001
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Alter Schulweg"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5081725
 longitude: 7.3829973
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Schulte-Heuthaus-Straße"
 housenumber: 40

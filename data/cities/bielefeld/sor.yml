@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0203317
 longitude: 8.531405900000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 1

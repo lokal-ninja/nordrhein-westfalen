@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1588951
 longitude: 7.3207556
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Carl-Benz-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0887423
 longitude: 7.0232374
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Heeker Straße"
 housenumber: 71

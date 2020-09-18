@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0214379
 longitude: 8.5340162
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Niederwall"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.479894900000005
 longitude: 7.2192993
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Huestraße"
 housenumber: 22

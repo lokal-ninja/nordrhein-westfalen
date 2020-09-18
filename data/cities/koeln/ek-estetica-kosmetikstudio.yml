@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9357058
 longitude: 6.9743145
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Mathildenstraße"
 housenumber: 26

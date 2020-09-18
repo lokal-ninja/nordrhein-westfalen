@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2860619
 longitude: 8.946801500000001
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Viktoriastraße"
 housenumber: 57a

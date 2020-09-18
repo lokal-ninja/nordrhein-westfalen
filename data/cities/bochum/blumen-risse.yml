@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4266358
 longitude: 7.161294900000001
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 816

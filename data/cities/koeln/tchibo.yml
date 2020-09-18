@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.930626700000005
 longitude: 6.916378300000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 148

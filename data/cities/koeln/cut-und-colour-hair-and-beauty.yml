@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8936119
 longitude: 6.9956651
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Barbarastraße"
 housenumber: 15-17

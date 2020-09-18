@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.7753535
 longitude: 6.1191241000000005
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Materborner Allee"
 housenumber: 14

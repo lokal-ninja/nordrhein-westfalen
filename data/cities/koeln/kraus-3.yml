@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9688175
 longitude: 6.938081100000001
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Schiefersburger Weg"
 housenumber: 23

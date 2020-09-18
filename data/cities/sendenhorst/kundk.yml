@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8486527
 longitude: 7.8226336000000005
-postcode: 48324
+postcode: "48324"
 city: Sendenhorst
 street: "Nordtor"
 housenumber: 39

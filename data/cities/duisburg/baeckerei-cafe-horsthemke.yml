@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4332806
 longitude: 6.765591100000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Königstraße"
 housenumber: 14

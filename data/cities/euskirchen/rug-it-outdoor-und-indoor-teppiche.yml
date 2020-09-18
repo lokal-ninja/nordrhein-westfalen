@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 50.6523358
 longitude: 6.7632707000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Josef-Ruhr-Straße"
 housenumber: 30

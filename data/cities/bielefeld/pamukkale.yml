@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0227969
 longitude: 8.5398408
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 97c

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.7471643
 longitude: 8.7451641
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Biberweg"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6521436
 longitude: 7.3390398
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Martin-Luther-Straße"
 housenumber: 1

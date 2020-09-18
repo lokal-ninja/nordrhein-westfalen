@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5592282
 longitude: 7.910827800000001
-postcode: 59457
+postcode: "59457"
 city: Werl
 street: "Langenwiedenweg"
 housenumber: 7

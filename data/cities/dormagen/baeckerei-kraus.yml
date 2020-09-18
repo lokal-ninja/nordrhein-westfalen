@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1127023
 longitude: 6.7637286
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Hindenburgstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.8673693
 longitude: 9.0880165
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Am Güterbahnhof"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 2692319750
-type: node
+id: 47702802
+type: way
 shop: Supermarkt
-latitude: 51.97113
-longitude: 8.465902400000001
-postcode: 33649
+latitude: 52.001842200000006
+longitude: 8.5752334
+postcode: "33605"
 city: Bielefeld
-street: "Kasseler Straße"
-housenumber: 1
+street: "Detmolder Straße"
+housenumber: 345
 phone: ""
 opening_hours: ""
 website: ""

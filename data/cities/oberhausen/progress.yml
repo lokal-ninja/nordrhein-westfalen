@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 51.504449300000005
 longitude: 6.8853800000000005
-postcode: 46117
+postcode: "46117"
 city: Oberhausen
 street: "Bergstraße"
 housenumber: 30

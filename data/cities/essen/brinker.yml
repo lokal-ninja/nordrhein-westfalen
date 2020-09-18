@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4475732
 longitude: 7.043148
-postcode: 45138
+postcode: "45138"
 city: Essen
 street: "Knaudtstraße"
 housenumber: 1

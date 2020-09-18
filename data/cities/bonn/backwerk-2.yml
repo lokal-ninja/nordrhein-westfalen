@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7367633
 longitude: 7.097659200000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wilhelmstraße"
 housenumber: 1

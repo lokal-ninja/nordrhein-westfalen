@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.210398600000005
 longitude: 8.6046305
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Stettiner Straße"
 housenumber: 5

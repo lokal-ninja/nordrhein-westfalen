@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.7277069
 longitude: 8.7612418
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 47

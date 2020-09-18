@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.29736990000001
 longitude: 6.850526500000001
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Oberstraße"
 housenumber: 8

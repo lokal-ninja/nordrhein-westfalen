@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.816608800000004
 longitude: 6.3710056
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Hauptstraße"
 housenumber: 273

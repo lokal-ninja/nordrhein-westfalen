@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9559901
 longitude: 7.138808500000001
-postcode: 51427
+postcode: "51427"
 city: Bergisch Gladbach
 street: "Frankenforster Straße"
 housenumber: 27

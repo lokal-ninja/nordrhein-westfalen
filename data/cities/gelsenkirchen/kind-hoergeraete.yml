@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.561212100000006
 longitude: 7.089019
-postcode: 45891
+postcode: "45891"
 city: Gelsenkirchen
 street: "Cranger Straße"
 housenumber: 261

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.724503500000004
 longitude: 7.089880600000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Meckenheimer Allee"
 housenumber: 178

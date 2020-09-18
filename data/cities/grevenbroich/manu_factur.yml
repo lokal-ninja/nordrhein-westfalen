@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.0884481
 longitude: 6.588816100000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Oelgasse"
 housenumber: 10

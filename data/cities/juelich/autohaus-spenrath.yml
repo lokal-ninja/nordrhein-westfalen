@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9279773
 longitude: 6.366296200000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Neusser Straße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.570322000000004
 longitude: 6.263716400000001
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Trierer Straße"
 housenumber: 294

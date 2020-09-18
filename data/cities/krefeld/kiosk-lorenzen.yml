@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.365737200000005
 longitude: 6.5165791
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Krefelder Straße"
 housenumber: 186

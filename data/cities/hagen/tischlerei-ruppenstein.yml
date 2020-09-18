@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.354698500000005
 longitude: 7.4545852
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Wehringhauser Straße"
 housenumber: 55a

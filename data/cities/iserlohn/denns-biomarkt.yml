@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3748725
 longitude: 7.686643500000001
-postcode: 58638
+postcode: "58638"
 city: Iserlohn
 street: "Hans-Böckler-Straße"
 housenumber: 76

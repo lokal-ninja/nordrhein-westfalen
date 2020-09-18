@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.703726800000005
 longitude: 7.758488900000001
-postcode: 59075
+postcode: "59075"
 city: Hamm
 street: "Erlenfeldstraße"
 housenumber: 4

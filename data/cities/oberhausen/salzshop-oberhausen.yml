@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.471347200000004
 longitude: 6.8531826
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Langemarkstraße"
 housenumber: 13

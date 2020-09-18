@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.936610900000005
 longitude: 6.936022500000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Aachener Straße"
 housenumber: 32

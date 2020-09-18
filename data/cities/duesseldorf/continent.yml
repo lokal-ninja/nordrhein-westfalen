@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.260888900000005
 longitude: 6.811512400000001
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Münsterstraße"
 housenumber: 497

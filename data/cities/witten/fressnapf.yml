@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.4420111
 longitude: 7.348292300000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Dortmunder Straße"
 housenumber: 19

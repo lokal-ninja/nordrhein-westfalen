@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.476606000000004
 longitude: 7.2330845
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 87

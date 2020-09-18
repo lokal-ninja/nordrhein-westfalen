@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.036625
 longitude: 7.9794214000000006
-postcode: 57399
+postcode: "57399"
 city: Kirchhundem
 street: "Olper Straße"
 housenumber: 27

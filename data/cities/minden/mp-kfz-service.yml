@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.2682725
 longitude: 8.801298000000001
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Bergkirchener Straße"
 housenumber: 307

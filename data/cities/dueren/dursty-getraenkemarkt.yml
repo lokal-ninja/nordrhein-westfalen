@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8304861
 longitude: 6.4449797
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Birkesdorfer Straße"
 housenumber: 44

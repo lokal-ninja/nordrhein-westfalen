@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.9681493
 longitude: 8.5530229
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Brackweder Straße"
 housenumber: 192

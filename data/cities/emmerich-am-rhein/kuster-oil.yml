@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.8588686
 longitude: 6.242038300000001
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Kapellenberger Weg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.2063446
 longitude: 7.6084604
-postcode: 58515
+postcode: "58515"
 city: Lüdenscheid
 street: "Talstraße"
 housenumber: 100

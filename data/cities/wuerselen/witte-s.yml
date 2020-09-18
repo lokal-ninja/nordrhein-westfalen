@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.818102200000006
 longitude: 6.1223331000000005
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Aachener Straße"
 housenumber: 86a

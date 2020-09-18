@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.914867
 longitude: 6.3622038000000005
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Münstereifeler Straße"
 housenumber: 5

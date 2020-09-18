@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.0367984
 longitude: 8.5682436
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Blomestraße"
 housenumber: 29

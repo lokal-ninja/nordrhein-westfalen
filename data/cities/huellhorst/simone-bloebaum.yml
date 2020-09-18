@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.256342700000005
 longitude: 8.7274528
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Halsterner Straße"
 housenumber: 1

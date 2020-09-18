@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3307664
 longitude: 6.909354100000001
-postcode: 40883
+postcode: "40883"
 city: Ratingen
 street: "Bahnhofstraße"
 housenumber: 175

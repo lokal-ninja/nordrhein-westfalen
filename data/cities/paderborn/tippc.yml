@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.726111100000004
 longitude: 8.759121
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Nordstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2263734
 longitude: 6.6200735
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Am Neumarkt"
 housenumber: 1

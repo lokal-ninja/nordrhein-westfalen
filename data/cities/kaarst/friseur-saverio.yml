@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.2265323
 longitude: 6.6119538
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Heinrich-Hertz-Straße"
 housenumber: 31

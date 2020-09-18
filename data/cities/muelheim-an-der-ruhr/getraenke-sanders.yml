@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.441593700000006
 longitude: 6.8690873
-postcode: 45473
+postcode: "45473"
 city: Mülheim an der Ruhr
 street: "Friedrich-Ebert-Straße"
 housenumber: 250

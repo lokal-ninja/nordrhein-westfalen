@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.3650784
 longitude: 7.6126763
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 55

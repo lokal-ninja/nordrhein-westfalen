@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.5158995
 longitude: 7.466938000000001
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Reinoldistraße"
 housenumber: 8

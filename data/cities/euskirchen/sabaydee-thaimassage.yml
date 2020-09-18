@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6249899
 longitude: 6.8471264000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Geierstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.0203764
 longitude: 8.5304067
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 14

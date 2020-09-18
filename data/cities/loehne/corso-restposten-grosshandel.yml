@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.1887891
 longitude: 8.6773144
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Krugstraße"
 housenumber: 2

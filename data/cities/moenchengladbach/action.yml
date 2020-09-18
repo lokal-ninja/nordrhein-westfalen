@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.1672427
 longitude: 6.4449559
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Markt"
 housenumber: 10

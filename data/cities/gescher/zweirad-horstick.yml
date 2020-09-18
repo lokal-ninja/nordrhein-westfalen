@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 51.948777500000006
 longitude: 7.0162794
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Bahnhofstraße"
 housenumber: 51a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,13:30-18:00; We,Sa 08:00-12:00"
 website: ""

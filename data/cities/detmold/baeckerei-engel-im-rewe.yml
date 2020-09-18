@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.907178900000005
 longitude: 8.877379600000001
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Denkmalstraße"
 housenumber: 8

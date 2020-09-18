@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0284878
 longitude: 8.908050600000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Bruchweg"
 housenumber: 14

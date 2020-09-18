@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.711947800000004
 longitude: 8.730081100000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Klöcknerstraße"
 housenumber: 7

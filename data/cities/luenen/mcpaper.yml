@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.6141013
 longitude: 7.5236217000000005
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Lange Straße"
 housenumber: 22

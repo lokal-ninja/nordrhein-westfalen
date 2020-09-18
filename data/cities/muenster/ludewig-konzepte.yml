@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.965064600000005
 longitude: 7.632695900000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Hörsterstraße"
 housenumber: 35-36

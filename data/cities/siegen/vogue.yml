@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.871682400000005
 longitude: 8.0157852
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Berliner Straße"
 housenumber: 40

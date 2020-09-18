@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5072497
 longitude: 7.0994766
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofstraße"
 housenumber: 62

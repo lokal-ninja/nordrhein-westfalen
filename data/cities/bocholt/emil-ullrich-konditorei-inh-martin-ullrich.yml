@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8201358
 longitude: 6.6267255
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Schulstraße"
 housenumber: 34

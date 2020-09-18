@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.4688439
 longitude: 7.082790500000001
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Leither Straße"
 housenumber: 15
 phone: ""
-opening_hours: "unknown"
+opening_hours: ""
 website: ""

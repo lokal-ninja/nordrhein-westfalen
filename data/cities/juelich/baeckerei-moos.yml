@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9304859
 longitude: 6.3594092
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Nordstraße"
 housenumber: 3

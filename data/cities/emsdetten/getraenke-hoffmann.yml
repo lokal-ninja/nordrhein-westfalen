@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.1583636
 longitude: 7.5513596000000005
-postcode: 48282
+postcode: "48282"
 city: Emsdetten
 street: "Grevener Damm"
 housenumber: 182

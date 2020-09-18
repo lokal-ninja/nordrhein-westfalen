@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0562205
 longitude: 7.057159400000001
-postcode: 51377
+postcode: "51377"
 city: Leverkusen
 street: "Von-Knoeringen-Straße"
 housenumber: 115

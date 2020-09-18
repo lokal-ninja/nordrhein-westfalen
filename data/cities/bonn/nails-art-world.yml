@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.715417900000006
 longitude: 7.0496756000000005
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 175

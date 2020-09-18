@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.0282532
 longitude: 8.8926631
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Herforder Straße"
 housenumber: 6

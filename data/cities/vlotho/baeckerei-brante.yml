@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.161812600000005
 longitude: 8.8500929
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Meyra-Straße"
 housenumber: 1

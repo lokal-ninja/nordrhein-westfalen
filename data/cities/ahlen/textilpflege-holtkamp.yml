@@ -3,10 +3,10 @@ type: way
 shop: Wäscherei
 latitude: 51.7666648
 longitude: 7.8942341
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Warendorfer Straße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-12:30, Mo,We,Fr 15:00-18:00; Sa 09:00-13:00"
 website: ""

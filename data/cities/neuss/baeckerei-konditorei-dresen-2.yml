@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.172438400000004
 longitude: 6.687049200000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Lupinenstraße"
 housenumber: 1

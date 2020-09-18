@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.433766500000004
 longitude: 6.762585100000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Kuhstraße"
 housenumber: 33

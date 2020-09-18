@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.256887400000004
 longitude: 7.138182700000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Luisenstraße"
 housenumber: 88

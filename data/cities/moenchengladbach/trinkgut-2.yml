@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.156995800000004
 longitude: 6.4390527
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Wickrather Straße"
 housenumber: 133

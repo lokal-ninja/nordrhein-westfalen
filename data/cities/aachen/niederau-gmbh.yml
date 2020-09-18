@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.7933692
 longitude: 6.108651
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Grüner Weg"
 housenumber: 93

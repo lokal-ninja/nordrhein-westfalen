@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.0130247
 longitude: 8.5365787
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 41a

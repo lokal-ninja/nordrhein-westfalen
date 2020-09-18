@@ -1,12 +1,12 @@
 id: 4278391296
 type: node
 shop: Outdoor
-latitude: 51.8865683
-longitude: 8.4574736
-postcode: 33415
+latitude: 51.8861739
+longitude: 8.4577354
+postcode: "33415"
 city: Verl
 street: "Waldstraße"
-housenumber: 5
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa-Su off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00; PH,Su off"
 website: "https://www.camping-kaufhaus.com/"

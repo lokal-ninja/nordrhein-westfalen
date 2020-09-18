@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.778640300000006
 longitude: 7.187743500000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Rathausallee"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.7976329
 longitude: 6.0889614000000005
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hauptstraße"
 housenumber: 25

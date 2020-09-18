@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.874767600000006
 longitude: 8.018033
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Bahnhofstraße"
 housenumber: 11-13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6842369
 longitude: 7.154860500000001
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Theaterplatz"
 housenumber: 1a

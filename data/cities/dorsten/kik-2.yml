@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.659476700000006
 longitude: 6.964163500000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Essener Straße"
 housenumber: 13

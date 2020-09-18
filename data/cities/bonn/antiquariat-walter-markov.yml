@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7385627
 longitude: 7.095859300000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Breite Straße"
 housenumber: 52

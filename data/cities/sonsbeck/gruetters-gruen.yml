@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.616739100000004
 longitude: 6.3779561000000005
-postcode: 47665
+postcode: "47665"
 city: Sonsbeck
 street: "Dassendaler Weg"
 housenumber: 18

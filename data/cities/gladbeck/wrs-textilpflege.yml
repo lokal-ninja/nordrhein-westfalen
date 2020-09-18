@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.574317300000004
 longitude: 6.9934628000000005
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hochstraße"
 housenumber: 51-53

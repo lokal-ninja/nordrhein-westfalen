@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0394039
 longitude: 6.144953
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Lütticher Straße"
 housenumber: 2

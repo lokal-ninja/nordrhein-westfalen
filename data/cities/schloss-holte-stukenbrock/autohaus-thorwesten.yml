@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9133902
 longitude: 8.652166300000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Bielefelder Straße"
 housenumber: 10

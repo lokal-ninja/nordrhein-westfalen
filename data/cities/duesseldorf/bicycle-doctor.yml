@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2365305
 longitude: 6.789832700000001
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Derendorfer Straße"
 housenumber: 32-34

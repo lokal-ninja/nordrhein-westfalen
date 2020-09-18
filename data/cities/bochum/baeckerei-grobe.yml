@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.491480700000004
 longitude: 7.305240800000001
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Nörenbergstraße"
 housenumber: 25

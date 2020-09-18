@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0166971
 longitude: 8.542498
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Teutoburger Straße"
 housenumber: 65

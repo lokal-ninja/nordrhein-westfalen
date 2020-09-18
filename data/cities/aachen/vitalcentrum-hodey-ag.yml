@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.7753353
 longitude: 6.0812172
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 16

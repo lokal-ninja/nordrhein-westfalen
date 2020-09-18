@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.761135100000004
 longitude: 7.897081300000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Industriestraße"
 housenumber: 29

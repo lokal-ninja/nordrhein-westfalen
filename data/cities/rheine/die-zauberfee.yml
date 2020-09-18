@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.280317100000005
 longitude: 7.4438959
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Lingener Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.66855150000001
 longitude: 7.175837100000001
-postcode: 53177
+postcode: "53177"
 city: Bonn
 street: "Mallwitzstraße"
 housenumber: 14

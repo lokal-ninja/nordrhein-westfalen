@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.624959700000005
 longitude: 6.847243400000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Geierstraße"
 housenumber: 7

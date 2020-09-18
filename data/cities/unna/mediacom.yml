@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.5345084
 longitude: 7.686459800000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Massener Straße"
 housenumber: 25

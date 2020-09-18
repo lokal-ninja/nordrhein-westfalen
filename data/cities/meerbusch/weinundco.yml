@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 51.242397100000005
 longitude: 6.6990221000000005
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Neusser Straße"
 housenumber: 26

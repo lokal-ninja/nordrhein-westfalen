@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4351038
 longitude: 6.789286700000001
-postcode: 47058
+postcode: "47058"
 city: Duisburg
 street: "Martinstraße"
 housenumber: 51

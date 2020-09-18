@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.9322358
 longitude: 7.615679
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Düesbergweg"
 housenumber: 128

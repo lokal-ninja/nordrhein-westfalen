@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 50.7723267
 longitude: 6.0790787
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Löhergraben"
 housenumber: 19,21

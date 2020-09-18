@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8135958
 longitude: 6.0613143
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 577

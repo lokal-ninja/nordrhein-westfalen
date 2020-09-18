@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5504345
 longitude: 7.2937994
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Herner Straße"
 housenumber: 148

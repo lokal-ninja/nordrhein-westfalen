@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.676542600000005
 longitude: 6.827312500000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Militscher Straße"
 housenumber: 2a

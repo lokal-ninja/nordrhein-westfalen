@@ -1,12 +1,12 @@
 id: 152724031
 type: way
 shop: Kramladen
-latitude: 51.459021400000005
-longitude: 7.1975962
-postcode: 44795
+latitude: 51.459020100000004
+longitude: 7.197603900000001
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 256
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
+opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.874640600000006
 longitude: 8.0221088
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Kölner Straße"
 housenumber: 48

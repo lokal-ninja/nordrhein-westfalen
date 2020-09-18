@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.2004968
 longitude: 6.6794576
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Stephanstraße"
 housenumber: 2-10

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.5935567
 longitude: 6.6459729
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Johannesweg"
 housenumber: 16

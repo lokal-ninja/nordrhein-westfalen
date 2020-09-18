@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6767784
 longitude: 6.154036700000001
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Adolf-Kolping-Straße"
 housenumber: 2

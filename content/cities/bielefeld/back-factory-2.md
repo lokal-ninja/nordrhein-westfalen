@@ -1,4 +1,0 @@
----
-title: "Back-Factory"
-url: /bielefeld/back-factory-2/
----

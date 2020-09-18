@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.4910811
 longitude: 7.305939400000001
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Zur Werner Heide"
 housenumber: 6

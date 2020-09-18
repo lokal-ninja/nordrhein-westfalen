@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8364543
 longitude: 7.986671500000001
-postcode: 57080
+postcode: "57080"
 city: Siegen
 street: "Eiserfelder Straße"
 housenumber: 446

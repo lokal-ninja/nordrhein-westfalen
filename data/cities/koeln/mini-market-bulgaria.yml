@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.972043600000006
 longitude: 7.0109868
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Berliner Straße"
 housenumber: 70

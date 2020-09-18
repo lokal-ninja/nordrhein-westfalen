@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8742322
 longitude: 6.1639432
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Otto-Wels-Straße"
 housenumber: 4

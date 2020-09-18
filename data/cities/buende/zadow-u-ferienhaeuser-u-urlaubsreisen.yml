@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 52.2069416
 longitude: 8.5844429
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Borriesstraße"
 housenumber: 

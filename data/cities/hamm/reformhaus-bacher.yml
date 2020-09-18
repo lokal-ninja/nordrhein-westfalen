@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.680871700000004
 longitude: 7.8160144
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Weststraße"
 housenumber: 32

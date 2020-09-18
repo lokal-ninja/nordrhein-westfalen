@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.878679000000005
 longitude: 9.0870478
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Lipper Tor"
 housenumber: 1

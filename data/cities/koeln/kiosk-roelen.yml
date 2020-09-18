@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9344927
 longitude: 7.061405000000001
-postcode: 51109
+postcode: "51109"
 city: Köln
 street: "An St. Adelheid"
 housenumber: 12

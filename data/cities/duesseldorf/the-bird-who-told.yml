@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.213252100000005
 longitude: 6.7676907
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Düsselstraße"
 housenumber: 52

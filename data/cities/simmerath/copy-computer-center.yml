@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.6042276
 longitude: 6.2972283000000004
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Bruchstraße"
 housenumber: 19

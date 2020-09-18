@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1405168
 longitude: 6.2779572
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Karmelitergasse"
 housenumber: 4

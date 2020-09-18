@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1151896
 longitude: 6.444912100000001
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Hanns-Martin-Schleyer-Straße"
 housenumber: 26

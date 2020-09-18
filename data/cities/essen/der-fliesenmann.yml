@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.433330500000004
 longitude: 7.035066700000001
-postcode: 45136
+postcode: "45136"
 city: Essen
 street: "Rellinghauser Straße"
 housenumber: 334a

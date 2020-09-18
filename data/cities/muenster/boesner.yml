@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.932042200000005
 longitude: 7.601706900000001
-postcode: 48163
+postcode: "48163"
 city: Münster
 street: "Borkstraße"
 housenumber: 2

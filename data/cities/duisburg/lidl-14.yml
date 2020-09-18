@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4223428
 longitude: 6.779784200000001
-postcode: 47057
+postcode: "47057"
 city: Duisburg
 street: "Koloniestraße"
 housenumber: 78

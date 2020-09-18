@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.732532400000004
 longitude: 7.0998789
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Wesselstraße"
 housenumber: 8

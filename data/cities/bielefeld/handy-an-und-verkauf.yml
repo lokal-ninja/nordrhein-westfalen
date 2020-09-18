@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.0275309
 longitude: 8.5300724
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 7

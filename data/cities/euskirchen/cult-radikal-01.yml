@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.659857800000005
 longitude: 6.788664300000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 23

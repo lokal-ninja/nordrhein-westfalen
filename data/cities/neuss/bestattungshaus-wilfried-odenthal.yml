@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.1720186
 longitude: 6.6827738000000005
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Rosmarinstraße"
 housenumber: 25

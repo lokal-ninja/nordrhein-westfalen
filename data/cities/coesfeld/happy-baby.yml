@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.930613900000004
 longitude: 7.1715252000000005
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Dülmener Straße"
 housenumber: 99-103

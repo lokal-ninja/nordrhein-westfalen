@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.7255188
 longitude: 8.7775216
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Arndtstraße"
 housenumber: 21

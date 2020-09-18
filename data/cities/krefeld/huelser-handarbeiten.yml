@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.371804600000004
 longitude: 6.510499
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Krefelder Straße"
 housenumber: 26

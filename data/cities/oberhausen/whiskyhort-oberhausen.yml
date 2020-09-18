@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.468401
 longitude: 6.8572138
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Nohlstraße"
 housenumber: 67

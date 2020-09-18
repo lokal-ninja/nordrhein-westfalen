@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7760174
 longitude: 6.9270320000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Am Roten Boskoop"
 housenumber: 2

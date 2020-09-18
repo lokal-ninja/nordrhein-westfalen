@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.510509500000005
 longitude: 6.546685900000001
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Kruppstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.9167453
 longitude: 8.372469800000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Brockhäger Straße"
 housenumber: 22-26

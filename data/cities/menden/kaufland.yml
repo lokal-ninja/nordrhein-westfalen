@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4489962
 longitude: 7.758417000000001
-postcode: 58708
+postcode: "58708"
 city: Menden
 street: "Holzener Straße"
 housenumber: 1-13

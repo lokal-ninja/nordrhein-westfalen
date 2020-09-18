@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0194586
 longitude: 8.5445662
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Teutoburger Straße"
 housenumber: 96

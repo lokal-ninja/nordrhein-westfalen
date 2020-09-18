@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.0888798
 longitude: 6.5939646000000005
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

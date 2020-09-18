@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.885286300000004
 longitude: 8.0288991
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hagener Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.7961487
 longitude: 6.1051929000000005
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Gut-Dämme-Straße"
 housenumber: 8-12

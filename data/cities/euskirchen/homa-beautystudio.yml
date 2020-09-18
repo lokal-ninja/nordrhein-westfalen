@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.621496
 longitude: 6.800624900000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kieselweg"
 housenumber: 1

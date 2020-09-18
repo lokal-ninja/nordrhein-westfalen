@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4549229
 longitude: 6.6605968
-postcode: 47443
+postcode: "47443"
 city: Moers
 street: "Franz-Haniel-Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.7805997
 longitude: 6.127706900000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hoffmannallee"
 housenumber: 34

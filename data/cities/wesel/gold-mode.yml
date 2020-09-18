@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.656949700000006
 longitude: 6.613809900000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Goldstraße"
 housenumber: 1

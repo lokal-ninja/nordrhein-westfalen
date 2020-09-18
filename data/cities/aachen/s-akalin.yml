@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7129356
 longitude: 6.1858358
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Schleidener Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.555469800000004
 longitude: 6.9860804000000005
-postcode: 45968
+postcode: "45968"
 city: Gladbeck
 street: "Straßburger Straße"
 housenumber: 1-3

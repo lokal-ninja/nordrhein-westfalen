@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.815127000000004
 longitude: 6.8233855000000005
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Max-Planck-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5215406
 longitude: 6.418000200000001
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "Harperscheid"
 housenumber: 4-6

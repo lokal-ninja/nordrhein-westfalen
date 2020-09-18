@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1563202
 longitude: 6.485044200000001
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Konstantinstraße"
 housenumber: 117

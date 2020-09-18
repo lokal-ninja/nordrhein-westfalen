@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.731880000000004
 longitude: 7.096118400000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Quantiusstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.0904193
 longitude: 7.186541
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Südstraße"
 housenumber: 10

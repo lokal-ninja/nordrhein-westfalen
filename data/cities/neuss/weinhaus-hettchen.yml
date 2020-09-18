@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.203074
 longitude: 6.685069100000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Marienkirchplatz"
 housenumber: 3

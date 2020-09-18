@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.735595100000005
 longitude: 8.6818364
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Gesselner Straße"
 housenumber: 1

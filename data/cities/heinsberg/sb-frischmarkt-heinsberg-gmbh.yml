@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.075436700000004
 longitude: 6.129697800000001
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Wassenberger Straße"
 housenumber: 112-114

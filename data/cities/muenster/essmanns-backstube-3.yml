@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.95430330000001
 longitude: 7.643983400000001
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Hansaring"
 housenumber: 59

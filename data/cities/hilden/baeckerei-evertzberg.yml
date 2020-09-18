@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1693872
 longitude: 6.952470000000001
-postcode: 
+postcode: ""
 city: Hilden
 street: "Walder Straße"
 housenumber: 99

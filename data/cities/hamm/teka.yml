@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6933732
 longitude: 7.7445044
-postcode: 59075
+postcode: "59075"
 city: Hamm
 street: "Hammer Straße"
 housenumber: 74a

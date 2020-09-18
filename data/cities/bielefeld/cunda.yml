@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.027098200000005
 longitude: 8.5318415
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Bahnhofstraße"
 housenumber: 38

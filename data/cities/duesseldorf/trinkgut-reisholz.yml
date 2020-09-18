@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.179616700000004
 longitude: 6.8568118
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Inkmannstraße"
 housenumber: 11

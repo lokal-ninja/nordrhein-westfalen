@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.404752900000005
 longitude: 6.8715343
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Straßburger Allee"
 housenumber: 62

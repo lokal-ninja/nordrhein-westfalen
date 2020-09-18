@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3179377
 longitude: 6.5817959
-postcode: 47807
+postcode: "47807"
 city: Krefeld
 street: "Hammersteinstraße"
 housenumber: 1a

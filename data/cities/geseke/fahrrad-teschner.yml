@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.642335700000004
 longitude: 8.5096752
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Mühlenstraße"
 housenumber: 40

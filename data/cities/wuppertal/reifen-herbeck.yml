@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.291523100000006
 longitude: 7.2396751
-postcode: 42279
+postcode: "42279"
 city: Wuppertal
 street: "Löhrerlen"
 housenumber: 98

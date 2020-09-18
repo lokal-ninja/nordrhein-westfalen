@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.6152798
 longitude: 7.3871815000000005
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Hafenstraße"
 housenumber: 79

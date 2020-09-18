@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.393324400000004
 longitude: 7.0822362000000005
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 132
 phone: ""
-opening_hours: ""
+opening_hours: "Samstags geschlossen"
 website: ""

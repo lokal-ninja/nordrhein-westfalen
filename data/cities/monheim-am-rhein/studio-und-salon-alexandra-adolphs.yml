@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.077806700000004
 longitude: 6.8885171000000005
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Zaunswinkelstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.6048788
 longitude: 6.3059840000000005
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Kammerbruchstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6286573
 longitude: 6.885654300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Monikastraße"
 housenumber: 101

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.713104
 longitude: 8.935334000000001
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Am Stadtgraben"
 housenumber: 3a

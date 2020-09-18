@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.704576
 longitude: 6.1808337
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Schleidener Straße"
 housenumber: 164

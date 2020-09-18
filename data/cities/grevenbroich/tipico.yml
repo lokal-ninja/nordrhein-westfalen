@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.0890817
 longitude: 6.5940504
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

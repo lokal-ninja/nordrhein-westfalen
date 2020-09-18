@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2111427
 longitude: 6.7831678
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Morsestraße"
 housenumber: 20

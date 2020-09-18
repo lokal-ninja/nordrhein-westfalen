@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.605514400000004
 longitude: 7.187289300000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Mühlenstraße"
 housenumber: 52

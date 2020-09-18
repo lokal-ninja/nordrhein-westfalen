@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9492369
 longitude: 8.8846513
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Grüßstraße"
 housenumber: 21

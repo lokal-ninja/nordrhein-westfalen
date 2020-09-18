@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2027173
 longitude: 7.3336527
-postcode: 42477
+postcode: "42477"
 city: Radevormwald
 street: "Elberfelder Straße"
 housenumber: 94-96

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.031962400000005
 longitude: 6.920464600000001
-postcode: 50769
+postcode: "50769"
 city: Köln
 street: "Robert-Bosch-Straße"
 housenumber: 2

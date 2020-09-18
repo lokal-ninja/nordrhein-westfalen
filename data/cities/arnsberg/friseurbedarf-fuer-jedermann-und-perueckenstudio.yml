@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.4531276
 longitude: 7.963193500000001
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Möhnestraße"
 housenumber: 14

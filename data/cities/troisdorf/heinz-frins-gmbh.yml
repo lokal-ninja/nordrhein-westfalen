@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8231021
 longitude: 7.105410300000001
-postcode: 53842
+postcode: "53842"
 city: Troisdorf
 street: "Redcarstraße"
 housenumber: 11

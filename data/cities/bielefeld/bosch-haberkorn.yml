@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.025569100000006
 longitude: 8.5484608
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Wilhelm-Bertelsmann-Straße"
 housenumber: 15

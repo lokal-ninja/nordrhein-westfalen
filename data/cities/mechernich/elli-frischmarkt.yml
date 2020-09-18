@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.606575500000005
 longitude: 6.746723500000001
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Graf-Schall-Straße"
 housenumber: 42

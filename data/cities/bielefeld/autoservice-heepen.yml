@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.029317000000006
 longitude: 8.6061149
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Hillegosser Straße"
 housenumber: 42

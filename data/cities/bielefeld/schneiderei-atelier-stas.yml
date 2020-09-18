@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.0149893
 longitude: 8.5227702
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Gadderbaumer Straße"
 housenumber: 30

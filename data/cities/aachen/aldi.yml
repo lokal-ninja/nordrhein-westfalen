@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.785546800000006
 longitude: 6.0637056000000005
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Süsterfeldstraße"
 housenumber: 63

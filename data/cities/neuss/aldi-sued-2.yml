@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1835852
 longitude: 6.683219800000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Holzheimer Weg"
 housenumber: 44

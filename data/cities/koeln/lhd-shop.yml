@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.915183600000006
 longitude: 7.0526179
-postcode: 51149
+postcode: "51149"
 city: Köln
 street: "Edmund-Rumpler-Straße"
 housenumber: 8-10

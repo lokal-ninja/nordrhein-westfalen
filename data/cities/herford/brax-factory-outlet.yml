@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1137869
 longitude: 8.656367900000001
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Im Kleinen Felde"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 51.4794561
 longitude: 7.215496900000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Viktoriastraße"
 housenumber: 18

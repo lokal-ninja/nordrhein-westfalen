@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.19779380000001
 longitude: 8.7152543
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Alte Bünder Straße"
 housenumber: 9

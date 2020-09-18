@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.8747155
 longitude: 8.0172798
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Am Bahnhof"
 housenumber: 3-25

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.494863300000006
 longitude: 7.2810828
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 1

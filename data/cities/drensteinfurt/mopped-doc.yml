@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.7834906
 longitude: 7.727873400000001
-postcode: 48317
+postcode: "48317"
 city: Drensteinfurt
 street: "Leinenweberstraße"
 housenumber: 13

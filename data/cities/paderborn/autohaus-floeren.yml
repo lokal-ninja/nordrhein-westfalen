@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.711915000000005
 longitude: 8.7724227
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Warburger Straße"
 housenumber: 87

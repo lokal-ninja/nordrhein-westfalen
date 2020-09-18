@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.716479500000005
 longitude: 8.7556434
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kamp"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.3455804
 longitude: 8.2834447
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Steinstraße"
 housenumber: 5

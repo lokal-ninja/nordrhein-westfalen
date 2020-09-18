@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.377666000000005
 longitude: 8.6400029
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Carl-Zoellner-Straße"
 housenumber: 30

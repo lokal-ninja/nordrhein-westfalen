@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.2155222
 longitude: 7.662925400000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Kalver Straße"
 housenumber: 60

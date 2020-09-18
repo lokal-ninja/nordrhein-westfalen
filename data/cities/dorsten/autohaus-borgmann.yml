@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.6606037
 longitude: 6.9721340000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "An der Glashütte"
 housenumber: 1

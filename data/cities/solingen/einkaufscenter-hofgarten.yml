@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.1715813
 longitude: 7.0807656
-postcode: 42651
+postcode: "42651"
 city: Solingen
 street: "Kölner Straße"
 housenumber: 99

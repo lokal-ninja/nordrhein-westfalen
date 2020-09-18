@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6535894
 longitude: 6.6067749000000005
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Werftstraße"
 housenumber: 4

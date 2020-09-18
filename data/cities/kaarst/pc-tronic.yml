@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.221865300000005
 longitude: 6.607388200000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Kaarster Straße"
 housenumber: 51-53

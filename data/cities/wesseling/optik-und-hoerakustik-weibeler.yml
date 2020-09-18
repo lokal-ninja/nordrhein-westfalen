@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.823773200000005
 longitude: 6.979898700000001
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Bahnhofstraße"
 housenumber: 35

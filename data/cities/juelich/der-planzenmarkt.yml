@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.921240700000006
 longitude: 6.3752464
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Wiesenstraße"
 housenumber: 18

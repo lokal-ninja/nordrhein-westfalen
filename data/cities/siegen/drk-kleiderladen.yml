@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.870811100000005
 longitude: 8.011135000000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hammerstraße"
 housenumber: 10

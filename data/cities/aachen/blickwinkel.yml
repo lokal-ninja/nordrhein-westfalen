@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.797280900000004
 longitude: 6.062728300000001
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 325

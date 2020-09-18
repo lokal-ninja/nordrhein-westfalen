@@ -1,12 +1,12 @@
-id: 1523595239
+id: 1607342184
 type: node
 shop: Bäckerei
-latitude: 51.479085500000004
-longitude: 7.2170809
-postcode: 44787
+latitude: 51.477100400000005
+longitude: 7.216526200000001
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
-housenumber: 50
-phone: "+49 234 5860282"
-opening_hours: "Mo-Sa 08:00-18:30; Su 08:00-17:00"
+housenumber: 17
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

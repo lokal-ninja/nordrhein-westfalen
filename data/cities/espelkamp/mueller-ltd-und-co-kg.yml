@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3770673
 longitude: 8.6315129
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Breslauer Straße"
 housenumber: 

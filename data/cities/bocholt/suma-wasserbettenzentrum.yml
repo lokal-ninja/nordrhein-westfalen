@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.8260694
 longitude: 6.628051200000001
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Franzstraße"
 housenumber: 115

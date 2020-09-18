@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.2010372
 longitude: 6.7186474
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2-4

@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 51.763121100000006
 longitude: 7.887469100000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Weststraße"
 housenumber: 89
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"
 website: ""

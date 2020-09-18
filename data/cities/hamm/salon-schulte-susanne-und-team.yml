@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7036317
 longitude: 7.758492800000001
-postcode: 59075
+postcode: "59075"
 city: Hamm
 street: "Erlenfeldstraße"
 housenumber: 4

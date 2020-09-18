@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0377967
 longitude: 8.5254065
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Apfelstraße"
 housenumber: 8

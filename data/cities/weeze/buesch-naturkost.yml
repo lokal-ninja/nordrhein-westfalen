@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.6291148
 longitude: 6.1698177
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Niederhelsum"
 housenumber: 1a

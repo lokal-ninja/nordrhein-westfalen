@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.640646200000006
 longitude: 6.1916731
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Schwerzfelder Straße"
 housenumber: 3

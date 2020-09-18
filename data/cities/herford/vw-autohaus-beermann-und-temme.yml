@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1219972
 longitude: 8.681533400000001
-postcode: 32049
+postcode: "32049"
 city: Herford
 street: "Mindener Straße"
 housenumber: 44

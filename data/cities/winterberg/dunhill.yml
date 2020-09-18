@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1935105
 longitude: 8.5288156
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Am Waltenberg"
 housenumber: 27

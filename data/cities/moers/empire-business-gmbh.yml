@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4411976
 longitude: 6.6412874
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Uerdinger Straße"
 housenumber: 131

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4494047
 longitude: 7.363307700000001
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Dortmunder Straße"
 housenumber: 93

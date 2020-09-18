@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.9807682
 longitude: 7.5553733
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Am Gievenbach"
 housenumber: 21

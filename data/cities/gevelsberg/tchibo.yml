@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.3197106
 longitude: 7.3387966
-postcode: 58285
+postcode: "58285"
 city: Gevelsberg
 street: "Mittelstraße"
 housenumber: 30

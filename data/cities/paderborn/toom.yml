@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.7035038
 longitude: 8.728351700000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Grüner Weg"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0748394
 longitude: 8.5513531
-postcode: 33739
+postcode: "33739"
 city: Bielefeld
 street: "Epiphanienweg"
 housenumber: 1

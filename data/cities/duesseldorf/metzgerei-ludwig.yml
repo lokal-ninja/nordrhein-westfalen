@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.232537
 longitude: 6.7211235
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Nikolaus-Knopp-Platz"
 housenumber: 30

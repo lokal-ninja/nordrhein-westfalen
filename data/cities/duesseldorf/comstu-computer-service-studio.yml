@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.210640500000004
 longitude: 6.780870800000001
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Bilker Allee"
 housenumber: 227

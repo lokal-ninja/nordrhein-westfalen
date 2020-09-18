@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.439873600000006
 longitude: 7.3384299
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Johannisstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.28945280000001
 longitude: 7.496370700000001
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Morsestraße"
 housenumber: 13

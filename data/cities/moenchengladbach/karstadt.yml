@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.167407000000004
 longitude: 6.4450428
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Marktstraße"
 housenumber: 10

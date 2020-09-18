@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.103261800000006
 longitude: 7.6371203
-postcode: 58540
+postcode: "58540"
 city: Meinerzhagen
 street: "Derschlager Straße"
 housenumber: 36

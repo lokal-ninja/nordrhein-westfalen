@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3323497
 longitude: 8.7495987
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Bahnhofstraße"
 housenumber: 9

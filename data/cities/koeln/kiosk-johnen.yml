@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.020437300000005
 longitude: 6.8966197000000005
-postcode: 50765
+postcode: "50765"
 city: Köln
 street: "Mailänder Passage"
 housenumber: 1

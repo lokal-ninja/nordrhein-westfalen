@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.2229673
 longitude: 6.792682
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
 street: "Karlstraße"
 housenumber: 104

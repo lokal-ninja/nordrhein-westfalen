@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.2143778
 longitude: 6.7751273
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Elisabethstraße"
 housenumber: 49

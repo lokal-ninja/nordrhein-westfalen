@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.026623900000004
 longitude: 8.536611500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Neumarkt"
 housenumber: 13

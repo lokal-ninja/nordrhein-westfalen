@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6548552
 longitude: 6.8003178
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Römerstraße"
 housenumber: 8

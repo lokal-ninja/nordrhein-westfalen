@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7962745
 longitude: 6.105934
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Grüner Weg"
 housenumber: 127

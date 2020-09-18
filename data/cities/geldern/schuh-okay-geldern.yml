@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.5162698
 longitude: 6.320809000000001
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Westwall"
 housenumber: 1

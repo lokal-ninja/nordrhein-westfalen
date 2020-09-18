@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.7623898
 longitude: 6.1868775000000005
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Klosterplatz"
 housenumber: 22

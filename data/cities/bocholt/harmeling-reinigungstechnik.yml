@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.815424900000004
 longitude: 6.560765900000001
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Am Ries"
 housenumber: 15

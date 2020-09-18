@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2984603
 longitude: 6.8603404
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Calor-Emag-Straße"
 housenumber: 8

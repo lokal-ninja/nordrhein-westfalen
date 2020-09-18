@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.659568900000004
 longitude: 6.9724197000000006
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Bochumer Straße"
 housenumber: 2

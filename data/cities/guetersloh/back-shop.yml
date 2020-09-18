@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9273729
 longitude: 8.3843657
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Kahlertstraße"
 housenumber: 181

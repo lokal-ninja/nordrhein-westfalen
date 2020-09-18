@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.426072700000006
 longitude: 7.1599947
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Keilstraße"
 housenumber: 108

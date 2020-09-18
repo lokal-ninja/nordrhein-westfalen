@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.779161300000005
 longitude: 6.128530700000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hoffmannallee"
 housenumber: 41a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9311717
 longitude: 6.9181246000000005
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 126

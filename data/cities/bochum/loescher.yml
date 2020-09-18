@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4728416
 longitude: 7.324543
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Hauptstraße"
 housenumber: 192

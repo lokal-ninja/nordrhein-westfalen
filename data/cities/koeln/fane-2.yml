@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.916964300000004
 longitude: 6.9258477
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 25

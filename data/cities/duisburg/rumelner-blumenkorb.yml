@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.403353700000004
 longitude: 6.656707300000001
-postcode: 47239
+postcode: "47239"
 city: Duisburg
 street: "Wagnerstraße"
 housenumber: 8

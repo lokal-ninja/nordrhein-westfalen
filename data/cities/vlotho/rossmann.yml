@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1619735
 longitude: 8.8503285
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Meyra-Straße"
 housenumber: 1

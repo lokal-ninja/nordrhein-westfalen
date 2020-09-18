@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.8956425
 longitude: 8.0281728
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Weidenauer Straße"
 housenumber: 195

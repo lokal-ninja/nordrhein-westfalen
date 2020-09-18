@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.7382737
 longitude: 7.082089300000001
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Bornheimer Straße"
 housenumber: 162

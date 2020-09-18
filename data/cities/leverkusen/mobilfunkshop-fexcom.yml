@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0314509
 longitude: 6.9824466
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Breidenbachstraße"
 housenumber: 2

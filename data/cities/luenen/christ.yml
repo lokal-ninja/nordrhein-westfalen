@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.6134378
 longitude: 7.5232736000000004
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Lange Straße"
 housenumber: 31

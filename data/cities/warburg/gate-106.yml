@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.489085900000006
 longitude: 9.1448509
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Hauptstraße"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0278506
 longitude: 8.603710000000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Potsdamer Straße"
 housenumber: 7

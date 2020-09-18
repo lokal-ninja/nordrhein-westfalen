@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.502971
 longitude: 7.462859300000001
-postcode: 44139
+postcode: "44139"
 city: Dortmund
 street: "Landgrafenstraße"
 housenumber: 127

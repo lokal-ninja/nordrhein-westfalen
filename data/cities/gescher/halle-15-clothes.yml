@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.9595624
 longitude: 6.9852002
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Porschestraße"
 housenumber: 15

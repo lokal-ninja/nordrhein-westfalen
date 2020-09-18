@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.481785
 longitude: 7.2124005
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Westring"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7790006
 longitude: 6.130565600000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hoffmannallee"
 housenumber: 35

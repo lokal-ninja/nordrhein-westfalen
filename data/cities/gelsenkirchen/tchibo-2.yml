@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.578970600000005
 longitude: 7.053250800000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 26; 28

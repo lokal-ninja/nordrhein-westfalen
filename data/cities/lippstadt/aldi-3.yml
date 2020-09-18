@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.673978000000005
 longitude: 8.3733468
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Am Mondschein"
 housenumber: 29

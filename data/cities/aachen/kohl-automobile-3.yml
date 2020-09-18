@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.792147
 longitude: 6.0657934000000004
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Kackertstraße"
 housenumber: 2

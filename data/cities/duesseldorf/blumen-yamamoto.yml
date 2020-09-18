@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.239605000000005
 longitude: 6.8234656000000005
-postcode: 40235
+postcode: "40235"
 city: Düsseldorf
 street: "Gehrtsstraße"
 housenumber: 16

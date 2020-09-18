@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.72809590000001
 longitude: 7.2216078
-postcode: 53639
+postcode: "53639"
 city: Königswinter
 street: "Oelinghovener Straße"
 housenumber: 37

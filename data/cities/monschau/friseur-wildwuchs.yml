@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.588650300000005
 longitude: 6.255170700000001
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Am Pötzchen"
 housenumber: 1

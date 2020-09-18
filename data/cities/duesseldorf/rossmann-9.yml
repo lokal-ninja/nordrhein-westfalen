@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.215002600000005
 longitude: 6.804798300000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 228

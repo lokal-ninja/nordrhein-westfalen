@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0260455
 longitude: 7.567100000000001
-postcode: 51643
+postcode: "51643"
 city: Gummersbach
 street: "Moltkestraße"
 housenumber: 1

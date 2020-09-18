@@ -1,12 +1,12 @@
-id: 308060588
+id: 475288999
 type: node
 shop: Lebensmittel
-latitude: 51.93763980000001
-longitude: 7.604496900000001
-postcode: 48163
+latitude: 51.930260200000006
+longitude: 7.6660484
+postcode: "48167"
 city: Münster
-street: "Weseler Straße"
-housenumber: 320
-phone: "+49 251 754261"
-opening_hours: "24/7"
+street: "Albersloher Weg"
+housenumber: 415
+phone: "+49 251 6250678"
+opening_hours: "Mo-Fr 05:00-23:00;Sa 06:00-00:00;Su 08:00-23:00"
 website: ""

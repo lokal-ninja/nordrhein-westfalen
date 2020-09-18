@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.411346800000004
 longitude: 7.267133100000001
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Glückaufstraße"
 housenumber: 13

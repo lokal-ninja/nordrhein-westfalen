@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.991004700000005
 longitude: 6.9102893000000005
-postcode: 48703
+postcode: "48703"
 city: Stadtlohn
 street: "Vredener Straße"
 housenumber: 46

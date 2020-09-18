@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0488854
 longitude: 8.8782992
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Kleine Knopheide"
 housenumber: 18

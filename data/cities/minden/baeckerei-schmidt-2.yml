@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3140305
 longitude: 8.877086700000001
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Hämelstraße"
 housenumber: 9

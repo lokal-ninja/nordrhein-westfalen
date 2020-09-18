@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.5163087
 longitude: 7.1774737
-postcode: 44652
+postcode: "44652"
 city: Herne
 street: "Schultenhof"
 housenumber: 7a

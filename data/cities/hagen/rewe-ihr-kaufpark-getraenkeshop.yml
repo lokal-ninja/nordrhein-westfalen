@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3522922
 longitude: 7.452688200000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Minervastraße"
 housenumber: 24

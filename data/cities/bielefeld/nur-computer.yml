@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.0168776
 longitude: 8.540364400000001
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Oelmühlenstraße"
 housenumber: 5

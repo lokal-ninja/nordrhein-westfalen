@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8322562
 longitude: 6.9052749
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Kölnstraße"
 housenumber: 73

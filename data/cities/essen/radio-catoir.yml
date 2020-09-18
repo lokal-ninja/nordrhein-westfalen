@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.4462126
 longitude: 7.078786
-postcode: 45276
+postcode: "45276"
 city: Essen
 street: "Bochumer Straße"
 housenumber: 37

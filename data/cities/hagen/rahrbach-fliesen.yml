@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.349929800000005
 longitude: 7.4471569
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Konrad-Adenauer-Ring"
 housenumber: 17

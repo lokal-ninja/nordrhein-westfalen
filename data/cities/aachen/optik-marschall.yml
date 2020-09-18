@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.762078100000004
 longitude: 6.0924253
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Kapellenstraße"
 housenumber: 1-3

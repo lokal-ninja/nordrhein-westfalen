@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.350061100000005
 longitude: 7.694855100000001
-postcode: 49509
+postcode: "49509"
 city: Recke
 street: "Kirchstraße"
 housenumber: 20

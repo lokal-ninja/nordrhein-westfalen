@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.4412061
 longitude: 6.9924217
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 73a

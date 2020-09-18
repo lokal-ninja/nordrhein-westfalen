@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.715575300000005
 longitude: 7.052725700000001
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Villemombler Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.04331010000001
 longitude: 7.8486716
-postcode: 48346
+postcode: "48346"
 city: Ostbevern
 street: "Lienener Damm"
 housenumber: 25

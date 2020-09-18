@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7208685
 longitude: 6.905221200000001
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Metternicher Weg"
 housenumber: 6

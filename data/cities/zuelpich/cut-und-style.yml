@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6943405
 longitude: 6.653008900000001
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Römerallee"
 housenumber: 13

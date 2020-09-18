@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.937261400000004
 longitude: 6.9777455
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Justinianstraße"
 housenumber: 1

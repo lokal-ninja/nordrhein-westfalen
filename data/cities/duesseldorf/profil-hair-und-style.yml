@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.163841000000005
 longitude: 6.865609500000001
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Benrather Rathausstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.811337
 longitude: 6.1370424
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Siemensstraße"
 housenumber: 27a

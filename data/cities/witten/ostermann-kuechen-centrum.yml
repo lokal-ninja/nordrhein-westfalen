@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.452796400000004
 longitude: 7.3916643
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Fredi-Ostermann-Straße"
 housenumber: 1

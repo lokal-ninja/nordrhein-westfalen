@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.668891200000004
 longitude: 6.8064157000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kölner Straße"
 housenumber: 245

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3330837
 longitude: 8.0007306
-postcode: 59846
+postcode: "59846"
 city: Sundern
 street: "Hauptstraße"
 housenumber: 177

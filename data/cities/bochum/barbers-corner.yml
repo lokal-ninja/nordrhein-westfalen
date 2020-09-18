@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4860758
 longitude: 7.3083486
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Am Heerbusch"
 housenumber: 7

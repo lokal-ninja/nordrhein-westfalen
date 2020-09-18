@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2191059
 longitude: 6.629635100000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Girmes-Kreuz-Straße"
 housenumber: 65

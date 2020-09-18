@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 51.194849100000006
 longitude: 6.6077642
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Rathausplatz"
 housenumber: 9

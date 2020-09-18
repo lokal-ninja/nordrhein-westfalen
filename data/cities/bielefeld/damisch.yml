@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9653253
 longitude: 8.5601818
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Osningstraße"
 housenumber: 476

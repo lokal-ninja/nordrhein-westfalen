@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6848861
 longitude: 6.8297048
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Heinrich-Barth-Straße"
 housenumber: 25

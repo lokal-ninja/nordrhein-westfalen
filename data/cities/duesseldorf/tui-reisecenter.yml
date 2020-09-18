@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.238067900000004
 longitude: 6.799184400000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 136

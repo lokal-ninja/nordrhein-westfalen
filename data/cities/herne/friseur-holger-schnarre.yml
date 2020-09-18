@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.520694400000004
 longitude: 7.1645265
-postcode: 44652
+postcode: "44652"
 city: Herne
 street: "Harkortstraße"
 housenumber: 27

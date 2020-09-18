@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.735862600000004
 longitude: 7.095411400000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Thomas-Mann-Straße"
 housenumber: 17

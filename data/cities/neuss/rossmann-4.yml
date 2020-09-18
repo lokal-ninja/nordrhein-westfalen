@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.2127758
 longitude: 6.6670246
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Venloer Straße"
 housenumber: 60

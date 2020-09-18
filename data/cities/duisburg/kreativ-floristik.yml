@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5274021
 longitude: 6.743227
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Dr.-Hans-Böckler-Straße"
 housenumber: 1

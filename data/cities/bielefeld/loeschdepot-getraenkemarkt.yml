@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.0494952
 longitude: 8.5212115
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 235

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.266042600000006
 longitude: 7.1386083000000005
-postcode: 42105
+postcode: "42105"
 city: Wuppertal
 street: "Unterer Dorrenberg"
 housenumber: 15

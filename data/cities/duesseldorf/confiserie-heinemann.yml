@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.231360200000005
 longitude: 6.7558468000000005
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Luegallee"
 housenumber: 47

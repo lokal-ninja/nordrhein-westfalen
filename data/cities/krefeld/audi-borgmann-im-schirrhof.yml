@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 51.3440457
 longitude: 6.5601846
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Nassauerring"
 housenumber: 45
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa 08:00-12:30"
 website: ""

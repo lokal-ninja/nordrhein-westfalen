@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.0153843
 longitude: 8.5390627
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rohrteichstraße"
 housenumber: 51

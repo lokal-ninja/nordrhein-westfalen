@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.716720800000004
 longitude: 8.742554700000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Rembertstraße"
 housenumber: 10

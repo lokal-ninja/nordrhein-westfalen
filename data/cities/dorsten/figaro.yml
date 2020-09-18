@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.65947310000001
 longitude: 6.963977600000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Essener Straße"
 housenumber: 20

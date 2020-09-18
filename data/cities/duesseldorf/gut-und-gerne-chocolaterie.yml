@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.2263603
 longitude: 6.772100300000001
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Burgplatz"
 housenumber: 5

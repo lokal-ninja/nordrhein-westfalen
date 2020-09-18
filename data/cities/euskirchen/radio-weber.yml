@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.6302083
 longitude: 6.8114587
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Stotzheimer Straße"
 housenumber: 37

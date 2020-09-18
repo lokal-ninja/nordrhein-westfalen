@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 51.4944921
 longitude: 6.9543618
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Econova-Allee"
 housenumber: 2
 phone: "+49 201 861850"
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.hornbach.de/cms/de/de/mein_hornbach/hornbach_maerkte/hornbach-essen.html?WT.srch=1&WT.mc_id=DE_P_Brand_AW_772180938&gclid=EAIaIQobChMI1sfl7s6i2QIVFDwbCh0NOAipEAAYASAAEgIGqvD_BwE"
+website: "https://www.hornbach.de"

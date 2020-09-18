@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.411194300000005
 longitude: 6.8685263
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 205

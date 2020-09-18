@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7181852
 longitude: 8.7483956
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königstraße"
 housenumber: 21,23

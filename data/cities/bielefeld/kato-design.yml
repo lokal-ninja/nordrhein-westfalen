@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0190611
 longitude: 8.5325395
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Gehrenberg"
 housenumber: 20

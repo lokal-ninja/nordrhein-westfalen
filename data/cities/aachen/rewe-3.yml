@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.750271000000005
 longitude: 6.1714105
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Freunder Landstraße"
 housenumber: 33-35

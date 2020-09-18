@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1748222
 longitude: 6.8330307
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 18a

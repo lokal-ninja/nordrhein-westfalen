@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.257693100000004
 longitude: 7.146827900000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Schwanenstraße"
 housenumber: 46

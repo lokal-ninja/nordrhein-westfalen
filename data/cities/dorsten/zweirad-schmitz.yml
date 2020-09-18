@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 51.6530622
 longitude: 6.9781278
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Barbarastraße"
 housenumber: 55/4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
 website: "https://www.zweiradexperte.de/"

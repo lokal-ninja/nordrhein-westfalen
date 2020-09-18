@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8174362
 longitude: 6.264271000000001
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Marienstraße"
 housenumber: 28

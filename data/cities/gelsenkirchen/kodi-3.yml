@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 51.507938100000004
 longitude: 7.0989510000000005
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofstraße"
 housenumber: 53

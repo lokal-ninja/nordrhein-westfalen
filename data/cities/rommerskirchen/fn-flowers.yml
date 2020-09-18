@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.0395369
 longitude: 6.67851
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Rudolf-Diesel-Straße"
 housenumber: 14

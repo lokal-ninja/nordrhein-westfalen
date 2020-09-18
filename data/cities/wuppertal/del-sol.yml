@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.236140600000006
 longitude: 7.085400300000001
-postcode: 42327
+postcode: "42327"
 city: Wuppertal
 street: "Goethestraße"
 housenumber: 42 - 44

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.37294300000001
 longitude: 6.5096406
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Hülser Markt"
 housenumber: 7

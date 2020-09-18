@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4633655
 longitude: 6.644153500000001
-postcode: 47443
+postcode: "47443"
 city: Moers
 street: "Bismarckstraße"
 housenumber: 49

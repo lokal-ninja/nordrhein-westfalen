@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.656480800000004
 longitude: 6.7679651000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kommerner Straße"
 housenumber: 147-149

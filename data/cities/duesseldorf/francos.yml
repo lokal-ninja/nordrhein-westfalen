@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2279787
 longitude: 6.791960400000001
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 7

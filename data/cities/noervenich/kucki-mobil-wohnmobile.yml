@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 50.8111235
 longitude: 6.6588224
-postcode: 52388
+postcode: "52388"
 city: Nörvenich
 street: "Gewerbepark"
 housenumber: 63-65

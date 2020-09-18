@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.7705141
 longitude: 6.107901200000001
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Oppenhoffallee"
 housenumber: 117

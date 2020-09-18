@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7540083
 longitude: 8.045359300000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Oststraße"
 housenumber: 46

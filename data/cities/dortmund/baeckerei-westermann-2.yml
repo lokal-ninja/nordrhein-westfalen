@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.507296600000004
 longitude: 7.4966870000000005
-postcode: 44141
+postcode: "44141"
 city: Dortmund
 street: "Im Defdahl"
 housenumber: 89

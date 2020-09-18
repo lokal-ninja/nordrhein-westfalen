@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.113094100000005
 longitude: 6.7593274
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Heerstraße"
 housenumber: 9;11

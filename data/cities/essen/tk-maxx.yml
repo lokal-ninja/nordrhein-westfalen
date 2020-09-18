@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.4577041
 longitude: 7.008440500000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Limbecker Straße"
 housenumber: 59

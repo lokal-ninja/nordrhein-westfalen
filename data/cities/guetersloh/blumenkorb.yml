@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.897698600000005
 longitude: 8.378834000000001
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Neuenkirchener Straße"
 housenumber: 49

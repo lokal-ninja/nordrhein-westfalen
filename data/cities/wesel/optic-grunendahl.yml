@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.6566205
 longitude: 6.6115012
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Großer Markt"
 housenumber: 5

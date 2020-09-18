@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.9282837
 longitude: 6.3616695000000005
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Berliner Straße"
 housenumber: 28

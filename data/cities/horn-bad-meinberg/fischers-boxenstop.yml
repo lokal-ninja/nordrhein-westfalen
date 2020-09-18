@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.881175000000006
 longitude: 8.9450287
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Siemensstraße"
 housenumber: 14

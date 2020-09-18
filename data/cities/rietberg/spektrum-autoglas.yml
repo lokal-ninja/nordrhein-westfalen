@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.79379350000001
 longitude: 8.426641400000001
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Industriestraße"
 housenumber: 48

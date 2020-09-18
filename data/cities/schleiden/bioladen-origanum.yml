@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.530508000000005
 longitude: 6.4773147
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "Reidtmeisterstraße"
 housenumber: 14

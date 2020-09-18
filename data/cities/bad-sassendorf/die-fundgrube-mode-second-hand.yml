@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.564113500000005
 longitude: 8.1905841
-postcode: 59505
+postcode: "59505"
 city: Bad Sassendorf
 street: "An der Helle"
 housenumber: 43

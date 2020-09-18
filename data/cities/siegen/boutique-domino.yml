@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8962835
 longitude: 8.026555400000001
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Hauptmarkt"
 housenumber: 15

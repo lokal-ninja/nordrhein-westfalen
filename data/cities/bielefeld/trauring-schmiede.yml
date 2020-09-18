@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.022117
 longitude: 8.529864700000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Ritterstraße"
 housenumber: 11

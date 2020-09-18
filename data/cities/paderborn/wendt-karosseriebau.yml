@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6953891
 longitude: 8.7103186
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Am Ziegenberg"
 housenumber: 1

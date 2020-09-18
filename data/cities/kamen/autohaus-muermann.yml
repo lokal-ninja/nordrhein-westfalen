@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5689244
 longitude: 7.6755130000000005
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Schattweg"
 housenumber: 1

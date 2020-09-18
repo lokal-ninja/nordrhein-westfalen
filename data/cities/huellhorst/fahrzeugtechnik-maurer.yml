@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.260744300000006
 longitude: 8.651906700000001
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Büttendorfer Straße"
 housenumber: 135

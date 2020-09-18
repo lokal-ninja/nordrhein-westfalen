@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2088948
 longitude: 6.778425
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 152

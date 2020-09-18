@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9250896
 longitude: 7.8465696000000005
-postcode: 48351
+postcode: "48351"
 city: Everswinkel
 street: "Vitusstraße"
 housenumber: 22

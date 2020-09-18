@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.33601710000001
 longitude: 6.5751764
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Uerdinger Straße"
 housenumber: 66

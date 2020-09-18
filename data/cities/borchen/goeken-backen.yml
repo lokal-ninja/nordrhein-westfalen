@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6530697
 longitude: 8.717133
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Haarener Straße"
 housenumber: 60

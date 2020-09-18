@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.901891500000005
 longitude: 6.8894405
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Bellerstraße"
 housenumber: 92

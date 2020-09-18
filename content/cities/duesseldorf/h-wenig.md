@@ -1,4 +1,4 @@
 ---
-title: "H.Wenig"
+title: "H. Wenig"
 url: /duesseldorf/h-wenig/
 ---

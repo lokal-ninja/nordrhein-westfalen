@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.601215100000005
 longitude: 6.9326879
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Merzbacher Straße"
 housenumber: 46

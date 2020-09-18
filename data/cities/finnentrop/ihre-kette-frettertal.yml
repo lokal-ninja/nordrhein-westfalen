@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.192882000000004
 longitude: 8.047032100000001
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "Esloher Straße"
 housenumber: 166

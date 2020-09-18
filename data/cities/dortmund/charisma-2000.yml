@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.513706500000005
 longitude: 7.475245
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Kaiserstraße"
 housenumber: 15a

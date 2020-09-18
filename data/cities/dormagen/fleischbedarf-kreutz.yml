@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1131277
 longitude: 6.7597906000000005
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Heerstraße"
 housenumber: 9;11

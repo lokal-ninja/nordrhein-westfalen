@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7983078
 longitude: 7.210813900000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Holzgasse"
 housenumber: 41

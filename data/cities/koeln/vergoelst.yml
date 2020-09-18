@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9371475
 longitude: 6.9286861
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Aachener Straße"
 housenumber: 112

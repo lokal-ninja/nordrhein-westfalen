@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.7581378
 longitude: 8.0417789
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Nordstraße"
 housenumber: 52

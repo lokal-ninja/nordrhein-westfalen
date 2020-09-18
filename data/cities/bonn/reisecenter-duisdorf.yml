@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.71455
 longitude: 7.0474315
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 230-234

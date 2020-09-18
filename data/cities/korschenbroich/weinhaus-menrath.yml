@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.199632
 longitude: 6.510070300000001
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Herrenshoffer Straße"
 housenumber: 60

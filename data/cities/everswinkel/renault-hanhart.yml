@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.930615200000005
 longitude: 7.852558500000001
-postcode: 48351
+postcode: "48351"
 city: Everswinkel
 street: "Bahnhofstraße"
 housenumber: 32

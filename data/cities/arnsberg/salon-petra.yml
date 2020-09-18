@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.424835400000006
 longitude: 8.023768800000001
-postcode: 59759
+postcode: "59759"
 city: Arnsberg
 street: "Bruchhausener Straße"
 housenumber: 29a

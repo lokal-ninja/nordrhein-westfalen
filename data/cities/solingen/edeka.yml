@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1913454
 longitude: 7.0711224
-postcode: 42719
+postcode: "42719"
 city: Solingen
 street: "Focher Straße"
 housenumber: 31

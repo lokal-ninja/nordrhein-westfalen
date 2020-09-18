@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1637081
 longitude: 6.8634373
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Benrodestraße"
 housenumber: 58

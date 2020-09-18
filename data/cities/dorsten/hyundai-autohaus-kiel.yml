@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6743121
 longitude: 6.9443980000000005
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Pliesterbecker Straße"
 housenumber: 139

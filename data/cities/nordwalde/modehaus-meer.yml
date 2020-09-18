@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 52.085531200000005
 longitude: 7.4838111000000005
-postcode: 48356
+postcode: "48356"
 city: Nordwalde
 street: "Emsdettener Straße"
 housenumber: 13

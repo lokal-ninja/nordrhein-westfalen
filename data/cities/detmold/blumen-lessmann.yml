@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 51.930162200000005
 longitude: 8.8365534
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Hiddeser Straße"
 housenumber: 136
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 5231 88561"
+opening_hours: "Mo, Sa 08:30-13:00; Tu-Fr 08:30-13:00, 14:30-18:00"
+website: "http://www.blumen-lessmann.de"

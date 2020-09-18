@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.0195567
 longitude: 8.5281641
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 49

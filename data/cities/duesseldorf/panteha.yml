@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.237963
 longitude: 6.799051
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 132

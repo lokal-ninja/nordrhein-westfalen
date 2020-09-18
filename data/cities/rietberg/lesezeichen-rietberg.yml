@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.8075272
 longitude: 8.4270932
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Rathausstraße"
 housenumber: 39

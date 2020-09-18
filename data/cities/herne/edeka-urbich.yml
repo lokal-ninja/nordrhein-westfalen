@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5487843
 longitude: 7.279541900000001
-postcode: 44627
+postcode: "44627"
 city: Herne
 street: "Castroper Straße"
 housenumber: 373

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.638874900000005
 longitude: 8.5093966
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Bachstraße"
 housenumber: 46

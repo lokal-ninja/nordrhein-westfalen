@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.661377400000006
 longitude: 7.644536400000001
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Lippestraße"
 housenumber: 17

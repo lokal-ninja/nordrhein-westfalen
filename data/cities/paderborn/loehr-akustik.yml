@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.7171139
 longitude: 8.7562839
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Grube"
 housenumber: 11

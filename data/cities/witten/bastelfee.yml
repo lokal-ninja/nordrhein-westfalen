@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.4394659
 longitude: 7.351125400000001
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Arthur-Imhausen-Straße"
 housenumber: 27

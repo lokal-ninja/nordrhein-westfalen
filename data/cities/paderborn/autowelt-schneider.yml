@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.732343400000005
 longitude: 8.778475700000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Alois-Lödige-Straße"
 housenumber: 1

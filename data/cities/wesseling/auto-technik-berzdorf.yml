@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.830783100000005
 longitude: 6.9436983
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Hauptstraße"
 housenumber: 135

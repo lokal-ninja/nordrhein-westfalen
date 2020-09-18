@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.219233
 longitude: 6.679777700000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Normannenstraße"
 housenumber: 24-28

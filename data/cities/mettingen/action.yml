@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3143128
 longitude: 7.7846994
-postcode: 49497
+postcode: "49497"
 city: Mettingen
 street: "Ibbenbürener Straße"
 housenumber: 1

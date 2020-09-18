@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.75356420000001
 longitude: 8.387231400000001
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Lippstädter Straße"
 housenumber: 40

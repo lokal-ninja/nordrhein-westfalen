@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.64241620000001
 longitude: 7.2601645
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Stimbergstraße"
 housenumber: 132

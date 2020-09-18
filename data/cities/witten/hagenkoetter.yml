@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4534297
 longitude: 7.4046729000000004
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Auf dem Wellerskamp"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5795667
 longitude: 7.0532687
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Blindestraße"
 housenumber: 1

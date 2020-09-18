@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.287688800000005
 longitude: 7.229116500000001
-postcode: 42277
+postcode: "42277"
 city: Wuppertal
 street: "Vor der Beule"
 housenumber: 4

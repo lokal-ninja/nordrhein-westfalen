@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.239812400000005
 longitude: 6.780899000000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Mauerstraße"
 housenumber: 2

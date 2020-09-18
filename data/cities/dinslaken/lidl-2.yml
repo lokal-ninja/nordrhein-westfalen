@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5732263
 longitude: 6.729911400000001
-postcode: 46537
+postcode: "46537"
 city: Dinslaken
 street: "Hedwigstraße"
 housenumber: 18

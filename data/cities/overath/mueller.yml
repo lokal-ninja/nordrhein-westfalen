@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.933119100000006
 longitude: 7.288795
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Bahnhofplatz"
 housenumber: 9

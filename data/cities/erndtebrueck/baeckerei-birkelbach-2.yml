@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9866224
 longitude: 8.255840300000001
-postcode: 57339
+postcode: "57339"
 city: Erndtebrück
 street: "Bergstraße"
 housenumber: 25

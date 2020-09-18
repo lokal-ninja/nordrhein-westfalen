@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0441372
 longitude: 8.4862947
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Kreuzberger Straße"
 housenumber: 19

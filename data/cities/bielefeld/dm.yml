@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.0379725
 longitude: 8.5256051
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Apfelstraße"
 housenumber: 8

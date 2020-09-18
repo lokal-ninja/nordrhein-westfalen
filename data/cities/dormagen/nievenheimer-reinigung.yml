@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.112775400000004
 longitude: 6.764053100000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Hindenburgstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9818694
 longitude: 8.036604800000001
-postcode: 48336
+postcode: "48336"
 city: Sassenberg
 street: "Schürenstraße"
 housenumber: 51

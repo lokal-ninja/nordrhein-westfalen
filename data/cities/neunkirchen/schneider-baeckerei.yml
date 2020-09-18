@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7895885
 longitude: 8.000968
-postcode: 57290
+postcode: "57290"
 city: Neunkirchen
 street: "Bitzegarten"
 housenumber: 6

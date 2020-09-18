@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.6463395
 longitude: 6.817487300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Auf der Rauschen"
 housenumber: 12

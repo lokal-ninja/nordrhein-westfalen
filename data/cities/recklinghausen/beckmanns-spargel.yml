@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.622506300000005
 longitude: 7.251201300000001
-postcode: 45665
+postcode: "45665"
 city: Recklinghausen
 street: "Esseler Straße"
 housenumber: 163

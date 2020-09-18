@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.177896700000005
 longitude: 6.856360700000001
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Henkelstraße"
 housenumber: 270

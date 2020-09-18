@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3302934
 longitude: 6.6121137
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Maybachstraße"
 housenumber: 176

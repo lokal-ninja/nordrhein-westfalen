@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.0225834
 longitude: 8.5398505
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 99

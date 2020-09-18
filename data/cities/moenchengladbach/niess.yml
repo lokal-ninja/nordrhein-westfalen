@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.189551
 longitude: 6.4512714
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Erzbergerstraße"
 housenumber: 139

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0115841
 longitude: 8.702887800000001
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Krentruper Straße"
 housenumber: 34

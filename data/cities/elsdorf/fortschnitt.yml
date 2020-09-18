@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.9209511
 longitude: 6.588482300000001
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Kerpener Straße"
 housenumber: 89

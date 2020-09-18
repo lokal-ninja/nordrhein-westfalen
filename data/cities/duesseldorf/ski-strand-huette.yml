@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.2317794
 longitude: 6.7605461
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Luegallee"
 housenumber: 4

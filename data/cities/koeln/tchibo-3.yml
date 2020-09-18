@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.892167300000004
 longitude: 6.9962306000000005
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 81

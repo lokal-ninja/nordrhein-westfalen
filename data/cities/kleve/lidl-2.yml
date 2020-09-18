@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7899351
 longitude: 6.154246400000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Van-den-Bergh-Straße"
 housenumber: 60-62

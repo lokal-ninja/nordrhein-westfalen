@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.936299000000005
 longitude: 8.881106800000001
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Lange Straße"
 housenumber: 66

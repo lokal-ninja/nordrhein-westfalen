@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.0983858
 longitude: 6.7195912
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Bergheimer Straße"
 housenumber: 125

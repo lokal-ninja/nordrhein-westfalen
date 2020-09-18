@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.40119910000001
 longitude: 7.187131900000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Heggerstraße"
 housenumber: 53

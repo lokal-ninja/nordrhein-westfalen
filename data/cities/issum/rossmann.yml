@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.4908006
 longitude: 6.4408637
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Rheurdter Straße"
 housenumber: 72a

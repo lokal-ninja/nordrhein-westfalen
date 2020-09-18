@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.972661200000005
 longitude: 6.691327800000001
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Am Grüneck"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.776860500000005
 longitude: 6.080841
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Eilfschornsteinstraße"
 housenumber: 6

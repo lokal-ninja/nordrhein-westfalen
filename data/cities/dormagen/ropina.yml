@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0928982
 longitude: 6.8424091
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 79;81

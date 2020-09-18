@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.364963
 longitude: 7.617574
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 5

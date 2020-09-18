@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.217961800000005
 longitude: 6.7792010000000005
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 106

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4355667
 longitude: 7.330123100000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Bergerstraße"
 housenumber: 35

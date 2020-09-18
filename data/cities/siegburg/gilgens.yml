@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.799244
 longitude: 7.1863926000000005
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Isaac-Bürger-Straße"
 housenumber: 1

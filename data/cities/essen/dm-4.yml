@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.472146800000004
 longitude: 6.950035000000001
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Marktstraße"
 housenumber: 10

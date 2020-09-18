@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.674969700000005
 longitude: 6.8200015
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Lütticher Straße"
 housenumber: 8a

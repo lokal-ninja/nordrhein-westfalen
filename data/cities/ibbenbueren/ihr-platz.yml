@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.295508000000005
 longitude: 7.658658600000001
-postcode: 49479
+postcode: "49479"
 city: Ibbenbüren
 street: "Jordanstraße"
 housenumber: 5-7

@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 50.887075100000004
 longitude: 7.44247
-postcode: 53804
+postcode: "53804"
 city: Much
 street: "Dorfstraße"
 housenumber: 38

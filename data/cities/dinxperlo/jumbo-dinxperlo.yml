@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8611097
 longitude: 6.495055600000001
-postcode: 7091BT
+postcode: "7091BT"
 city: Dinxperlo
 street: "Heelweg / Hellweg"
 housenumber: 73

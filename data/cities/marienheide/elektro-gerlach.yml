@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.0829667
 longitude: 7.531820100000001
-postcode: 51709
+postcode: "51709"
 city: Marienheide
 street: "Hauptstraße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.963574300000005
 longitude: 7.629494200000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Alter Fischmarkt"
 housenumber: 22

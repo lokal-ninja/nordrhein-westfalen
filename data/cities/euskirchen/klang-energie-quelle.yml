@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6618682
 longitude: 6.8027885
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Keltenring"
 housenumber: 10

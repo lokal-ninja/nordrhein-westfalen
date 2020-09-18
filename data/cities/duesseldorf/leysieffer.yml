@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.2236242
 longitude: 6.77953
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.939394300000004
 longitude: 8.8759063
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Wiesenstraße"
 housenumber: 2-6

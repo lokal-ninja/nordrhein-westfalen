@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4497701
 longitude: 6.972744100000001
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Gervinusstraße"
 housenumber: 2

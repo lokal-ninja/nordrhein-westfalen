@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6148243
 longitude: 7.201505200000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Grafenwall"
 housenumber: 1

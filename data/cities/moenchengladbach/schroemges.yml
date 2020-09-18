@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2243915
 longitude: 6.468373400000001
-postcode: 41066
+postcode: "41066"
 city: Mönchengladbach
 street: "Liebfrauenstraße"
 housenumber: 51

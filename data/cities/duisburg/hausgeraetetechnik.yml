@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 51.4006971
 longitude: 6.6991822
-postcode: 47229
+postcode: "47229"
 city: Duisburg
 street: "Ulmenstraße"
 housenumber: 36

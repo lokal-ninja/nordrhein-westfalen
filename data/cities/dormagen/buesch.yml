@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.117923000000005
 longitude: 6.775093600000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Bismarckstraße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.740517700000005
 longitude: 7.065970600000001
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Am Krähenhorst"
 housenumber: 2

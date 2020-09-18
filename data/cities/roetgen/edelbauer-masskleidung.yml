@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.645381300000004
 longitude: 6.194453500000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Hauptstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.894627400000005
 longitude: 6.287209900000001
-postcode: 52457
+postcode: "52457"
 city: Aldenhoven
 street: "Alte Turmstraße"
 housenumber: 56

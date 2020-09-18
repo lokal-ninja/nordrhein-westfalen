@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.647686300000004
 longitude: 7.150276000000001
-postcode: 53343
+postcode: "53343"
 city: Wachtberg
 street: "Am Bonner Graben"
 housenumber: 

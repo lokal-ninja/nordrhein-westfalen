@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3723718
 longitude: 6.5105259
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Auf dem Graben"
 housenumber: 26

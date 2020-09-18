@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0458511
 longitude: 8.3759806
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: ""
 housenumber: 

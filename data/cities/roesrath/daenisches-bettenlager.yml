@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.8956876
 longitude: 7.1830045
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Sülztalplatz"
 housenumber: 1

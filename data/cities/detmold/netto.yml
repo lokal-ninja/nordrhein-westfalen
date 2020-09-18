@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.924700900000005
 longitude: 8.8420697
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Friedrich-Ebert-Straße"
 housenumber: 99

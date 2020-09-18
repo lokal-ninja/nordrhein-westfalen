@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.5185188
 longitude: 7.466469
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Auf dem Berge"
 housenumber: 8

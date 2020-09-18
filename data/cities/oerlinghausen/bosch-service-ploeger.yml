@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9799342
 longitude: 8.714529
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Bahnhofstraße"
 housenumber: 90

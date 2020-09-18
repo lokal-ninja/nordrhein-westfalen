@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.1168095
 longitude: 6.9665518
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Hardt"
 housenumber: 7

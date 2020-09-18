@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4647833
 longitude: 7.494588800000001
-postcode: 44265
+postcode: "44265"
 city: Dortmund
 street: "Godekinstraße"
 housenumber: 150

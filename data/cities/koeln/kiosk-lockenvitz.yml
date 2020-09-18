@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.884855
 longitude: 7.0587119000000005
-postcode: 51143
+postcode: "51143"
 city: Köln
 street: "Hermannstraße"
 housenumber: 2

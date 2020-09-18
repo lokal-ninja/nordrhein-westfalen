@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1968843
 longitude: 6.4436052
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Hindenburgstraße"
 housenumber: 177

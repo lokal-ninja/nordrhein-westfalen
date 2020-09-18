@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1180224
 longitude: 8.5443715
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Jöllenbecker Straße"
 housenumber: 200

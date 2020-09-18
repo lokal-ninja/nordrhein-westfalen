@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2096728
 longitude: 6.7900912
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Ringelsweide"
 housenumber: 28b

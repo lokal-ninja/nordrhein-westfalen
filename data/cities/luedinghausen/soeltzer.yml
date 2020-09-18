@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7705588
 longitude: 7.4454193
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Mühlenstraße"
 housenumber: 15

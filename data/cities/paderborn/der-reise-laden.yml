@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.715990500000004
 longitude: 8.7407287
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 33

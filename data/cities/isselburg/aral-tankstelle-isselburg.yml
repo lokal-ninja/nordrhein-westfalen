@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.8181517
 longitude: 6.4434427
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Dekkers Waide"
 housenumber: 1

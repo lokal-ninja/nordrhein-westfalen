@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.65989870000001
 longitude: 6.7892185000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 23

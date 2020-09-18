@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.726287600000006
 longitude: 7.079481
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Endenicher Allee"
 housenumber: 118

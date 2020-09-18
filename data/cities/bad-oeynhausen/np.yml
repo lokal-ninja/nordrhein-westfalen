@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2108094
 longitude: 8.8130708
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Mindener Straße"
 housenumber: 67a

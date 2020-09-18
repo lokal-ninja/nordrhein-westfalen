@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.458984
 longitude: 8.852189300000001
-postcode: 34431
+postcode: "34431"
 city: Marsberg
 street: "Am Burghof"
 housenumber: 4

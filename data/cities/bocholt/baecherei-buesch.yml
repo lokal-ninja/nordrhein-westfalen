@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.860416900000004
 longitude: 6.4992497
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Wiggerstraße"
 housenumber: 2

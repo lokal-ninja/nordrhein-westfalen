@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5264157
 longitude: 7.192815700000001
-postcode: 44625
+postcode: "44625"
 city: Herne
 street: "Holsterhauser Straße"
 housenumber: 90

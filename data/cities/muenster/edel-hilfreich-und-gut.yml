@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.970900300000004
 longitude: 7.631337
-postcode: 48147
+postcode: "48147"
 city: Münster
 street: "Kanalstraße"
 housenumber: 33

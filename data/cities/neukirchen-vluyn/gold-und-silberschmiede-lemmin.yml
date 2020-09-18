@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.437982000000005
 longitude: 6.5295123
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Niederrheinallee"
 housenumber: 352

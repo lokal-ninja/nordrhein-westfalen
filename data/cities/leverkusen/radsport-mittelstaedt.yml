@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.0507866
 longitude: 6.9506917
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Wupperstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.031072400000006
 longitude: 6.696615400000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9442985
 longitude: 7.1646643
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Kleine Viehstraße"
 housenumber: 27

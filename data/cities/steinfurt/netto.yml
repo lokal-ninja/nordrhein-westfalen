@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.143950200000006
 longitude: 7.33725
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Baumgarten"
 housenumber: 2

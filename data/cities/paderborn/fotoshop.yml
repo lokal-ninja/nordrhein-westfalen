@@ -3,7 +3,7 @@ type: node
 shop: Kamera
 latitude: 51.7164608
 longitude: 8.7480867
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Westernstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.120451900000006
 longitude: 6.8496696
-postcode: 41541
+postcode: "41541"
 city: Dormagen
 street: "Schloßstraße"
 housenumber: 24

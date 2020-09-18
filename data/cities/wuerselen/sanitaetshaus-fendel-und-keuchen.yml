@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.8137278
 longitude: 6.1425188
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Mauerfeldchen"
 housenumber: 27a

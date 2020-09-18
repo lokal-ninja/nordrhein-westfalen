@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.2186893
 longitude: 8.752451500000001
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Osterkamp"
 housenumber: 

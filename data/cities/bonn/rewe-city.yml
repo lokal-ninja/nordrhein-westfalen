@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6964003
 longitude: 7.1592095
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Wurzerstraße"
 housenumber: 101-105

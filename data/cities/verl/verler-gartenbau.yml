@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.863750100000004
 longitude: 8.4958732
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Reckerdamm"
 housenumber: 12

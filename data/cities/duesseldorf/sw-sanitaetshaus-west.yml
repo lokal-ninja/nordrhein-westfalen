@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.2329987
 longitude: 6.755524800000001
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Oberkasseler Straße"
 housenumber: 99

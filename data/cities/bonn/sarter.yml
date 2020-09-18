@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.723150700000005
 longitude: 7.089402400000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Clemens-August-Straße"
 housenumber: 27

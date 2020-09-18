@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5716436
 longitude: 7.225541400000001
-postcode: 45663
+postcode: "45663"
 city: Recklinghausen
 street: "Marienstraße"
 housenumber: 96

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.5390111
 longitude: 7.2209481
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Freiligrathstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0878463
 longitude: 6.5913931
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 40

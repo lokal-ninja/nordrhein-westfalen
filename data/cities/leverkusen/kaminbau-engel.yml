@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.0603902
 longitude: 6.916798600000001
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Hafenstraße"
 housenumber: 5

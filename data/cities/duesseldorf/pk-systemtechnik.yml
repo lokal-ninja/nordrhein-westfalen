@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.236777000000004
 longitude: 6.7919583
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Moltkestraße"
 housenumber: 101

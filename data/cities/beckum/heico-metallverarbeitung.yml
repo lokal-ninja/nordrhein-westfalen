@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.754747800000004
 longitude: 8.0483873
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Stromberger Straße"
 housenumber: 12

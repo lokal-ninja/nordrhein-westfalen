@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9467173
 longitude: 6.8289498
-postcode: 50859
+postcode: "50859"
 city: Köln
 street: "Karl-Kaulen-Straße"
 housenumber: 4

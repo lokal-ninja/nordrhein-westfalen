@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.431058400000005
 longitude: 6.8387601
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Ruhrorter Straße"
 housenumber: 13

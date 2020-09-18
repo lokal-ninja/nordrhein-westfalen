@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5036209
 longitude: 7.459083700000001
-postcode: 44139
+postcode: "44139"
 city: Dortmund
 street: "Hohe Straße"
 housenumber: 62

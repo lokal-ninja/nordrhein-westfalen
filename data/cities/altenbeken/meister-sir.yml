@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.764178300000005
 longitude: 8.941711
-postcode: 
+postcode: ""
 city: Altenbeken
 street: "Bahnhofstraße"
 housenumber: 2

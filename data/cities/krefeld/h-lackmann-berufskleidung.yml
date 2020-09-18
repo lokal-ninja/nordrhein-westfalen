@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.327701100000006
 longitude: 6.5652604000000006
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Südwall"
 housenumber: 30a

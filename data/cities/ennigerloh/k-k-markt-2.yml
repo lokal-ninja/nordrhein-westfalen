@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8288955
 longitude: 7.936846500000001
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Hauptstraße"
 housenumber: 2a

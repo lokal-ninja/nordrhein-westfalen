@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.47455780000001
 longitude: 6.9518002
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Germaniaplatz"
 housenumber: 7

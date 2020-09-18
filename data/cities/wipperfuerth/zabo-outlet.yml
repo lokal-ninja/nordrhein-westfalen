@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1165365
 longitude: 7.395404600000001
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Untere Straße"
 housenumber: 3

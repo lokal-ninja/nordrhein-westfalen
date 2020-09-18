@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7351766
 longitude: 7.288852800000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Antruper Straße"
 housenumber: 2-6

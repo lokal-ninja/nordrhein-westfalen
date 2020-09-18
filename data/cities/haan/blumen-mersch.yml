@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1956038
 longitude: 7.014906000000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Alleestraße"
 housenumber: 3

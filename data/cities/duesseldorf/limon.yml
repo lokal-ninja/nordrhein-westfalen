@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.212500600000006
 longitude: 6.7744445
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Kirchfeldstraße"
 housenumber: 46

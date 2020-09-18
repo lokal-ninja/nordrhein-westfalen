@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.9062343
 longitude: 8.378856
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Berliner Straße"
 housenumber: 22

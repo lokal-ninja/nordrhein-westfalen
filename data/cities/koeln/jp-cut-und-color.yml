@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.930935600000005
 longitude: 6.853866
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Wilhelm-von-Capitaine-Straße"
 housenumber: 15-17

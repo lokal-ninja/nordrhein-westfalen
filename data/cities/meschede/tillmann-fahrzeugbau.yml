@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3553135
 longitude: 8.250251800000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Enster Straße"
 housenumber: 6

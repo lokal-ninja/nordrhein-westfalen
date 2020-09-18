@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9293689
 longitude: 6.9124483
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 217-219

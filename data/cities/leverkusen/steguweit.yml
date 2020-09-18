@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.0544962
 longitude: 6.985356500000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Auf dem Weierberg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0059309
 longitude: 6.4856607
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Zaunstraße"
 housenumber: 63

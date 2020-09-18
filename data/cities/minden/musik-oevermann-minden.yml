@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.290756900000005
 longitude: 8.901097700000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Ringstraße"
 housenumber: 69

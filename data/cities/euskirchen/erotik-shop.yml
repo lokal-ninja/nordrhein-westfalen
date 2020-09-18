@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.660507100000004
 longitude: 6.7984182
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kölner Straße"
 housenumber: 64

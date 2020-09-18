@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.623299700000004
 longitude: 6.9397397000000005
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Mühlenpatt"
 housenumber: 12

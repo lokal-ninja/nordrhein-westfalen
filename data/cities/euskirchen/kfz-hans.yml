@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6511184
 longitude: 6.828318400000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Bachstraße"
 housenumber: 6

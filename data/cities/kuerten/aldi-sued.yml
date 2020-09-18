@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0397176
 longitude: 7.2112249
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Kölner Straße"
 housenumber: 371

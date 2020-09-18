@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.231596800000005
 longitude: 6.6143063
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Friedensstraße"
 housenumber: 22a

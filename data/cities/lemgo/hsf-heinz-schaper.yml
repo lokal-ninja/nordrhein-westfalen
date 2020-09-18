@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0285858
 longitude: 8.876764000000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Herforder Straße"
 housenumber: 93

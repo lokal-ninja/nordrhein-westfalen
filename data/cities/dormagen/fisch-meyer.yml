@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.094569
 longitude: 6.8117532
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 1

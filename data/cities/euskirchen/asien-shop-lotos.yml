@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.6590411
 longitude: 6.7896989
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 27

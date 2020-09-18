@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6580899
 longitude: 7.0725259000000005
-postcode: 45768
+postcode: "45768"
 city: Marl
 street: "Schachtstraße"
 housenumber: 95

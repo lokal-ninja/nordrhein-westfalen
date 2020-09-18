@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.994295300000005
 longitude: 8.799757600000001
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Hermannstraße"
 housenumber: 1

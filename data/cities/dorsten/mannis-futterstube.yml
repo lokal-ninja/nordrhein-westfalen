@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.7224567
 longitude: 7.0240619
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Auf der Lehmkuhl"
 housenumber: 2

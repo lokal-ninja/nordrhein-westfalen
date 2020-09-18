@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2385244
 longitude: 6.7999635000000005
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 150

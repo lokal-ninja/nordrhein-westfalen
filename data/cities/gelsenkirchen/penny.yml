@@ -1,12 +1,12 @@
-id: 247753901
+id: 247703273
 type: node
 shop: Supermarkt
-latitude: 51.556424500000006
-longitude: 7.0956181
-postcode: 45891
+latitude: 51.539152400000006
+longitude: 7.0258270000000005
+postcode: "45899"
 city: Gelsenkirchen
-street: "Cranger Straße"
-housenumber: 330;332
+street: "Essener Straße"
+housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

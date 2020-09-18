@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9449248
 longitude: 6.9087518
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Oskar-Jäger-Straße"
 housenumber: 54

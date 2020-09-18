@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4717738
 longitude: 6.948417900000001
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Fürstäbtissinstraße"
 housenumber: 5

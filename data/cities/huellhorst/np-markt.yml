@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2743741
 longitude: 8.7053881
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Schnathorster Straße"
 housenumber: 182

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.9655222
 longitude: 6.7501052
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Zum Gut Neuhof"
 housenumber: 1

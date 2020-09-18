@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.4319713
 longitude: 6.765487500000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Düsseldorfer Straße"
 housenumber: 32

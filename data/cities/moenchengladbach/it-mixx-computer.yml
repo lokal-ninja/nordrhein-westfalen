@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.168358500000004
 longitude: 6.442769500000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Mühlenstraße"
 housenumber: 36

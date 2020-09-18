@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.784260700000004
 longitude: 7.1962234
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Bonner Straße"
 housenumber: 70a

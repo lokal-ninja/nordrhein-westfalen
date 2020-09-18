@@ -1,12 +1,12 @@
-id: 2704050141
+id: 3390778959
 type: node
 shop: Bäckerei
-latitude: 52.004903600000006
-longitude: 8.511196400000001
-postcode: 33617
+latitude: 52.0333959
+longitude: 8.5257964
+postcode: "33613"
 city: Bielefeld
-street: "Eggeweg"
-housenumber: 2
+street: "Kurze Straße"
+housenumber: 6
 phone: ""
-opening_hours: ""
-website: "https://www.baeckerei-buerenkemper.de/"
+opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:30"
+website: ""

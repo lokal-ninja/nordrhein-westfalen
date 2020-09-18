@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.063180800000005
 longitude: 6.092210700000001
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Kirchhovener Straße"
 housenumber: 20

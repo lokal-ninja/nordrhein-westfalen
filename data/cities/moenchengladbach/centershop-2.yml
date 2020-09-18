@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.192671100000005
 longitude: 6.4142665
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: ""
 housenumber: 

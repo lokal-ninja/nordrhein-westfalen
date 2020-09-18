@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.654909
 longitude: 7.098416500000001
-postcode: 45768
+postcode: "45768"
 city: Marl
 street: "Bergstraße"
 housenumber: 228

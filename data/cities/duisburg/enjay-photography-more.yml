@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 51.428003700000005
 longitude: 6.790017700000001
-postcode: 47057
+postcode: "47057"
 city: Duisburg
 street: "Grabenstraße"
 housenumber: 85

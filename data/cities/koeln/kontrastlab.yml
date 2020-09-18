@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.952259600000005
 longitude: 6.9552772
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Melchiorstraße"
 housenumber: 14

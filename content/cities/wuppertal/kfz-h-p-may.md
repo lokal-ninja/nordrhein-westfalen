@@ -1,4 +1,4 @@
 ---
-title: "KFZ H.P.May"
+title: "KFZ H.P. May"
 url: /wuppertal/kfz-h-p-may/
 ---

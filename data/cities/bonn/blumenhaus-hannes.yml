@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6984574
 longitude: 7.129340600000001
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Annaberger Straße"
 housenumber: 123

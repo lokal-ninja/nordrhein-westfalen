@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.595566600000005
 longitude: 7.4340269
-postcode: 44536
+postcode: "44536"
 city: Lünen
 street: "Mengeder Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.7734473
 longitude: 6.0891394000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Wespienstraße"
 housenumber: 2

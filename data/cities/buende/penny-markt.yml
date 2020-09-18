@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2059099
 longitude: 8.5850643
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Borriesstraße"
 housenumber: 132

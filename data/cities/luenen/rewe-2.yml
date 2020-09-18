@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.594049600000005
 longitude: 7.5486724
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Baukelweg"
 housenumber: 3

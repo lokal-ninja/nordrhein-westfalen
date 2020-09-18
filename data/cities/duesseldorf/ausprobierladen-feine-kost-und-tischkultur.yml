@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.1633964
 longitude: 6.864519700000001
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Benrodestraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.661814
 longitude: 6.779409800000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Winkelpfad"
 housenumber: 12

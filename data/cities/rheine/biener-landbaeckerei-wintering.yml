@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.277871100000006
 longitude: 7.436778200000001
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Borneplatz"
 housenumber: 3

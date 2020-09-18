@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.456122
 longitude: 6.635702800000001
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Baustraße"
 housenumber: 27

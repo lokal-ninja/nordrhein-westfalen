@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.6576886
 longitude: 6.9555977
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Pfarrer-Wilhelm-Schmitz-Straße"
 housenumber: 5

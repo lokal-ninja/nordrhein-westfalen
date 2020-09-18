@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.6955844
 longitude: 7.124056100000001
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Annaberger Straße"
 housenumber: 227

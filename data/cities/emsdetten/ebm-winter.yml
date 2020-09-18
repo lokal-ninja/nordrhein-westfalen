@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.167432000000005
 longitude: 7.502845400000001
-postcode: 48282
+postcode: "48282"
 city: Emsdetten
 street: "Goldbergweg"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4755474
 longitude: 7.2371239
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 123a

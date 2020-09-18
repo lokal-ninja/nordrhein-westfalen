@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5356875
 longitude: 6.4218172000000004
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Ahornstraße"
 housenumber: 5

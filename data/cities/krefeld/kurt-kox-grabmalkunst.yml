@@ -3,7 +3,7 @@ type: node
 shop: Steine
 latitude: 51.296165800000004
 longitude: 6.597397900000001
-postcode: 47807
+postcode: "47807"
 city: Krefeld
 street: "Kölner Straße"
 housenumber: 760

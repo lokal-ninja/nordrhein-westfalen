@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.495526100000006
 longitude: 7.2842696
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 10

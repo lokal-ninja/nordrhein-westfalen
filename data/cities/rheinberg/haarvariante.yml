@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.54175480000001
 longitude: 6.5837937
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
 street: "Grote Gert"
 housenumber: 25

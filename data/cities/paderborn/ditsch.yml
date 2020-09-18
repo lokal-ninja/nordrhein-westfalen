@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7034431
 longitude: 8.7694012
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

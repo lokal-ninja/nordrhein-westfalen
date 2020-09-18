@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.480984500000005
 longitude: 7.1634997
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Bochumer Straße"
 housenumber: 119

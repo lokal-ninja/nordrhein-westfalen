@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.1259645
 longitude: 7.5521843
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Grevener Landstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3372801
 longitude: 8.7451486
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Brennhorster Straße"
 housenumber: 12

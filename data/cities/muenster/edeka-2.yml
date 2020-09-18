@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9722091
 longitude: 7.635320800000001
-postcode: 48147
+postcode: "48147"
 city: Münster
 street: "Gartenstraße"
 housenumber: 83

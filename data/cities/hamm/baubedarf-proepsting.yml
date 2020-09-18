@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.6708244
 longitude: 7.815739000000001
-postcode: 59063
+postcode: "59063"
 city: Hamm
 street: "Schumannstraße"
 housenumber: 14

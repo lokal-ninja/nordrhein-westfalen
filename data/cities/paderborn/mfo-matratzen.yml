@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.736669500000005
 longitude: 8.7676262
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 111

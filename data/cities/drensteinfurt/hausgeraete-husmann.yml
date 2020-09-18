@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.797539
 longitude: 7.7403402
-postcode: 48317
+postcode: "48317"
 city: Drensteinfurt
 street: "Wagenfeldstraße"
 housenumber: 18

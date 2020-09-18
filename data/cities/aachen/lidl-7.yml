@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.770752400000006
 longitude: 6.0585598
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Weststraße"
 housenumber: 50

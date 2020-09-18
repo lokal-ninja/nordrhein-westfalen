@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.7983642
 longitude: 7.2093657
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Scheerengasse"
 housenumber: 4

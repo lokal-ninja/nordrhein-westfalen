@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.240919100000006
 longitude: 7.629486600000001
-postcode: 58513
+postcode: "58513"
 city: Lüdenscheid
 street: "Altenaer Straße"
 housenumber: 163c

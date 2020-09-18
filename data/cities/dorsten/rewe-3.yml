@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6605855
 longitude: 6.9685398
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Platz der Deutschen Einheit"
 housenumber: 1

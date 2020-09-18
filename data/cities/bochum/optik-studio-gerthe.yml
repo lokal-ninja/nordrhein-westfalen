@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5190264
 longitude: 7.2780212
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Gerther Straße"
 housenumber: 6

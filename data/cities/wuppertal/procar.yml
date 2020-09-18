@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.252326000000004
 longitude: 7.1311653
-postcode: 42117
+postcode: "42117"
 city: Wuppertal
 street: "Friedrich-Ebert-Straße"
 housenumber: 105

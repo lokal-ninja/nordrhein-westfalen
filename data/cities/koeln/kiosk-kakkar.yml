@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.904759500000004
 longitude: 6.942529700000001
-postcode: 50969
+postcode: "50969"
 city: Köln
 street: "Zollstockgürtel"
 housenumber: 21

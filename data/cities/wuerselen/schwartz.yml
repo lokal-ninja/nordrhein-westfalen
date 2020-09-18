@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8375501
 longitude: 6.1799550000000005
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Lindener Straße"
 housenumber: 178

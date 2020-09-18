@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3488308
 longitude: 8.2801849
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Le-Puy-Straße"
 housenumber: 15

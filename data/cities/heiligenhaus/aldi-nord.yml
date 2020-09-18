@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.32479420000001
 longitude: 6.9436295
-postcode: 42579
+postcode: "42579"
 city: Heiligenhaus
 street: "Höseler Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.439747700000005
 longitude: 6.917280000000001
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Hänflingstraße"
 housenumber: 12

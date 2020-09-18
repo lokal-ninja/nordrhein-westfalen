@@ -1,12 +1,12 @@
 id: 4992129355
 type: node
 shop: Allgemein
-latitude: 51.219
-longitude: 7.6196643
-postcode: 58509
+latitude: 51.218963
+longitude: 7.6196402
+postcode: "58509"
 city: Lüdenscheid
 street: "Jahnstraße"
 housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,We,Fr 09:30-12:30, 14:30-18:00; Tu,Th,Sa,Su,PH off"
 website: ""

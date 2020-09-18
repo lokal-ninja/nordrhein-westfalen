@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.743794
 longitude: 8.713878000000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Schloßstraße"
 housenumber: 9

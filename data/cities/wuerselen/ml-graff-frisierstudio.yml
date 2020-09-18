@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.817316600000005
 longitude: 6.1332016000000005
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Markt"
 housenumber: 13

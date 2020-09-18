@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.9896724
 longitude: 8.0394033
-postcode: 48336
+postcode: "48336"
 city: Sassenberg
 street: "Von-Galen-Straße"
 housenumber: 21

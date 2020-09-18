@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.334472600000005
 longitude: 6.8328872
-postcode: 40885
+postcode: "40885"
 city: Ratingen
 street: "Speestraße"
 housenumber: 18

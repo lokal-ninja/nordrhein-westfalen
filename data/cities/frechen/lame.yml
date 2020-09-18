@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9095226
 longitude: 6.8114108
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Sternengasse"
 housenumber: 1

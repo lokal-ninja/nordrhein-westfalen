@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.371134000000005
 longitude: 6.511419200000001
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Krefelder Straße"
 housenumber: 45

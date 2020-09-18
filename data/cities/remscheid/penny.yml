@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.189681900000004
 longitude: 7.261440400000001
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Am Stadion"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

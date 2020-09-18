@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5049805
 longitude: 7.569954500000001
-postcode: 44287
+postcode: "44287"
 city: Dortmund
 street: "Schleefstraße"
 housenumber: 15

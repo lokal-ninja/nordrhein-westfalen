@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0971673
 longitude: 8.6807909
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Ahmser Straße"
 housenumber: 134b

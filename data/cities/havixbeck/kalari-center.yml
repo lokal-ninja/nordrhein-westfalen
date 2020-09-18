@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.97894410000001
 longitude: 7.411906800000001
-postcode: 48329
+postcode: "48329"
 city: Havixbeck
 street: "Stapeler Straße"
 housenumber: 1

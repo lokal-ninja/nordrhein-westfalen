@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7165071
 longitude: 8.7491854
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Westernstraße"
 housenumber: 26

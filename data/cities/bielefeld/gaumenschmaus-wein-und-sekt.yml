@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.989307200000006
 longitude: 8.5121953
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 67

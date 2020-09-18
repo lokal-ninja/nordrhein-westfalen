@@ -1,4 +1,4 @@
 ---
-title: "brooks"
+title: "Brooks"
 url: /bielefeld/brooks/
 ---

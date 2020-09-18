@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0427406
 longitude: 8.144196800000001
-postcode: 33775
+postcode: "33775"
 city: Versmold
 street: "Westheider Weg"
 housenumber: 25

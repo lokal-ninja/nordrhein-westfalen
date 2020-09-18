@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.209641500000004
 longitude: 6.793408100000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Volksgartenstraße"
 housenumber: 37

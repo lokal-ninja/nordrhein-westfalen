@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7891096
 longitude: 7.618862000000001
-postcode: 59387
+postcode: "59387"
 city: Ascheberg
 street: "Sandstraße"
 housenumber: 33

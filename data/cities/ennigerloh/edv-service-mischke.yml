@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.837199000000005
 longitude: 8.026060300000001
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Clemens-August-Straße"
 housenumber: 25

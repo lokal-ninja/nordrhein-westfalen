@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.1271859
 longitude: 8.629380000000001
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Engerstraße"
 housenumber: 180

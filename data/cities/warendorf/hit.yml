@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9471628
 longitude: 8.0001119
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Splieterstraße"
 housenumber: 23

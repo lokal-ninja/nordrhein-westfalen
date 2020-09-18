@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 51.430636
 longitude: 6.7581386000000006
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Musfeldstraße"
 housenumber: 10-12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.178529000000005
 longitude: 6.857845800000001
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Henkelstraße"
 housenumber: 288

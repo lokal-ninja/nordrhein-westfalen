@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5210286
 longitude: 6.9206728
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Osterfelder Straße"
 housenumber: 30

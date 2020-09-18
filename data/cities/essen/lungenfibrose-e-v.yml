@@ -3,10 +3,10 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.394298400000004
 longitude: 7.0832316
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
-housenumber: 
+housenumber: 114
 phone: ""
 opening_hours: ""
 website: "http://www.lungenfibrose.de"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.18422210000001
 longitude: 8.3217703
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Holthauser Straße"
 housenumber: 1

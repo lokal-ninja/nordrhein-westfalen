@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.437979000000006
 longitude: 7.7655564
-postcode: 58708
+postcode: "58708"
 city: Menden
 street: "Bräukerweg"
 housenumber: 113

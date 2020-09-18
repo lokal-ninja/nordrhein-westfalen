@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.994125600000004
 longitude: 5.9853646000000005
-postcode: 52538
+postcode: "52538"
 city: Gangelt
 street: "Heinrich-Josef-Otten-Straße"
 housenumber: 5

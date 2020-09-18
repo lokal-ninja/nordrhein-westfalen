@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5486391
 longitude: 7.306805300000001
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Widumer Tor"
 housenumber: 1

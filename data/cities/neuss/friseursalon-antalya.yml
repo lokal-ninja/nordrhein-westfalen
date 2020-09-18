@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2025263
 longitude: 6.6842454
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Kapitelstraße"
 housenumber: 1a

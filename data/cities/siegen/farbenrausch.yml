@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.8746115
 longitude: 8.0243924
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Markt"
 housenumber: 1

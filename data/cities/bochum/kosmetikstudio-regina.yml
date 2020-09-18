@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 51.473370800000005
 longitude: 7.311244500000001
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 135
-phone: "+49 (234) 79216888"
+phone: "+49 234 79216888"
 opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"
 website: "https://www.kosmetik-regina.de/"

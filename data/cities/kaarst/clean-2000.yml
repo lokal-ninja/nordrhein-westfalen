@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.1953666
 longitude: 6.6082454
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Rathausplatz"
 housenumber: 2

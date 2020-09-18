@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.3068722
 longitude: 8.611035000000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Alsweder Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 51.5099791
 longitude: 7.382812700000001
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Martener Straße"
 housenumber: 303

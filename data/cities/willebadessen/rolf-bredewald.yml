@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.62669210000001
 longitude: 9.0266841
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Gänsebruch"
 housenumber: 9

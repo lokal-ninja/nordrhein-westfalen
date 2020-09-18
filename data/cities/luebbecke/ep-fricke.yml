@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 52.3061456
 longitude: 8.6117709
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Bahnhofstraße"
 housenumber: 

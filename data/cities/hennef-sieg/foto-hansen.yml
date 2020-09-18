@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 50.773976600000005
 longitude: 7.2859809
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Bahnhofpassage"
 housenumber: 6

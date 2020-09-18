@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.356507300000004
 longitude: 7.475189
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Mittelstraße"
 housenumber: 15a

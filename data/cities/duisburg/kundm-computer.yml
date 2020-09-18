@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.4423429
 longitude: 6.7614089
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Max-Peters-Straße"
 housenumber: 19-21

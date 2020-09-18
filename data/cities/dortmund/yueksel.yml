@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.525408500000005
 longitude: 7.4700569
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Mallinckrodtstraße"
 housenumber: 

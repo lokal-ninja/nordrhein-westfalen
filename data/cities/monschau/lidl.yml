@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5762823
 longitude: 6.2609728
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Trierer Straße"
 housenumber: 224

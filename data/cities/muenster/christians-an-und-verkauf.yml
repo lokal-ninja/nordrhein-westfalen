@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.950706600000004
 longitude: 7.6245140000000005
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Hammer Straße"
 housenumber: 56

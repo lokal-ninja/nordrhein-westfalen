@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.228288400000004
 longitude: 6.6124241
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Alte Heerstraße"
 housenumber: 61

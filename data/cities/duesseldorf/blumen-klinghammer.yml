@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.237830200000005
 longitude: 6.7834269
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Marschallstraße"
 housenumber: 46

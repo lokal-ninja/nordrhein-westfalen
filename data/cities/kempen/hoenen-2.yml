@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.364302800000004
 longitude: 6.4207988
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Engerstraße"
 housenumber: 4

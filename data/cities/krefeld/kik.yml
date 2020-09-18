@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.3221539
 longitude: 6.6054135
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Hafelsstraße"
 housenumber: 241

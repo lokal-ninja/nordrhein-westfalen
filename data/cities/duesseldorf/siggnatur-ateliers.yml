@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.2261396
 longitude: 6.801225100000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Gerresheimer Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.950887300000005
 longitude: 6.9208765
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Stammstraße"
 housenumber: 21-23

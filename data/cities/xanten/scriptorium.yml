@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.661361600000006
 longitude: 6.452256200000001
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Kurfürstenstraße"
 housenumber: 18

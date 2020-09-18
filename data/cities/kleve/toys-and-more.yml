@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.785928600000005
 longitude: 6.1356307
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 28

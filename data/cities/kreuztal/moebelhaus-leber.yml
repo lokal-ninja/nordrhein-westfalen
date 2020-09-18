@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.989169100000005
 longitude: 7.958231400000001
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Talstraße"
 housenumber: 1

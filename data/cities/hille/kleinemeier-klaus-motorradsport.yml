@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.286860000000004
 longitude: 8.7978526
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Lübbecker Straße"
 housenumber: 91

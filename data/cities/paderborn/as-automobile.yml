@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7047633
 longitude: 8.733001100000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Stargarder Straße"
 housenumber: 12

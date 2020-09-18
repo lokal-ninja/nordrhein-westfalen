@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.907335
 longitude: 9.2515458
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Im Winkel"
 housenumber: 6

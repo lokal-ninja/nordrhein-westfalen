@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.948881300000004
 longitude: 6.9498036
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Maybachstraße"
 housenumber: 108-110

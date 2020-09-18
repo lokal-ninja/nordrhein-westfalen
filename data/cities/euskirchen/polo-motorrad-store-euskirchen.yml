@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.652566300000004
 longitude: 6.7931870000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Philipp-Reis-Straße"
 housenumber: 23

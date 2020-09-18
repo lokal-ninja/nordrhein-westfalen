@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.900918600000004
 longitude: 7.2712767000000005
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Hauptstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.6159928
 longitude: 7.1974298
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Münsterstraße"
 housenumber: 1

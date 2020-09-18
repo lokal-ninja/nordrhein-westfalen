@@ -3,7 +3,7 @@ type: way
 shop: Nähzubehör
 latitude: 51.65928400000001
 longitude: 6.963766100000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Essener Straße"
 housenumber: 24

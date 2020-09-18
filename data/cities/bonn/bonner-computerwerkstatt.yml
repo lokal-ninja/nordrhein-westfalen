@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.7238034
 longitude: 7.1014447
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Ermekeilstraße"
 housenumber: 24

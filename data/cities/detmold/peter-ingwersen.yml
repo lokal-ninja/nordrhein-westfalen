@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.923288400000004
 longitude: 8.844036800000001
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Hindenburgstraße"
 housenumber: 1

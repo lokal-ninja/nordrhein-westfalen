@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.396035100000006
 longitude: 6.9590478000000004
-postcode: 45133
+postcode: "45133"
 city: Essen
 street: "Schuirweg"
 housenumber: 105

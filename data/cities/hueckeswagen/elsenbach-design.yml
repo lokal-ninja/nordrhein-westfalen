@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1492568
 longitude: 7.341342
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Islandstraße"
 housenumber: 26

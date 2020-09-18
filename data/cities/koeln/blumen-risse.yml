@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9304087
 longitude: 6.9159134
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 154-158

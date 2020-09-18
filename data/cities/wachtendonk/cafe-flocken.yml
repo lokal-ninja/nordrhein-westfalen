@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3993289
 longitude: 6.3072109
-postcode: 47669
+postcode: "47669"
 city: Wachtendonk
 street: "Landfriedensstraße"
 housenumber: 29

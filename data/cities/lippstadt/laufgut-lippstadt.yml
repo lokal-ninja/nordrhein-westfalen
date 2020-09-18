@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.671356700000004
 longitude: 8.3540392
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Rixbecker Straße"
 housenumber: 26

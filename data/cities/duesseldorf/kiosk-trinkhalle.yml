@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.22963
 longitude: 6.810376600000001
-postcode: 40235
+postcode: "40235"
 city: Düsseldorf
 street: "Dorotheenstraße"
 housenumber: 40

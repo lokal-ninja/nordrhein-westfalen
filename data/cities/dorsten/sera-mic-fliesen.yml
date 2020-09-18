@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.670551800000005
 longitude: 6.981969100000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Halterner Straße"
 housenumber: 98

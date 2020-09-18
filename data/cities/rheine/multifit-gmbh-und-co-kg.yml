@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.286318
 longitude: 7.4645323
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Osnabrücker Straße"
 housenumber: 227

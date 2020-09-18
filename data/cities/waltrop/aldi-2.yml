@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.607389500000004
 longitude: 7.392151200000001
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Zum Schacht"
 housenumber: 1

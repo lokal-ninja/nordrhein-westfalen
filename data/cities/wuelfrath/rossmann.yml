@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.280279400000005
 longitude: 7.035124100000001
-postcode: 42489
+postcode: "42489"
 city: Wülfrath
 street: "Parkstraße"
 housenumber: 4

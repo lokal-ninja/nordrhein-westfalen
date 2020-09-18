@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.540294800000005
 longitude: 6.9330625
-postcode: 46240
+postcode: "46240"
 city: Bottrop
 street: "Gladbecker Straße"
 housenumber: 209

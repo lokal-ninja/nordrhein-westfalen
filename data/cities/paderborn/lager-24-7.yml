@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 51.683579200000004
 longitude: 8.7241619
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Pamplonastraße"
 housenumber: 

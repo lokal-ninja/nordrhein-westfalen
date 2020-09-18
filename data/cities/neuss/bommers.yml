@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.155926400000006
 longitude: 6.6749849
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Eppinghovener Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.192913100000005
 longitude: 7.0101262
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Neuer Markt"
 housenumber: 3-5

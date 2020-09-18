@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.0284083
 longitude: 8.8792725
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Herforder Straße"
 housenumber: 87

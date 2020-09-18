@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.522506
 longitude: 7.325443900000001
-postcode: 44388
+postcode: "44388"
 city: Dortmund
 street: "Provinzialstraße"
 housenumber: 419

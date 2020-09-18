@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 51.5917575
 longitude: 7.663798000000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Kirchstraße"
 housenumber: 2b

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.198204100000005
 longitude: 8.5650277
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Blankensteinstraße"
 housenumber: 60

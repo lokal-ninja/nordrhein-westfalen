@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1613155
 longitude: 8.664661800000001
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Herforder Straße"
 housenumber: 150

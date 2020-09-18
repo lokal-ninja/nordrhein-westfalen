@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.377724300000004
 longitude: 8.6244341
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Breslauer Straße"
 housenumber: 9

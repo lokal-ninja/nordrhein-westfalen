@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.2745474
 longitude: 6.6203026000000005
-postcode: 40670
+postcode: "40670"
 city: Meerbusch
 street: "Breite Straße"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.1410014
 longitude: 7.2169987
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Berliner Straße"
 housenumber: 17

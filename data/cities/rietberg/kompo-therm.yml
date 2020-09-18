@@ -3,7 +3,7 @@ type: way
 shop: Türen
 latitude: 51.79373390000001
 longitude: 8.4208002
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Industriestraße"
 housenumber: 24

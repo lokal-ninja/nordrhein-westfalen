@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9592633
 longitude: 6.9460015
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Nohlstraße"
 housenumber: 24-26

@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsgeräte
 latitude: 51.0911143
 longitude: 6.813305400000001
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Emdener Straße"
 housenumber: 26

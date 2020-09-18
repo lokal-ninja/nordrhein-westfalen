@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5818669
 longitude: 6.244021200000001
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Busmannstraße"
 housenumber: 44-46

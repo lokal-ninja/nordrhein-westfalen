@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.307816100000004
 longitude: 8.9148125
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Marienstraße"
 housenumber: 123

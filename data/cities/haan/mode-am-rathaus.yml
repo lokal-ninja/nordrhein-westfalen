@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1941987
 longitude: 7.0134208000000005
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Mittelstraße"
 housenumber: 5a

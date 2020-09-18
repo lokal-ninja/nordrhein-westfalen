@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7693098
 longitude: 7.449347500000001
-postcode: 53783
+postcode: "53783"
 city: Eitorf
 street: "Asbacher Str."
 housenumber: 9

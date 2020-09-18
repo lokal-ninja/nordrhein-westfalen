@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.614223300000006
 longitude: 7.2004833
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Schaumburgstraße"
 housenumber: 13

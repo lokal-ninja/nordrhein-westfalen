@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.37028230000001
 longitude: 7.462554300000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Zollstraße"
 housenumber: 2

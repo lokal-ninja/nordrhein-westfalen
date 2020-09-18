@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.86546370000001
 longitude: 7.2487899
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Kreuznaaf"
 housenumber: 17

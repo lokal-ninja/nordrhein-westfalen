@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.7583691
 longitude: 8.0420396
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Antoniusstraße"
 housenumber: 2

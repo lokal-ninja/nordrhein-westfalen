@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9237958
 longitude: 8.834984
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Friedrich-Ebert-Straße"
 housenumber: 140,140a

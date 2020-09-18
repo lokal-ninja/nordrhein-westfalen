@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.241312400000005
 longitude: 6.8270632
-postcode: 40235
+postcode: "40235"
 city: Düsseldorf
 street: "Grafenberger Allee"
 housenumber: 411

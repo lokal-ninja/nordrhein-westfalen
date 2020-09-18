@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.742071
 longitude: 7.095944
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Kölnstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.218529000000004
 longitude: 6.796231100000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Heinz-Schmöle-Straße"
 housenumber: 12

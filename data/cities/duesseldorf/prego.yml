@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2246162
 longitude: 6.7754529
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Kasernenstraße"
 housenumber: 1

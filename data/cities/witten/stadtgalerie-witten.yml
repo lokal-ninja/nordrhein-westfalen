@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4369736
 longitude: 7.3308536
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Hammerstraße"
 housenumber: 9,11

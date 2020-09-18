@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.2549372
 longitude: 8.1703875
-postcode: 59889
+postcode: "59889"
 city: Eslohe
 street: "Hauptstraße"
 housenumber: 46

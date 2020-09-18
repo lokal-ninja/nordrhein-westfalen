@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.77662410000001
 longitude: 6.1485563
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 55

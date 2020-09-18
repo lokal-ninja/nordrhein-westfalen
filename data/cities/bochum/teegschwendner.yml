@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.4795716
 longitude: 7.221482300000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Huestraße"
 housenumber: 3

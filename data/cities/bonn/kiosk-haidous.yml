@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.6951656
 longitude: 7.1614737
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Ubierstraße"
 housenumber: 2

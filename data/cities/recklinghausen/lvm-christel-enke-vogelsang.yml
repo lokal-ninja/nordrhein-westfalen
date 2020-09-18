@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.616268100000006
 longitude: 7.1879647
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Reitzensteinstraße"
 housenumber: 50

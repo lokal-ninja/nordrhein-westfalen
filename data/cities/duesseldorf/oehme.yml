@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2204076
 longitude: 6.8160813000000005
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Höherweg"
 housenumber: 101

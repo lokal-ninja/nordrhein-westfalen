@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.5196162
 longitude: 7.278547100000001
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Lothringer Straße"
 housenumber: 15

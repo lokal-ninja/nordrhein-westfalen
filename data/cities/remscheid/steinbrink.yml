@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.179777300000005
 longitude: 7.1940391
-postcode: 42853
+postcode: "42853"
 city: Remscheid
 street: "Markt"
 housenumber: 2

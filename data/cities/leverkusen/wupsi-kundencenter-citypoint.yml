@@ -3,10 +3,10 @@ type: node
 shop: Tickets
 latitude: 51.0316905
 longitude: 6.9889158
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Friedrich-Ebert-Platz"
 housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
 website: "https://www.wupsi.de/wupsi/kundencenter.html"

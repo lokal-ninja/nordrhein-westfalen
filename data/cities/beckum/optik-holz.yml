@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.752817
 longitude: 8.039785700000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Elisabethstraße"
 housenumber: 8

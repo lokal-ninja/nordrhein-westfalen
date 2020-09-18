@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.473261
 longitude: 6.9980871
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Berthold-Beitz-Boulevard"
 housenumber: 492

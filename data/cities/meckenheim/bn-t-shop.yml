@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.626484600000005
 longitude: 7.039457700000001
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 52

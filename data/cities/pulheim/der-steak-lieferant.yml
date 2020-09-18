@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9592821
 longitude: 6.802357700000001
-postcode: 50259
+postcode: "50259"
 city: Pulheim
 street: "Sachsstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.753417600000006
 longitude: 6.1566006
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Trierer Straße"
 housenumber: 653-667

@@ -1,12 +1,12 @@
-id: 33806602
+id: 31624788
 type: way
 shop: Supermarkt
-latitude: 50.7321869
-longitude: 7.081456800000001
-postcode: 53115
+latitude: 50.710166300000004
+longitude: 7.0624696
+postcode: "53127"
 city: Bonn
-street: "Endenicher Straße"
-housenumber: 104
+street: "Auf dem Kirchbüchel"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
 website: "https://www.aldi-sued.de/"

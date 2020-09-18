@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.234823000000006
 longitude: 6.6156835
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Giemesstraße"
 housenumber: 18

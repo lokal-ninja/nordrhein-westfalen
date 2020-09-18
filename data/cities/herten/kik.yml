@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6048405
 longitude: 7.085718900000001
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Bahnhofstraße"
 housenumber: 85

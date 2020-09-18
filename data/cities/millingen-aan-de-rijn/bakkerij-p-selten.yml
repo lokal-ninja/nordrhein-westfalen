@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8601454
 longitude: 6.057908500000001
-postcode: 6566EC
+postcode: "6566EC"
 city: Millingen aan de Rijn
 street: "Heerbaan"
 housenumber: 25

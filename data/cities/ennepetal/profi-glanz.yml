@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.303350800000004
 longitude: 7.390637600000001
-postcode: 58256
+postcode: "58256"
 city: Ennepetal
 street: "Breckerfelder Straße"
 housenumber: 3

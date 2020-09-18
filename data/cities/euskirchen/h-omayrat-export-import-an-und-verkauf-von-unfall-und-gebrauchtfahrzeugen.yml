@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.690269300000004
 longitude: 6.811553900000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Reichsstraße"
 housenumber: 13

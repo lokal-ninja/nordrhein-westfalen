@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.144586800000006
 longitude: 7.3357559000000006
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Baumgarten"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.293634700000005
 longitude: 6.8186534000000005
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Jenaer Straße"
 housenumber: 15

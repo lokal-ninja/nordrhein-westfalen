@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.912089200000004
 longitude: 8.656880300000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Hauptstraße"
 housenumber: 7

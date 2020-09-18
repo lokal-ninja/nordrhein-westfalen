@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.92204460000001
 longitude: 6.3613929
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kleine Kölnstraße"
 housenumber: 8

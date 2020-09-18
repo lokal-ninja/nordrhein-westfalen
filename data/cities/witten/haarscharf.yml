@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.422005000000006
 longitude: 7.2814163
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Meesmannstraße"
 housenumber: 56

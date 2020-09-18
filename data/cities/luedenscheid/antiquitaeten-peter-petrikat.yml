@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.254741900000006
 longitude: 7.637708000000001
-postcode: 58513
+postcode: "58513"
 city: Lüdenscheid
 street: "Altenaer Straße"
 housenumber: 273a

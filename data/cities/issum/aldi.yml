@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.490709200000005
 longitude: 6.4412677
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Rheurdter Straße"
 housenumber: 74

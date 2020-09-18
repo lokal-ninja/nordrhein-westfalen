@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1064201
 longitude: 6.4608466
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Zum Regiopark"
 housenumber: 20

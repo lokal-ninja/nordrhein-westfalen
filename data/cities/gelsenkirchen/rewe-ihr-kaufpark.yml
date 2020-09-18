@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5861376
 longitude: 7.048903200000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Königswiese"
 housenumber: 41

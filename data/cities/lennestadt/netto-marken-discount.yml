@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.100896600000006
 longitude: 8.070812
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Hundemstraße"
 housenumber: 75

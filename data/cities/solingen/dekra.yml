@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.191354700000005
 longitude: 7.0688481
-postcode: 42719
+postcode: "42719"
 city: Solingen
 street: "Focher Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.796868
 longitude: 6.063811500000001
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 328

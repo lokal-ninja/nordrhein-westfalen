@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.706479800000004
 longitude: 7.1123231
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "kesse"
 housenumber: 114

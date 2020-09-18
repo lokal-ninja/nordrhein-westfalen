@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4170797
 longitude: 7.8294858000000005
-postcode: 58710
+postcode: "58710"
 city: Menden
 street: "Lendringser Hauptstraße"
 housenumber: 66

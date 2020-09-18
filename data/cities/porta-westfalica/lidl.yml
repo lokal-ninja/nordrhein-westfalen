@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.25154190000001
 longitude: 8.9298999
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Zur Porta"
 housenumber: 1

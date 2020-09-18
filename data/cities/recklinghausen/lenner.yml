@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.597112800000005
 longitude: 7.1913774
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Am Stadion"
 housenumber: 29

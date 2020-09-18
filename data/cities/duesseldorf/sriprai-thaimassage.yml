@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.2175408
 longitude: 6.7819976
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Hüttenstraße"
 housenumber: 15

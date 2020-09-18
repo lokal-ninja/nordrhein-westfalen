@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.678968700000006
 longitude: 6.6246917000000005
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Julius-Leber-Straße"
 housenumber: 6

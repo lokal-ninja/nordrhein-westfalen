@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.137252200000006
 longitude: 6.805558100000001
-postcode: 41541
+postcode: "41541"
 city: Dormagen
 street: "Am Weißen Stein"
 housenumber: 3

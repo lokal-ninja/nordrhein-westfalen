@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.449691200000004
 longitude: 7.3196965
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Oberkrone"
 housenumber: 24

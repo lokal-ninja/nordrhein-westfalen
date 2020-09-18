@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4382211
 longitude: 6.6471435
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Ruhrorter Straße"
 housenumber: 10

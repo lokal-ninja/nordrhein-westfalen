@@ -1,12 +1,12 @@
 id: 3750283560
 type: node
 shop: Baumarkt
-latitude: 50.623552100000005
-longitude: 7.0213735
-postcode: 53340
+latitude: 50.62356440000001
+longitude: 7.021370800000001
+postcode: "53340"
 city: Meckenheim
 street: "Hauptstraße"
 housenumber: 42
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-12:30, 14:30-18:30, Sa 09:30-13:00; PH off"
 website: ""

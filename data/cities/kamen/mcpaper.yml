@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.592232300000006
 longitude: 7.6637152
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Weststraße"
 housenumber: 79

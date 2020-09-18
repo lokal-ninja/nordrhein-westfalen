@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5818717
 longitude: 7.379986100000001
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Siegenstraße"
 housenumber: 121

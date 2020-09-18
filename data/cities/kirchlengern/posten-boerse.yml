@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.197251300000005
 longitude: 8.6428589
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Ravensberger Straße"
 housenumber: 1

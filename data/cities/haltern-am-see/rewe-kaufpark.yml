@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7412986
 longitude: 7.177143500000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Weseler Straße"
 housenumber: 67-69

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.143096500000006
 longitude: 6.5620281
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.584262700000004
 longitude: 7.017966100000001
-postcode: 45896
+postcode: "45896"
 city: Gelsenkirchen
 street: "Denneborgsweg"
 housenumber: 4-6

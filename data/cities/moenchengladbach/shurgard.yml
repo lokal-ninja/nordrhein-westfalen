@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.2125743
 longitude: 6.4692316000000005
-postcode: 41066
+postcode: "41066"
 city: Mönchengladbach
 street: "Krefelder Straße"
 housenumber: 296

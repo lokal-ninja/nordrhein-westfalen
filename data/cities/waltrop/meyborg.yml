@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6239969
 longitude: 7.3972461
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Isbruchstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.8961301
 longitude: 6.9864807
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Coesfelder Straße"
 housenumber: 24

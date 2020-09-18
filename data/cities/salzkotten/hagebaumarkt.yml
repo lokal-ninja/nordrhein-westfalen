@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.6653621
 longitude: 8.583630600000001
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Am hohen Wege"
 housenumber: 6

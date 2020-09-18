@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 51.0997768
 longitude: 7.672542600000001
-postcode: 58540
+postcode: "58540"
 city: Meinerzhagen
 street: "Zum Schnüffel"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5072927
 longitude: 7.4965409
-postcode: 44141
+postcode: "44141"
 city: Dortmund
 street: "Anna-Siemsen-Straße"
 housenumber: 12

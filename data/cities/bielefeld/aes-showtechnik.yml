@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.0353422
 longitude: 8.506718000000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Kurt-Schumacher-Straße"
 housenumber: 27

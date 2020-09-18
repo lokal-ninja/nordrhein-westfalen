@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.0058852
 longitude: 8.413953900000001
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Kirchplatz"
 housenumber: 12

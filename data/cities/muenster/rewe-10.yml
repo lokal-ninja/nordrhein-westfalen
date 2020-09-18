@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9402313
 longitude: 7.618181900000001
-postcode: 48151
+postcode: "48151"
 city: Münster
 street: "Metzer Straße"
 housenumber: 62

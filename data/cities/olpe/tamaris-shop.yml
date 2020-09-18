@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.028266200000004
 longitude: 7.8443784
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Bahnhofstraße"
 housenumber: 2

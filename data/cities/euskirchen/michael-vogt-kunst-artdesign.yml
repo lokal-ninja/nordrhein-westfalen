@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.6489379
 longitude: 6.7754041
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Disternicher Auel"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.216166300000005
 longitude: 7.6323179
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Ringmauerstraße"
 housenumber: 4-10

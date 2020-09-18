@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 50.7743398
 longitude: 6.0789856
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 70

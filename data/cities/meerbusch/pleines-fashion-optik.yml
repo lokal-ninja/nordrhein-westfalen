@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.245074
 longitude: 6.6964145
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Düsseldorfer Straße"
 housenumber: 77

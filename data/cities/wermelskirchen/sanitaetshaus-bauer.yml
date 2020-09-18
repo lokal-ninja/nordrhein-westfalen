@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.140039400000006
 longitude: 7.214944900000001
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Kölner Straße"
 housenumber: 16

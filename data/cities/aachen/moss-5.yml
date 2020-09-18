@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.780233300000006
 longitude: 6.0619088
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Ahornstraße"
 housenumber: 35

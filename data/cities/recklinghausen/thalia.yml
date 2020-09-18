@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.6130195
 longitude: 7.200680500000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Löhrhof"
 housenumber: 1

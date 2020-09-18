@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.19764300000001
 longitude: 6.8159115
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Harffstraße"
 housenumber: 36

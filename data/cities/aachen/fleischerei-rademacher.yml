@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.7612493
 longitude: 6.091336200000001
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Altdorfstraße"
 housenumber: 21

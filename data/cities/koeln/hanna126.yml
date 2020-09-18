@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.9311111
 longitude: 6.9181609
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 126

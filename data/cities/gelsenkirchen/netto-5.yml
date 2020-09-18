@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5248435
 longitude: 7.0962699
-postcode: 45881
+postcode: "45881"
 city: Gelsenkirchen
 street: "Magdeburger Straße"
 housenumber: 16c

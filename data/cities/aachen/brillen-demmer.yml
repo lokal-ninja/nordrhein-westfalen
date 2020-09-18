@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.7732479
 longitude: 6.0868796000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kapuzinergraben"
 housenumber: 9

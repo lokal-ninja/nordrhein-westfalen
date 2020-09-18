@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.020457500000006
 longitude: 8.5327386
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rathausstraße"
 housenumber: 3

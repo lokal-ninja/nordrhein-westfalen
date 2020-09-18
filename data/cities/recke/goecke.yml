@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.349780800000005
 longitude: 7.6936783
-postcode: 49509
+postcode: "49509"
 city: Recke
 street: "Kirchstraße"
 housenumber: 22

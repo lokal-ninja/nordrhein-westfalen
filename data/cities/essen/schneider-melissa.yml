@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 51.472705500000004
 longitude: 6.9502663
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Marktstraße"
 housenumber: 20

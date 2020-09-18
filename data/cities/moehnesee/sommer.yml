@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.499309600000004
 longitude: 8.1308483
-postcode: 59519
+postcode: "59519"
 city: Möhnesee
 street: "Berlingser Weg"
 housenumber: 5

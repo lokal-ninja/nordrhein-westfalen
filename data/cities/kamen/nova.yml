@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.5922764
 longitude: 7.664020300000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Weerenstraße"
 housenumber: 1
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 2307 279951"
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:000; Su,PH off"
+website: "https://www.nova-kamen.de"

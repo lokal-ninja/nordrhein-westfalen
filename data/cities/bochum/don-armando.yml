@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.4868613
 longitude: 7.2117556
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Dorstener Straße"
 housenumber: 21

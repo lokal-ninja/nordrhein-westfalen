@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6722387
 longitude: 8.5754648
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Am Schlinge"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4418037
 longitude: 6.995525000000001
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 52

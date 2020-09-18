@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.960300000000004
 longitude: 7.6329881
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Salzstraße"
 housenumber: 35

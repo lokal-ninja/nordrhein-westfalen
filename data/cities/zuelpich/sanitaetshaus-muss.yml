@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.6916986
 longitude: 6.6480975
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Schumacherstraße"
 housenumber: 12

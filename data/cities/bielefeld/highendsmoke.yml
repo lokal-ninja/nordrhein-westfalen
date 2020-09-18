@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.021750700000005
 longitude: 8.5504709
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Heeper Straße"
 housenumber: 84

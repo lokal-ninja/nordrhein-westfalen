@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.548879500000005
 longitude: 7.3093254000000005
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Münsterstraße"
 housenumber: 5

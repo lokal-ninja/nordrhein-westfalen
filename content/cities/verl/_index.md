@@ -1,6 +1,6 @@
 ---
 title: Verl
 url: /verl/
-latitude: 51.883468900000004
-longitude: 8.5095217
+latitude: 51.8830037
+longitude: 8.5093149
 ---

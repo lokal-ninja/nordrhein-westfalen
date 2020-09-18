@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.735002800000004
 longitude: 7.0994272
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Münsterplatz"
 housenumber: 23

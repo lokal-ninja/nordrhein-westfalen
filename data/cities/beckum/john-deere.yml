@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.77219890000001
 longitude: 8.034670700000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Bauknechtestraße"
 housenumber: 8

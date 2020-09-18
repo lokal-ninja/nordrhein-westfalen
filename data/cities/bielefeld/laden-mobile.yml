@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.0127904
 longitude: 8.524067200000001
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Kantensiek"
 housenumber: 7

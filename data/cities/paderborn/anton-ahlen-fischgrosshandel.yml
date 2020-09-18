@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6937736
 longitude: 8.7380493
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Haller Straße"
 housenumber: 17

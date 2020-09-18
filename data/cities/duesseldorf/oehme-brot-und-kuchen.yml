@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.251260800000004
 longitude: 6.7813863
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Tannenstraße"
 housenumber: 51

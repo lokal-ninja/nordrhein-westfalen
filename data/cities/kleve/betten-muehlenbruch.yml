@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.7863783
 longitude: 6.136164600000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Stechbahn"
 housenumber: 5

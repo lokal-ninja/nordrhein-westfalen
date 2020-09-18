@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.8949489
 longitude: 7.1770792000000005
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Kölner Straße"
 housenumber: 1

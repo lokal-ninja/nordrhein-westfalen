@@ -1,12 +1,12 @@
-id: 2012582892
+id: 3071631062
 type: node
 shop: Bäckerei
-latitude: 51.256425
-longitude: 7.148052300000001
-postcode: 42103
+latitude: 51.254872600000006
+longitude: 7.1004407
+postcode: "42115"
 city: Wuppertal
-street: "Calvinstraße"
-housenumber: 3
+street: "Düsseldorfer Straße"
+housenumber: 38
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-14:00"
-website: "https://www.baeckerei-scharrenberg.de"
+opening_hours: ""
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.761940200000005
 longitude: 7.0279617000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Carl-Benz-Straße"
 housenumber: 5

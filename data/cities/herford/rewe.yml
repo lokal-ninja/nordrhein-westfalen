@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.10527080000001
 longitude: 8.6802553
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Liebigstraße"
 housenumber: 3

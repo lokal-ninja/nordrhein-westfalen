@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8473096
 longitude: 6.6929854
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Barloer Straße"
 housenumber: 6

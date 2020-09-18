@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.9538627
 longitude: 6.9113468000000005
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Venloer Straße"
 housenumber: 442

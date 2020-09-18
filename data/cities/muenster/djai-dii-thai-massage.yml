@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.956528000000006
 longitude: 7.6750714
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Im Drostebusch"
 housenumber: 27a

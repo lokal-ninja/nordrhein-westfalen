@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 51.3905758
 longitude: 7.0819695000000005
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Bahnstraße"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00"
 website: ""

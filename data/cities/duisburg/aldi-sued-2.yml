@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4624704
 longitude: 6.734240600000001
-postcode: 47119
+postcode: "47119"
 city: Duisburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 36

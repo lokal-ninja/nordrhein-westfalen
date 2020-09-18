@@ -1,12 +1,12 @@
-id: 3628302879
+id: 4798634072
 type: node
 shop: Supermarkt
-latitude: 51.23044590000001
-longitude: 6.7077514
-postcode: 40549
+latitude: 51.203704800000004
+longitude: 6.819850400000001
+postcode: "40229"
 city: Düsseldorf
-street: "Heerdter Landstraße"
-housenumber: 181
+street: "Wormser Weg"
+housenumber: 3a
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:30"
+website: "http://www.netto-online.de"

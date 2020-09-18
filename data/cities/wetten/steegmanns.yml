@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5695248
 longitude: 6.2935732
-postcode: 47625
+postcode: "47625"
 city: Wetten
 street: "Hauptstraße"
 housenumber: 51

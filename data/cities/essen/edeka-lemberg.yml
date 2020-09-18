@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.418609000000004
 longitude: 7.080344
-postcode: 45277
+postcode: "45277"
 city: Essen
 street: "Schaffelhofer Weg"
 housenumber: 17

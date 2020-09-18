@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.757170800000004
 longitude: 7.205553
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Hellweg"
 housenumber: 216

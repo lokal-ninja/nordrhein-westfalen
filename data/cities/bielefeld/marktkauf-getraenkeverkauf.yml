@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0109894
 longitude: 8.596750700000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 236

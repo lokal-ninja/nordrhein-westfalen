@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.4427704
 longitude: 6.946520100000001
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Am Förderturm"
 housenumber: 20

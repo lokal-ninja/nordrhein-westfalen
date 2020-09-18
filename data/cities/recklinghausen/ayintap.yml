@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.578462900000005
 longitude: 7.200016300000001
-postcode: 45661
+postcode: "45661"
 city: Recklinghausen
 street: "Hochstraße"
 housenumber: 65

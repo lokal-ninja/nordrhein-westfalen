@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.996013100000006
 longitude: 8.1121216
-postcode: 57271
+postcode: "57271"
 city: Hilchenbach
 street: "In der Herrenwiese"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5423677
 longitude: 7.334671500000001
-postcode: 44577
+postcode: "44577"
 city: Castrop-Rauxel
 street: "Dortmunder Straße"
 housenumber: 185

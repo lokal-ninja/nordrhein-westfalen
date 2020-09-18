@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.006380500000006
 longitude: 8.413519
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Bahnhofstraße"
 housenumber: 14

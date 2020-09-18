@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.025731900000004
 longitude: 6.888455400000001
-postcode: 50765
+postcode: "50765"
 city: Köln
 street: "Elbeallee"
 housenumber: 13

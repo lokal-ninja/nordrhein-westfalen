@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6475407
 longitude: 6.108124
-postcode: 5853AB
+postcode: "5853AB"
 city: Siebengewald
 street: "Gochsedijk"
 housenumber: 100

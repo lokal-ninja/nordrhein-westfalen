@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1247009
 longitude: 6.7269341
-postcode: 41470
+postcode: "41470"
 city: Neuss
 street: "Eibenweg"
 housenumber: 2

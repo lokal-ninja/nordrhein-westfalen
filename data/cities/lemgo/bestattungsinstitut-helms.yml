@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.0266013
 longitude: 8.9007099
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Breite Straße"
 housenumber: 54

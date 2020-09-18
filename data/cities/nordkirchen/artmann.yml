@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7369739
 longitude: 7.5213539
-postcode: 59394
+postcode: "59394"
 city: Nordkirchen
 street: "Bergstraße"
 housenumber: 22a

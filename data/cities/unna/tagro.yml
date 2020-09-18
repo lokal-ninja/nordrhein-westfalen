@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.537614000000005
 longitude: 7.6693066000000005
-postcode: 59425
+postcode: "59425"
 city: Unna
 street: "Rudolf-Diesel-Straße"
 housenumber: 3

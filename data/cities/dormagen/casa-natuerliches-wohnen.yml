@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.091222800000004
 longitude: 6.8108784
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Hamburger Straße"
 housenumber: 7

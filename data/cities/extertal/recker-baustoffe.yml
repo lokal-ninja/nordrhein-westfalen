@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.0681804
 longitude: 9.1088194
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Bahnhofstraße"
 housenumber: 54a

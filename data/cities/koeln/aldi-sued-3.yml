@@ -1,12 +1,12 @@
-id: 3992509371
+id: 1456626118
 type: node
 shop: Supermarkt
-latitude: 50.892564300000004
-longitude: 6.995450300000001
-postcode: 50996
+latitude: 50.9379751
+longitude: 7.0024218000000005
+postcode: "51103"
 city: Köln
-street: "Hauptstraße"
-housenumber: 106
+street: "Kalker Hauptstraße"
+housenumber: 145
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
+website: "https://www.aldi-sued.de"

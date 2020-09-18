@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6202702
 longitude: 7.197517700000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Halterner Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0350964
 longitude: 8.5066618
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Jakob-Kaiser-Straße"
 housenumber: 1

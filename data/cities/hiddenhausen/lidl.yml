@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1565911
 longitude: 8.6435273
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Bünder Straße"
 housenumber: 256

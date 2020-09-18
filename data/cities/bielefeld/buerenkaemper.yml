@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.059910200000004
 longitude: 8.6183066
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Elverdisser Straße"
 housenumber: 40

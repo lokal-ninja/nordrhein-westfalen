@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.1931942
 longitude: 7.011543700000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Neuer Markt"
 housenumber: 14

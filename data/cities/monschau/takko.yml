@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.5755829
 longitude: 6.2597437000000005
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Auf Beuel"
 housenumber: 3

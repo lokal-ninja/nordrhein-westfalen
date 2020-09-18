@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.918280700000004
 longitude: 6.8372241
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Europaallee"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1256294
 longitude: 7.9108499000000005
-postcode: 57439
+postcode: "57439"
 city: Attendorn
 street: "Anselm-Dingerkus-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 52.19694560000001
 longitude: 8.581048500000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 11

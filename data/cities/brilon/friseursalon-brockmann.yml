@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.456796600000004
 longitude: 8.6262567
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Moosspringstraße"
 housenumber: 18

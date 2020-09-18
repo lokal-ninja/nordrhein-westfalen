@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.6702992
 longitude: 6.981312000000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Im Harsewinkel"
 housenumber: 4

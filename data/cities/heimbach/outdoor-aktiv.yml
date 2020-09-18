@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.632463800000004
 longitude: 6.4453516
-postcode: 52396
+postcode: "52396"
 city: Heimbach
 street: "Schwammenauel"
 housenumber: 6

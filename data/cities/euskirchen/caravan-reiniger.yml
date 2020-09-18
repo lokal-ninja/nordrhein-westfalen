@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 50.6678183
 longitude: 6.7930177
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Nordstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.0112979
 longitude: 6.906260700000001
-postcode: 50767
+postcode: "50767"
 city: Köln
 street: "Haselnußweg"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.3471696
 longitude: 7.4018714
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Harkortstraße"
 housenumber: 

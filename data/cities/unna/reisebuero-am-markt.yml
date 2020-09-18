@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.5349287
 longitude: 7.6896358000000005
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Markt"
 housenumber: 14

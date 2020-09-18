@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.671755000000005
 longitude: 6.7894904
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Peter-Simons-Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.33720700000001
 longitude: 8.7444331
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Mindener Straße"
 housenumber: 67

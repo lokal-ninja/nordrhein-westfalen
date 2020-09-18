@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5190543
 longitude: 6.9103884
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Heidenheck"
 housenumber: 17

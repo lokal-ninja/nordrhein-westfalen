@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.675327200000005
 longitude: 8.346812100000001
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Lange Straße"
 housenumber: 45

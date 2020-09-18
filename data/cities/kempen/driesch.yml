@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.3840407
 longitude: 6.4501691
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Breite Straße"
 housenumber: 31

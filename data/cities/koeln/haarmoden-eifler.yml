@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.963971300000004
 longitude: 6.9755823
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Riehler Gürtel"
 housenumber: 1

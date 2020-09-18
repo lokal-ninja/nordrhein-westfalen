@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.4420118
 longitude: 7.3361798
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Hauptstraße"
 housenumber: 38

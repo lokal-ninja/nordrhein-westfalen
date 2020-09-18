@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.032129600000005
 longitude: 6.9862142
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Wiesdorfer Platz"
 housenumber: 15

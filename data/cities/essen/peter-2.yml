@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4418488
 longitude: 6.996950600000001
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 42

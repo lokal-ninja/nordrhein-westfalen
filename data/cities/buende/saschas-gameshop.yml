@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 52.1966125
 longitude: 8.5812421
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 5

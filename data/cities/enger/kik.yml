@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.141563500000004
 longitude: 8.5607886
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Niedermühlenstraße"
 housenumber: 3

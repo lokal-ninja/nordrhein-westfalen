@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6611017
 longitude: 8.5996492
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Westerhudestraße"
 housenumber: 25; 27

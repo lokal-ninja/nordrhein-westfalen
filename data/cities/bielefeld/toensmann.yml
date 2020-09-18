@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0454432
 longitude: 8.5062979
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Voltmannstraße"
 housenumber: 158

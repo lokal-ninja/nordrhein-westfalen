@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7323272
 longitude: 6.212930200000001
-postcode: 52223
+postcode: "52223"
 city: Stolberg
 street: "Stefanstraße"
 housenumber: 16

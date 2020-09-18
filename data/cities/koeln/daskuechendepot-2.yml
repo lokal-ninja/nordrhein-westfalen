@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.8942501
 longitude: 7.0783398
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 650

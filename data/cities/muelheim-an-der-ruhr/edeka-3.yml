@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4176335
 longitude: 6.8997795
-postcode: 45470
+postcode: "45470"
 city: Mülheim an der Ruhr
 street: "Zeppelinstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.551303100000005
 longitude: 7.9045316
-postcode: 59457
+postcode: "59457"
 city: Werl
 street: "Unnaer Straße"
 housenumber: 21

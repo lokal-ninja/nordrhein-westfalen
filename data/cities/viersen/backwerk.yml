@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.25578530000001
 longitude: 6.3903669
-postcode: 41747
+postcode: "41747"
 city: Viersen
 street: "Hauptstraße"
 housenumber: 85

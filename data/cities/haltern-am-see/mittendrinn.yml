@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.7435491
 longitude: 7.1861515
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Rekumer Straße"
 housenumber: 17

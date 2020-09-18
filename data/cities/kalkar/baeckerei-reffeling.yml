@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.738291100000005
 longitude: 6.2922913000000005
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Markt"
 housenumber: 26

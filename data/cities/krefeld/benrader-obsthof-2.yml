@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.325053200000006
 longitude: 6.516337500000001
-postcode: 47804
+postcode: "47804"
 city: Krefeld
 street: "Oberbenrader Straße"
 housenumber: 491

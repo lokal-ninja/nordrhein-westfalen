@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1840393
 longitude: 8.3192229
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Wehrscheid"
 housenumber: 24

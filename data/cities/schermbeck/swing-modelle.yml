@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.683319600000004
 longitude: 6.8636397
-postcode: 46514
+postcode: "46514"
 city: Schermbeck
 street: "Maassenstraße"
 housenumber: 77

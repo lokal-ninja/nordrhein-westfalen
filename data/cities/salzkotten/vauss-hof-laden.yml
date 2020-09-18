@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.713412500000004
 longitude: 8.6291574
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Cerisy-Platz"
 housenumber: 5

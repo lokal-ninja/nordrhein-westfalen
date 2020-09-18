@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.894815200000004
 longitude: 6.993049200000001
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 29-31

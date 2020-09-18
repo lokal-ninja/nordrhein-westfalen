@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.084843000000006
 longitude: 6.971113600000001
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Opladener Straße"
 housenumber: 123

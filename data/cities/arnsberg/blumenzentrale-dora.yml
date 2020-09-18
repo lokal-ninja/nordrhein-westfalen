@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.445775700000006
 longitude: 7.9637225
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Lange Wende"
 housenumber: 50

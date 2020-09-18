@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1512067
 longitude: 6.4598645
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Bruchstraße"
 housenumber: 11a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.990458200000006
 longitude: 7.6653403
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

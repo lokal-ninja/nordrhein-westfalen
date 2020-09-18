@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 52.198563400000005
 longitude: 8.5853523
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Eschstraße"
 housenumber: 40

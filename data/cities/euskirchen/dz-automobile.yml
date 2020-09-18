@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.654682900000005
 longitude: 6.7991313
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "An der Vogelrute"
 housenumber: 45-47

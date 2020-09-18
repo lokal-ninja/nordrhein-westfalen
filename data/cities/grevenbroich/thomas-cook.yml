@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.088955500000004
 longitude: 6.5945077
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

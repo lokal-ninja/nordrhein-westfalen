@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0197337
 longitude: 8.5278539
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Klasingstraße"
 housenumber: 1

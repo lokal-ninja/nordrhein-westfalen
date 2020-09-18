@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.1826243
 longitude: 6.410717900000001
-postcode: 41069
+postcode: "41069"
 city: Mönchengladbach
 street: "Aachener Straße"
 housenumber: 415

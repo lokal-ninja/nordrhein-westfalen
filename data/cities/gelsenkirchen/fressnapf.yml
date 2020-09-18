@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.522232800000005
 longitude: 7.0777533
-postcode: 45881
+postcode: "45881"
 city: Gelsenkirchen
 street: "Lockhofstraße"
 housenumber: 13

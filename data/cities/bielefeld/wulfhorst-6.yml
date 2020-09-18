@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.020345500000005
 longitude: 8.5327193
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rathausstraße"
 housenumber: 4

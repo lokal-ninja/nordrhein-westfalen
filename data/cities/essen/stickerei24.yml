@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.474442
 longitude: 6.9558819000000005
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Otto-Brenner-Straße"
 housenumber: 41

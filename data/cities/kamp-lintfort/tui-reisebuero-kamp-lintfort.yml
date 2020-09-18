@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.49968440000001
 longitude: 6.5504674000000005
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Moerser Straße"
 housenumber: 290

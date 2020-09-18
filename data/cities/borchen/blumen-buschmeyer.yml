@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.6720738
 longitude: 8.7238974
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Paderborner Straße"
 housenumber: 35

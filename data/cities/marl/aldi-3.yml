@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.66783890000001
 longitude: 7.165779700000001
-postcode: 45770
+postcode: "45770"
 city: Marl
 street: "Bahnhofstraße"
 housenumber: 119

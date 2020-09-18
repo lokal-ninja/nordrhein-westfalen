@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.612698800000004
 longitude: 6.792732300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Hubertusstraße"
 housenumber: 2

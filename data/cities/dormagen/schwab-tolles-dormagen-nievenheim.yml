@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1099559
 longitude: 6.748671000000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "In Ückerath"
 housenumber: 115

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.94673
 longitude: 6.9522443
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Ritterstraße"
 housenumber: 11

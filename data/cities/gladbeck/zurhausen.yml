@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.572431
 longitude: 6.9925834
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Lambertistraße"
 housenumber: 3

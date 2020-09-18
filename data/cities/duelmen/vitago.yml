@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.836002
 longitude: 7.2833838
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Alter Münsterweg"
 housenumber: 5

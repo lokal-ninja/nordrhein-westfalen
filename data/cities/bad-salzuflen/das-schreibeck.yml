@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.059029800000005
 longitude: 8.7295399
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Bielefelder Straße"
 housenumber: 23

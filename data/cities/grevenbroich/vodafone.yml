@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.088971400000005
 longitude: 6.594006200000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

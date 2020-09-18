@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.1051337
 longitude: 6.2862144
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Rheinweg"
 housenumber: 70

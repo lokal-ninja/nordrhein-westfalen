@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.23921240000001
 longitude: 8.619496
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Stiftstraße"
 housenumber: 127-131

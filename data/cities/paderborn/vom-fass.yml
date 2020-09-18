@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.7157715
 longitude: 8.751860800000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rosenstraße"
 housenumber: 14a

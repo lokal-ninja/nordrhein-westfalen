@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.812797100000004
 longitude: 6.2699961
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Talstraße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3735877
 longitude: 8.628145
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Am Hügel"
 housenumber: 25

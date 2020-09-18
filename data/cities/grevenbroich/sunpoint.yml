@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 51.08916970000001
 longitude: 6.587707900000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Karl-Oberbach-Straße"
 housenumber: 5

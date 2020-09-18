@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.477495600000005
 longitude: 7.302309800000001
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 206

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.961640100000004
 longitude: 6.7815833
-postcode: 50259
+postcode: "50259"
 city: Pulheim
 street: "Ehrenfriedstraße"
 housenumber: 20

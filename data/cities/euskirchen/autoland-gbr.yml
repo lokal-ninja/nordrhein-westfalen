@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.654136400000006
 longitude: 6.8004917
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "An der Vogelrute"
 housenumber: 46

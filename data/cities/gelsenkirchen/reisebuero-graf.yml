@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.5086415
 longitude: 7.097295300000001
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.672313200000005
 longitude: 6.9658872
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Am Güterbahnhof"
 housenumber: 28

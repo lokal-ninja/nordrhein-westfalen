@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7833606
 longitude: 6.155718500000001
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Hansmannstraße"
 housenumber: 41a

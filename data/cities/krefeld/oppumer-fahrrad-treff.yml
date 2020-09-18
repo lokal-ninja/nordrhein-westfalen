@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.330105700000004
 longitude: 6.6121901
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Maybachstraße"
 housenumber: 188

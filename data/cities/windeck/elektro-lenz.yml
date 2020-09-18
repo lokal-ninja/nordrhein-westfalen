@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.7994241
 longitude: 7.6095771
-postcode: 51570
+postcode: "51570"
 city: Windeck
 street: "Mittelstraße"
 housenumber: 23

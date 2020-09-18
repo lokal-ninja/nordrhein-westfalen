@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5301769
 longitude: 6.476744200000001
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "Gemünder Straße"
 housenumber: 2

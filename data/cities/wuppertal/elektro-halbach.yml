@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.2284937
 longitude: 7.2028756000000005
-postcode: 42369
+postcode: "42369"
 city: Wuppertal
 street: "Friedenshort"
 housenumber: 4

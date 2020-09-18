@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.127255600000005
 longitude: 6.2865614
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Erkelenzer Straße"
 housenumber: 44

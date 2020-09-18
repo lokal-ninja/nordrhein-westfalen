@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.292016000000004
 longitude: 8.8824839
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Gesellenweg"
 housenumber: 2

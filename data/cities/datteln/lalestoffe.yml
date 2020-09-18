@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.651905000000006
 longitude: 7.337319600000001
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Friedrich-Ebert-Straße"
 housenumber: 10

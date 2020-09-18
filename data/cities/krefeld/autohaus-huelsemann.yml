@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3579986
 longitude: 6.621610100000001
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Saalestraße"
 housenumber: 14

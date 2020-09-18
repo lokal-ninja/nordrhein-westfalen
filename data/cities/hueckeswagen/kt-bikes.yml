@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.15077
 longitude: 7.3423958
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Bahnhofstraße"
 housenumber: 20

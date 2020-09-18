@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.083223000000004
 longitude: 6.778963
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Von-Stauffenberg-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.453316400000006
 longitude: 7.0131185
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kettwiger Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.6672281
 longitude: 6.1771658
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Am Bössershof"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.1403193
 longitude: 8.5571705
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Brandstraße"
 housenumber: 15

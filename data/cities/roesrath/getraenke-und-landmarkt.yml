@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.891403000000004
 longitude: 7.1797322
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Brander Straße"
 housenumber: 1

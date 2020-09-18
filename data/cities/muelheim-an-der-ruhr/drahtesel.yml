@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4277876
 longitude: 6.884227
-postcode: 
+postcode: ""
 city: Mülheim an der Ruhr
 street: "Leineweberstraße"
 housenumber: 78-80

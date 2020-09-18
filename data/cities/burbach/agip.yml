@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.725494100000006
 longitude: 8.138181600000001
-postcode: 57299
+postcode: "57299"
 city: Burbach
 street: "Westerwaldstraße"
 housenumber: 3

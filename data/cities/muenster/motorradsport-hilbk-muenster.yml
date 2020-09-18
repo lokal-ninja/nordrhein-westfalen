@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.989855000000006
 longitude: 7.6648000000000005
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: "Rudolf-Diesel-Straße"
 housenumber: 2

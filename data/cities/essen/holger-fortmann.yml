@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4905878
 longitude: 6.991381400000001
-postcode: 45329
+postcode: "45329"
 city: Essen
 street: "Lütkenbrauk"
 housenumber: 84

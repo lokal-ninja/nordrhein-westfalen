@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.8926899
 longitude: 6.9927885000000005
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Wilhelmstraße"
 housenumber: 72

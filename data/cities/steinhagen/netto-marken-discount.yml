@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0031996
 longitude: 8.416437400000001
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Queller Straße"
 housenumber: 14

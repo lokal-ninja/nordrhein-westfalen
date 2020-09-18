@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.6611308
 longitude: 7.1142742000000005
-postcode: 45770
+postcode: "45770"
 city: Marl
 street: "Bergstraße"
 housenumber: 143

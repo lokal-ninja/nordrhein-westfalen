@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.182958000000006
 longitude: 6.6836326
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Holzheimer Weg"
 housenumber: 44

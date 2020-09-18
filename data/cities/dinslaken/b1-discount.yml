@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5685931
 longitude: 6.7562543
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Otto-Lilienthal-Straße"
 housenumber: 44-46

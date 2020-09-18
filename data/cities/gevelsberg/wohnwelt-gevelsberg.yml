@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.314081300000005
 longitude: 7.3076531000000005
-postcode: 58285
+postcode: "58285"
 city: Gevelsberg
 street: "Rosendahler Straße"
 housenumber: 176

@@ -1,12 +1,12 @@
-id: 1375339641
+id: 1375339642
 type: node
 shop: Supermarkt
-latitude: 52.0598584
-longitude: 8.6182263
-postcode: 33729
+latitude: 52.0961196
+longitude: 8.5130617
+postcode: "33739"
 city: Bielefeld
-street: "Elverdisser Straße"
-housenumber: 40
+street: "Jöllenbecker Straße"
+housenumber: 581
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

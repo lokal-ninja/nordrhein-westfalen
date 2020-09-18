@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.9145127
 longitude: 8.0120023
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Rathausstraße"
 housenumber: 12

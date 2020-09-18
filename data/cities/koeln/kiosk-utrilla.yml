@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.936952000000005
 longitude: 6.9983522
-postcode: 51105
+postcode: "51105"
 city: Köln
 street: "Trimbornstraße"
 housenumber: 8

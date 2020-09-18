@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 50.683651000000005
 longitude: 6.8214547
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Nansenstraße"
 housenumber: 26

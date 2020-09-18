@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2970702
 longitude: 6.8302041000000004
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Lise-Meitner-Straße"
 housenumber: 9

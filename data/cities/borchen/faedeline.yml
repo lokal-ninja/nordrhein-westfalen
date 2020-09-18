@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.669383100000005
 longitude: 8.723835900000001
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Paderborner Straße"
 housenumber: 13

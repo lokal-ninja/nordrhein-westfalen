@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.837489700000006
 longitude: 6.9197825
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Berzdorfer Straße"
 housenumber: 5

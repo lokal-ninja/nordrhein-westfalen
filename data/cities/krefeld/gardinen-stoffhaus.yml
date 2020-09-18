@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 51.3389607
 longitude: 6.5594165
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Sternstraße"
 housenumber: 35

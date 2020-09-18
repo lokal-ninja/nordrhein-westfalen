@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.3391516
 longitude: 6.5745024
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Bismarckplatz"
 housenumber: 4

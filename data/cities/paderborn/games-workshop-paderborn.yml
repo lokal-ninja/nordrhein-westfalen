@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.717671900000006
 longitude: 8.7509644
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienstraße"
 housenumber: 5

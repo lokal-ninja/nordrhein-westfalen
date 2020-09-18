@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4234456
 longitude: 6.7783704
-postcode: 47057
+postcode: "47057"
 city: Duisburg
 street: "Kommandantenstraße"
 housenumber: 19

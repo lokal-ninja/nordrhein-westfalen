@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.218029
 longitude: 6.777161700000001
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 6

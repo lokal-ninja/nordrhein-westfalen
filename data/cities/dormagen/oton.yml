@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.0923366
 longitude: 6.8431332000000005
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 57

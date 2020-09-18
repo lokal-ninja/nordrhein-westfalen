@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7162711
 longitude: 9.1835234
-postcode: 33034
+postcode: "33034"
 city: Brakel
 street: "Hanekamp"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.873660300000004
 longitude: 6.1684824
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Allensteiner Straße"
 housenumber: 17

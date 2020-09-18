@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.829317800000005
 longitude: 6.961088
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Rodenkirchener Straße"
 housenumber: 202

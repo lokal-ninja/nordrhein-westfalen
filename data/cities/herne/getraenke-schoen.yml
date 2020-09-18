@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.539053800000005
 longitude: 7.1892502
-postcode: 44653
+postcode: "44653"
 city: Herne
 street: "Juliastraße"
 housenumber: 27

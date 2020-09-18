@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.94726300000001
 longitude: 6.956731700000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Eigelstein"
 housenumber: 46-48

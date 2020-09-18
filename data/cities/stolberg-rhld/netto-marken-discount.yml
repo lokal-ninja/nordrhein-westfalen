@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.785682800000004
 longitude: 6.2154161000000006
-postcode: 52222
+postcode: "52222"
 city: Stolberg (Rhld.)
 street: "Eisenbahnstraße"
 housenumber: 153b

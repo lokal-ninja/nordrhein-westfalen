@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.008085900000005
 longitude: 8.412812
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Bahnhofstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.969191300000006
 longitude: 7.056255500000001
-postcode: 51067
+postcode: "51067"
 city: Köln
 street: "Neufelder Straße"
 housenumber: 25

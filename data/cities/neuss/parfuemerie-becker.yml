@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 51.2008006
 longitude: 6.687515100000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Niederstraße"
 housenumber: 9

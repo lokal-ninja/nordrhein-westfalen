@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5147294
 longitude: 6.846834
-postcode: 46145
+postcode: "46145"
 city: Oberhausen
 street: "Bahnhofstraße"
 housenumber: 42

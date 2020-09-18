@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.8939706
 longitude: 8.3825056
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Vossenstraße"
 housenumber: 4

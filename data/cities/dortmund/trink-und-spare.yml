@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5040831
 longitude: 7.325125000000001
-postcode: 44388
+postcode: "44388"
 city: Dortmund
 street: "Provinzialstraße"
 housenumber: 195

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.022573200000004
 longitude: 8.892524
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Lagesche Straße"
 housenumber: 15d

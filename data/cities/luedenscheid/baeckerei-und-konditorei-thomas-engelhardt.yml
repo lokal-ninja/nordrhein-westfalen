@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.217691
 longitude: 7.641512100000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Reckenstraße"
 housenumber: 5

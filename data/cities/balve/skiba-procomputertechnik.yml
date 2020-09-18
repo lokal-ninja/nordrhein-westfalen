@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.3356909
 longitude: 7.8694468
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Hönnetalstraße"
 housenumber: 54b

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.0606808
 longitude: 8.361452100000001
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Bahnhofstraße"
 housenumber: 9

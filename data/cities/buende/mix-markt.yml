@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.203225700000004
 longitude: 8.5631322
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Holser Straße"
 housenumber: 33

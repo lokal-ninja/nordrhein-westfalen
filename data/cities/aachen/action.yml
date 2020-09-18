@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.8132667
 longitude: 6.060842
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 577a

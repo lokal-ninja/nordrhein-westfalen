@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.451537200000004
 longitude: 6.626538200000001
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Steinstraße"
 housenumber: 6

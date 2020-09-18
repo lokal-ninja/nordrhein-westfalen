@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.504477200000004
 longitude: 7.1119519
-postcode: 45886
+postcode: "45886"
 city: Gelsenkirchen
 street: "Dessauerstraße"
 housenumber: 61

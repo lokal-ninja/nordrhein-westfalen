@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.3756877
 longitude: 7.6932941
-postcode: 58638
+postcode: "58638"
 city: Iserlohn
 street: "Hans-Böckler-Straße"
 housenumber: 32

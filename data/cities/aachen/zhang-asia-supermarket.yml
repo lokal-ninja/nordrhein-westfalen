@@ -1,12 +1,12 @@
-id: 79142323
-type: way
+id: 7731793170
+type: node
 shop: Supermarkt
-latitude: 50.769599500000005
-longitude: 6.0910994
-postcode: 52064
+latitude: 50.7696771
+longitude: 6.0911296
+postcode: "52064"
 city: Aachen
 street: "Bahnhofstraße"
 housenumber: 18-20
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
+opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
 website: ""

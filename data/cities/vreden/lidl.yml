@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0314874
 longitude: 6.8212343
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Winterswyker Straße"
 housenumber: 17

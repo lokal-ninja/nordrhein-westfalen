@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.765370600000004
 longitude: 7.915731
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Beckumer Straße"
 housenumber: 135

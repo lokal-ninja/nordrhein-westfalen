@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.736142300000004
 longitude: 7.1009203
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Bonngasse"
 housenumber: 11

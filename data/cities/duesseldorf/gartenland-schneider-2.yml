@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.179009300000004
 longitude: 6.8710129
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Tönisstraße"
 housenumber: 27

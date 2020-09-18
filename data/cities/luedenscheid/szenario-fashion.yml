@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.216042900000005
 longitude: 7.6320072
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Corneliusstraße"
 housenumber: 2

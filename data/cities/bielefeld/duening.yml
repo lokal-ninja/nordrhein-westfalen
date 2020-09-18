@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.0442137
 longitude: 8.5224806
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 189

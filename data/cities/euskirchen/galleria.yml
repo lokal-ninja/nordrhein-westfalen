@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.660212900000005
 longitude: 6.7887028
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.662761
 longitude: 6.6096642
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Reeser Landstraße"
 housenumber: 9

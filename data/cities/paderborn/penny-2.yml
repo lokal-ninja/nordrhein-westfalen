@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.7442635
 longitude: 8.6713085
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Sander Straße"
 housenumber: 66
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: "Mo-Sa 07:30-22:00"
 website: ""

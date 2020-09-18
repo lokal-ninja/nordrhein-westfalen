@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.570211400000005
 longitude: 6.9732982
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Bottroper Straße"
 housenumber: 142

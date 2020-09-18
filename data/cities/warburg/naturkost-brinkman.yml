@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4897209
 longitude: 9.1471458
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Unterstraße"
 housenumber: 74

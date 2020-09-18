@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.991863800000004
 longitude: 7.125691700000001
-postcode: 51465
+postcode: "51465"
 city: Bergisch Gladbach
 street: "Johann-Wilhelm-Lindlar-Straße"
 housenumber: 11-14

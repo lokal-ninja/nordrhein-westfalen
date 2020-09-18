@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.210688600000005
 longitude: 7.873495500000001
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Kaiserstraße"
 housenumber: 21

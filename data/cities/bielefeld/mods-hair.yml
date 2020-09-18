@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.019694
 longitude: 8.5305196
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Neustädter Straße"
 housenumber: 22

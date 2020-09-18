@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2960664
 longitude: 6.8664256
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Homberger Straße"
 housenumber: 19

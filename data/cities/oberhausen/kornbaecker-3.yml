@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5043415
 longitude: 6.8853735
-postcode: 46117
+postcode: "46117"
 city: Oberhausen
 street: "Wißmannstraße"
 housenumber: 1

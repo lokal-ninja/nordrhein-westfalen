@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.191709800000005
 longitude: 7.2572554
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Wetterauer Straße"
 housenumber: 6

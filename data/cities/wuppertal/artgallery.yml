@@ -1,12 +1,12 @@
-id: 6158082391
+id: 3412123121
 type: node
 shop: Kunst
-latitude: 51.2574406
-longitude: 7.142783400000001
-postcode: 42103
+latitude: 51.2601062
+longitude: 7.1463106000000005
+postcode: "42105"
 city: Wuppertal
-street: "Neumarktstraße"
-housenumber: 37
+street: "Friedrichstraße"
+housenumber: 44
 phone: "+49 202 312231"
-opening_hours: "Tu-Fr 11:00-18:00, Sa 11:00-14:00"
+opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-19:00"
 website: "https://www.artgallery-wuppertal.com/"

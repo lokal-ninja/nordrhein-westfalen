@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.488165
 longitude: 6.9559927
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Im Hesselbruch"
 housenumber: 23

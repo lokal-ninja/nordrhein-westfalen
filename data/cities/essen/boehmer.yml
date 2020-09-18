@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.4577171
 longitude: 7.0107341000000005
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Limbecker Straße"
 housenumber: 12

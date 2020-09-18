@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.82759840000001
 longitude: 7.1093631
-postcode: 53842
+postcode: "53842"
 city: Troisdorf
 street: "Biberweg"
 housenumber: 3

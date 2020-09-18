@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.028831100000005
 longitude: 7.844200600000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Kölner Straße"
 housenumber: 

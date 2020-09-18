@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.966770100000005
 longitude: 8.7762335
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Hörster Straße"
 housenumber: 2

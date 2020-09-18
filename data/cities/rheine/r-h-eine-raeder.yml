@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.27991170000001
 longitude: 7.435424
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Am Thietor"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.426115700000004
 longitude: 7.291480300000001
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Alter Fährweg"
 housenumber: 8

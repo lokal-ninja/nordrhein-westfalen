@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.963027100000005
 longitude: 8.0400487
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Kredenbacher Straße"
 housenumber: 28

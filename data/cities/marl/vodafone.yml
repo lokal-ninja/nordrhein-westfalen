@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.6546886
 longitude: 7.096752100000001
-postcode: 45768
+postcode: "45768"
 city: Marl
 street: "Marler Stern"
 housenumber: 36

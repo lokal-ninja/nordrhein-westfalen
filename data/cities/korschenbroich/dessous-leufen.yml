@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.190693100000004
 longitude: 6.5132265
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Sebastianusstraße"
 housenumber: 12

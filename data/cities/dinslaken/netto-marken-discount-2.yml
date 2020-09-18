@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5797116
 longitude: 6.7361775
-postcode: 46537
+postcode: "46537"
 city: Dinslaken
 street: "Baßfeldshof"
 housenumber: 2

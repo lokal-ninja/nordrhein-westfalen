@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6247308
 longitude: 6.845823
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 24

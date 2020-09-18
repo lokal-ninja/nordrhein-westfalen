@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.070298900000004
 longitude: 8.601369
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Braker Straße"
 housenumber: 71

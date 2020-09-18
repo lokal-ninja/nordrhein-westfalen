@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.8268977
 longitude: 7.2845506
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Lüdinghauser Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.708176800000004
 longitude: 8.336895400000001
-postcode: 59556
+postcode: "59556"
 city: Lippstadt
 street: "Braukstraße"
 housenumber: 5-7

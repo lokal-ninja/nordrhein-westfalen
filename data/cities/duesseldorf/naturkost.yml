@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1738233
 longitude: 6.8298418000000005
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Itterstraße"
 housenumber: 36

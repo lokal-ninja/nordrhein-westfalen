@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.510737600000006
 longitude: 7.210887400000001
-postcode: 44807
+postcode: "44807"
 city: Bochum
 street: "Herner Straße"
 housenumber: 372

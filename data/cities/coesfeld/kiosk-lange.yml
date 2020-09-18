@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.9437931
 longitude: 7.157349900000001
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Borkener Straße"
 housenumber: 28

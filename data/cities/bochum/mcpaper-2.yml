@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 51.4483064
 longitude: 7.2580941
-postcode: 44801
+postcode: "44801"
 city: Bochum
 street: "Querenburger Höhe"
 housenumber: 220
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
 website: ""

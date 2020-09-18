@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.57515050000001
 longitude: 6.958332
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Hegestraße"
 housenumber: 90

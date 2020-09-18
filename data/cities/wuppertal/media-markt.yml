@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 51.256469300000006
 longitude: 7.1633044
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Friedrich-Engels-Allee"
 housenumber: 34
-phone: "+49 202 2654 0"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+phone: ""
+opening_hours: "Mo-Fr 10:00-19:00; PH off"
 website: ""

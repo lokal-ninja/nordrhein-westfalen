@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.504553800000004
 longitude: 7.9602143000000005
-postcode: 59469
+postcode: "59469"
 city: Ense
 street: "Werler Straße"
 housenumber: 15

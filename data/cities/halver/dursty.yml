@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.192333600000005
 longitude: 7.490831200000001
-postcode: 58553
+postcode: "58553"
 city: Halver
 street: "Schwarzenbach"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.329948
 longitude: 6.544515100000001
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Gutenbergstraße"
 housenumber: 155

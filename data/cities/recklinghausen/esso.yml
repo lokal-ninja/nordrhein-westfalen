@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.60375500000001
 longitude: 7.164894800000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Akkoallee"
 housenumber: 63

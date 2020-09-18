@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.194570600000006
 longitude: 6.6674061
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Glehner Weg"
 housenumber: 81

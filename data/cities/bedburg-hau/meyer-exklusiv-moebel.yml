@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.7480319
 longitude: 6.1579385
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Waldstraße"
 housenumber: 2

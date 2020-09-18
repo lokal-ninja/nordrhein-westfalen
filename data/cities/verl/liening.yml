@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8894784
 longitude: 8.4647544
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Thaddäusstraße"
 housenumber: 80

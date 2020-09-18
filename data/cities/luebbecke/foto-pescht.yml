@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.3042383
 longitude: 8.6193539
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Bäckerstraße"
 housenumber: 29

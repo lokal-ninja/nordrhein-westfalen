@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8912485
 longitude: 8.412439800000001
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Verler Straße"
 housenumber: 208

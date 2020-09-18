@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.25030640000001
 longitude: 8.7280175
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Rauhen Sundern"
 housenumber: 39

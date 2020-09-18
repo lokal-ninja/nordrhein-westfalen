@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.495484100000006
 longitude: 7.279643
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 7

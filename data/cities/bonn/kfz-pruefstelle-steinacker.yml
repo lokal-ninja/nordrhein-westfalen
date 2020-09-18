@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6943934
 longitude: 7.140986600000001
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Godesberger Straße"
 housenumber: 59

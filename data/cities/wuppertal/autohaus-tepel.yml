@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.248700400000004
 longitude: 7.124076100000001
-postcode: 42117
+postcode: "42117"
 city: Wuppertal
 street: "Friedrich-Ebert-Straße"
 housenumber: 171

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.740572400000005
 longitude: 7.3574513
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Westerwaldstraße"
 housenumber: 39

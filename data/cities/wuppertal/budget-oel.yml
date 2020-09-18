@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 51.273658700000006
 longitude: 7.1790639
-postcode: 42283
+postcode: "42283"
 city: Wuppertal
 street: "Schönebecker Straße"
 housenumber: 51
 phone: ""
 opening_hours: "24/7"
-website: "https://www.budget-oil-service.de/tankstelle-budget-oil-service-gmbh-wuppertal"
+website: ""

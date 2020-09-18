@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.4394257
 longitude: 7.5413874000000005
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Rosenweg"
 housenumber: 128

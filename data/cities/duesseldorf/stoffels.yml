@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.170507900000004
 longitude: 6.8229626
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Itterstraße"
 housenumber: 118

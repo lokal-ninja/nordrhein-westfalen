@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1770523
 longitude: 6.7410174000000005
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Römerplatz"
 housenumber: 11

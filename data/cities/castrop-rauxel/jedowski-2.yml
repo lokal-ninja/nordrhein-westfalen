@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.580951000000006
 longitude: 7.308435800000001
-postcode: 44579
+postcode: "44579"
 city: Castrop-Rauxel
 street: "Siemensstraße"
 housenumber: 10

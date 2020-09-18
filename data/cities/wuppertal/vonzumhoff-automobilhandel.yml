@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.248777800000006
 longitude: 7.1276621
-postcode: 42117
+postcode: "42117"
 city: Wuppertal
 street: "Gutenbergstraße"
 housenumber: 30-48

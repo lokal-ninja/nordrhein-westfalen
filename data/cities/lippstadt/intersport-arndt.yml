@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.6713187
 longitude: 8.3466956
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Lange Straße"
 housenumber: 78

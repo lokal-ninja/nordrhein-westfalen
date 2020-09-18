@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2505801
 longitude: 6.9777962
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Freiheitstraße"
 housenumber: 7

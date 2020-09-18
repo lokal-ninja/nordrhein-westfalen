@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.605421
 longitude: 6.3030501
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Kammerbruchstraße"
 housenumber: 13

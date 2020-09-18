@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.118495700000004
 longitude: 8.6157403
-postcode: 59969
+postcode: "59969"
 city: Hallenberg
 street: "Nuhnestraße"
 housenumber: 27

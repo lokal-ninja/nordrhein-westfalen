@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.800879800000004
 longitude: 6.4838516
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Annaplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.356515
 longitude: 8.8506873
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Kleiriehe"
 housenumber: 2

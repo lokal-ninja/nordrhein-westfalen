@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5212942
 longitude: 6.9241139
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Hochstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.759190100000005
 longitude: 8.6703161
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Sennelagerstraße"
 housenumber: 35

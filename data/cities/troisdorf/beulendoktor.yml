@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8184911
 longitude: 7.1045775
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Junkersring"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.773892100000005
 longitude: 6.088062300000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 5-6

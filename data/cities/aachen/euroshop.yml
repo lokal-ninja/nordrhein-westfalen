@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.777762200000005
 longitude: 6.0874873
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Großkölnstraße"
 housenumber: 65,67

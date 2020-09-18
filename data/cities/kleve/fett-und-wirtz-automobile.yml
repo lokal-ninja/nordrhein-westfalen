@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8129554
 longitude: 6.1394048
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Siemensstraße"
 housenumber: 19

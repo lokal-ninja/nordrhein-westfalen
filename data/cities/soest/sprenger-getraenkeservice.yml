@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.556704200000006
 longitude: 8.1393459
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Overweg"
 housenumber: 11

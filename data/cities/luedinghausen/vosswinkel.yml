@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7648948
 longitude: 7.4428019
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Tüllinghofer Straße"
 housenumber: 39

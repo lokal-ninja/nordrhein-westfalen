@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.163548500000005
 longitude: 7.9860407
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "Bamenohler Straße"
 housenumber: 29

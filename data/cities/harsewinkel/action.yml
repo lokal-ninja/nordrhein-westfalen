@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.960358500000005
 longitude: 8.222689500000001
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "August-Claas-Straße"
 housenumber: 8

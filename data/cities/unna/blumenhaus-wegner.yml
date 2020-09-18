@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5244178
 longitude: 7.700731200000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Inge-Donnepp-Straße"
 housenumber: 93

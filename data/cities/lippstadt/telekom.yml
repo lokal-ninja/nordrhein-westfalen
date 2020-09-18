@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.6737083
 longitude: 8.346997100000001
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Lange Straße"
 housenumber: 40

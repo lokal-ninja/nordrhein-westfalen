@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.981603
 longitude: 7.774873400000001
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Orkotten"
 housenumber: 46/48

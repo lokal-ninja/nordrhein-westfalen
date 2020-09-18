@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.737410000000004
 longitude: 7.0868343000000005
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Bornheimer Straße"
 housenumber: 94

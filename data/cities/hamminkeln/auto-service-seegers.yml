@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.74039500000001
 longitude: 6.5933339
-postcode: 46499
+postcode: "46499"
 city: Hamminkeln
 street: "Daßhorst"
 housenumber: 7

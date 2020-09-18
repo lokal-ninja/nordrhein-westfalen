@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.108555800000005
 longitude: 6.5786142000000005
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Am Rittergut"
 housenumber: 1

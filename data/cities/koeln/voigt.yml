@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.928859
 longitude: 6.9356909
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Dasselstraße"
 housenumber: 1a

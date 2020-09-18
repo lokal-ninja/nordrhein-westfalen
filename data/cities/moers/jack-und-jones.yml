@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.450794200000004
 longitude: 6.6279330000000005
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Steinstraße"
 housenumber: 41

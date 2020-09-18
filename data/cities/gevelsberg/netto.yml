@@ -1,12 +1,12 @@
-id: 264342097
-type: way
+id: 1584879176
+type: node
 shop: Supermarkt
-latitude: 51.337608100000004
-longitude: 7.387198100000001
-postcode: 58285
+latitude: 51.318560500000004
+longitude: 7.3336078
+postcode: "58285"
 city: Gevelsberg
-street: "Hagener Straße"
-housenumber: 397
+street: "Weststraße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

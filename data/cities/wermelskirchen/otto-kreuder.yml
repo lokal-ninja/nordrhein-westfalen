@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.1427029
 longitude: 7.2176714
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Thomas-Mann-Straße"
 housenumber: 16-18

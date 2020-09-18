@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.1948531
 longitude: 6.671058800000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Glehner Weg"
 housenumber: 41

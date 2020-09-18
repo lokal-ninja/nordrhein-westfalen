@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.804847800000005
 longitude: 8.4165595
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Bokeler Straße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.428961300000005
 longitude: 7.245442400000001
-postcode: 44797
+postcode: "44797"
 city: Bochum
 street: "Kemnader Straße"
 housenumber: 335

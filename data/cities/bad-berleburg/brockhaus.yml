@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.045903900000006
 longitude: 8.3887848
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Ederstraße"
 housenumber: 19

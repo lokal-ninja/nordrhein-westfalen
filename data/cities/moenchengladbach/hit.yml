@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1651005
 longitude: 6.429985100000001
-postcode: 41239
+postcode: "41239"
 city: Mönchengladbach
 street: "Dahlener Straße"
 housenumber: 171

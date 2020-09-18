@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.7746269
 longitude: 6.0930263
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Adalbertstraße"
 housenumber: 100

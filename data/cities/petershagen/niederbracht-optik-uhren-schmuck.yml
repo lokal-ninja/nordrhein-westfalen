@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.3670442
 longitude: 9.0043593
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Bückeburger Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.280059200000004
 longitude: 8.668421
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Hauptstraße"
 housenumber: 80

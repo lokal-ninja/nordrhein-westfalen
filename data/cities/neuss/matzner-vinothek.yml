@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.198413300000006
 longitude: 6.687275700000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Büttger Straße"
 housenumber: 8-10

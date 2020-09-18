@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.909019
 longitude: 8.3805111
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Berliner Straße"
 housenumber: 73-75

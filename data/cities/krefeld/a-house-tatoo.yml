@@ -3,10 +3,10 @@ type: node
 shop: Tattoo
 latitude: 51.328600200000004
 longitude: 6.56597
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Königstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 13:00-19:00; Sa 13:30-18:00"
 website: ""

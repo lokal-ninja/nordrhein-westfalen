@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.44786250000001
 longitude: 7.077136200000001
-postcode: 45276
+postcode: "45276"
 city: Essen
 street: "Kaiser-Wilhelm-Platz"
 housenumber: 2

@@ -3,9 +3,9 @@ type: node
 shop: Bäckerei
 latitude: 51.8101679
 longitude: 8.8441671
-postcode: 
+postcode: "33189"
 city: Schlangen
-street: ""
+street: "Kohlstädter Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

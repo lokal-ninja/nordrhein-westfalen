@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.008236600000004
 longitude: 8.697999000000001
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Hauptstraße"
 housenumber: 40

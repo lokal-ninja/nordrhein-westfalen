@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1642999
 longitude: 6.852791000000001
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 343-345

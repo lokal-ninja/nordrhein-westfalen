@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.7182455
 longitude: 8.7487083
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0227123
 longitude: 7.664915000000001
-postcode: 51702
+postcode: "51702"
 city: Bergneustadt
 street: "Kölner Straße"
 housenumber: 

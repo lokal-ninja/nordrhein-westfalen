@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.734653300000005
 longitude: 9.021754900000001
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Am Hellweg"
 housenumber: 15

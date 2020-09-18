@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3354506
 longitude: 8.7451484
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Dorfstraße"
 housenumber: 3

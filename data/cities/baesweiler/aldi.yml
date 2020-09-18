@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.9045166
 longitude: 6.1819861000000005
-postcode: 52499
+postcode: "52499"
 city: Baesweiler
 street: "Im Kirchwinkel"
 housenumber: 5g
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

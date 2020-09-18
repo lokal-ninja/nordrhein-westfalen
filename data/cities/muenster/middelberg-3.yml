@@ -1,12 +1,12 @@
-id: 2065050741
+id: 2378867628
 type: node
 shop: Bäckerei
-latitude: 51.958930300000006
-longitude: 7.6374757
-postcode: 48155
+latitude: 51.957065300000004
+longitude: 7.6326204
+postcode: "48143"
 city: Münster
-street: "Wolbecker Straße"
-housenumber: 11
+street: "Windthorststraße"
+housenumber: 13
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-19:00"
-website: ""
+opening_hours: "Mo-Fr 06:00-19:30; Sa 07:30-18:30; Su 08:30-17:30"
+website: "https://www.baeckerei-middelberg.de/"

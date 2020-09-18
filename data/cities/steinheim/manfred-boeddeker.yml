@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.8665499
 longitude: 9.0926083
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Neue Straße"
 housenumber: 2

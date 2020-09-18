@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.8986686
 longitude: 6.9311178
-postcode: 50969
+postcode: "50969"
 city: Köln
 street: "Oberer Komarweg"
 housenumber: 

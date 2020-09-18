@@ -3,10 +3,10 @@ type: way
 shop: Sport
 latitude: 51.7649551
 longitude: 7.888262600000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Kampstraße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-16:30; Sa 10:00-12:00"
 website: ""

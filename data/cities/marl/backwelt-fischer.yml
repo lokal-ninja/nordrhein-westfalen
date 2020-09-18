@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.663153
 longitude: 7.105284
-postcode: 45768
+postcode: "45768"
 city: Marl
 street: "Rappaportstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.30216660000001
 longitude: 8.696656800000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Ravensberger Straße"
 housenumber: 28

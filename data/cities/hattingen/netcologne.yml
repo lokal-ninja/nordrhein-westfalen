@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3991112
 longitude: 7.1840355
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Heggerstraße"
 housenumber: 7

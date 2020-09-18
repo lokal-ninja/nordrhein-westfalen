@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0319334
 longitude: 7.115308400000001
-postcode: 51519
+postcode: "51519"
 city: Odenthal
 street: "Im Schmittergarten"
 housenumber: 21

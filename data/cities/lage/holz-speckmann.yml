@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.981457500000005
 longitude: 8.8126242
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Im Seelenkamp"
 housenumber: 8a

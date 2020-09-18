@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.513006000000004
 longitude: 7.4608444
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "Westenhellweg"
 housenumber: 102-106

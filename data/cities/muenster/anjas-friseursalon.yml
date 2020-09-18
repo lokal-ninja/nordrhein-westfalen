@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.955506
 longitude: 7.6377823000000005
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Hamburger Straße"
 housenumber: 8

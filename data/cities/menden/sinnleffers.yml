@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4384935
 longitude: 7.7937187
-postcode: 58706
+postcode: "58706"
 city: Menden
 street: "Hauptstraße"
 housenumber: 57

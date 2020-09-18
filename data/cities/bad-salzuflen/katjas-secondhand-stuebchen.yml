@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.0601068
 longitude: 8.7323556
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Bielefelder Straße"
 housenumber: 13

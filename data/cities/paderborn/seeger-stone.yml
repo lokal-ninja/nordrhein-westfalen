@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.727765600000005
 longitude: 8.789477900000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Karl-Schurz-Straße"
 housenumber: 11-15

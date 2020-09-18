@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2434346
 longitude: 6.3372888000000005
-postcode: 41751
+postcode: "41751"
 city: Viersen
 street: "Rheindahlener Straße"
 housenumber: 57

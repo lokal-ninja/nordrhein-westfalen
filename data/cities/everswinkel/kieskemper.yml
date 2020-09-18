@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.9246916
 longitude: 7.8444992000000004
-postcode: 48351
+postcode: "48351"
 city: Everswinkel
 street: "Vitusstraße"
 housenumber: 4

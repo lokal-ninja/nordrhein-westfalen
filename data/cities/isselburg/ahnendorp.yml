@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.8383613
 longitude: 6.4700072
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Dreibömerweg"
 housenumber: 15

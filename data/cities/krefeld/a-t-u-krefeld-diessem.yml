@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3231788
 longitude: 6.5941203
-postcode: 47805
+postcode: "47805"
 city: Krefeld
 street: "Untergath"
 housenumber: 180

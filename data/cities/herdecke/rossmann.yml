@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.399301900000005
 longitude: 7.432103000000001
-postcode: 58313
+postcode: "58313"
 city: Herdecke
 street: "Hauptstraße"
 housenumber: 44

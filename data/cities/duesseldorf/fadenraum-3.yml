@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.2069606
 longitude: 6.838492100000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Am Hackenbruch"
 housenumber: 85

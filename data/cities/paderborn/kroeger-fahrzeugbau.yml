@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.702483300000004
 longitude: 8.715720600000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Oberes Feld"
 housenumber: 15

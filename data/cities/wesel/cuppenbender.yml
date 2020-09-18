@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.6557929
 longitude: 6.620566
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Esplanade"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.964829400000006
 longitude: 7.1614225000000005
-postcode: 51429
+postcode: "51429"
 city: Bergisch Gladbach
 street: "Schloßstraße"
 housenumber: 66

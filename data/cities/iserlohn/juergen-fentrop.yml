@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.365021000000006
 longitude: 7.6153035000000004
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 29

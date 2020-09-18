@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.937461400000004
 longitude: 6.908606300000001
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Melatengürtel"
 housenumber: 2a

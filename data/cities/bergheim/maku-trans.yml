@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9682417
 longitude: 6.7587102
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Von-Nell-Breuning-Straße"
 housenumber: 2

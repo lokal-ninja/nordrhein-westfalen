@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9202425
 longitude: 6.3582171
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Bongardstraße"
 housenumber: 10

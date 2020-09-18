@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5226355
 longitude: 6.9264856
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Altmarkt"
 housenumber: 4

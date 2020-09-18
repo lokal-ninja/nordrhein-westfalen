@@ -1,12 +1,12 @@
 id: 2899489701
 type: node
 shop: Sanitätshaus
-latitude: 51.226908
-longitude: 7.6137518
-postcode: 58509
+latitude: 51.2269055
+longitude: 7.613738400000001
+postcode: "58509"
 city: Lüdenscheid
 street: "Heedfelder Straße"
 housenumber: 78b
 phone: ""
-opening_hours: "Mo,Tu,Th 08:00-18:00; We 14:00-18:00; Fr 08:00-16:00; Sa-Su off"
+opening_hours: "nach Vereinbarung"
 website: "https://www.podologie-nicole-mueller.de/"

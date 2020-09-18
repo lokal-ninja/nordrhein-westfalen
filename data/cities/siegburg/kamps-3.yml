@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.809334
 longitude: 7.1925695
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Luisenstraße"
 housenumber: 129-131

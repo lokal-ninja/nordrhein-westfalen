@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.723103
 longitude: 6.9241413000000005
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Breniger Straße"
 housenumber: 46

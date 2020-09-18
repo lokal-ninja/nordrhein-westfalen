@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4672659
 longitude: 6.773054500000001
-postcode: 47137
+postcode: "47137"
 city: Duisburg
 street: "Von-der-Mark-Straße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.927760000000006
 longitude: 8.1168715
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Ostenfelder Straße"
 housenumber: 13

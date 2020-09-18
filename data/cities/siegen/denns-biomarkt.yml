@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.888968600000005
 longitude: 8.027581300000001
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Weidenauer Straße"
 housenumber: 274

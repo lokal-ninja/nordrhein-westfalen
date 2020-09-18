@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.193012800000005
 longitude: 8.533519
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Poststraße"
 housenumber: 6

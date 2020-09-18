@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.451102000000006
 longitude: 7.964805600000001
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Hauptstraße"
 housenumber: 25

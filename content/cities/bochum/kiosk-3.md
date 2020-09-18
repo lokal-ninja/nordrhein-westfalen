@@ -1,4 +1,4 @@
 ---
-title: "KIOSK"
+title: "Kiosk"
 url: /bochum/kiosk-3/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.45787970000001
 longitude: 7.0088736
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Limbecker Straße"
 housenumber: 54

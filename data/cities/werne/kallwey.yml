@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6649174
 longitude: 7.6199643
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Selmer Straße"
 housenumber: 40

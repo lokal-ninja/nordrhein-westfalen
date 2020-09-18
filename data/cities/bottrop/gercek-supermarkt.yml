@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5203046
 longitude: 6.9322314
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Prosperstraße"
 housenumber: 55/1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.118825400000006
 longitude: 6.8992925000000005
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Benrather Straße"
 housenumber: 48

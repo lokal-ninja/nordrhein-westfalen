@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.4374763
 longitude: 6.7779935
-postcode: 47058
+postcode: "47058"
 city: Duisburg
 street: "Kardinal-Galen-Straße"
 housenumber: 120

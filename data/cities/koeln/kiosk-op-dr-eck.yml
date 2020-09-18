@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.961263100000004
 longitude: 6.9585163
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Kuenstraße"
 housenumber: 33

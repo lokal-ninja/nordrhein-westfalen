@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4404571
 longitude: 6.529623900000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Rayener Straße"
 housenumber: 14

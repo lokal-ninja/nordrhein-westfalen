@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7095798
 longitude: 8.3372288
-postcode: 59556
+postcode: "59556"
 city: Lippstadt
 street: "Quellenstraße"
 housenumber: 17; 19; 21

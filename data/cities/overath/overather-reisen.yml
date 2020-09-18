@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.9336677
 longitude: 7.2886926
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Hauptstraße"
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.38787000000001
 longitude: 8.6263658
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "General-Bishop-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 51.6625534
 longitude: 7.6351664
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Markt"
 housenumber: 4

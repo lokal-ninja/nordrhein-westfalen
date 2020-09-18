@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7292914
 longitude: 7.1016319
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Prinz-Albert-Straße"
 housenumber: 20

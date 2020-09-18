@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.8391645
 longitude: 6.6137078
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Europaplatz"
 housenumber: 22

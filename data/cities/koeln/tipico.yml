@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.9490959
 longitude: 6.9562809
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Gereonswall"
 housenumber: 1a

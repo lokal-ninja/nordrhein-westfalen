@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.349856800000005
 longitude: 8.275729700000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Le-Puy-Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.9215814
 longitude: 6.3575466
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kleine Rurstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.6639847
 longitude: 6.6213566
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Caspar-Baur-Straße"
 housenumber: 33

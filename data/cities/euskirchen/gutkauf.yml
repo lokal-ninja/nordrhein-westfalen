@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.610785500000006
 longitude: 6.8330123
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Arloffer Straße"
 housenumber: 31

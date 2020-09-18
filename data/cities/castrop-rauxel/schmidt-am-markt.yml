@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.548064700000005
 longitude: 7.3114211000000005
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Am Markt"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2301245
 longitude: 6.7099305000000005
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Wiesenstraße"
 housenumber: 30

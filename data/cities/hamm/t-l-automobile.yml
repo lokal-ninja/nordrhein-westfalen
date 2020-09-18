@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.663809900000004
 longitude: 7.8329427
-postcode: 59063
+postcode: "59063"
 city: Hamm
 street: "Werler Straße"
 housenumber: 208/210

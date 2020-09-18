@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.8992031
 longitude: 8.362380700000001
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Westring"
 housenumber: 93

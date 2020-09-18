@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.1346069
 longitude: 6.8396438
-postcode: 41541
+postcode: "41541"
 city: Dormagen
 street: "Oberstraße"
 housenumber: 200

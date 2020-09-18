@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2363616
 longitude: 6.7818014
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Duisburger Straße"
 housenumber: 24

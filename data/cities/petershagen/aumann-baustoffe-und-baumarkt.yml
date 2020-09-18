@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.3695126
 longitude: 8.995820100000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Bahnhofstraße"
 housenumber: 13-19

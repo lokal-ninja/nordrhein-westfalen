@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9308635
 longitude: 6.852963300000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Jungbluthgasse"
 housenumber: 9

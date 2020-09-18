@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.9272112
 longitude: 6.957932400000001
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "Severinstraße"
 housenumber: 138

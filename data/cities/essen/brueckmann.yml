@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.4530644
 longitude: 6.965790200000001
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Möserstraße"
 housenumber: 2

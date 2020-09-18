@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5098891
 longitude: 7.094108
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Ahstraße"
 housenumber: 2-4

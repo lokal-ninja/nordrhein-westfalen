@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0194289
 longitude: 8.5277192
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 53-55

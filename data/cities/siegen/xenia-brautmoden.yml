@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8699639
 longitude: 8.0133724
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Koblenzer Straße"
 housenumber: 107

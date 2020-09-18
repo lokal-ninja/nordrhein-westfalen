@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.485802500000005
 longitude: 7.195984800000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Seilfahrt"
 housenumber: 127

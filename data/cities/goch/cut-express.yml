@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.6745108
 longitude: 6.159554900000001
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Voßstraße"
 housenumber: 64

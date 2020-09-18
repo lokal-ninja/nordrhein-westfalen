@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.5961112
 longitude: 7.3519262
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Leveringhauser Straße"
 housenumber: 91

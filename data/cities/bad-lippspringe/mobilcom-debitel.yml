@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.7767484
 longitude: 8.8064412
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Detmolder Straße"
 housenumber: 67

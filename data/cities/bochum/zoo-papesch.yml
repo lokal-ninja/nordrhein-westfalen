@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.48437130000001
 longitude: 7.2183839
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 125

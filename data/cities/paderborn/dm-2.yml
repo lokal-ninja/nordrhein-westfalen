@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.7170173
 longitude: 8.751951400000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienplatz"
 housenumber: 11

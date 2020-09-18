@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9404581
 longitude: 6.9740513
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Ottoplatz"
 housenumber: 7

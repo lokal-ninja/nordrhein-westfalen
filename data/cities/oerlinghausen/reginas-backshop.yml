@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9712583
 longitude: 8.7111055
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Bahnhofstraße"
 housenumber: 17

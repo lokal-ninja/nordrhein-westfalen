@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.872079600000006
 longitude: 8.0170489
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Koblenzer Straße"
 housenumber: 43

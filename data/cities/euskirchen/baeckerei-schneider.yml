@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.664515200000004
 longitude: 6.7736074
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Rüdesheimer Ring"
 housenumber: 145

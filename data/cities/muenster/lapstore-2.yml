@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.96396420000001
 longitude: 7.631059400000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Bült"
 housenumber: 13a

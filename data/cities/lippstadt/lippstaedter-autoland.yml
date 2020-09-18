@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6520061
 longitude: 8.3541371
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Hansastraße"
 housenumber: 27

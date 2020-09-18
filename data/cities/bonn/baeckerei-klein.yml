@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.726626
 longitude: 7.0718864
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Endenicher Straße"
 housenumber: 282

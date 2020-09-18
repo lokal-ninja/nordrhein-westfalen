@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6745804
 longitude: 6.609472500000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Hamminkelner Landstraße"
 housenumber: 14

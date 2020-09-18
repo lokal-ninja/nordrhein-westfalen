@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.021650900000004
 longitude: 8.549534000000001
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Heeper Straße"
 housenumber: 76

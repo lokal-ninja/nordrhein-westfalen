@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.495363000000005
 longitude: 7.284121000000001
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 8

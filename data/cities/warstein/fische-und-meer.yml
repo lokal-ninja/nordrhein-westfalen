@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.4466897
 longitude: 8.354827100000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Hauptstraße"
 housenumber: 37

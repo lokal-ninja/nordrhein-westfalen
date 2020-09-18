@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 52.012463000000004
 longitude: 8.523349000000001
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Königsweg"
 housenumber: 1
 phone: ""
-opening_hours: "Mo.-Fr. 09:00-18:00 Uhr, Advents-Sa. 10.00-13.00 Uhr"
+opening_hours: "Mo-Fr 09:00-18:00, Dec 25 - Su - 22 days, Dec 25 - Su - 15 days, Dec 25 - Su - 8 days, Dec 25 - Su - 1 days 10:00-13:00"
 website: ""

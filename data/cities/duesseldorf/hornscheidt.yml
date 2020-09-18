@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.301363900000005
 longitude: 6.7362204000000006
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Kaiserswerther Markt"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.927614500000004
 longitude: 8.0091324
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Siegener Straße"
 housenumber: 210

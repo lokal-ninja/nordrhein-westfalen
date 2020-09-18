@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.238280100000004
 longitude: 6.7805897
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Parkstraße"
 housenumber: 10

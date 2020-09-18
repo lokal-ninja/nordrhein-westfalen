@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.191175
 longitude: 6.690204400000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Jülicher Straße"
 housenumber: 23

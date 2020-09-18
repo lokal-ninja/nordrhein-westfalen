@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.938037900000005
 longitude: 8.4446195
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Friedrichsdorfer Straße"
 housenumber: 72

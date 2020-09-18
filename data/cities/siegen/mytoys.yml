@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.874006800000004
 longitude: 8.0180594
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Bahnhofstraße"
 housenumber: 5

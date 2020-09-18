@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0029447
 longitude: 8.5684311
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 299

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.027823000000005
 longitude: 8.528841100000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Große-Kurfürsten-Straße"
 housenumber: 81

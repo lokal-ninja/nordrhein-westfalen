@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.6885696
 longitude: 8.6971752
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Alter Hellweg"
 housenumber: 22

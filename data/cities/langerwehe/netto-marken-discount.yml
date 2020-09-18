@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.815409
 longitude: 6.3629699
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Jüngersdorfer Straße"
 housenumber: 90

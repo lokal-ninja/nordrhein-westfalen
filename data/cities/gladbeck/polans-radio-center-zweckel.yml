@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.590760100000004
 longitude: 6.9824241
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Gluckstraße"
 housenumber: 66-68

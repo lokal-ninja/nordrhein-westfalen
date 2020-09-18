@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6647431
 longitude: 7.277410700000001
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Recklinghäuser Straße"
 housenumber: 170

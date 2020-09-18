@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 51.510629
 longitude: 7.0955094
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Sparkassenstraße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
 website: "https://www.buchhandlung-junius.de/"

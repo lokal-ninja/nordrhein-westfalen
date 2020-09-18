@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.660346000000004
 longitude: 8.7170713
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Bahnhofstraße"
 housenumber: 1

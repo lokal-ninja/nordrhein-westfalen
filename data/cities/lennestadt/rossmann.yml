@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1051936
 longitude: 8.0737512
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Helmut-Kumpf-Straße"
 housenumber: 4-6

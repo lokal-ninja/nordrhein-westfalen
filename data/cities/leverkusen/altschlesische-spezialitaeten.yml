@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0311388
 longitude: 7.0091082
-postcode: 
+postcode: ""
 city: Leverkusen
 street: "Konrad-Adenauer-Platz"
 housenumber: 6

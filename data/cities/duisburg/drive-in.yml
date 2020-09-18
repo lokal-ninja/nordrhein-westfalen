@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.4336422
 longitude: 6.792859600000001
-postcode: 47058
+postcode: "47058"
 city: Duisburg
 street: "Mülheimer Straße"
 housenumber: 143

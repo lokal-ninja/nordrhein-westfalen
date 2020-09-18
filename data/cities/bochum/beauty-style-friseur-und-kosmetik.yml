@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.439641400000006
 longitude: 7.2161007
-postcode: 
+postcode: ""
 city: Bochum
 street: "Kemnader Straße"
 housenumber: 29

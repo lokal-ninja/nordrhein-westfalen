@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7633567
 longitude: 8.9406579
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Adenauerstraße"
 housenumber: 56a

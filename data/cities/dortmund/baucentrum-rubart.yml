@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5183152
 longitude: 7.499843200000001
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Erfurter Straße"
 housenumber: 22

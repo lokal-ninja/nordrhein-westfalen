@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.428626900000005
 longitude: 6.8411783
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 275

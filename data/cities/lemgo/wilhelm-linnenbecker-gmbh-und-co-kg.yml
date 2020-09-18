@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.0104224
 longitude: 8.944473
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Skandinavienweg"
 housenumber: 1

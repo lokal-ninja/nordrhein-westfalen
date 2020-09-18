@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4506845
 longitude: 6.7076193
-postcode: 47198
+postcode: "47198"
 city: Duisburg
 street: "Bismarckplatz"
 housenumber: 6-8

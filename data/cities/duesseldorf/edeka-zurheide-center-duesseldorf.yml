@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2194731
 longitude: 6.7825904
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Berliner Allee"
 housenumber: 52

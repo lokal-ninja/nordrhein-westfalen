@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.9505246
 longitude: 6.9569013
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Ebertplatzpassage"
 housenumber: 

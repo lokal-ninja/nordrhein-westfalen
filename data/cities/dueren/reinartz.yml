@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.800122800000004
 longitude: 6.4851554
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Oberstraße"
 housenumber: 43

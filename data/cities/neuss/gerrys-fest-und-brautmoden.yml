@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2008267
 longitude: 6.691677
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Meererhof"
 housenumber: 23-24

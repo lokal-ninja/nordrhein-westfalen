@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.027468400000004
 longitude: 8.5309757
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 47a

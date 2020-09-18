@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.230994200000005
 longitude: 6.712035200000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Heerdter Landstraße"
 housenumber: 115

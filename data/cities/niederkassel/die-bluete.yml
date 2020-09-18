@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.813256800000005
 longitude: 7.0425529000000004
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Spicher Straße"
 housenumber: 28

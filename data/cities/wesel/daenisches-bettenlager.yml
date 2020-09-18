@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.6631366
 longitude: 6.664007000000001
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Rudolf-Diesel-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.5552999
 longitude: 7.291916100000001
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Am Landwehrbach"
 housenumber: 5

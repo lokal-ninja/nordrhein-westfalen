@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0088711
 longitude: 8.5177709
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Artur-Ladebeck-Straße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.667107
 longitude: 7.1407116
-postcode: 45772
+postcode: "45772"
 city: Marl
 street: "Victoriastraße"
 housenumber: 99

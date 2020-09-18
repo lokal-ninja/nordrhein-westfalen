@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.734975600000006
 longitude: 7.0997162000000005
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Münsterplatz"
 housenumber: 28

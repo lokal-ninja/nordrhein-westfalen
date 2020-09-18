@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0761692
 longitude: 7.0068277000000005
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Markt"
 housenumber: 21

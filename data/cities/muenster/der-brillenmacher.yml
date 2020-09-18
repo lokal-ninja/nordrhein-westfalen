@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.930417000000006
 longitude: 7.6746556
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Gremmendorfer Weg"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8336771
 longitude: 9.0459247
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Sandebecker Straße"
 housenumber: 13

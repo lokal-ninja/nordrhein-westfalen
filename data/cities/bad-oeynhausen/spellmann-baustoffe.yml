@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.21756370000001
 longitude: 8.8006173
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Eidinghausener Straße"
 housenumber: 84

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8843059
 longitude: 8.354999600000001
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Hans-Böckler-Straße"
 housenumber: 57

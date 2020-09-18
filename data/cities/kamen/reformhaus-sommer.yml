@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5938169
 longitude: 7.662819600000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Adenauerstraße"
 housenumber: 6

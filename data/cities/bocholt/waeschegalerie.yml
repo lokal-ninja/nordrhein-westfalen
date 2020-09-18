@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.839204300000006
 longitude: 6.6146468
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Nobelstraße"
 housenumber: 3

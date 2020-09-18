@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.947552400000006
 longitude: 6.956257000000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Weidengasse"
 housenumber: 1

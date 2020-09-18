@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.640555500000005
 longitude: 8.5101037
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Bachstraße"
 housenumber: 16

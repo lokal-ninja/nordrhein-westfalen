@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.090074300000005
 longitude: 8.7383396
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Gröchteweg"
 housenumber: 51

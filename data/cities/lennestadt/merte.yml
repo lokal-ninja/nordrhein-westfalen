@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.105353400000006
 longitude: 8.0740601
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: ""
 housenumber: 

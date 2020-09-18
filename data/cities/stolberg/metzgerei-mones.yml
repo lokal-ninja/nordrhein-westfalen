@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7800498
 longitude: 6.2383633000000005
-postcode: 52222
+postcode: "52222"
 city: Stolberg
 street: "Höhenstraße"
 housenumber: 52

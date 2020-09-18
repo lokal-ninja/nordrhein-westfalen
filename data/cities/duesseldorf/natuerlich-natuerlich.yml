@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.206698800000005
 longitude: 6.7785292
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Brunnenstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.167206500000006
 longitude: 6.445383400000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Markt"
 housenumber: 10

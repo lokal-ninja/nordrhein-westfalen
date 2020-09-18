@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.160131400000004
 longitude: 6.9352914000000006
-postcode: 40723
+postcode: "40723"
 city: Hilden
 street: "Schützenstraße"
 housenumber: 65

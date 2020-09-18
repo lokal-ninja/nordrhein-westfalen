@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2663129
 longitude: 6.7994133
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Marler Straße"
 housenumber: 4

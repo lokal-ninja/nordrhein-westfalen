@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.827733200000004
 longitude: 6.5253161
-postcode: 52399
+postcode: "52399"
 city: Merzenich
 street: "Lindenstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.237231200000004
 longitude: 6.7986507000000005
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 121

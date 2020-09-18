@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.287128200000005
 longitude: 7.2924940000000005
-postcode: 58332
+postcode: "58332"
 city: Schwelm
 street: "Gartenstraße"
 housenumber: 2a

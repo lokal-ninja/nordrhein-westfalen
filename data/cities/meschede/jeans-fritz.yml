@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3470158
 longitude: 8.283573500000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Von-Stephan-Straße"
 housenumber: 5

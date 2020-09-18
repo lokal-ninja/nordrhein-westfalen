@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.260134300000004
 longitude: 6.7549923000000005
-postcode: 40474
+postcode: "40474"
 city: Düsseldorf
 street: "Am Hain"
 housenumber: 2

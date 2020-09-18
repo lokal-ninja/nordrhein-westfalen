@@ -3,7 +3,7 @@ type: way
 shop: Leder
 latitude: 51.295987600000004
 longitude: 6.850939800000001
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Wallstraße"
 housenumber: 23

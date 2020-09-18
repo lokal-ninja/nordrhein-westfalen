@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.480743600000004
 longitude: 7.219505300000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Schützenbahn"
 housenumber: 7

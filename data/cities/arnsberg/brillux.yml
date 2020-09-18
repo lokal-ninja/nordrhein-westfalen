@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.4612026
 longitude: 7.9773407
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Zum Möhnewehr"
 housenumber: 24

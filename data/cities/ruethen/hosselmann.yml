@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4945195
 longitude: 8.434715500000001
-postcode: 59602
+postcode: "59602"
 city: Rüthen
 street: "Lippstädter Straße"
 housenumber: 1

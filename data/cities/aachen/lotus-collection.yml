@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.774337200000005
 longitude: 6.0822786
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Annastraße"
 housenumber: 7

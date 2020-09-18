@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.231318900000005
 longitude: 7.8701141
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Breddestraße"
 housenumber: 1c

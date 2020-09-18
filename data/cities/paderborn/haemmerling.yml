@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.764773500000004
 longitude: 8.718250000000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bielefelder Straße"
 housenumber: 77

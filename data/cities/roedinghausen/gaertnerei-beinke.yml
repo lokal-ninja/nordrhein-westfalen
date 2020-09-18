@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.2197253
 longitude: 8.474715100000001
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: "In der Lage"
 housenumber: 7

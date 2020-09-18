@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.9463464
 longitude: 8.5903846
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Netzeweg"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.227308400000005
 longitude: 7.652973800000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Glatzer Straße"
 housenumber: 26

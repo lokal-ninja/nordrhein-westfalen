@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.0833632
 longitude: 8.7632701
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Pohlmanstraße"
 housenumber: 1

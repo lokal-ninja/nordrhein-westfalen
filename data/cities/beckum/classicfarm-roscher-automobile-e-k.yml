@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7595352
 longitude: 8.086584
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Auf dem Tigge"
 housenumber: 12

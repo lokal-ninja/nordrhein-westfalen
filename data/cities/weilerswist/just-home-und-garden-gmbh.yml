@@ -3,7 +3,7 @@ type: way
 shop: Gartenmöbel
 latitude: 50.7551234
 longitude: 6.8498526
-postcode: 53919
+postcode: "53919"
 city: Weilerswist
 street: "Nikolaus-August-Otto-Straße"
 housenumber: 4

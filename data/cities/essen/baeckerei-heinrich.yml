@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.3937484
 longitude: 7.082496300000001
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 128
-phone: ""
-opening_hours: "Mo-Su"
-website: ""
+phone: "+49 201 49012079"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 08:00-17:00"
+website: "https://baeckerei-heidrich.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5697951
 longitude: 7.3819977
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Heimbrügge"
 housenumber: 6

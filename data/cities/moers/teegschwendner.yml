@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.451447
 longitude: 6.626124900000001
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Steinstraße"
 housenumber: 5

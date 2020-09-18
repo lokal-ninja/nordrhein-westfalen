@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.735145200000005
 longitude: 7.0998258000000005
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Dreieck"
 housenumber: 2

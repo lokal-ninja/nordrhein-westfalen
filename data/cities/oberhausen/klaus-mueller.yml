@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.543158000000005
 longitude: 6.8201165
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Schmachtendorfer Straße"
 housenumber: 156

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9950659
 longitude: 6.9254376
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "Altonaer Straße"
 housenumber: 55

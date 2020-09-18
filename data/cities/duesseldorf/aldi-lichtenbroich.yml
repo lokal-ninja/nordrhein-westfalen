@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2813096
 longitude: 6.7843071
-postcode: 40468
+postcode: "40468"
 city: Düsseldorf
 street: "Kieshecker Weg"
 housenumber: 100

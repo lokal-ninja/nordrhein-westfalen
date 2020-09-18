@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.767457300000004
 longitude: 8.0413209
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Neubeckumer Straße"
 housenumber: 74c

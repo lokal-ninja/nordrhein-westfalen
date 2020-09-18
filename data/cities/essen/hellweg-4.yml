@@ -1,12 +1,12 @@
-id: 198336027
+id: 92252578
 type: way
 shop: Baumarkt
-latitude: 51.459186800000005
-longitude: 7.036941100000001
-postcode: 45139
+latitude: 51.4287811
+longitude: 7.0499676000000004
+postcode: "45134"
 city: Essen
-street: "Frillendorfer Straße"
-housenumber: 130
-phone: "+49 201 8346270"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de"
+street: "Frankenstraße"
+housenumber: 58
+phone: "+49 201 843 090"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.hellweg.de/"

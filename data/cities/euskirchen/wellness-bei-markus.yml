@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.663304600000004
 longitude: 6.7732348
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Rüdesheimer Ring"
 housenumber: 127

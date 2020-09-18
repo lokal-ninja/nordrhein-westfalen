@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.214103800000004
 longitude: 6.7955182
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Siemensstraße"
 housenumber: 46

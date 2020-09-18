@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5490584
 longitude: 7.308729400000001
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Im Ort"
 housenumber: 13

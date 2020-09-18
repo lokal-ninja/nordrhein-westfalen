@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.9594395
 longitude: 8.6579888
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Simonsplatz"
 housenumber: 6

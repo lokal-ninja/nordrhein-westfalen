@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.6567007
 longitude: 6.804684000000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Alfred-Nobel-Straße"
 housenumber: 52c

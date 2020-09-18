@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.6445712
 longitude: 6.8087295
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Caspar-Müller-Straße"
 housenumber: 24

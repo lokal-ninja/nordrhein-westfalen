@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.270228
 longitude: 7.2057849
-postcode: 42289
+postcode: "42289"
 city: Wuppertal
 street: "Heckinghauser Straße"
 housenumber: 12-14

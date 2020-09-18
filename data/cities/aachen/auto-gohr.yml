@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.784471800000006
 longitude: 6.0744346
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 62

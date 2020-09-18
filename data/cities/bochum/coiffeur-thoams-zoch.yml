@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.481445
 longitude: 7.111638
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Krayer Straße"
 housenumber: 4

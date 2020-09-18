@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7253842
 longitude: 7.1864726
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Recklinghäuser Straße"
 housenumber: 174

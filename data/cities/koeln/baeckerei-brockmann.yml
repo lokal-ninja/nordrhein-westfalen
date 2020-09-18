@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.922236600000005
 longitude: 6.959128000000001
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "Severinstraße"
 housenumber: 5

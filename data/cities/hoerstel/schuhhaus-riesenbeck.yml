@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.25730900000001
 longitude: 7.6295625000000005
-postcode: 48477
+postcode: "48477"
 city: Hörstel
 street: "Heinrich-Niemeyer-Straße"
 housenumber: 60

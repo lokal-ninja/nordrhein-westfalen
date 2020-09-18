@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.3253288
 longitude: 8.6209924
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Borsigstraße"
 housenumber: 13

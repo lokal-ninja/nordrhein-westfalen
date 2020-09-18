@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3727024
 longitude: 6.5078804
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Kempener Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.256307500000005
 longitude: 7.1487768
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Alte Freiheit"
 housenumber: 21

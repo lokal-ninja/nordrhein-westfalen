@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.0911211
 longitude: 7.479791700000001
-postcode: 48356
+postcode: "48356"
 city: Nordwalde
 street: "Emsdettener Straße"
 housenumber: 75

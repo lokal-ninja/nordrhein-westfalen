@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2703306
 longitude: 7.430575800000001
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Pfarrer-Bergmannshof-Platz"
 housenumber: 17

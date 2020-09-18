@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9242767
 longitude: 6.9673116
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "Anna-Schneider-Steig"
 housenumber: 9

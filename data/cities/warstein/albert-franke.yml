@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.489705900000004
 longitude: 8.355435100000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Wiebusch"
 housenumber: 107

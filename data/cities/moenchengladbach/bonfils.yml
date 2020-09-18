@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2040251
 longitude: 6.4124525000000006
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 268

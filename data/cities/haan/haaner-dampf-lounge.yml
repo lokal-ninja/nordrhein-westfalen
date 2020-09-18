@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.1928301
 longitude: 7.012053900000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Kaiserstraße"
 housenumber: 53

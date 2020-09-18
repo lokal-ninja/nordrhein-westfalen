@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.956656800000005
 longitude: 7.593505400000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Waldeyerstraße"
 housenumber: 72

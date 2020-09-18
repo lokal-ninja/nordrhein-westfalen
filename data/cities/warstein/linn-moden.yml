@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.4860788
 longitude: 8.3368125
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Bahnhofstraße"
 housenumber: 13

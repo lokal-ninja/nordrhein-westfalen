@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9251991
 longitude: 6.9107867
-postcode: 50935
+postcode: "50935"
 city: Köln
 street: "Lindenthalgürtel"
 housenumber: 69

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.219217500000006
 longitude: 6.7743590000000005
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Haroldstraße"
 housenumber: 28

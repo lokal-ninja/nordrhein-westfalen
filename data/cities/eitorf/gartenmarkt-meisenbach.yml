@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.7272886
 longitude: 7.435401100000001
-postcode: 53783
+postcode: "53783"
 city: Eitorf
 street: "Kalkstraße"
 housenumber: 32

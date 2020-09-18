@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9381938
 longitude: 6.9501853
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Krebsgasse"
 housenumber: 5-11

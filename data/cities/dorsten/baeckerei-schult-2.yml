@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6597042
 longitude: 6.964275000000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Essener Straße"
 housenumber: 9

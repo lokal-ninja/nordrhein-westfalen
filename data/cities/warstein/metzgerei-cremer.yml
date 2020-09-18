@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.441676300000005
 longitude: 8.353452500000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Hauptstraße"
 housenumber: 101

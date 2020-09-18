@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.0274507
 longitude: 6.985075
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Peschstraße"
 housenumber: 13

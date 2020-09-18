@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.129196400000005
 longitude: 6.909877900000001
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Alstätter Friedhofstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.1067783
 longitude: 7.6397288
-postcode: 58540
+postcode: "58540"
 city: Meinerzhagen
 street: "Hauptstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.5390923
 longitude: 7.024735000000001
-postcode: 45899
+postcode: "45899"
 city: Gelsenkirchen
 street: "Buerer Straße"
 housenumber: 2

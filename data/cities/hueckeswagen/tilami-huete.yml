@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1496275
 longitude: 7.3397094
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Marktstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7597083
 longitude: 6.1617601
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Gewerbepark Brand"
 housenumber: 10

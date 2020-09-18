@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.005241600000005
 longitude: 8.557297700000001
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 207

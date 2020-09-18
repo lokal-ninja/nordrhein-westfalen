@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.2452946
 longitude: 6.7809999
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Golzheimer Straße"
 housenumber: 115

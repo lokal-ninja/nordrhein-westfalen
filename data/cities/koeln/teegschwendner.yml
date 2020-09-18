@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.93873060000001
 longitude: 6.9462346
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Breite Straße"
 housenumber: 161

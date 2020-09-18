@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.1634528
 longitude: 6.8528678
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 321

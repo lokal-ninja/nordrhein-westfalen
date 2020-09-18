@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1923985
 longitude: 7.2601152
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Hardtstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1838221
 longitude: 6.8706613
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Am Schönenkamp"
 housenumber: 101

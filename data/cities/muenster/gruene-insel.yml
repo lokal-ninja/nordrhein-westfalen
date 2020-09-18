@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.939805
 longitude: 7.614322100000001
-postcode: 48151
+postcode: "48151"
 city: Münster
 street: "Inselbogen"
 housenumber: 45

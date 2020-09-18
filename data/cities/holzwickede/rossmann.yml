@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.50292090000001
 longitude: 7.6159099
-postcode: 59439
+postcode: "59439"
 city: Holzwickede
 street: "Hauptstraße"
 housenumber: 14-18

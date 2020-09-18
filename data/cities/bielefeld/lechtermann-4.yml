@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.00995150000001
 longitude: 8.5955688
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 236

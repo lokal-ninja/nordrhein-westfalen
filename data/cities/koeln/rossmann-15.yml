@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9174413
 longitude: 6.9244823
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 311

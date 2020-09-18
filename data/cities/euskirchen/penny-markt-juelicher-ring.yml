@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.667971300000005
 longitude: 6.7873834
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Jülicher Ring"
 housenumber: 27

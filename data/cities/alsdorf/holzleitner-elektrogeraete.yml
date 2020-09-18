@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.873875600000005
 longitude: 6.1721504000000005
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Luisenstraße"
 housenumber: 72

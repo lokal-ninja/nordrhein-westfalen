@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.6090546
 longitude: 7.5602944
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Kreuzstraße"
 housenumber: 75

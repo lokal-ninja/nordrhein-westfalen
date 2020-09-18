@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2019296
 longitude: 7.020789400000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Landstraße"
 housenumber: 1

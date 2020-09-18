@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.87424
 longitude: 6.6856670000000005
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Nordring"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.716652
 longitude: 8.757231
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kamp"
 housenumber: 32

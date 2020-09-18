@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.933642600000006
 longitude: 7.6319359
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Robert-Bosch-Straße"
 housenumber: 2-4

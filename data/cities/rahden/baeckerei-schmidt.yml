@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4323251
 longitude: 8.6153847
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Gerichtsstraße"
 housenumber: 20

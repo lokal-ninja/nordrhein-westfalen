@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.578262300000006
 longitude: 7.0540813
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 12

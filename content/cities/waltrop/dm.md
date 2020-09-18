@@ -1,4 +1,4 @@
 ---
-title: "DM"
+title: "dm"
 url: /waltrop/dm/
 ---

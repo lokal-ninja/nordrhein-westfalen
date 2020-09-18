@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9801325
 longitude: 7.1400006000000005
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Lerbacher Weg"
 housenumber: 10

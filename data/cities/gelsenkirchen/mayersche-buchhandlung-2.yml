@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5783945
 longitude: 7.0541632000000005
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 9

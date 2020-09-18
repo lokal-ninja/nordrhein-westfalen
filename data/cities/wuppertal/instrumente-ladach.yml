@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 51.251483
 longitude: 7.135003200000001
-postcode: 42117
+postcode: "42117"
 city: Wuppertal
 street: "Arrenberger Straße"
 housenumber: 14

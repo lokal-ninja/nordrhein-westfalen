@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.7435721
 longitude: 7.0915284000000005
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Kölnstraße"
 housenumber: 168

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.668587
 longitude: 8.603276600000001
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Johannesstraße"
 housenumber: 1

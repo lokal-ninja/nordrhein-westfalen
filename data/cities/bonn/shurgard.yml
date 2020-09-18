@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 50.7390703
 longitude: 7.0775638
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Bornheimer Straße"
 housenumber: 133

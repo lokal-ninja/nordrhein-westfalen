@@ -1,12 +1,12 @@
-id: 6996164864
+id: 5186855688
 type: node
 shop: Bäckerei
-latitude: 51.2104055
-longitude: 6.6694971
-postcode: 41462
+latitude: 51.1464766
+longitude: 6.702834500000001
+postcode: "41469"
 city: Neuss
-street: "Venloer Straße"
-housenumber: 1
-phone: "+49 2131 3166130"
-opening_hours: "Mo-Sa 7:00-21:00, So 7:00-12:00"
-website: "https://www.baeckerei-buesch.de/"
+street: "Hochstadenstraße"
+housenumber: 17
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-12:00"
+website: ""

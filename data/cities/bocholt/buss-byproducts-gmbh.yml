@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.8128716
 longitude: 6.539129
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Hüttemannstraße"
 housenumber: 9-13

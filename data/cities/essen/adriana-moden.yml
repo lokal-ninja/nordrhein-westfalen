@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4491792
 longitude: 6.9733137
-postcode: 45145
+postcode: "45145"
 city: Essen
 street: "Krefelder Straße"
 housenumber: 1

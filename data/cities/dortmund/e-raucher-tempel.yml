@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.514335
 longitude: 7.4946605
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Kaiserstraße"
 housenumber: 192

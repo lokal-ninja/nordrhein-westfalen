@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.7291357
 longitude: 6.588660000000001
-postcode: 46499
+postcode: "46499"
 city: Hamminkeln
 street: "Raiffeisenstraße"
 housenumber: 16

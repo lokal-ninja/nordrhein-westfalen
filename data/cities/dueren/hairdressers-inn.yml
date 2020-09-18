@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8014756
 longitude: 6.4828973
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Ahrweilerplatz"
 housenumber: 7

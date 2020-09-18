@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.341286800000006
 longitude: 6.5565223
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Hülser Straße"
 housenumber: 38

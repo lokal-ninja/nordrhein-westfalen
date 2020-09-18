@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.376786800000005
 longitude: 7.690132200000001
-postcode: 58638
+postcode: "58638"
 city: Iserlohn
 street: "Hochstraße"
 housenumber: 27

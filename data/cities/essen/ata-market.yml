@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4950386
 longitude: 7.0639674
-postcode: 45327
+postcode: "45327"
 city: Essen
 street: "Beisenstraße"
 housenumber: 88

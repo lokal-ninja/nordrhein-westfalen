@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.815085
 longitude: 6.3624111
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Schönthaler Straße"
 housenumber: 1

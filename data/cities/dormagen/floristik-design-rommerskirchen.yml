@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.112405900000006
 longitude: 6.762022900000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Hindenburgstraße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.168542
 longitude: 6.4457341
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Hauptstraße"
 housenumber: 83

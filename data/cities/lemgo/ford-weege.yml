@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0284757
 longitude: 8.8844516
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Herforder Straße"
 housenumber: 65

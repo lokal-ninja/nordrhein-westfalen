@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0868454
 longitude: 6.5760858
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Am Hammerwerk"
 housenumber: 8

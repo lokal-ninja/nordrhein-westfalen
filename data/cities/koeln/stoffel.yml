@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.92873
 longitude: 6.9117630000000005
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 220

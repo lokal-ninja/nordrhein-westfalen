@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.415088100000006
 longitude: 7.1086445000000005
-postcode: 45289
+postcode: "45289"
 city: Essen
 street: "Alte Hauptstraße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8040627
 longitude: 6.911759000000001
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Am Hohlweg"
 housenumber: 14

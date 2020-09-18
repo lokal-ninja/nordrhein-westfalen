@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6845526
 longitude: 7.1562929
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Alte Bahnhofstraße"
 housenumber: 20

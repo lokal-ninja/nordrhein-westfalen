@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.910510800000004
 longitude: 6.3781527
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Am Mühlenteich"
 housenumber: 6

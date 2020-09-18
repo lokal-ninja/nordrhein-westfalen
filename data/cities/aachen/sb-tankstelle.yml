@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.7858632
 longitude: 6.0722686
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 110a

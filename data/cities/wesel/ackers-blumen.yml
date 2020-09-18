@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.682695800000005
 longitude: 6.584348
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Heideweg"
 housenumber: 2

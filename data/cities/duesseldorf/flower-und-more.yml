@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2346517
 longitude: 6.7897774
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Derendorfer Straße"
 housenumber: 53

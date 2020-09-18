@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.030420500000005
 longitude: 8.9009286
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Leopoldstraße"
 housenumber: 7

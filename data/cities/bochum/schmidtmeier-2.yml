@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4509101
 longitude: 7.231212
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9291545
 longitude: 6.3559153
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Linnicher Straße"
 housenumber: 1

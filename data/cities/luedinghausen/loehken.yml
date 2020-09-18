@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.773309700000006
 longitude: 7.4448515
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Münsterstraße"
 housenumber: 29

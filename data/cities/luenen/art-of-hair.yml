@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.611814900000006
 longitude: 7.523409300000001
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Lange Straße"
 housenumber: 65

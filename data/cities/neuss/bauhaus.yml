@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1455581
 longitude: 6.753189300000001
-postcode: 41470
+postcode: "41470"
 city: Neuss
 street: "Am Kirchenmorgen"
 housenumber: 1

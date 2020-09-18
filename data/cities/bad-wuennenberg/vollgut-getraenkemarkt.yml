@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.522548900000004
 longitude: 8.7015056
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Rosenstraße"
 housenumber: 

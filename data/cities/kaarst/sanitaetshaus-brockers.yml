@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.230151500000005
 longitude: 6.613956900000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Martinusstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.95087710000001
 longitude: 7.116693700000001
-postcode: 51427
+postcode: "51427"
 city: Bergisch Gladbach
 street: "Lustheide"
 housenumber: 6-8

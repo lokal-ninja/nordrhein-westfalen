@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.521202100000004
 longitude: 6.7280473
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Römerstraße"
 housenumber: 65

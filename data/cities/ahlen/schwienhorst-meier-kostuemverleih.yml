@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.764766200000004
 longitude: 7.8880414000000005
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Kampstraße"
 housenumber: 21

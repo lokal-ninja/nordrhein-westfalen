@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2744687
 longitude: 8.7051227
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Schnathorster Straße"
 housenumber: 182

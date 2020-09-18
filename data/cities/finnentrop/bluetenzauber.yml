@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1635946
 longitude: 7.9871467
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "Bamenohler Straße"
 housenumber: 28

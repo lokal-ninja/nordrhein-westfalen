@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.441712300000006
 longitude: 7.214311500000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Markstraße"
 housenumber: 402

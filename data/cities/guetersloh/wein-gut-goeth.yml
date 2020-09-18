@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.943398200000004
 longitude: 8.405884200000001
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Nickelweg"
 housenumber: 4a

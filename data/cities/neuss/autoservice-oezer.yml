@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1892141
 longitude: 6.6874272
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Jülicher Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.688063
 longitude: 6.814568100000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Gustav-Nachtigal-Straße"
 housenumber: 4

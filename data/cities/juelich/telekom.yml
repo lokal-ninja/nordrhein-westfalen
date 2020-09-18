@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9211054
 longitude: 6.3579511
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Marktstraße"
 housenumber: 10

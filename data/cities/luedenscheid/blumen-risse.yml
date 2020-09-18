@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2156846
 longitude: 7.630919800000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 22

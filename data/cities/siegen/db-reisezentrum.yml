@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 50.8755175
 longitude: 8.0159994
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Am Bahnhof"
 housenumber: 18

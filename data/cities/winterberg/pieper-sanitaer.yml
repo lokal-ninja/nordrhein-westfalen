@@ -3,7 +3,7 @@ type: node
 shop: Pool
 latitude: 51.2509268
 longitude: 8.479240800000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hochsauerlandstraße"
 housenumber: 48

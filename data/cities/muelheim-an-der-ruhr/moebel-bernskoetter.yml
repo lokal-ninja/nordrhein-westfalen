@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.4356275
 longitude: 6.926988000000001
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Heinrich-Lemberg-Straße"
 housenumber: 29

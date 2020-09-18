@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4923178
 longitude: 7.0100591
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Altenessener Straße"
 housenumber: 288

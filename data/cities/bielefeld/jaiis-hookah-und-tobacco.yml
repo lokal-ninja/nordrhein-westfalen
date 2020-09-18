@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.0274293
 longitude: 8.529698400000001
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 7

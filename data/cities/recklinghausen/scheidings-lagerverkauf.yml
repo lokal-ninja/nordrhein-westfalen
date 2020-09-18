@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.6137414
 longitude: 7.1945863
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Steinstraße"
 housenumber: 8

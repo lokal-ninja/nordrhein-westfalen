@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9548574
 longitude: 7.0058673
-postcode: 51065
+postcode: "51065"
 city: Köln
 street: "Kieler Straße"
 housenumber: 42

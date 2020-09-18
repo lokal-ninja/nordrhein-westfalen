@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.214260900000006
 longitude: 8.7347935
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Werster Straße"
 housenumber: 106

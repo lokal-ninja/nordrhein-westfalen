@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0407761
 longitude: 6.8082921
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Zwillbrocker Straße"
 housenumber: 70

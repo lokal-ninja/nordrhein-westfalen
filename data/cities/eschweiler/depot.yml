@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.8245044
 longitude: 6.254756700000001
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Auerbachstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.720748300000004
 longitude: 8.756504000000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Thisaut"
 housenumber: 6

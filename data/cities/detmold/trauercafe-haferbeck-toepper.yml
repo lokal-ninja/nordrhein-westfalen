@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.923612500000004
 longitude: 8.8376312
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Friedrich-Ebert-Straße"
 housenumber: 128b

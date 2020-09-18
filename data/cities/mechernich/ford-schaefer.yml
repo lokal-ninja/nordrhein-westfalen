@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5895044
 longitude: 6.6646656
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Georges-Girard-Ring"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 50.676126700000005
 longitude: 7.1922975000000005
-postcode: 53639
+postcode: "53639"
 city: Königswinter
 street: "Hauptstraße"
 housenumber: 365

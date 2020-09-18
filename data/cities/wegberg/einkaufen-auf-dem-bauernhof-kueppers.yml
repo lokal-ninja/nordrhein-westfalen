@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.137894300000006
 longitude: 6.2907026
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Heidekamp"
 housenumber: 4

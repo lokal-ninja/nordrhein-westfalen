@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.699976400000004
 longitude: 7.758602300000001
-postcode: 59075
+postcode: "59075"
 city: Hamm
 street: "Berliner Straße"
 housenumber: 36

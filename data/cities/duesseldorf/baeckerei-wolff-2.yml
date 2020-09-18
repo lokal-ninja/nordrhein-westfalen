@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3328034
 longitude: 6.7883915
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Angermunder Straße"
 housenumber: 38

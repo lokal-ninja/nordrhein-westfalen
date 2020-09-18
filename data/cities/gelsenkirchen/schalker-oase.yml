@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.528708200000004
 longitude: 7.0978947
-postcode: 45889
+postcode: "45889"
 city: Gelsenkirchen
 street: "Hochkampstraße"
 housenumber: 6

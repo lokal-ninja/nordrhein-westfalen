@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.7623808
 longitude: 8.5584038
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Kleine Straße"
 housenumber: 19a

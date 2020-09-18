@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 50.649714800000005
 longitude: 6.825203200000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Carl-Koenen-Straße"
 housenumber: 21

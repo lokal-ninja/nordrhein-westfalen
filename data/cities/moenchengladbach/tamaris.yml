@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1945374
 longitude: 6.4392572
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Hindenburgstraße"
 housenumber: 105

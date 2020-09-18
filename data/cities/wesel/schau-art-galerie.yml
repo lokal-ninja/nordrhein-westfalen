@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.6563196
 longitude: 6.6241401
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Franz-Etzel-Platz"
 housenumber: 2

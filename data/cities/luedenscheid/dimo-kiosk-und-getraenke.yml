@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2337045
 longitude: 7.621545200000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Im Olpendahl"
 housenumber: 2

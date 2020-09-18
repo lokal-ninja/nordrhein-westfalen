@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.200796600000004
 longitude: 6.678941300000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Stephanstraße"
 housenumber: 12

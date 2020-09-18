@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0363911
 longitude: 6.678236500000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Alfred-Nobel-Allee"
 housenumber: 1

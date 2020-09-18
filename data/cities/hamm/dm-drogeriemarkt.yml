@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.687831
 longitude: 7.8851592
-postcode: 59071
+postcode: "59071"
 city: Hamm
 street: "Ostwennemarstraße"
 housenumber: 100

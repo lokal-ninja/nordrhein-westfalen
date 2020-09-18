@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1168642
 longitude: 6.885144100000001
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Hauptstraße"
 housenumber: 62

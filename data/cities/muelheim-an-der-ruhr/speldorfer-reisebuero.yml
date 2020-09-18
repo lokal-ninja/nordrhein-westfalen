@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.42872010000001
 longitude: 6.8407134
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 277

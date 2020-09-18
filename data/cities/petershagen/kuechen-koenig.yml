@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.3682784
 longitude: 9.004000900000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Bahnhofstraße"
 housenumber: 61

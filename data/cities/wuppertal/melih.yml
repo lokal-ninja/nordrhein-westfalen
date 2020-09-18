@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2566519
 longitude: 7.1375419
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Luisenstraße"
 housenumber: 98

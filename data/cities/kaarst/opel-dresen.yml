@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2179511
 longitude: 6.634681400000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Weckenhofstraße"
 housenumber: 9

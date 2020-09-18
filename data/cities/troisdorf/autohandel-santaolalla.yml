@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.80062100000001
 longitude: 7.1253484
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Spicher Straße"
 housenumber: 15

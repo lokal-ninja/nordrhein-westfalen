@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6719403
 longitude: 8.723896400000001
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Paderborner Straße"
 housenumber: 35

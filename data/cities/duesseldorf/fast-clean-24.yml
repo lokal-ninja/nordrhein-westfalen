@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2379338
 longitude: 6.8025839
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Herderstraße"
 housenumber: 79

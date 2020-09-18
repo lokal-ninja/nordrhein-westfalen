@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.856252600000005
 longitude: 7.0865884
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 175

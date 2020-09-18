@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.389789900000004
 longitude: 6.9441562
-postcode: 45133
+postcode: "45133"
 city: Essen
 street: "Meisenburgstraße"
 housenumber: 245

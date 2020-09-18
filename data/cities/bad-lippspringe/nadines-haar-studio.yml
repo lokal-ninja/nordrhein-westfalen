@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7821804
 longitude: 8.8191167
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Lange Straße"
 housenumber: 2a

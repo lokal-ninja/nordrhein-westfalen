@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.7178497
 longitude: 8.7500712
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienstraße"
 housenumber: 11

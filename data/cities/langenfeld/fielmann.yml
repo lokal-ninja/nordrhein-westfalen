@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.110160400000005
 longitude: 6.9496187
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Marktplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.9070668
 longitude: 8.012847
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Birlenbacher Hütte"
 housenumber: 12

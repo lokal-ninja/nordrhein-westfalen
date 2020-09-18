@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.9369536
 longitude: 6.972536000000001
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Deutzer Freiheit"
 housenumber: 57

@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 52.3006338
 longitude: 8.6973242
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Hämmes Brink"
 housenumber: 2
-phone: "+49 5741 61 862"
+phone: "+49 5741 61862"
 opening_hours: "Tu,We,Sa 08:00-13:00, Th 08:00-13:00,15:00-18:00, Fr 08:00-18:00"
-website: ""
+website: "https://www.meyer-hille.com/"

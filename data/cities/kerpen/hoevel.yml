@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.870156900000005
 longitude: 6.6946766
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Hahnenstraße"
 housenumber: 36

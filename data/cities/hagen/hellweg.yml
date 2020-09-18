@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3991352
 longitude: 7.475315200000001
-postcode: 58099
+postcode: "58099"
 city: Hagen
 street: "Schwerter Straße"
 housenumber: 180

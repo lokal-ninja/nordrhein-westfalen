@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.1948954
 longitude: 6.6079743
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Rathausplatz"
 housenumber: 7

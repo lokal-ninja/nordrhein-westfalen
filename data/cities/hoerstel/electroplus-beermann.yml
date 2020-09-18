@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2577768
 longitude: 7.6300379000000005
-postcode: 48477
+postcode: "48477"
 city: Hörstel
 street: "Heinrich-Niemeyer-Straße"
 housenumber: 50

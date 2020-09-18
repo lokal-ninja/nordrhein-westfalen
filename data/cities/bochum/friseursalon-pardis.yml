@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.4735973
 longitude: 7.2198831000000006
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Oskar-Hoffmann-Straße"
 housenumber: 47
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6360687
 longitude: 6.6145654
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Zülpicher Straße"
 housenumber: 3

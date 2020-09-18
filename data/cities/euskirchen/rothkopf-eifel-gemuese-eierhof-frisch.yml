@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.6799704
 longitude: 6.8645377000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Dom-Esch-Straße"
 housenumber: 86

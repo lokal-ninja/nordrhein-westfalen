@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.588348700000004
 longitude: 8.1676619
-postcode: 59505
+postcode: "59505"
 city: Bad Sassendorf
 street: "Bismarckstraße"
 housenumber: 21a

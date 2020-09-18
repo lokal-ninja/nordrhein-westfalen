@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3188237
 longitude: 6.5741784
-postcode: 47805
+postcode: "47805"
 city: Krefeld
 street: "Kölner Straße"
 housenumber: 174

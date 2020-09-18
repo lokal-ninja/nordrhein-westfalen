@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.0903676
 longitude: 6.8890409
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Heinestraße"
 housenumber: 3

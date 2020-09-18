@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.661500000000004
 longitude: 7.1379
-postcode: 45772
+postcode: "45772"
 city: Marl
 street: "Dr.-Klausener-Straße"
 housenumber: 2

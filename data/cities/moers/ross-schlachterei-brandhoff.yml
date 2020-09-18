@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4892867
 longitude: 6.588260300000001
-postcode: 47445
+postcode: "47445"
 city: Moers
 street: "Lintforter Straße"
 housenumber: 3

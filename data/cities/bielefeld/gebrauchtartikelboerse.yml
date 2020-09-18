@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.0155796
 longitude: 8.5724546
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Meisenstraße"
 housenumber: 65

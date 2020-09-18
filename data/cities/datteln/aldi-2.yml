@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.666077900000005
 longitude: 7.3470405
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Bülowstraße"
 housenumber: 80

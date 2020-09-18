@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.775314800000004
 longitude: 6.0875401
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Holzgraben"
 housenumber: 11

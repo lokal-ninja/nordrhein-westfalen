@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.7968369
 longitude: 7.2064662
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Markt"
 housenumber: 6

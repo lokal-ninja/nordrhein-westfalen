@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4287098
 longitude: 8.008712000000001
-postcode: 59759
+postcode: "59759"
 city: Arnsberg
 street: "Westring"
 housenumber: 1

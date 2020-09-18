@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.962780800000004
 longitude: 8.2268601
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Brockhäger Straße"
 housenumber: 5

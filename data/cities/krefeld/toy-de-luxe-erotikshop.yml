@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 51.334395
 longitude: 6.568414000000001
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Rheinstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6039528
 longitude: 7.109674600000001
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Westerholter Straße"
 housenumber: 750

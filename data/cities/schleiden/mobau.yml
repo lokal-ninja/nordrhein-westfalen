@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.51965920000001
 longitude: 6.4652813
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "An der Olef"
 housenumber: 62

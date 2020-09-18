@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.2990731
 longitude: 8.904944500000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Ringstraße"
 housenumber: 99

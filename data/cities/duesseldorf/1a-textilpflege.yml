@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.236940700000005
 longitude: 6.780261100000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Gneisenaustraße"
 housenumber: 1

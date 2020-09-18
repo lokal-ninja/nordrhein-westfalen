@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.4413386
 longitude: 6.754387400000001
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Auf der Höhe"
 housenumber: 18

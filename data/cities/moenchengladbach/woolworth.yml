@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 51.166228700000005
 longitude: 6.4427938000000005
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Stresemannstraße"
 housenumber: 17-19

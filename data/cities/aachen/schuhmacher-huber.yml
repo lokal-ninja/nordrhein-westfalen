@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.7713289
 longitude: 6.084807400000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Franzstraße"
 housenumber: 15

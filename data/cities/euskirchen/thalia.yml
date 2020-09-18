@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.6606644
 longitude: 6.7888204000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Neustraße"
 housenumber: 18

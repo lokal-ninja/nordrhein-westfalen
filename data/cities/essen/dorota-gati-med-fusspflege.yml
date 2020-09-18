@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.463084
 longitude: 6.944222300000001
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Frintroper Straße"
 housenumber: 42

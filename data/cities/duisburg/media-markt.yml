@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.376165300000004
 longitude: 6.7729159
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Keniastraße"
 housenumber: 37

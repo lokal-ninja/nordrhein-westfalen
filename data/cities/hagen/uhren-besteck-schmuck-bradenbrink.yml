@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 51.3560986
 longitude: 7.461242800000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Lange Straße"
 housenumber: 27

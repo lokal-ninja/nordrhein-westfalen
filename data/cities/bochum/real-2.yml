@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4715776
 longitude: 7.118634500000001
-postcode: 44867
+postcode: "44867"
 city: Bochum
 street: "Ottostraße"
 housenumber: 40-43

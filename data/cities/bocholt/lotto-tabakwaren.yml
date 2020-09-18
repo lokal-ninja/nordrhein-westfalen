@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.8346643
 longitude: 6.5781564
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Werther Straße"
 housenumber: 248

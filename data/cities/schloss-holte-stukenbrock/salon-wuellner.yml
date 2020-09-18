@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.911794300000004
 longitude: 8.656554100000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Hauptstraße"
 housenumber: 6

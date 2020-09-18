@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.52502380000001
 longitude: 7.4771859
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Borsigstraße"
 housenumber: 32

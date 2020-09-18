@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.504204300000005
 longitude: 6.872590000000001
-postcode: 46117
+postcode: "46117"
 city: Oberhausen
 street: "Fahnhorststraße"
 housenumber: 66

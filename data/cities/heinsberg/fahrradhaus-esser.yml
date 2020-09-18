@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.06768700000001
 longitude: 6.0870226
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Liecker Mühle"
 housenumber: 4

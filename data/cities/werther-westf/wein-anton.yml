@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.073783500000005
 longitude: 8.4145036
-postcode: 33824
+postcode: "33824"
 city: Werther (Westf.)
 street: "C.-F.-Venghauss-Platz"
 housenumber: 1

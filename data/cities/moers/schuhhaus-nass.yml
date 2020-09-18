@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.4513338
 longitude: 6.6276323
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Friedrichstraße"
 housenumber: 3

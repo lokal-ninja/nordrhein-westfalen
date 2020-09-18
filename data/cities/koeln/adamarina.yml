@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.930708900000006
 longitude: 6.916762200000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Geibelstraße"
 housenumber: 33

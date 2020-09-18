@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5167675
 longitude: 6.3225401
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Markt"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.477144
 longitude: 6.863857800000001
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Mülheimer Straße"
 housenumber: 82

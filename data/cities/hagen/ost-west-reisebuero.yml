@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3702574
 longitude: 7.462671100000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Zollstraße"
 housenumber: 2

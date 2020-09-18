@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.9134668
 longitude: 8.010443800000001
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Sohlbacher Straße"
 housenumber: 24

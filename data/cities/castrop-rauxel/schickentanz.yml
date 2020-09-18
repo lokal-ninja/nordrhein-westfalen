@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5480595
 longitude: 7.3106311
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Am Markt"
 housenumber: 26

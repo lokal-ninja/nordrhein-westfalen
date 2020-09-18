@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 51.7687024
 longitude: 8.8048613
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Hohe Kamp"
 housenumber: 8

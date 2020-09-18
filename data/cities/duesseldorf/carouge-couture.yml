@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.24404800000001
 longitude: 6.782632400000001
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Collenbachstraße"
 housenumber: 62

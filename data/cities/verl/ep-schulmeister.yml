@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.8558248
 longitude: 8.566615500000001
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Paderborner Straße"
 housenumber: 442

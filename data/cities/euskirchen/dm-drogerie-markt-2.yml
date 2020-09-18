@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.652391800000004
 longitude: 6.800798400000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 115a

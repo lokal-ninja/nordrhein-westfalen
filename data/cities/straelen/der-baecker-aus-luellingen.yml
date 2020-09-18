@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.40991330000001
 longitude: 6.2631679
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Broekhuysener Straße"
 housenumber: 44

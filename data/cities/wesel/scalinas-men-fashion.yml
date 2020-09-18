@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.657687700000004
 longitude: 6.6164719000000005
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Korbmacherstraße"
 housenumber: 1

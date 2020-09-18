@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4465328
 longitude: 7.200368900000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Am Kuhlenkamp"
 housenumber: 34

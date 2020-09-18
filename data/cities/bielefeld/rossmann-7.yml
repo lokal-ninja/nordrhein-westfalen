@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.022309
 longitude: 8.5324016
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Niedernstraße"
 housenumber: 26

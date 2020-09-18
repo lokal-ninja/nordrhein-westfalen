@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.382724800000005
 longitude: 8.0734832
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Teutenburg"
 housenumber: 1

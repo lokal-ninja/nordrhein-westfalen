@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.358146500000004
 longitude: 7.470385
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Elberfelder Straße"
 housenumber: 35

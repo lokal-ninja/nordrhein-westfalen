@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2938379
 longitude: 6.8543134000000006
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Europaring"
 housenumber: 3

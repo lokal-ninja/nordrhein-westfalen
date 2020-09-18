@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.663774700000005
 longitude: 8.3419468
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Overhagener Straße"
 housenumber: 20

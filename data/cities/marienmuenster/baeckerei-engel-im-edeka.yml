@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8176901
 longitude: 9.23304
-postcode: 37696
+postcode: "37696"
 city: Marienmünster
 street: "Talstraße"
 housenumber: 1

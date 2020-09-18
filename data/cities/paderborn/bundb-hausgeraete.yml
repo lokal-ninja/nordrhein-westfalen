@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.7150279
 longitude: 8.7331105
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Balhornstraße"
 housenumber: 29

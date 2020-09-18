@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.965313
 longitude: 7.1805275
-postcode: 51429
+postcode: "51429"
 city: Bergisch Gladbach
 street: "Moitzfeld"
 housenumber: 34

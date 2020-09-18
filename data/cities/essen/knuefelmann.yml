@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.39248550000001
 longitude: 6.9463736
-postcode: 45133
+postcode: "45133"
 city: Essen
 street: "Meisenburgstraße"
 housenumber: 133

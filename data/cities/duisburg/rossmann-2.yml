@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4783921
 longitude: 6.7337159
-postcode: 47139
+postcode: "47139"
 city: Duisburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 348

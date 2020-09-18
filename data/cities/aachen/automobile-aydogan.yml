@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7925994
 longitude: 6.1053929
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Lukasstraße"
 housenumber: 14

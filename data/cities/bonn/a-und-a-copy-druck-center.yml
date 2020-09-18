@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.734492100000004
 longitude: 7.103924200000001
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Franziskanerstraße"
 housenumber: 1

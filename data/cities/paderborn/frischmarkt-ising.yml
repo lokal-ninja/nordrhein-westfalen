@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.696514
 longitude: 8.8511764
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Am Stadtberg"
 housenumber: 9

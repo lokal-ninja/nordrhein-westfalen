@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9408353
 longitude: 6.8891942
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Eupener Straße"
 housenumber: 57

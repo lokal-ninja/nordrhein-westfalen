@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.1131886
 longitude: 7.381966800000001
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Seilerstraße"
 housenumber: 10

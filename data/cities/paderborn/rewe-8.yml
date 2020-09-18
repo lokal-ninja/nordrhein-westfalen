@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.717430400000005
 longitude: 8.775733200000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Driburger Straße"
 housenumber: 44
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00"
+opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2313964
 longitude: 6.6141658
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Martinusstraße"
 housenumber: 3

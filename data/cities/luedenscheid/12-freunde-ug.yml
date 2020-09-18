@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.2157946
 longitude: 7.633686900000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 50

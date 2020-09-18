@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.971987500000004
 longitude: 8.509858300000001
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Nordfeldweg"
 housenumber: 91

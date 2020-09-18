@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.918149400000004
 longitude: 8.278074400000001
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Pixeler Straße"
 housenumber: 11

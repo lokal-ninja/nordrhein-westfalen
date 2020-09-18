@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.99083340000001
 longitude: 8.7913263
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Lange Straße"
 housenumber: 64

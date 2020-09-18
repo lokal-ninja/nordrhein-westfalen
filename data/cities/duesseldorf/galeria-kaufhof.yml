@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.2272514
 longitude: 6.7888029
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Am Wehrhahn"
 housenumber: 1

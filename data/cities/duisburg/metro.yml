@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.443667500000004
 longitude: 6.7621564
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Max-Peters-Straße"
 housenumber: 20

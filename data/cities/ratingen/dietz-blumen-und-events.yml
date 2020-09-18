@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.317221700000005
 longitude: 6.8231494
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Am Gratenpoet"
 housenumber: 55

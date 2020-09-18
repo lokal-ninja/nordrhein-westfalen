@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.4515339
 longitude: 6.8483961
-postcode: 45476
+postcode: "45476"
 city: Mülheim an der Ruhr
 street: "Heidestraße"
 housenumber: 17

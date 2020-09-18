@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 51.7219641
 longitude: 8.7550782
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Ükern"
 housenumber: 7

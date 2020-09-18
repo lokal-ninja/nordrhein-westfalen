@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.6272418
 longitude: 6.1990743
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Wasserstraße"
 housenumber: 8

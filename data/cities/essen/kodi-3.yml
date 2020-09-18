@@ -3,10 +3,10 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.391842000000004
 longitude: 7.082374000000001
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 154
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-16:00"
 website: ""

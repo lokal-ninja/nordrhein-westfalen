@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.187002
 longitude: 6.8178931
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Kölner Landstraße"
 housenumber: 197

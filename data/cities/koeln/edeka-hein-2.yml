@@ -1,12 +1,12 @@
 id: 103481839
 type: way
 shop: Supermarkt
-latitude: 50.8566927
-longitude: 7.0816189000000005
-postcode: 51147
+latitude: 50.856672100000004
+longitude: 7.0815371
+postcode: "51147"
 city: Köln
 street: "Sankt-Sebastianus-Straße"
 housenumber: 14
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su, PH off"
+opening_hours: "Mo-Sa 06:00-22:00; PH off"
 website: ""

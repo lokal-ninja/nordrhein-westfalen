@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.017351500000004
 longitude: 8.9159552
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Lemgoer Straße"
 housenumber: 41

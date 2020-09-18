@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.225101300000006
 longitude: 6.8633101000000005
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Hatzfeldstraße"
 housenumber: 25

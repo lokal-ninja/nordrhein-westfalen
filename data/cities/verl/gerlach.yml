@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.8634654
 longitude: 8.5656526
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Kapellenweg"
 housenumber: 58

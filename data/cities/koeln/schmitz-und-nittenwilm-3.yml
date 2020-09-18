@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.923790000000004
 longitude: 6.912622900000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Gleueler Straße"
 housenumber: 104

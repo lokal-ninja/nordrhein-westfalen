@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.91113300000001
 longitude: 8.4249025
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Osnabrücker Landstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.776229400000005
 longitude: 6.111278700000001
-postcode: 52068
+postcode: "52068"
 city: Aachen
 street: "Stolberger Straße"
 housenumber: 21

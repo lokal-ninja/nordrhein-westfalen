@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2502027
 longitude: 7.130174500000001
-postcode: 42117
+postcode: "42117"
 city: Wuppertal
 street: "Friedrich-Ebert-Straße"
 housenumber: 127

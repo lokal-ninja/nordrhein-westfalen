@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.591930500000004
 longitude: 7.663717500000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Marktstraße"
 housenumber: 1

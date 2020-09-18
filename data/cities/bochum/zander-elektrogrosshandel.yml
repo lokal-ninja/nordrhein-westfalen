@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 51.4993391
 longitude: 7.262037100000001
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Harpener Feld"
 housenumber: 4

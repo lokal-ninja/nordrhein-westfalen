@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.0383155
 longitude: 8.544373700000001
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Beckhausstraße"
 housenumber: 64

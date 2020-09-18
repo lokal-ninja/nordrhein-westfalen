@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5563568
 longitude: 7.0962271
-postcode: 45891
+postcode: "45891"
 city: Gelsenkirchen
 street: "Cranger Straße"
 housenumber: 347

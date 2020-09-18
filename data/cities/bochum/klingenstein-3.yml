@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4932249
 longitude: 7.2488415
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Josephinenstraße"
 housenumber: 234

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.622482100000006
 longitude: 7.1260805000000005
-postcode: 53343
+postcode: "53343"
 city: Wachtberg
 street: "Bernareggio-Platz"
 housenumber: 3

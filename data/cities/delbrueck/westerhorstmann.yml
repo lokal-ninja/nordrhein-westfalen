@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.760539900000005
 longitude: 8.547738500000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Bösendamm"
 housenumber: 1

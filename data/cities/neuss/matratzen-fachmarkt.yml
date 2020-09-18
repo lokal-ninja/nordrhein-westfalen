@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1969733
 longitude: 6.6948093
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Oberstraße"
 housenumber: 97

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7877948
 longitude: 8.3351725
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Reckenberger Straße"
 housenumber: 22

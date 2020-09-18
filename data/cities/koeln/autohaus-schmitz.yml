@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.881870400000004
 longitude: 7.068147300000001
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Kaiserstraße"
 housenumber: 127

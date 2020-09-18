@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.4181475
 longitude: 7.2719551000000004
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Wittener Straße"
 housenumber: 100

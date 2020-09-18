@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 50.987002700000005
 longitude: 7.693969500000001
-postcode: 51580
+postcode: "51580"
 city: Reichshof
 street: "Rodener Platz"
 housenumber: 4

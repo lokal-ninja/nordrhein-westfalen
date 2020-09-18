@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.884395500000004
 longitude: 8.945267300000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Daimlerstraße"
 housenumber: 2

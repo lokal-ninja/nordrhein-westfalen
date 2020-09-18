@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 50.868768200000005
 longitude: 6.6932571
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Stiftsstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.166088
 longitude: 6.6678455
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Eisenstraße"
 housenumber: 5a

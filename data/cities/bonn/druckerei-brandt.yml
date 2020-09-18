@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.735674
 longitude: 7.1045328
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Rathausgasse"
 housenumber: 13

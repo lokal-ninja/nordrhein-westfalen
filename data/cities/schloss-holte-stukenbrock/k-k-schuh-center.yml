@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.8964494
 longitude: 8.6249452
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Kaunitzer Straße"
 housenumber: 59

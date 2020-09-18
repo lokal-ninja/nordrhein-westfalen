@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.388562
 longitude: 7.0117931
-postcode: 45239
+postcode: "45239"
 city: Essen
 street: "Velberter Straße"
 housenumber: 4

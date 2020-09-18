@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.9674495
 longitude: 7.612732200000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Wilhelmstraße"
 housenumber: 10

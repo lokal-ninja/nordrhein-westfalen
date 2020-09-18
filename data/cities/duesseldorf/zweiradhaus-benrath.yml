@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.162915600000005
 longitude: 6.8641332
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Sophienstraße"
 housenumber: 10

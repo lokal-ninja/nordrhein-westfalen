@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9463481
 longitude: 6.8855097
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Vitalisstraße"
 housenumber: 325

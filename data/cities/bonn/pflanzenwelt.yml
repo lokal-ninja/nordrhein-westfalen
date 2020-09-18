@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.746148600000005
 longitude: 7.1626218
-postcode: 53229
+postcode: "53229"
 city: Bonn
 street: "Müldorfer Straße"
 housenumber: 160

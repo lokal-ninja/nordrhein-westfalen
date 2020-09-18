@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.019268600000004
 longitude: 8.5307492
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Welle"
 housenumber: 15

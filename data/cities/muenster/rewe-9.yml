@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.957124400000005
 longitude: 7.640586900000001
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Wolbecker Straße"
 housenumber: 44

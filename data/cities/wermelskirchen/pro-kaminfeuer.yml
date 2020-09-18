@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.1403395
 longitude: 7.216649
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Berliner Straße"
 housenumber: 1-3

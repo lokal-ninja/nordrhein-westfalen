@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2177864
 longitude: 6.8393899000000005
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Posener Straße"
 housenumber: 185

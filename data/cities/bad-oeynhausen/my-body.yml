@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.204334200000005
 longitude: 8.7955055
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Herforder Straße"
 housenumber: 78

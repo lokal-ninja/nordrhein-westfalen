@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.778474100000004
 longitude: 6.0913155
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Alexanderstraße"
 housenumber: 69-71

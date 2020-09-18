@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2385135
 longitude: 8.9141945
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Fähranger"
 housenumber: 10

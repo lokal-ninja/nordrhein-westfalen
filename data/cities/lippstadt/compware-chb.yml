@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.7036122
 longitude: 8.332927900000001
-postcode: 59556
+postcode: "59556"
 city: Lippstadt
 street: "Lambertring"
 housenumber: 35

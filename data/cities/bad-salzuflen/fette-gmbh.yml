@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.031170200000005
 longitude: 8.7638795
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Max-Planck-Straße"
 housenumber: 

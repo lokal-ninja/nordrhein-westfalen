@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.829091500000004
 longitude: 7.026824400000001
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Feldmühlestraße"
 housenumber: 24

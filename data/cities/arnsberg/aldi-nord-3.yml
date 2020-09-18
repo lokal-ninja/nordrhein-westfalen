@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.417096300000004
 longitude: 8.045109100000001
-postcode: 59823
+postcode: "59823"
 city: Arnsberg
 street: "Wannestraße"
 housenumber: 2

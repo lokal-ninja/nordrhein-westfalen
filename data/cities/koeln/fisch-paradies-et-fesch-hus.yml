@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.94793060000001
 longitude: 6.9568276000000004
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Eigelstein"
 housenumber: 72

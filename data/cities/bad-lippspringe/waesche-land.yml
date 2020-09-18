@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.782112100000006
 longitude: 8.8205418
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Lange Straße"
 housenumber: 13

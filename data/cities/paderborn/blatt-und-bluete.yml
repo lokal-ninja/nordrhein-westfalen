@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.685142400000004
 longitude: 8.6964299
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Lanfert"
 housenumber: 5

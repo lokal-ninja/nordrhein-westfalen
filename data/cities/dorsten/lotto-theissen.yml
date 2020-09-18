@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 51.672637200000004
 longitude: 7.0070781
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Glück-Auf-Straße"
 housenumber: 258

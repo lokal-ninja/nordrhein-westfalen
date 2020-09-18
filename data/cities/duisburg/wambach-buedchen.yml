@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.392763200000005
 longitude: 6.791529700000001
-postcode: 47279
+postcode: "47279"
 city: Duisburg
 street: "Kalkweg"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7869898
 longitude: 6.1027391
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Grüner Weg"
 housenumber: 32

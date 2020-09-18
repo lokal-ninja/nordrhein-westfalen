@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.617240300000006
 longitude: 7.655119200000001
-postcode: 59192
+postcode: "59192"
 city: Bergkamen
 street: "Geschwister-Scholl-Straße"
 housenumber: 2

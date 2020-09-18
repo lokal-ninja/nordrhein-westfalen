@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4363235
 longitude: 7.0053488
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 119

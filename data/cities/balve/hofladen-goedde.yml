@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.3027413
 longitude: 7.8552736
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Benkamp"
 housenumber: 2

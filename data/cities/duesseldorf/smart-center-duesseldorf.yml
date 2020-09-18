@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.251869400000004
 longitude: 6.794599600000001
-postcode: 40470
+postcode: "40470"
 city: Düsseldorf
 street: "Mercedesstraße"
 housenumber: 11

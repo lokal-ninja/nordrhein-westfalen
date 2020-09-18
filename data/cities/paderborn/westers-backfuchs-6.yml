@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7354788
 longitude: 8.6818781
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Gesselner Straße"
 housenumber: 1

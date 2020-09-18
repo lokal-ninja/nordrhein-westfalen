@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4749326
 longitude: 7.2895436
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Industriestraße"
 housenumber: 42

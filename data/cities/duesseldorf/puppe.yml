@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.23549250000001
 longitude: 6.755165000000001
-postcode: 40547
+postcode: "40547"
 city: Düsseldorf
 street: "Oberkasseler Straße"
 housenumber: 164

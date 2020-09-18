@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.637224200000006
 longitude: 6.2024613
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 124 A

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.165343500000006
 longitude: 6.4383755
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Mittelstraße"
 housenumber: 3

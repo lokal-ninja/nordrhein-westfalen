@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.0642106
 longitude: 6.569452500000001
-postcode: 41517
+postcode: "41517"
 city: Grevenbroich
 street: "Zur Wassermühle"
 housenumber: 2b;2c

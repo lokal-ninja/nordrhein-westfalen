@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6217582
 longitude: 6.8322918
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Laurentiusstraße"
 housenumber: 9

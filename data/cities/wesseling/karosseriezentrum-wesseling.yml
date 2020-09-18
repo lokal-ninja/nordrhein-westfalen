@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8316408
 longitude: 6.9574255
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Peter-Henlein-Straße"
 housenumber: 2f

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2166821
 longitude: 6.8027628
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 231

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6559338
 longitude: 6.7690112000000004
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Mainstraße"
 housenumber: 3

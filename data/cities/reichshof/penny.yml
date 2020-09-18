@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9161396
 longitude: 7.650831
-postcode: 51580
+postcode: "51580"
 city: Reichshof
 street: "Hauptstraße"
 housenumber: 4

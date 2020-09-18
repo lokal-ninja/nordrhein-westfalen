@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.256792100000006
 longitude: 7.1497989
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Hofaue"
 housenumber: 87

@@ -1,4 +1,4 @@
 ---
-title: "Ernsting’s family"
+title: "Ernsting's family"
 url: /witten/ernstings-family/
 ---

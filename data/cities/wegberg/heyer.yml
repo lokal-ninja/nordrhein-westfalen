@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.1399503
 longitude: 6.275384300000001
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Passage Alt Berk"
 housenumber: 6

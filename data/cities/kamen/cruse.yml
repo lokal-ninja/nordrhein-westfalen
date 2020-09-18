@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5920088
 longitude: 7.663519000000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Marktstraße"
 housenumber: 3

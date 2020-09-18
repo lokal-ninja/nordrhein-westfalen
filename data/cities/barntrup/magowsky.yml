@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9907351
 longitude: 9.112049800000001
-postcode: 32683
+postcode: "32683"
 city: Barntrup
 street: "Mittelstraße"
 housenumber: 28

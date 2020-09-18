@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.955747300000006
 longitude: 7.568783600000001
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Roxeler Straße"
 housenumber: 445

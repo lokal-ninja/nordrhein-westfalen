@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.204684900000004
 longitude: 6.7732315000000005
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Aachener Straße"
 housenumber: 55

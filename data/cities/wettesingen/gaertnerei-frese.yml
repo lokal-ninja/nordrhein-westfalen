@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.4499744
 longitude: 9.185082900000001
-postcode: 34479
+postcode: "34479"
 city: Wettesingen
 street: "Parkstraße"
 housenumber: 12

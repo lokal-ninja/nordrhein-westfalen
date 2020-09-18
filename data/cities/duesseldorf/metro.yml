@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.2366006
 longitude: 6.8245567000000005
-postcode: 40235
+postcode: "40235"
 city: Düsseldorf
 street: "Schlüterstraße"
 housenumber: 3

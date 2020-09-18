@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2173912
 longitude: 6.782239100000001
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Hüttenstraße"
 housenumber: 17

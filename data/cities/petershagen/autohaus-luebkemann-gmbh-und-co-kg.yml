@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3752896
 longitude: 8.999245
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Dingbreite"
 housenumber: 5

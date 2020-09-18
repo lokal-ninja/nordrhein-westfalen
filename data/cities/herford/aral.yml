@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.109723100000004
 longitude: 8.6579277
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Bielefelder Straße"
 housenumber: 56

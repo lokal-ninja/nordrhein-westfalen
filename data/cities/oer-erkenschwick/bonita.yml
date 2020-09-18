@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6404664
 longitude: 7.2600014
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Berliner Platz"
 housenumber: 14

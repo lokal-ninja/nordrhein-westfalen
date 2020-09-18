@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.1672079
 longitude: 6.458461600000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Bendhecker Straße"
 housenumber: 77

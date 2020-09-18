@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7494303
 longitude: 6.0872465
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Eupener Straße"
 housenumber: 205

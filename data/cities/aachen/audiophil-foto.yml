@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 50.775739900000005
 longitude: 6.078772000000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Annuntiatenbach"
 housenumber: 30

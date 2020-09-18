@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9215979
 longitude: 6.964001400000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Ubierring"
 housenumber: 42

@@ -1,12 +1,12 @@
-id: 5485078568
-type: node
+id: 420346067
+type: way
 shop: Supermarkt
-latitude: 51.1434663
-longitude: 6.896766700000001
-postcode: 40595
+latitude: 51.23481
+longitude: 6.7900195000000005
+postcode: "40479"
 city: Düsseldorf
-street: "Koblenzer Straße"
-housenumber: 247
+street: "Derendorfer Straße"
+housenumber: 68-70
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 7:00-22:00"
 website: ""

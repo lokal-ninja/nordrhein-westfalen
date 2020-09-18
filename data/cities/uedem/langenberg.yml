@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.6424803
 longitude: 6.329869700000001
-postcode: 47589
+postcode: "47589"
 city: Uedem
 street: "Sonsbecker Straße"
 housenumber: 14

@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.763092
 longitude: 7.8874288
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Weststraße"
 housenumber: 91
 phone: ""
-opening_hours: ""
+opening_hours: "Tu 15:00-17:30; We 09:00-11:30; Th 09:00-11:30,15:00-17:30"
 website: ""

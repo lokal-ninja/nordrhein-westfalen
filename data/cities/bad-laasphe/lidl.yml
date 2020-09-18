@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9298013
 longitude: 8.4235479
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Ludwig-Koch-Straße"
 housenumber: 7

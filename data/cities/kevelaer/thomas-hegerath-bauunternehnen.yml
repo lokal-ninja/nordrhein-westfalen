@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5995366
 longitude: 6.2804609000000005
-postcode: 47626
+postcode: "47626"
 city: Kevelaer
 street: "Wissener Weg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.640414500000006
 longitude: 7.1030416
-postcode: 45770
+postcode: "45770"
 city: Marl
 street: "Karl-Breuing-Straße"
 housenumber: 15

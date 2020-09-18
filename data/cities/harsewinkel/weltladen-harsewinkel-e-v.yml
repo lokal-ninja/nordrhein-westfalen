@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.958472400000005
 longitude: 8.2272826
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Clarholzer Straße"
 housenumber: 18

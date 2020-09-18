@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.6386655
 longitude: 6.858613600000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Hedwigstraße"
 housenumber: 4

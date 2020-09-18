@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5426337
 longitude: 6.8190046
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Dudelerstraße"
 housenumber: 4

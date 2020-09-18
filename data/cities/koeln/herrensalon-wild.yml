@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.9005742
 longitude: 6.950191800000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Markusstraße"
 housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Th 09:30-17:00"
 website: ""

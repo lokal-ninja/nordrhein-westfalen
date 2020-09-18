@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.5625634
 longitude: 7.9013663
-postcode: 59457
+postcode: "59457"
 city: Werl
 street: "Hammer Straße"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.241244
 longitude: 8.6273359
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Stiftstraße"
 housenumber: 81

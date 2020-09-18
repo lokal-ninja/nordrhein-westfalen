@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9530204
 longitude: 6.957758
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Balthasarstraße"
 housenumber: 61

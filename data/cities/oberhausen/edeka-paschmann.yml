@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5378325
 longitude: 6.787591600000001
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Graßhofstraße"
 housenumber: 139a

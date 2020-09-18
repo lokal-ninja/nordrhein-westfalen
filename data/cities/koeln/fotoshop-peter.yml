@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.8924072
 longitude: 6.995936400000001
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 77

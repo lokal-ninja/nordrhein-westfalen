@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3606221
 longitude: 7.481379400000001
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Haldener Straße"
 housenumber: 24

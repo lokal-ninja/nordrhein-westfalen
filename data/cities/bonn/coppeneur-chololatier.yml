@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.7368353
 longitude: 7.103401900000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Friedrichstraße"
 housenumber: 56

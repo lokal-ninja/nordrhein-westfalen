@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7582862
 longitude: 8.6601756
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Sander-Bruch-Straße"
 housenumber: 14

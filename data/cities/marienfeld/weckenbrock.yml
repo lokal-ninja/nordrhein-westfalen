@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.940034600000004
 longitude: 8.2954567
-postcode: 33428
+postcode: "33428"
 city: Marienfeld
 street: "Oester"
 housenumber: 47

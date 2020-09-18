@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.0887236
 longitude: 6.5891004
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Breite Straße"
 housenumber: 26

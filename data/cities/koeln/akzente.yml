@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.000074500000004
 longitude: 6.879690200000001
-postcode: 50767
+postcode: "50767"
 city: Köln
 street: "Donatusstraße"
 housenumber: 4

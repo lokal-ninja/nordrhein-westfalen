@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7954938
 longitude: 6.232521
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Fichtenweg"
 housenumber: 2

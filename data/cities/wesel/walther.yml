@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6671775
 longitude: 6.6286054000000005
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Am Blaufuß"
 housenumber: 8a

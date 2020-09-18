@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.960251500000005
 longitude: 7.006827500000001
-postcode: 51065
+postcode: "51065"
 city: Köln
 street: "Merkerhofstraße"
 housenumber: 13

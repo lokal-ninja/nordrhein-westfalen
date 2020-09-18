@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 50.945707600000006
 longitude: 6.8850015
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Vitalisstraße"
 housenumber: 343

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9886229
 longitude: 8.805734000000001
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Gasstraße"
 housenumber: 3

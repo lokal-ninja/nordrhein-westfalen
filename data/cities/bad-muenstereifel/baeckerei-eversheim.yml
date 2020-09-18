@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5943644
 longitude: 6.7910724
-postcode: 53902
+postcode: "53902"
 city: Bad Münstereifel
 street: "Münstereifeler Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8778215
 longitude: 6.1852131
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Max-Planck-Straße"
 housenumber: 17-21

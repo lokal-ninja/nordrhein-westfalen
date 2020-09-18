@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.002867
 longitude: 8.5589782
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Osningstraße"
 housenumber: 25

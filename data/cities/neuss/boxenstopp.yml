@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.198624
 longitude: 6.6760231
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Rheydter Straße"
 housenumber: 51

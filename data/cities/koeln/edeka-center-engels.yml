@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.960646600000004
 longitude: 6.8311337000000005
-postcode: 50859
+postcode: "50859"
 city: Köln
 street: "Unter Linden"
 housenumber: 286

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.8760148
 longitude: 8.4822088
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Westweg"
 housenumber: 17a

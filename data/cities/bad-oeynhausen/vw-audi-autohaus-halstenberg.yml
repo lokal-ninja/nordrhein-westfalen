@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2468689
 longitude: 8.7832753
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Volmerdingsener Straße"
 housenumber: 120

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.881210700000004
 longitude: 8.2400727
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Le Chambon-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.4613602
 longitude: 7.1544531000000005
-postcode: 44869
+postcode: "44869"
 city: Bochum
 street: "Höntroper Straße"
 housenumber: 40

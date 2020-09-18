@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3550381
 longitude: 6.423460700000001
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Emilie-Horten-Platz"
 housenumber: 1

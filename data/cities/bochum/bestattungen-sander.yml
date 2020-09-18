@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.451368800000004
 longitude: 7.193683600000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Franziskusstraße"
 housenumber: 10

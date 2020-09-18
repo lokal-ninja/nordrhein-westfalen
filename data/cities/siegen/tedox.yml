@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.9069517
 longitude: 8.0120074
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Birlenbacher Hütte"
 housenumber: 12-18

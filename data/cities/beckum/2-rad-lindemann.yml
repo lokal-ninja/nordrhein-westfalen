@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.7523415
 longitude: 8.0283843
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Hammer Straße"
 housenumber: 44

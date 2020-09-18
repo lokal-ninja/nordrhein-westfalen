@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4557773
 longitude: 6.6678312
-postcode: 47443
+postcode: "47443"
 city: Moers
 street: "Franz-Haniel-Straße"
 housenumber: 90

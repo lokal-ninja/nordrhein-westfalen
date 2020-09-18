@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.7895946
 longitude: 6.0878364000000005
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Soerser Weg"
 housenumber: 27

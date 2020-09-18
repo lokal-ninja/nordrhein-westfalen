@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.808775600000004
 longitude: 8.8428609
-postcode: 33189
+postcode: "33189"
 city: Schlangen
 street: "Paderborner Straße"
 housenumber: 4

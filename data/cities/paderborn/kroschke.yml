@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 51.7479742
 longitude: 8.7488843
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "An der Talle"
 housenumber: 11

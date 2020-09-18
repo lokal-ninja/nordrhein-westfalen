@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0585187
 longitude: 8.3940342
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Sählingstraße"
 housenumber: 16

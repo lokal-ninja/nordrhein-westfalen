@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.785614
 longitude: 6.1122195
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Jülicher Straße"
 housenumber: 252a

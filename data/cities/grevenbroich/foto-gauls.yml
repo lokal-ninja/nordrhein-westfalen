@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 51.088312
 longitude: 6.5897893000000005
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.452635300000004
 longitude: 6.625886700000001
-postcode: 
+postcode: ""
 city: Moers
 street: "Neumarkt"
 housenumber: 21-25

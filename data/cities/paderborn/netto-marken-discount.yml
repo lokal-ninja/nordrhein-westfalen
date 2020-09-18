@@ -1,12 +1,12 @@
-id: 894378508
+id: 727879136
 type: node
 shop: Supermarkt
-latitude: 51.7502981
-longitude: 8.7162296
-postcode: 33104
+latitude: 51.6844279
+longitude: 8.6976099
+postcode: "33106"
 city: Paderborn
-street: "Bielefelder Straße"
-housenumber: 26
-phone: "+49 5254 9304951"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: "Alter Hellweg"
+housenumber: 51
+phone: ""
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
 website: ""

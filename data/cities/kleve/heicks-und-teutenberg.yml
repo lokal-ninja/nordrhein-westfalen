@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.790380600000006
 longitude: 6.1371861
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Kavarinerstraße"
 housenumber: 45

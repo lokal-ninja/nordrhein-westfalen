@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.24188040000001
 longitude: 8.627087600000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Stiftstraße"
 housenumber: 78

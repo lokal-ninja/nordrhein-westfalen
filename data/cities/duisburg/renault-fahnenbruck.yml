@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4207927
 longitude: 6.6964835
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Schauenstraße"
 housenumber: 54

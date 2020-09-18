@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.4788408
 longitude: 7.220657200000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kurt-Schumacher-Platz"
 housenumber: 1

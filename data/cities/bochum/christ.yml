@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.481813900000006
 longitude: 7.217438700000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Bongardstraße"
 housenumber: 16

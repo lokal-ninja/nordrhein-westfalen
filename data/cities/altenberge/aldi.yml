@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.040915500000004
 longitude: 7.4693794
-postcode: 48341
+postcode: "48341"
 city: Altenberge
 street: "Lütke Berg"
 housenumber: 3

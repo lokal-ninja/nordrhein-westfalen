@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2712736
 longitude: 8.6732768
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Löhner Straße"
 housenumber: 7

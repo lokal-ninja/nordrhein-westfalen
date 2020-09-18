@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.755517000000005
 longitude: 8.7218733
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Dubelohstraße"
 housenumber: 

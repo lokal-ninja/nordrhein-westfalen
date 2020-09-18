@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9290463
 longitude: 6.911677600000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 233

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.199050400000004
 longitude: 6.677310100000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Rheydter Straße"
 housenumber: 35

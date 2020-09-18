@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.89626560000001
 longitude: 7.1823166
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Hauptstraße"
 housenumber: 31

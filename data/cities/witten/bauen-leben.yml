@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.456687800000005
 longitude: 7.3513735
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Liegnitzer Straße"
 housenumber: 3

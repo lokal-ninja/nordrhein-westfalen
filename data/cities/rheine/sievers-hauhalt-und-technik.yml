@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.290238300000006
 longitude: 7.421085700000001
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Salinenstraße"
 housenumber: 2

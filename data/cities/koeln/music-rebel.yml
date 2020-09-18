@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.9246478
 longitude: 6.9255912
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Kerpener Straße"
 housenumber: 29a

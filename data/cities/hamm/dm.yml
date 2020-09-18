@@ -3,9 +3,9 @@ type: node
 shop: Drogerie
 latitude: 51.6608347
 longitude: 7.743157900000001
-postcode: 59077
+postcode: "59077"
 city: Hamm
-street: "Neufchateaustraße"
+street: "Neufchâteaustraße"
 housenumber: 6
 phone: "+4923812739710"
 opening_hours: "Mo-Sa 08:30-20:00"

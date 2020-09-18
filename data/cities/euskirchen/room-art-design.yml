@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.6267483
 longitude: 6.851546600000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Mönchstraße"
 housenumber: 39

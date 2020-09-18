@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.494204200000006
 longitude: 7.370901600000001
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Wulfshofstraße"
 housenumber: 6-8

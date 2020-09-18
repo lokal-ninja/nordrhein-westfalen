@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2439515
 longitude: 6.961143000000001
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Champagne"
 housenumber: 16

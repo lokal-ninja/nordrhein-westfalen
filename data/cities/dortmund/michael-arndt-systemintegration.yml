@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.4860502
 longitude: 7.4818838
-postcode: 44263
+postcode: "44263"
 city: Dortmund
 street: "Konrad-Adenauer-Allee"
 housenumber: 10

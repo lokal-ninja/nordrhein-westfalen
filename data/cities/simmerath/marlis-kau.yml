@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6080927
 longitude: 6.310218600000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "In den Bremen"
 housenumber: 25

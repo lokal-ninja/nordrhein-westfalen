@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.066200800000004
 longitude: 7.0595413
-postcode: 51381
+postcode: "51381"
 city: Leverkusen
 street: "Altenberger Straße"
 housenumber: 7

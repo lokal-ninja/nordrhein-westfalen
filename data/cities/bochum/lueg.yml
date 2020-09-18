@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 51.4627412
 longitude: 7.2033816
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 223
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-14:00"
 website: ""

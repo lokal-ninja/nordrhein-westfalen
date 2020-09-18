@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.506914800000004
 longitude: 7.591012800000001
-postcode: 44289
+postcode: "44289"
 city: Dortmund
 street: "Emschertalstraße"
 housenumber: 128

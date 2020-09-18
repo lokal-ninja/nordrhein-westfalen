@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9460083
 longitude: 8.6550024
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Holter Straße"
 housenumber: 61

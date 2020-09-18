@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.9709742
 longitude: 7.609687800000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Steinfurter Straße"
 housenumber: 53

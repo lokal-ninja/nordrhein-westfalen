@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.6574655
 longitude: 6.6204168
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Hohe Straße"
 housenumber: 11

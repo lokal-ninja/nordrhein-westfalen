@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.394409
 longitude: 6.7967881000000006
-postcode: 47279
+postcode: "47279"
 city: Duisburg
 street: "Wedauer Straße"
 housenumber: 399

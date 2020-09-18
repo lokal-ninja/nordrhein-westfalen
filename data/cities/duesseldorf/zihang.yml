@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.236519200000004
 longitude: 6.8588433
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Dreherstraße"
 housenumber: 4

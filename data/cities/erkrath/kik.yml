@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.200993000000004
 longitude: 6.913242800000001
-postcode: 40699
+postcode: "40699"
 city: Erkrath
 street: "Neuenhausplatz"
 housenumber: 30

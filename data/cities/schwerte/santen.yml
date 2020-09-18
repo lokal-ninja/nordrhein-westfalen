@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.442031300000004
 longitude: 7.5625762000000005
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Bahnhofstraße"
 housenumber: 20

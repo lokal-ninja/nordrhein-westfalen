@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.321215800000004
 longitude: 6.5741617
-postcode: 47805
+postcode: "47805"
 city: Krefeld
 street: "Fütingsweg"
 housenumber: 73

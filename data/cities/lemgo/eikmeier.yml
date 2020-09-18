@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.0276354
 longitude: 8.903971700000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Papenstraße"
 housenumber: 31

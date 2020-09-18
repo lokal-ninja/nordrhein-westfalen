@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.055312900000004
 longitude: 6.222919200000001
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Parkhofstraße"
 housenumber: 89

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.833348400000006
 longitude: 6.5771062
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Werther Straße"
 housenumber: 235

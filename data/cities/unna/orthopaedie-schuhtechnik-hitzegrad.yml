@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.5318581
 longitude: 7.688726900000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Südring"
 housenumber: 15

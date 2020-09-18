@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.948608300000004
 longitude: 6.879085000000001
-postcode: 50829
+postcode: "50829"
 city: Köln
 street: "Girlitzweg"
 housenumber: 30

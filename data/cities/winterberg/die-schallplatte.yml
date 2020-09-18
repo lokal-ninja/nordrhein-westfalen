@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.1957989
 longitude: 8.5375507
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hellenstraße"
 housenumber: 48

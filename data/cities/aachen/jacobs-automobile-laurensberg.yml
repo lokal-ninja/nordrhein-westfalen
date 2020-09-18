@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7885818
 longitude: 6.0666577
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Henricistraße"
 housenumber: 29

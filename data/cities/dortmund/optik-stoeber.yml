@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.57042920000001
 longitude: 7.3821544
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Siegburgstraße"
 housenumber: 15

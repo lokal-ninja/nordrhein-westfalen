@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.658825500000006
 longitude: 7.629518300000001
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Lünener Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Quad
 latitude: 50.9205637
 longitude: 6.8515433
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Max-Planck-Straße"
 housenumber: 12

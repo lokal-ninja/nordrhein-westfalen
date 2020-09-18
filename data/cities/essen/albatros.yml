@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.4555158
 longitude: 7.0062942
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Hindenburgstraße"
 housenumber: 59

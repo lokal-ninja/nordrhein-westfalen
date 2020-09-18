@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0314813
 longitude: 6.985296900000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Pfarrer-Schmitz-Straße"
 housenumber: 8

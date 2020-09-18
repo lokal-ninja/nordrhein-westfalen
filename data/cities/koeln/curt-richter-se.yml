@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9818689
 longitude: 7.0026646
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Manforter Straße"
 housenumber: 16

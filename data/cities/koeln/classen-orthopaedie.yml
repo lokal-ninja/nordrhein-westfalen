@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.948361600000005
 longitude: 6.9469285
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Im Mediapark"
 housenumber: 4D

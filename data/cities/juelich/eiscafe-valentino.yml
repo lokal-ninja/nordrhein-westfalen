@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 50.9230688
 longitude: 6.3629566
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 27

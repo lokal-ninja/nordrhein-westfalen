@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1896708
 longitude: 6.6877513
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Dreikönigenstraße"
 housenumber: 2

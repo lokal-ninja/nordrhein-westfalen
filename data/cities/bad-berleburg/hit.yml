@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0551152
 longitude: 8.3946556
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Bahnhofstraße"
 housenumber: 8

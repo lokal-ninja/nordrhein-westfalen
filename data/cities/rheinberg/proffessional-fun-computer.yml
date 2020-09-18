@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.5459655
 longitude: 6.60219
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
 street: "Rheinstraße"
 housenumber: 5

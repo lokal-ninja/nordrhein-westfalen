@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.2385996
 longitude: 6.8006202
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 158

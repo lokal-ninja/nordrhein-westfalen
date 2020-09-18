@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 51.1948859
 longitude: 8.535558100000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Marktstraße"
 housenumber: 14

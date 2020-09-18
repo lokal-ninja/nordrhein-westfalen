@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.5505815
 longitude: 7.809379600000001
-postcode: 59427
+postcode: "59427"
 city: Unna
 street: "Hemmerder Wallgraben"
 housenumber: 10

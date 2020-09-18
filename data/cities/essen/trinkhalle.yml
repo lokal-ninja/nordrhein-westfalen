@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.362124900000005
 longitude: 6.947396
-postcode: 
+postcode: ""
 city: Essen
 street: "Ringstraße"
 housenumber: 

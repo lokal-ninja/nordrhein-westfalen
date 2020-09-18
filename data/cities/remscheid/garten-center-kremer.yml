@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.199283900000005
 longitude: 7.251442600000001
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Lüttringhauser Straße"
 housenumber: 80,82

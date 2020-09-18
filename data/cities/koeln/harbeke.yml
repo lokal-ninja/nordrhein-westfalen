@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9673042
 longitude: 7.0056846
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Clevischer Ring"
 housenumber: 87,91

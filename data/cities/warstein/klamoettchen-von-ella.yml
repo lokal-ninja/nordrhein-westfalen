@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.443977200000006
 longitude: 8.3540858
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Hauptstraße"
 housenumber: 74

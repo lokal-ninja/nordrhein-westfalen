@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.368275600000004
 longitude: 6.4274556
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Arnoldstraße"
 housenumber: 13a

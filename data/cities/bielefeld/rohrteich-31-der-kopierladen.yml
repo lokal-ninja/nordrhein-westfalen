@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.016007200000004
 longitude: 8.5369606
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rohrteichstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.03092770000001
 longitude: 7.849097100000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Felmicke"
 housenumber: 26a

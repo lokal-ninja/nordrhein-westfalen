@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.2619709
 longitude: 8.691282300000001
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "An der Egge"
 housenumber: 14

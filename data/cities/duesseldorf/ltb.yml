@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.214913
 longitude: 6.757372500000001
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Wupperstraße"
 housenumber: 3

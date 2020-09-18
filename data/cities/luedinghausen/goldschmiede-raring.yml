@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.7721901
 longitude: 7.445753900000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Hermannstraße"
 housenumber: 37

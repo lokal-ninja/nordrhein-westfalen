@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.4130266
 longitude: 6.99399
-postcode: 45133
+postcode: "45133"
 city: Essen
 street: "Bredeneyer Straße"
 housenumber: 108

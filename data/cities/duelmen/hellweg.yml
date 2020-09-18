@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.814174300000005
 longitude: 7.2580849
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Linnertstraße"
 housenumber: 4

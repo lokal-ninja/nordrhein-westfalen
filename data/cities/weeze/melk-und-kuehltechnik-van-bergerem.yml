@@ -3,7 +3,7 @@ type: way
 shop: Maschinen
 latitude: 51.6224439
 longitude: 6.198241400000001
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Holtumsweg"
 housenumber: 12

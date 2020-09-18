@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.6750601
 longitude: 8.344753500000001
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Helle Halle"
 housenumber: 8

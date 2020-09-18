@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9872978
 longitude: 6.992141200000001
-postcode: 51061
+postcode: "51061"
 city: Köln
 street: "Gisbertstraße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.746083500000005
 longitude: 8.0812401
-postcode: 57299
+postcode: "57299"
 city: Burbach
 street: "Jägerstraße"
 housenumber: 1

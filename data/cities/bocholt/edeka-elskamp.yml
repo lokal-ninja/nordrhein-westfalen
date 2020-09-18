@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8531089
 longitude: 6.6370097
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Platanenweg"
 housenumber: 3

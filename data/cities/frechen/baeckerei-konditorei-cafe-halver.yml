@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.909770900000005
 longitude: 6.811485200000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 60

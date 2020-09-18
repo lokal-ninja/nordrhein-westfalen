@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.462273100000004
 longitude: 7.0131094
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Viehofer Platz"
 housenumber: 8

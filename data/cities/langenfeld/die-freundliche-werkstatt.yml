@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.1231743
 longitude: 6.9283568
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Hans-Böckler-Straße"
 housenumber: 22

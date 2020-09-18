@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.434296700000004
 longitude: 6.9402105
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Sunderweg"
 housenumber: 7

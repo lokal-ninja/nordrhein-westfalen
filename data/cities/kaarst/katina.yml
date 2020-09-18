@@ -3,10 +3,10 @@ type: way
 shop: Allgemein
 latitude: 51.2269463
 longitude: 6.601573800000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Industriestraße"
 housenumber: 10
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 2131 669206"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+website: "https://www.katina-kaarst.de/"

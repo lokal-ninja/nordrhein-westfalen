@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7972923
 longitude: 6.1023291
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Hubert-Wienen-Straße"
 housenumber: 30

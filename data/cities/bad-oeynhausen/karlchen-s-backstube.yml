@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2556883
 longitude: 8.779127200000001
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Volmerdingsener Straße"
 housenumber: 

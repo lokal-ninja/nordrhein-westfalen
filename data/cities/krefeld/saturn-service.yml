@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.3267012
 longitude: 6.566294500000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Neusser Straße"
 housenumber: 39

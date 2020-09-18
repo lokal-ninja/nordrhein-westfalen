@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.8733914
 longitude: 8.948551
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Mittelstraße"
 housenumber: 109

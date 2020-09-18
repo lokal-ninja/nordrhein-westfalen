@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.5187716
 longitude: 7.420701800000001
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Arminiusstraße"
 housenumber: 50

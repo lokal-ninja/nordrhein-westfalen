@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.163615300000004
 longitude: 6.8602239
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Kappeler Straße"
 housenumber: 13

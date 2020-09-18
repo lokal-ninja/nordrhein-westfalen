@@ -1,12 +1,12 @@
-id: 152635878
+id: 94330617
 type: way
 shop: Supermarkt
-latitude: 51.522110500000004
-longitude: 6.831088800000001
-postcode: 46149
+latitude: 51.524715500000006
+longitude: 6.864840200000001
+postcode: "46145"
 city: Oberhausen
-street: "Weierstraße"
-housenumber: 116
+street: "Steinstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

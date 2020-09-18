@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8625029
 longitude: 8.201102500000001
-postcode: 57250
+postcode: "57250"
 city: Netphen
 street: "Berliner Hof"
 housenumber: 1

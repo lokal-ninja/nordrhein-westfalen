@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1339532
 longitude: 6.457537
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Kirchhofstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.089004300000006
 longitude: 6.586084700000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Graf-Kessel-Straße"
 housenumber: 2

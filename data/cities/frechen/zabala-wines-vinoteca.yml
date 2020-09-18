@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.9103404
 longitude: 6.8061952
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Dr.-Tusch-Straße"
 housenumber: 22-24

@@ -3,7 +3,7 @@ type: node
 shop: Autoservice
 latitude: 52.0326395
 longitude: 8.8268397
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Trifte"
 housenumber: 61-65

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.4103575
 longitude: 6.6940977
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Flutweg"
 housenumber: 83

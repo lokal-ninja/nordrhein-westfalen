@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.759477200000006
 longitude: 7.910010300000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Rottmannstraße"
 housenumber: 109

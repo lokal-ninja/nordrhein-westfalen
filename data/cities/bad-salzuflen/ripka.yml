@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.0804467
 longitude: 8.7204115
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Am Zubringer"
 housenumber: 1 A

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.39081710000001
 longitude: 6.6552628
-postcode: 47239
+postcode: "47239"
 city: Duisburg
 street: "Giesenfeldstraße"
 housenumber: 3

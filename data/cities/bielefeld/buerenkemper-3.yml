@@ -1,12 +1,12 @@
-id: 3390778959
+id: 4394138379
 type: node
 shop: Bäckerei
-latitude: 52.0333959
-longitude: 8.5257964
-postcode: 33613
+latitude: 51.983575900000005
+longitude: 8.5057612
+postcode: "33647"
 city: Bielefeld
-street: "Kurze Straße"
-housenumber: 6
+street: "Berliner Straße"
+housenumber: 75
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:30"
+opening_hours: ""
 website: ""

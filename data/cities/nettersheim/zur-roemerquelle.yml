@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.4944764
 longitude: 6.6325683
-postcode: 53947
+postcode: "53947"
 city: Nettersheim
 street: "Rosenthalstraße"
 housenumber: 1

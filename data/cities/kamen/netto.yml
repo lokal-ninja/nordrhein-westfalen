@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5844904
 longitude: 7.718164400000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Bertolt-Brecht-Straße"
 housenumber: 1

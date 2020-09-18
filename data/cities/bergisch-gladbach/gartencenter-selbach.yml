@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.0011706
 longitude: 7.101692900000001
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Nußbaumer Straße"
 housenumber: 39

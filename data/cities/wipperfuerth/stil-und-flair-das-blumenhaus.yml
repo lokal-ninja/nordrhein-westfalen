@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.115889900000006
 longitude: 7.3822168
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Weststraße"
 housenumber: 37

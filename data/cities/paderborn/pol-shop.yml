@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7149743
 longitude: 8.741369800000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Grunigerstraße"
 housenumber: 9

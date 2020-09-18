@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.431115500000004
 longitude: 8.010718800000001
-postcode: 59759
+postcode: "59759"
 city: Arnsberg
 street: "Westring"
 housenumber: 10

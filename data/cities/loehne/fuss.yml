@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.1979867
 longitude: 8.758782100000001
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Weihestraße"
 housenumber: 33

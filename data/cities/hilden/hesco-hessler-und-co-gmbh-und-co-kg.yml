@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1657068
 longitude: 6.9197581
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Düsseldorfer Straße"
 housenumber: 42-44

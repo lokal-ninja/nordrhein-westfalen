@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.974286500000005
 longitude: 8.8210789
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Detmolder Straße"
 housenumber: 212

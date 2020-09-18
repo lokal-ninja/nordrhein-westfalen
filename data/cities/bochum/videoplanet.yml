@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 51.4700379
 longitude: 7.163280200000001
-postcode: 44793
+postcode: "44793"
 city: Bochum
 street: "Essener Straße"
 housenumber: 262

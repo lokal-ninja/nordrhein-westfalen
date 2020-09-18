@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.211056400000004
 longitude: 6.794889400000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Oberbilker Allee"
 housenumber: 111

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.128251000000006
 longitude: 8.6270319
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Engerstraße"
 housenumber: 192

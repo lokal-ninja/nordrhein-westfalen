@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 51.713271500000005
 longitude: 8.7511253
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Karlstraße"
 housenumber: 27
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-13:00"
 website: "http://www.zweirad-potrykus.de/"

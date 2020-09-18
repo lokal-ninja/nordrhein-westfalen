@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 51.264045700000004
 longitude: 7.156217900000001
-postcode: 42107
+postcode: "42107"
 city: Wuppertal
 street: "Neuenteich 2a"
 housenumber: 2a

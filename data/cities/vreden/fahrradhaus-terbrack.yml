@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.031847500000005
 longitude: 6.8216337000000005
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Bahnhofstraße"
 housenumber: 18

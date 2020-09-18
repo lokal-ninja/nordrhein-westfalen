@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.178904200000005
 longitude: 6.7149901000000005
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Artur-Platz-Weg"
 housenumber: 13

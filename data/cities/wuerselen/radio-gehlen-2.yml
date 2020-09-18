@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8169994
 longitude: 6.1220929
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Aachener Straße"
 housenumber: 121

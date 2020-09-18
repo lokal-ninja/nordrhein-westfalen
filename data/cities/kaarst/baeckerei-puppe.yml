@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.194836
 longitude: 6.607651700000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Rathausplatz"
 housenumber: 13

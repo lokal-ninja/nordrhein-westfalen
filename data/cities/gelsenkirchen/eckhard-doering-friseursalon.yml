@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.5199878
 longitude: 7.124843800000001
-postcode: 45888
+postcode: "45888"
 city: Gelsenkirchen
 street: "Neuhüller Straße"
 housenumber: 34

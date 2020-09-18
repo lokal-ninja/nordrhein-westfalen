@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.771964700000005
 longitude: 6.213063900000001
-postcode: 52223
+postcode: "52223"
 city: Stolberg (Rhld.)
 street: "Mauerstraße"
 housenumber: 27

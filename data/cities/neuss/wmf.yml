@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.2013576
 longitude: 6.7192771
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2-4

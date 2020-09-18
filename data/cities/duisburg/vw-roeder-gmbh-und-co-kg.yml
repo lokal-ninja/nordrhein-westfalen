@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.543648100000006
 longitude: 6.733972100000001
-postcode: 47178
+postcode: "47178"
 city: Duisburg
 street: "Watereckstraße"
 housenumber: 1

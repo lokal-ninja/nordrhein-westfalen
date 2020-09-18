@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6655822
 longitude: 7.150400200000001
-postcode: 45772
+postcode: "45772"
 city: Marl
 street: "Victoriastraße"
 housenumber: 174

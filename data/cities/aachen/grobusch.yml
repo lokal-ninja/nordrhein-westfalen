@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.774261
 longitude: 6.084123
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Münsterplatz"
 housenumber: 10

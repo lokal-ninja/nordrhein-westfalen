@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 52.206882
 longitude: 8.718742200000001
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Albert-Schweitzer-Straße"
 housenumber: 13
 phone: "+49 5732 6828110"
 opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"
-website: "http://www.toom-baumarkt.de/"
+website: "https://toom.de/"

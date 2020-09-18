@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.651408700000005
 longitude: 6.9555851
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "An der Seikenkapelle"
 housenumber: 23

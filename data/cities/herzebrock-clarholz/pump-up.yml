@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.882831700000004
 longitude: 8.24145
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Uthofstraße"
 housenumber: 21

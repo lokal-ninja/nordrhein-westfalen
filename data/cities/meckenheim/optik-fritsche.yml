@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 50.6251644
 longitude: 7.0394597
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 18
-phone: ""
+phone: "+49 2225 5071"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00; We 14:30-18:30 off"
-website: ""
+website: "www.optikfritsche.de"

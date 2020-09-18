@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7330613
 longitude: 6.5942815
-postcode: 52391
+postcode: "52391"
 city: Vettweiß
 street: "Gereonstraße"
 housenumber: 137

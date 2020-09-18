@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2465162
 longitude: 6.3938135
-postcode: 41747
+postcode: "41747"
 city: Viersen
 street: "Ernst-Moritz-Arndt-Straße"
 housenumber: 18

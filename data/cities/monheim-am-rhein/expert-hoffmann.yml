@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 51.094013200000006
 longitude: 6.888826000000001
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Krischerstraße"
 housenumber: 18-26

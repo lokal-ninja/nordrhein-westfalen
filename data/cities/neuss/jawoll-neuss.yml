@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.1682982
 longitude: 6.7355651000000005
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Schellbergstraße"
 housenumber: 27

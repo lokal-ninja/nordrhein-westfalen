@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5162181
 longitude: 6.3244894
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Gelderstraße"
 housenumber: 4-6

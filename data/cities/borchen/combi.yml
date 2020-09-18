@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.665630900000004
 longitude: 8.7257158
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Sperenberger Straße"
 housenumber: 1a

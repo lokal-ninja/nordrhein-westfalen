@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.920161400000005
 longitude: 6.9199821
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 170

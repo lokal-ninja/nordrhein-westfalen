@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.4445004
 longitude: 6.266291000000001
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Kleiner Markt"
 housenumber: 5

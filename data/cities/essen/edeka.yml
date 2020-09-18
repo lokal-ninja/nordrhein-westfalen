@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.42083
 longitude: 6.9609326000000005
-postcode: 45149
+postcode: "45149"
 city: Essen
 street: "Hatzper Straße"
 housenumber: 214

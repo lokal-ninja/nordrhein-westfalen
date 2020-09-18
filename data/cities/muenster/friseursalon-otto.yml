@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.9041985
 longitude: 7.6383977000000005
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Patronatsstraße"
 housenumber: 15

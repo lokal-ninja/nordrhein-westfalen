@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1517819
 longitude: 7.342302200000001
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Bahnhofstraße"
 housenumber: 24

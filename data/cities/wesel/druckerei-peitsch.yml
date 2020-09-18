@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6548974
 longitude: 6.622767700000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Luisenstraße"
 housenumber: 1

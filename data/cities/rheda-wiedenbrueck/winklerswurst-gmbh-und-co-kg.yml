@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.8605905
 longitude: 8.258635100000001
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Daimlerstraße"
 housenumber: 12

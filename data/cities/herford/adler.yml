@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 52.0955999
 longitude: 8.6819103
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Lilienthalstraße"
 housenumber: 1

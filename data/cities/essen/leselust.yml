@@ -1,12 +1,12 @@
 id: 337892391
 type: node
 shop: Bücher
-latitude: 51.4203357
-longitude: 7.024542500000001
-postcode: 45134
+latitude: 51.422003100000005
+longitude: 7.0278349
+postcode: "45134"
 city: Essen
 street: "Frankenstraße"
-housenumber: 280
+housenumber: 248
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00; PH off"
 website: ""

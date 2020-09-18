@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.993871500000004
 longitude: 8.8002138
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Lemgoer Straße"
 housenumber: 3

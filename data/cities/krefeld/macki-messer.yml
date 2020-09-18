@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.343045200000006
 longitude: 6.5974525
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Grotenburgstraße"
 housenumber: 48

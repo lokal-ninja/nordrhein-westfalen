@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.9197622
 longitude: 6.130485500000001
-postcode: 52531
+postcode: "52531"
 city: Übach-Palenberg
 street: "Friedrich-Ebert-Straße"
 housenumber: 17

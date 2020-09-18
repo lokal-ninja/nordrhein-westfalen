@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.7034953
 longitude: 7.0801473
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Dorstener Straße"
 housenumber: 767

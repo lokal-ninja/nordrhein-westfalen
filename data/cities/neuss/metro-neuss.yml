@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.165352000000006
 longitude: 6.753708700000001
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Jagenbergstraße"
 housenumber: 6

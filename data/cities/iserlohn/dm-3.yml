@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.365282
 longitude: 7.614618
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 26

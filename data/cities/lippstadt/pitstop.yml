@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.663052300000004
 longitude: 8.3434754
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Erwitter Straße"
 housenumber: 62

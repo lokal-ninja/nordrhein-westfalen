@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.664791
 longitude: 6.797147600000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Erftstraße"
 housenumber: 54

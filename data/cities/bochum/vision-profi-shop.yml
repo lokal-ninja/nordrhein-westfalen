@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4842396
 longitude: 7.2171529
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Brückstraße"
 housenumber: 36

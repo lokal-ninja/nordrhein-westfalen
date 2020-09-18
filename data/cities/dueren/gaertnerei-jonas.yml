@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.83709270000001
 longitude: 6.4955296
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Auf dem Horstert"
 housenumber: 98

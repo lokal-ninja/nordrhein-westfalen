@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.3463859
 longitude: 7.042709800000001
-postcode: 42551
+postcode: "42551"
 city: Velbert
 street: "Schwanenstraße"
 housenumber: 67

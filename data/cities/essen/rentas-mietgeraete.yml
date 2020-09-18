@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.428129500000004
 longitude: 7.048796100000001
-postcode: 45134
+postcode: "45134"
 city: Essen
 street: "Frankenstraße"
 housenumber: 58

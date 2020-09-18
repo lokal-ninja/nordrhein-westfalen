@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.5902924
 longitude: 6.656328500000001
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Turmhofstraße"
 housenumber: 17

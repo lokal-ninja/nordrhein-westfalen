@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.208741
 longitude: 7.873800600000001
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Alte Ziegelei"
 housenumber: 2

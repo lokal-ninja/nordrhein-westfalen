@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.4367061
 longitude: 7.2213057
-postcode: 44797
+postcode: "44797"
 city: Bochum
 street: "Kemnader Straße"
 housenumber: 82

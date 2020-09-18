@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.09490460000001
 longitude: 6.5679451
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Düsseldorfer Straße"
 housenumber: 30

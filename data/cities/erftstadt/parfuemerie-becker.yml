@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 50.7998533
 longitude: 6.764838200000001
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Markt"
 housenumber: 8

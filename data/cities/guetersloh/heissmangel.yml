@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.9486986
 longitude: 8.4101281
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Steinhagener Straße"
 housenumber: 26

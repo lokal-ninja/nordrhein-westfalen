@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.8248928
 longitude: 6.6225778
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Petersfeldstraße"
 housenumber: 29

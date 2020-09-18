@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9303983
 longitude: 8.5558356
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Werkhofstraße"
 housenumber: 3

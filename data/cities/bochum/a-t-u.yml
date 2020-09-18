@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5048437
 longitude: 7.2129745000000005
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Herner Straße"
 housenumber: 300

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.498892000000005
 longitude: 7.2241166
-postcode: 44807
+postcode: "44807"
 city: Bochum
 street: "Vierhausstraße"
 housenumber: 112

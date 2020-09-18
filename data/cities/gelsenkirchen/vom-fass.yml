@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.579716100000006
 longitude: 7.053632400000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Blindestraße"
 housenumber: 5

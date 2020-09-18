@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8201899
 longitude: 6.1241485
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Aachener Straße"
 housenumber: 58

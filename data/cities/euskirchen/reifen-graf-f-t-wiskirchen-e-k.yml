@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.650939
 longitude: 6.8281454
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Bachstraße"
 housenumber: 4

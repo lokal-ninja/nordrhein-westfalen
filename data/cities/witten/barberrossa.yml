@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.437681600000005
 longitude: 7.333677700000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Steinstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8296226
 longitude: 7.0289410000000005
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Gierslinger Straße"
 housenumber: 3

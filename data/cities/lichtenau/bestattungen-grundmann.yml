@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.618107300000005
 longitude: 8.8963415
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Driburger Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.141275
 longitude: 8.5600165
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Bahnhofstraße"
 housenumber: 1

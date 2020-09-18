@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.423292700000005
 longitude: 6.859866800000001
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Kriegerstraße"
 housenumber: 32

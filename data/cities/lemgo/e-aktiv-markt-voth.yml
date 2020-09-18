@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0342574
 longitude: 8.9114701
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Vogelsang"
 housenumber: 34

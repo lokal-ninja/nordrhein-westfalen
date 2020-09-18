@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 52.0268725
 longitude: 8.874131100000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Liemer Weg"
 housenumber: 36

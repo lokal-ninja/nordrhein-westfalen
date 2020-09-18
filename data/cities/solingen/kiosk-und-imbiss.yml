@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.2132421
 longitude: 7.0837348
-postcode: 42653
+postcode: "42653"
 city: Solingen
 street: "Lützowstraße"
 housenumber: 347

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0063614
 longitude: 6.4882049
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Pützer Straße"
 housenumber: 12

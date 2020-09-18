@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.6790831
 longitude: 7.0532715
-postcode: 45768
+postcode: "45768"
 city: Marl
 street: "Am Kanal"
 housenumber: 182

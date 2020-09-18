@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.1164454
 longitude: 8.6704697
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Auf der Freiheit"
 housenumber: 8

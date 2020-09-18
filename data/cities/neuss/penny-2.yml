@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1691389
 longitude: 6.7253186000000005
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Euskirchener Straße"
 housenumber: 7-11

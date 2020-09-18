@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9496532
 longitude: 6.9103512
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Lichtstraße"
 housenumber: 26-28

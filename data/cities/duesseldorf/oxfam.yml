@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.235547600000004
 longitude: 6.7786206
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 9

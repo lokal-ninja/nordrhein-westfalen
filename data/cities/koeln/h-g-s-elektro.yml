@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.949600600000004
 longitude: 6.911297800000001
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Lichtstraße"
 housenumber: 15

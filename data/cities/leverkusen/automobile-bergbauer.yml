@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.044038
 longitude: 6.9845677
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Moselstraße"
 housenumber: 31

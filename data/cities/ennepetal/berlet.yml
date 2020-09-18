@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.2988075
 longitude: 7.353526100000001
-postcode: 58256
+postcode: "58256"
 city: Ennepetal
 street: "Gasstraße"
 housenumber: 12

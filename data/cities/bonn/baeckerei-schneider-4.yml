@@ -1,12 +1,12 @@
-id: 133399534
-type: way
+id: 6148360093
+type: node
 shop: Bäckerei
-latitude: 50.743298100000004
-longitude: 7.092037400000001
-postcode: 53111
+latitude: 50.7142896
+longitude: 7.045311300000001
+postcode: "53123"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 154
+street: "Am Schickshof"
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:00"
-website: "https://www.baecker-schneider.de/"
+opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-12:00"
+website: ""

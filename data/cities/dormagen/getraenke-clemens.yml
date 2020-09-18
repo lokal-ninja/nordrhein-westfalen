@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.103796100000004
 longitude: 6.717472000000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Bergheimer Straße"
 housenumber: 67

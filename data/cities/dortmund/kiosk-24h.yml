@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5142954
 longitude: 7.4978894
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Kaiserstraße"
 housenumber: 203

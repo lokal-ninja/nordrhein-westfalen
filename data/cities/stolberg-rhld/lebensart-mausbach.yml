@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.7567067
 longitude: 6.2749879
-postcode: 52224
+postcode: "52224"
 city: Stolberg (Rhld.)
 street: "Schroiffstraße"
 housenumber: 10

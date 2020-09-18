@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.447076800000005
 longitude: 6.968668
-postcode: 45145
+postcode: "45145"
 city: Essen
 street: "Kölner Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.9626468
 longitude: 7.644805300000001
-postcode: 48145
+postcode: "48145"
 city: Münster
 street: "Warendorfer Straße"
 housenumber: 65

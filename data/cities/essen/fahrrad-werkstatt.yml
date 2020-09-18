@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4321849
 longitude: 7.0145654
-postcode: 45131
+postcode: "45131"
 city: Essen
 street: "Wittenbergstraße"
 housenumber: 2 - 4

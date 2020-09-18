@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2240228
 longitude: 6.778214500000001
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 27

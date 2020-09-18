@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4406782
 longitude: 6.4222112000000005
-postcode: 47647
+postcode: "47647"
 city: Kerken
 street: "Rheinstraße"
 housenumber: 32

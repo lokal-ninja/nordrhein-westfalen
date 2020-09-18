@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8867642
 longitude: 8.0270472
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "In der Hüttenwiese"
 housenumber: 13

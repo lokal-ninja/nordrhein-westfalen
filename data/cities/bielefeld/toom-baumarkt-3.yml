@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.9569228
 longitude: 8.5808108
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Senefelderstraße"
 housenumber: 2

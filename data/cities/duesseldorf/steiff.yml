@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.2225325
 longitude: 6.7810914
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 60

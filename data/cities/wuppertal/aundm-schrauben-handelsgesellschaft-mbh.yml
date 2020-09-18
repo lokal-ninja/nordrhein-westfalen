@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.266378100000004
 longitude: 7.180718100000001
-postcode: 42285
+postcode: "42285"
 city: Wuppertal
 street: "Am Brögel"
 housenumber: 21

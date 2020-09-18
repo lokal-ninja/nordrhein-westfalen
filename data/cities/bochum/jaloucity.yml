@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 51.4812066
 longitude: 7.2125374
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Alleestraße"
 housenumber: 21

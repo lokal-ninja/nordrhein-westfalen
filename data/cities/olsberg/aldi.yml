@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3579943
 longitude: 8.4794549
-postcode: 59939
+postcode: "59939"
 city: Olsberg
 street: "Fruges Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7639508
 longitude: 6.081987300000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Habsburgerallee"
 housenumber: 11

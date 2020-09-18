@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4282982
 longitude: 7.163893600000001
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 788

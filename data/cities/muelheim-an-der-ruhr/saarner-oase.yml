@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.398934100000005
 longitude: 6.871717
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Ernst-Tommes-Straße"
 housenumber: 3

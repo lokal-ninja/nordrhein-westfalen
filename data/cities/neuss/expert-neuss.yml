@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.1696528
 longitude: 6.7504360000000005
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Im Taubental"
 housenumber: 36

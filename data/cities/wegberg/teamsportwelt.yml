@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.1388003
 longitude: 6.2828764
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Beecker Straße"
 housenumber: 62

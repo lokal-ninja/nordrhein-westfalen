@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.601660700000004
 longitude: 7.1823705
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Rietstraße"
 housenumber: 2

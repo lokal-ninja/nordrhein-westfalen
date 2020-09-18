@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9019172
 longitude: 8.3975168
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Kampstraße"
 housenumber: 20-22

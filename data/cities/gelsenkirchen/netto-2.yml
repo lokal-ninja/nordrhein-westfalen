@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5606875
 longitude: 7.0500803
-postcode: 45897
+postcode: "45897"
 city: Gelsenkirchen
 street: "Emil-Zimmermann-Allee"
 housenumber: 16

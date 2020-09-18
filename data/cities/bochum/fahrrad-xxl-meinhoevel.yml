@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5061769
 longitude: 7.1920522
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Dorstener Straße"
 housenumber: 400

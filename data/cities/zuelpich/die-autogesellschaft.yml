@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7013119
 longitude: 6.6598164
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Bergheimer Straße"
 housenumber: 4

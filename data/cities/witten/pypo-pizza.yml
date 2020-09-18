@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 51.433893100000006
 longitude: 7.339397900000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Röhrchenstraße"
 housenumber: 13a

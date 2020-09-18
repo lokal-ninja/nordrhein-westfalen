@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.8363881
 longitude: 6.464117300000001
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Bollwerksweide"
 housenumber: 6

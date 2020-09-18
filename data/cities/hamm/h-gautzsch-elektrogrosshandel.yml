@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.6773498
 longitude: 7.8535922000000005
-postcode: 59071
+postcode: "59071"
 city: Hamm
 street: "Herbert-Rust-Weg"
 housenumber: 3

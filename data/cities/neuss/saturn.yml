@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.2024916
 longitude: 6.718285000000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2

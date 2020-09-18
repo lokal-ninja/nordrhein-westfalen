@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.9281025
 longitude: 6.9125424
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Wittgensteinstraße"
 housenumber: 23

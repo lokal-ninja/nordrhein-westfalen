@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.504184800000004
 longitude: 7.394549700000001
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Planetenfeldstraße"
 housenumber: 87

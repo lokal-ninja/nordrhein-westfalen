@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8694263
 longitude: 6.1371449
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Rathenaustraße"
 housenumber: 1

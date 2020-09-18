@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9343961
 longitude: 6.861671
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Kirchweg"
 housenumber: 77

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8718979
 longitude: 9.1978959
-postcode: 32816
+postcode: "32816"
 city: Schieder-Schwalenberg
 street: "Am Oekerberg"
 housenumber: 

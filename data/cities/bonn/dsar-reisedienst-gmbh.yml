@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.738150700000006
 longitude: 7.1028095
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Sandkaule"
 housenumber: 5-7

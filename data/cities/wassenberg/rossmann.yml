@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.0911423
 longitude: 6.158646
-postcode: 41849
+postcode: "41849"
 city: Wassenberg
 street: "Weilerstraße"
 housenumber: 72

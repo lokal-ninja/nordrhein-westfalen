@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.444771300000006
 longitude: 7.3668222000000005
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Annenstraße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.965111
 longitude: 7.620802800000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Überwasserstraße"
 housenumber: 1

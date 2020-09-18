@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.988918500000004
 longitude: 8.799508000000001
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Heidensche Straße"
 housenumber: 25

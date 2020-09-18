@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.6840659
 longitude: 7.153503000000001
-postcode: 53177
+postcode: "53177"
 city: Bonn
 street: "Villichgasse"
 housenumber: 19

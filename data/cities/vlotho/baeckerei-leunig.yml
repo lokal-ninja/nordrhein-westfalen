@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.166718200000005
 longitude: 8.8605236
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Lange Straße"
 housenumber: 116

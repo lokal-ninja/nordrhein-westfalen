@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.4679179
 longitude: 6.9330341
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Rabenhorst"
 housenumber: 67

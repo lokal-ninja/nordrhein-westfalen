@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.214648100000005
 longitude: 6.8020677
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Josefstraße"
 housenumber: 25

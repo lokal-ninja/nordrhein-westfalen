@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.9245888
 longitude: 7.5766562
-postcode: 48163
+postcode: "48163"
 city: Münster
 street: "Weseler Straße"
 housenumber: 653

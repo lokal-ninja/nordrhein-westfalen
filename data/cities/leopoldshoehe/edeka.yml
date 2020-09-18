@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0125242
 longitude: 8.6958376
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Herforder Straße"
 housenumber: 27-29

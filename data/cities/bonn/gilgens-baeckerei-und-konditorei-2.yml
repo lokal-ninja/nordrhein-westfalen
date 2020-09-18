@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6610548
 longitude: 7.192179500000001
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: ""
 housenumber: 

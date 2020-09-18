@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9504789
 longitude: 8.854333200000001
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Klingenbergstraße"
 housenumber: 19

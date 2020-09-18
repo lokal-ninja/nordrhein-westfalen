@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.909982500000005
 longitude: 6.8126847
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 35

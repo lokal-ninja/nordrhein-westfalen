@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.4480444
 longitude: 7.026394700000001
-postcode: 45138
+postcode: "45138"
 city: Essen
 street: "Saarbrücker Straße"
 housenumber: 25

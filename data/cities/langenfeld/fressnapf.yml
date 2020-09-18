@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.120795400000006
 longitude: 6.9697686
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Schneiderstraße"
 housenumber: 15

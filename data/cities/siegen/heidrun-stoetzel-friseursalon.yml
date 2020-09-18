@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.870865900000005
 longitude: 8.061705
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Hauptstraße"
 housenumber: 116

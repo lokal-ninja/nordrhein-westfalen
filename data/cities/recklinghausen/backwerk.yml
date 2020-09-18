@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6148108
 longitude: 7.199728
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Kunibertistraße"
 housenumber: 14

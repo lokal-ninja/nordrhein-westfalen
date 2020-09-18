@@ -1,12 +1,12 @@
-id: 2028092871
+id: 2422230445
 type: node
 shop: Supermarkt
-latitude: 52.0306064
-longitude: 8.5276718
-postcode: 33613
+latitude: 51.989748500000005
+longitude: 8.5071738
+postcode: "33647"
 city: Bielefeld
-street: "Jöllenbecker Straße"
-housenumber: 41
+street: "Kimbernstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 7:00-21:00"
 website: ""

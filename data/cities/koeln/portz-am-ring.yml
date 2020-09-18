@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.934345300000004
 longitude: 6.938444100000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Lindenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.1798627
 longitude: 7.1940251
-postcode: 42853
+postcode: "42853"
 city: Remscheid
 street: "Markt"
 housenumber: 2

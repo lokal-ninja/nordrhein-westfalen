@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9099635
 longitude: 6.8123709
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.7889447
 longitude: 6.139483800000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Große Straße"
 housenumber: 26-28

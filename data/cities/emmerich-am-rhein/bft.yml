@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.8505443
 longitude: 6.240269400000001
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Ostermayerstraße"
 housenumber: 1

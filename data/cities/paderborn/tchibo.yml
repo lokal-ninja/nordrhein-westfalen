@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.7034655
 longitude: 8.769502600000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

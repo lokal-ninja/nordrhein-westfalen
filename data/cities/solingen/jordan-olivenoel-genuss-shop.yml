@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1299259
 longitude: 6.9960848
-postcode: 42697
+postcode: "42697"
 city: Solingen
 street: "Landwehr"
 housenumber: 25

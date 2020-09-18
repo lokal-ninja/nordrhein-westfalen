@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.249946300000005
 longitude: 8.3937921
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Sankt-Vitus-Schützenstraße"
 housenumber: 21

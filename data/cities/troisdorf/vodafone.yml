@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.814643600000004
 longitude: 7.164113700000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Kölner Straße"
 housenumber: 1

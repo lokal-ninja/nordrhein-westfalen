@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5385106
 longitude: 7.260989
-postcode: 44627
+postcode: "44627"
 city: Herne
 street: "Gerther Straße"
 housenumber: 9

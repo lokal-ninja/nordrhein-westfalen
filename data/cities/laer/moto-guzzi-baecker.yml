@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.05394080000001
 longitude: 7.3529716
-postcode: 48366
+postcode: "48366"
 city: Laer
 street: "Am Bült"
 housenumber: 4

@@ -1,12 +1,12 @@
 id: 121204358
 type: way
-shop: Garten-Center
+shop: Blumen
 latitude: 51.2869559
 longitude: 7.228182
-postcode: 42277
+postcode: "42277"
 city: Wuppertal
 street: "Vor der Beule"
 housenumber: 6
 phone: "+49 202 7589790"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "http://www.blumenrisse.de/"
+website: "https://www.blumen-risse.de/"

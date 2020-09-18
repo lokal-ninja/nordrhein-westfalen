@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.989196400000004
 longitude: 9.1365183
-postcode: 32683
+postcode: "32683"
 city: Barntrup
 street: "Frettholz"
 housenumber: 5

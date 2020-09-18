@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0889631
 longitude: 8.7567093
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Wenkenstraße"
 housenumber: 74

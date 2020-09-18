@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.930653400000004
 longitude: 8.114176
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Neumühlenstraße"
 housenumber: 2

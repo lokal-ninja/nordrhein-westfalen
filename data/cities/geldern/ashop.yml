@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.5165823
 longitude: 6.324339
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Markt"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.3641536
 longitude: 6.9371393
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Hauptstraße"
 housenumber: 120

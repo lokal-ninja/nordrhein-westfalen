@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.0637927
 longitude: 6.0957577
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Hochstraße"
 housenumber: 128

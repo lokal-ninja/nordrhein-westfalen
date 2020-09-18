@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.423591800000004
 longitude: 7.282978900000001
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Meesmannstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6319462
 longitude: 8.512603200000001
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Bürener Straße"
 housenumber: 15a

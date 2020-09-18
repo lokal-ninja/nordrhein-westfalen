@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4508705
 longitude: 6.6300961
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Homberger Straße"
 housenumber: 10

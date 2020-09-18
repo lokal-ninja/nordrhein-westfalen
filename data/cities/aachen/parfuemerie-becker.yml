@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.773987000000005
 longitude: 6.0880861
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 5-6

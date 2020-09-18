@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.623687100000005
 longitude: 7.4001361
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Dortmunder Straße"
 housenumber: 41

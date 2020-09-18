@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.958421200000004
 longitude: 7.6295843
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Windthorststraße"
 housenumber: 37

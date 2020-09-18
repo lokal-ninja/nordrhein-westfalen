@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.054285300000004
 longitude: 8.550061600000001
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Huchzermeierstraße"
 housenumber: 23

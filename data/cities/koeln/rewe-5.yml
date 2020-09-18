@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.962689600000004
 longitude: 7.0034745
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Buchheimer Straße"
 housenumber: 53-59

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.794122
 longitude: 7.2089696000000005
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Mühlenstraße"
 housenumber: 46

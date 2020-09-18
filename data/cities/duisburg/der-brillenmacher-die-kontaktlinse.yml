@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3840365
 longitude: 6.764757400000001
-postcode: 47249
+postcode: "47249"
 city: Duisburg
 street: "Münchener Straße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1402304
 longitude: 6.279927000000001
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Beecker Straße"
 housenumber: 30

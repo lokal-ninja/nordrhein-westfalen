@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.945004600000004
 longitude: 8.415463200000001
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Isselhorster Straße"
 housenumber: 416

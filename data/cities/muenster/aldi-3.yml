@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.924101500000006
 longitude: 7.5772978
-postcode: 48163
+postcode: "48163"
 city: Münster
 street: "Weseler Straße"
 housenumber: 651

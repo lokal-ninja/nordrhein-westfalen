@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7354099
 longitude: 7.0953366
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Thomas-Mann-Straße"
 housenumber: 31

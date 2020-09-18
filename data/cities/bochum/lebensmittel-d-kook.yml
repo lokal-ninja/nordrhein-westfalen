@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.425083400000005
 longitude: 7.1632116
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Lindener Straße"
 housenumber: 151

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1634826
 longitude: 6.8631678
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Benrodestraße"
 housenumber: 65

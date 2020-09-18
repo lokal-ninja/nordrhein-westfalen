@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.9454944
 longitude: 7.1671959
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Markt"
 housenumber: 5

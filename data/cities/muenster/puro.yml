@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.9650103
 longitude: 7.6306225
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Martinistraße"
 housenumber: 5-6

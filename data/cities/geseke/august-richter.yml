@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.628556800000005
 longitude: 8.5123961
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Am Lülingsbusch"
 housenumber: 2

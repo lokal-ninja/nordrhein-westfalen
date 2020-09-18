@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.8193332
 longitude: 6.267225900000001
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Grabenstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.92288610000001
 longitude: 6.363337100000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Große Rurstraße"
 housenumber: 14

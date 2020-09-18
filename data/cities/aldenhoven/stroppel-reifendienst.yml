@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.9051764
 longitude: 6.3154804
-postcode: 52457
+postcode: "52457"
 city: Aldenhoven
 street: "Industriestraße"
 housenumber: 48

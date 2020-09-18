@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 51.7004165
 longitude: 8.714112400000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Barkhauser Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.384214400000005
 longitude: 6.4515484
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Hauptstraße"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 1309304904
+id: 343705474
 type: node
 shop: Drogerie
-latitude: 51.396078
-longitude: 7.4702032
-postcode: 58099
+latitude: 51.359822400000006
+longitude: 7.5636739
+postcode: "58119"
 city: Hagen
-street: "Schwerter Straße"
-housenumber: 152
+street: "Esserstraße"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Tu 09:00-19:00; We 08:30-19:00; Th-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

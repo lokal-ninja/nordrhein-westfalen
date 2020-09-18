@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.9654461
 longitude: 7.629157
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Neubrückenstraße"
 housenumber: 16

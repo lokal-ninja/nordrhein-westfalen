@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.2473789
 longitude: 8.7174017
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Alter Bahndamm"
 housenumber: 6

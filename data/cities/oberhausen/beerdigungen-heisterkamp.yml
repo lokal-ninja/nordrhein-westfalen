@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.462662300000005
 longitude: 6.8343977
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Bebelstraße"
 housenumber: 173

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.883219800000006
 longitude: 7.9693005
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Freudenberger Straße"
 housenumber: 448-452

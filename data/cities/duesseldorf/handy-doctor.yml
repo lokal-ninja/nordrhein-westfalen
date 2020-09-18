@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.210974900000004
 longitude: 6.7691654
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Bilker Allee"
 housenumber: 70

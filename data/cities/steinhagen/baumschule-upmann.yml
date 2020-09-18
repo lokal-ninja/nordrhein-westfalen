@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.9778661
 longitude: 8.3785071
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Mönchsweg"
 housenumber: 3

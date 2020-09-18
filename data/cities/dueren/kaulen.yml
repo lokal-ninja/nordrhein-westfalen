@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8471169
 longitude: 6.428118400000001
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Katharinenstraße"
 housenumber: 17

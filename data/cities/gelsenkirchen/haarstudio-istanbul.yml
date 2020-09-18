@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.55905610000001
 longitude: 7.091755300000001
-postcode: 45891
+postcode: "45891"
 city: Gelsenkirchen
 street: "Cranger Straße"
 housenumber: 292

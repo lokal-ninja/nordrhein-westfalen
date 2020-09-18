@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.854093500000005
 longitude: 7.4875486
-postcode: 48308
+postcode: "48308"
 city: Senden
 street: "Münsterstraße"
 housenumber: 11

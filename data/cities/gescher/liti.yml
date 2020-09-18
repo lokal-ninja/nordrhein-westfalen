@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.955805100000006
 longitude: 7.006923100000001
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Katharinenstraße"
 housenumber: 6

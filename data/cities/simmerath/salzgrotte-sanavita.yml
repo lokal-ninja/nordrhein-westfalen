@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6051413
 longitude: 6.3038622
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Kammerbruchstraße"
 housenumber: 21-23

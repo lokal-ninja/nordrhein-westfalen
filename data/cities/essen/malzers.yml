@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4798769
 longitude: 6.974249800000001
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Germaniastraße"
 housenumber: 22

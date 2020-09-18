@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.7199618
 longitude: 7.0328432
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: ""
 housenumber: 

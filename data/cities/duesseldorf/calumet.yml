@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.204253
 longitude: 6.774742000000001
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Suitbertusstraße"
 housenumber: 137

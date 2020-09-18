@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.012109800000005
 longitude: 8.7018048
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Krentruper Straße"
 housenumber: 22a

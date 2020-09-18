@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.270209
 longitude: 6.6273872
-postcode: 40670
+postcode: "40670"
 city: Meerbusch
 street: "Gottlieb-Daimler-Straße"
 housenumber: 2

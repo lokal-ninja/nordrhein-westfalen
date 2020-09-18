@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.603672200000005
 longitude: 7.185122600000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Westring"
 housenumber: 1

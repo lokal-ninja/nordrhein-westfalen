@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.686675400000006
 longitude: 8.700018400000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "An der Alme"
 housenumber: 1

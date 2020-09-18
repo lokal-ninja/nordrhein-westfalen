@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.7791111
 longitude: 6.1307366000000005
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hoffmannallee"
 housenumber: 33

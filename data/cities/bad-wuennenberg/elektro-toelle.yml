@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.5228302
 longitude: 8.6963597
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Leiberger Straße"
 housenumber: 12

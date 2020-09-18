@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.6620318
 longitude: 6.812093000000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Lochnerstraße"
 housenumber: 5

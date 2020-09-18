@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.455125100000004
 longitude: 7.0126911000000005
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kettwiger Straße"
 housenumber: 33-35

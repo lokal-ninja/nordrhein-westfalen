@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.526848400000006
 longitude: 7.461134100000001
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Münsterstraße"
 housenumber: 137

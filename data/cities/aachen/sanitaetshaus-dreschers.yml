@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.775343400000004
 longitude: 6.094159
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Heinrichsallee"
 housenumber: 1

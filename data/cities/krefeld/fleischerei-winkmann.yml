@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3393208
 longitude: 6.574790200000001
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Bismarckplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.800566100000005
 longitude: 7.200711200000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Zum Hohen Ufer"
 housenumber: 4

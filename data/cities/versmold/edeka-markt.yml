@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0382794
 longitude: 8.1397241
-postcode: 33775
+postcode: "33775"
 city: Versmold
 street: "Münsterstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.736257900000005
 longitude: 8.1816034
-postcode: 59329
+postcode: "59329"
 city: Wadersloh
 street: "Waldstraße"
 housenumber: 26

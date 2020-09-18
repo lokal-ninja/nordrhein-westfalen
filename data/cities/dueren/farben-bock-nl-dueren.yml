@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.8324061
 longitude: 6.469231300000001
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Willi-Bleicher-Straße"
 housenumber: 7

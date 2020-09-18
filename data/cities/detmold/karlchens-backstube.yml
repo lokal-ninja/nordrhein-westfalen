@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9240195
 longitude: 8.839556400000001
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Mohnweg"
 housenumber: 1 - 3

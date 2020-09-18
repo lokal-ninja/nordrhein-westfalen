@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.937862300000006
 longitude: 6.9000908
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Maarweg"
 housenumber: 12-16

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.2874781
 longitude: 7.2939335000000005
-postcode: 58332
+postcode: "58332"
 city: Schwelm
 street: "Mittelstraße"
 housenumber: 5

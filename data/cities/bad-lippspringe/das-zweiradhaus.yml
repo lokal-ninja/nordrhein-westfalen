@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.783665500000005
 longitude: 8.8187345
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Arminiusstraße"
 housenumber: 10

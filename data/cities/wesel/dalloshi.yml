@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.6588185
 longitude: 6.6183421000000004
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Pergamentstraße"
 housenumber: 15

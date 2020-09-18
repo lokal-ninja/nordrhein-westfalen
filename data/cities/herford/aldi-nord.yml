@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.098538500000004
 longitude: 8.6736245
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Lockhauser Straße"
 housenumber: 113

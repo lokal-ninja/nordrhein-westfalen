@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.4434704
 longitude: 7.320596800000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Wannen"
 housenumber: 50

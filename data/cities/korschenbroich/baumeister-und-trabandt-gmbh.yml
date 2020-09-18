@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1707576
 longitude: 6.588476200000001
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Wankelstraße"
 housenumber: 12

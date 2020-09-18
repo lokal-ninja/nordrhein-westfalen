@@ -1,12 +1,12 @@
-id: 88028055
+id: 87761322
 type: way
 shop: Supermarkt
-latitude: 50.859382000000004
-longitude: 7.099761600000001
-postcode: 51147
+latitude: 50.9177605
+longitude: 6.9352027000000005
+postcode: "50939"
 city: Köln
-street: "Heidestraße"
-housenumber: 163-165
+street: "Rhöndorfer Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: ""
 website: ""

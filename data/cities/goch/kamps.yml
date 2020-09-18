@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6746958
 longitude: 6.1584251000000005
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Hinterm Engel"
 housenumber: 1

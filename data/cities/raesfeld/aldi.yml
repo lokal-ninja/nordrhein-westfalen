@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7677938
 longitude: 6.837188
-postcode: 46348
+postcode: "46348"
 city: Raesfeld
 street: "Leinenweberstraße"
 housenumber: 19

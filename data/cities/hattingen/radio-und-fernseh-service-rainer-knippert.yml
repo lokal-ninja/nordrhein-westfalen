@@ -3,10 +3,10 @@ type: node
 shop: Radiotechnik
 latitude: 51.4113181
 longitude: 7.2032973
-postcode: 45527
+postcode: "45527"
 city: Hattingen
 street: "Thingstraße"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
 website: ""

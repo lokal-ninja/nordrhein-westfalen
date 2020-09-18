@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.650406000000004
 longitude: 6.826405500000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 95

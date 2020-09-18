@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9100556
 longitude: 6.9619263
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Brühler Straße"
 housenumber: 14

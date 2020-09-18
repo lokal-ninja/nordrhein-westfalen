@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.6096117
 longitude: 6.3075827
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Matthias-Zimmermann-Straße"
 housenumber: 5

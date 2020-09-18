@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.1088043
 longitude: 9.095041400000001
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Hauptstraße"
 housenumber: 1a

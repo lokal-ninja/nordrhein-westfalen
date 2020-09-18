@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.6528354
 longitude: 6.4332291
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Sonsbecker Straße"
 housenumber: 40

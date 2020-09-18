@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.102611100000004
 longitude: 8.2993273
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Am Uphof"
 housenumber: 9

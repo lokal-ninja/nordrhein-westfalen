@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.957658
 longitude: 7.1155223
-postcode: 51427
+postcode: "51427"
 city: Bergisch Gladbach
 street: "Siebenmorgen"
 housenumber: 

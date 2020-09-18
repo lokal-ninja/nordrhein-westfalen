@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.0236108
 longitude: 7.7801181
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Grevener Straße"
 housenumber: 30

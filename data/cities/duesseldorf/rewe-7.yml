@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2122298
 longitude: 6.784798500000001
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Kirchfeldstraße"
 housenumber: 139

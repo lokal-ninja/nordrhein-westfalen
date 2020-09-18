@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6249284
 longitude: 6.8473617
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Geierstraße"
 housenumber: 7

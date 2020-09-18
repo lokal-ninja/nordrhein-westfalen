@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9315158
 longitude: 6.9402417000000005
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Hohenstaufenring"
 housenumber: 29-37

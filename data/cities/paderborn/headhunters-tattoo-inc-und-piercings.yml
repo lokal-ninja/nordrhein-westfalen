@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.7717845
 longitude: 8.7147989
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7743623
 longitude: 6.092082100000001
-postcode: 
+postcode: ""
 city: Aachen
 street: "Adalbertsberg"
 housenumber: 27

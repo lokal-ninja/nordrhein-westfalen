@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.031353200000005
 longitude: 8.5717621
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Bleichstraße"
 housenumber: 221

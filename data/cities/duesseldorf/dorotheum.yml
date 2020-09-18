@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.2200402
 longitude: 6.772121800000001
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Südstraße"
 housenumber: 5

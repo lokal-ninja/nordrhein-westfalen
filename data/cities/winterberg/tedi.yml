@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.1930144
 longitude: 8.5331328
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Poststraße"
 housenumber: 7

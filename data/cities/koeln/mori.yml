@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 50.9483024
 longitude: 6.9217639
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Körnerstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "We-Fr 11:00-19:00; Sa 11:00-16:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6518419
 longitude: 7.3368796000000005
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Friedrich-Ebert-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.9079654
 longitude: 8.3511477
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Pavenstädter Weg"
 housenumber: 50

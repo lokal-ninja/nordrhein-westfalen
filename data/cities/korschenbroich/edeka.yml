@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1890061
 longitude: 6.5093608000000005
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Matthias-Hoeren-Platz"
 housenumber: 1-7

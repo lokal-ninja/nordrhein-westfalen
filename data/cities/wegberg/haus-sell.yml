@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 51.1415767
 longitude: 6.2104832000000005
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Helpensteinstraße"
 housenumber: 1
 phone: "+49 2436 1029"
 opening_hours: "Mo-Fr 8:00-18:30; Su, PH off"
-website: "http://www.haus-sell.de/"
+website: ""

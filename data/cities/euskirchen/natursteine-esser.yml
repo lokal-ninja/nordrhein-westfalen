@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.653255300000005
 longitude: 6.8094459
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Carl-Benz-Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9846124
 longitude: 7.962671100000001
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Hagener Straße"
 housenumber: 204

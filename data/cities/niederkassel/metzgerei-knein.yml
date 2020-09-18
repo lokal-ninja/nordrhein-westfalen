@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 50.7917611
 longitude: 7.0434023
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Marktstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Th 08:00-13:00, 14:30-18:30; Fr 08:00-18:30; Sa 08:00-13:00"
 website: "http://www.metzgerei-knein.de/"

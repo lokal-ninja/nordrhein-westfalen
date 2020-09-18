@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1979642
 longitude: 8.639890000000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Im Obrock"
 housenumber: 17a

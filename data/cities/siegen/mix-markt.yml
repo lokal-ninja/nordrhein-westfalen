@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8644594
 longitude: 8.0335215
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Friedrich-Wilhelm-Straße"
 housenumber: 134

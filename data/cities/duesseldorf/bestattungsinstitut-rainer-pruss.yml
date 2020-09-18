@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.1780416
 longitude: 6.8734603000000005
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Hasselsstraße"
 housenumber: 111

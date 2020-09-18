@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.9499189
 longitude: 7.997923200000001
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Beelener Straße"
 housenumber: 7

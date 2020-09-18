@@ -1,12 +1,12 @@
-id: 305108679
+id: 335682360
 type: node
 shop: Bäckerei
-latitude: 51.960216
-longitude: 7.6332092000000005
-postcode: 48143
+latitude: 51.9934494
+longitude: 7.6487268
+postcode: "48157"
 city: Münster
-street: "Salzstraße"
-housenumber: 35
-phone: "+49 251 4829935"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-18:00"
-website: "https://www.baeckerei-middelberg.de/filialen/muenster-salzstrasse/"
+street: "Hamannplatz"
+housenumber: 36-37
+phone: ""
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 08:00-14:00"
+website: ""

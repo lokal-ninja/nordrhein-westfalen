@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.909763600000005
 longitude: 6.8109199
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 72

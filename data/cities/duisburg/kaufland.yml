@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.440178200000005
 longitude: 6.756603800000001
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Auf der Höhe"
 housenumber: 20

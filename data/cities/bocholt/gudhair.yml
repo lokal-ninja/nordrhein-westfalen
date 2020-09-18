@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8364678
 longitude: 6.6137541
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Casinowall"
 housenumber: 9

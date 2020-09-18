@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9425219
 longitude: 6.8355088
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Bahnstraße"
 housenumber: 7

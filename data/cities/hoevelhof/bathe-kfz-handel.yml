@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.813070100000004
 longitude: 8.6776516
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Bentlakestraße"
 housenumber: 33

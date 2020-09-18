@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1983861
 longitude: 6.692138900000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Büchel"
 housenumber: 3

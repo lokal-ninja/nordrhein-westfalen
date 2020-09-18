@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.734242
 longitude: 8.7827622
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Im Dörener Feld"
 housenumber: 4

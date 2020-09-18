@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.179141200000004
 longitude: 6.7149479
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Artur-Platz-Weg"
 housenumber: 13

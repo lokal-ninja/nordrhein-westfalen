@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.382089300000004
 longitude: 7.5210701
-postcode: 58099
+postcode: "58099"
 city: Hagen
 street: "Gründelbusch"
 housenumber: 5

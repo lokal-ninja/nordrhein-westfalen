@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.661915900000004
 longitude: 6.964152800000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Hühnerstraße"
 housenumber: 2

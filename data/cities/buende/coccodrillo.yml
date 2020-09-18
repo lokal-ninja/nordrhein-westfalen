@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 52.19809660000001
 longitude: 8.5843173
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Eschstraße"
 housenumber: 25

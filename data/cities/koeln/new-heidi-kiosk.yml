@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.8589295
 longitude: 7.1037957
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Heidestraße"
 housenumber: 206

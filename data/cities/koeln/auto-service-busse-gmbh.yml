@@ -1,12 +1,12 @@
-id: 106781070
+id: 106781114
 type: way
 shop: Autowerkstatt
-latitude: 50.841091600000006
-longitude: 7.104443600000001
-postcode: 51147
+latitude: 50.8411661
+longitude: 7.104968400000001
+postcode: "51147"
 city: Köln
 street: "Niederkasseler Straße"
 housenumber: 18
-phone: ""
+phone: "+49 2203 637 59"
 opening_hours: ""
 website: ""

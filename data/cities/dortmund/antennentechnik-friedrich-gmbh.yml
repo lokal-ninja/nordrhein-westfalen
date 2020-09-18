@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.508128400000004
 longitude: 7.3278838
-postcode: 44388
+postcode: "44388"
 city: Dortmund
 street: "Gertrudstraße"
 housenumber: 19

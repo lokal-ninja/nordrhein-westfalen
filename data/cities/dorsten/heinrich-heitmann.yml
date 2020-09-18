@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7571056
 longitude: 6.999916300000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Wulfener Straße"
 housenumber: 23

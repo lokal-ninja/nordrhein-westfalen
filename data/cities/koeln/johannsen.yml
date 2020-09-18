@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9328426
 longitude: 6.999166600000001
-postcode: 51105
+postcode: "51105"
 city: Köln
 street: "Usingerstraße"
 housenumber: 37

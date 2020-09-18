@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.733699200000004
 longitude: 9.0244339
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 128

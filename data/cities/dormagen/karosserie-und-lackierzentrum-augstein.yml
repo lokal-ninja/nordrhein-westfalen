@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0592927
 longitude: 6.8234992000000005
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Bergiusstraße"
 housenumber: 2

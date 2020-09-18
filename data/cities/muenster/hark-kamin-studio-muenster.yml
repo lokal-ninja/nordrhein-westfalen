@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.952766800000006
 longitude: 7.618906300000001
-postcode: 48151
+postcode: "48151"
 city: Münster
 street: "Weseler Straße"
 housenumber: 48

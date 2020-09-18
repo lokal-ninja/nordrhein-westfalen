@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.031421
 longitude: 8.527205200000001
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 57

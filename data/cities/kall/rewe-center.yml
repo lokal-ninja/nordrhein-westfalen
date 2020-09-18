@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.53698
 longitude: 6.5551832
-postcode: 53925
+postcode: "53925"
 city: Kall
 street: "Bahnhofstraße"
 housenumber: 31

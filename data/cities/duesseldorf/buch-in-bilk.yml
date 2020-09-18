@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.204113400000004
 longitude: 6.7729075000000005
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Aachener Straße"
 housenumber: 62

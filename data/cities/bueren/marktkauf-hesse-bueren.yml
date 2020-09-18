@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.548731800000006
 longitude: 8.5628007
-postcode: 33142
+postcode: "33142"
 city: Büren
 street: "Werkstraße"
 housenumber: 26

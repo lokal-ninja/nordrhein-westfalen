@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9108942
 longitude: 6.805956500000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Dr.-Tusch-Straße"
 housenumber: 26-32

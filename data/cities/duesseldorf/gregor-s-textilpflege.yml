@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.213437500000005
 longitude: 6.7887830000000005
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Kirchfeldstraße"
 housenumber: 144

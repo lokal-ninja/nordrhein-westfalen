@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.970628100000006
 longitude: 6.9472084
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Merheimer Straße"
 housenumber: 318

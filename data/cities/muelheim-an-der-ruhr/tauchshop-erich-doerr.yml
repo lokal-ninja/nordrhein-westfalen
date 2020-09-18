@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 51.463423500000005
 longitude: 6.888558400000001
-postcode: 45475
+postcode: "45475"
 city: Mülheim an der Ruhr
 street: "Mariannenweg"
 housenumber: 3

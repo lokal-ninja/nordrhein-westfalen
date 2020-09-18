@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.892695700000004
 longitude: 6.9953099000000005
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 104

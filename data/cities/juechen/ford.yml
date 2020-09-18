@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0997203
 longitude: 6.517405800000001
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Robert-Bosch-Straße"
 housenumber: 3

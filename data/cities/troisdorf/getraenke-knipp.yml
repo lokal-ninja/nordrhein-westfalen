@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8113529
 longitude: 7.138579900000001
-postcode: 53842
+postcode: "53842"
 city: Troisdorf
 street: "Moltkestraße"
 housenumber: 9

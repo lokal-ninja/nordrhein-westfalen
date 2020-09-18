@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.1292473
 longitude: 8.6436724
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Im Babenbecker Feld"
 housenumber: 56

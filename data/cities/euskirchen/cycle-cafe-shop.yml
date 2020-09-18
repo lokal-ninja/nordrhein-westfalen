@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6482296
 longitude: 6.806958300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Felix-Wankel-Straße"
 housenumber: 13-15

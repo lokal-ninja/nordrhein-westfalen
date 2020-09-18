@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.191967500000004
 longitude: 6.6917951
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 5

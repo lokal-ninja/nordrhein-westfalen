@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 50.8281842
 longitude: 6.904875700000001
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Markt"
 housenumber: 4

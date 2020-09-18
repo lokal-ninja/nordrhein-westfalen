@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4500778
 longitude: 7.0960485
-postcode: 45276
+postcode: "45276"
 city: Essen
 street: "Bochumer Landstraße"
 housenumber: 237

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6793105
 longitude: 6.493858400000001
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Mühlenfeldstraße"
 housenumber: 20

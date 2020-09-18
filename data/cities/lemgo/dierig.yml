@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.010297900000005
 longitude: 8.9573189
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Voßheider Straße"
 housenumber: 111

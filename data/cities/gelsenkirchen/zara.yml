@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5775808
 longitude: 7.0524775
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hagenstraße"
 housenumber: 1; 3

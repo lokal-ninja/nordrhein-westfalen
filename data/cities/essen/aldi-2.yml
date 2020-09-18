@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4601355
 longitude: 6.9851669
-postcode: 45143
+postcode: "45143"
 city: Essen
 street: "Altendorfer Straße"
 housenumber: 226

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 50.612040500000006
 longitude: 6.7917097
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Weingartenstraße"
 housenumber: 8

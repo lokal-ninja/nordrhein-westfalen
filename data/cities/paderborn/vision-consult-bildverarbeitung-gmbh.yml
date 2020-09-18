@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.7504726
 longitude: 8.7623525
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "An der Talle"
 housenumber: 76

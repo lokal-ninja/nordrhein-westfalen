@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 51.4953872
 longitude: 7.3750299
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Wulfshofstraße"
 housenumber: 3

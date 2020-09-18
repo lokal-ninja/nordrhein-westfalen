@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9508607
 longitude: 8.4993231
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Lippstädter Straße"
 housenumber: 1

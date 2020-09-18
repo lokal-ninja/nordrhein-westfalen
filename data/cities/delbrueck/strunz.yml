@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.763722900000005
 longitude: 8.566073300000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Oststraße"
 housenumber: 20

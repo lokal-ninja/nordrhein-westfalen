@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2584304
 longitude: 7.1647211
-postcode: 42285
+postcode: "42285"
 city: Wuppertal
 street: "Haspeler Straße"
 housenumber: 10

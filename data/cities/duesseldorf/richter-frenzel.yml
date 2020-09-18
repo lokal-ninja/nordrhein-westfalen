@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.2161467
 longitude: 6.832446200000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Königsberger Straße"
 housenumber: 100

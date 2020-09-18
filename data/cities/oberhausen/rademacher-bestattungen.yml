@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.463267300000005
 longitude: 6.8516966
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Lothringer Straße"
 housenumber: 127

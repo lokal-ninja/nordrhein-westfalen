@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.2368175
 longitude: 6.7894698
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Stockkampstraße"
 housenumber: 55

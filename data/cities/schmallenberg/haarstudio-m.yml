@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1922951
 longitude: 8.311301700000001
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Hochstraße"
 housenumber: 5

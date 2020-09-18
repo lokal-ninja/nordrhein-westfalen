@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.46445730000001
 longitude: 7.2057983000000005
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 193

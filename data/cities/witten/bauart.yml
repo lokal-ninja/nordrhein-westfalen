@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.455417000000004
 longitude: 7.319584900000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Bochumer Straße"
 housenumber: 40

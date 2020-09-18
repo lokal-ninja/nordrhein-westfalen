@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 52.133435000000006
 longitude: 8.6905952
-postcode: 32049
+postcode: "32049"
 city: Herford
 street: "Mindener Straße"
 housenumber: 163

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9303006
 longitude: 8.4256882
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "In der Aue"
 housenumber: 7

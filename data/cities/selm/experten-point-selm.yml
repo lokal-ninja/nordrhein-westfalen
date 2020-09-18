@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6905493
 longitude: 7.4665102
-postcode: 59379
+postcode: "59379"
 city: Selm
 street: "Willy-Brandt-Platz"
 housenumber: 3

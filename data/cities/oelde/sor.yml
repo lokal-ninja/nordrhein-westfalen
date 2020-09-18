@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.8253277
 longitude: 8.143456
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Lange Straße"
 housenumber: 2

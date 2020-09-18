@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1944973
 longitude: 6.607968700000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Berliner Platz"
 housenumber: 1

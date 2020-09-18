@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.0271017
 longitude: 8.524401600000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Siechenmarschstraße"
 housenumber: 21

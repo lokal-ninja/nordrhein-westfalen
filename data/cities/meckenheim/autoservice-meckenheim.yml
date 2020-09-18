@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 50.6333404
 longitude: 7.0209147000000005
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Am Wiesenpfad"
 housenumber: 43
 phone: "+49 2225 9807145 / +49 157 37340984"
 opening_hours: "mo-fr 08:00-12:00, 13:00-18:00"
-website: "www.autoservice-meckenheim.de"
+website: "http://www.autoservice-meckenheim.de"

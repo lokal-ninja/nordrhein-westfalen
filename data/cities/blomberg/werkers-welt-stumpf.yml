@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9386183
 longitude: 9.095518400000001
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Bahnhof"
 housenumber: 1

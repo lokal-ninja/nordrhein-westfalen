@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7674791
 longitude: 6.1469914
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Neuenhofstraße"
 housenumber: 129

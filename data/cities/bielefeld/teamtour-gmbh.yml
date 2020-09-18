@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.997087300000004
 longitude: 8.4784845
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Carl-Severing-Straße"
 housenumber: 112

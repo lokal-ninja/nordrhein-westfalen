@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.2898824
 longitude: 8.916830000000001
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Bäckerstraße"
 housenumber: 2

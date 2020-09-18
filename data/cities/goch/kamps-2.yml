@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6747202
 longitude: 6.1583155000000005
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Voßstraße"
 housenumber: 48

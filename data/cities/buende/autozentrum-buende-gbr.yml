@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.188317600000005
 longitude: 8.601213900000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Mindener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.058126200000004
 longitude: 8.3575697
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Goebenstraße"
 housenumber: 7

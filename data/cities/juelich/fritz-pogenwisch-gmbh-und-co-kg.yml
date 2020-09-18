@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.911767700000006
 longitude: 6.3761692000000005
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Königskamp"
 housenumber: 1

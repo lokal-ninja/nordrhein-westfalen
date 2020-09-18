@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.028895500000004
 longitude: 7.8393917
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Hugo-Ruegenberg-Straße"
 housenumber: 1

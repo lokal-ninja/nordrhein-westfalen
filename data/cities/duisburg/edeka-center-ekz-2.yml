@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4190358
 longitude: 6.710034100000001
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Asterlager Straße"
 housenumber: 90

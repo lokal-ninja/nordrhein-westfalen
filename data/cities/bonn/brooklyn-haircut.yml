@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.739049300000005
 longitude: 7.1173834000000005
-postcode: 53225
+postcode: "53225"
 city: Bonn
 street: "Konrad-Adenauer-Platz"
 housenumber: 16

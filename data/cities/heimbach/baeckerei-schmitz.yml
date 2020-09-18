@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6330675
 longitude: 6.481099
-postcode: 52396
+postcode: "52396"
 city: Heimbach
 street: "Am Giebel"
 housenumber: 1

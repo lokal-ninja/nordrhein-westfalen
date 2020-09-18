@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7079844
 longitude: 9.1764519
-postcode: 33034
+postcode: "33034"
 city: Brakel
 street: "Industriestraße"
 housenumber: 17

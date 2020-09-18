@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6326582
 longitude: 7.2678602
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "An der Aue"
 housenumber: 2

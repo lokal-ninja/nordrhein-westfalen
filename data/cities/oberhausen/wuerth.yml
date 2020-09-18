@@ -3,7 +3,7 @@ type: way
 shop: Werkzeuge
 latitude: 51.4813683
 longitude: 6.8507651
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Metzgerstraße"
 housenumber: 67

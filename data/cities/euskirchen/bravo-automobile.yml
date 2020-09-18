@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6519124
 longitude: 6.7897344
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Münstereifeler Straße"
 housenumber: 105

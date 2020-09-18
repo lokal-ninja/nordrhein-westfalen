@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4866862
 longitude: 6.9981137
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Gladbecker Straße"
 housenumber: 399

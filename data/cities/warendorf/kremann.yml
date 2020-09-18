@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9380144
 longitude: 7.9521347
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: ""
 housenumber: 

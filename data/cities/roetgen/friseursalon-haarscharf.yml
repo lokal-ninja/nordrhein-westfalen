@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6429132
 longitude: 6.1885453
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 56

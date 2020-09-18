@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.9482962
 longitude: 6.9513227
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Ritterstraße"
 housenumber: 52

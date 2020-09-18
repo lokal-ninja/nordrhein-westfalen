@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.90356980000001
 longitude: 7.640552700000001
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Marktallee"
 housenumber: 

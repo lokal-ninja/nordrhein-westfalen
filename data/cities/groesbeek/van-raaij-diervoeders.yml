@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.8070887
 longitude: 5.9622324
-postcode: 6561KS
+postcode: "6561KS"
 city: Groesbeek
 street: "Oude Kleefsebaan"
 housenumber: 164

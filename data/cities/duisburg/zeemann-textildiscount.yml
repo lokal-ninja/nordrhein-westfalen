@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4092714
 longitude: 6.717560300000001
-postcode: 47226
+postcode: "47226"
 city: Duisburg
 street: "Hans-Böckler-Straße"
 housenumber: 24

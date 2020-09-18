@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.6910998
 longitude: 7.9487133000000005
-postcode: 59071
+postcode: "59071"
 city: Hamm
 street: "Zollstraße"
 housenumber: 6

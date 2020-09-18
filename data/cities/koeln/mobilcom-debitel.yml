@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.93007050000001
 longitude: 6.9151126000000005
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 168-172

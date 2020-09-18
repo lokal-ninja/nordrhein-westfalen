@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6551436
 longitude: 6.4425604000000005
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Sonsbecker Straße"
 housenumber: 19a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.503910000000005
 longitude: 7.671806500000001
-postcode: 59427
+postcode: "59427"
 city: Unna
 street: "Holzwickeder Straße"
 housenumber: 2

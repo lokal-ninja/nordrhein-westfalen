@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.021423600000006
 longitude: 8.5518839
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Huberstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.831659900000005
 longitude: 7.040878500000001
-postcode: 48734
+postcode: "48734"
 city: Reken
 street: "Surkstamm"
 housenumber: 1

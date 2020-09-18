@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.961657200000005
 longitude: 7.6313428000000005
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Salzstraße"
 housenumber: 16/17

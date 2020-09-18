@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.1723258
 longitude: 7.0843866
-postcode: 42651
+postcode: "42651"
 city: Solingen
 street: "Fronhof"
 housenumber: 10

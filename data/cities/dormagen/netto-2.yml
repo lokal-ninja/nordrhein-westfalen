@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0988155
 longitude: 6.816350300000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Willy-Brandt-Platz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.6528812
 longitude: 6.7920449000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Eifelring"
 housenumber: 38-42

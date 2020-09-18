@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.843769400000006
 longitude: 6.8578041
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Neutor"
 housenumber: 6

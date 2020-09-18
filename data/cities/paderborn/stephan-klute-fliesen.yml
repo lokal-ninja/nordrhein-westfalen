@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.690473600000004
 longitude: 8.696016700000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Auf dem Meere"
 housenumber: 3-9

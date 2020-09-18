@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.930328800000005
 longitude: 6.359521600000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Nordstraße"
 housenumber: 1

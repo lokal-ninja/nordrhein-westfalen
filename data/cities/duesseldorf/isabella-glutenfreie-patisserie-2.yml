@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 51.221982100000005
 longitude: 6.780785000000001
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 60

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.9950319
 longitude: 6.919836500000001
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "Schlackstraße"
 housenumber: 8

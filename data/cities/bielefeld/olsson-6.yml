@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9652879
 longitude: 8.5600746
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Osningstraße"
 housenumber: 476

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.5122524
 longitude: 6.775260800000001
-postcode: 47169
+postcode: "47169"
 city: Duisburg
 street: "Ziegelhorststraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.078881700000004
 longitude: 6.917344000000001
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Im Garbrock"
 housenumber: 1

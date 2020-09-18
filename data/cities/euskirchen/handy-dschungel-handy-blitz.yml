@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.610309900000004
 longitude: 6.8333539000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kopernikusstraße"
 housenumber: 8

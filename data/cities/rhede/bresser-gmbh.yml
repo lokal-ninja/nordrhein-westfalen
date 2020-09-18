@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.8329892
 longitude: 6.7058264
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Gutenbergstraße"
 housenumber: 2

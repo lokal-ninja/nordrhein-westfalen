@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.998082000000004
 longitude: 6.902092000000001
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Grethenstraße"
 housenumber: 37a

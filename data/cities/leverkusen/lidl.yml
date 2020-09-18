@@ -1,12 +1,12 @@
-id: 1044058926
-type: node
+id: 32891354
+type: way
 shop: Supermarkt
-latitude: 51.0435256
-longitude: 6.9918214
-postcode: 51373
+latitude: 51.068682700000004
+longitude: 6.998226900000001
+postcode: "51379"
 city: Leverkusen
-street: "Hardenbergstraße"
-housenumber: 80
+street: "Bonner Straße"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: ""
 website: ""

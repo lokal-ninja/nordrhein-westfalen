@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.771328000000004
 longitude: 6.1177808
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Querallee"
 housenumber: 13

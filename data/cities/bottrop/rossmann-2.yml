@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5476777
 longitude: 6.937540800000001
-postcode: 46240
+postcode: "46240"
 city: Bottrop
 street: "Gladbecker Straße"
 housenumber: 298

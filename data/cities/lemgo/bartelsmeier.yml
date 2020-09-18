@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.0284168
 longitude: 8.899201
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 81

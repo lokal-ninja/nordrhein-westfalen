@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.758385100000005
 longitude: 7.878955800000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Winkelstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.947445200000004
 longitude: 6.945316200000001
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Im MediaPark"
 housenumber: 1

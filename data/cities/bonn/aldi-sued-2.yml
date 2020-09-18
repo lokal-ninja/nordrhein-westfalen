@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7505199
 longitude: 7.130856400000001
-postcode: 53225
+postcode: "53225"
 city: Bonn
 street: "Gartenstraße"
 housenumber: 102

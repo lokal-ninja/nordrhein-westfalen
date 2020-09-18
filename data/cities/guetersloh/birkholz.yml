@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.896275100000004
 longitude: 8.3696626
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Dammstraße"
 housenumber: 60a

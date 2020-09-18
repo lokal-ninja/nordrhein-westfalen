@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.837334500000004
 longitude: 8.3236574
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Hellingrottstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.220984300000005
 longitude: 8.662401800000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Häverstraße"
 housenumber: 69

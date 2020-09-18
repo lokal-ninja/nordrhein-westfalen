@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.835638
 longitude: 6.2488256
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Löwenberger Straße"
 housenumber: 2

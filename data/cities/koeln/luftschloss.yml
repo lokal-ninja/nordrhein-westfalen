@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9298529
 longitude: 6.920297000000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Bachemer Straße"
 housenumber: 57

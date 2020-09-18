@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.019674900000005
 longitude: 8.543654700000001
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Teutoburger Straße"
 housenumber: 96

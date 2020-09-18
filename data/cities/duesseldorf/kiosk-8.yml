@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1381566
 longitude: 6.897454000000001
-postcode: 40595
+postcode: "40595"
 city: Düsseldorf
 street: "Emil-Barth-Straße"
 housenumber: 118a

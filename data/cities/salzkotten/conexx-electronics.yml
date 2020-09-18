@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.6737266
 longitude: 8.579563700000001
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Haltiger Feld"
 housenumber: 1

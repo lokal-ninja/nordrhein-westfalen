@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.909017000000006
 longitude: 6.8034243000000005
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 186

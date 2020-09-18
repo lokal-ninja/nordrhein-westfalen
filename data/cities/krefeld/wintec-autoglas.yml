@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.3826332
 longitude: 6.5046952000000005
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Klever Straße"
 housenumber: 165

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.773828900000005
 longitude: 6.0874727
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 8a

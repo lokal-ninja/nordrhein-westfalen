@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.088403400000004
 longitude: 6.5878486
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Karl-Oberbach-Straße"
 housenumber: 7

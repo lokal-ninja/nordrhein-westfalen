@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5677748
 longitude: 6.753236200000001
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Otto-Lilienthal-Straße"
 housenumber: 37

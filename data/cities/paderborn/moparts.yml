@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.741826
 longitude: 8.7192789
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Marienloher Straße"
 housenumber: 16

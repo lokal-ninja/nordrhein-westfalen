@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.441794200000004
 longitude: 6.998559200000001
-postcode: 45128
+postcode: "45128"
 city: Essen
 street: "Kahrstraße"
 housenumber: 84

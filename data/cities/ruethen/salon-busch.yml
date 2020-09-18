@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.492077300000005
 longitude: 8.4345275
-postcode: 59602
+postcode: "59602"
 city: Rüthen
 street: "Mittlere Straße"
 housenumber: 35

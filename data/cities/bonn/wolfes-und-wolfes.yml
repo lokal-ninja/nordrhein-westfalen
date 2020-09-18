@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.730795300000004
 longitude: 7.107736600000001
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Adenauerallee"
 housenumber: 12-14

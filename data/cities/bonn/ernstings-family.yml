@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6846466
 longitude: 7.1548822
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Koblenzer Straße"
 housenumber: 43

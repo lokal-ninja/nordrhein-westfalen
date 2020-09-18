@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.6732893
 longitude: 8.6088693
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Lange Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.1236608
 longitude: 6.591915200000001
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Landstraße"
 housenumber: 40

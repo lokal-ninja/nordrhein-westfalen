@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.514353500000006
 longitude: 7.4956183
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Kaiserstraße"
 housenumber: 200-202

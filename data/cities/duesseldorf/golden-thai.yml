@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.215797900000005
 longitude: 6.802481500000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kruppstraße"
 housenumber: 3

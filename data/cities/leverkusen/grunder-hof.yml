@@ -1,12 +1,12 @@
-id: 47028051
-type: way
+id: 2952093416
+type: node
 shop: Hofladen
-latitude: 51.0818628
-longitude: 7.0488517
-postcode: 51381
+latitude: 51.08200720000001
+longitude: 7.0487792
+postcode: "51381"
 city: Leverkusen
 street: "Grunder Wiesen"
 housenumber: 18
-phone: "+49 2171 31789"
-opening_hours: "Su-Mo off; Tu-Sa 10:00-13:00"
-website: "https://www.grunderhof.de/"
+phone: ""
+opening_hours: "Tu-Sa 10:00-13:00"
+website: ""

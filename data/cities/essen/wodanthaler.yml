@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.38891
 longitude: 7.026985900000001
-postcode: 45239
+postcode: "45239"
 city: Essen
 street: "Fischlaker Straße"
 housenumber: 32 - 34

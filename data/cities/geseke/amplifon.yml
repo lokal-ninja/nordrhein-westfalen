@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.6399598
 longitude: 8.504937400000001
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Lüdische Straße"
 housenumber: 35

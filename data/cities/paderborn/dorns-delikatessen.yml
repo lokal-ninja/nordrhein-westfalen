@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.732388300000004
 longitude: 8.7844887
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Senefelderstraße"
 housenumber: 1

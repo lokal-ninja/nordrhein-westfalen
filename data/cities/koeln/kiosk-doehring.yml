@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.9118264
 longitude: 6.9685052
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Goltsteinstraße"
 housenumber: 33

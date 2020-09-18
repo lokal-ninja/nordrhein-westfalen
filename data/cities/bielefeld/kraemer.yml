@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.992221300000004
 longitude: 8.5086467
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 113

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7608265
 longitude: 7.0317164000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Mary-Anderson-Straße"
 housenumber: 1

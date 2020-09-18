@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.268002700000004
 longitude: 7.180453000000001
-postcode: 42283
+postcode: "42283"
 city: Wuppertal
 street: "Loher Straße"
 housenumber: 40

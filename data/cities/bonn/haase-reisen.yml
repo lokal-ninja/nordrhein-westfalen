@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.734703200000006
 longitude: 7.1035259
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Stockenstraße"
 housenumber: 7

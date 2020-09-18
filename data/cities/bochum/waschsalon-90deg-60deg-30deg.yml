@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.480170300000005
 longitude: 7.1462417
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hochstraße"
 housenumber: 73

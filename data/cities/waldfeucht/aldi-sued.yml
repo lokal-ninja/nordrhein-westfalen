@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0593951
 longitude: 5.996580300000001
-postcode: 52525
+postcode: "52525"
 city: Waldfeucht
 street: "Raiffeisenstraße"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 24300193
-type: way
+id: 4624252189
+type: node
 shop: Supermarkt
-latitude: 50.9597192
-longitude: 7.016914900000001
-postcode: 51065
+latitude: 50.9710575
+longitude: 7.050428200000001
+postcode: "51067"
 city: Köln
-street: "Ackerstraße"
-housenumber: 92-94
+street: "Bergisch Gladbacher Straße"
+housenumber: 634
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.aldi-sued.de/"

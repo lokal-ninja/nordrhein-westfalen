@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9833427
 longitude: 7.6342131
-postcode: 48147
+postcode: "48147"
 city: Münster
 street: "Nevinghoff"
 housenumber: 16

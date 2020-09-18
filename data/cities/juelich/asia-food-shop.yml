@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.9204464
 longitude: 6.3584475000000005
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Bongardstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 51.963500200000006
 longitude: 7.619998300000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Frauenstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7852599
 longitude: 6.0527315
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Kastanienweg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3113566
 longitude: 8.9155367
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Marienstraße"
 housenumber: 156a

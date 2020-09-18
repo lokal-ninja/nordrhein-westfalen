@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5041985
 longitude: 6.5318687
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Moerser Straße"
 housenumber: 51

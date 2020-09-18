@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4749799
 longitude: 7.4356194
-postcode: 44225
+postcode: "44225"
 city: Dortmund
 street: "Deutsch-Luxemburger Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4433476
 longitude: 8.353757400000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Hauptstraße"
 housenumber: 85

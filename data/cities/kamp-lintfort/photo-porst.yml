@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.5011705
 longitude: 6.5496296
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Moerser Straße"
 housenumber: 279

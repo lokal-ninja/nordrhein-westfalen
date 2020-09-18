@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.396006
 longitude: 6.9024101
-postcode: 45470
+postcode: "45470"
 city: Mülheim an der Ruhr
 street: "Mendener Straße"
 housenumber: 191

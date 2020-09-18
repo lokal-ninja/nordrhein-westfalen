@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2253418
 longitude: 6.7933709
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Karl-Anton-Straße"
 housenumber: 19

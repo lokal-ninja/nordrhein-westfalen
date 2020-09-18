@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5675953
 longitude: 6.752615700000001
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Otto-Lilienthal-Straße"
 housenumber: 45

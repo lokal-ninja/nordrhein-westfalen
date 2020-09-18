@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4943387
 longitude: 6.6797057
-postcode: 47199
+postcode: "47199"
 city: Duisburg
 street: "Schulstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.6939415
 longitude: 7.1405177
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Südstraße"
 housenumber: 120

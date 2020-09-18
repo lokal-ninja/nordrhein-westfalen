@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0311626
 longitude: 8.5243526
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Siegfriedstraße"
 housenumber: 48

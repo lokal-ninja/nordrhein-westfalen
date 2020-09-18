@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 52.2861732
 longitude: 7.472347900000001
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Osnabrücker Straße"
 housenumber: 297

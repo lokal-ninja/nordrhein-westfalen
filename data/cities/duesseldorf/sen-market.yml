@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.212115100000005
 longitude: 6.7843384
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Morsestraße"
 housenumber: 4

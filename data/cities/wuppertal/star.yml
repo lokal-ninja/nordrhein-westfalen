@@ -1,12 +1,12 @@
-id: 143527233
-type: way
+id: 379910586
+type: node
 shop: Allgemein
-latitude: 51.244477100000005
-longitude: 7.1914449000000005
-postcode: 42287
+latitude: 51.278549000000005
+longitude: 7.163320400000001
+postcode: "42109"
 city: Wuppertal
-street: "Obere Lichtenplatzer Straße"
-housenumber: 365
-phone: "+49 202 552863"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-20:00"
-website: "https://www.star.de/service/tankstellenfinder/detail/star-obere-lichtenplatzerstra%C3%9Fe-365-wuppertal-386"
+street: "Uellendahler Straße"
+housenumber: 380
+phone: "+49 202 701048"
+opening_hours: "Mo-Fr 05:00-23:00; Sa-Su 06:00-23:00"
+website: ""

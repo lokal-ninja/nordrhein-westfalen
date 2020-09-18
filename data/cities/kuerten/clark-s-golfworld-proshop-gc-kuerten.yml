@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.0620631
 longitude: 7.2791817000000005
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Johannesberg"
 housenumber: 13

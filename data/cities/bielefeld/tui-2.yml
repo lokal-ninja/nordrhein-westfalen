@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0229343
 longitude: 8.532375400000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Oberntorwall"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8971748
 longitude: 8.0285081
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Weidenauer Straße"
 housenumber: 172

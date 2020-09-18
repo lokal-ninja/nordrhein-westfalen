@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.228756800000006
 longitude: 6.649415500000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Eggenhofstraße"
 housenumber: 9

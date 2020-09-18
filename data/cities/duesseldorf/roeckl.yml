@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2253022
 longitude: 6.7813764
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Schadowstraße"
 housenumber: 11

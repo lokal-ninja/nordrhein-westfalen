@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.931792200000004
 longitude: 7.627227100000001
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Hammer Straße"
 housenumber: 311-313

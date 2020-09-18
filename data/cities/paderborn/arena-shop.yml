@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.7308218
 longitude: 8.7101284
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Paderborner Straße"
 housenumber: 89

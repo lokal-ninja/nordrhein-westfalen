@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.671233900000004
 longitude: 8.366885400000001
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Roßfeld"
 housenumber: 89

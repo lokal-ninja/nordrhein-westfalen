@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.185307800000004
 longitude: 6.6849628
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Am Krausenbaum"
 housenumber: 42a

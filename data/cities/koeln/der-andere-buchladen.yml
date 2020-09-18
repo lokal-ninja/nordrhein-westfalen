@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.921586600000005
 longitude: 6.963863000000001
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "Ubierring"
 housenumber: 42

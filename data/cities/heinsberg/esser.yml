@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.062693
 longitude: 6.0933826
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Apfelstraße"
 housenumber: 53

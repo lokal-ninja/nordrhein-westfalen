@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.15362390000001
 longitude: 6.880467
-postcode: 40593
+postcode: "40593"
 city: Düsseldorf
 street: "Corellistraße"
 housenumber: 6-8

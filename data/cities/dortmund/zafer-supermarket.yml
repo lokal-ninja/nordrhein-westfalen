@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5492543
 longitude: 7.461158800000001
-postcode: 44339
+postcode: "44339"
 city: Dortmund
 street: "Bergstraße"
 housenumber: 5

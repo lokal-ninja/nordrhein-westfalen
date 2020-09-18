@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1437047
 longitude: 8.2870855
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Unterm Werth"
 housenumber: 24

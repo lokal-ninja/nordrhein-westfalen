@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.32226
 longitude: 6.6055845
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Hafelsstraße"
 housenumber: 241a

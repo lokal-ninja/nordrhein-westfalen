@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.9575029
 longitude: 8.658855500000001
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Hauptstraße"
 housenumber: 84

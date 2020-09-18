@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.772195700000005
 longitude: 6.0770999
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 85

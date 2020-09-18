@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.2424625
 longitude: 8.6298166
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Friedhofsweg"
 housenumber: 13

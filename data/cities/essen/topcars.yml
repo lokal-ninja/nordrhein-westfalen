@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.478879400000004
 longitude: 6.9899122
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Hövelstraße"
 housenumber: 183

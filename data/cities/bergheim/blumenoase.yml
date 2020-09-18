@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9675218
 longitude: 6.7492277000000005
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Hohe Straße"
 housenumber: 26

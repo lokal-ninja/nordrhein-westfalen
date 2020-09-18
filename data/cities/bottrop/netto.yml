@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.522622600000005
 longitude: 6.9249556000000005
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Osterfelder Straße"
 housenumber: 1

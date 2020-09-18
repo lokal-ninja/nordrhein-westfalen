@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.663658700000006
 longitude: 7.177693700000001
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Ellesdorfer Straße"
 housenumber: 37

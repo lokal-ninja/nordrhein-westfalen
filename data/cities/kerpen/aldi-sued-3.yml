@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.867752200000005
 longitude: 6.6743445
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Stiftsstraße"
 housenumber: 256

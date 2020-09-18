@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.336551500000006
 longitude: 7.868505900000001
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Hönnetalstraße"
 housenumber: 31a

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.216935500000005
 longitude: 7.627881
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.140308000000005
 longitude: 6.7458483000000005
-postcode: 41470
+postcode: "41470"
 city: Neuss
 street: "Horremer Straße"
 housenumber: 3

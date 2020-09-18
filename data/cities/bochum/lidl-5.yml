@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4760575
 longitude: 7.2145599
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Humboldtstraße"
 housenumber: 70

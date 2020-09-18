@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.0557649
 longitude: 7.3674971000000005
-postcode: 48366
+postcode: "48366"
 city: Laer
 street: "Kley"
 housenumber: 5

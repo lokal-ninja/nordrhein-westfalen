@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8925326
 longitude: 6.994638
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Maternusplatz"
 housenumber: 4

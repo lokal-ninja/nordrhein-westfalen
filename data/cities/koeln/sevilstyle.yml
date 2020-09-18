@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.958253400000004
 longitude: 6.943868
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Hartwichstraße"
 housenumber: 92

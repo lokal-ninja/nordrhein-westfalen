@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.0358564
 longitude: 7.0060826
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Quantwick"
 housenumber: 45

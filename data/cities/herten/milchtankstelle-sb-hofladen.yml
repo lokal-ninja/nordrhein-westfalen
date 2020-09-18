@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.6080644
 longitude: 7.157870600000001
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Marpenstraße"
 housenumber: 29

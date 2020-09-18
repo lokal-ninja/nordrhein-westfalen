@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.1330705
 longitude: 6.9235404
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Gronauer Straße"
 housenumber: 62a

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.23352190000001
 longitude: 6.771409800000001
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Joseph-Beuys-Ufer"
 housenumber: 27

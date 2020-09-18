@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.237746200000004
 longitude: 6.798736000000001
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Ahnfeldstraße"
 housenumber: 1

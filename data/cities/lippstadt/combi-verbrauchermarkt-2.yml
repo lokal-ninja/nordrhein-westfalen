@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6840331
 longitude: 8.3952845
-postcode: 59558
+postcode: "59558"
 city: Lippstadt
 street: "Merschweg"
 housenumber: 100

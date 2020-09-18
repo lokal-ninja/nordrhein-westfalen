@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.8080462
 longitude: 6.4857108000000006
-postcode: 
+postcode: ""
 city: Düren
 street: "Kreuzstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.550080200000004
 longitude: 7.6755797
-postcode: 59425
+postcode: "59425"
 city: Unna
 street: "Steinstraße"
 housenumber: 37-41

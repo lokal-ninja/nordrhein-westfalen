@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.059096200000006
 longitude: 5.995591
-postcode: 52525
+postcode: "52525"
 city: Waldfeucht
 street: "Raiffeisenstraße"
 housenumber: 6b

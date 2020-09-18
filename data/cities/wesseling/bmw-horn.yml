@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8343174
 longitude: 6.9506978
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Industriestraße"
 housenumber: 37-39

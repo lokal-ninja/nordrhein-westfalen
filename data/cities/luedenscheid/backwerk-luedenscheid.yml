@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.21588980000001
 longitude: 7.630313
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 11

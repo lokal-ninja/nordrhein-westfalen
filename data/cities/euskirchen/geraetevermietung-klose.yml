@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.663712000000004
 longitude: 6.7871806
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Bergerstraße"
 housenumber: 23

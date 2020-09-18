@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.2763818
 longitude: 7.482744800000001
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Jägerstraße"
 housenumber: 145

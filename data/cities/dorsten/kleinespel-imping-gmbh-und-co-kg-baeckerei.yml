@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.663319200000004
 longitude: 6.9648922
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Westwall"
 housenumber: 61

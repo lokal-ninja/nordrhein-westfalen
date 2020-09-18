@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.924031600000006
 longitude: 7.658690900000001
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Krögerweg"
 housenumber: 15

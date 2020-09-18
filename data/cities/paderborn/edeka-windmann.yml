@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7351363
 longitude: 8.6813803
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Von-Ketteler-Straße"
 housenumber: 65

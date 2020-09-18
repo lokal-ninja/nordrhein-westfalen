@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.7719899
 longitude: 7.268188
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Geistinger Straße"
 housenumber: 7

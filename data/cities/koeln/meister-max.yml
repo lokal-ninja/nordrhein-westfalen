@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.9099908
 longitude: 6.969423900000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Goltsteinstraße"
 housenumber: 75

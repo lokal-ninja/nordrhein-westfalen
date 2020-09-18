@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0602506
 longitude: 6.1180481
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Industriestraße"
 housenumber: 53

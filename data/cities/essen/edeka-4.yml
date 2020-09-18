@@ -1,12 +1,12 @@
 id: 3964633216
 type: node
 shop: Supermarkt
-latitude: 51.429541900000004
-longitude: 7.0751602
-postcode: 45277
+latitude: 51.4295247
+longitude: 7.075005600000001
+postcode: "45277"
 city: Essen
 street: "Schulte-Hinsel-Straße"
 housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00;Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

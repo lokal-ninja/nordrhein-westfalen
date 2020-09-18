@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.485102700000006
 longitude: 7.214890400000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Brückstraße"
 housenumber: 55

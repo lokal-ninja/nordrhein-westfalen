@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.689068500000005
 longitude: 7.7988565
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Bockumer Weg"
 housenumber: 88

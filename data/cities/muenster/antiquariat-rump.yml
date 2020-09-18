@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.917238000000005
 longitude: 7.7279869
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Münsterstraße"
 housenumber: 3-5

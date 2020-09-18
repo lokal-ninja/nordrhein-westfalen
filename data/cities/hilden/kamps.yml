@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.167388200000005
 longitude: 6.9340276
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Warrington-Platz"
 housenumber: 10

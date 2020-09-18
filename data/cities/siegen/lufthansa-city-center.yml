@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.8782336
 longitude: 8.016081400000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Wellersbergstraße"
 housenumber: 6

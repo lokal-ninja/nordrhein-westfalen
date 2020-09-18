@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.9053261
 longitude: 8.3766165
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Münsterstraße"
 housenumber: 5

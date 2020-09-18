@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.4834134
 longitude: 7.218128900000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Brückstraße"
 housenumber: 19

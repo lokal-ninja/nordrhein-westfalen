@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.6605816
 longitude: 6.798403700000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kölner Straße"
 housenumber: 64

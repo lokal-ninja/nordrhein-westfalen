@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.71696420000001
 longitude: 7.0037114
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Wienbachstraße"
 housenumber: 25

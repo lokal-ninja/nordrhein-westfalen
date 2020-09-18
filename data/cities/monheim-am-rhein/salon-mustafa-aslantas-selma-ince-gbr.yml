@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0868034
 longitude: 6.8900820000000005
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Ernst-Reuter-Platz"
 housenumber: 4

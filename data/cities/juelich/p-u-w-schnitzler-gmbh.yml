@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.954093900000004
 longitude: 6.425008500000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Sandweg"
 housenumber: 60

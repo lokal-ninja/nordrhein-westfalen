@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.744194500000006
 longitude: 7.1828129
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Muttergottesstiege"
 housenumber: 11

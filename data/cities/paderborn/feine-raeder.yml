@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.721118000000004
 longitude: 8.757096200000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Heiersstraße"
 housenumber: 24

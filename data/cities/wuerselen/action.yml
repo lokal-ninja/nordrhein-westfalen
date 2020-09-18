@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.8176767
 longitude: 6.1561273000000005
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Hauptstraße"
 housenumber: 206

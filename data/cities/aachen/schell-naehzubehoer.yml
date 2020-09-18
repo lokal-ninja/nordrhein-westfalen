@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.77501650000001
 longitude: 6.077755000000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Johanniterstraße"
 housenumber: 2

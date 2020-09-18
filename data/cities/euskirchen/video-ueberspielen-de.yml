@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 50.637573700000004
 longitude: 6.8629264
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Schornbuschstraße"
 housenumber: 31b

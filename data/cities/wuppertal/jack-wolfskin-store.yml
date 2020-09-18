@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.257863300000004
 longitude: 7.1479007
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Schwanenstraße"
 housenumber: 26

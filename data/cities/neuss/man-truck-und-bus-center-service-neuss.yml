@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1513099
 longitude: 6.762684
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Tucherstraße"
 housenumber: 11

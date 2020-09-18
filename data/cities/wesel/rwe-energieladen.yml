@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.658303100000005
 longitude: 6.611193500000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Kornmarkt"
 housenumber: 19

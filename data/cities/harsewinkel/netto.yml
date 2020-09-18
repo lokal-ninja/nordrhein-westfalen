@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.962515
 longitude: 8.2353377
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Alte Brockhäger Straße"
 housenumber: 16

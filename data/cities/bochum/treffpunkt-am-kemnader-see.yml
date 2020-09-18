@@ -3,10 +3,10 @@ type: way
 shop: Kiosk
 latitude: 51.4365655
 longitude: 7.277517100000001
-postcode: 44801
+postcode: "44801"
 city: Bochum
 street: "Blumenau"
-housenumber: 9
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

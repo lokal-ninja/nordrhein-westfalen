@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.1939177
 longitude: 7.012305400000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Dieker Straße"
 housenumber: 105

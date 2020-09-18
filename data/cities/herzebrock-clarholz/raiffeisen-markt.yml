@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.898335
 longitude: 8.1993626
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Samtholzstraße"
 housenumber: 5

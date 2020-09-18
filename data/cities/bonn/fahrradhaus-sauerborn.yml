@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.733628800000005
 longitude: 7.087161500000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Wittelsbacherring"
 housenumber: 40a

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.925857
 longitude: 6.857602000000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Marsdorfer Straße"
 housenumber: 59

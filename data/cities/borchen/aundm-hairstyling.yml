@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.664974
 longitude: 8.726986400000001
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Eichenweg"
 housenumber: 1

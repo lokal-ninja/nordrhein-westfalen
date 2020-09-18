@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.935520800000006
 longitude: 6.9476260000000005
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Neumarkt"
 housenumber: 27-29

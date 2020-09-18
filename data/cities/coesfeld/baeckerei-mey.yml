@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9405835
 longitude: 7.1401513
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Borkener Straße"
 housenumber: 124

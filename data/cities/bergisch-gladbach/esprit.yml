@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.990286600000005
 longitude: 7.1238961000000005
-postcode: 51465
+postcode: "51465"
 city: Bergisch Gladbach
 street: "Hauptstraße"
 housenumber: 131

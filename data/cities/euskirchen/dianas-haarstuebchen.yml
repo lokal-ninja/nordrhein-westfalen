@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.605066
 longitude: 6.8364681
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kirchheimer Straße"
 housenumber: 94

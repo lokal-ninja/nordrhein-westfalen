@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2905795
 longitude: 7.5702927
-postcode: 48477
+postcode: "48477"
 city: Hörstel
 street: "Birkenweg"
 housenumber: 89 a

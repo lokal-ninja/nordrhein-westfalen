@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.974030500000005
 longitude: 7.411012500000001
-postcode: 48329
+postcode: "48329"
 city: Havixbeck
 street: "Blickallee"
 housenumber: 

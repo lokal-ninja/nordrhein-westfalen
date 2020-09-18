@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.236927200000004
 longitude: 6.7789397000000005
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 36

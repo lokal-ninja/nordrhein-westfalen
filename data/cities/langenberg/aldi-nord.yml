@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7718119
 longitude: 8.3189315
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Bentelerstraße"
 housenumber: 40

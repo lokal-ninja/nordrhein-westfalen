@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.503543400000005
 longitude: 7.451092600000001
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "Essener Straße"
 housenumber: 29

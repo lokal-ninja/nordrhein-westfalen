@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.61413
 longitude: 7.1953304000000005
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Heilige-Geist-Straße"
 housenumber: 11

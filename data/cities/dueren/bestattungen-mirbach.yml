@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.8379489
 longitude: 6.4868981
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Arnoldusstraße"
 housenumber: 65

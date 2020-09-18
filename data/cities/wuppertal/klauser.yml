@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.2574285
 longitude: 7.145586000000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Schlössersgasse"
 housenumber: 8

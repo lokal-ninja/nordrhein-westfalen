@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.535233100000006
 longitude: 7.1644458
-postcode: 44649
+postcode: "44649"
 city: Herne
 street: "Claudiusstraße"
 housenumber: 58

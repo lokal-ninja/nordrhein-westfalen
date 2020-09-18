@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.6753513
 longitude: 8.3429755
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Cappelstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8571887
 longitude: 7.092828300000001
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Wilhelm-Ruppert-Straße"
 housenumber: 38

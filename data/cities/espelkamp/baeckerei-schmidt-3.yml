@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.377022000000004
 longitude: 8.6267596
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Breslauer Straße"
 housenumber: 

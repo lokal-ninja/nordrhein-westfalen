@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.5877191
 longitude: 6.2507294
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Rosenbroecksweg"
 housenumber: 21

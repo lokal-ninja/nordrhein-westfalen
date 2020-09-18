@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.017932200000004
 longitude: 8.9161932
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Braker Mitte"
 housenumber: 52

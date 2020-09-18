@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.649669100000004
 longitude: 6.883371500000001
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Essiger Straße"
 housenumber: 10

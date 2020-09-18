@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3568574
 longitude: 6.572543100000001
-postcode: 47802
+postcode: "47802"
 city: Krefeld
 street: "Moerser Straße"
 housenumber: 502

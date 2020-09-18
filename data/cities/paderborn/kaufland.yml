@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.71582720000001
 longitude: 8.7398703
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 37

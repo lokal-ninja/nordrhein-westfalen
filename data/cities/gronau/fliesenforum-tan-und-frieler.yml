@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 52.2022241
 longitude: 7.0562236
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Siemensstraße"
 housenumber: 7

@@ -1,12 +1,12 @@
 id: 2016894221
 type: node
 shop: Bäckerei
-latitude: 51.222585
-longitude: 7.6199941
-postcode: 58509
+latitude: 51.2225556
+longitude: 7.619968600000001
+postcode: "58509"
 city: Lüdenscheid
 street: "Heedfelder Straße"
 housenumber: 13
 phone: "+49 2351 378923"
-opening_hours: ""
-website: "http://www.baeckereikayser.de"
+opening_hours: "Mo-Fr 06:00-19:00, Sa 06:00-15:00; Su 08:00-11:00"
+website: "https://baeckerei-kayser.de/filialen/luedenscheid-penny-markt-heedfelder-strasse/"

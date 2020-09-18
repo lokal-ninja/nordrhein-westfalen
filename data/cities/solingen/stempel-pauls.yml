@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.1608558
 longitude: 7.005502600000001
-postcode: 42697
+postcode: "42697"
 city: Solingen
 street: "Sauerbreystraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1856103
 longitude: 6.6800008
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Jülicher Landstraße"
 housenumber: 150

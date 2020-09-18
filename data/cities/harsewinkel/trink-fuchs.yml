@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.965523000000005
 longitude: 8.243603
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Brockhäger Straße"
 housenumber: 81a

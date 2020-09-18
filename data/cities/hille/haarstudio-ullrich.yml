@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3372566
 longitude: 8.855492
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Breede"
 housenumber: 26

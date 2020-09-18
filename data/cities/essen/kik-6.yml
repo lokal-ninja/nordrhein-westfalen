@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.509828000000006
 longitude: 7.008125000000001
-postcode: 45329
+postcode: "45329"
 city: Essen
 street: "Altenessener Straße"
 housenumber: 610

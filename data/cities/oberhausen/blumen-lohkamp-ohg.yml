@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.480808100000004
 longitude: 6.8710117
-postcode: 46047
+postcode: "46047"
 city: Oberhausen
 street: "Liebknechtstraße"
 housenumber: 144

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0037071
 longitude: 8.562967800000001
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 257

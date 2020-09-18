@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.150630400000004
 longitude: 8.060875900000001
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Bielefelder Straße"
 housenumber: 10b

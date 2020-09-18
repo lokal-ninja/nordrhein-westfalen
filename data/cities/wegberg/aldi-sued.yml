@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.145212300000004
 longitude: 6.2842829
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Am Bahnhof"
 housenumber: 9

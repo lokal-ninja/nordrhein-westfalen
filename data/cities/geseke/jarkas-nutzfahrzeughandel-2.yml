@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.632463200000004
 longitude: 8.4657973
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Erwitter Straße"
 housenumber: 86

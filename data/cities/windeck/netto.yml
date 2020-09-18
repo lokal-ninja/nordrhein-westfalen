@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.803862200000005
 longitude: 7.563278
-postcode: 51570
+postcode: "51570"
 city: Windeck
 street: "Hauptstraße"
 housenumber: 45

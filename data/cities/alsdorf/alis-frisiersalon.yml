@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.874815000000005
 longitude: 6.1648565
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Otto-Wels-Straße"
 housenumber: 14

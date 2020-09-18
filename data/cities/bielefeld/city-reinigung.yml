@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.0239689
 longitude: 8.5306887
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Friedenstraße"
 housenumber: 4

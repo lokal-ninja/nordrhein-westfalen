@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.457418100000005
 longitude: 6.883347700000001
-postcode: 45475
+postcode: "45475"
 city: Mülheim an der Ruhr
 street: "Mannesmannallee"
 housenumber: 32

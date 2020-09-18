@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.516687000000005
 longitude: 6.8766631
-postcode: 46119
+postcode: "46119"
 city: Oberhausen
 street: "Teutoburger Straße"
 housenumber: 185

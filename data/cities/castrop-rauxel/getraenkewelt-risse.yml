@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5868447
 longitude: 7.327210300000001
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Lange Straße"
 housenumber: 170

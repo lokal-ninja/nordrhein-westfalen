@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.4287835
 longitude: 6.8414609
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 284

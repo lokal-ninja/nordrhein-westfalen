@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.1302242
 longitude: 7.548658700000001
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Emsdettener Landstraße"
 housenumber: 9b

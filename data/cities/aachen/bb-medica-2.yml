@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.772967200000004
 longitude: 6.077853200000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Löhergraben"
 housenumber: 32

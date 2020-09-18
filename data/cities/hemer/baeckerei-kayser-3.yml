@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3959683
 longitude: 7.7775967
-postcode: 58675
+postcode: "58675"
 city: Hemer
 street: "Urbecker Straße"
 housenumber: 127

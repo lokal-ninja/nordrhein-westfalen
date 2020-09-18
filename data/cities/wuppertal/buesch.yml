@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2547398
 longitude: 7.1497028
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Döppersberg"
 housenumber: 37

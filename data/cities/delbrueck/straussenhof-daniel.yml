@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.777675300000006
 longitude: 8.468985100000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Spechtweg"
 housenumber: 14

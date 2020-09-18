@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.650218300000006
 longitude: 6.829247700000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 138

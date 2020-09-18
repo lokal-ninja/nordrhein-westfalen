@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.4893257
 longitude: 9.1434729
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Paderborner Tor"
 housenumber: 102

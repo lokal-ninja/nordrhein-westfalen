@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2404686
 longitude: 7.533400800000001
-postcode: 58579
+postcode: "58579"
 city: Schalksmühle
 street: "Bahnhofstraße"
 housenumber: 16-22

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.916449400000005
 longitude: 8.6566992
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Flugplatzstraße"
 housenumber: 48

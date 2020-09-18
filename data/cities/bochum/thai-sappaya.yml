@@ -3,10 +3,10 @@ type: node
 shop: Massage
 latitude: 51.46314640000001
 longitude: 7.3080813000000004
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Am Neggenborn"
 housenumber: 18
-phone: "+49 234 64067252;0176 30590375"
+phone: "+49 234 64067252;+49 176 30590375"
 opening_hours: "Mo-We 10:00-19:00"
-website: "http://thai-sappaya-bochum.de/"
+website: "https://thai-sappaya-bochum.de/"

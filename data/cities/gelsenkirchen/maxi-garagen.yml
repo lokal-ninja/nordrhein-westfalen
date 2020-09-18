@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.5780739
 longitude: 7.112718500000001
-postcode: 45892
+postcode: "45892"
 city: Gelsenkirchen
 street: "Ewaldstraße"
 housenumber: 51c

@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 52.0249704
 longitude: 8.5382472
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Friedrich-Ebert-Straße"
 housenumber: 9

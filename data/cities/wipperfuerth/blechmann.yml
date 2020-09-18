@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1191137
 longitude: 7.392003300000001
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "An der Ziegelei"
 housenumber: 2

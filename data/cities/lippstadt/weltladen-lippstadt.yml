@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.67635670000001
 longitude: 8.3457779
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Marktstraße"
 housenumber: 3

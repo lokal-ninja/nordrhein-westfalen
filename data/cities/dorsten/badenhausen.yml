@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.6819299
 longitude: 6.955738
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Borkener Straße"
 housenumber: 161

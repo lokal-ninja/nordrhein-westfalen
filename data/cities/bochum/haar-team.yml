@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.479938800000006
 longitude: 7.140340200000001
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hochstraße"
 housenumber: 24

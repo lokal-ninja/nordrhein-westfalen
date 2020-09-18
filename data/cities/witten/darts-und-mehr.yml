@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.4374778
 longitude: 7.3258048
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Herbeder Straße"
 housenumber: 8

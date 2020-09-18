@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 51.6818253
 longitude: 6.1603531
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Bahnhofsplatz"
 housenumber: 8

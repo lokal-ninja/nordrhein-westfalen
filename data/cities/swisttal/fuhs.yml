@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 50.7180254
 longitude: 6.9113503000000005
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Kölner Straße"
 housenumber: 66

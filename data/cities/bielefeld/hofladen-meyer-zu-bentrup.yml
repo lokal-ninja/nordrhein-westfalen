@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.005961400000004
 longitude: 8.4592621
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Vogelweide"
 housenumber: 2

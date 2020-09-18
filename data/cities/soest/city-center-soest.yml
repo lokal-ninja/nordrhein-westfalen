@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.5773163
 longitude: 8.1034102
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Am Bahnhof"
 housenumber: 2

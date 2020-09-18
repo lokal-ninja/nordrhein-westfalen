@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8839854
 longitude: 8.58477
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Oststraße"
 housenumber: 188

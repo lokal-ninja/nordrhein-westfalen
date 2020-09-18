@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.0399046
 longitude: 7.658835900000001
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: ""
 housenumber: 5

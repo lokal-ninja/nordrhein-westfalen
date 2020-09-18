@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.2084635
 longitude: 6.7409572
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Hammer Dorfstraße"
 housenumber: 116b

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.5487139
 longitude: 7.3090099
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Simon-Cohen-Platz"
 housenumber: 2

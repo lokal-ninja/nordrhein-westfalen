@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.336549600000005
 longitude: 6.626207300000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Bruchfeld"
 housenumber: 2

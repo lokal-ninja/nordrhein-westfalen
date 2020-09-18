@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.859070900000006
 longitude: 7.0851648
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 226

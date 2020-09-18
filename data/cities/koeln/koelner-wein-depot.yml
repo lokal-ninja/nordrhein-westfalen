@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.9562728
 longitude: 6.967802000000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Amsterdamer Straße"
 housenumber: 1

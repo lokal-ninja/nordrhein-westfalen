@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.9992103
 longitude: 6.9117215000000005
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Longericher Straße"
 housenumber: 543

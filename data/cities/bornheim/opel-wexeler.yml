@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7565758
 longitude: 7.0106516
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Mainzer Straße"
 housenumber: 45

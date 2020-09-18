@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.499427100000005
 longitude: 7.3333713000000005
-postcode: 44388
+postcode: "44388"
 city: Dortmund
 street: "Werner Straße"
 housenumber: 12

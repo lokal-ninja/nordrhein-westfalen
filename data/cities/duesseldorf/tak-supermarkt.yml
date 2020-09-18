@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2262156
 longitude: 6.793679
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 41a

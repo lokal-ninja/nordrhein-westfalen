@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.1914432
 longitude: 6.5132409
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Hannengasse"
 housenumber: 2

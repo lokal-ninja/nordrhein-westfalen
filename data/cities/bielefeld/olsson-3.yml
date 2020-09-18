@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.000005
 longitude: 8.491476500000001
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Osnabrücker Straße"
 housenumber: 77

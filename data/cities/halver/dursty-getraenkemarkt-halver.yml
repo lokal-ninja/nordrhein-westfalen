@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.187945000000006
 longitude: 7.5065023
-postcode: 58553
+postcode: "58553"
 city: Halver
 street: "Schützenstraße"
 housenumber: 15

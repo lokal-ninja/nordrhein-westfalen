@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.7548426
 longitude: 8.038332800000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Weststraße"
 housenumber: 21

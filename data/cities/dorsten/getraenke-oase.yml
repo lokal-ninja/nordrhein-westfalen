@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6763428
 longitude: 6.9995080000000005
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Wenger Höfe"
 housenumber: 14

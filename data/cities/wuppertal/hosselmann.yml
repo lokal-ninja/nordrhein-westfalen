@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2754722
 longitude: 7.246958
-postcode: 42389
+postcode: "42389"
 city: Wuppertal
 street: "Schwelmer Straße"
 housenumber: 29

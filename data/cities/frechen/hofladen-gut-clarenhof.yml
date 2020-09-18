@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.9368762
 longitude: 6.8135072
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Gut Clarenhof"
 housenumber: 14

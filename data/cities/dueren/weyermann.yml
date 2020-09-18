@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7900726
 longitude: 6.4407585
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Schillingsstraße"
 housenumber: 206

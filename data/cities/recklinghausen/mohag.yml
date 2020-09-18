@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.602412
 longitude: 7.1812766
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Rottstraße"
 housenumber: 116

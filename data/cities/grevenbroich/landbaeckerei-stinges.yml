@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.088602200000004
 longitude: 6.5894009
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Am Markt"
 housenumber: 12

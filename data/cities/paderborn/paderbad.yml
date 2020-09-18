@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 51.7435485
 longitude: 8.773726100000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Heidturmweg"
 housenumber: 31

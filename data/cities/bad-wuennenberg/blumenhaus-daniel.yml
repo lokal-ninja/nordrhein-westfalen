@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5213046
 longitude: 8.7002009
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Mittelstraße"
 housenumber: 16

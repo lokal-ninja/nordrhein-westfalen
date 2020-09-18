@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8517013
 longitude: 6.6992305000000005
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Gronauer Straße"
 housenumber: 25

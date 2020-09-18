@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0350167
 longitude: 6.823842900000001
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Wassermühlenstraße"
 housenumber: 14

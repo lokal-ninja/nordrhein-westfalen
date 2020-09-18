@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.772427400000005
 longitude: 6.2887138
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Dorfstraße"
 housenumber: 32

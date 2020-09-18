@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.387002800000005
 longitude: 8.0897093
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Feldmark"
 housenumber: 2

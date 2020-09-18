@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.445105500000004
 longitude: 6.2670317
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Markt"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.2796224
 longitude: 7.204220200000001
-postcode: 42277
+postcode: "42277"
 city: Wuppertal
 street: "Westkotter Straße"
 housenumber: 73a

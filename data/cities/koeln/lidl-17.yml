@@ -1,12 +1,12 @@
-id: 107182067
+id: 115613514
 type: way
 shop: Supermarkt
-latitude: 50.8578404
-longitude: 7.091074600000001
-postcode: 51147
+latitude: 50.9301278
+longitude: 7.0480498
+postcode: "51107"
 city: Köln
-street: "Heidestraße"
-housenumber: 38
+street: "Rösrather Straße"
+housenumber: 87
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: ""
+opening_hours: ""
+website: "https://www.lidl.de/"

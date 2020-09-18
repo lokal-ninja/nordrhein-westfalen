@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2274253
 longitude: 6.6116128000000005
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Martinusstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8808773
 longitude: 6.690491000000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Am Falder"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4779448
 longitude: 7.5326401
-postcode: 44269
+postcode: "44269"
 city: Dortmund
 street: "Berghofer Straße"
 housenumber: 141

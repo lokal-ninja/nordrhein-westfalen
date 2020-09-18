@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 51.351162
 longitude: 7.482111100000001
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Elbershallen"
 housenumber: 2

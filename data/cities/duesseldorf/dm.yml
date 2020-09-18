@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2035896
 longitude: 6.7729717
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Aachener Straße"
 housenumber: 70a

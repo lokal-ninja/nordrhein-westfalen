@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.0470337
 longitude: 8.378596
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: ""
 housenumber: 

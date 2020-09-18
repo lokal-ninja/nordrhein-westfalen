@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.525025500000005
 longitude: 7.669862800000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Am Kastanienhof"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.260259100000006
 longitude: 7.147422400000001
-postcode: 42107
+postcode: "42107"
 city: Wuppertal
 street: "Gathe"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.909301500000005
 longitude: 6.809037
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Antoniterstraße"
 housenumber: 4

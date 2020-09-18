@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.195893500000004
 longitude: 6.6078156
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Rathausplatz"
 housenumber: 18

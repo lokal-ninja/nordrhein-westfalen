@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.8002386
 longitude: 8.0246577
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Hauptstraße"
 housenumber: 32-34

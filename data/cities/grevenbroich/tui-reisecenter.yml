@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.087825
 longitude: 6.592163200000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 50

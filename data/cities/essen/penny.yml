@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4407141
 longitude: 6.9892023000000005
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 114-116

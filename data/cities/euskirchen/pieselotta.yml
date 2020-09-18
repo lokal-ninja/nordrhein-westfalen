@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.6752869
 longitude: 6.8267347
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Luxemburger Straße"
 housenumber: 18

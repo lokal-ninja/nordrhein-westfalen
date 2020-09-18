@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.6234345
 longitude: 7.5137888
-postcode: 44534
+postcode: "44534"
 city: Lünen
 street: "Borker Straße"
 housenumber: 91

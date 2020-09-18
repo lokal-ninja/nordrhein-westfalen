@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2282207
 longitude: 6.6074959
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Habichtweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1978858
 longitude: 6.6930715
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Markt"
 housenumber: 1-7

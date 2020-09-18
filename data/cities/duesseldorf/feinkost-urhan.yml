@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.1745943
 longitude: 6.8333107
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 18a

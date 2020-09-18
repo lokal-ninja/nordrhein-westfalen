@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.909517
 longitude: 6.8075472
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 120

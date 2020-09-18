@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4418536
 longitude: 7.5646135
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Bahnhofstraße"
 housenumber: 2

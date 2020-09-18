@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.989605700000006
 longitude: 6.961168000000001
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Sebastianstraße"
 housenumber: 167

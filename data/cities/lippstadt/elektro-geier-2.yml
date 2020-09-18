@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.6740009
 longitude: 8.337856500000001
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Soeststraße"
 housenumber: 45

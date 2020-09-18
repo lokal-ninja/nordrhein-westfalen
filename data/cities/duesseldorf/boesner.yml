@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2263141
 longitude: 6.7068199
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Wiesenstraße"
 housenumber: 72

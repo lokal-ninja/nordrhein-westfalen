@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1663836
 longitude: 6.444613
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Stresemannstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.883889100000005
 longitude: 8.508541600000001
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Bürmannstraße"
 housenumber: 5

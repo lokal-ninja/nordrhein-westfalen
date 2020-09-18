@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.165082000000005
 longitude: 6.683310400000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Finkenstraße"
 housenumber: 1a

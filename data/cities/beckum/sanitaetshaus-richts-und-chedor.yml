@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.752783
 longitude: 8.0401044
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Elisabethstraße"
 housenumber: 8

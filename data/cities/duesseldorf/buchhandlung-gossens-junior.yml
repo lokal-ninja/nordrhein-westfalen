@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.231338
 longitude: 6.7495265
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Luegallee"
 housenumber: 105

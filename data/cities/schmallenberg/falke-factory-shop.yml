@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1459896
 longitude: 8.2808474
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Ohlgasse"
 housenumber: 5

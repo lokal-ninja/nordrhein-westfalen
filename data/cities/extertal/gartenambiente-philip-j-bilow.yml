@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.099822
 longitude: 9.078518200000001
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Oberschlesienweg"
 housenumber: 14

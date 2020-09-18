@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.1183958
 longitude: 8.663395600000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Bahnhofstraße"
 housenumber: 22

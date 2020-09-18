@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9479838
 longitude: 7.215255300000001
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Olper Straße"
 housenumber: 14-16

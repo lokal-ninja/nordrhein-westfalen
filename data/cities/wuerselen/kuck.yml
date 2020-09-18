@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8208731
 longitude: 6.1604305
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Hauptstraße"
 housenumber: 116

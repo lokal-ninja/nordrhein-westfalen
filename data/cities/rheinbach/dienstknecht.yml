@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.637960500000005
 longitude: 6.918412300000001
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Locher Weg"
 housenumber: 6

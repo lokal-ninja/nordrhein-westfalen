@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7923209
 longitude: 6.4438578
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Schillingsstraße"
 housenumber: 155

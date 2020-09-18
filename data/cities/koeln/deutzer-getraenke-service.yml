@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9301746
 longitude: 6.977039
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Alter Mühlenweg"
 housenumber: 46

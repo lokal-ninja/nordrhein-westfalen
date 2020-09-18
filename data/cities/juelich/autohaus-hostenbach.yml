@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9295051
 longitude: 6.376166400000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Matthiasplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1370743
 longitude: 8.2563101
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Hauptstraße"
 housenumber: 7

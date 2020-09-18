@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.639450200000006
 longitude: 7.2608987
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Berliner Platz"
 housenumber: 7

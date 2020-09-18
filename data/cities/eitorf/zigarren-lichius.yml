@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.769901600000004
 longitude: 7.449909900000001
-postcode: 53783
+postcode: "53783"
 city: Eitorf
 street: "Markt"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.1248656
 longitude: 6.682031100000001
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Wehler Straße"
 housenumber: 24

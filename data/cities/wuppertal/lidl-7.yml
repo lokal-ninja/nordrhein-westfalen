@@ -1,12 +1,12 @@
-id: 306240381
+id: 250428281
 type: way
 shop: Supermarkt
-latitude: 51.274694800000006
-longitude: 7.2086003000000005
-postcode: 42275
+latitude: 51.225623500000005
+longitude: 7.201916300000001
+postcode: "42369"
 city: Wuppertal
-street: "Rauer Werth"
-housenumber: 4
+street: "Lüttringhauser Straße"
+housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
 website: ""

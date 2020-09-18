@@ -1,12 +1,12 @@
 id: 1319466386
 type: node
 shop: Reisebüro
-latitude: 50.737146800000005
-longitude: 7.103654400000001
-postcode: 53111
+latitude: 50.736933500000006
+longitude: 7.103633500000001
+postcode: "53111"
 city: Bonn
 street: "Friedrichstraße"
-housenumber: 57
+housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
 website: ""

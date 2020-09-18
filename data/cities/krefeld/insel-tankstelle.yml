@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.328836300000006
 longitude: 6.5459465
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Gutenbergstraße"
 housenumber: 197

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.8827907
 longitude: 8.6152114
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Helleforthstraße"
 housenumber: 93

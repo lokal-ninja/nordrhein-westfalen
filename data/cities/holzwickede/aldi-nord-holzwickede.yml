@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.506426700000006
 longitude: 7.6209595000000006
-postcode: 59439
+postcode: "59439"
 city: Holzwickede
 street: "Stehfenstraße"
 housenumber: 8

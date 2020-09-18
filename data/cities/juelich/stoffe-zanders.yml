@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.921240000000004
 longitude: 6.3562808
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kleine Rurstraße"
 housenumber: 14

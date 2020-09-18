@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.9445581
 longitude: 6.5869711
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Ottostraße"
 housenumber: 14

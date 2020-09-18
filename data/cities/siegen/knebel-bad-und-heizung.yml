@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 50.864557500000004
 longitude: 8.0354086
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Friedrich-Wilhelm-Straße"
 housenumber: 147

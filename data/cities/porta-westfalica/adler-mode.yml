@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2600418
 longitude: 8.8998802
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Flurweg"
 housenumber: 20

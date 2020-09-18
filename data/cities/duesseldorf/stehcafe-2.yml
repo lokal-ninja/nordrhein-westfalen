@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2102738
 longitude: 6.7391782000000005
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Kuhstraße"
 housenumber: 30

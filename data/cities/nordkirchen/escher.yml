@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.7053208
 longitude: 7.5523885
-postcode: 59394
+postcode: "59394"
 city: Nordkirchen
 street: "Wilhelm-Raiffeisen-Straße"
 housenumber: 1

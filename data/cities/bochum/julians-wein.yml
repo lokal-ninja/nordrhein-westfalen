@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.473136800000006
 longitude: 7.226393600000001
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Brunsteinstraße"
 housenumber: 1

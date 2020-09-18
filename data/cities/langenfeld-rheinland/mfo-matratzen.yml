@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.103433200000005
 longitude: 6.947314400000001
-postcode: 40764
+postcode: "40764"
 city: Langenfeld (Rheinland)
 street: "Hauptstraße"
 housenumber: 42

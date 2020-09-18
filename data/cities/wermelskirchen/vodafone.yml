@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.1416899
 longitude: 7.2148057
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Telegrafenstraße"
 housenumber: 54a

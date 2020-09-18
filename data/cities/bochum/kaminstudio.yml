@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.505030700000006
 longitude: 7.260859900000001
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Händelstraße"
 housenumber: 2

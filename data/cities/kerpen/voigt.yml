@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.8813182
 longitude: 6.6916497
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Am Falder"
 housenumber: 40

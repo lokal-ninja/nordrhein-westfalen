@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 51.2255447
 longitude: 6.7864414
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Liesegangstraße"
 housenumber: 17a

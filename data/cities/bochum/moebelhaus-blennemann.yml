@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 51.485138000000006
 longitude: 7.2145837
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Brückstraße"
 housenumber: 59-63
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
 website: ""

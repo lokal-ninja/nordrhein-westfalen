@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.529822100000004
 longitude: 6.4769451
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "Reidtmeisterstraße"
 housenumber: 7
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00;Su,PH off"
-website: ""
+phone: "+49 2445 8989979"
+opening_hours: "Mo-Sa 08:30-19:00; Su,PH off"
+website: "https://nahkauf-schleiden.de/"

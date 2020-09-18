@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.479083700000004
 longitude: 6.9903237
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Hövelstraße"
 housenumber: 179

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.374923100000004
 longitude: 7.5444947
-postcode: 58119
+postcode: "58119"
 city: Hagen
 street: "Florianstraße"
 housenumber: 1

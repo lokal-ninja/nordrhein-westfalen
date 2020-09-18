@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.8266465
 longitude: 6.460319500000001
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Kopernikusstraße"
 housenumber: 10b

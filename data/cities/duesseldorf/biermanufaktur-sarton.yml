@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.2090375
 longitude: 6.7809533
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Weberstraße"
 housenumber: 32a

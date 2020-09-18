@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.520891500000005
 longitude: 7.467185400000001
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Nordstraße"
 housenumber: 2

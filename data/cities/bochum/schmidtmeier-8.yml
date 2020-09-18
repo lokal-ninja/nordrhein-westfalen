@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4800904
 longitude: 7.2182931
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Huestraße"
 housenumber: 30

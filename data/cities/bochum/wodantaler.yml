@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.4289904
 longitude: 7.2451856
-postcode: 44797
+postcode: "44797"
 city: Bochum
 street: "Kemnader Straße"
 housenumber: 333
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 07:30-16:00"
-website: "www.wodantaler-landbrot.de"
+website: "https://www.wodantaler-landbrot.de"

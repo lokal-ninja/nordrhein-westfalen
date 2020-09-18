@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.429480500000004
 longitude: 6.782396100000001
-postcode: 47057
+postcode: "47057"
 city: Duisburg
 street: "Blumenstraße"
 housenumber: 4

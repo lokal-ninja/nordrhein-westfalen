@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.8432444
 longitude: 6.857698200000001
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Sternstraße"
 housenumber: 4

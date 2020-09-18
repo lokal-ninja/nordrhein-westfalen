@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7488286
 longitude: 6.1671126
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Trierer Straße"
 housenumber: 819

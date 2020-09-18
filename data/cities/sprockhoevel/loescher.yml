@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3626104
 longitude: 7.2468028
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Hauptstraße"
 housenumber: 

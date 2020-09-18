@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.836146400000004
 longitude: 6.6985022
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Bahnhofstraße"
 housenumber: 46

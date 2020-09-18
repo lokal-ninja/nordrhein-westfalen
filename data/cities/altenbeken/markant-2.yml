@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7630719
 longitude: 8.945370200000001
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Hüttenstraße"
 housenumber: 2

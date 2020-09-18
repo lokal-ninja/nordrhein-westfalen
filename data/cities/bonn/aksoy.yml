@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 50.697373500000005
 longitude: 7.1268791
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Annaberger Straße"
 housenumber: 161

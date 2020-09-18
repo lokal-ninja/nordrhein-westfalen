@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8873553
 longitude: 8.0285103
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hagener Straße"
 housenumber: 125

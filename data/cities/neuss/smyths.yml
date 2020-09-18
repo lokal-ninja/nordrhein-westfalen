@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.1831425
 longitude: 6.6844789
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Holzheimer Weg"
 housenumber: 44

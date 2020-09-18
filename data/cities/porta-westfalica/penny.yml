@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2145408
 longitude: 8.877546200000001
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Ellernstraße"
 housenumber: 1

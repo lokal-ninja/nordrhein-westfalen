@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.0961275
 longitude: 8.5183436
-postcode: 33739
+postcode: "33739"
 city: Bielefeld
 street: "Amtsstraße"
 housenumber: 34

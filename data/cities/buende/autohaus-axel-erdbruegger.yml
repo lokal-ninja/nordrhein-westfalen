@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1820584
 longitude: 8.5616418
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Werfer Straße"
 housenumber: 106

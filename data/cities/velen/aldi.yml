@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.893652
 longitude: 6.989222600000001
-postcode: 
+postcode: ""
 city: Velen
 street: "Alte Gärtnerei"
 housenumber: 4

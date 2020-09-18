@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 51.4826531
 longitude: 6.9975705
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Weigelwerkstraße"
 housenumber: 5-7

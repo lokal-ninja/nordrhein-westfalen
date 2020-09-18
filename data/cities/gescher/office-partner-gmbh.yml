@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.9481204
 longitude: 7.0084803
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Schlesierring"
 housenumber: 35

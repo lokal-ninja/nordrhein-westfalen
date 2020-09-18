@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.1486211
 longitude: 7.312705200000001
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Wiehagener Straße"
 housenumber: 68

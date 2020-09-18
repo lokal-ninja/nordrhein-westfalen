@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7165308
 longitude: 8.7559541
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kamp"
 housenumber: 16

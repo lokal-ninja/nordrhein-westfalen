@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7642706
 longitude: 6.9884382
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Peter-Hausmann-Platz"
 housenumber: 1

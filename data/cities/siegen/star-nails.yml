@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8877686
 longitude: 8.0282534
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hagener Straße"
 housenumber: 133

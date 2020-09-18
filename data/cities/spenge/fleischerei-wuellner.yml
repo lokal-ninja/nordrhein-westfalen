@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.15003170000001
 longitude: 8.4906365
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Bünder Straße"
 housenumber: 33

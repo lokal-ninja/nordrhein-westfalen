@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.874921
 longitude: 6.1084494000000005
-postcode: 52134
+postcode: "52134"
 city: Herzogenrath
 street: "Geilenkirchener Straße"
 housenumber: 138

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.021433300000005
 longitude: 6.9922032000000005
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Carl-Duisberg-Straße"
 housenumber: 199

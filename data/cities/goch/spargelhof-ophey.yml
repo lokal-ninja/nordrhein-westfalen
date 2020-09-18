@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.7007082
 longitude: 6.1231273
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Triftstraße"
 housenumber: 191

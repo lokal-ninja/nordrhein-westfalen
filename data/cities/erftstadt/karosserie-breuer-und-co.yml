@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.81466270000001
 longitude: 6.822144300000001
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Am Vogelsang"
 housenumber: 5

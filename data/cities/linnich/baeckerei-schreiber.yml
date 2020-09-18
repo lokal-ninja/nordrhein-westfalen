@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.946235900000005
 longitude: 6.2458729
-postcode: 52441
+postcode: "52441"
 city: Linnich
 street: "Aachener Ende"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.94908100000001
 longitude: 6.957013000000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Eigelstein"
 housenumber: 116

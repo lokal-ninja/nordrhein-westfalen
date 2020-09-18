@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1026493
 longitude: 8.3050007
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Masch"
 housenumber: 2a

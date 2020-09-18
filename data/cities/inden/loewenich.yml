@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8431347
 longitude: 6.356919100000001
-postcode: 52459
+postcode: "52459"
 city: Inden
 street: "Hauptstraße"
 housenumber: 6

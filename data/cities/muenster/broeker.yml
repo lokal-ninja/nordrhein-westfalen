@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.905756100000005
 longitude: 7.6340555000000005
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Westfalenstraße"
 housenumber: 130

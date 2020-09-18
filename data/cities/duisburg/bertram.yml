@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3910355
 longitude: 6.707268600000001
-postcode: 47229
+postcode: "47229"
 city: Duisburg
 street: "Kaiserstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9635448
 longitude: 8.2275919
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Hesselteicher Straße"
 housenumber: 4

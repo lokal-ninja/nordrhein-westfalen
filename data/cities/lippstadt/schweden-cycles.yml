@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.650398900000006
 longitude: 8.3569599
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Westernkötter Straße"
 housenumber: 210

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.524593
 longitude: 7.6693477
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Am Kastanienhof"
 housenumber: 4

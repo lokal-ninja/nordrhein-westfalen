@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.6148467
 longitude: 7.1977972
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Markt"
 housenumber: 7

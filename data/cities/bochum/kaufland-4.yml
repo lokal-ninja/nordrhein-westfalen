@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.470187300000006
 longitude: 7.2925088
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Ümminger Straße"
 housenumber: 90

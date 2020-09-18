@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8826447
 longitude: 8.0278545
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hagener Straße"
 housenumber: 9

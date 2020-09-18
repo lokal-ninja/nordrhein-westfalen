@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.197148000000006
 longitude: 6.6950400000000005
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Hymgasse"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6664699
 longitude: 6.7407333000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Elsiger Straße"
 housenumber: 38

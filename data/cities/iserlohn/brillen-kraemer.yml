@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3650223
 longitude: 7.6152397
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 29

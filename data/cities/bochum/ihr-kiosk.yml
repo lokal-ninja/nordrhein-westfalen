@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.477440300000005
 longitude: 7.213246000000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Maximilian-Kolbe-Straße"
 housenumber: 5

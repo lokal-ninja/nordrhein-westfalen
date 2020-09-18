@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.234624800000006
 longitude: 6.778663600000001
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Kaiserstraße"
 housenumber: 14

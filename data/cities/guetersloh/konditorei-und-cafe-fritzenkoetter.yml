@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9080808
 longitude: 8.3804782
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Strengerstraße"
 housenumber: 2

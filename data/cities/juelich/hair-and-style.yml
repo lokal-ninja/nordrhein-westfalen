@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9221245
 longitude: 6.357322000000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Marktplatz"
 housenumber: 10

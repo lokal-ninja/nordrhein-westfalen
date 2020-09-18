@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2010425
 longitude: 7.159582
-postcode: 42857
+postcode: "42857"
 city: Remscheid
 street: "Gerstau"
 housenumber: 18

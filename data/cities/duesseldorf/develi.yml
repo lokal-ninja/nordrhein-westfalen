@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2646925
 longitude: 6.8117425
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Bochumer Straße"
 housenumber: 40

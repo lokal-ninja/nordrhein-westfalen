@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.936185
 longitude: 6.934741000000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Brüsseler Straße"
 housenumber: 44

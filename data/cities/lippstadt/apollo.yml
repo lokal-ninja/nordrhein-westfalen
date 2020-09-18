@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.673737100000004
 longitude: 8.3474284
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Lange Straße"
 housenumber: 49

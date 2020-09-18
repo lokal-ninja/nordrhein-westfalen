@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.95249260000001
 longitude: 6.9618425
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Riehler Straße"
 housenumber: 12-14

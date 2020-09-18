@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.7370474
 longitude: 7.0977445
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wilhelmstraße"
 housenumber: 7

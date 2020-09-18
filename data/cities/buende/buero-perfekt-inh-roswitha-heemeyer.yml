@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.2075496
 longitude: 8.600265700000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Lübbecker Straße"
 housenumber: 118-126

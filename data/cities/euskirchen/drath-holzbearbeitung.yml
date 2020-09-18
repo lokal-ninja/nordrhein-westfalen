@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 50.657935300000005
 longitude: 6.781407300000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Moselstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3103896
 longitude: 7.881701100000001
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Sunderner Straße"
 housenumber: 22

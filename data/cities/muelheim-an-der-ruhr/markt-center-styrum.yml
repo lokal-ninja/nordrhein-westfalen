@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4465124
 longitude: 6.8468141000000005
-postcode: 45476
+postcode: "45476"
 city: Mülheim an der Ruhr
 street: "Steinkampstraße"
 housenumber: 49

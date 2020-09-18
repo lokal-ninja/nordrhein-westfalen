@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0245364
 longitude: 7.567276000000001
-postcode: 51643
+postcode: "51643"
 city: Gummersbach
 street: "Hindenburgstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.3238375
 longitude: 6.6026482
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Hafelsstraße"
 housenumber: 246

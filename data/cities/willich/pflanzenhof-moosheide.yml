@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.264554000000004
 longitude: 6.5699955
-postcode: 47877
+postcode: "47877"
 city: Willich
 street: "Moosheide"
 housenumber: 164

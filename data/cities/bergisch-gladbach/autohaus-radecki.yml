@@ -1,12 +1,12 @@
-id: 303475220
-type: way
+id: 7524256134
+type: node
 shop: Autohaus
-latitude: 50.9872129
-longitude: 7.121688600000001
-postcode: 51465
+latitude: 50.9861962
+longitude: 7.1205362
+postcode: "51465"
 city: Bergisch Gladbach
 street: "Hauptstraße"
-housenumber: 58
-phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-13:00"
-website: ""
+housenumber: 33
+phone: "+49 2202 18850"
+opening_hours: ""
+website: "https://www.citroen-haendler.de/radecki-bergischgladbach"

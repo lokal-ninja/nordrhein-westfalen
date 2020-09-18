@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.567852900000005
 longitude: 6.752931200000001
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Otto-Lilienthal-Straße"
 housenumber: 45

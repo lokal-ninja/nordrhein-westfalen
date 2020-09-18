@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.240693
 longitude: 8.626012600000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Stiftstraße"
 housenumber: 91

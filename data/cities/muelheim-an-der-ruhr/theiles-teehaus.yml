@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.404584
 longitude: 6.8756892
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 52

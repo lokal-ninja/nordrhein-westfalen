@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.217527100000005
 longitude: 6.776707200000001
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 19

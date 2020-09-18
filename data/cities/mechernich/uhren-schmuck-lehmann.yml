@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5912523
 longitude: 6.6532844
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Weierstraße"
 housenumber: 56

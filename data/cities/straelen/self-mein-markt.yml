@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4446062
 longitude: 6.2782308
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "An der Oelmühle"
 housenumber: 8

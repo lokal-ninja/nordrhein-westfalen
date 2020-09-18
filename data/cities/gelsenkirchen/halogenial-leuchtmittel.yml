@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.5113938
 longitude: 7.094428400000001
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Alter Markt"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.95144680000001
 longitude: 8.4097573
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Niehorster Straße"
 housenumber: 19

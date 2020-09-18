@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.935786
 longitude: 6.934425
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Brüsseler Straße"
 housenumber: 37

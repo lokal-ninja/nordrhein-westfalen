@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.384197900000004
 longitude: 7.4471185
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Becheltestraße"
 housenumber: 10

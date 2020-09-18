@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1740495
 longitude: 6.8303351
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Itterstraße"
 housenumber: 28

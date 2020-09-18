@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7485397
 longitude: 7.901892900000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Am Neuen Baum"
 housenumber: 2

@@ -1,12 +1,12 @@
 id: 7027803857
 type: node
 shop: Möbel
-latitude: 51.613888
-longitude: 7.1969285
-postcode: 45657
+latitude: 51.615015400000004
+longitude: 7.198735
+postcode: "45657"
 city: Recklinghausen
-street: "Große Geldstraße"
-housenumber: 7
+street: "Kunibertistraße"
+housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 12:00-18:30; Sa 10:00-15:00"
 website: "https://www.riegel-interior.com/"

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.225033
 longitude: 6.7877155
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Klosterstraße"
 housenumber: 66

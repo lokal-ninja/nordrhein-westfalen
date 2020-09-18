@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9217657
 longitude: 6.8660341
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Dürener Straße"
 housenumber: 430

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7725687
 longitude: 6.077298900000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 73

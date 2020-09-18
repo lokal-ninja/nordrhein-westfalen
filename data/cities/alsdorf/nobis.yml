@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8587555
 longitude: 6.205307
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Eschweiler Straße"
 housenumber: 2a

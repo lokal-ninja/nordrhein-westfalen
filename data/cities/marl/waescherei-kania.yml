@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.6722316
 longitude: 7.0915356
-postcode: 45772
+postcode: "45772"
 city: Marl
 street: "Sickingmühler Straße"
 housenumber: 195

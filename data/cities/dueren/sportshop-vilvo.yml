@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.801273900000005
 longitude: 6.4814319000000005
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Weierstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5408947
 longitude: 8.292095400000001
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Mittelstraße"
 housenumber: 37

@@ -1,12 +1,12 @@
-id: 571527058
+id: 2609368441
 type: node
 shop: Kiosk
-latitude: 51.4581882
-longitude: 7.0008553000000004
-postcode: 45127
+latitude: 51.428358200000005
+longitude: 7.003030300000001
+postcode: "45131"
 city: Essen
-street: "Thea-Leymann-Straße"
-housenumber: 13
+street: "Rüttenscheider Straße"
+housenumber: 229
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00, Sa 10:00-20:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4410171
 longitude: 6.643710400000001
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Leipziger Straße"
 housenumber: 3

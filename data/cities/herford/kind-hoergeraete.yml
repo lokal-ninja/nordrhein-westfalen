@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.1152323
 longitude: 8.674227700000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Augustinerplatz"
 housenumber: 14

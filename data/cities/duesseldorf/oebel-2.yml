@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1808932
 longitude: 6.8639801
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Altenbrückstraße"
 housenumber: 5

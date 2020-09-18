@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.739693900000006
 longitude: 7.1012225
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Theaterstraße"
 housenumber: 18

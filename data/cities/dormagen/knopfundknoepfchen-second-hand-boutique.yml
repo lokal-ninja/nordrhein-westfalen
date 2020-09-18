@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.097893500000005
 longitude: 6.8220067
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Haberlandstraße"
 housenumber: 3

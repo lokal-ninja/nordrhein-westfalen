@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.141856000000004
 longitude: 8.562067200000001
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Niedermühlenstraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 07:30-21:00"
 website: "https://www.penny.de/"

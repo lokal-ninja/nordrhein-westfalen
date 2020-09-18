@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.13971110000001
 longitude: 6.6148132
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Baumschule"
 housenumber: 1

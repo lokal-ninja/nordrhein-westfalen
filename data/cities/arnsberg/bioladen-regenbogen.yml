@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.3972057
 longitude: 8.074034900000001
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Gutenbergplatz"
 housenumber: 34

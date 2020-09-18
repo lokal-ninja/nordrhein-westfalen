@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0286484
 longitude: 8.904653
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Echternstraße"
 housenumber: 21

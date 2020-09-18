@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5913836
 longitude: 6.985249700000001
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Feldhauser Straße"
 housenumber: 206

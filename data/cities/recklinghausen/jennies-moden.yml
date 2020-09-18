@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.6149962
 longitude: 7.1963907
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Holzmarkt"
 housenumber: 12

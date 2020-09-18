@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.9355233
 longitude: 6.3716138
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Haubourdinstraße"
 housenumber: 13

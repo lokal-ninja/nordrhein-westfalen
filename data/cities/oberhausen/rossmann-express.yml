@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4739937
 longitude: 6.853150200000001
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Willy-Brandt-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3858613
 longitude: 7.455216500000001
-postcode: 58099
+postcode: "58099"
 city: Hagen
 street: "Schwerter Straße"
 housenumber: 22

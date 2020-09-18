@@ -3,7 +3,7 @@ type: node
 shop: Catering
 latitude: 51.436776300000005
 longitude: 7.005464900000001
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 109

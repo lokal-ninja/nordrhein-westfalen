@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.651985
 longitude: 6.798890900000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 178

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.30510030000001
 longitude: 8.853422400000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Königstraße"
 housenumber: 348

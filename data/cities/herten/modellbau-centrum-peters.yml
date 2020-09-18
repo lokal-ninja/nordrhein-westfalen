@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 51.6017178
 longitude: 7.1563011
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Kaiserstraße"
 housenumber: 214

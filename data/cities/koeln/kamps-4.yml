@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.94429280000001
 longitude: 6.943042500000001
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Christophstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9376315
 longitude: 6.837577700000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Danziger Straße"
 housenumber: 36

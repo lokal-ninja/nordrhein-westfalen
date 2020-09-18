@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3702565
 longitude: 6.7471015
-postcode: 47259
+postcode: "47259"
 city: Duisburg
 street: "Mündelheimer Straße"
 housenumber: 41-43

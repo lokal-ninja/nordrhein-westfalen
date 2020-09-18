@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 50.623404
 longitude: 6.844742500000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 51

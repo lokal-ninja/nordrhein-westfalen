@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.944482400000005
 longitude: 8.792930700000001
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Am Palsberg"
 housenumber: 6

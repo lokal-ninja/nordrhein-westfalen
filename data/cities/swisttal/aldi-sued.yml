@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.722571200000004
 longitude: 6.9193632
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Dützhofer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.060872700000004
 longitude: 6.0903217000000005
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Westpromenade"
 housenumber: 15

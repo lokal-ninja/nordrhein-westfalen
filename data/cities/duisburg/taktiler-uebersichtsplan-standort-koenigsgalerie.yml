@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 51.4328549
 longitude: 6.7629501
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Sonnenwall"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.8953477
 longitude: 6.8957421000000005
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Bachstraße"
 housenumber: 43

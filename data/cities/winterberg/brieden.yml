@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.193962400000004
 longitude: 8.534531600000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hagenstraße"
 housenumber: 8

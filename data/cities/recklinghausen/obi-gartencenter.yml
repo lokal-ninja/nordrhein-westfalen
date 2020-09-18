@@ -3,10 +3,10 @@ type: node
 shop: Garten-Center
 latitude: 51.595224400000006
 longitude: 7.243254500000001
-postcode: 45665
+postcode: "45665"
 city: Recklinghausen
 street: "Ortlohstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

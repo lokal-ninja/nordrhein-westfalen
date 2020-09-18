@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8020076
 longitude: 7.1541638
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Langenstraße"
 housenumber: 41

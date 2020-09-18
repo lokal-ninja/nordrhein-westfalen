@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.7415505
 longitude: 6.590667900000001
-postcode: 46499
+postcode: "46499"
 city: Hamminkeln
 street: "Loikumer Rott"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.603693500000006
 longitude: 7.159586900000001
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Kaiserstr."
 housenumber: 251

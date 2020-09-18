@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.196375200000006
 longitude: 6.456882500000001
-postcode: 41065
+postcode: "41065"
 city: Mönchengladbach
 street: "Lürriper Straße"
 housenumber: 208

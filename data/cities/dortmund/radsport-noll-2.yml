@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.523381300000004
 longitude: 7.463025900000001
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Münsterstraße"
 housenumber: 72

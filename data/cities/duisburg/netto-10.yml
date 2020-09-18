@@ -1,12 +1,12 @@
-id: 41462306
+id: 44068721
 type: way
 shop: Supermarkt
-latitude: 51.3587312
-longitude: 6.6917502
-postcode: 47259
+latitude: 51.359231400000006
+longitude: 6.780029000000001
+postcode: "47269"
 city: Duisburg
-street: "Im Bonnefeld"
-housenumber: 19
+street: "Angermunder Straße"
+housenumber: 81
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de//"
+opening_hours: ""
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.817022900000005
 longitude: 8.4948116
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Westerwieher Straße"
 housenumber: 263

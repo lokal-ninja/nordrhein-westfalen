@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2566989
 longitude: 7.138511500000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Auer Schulstraße"
 housenumber: 4

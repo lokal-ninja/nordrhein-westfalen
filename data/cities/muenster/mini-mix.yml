@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.9908166
 longitude: 7.607999400000001
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Rektoratsweg"
 housenumber: 63

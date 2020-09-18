@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.122632100000004
 longitude: 6.7814139
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Bismarckstraße"
 housenumber: 141

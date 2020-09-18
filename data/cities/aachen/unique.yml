@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.77254610000001
 longitude: 6.084669600000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kleinmarschierstraße"
 housenumber: 53

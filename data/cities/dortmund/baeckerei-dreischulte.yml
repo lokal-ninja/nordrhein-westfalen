@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.512897
 longitude: 7.4958738
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Davidisstraße"
 housenumber: 37

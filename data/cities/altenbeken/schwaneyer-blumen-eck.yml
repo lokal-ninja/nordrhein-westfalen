@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.7143566
 longitude: 8.931695600000001
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Wallstraße"
 housenumber: 1

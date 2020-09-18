@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.44113960000001
 longitude: 7.2130302
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Markstraße"
 housenumber: 414

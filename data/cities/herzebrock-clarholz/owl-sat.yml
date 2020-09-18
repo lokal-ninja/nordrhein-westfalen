@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 51.882322
 longitude: 8.2344281
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Clarholzer Straße"
 housenumber: 59

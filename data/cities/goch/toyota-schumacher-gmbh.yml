@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.688298800000005
 longitude: 6.1377728000000005
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Siemensstraße"
 housenumber: 53

@@ -1,12 +1,12 @@
 id: 237395080
 type: way
-shop: Gemüse & Obst
-latitude: 50.7461014
-longitude: 7.3820655
-postcode: 53773
+shop: Hofladen
+latitude: 50.7461016
+longitude: 7.3820657
+postcode: "53773"
 city: Hennef
 street: "Auf der Sandkaule"
 housenumber: 13
 phone: "+49 2248 1795"
 opening_hours: "Mo 11:00-13:00,14:00-18:30; Tu-Fr 09:00-13:00,14:00-18:30; Th off; Sa 08:30-13:00"
-website: "http://www.bioland-huesgen.de/"
+website: "https://www.bioland-huesgen.de/"

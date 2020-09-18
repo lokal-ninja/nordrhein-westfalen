@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.684324000000004
 longitude: 6.7370121
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Annostraße"
 housenumber: 59

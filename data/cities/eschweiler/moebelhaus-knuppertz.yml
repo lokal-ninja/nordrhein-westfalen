@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.803668800000004
 longitude: 6.239924800000001
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Phönixstraße"
 housenumber: 84

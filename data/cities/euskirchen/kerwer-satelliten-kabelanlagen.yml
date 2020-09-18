@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 50.6355002
 longitude: 6.812736200000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Im Mühlenfeld"
 housenumber: 1a

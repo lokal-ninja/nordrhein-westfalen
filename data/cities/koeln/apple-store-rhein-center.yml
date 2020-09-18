@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.9375834
 longitude: 6.8342013
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Aachener Straße"
 housenumber: 1253

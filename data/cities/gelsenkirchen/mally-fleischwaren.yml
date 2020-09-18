@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5385927
 longitude: 7.023131800000001
-postcode: 45899
+postcode: "45899"
 city: Gelsenkirchen
 street: "Essener Straße"
 housenumber: 14

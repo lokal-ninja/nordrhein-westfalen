@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.363009700000006
 longitude: 6.769746700000001
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Buscher Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 51.199363500000004
 longitude: 6.6766544
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Röntgenstraße"
 housenumber: 2

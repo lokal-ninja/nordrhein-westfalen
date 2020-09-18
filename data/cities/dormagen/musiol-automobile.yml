@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0952908
 longitude: 6.8334793000000005
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Florastraße"
 housenumber: 52a

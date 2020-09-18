@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9688205
 longitude: 6.9387764
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Schiefersburger Weg"
 housenumber: 17

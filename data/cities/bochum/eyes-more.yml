@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4808735
 longitude: 7.2170369
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.3054033
 longitude: 6.814501300000001
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Sohlstättenstraße"
 housenumber: 60

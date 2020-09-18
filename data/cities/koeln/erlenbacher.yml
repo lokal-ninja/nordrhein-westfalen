@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8575941
 longitude: 7.086421700000001
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 196

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.938226400000005
 longitude: 7.000731300000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Kalk-Mülheimer Straße"
 housenumber: 8-10

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1971696
 longitude: 6.6941193000000005
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Oberstraße"
 housenumber: 107

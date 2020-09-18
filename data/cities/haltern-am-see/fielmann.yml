@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.7432214
 longitude: 7.186122
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Rekumer Straße"
 housenumber: 9

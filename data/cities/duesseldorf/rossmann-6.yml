@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1814474
 longitude: 6.8649009
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Altenbrückstraße"
 housenumber: 15

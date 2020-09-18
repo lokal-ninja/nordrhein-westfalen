@@ -1,12 +1,12 @@
-id: 5182071156
+id: 4745023321
 type: node
 shop: Bäckerei
-latitude: 51.197466600000006
-longitude: 6.785184800000001
-postcode: 40225
+latitude: 51.2373549
+longitude: 6.859336600000001
+postcode: "40625"
 city: Düsseldorf
-street: "Moorenstraße"
-housenumber: 5
-phone: "+49 211-33679390"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-12:00"
-website: "https://kamps.de/"
+street: "Benderstraße"
+housenumber: 3
+phone: ""
+opening_hours: ""
+website: ""

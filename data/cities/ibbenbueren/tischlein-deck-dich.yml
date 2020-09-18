@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 52.2752568
 longitude: 7.713792700000001
-postcode: 49477
+postcode: "49477"
 city: Ibbenbüren
 street: "Kanalstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.944216000000004
 longitude: 6.9141956
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Weinsbergstraße"
 housenumber: 181

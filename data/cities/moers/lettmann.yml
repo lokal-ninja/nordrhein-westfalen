@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.454736700000005
 longitude: 6.6596332
-postcode: 47443
+postcode: "47443"
 city: Moers
 street: "Franz-Haniel-Straße"
 housenumber: 53

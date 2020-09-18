@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.8737536
 longitude: 8.0188272
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Bahnhofstraße"
 housenumber: 1

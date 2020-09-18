@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.881945400000006
 longitude: 8.2262547
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Otto-Hahn-Straße"
 housenumber: 44

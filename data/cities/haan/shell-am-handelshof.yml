@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.1941968
 longitude: 6.981823500000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Ginsterweg"
 housenumber: 35

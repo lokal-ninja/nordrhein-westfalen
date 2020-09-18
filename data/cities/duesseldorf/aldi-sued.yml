@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2359852
 longitude: 6.8615991
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Kölner Tor"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.994997500000004
 longitude: 6.9253942
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "Altonaer Straße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.613405
 longitude: 7.2006722000000005
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Löhrhof"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2634285
 longitude: 8.5241231
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Ruhrstraße"
 housenumber: 19

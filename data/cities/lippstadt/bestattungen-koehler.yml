@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.6879937
 longitude: 8.4433633
-postcode: 59558
+postcode: "59558"
 city: Lippstadt
 street: "Bahnecke"
 housenumber: 41

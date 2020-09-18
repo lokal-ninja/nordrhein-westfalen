@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.2354635
 longitude: 6.7829939
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Sternstraße"
 housenumber: 54

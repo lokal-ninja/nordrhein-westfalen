@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.6286895
 longitude: 6.815323800000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Hinter den Gärten"
 housenumber: 1

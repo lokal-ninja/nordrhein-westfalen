@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2067325
 longitude: 6.391238
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Venner Gasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.9907611
 longitude: 8.5110849
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 78

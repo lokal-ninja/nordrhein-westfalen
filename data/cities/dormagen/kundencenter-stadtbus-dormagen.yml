@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.099289600000006
 longitude: 6.8158889
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Willy-Brandt-Platz"
 housenumber: 1

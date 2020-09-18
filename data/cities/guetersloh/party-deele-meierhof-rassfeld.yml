@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.9244319
 longitude: 8.366887400000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Meier-zu-Rassfeld-Weg"
 housenumber: 15

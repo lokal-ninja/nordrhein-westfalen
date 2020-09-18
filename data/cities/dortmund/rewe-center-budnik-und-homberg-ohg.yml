@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4640798
 longitude: 7.525998100000001
-postcode: 44267
+postcode: "44267"
 city: Dortmund
 street: "Pfarrer-Rüter-Weg"
 housenumber: 2

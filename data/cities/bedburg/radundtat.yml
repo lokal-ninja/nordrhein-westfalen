@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9921215
 longitude: 6.5719078
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Lindenstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.80515990000001
 longitude: 8.0259595
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Ennigerloher Straße"
 housenumber: 18

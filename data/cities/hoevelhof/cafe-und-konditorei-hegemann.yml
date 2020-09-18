@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.823712400000005
 longitude: 8.6642881
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Schmiedeteich"
 housenumber: 5

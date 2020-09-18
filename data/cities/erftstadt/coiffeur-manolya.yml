@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.800616500000004
 longitude: 6.764688400000001
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Frenzenstraße"
 housenumber: 3

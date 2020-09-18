@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7595728
 longitude: 8.5474315
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Bösendamm"
 housenumber: 3

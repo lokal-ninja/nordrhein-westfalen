@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.6648294
 longitude: 6.797181
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Erftstraße"
 housenumber: 54

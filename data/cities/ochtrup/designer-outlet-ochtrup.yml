@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.211380600000005
 longitude: 7.1962861
-postcode: 48607
+postcode: "48607"
 city: Ochtrup
 street: "Laurenzstraße"
 housenumber: 51-55

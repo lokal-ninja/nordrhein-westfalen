@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.928319200000004
 longitude: 7.3524262
-postcode: 48301
+postcode: "48301"
 city: Nottuln
 street: "Hanhoff"
 housenumber: 5

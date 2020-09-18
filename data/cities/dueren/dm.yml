@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.809817800000005
 longitude: 6.4777648
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Josef-Schregel-Straße"
 housenumber: 57-59

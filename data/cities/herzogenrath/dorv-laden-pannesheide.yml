@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.847131000000005
 longitude: 6.0679442
-postcode: 52134
+postcode: "52134"
 city: Herzogenrath
 street: "Pannesheider Straße"
 housenumber: 61

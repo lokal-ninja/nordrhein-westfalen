@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4901459
 longitude: 7.142694400000001
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Am Beisenkamp"
 housenumber: 33

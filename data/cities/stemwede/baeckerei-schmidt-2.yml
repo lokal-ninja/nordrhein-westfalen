@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.3851001
 longitude: 8.448647000000001
-postcode: 32351
+postcode: "32351"
 city: Stemwede
 street: "Niederdorfstraße"
 housenumber: 7
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 5745 1565"
+opening_hours: "Mo-Sa 07:00-20:00; So 07:30-12:00"
+website: "https://www.baeckerei-schmidt.de/filialen"

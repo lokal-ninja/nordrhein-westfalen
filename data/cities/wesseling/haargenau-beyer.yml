@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8256
 longitude: 6.9824307
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Bahnhofstraße"
 housenumber: 5

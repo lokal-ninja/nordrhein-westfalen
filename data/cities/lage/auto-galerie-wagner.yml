@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9760264
 longitude: 8.8218133
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Daimlerstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.5166448
 longitude: 6.3235073
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Markt"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.364360000000005
 longitude: 7.2460374000000005
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Hauptstraße"
 housenumber: 76

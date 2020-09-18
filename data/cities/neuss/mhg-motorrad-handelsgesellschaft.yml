@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.216511100000005
 longitude: 6.6817019
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Römerstraße"
 housenumber: 134

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.428546600000004
 longitude: 6.843384400000001
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 268

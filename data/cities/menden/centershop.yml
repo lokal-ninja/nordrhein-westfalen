@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.418866400000006
 longitude: 7.8283725
-postcode: 58710
+postcode: "58710"
 city: Menden
 street: "Salzweg"
 housenumber: 1

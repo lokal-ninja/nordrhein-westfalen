@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.361284700000006
 longitude: 7.495674
-postcode: 58093
+postcode: "58093"
 city: Hagen
 street: "Eppenhauser Straße"
 housenumber: 50

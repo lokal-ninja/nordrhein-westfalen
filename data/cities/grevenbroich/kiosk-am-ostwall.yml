@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.088081200000005
 longitude: 6.5924662000000005
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 32

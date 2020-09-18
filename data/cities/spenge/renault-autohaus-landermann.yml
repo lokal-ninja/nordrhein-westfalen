@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1446392
 longitude: 8.4965189
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Industriestraße"
 housenumber: 25

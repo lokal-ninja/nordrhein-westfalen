@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.499953500000004
 longitude: 7.205179200000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Speicherstraße"
 housenumber: 2
 phone: "+49 234 957 186 20"
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.kaufland.de/?cid=F3000B01C0100K01035W04002002D1000E1000F1000G1000H1000&campaign=946794179&adgroupid=43810263301&keyword=%2Bkaufland%20%2Bbochum&matchtype=b&gclid=EAIaIQobChMIrKiSi6z63wIVRqqaCh2CuwrrEAAYASAAEgKPMvD_BwE"
+website: "https://www.kaufland.de/"

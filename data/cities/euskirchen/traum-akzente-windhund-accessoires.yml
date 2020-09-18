@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.682789
 longitude: 6.8305334
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Heinrich-Barth-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.621155900000005
 longitude: 6.871602200000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Burg Ringsheim"
 housenumber: 5

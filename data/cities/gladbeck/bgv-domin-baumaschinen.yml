@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 51.5539203
 longitude: 6.992851900000001
-postcode: 45968
+postcode: "45968"
 city: Gladbeck
 street: "Europastraße"
 housenumber: 44

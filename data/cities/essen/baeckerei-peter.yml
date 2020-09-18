@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.421412800000006
 longitude: 7.0010946
-postcode: 45133
+postcode: "45133"
 city: Essen
 street: "Wiedfeldtstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.5352503
 longitude: 6.4313789
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Vogt-von-Belle-Platz"
 housenumber: 13

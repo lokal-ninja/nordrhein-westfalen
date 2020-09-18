@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.778853500000004
 longitude: 8.4761399
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Enger Weg"
 housenumber: 19

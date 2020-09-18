@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.922476700000004
 longitude: 6.9285332
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Weyertal"
 housenumber: 18

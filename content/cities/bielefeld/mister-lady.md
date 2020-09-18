@@ -1,4 +1,4 @@
 ---
-title: "mister lady"
+title: "mister*lady"
 url: /bielefeld/mister-lady/
 ---

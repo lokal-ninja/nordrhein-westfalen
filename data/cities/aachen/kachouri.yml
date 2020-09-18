@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7819477
 longitude: 6.102803300000001
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Jülicher Straße"
 housenumber: 123

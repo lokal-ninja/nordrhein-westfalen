@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.21728340000001
 longitude: 6.7789349
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Luisenstraße"
 housenumber: 23

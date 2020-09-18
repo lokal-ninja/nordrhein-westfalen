@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6925846
 longitude: 8.6970463
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Kleestraße"
 housenumber: 39

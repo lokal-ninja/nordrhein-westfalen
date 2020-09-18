@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.217008
 longitude: 7.627764600000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 19

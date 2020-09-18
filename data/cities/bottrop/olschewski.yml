@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.5235653
 longitude: 6.9306995
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Horster Straße"
 housenumber: 37

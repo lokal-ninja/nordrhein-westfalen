@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.0837173
 longitude: 8.744565300000001
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Schießhofstraße"
 housenumber: 19

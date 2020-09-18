@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.18898900000001
 longitude: 8.3127803
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Am Kurhaus"
 housenumber: 12

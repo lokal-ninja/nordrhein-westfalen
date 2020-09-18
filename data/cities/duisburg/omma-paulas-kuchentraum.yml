@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.4385562
 longitude: 6.7806296
-postcode: 47058
+postcode: "47058"
 city: Duisburg
 street: "Hansastraße"
 housenumber: 98

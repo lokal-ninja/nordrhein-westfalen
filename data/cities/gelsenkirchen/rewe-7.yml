@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5139578
 longitude: 7.1224252
-postcode: 45888
+postcode: "45888"
 city: Gelsenkirchen
 street: "Brüsseler Straße"
 housenumber: 2

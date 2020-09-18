@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4740265
 longitude: 6.2229527000000004
-postcode: 5944BD
+postcode: "5944BD"
 city: Arcen
 street: "Lingsforterweg"
 housenumber: 145

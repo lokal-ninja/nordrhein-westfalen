@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.3822234
 longitude: 7.449137
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Becheltestraße"
 housenumber: 34

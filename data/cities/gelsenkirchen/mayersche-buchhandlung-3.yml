@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5785837
 longitude: 7.0545938
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Springemarkt"
 housenumber: 3

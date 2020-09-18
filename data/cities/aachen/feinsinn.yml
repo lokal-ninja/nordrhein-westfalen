@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.782544
 longitude: 6.0772748000000005
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 12a

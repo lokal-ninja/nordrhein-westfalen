@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4985371
 longitude: 9.149332000000001
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Obere Hilgenstock"
 housenumber: 32

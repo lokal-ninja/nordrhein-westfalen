@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.7486754
 longitude: 8.328170400000001
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Kirchstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.387251600000006
 longitude: 7.387658300000001
-postcode: 58300
+postcode: "58300"
 city: Wetter (Ruhr)
 street: "An der Kirche"
 housenumber: 11

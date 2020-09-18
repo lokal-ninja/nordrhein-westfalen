@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.233283300000004
 longitude: 8.9417606
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Eisberger Straße"
 housenumber: 2

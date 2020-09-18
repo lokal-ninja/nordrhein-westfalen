@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.278938700000005
 longitude: 7.4337119000000005
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Kardinal-Galen-Ring"
 housenumber: 4

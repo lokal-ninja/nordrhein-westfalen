@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.8889415
 longitude: 8.360704
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Hans-Böckler-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0945775
 longitude: 6.811794300000001
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 1

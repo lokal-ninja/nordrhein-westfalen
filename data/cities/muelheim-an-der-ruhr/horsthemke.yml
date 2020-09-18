@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4249311
 longitude: 6.8457892000000005
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Wissollstraße"
 housenumber: 60

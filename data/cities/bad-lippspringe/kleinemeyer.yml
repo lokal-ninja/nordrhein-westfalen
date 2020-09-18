@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.7731993
 longitude: 8.809674000000001
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Gladiolenweg"
 housenumber: 15b

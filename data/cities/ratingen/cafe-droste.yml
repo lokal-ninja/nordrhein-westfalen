@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3275997
 longitude: 6.9030924
-postcode: 40883
+postcode: "40883"
 city: Ratingen
 street: "Eggerscheidter Straße"
 housenumber: 60

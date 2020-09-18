@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 51.1439303
 longitude: 6.282441100000001
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Am Bahnhof"
 housenumber: 10
-phone: "+49 2434 9933977"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su, PH off"
-website: "http://www.monas-wegberg.de/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH,Su off"
+website: ""

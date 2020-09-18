@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.812817
 longitude: 7.036841900000001
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Hauptstraße"
 housenumber: 42

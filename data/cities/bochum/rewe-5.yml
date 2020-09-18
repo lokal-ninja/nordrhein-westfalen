@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.47714860000001
 longitude: 7.2164767
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 17

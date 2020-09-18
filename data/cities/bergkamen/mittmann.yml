@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.6153886
 longitude: 7.596941900000001
-postcode: 59192
+postcode: "59192"
 city: Bergkamen
 street: "Jahnstraße"
 housenumber: 81

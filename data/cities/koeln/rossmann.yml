@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.969064100000004
 longitude: 6.9299154000000005
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Schiefersburger Weg"
 housenumber: 50

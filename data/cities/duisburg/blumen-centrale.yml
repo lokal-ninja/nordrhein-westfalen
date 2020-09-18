@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4324974
 longitude: 6.7678354
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Claubergstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4439159
 longitude: 8.3409978
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "St. Poler-Straße"
 housenumber: 17,19,21

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.578966400000006
 longitude: 7.0537239000000005
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 19

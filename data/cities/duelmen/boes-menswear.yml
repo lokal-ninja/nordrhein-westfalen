@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.8297675
 longitude: 7.2780044
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Markt"
 housenumber: 5

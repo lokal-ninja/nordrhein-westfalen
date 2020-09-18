@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9326938
 longitude: 7.2858684
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Hauptstraße"
 housenumber: 44

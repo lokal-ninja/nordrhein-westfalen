@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.297943100000005
 longitude: 6.8514492
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Oberstraße"
 housenumber: 17

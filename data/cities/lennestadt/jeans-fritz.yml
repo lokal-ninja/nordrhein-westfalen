@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.103353000000006
 longitude: 8.0718162
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Hundemstraße"
 housenumber: 32

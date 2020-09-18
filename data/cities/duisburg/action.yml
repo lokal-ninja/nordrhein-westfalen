@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.389064600000005
 longitude: 6.7083474
-postcode: 47229
+postcode: "47229"
 city: Duisburg
 street: "Kronprinzenstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.39876700000001
 longitude: 7.174059000000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Kreisstraße"
 housenumber: 31

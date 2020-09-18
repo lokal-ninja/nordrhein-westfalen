@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.1305016
 longitude: 7.5541977000000005
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Bahnhofstraße"
 housenumber: 12

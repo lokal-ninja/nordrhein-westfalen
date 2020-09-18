@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4898807
 longitude: 7.2268227000000005
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Klinikstraße"
 housenumber: 49

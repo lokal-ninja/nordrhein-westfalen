@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.045232500000004
 longitude: 6.9852824
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Overfeldweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4383509
 longitude: 7.3373518
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Ruhrstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.452576
 longitude: 7.192638100000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 367

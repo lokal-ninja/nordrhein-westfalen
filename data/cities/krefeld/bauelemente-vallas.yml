@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.343454200000004
 longitude: 6.5522638
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Hülser Straße"
 housenumber: 123

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.257907700000004
 longitude: 7.149700500000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Kipdorf"
 housenumber: 26

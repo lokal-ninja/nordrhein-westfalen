@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9307257
 longitude: 6.937487900000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Rathenauplatz"
 housenumber: 4

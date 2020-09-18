@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.45920460000001
 longitude: 7.0706796
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Am Zehnthof"
 housenumber: 187

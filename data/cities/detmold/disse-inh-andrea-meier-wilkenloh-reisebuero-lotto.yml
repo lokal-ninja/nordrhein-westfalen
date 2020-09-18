@@ -3,7 +3,7 @@ type: way
 shop: Lotterie
 latitude: 51.944321800000004
 longitude: 8.8395697
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Bielefelder Straße"
 housenumber: 254

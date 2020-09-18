@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.3908027
 longitude: 8.0629945
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Eichholzstraße"
 housenumber: 18a

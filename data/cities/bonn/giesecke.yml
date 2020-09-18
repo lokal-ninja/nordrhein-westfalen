@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.712853700000004
 longitude: 7.109471800000001
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Pützstraße"
 housenumber: 39

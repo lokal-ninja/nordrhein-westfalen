@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.397922
 longitude: 7.1830167000000005
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Große Weilstraße"
 housenumber: 25

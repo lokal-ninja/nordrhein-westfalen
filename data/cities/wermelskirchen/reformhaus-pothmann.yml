@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.138978800000004
 longitude: 7.213322700000001
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Kölner Straße"
 housenumber: 56

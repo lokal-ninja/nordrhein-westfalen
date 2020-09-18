@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.5623991
 longitude: 8.0093981
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Lindweg"
 housenumber: 66

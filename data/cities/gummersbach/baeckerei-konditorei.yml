@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.045557900000006
 longitude: 7.548868100000001
-postcode: 51647
+postcode: "51647"
 city: Gummersbach
 street: "Hückeswagener Straße"
 housenumber: 68

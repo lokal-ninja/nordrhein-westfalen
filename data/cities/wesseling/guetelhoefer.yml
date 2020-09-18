@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.822428800000004
 longitude: 6.9783303000000005
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Flach-Fengler-Straße"
 housenumber: 51

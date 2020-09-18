@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.117968000000005
 longitude: 6.7750821000000006
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Bismarckstraße"
 housenumber: 59

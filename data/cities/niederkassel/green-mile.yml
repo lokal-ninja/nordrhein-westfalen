@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8303293
 longitude: 7.012549600000001
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Lenaustraße"
 housenumber: 80-82

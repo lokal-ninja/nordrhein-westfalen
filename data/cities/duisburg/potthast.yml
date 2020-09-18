@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.383937100000004
 longitude: 6.761487600000001
-postcode: 47249
+postcode: "47249"
 city: Duisburg
 street: "Münchener Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.8564115
 longitude: 8.009191600000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Eiserfelder Straße"
 housenumber: 176

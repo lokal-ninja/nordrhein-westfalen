@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.893559800000006
 longitude: 6.9943096
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 90

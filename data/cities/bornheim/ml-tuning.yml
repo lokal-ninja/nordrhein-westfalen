@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.79051260000001
 longitude: 7.0260978000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Alemannenweg"
 housenumber: 20

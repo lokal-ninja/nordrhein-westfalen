@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.492080900000005
 longitude: 8.086474200000001
-postcode: 59519
+postcode: "59519"
 city: Möhnesee
 street: "Auf der Liet"
 housenumber: 1

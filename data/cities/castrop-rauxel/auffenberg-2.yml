@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.592127700000006
 longitude: 7.3427503000000005
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Vinckestraße"
 housenumber: 143

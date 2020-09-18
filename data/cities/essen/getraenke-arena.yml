@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4475757
 longitude: 6.9672244
-postcode: 45145
+postcode: "45145"
 city: Essen
 street: "Rüdesheimer Straße"
 housenumber: 11

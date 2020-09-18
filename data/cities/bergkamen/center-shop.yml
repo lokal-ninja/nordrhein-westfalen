@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.616318500000006
 longitude: 7.658364100000001
-postcode: 59192
+postcode: "59192"
 city: Bergkamen
 street: "Am Roggenkamp"
 housenumber: 2

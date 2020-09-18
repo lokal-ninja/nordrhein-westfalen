@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.0304348
 longitude: 8.5572254
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Hakenort"
 housenumber: 45e

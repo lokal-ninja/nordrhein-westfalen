@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.26352180000001
 longitude: 6.7758427
-postcode: 40468
+postcode: "40468"
 city: Düsseldorf
 street: "Kalkumer Straße"
 housenumber: 14

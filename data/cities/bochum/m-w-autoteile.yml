@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.4897208
 longitude: 7.138447200000001
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Am Beisenkamp"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.226950800000004
 longitude: 8.8249552
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Dehmer Straße"
 housenumber: 45

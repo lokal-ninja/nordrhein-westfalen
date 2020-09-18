@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.522852400000005
 longitude: 7.3700216
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Frohlinder Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1362122
 longitude: 8.7776309
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Detmolder Straße"
 housenumber: 254

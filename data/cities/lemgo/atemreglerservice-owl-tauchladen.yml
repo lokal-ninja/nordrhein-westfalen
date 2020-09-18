@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 52.034543500000005
 longitude: 8.8259678
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Weststraße"
 housenumber: 51

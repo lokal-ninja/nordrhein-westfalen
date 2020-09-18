@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3097992
 longitude: 8.669727
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Nettelstedter Straße"
 housenumber: 26

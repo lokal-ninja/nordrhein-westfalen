@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.0146972
 longitude: 8.549488100000001
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Oelmühlenstraße"
 housenumber: 89

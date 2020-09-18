@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.626839000000004
 longitude: 7.656009
-postcode: 59192
+postcode: "59192"
 city: Bergkamen
 street: "Industriestraße"
 housenumber: 110

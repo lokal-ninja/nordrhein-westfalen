@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.44840000000001
 longitude: 6.955771800000001
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Frohnhauser Straße"
 housenumber: 448

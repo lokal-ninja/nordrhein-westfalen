@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.9170474
 longitude: 6.0876964000000005
-postcode: 6374LS
+postcode: "6374LS"
 city: Landgraaf
 street: "Palenbergerweg"
 housenumber: 3

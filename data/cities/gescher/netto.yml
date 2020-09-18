@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.954603500000005
 longitude: 6.999249900000001
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Hofstraße"
 housenumber: 70

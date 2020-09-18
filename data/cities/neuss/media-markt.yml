@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.181923000000005
 longitude: 6.6837068
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Konrad-Adenauer-Ring"
 housenumber: 95

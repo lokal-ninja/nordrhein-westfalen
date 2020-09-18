@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.076459500000006
 longitude: 7.0076757
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Königstraße"
 housenumber: 1

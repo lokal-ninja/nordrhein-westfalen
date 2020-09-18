@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.486631700000004
 longitude: 7.214503700000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Herner Straße"
 housenumber: 14

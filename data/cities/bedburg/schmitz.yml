@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.9920357
 longitude: 6.5722130000000005
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Lindenstraße"
 housenumber: 19a

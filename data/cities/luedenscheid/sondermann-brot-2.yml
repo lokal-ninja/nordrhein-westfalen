@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.23890230000001
 longitude: 7.676914200000001
-postcode: 58513
+postcode: "58513"
 city: Lüdenscheid
 street: "Brunscheider Straße"
 housenumber: 51

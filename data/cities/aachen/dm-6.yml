@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.775031000000006
 longitude: 6.0851348000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Ursulinerstraße"
 housenumber: 7-9

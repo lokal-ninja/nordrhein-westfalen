@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.635991700000005
 longitude: 8.50975
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Kleiner Hellweg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6563462
 longitude: 6.9690035
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Am Wasserturm"
 housenumber: 5

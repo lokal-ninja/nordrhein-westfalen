@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7733075
 longitude: 6.087076700000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kapuzinergraben"
 housenumber: 5-7

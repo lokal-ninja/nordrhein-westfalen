@@ -1,4 +1,4 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /essen/edeka-4/
 ---

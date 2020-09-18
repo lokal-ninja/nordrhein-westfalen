@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.212753600000006
 longitude: 7.644283400000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Schützenstraße"
 housenumber: 4A

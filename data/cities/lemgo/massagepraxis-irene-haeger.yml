@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.028974600000005
 longitude: 8.8910234
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Grünstraße"
 housenumber: 4

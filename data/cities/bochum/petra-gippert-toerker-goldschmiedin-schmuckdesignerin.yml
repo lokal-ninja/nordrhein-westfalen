@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.454681400000005
 longitude: 7.200577600000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Wasserstraße"
 housenumber: 432

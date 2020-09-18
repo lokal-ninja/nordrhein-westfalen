@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.570461900000005
 longitude: 7.220743400000001
-postcode: 45663
+postcode: "45663"
 city: Recklinghausen
 street: "Marienstraße"
 housenumber: 59

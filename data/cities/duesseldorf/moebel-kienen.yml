@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.2629451
 longitude: 6.811547300000001
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Westfalenstraße"
 housenumber: 14

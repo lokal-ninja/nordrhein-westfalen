@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.17925210000001
 longitude: 8.7534686
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Koblenzer Straße"
 housenumber: 249

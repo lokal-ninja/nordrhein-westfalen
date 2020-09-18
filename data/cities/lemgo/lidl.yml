@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.028063700000004
 longitude: 8.883350700000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Herforder Straße"
 housenumber: 71

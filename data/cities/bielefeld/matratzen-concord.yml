@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.987903200000005
 longitude: 8.5141346
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 45

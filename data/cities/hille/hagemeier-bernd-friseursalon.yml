@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.302397400000004
 longitude: 8.731671200000001
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Lübbecker Straße"
 housenumber: 338

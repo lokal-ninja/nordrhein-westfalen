@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.9241649
 longitude: 6.3635342
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Neusser Straße"
 housenumber: 1

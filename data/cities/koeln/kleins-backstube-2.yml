@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.876342300000005
 longitude: 6.9583697
-postcode: 50997
+postcode: "50997"
 city: Köln
 street: "Rodenkirchener Straße"
 housenumber: 150

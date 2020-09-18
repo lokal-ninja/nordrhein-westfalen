@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8254591
 longitude: 6.6148359
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 70

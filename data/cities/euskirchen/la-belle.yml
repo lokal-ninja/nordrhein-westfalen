@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.660137500000005
 longitude: 6.7886186
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 23

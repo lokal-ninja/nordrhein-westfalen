@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.1344496
 longitude: 6.5037323
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Wey"
 housenumber: 64

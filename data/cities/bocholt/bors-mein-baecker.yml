@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8148081
 longitude: 6.6166745
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Willi-Pattberg-Ring"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.6491021
 longitude: 6.192884
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Rosentalstraße"
 housenumber: 59

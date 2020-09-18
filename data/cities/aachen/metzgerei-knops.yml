@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.750636
 longitude: 6.0865100000000005
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Eupener Straße"
 housenumber: 200

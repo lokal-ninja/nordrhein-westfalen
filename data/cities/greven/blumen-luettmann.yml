@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.1324605
 longitude: 7.5603724
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Bahnhofstraße"
 housenumber: 37

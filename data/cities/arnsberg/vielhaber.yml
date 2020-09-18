@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3976571
 longitude: 8.0728711
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Rumbecker Straße"
 housenumber: 7

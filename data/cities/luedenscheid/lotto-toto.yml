@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.228672800000005
 longitude: 7.653129300000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Glatzer Straße"
 housenumber: 1

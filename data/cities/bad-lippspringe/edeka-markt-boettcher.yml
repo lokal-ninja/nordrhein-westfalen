@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7828377
 longitude: 8.820039600000001
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Marktstraße"
 housenumber: 6

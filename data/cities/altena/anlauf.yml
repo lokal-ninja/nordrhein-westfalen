@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3017404
 longitude: 7.6678706000000005
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Bahnhofstraße"
 housenumber: 31

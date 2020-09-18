@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.006056900000004
 longitude: 8.4135003
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Bahnhofstraße"
 housenumber: 10a

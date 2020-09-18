@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.183444300000005
 longitude: 6.8222271
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Kölner Landstraße"
 housenumber: 270

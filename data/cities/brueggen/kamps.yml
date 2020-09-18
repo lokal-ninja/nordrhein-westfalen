@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.285503500000004
 longitude: 6.1941987
-postcode: 41379
+postcode: "41379"
 city: Brüggen
 street: "Kaldenkirchener Straße"
 housenumber: 6

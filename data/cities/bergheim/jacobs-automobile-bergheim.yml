@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9482111
 longitude: 6.625826
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Lechenicher Straße"
 housenumber: 30-38

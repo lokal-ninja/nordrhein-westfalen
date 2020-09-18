@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2023718
 longitude: 6.9020231
-postcode: 40627
+postcode: "40627"
 city: Düsseldorf
 street: "Gerresheimer Landstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.727523100000006
 longitude: 7.073356
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Endenicher Straße"
 housenumber: 305

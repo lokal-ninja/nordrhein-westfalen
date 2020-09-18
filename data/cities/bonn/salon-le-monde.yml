@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.732185300000005
 longitude: 7.0997719
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Maximilianstraße"
 housenumber: 8

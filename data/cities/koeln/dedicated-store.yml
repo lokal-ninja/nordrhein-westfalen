@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.948489800000004
 longitude: 6.9523137
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Hamburger Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4887759
 longitude: 9.1311493
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Wilhelm-Raabe-Straße"
 housenumber: 10

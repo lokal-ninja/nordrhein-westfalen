@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0312515
 longitude: 6.6970844000000005
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.0515795
 longitude: 6.9988552
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Adolf-Kaschny-Straße"
 housenumber: 1-5

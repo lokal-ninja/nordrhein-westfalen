@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.372044
 longitude: 8.627908300000001
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Hindenburgring"
 housenumber: 3

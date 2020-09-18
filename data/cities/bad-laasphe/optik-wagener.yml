@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9266045
 longitude: 8.411809700000001
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Lahnstraße"
 housenumber: 10

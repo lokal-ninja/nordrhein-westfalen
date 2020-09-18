@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.5345342
 longitude: 9.277768100000001
-postcode: 34434
+postcode: "34434"
 city: Borgentreich
 street: "Im Tirol"
 housenumber: 2

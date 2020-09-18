@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.3719886
 longitude: 6.7475771
-postcode: 47259
+postcode: "47259"
 city: Duisburg
 street: "Angerhauser Straße"
 housenumber: 47
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu 09:00-16:00; We-Fr 08:00-17:30; Sa 08:00-14:00"
 website: ""

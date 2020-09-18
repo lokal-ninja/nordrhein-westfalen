@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6429601
 longitude: 6.8073749
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Lilienstraße"
 housenumber: 69

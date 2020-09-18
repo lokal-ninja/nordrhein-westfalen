@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.590311
 longitude: 6.9793722
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Beethovenstraße"
 housenumber: 2

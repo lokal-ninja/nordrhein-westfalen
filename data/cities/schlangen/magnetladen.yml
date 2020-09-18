@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.803903000000005
 longitude: 8.821495
-postcode: 33189
+postcode: "33189"
 city: Schlangen
 street: "Gewerbepark"
 housenumber: 16a

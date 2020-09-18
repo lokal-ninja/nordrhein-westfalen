@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1076119
 longitude: 6.824335400000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Roseller Straße"
 housenumber: 1

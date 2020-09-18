@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5210901
 longitude: 7.3674951
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Bockenfelder Straße"
 housenumber: 6

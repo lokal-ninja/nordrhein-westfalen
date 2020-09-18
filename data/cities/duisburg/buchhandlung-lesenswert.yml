@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5251357
 longitude: 6.7430946
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 128

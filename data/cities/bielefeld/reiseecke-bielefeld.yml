@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.032543800000006
 longitude: 8.6039069
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Salzufler Straße"
 housenumber: 1

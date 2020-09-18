@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3468001
 longitude: 8.283083300000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Ruhrstraße"
 housenumber: 6

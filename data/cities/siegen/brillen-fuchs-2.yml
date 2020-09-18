@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8751006
 longitude: 8.025253600000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Markt"
 housenumber: 31-33

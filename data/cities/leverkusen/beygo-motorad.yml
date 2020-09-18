@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.053480500000006
 longitude: 7.001279500000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Adolf-Kaschny-Straße"
 housenumber: 16a

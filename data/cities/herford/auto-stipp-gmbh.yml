@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1242061
 longitude: 8.661055300000001
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Ramker Weg"
 housenumber: 6

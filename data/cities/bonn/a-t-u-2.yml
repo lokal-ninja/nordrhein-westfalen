@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7471687
 longitude: 7.123807200000001
-postcode: 53225
+postcode: "53225"
 city: Bonn
 street: "Clemensstraße"
 housenumber: 96

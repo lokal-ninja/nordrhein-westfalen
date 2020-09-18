@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.523085
 longitude: 6.686203300000001
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
 street: "Kuhstraße"
 housenumber: 21

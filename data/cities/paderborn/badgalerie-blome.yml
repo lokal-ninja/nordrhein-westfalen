@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 51.7419049
 longitude: 8.7205118
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Marienloher Straße"
 housenumber: 20

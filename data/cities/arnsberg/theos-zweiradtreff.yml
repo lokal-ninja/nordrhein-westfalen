@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.414396700000005
 longitude: 8.0500422
-postcode: 59823
+postcode: "59823"
 city: Arnsberg
 street: "Dieselstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.0904572
 longitude: 7.2319165000000005
-postcode: 48624
+postcode: "48624"
 city: Schöppingen
 street: "Amtsstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.431168400000004
 longitude: 6.832685100000001
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 355-363

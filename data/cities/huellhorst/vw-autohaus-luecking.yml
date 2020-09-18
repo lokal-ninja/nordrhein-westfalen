@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2638637
 longitude: 8.6830345
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Löhner Straße"
 housenumber: 69

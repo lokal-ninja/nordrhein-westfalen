@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6249357
 longitude: 6.9627951
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Meckenheimer Straße"
 housenumber: 12

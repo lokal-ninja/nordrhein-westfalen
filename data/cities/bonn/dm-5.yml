@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7326738
 longitude: 7.100424800000001
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Martinsplatz"
 housenumber: 2a

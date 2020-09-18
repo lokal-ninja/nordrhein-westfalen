@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.387803500000004
 longitude: 6.739656
-postcode: 53945
+postcode: "53945"
 city: Blankenheim
 street: "Steingasse"
 housenumber: 2

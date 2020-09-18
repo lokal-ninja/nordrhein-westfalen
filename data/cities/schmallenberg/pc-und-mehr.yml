@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.192676600000006
 longitude: 8.3110566
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Hochstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 51.557890400000005
 longitude: 7.545132400000001
-postcode: 44328
+postcode: "44328"
 city: Dortmund
 street: "Droote"
 housenumber: 58

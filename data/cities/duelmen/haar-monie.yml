@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8389582
 longitude: 7.270741
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Josef-Heiming-Straße"
 housenumber: 16

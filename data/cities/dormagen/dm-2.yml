@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.0930212
 longitude: 6.841764700000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 74;76

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.794279800000005
 longitude: 6.1089234
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Grüner Weg"
 housenumber: 105

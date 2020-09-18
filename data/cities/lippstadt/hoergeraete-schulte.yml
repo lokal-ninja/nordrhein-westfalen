@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.6657306
 longitude: 8.3451308
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Erwitter Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.521354200000005
 longitude: 8.70085
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Mittelstraße"
 housenumber: 18

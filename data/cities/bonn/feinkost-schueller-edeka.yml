@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.683971500000006
 longitude: 7.1694465
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Konstantinstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.264231200000005
 longitude: 7.463235600000001
-postcode: 58339
+postcode: "58339"
 city: Breckerfeld
 street: "Windmühlenstraße"
 housenumber: 22

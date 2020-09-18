@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 52.274401000000005
 longitude: 8.705128100000001
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Schnathorster Straße"
 housenumber: 182
 phone: "+49 5744 2853"
 opening_hours: "Mo-Fr 07:30-19:00, Sa 07:30-14:00"
-website: ""
+website: "https://www.meyer-hille.com/"

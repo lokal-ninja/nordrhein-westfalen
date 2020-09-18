@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.9784859
 longitude: 6.948240800000001
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "Roßbachstraße"
 housenumber: 1

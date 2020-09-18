@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0979905
 longitude: 7.6179418000000005
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Bismarckstraße"
 housenumber: 45-47

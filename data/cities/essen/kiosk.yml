@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.453680600000006
 longitude: 7.0301767
-postcode: 45139
+postcode: "45139"
 city: Essen
 street: "Metzer Straße"
 housenumber: 15

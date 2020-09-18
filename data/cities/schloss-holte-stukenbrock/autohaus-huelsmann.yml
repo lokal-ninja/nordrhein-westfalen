@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.904332100000005
 longitude: 8.6376264
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Holter Straße"
 housenumber: 128

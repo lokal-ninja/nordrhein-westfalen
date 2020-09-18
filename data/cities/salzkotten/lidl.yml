@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.6699409
 longitude: 8.596010900000001
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Geseker Straße"
 housenumber: 30
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: "Mo-Sa 08:00-21:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.795344400000005
 longitude: 7.2080147000000006
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Mühlenstraße"
 housenumber: 20

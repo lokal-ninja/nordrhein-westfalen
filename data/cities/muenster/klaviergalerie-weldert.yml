@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.9505282
 longitude: 7.632118800000001
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Friedrich-Ebert-Straße"
 housenumber: 43

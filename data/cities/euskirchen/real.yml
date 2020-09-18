@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.646082
 longitude: 6.802479900000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Narzissenweg"
 housenumber: 25

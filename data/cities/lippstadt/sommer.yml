@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6701958
 longitude: 8.346486200000001
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Südertor"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0089048
 longitude: 8.5188419
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Artur-Ladebeck-Straße"
 housenumber: 81

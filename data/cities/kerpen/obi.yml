@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.882842200000006
 longitude: 6.6907709
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Sindorfer Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.660000100000005
 longitude: 6.6422097
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Schermbecker Landstraße"
 housenumber: 45

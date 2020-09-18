@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.116591400000004
 longitude: 8.6648178
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Steinstraße"
 housenumber: 12

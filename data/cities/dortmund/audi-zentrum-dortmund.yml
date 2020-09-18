@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5068867
 longitude: 7.528480900000001
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Ludwig-Lohner-Straße"
 housenumber: 7

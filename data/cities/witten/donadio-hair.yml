@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4392974
 longitude: 7.3376739
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Obergasse"
 housenumber: 1

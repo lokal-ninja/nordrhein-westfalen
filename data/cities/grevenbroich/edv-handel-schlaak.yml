@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.085656
 longitude: 6.5942116
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Auf der Schanze"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.8305299
 longitude: 7.2785415
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Coesfelder Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.612309700000004
 longitude: 7.1974834
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Hermann-Bresser-Straße"
 housenumber: 3

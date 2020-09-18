@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.7658143
 longitude: 6.127108300000001
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Trierer Straße"
 housenumber: 180

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.019674
 longitude: 8.543778
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Teutoburger Straße"
 housenumber: 96

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.190560700000006
 longitude: 7.2566964
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Kölner Straße"
 housenumber: 38-40

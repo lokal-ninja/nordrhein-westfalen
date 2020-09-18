@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.478381000000006
 longitude: 7.2094984
-postcode: 44793
+postcode: "44793"
 city: Bochum
 street: "Annastraße"
 housenumber: 29

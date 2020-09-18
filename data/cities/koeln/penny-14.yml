@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9377896
 longitude: 6.8428605000000005
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Aachener Straße"
 housenumber: 1155-1159

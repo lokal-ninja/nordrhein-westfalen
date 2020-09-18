@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.439142800000006
 longitude: 7.3497884
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Dortmunder Straße"
 housenumber: 18

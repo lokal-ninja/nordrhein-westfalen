@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9745501
 longitude: 7.605638300000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Steinfurter Straße"
 housenumber: 104

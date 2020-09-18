@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5131462
 longitude: 7.443300700000001
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "Rheinische Straße"
 housenumber: 93

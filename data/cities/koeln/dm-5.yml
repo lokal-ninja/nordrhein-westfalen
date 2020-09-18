@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9120624
 longitude: 6.964482
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Schönhauser Straße"
 housenumber: 60-62

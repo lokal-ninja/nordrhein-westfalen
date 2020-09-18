@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.846616600000004
 longitude: 7.483524
-postcode: 48308
+postcode: "48308"
 city: Senden
 street: "Messingweg"
 housenumber: 3

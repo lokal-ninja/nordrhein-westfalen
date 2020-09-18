@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.744649200000005
 longitude: 8.713492200000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Residenzstraße"
 housenumber: 

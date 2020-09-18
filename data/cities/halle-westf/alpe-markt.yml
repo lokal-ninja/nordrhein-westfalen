@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.0626508
 longitude: 8.353283000000001
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Gausekampweg"
 housenumber: 9

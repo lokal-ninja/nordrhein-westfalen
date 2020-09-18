@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.9499368
 longitude: 6.960490200000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Theodor-Heuss-Ring"
 housenumber: 18

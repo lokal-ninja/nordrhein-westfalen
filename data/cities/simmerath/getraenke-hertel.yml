@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.612923300000006
 longitude: 6.377754
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "In den Birken"
 housenumber: 18

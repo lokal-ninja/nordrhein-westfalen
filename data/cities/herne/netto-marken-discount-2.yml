@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.55711
 longitude: 7.2388481
-postcode: 44628
+postcode: "44628"
 city: Herne
 street: "Jürgens Hof"
 housenumber: 71

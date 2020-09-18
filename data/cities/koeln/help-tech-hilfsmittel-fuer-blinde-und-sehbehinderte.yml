@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9072194
 longitude: 6.9181895
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Luxemburger Straße"
 housenumber: 378

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.51427940000001
 longitude: 7.4700603
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Ostenhellweg"
 housenumber: 27-29

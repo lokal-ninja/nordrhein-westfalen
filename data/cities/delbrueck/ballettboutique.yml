@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7690143
 longitude: 8.5742135
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Im Schlingfeld"
 housenumber: 2

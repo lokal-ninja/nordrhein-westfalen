@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6454862
 longitude: 7.2554866
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Stimbergstraße"
 housenumber: 197

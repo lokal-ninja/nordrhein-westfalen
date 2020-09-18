@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.113629100000004
 longitude: 6.3303042000000005
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Gladbacher Straße"
 housenumber: 21-27

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.031269300000005
 longitude: 6.695936100000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 6

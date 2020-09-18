@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8457139
 longitude: 6.3578877
-postcode: 52459
+postcode: "52459"
 city: Inden
 street: "Rathausstraße"
 housenumber: 8a

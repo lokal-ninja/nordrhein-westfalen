@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 50.602348600000006
 longitude: 6.848786700000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Am Klosterberg"
 housenumber: 5

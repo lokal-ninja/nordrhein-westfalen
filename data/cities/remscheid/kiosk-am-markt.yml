@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1794555
 longitude: 7.194022
-postcode: 42853
+postcode: "42853"
 city: Remscheid
 street: "Markt"
 housenumber: 6

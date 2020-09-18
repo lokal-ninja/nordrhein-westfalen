@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.6808137
 longitude: 7.8165262
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Weststraße"
 housenumber: 25

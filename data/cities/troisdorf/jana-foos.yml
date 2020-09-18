@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 50.8129396
 longitude: 7.160140800000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Pfarrer-Kenntemich-Platz"
 housenumber: 19

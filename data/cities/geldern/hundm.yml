@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.5165863
 longitude: 6.3236723
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Markt"
 housenumber: 21

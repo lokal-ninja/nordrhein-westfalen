@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9851037
 longitude: 6.9073918
-postcode: 48703
+postcode: "48703"
 city: Stadtlohn
 street: "Gustav-Adolf-Straße"
 housenumber: 15

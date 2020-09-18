@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.564070300000004
 longitude: 8.375419200000001
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Rüthener Straße"
 housenumber: 22

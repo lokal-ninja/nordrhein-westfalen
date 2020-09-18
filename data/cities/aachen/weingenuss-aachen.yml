@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.7706151
 longitude: 6.0903545
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Wallstraße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.242530800000004
 longitude: 6.7816279
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Roßstraße"
 housenumber: 6

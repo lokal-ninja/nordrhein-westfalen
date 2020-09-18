@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.2421937
 longitude: 7.618060900000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Dannenbergstraße"
 housenumber: 11

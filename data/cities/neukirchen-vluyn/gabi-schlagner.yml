@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.43841990000001
 longitude: 6.530932000000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Niederrheinallee"
 housenumber: 327

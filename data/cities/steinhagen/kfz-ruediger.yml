@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.0037062
 longitude: 8.4160202
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Queller Straße"
 housenumber: 8a

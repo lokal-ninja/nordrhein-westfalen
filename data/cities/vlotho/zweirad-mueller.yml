@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.155399900000006
 longitude: 8.8428243
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Herforder Straße"
 housenumber: 98

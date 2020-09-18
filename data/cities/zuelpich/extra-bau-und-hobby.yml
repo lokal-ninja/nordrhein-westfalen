@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.6992686
 longitude: 6.6625826
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Karolingerstraße"
 housenumber: 1

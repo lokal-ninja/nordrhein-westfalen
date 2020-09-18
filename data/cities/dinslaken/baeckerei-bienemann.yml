@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5514595
 longitude: 6.7466134
-postcode: 46535
+postcode: "46535"
 city: Dinslaken
 street: "Averbruchstraße"
 housenumber: 81

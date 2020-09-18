@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.485665600000004
 longitude: 7.0634961
-postcode: 45309
+postcode: "45309"
 city: Essen
 street: "Huestraße"
 housenumber: 119

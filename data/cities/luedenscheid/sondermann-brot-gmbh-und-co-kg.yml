@@ -1,12 +1,12 @@
 id: 348266126
 type: node
 shop: Bäckerei
-latitude: 51.209171500000004
-longitude: 7.569626400000001
-postcode: 58515
+latitude: 51.20913710000001
+longitude: 7.569588800000001
+postcode: "58515"
 city: Lüdenscheid
 street: "Volmestraße"
 housenumber: 36
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00"
+website: "https://www.sondermann-brot.de/filialen-bz"

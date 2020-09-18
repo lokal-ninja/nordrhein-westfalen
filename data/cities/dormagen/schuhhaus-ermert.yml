@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.0942238
 longitude: 6.8408404
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 102

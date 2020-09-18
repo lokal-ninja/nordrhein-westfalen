@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0823454
 longitude: 7.117055700000001
-postcode: 51399
+postcode: "51399"
 city: Burscheid
 street: "Hauptstraße"
 housenumber: 9

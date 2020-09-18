@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2013879
 longitude: 7.2548791
-postcode: 48607
+postcode: "48607"
 city: Ochtrup
 street: "Dorfstraße"
 housenumber: 5

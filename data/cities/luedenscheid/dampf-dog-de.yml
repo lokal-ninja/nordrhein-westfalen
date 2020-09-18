@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.21182760000001
 longitude: 7.6438782000000005
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Schlachthausstraße"
 housenumber: 1

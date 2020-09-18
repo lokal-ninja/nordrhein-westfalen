@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7888694
 longitude: 8.8254801
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Detmolder Straße"
 housenumber: 221-225

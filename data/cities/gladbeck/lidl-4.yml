@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5585388
 longitude: 6.9454355
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hornstraße"
 housenumber: 5

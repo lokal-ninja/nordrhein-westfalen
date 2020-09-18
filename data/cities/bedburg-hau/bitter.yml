@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7682183
 longitude: 6.1968416
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Kalkarer Straße"
 housenumber: 33

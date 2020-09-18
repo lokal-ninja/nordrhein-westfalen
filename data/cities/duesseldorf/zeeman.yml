@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.1759913
 longitude: 6.8326093000000006
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 1

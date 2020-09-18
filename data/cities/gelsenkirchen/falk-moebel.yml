@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.5765049
 longitude: 7.0512668000000005
-postcode: 45897
+postcode: "45897"
 city: Gelsenkirchen
 street: "Horster Straße"
 housenumber: 31;33

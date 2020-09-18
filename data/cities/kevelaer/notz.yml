@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5975009
 longitude: 6.2878384
-postcode: 47626
+postcode: "47626"
 city: Kevelaer
 street: "Hauptstraße"
 housenumber: 24

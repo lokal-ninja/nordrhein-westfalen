@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.719427800000005
 longitude: 8.7541901
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Michaelstraße"
 housenumber: 7

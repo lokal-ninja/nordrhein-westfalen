@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.437380100000006
 longitude: 7.106467100000001
-postcode: 45279
+postcode: "45279"
 city: Essen
 street: "Dahlhauser Straße"
 housenumber: 179
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00;Su,PH off"
+opening_hours: "Mo-Sa 08:00-20:00;Su off; PH off"
 website: ""

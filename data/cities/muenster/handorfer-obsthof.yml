@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.978168000000004
 longitude: 7.705631100000001
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: "Handorfer Straße"
 housenumber: 103

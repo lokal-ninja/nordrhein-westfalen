@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.937125
 longitude: 7.169039400000001
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Dülmener Straße"
 housenumber: 25b

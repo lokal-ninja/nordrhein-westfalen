@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.183239300000004
 longitude: 7.2555465
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Franz-Vogt-Straße"
 housenumber: 2

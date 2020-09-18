@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.7862919
 longitude: 6.1359484
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Stechbahn"
 housenumber: 7

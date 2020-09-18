@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9121347
 longitude: 8.386337300000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Berliner Straße"
 housenumber: 135

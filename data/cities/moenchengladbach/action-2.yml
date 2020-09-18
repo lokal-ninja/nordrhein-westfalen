@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.1732652
 longitude: 6.3981057
-postcode: 41069
+postcode: "41069"
 city: Mönchengladbach
 street: "Aachener Straße"
 housenumber: 699

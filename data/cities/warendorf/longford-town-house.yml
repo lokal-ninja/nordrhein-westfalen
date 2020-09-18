@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9513231
 longitude: 7.991242000000001
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Oststraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.742411700000005
 longitude: 8.7281081
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Heisenbergstraße"
 housenumber: 2

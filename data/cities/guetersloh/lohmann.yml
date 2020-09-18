@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.905059200000004
 longitude: 8.3751333
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Daltropstraße"
 housenumber: 5

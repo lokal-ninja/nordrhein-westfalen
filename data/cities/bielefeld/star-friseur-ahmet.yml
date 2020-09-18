@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0238042
 longitude: 8.5368669
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Kesselbrink"
 housenumber: 5

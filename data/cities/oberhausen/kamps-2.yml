@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4690195
 longitude: 6.8512247
-postcode: 
+postcode: ""
 city: Oberhausen
 street: "Marktstraße"
 housenumber: 41

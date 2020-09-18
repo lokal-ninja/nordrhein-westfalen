@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.104583000000005
 longitude: 8.934413600000001
-postcode: 32689
+postcode: "32689"
 city: Kalletal
 street: "Fassensteg"
 housenumber: 4

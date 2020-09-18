@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.667693500000006
 longitude: 7.8224783
-postcode: 59063
+postcode: "59063"
 city: Hamm
 street: "Langewanneweg"
 housenumber: 94

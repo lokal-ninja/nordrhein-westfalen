@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9393631
 longitude: 8.4820519
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Zur Großen Heide"
 housenumber: 62

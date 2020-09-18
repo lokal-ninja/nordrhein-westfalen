@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.658750000000005
 longitude: 6.7937602
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Oststraße"
 housenumber: 17

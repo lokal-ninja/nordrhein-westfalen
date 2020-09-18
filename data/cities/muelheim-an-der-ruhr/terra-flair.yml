@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.3903079
 longitude: 6.8677745
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Kölner Straße"
 housenumber: 160

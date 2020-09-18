@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9386857
 longitude: 7.1814420000000005
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Daruper Straße"
 housenumber: 56

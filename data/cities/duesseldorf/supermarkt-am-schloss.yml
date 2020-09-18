@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1623371
 longitude: 6.864745200000001
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Sophienstraße"
 housenumber: 19

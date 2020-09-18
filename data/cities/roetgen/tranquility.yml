@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.645153400000005
 longitude: 6.192192400000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Jennepeterstraße"
 housenumber: 28

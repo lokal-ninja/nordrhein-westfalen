@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6604602
 longitude: 6.968275500000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Platz der Deutschen Einheit"
 housenumber: 1

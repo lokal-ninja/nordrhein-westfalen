@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.8800144
 longitude: 8.5037689
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Westfalenweg"
 housenumber: 16

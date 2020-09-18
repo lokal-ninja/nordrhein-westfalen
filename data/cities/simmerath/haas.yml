@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.607538600000005
 longitude: 6.3011603
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Hauptstraße"
 housenumber: 61

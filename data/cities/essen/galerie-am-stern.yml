@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.4371534
 longitude: 7.0062379
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rosastraße"
 housenumber: 6

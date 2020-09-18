@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.262685100000006
 longitude: 6.8131389
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Westfalenstraße"
 housenumber: 24 - 26

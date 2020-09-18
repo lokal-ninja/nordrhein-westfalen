@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.9219567
 longitude: 8.9174026
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Remmighauser Straße"
 housenumber: 68

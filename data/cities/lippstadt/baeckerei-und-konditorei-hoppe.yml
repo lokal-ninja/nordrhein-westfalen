@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.666460400000005
 longitude: 8.343194500000001
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Weingarten"
 housenumber: 18a

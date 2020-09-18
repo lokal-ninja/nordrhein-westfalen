@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.857319700000005
 longitude: 6.2182946
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Kinzweilerstraße"
 housenumber: 1

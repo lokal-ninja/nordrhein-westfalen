@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.68999
 longitude: 6.8106597
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Wüschheimer Straße"
 housenumber: 53

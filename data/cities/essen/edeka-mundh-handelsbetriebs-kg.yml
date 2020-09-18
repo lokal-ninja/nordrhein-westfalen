@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.476369000000005
 longitude: 7.032915300000001
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Twentmannstraße"
 housenumber: 1

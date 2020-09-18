@@ -1,12 +1,12 @@
-id: 5202856918
+id: 6589825986
 type: node
 shop: Drogerie
-latitude: 51.232533100000005
-longitude: 6.744380400000001
-postcode: 40549
+latitude: 51.163477900000004
+longitude: 6.873642800000001
+postcode: "40597"
 city: Düsseldorf
-street: "Theo-Champion-Straße"
-housenumber: 9c-d
+street: "Hauptstraße"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

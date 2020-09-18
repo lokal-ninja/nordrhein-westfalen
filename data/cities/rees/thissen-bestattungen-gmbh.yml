@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.7648273
 longitude: 6.3995215000000005
-postcode: 46459
+postcode: "46459"
 city: Rees
 street: "Empeler Straße"
 housenumber: 15

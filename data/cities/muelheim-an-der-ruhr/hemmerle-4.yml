@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.404035
 longitude: 6.8762404
-postcode: 
+postcode: ""
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 55

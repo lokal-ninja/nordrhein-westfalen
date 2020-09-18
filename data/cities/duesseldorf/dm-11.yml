@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2284045
 longitude: 6.7905619
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Am Wehrhahn"
 housenumber: 36

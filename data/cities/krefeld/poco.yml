@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.356300000000005
 longitude: 6.622274300000001
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Saalestraße"
 housenumber: 3

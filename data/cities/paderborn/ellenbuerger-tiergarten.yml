@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.7401622
 longitude: 8.714053700000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Im Quinhagen"
 housenumber: 35

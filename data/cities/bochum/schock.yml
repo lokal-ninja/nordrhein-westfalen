@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.470274200000006
 longitude: 7.308766500000001
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Unterstraße"
 housenumber: 91

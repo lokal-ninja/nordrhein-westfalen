@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.031569000000005
 longitude: 6.9821032
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Hauptstraße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Gewürze
 latitude: 51.716720300000006
 longitude: 8.7544202
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kamp"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6019646
 longitude: 7.1084537
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Westerholter Straße"
 housenumber: 775

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.3031944
 longitude: 8.6022975
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Strubbergstraße"
 housenumber: 

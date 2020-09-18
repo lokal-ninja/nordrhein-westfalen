@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7008756
 longitude: 7.4689079000000005
-postcode: 59379
+postcode: "59379"
 city: Selm
 street: "Südkirchener Straße"
 housenumber: 1a

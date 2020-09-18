@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.743283600000005
 longitude: 7.1897903
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Lippmauer"
 housenumber: 38

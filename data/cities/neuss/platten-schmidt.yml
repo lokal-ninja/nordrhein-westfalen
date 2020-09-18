@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.2035044
 longitude: 6.685283
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Theodor-Heuss-Platz"
 housenumber: 9

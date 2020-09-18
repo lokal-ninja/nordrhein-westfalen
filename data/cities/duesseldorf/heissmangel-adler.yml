@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1456955
 longitude: 6.870082300000001
-postcode: 40593
+postcode: "40593"
 city: Düsseldorf
 street: "Gänsestraße"
 housenumber: 53

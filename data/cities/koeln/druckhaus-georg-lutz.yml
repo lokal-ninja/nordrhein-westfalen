@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9310631
 longitude: 6.916124300000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 165a

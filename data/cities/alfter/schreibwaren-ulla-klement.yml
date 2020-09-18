@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7215271
 longitude: 7.0279392000000005
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Chateauneufstraße"
 housenumber: 14

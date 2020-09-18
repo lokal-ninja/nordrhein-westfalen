@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.871974900000005
 longitude: 8.024733300000001
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Frankfurter Straße"
 housenumber: 25

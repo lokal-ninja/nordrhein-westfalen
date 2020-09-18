@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.219219
 longitude: 6.7865612
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
 street: "Graf-Adolf-Straße"
 housenumber: 76

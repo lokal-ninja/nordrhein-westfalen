@@ -3,10 +3,10 @@ type: node
 shop: Tabak
 latitude: 50.6260349
 longitude: 7.0410933
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 42
-phone: "+49 2225 9115616"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.dreamlike-vapestore.de/ezigaretten-meckenheim/"
+phone: "+49 2225 9115616; +49 177 4238167"
+opening_hours: "Mo-Sa 11:00-19:00"
+website: "https://www.dreamlike-liquids.de"

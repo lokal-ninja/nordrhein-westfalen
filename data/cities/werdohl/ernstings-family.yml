@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2593564
 longitude: 7.7630344000000004
-postcode: 58791
+postcode: "58791"
 city: Werdohl
 street: "Freiheitstraße"
 housenumber: 1

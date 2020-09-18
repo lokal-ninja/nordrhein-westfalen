@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.1148023
 longitude: 8.666847200000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Radewiger Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.219658200000005
 longitude: 6.808931100000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Erkrather Straße"
 housenumber: 173

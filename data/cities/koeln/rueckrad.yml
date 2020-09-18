@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9515503
 longitude: 6.9535983
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Aquinostraße"
 housenumber: 7-11

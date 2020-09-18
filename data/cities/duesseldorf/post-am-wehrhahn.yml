@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.227952
 longitude: 6.789351000000001
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Am Wehrhahn"
 housenumber: 21

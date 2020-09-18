@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.765422900000004
 longitude: 6.9507405
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Blumenstraße"
 housenumber: 93

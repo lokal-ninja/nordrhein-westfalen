@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.206944500000006
 longitude: 6.7768654
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Merowingerstraße"
 housenumber: 9

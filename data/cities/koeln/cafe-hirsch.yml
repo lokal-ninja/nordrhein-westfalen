@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9107679
 longitude: 6.968978600000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Goltsteinstraße"
 housenumber: 57

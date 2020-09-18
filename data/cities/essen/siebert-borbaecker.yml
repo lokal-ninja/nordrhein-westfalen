@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.495017600000004
 longitude: 6.9562922
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Econova-Allee"
 housenumber: 20

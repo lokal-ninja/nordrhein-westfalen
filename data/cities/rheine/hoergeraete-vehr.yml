@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.295243600000006
 longitude: 7.4466725
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Bonifatiusstraße"
 housenumber: 103

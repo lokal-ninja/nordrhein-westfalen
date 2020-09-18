@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9271955
 longitude: 8.4093309
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Königstraße"
 housenumber: 23

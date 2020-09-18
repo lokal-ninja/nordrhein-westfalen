@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5371115
 longitude: 7.2260232
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Bahnhofstraße"
 housenumber: 8a

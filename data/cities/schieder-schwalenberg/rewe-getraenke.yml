@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.914120700000005
 longitude: 9.1494402
-postcode: 32816
+postcode: "32816"
 city: Schieder-Schwalenberg
 street: "Keßlerstraße"
 housenumber: 6

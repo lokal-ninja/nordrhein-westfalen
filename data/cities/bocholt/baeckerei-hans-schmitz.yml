@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.830634200000006
 longitude: 6.602292
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Karolingerstraße"
 housenumber: 72b

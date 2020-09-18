@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.716624100000004
 longitude: 8.756494
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Liboristraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.623502900000005
 longitude: 6.8435141
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 51

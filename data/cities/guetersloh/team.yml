@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.939019300000005
 longitude: 8.486726500000001
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Brackweder Straße"
 housenumber: 38

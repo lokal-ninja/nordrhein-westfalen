@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0893177
 longitude: 6.5777206
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Am Hammerwerk"
 housenumber: 24

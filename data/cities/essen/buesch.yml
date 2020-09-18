@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3580533
 longitude: 6.932607900000001
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Werdener Straße"
 housenumber: 4

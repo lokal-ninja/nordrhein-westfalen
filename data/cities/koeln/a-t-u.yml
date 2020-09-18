@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9798156
 longitude: 6.9688216
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Amsterdamer Straße"
 housenumber: 238

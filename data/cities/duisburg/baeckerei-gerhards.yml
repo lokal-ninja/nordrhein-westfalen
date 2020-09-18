@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 51.493304200000004
 longitude: 6.6734945
-postcode: 47199
+postcode: "47199"
 city: Duisburg
 street: "Geststraße"
 housenumber: 8

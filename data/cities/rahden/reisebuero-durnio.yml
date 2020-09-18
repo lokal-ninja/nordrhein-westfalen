@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4327843
 longitude: 8.6125298
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Steinstraße"
 housenumber: 4

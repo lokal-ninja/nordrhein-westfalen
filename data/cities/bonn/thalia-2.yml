@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.715517600000005
 longitude: 7.049868200000001
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 175

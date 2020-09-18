@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.220424300000005
 longitude: 6.779479
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 88

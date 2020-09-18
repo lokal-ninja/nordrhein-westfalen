@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.996566
 longitude: 6.8209929
-postcode: 50259
+postcode: "50259"
 city: Pulheim
 street: "Industriestraße"
 housenumber: 13

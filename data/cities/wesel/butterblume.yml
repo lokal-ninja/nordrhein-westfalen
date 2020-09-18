@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.676411300000005
 longitude: 6.6146994
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Holzweg"
 housenumber: 33

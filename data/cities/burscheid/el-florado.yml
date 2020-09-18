@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.097914700000004
 longitude: 7.152121500000001
-postcode: 51399
+postcode: "51399"
 city: Burscheid
 street: "Dünweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.203447000000004
 longitude: 6.793337800000001
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Bittweg"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.2509457
 longitude: 6.9795471000000004
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Poststraße"
 housenumber: 

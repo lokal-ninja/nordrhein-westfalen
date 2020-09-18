@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.5664779
 longitude: 6.7467611000000005
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Max-Eyth-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.966507400000005
 longitude: 6.7500263
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Am Mühlenteich"
 housenumber: 4

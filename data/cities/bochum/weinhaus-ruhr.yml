@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.451251000000006
 longitude: 7.231589100000001
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 53

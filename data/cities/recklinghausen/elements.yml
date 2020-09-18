@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.6154893
 longitude: 7.1967707
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Münsterstraße"
 housenumber: 21

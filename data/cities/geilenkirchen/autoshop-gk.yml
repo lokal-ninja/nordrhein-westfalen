@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.9683374
 longitude: 6.1014542
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen
 street: "Sittarder Straße"
 housenumber: 90

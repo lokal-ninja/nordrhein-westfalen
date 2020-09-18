@@ -3,7 +3,7 @@ type: way
 shop: Parfümerie
 latitude: 51.4890315
 longitude: 7.5014332
-postcode: 44263
+postcode: "44263"
 city: Dortmund
 street: "Hermannstraße"
 housenumber: 42

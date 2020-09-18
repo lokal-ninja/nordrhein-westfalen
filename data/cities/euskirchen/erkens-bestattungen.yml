@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.650267500000005
 longitude: 6.829006000000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 136

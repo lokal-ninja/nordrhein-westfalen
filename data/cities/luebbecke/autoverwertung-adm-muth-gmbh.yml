@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.326349900000004
 longitude: 8.627108400000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Daimlerstraße"
 housenumber: 14

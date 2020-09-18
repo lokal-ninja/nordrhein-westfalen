@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.943291200000004
 longitude: 6.6293718
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Sportparkstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.1678367
 longitude: 6.933933400000001
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Axlerhof"
 housenumber: 13

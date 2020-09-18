@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.615449500000004
 longitude: 7.1964427
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Münsterstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.959753500000005
 longitude: 6.9485709
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Sechzigstraße"
 housenumber: 23

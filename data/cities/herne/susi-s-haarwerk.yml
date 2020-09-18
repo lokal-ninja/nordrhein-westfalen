@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5382972
 longitude: 7.251898700000001
-postcode: 44627
+postcode: "44627"
 city: Herne
 street: "Mont-Cenis-Straße"
 housenumber: 235

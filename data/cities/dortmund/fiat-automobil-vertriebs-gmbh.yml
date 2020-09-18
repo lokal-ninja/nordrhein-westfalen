@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.528772000000004
 longitude: 7.4727272000000005
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Bornstraße"
 housenumber: 181

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1961705
 longitude: 6.4476974
-postcode: 41065
+postcode: "41065"
 city: Mönchengladbach
 street: "Lürriper Straße"
 housenumber: 17

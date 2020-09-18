@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.755515800000005
 longitude: 6.5267485
-postcode: 52372
+postcode: "52372"
 city: Kreuzau
 street: "Kreuzauer Straße"
 housenumber: 37b

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6109492
 longitude: 7.4314572000000005
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Tinkhofstraße"
 housenumber: 184

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.791820200000004
 longitude: 6.099270000000001
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Am Gut Wolf"
 housenumber: 1

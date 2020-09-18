@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.614253700000006
 longitude: 7.1968189
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Anton-Bauer-Weg"
 housenumber: 3

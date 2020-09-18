@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.752802
 longitude: 8.727891600000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Hatzfelder Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.333453500000005
 longitude: 6.5652255
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Rheinstraße"
 housenumber: 82

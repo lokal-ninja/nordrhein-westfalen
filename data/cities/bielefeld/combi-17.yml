@@ -1,12 +1,12 @@
-id: 1375339642
-type: node
+id: 234764831
+type: way
 shop: Supermarkt
-latitude: 52.0961196
-longitude: 8.5130617
-postcode: 33739
+latitude: 52.0251074
+longitude: 8.5648205
+postcode: "33607"
 city: Bielefeld
-street: "Jöllenbecker Straße"
-housenumber: 581
+street: "Lohbreite"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

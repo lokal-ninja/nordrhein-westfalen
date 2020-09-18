@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.24298
 longitude: 6.7826528
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Collenbachstraße"
 housenumber: 31

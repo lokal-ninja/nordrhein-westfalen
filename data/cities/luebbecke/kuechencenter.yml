@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.3024324
 longitude: 8.5987258
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Osnabrücker Straße"
 housenumber: 87

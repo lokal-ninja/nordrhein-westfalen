@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.226796900000004
 longitude: 6.7881111
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Tonhallenstraße"
 housenumber: 11

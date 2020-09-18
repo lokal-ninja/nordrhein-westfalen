@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.940755
 longitude: 8.8563715
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Sprottauer Straße"
 housenumber: 1

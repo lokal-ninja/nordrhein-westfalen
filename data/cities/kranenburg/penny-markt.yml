@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.789726900000005
 longitude: 6.011014100000001
-postcode: 47559
+postcode: "47559"
 city: Kranenburg
 street: "Großen Haag"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.603532
 longitude: 6.9185375
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Hauptstraße"
 housenumber: 15

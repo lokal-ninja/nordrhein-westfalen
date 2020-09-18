@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.5703751
 longitude: 9.1647516
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Zum Südholz"
 housenumber: 11

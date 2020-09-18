@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.1494945
 longitude: 8.6266169
-postcode: 59969
+postcode: "59969"
 city: Hallenberg
 street: "Hauptstraße"
 housenumber: 30

@@ -1,4 +1,4 @@
 ---
-title: "DEPOT"
+title: "Depot"
 url: /grevenbroich/depot/
 ---

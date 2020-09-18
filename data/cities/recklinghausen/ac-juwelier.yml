@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.6132384
 longitude: 7.199324300000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Löhrhof"
 housenumber: 8

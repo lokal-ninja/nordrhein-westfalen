@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.199297800000004
 longitude: 6.7892144000000005
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Moorenstraße"
 housenumber: 80

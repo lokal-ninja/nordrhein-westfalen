@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.479017500000005
 longitude: 7.2226897
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kurt-Schumacher-Platz"
 housenumber: 13-15

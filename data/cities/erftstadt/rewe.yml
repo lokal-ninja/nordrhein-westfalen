@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7684529
 longitude: 6.7258312
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Abt-Horchem-Straße"
 housenumber: 1

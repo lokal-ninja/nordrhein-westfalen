@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7594494
 longitude: 6.1522078
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Debyestraße"
 housenumber: 35

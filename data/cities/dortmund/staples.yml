@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.4916466
 longitude: 7.3725521
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Brennaborstraße"
 housenumber: 1

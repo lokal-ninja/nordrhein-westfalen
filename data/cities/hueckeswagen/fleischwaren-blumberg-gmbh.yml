@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.136349800000005
 longitude: 7.341066700000001
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Stahlschmidtsbrücke"
 housenumber: 11

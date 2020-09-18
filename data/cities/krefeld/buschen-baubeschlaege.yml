@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.3305049
 longitude: 6.571904600000001
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Elisabethstraße"
 housenumber: 51-55

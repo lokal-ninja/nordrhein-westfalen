@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7175504
 longitude: 8.749438000000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königsplatz"
 housenumber: 7

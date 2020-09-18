@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.6642444
 longitude: 6.6185961
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Blankenburgstraße"
 housenumber: 22

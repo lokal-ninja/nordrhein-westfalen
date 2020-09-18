@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7599862
 longitude: 8.038477
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Vorhelmer Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.82519490000001
 longitude: 6.9458175
-postcode: 46359
+postcode: "46359"
 city: Heiden
 street: "Industriestraße"
 housenumber: 1

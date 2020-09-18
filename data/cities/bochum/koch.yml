@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.439106100000004
 longitude: 7.216945600000001
-postcode: 
+postcode: ""
 city: Bochum
 street: "Kemnader Straße"
 housenumber: 37

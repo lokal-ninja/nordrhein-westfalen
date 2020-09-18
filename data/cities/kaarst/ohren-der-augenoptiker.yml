@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.231849700000005
 longitude: 6.6149617
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Giemesstraße"
 housenumber: 1

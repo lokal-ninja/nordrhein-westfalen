@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6501315
 longitude: 6.829207200000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 138

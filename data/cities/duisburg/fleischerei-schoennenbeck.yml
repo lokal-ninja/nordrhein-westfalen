@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5072459
 longitude: 6.7705346
-postcode: 47169
+postcode: "47169"
 city: Duisburg
 street: ""
 housenumber: 150a

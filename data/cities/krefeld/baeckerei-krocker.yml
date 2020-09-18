@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.319558400000005
 longitude: 6.5359729
-postcode: 47804
+postcode: "47804"
 city: Krefeld
 street: "Forstwaldstraße"
 housenumber: 111

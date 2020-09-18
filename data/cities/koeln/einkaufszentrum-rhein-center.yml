@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.938033600000004
 longitude: 6.8345786
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Bunzlauer Straße"
 housenumber: 2-6

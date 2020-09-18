@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.200885400000004
 longitude: 6.689740100000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Neumarkt"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.1337934
 longitude: 6.457664800000001
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Kirchhofstraße"
 housenumber: 51

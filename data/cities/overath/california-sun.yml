@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9340151
 longitude: 7.2857317
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Parkweg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8262471
 longitude: 6.4597585
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Nordstraße"
 housenumber: 42a

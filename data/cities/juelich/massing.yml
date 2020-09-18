@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.92336340000001
 longitude: 6.357183900000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Düsseldorfer Straße"
 housenumber: 21

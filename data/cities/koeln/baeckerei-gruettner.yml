@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.02638
 longitude: 6.957962500000001
-postcode: 50769
+postcode: "50769"
 city: Köln
 street: "Merkenicher Hauptstraße"
 housenumber: 170

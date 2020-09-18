@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.6839073
 longitude: 7.155651700000001
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Koblenzer Straße"
 housenumber: 57

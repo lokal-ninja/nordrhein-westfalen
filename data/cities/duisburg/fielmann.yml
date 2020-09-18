@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4323999
 longitude: 6.7702241
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Königstraße"
 housenumber: 50

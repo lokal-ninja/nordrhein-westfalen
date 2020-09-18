@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.474218300000004
 longitude: 6.9697146000000005
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Bocholder Straße"
 housenumber: 234

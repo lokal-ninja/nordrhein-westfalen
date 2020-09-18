@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.260661400000004
 longitude: 7.148160000000001
-postcode: 42107
+postcode: "42107"
 city: Wuppertal
 street: "Paradestraße"
 housenumber: 74

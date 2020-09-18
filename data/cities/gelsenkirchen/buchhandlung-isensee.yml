@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5781688
 longitude: 7.052740600000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Rottmannsiepe"
 housenumber: 4

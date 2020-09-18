@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.7208041
 longitude: 8.7422634
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Ledeburstraße"
 housenumber: 41

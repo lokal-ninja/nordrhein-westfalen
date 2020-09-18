@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2164848
 longitude: 6.6118645
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Königstraße"
 housenumber: 10

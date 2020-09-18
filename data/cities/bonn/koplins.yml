@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.692097100000005
 longitude: 7.150364700000001
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Wurzerstraße"
 housenumber: 16

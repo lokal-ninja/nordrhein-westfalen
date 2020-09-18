@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.664157100000004
 longitude: 6.781297800000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Frauenberger Straße"
 housenumber: 86-94

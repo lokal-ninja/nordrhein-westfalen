@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.2565351
 longitude: 7.1466593000000005
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Kirchstraße"
 housenumber: 7

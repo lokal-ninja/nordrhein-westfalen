@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4853224
 longitude: 7.163337
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hansastraße"
 housenumber: 112a

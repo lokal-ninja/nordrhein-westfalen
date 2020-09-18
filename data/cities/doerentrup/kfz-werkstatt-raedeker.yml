@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.0241623
 longitude: 9.009015900000001
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Mittelstraße"
 housenumber: 18

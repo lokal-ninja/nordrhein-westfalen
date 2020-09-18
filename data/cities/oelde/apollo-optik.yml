@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.8243012
 longitude: 8.1439061
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Lange Straße"
 housenumber: 24

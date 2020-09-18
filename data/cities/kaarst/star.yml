@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2220164
 longitude: 6.6118025000000005
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Neersener Straße"
 housenumber: 12

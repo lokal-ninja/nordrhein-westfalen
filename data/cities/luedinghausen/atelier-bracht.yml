@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 51.754961300000005
 longitude: 7.428825600000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Hans-Böckler-Straße"
 housenumber: 55

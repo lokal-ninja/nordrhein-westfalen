@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6937827
 longitude: 6.879571
-postcode: 46514
+postcode: "46514"
 city: Schermbeck
 street: "Alte Dorstener Straße"
 housenumber: 20

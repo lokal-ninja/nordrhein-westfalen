@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9308034
 longitude: 6.852854300000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Jungbluthgasse"
 housenumber: 9

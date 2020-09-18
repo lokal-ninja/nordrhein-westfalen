@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9361746
 longitude: 6.9861778
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Deutz-Kalker Straße"
 housenumber: 70

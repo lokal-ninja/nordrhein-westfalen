@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.212902
 longitude: 6.9626076
-postcode: 40699
+postcode: "40699"
 city: Erkrath
 street: "Bergstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.895746200000005
 longitude: 8.366916100000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Rhedaer Straße"
 housenumber: 11a

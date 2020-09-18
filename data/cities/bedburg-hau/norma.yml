@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.760237000000004
 longitude: 6.1509635000000005
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Baumannshof"
 housenumber: 1

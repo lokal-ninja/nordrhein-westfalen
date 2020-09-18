@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.227524800000005
 longitude: 6.7858865
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Schadowstraße"
 housenumber: 72

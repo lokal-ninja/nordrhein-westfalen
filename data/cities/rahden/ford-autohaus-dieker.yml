@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5024932
 longitude: 8.6451469
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Pr.-Ströher-Allee"
 housenumber: 28

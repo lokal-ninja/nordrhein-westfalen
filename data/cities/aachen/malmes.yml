@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7774726
 longitude: 6.1452223
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 32

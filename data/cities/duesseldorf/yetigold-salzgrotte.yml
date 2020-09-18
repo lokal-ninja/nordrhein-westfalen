@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.219590100000005
 longitude: 6.800020600000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 181

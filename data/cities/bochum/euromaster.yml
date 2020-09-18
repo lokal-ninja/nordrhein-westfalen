@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.507862900000006
 longitude: 7.187647
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Riemker Straße"
 housenumber: 3

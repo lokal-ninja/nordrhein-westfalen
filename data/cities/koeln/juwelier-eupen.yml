@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.892250600000004
 longitude: 6.9938839
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Maternusplatz"
 housenumber: 8

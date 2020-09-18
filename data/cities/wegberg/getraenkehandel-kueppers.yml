@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.138372200000006
 longitude: 6.2899522
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Heidekamp"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.238079600000006
 longitude: 7.0973052
-postcode: 42327
+postcode: "42327"
 city: Wuppertal
 street: "Sonnborner Straße"
 housenumber: 79

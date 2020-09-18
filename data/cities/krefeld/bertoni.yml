@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.330989200000005
 longitude: 6.565686400000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Marktstraße"
 housenumber: 8

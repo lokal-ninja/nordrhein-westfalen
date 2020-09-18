@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.671207200000005
 longitude: 6.981515900000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Fürst-Leopold-Platz"
 housenumber: 1

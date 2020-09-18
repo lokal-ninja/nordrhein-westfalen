@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.553431700000004
 longitude: 8.329541
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Trift"
 housenumber: 2

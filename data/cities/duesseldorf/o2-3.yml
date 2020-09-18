@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.143322600000005
 longitude: 6.895004500000001
-postcode: 40595
+postcode: "40595"
 city: Düsseldorf
 street: "Hermann-Ehlers-Straße"
 housenumber: 2

@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 51.9542627
 longitude: 7.010988500000001
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Hauskampstraße"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 10:30-12:30,14:30-18:00; Sa 10:00-12:30"
 website: ""

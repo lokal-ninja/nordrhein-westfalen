@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.731793200000006
 longitude: 7.0951157
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Meckenheimer Allee"
 housenumber: 65

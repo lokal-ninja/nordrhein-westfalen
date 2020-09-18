@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.204393800000005
 longitude: 8.7974403
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Klosterstraße"
 housenumber: 4

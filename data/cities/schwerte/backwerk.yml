@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4414433
 longitude: 7.5686875
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Hüsingstraße"
 housenumber: 2

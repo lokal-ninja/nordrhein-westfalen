@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.6624721
 longitude: 6.9643262
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 40

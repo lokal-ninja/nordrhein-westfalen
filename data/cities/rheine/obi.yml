@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.285636700000005
 longitude: 7.4424383
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Paulstraße"
 housenumber: 37-47

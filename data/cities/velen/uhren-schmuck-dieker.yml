@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.895287
 longitude: 6.9863868
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Coesfelder Straße"
 housenumber: 12

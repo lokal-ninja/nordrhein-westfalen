@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1442947
 longitude: 7.2139294000000005
-postcode: 48629
+postcode: "48629"
 city: Metelen
 street: "Sendplatz"
 housenumber: 3

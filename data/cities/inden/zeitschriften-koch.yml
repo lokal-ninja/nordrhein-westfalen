@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.8462982
 longitude: 6.357009700000001
-postcode: 52459
+postcode: "52459"
 city: Inden
 street: "Goltsteinstraße"
 housenumber: 73

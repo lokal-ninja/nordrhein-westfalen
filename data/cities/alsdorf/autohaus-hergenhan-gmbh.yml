@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8748042
 longitude: 6.168817600000001
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Luisenstraße"
 housenumber: 77,79

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6579946
 longitude: 6.4602379
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Viktorstraße"
 housenumber: 12

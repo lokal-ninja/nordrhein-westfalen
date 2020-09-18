@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0580233
 longitude: 8.516098600000001
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Im Drewer Esch"
 housenumber: 30

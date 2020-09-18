@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7742122
 longitude: 6.1072192
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Adalbertsteinweg"
 housenumber: 126

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9453144
 longitude: 7.074407600000001
-postcode: 51109
+postcode: "51109"
 city: Köln
 street: "Olpener Straße"
 housenumber: 878

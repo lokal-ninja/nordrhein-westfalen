@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.029199000000006
 longitude: 8.539521500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 30b

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.6221794
 longitude: 7.0220501
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Hauptstraße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.2723176
 longitude: 6.774338800000001
-postcode: 40468
+postcode: "40468"
 city: Düsseldorf
 street: "Unterrather Straße"
 housenumber: 184

@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 51.9838868
 longitude: 7.785751100000001
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Steinstraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:30"
 website: "http://fleischerei-hansen.de/"

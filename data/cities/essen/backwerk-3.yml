@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4525018
 longitude: 7.013201400000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Willy-Brandt-Platz"
 housenumber: 14

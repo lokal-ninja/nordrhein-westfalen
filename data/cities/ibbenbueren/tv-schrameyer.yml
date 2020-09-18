@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.294712200000006
 longitude: 7.6599659
-postcode: 49479
+postcode: "49479"
 city: Ibbenbüren
 street: "Roßlauer Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.20405
 longitude: 6.412395
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 268

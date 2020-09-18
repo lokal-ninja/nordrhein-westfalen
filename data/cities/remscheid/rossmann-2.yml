@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1898332
 longitude: 7.261716600000001
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Wupperstraße"
 housenumber: 17

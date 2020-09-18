@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.621186200000004
 longitude: 6.2091769
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Industriestraße"
 housenumber: 38

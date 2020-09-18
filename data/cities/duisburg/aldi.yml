@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.401802700000005
 longitude: 6.6981980000000005
-postcode: 47226
+postcode: "47226"
 city: Duisburg
 street: "Lindenallee"
 housenumber: 50-50b

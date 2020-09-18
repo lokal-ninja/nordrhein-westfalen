@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.307982
 longitude: 6.515990700000001
-postcode: 47804
+postcode: "47804"
 city: Krefeld
 street: "Hückelsmaystraße"
 housenumber: 342

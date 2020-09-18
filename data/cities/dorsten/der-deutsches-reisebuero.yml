@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.660522300000004
 longitude: 6.9639325
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Markt"
 housenumber: 12

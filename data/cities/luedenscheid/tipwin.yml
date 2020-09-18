@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.2197455
 longitude: 7.623678000000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 44

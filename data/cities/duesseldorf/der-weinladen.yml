@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.227168600000006
 longitude: 6.809407
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Birkenstraße"
 housenumber: 110

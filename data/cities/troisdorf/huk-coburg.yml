@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.8140803
 longitude: 7.171256100000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Frankfurter Straße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.846900600000005
 longitude: 6.3608004000000005
-postcode: 52459
+postcode: "52459"
 city: Inden
 street: "Goltsteinstraße"
 housenumber: 74

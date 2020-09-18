@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.77835820000001
 longitude: 7.2585455
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Meysstraße"
 housenumber: 14

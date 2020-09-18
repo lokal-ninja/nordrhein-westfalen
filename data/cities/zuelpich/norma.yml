@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6933255
 longitude: 6.648259
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Normannengasse"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1960916
 longitude: 6.4079132
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Waldnieler Straße"
 housenumber: 245

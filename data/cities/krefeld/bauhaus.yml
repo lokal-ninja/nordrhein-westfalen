@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3184203
 longitude: 6.583276100000001
-postcode: 47807
+postcode: "47807"
 city: Krefeld
 street: "Untergath"
 housenumber: 89

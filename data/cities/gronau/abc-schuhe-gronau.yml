@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.2110892
 longitude: 7.023340200000001
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Pumpenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.206445300000006
 longitude: 7.8717661
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Ziegelstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.696124600000005
 longitude: 8.8529678
-postcode: 
+postcode: ""
 city: Paderborn
 street: "Ellerstraße"
 housenumber: 3

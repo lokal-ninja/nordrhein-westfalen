@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.476405400000004
 longitude: 7.215037700000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Viktoriastraße"
 housenumber: 66-70

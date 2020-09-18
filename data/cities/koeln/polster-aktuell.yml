@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.983750400000005
 longitude: 6.898810800000001
-postcode: 50829
+postcode: "50829"
 city: Köln
 street: "Butzweilerstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.490200800000004
 longitude: 7.430020900000001
-postcode: 44227
+postcode: "44227"
 city: Dortmund
 street: "An der Palmweide"
 housenumber: 60

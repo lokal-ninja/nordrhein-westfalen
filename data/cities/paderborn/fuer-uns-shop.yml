@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.7206696
 longitude: 8.7160647
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Heinz-Nixdorf-Ring"
 housenumber: 1

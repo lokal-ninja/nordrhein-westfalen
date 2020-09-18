@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.089162300000005
 longitude: 6.585931
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Bahnstraße"
 housenumber: 18

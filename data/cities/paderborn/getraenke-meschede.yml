@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7416993
 longitude: 8.7303999
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Heisenbergstraße"
 housenumber: 3b

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.643063600000005
 longitude: 6.1895578
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.774996
 longitude: 6.1200536
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Materborner Allee"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5792129
 longitude: 7.0061254
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Buersche Straße"
 housenumber: 85

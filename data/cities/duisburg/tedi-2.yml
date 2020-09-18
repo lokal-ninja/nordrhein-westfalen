@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5280258
 longitude: 6.7430636
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 180

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1643637
 longitude: 6.8819008
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Paulsmühlenstraße"
 housenumber: 41

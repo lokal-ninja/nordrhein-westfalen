@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.437035900000005
 longitude: 6.5312174
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Vluyner Platz"
 housenumber: 16

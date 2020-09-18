@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.741635
 longitude: 7.1848067
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Koeppstraße"
 housenumber: 5

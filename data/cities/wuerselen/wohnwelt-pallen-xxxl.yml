@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.8088934
 longitude: 6.1453078
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "De-Gasperi-Straße"
 housenumber: 18

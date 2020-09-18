@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.6739442
 longitude: 8.3375696
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Burgstraße"
 housenumber: 84

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.934390900000004
 longitude: 8.8771827
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Krumme Straße"
 housenumber: 17

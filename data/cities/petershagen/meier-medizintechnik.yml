@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.3544386
 longitude: 8.850405700000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Friedewalder Straße"
 housenumber: 22

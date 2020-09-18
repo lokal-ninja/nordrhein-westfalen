@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.8032885
 longitude: 8.023974800000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Wiesenstraße"
 housenumber: 12

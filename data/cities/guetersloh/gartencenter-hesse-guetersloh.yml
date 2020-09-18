@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.879635
 longitude: 8.4501547
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Lupinenweg"
 housenumber: 35

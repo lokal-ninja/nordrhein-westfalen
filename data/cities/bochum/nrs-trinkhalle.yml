@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4640302
 longitude: 7.3073584
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Am Neggenborn"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.3883968
 longitude: 6.2450429000000005
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Niederdorfer Straße"
 housenumber: 57

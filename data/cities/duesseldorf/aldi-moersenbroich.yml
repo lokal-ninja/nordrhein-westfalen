@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.256637600000005
 longitude: 6.8026336
-postcode: 40470
+postcode: "40470"
 city: Düsseldorf
 street: "Vogelsanger Weg"
 housenumber: 33

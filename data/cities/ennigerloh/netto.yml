@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8347965
 longitude: 8.0290716
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Bürgermeister-Frisch-Platz"
 housenumber: 9

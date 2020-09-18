@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.103330400000004
 longitude: 6.948740900000001
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Montessoristraße"
 housenumber: 39

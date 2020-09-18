@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.1955886
 longitude: 6.4266157
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Waldhausener Straße"
 housenumber: 83

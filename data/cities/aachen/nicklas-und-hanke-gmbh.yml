@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7856971
 longitude: 6.064346100000001
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Süsterfeldstraße"
 housenumber: 61

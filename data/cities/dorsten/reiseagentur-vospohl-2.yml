@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.6623512
 longitude: 6.9641647
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 36

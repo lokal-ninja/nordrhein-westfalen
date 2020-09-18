@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.963551700000004
 longitude: 6.9183215
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Rothenkruger Straße"
 housenumber: 17

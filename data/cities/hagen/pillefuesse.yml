@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.3537509
 longitude: 7.456927200000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Lange Straße"
 housenumber: 58

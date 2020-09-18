@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.79605230000001
 longitude: 7.2039523
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Bahnhofstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.4379665
 longitude: 6.524806000000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Niederrheinallee"
 housenumber: 369

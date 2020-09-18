@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.5671784
 longitude: 6.923055300000001
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Hegestraße"
 housenumber: 71

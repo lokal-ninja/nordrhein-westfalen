@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.909821
 longitude: 6.8089054
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 97

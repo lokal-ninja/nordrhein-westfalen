@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0779745
 longitude: 8.7510939
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Hoffmannstraße"
 housenumber: 11

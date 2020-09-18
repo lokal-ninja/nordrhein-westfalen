@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.932594
 longitude: 6.5688046
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Hinter den Gärten"
 housenumber: 2

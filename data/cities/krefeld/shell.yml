@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.353222
 longitude: 6.574409200000001
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Moerser Straße"
 housenumber: 406

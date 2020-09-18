@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1691884
 longitude: 6.9377244000000005
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Mittelstraße"
 housenumber: 26

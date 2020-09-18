@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9531037
 longitude: 6.9860315
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Auenweg"
 housenumber: 185

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0339188
 longitude: 6.2156735
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Fichtenstraße"
 housenumber: 2

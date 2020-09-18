@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.1970583
 longitude: 6.6912542
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Promenadenstraße"
 housenumber: 53-55

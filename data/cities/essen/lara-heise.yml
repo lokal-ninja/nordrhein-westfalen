@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.442773200000005
 longitude: 6.9802039
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Keplerstraße"
 housenumber: 95

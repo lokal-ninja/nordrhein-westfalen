@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2153744
 longitude: 6.832050300000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Königsberger Straße"
 housenumber: 117

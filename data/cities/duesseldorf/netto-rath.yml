@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2650912
 longitude: 6.801796400000001
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Rather Kreuzweg"
 housenumber: 91

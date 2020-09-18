@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.9167653
 longitude: 6.9255415000000005
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 60
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-18:00"
 website: ""

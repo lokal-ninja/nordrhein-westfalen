@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5924162
 longitude: 7.6636370000000005
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Weststraße"
 housenumber: 10

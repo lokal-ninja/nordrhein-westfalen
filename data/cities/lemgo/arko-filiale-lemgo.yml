@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.0284563
 longitude: 8.901086600000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 60

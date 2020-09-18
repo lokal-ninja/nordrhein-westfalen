@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 51.674465600000005
 longitude: 6.943093800000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Pliesterbecker Straße"
 housenumber: 145

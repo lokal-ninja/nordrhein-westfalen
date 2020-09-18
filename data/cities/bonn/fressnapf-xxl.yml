@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.7332437
 longitude: 7.0757009
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Immenburgstraße"
 housenumber: 38

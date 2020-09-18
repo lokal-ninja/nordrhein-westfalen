@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.102975400000005
 longitude: 7.959413700000001
-postcode: 57439
+postcode: "57439"
 city: Attendorn
 street: "Talstraße"
 housenumber: 33

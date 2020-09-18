@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.288584400000005
 longitude: 8.7953902
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Lübbecker Straße"
 housenumber: 101

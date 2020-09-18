@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.938263000000006
 longitude: 8.846091000000001
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Bielefelder Straße"
 housenumber: 204

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.958179900000005
 longitude: 6.9966067
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Windmühlenstraße"
 housenumber: 85,91

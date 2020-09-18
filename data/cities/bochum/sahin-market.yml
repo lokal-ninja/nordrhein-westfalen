@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4858209
 longitude: 7.213599200000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Dorstener Straße"
 housenumber: 1-3

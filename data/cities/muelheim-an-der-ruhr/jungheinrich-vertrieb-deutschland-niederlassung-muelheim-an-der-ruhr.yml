@@ -3,7 +3,7 @@ type: way
 shop: Maschinen
 latitude: 51.433496500000004
 longitude: 6.8381172
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Ruhrorter Straße"
 housenumber: 49

@@ -1,4 +1,4 @@
 ---
-title: "Netto - Marken Discount"
+title: "Netto Marken-Discount"
 url: /oberhausen/netto-marken-discount-2/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.770956600000005
 longitude: 6.0960013
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Lothringerstraße"
 housenumber: 53

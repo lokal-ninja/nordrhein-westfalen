@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.186821
 longitude: 6.8188456
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Kölner Landstraße"
 housenumber: 203

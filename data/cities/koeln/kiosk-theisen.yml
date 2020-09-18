@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.90072910000001
 longitude: 6.9486924000000005
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Markusstraße"
 housenumber: 84

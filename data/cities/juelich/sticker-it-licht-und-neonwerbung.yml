@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.920236100000004
 longitude: 6.3585148
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Bongardstraße"
 housenumber: 9

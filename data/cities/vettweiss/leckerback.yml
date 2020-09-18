@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.732680900000005
 longitude: 6.5552279
-postcode: 52391
+postcode: "52391"
 city: Vettweiß
 street: "Gangolfusstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3003647
 longitude: 6.7345554000000005
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "An Sankt Swidbert"
 housenumber: 33

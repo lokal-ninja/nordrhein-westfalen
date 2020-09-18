@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.600431
 longitude: 6.923453500000001
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Rentforter Straße"
 housenumber: 1

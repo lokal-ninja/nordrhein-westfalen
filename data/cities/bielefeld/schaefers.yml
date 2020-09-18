@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.024503300000006
 longitude: 8.531857800000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Bahnhofstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.932420400000005
 longitude: 6.8464157000000005
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Ignystraße"
 housenumber: 93

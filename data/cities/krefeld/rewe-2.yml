@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3365504
 longitude: 6.5796627
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Uerdinger Straße"
 housenumber: 123

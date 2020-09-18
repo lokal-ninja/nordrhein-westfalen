@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.9272129
 longitude: 7.9729847000000005
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Warendorfer Straße"
 housenumber: 114

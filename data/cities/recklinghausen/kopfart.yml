@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6140065
 longitude: 7.195711200000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Große Geldstraße"
 housenumber: 19

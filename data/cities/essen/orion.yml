@@ -3,7 +3,7 @@ type: way
 shop: Erotik
 latitude: 51.4581218
 longitude: 7.010714200000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kopstadtplatz"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 51.878607800000005
 longitude: 9.0891158
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Lipper Tor"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4822952
 longitude: 7.2196609
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Untere Marktstraße"
 housenumber: 9

@@ -3,9 +3,9 @@ type: way
 shop: Baumarkt
 latitude: 51.783349400000006
 longitude: 6.0578459
-postcode: 47559
+postcode: "47559"
 city: Kranenburg
-street: "im Schlop"
+street: "Im Schlop"
 housenumber: 28
 phone: ""
 opening_hours: ""

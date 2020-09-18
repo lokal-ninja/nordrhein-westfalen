@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 51.762732400000004
 longitude: 7.893323700000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Hellstraße"
 housenumber: 40

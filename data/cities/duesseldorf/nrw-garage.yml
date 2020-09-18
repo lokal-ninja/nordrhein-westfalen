@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.201490400000004
 longitude: 6.7807648
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 45

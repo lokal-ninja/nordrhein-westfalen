@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 50.940221300000005
 longitude: 6.9559305
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "An der Rechtschule"
 housenumber: 1

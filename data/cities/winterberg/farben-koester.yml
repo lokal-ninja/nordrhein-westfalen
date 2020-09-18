@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.2468798
 longitude: 8.482110800000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hochsauerlandstraße"
 housenumber: 78

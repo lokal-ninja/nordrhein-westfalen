@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.6812952
 longitude: 7.8179156
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Weststraße"
 housenumber: 10

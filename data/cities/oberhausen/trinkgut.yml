@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4729236
 longitude: 6.8482132
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Am Förderturm"
 housenumber: 33

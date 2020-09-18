@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.272622500000004
 longitude: 8.8883983
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Mindener Straße"
 housenumber: 110

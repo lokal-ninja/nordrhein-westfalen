@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.0652479
 longitude: 8.5350739
-postcode: 33739
+postcode: "33739"
 city: Bielefeld
 street: "Erdsiek"
 housenumber: 4

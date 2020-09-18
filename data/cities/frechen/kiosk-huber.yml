@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.909557500000005
 longitude: 6.7845795
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Ermlandstraße"
 housenumber: 9

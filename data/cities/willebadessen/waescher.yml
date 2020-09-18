@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.626536
 longitude: 9.038769700000001
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Klosterstraße"
 housenumber: 3

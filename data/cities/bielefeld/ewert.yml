@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.0460581
 longitude: 8.507303
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Voltmannstraße"
 housenumber: 119

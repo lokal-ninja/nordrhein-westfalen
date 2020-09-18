@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4802313
 longitude: 7.138257
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hochstraße"
 housenumber: 4

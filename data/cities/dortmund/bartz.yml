@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 51.523789300000004
 longitude: 7.551567800000001
-postcode: 44309
+postcode: "44309"
 city: Dortmund
 street: "Oberdorfstraße"
 housenumber: 90
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-13:30"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.8378067
 longitude: 6.5962496
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Werther Straße"
 housenumber: 44

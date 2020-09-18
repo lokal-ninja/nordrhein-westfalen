@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.7108671
 longitude: 7.2776522
-postcode: 53639
+postcode: "53639"
 city: Königswinter
 street: "Siegburger Straße"
 housenumber: 27

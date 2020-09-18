@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.489496100000004
 longitude: 6.783514800000001
-postcode: 47166
+postcode: "47166"
 city: Duisburg
 street: "Duisburger Straße"
 housenumber: 121

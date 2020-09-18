@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.841359800000006
 longitude: 7.210484800000001
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Breiter Weg"
 housenumber: 

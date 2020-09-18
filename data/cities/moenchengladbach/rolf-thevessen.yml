@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.198237500000005
 longitude: 6.3955741
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Roermonder Straße"
 housenumber: 316

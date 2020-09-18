@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.032248100000004
 longitude: 8.597124800000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Muerfeldstraße"
 housenumber: 19

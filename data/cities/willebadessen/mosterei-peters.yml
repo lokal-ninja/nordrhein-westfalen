@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6266425
 longitude: 9.039709400000001
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Zur Vituskapelle"
 housenumber: 2

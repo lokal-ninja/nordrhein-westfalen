@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7421458
 longitude: 7.072497
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Brühler Straße"
 housenumber: 8

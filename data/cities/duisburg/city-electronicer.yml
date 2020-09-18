@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.432641600000004
 longitude: 6.765194500000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Heuserstraße"
 housenumber: 13

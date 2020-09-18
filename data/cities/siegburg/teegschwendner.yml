@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.7976545
 longitude: 7.208198
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Kaiserstraße"
 housenumber: 2

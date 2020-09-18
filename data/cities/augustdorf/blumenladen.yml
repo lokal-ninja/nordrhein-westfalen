@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.908005700000004
 longitude: 8.7263505
-postcode: 32832
+postcode: "32832"
 city: Augustdorf
 street: "Stukenbrocker Straße"
 housenumber: 15

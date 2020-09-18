@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8788318
 longitude: 8.033878
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Giersbergstraße"
 housenumber: 37-39

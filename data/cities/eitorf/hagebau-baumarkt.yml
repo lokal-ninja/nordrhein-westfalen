@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.771395000000005
 longitude: 7.4704603
-postcode: 53783
+postcode: "53783"
 city: Eitorf
 street: "Im Auel"
 housenumber: 55

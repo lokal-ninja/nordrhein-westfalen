@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.9360906
 longitude: 6.958279900000001
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Gürzenichstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6068658
 longitude: 7.1687548
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Sandweg"
 housenumber: 1

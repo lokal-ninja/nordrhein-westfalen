@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 52.290479700000006
 longitude: 7.493278600000001
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Edisonstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 9:00-13:00; PH off"
 website: ""

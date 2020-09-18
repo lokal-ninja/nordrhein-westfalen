@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0585825
 longitude: 8.7445523
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Oerlinghauser Straße"
 housenumber: 52

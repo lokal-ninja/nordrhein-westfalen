@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.7417127
 longitude: 7.1858018
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Rochfordstraße"
 housenumber: 38

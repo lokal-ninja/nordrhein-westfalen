@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.2149355
 longitude: 6.7557378
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Zollhof"
 housenumber: 4

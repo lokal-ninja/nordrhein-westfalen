@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9241042
 longitude: 6.826017800000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hermann-Seger-Straße"
 housenumber: 60

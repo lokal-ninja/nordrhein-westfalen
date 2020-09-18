@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.439369400000004
 longitude: 7.012797300000001
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Klarastraße"
 housenumber: 74

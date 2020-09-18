@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2961825
 longitude: 6.8509035
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Bechemer Straße"
 housenumber: 28

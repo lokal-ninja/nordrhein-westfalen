@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.731668400000004
 longitude: 6.213141200000001
-postcode: 52223
+postcode: "52223"
 city: Stolberg
 street: "Auf der Heide"
 housenumber: 39

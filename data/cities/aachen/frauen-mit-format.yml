@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.776905000000006
 longitude: 6.0845435000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Großkölnstraße"
 housenumber: 12

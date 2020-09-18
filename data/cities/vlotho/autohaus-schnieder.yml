@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1613892
 longitude: 8.8478182
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Herforder Straße"
 housenumber: 79

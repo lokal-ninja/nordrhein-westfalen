@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.8107817
 longitude: 9.1774536
-postcode: 37696
+postcode: "37696"
 city: Marienmünster
 street: "Nieheimer Straße"
 housenumber: 33

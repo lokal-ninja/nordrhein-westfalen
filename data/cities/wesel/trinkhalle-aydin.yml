@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.656784900000005
 longitude: 6.6166546
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Kreuzstraße"
 housenumber: 16

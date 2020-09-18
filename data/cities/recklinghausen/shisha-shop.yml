@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.612154600000004
 longitude: 7.1977368
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Hermann-Bresser-Straße"
 housenumber: 8

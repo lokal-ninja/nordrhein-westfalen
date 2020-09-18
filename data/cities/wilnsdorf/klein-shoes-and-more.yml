@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.839519900000006
 longitude: 8.152667600000001
-postcode: 57234
+postcode: "57234"
 city: Wilnsdorf
 street: "Thomasstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.277038000000005
 longitude: 8.8977596
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Birkhuhnweg"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.716272100000005
 longitude: 8.7473963
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Westernmauer"
 housenumber: 2

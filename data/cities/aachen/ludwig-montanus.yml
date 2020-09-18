@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7666255
 longitude: 6.096078
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Kurbrunnenstraße"
 housenumber: 18

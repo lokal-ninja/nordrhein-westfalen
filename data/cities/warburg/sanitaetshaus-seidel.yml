@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.4884197
 longitude: 9.1532435
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Hauptstraße"
 housenumber: 9

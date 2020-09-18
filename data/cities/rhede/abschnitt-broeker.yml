@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.835114100000006
 longitude: 6.6930395
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Schmöldersstraße"
 housenumber: 26

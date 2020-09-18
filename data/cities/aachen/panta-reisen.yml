@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.7758173
 longitude: 6.0762134
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Königstraße"
 housenumber: 36

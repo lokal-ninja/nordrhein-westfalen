@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9342296
 longitude: 7.6315941
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Robert-Bosch-Straße"
 housenumber: 2

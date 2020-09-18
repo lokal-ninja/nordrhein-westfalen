@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8909699
 longitude: 6.920619200000001
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Harkingsbrügge"
 housenumber: 7

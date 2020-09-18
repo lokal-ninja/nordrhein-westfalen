@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.286029400000004
 longitude: 7.293318500000001
-postcode: 58332
+postcode: "58332"
 city: Schwelm
 street: "Neumarkt"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6346944
 longitude: 6.2721562
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Bahnhofstraße"
 housenumber: 17

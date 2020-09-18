@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.1088869
 longitude: 6.825090800000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Krefelder Straße"
 housenumber: 101

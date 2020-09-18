@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.1784529
 longitude: 6.856984000000001
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Stephanstraße"
 housenumber: 1

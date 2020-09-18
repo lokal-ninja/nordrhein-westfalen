@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.405214300000004
 longitude: 8.5733797
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Möhnestraße"
 housenumber: 42

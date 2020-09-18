@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2014926
 longitude: 6.781258
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 56

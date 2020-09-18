@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.763092
 longitude: 7.891694
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Oststraße"
 housenumber: 51

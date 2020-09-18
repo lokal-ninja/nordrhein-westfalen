@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.830012100000005
 longitude: 6.9054918
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Kölnstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.666127700000004
 longitude: 6.7977677000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Erftstraße"
 housenumber: 75-77

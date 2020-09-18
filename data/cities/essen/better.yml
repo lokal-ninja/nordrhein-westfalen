@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.4535915
 longitude: 7.0103485
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Lindenallee"
 housenumber: 10

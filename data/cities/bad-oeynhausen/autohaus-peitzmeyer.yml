@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2056583
 longitude: 8.787281400000001
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Kanalstraße"
 housenumber: 

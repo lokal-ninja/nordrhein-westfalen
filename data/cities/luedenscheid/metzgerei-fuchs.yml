@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.201583400000004
 longitude: 7.580455400000001
-postcode: 58515
+postcode: "58515"
 city: Lüdenscheid
 street: "Volmestraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.9107603
 longitude: 6.969026800000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Goltsteinstraße"
 housenumber: 55-57

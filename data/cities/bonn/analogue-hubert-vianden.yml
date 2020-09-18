@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.7382824
 longitude: 7.1046626
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Josefstraße"
 housenumber: 22

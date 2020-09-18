@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.011606900000004
 longitude: 8.7011152
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Kentruper Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.0344897
 longitude: 8.5721673
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Petristraße"
 housenumber: 112

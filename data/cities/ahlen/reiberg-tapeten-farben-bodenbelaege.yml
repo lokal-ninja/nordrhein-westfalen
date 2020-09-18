@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 51.7402675
 longitude: 7.8773292
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Bunsenstraße"
 housenumber: 4

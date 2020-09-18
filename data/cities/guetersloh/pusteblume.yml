@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8893902
 longitude: 8.4039622
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Damaschkeweg"
 housenumber: 19

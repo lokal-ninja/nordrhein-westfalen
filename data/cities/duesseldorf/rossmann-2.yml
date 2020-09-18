@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.238621200000004
 longitude: 6.8009342
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 162

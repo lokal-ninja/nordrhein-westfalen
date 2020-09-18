@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.2156358
 longitude: 8.7850946
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Werster Straße"
 housenumber: 86

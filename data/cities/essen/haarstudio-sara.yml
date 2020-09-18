@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4864155
 longitude: 7.0099007
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Palmbuschweg"
 housenumber: 4

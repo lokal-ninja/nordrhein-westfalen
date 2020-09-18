@@ -1,12 +1,12 @@
-id: 28238463
+id: 28776945
 type: way
 shop: Supermarkt
-latitude: 50.6660885
-longitude: 7.178580800000001
-postcode: 53179
+latitude: 50.7473566
+longitude: 7.080752800000001
+postcode: "53117"
 city: Bonn
-street: "Drachenburgstraße"
-housenumber: 7
+street: "Kölnstraße"
+housenumber: 335
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+website: "https://www.lidl.de/"

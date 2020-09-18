@@ -1,12 +1,12 @@
-id: 123233713
-type: way
+id: 7724468047
+type: node
 shop: Drogerie
-latitude: 50.914880700000005
-longitude: 6.935036
-postcode: 50939
+latitude: 50.937557700000006
+longitude: 7.0015225
+postcode: "51103"
 city: Köln
-street: "Rhöndorfer Straße"
-housenumber: 15a
-phone: ""
-opening_hours: ""
-website: ""
+street: "Kalker Hauptstraße"
+housenumber: 114
+phone: "+49 221 97589000"
+opening_hours: "Mo-Sa 08:30-21:00; PH off"
+website: "https://www.dm.de"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.527903900000005
 longitude: 6.7430526
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 178

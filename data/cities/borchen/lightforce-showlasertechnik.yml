@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6627986
 longitude: 8.8393098
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Eggestraße"
 housenumber: 32

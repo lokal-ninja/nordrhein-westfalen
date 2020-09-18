@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5086923
 longitude: 7.0796273
-postcode: 45883
+postcode: "45883"
 city: Gelsenkirchen
 street: "Feldmarkstraße"
 housenumber: 112

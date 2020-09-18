@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.62836
 longitude: 6.944601100000001
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Aachener Straße"
 housenumber: 19

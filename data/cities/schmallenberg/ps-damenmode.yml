@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1511592
 longitude: 8.2846968
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Oststraße"
 housenumber: 13

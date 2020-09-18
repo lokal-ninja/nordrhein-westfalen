@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.475116400000005
 longitude: 7.2482122
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Freigrafendamm"
 housenumber: 54

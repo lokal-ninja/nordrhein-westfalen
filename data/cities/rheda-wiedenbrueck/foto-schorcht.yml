@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.833085000000004
 longitude: 8.3105081
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Klingelbrink"
 housenumber: 15

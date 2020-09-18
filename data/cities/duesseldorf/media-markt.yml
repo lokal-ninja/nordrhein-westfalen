@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.2081875
 longitude: 6.7729577
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 133

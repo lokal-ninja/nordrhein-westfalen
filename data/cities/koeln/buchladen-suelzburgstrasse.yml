@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9170269
 longitude: 6.925749400000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 27

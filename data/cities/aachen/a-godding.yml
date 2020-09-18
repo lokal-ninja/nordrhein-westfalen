@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.749920800000005
 longitude: 6.1687849
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Schroufstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.953191700000005
 longitude: 8.8533529
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Klingenbergstraße"
 housenumber: 44

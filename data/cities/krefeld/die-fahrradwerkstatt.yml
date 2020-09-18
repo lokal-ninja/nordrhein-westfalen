@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3383789
 longitude: 6.5617444
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Nordstraße"
 housenumber: 23

@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 51.7269189
 longitude: 8.761897900000001
-postcode: 
+postcode: ""
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 8:00-17:00; Sa 9:00-13:00"
+opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
 website: ""

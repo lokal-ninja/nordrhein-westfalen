@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.760259100000006
 longitude: 7.905606400000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Rottmannstraße"
 housenumber: 48

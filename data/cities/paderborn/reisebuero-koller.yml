@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7455939
 longitude: 8.7312134
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Dubelohstraße"
 housenumber: 143

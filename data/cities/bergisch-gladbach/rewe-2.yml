@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0000974
 longitude: 7.1323368
-postcode: 51467
+postcode: "51467"
 city: Bergisch Gladbach
 street: "Odenthaler Straße"
 housenumber: 196

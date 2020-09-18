@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.760108
 longitude: 7.050112
-postcode: 53117
+postcode: "53117"
 city: Bonn
 street: "Friedlandstraße"
 housenumber: 1

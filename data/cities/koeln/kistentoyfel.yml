@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.892617
 longitude: 6.99573
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 75

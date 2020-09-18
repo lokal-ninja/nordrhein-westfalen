@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.948192500000005
 longitude: 6.9548635
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Weidengasse"
 housenumber: 38

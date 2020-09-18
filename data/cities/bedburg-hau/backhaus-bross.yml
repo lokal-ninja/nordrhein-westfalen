@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7602575
 longitude: 6.1891059
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Alte Bahn"
 housenumber: 7

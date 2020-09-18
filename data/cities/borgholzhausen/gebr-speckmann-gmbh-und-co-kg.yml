@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.085345700000005
 longitude: 8.2682125
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Industriestraße"
 housenumber: 3

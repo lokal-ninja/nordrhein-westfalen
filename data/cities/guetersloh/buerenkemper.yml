@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9471818
 longitude: 8.40839
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Steinhagener Straße"
 housenumber: 4

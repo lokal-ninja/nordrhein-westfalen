@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6208321
 longitude: 6.965812000000001
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Kleinaltendorfer Weg"
 housenumber: 2

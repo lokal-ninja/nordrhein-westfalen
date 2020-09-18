@@ -1,12 +1,12 @@
-id: 3063328365
+id: 3389829669
 type: node
 shop: Supermarkt
-latitude: 51.294668800000004
-longitude: 7.200912400000001
-postcode: 42281
+latitude: 51.271492200000004
+longitude: 7.216728300000001
+postcode: "42289"
 city: Wuppertal
-street: "Märkische Straße"
-housenumber: 279
-phone: "+49 800 2000015"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.netto-online.de//"
+street: "Heckinghauser Straße"
+housenumber: 113
+phone: ""
+opening_hours: ""
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.7750113
 longitude: 7.105568300000001
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Auf dem Axberg"
 housenumber: 9

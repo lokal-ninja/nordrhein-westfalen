@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 50.8522206
 longitude: 7.291034300000001
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Dorfstraße"
 housenumber: 14

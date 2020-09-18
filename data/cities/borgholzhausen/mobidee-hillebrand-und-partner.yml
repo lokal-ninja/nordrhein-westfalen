@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.08778160000001
 longitude: 8.272176400000001
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Nienkamp"
 housenumber: 1

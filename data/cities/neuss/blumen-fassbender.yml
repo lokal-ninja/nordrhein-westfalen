@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.123859700000004
 longitude: 6.729775900000001
-postcode: 41470
+postcode: "41470"
 city: Neuss
 street: "Eichenstraße"
 housenumber: 6

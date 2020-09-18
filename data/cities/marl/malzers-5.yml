@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.654588000000004
 longitude: 7.0815707
-postcode: 45768
+postcode: "45768"
 city: Marl
 street: "Schillerstraße"
 housenumber: 85a

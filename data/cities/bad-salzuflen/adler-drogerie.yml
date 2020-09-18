@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.084116
 longitude: 8.74677
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Am Markt"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.782488300000004
 longitude: 7.066295200000001
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Gottlieb-Daimler-Straße"
 housenumber: 10

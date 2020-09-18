@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.221105800000004
 longitude: 6.7805185
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Grünstraße"
 housenumber: 15

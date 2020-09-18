@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.0891777
 longitude: 6.5883836
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Breite Straße"
 housenumber: 17

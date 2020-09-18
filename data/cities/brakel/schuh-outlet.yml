@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.7070675
 longitude: 9.178617800000001
-postcode: 33034
+postcode: "33034"
 city: Brakel
 street: "Warburger Straße"
 housenumber: 70

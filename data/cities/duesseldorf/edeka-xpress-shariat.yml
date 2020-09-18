@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2450252
 longitude: 6.7825661
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Golzheimer Straße"
 housenumber: 129

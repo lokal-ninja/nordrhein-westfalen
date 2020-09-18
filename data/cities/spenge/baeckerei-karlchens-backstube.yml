@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.143384600000005
 longitude: 8.4831486
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Lange Straße"
 housenumber: 58

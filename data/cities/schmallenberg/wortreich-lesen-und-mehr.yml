@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.1512826
 longitude: 8.2843826
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Oststraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1358863
 longitude: 7.340990000000001
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Stahlschmidtsbrücke"
 housenumber: 15

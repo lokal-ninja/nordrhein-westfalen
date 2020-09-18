@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.922191600000005
 longitude: 6.3614129
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kleine Kölnstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.1636102
 longitude: 6.9567164
-postcode: 40723
+postcode: "40723"
 city: Hilden
 street: "Beckersheide"
 housenumber: 16a

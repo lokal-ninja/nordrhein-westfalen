@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3462438
 longitude: 8.2820268
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Stiftsplatz"
 housenumber: 11

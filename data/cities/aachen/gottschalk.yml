@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8169607
 longitude: 6.066356300000001
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roder Weg"
 housenumber: 6

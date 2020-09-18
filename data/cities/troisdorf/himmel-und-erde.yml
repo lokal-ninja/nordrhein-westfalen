@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 50.789151100000005
 longitude: 7.107199700000001
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Rheinstraße"
 housenumber: 79

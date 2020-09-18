@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.3732777
 longitude: 6.5975261000000005
-postcode: 47802
+postcode: "47802"
 city: Krefeld
 street: "Alte Kemmerhofstraße"
 housenumber: 178

@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 50.894854
 longitude: 6.9927079
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 54

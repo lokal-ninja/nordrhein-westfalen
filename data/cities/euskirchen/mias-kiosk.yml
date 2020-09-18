@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.650283
 longitude: 6.8261016
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 104

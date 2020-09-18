@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.7187886
 longitude: 8.749895500000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "An der Warmen Pader"
 housenumber: 5-7

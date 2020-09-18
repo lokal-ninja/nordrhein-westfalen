@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.6546675
 longitude: 8.217328
-postcode: 59556
+postcode: "59556"
 city: Lippstadt
 street: "Zum Lippesteg"
 housenumber: 6a

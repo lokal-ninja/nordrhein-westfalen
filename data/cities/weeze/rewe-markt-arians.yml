@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6264959
 longitude: 6.2002856
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Cyriakusplatz"
 housenumber: 3

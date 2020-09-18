@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.7153489
 longitude: 6.9142957
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Ballengasse"
 housenumber: 6

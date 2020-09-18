@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.73753850000001
 longitude: 8.6735801
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "An der Dicken Linde"
 housenumber: 1

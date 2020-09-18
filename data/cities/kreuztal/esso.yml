@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.928881700000005
 longitude: 8.010674700000001
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Siegener Straße"
 housenumber: 291

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8044541
 longitude: 6.485488
-postcode: 52351
+postcode: "52351"
 city: Düren
 street: "Schützenstraße"
 housenumber: 20

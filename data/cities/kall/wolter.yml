@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.539137000000004
 longitude: 6.5560513
-postcode: 53925
+postcode: "53925"
 city: Kall
 street: "Bahnhofstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9106845
 longitude: 6.3778375
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Am Mühlenteich"
 housenumber: 4

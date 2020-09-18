@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.194879400000005
 longitude: 8.5357026
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Marktstraße"
 housenumber: 14

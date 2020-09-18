@@ -1,12 +1,12 @@
-id: 69575803
+id: 62829546
 type: way
 shop: Supermarkt
-latitude: 50.9037942
-longitude: 7.0258408
-postcode: 51149
+latitude: 50.9182914
+longitude: 6.8497833
+postcode: "50858"
 city: Köln
-street: "Stollwerckstraße"
-housenumber: 6
+street: "Emmy-Noether-Straße"
+housenumber: 10
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/"

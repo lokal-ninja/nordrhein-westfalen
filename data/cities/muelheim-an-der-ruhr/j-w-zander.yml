@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.4331425
 longitude: 6.8457068
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Timmerhellstraße"
 housenumber: 2

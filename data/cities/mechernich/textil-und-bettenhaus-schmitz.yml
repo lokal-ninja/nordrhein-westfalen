@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.591644200000005
 longitude: 6.6543764
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Bahnstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9563738
 longitude: 7.6425929
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Wolbecker Straße"
 housenumber: 66

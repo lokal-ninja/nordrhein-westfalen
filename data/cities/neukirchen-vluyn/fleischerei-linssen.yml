@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4376423
 longitude: 6.530831200000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Vluyner Platz"
 housenumber: 3

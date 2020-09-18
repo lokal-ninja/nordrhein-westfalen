@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.494820600000004
 longitude: 7.3711609000000005
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Wulfshofstraße"
 housenumber: 6-8

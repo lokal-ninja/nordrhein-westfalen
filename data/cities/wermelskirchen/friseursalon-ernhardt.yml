@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.093295100000006
 longitude: 7.1903646000000006
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Altenberger Straße"
 housenumber: 66

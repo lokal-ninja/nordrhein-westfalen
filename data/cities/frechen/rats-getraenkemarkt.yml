@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9223981
 longitude: 6.820467300000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Gottlieb-Daimler-Straße"
 housenumber: 13

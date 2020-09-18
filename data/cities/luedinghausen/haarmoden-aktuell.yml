@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7710585
 longitude: 7.4447695000000005
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Kirchstraße"
 housenumber: 16

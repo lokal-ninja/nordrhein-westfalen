@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6509201
 longitude: 6.8096005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Carl-Benz-Straße"
 housenumber: 8

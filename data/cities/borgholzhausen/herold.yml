@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.102197700000005
 longitude: 8.2996897
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Am Uphof"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.223417600000005
 longitude: 6.795788300000001
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
 street: "Worringer Straße"
 housenumber: 104

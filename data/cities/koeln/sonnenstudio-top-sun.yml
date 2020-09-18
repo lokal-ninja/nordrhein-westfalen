@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9666993
 longitude: 6.9134251
-postcode: 50827
+postcode: "50827"
 city: Köln
 street: "Äußere Kanalstraße"
 housenumber: 205

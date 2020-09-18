@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5412552
 longitude: 6.558747800000001
-postcode: 53925
+postcode: "53925"
 city: Kall
 street: "Gemünder Straße"
 housenumber: 3

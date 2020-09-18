@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7152669
 longitude: 7.0493971
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 183

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2959977
 longitude: 7.251654500000001
-postcode: 42279
+postcode: "42279"
 city: Wuppertal
 street: "Möddinghofe"
 housenumber: 22

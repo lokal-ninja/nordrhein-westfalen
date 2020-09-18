@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.495770900000004
 longitude: 9.1298814
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: ""
 housenumber: 

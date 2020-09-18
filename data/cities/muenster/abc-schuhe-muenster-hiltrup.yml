@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.903175700000006
 longitude: 7.6250261
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Meesenstiege"
 housenumber: 52-54

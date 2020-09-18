@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.390067300000005
 longitude: 7.0021817
-postcode: 45239
+postcode: "45239"
 city: Essen
 street: "Heckstraße"
 housenumber: 47

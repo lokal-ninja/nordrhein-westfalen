@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.524371300000006
 longitude: 7.3807279
-postcode: 44369
+postcode: "44369"
 city: Dortmund
 street: "Rahmer Straße"
 housenumber: 312

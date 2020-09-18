@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.8196256
 longitude: 8.658158
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Paderborner Straße"
 housenumber: 8

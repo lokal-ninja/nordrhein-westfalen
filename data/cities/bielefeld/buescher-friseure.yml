@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0041419
 longitude: 8.5594974
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Osningstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4315517
 longitude: 6.772564200000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Am Buchenbaum"
 housenumber: 45

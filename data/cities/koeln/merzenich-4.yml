@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.929008100000004
 longitude: 6.9427526
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Barbarossaplatz"
 housenumber: 4

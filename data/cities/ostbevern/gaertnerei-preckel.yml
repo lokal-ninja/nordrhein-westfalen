@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.0347127
 longitude: 7.8319844000000005
-postcode: 48346
+postcode: "48346"
 city: Ostbevern
 street: "Westbeverner Straße"
 housenumber: 31

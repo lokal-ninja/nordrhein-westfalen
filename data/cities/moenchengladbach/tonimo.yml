@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.203771800000005
 longitude: 6.4124243000000005
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 225

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1441658
 longitude: 8.4904274
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Industriestraße"
 housenumber: 6-8

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.3268477
 longitude: 6.565954400000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Neusser Straße"
 housenumber: 44

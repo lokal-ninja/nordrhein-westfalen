@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.7137655
 longitude: 7.0441779
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 274

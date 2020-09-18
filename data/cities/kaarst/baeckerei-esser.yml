@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.231680600000004
 longitude: 6.6210879
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Neusser Straße"
 housenumber: 19

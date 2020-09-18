@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.056488200000004
 longitude: 8.5197698
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 320

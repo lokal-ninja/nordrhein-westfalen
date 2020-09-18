@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.238352400000004
 longitude: 6.7795060000000005
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 58

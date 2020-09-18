@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.098337
 longitude: 6.8115766
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Heesenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.769276500000004
 longitude: 6.6104672
-postcode: 46499
+postcode: "46499"
 city: Hamminkeln
 street: "Am Kirchplatz"
 housenumber: 3

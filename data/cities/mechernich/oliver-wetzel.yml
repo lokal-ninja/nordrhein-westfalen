@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.590559500000005
 longitude: 6.6554164
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Zum Markt"
 housenumber: 6

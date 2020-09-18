@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9737954
 longitude: 6.5903302
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Grevenbroicher Straße"
 housenumber: 

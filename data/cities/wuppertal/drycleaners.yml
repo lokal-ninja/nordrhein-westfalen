@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2493892
 longitude: 7.1348495000000005
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Steinbecker Meile"
 housenumber: 8

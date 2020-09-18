@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.6681785
 longitude: 6.9801963
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "An der Landwehr"
 housenumber: 78

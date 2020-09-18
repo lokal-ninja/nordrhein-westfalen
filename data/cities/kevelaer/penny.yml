@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5781311
 longitude: 6.2413245
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Walbecker Straße"
 housenumber: 7

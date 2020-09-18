@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 51.71097150000001
 longitude: 8.7729797
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Warburger Straße"
 housenumber: 96a

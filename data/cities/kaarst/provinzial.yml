@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.197050600000004
 longitude: 6.607217100000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Bahnstraße"
 housenumber: 26

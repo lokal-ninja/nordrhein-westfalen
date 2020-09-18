@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0194983
 longitude: 7.3749491
-postcode: 51789
+postcode: "51789"
 city: Lindlar
 street: "Pollerhofstraße"
 housenumber: 2

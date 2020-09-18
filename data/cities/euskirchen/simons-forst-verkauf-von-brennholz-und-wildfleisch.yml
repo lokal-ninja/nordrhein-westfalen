@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6006268
 longitude: 6.848260000000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Im Klostertal"
 housenumber: 20

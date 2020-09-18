@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.139187500000006
 longitude: 7.214002300000001
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Kölner Straße"
 housenumber: 33

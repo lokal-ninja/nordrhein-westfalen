@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7962393
 longitude: 6.889827100000001
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Marbecker Straße"
 housenumber: 98

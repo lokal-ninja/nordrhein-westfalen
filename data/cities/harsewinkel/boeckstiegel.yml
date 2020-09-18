@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.961102700000005
 longitude: 8.2249624
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Münsterstraße"
 housenumber: 5

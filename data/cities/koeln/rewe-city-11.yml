@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.934230400000004
 longitude: 6.9358757
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Händelstraße"
 housenumber: 15

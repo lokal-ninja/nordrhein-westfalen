@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.962649400000004
 longitude: 6.8860345
-postcode: 50829
+postcode: "50829"
 city: Köln
 street: "Biesterfeldstraße"
 housenumber: 2a

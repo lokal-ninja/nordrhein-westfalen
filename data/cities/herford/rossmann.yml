@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.1148139
 longitude: 8.674331
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Augustinerplatz"
 housenumber: 6

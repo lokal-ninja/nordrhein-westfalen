@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.918494100000004
 longitude: 6.9256716
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 205

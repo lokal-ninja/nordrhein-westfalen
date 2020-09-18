@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2257253
 longitude: 6.7765221
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Heinrich-Heine-Allee"
 housenumber: 43

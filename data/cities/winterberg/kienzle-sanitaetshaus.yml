@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.194203900000005
 longitude: 8.535593
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hauptstraße"
 housenumber: 13

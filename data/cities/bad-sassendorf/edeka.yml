@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5798932
 longitude: 8.158780100000001
-postcode: 59505
+postcode: "59505"
 city: Bad Sassendorf
 street: "Schützenstraße"
 housenumber: 63

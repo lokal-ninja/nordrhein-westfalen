@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.7308205
 longitude: 7.1655572
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Annabergstraße"
 housenumber: 156

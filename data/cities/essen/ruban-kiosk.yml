@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4789917
 longitude: 7.003678600000001
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Gladbecker Straße"
 housenumber: 262

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.059761300000005
 longitude: 6.1441052
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Boos-Fremery-Straße"
 housenumber: 36

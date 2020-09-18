@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.484803600000006
 longitude: 6.979646700000001
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Hafenstraße"
 housenumber: 66

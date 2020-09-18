@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.579172400000004
 longitude: 7.0001097
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Bülser Straße"
 housenumber: 31

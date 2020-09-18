@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6835766
 longitude: 7.8404023
-postcode: 59063
+postcode: "59063"
 city: Hamm
 street: "Marker Allee"
 housenumber: 76-78

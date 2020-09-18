@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.990305000000006
 longitude: 7.1239748
-postcode: 51465
+postcode: "51465"
 city: Bergisch Gladbach
 street: "Hauptstraße"
 housenumber: 131

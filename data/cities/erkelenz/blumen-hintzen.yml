@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.064319100000006
 longitude: 6.3422283
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "In Kückhoven"
 housenumber: 2

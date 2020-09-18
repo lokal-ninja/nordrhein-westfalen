@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1694164
 longitude: 6.853312300000001
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Paul-Thomas-Straße"
 housenumber: 34

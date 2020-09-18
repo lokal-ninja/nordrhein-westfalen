@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.9645371
 longitude: 7.162257500000001
-postcode: 51429
+postcode: "51429"
 city: Bergisch Gladbach
 street: "Schloßstraße"
 housenumber: 81

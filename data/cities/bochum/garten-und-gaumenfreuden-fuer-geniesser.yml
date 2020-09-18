@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.460417500000005
 longitude: 7.2162383000000005
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Wasserstraße"
 housenumber: 278

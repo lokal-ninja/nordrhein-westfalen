@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.367784500000006
 longitude: 7.549500200000001
-postcode: 58119
+postcode: "58119"
 city: Hagen
 street: "Elseyer Straße"
 housenumber: 77

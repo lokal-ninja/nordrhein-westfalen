@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.535160700000006
 longitude: 7.6919275
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Güldener Trog"
 housenumber: 1

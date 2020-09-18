@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7423785
 longitude: 7.1857234000000005
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Merschstraße"
 housenumber: 22

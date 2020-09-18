@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.178186700000005
 longitude: 8.804811500000001
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Loher Busch"
 housenumber: 1

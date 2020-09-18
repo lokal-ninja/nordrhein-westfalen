@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.1292588
 longitude: 6.4064454
-postcode: 41189
+postcode: "41189"
 city: Mönchengladbach
 street: "Sandstraße"
 housenumber: 58

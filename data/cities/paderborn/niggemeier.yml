@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.7630514
 longitude: 8.7858847
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 366

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7760782
 longitude: 6.0843844
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Krämerstraße"
 housenumber: 5

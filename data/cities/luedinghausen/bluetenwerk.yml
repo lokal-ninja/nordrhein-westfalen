@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.7632185
 longitude: 7.394939000000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Hauptstraße"
 housenumber: 4

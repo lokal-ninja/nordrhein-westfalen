@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.896458900000006
 longitude: 7.064978900000001
-postcode: 51149
+postcode: "51149"
 city: Köln
 street: "Theodor-Heuss-Straße"
 housenumber: 24

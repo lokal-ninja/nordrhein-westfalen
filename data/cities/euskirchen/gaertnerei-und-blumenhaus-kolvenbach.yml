@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.610076400000004
 longitude: 6.829244800000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Gregor-Mendel-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.899264
 longitude: 8.3724564
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Unter den Ulmen"
 housenumber: 47

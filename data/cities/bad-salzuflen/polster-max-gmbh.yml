@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0861426
 longitude: 8.730116500000001
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Am Fischerskamp"
 housenumber: 22

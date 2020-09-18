@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4392052
 longitude: 7.010245500000001
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Klarastraße"
 housenumber: 53

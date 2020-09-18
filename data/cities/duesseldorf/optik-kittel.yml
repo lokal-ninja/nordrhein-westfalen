@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.238857200000005
 longitude: 6.779499700000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Schwerinstraße"
 housenumber: 3

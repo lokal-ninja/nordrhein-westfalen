@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 50.774799200000004
 longitude: 6.0828669
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Johannes-Paul-II.-Straße"
 housenumber: 13

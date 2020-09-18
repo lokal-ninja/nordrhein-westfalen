@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0899816
 longitude: 6.8908101
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Rathausplatz"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.817891100000004
 longitude: 6.0659307
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roder Weg"
 housenumber: 8

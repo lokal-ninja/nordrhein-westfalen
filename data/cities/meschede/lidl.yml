@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3604934
 longitude: 8.2966843
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Im Schwarzen Bruch"
 housenumber: 46

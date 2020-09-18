@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.266265800000006
 longitude: 7.145320000000001
-postcode: 42105
+postcode: "42105"
 city: Wuppertal
 street: "Mirker Straße"
 housenumber: 43

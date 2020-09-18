@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3557539
 longitude: 7.4604578
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Pelmkestraße"
 housenumber: 24

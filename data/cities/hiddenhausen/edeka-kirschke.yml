@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1615491
 longitude: 8.6639002
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Herforder Straße"
 housenumber: 150

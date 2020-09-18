@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.0044413
 longitude: 8.476858400000001
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Dreisbach"
 housenumber: 12

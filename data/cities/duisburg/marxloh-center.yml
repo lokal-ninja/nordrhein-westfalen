@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.5027896
 longitude: 6.760325600000001
-postcode: 47169
+postcode: "47169"
 city: Duisburg
 street: "August-Bebel-Platz"
 housenumber: 20

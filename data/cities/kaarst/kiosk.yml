@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.2168226
 longitude: 6.6123906
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Königstraße"
 housenumber: 18

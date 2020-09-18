@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2427392
 longitude: 6.697638400000001
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Neusser Straße"
 housenumber: 19b

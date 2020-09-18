@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.7666878
 longitude: 7.431361300000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Lindenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.0219418
 longitude: 8.5299739
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Goldstraße"
 housenumber: 22

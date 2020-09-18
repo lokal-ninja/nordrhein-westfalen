@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.867912100000005
 longitude: 9.0916095
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Pyrmonter Straße"
 housenumber: 4

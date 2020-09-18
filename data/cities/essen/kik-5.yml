@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.440679
 longitude: 6.9889814
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 114-116

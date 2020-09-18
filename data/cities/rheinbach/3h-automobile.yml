@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.631938600000005
 longitude: 6.962066200000001
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Boschstraße"
 housenumber: 16

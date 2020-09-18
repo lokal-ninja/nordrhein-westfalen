@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.502507400000006
 longitude: 6.7851951
-postcode: 47167
+postcode: "47167"
 city: Duisburg
 street: "Schlachthofstraße"
 housenumber: 38

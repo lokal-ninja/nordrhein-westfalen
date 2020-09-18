@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6517727
 longitude: 8.9266669
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Heggehof"
 housenumber: 2

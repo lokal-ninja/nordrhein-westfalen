@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9419647
 longitude: 6.6785661
-postcode: 50127
+postcode: "50127"
 city: Bergheim
 street: "Köln-Aachener-Straße"
 housenumber: 58

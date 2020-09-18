@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1574772
 longitude: 6.744734
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Siemensstraße"
 housenumber: 12

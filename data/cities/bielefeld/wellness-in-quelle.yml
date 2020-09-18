@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.99679020000001
 longitude: 8.4768028
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Carl-Severing-Straße"
 housenumber: 118

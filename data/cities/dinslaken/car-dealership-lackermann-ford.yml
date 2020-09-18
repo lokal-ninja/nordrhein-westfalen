@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5712209
 longitude: 6.733152400000001
-postcode: 46537
+postcode: "46537"
 city: Dinslaken
 street: "Gerhard-Malina-Straße"
 housenumber: 95

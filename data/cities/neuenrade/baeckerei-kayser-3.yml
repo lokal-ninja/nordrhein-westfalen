@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.28539060000001
 longitude: 7.8068876000000005
-postcode: 58809
+postcode: "58809"
 city: Neuenrade
 street: "Osemundstraße"
 housenumber: 24

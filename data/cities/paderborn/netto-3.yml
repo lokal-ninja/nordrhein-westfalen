@@ -1,12 +1,12 @@
-id: 2062480456
+id: 3094858321
 type: node
 shop: Supermarkt
-latitude: 51.7205455
-longitude: 8.8022401
-postcode: 33100
+latitude: 51.721659100000004
+longitude: 8.7383512
+postcode: "33102"
 city: Paderborn
-street: "Kaukenberg"
-housenumber: 15
-phone: "+49 5251 1809971"
-opening_hours: "Mo-Sa 7:00-21:00"
+street: "Jahnstraße"
+housenumber: 6
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

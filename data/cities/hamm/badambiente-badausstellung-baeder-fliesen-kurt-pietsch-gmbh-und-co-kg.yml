@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 51.6660808
 longitude: 7.758789900000001
-postcode: 59067
+postcode: "59067"
 city: Hamm
 street: "Küferstraße"
 housenumber: 24

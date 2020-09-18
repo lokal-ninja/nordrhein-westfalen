@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.818125800000004
 longitude: 6.3589409
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Hauptstraße"
 housenumber: 65

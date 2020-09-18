@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1666116
 longitude: 6.448488500000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Gracht"
 housenumber: 23

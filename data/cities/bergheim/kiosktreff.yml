@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9668481
 longitude: 6.7481689000000005
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Hohe Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4912008
 longitude: 7.2443428
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Castroper Straße"
 housenumber: 202-212

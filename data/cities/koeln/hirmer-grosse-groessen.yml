@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.935904300000004
 longitude: 6.952102200000001
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Antonsgasse"
 housenumber: 1-5

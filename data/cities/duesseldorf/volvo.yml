@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.221136400000006
 longitude: 6.8200699
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Höherweg"
 housenumber: 181

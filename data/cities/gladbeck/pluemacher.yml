@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 51.592217000000005
 longitude: 6.9998572
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Scheideweg"
 housenumber: 98

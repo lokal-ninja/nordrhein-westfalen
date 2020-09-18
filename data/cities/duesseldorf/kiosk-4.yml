@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.2272307
 longitude: 6.756978200000001
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Düsseldorfer Straße"
 housenumber: 18

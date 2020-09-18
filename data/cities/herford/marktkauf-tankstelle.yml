@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.1121094
 longitude: 8.6587227
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Deichkamp"
 housenumber: 13

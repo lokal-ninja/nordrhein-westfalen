@@ -1,12 +1,12 @@
-id: 812337221
+id: 3085152437
 type: node
 shop: Drogerie
-latitude: 50.7768171
-longitude: 6.0907603
-postcode: 52062
+latitude: 50.7752847
+longitude: 6.0862813000000004
+postcode: "52062"
 city: Aachen
-street: "Peterstraße"
-housenumber: 50-52
+street: "Buchkremerstraße"
+housenumber: 1-7
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
 website: ""

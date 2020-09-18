@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.112062400000006
 longitude: 6.9506271
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Galerieplatz"
 housenumber: 1

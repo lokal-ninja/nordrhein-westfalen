@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.6627364
 longitude: 6.783497700000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Grünstraße"
 housenumber: 9

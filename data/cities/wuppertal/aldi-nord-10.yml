@@ -1,12 +1,12 @@
-id: 4053412192
+id: 4463578480
 type: node
 shop: Supermarkt
-latitude: 51.259120300000006
-longitude: 7.1538024
-postcode: 42107
+latitude: 51.2327822
+longitude: 7.0727396
+postcode: "42329"
 city: Wuppertal
-street: "Neuenteich"
-housenumber: 91
+street: "Kaiserstraße"
+housenumber: 33
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.144825600000004
 longitude: 7.223468700000001
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Thomas-Mann-Straße"
 housenumber: 41

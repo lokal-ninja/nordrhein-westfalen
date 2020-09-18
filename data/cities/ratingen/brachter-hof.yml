@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.294549700000005
 longitude: 6.9088019
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Brachter Straße"
 housenumber: 41

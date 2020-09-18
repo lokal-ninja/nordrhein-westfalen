@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4557306
 longitude: 6.6356340000000005
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Baustraße"
 housenumber: 29

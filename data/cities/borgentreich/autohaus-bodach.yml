@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.621160700000004
 longitude: 9.257646900000001
-postcode: 34434
+postcode: "34434"
 city: Borgentreich
 street: "Zum Burgtor"
 housenumber: 5

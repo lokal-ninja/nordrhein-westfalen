@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2070445
 longitude: 6.7773174
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Merowingerstraße"
 housenumber: 4

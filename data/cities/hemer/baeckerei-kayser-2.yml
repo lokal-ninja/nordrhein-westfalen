@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.385296100000005
 longitude: 7.767563300000001
-postcode: 58675
+postcode: "58675"
 city: Hemer
 street: "Hademareplatz"
 housenumber: 1-5

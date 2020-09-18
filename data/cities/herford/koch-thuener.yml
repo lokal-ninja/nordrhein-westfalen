@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 52.1025798
 longitude: 8.6930435
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Ernstmeierstraße"
 housenumber: 18

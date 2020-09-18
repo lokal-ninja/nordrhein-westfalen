@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.5207029
 longitude: 7.0900059
-postcode: 45881
+postcode: "45881"
 city: Gelsenkirchen
 street: "Kurt-Schumacher-Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.833477900000005
 longitude: 6.9236455
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Lise-Meitner-Straße"
 housenumber: 10

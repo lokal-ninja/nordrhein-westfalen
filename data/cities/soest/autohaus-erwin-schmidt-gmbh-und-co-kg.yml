@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5601508
 longitude: 8.104176500000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Arnsberger Straße"
 housenumber: 30

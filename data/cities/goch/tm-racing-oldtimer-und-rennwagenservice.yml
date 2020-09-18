@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6702535
 longitude: 6.177931500000001
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Tichelweg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6100743
 longitude: 7.1807454
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Hertener Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.5846383
 longitude: 7.650658300000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Wilhelm-Bläser-Straße"
 housenumber: 5

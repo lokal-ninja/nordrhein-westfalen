@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.6600565
 longitude: 6.9640386
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Markt"
 housenumber: 7

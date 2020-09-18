@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.677843
 longitude: 6.9379901
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Hauptstraße"
 housenumber: 36a

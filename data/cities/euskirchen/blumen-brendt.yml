@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.6659881
 longitude: 6.787463600000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kessenicher Straße"
 housenumber: 105

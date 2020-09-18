@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6037236
 longitude: 6.9237766
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Schulze-Delitzsch-Straße"
 housenumber: 22

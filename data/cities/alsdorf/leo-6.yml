@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8677332
 longitude: 6.2126013
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Jülicher Straße"
 housenumber: 186

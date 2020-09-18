@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.363866800000004
 longitude: 7.463311300000001
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Graf-von-Galen-Ring"
 housenumber: 4

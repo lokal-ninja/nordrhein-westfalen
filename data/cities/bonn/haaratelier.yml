@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7234204
 longitude: 7.089604700000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Clemens-August-Straße"
 housenumber: 17

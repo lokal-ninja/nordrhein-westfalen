@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.428493100000004
 longitude: 6.937321000000001
-postcode: 
+postcode: ""
 city: Mülheim an der Ruhr
 street: "Kleiststraße"
 housenumber: 24

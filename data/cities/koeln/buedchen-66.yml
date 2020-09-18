@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9367084
 longitude: 6.9334237000000005
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Aachener Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7261235
 longitude: 8.735684800000001
-postcode: 
+postcode: ""
 city: Paderborn
 street: "Neuhäuser Straße"
 housenumber: 98

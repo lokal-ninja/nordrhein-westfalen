@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.195994400000004
 longitude: 6.459715500000001
-postcode: 41065
+postcode: "41065"
 city: Mönchengladbach
 street: "Korschenbroicher Straße"
 housenumber: 168

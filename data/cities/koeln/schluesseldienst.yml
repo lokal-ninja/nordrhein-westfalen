@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.891637700000004
 longitude: 6.9965485
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 128

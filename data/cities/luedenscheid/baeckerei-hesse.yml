@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.238665000000005
 longitude: 7.6087845000000005
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Brockhauser Weg"
 housenumber: 99

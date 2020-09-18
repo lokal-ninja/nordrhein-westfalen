@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.387049100000006
 longitude: 8.6207922
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "In der Tütenbeke"
 housenumber: 9

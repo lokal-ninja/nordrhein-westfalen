@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3981669
 longitude: 7.1845547000000005
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Kirchplatz"
 housenumber: 9

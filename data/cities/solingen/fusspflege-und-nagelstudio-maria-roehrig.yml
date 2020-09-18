@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.161121
 longitude: 7.0082715
-postcode: 42697
+postcode: "42697"
 city: Solingen
 street: "Sauerbreystraße"
 housenumber: 39

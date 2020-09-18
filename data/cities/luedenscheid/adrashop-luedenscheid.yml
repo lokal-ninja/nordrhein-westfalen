@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.2178551
 longitude: 7.627648300000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Friedrichstraße"
 housenumber: 6

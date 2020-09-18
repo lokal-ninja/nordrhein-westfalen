@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.836559
 longitude: 6.684814800000001
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Südstraße"
 housenumber: 106

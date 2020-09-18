@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.659891900000005
 longitude: 6.6378214
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Schermbecker Landstraße"
 housenumber: 25

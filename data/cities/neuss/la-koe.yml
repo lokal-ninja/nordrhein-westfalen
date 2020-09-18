@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.202811600000004
 longitude: 6.6839531
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Krefelder Straße"
 housenumber: 1

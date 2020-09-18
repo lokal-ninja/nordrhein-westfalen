@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7636077
 longitude: 7.4461146000000005
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Tüllinghofer Straße"
 housenumber: 69

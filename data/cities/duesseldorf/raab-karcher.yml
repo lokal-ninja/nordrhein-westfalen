@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.2171785
 longitude: 6.8203189
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ronsdorfer Straße"
 housenumber: 96

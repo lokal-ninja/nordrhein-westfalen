@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4730464
 longitude: 7.7686511000000005
-postcode: 58730
+postcode: "58730"
 city: Fröndenberg/Ruhr
 street: "Alleestraße"
 housenumber: 9

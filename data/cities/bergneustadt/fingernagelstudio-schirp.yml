@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.020859800000004
 longitude: 7.6550004000000005
-postcode: 51702
+postcode: "51702"
 city: Bergneustadt
 street: "Kölner Straße"
 housenumber: 263

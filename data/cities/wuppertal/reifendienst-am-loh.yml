@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.270656900000006
 longitude: 7.1773714
-postcode: 42283
+postcode: "42283"
 city: Wuppertal
 street: "Loher Höhe"
 housenumber: 10

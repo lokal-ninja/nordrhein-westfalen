@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.736841600000005
 longitude: 7.1026075
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Friedrichstraße"
 housenumber: 47

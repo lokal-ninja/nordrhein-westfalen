@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.881360900000004
 longitude: 6.6898292
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Am Falder"
 housenumber: 26

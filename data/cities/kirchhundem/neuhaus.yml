@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.088712400000006
 longitude: 8.1157729
-postcode: 57399
+postcode: "57399"
 city: Kirchhundem
 street: "Würdinghauser Straße"
 housenumber: 2

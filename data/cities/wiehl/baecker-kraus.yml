@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9708521
 longitude: 7.512544
-postcode: 51674
+postcode: "51674"
 city: Wiehl
 street: "Oberbantenberger Straße"
 housenumber: 31

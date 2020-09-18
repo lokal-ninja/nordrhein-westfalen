@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.755347
 longitude: 7.0774534000000004
-postcode: 53117
+postcode: "53117"
 city: Bonn
 street: "Auerberger Mitte"
 housenumber: 6

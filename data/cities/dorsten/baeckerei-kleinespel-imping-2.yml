@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.729713100000005
 longitude: 7.0470511
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Dimker Allee"
 housenumber: 10

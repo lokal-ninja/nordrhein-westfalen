@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.8753114
 longitude: 8.0257061
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Markt"
 housenumber: 47

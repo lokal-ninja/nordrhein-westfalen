@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5396146
 longitude: 6.722037
-postcode: 47178
+postcode: "47178"
 city: Duisburg
 street: "Franz-Lenze-Platz"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.346446400000005
 longitude: 8.2848647
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Winziger Platz"
 housenumber: 2

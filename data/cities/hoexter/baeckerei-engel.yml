@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7743418
 longitude: 9.3606402
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Pfennigbreite"
 housenumber: 34

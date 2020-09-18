@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.6396657
 longitude: 8.510166400000001
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Am Teich"
 housenumber: 4

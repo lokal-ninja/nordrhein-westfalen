@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.3593065
 longitude: 7.374837500000001
-postcode: 58300
+postcode: "58300"
 city: Wetter (Ruhr)
 street: "Schöllinger Feld"
 housenumber: 3

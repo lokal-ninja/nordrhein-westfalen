@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.871640400000004
 longitude: 6.1674559
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Weinstraße"
 housenumber: 94

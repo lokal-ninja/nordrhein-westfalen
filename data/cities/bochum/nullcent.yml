@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.4525007
 longitude: 7.192675
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 369

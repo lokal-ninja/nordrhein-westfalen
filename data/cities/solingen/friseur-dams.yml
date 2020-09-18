@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1926837
 longitude: 7.0747562
-postcode: 42653
+postcode: "42653"
 city: Solingen
 street: "Schlagbaumer Straße"
 housenumber: 186

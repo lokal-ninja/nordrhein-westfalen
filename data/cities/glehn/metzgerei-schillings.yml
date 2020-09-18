@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.165389000000005
 longitude: 6.5784257
-postcode: 41352
+postcode: "41352"
 city: Glehn
 street: "Bachstraße"
 housenumber: 25

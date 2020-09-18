@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.024042
 longitude: 8.480978
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Gehsenweg"
 housenumber: 2

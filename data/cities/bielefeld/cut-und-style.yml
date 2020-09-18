@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.944276800000004
 longitude: 8.5793338
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Altmühlstraße"
 housenumber: 30b

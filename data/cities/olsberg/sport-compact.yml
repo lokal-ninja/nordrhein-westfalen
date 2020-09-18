@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.357511200000005
 longitude: 8.4789667
-postcode: 59939
+postcode: "59939"
 city: Olsberg
 street: "Fruges Straße"
 housenumber: 4

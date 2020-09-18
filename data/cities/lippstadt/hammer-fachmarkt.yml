@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.653707100000005
 longitude: 8.3420196
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Erwitter Straße"
 housenumber: 110

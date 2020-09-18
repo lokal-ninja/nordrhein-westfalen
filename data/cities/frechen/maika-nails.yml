@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.909928
 longitude: 6.808849800000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Keimesstraße"
 housenumber: 1a

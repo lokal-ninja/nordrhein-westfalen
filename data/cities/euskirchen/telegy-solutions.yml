@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.6591843
 longitude: 6.7898825
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 21

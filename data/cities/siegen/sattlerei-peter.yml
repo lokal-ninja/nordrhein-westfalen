@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.850724500000005
 longitude: 8.0349085
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Obere Leimbach"
 housenumber: 4

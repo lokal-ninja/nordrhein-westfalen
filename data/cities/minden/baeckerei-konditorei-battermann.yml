@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2871309
 longitude: 8.9154847
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Obermarktstraße"
 housenumber: 12

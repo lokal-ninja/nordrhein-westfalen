@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7122552
 longitude: 6.1385658
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Werkstraße"
 housenumber: 29

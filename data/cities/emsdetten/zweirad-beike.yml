@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.180550100000005
 longitude: 7.521526100000001
-postcode: 48282
+postcode: "48282"
 city: Emsdetten
 street: "Rheiner Straße"
 housenumber: 99

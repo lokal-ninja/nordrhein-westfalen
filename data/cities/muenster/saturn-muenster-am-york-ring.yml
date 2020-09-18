@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.9737651
 longitude: 7.611553300000001
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Grevener Straße"
 housenumber: 69

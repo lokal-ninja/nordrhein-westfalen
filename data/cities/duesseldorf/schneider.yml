@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.201141
 longitude: 6.838472100000001
-postcode: 40229
+postcode: "40229"
 city: Düsseldorf
 street: "Gertrudisplatz"
 housenumber: 1

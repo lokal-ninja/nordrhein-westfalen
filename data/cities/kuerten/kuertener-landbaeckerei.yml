@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0536387
 longitude: 7.268712300000001
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Wipperfürther Straße"
 housenumber: 389

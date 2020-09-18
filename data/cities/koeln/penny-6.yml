@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9513254
 longitude: 6.9168148
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Ehrenfeldgürtel"
 housenumber: 95

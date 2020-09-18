@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.494580600000006
 longitude: 8.430044200000001
-postcode: 59602
+postcode: "59602"
 city: Rüthen
 street: "Mildestraße"
 housenumber: 1

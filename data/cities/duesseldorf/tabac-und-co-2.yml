@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.231593700000005
 longitude: 6.8084562
-postcode: 40235
+postcode: "40235"
 city: Düsseldorf
 street: "Dorotheenstraße"
 housenumber: 1

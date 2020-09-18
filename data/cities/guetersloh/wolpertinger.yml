@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.9047782
 longitude: 8.379189700000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Kirchstraße"
 housenumber: 12

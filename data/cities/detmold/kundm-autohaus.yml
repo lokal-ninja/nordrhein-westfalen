@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9491571
 longitude: 8.857293
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Am Gelskamp"
 housenumber: 23

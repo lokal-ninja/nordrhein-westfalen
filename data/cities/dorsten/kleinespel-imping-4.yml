@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6614671
 longitude: 6.9631335000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Klosterstraße"
 housenumber: 2

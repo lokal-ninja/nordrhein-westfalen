@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2827994
 longitude: 7.173619400000001
-postcode: 42109
+postcode: "42109"
 city: Wuppertal
 street: "Uellendahler Straße"
 housenumber: 540

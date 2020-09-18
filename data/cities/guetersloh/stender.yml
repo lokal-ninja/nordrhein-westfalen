@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.900166500000005
 longitude: 8.3704107
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Friedhofstraße"
 housenumber: 32

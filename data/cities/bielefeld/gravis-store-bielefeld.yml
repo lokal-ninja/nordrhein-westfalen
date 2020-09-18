@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.018948800000004
 longitude: 8.530521100000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Am Bach"
 housenumber: 20

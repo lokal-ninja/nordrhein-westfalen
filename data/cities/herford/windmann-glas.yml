@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 52.103424700000005
 longitude: 8.6940761
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Brunnenstraße"
 housenumber: 6

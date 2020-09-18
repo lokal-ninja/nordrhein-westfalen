@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.7346738
 longitude: 6.2126299000000005
-postcode: 52223
+postcode: "52223"
 city: Stolberg
 street: "Corneliastraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6621826
 longitude: 7.4042256
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Markfelder Straße"
 housenumber: 69

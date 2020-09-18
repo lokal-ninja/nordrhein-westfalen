@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.61068160000001
 longitude: 6.831379800000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Pater-Trompeter-Straße"
 housenumber: 12

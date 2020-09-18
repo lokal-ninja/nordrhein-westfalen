@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2308766
 longitude: 6.801510100000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Grafenberger Allee"
 housenumber: 68

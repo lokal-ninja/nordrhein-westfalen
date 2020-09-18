@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1623256
 longitude: 6.863491000000001
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Benrather Schloßallee"
 housenumber: 69

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.442900800000004
 longitude: 6.9805643
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Keplerstraße"
 housenumber: 98

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.778043600000004
 longitude: 6.1603636
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 192

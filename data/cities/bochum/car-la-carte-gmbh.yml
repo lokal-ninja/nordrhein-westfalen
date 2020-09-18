@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.4799609
 longitude: 7.317081600000001
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Am Heerbusch"
 housenumber: 71

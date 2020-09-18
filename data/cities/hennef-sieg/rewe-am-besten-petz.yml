@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7701432
 longitude: 7.285584500000001
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Bonner Straße"
 housenumber: 12a

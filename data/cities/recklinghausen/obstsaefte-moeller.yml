@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.59354810000001
 longitude: 7.1805782
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Forststraße"
 housenumber: 7

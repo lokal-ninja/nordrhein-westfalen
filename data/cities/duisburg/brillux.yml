@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.4424464
 longitude: 6.7519415
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Auf der Höhe"
 housenumber: 15

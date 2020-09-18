@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0937129
 longitude: 6.7615502
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Norbertstraße"
 housenumber: 11

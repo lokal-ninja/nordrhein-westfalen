@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.4942902
 longitude: 7.3041323
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Nörenbergstraße"
 housenumber: 56

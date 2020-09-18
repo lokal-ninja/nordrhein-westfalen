@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.4772139
 longitude: 7.42611
-postcode: 44227
+postcode: "44227"
 city: Dortmund
 street: "Menglinghauser Straße"
 housenumber: 23

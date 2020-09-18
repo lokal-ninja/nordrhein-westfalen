@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4284296
 longitude: 6.998683700000001
-postcode: 45131
+postcode: "45131"
 city: Essen
 street: "Eduard-Lucas-Straße"
 housenumber: 18

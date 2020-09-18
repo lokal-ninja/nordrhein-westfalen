@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5367575
 longitude: 7.6912741
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Bahnhofstraße"
 housenumber: 

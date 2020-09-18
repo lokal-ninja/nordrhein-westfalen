@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.9223414
 longitude: 6.3601027000000006
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.8796614
 longitude: 8.9489208
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Wilberger Straße"
 housenumber: 58

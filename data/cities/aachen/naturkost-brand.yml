@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7487823
 longitude: 6.1628426
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Marktplatz"
 housenumber: 26

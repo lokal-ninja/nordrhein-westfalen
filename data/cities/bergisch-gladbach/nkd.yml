@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.964911900000004
 longitude: 7.161328900000001
-postcode: 51429
+postcode: "51429"
 city: Bergisch Gladbach
 street: "Schloßstraße"
 housenumber: 64

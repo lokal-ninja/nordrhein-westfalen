@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.5725897
 longitude: 7.3827582000000005
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Mengeder Straße"
 housenumber: 710

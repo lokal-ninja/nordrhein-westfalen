@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.4898414
 longitude: 7.0504199000000005
-postcode: 45327
+postcode: "45327"
 city: Essen
 street: "Gelsenkirchener Straße"
 housenumber: 220

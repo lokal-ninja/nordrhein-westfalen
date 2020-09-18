@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.309249400000006
 longitude: 6.589997
-postcode: 47807
+postcode: "47807"
 city: Krefeld
 street: "Hafelsstraße"
 housenumber: 61

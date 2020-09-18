@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.372860300000006
 longitude: 6.6020086000000004
-postcode: 47802
+postcode: "47802"
 city: Krefeld
 street: "Rather Straße"
 housenumber: 128

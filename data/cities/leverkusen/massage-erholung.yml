@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.0295125
 longitude: 6.9821811
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Friedensstraße"
 housenumber: 10

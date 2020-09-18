@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.779182500000005
 longitude: 6.1559733
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Steinstraße"
 housenumber: 53

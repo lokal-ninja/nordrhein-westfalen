@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1420353
 longitude: 6.278091300000001
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Bahnhofstraße"
 housenumber: 29

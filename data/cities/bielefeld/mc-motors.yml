@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.0387805
 longitude: 8.547747300000001
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Stadtheider Straße"
 housenumber: 49

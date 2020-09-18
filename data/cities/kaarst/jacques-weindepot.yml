@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.229597500000004
 longitude: 6.6187106
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Matthias-Claudius-Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.48172520000001
 longitude: 7.213345500000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Willy-Brandt-Platz"
 housenumber: 14

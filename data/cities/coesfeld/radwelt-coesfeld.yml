@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9277111
 longitude: 7.1722092
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Dülmener Straße"
 housenumber: 117

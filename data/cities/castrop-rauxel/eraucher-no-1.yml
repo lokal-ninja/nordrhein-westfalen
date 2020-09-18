@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.5470905
 longitude: 7.3107835
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Am Markt"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3027183
 longitude: 8.3024317
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Jost-Hennecke-Straße"
 housenumber: 9

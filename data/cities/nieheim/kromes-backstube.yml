@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.804074
 longitude: 9.110626700000001
-postcode: 33039
+postcode: "33039"
 city: Nieheim
 street: "Marktstraße"
 housenumber: 29

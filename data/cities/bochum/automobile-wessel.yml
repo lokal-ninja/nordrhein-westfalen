@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4856436
 longitude: 7.123236100000001
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Lohrheidestraße"
 housenumber: 60

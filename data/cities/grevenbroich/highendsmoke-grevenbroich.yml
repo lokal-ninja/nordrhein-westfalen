@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 51.088862000000006
 longitude: 6.5862154
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Bahnstraße"
 housenumber: 14

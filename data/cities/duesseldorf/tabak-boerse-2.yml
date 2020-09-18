@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2083864
 longitude: 6.740357400000001
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Hammer Dorfstraße"
 housenumber: 119

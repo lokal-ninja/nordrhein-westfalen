@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.5207172
 longitude: 6.9815601
-postcode: 46238
+postcode: "46238"
 city: Bottrop
 street: "Am Kämpchen"
 housenumber: 110

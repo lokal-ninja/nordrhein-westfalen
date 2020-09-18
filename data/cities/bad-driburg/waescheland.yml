@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.73467290000001
 longitude: 9.020593100000001
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 100

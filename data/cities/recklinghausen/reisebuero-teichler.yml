@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.615004500000005
 longitude: 7.198940100000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Kunibertistraße"
 housenumber: 7

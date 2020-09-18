@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 52.288763700000004
 longitude: 8.537663400000001
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Bahnhofstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.666738800000005
 longitude: 6.555722800000001
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Gravinsel"
 housenumber: 

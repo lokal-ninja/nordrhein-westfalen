@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1742792
 longitude: 6.4428996000000005
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Brucknerallee"
 housenumber: 147

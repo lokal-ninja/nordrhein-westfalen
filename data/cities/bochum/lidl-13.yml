@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4824277
 longitude: 7.1287444
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Lyrenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.812459700000005
 longitude: 8.4342216
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Westerwieher Straße"
 housenumber: 33-39

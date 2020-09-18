@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.192938700000006
 longitude: 8.5255817
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Am Waltenberg"
 housenumber: 43

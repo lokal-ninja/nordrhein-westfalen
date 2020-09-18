@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.625224900000006
 longitude: 7.0199943000000005
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2836823
 longitude: 7.041839
-postcode: 42489
+postcode: "42489"
 city: Wülfrath
 street: "Wilhelmstraße"
 housenumber: 48-50

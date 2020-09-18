@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 50.627103000000005
 longitude: 6.906573600000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Monikastraße"
 housenumber: 110

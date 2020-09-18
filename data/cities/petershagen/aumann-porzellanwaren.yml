@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.3693649
 longitude: 8.9963612
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Bahnhofstraße"
 housenumber: 19

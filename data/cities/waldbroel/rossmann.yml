@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.8763323
 longitude: 7.616909000000001
-postcode: 51545
+postcode: "51545"
 city: Waldbröl
 street: "Kaiserstraße"
 housenumber: 36

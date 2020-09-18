@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.832902000000004
 longitude: 6.463338500000001
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Minervastraße"
 housenumber: 48

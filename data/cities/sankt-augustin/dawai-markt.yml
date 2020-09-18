@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7802957
 longitude: 7.1888566
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Südstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.6605039
 longitude: 6.9672035
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Recklinghäuser Straße"
 housenumber: 19

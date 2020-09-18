@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.443823200000004
 longitude: 6.2876002
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Hubertusstraße"
 housenumber: 1

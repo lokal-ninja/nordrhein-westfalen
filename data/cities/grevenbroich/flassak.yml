@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.0882336
 longitude: 6.5925291
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.973476500000004
 longitude: 6.9603425
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Niehler Straße"
 housenumber: 276

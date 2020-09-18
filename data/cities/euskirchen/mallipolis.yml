@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6590186
 longitude: 6.7822418
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Gerberstraße"
 housenumber: 43

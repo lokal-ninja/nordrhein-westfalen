@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1210753
 longitude: 6.2161515000000005
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Friedrich-List-Allee"
 housenumber: 30

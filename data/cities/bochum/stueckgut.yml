@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 51.4736598
 longitude: 7.215893800000001
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Königsallee"
 housenumber: 12
-phone: ""
+phone: "+49 234 5305580"
 opening_hours: "Mo-Fr 11:00-19:00, Sa 11:00-16:00"
 website: "http://www.stueckgut-bochum.de/"

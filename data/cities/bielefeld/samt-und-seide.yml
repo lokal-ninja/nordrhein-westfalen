@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0212556
 longitude: 8.5306197
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Hagenbruchstraße"
 housenumber: 9

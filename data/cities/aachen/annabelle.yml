@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7757991
 longitude: 6.0856855
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Büchel"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3437361
 longitude: 7.259162900000001
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Pötingstraße"
 housenumber: 1

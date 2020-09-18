@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.399848000000006
 longitude: 7.1854779
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Heggerstraße"
 housenumber: 27

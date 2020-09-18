@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.657633800000006
 longitude: 6.6119943
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Kornmarkt"
 housenumber: 2a

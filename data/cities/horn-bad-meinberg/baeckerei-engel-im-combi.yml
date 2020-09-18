@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8767682
 longitude: 8.954554700000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Bahnhofstraße"
 housenumber: 40a

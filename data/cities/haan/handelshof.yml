@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1931505
 longitude: 6.9824766
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Ginsterweg"
 housenumber: 12,14

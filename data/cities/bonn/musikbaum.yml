@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.6871285
 longitude: 7.1533457
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Plittersdorfer Straße"
 housenumber: 9a-11

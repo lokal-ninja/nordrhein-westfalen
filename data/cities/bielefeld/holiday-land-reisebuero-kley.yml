@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0125059
 longitude: 8.5981448
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Potsdamer Straße"
 housenumber: 148

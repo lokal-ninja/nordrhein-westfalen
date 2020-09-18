@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.336294800000005
 longitude: 6.643159900000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Danziger Platz"
 housenumber: 7

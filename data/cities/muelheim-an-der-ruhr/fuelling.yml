@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.426858800000005
 longitude: 6.858599900000001
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 153

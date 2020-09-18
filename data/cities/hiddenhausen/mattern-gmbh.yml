@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1344993
 longitude: 8.6612527
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Bünder Straße"
 housenumber: 1

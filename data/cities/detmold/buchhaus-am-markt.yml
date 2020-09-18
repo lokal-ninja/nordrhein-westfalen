@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.9349835
 longitude: 8.878651000000001
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Marktplatz"
 housenumber: 1

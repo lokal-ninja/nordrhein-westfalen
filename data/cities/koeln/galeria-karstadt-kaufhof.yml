@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.9388194
 longitude: 6.9479750000000005
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Breite Straße"
 housenumber: 103-135

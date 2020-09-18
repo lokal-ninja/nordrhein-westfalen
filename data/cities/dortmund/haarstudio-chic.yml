@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.487111500000005
 longitude: 7.5001832
-postcode: 44263
+postcode: "44263"
 city: Dortmund
 street: "Schildplatz"
 housenumber: 

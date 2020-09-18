@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.7346312
 longitude: 9.0207511
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 102

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4723909
 longitude: 6.963378700000001
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Wolfsbankstraße"
 housenumber: 61

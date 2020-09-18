@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1447949
 longitude: 6.9024592
-postcode: 40595
+postcode: "40595"
 city: Düsseldorf
 street: "Carl-Friedrich-Goerdeler-Straße"
 housenumber: 24a

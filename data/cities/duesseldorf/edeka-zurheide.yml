@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.169718200000005
 longitude: 6.861817
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Nürnberger Straße"
 housenumber: 40

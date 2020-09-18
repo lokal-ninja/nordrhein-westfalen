@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.103655200000006
 longitude: 7.012797600000001
-postcode: 42799
+postcode: "42799"
 city: Leichlingen (Rheinland)
 street: "Im Brückerfeld"
 housenumber: 9

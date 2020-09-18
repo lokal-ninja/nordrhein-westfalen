@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.9690845
 longitude: 8.711347700000001
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Lagesche Straße"
 housenumber: 34

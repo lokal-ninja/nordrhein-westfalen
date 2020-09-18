@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8097732
 longitude: 6.5654173
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Telingskamp"
 housenumber: 20

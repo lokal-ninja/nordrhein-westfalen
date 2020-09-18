@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.7351491
 longitude: 9.0198183
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 93

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.0208262
 longitude: 8.5398657
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 119

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.7259948
 longitude: 8.759046600000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Nordstraße"
 housenumber: 15

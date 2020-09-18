@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.518177
 longitude: 6.323753900000001
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Issumer Straße"
 housenumber: 24

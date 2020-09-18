@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.6884348
 longitude: 7.147011
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Friesdorfer Straße"
 housenumber: 93

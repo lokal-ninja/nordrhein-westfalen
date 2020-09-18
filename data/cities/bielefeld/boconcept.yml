@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0229317
 longitude: 8.5301297
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Oberntorwall"
 housenumber: 19a

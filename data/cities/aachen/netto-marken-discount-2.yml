@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.780124900000004
 longitude: 6.0782322
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Marienbongard"
 housenumber: 26

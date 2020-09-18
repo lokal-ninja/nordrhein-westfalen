@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.922733300000004
 longitude: 6.3574316
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Düsseldorfer Straße"
 housenumber: 11

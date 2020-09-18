@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4289804
 longitude: 6.8841732
-postcode: 45468
+postcode: "45468"
 city: Mülheim an der Ruhr
 street: "Schloßstraße"
 housenumber: 2

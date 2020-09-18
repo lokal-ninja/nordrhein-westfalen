@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.9020147
 longitude: 8.397659
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Kampstraße"
 housenumber: 20-22

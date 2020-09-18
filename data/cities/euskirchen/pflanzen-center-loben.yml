@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.651959500000004
 longitude: 6.822066
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 50

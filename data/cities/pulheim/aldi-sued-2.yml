@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.015902800000006
 longitude: 6.765694900000001
-postcode: 50259
+postcode: "50259"
 city: Pulheim
 street: "Venloer Straße"
 housenumber: 501

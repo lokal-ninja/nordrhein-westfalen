@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.493478700000004
 longitude: 6.632394700000001
-postcode: 53947
+postcode: "53947"
 city: Nettersheim
 street: "Klosterstraße"
 housenumber: 6

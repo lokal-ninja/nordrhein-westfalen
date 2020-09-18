@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6923632
 longitude: 7.9468196
-postcode: 59071
+postcode: "59071"
 city: Hamm
 street: "Uentroper Dorfstraße"
 housenumber: 17

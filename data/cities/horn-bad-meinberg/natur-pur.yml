@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.895096
 longitude: 8.979158700000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Allee"
 housenumber: 12

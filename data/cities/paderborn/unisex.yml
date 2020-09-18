@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.716270900000005
 longitude: 8.756572
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Liboristraße"
 housenumber: 3a

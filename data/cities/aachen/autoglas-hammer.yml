@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.767817900000004
 longitude: 6.1588487
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Kellershaustraße"
 housenumber: 32

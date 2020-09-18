@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.650012200000006
 longitude: 6.1840137
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 10

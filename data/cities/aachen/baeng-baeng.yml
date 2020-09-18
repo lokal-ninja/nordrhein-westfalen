@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.772927100000004
 longitude: 6.0884609
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Wirichsbongardstraße"
 housenumber: 34

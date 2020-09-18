@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.4830417
 longitude: 7.2159135
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Hans-Böckler-Straße"
 housenumber: 10a

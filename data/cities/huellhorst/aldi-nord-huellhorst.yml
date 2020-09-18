@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2655619
 longitude: 8.6780957
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Lusmühlenstraße"
 housenumber: 3

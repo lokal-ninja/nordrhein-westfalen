@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0196151
 longitude: 8.5317545
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Welle"
 housenumber: 8

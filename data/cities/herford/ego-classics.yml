@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1328583
 longitude: 8.6757697
-postcode: 32049
+postcode: "32049"
 city: Herford
 street: "In der Masch"
 housenumber: 23

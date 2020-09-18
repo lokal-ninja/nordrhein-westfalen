@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.7760959
 longitude: 6.0852203000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Büchel"
 housenumber: 12

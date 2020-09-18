@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.199165400000005
 longitude: 6.782386600000001
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 104

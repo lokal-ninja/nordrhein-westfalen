@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.549901600000005
 longitude: 7.3010314
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Herner Straße"
 housenumber: 79

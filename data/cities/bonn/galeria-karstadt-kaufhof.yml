@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.7347442
 longitude: 7.099787600000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Remigiusstraße"
 housenumber: 20-24

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9188861
 longitude: 6.9604211000000005
-postcode: 
+postcode: ""
 city: Köln
 street: "Bonner Straße"
 housenumber: 33

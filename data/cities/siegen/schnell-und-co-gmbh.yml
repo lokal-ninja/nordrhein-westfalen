@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.9082864
 longitude: 8.0106
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Birlenbacher Straße"
 housenumber: 10

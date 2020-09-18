@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8748495
 longitude: 8.024463200000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Markt"
 housenumber: 9

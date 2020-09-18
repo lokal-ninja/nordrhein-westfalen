@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.148106500000004
 longitude: 6.7051685
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Am Hagelkreuz"
 housenumber: 10

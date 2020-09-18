@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.6954307
 longitude: 6.4976035
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Jöckern"
 housenumber: 2

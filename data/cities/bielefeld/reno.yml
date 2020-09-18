@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.0379312
 longitude: 8.525285400000001
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Apfelstraße"
 housenumber: 8

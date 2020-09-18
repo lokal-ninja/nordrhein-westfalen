@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.454649200000006
 longitude: 6.9426190000000005
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Kaldenhoverbaum"
 housenumber: 8

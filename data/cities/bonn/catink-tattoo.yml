@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.7035557
 longitude: 7.1154852
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Kessenicher Straße"
 housenumber: 197

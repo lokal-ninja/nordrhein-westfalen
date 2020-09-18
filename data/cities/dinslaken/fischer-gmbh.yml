@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.5393849
 longitude: 6.7796715
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Turmstraße"
 housenumber: 45-53

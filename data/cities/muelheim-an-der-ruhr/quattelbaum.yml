@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.402650200000004
 longitude: 6.878745500000001
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 9

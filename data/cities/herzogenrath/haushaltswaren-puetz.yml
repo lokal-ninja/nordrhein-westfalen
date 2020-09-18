@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.8319793
 longitude: 6.0895906
-postcode: 52134
+postcode: "52134"
 city: Herzogenrath
 street: "Südstraße"
 housenumber: 57-61

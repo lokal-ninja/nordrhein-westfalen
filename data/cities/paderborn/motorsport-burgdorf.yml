@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.7286258
 longitude: 8.794565200000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Friedrich-List-Straße"
 housenumber: 40

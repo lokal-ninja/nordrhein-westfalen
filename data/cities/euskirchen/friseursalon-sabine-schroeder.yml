@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6628351
 longitude: 6.791250600000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Walramstraße"
 housenumber: 33

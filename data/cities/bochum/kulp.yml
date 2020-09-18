@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.491672300000005
 longitude: 7.3077977
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Werner Hellweg"
 housenumber: 500

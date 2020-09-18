@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6581686
 longitude: 6.6145613
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Schmidtstraße"
 housenumber: 13

@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 51.1506315
 longitude: 6.2843903
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Siemensweg"
 housenumber: 33
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00;PH closed;Su closed"
+opening_hours: "Mo-Sa 08:00-20:00;PH, Su off"
 website: ""

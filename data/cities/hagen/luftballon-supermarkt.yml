@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.3985022
 longitude: 7.472138200000001
-postcode: 58099
+postcode: "58099"
 city: Hagen
 street: "Schwerter Straße"
 housenumber: 157

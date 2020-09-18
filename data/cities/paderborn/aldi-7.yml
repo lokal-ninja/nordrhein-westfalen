@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.73008230000001
 longitude: 8.693033100000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Wewerstraße"
 housenumber: 27

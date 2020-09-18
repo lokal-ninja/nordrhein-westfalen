@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.955032200000005
 longitude: 7.146544700000001
-postcode: 51427
+postcode: "51427"
 city: Bergisch Gladbach
 street: "Olefant"
 housenumber: 14

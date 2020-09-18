@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4088718
 longitude: 7.475411
-postcode: 58099
+postcode: "58099"
 city: Hagen
 street: "Kabeler Straße"
 housenumber: 25

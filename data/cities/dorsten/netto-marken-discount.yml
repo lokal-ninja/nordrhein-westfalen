@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6816516
 longitude: 6.956593600000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Borkener Straße"
 housenumber: 144

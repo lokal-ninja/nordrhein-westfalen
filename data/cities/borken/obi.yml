@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.84932190000001
 longitude: 6.868956900000001
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Gelsenkirchener Straße"
 housenumber: 4

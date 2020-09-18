@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.6091531
 longitude: 6.3049743000000005
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "In den Bremen"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.056561
 longitude: 8.549329700000001
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "An der Stiftskirche"
 housenumber: 14

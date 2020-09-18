@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.612971900000005
 longitude: 7.1946313
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Königswall"
 housenumber: 5

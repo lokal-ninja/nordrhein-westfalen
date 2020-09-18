@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.558903
 longitude: 7.5477053000000005
-postcode: 44328
+postcode: "44328"
 city: Dortmund
 street: "Droote"
 housenumber: 68

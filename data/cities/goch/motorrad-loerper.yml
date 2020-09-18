@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.684960000000004
 longitude: 6.1434841
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Boschstraße"
 housenumber: 16

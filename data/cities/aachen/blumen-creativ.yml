@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7733374
 longitude: 6.0869703
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kapuzinergraben"
 housenumber: 5-7

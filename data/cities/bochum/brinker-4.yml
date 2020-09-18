@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.469412600000005
 longitude: 7.244262900000001
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wasserstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1412454
 longitude: 8.485108
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Lönsweg"
 housenumber: 22

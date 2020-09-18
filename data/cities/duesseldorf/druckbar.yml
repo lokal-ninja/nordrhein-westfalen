@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.2300881
 longitude: 6.8086535
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ackerstraße"
 housenumber: 191

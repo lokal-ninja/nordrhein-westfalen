@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.9563743
 longitude: 7.642694400000001
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Wolbecker Straße"
 housenumber: 66

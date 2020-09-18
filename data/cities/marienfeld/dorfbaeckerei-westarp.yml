@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.95174050000001
 longitude: 8.277748200000001
-postcode: 33428
+postcode: "33428"
 city: Marienfeld
 street: "Hanfstraße"
 housenumber: 9

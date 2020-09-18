@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2707593
 longitude: 7.1974182
-postcode: 42275
+postcode: "42275"
 city: Wuppertal
 street: "Werth"
 housenumber: 1

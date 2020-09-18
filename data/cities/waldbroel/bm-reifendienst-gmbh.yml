@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8858637
 longitude: 7.6396309
-postcode: 51545
+postcode: "51545"
 city: Waldbröl
 street: "Industriestraße"
 housenumber: 6

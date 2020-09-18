@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.775601300000005
 longitude: 6.085040800000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Hof"
 housenumber: 2

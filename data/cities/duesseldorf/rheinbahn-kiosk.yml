@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.30113720000001
 longitude: 6.7394129000000005
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Klemensplatz"
 housenumber: 9

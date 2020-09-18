@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7945694
 longitude: 6.1274252
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Haarbachtalstraße"
 housenumber: 9-11

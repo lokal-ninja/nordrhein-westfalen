@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4942446
 longitude: 7.2814307000000005
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.0950902
 longitude: 6.8379406000000005
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Römerstraße"
 housenumber: 63a

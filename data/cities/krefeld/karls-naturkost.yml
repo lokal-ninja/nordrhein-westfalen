@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3304047
 longitude: 6.5600655
-postcode: 
+postcode: ""
 city: Krefeld
 street: "Karlsplatz"
 housenumber: 9

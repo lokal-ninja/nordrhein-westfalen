@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.691115700000005
 longitude: 6.4832443
-postcode: 52385
+postcode: "52385"
 city: Nideggen
 street: "Im Altwerk"
 housenumber: 11

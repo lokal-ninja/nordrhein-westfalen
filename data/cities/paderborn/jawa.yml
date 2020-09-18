@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7200513
 longitude: 8.760345800000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Giersstraße"
 housenumber: 20

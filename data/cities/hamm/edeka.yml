@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.680661400000005
 longitude: 7.8193757
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Marktplatz"
 housenumber: 5

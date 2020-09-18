@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.014976000000004
 longitude: 8.5405098
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rohrteichstraße"
 housenumber: 67

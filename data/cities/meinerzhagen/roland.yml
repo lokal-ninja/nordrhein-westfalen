@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1074994
 longitude: 7.638827200000001
-postcode: 58540
+postcode: "58540"
 city: Meinerzhagen
 street: "Volmestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.6950476
 longitude: 8.8516537
-postcode: 
+postcode: ""
 city: Paderborn
 street: "Schlotmannstraße"
 housenumber: 7

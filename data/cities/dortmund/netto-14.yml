@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.544465200000005
 longitude: 7.5193908
-postcode: 44328
+postcode: "44328"
 city: Dortmund
 street: "Geismerg"
 housenumber: 21

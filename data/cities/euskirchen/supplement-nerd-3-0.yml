@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 50.6581423
 longitude: 6.788297900000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 63

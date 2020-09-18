@@ -3,10 +3,10 @@ type: way
 shop: Warenhaus
 latitude: 51.5008769
 longitude: 6.8859953
-postcode: 46117
+postcode: "46117"
 city: Oberhausen
-street: "Heinestraße"
-housenumber: 2
+street: "Gildenstraße"
+housenumber: 2a-4
 phone: ""
 opening_hours: ""
 website: ""

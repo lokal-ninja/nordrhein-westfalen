@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0127803
 longitude: 8.522494400000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Gadderbaumer Straße"
 housenumber: 37

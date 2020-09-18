@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.3682068
 longitude: 7.2483927
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Hauptstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.583423200000006
 longitude: 6.977987400000001
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Schultenstraße"
 housenumber: 41

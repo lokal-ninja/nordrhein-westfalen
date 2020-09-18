@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.6763874
 longitude: 6.6097402
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Marktplatz Feldmark"
 housenumber: 9

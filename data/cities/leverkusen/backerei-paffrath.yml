@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0525389
 longitude: 6.978529900000001
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Entenpfuhl"
 housenumber: 5

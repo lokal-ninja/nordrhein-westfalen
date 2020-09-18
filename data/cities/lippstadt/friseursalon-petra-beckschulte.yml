@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.674036400000006
 longitude: 8.3443284
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Fleischhauerstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.662651200000006
 longitude: 6.609662800000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Reeser Landstraße"
 housenumber: 9

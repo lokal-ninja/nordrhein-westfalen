@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.57397520000001
 longitude: 6.994607
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hochstraße"
 housenumber: 55

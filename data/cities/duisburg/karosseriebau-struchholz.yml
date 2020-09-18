@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.436816300000004
 longitude: 6.7803801
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Oranienstraße"
 housenumber: 30

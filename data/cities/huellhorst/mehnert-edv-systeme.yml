@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.269744100000004
 longitude: 8.721984800000001
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Up de Lüchten"
 housenumber: 26

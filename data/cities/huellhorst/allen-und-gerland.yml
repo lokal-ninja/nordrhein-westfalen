@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.2745837
 longitude: 8.669220600000001
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Hauptstraße"
 housenumber: 29

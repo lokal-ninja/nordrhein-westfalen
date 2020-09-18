@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.1477638
 longitude: 7.3395745
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Markt"
 housenumber: 5

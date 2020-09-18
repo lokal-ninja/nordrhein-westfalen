@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9352372
 longitude: 6.8631001000000005
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Kirchweg"
 housenumber: 53

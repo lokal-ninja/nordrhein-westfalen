@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4350327
 longitude: 6.4247158
-postcode: 47647
+postcode: "47647"
 city: Kerken
 street: "Kempener Landstraße"
 housenumber: 1

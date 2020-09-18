@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2110531
 longitude: 6.7897384
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Oberbilker Allee"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.8970713
 longitude: 8.3785813
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Neuenkirchener Straße"
 housenumber: 60a

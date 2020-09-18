@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.681665
 longitude: 7.8166367
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Ritterstraße"
 housenumber: 2

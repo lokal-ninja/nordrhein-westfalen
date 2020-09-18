@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.607772100000005
 longitude: 6.316506400000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Bundesstraße"
 housenumber: 11d

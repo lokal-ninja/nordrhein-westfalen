@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.726873700000006
 longitude: 7.072219100000001
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Endenicher Straße"
 housenumber: 278

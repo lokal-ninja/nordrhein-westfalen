@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.39676600000001
 longitude: 7.1850823
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Flachsmarkt"
 housenumber: 14

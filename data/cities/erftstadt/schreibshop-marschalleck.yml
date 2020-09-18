@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.8002582
 longitude: 6.7666199
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Schloßstraße"
 housenumber: 2-4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6564588
 longitude: 7.353136
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Ostring"
 housenumber: 2

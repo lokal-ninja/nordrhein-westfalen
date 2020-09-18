@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.393419200000004
 longitude: 6.7898263000000005
-postcode: 47279
+postcode: "47279"
 city: Duisburg
 street: "Kalkweg"
 housenumber: 166a

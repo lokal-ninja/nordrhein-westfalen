@@ -3,10 +3,10 @@ type: node
 shop: Kramladen
 latitude: 52.0284107
 longitude: 8.8974399
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 103
 phone: "+49 931 90004110"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
 website: "https://euroshop-online.de"

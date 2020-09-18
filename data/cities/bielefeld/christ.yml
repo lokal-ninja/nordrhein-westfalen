@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.024831500000005
 longitude: 8.5319569
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Stresemannstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.894730100000004
 longitude: 6.9862843
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Coesfelder Straße"
 housenumber: 4

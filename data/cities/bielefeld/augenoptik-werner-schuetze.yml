@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.098447300000004
 longitude: 8.5308053
-postcode: 33739
+postcode: "33739"
 city: Bielefeld
 street: "Eickumer Straße"
 housenumber: 59

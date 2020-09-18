@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.192241700000004
 longitude: 7.0684781
-postcode: 42719
+postcode: "42719"
 city: Solingen
 street: "Nümmener Feld"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1969657
 longitude: 8.5657674
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Blankensteinstraße"
 housenumber: 43-48

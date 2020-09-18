@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.215810600000005
 longitude: 7.631560100000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 33

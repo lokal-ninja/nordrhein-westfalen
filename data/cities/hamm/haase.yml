@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.6941629
 longitude: 7.7342066
-postcode: 59075
+postcode: "59075"
 city: Hamm
 street: "Hammer Straße"
 housenumber: 6

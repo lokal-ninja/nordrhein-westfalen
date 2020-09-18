@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6663847
 longitude: 8.8381516
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Am Wallgraben"
 housenumber: 2

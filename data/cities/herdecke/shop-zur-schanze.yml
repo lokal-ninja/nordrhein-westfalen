@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.434929000000004
 longitude: 7.4466434
-postcode: 58313
+postcode: "58313"
 city: Herdecke
 street: "Dortmunder Landstraße"
 housenumber: 65

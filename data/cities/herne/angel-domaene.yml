@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 51.545408900000005
 longitude: 7.146582
-postcode: 44653
+postcode: "44653"
 city: Herne
 street: "Dorstener Straße"
 housenumber: 552

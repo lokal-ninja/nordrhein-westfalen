@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.347513500000005
 longitude: 7.424032
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Berliner Straße"
 housenumber: 126

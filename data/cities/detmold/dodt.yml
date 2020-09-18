@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.935335800000004
 longitude: 8.8777834
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Bruchstraße"
 housenumber: 13

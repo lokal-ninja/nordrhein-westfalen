@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4290752
 longitude: 7.597925900000001
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Fasanenweg"
 housenumber: 2

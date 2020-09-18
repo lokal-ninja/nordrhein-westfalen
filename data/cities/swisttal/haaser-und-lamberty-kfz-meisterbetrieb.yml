@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6491175
 longitude: 6.878753100000001
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Bendenweg"
 housenumber: 27

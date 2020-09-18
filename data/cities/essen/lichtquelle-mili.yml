@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 51.470824
 longitude: 6.9591035
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Wolfsbankring"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6183637
 longitude: 6.654373100000001
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Mechernicher Weg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6603659
 longitude: 6.630544
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Friedenstraße"
 housenumber: 68

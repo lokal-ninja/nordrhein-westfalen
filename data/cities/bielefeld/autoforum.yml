@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.997817600000005
 longitude: 8.5007522
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Gütersloher Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4002793
 longitude: 6.878078800000001
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Kölner Straße"
 housenumber: 35-37

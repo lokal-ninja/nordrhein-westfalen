@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.0203531
 longitude: 8.532346
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rathausstraße"
 housenumber: 2

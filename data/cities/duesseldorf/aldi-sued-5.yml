@@ -1,12 +1,12 @@
-id: 5483639669
+id: 5483635138
 type: node
 shop: Supermarkt
-latitude: 51.1636971
-longitude: 6.8811040000000006
-postcode: 40597
+latitude: 51.170761000000006
+longitude: 6.8601948
+postcode: "40599"
 city: Düsseldorf
-street: "Paulsmühlenstraße"
-housenumber: 20
+street: "Nürnberger Straße"
+housenumber: 37
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

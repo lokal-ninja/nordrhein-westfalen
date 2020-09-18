@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.7400267
 longitude: 8.6228393
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Ostpreußenstraße"
 housenumber: 9

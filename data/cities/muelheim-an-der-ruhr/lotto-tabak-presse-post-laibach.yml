@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4245164
 longitude: 6.8633179
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Bülowstraße"
 housenumber: 89

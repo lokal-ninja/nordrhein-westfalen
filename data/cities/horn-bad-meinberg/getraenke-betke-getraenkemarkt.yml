@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.879523500000005
 longitude: 8.951419300000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Kampstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7967432
 longitude: 6.917902300000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Walberberger Straße"
 housenumber: 59

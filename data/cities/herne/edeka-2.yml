@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.512576300000006
 longitude: 7.182227200000001
-postcode: 44651
+postcode: "44651"
 city: Herne
 street: "Eickeler Straße"
 housenumber: 25

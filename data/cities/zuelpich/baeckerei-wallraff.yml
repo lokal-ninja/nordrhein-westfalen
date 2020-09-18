@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6862458
 longitude: 6.6431022
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Nideggener Straße"
 housenumber: 98

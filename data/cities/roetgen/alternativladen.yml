@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.6413146
 longitude: 6.193897000000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 77

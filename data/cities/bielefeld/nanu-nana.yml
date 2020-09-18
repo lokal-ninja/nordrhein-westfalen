@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.027101300000005
 longitude: 8.5311385
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.713853
 longitude: 8.334873400000001
-postcode: 59556
+postcode: "59556"
 city: Lippstadt
 street: "Liesborner Straße"
 housenumber: 6

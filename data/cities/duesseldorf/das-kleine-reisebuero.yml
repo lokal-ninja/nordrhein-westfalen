@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3328574
 longitude: 6.7884437
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Angermunder Straße"
 housenumber: 36

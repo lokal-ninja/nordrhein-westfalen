@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.904462
 longitude: 7.6451852
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Marktallee"
 housenumber: 49

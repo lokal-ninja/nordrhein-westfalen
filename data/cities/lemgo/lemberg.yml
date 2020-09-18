@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.0179205
 longitude: 8.9160196
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Braker Mitte"
 housenumber: 54a

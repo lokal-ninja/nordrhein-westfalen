@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.214103300000005
 longitude: 6.7757252
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Fürstenwall"
 housenumber: 142

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.8992827
 longitude: 7.1629727
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Kölner Straße"
 housenumber: 95

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.891505200000005
 longitude: 6.274186500000001
-postcode: 52457
+postcode: "52457"
 city: Aldenhoven
 street: "Am Alten Bahnhof"
 housenumber: 2

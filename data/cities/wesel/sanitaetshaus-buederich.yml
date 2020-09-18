@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.629444500000005
 longitude: 6.5801815
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Pastor-Bergmann-Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0591955
 longitude: 8.3599315
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.330052200000004
 longitude: 7.858685200000001
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Am Hammergraben"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.462686000000005
 longitude: 6.941978300000001
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Frintroper Straße"
 housenumber: 64

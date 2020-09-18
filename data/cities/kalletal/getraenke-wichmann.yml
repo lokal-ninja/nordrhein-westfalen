@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.1041223
 longitude: 8.9386571
-postcode: 32689
+postcode: "32689"
 city: Kalletal
 street: "Lemgoer Straße"
 housenumber: 57

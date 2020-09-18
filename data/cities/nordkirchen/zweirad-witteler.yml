@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.7418367
 longitude: 7.5177510000000005
-postcode: 59394
+postcode: "59394"
 city: Nordkirchen
 street: "Lüdinghauser Straße"
 housenumber: 58

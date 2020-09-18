@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.78031
 longitude: 7.1895534
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Südstraße"
 housenumber: 27

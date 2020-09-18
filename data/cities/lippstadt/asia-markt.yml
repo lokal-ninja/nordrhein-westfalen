@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6716187
 longitude: 8.3516384
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Rixbecker Straße"
 housenumber: 27

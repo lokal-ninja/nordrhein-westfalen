@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.198028400000005
 longitude: 6.770094
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Aachener Straße"
 housenumber: 163

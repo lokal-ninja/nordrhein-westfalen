@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.8975553
 longitude: 8.3729221
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Dammstraße"
 housenumber: 39

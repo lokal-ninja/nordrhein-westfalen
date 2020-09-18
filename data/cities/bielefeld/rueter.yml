@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 52.020305900000004
 longitude: 8.531122700000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-18:00; PH closed"
+website: "http://rueter-bielefeld.buerobest.de/"

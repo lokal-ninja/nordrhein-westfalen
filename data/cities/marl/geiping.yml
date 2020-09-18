@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.668395200000006
 longitude: 7.126645900000001
-postcode: 45772
+postcode: "45772"
 city: Marl
 street: "Römerstraße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9959647
 longitude: 8.8061369
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Flurstraße"
 housenumber: 16

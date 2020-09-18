@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.9944524
 longitude: 6.9145607
-postcode: 48703
+postcode: "48703"
 city: Stadtlohn
 street: "Grabenstraße"
 housenumber: 57-61

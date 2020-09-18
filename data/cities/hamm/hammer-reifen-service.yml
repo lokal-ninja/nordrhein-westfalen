@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.6691775
 longitude: 7.809956400000001
-postcode: 59067
+postcode: "59067"
 city: Hamm
 street: "Östingstraße"
 housenumber: 7a

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.4316553
 longitude: 6.7727101
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Mercatorstraße"
 housenumber: 6

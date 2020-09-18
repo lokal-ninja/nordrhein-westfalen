@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.070345700000004
 longitude: 8.6011383
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Braker Straße"
 housenumber: 71

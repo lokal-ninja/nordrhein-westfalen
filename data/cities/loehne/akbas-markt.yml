@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.219247300000006
 longitude: 8.7079234
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Lübbecker Straße"
 housenumber: 145-149

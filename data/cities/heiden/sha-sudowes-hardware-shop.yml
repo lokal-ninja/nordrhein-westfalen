@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.825948600000004
 longitude: 6.9321456
-postcode: 46359
+postcode: "46359"
 city: Heiden
 street: "Bahnhofstraße"
 housenumber: 2

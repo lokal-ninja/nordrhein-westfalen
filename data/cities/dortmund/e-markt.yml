@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.454379200000005
 longitude: 7.4570913
-postcode: 44229
+postcode: "44229"
 city: Dortmund
 street: "Hagener Straße"
 housenumber: 310-314

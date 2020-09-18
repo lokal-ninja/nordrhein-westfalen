@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.920171
 longitude: 6.3582394
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Bongardstraße"
 housenumber: 12

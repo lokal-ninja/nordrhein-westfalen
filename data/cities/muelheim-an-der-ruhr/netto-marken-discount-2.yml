@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.433615800000005
 longitude: 6.9077665
-postcode: 45470
+postcode: "45470"
 city: Mülheim an der Ruhr
 street: "Hingbergstraße"
 housenumber: 233

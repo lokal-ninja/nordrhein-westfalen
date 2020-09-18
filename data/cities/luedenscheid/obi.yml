@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.2392118
 longitude: 7.675826900000001
-postcode: 58513
+postcode: "58513"
 city: Lüdenscheid
 street: "Brunscheider Straße"
 housenumber: 51

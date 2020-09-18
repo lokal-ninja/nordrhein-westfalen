@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8812506
 longitude: 6.691529900000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Am Falder"
 housenumber: 38

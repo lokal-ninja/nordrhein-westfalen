@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.4578009
 longitude: 7.008324900000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Limbecker Straße"
 housenumber: 64 - 62

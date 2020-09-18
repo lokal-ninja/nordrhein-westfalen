@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.316687200000004
 longitude: 8.6260674
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Am Dornbusch"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.464382500000006
 longitude: 7.3071429000000006
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Am Neggenborn"
 housenumber: 34

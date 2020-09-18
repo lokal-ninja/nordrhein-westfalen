@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.6761823
 longitude: 6.1573547
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Steinstraße"
 housenumber: 5

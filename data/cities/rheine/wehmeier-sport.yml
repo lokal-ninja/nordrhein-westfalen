@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.2836325
 longitude: 7.4482213
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Antoniusstraße"
 housenumber: 10

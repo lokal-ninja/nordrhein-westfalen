@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.62743630000001
 longitude: 6.810809000000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Stotzheimer Straße"
 housenumber: 101

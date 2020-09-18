@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.0239124
 longitude: 9.0092806
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Mittelstraße"
 housenumber: 20

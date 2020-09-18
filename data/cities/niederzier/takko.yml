@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.87473790000001
 longitude: 6.472946
-postcode: 52382
+postcode: "52382"
 city: Niederzier
 street: "Niederzierer Straße"
 housenumber: 86

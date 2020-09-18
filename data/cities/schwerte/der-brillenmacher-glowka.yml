@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.417100000000005
 longitude: 7.5706576000000005
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Letmather Straße"
 housenumber: 128

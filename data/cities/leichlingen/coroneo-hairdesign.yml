@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.106435100000006
 longitude: 7.013265100000001
-postcode: 42799
+postcode: "42799"
 city: Leichlingen
 street: "Marktstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.874563
 longitude: 8.0204844
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Kölner Straße"
 housenumber: 64-66

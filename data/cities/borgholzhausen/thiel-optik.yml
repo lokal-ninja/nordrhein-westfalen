@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1030263
 longitude: 8.300973800000001
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Tanfanastraße"
 housenumber: 3

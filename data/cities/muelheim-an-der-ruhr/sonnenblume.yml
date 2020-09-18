@@ -1,12 +1,12 @@
 id: 6257254496
 type: node
-shop: Supermarkt
+shop: Lebensmittel
 latitude: 51.429239800000005
 longitude: 6.8440903
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Hansastraße"
 housenumber: 16
 phone: "+49 208 592059"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off"
 website: "https://sonnenblume-muelheim.de/"

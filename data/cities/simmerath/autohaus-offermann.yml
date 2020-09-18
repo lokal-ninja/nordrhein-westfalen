@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.579415000000004
 longitude: 6.3048897
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Eicherscheid"
 housenumber: 25

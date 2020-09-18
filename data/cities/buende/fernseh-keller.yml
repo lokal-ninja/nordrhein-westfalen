@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.1916165
 longitude: 8.606203500000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Paul-Schneider-Straße"
 housenumber: 83

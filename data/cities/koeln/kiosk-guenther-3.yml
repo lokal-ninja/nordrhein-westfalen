@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.9207716
 longitude: 6.9584944
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Merowingerstraße"
 housenumber: 21

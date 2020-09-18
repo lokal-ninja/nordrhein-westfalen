@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.1912645
 longitude: 7.0071307
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Bahnhofstraße"
 housenumber: 87

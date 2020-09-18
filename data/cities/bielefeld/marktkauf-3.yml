@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.957130500000005
 longitude: 8.5791453
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Senefelderstraße"
 housenumber: 6

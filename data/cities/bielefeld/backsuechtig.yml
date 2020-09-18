@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.025208400000004
 longitude: 8.530007000000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Karl-Eilers-Straße"
 housenumber: 11

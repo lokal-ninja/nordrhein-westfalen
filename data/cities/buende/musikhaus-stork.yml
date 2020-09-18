@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.1891971
 longitude: 8.606369200000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Mindener Straße"
 housenumber: 40

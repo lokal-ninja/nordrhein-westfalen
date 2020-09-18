@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9572334
 longitude: 8.0054516
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Sassenberger Straße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.856786400000004
 longitude: 6.8733965
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Otto-Hahn-Straße"
 housenumber: 29

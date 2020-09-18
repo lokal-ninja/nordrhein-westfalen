@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.340063400000005
 longitude: 7.3997831000000005
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Enneper Straße"
 housenumber: 83

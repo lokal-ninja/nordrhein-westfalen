@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.6616566
 longitude: 6.9631464
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 9

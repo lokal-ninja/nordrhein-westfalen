@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.2595625
 longitude: 6.7551166
-postcode: 40474
+postcode: "40474"
 city: Düsseldorf
 street: "Kaiserswerther Straße"
 housenumber: 411

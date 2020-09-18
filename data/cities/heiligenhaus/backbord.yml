@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.325515700000004
 longitude: 6.9684866
-postcode: 42579
+postcode: "42579"
 city: Heiligenhaus
 street: "Hauptstraße"
 housenumber: 176

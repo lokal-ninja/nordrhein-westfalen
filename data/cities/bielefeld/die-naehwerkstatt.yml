@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.0083824
 longitude: 8.552264300000001
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Auf dem Calvinenfelde"
 housenumber: 27

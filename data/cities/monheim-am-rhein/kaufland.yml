@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.087376400000004
 longitude: 6.8898812000000005
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Friedrichstraße"
 housenumber: 20

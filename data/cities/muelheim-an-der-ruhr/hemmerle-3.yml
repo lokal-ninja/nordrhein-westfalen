@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.405298200000004
 longitude: 6.8744725
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 87

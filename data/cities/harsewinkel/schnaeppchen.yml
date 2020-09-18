@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.959476200000005
 longitude: 8.2328112
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Am Bahnhof"
 housenumber: 2

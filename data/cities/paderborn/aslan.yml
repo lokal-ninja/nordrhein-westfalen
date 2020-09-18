@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7525436
 longitude: 8.717491200000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Derenthalstraße"
 housenumber: 4

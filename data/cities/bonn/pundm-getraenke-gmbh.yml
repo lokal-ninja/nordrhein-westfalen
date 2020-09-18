@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.689705700000005
 longitude: 7.1453873
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Elsässer Straße"
 housenumber: 33

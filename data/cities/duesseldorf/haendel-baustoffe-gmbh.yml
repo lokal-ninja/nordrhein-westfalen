@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.2376124
 longitude: 6.7265993
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Heerdter Lohweg"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.033726400000006
 longitude: 8.5459107
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 136

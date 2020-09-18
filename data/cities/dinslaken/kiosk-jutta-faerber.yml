@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.5825593
 longitude: 6.7530809000000005
-postcode: 46537
+postcode: "46537"
 city: Dinslaken
 street: "Lohbergstraße"
 housenumber: 121

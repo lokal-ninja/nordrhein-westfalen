@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7832158
 longitude: 7.2616192
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Reisertstraße"
 housenumber: 19

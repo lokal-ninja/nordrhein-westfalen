@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.966837100000006
 longitude: 7.5787884000000005
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Arnheimweg"
 housenumber: 9

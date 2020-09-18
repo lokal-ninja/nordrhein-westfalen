@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.494943400000004
 longitude: 6.9414256000000005
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Levinstraße"
 housenumber: 157

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.75181490000001
 longitude: 8.7248844
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Dubelohstraße"
 housenumber: 205

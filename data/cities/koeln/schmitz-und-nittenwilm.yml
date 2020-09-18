@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9162192
 longitude: 6.9276846
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Luxemburger Straße"
 housenumber: 244

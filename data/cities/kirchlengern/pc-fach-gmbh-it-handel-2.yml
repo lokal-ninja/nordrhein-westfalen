@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.198244800000005
 longitude: 8.641271900000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Holzmeiers Hof"
 housenumber: 6

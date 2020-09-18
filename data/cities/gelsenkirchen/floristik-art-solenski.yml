@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.538656200000005
 longitude: 7.0236739
-postcode: 45899
+postcode: "45899"
 city: Gelsenkirchen
 street: "Essener Straße"
 housenumber: 10

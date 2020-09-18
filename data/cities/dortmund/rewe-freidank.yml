@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.570392000000005
 longitude: 7.384489100000001
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Am Hohen Teich"
 housenumber: 27

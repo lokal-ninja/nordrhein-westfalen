@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.216510400000004
 longitude: 7.6293635
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Altenaer Straße"
 housenumber: 1

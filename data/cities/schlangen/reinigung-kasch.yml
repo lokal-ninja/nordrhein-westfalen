@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.809035
 longitude: 8.8445447
-postcode: 33189
+postcode: "33189"
 city: Schlangen
 street: "Ortsmitte"
 housenumber: 7

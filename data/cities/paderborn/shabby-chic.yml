@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.743199600000004
 longitude: 8.694100800000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Mentropstraße"
 housenumber: 89

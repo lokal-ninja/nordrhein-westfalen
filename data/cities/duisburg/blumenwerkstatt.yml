@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.44957410000001
 longitude: 6.6875109
-postcode: 47198
+postcode: "47198"
 city: Duisburg
 street: "Moerser Straße"
 housenumber: 249

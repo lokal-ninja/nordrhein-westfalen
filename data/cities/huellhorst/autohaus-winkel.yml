@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.268844200000004
 longitude: 8.6353325
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Niedringhausener Straße"
 housenumber: 136

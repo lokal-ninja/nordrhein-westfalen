@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2038097
 longitude: 6.4131874
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 256

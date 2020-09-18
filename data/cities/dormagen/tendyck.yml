@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0950999
 longitude: 6.818017500000001
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Mathias-Giesen-Straße"
 housenumber: 19

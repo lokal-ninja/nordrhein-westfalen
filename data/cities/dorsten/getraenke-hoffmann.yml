@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.751738100000004
 longitude: 6.9380934000000005
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Erler Straße"
 housenumber: 4

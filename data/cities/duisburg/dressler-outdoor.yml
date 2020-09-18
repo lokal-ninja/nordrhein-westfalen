@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.4323665
 longitude: 6.7701197
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Tonhallenstraße"
 housenumber: 3

@@ -1,4 +1,4 @@
 ---
-title: "EuroShop"
+title: "Euroshop"
 url: /gelsenkirchen/euroshop/
 ---

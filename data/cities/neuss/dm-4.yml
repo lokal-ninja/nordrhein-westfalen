@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.16637720000001
 longitude: 6.6837002000000005
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Am Reuschenberger Markt"
 housenumber: 3

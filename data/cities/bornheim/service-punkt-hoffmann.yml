@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.764937700000004
 longitude: 6.953691200000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Blumenstraße"
 housenumber: 63

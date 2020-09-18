@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.9935471
 longitude: 8.4899165
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Friedrich-Wilhelms-Bleiche"
 housenumber: 2-4

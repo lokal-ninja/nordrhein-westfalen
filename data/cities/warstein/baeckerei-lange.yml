@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.443780200000006
 longitude: 8.3406207
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "St. Poler-Straße"
 housenumber: 17

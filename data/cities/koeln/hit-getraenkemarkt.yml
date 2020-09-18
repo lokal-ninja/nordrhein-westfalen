@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.9387479
 longitude: 6.9020329
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Scheidtweilerstraße"
 housenumber: 50
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-22:00; PH off"
 website: ""

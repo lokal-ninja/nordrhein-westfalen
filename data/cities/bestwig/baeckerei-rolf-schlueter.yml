@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.324196300000004
 longitude: 8.4326345
-postcode: 59909
+postcode: "59909"
 city: Bestwig
 street: "Barbarastraße"
 housenumber: 5

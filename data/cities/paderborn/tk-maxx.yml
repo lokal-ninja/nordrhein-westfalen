@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.7171262
 longitude: 8.7487714
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königsplatz"
 housenumber: 1

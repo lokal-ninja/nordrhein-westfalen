@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.294494
 longitude: 6.8426526
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Stadionring"
 housenumber: 4

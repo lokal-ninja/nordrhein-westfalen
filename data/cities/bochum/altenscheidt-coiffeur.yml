@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 51.4262856
 longitude: 7.1450146000000005
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Dr.-C.-Otto-Straße"
 housenumber: 121

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.179956600000004
 longitude: 8.688421700000001
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Herforder Straße"
 housenumber: 75

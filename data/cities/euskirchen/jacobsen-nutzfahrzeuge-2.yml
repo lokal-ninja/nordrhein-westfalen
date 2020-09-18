@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6749962
 longitude: 6.857209500000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Dachsstraße"
 housenumber: 13-19

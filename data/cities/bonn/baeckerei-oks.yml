@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.716287300000005
 longitude: 7.050778500000001
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 160

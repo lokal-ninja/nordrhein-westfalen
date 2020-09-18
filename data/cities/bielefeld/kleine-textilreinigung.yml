@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.9991441
 longitude: 8.4919226
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Carl-Severing-Straße"
 housenumber: 58

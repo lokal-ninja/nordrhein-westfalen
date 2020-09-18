@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7085963
 longitude: 7.0091273
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Hervester Straße"
 housenumber: 130

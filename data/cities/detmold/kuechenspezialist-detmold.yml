@@ -3,10 +3,10 @@ type: way
 shop: Küchen
 latitude: 51.9489363
 longitude: 8.8689478
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Wittekindstraße"
 housenumber: 43
 phone: "+49 5231 23095"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: "www.kuechenspezialist-detmold.de"

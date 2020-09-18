@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.7744371
 longitude: 6.9262250000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Beethovenstraße"
 housenumber: 33

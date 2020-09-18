@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.4984021
 longitude: 7.206788800000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Hofsteder Straße"
 housenumber: 170-172

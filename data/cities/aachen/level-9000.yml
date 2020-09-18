@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.778579300000004
 longitude: 6.0897630000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Alexanderstraße"
 housenumber: 37

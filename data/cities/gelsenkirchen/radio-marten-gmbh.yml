@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.578344900000005
 longitude: 7.052878300000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Rottmannsiepe"
 housenumber: 4

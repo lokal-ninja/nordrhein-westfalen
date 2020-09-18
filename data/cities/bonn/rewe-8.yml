@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7142582
 longitude: 7.0451798000000005
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Am Schickshof"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.225582300000006
 longitude: 6.7759939000000005
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Flinger Straße"
 housenumber: 68

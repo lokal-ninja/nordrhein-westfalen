@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.440544800000005
 longitude: 6.9163281
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Hänflingstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.91151240000001
 longitude: 6.962018700000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Bonner Straße"
 housenumber: 180

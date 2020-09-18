@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.199006600000004
 longitude: 6.6897788
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Sebastianusstraße"
 housenumber: 5

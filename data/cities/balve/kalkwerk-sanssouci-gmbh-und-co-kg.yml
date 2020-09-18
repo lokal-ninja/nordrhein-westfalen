@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.344183
 longitude: 7.8784936000000005
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Wocklumer Allee"
 housenumber: 1a

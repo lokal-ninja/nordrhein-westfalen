@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.5084614
 longitude: 7.1893123
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Dorstener Straße"
 housenumber: 425

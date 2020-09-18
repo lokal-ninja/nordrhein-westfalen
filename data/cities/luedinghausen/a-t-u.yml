@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.7668383
 longitude: 7.431460700000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Seppenrader Straße"
 housenumber: 16

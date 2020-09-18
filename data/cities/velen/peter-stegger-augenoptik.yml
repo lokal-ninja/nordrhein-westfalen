@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.895986400000005
 longitude: 6.9865405
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Coesfelder Straße"
 housenumber: 22

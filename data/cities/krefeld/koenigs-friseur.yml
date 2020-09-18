@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3263139
 longitude: 6.5663393
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Neusser Straße"
 housenumber: 28

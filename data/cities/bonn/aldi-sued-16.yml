@@ -1,12 +1,12 @@
-id: 43607911
+id: 33806602
 type: way
 shop: Supermarkt
-latitude: 50.690599000000006
-longitude: 7.135669300000001
-postcode: 53175
+latitude: 50.7321869
+longitude: 7.081456800000001
+postcode: "53115"
 city: Bonn
-street: "Im Bendel"
-housenumber: 3
+street: "Endenicher Straße"
+housenumber: 104
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.aldi-sued.de/"

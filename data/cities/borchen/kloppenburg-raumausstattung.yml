@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.6274097
 longitude: 8.7627442
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Kirchstraße"
 housenumber: 42

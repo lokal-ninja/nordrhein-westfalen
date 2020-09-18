@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2302881
 longitude: 6.7502130000000005
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Sonderburgstraße"
 housenumber: 10

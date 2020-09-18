@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.840457300000004
 longitude: 6.457219800000001
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Industriestraße"
 housenumber: 1a

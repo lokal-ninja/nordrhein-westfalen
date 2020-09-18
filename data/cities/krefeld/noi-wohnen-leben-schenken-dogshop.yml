@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.356143200000005
 longitude: 6.597398500000001
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Hüttenallee"
 housenumber: 237

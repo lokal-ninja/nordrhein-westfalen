@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.6604237
 longitude: 6.9662217
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Recklinghäuser Straße"
 housenumber: 3

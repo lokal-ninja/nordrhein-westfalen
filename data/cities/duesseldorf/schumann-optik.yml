@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.23169540000001
 longitude: 6.750447
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Luegallee"
 housenumber: 108

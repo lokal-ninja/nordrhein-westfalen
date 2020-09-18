@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 52.2282717
 longitude: 8.794487100000001
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Stüheweg"
 housenumber: 13

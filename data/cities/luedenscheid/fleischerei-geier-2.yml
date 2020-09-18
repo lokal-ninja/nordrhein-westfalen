@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2172774
 longitude: 7.627322100000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 27

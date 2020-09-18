@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.2798321
 longitude: 7.4832884
-postcode: 58091
+postcode: "58091"
 city: Hagen
 street: "Am Hermesberg"
 housenumber: 

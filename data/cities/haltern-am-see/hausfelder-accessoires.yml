@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 51.744473600000006
 longitude: 7.1841721000000005
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Rekumer Straße"
 housenumber: 53

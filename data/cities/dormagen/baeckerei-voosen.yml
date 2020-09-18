@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.09595
 longitude: 6.832346
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Bahnhofstraße"
 housenumber: 3

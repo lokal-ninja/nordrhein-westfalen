@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.952532000000005
 longitude: 8.8121744
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Stoddartstraße"
 housenumber: 18

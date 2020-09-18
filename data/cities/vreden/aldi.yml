@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0357932
 longitude: 6.8337786000000005
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Wüllener Straße"
 housenumber: 55a

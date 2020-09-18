@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.7696346
 longitude: 6.0494817
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Vaalser Straße"
 housenumber: 342

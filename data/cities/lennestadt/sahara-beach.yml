@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.1429291
 longitude: 8.018593000000001
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Kölner Straße"
 housenumber: 118

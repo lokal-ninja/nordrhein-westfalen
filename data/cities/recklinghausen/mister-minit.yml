@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.6144356
 longitude: 7.198581600000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Schaumburgstraße"
 housenumber: 1

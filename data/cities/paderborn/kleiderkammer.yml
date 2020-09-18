@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.709206300000005
 longitude: 8.771199000000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Warburger Straße"
 housenumber: 100

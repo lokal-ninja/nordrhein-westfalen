@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6254191
 longitude: 6.9551438
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Koblenzer Straße"
 housenumber: 8

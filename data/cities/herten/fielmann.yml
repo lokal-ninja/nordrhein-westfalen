@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5929045
 longitude: 7.1394451000000005
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Ewaldstraße"
 housenumber: 12

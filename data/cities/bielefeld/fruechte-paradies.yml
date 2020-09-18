@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.0466259
 longitude: 8.5280809
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Sudbrackstraße"
 housenumber: 106

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.3066727
 longitude: 8.622606600000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Gehlenbecker Straße"
 housenumber: 2

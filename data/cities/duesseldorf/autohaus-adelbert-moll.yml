@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2406298
 longitude: 6.7931349
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Tußmannstraße"
 housenumber: 79

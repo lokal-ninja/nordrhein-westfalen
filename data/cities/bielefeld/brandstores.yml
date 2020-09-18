@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.014756500000004
 longitude: 8.617301900000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Mittelbreede"
 housenumber: 8

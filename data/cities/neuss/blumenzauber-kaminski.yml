@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.20309760000001
 longitude: 6.6843773
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Theodor-Heuss-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.1691165
 longitude: 6.6850246
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 492

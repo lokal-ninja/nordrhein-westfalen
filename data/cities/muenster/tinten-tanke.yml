@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.9723115
 longitude: 7.6380463
-postcode: 48147
+postcode: "48147"
 city: Münster
 street: "Niedersachsenring"
 housenumber: 102

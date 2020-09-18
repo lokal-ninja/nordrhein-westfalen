@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9146889
 longitude: 8.3528324
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Banfetalstraße"
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.3560401
 longitude: 7.4611526
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Lange Straße"
 housenumber: 29

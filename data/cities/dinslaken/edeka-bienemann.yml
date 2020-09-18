@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.578389400000006
 longitude: 6.741770900000001
-postcode: 46537
+postcode: "46537"
 city: Dinslaken
 street: "Augustastraße"
 housenumber: 147

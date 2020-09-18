@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.2382883
 longitude: 6.780446
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Parkstraße"
 housenumber: 8

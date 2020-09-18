@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 51.612523100000004
 longitude: 7.1184601
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Feldstraße"
 housenumber: 244
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-19:30; Su off; PH off"
 website: ""

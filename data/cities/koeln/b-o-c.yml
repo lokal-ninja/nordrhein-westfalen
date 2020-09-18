@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9501858
 longitude: 6.9148648
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Venloer Straße"
 housenumber: 389

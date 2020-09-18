@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.831859300000005
 longitude: 6.6146627
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 34, 36

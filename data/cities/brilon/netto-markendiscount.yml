@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.395525000000006
 longitude: 8.5621021
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Eselskamp"
 housenumber: 6

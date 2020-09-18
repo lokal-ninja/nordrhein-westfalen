@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.210749400000005
 longitude: 6.732970000000001
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Fringsstraße"
 housenumber: 25

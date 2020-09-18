@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9378496
 longitude: 6.6880138
-postcode: 50127
+postcode: "50127"
 city: Bergheim
 street: "Frenser Straße"
 housenumber: 9

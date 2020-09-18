@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.470775800000006
 longitude: 7.0481236
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Langemarckstraße"
 housenumber: 19

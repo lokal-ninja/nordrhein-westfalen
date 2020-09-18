@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 51.980206800000005
 longitude: 7.7733042
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Orkotten"
 housenumber: 50
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-15:00"
 website: ""

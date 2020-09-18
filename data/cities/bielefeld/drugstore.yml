@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.0247631
 longitude: 8.5396967
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 84

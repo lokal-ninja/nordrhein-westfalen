@@ -1,12 +1,12 @@
-id: 1490381124
-type: node
+id: 187167390
+type: way
 shop: Supermarkt
-latitude: 51.2688016
-longitude: 7.209183100000001
-postcode: 42289
+latitude: 51.2684311
+longitude: 7.208884800000001
+postcode: "42289"
 city: Wuppertal
 street: "Albertstraße"
-housenumber: 42-45
+housenumber: 46
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00; Ph Off"
 website: "https://edeka-billstein.de"

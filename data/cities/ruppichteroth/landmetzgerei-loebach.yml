@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8440091
 longitude: 7.4633431
-postcode: 53809
+postcode: "53809"
 city: Ruppichteroth
 street: "Zum Sperber"
 housenumber: 48

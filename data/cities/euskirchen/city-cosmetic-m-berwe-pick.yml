@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.651829500000005
 longitude: 6.7435985
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Hummelstraße"
 housenumber: 34

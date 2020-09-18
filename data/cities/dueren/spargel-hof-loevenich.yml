@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.7954747
 longitude: 6.447387300000001
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Schillingsstraße"
 housenumber: 72

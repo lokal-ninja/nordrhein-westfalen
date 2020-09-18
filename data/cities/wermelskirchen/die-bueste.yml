@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1396579
 longitude: 7.2132787
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Telegrafenstraße"
 housenumber: 20

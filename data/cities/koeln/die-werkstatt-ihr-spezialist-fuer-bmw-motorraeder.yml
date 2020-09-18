@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.9905489
 longitude: 6.9079231000000005
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Hugo-Junkers-Straße"
 housenumber: 88

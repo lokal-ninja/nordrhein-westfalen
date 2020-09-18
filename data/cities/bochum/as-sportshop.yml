@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.4715198
 longitude: 7.2269724
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Universitätsstraße"
 housenumber: 101

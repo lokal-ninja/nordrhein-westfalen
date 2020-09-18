@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0691428
 longitude: 8.2892563
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Alte Landstraße"
 housenumber: 3

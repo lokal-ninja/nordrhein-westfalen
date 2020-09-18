@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6604011
 longitude: 6.8038587
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kölner Straße"
 housenumber: 138

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.704486800000005
 longitude: 7.1127899
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Quirinusplatz"
 housenumber: 7

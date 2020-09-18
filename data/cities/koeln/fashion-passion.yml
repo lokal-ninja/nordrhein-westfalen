@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9366744
 longitude: 6.9341153
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Aachener Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.7649941
 longitude: 8.043355
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Zementstraße"
 housenumber: 1

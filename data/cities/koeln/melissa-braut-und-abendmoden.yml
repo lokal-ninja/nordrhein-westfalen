@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9477684
 longitude: 6.9568098
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Eigelstein"
 housenumber: 66

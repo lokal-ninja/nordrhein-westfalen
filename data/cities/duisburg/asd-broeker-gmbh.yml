@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4335285
 longitude: 6.7440761
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Paul-Rücker-Straße"
 housenumber: 6a

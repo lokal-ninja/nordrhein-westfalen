@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.8906901
 longitude: 6.9976867
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Weißer Straße"
 housenumber: 2

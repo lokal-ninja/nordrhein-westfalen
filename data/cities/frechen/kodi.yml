@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.90984
 longitude: 6.8091274
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 93

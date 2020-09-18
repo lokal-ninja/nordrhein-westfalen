@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.714207900000005
 longitude: 8.7524125
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kilianstraße"
 housenumber: 9

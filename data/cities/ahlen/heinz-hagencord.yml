@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 51.768872200000004
 longitude: 7.889515
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Schlütingstraße"
 housenumber: 48
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00"
 website: ""

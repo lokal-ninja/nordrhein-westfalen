@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.5825642
 longitude: 6.249301
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Bahnstraße"
 housenumber: 16

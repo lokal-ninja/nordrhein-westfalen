@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2012336
 longitude: 8.572262
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Wilhelmstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.2263023
 longitude: 6.7835913
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Berliner Allee"
 housenumber: 2

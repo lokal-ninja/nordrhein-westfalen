@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2139146
 longitude: 6.794531
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Apollinarisstraße"
 housenumber: 24

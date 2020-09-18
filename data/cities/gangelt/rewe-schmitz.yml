@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.005462900000005
 longitude: 6.0507996
-postcode: 52538
+postcode: "52538"
 city: Gangelt
 street: "Bahnhofstraße"
 housenumber: 7b

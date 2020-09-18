@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 51.7592915
 longitude: 8.5370722
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Westenholzer Straße"
 housenumber: 5

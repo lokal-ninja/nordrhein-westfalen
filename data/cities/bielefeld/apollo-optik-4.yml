@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9914907
 longitude: 8.5096258
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 103

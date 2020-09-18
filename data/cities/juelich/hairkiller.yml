@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9228631
 longitude: 6.3631392
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 50

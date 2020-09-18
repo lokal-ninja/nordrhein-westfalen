@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.2407745
 longitude: 6.801875900000001
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Brehmstraße"
 housenumber: 17

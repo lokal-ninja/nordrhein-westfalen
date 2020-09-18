@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.927418800000005
 longitude: 6.9406312
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Trierer Straße"
 housenumber: 53

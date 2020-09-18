@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.1971635
 longitude: 8.5811998
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 8

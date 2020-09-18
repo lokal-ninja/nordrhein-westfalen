@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9666313
 longitude: 6.7487186
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Brauweilerstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2789524
 longitude: 7.273028
-postcode: 58332
+postcode: "58332"
 city: Schwelm
 street: "Barmer Straße"
 housenumber: 77

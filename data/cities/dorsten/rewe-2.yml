@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6582962
 longitude: 6.943605600000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Gahlener Straße"
 housenumber: 126

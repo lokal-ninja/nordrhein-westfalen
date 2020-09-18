@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.714147600000004
 longitude: 8.7382826
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Rathenaustraße"
 housenumber: 85

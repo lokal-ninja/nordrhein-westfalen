@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0190999
 longitude: 8.5320745
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Am Bach"
 housenumber: 10

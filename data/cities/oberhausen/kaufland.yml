@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.516123300000004
 longitude: 6.850951500000001
-postcode: 46145
+postcode: "46145"
 city: Oberhausen
 street: "Bahnhofstraße"
 housenumber: 57

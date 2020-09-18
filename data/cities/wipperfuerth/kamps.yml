@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.116673500000005
 longitude: 7.3957433
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Untere Straße"
 housenumber: 6

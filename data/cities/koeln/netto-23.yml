@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9789327
 longitude: 6.9693725
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Amsterdamer Straße"
 housenumber: 236b

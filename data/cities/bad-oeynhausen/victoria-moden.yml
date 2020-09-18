@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.2044477
 longitude: 8.7958408
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Herforder Straße"
 housenumber: 78

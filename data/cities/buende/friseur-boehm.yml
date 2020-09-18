@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.19483880000001
 longitude: 8.601521
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Elsemühlenweg"
 housenumber: 45

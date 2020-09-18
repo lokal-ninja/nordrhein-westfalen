@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.157889100000006
 longitude: 6.7309749000000005
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Nievenheimer Straße"
 housenumber: 6

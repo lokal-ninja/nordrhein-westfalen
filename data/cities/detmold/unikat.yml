@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 51.9336343
 longitude: 8.8802129
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Exterstraße"
 housenumber: 24
 phone: "+49 5231 29449"
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-13:00, Tu,Fr 15:00-17:00"
 website: ""

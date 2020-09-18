@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.7751688
 longitude: 6.0915357000000006
-postcode: 
+postcode: ""
 city: Aachen
 street: "Adalbertstraße"
 housenumber: 60

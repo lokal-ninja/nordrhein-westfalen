@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.605032800000004
 longitude: 6.307119
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Humboldtstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2164951
 longitude: 7.634368200000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Graf-Engelbert-Platz"
 housenumber: 8

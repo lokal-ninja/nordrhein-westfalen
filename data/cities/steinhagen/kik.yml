@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0060195
 longitude: 8.4152304
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Brinkstraße"
 housenumber: 22-24

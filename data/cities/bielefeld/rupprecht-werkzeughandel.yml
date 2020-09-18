@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.0722261
 longitude: 8.601019200000001
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Bornholmstraße"
 housenumber: 16

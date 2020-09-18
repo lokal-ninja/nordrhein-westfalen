@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2528821
 longitude: 8.471181300000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hochsauerlandstraße"
 housenumber: 4

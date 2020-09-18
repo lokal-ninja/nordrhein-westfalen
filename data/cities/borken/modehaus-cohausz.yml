@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.842995
 longitude: 6.8592776
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Kapuzinerstraße"
 housenumber: 8,10,12

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.346189700000004
 longitude: 6.6174233000000005
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Bockumer Platz"
 housenumber: 5

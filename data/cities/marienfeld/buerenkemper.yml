@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9499988
 longitude: 8.276629400000001
-postcode: 33428
+postcode: "33428"
 city: Marienfeld
 street: "Adenauerstraße"
 housenumber: 6c

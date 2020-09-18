@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 51.573236900000005
 longitude: 6.9882685
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Bottroper Straße"
 housenumber: 2

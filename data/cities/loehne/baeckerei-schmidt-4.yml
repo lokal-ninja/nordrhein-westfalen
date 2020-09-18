@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.189799400000005
 longitude: 8.7129847
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Königstraße"
 housenumber: 82-86

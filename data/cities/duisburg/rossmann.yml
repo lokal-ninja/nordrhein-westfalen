@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4097693
 longitude: 6.716545900000001
-postcode: 47226
+postcode: "47226"
 city: Duisburg
 street: "Friedrich-Alfred-Straße"
 housenumber: 82-88

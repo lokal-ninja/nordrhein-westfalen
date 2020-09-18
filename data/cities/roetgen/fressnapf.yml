@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.6433417
 longitude: 6.1889472
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 49

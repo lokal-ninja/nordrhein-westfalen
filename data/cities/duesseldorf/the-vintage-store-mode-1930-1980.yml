@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2109984
 longitude: 6.768569200000001
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Bilker Allee"
 housenumber: 62

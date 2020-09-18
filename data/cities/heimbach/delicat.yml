@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.633843000000006
 longitude: 6.4779773
-postcode: 52396
+postcode: "52396"
 city: Heimbach
 street: "Hengebachstraße"
 housenumber: 49

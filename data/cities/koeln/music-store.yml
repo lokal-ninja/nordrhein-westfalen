@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 50.9462168
 longitude: 6.997645100000001
-postcode: 51103
+postcode: "51103"
 city: Köln
 street: "Istanbulstraße"
 housenumber: 22-26

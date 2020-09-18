@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1922731
 longitude: 7.8453822
-postcode: 49525
+postcode: "49525"
 city: Lengerich
 street: "Tecklenburger Straße"
 housenumber: 16

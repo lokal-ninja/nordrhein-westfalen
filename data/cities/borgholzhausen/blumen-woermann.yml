@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.103139500000005
 longitude: 8.2993746
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Klingenhagen"
 housenumber: 22

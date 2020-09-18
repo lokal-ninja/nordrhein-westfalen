@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.237076300000005
 longitude: 6.7790077
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2573665
 longitude: 6.9500850000000005
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Steinesweg"
 housenumber: 6

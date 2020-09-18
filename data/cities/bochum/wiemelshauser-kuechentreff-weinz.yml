@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.449586100000005
 longitude: 7.2298216
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 72

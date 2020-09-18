@@ -1,4 +1,4 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /siegen/aldi-nord-3/
 ---

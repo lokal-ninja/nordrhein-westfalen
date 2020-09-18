@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.7542071
 longitude: 8.046386
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Oststraße"
 housenumber: 51

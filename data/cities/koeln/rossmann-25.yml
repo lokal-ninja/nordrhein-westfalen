@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.980463900000004
 longitude: 6.8681368
-postcode: 50829
+postcode: "50829"
 city: Köln
 street: "Görlinger-Zentrum"
 housenumber: 27-31

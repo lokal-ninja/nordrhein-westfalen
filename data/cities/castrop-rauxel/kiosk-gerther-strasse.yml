@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.526794100000004
 longitude: 7.320842600000001
-postcode: 44577
+postcode: "44577"
 city: Castrop-Rauxel
 street: "Gerther Straße"
 housenumber: 15

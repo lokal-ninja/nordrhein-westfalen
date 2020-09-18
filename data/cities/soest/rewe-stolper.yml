@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.564661
 longitude: 8.090530000000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Clevische Straße"
 housenumber: 12

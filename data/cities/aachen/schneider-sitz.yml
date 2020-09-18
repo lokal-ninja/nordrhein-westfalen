@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7629869
 longitude: 6.0792462
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Arndtstraße"
 housenumber: 38

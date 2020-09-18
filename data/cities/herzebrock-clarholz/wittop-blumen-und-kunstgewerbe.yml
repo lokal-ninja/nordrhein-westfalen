@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.8809958
 longitude: 8.235957
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Clarholzer Straße"
 housenumber: 43

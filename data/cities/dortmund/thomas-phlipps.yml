@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.568792900000005
 longitude: 7.519181400000001
-postcode: 44329
+postcode: "44329"
 city: Dortmund
 street: "Altenderner Straße"
 housenumber: 44-48

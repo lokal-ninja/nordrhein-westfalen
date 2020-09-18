@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.873563100000005
 longitude: 6.161296
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Rathausstraße"
 housenumber: 4

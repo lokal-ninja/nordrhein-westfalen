@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2105022
 longitude: 6.7979004000000005
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Oberbilker Allee"
 housenumber: 165

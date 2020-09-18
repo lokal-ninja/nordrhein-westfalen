@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.3660866
 longitude: 7.614432300000001
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 

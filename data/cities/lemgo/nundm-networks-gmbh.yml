@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.0270432
 longitude: 8.8912335
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Steinweg"
 housenumber: 

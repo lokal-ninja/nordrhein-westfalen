@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9107945
 longitude: 6.3600323
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Margaretenstraße"
 housenumber: 1

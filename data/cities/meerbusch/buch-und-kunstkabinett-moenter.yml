@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.269074800000006
 longitude: 6.620045
-postcode: 40670
+postcode: "40670"
 city: Meerbusch
 street: "Kirchplatz"
 housenumber: 1-5

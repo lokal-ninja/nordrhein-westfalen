@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4734442
 longitude: 6.9504767
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Marktstraße"
 housenumber: 24

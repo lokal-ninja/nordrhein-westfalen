@@ -1,4 +1,4 @@
 ---
-title: "Kiosk"
+title: "-Kiosk-"
 url: /hattingen/kiosk/
 ---

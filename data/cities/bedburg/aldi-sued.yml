@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9964724
 longitude: 6.5697764
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Wiesenstraße"
 housenumber: 21

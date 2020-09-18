@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.445376100000004
 longitude: 7.3714101
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Rudolf-König-Straße"
 housenumber: 4

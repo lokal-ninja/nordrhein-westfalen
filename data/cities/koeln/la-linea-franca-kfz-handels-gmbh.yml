@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8973249
 longitude: 7.0667135000000005
-postcode: 51149
+postcode: "51149"
 city: Köln
 street: "Humboldtstraße"
 housenumber: 134

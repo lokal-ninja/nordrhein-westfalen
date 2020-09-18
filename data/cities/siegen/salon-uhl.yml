@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.871876300000004
 longitude: 8.016833100000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Koblenzer Straße"
 housenumber: 51

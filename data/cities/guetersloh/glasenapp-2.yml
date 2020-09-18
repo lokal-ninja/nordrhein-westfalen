@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9464716
 longitude: 8.4094534
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Haller Straße"
 housenumber: 122

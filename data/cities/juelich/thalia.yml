@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.9224334
 longitude: 6.3594279
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 9

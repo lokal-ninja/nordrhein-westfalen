@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.0944876
 longitude: 6.8147655
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Mathias-Giesen-Straße"
 housenumber: 26

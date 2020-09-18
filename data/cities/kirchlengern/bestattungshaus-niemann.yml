@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.2240332
 longitude: 8.636564100000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Quernheimer Straße"
 housenumber: 65

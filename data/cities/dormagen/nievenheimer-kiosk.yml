@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.1132928
 longitude: 6.7671182000000005
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Hindenburgstraße"
 housenumber: 19

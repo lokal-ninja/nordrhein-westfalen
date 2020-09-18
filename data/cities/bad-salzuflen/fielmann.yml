@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0849289
 longitude: 8.7452731
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Lange Straße"
 housenumber: 45

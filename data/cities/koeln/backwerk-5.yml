@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.947844100000005
 longitude: 6.921064
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Venloer Straße"
 housenumber: 281

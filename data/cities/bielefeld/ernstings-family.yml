@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9594207
 longitude: 8.521624300000001
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Senner Markt"
 housenumber: 1

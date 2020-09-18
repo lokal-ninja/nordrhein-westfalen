@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.700991800000004
 longitude: 8.7290427
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Stettiner Straße"
 housenumber: 1

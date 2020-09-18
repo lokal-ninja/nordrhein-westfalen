@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.091965300000005
 longitude: 6.8928386
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Gartzenweg"
 housenumber: 25

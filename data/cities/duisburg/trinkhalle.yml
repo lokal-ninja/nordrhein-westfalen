@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.5287121
 longitude: 6.739456400000001
-postcode: 47179
+postcode: "47179"
 city: Duisburg
 street: "Kurze Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.0372451
 longitude: 8.4832784
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Wertherstraße"
 housenumber: 275

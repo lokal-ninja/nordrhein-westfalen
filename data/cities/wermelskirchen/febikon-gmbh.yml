@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.092301400000004
 longitude: 7.1875249000000005
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Hilgener Straße"
 housenumber: 5

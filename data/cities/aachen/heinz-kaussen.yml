@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7827144
 longitude: 6.077277700000001
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 14,16

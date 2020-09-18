@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.765892
 longitude: 7.4430823
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Wolfsberger Straße"
 housenumber: 35

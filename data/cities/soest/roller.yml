@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.5647749
 longitude: 8.0849398
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Werler Landstraße"
 housenumber: 14

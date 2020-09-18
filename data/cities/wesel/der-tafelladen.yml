@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.6714995
 longitude: 6.621045700000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Mühlenweg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.9784877
 longitude: 7.783237400000001
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Orkotten"
 housenumber: 7

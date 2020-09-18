@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9330823
 longitude: 7.287582100000001
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Hauptstraße"
 housenumber: 64

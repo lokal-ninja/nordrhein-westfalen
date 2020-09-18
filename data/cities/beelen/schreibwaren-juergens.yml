@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.931576
 longitude: 8.113996400000001
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Neumühlenstraße"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7743176
 longitude: 6.2248568
-postcode: 52222
+postcode: "52222"
 city: Stolberg
 street: "Rathausstraße"
 housenumber: 89

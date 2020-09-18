@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.2010468
 longitude: 6.686230200000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Adolf-Flecken-Straße"
 housenumber: 6

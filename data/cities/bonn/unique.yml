@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7213932
 longitude: 7.088692300000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Clemens-August-Straße"
 housenumber: 69

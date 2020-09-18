@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.0993317
 longitude: 6.523300000000001
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Neusser Straße"
 housenumber: 152

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9171537
 longitude: 6.3548334
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "An der Vogelstange"
 housenumber: 7

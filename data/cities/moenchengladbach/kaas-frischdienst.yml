@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1675747
 longitude: 6.452197300000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Dorfbroicher Straße"
 housenumber: 33

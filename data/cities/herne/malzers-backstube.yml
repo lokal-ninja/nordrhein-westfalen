@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5124657
 longitude: 7.182278800000001
-postcode: 44651
+postcode: "44651"
 city: Herne
 street: ""
 housenumber: 25

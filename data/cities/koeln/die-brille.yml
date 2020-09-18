@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.929510300000004
 longitude: 6.9128017
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 211

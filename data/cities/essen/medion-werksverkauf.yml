@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.4596366
 longitude: 7.063722
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Schönscheidtstraße"
 housenumber: 100

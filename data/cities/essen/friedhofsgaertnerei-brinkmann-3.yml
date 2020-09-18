@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 51.4495707
 longitude: 7.0436087
-postcode: 45138
+postcode: "45138"
 city: Essen
 street: "Am Parkfriedhof"
 housenumber: 48
 phone: ""
-opening_hours: "unknown"
+opening_hours: ""
 website: ""

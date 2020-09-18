@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.904313
 longitude: 7.396256200000001
-postcode: 53804
+postcode: "53804"
 city: Much
 street: "Krahmer Weg"
 housenumber: 1

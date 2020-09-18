@@ -1,12 +1,12 @@
-id: 26693569
+id: 26710143
 type: way
 shop: Supermarkt
-latitude: 50.935080600000006
-longitude: 6.9934408
-postcode: 51105
+latitude: 50.950965700000005
+longitude: 6.9082968000000005
+postcode: "50825"
 city: Köln
-street: "An der Pulvermühle"
-housenumber: 2
+street: "Leyendeckerstraße"
+housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-22:00; Su, PH off"
 website: ""

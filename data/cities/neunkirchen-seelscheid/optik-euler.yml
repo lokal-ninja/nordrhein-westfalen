@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.870849400000004
 longitude: 7.323786900000001
-postcode: 53819
+postcode: "53819"
 city: Neunkirchen-Seelscheid
 street: "Zeithstraße"
 housenumber: 132

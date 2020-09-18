@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0281291
 longitude: 8.903894900000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 27

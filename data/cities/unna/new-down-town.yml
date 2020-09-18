@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.535727400000006
 longitude: 7.691420000000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Morgenstraße"
 housenumber: 3

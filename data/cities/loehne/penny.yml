@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.200498700000004
 longitude: 8.7568746
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Weihestraße"
 housenumber: 15-17

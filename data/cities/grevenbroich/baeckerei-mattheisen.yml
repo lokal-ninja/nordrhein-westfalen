@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.088702600000005
 longitude: 6.5891636
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Breite Straße"
 housenumber: 28

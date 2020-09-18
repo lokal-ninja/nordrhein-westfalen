@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.2934806
 longitude: 7.673239100000001
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Freiheitstraße"
 housenumber: 18

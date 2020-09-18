@@ -1,12 +1,12 @@
-id: 4453281590
-type: node
+id: 26637983
+type: way
 shop: Supermarkt
-latitude: 51.4773822
-longitude: 6.702177600000001
-postcode: 47139
+latitude: 51.5446242
+longitude: 6.7335928
+postcode: "47178"
 city: Duisburg
-street: "Haus-Knipp-Straße"
-housenumber: 57
+street: "Friedrich-Ebert-Straße"
+housenumber: 480
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: ""
 website: ""

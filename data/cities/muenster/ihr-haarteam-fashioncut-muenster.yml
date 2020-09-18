@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.9827255
 longitude: 7.612025600000001
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Grevener Straße"
 housenumber: 224

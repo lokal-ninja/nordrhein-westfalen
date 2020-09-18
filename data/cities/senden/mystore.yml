@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.8219003
 longitude: 7.5404401000000005
-postcode: 48308
+postcode: "48308"
 city: Senden
 street: "Dorfstraße"
 housenumber: 33

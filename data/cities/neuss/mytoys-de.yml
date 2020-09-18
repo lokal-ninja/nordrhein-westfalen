@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.202206100000005
 longitude: 6.717880900000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2-4

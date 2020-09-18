@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.413462100000004
 longitude: 6.9937773000000005
-postcode: 45133
+postcode: "45133"
 city: Essen
 street: "Alfredstraße"
 housenumber: 399

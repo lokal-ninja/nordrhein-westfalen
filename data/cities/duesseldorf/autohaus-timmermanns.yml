@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2319201
 longitude: 6.7118123
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Heerdter Landstraße"
 housenumber: 110

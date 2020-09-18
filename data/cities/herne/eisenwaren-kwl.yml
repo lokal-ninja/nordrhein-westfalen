@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.5367052
 longitude: 7.227301300000001
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "An der Kreuzkirche"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.43727500000001
 longitude: 6.777534
-postcode: 47058
+postcode: "47058"
 city: Duisburg
 street: "Falkstraße"
 housenumber: 59

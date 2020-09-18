@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.815182400000005
 longitude: 6.0635072
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Roermonder Straße"
 housenumber: 615

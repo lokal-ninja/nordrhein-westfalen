@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.708966200000006
 longitude: 8.7623687
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Husener Straße"
 housenumber: 79

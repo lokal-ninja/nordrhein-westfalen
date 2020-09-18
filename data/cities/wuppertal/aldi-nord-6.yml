@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2633761
 longitude: 7.131477800000001
-postcode: 42105
+postcode: "42105"
 city: Wuppertal
 street: "Briller Straße"
 housenumber: 179

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6259773
 longitude: 9.030504500000001
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Gänsebruch"
 housenumber: 

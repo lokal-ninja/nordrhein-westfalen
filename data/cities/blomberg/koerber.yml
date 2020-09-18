@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.949980800000006
 longitude: 9.0515424
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Lemgoer Straße"
 housenumber: 25

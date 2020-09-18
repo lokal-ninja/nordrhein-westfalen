@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.6445766
 longitude: 7.256576000000001
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Stimbergstraße"
 housenumber: 185

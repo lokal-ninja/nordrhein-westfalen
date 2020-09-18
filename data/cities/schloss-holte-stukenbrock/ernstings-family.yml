@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9030229
 longitude: 8.6375784
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Holter Straße"
 housenumber: 137-147

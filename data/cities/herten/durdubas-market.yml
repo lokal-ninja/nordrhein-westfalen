@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.6041396
 longitude: 7.127899800000001
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Otto-Lenz-Straße"
 housenumber: 1

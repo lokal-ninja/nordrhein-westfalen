@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.821455900000004
 longitude: 8.6061454
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Balkenweg"
 housenumber: 15

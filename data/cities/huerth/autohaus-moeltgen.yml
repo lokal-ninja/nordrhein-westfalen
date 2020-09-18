@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.882736900000005
 longitude: 6.9016758000000005
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Max-Planck-Straße"
 housenumber: 14

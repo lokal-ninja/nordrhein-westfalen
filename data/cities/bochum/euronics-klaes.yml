@@ -1,12 +1,12 @@
 id: 98027581
 type: way
 shop: Elektronik
-latitude: 51.4758149
-longitude: 7.3027908
-postcode: 44892
+latitude: 51.475841100000004
+longitude: 7.3028164
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 189
 phone: ""
-opening_hours: "Mo-Fr 09:15-13:00,15:00-18:00; Sa 09:15-13:00; Su,PH off"
+opening_hours: "Mo-Fr 09:15-13:00,15:00-18:00; Sa 09:15-13:00; PH off"
 website: ""

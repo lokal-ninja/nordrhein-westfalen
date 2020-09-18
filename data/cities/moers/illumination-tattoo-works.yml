@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 51.4427722
 longitude: 6.6398410000000005
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Uerdinger Straße"
 housenumber: 112

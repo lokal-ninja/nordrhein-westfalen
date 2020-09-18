@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.195811400000004
 longitude: 6.4408833
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Hindenburgstraße"
 housenumber: 125-133

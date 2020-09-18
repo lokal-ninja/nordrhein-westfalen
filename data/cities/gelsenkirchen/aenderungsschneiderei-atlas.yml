@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.579635800000005
 longitude: 7.0540747
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Robinienhof"
 housenumber: 1

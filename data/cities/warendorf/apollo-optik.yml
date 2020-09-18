@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.952154500000006
 longitude: 7.9892092
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Münsterstraße"
 housenumber: 1

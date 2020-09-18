@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.033329300000005
 longitude: 8.5508491
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Eckendorfer Straße"
 housenumber: 27

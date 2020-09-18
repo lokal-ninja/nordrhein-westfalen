@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6239903
 longitude: 6.851079
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Horchheimer Straße"
 housenumber: 21

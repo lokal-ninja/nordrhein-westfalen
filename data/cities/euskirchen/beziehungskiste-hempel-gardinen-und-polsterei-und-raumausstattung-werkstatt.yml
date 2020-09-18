@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.6471115
 longitude: 6.8314554
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Beethovenstraße"
 housenumber: 16

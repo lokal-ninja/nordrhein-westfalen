@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.667676300000004
 longitude: 6.805009200000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Stresemannstraße"
 housenumber: 5-7

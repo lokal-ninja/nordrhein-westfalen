@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.244580500000005
 longitude: 6.6984988
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Oststraße"
 housenumber: 2

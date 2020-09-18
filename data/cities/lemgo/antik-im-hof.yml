@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.0284254
 longitude: 8.904197700000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 22

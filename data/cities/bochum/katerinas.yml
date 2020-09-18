@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.47220050000001
 longitude: 7.2486028000000005
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 245

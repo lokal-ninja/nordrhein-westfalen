@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7753279
 longitude: 6.0925244
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Adalbertstraße"
 housenumber: 67

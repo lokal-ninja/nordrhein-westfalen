@@ -1,9 +1,9 @@
-id: 6830213512
-type: node
-shop: Autowerkstatt
-latitude: 51.496650100000004
-longitude: 8.9130337
-postcode: 34431
+id: 804871842
+type: way
+shop: Autohaus
+latitude: 51.4966577
+longitude: 8.9127986
+postcode: "34431"
 city: Marsberg
 street: "Kasseler Straße"
 housenumber: 67

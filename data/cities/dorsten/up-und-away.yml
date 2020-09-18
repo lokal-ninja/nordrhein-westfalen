@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.7201802
 longitude: 7.0349966
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Swebenring"
 housenumber: 54

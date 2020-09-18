@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2373714
 longitude: 6.8585519
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Am Poth"
 housenumber: 1

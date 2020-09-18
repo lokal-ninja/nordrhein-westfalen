@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.7382216
 longitude: 7.1009352
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Kölnstraße"
 housenumber: 7

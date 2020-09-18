@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.6504868
 longitude: 7.3267198
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Rottbitzer Straße"
 housenumber: 77

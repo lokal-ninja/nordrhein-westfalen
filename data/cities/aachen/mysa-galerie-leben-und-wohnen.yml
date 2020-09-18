@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.7737065
 longitude: 6.0883072
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 5-6

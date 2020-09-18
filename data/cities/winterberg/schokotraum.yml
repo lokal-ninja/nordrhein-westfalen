@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 51.1946974
 longitude: 8.532225
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Untere Pforte"
 housenumber: 2

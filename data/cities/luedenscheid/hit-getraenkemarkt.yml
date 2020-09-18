@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.228772400000004
 longitude: 7.6525258
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Glatzer Straße"
 housenumber: 1a

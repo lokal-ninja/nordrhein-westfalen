@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4368362
 longitude: 6.953969300000001
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Humboldtring"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9810614
 longitude: 7.644843600000001
-postcode: 48147
+postcode: "48147"
 city: Münster
 street: "Hoher Heckenweg"
 housenumber: 145

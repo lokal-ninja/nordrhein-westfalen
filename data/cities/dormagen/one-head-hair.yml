@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.093165600000006
 longitude: 6.841872800000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 78

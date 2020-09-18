@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.438312100000005
 longitude: 6.755573600000001
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Ruhrorter Straße"
 housenumber: 24a

@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.682489200000006
 longitude: 6.880381000000001
-postcode: 46514
+postcode: "46514"
 city: Schermbeck
 street: "Kapellenweg"
 housenumber: 111

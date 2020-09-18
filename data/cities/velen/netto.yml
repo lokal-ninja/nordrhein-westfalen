@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8860705
 longitude: 6.9192244
-postcode: 
+postcode: ""
 city: Velen
 street: "An der Gräfte"
 housenumber: 1

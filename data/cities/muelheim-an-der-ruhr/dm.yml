@@ -1,12 +1,12 @@
-id: 1575681979
-type: node
+id: 131529317
+type: way
 shop: Drogerie
-latitude: 51.428525900000004
-longitude: 6.8835578
-postcode: 45468
+latitude: 51.4298567
+longitude: 6.8449827
+postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Schloßstraße"
-housenumber: 5
+street: "Hansastraße"
+housenumber: 20a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

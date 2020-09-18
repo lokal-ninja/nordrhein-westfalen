@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4485454
 longitude: 7.258110100000001
-postcode: 44801
+postcode: "44801"
 city: Bochum
 street: "Querenburger Höhe"
 housenumber: 139

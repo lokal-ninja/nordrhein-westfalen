@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.76505160000001
 longitude: 8.5622229
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Alter Markt"
 housenumber: 10

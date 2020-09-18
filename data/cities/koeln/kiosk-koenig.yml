@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.928099100000004
 longitude: 6.9352849
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 56

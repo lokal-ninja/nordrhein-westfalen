@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4372805
 longitude: 6.7673407
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Stapeltor"
 housenumber: 6

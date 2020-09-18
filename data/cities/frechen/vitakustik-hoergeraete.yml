@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.9097025
 longitude: 6.807498300000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 115a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4765335
 longitude: 7.191107000000001
-postcode: 44793
+postcode: "44793"
 city: Bochum
 street: "Essener Straße"
 housenumber: 8

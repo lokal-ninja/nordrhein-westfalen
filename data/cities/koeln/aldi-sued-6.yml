@@ -1,12 +1,12 @@
-id: 27777290
+id: 24300193
 type: way
 shop: Supermarkt
-latitude: 50.9600255
-longitude: 6.9372816
-postcode: 50739
+latitude: 50.9597192
+longitude: 7.016914900000001
+postcode: "51065"
 city: Köln
-street: "Osterather Straße"
-housenumber: 26
+street: "Ackerstraße"
+housenumber: 92-94
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: ""
 website: ""

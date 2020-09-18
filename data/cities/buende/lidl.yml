@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.194365600000005
 longitude: 8.5881229
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Herforder Straße"
 housenumber: 11

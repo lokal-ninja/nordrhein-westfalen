@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.7138281
 longitude: 8.7531277
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Am Turnplatz"
 housenumber: 1

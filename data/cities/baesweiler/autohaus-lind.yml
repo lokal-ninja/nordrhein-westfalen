@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8989125
 longitude: 6.1812532000000004
-postcode: 52499
+postcode: "52499"
 city: Baesweiler
 street: "Aachener Straße"
 housenumber: 293

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.200810700000005
 longitude: 6.3923186
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Stationsweg"
 housenumber: 110

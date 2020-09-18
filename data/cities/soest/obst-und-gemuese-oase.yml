@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.571500500000006
 longitude: 8.110363000000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Thomästraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.6147587
 longitude: 7.198622500000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Markt"
 housenumber: 11

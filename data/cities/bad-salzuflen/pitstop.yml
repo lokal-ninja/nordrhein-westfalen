@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.062398300000005
 longitude: 8.747527100000001
-postcode: 32108
+postcode: "32108"
 city: Bad Salzuflen
 street: "Oerlinghauser Straße"
 housenumber: 63a

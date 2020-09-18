@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.7949501
 longitude: 6.0575023
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Schurzelter Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7976958
 longitude: 6.0603425
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Rathausstraße"
 housenumber: 5e

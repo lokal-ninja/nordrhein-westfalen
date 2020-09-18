@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.989687100000005
 longitude: 8.511806400000001
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Hauptstraße"
 housenumber: 75

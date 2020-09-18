@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.641617100000005
 longitude: 8.508945800000001
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Bäckstraße"
 housenumber: 2a

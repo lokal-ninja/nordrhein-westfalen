@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.448433300000005
 longitude: 7.2584157000000005
-postcode: 44801
+postcode: "44801"
 city: Bochum
 street: "Querenburger Höhe"
 housenumber: 234

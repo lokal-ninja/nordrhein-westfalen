@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.570807300000006
 longitude: 6.364050300000001
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Kapellener Markt"
 housenumber: 9

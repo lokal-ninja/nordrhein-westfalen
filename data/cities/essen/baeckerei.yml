@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4324291
 longitude: 6.9752944
-postcode: 45149
+postcode: "45149"
 city: Essen
 street: "Laubenweg"
 housenumber: 8

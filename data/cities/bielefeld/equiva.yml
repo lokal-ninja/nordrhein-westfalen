@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.0322632
 longitude: 8.5257535
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 69

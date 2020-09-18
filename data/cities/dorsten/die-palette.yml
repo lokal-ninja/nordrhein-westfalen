@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.7261539
 longitude: 7.0269462
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Wulfener Markt"
 housenumber: 354

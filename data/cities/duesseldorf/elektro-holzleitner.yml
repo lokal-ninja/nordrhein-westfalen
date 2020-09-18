@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.218583300000006
 longitude: 6.819352500000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ronsdorfer Straße"
 housenumber: 55

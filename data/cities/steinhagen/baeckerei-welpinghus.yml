@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0046406
 longitude: 8.413464000000001
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Woerdener Straße"
 housenumber: 3

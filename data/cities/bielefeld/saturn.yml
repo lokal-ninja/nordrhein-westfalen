@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.025621900000004
 longitude: 8.5309842
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Bahnhofstraße"
 housenumber: 27a

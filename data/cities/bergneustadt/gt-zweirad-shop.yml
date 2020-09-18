@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.022457
 longitude: 7.666420100000001
-postcode: 51702
+postcode: "51702"
 city: Bergneustadt
 street: "Kölner Straße"
 housenumber: 

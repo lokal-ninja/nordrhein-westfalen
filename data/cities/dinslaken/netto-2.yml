@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.573906900000004
 longitude: 6.7676433000000005
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Gärtnerstraße"
 housenumber: 100

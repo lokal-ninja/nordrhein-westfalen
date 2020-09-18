@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2036785
 longitude: 6.412689800000001
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 219a

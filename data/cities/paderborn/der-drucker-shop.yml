@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.7315735
 longitude: 8.765259200000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 74

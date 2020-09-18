@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.963925100000004
 longitude: 6.9536353
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Neusser Straße"
 housenumber: 269

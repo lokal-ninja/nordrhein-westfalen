@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 51.052175000000005
 longitude: 6.9997882
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Adolf-Kaschny-Straße"
 housenumber: 9

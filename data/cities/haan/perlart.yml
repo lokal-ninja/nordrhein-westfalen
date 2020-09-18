@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.189556800000005
 longitude: 6.9996847
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Bahnhofstraße"
 housenumber: 18

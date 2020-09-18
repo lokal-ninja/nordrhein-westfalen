@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.079439300000004
 longitude: 8.9469732
-postcode: 32689
+postcode: "32689"
 city: Kalletal
 street: "Bavenhauser Straße"
 housenumber: 68a

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 50.645624600000005
 longitude: 6.195343500000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Hauptstraße"
 housenumber: 50

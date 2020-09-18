@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.6039697
 longitude: 6.9226108
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Hauptstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9403498
 longitude: 8.4354184
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Isselhorster Straße"
 housenumber: 267

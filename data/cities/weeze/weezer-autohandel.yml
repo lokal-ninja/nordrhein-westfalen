@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.620975800000004
 longitude: 6.210687200000001
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Industriestraße"
 housenumber: 45

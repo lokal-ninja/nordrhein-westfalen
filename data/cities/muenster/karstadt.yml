@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.9618521
 longitude: 7.6303662
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Salzstraße"
 housenumber: 47-50

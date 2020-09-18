@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0470538
 longitude: 6.989966300000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Küppersteger Straße"
 housenumber: 40

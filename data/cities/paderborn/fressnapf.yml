@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.7293406
 longitude: 8.785302600000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Karl-Schurz-Straße"
 housenumber: 4

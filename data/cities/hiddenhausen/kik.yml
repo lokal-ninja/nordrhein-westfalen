@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.155213700000004
 longitude: 8.642992300000001
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Rathausstraße"
 housenumber: 40

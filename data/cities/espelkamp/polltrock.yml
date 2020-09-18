@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.3775531
 longitude: 8.6298666
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Breslauer Straße"
 housenumber: 47

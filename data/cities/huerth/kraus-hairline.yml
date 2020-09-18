@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8781485
 longitude: 6.8758897
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Theresienhöhe"
 housenumber: 3

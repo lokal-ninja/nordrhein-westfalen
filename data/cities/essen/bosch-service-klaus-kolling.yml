@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4829116
 longitude: 6.9476424
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Donnerstraße"
 housenumber: 18

@@ -1,12 +1,12 @@
 id: 6822044684
 type: node
 shop: Kiosk
-latitude: 51.4788416
-longitude: 7.220537800000001
-postcode: 44787
+latitude: 51.478435000000005
+longitude: 7.220040300000001
+postcode: "44787"
 city: Bochum
-street: "Kurt-Schumacher-Platz"
-housenumber: 1
+street: "Südring"
+housenumber: 11
 phone: ""
 opening_hours: ""
 website: ""

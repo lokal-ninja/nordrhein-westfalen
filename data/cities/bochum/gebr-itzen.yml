@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.46686690000001
 longitude: 7.1977164
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hüttenstraße"
 housenumber: 30

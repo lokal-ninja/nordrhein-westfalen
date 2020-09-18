@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.323920900000005
 longitude: 6.605264600000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Untergath"
 housenumber: 265

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.963402800000004
 longitude: 6.1209178
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen
 street: "Herzog-Wilhelm-Straße"
 housenumber: 3

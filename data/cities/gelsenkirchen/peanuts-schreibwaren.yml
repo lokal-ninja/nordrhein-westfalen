@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.490644
 longitude: 7.0831803
-postcode: 45884
+postcode: "45884"
 city: Gelsenkirchen
 street: "Karl-Meyer-Straße"
 housenumber: 36

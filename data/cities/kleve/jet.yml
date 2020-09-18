@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8003955
 longitude: 6.1399897
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Klever Ring"
 housenumber: 3

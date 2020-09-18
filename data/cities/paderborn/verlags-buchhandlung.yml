@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7040111
 longitude: 8.7334868
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Abtsbrede"
 housenumber: 114

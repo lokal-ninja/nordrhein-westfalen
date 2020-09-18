@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7122395
 longitude: 7.1084566
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Hausdorffstraße"
 housenumber: 160

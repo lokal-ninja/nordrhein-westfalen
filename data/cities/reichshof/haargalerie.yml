@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9377086
 longitude: 7.7498538
-postcode: 51580
+postcode: "51580"
 city: Reichshof
 street: "Crottorfer Straße"
 housenumber: 

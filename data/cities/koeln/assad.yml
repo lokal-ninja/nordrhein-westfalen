@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.954486200000005
 longitude: 6.957879200000001
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Neusser Platz"
 housenumber: 6

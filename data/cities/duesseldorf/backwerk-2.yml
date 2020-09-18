@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2259393
 longitude: 6.775455900000001
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Hunsrückenstraße"
 housenumber: 33

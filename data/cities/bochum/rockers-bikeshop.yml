@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.486598
 longitude: 7.216643
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Nordring"
 housenumber: 47

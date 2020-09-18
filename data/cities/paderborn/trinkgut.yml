@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 51.6964673
 longitude: 8.735595400000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Frankfurter Weg"
-housenumber: 45
+housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-19:00; PH off"
 website: ""

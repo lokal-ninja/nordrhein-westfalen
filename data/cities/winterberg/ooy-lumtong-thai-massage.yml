@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.194107100000004
 longitude: 8.537339600000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hauptstraße"
 housenumber: 29

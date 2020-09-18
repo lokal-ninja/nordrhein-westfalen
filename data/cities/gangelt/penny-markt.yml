@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9960205
 longitude: 5.9987857
-postcode: 52538
+postcode: "52538"
 city: Gangelt
 street: "Lindenstraße"
 housenumber: 2

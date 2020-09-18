@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.0887414
 longitude: 6.5932675000000005
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

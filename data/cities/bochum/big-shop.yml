@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.52012130000001
 longitude: 7.2780553
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Hans-Sachs-Straße"
 housenumber: 7

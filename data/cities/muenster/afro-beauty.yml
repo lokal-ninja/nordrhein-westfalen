@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.974336900000004
 longitude: 7.6365356
-postcode: 48147
+postcode: "48147"
 city: Münster
 street: "Gartenstraße"
 housenumber: 140

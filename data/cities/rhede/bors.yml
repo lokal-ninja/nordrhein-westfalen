@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.8208945
 longitude: 6.6960796
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Rheder Straße"
 housenumber: 13

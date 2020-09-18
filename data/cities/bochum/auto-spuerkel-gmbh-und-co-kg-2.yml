@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5021119
 longitude: 7.2108312
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Poststraße"
 housenumber: 20-28

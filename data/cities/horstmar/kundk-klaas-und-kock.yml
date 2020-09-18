@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0837665
 longitude: 7.312551300000001
-postcode: 48612
+postcode: "48612"
 city: Horstmar
 street: "Warnsveldallee"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.013050400000004
 longitude: 6.6803042
-postcode: 50129
+postcode: "50129"
 city: Hüchelhoven
 street: "Pfarrer-Pesch-Straße"
 housenumber: 2

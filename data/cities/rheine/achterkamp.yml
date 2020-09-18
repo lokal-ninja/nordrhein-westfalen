@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.22887780000001
 longitude: 7.489906800000001
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Alte Bahnhofstraße"
 housenumber: 10

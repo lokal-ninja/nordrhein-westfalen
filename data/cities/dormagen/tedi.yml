@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.095885100000004
 longitude: 6.8414821
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Unter den Hecken"
 housenumber: 2

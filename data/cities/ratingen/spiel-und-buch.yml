@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.2986562
 longitude: 6.8526356
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Obertor"
 housenumber: 3-4

@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.1148984
 longitude: 6.442838
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Hanns-Martin-Schleyer-Straße"
 housenumber: 39

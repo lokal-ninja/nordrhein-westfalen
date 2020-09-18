@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.7688873
 longitude: 8.5693292
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Wittmundstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.990088300000004
 longitude: 8.7929797
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Lange Straße"
 housenumber: 74

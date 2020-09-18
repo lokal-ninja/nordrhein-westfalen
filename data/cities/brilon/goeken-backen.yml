@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3958748
 longitude: 8.571400200000001
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Bahnhofstraße"
 housenumber: 18

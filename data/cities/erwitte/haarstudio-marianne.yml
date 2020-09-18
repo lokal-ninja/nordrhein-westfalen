@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.612055100000006
 longitude: 8.340098600000001
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Hellweg"
 housenumber: 17

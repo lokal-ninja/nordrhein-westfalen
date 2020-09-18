@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.6817208
 longitude: 6.9550049000000005
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Freiheitsstraße"
 housenumber: 5

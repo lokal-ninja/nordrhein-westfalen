@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.4810681
 longitude: 7.2174763
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2328368
 longitude: 7.0736118
-postcode: 42329
+postcode: "42329"
 city: Wuppertal
 street: "Kaiserstraße"
 housenumber: 39

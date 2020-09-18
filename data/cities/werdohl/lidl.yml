@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.259696000000005
 longitude: 7.761233600000001
-postcode: 58791
+postcode: "58791"
 city: Werdohl
 street: "Fritz-Thomée-Platz"
 housenumber: 1

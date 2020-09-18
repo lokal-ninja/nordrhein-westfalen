@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.169372800000005
 longitude: 6.8231826
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Münchener Straße"
 housenumber: 300

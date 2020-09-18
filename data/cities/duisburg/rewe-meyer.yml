@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4663381
 longitude: 6.7666462
-postcode: 47137
+postcode: "47137"
 city: Duisburg
 street: "Herbststraße"
 housenumber: 20

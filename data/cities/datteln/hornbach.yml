@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.620764900000005
 longitude: 7.3226658
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Walter-Sauer-Straße"
 housenumber: 2

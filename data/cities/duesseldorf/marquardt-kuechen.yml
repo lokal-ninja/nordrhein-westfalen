@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.2183338
 longitude: 6.7823544
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Berliner Allee"
 housenumber: 56

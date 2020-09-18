@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6675697
 longitude: 6.271492500000001
-postcode: 47589
+postcode: "47589"
 city: Uedem
 street: "Weberplatz"
 housenumber: 1

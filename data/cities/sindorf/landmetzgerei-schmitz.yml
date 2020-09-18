@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9065347
 longitude: 6.6739937000000005
-postcode: 50170
+postcode: "50170"
 city: Sindorf
 street: "Kerpener Straße"
 housenumber: 29

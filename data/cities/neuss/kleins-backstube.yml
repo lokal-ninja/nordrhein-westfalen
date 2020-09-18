@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1458841
 longitude: 6.7552193
-postcode: 41470
+postcode: "41470"
 city: Neuss
 street: "Am Kirchenmorgen"
 housenumber: 1

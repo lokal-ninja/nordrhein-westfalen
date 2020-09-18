@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.9341616
 longitude: 6.934135700000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Jülicher Straße"
 housenumber: 12

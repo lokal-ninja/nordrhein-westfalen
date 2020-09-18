@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.9399225
 longitude: 9.0903711
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Hellweg"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0908
 longitude: 7.186721400000001
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Südstraße"
 housenumber: 6

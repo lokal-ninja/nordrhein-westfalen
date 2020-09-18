@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.9220637
 longitude: 6.9208214
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 296

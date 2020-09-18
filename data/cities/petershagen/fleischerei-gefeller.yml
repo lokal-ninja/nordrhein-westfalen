@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.37029080000001
 longitude: 8.9928342
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Nienburger Straße"
 housenumber: 4

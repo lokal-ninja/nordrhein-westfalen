@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.215803900000004
 longitude: 7.6334393
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 46

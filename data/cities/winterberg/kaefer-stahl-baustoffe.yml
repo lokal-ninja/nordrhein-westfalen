@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.246979800000005
 longitude: 8.4828483
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hochsauerlandstraße"
 housenumber: 63

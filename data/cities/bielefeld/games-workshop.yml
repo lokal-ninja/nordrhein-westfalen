@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.019702800000005
 longitude: 8.5285785
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Obernstraße"
 housenumber: 43

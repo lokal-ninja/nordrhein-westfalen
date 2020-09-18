@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.8799884
 longitude: 6.160952600000001
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Auf dem Pütz"
 housenumber: 5

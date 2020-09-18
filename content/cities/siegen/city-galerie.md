@@ -1,4 +1,4 @@
 ---
-title: "City Galerie"
+title: "City-Galerie"
 url: /siegen/city-galerie/
 ---

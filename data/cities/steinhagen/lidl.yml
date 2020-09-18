@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.008425
 longitude: 8.4123961
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Bahnhofstraße"
 housenumber: 19a

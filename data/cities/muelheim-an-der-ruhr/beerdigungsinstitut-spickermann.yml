@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.4228225
 longitude: 6.8547342
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Kirchstraße"
 housenumber: 76c

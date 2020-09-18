@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.8844191
 longitude: 8.511600300000001
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Poststraße"
 housenumber: 27

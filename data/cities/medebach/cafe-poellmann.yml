@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.1963943
 longitude: 8.705550800000001
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Niederstraße"
 housenumber: 9

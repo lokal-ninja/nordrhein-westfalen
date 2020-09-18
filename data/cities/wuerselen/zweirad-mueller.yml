@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8177073
 longitude: 6.1225252
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Aachener Straße"
 housenumber: 107

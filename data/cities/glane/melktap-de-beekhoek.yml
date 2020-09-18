@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.2272137
 longitude: 6.9817624
-postcode: 7585 PL
+postcode: "7585PL"
 city: Glane
 street: "Glanerbrugstraat"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9535087
 longitude: 7.6363675
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Bremer Straße"
 housenumber: 56

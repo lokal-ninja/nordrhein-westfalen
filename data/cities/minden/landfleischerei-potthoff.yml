@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3388149
 longitude: 8.908723100000001
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Driftenweg"
 housenumber: 38

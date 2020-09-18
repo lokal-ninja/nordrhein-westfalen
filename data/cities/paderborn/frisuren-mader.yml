@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.739837200000004
 longitude: 8.7603801
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Dr.-Rörig-Damm"
 housenumber: 94

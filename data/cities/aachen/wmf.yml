@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 50.7751274
 longitude: 6.084435900000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Hof"
 housenumber: 20

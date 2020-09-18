@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.223317400000006
 longitude: 6.7929672000000005
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Kurfürstenstraße"
 housenumber: 39-41

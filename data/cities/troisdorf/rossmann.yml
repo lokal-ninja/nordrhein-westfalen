@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.814860700000004
 longitude: 7.1576171
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Kölner Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.456321900000006
 longitude: 7.0251926000000005
-postcode: 45139
+postcode: "45139"
 city: Essen
 street: "Natorpstraße"
 housenumber: 26-30

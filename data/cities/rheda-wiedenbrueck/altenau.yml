@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.833144700000005
 longitude: 8.3267013
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Rietberger Straße"
 housenumber: 86

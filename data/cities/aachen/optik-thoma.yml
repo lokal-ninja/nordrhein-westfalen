@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.811559700000004
 longitude: 6.0610046
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Rathausplatz"
 housenumber: 6

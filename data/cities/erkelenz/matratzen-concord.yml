@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.076913600000005
 longitude: 6.3050997
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Adam-Opel-Straße"
 housenumber: 6

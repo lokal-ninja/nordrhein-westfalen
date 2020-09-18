@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5384868
 longitude: 7.2535606
-postcode: 44627
+postcode: "44627"
 city: Herne
 street: "Mont-Cenis-Straße"
 housenumber: 249

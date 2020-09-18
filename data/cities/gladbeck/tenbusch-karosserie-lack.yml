@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.597168100000005
 longitude: 6.9931862
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Rottstraße"
 housenumber: 12

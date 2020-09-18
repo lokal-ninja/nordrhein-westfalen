@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.120729700000005
 longitude: 6.93031
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Hans-Böckler-Straße"
 housenumber: 42

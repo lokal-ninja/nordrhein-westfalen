@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.951840100000005
 longitude: 8.569907200000001
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Hansestraße"
 housenumber: 1

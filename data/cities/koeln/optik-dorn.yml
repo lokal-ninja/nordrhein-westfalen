@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 50.917239200000004
 longitude: 6.924798900000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 76
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
 website: ""

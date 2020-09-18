@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.3640327
 longitude: 6.937597800000001
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Kirchfeldstraße"
 housenumber: 2-4

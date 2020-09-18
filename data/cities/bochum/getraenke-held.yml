@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4181577
 longitude: 7.1607091
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Lewackerstraße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.3618345
 longitude: 8.4000612
-postcode: 59909
+postcode: "59909"
 city: Bestwig
 street: "Bundesstraße"
 housenumber: 147a

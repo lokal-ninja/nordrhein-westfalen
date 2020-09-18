@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.020842200000004
 longitude: 8.530376200000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Goldstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Solarium
 latitude: 52.2020636
 longitude: 8.5721957
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Roonstraße"
 housenumber: 3

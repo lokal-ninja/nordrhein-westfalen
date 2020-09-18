@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8845844
 longitude: 6.169833400000001
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Im Brühl"
 housenumber: 92a

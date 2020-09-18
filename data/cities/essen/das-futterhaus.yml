@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.459703700000006
 longitude: 7.0801113
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Wattenscheider Straße"
 housenumber: 6

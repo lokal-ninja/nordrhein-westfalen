@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 52.084813600000004
 longitude: 7.482844900000001
-postcode: 48356
+postcode: "48356"
 city: Nordwalde
 street: "Emsdettener Straße"
 housenumber: 1

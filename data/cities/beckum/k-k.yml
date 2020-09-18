@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.760185
 longitude: 8.038832600000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Vorhelmer Straße"
 housenumber: 

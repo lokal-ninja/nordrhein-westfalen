@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.4521754
 longitude: 6.6273663
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Friedrichstraße"
 housenumber: 39

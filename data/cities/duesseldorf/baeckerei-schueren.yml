@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.239018900000005
 longitude: 6.780404000000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 77

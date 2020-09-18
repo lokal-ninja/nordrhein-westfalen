@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9329692
 longitude: 8.4242311
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Werner-von-Siemens-Straße"
 housenumber: 2

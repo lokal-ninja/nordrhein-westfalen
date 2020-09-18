@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1542339
 longitude: 6.6793123
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Haus Eppinghoven"
 housenumber: 1

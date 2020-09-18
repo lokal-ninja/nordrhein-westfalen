@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.928235
 longitude: 6.93552
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 58a

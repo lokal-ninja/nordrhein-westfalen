@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.029544300000005
 longitude: 8.9009251
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Neue Torstraße"
 housenumber: 26

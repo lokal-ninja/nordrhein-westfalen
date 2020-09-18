@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.5736402
 longitude: 6.993032100000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hochstraße"
 housenumber: 41

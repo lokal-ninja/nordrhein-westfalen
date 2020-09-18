@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4000435
 longitude: 8.5757867
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Freiladestraße"
 housenumber: 10

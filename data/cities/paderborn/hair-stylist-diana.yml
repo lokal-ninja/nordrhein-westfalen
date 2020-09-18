@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6917191
 longitude: 8.6883181
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Sternstraße"
 housenumber: 10

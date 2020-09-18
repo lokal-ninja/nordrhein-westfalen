@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.836189000000005
 longitude: 6.467036200000001
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Münsterdeich"
 housenumber: 20a

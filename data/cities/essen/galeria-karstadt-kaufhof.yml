@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.452395100000004
 longitude: 7.0120626
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kettwiger Straße"
 housenumber: 1a

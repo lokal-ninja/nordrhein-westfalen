@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.436369400000004
 longitude: 7.3323977000000005
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Hammerstraße"
 housenumber: 9,11

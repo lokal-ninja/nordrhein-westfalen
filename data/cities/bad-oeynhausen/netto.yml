@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1800384
 longitude: 8.798860900000001
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Loher Straße"
 housenumber: 9

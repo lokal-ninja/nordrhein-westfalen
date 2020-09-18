@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.23661430000001
 longitude: 6.778788100000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 28

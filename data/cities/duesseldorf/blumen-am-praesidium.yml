@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.214410900000004
 longitude: 6.7662741
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Lorettostraße"
 housenumber: 15

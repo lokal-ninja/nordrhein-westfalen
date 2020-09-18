@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.007938300000006
 longitude: 8.5197795
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "An der Tonkuhle"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1960795
 longitude: 6.816199900000001
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Harffstraße"
 housenumber: 53

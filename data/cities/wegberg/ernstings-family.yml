@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1441868
 longitude: 6.2836547000000005
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Am Bahnhof"
 housenumber: 10

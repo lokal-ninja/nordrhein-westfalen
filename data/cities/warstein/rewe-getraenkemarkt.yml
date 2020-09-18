@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4883085
 longitude: 8.335828300000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Bahnhofstraße"
 housenumber: 44

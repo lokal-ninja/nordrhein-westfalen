@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.14024980000001
 longitude: 7.2133266
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Telegrafenstraße"
 housenumber: 21

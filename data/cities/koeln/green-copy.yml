@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.928003000000004
 longitude: 6.934533600000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Zülpicher Wall"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.514259200000005
 longitude: 6.841250400000001
-postcode: 46149
+postcode: "46149"
 city: Oberhausen
 street: "Heidstraße"
 housenumber: 

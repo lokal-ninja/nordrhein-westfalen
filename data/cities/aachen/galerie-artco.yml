@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.778301400000004
 longitude: 6.085869300000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Seilgraben"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1304583
 longitude: 6.9202509
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Gronauer Straße"
 housenumber: 32

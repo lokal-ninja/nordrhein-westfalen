@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9245971
 longitude: 6.911956600000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Franzstraße"
 housenumber: 33

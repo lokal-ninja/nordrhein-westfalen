@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.316035400000004
 longitude: 7.8778246
-postcode: 49492
+postcode: "49492"
 city: Westerkappeln
 street: "Bahnhofstraße"
 housenumber: 16

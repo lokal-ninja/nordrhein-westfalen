@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.560943
 longitude: 8.325946700000001
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Jägerstraße"
 housenumber: 1

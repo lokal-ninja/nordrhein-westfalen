@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.2002454
 longitude: 8.5253081
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Remmeswiese"
 housenumber: 15 b

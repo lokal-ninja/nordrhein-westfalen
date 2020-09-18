@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.320667300000004
 longitude: 6.526449
-postcode: 47804
+postcode: "47804"
 city: Krefeld
 street: "Dülkener Straße"
 housenumber: 50

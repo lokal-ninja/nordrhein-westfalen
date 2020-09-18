@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3818725
 longitude: 6.9854314
-postcode: 45239
+postcode: "45239"
 city: Essen
 street: "Ruhrtalstraße"
 housenumber: 85

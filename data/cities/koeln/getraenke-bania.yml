@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.918553100000004
 longitude: 6.988624000000001
-postcode: 51105
+postcode: "51105"
 city: Köln
 street: "Am Altenberger Kreuz"
 housenumber: 2

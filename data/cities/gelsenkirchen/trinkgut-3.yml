@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.503220600000006
 longitude: 7.1158999000000005
-postcode: 45886
+postcode: "45886"
 city: Gelsenkirchen
 street: "Ückendorfer Straße"
 housenumber: 60

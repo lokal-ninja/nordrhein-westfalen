@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.035505
 longitude: 6.8237769
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Markt"
 housenumber: 5

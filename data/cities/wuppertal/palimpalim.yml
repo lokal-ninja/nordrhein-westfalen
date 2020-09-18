@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2557612
 longitude: 7.139520900000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Auer Schulstraße"
 housenumber: 

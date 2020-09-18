@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4543436
 longitude: 7.4573315000000004
-postcode: 44229
+postcode: "44229"
 city: Dortmund
 street: "Hagener Straße"
 housenumber: 314

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7741824
 longitude: 6.1108994
-postcode: 52068
+postcode: "52068"
 city: Aachen
 street: "Eifelstraße"
 housenumber: 35

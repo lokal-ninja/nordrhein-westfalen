@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9551348
 longitude: 6.997125700000001
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Stationsweg"
 housenumber: 2

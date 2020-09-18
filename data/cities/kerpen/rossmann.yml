@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.867701600000004
 longitude: 6.6765832000000005
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Stiftsstraße"
 housenumber: 224-256

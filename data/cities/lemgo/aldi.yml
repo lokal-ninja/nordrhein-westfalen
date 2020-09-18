@@ -1,12 +1,12 @@
-id: 205842106
-type: way
+id: 332967170
+type: node
 shop: Supermarkt
-latitude: 52.020411
-longitude: 8.911841
-postcode: 32657
+latitude: 52.023787600000006
+longitude: 8.8883534
+postcode: "32657"
 city: Lemgo
-street: "Lemgoer Straße"
-housenumber: 94
+street: "Steinweg"
+housenumber: 66
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: ""
 website: ""

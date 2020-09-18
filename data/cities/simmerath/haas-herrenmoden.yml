@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6077431
 longitude: 6.302299700000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Hauptstraße"
 housenumber: 86, 88

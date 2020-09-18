@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.217120300000005
 longitude: 6.782296700000001
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Corneliusstraße"
 housenumber: 1

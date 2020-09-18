@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.8383424
 longitude: 6.616043400000001
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Osterstraße"
 housenumber: 10

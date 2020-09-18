@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.052338400000004
 longitude: 8.3566151
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: ""
 housenumber: 

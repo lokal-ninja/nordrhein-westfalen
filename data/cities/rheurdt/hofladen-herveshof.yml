@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.445485000000005
 longitude: 6.4825387
-postcode: 47509
+postcode: "47509"
 city: Rheurdt
 street: "Rheurdter Straße"
 housenumber: 44

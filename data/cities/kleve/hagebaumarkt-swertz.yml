@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8011574
 longitude: 6.1389795000000005
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Klever Ring"
 housenumber: 1

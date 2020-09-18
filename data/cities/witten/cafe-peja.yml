@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.437027400000005
 longitude: 7.3200871
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Herbeder Straße"
 housenumber: 50

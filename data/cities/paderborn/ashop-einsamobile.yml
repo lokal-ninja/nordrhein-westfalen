@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.715842800000004
 longitude: 8.740096300000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 37

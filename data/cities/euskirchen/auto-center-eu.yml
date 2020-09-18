@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.669368500000004
 longitude: 6.789694300000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Klevische Straße"
 housenumber: 18

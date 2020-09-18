@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.76470440000001
 longitude: 8.784576600000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Im Vogtland"
 housenumber: 10

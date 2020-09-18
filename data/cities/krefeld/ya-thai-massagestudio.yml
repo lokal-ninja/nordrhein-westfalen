@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.3305878
 longitude: 6.5658780000000005
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Petersstraße"
 housenumber: 87-89

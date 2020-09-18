@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2869401
 longitude: 8.88639
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Schwabenring"
 housenumber: 105

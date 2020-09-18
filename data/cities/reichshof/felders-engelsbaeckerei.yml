@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 50.9399329
 longitude: 7.748530000000001
-postcode: 51580
+postcode: "51580"
 city: Reichshof
 street: "Siegener Straße"
-housenumber: 47
+housenumber: 45
 phone: ""
 opening_hours: ""
 website: ""

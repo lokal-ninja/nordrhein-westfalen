@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.925588000000005
 longitude: 7.7243855
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Münsterstraße"
 housenumber: 56

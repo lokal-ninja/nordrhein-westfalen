@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7971774
 longitude: 7.208103400000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Markt"
 housenumber: 29

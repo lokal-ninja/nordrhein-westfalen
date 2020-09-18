@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.121209400000005
 longitude: 7.556502900000001
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Kanalstraße"
 housenumber: 2

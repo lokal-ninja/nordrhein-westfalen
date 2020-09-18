@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.915625500000004
 longitude: 6.380034500000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Helmholtzstraße"
 housenumber: 16

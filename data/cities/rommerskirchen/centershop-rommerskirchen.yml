@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.0334541
 longitude: 6.6929943000000005
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Bahnstraße"
 housenumber: 75

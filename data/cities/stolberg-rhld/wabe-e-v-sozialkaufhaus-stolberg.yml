@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.7761596
 longitude: 6.223899500000001
-postcode: 52222
+postcode: "52222"
 city: Stolberg (Rhld.)
 street: "Salmstraße"
-housenumber: 
+housenumber: 4
 phone: ""
 opening_hours: ""
 website: ""

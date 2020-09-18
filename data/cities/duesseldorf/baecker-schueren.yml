@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.238363
 longitude: 6.7996156
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 144

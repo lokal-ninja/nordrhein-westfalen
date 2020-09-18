@@ -1,12 +1,12 @@
-id: 28348188
-type: way
+id: 7724468048
+type: node
 shop: Supermarkt
-latitude: 50.9596
-longitude: 7.0152333
-postcode: 51065
+latitude: 50.937552600000004
+longitude: 7.0014152
+postcode: "51103"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 87a
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: ""
+street: "Kalker Hauptstraße"
+housenumber: 112
+phone: "+49 221 206520"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: "https://www.kaufland.de"

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.0331886
 longitude: 6.6969608
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Mariannenpark"
 housenumber: 5

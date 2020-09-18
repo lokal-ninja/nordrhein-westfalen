@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.73379550000001
 longitude: 7.0960944
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Münsterstraße"
 housenumber: 8

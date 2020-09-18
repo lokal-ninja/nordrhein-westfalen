@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2002371
 longitude: 6.688516300000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Niederstraße"
 housenumber: 39-45

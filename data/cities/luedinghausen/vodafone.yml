@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.7712335
 longitude: 7.4442693
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Langenbrückenstraße"
 housenumber: 13

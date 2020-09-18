@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2008202
 longitude: 6.392256700000001
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Stationsweg"
 housenumber: 110

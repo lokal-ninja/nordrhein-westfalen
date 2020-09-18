@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.9099802
 longitude: 8.6780784
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Fosse Bredde"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.4432606
 longitude: 7.349493900000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Dortmunder Straße"
 housenumber: 27

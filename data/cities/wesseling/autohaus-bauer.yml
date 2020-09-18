@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8297924
 longitude: 6.9733602
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Römerstraße"
 housenumber: 147

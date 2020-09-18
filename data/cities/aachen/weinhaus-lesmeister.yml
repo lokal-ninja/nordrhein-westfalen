@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.778135400000004
 longitude: 6.0824505
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Pontstraße"
 housenumber: 60

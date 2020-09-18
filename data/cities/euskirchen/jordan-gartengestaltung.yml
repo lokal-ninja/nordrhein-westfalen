@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.691235600000006
 longitude: 6.8220881
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Vasco-da-Gama-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.656358000000004
 longitude: 6.617074100000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Kreuzstraße"
 housenumber: 3

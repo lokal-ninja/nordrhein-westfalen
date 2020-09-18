@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.946290600000005
 longitude: 7.001373200000001
-postcode: 51103
+postcode: "51103"
 city: Köln
 street: "Kalk-Mülheimer Straße"
 housenumber: 253-259

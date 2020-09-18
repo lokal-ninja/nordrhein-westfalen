@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9179648
 longitude: 6.9245438
-postcode: 50939
+postcode: "50939"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 260

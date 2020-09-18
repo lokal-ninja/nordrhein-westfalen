@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.663524800000005
 longitude: 6.610247
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Reeser Landstraße"
 housenumber: 16

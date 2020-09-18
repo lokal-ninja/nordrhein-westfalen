@@ -1,12 +1,12 @@
-id: 4779233506
+id: 4779233507
 type: node
 shop: Bäckerei
-latitude: 50.631112400000006
-longitude: 6.813265500000001
-postcode: 53881
+latitude: 50.6589973
+longitude: 6.781905200000001
+postcode: "53879"
 city: Euskirchen
-street: "Im Krautgarten"
-housenumber: 2
+street: "Bendenstraße"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:00-16:30"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-11:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0616355
 longitude: 8.7364393
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Bielefelder Straße"
 housenumber: 1d

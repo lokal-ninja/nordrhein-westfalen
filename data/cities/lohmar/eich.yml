@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8549505
 longitude: 7.226755000000001
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Donrather Straße"
 housenumber: 21

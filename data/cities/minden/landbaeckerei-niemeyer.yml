@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3016774
 longitude: 8.8636605
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Hahler Straße"
 housenumber: 224

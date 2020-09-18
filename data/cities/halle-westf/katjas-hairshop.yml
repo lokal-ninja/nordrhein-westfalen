@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0539203
 longitude: 8.355614300000001
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Alleestraße"
 housenumber: 22

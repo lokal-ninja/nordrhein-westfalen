@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.9036046
 longitude: 8.361554
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Herzebrocker Straße"
 housenumber: 45

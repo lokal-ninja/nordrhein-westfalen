@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9178652
 longitude: 6.9526557
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Bonner Wall"
 housenumber: 110

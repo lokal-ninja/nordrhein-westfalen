@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9204735
 longitude: 6.9195237
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Lechenicher Straße"
 housenumber: 2

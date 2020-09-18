@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.18980620000001
 longitude: 7.0010094
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Bahnhofstraße"
 housenumber: 30

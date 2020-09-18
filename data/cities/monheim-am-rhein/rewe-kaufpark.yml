@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1110514
 longitude: 6.8980702
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Sandstraße"
 housenumber: 83

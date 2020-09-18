@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.8769106
 longitude: 8.9519252
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Bahnhofstraße"
 housenumber: 29

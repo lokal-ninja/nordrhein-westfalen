@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.778794000000005
 longitude: 7.0863366
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Glockenstraße"
 housenumber: 78

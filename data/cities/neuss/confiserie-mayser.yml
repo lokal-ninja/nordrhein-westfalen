@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 51.198000900000004
 longitude: 6.690893300000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Neustraße"
 housenumber: 10a

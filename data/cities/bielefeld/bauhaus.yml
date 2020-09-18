@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.035037100000004
 longitude: 8.5671794
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Finkenstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.34632920000001
 longitude: 7.4951951
-postcode: 58091
+postcode: "58091"
 city: Hagen
 street: "Selbecker Straße"
 housenumber: 2

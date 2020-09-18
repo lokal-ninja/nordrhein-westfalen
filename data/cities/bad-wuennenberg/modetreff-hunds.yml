@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.521004600000005
 longitude: 8.696686600000001
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Mittelstraße"
 housenumber: 

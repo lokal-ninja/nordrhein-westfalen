@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.793575000000004
 longitude: 7.176199700000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Marie-Curie-Straße"
 housenumber: 14

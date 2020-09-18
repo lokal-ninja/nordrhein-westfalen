@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.198346
 longitude: 8.579444200000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 22

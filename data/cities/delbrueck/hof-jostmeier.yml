@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.7159831
 longitude: 8.5542896
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: ""
 housenumber: 13

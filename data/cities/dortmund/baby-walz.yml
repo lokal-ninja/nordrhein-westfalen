@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.5138289
 longitude: 7.4644868
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "im Karstadt"
 housenumber: 

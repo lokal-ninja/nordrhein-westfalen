@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0352192
 longitude: 7.049451400000001
-postcode: 51375
+postcode: "51375"
 city: Leverkusen
 street: "Münsters Gäßchen"
 housenumber: 3-9

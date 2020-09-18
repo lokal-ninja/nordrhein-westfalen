@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4289324
 longitude: 6.883986800000001
-postcode: 45468
+postcode: "45468"
 city: Mülheim an der Ruhr
 street: "Schloßstraße"
 housenumber: 4-6

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.908174100000004
 longitude: 6.672862500000001
-postcode: 50170
+postcode: "50170"
 city: Kerpen
 street: "Kerpener Straße"
 housenumber: 3

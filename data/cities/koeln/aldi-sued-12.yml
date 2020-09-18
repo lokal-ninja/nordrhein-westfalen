@@ -1,12 +1,12 @@
-id: 51835451
+id: 43387980
 type: way
 shop: Supermarkt
-latitude: 50.942056
-longitude: 6.933678400000001
-postcode: 50672
+latitude: 50.881568800000004
+longitude: 7.069406600000001
+postcode: "51145"
 city: Köln
-street: "Venloer Straße"
-housenumber: 41
+street: "Kaiserstraße"
+housenumber: 95
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

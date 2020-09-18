@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.410963900000006
 longitude: 7.1998180000000005
-postcode: 45527
+postcode: "45527"
 city: Hattingen
 street: "Auf dem Haidchen"
 housenumber: 42

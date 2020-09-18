@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.7900489
 longitude: 6.1424363
-postcode: 52068
+postcode: "52068"
 city: Aachen
 street: "Charlottenburger Allee"
 housenumber: 52

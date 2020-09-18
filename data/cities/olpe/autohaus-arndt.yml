@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.035464100000006
 longitude: 7.855904700000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Bilsteiner Straße"
 housenumber: 3

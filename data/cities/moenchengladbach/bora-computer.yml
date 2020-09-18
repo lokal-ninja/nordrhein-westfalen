@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.1674293
 longitude: 6.4405353000000005
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Friedrich-Ebert-Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.934654300000005
 longitude: 6.936200400000001
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Händelstraße"
 housenumber: 27

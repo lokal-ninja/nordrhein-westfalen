@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.632820900000006
 longitude: 7.2913173
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Buschweg"
 housenumber: 1

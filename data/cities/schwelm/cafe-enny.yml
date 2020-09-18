@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.290227900000005
 longitude: 7.2892574
-postcode: 58332
+postcode: "58332"
 city: Schwelm
 street: "Bahnhofplatz"
 housenumber: 1 A

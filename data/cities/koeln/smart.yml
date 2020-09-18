@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.863902800000005
 longitude: 6.9726838
-postcode: 50997
+postcode: "50997"
 city: Köln
 street: "Godorfer Hauptstraße"
 housenumber: 173

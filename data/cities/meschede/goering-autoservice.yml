@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.3559369
 longitude: 8.2849327
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Jahnstraße"
 housenumber: 17

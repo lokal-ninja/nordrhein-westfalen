@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 51.7281191
 longitude: 8.761975300000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 49-51

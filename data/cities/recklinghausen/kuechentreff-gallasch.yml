@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.6126803
 longitude: 7.1931164
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Hertener Straße"
 housenumber: 4

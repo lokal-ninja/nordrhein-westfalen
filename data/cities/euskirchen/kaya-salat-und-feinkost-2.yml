@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.6458309
 longitude: 6.803305600000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Narzissenweg"
 housenumber: 25

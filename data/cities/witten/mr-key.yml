@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.423266000000005
 longitude: 7.281428300000001
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Platz an der Schmiede"
 housenumber: 4

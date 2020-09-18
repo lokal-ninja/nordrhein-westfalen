@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.9886131
 longitude: 8.259183100000001
-postcode: 57339
+postcode: "57339"
 city: Erndtebrück
 street: "Am Köpfchen"
 housenumber: 4

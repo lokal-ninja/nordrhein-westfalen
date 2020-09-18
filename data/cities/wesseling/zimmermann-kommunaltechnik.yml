@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.8323419
 longitude: 6.9397215
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Brühler Straße"
 housenumber: 306

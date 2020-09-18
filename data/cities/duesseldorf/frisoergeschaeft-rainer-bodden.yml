@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2078841
 longitude: 6.739969800000001
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Hammer Dorfstraße"
 housenumber: 140

@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 50.6430063
 longitude: 6.797991000000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Otto-Lilienthal-Straße"
 housenumber: 29

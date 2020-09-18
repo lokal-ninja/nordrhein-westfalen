@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.747885800000006
 longitude: 8.3258177
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Liesborner Straße"
 housenumber: 29

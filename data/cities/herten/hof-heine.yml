@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.629218200000004
 longitude: 7.142411600000001
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Kampstraße"
 housenumber: 16

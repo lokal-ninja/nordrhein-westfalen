@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.234511100000006
 longitude: 6.8173066
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Grafenberger Allee"
 housenumber: 258

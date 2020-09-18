@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.737149
 longitude: 7.0977467
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wilhelmstraße"
 housenumber: 9

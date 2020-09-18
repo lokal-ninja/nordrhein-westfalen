@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.639816200000006
 longitude: 7.259581900000001
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Berliner Platz"
 housenumber: 13

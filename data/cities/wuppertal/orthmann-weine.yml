@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.2599244
 longitude: 7.1464045
-postcode: 42105
+postcode: "42105"
 city: Wuppertal
 street: "Friedrichstraße"
 housenumber: 48 - 50

@@ -1,4 +1,4 @@
 ---
-title: "Dürselen  Stein + Gestaltung"
+title: "Dürselen Stein + Gestaltung"
 url: /moenchengladbach/duerselen-stein-gestaltung/
 ---

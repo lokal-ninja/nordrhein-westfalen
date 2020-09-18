@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.09441270000001
 longitude: 6.8111436
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 1

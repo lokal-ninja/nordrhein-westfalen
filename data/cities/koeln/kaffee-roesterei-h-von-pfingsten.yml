@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.9170615
 longitude: 6.925695
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 27

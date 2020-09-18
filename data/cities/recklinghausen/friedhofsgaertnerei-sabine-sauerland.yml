@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.627907
 longitude: 7.203962300000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Börster Weg"
 housenumber: 149a

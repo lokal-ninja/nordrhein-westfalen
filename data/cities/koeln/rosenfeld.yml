@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9470886
 longitude: 6.885995500000001
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Vitalisstraße"
 housenumber: 301

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.0693319
 longitude: 9.1203064
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Bahnhofstraße"
 housenumber: 9a

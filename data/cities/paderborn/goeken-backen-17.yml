@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.717510100000005
 longitude: 8.7537565
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rathausplatz"
 housenumber: 2

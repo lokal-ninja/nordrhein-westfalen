@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.0296328
 longitude: 7.845066500000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Frankfurter Straße"
 housenumber: 10

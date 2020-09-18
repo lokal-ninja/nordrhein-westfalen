@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.2013149
 longitude: 6.686593800000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Krefelder Straße"
 housenumber: 53

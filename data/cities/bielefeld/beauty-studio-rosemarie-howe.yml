@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.021748
 longitude: 8.5369997
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Turnerstraße"
 housenumber: 13

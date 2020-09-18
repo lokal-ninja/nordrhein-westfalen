@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.034027
 longitude: 8.572415000000001
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Ziegelstraße"
 housenumber: 41

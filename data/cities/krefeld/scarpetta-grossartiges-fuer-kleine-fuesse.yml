@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.356166
 longitude: 6.597173400000001
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Hüttenallee"
 housenumber: 237a

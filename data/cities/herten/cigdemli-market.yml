@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.6041121
 longitude: 7.086567400000001
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Bahnhofstraße"
 housenumber: 76

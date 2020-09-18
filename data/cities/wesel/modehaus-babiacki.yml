@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.657072500000005
 longitude: 6.612578
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Brückstraße"
 housenumber: 32-34

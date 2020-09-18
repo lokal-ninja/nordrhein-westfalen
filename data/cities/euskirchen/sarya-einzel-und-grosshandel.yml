@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 50.668561000000004
 longitude: 6.7673655
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Eupener Straße"
 housenumber: 112

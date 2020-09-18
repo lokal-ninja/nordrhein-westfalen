@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.686635800000005
 longitude: 6.8174431
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Großbüllesheimer Straße"
 housenumber: 90

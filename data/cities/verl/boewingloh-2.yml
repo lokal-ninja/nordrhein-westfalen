@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.876115600000006
 longitude: 8.460654400000001
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Gütersloher Straße"
 housenumber: 299

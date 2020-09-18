@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2276256
 longitude: 6.698751400000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Burgunderstraße"
 housenumber: 19

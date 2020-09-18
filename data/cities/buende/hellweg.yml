@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.1811384
 longitude: 8.6070173
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Herforder Straße"
 housenumber: 180

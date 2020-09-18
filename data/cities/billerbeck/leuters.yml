@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.9690803
 longitude: 7.2827571
-postcode: 48727
+postcode: "48727"
 city: Billerbeck
 street: "Friethöfer Kamp"
 housenumber: 4

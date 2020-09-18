@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.975404100000006
 longitude: 8.821638
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Daimlerstraße"
 housenumber: 1

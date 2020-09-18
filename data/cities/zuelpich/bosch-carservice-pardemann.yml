@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6996796
 longitude: 6.66363
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Industriestraße"
 housenumber: 17

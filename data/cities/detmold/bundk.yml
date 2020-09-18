@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.961328900000005
 longitude: 8.841727500000001
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Windmeierweg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0267683
 longitude: 8.5385746
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Kavalleriestraße"
 housenumber: 26

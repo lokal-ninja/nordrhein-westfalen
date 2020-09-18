@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7832543
 longitude: 7.2359331000000005
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Frankfurter Straße"
 housenumber: 78

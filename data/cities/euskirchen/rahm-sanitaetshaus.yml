@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.6424868
 longitude: 6.792958700000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Gottfried-Disse-Straße"
 housenumber: 48

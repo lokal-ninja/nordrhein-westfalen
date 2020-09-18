@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 52.302030300000006
 longitude: 7.4417016
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Am Stadtwalde"
 housenumber: 7

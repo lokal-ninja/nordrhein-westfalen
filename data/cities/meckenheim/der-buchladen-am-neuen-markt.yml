@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 50.6265505
 longitude: 7.039143
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 54
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00"
+opening_hours: "Mo-Fr 09:00-13:00,Mo-Tu, Th-Fr 14:30-18:00; Sa 09:00-13:00"
 website: ""

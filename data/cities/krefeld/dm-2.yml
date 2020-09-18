@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3303249
 longitude: 6.5455307000000005
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Gutenbergstraße"
 housenumber: 151

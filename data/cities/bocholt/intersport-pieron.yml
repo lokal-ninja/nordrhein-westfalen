@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.84072260000001
 longitude: 6.614407000000001
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Rebenstraße"
 housenumber: 6

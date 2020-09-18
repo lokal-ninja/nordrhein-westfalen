@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.617080300000005
 longitude: 8.8998422
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Mühlenstraße"
 housenumber: 34

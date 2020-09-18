@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.937967
 longitude: 8.8563785
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Sprottauer Straße"
 housenumber: 45

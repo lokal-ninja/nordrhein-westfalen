@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.829282500000005
 longitude: 7.0302017
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Porzer Straße"
 housenumber: 73

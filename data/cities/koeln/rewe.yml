@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.945184100000006
 longitude: 6.899499100000001
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Widdersdorfer Straße"
 housenumber: 219

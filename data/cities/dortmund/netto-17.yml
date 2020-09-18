@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5288783
 longitude: 7.4613575
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Münsterstraße"
 housenumber: 167

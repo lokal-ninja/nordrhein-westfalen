@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7351547
 longitude: 8.7004988
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Fohling"
 housenumber: 2

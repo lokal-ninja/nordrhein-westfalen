@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.275058800000004
 longitude: 7.9130735
-postcode: 49504
+postcode: "49504"
 city: Lotte
 street: "Bahnhofstraße"
 housenumber: 

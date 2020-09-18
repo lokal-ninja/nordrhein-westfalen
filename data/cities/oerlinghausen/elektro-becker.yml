@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.971755300000005
 longitude: 8.709870500000001
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Jahnstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2198403
 longitude: 7.623347900000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 65

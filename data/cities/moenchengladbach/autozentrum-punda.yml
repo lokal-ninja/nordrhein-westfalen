@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1938444
 longitude: 6.4094821
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Monschauer Straße"
 housenumber: 34

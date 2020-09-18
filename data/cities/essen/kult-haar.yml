@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.3925501
 longitude: 7.0822469
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 140
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
 website: ""

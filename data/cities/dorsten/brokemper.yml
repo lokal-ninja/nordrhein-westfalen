@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.6745503
 longitude: 6.9493583
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Holtstegge"
 housenumber: 59

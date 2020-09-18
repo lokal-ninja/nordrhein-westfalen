@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4855595
 longitude: 7.4363273
-postcode: 44225
+postcode: "44225"
 city: Dortmund
 street: "Am Beilstück"
 housenumber: 34

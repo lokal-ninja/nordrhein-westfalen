@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.4953712
 longitude: 7.2798905000000005
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 7

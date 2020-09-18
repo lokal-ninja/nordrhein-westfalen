@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7966344
 longitude: 7.207903900000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Mühlenstraße"
 housenumber: 1

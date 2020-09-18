@@ -3,10 +3,10 @@ type: way
 shop: Wohnwagen
 latitude: 51.189541600000005
 longitude: 6.9376685
-postcode: 40724
+postcode: "40724"
 city: Hilden
 street: "Giesenheide"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-16:00"
-website: "www.wohnwagen-erkelenz.de"
+website: "https://www.wohnwagen-erkelenz.de"

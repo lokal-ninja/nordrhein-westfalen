@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.067907600000005
 longitude: 6.9659412000000005
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Andreasstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8108505
 longitude: 6.1408830000000005
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Am alten Kaninsberg"
 housenumber: 8

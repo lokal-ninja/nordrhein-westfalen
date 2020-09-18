@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.150565400000005
 longitude: 8.5061105
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Dreschstraße"
 housenumber: 71

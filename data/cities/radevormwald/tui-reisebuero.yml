@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2030393
 longitude: 7.3568524
-postcode: 42477
+postcode: "42477"
 city: Radevormwald
 street: "Markt"
 housenumber: 11

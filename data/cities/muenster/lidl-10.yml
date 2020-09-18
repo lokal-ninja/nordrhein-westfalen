@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9523256
 longitude: 7.6323246000000005
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Friedrich-Ebert-Straße"
 housenumber: 17

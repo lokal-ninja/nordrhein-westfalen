@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.6597279
 longitude: 6.972100200000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Vestische Allee"
 housenumber: 22

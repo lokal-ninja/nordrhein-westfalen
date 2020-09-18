@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7269018
 longitude: 7.022780200000001
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Alfterer Straße"
 housenumber: 135

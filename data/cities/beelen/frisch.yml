@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.928989300000005
 longitude: 8.1164977
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Dreingaustraße"
 housenumber: 22

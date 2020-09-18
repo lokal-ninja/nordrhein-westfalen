@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4208307
 longitude: 6.960864600000001
-postcode: 45149
+postcode: "45149"
 city: Essen
 street: "Hatzper Straße"
 housenumber: 214

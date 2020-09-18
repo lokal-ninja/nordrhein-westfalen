@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9134539
 longitude: 8.0571835
-postcode: 57250
+postcode: "57250"
 city: Netphen
 street: "Siegstraße"
 housenumber: 145

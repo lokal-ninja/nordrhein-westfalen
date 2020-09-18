@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.7685965
 longitude: 6.080825000000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Boxgraben"
 housenumber: 53

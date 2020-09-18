@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9395195
 longitude: 8.3237024
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Sieg-Lahn-Straße"
 housenumber: 51

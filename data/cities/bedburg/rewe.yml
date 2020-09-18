@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0072005
 longitude: 6.5539117000000005
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "St.-Rochus-Straße"
 housenumber: 30

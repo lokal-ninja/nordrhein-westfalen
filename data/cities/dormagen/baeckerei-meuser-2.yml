@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1136057
 longitude: 6.772082500000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Conrad-Schlaun-Straße"
 housenumber: 8;10

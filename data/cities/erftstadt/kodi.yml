@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.800037800000005
 longitude: 6.767825
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Bonner Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.9800747
 longitude: 6.2706197
-postcode: 52441
+postcode: "52441"
 city: Linnich
 street: "Rurstraße"
 housenumber: 30

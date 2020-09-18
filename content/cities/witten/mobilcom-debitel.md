@@ -1,4 +1,4 @@
 ---
-title: "Mobilcom-Debitel"
+title: "Mobilcom Debitel"
 url: /witten/mobilcom-debitel/
 ---

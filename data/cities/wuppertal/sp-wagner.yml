@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.234745800000006
 longitude: 7.0831911000000005
-postcode: 42329
+postcode: "42329"
 city: Wuppertal
 street: "Kaiserstraße"
 housenumber: 125

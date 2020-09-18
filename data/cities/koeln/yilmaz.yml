@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.9512106
 longitude: 6.9153478
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Venloer Straße"
 housenumber: 354e

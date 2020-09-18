@@ -1,12 +1,12 @@
 id: 3222203908
 type: node
 shop: Metzgerei
-latitude: 51.006196900000006
-longitude: 6.5519958
-postcode: 50181
+latitude: 51.006252
+longitude: 6.5521254
+postcode: "50181"
 city: Bedburg
 street: "St.-Rochus-Straße"
 housenumber: 14
-phone: ""
-opening_hours: ""
+phone: "+49 02272 83112"
+opening_hours: "Mo-Th 08:30-12:30,14:30-18:30; Fr 08:00-18:30; Sa 08:00-13:00; PH off"
 website: ""

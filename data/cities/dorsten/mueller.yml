@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.663267100000006
 longitude: 6.9634647
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Westwall"
 housenumber: 61

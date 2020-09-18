@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1386752
 longitude: 6.8074275
-postcode: 41541
+postcode: "41541"
 city: Dormagen
 street: "Sachtlebenstraße"
 housenumber: 6

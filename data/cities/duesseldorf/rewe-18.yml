@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2618141
 longitude: 6.777362800000001
-postcode: 40468
+postcode: "40468"
 city: Düsseldorf
 street: "Ulmenstraße"
 housenumber: 299

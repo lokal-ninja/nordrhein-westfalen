@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1942833
 longitude: 8.5338198
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hauptstraße"
 housenumber: 1

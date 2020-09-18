@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 51.4462333
 longitude: 7.0786337
-postcode: 45276
+postcode: "45276"
 city: Essen
 street: "Bochumer Straße"
 housenumber: 35

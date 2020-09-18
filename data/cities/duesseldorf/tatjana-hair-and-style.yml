@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.243228
 longitude: 6.8014527000000005
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Grunerstraße"
 housenumber: 43

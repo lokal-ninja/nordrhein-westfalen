@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.2509522
 longitude: 6.9777196
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Markt"
 housenumber: 8

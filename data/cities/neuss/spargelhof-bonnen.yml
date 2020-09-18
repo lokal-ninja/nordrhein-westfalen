@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.227093700000005
 longitude: 6.648844400000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Kaarster Straße"
 housenumber: 165

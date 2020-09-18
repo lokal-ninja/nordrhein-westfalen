@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.47039770000001
 longitude: 7.316872600000001
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 67
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Aug 01-Sep 14 off wegen Umbaus geschlossen"
 website: "https://www.netto-online.de"

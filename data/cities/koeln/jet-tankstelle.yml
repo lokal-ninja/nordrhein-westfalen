@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.945061100000004
 longitude: 6.907463900000001
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Oskar-Jäger-Straße"
 housenumber: 52

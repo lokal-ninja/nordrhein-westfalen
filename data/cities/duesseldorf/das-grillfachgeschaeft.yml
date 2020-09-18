@@ -3,7 +3,7 @@ type: node
 shop: Grillen
 latitude: 51.227386800000005
 longitude: 6.708124300000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Wiesenstraße"
 housenumber: 51

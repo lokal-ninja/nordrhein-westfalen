@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3139594
 longitude: 7.3415112
-postcode: 58285
+postcode: "58285"
 city: Gevelsberg
 street: "Kölner Straße"
 housenumber: 81

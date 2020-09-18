@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.922333
 longitude: 6.3575577
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Düsseldorfer Straße"
 housenumber: 3

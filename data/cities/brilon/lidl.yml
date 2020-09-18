@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4038253
 longitude: 8.5710992
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Möhnestraße"
 housenumber: 22

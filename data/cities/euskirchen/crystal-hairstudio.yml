@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6608783
 longitude: 6.7868009
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Vuvenstraße"
 housenumber: 8

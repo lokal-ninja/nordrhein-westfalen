@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.66649150000001
 longitude: 6.8028228
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Thermenallee"
 housenumber: 1

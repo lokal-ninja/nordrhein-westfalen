@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.168700300000005
 longitude: 6.9341659
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Mittelstraße"
 housenumber: 69

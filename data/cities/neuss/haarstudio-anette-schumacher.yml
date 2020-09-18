@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.152020500000006
 longitude: 6.7351691
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Lessingplatz"
 housenumber: 5

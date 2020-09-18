@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.6871561
 longitude: 7.1522312
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Bonner Straße"
 housenumber: 29 - 31

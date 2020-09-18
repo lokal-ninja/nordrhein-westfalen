@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.458472900000004
 longitude: 7.3910157000000005
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Brauckstraße"
 housenumber: 40

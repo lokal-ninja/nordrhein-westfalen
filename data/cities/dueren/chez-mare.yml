@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8028976
 longitude: 6.4871846
-postcode: 52351
+postcode: "52351"
 city: Düren
 street: "Hohenzollernstraße"
 housenumber: 66

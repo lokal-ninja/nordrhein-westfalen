@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.041642700000004
 longitude: 6.823607300000001
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Süringstraße"
 housenumber: 38

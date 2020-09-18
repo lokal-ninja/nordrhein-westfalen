@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.6753165
 longitude: 6.1551068
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Frauenstraße"
 housenumber: 14

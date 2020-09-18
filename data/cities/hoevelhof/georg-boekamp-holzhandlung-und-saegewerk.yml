@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 51.8696702
 longitude: 8.6343833
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Eisenweg"
 housenumber: 3

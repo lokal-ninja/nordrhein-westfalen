@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7222103
 longitude: 7.019769800000001
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Brunnenstraße"
 housenumber: 44

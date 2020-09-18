@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9127279
 longitude: 6.3563875
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Heckfeldstraße"
 housenumber: 46

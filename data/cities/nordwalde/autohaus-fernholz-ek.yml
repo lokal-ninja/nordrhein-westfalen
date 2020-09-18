@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.0769346
 longitude: 7.4575861
-postcode: 48356
+postcode: "48356"
 city: Nordwalde
 street: "Westring"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.297271200000004
 longitude: 7.6734466
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Lennestraße"
 housenumber: 80

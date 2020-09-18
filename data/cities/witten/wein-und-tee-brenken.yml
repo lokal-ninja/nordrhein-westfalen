@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.438296400000006
 longitude: 7.3364177
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Heilenstraße"
 housenumber: 7

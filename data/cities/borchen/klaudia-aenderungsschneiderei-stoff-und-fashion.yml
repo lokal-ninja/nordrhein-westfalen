@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.659123400000006
 longitude: 8.727953900000001
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Hauptstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2239416
 longitude: 7.058435200000001
-postcode: 42329
+postcode: "42329"
 city: Wuppertal
 street: "Haaner Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.314804800000005
 longitude: 7.8745951000000005
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Neuenrader Straße"
 housenumber: 2

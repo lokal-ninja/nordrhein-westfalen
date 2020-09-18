@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.4350299
 longitude: 6.7589595000000005
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Münzstraße"
 housenumber: 52

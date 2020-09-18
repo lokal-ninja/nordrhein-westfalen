@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9141898
 longitude: 8.3712772
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Brockhäger Straße"
 housenumber: 5

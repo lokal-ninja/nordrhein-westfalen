@@ -1,12 +1,12 @@
 id: 5510593753
 type: node
 shop: Reisebüro
-latitude: 51.022660300000005
-longitude: 7.7778309000000005
-postcode: 57489
+latitude: 51.022719800000004
+longitude: 7.7777846
+postcode: "57489"
 city: Drolshagen
 street: "Hagener Straße"
 housenumber: 13b
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30 & 14:30-18:00, Sa 09:30-12:30"
+opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00, Sa 09:30-12:30"
 website: ""

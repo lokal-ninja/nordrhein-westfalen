@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.9222394
 longitude: 6.3613857000000005
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kleine Kölnstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.3929716
 longitude: 6.672854
-postcode: 47229
+postcode: "47229"
 city: Duisburg
 street: "Rumelner Straße"
 housenumber: 101

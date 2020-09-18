@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.8244309
 longitude: 8.1437346
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Lange Straße"
 housenumber: 22

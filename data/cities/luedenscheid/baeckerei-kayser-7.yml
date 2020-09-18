@@ -1,12 +1,12 @@
 id: 2016906629
 type: node
 shop: Bäckerei
-latitude: 51.219983600000006
-longitude: 7.6173982
-postcode: 58509
+latitude: 51.2199576
+longitude: 7.6174096
+postcode: "58509"
 city: Lüdenscheid
 street: "Parkstraße"
 housenumber: 27
 phone: "+49 2351 24452"
-opening_hours: ""
-website: "http://www.baeckereikayser.de"
+opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-12:30; Su 08:00-11:00"
+website: "https://baeckerei-kayser.de/filialen/luedenscheid-parkstrasse/"

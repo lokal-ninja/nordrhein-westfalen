@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8812207
 longitude: 7.0759464
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Kaiserstraße"
 housenumber: 78

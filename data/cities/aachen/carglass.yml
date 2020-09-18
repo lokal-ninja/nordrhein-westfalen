@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7968636
 longitude: 6.1020107
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Krefelder Straße"
 housenumber: 215

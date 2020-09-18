@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.777141400000005
 longitude: 6.0863725
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Großkölnstraße"
 housenumber: 56

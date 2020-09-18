@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6053428
 longitude: 6.6813544
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Rönskenstraße"
 housenumber: 130

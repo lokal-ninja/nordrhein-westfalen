@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.893168200000005
 longitude: 6.994367400000001
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Maternusstraße"
 housenumber: 2

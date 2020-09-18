@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1913174
 longitude: 6.5126999
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "An der Alten Post"
 housenumber: 7

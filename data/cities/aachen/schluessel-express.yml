@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.7770206
 longitude: 6.0910266
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Peterstraße"
 housenumber: 56

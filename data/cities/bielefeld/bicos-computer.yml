@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.9898827
 longitude: 8.622826100000001
-postcode: 33699
+postcode: "33699"
 city: Bielefeld
 street: "Gustav-Winkler-Straße"
 housenumber: 22

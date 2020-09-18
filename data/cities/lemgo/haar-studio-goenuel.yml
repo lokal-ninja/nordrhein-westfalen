@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.036127
 longitude: 8.8899843
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Dewitzstraße"
 housenumber: 15a

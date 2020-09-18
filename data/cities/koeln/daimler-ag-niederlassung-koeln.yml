@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.953775300000004
 longitude: 6.9370878000000005
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Am Gleisdreieck"
 housenumber: 2

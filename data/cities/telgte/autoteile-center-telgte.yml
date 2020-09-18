@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 51.979100700000004
 longitude: 7.7766165
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Von-Siemens-Straße"
 housenumber: 27
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 2504 4037"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
+website: "https://www.autoteile-center-telgte.de/"

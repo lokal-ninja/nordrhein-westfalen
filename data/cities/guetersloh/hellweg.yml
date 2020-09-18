@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.901005000000005
 longitude: 8.4040665
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Am Anger"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.776386300000006
 longitude: 6.1484316
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 62

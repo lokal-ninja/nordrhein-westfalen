@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7018142
 longitude: 7.800627700000001
-postcode: 59073
+postcode: "59073"
 city: Hamm
 street: "Münsterstraße"
 housenumber: 183

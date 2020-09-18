@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7556189
 longitude: 7.4301655
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Olfener Straße"
 housenumber: 115

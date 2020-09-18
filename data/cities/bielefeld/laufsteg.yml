@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0222428
 longitude: 8.529756500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Notpfortenstraße"
 housenumber: 6

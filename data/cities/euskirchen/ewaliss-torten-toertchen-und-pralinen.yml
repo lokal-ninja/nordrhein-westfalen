@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.6591333
 longitude: 6.7898053
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 23

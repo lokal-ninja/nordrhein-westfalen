@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.200451900000004
 longitude: 8.5308838
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Am Hagenblech"
 housenumber: 38

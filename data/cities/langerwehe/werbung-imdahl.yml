@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 50.798310900000004
 longitude: 6.395005200000001
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Weberstraße"
 housenumber: 18

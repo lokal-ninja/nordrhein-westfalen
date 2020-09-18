@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.7346062
 longitude: 7.1037448
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Stockenstraße"
 housenumber: 15

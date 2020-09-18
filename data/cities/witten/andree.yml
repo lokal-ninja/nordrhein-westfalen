@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.453323000000005
 longitude: 7.3580905
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Mewer Ring"
 housenumber: 6a

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.6815585
 longitude: 6.8267343
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Amundsenstraße"
 housenumber: 11

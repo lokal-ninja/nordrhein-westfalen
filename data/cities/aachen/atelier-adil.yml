@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.772164100000005
 longitude: 6.077084
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 87

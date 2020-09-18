@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.551349800000004
 longitude: 6.7470783
-postcode: 46535
+postcode: "46535"
 city: Dinslaken
 street: "Buchenstraße"
 housenumber: 97

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7964124
 longitude: 7.204340500000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Ringstraße"
 housenumber: 1

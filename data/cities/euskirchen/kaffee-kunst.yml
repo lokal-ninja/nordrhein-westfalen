@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.6482195
 longitude: 6.83356
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Münsterstraße"
 housenumber: 12

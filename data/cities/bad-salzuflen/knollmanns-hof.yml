@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.064723
 longitude: 8.724886
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Fritz-Niewald-Weg"
 housenumber: 1a

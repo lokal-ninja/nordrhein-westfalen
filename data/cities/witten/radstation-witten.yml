@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.435397800000004
 longitude: 7.3300951
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Bergerstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.6616337
 longitude: 6.7893615
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9227907
 longitude: 6.362730200000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 44

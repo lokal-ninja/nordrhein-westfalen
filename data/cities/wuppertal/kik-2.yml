@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.246903100000004
 longitude: 7.143514400000001
-postcode: 42119
+postcode: "42119"
 city: Wuppertal
 street: "Steinbeck"
 housenumber: 67

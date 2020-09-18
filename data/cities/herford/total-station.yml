@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.102487800000006
 longitude: 8.6823747
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Ahmser Straße"
 housenumber: 95

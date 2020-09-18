@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.8601122
 longitude: 6.493000400000001
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Hellweg"
 housenumber: 46

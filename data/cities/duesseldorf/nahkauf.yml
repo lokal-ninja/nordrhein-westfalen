@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3229721
 longitude: 6.741148600000001
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Kalkstraße"
 housenumber: 26b

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.549834600000004
 longitude: 7.309050500000001
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Münsterplatz"
 housenumber: 

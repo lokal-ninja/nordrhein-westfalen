@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.83836470000001
 longitude: 6.6241469
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Münsterstraße"
 housenumber: 22

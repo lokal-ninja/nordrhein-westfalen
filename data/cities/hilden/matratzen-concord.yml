@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.1632924
 longitude: 6.911389300000001
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Düsseldorfer Straße"
 housenumber: 118

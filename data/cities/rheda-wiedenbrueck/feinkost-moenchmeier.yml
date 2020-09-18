@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.833725
 longitude: 8.309165700000001
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Lange Straße"
 housenumber: 22

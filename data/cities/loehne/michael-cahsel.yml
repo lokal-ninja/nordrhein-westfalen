@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2122541
 longitude: 8.7268627
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Benzweg"
 housenumber: 7

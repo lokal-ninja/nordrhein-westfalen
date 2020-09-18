@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7104428
 longitude: 8.7604702
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Husener Straße"
 housenumber: 48

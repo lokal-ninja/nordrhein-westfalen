@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.452765500000005
 longitude: 8.3373933
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Haspeler Ring"
 housenumber: 85

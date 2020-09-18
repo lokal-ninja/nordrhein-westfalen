@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1021695
 longitude: 8.3014787
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Freistraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3891512
 longitude: 6.243437500000001
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Niederdorfer Straße"
 housenumber: 40

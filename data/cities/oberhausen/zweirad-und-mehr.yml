@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5248457
 longitude: 6.7886069
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Bahnstraße"
 housenumber: 244

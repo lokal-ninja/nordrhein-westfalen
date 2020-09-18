@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.296509300000004
 longitude: 6.8501270000000005
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Bechemer Straße"
 housenumber: 18

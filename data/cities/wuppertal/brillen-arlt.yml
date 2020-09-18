@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2570246
 longitude: 7.146757600000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Turmhof"
 housenumber: 15

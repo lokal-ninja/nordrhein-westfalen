@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.645230000000005
 longitude: 7.1893997
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Kühlstraße"
 housenumber: 3

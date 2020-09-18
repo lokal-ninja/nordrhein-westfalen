@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.488646300000006
 longitude: 7.1919789000000005
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Porschestraße"
 housenumber: 8

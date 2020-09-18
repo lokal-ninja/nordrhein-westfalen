@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1941574
 longitude: 8.536424700000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hauptstraße"
 housenumber: 21

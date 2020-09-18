@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.229177
 longitude: 8.9009947
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Vlothoer Straße"
 housenumber: 100

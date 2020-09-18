@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4259527
 longitude: 6.6481919000000005
-postcode: 47447
+postcode: "47447"
 city: Moers
 street: "Heideweg"
 housenumber: 81

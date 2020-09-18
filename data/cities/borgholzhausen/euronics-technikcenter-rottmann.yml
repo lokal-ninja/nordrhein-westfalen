@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1029245
 longitude: 8.3017123
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Kaiserstraße"
 housenumber: 2

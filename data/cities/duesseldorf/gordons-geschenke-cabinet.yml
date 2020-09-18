@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.2380976
 longitude: 6.7992366
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 136

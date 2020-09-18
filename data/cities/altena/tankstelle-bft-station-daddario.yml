@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2705831
 longitude: 7.673148200000001
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Rahmedestraße"
 housenumber: 189

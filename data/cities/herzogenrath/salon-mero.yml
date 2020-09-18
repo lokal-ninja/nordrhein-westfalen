@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8854435
 longitude: 6.1186736
-postcode: 
+postcode: ""
 city: Herzogenrath
 street: "Geilenkirchener Straße"
 housenumber: 389

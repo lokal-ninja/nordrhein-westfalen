@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4373104
 longitude: 6.777446800000001
-postcode: 47058
+postcode: "47058"
 city: Duisburg
 street: "Falkstraße"
 housenumber: 59

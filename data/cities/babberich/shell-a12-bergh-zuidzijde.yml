@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.905977
 longitude: 6.1563698
-postcode: 6909DR
+postcode: "6909DR"
 city: Babberich
 street: "Rijksweg A12"
 housenumber: 5

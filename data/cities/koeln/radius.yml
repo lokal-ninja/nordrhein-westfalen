@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.960429500000004
 longitude: 6.9546688
-postcode: 50733
+postcode: "50733"
 city: Köln
 street: "Neusser Straße"
 housenumber: 188

@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 50.7141
 longitude: 7.1054734
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Bonner Talweg"
 housenumber: 335

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4823432
 longitude: 7.2174912
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 100

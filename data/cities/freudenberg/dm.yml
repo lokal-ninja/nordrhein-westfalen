@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.894783100000005
 longitude: 7.8747226
-postcode: 57258
+postcode: "57258"
 city: Freudenberg
 street: "Am Silberstern"
 housenumber: 16

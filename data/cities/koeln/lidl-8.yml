@@ -1,12 +1,12 @@
-id: 28946921
+id: 29435747
 type: way
 shop: Supermarkt
-latitude: 50.989916400000006
-longitude: 6.945149000000001
-postcode: 50737
+latitude: 51.0000075
+longitude: 7.0366439000000005
+postcode: "51069"
 city: Köln
-street: "Neusser Straße"
-housenumber: 774
+street: "Marienheider Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.214977600000005
 longitude: 6.7860686
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Hüttenstraße"
 housenumber: 57

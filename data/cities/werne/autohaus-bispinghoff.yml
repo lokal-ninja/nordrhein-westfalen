@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.66502740000001
 longitude: 7.611814900000001
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Baaken"
 housenumber: 46

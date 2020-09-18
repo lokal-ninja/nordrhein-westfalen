@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.0676587
 longitude: 6.1094505
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Humboldtstraße"
 housenumber: 20

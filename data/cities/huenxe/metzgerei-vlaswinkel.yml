@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.643832
 longitude: 6.7720478
-postcode: 46569
+postcode: "46569"
 city: Hünxe
 street: "Dorstener Straße"
 housenumber: 41

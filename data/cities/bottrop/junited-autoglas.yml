@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5271206
 longitude: 6.9276128
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Lützowstraße"
 housenumber: 6

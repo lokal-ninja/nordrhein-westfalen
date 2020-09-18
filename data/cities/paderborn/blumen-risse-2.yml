@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.7157484
 longitude: 8.7473142
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Westernstraße"
 housenumber: 43

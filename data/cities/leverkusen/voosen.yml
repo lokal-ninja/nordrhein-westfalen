@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0508602
 longitude: 6.9491348
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Pützdelle"
 housenumber: 1 A

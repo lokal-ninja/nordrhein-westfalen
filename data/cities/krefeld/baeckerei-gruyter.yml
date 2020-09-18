@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.339354
 longitude: 6.5748388
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Bismarckplatz"
-housenumber: 
+housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-13:00"
 website: ""

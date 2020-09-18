@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.958145200000004
 longitude: 7.5695752
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Gartenbreie"
 housenumber: 3

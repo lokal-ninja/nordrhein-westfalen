@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5675174
 longitude: 8.129615900000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Riga-Ring"
 housenumber: 15

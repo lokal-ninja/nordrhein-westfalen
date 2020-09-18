@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.0906959
 longitude: 6.8106515000000005
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Hamburger Straße"
 housenumber: 1

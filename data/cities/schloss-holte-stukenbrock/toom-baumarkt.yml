@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.903449300000005
 longitude: 8.6394377
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Holter Straße"
 housenumber: 125

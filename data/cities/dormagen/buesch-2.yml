@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.112985800000004
 longitude: 6.759407800000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Heerstraße"
 housenumber: 9;11

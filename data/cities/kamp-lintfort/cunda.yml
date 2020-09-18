@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.502371000000004
 longitude: 6.5473394
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Moerser Straße"
 housenumber: 240

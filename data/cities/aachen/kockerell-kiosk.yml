@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.776458500000004
 longitude: 6.0810249
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kockerellstraße"
 housenumber: 21

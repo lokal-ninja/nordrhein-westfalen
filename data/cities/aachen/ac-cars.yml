@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.799335400000004
 longitude: 6.1191811000000005
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Jean-Bremen-Straße"
 housenumber: 2

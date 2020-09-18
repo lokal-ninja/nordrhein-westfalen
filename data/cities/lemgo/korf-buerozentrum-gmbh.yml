@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.0261173
 longitude: 8.8720853
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Liemer Weg"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1705885
 longitude: 8.5875055
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Minden-Weseler Weg"
 housenumber: 254

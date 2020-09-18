@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.025701100000006
 longitude: 9.058684600000001
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Bundesstraße"
 housenumber: 39

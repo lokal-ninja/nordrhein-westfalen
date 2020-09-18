@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0345153
 longitude: 8.556294900000001
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Am Stadtholz"
 housenumber: 54

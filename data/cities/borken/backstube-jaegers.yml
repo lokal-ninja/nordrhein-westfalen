@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8503577
 longitude: 6.8904994
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Landwehr"
 housenumber: 83

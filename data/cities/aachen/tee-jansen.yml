@@ -3,7 +3,7 @@ type: way
 shop: Tee
 latitude: 50.778284600000006
 longitude: 6.0823783
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Pontstraße"
 housenumber: 64

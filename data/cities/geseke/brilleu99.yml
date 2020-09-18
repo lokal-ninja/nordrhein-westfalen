@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.6399211
 longitude: 8.508987600000001
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Lüdische Straße"
 housenumber: 4

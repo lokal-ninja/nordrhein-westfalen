@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.655128000000005
 longitude: 6.787852600000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Münstereifeler Straße"
 housenumber: 33

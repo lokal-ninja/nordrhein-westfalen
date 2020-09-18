@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.212527200000004
 longitude: 7.646636900000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Bräuckenstraße"
 housenumber: 4-6

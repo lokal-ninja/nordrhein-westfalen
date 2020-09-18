@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.024961000000005
 longitude: 8.529331800000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Mercatorstraße"
 housenumber: 13-15

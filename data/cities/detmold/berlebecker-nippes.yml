@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8933752
 longitude: 8.8771049
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Paderborner Straße"
 housenumber: 138a

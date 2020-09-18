@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.7737137
 longitude: 6.0836877000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Jesuitenstraße"
 housenumber: 2

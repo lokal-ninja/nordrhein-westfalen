@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.19315
 longitude: 8.534129400000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Poststraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.01249850000001
 longitude: 8.562130400000001
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 84a

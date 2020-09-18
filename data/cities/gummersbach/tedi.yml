@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.024706900000005
 longitude: 7.5672898
-postcode: 51643
+postcode: "51643"
 city: Gummersbach
 street: "Hindenburgstraße"
 housenumber: 26

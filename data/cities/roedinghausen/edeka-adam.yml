@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.24519900000001
 longitude: 8.5008295
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: ""
 housenumber: 

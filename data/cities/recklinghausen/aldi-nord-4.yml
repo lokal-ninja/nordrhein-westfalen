@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.583066800000005
 longitude: 7.2326345000000005
-postcode: 45663
+postcode: "45663"
 city: Recklinghausen
 street: "Am Waldschlösschen"
 housenumber: 30

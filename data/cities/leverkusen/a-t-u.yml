@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0477573
 longitude: 7.003319200000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Robert-Blum-Straße"
 housenumber: 17

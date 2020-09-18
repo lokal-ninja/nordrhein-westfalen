@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.946254200000006
 longitude: 8.6512437
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Robert-Hanning-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.465798500000005
 longitude: 6.9690357
-postcode: 45143
+postcode: "45143"
 city: Essen
 street: "Eppinghofer Straße"
 housenumber: 1

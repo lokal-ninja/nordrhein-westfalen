@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.678154500000005
 longitude: 6.6263339000000006
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Konrad-Duden-Straße"
 housenumber: 51

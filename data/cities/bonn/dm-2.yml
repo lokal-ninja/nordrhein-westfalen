@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7504186
 longitude: 7.1305173
-postcode: 53225
+postcode: "53225"
 city: Bonn
 street: "Gartenstraße"
 housenumber: 102

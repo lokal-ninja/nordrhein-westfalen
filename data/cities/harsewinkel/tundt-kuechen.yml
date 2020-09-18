@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.9538403
 longitude: 8.2465509
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Franz-Claas-Straße"
 housenumber: 1

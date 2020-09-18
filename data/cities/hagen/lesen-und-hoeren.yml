@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3569815
 longitude: 7.4760287000000005
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Dahlenkampstraße"
 housenumber: 4

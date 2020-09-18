@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.740624700000005
 longitude: 8.8283061
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Eggestraße"
 housenumber: 94

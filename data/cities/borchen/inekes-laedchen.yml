@@ -3,7 +3,7 @@ type: node
 shop: Esoterik
 latitude: 51.6637223
 longitude: 8.7694955
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Schloß Hamborn"
 housenumber: 

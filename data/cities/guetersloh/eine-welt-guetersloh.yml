@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.906757400000004
 longitude: 8.3766888
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Spiekergasse"
 housenumber: 3

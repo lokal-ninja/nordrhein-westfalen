@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9138358
 longitude: 8.4568484
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Sürenheider Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.624550600000006
 longitude: 7.3939323
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Hochstraße"
 housenumber: 83

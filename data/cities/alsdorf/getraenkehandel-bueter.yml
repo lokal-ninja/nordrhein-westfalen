@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8587713
 longitude: 6.183688200000001
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Blumenrather Straße"
 housenumber: 140

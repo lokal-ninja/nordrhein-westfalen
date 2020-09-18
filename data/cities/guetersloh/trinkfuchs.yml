@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.9120696
 longitude: 8.426393000000001
-postcode: 33335
+postcode: "33335"
 city: Gütersloh
 street: "Osnabrücker Landstraße"
 housenumber: 2-8

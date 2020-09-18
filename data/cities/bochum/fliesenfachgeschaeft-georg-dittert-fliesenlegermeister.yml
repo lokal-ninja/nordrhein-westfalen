@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 51.446513
 longitude: 7.143387100000001
-postcode: 44869
+postcode: "44869"
 city: Bochum
 street: "Rembrandtweg"
 housenumber: 37

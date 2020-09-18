@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.088026400000004
 longitude: 6.591923
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 35

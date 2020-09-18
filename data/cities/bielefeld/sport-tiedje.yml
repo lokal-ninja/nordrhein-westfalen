@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.027534700000004
 longitude: 8.5328397
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Feilenstraße"
 housenumber: 10-12

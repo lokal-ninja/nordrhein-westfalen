@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.840426
 longitude: 6.834601800000001
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Bocholter Straße"
 housenumber: 170

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.767911100000006
 longitude: 8.717007
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bielefelder Straße"
 housenumber: 95

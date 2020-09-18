@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2072324
 longitude: 8.6527487
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "In der Mark"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.6603104
 longitude: 6.954089000000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Georgplatz"
 housenumber: 5

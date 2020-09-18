@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 52.19681490000001
 longitude: 8.583254700000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Hangbaumstraße"
 housenumber: 4

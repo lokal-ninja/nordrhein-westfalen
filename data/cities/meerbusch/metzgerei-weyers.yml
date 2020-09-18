@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.3052907
 longitude: 6.672866300000001
-postcode: 40668
+postcode: "40668"
 city: Meerbusch
 street: "Uerdinger Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.874596100000005
 longitude: 6.4730451
-postcode: 52382
+postcode: "52382"
 city: Niederzier
 street: "Niederzierer Straße"
 housenumber: 86

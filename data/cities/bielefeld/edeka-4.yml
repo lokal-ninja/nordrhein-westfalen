@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.045292
 longitude: 8.5233145
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Lange Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.968386200000005
 longitude: 6.9388448
-postcode: 50739
+postcode: "50739"
 city: Köln
 street: "Ravensburger Straße"
 housenumber: 110

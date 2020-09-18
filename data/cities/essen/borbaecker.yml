@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.446697
 longitude: 6.976765500000001
-postcode: 45145
+postcode: "45145"
 city: Essen
 street: "Mülheimer Straße"
 housenumber: 48
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-15:00; Sa 06:30-13:00; Su 07:30-17:00"
 website: ""

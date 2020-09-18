@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.539090400000006
 longitude: 7.222622
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Behrensstraße"
 housenumber: 8

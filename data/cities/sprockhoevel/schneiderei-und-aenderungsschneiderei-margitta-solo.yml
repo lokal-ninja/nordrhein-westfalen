@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.367938200000005
 longitude: 7.2485473
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Hauptstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.161185200000006
 longitude: 6.6686158
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Martinstraße"
 housenumber: 7

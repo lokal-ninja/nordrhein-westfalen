@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.030972600000005
 longitude: 6.696757900000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 4

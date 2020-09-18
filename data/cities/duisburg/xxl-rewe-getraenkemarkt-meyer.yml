@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4665535
 longitude: 6.768309400000001
-postcode: 47137
+postcode: "47137"
 city: Duisburg
 street: "Heisingstraße"
 housenumber: 12

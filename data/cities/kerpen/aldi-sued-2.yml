@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.894908900000004
 longitude: 6.6774106
-postcode: 50170
+postcode: "50170"
 city: Kerpen
 street: "Visteonstraße"
 housenumber: 3

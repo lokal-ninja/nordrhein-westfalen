@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.6086223
 longitude: 6.8377679
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Talsperrenstraße"
 housenumber: 39

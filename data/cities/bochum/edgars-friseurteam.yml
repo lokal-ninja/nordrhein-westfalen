@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.452615900000005
 longitude: 7.231803200000001
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 52

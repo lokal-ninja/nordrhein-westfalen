@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3441811
 longitude: 6.549761
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Hülser Straße"
 housenumber: 166

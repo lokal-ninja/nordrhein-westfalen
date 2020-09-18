@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.4625592
 longitude: 6.5792069
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Weserstraße"
 housenumber: 1a

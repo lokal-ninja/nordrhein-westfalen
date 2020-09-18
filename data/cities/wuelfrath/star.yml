@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.279310100000004
 longitude: 7.073440000000001
-postcode: 42489
+postcode: "42489"
 city: Wülfrath
 street: "Koxhof"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.742131
 longitude: 7.080174400000001
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Vorgebirgsstraße"
 housenumber: 100

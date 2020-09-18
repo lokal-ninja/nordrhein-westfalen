@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 51.2594957
 longitude: 7.146674000000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Friedrichstraße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.0702305
 longitude: 8.5804801
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Fehmarnstraße"
 housenumber: 26

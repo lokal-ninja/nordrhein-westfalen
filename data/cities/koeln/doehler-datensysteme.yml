@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.928059100000006
 longitude: 6.912576700000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Wittgensteinstraße"
 housenumber: 23

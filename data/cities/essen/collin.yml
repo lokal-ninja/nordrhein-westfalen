@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 51.456940100000004
 longitude: 6.9981121
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Helmut-Käutner-Straße"
 housenumber: 1

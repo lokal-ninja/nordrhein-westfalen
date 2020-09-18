@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.449828800000006
 longitude: 7.263782000000001
-postcode: 44801
+postcode: "44801"
 city: Bochum
 street: "Overbergstraße"
 housenumber: 4

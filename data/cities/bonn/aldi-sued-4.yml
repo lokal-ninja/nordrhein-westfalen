@@ -1,12 +1,12 @@
-id: 3467265629
+id: 3356495516
 type: node
 shop: Supermarkt
-latitude: 50.742319900000005
-longitude: 7.095148200000001
-postcode: 53111
+latitude: 50.702843800000004
+longitude: 7.1556258
+postcode: "53175"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 102
+street: "Kennedyallee"
+housenumber: 106
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-sued.de"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.aldi-sued.de/"

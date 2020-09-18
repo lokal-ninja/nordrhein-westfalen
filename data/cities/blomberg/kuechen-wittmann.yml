@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.9314891
 longitude: 9.100388800000001
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Nederlandstraße"
 housenumber: 1A

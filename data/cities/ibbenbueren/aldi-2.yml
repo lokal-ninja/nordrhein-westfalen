@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2947064
 longitude: 7.6589071
-postcode: 49479
+postcode: "49479"
 city: Ibbenbüren
 street: "Roßlauer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1718677
 longitude: 6.703935100000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Nixhütter Weg"
 housenumber: 112

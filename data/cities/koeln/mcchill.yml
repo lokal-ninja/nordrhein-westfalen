@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.9160607
 longitude: 6.9275111
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Luxemburger Straße"
 housenumber: 248

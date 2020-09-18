@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2122649
 longitude: 6.7850329
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Kirchfeldstraße"
 housenumber: 141

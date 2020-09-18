@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1711462
 longitude: 6.634355800000001
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Trockenpützstraße"
 housenumber: 2

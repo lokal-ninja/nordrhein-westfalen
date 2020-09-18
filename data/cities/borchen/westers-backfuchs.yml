@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.671812100000004
 longitude: 8.7245003
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Paderborner Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.9321938
 longitude: 6.8534695
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Langgasse"
 housenumber: 23

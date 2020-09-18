@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.8289829
 longitude: 6.9056525
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Bahnhofstraße"
 housenumber: 9

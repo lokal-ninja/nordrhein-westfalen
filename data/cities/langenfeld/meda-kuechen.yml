@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.1221219
 longitude: 6.9234843
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Raiffeisenstraße"
 housenumber: 1

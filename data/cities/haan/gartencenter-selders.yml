@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.2131539
 longitude: 7.033848900000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Elberfelder Straße"
 housenumber: 217

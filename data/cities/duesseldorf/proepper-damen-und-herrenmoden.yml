@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1634052
 longitude: 6.875082600000001
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Friedhofstraße"
 housenumber: 13

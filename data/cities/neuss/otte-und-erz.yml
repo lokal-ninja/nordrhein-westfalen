@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2081067
 longitude: 6.6805745000000005
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Ripuarierstraße"
 housenumber: 2a

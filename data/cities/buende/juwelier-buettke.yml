@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 52.1968095
 longitude: 8.581151
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 7

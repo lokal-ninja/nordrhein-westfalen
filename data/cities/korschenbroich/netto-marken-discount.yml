@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1974044
 longitude: 6.5486507000000005
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Püllenweg"
 housenumber: 10

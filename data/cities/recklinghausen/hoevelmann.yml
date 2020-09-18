@@ -1,12 +1,12 @@
-id: 805654454
+id: 1695951922
 type: node
 shop: Bäckerei
-latitude: 51.6121228
-longitude: 7.197233000000001
-postcode: 45657
+latitude: 51.5827627
+longitude: 7.214168600000001
+postcode: "45663"
 city: Recklinghausen
-street: "Breite Straße"
-housenumber: 35a
+street: "Berghäuser Straße"
+housenumber: 1
 phone: ""
-opening_hours: ""
-website: "https://diebaeckerei.com/"
+opening_hours: "Mo-Sa 07:00-18:00"
+website: ""

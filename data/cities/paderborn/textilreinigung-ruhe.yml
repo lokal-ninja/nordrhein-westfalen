@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.7042061
 longitude: 8.770557100000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

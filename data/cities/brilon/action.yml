@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.394806100000004
 longitude: 8.5613778
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Altenbürener Straße"
 housenumber: 9-11

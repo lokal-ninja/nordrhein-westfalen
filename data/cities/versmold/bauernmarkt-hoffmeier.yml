@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.0331708
 longitude: 8.1982921
-postcode: 33775
+postcode: "33775"
 city: Versmold
 street: "Oesterweger Straße"
 housenumber: 26b

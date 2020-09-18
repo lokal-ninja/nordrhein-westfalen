@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.482795700000004
 longitude: 7.306668200000001
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Heinrich-Gustav-Straße"
 housenumber: 133

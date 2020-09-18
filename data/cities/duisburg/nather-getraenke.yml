@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.443409700000004
 longitude: 6.6772545
-postcode: 47198
+postcode: "47198"
 city: Duisburg
 street: "Asberger Straße"
 housenumber: 71a

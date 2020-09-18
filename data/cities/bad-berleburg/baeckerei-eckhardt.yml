@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.024034300000004
 longitude: 8.468828100000001
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Edertalstraße"
 housenumber: 4

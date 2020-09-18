@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.451935000000006
 longitude: 6.6326388000000005
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Landwehrstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7378238
 longitude: 7.116477700000001
-postcode: 53225
+postcode: "53225"
 city: Bonn
 street: "Hermannstraße"
 housenumber: 20

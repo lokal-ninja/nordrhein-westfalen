@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.812488
 longitude: 6.9689461
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Oberdorfstraße"
 housenumber: 1

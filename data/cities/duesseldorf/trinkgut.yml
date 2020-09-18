@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.210944000000005
 longitude: 6.811348400000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Im Liefeld"
 housenumber: 2

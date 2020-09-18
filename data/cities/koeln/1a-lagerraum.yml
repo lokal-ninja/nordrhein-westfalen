@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 50.948658200000004
 longitude: 6.847659
-postcode: 50859
+postcode: "50859"
 city: Köln
 street: "Zusestraße"
 housenumber: 2

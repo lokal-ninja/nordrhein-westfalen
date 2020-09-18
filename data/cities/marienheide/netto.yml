@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0798399
 longitude: 7.5358469
-postcode: 51709
+postcode: "51709"
 city: Marienheide
 street: "Hauptstraße"
 housenumber: 102

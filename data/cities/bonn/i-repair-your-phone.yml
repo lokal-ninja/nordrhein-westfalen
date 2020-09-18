@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.7431861
 longitude: 7.0899171
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Kaiser-Karl-Ring"
 housenumber: 31

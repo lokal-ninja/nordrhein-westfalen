@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0582982
 longitude: 8.5431351
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Westerfeldstraße"
 housenumber: 48a

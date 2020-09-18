@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 51.2365063
 longitude: 6.797926
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Humboldtstraße"
 housenumber: 109

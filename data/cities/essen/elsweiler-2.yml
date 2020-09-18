@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4374429
 longitude: 7.005264800000001
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 66

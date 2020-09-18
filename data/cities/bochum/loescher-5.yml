@@ -1,12 +1,12 @@
-id: 5036973891
+id: 1543187801
 type: node
 shop: Bäckerei
-latitude: 51.4524039
-longitude: 7.232169900000001
-postcode: 44799
+latitude: 51.490411900000005
+longitude: 7.207691400000001
+postcode: "44791"
 city: Bochum
-street: "Brenscheder Straße"
-housenumber: 45a
-phone: ""
-opening_hours: "Mo-Fr 6:00-18:00, Sa 6:00-16:00; Su 7:00-16:00"
+street: "Zechenstraße"
+housenumber: 8
+phone: "+49 234 9580816"
+opening_hours: ""
 website: ""

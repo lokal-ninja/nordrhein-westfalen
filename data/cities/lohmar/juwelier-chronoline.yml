@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.8400107
 longitude: 7.209221500000001
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Kirchstraße"
 housenumber: 2

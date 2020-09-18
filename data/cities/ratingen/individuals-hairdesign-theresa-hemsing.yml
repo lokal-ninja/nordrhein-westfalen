@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.293562300000005
 longitude: 6.927999000000001
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Steinhauser Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.683940400000004
 longitude: 7.1709909000000005
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Rheinstraße"
 housenumber: 21

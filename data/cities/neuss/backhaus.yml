@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.203533900000004
 longitude: 6.6853581
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Theodor-Heuss-Platz"
 housenumber: 9

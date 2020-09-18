@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2191746
 longitude: 8.8844946
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Hitzepohl-West"
 housenumber: 2

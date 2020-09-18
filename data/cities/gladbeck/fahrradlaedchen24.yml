@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.5734404
 longitude: 6.9673987
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Stollenstraße"
 housenumber: 13

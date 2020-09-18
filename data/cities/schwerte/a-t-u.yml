@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4521564
 longitude: 7.560703
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Hörder Straße"
 housenumber: 67

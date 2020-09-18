@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.9381871
 longitude: 6.9976438000000005
-postcode: 51103
+postcode: "51103"
 city: Köln
 street: "Kalker Hauptstraße"
 housenumber: 55

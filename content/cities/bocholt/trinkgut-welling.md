@@ -1,4 +1,4 @@
 ---
-title: "trinkgut Welling"
+title: "Trinkgut Welling"
 url: /bocholt/trinkgut-welling/
 ---

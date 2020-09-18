@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.573555600000006
 longitude: 6.989286600000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Willy-Brandt-Platz"
 housenumber: 9

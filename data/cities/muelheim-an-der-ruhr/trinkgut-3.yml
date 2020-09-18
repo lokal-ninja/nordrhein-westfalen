@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.45124070000001
 longitude: 6.8486297
-postcode: 45476
+postcode: "45476"
 city: Mülheim an der Ruhr
 street: "Heidestraße"
 housenumber: 15a

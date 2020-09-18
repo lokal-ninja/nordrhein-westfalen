@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5789113
 longitude: 7.225566400000001
-postcode: 45663
+postcode: "45663"
 city: Recklinghausen
 street: "König-Ludwig-Straße"
 housenumber: 92

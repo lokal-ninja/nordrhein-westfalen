@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.4742849
 longitude: 6.9941032000000005
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Berthold-Beitz-Boulevard"
 housenumber: 461

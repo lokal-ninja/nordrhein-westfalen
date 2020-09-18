@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.744657800000006
 longitude: 7.031081100000001
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Auf dem Polacker"
 housenumber: 11

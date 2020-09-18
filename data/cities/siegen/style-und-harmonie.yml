@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8763215
 longitude: 8.018918000000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hindenburgstraße"
 housenumber: 6

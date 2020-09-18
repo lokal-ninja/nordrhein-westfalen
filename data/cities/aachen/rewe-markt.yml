@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.771447800000004
 longitude: 6.0862819
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Alter Posthof"
 housenumber: 5

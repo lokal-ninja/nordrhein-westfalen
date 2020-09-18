@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0685738
 longitude: 6.303504200000001
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Gewerbestraße Süd"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.7878586
 longitude: 6.1390928
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Große Straße"
 housenumber: 43

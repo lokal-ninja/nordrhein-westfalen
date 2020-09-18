@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.918152400000004
 longitude: 6.9247924
-postcode: 50939
+postcode: "50939"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 

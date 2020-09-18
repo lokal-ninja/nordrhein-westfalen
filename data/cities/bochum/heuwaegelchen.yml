@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.4729717
 longitude: 7.3239976
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 2

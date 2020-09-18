@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.7824715
 longitude: 8.8205533
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Marktstraße"
 housenumber: 3

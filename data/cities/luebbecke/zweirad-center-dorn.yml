@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.3094431
 longitude: 8.651692500000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Schmiedestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3951361
 longitude: 8.557769500000001
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Mühlenweg"
 housenumber: 7

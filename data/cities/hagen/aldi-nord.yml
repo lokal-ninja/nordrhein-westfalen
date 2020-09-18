@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.34954930000001
 longitude: 7.5720776
-postcode: 58119
+postcode: "58119"
 city: Hagen
 street: "Bahnstraße"
 housenumber: 11

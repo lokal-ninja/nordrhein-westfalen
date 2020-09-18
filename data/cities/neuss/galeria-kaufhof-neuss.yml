@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.2002278
 longitude: 6.6889456
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Niederstraße"
 housenumber: 42

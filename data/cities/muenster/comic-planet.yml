@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.9575193
 longitude: 7.6376612
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Bremer Platz"
 housenumber: 44a

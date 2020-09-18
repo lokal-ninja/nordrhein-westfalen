@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 51.088430300000006
 longitude: 6.5889283
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Oelgasse"
 housenumber: 12a

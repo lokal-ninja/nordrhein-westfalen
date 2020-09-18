@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.7146424
 longitude: 7.0476897
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 226

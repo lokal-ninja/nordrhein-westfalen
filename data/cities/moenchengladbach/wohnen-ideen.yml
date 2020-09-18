@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.202696200000005
 longitude: 6.416445
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 157

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.9243825
 longitude: 6.9596742
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "An der Eiche"
 housenumber: 1

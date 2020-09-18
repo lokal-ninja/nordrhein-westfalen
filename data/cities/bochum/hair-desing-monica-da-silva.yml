@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.476989700000004
 longitude: 7.3014562000000005
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Ümminger Straße"
 housenumber: 7

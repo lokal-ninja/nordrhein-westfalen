@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6572881
 longitude: 6.6155448
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Viehtor"
 housenumber: 15

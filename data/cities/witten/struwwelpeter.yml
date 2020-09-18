@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4242738
 longitude: 7.337126700000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Bodenborn"
 housenumber: 20

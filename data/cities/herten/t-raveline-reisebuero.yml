@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.603406400000004
 longitude: 7.1602917
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Kaiserstr."
 housenumber: 251

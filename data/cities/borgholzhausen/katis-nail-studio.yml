@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.0867822
 longitude: 8.2698024
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Bahnhofstraße"
 housenumber: 94

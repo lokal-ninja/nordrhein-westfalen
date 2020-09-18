@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 51.4630663
 longitude: 6.8520297
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Lothringer Straße"
 housenumber: 131

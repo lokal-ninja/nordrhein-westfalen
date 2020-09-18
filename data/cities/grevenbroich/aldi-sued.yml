@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1064134
 longitude: 6.623148700000001
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Marktplatz"
 housenumber: 3;5

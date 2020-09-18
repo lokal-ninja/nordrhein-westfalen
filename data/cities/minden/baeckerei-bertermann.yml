@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.272462700000005
 longitude: 8.8731871
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Südring"
 housenumber: 13

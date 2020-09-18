@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5692007
 longitude: 8.130384600000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Warsteiner Weg"
 housenumber: 6

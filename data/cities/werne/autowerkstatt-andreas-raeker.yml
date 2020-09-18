@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.663697000000006
 longitude: 7.6410232
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Stockumer Straße"
 housenumber: 25

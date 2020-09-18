@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.773415500000006
 longitude: 6.1098756000000005
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Adalbertsteinweg"
 housenumber: 170

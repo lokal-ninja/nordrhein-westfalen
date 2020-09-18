@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9049783
 longitude: 8.4046565
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Carl-Bertelsmann-Straße"
 housenumber: 152

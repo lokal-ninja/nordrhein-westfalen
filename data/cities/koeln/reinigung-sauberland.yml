@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.9301891
 longitude: 6.9424920000000006
-postcode: 
+postcode: ""
 city: Köln
 street: "Weyerstraße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.041634900000005
 longitude: 6.583799000000001
-postcode: 41517
+postcode: "41517"
 city: Grevenbroich
 street: "Frankenstraße"
 housenumber: 156

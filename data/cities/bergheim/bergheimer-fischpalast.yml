@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.9516616
 longitude: 6.641086400000001
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Südweststraße"
 housenumber: 24

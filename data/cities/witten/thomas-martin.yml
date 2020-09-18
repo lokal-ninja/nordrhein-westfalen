@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.417229400000004
 longitude: 7.3381078
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Bodenborn"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.7211208
 longitude: 8.7487592
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Paderwall"
 housenumber: 1-5

@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 52.224119800000004
 longitude: 8.8053732
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Blumenstraße"
 housenumber: 14

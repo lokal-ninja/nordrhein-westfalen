@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1755793
 longitude: 6.834437
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Henkelstraße"
 housenumber: 5

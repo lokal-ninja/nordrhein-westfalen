@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.448806000000005
 longitude: 7.043545900000001
-postcode: 45138
+postcode: "45138"
 city: Essen
 street: "Knaudtstraße"
 housenumber: 17a

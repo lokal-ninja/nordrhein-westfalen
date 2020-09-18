@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.7407503
 longitude: 7.175069100000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Weseler Straße"
 housenumber: 72

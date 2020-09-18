@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.4229581
 longitude: 7.5283370000000005
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Reichshofstraße"
 housenumber: 75

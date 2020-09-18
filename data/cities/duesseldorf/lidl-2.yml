@@ -1,12 +1,12 @@
-id: 4796647728
+id: 4777508221
 type: node
 shop: Supermarkt
-latitude: 51.1985309
-longitude: 6.7716859000000005
-postcode: 40223
+latitude: 51.2182593
+longitude: 6.778720000000001
+postcode: "40215"
 city: Düsseldorf
-street: "Aachener Straße"
-housenumber: 152
+street: "Königsallee"
+housenumber: 63-65
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

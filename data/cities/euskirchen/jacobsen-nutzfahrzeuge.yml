@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.656647500000005
 longitude: 6.804862900000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Alfred-Nobel-Straße"
 housenumber: 52

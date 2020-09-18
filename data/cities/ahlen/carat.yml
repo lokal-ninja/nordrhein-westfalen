@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.763041
 longitude: 7.892696300000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Oststraße"
 housenumber: 37

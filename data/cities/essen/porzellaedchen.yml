@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.4418662
 longitude: 6.999424800000001
-postcode: 45128
+postcode: "45128"
 city: Essen
 street: "Kahrstraße"
 housenumber: 70

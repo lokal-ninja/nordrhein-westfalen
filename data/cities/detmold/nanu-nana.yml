@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.9355227
 longitude: 8.8801732
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Lange Straße"
 housenumber: 59

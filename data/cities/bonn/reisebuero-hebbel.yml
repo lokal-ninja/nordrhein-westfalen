@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7349156
 longitude: 7.099697600000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Münsterplatz"
 housenumber: 26

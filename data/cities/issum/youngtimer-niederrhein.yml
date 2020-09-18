@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5472909
 longitude: 6.4179371000000005
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Gewerbering"
 housenumber: 12

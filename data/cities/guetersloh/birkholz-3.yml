@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.883953600000005
 longitude: 8.4221863
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Am Ehrenmal"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4415178
 longitude: 6.9931565
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 76

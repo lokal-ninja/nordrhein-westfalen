@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.215298700000005
 longitude: 6.836943000000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Königsberger Straße"
 housenumber: 190-192

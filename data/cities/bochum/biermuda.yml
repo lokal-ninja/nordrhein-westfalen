@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.4781403
 longitude: 7.2198161
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Rechener Straße"
 housenumber: 3

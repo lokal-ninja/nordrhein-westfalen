@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.22522480000001
 longitude: 6.8091984000000005
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Albertstraße"
 housenumber: 113

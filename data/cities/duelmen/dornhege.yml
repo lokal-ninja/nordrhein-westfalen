@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.836512000000006
 longitude: 7.402536400000001
-postcode: 
+postcode: ""
 city: Dülmen
 street: "Daldruper Straße"
 housenumber: 2

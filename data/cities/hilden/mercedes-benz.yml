@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1716466
 longitude: 6.908910100000001
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Im Hülsenfeld"
 housenumber: 1

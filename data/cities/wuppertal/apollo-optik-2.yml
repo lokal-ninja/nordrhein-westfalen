@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2575705
 longitude: 7.147551900000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Poststraße"
 housenumber: 14

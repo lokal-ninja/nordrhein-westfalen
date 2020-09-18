@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.2076744
 longitude: 7.071219800000001
-postcode: 42653
+postcode: "42653"
 city: Solingen
 street: "In der Freiheit"
 housenumber: 28

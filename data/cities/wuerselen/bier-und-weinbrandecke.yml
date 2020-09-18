@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.8213098
 longitude: 6.133196600000001
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Bissener Straße"
 housenumber: 51

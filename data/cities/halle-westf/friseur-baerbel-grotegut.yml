@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.055897900000005
 longitude: 8.3660013
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Berliner Straße"
 housenumber: 21

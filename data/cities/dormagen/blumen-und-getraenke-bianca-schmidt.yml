@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.127435500000004
 longitude: 6.7867451
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Johannesstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.197645900000005
 longitude: 6.3685923
-postcode: 41169
+postcode: "41169"
 city: Mönchengladbach
 street: "Vorster Straße"
 housenumber: 73a

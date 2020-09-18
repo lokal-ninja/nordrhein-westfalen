@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.007606
 longitude: 8.411826000000001
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Mühlenstraße"
 housenumber: 2

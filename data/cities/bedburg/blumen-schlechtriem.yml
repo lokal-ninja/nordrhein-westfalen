@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0076442
 longitude: 6.5576822
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Albert-Schweitzer-Straße"
 housenumber: 14

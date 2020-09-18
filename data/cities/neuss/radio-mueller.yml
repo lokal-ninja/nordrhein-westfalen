@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.2047389
 longitude: 6.6807249
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Further Straße"
 housenumber: 25

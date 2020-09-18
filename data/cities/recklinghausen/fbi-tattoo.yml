@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.61589480000001
 longitude: 7.1967322000000005
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Wiethofstraße"
 housenumber: 3

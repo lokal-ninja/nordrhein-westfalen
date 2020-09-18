@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7663978
 longitude: 6.948660800000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Donnerbachweg"
 housenumber: 2

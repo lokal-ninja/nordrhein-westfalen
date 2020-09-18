@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.921919700000004
 longitude: 7.726842700000001
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Münsterstraße"
 housenumber: 71

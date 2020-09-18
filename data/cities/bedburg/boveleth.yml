@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.008334100000006
 longitude: 6.485018
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Gottesacker"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.205936300000005
 longitude: 6.7648918
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Fleher Straße"
 housenumber: 1

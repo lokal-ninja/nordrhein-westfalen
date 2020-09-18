@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 50.759447300000005
 longitude: 6.8418754
-postcode: 53919
+postcode: "53919"
 city: Weilerswist
 street: "Kölner Straße"
 housenumber: 176

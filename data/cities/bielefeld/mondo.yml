@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.0250287
 longitude: 8.5284616
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Elsa-Brändström-Straße"
 housenumber: 23

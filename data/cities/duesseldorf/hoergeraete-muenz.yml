@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.2368444
 longitude: 6.778898600000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 34

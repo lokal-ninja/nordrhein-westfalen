@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.7444544
 longitude: 7.1828279
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Muttergottesstiege"
 housenumber: 8

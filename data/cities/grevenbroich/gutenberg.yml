@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.0883267
 longitude: 6.593335400000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

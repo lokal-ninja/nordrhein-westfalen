@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4242056
 longitude: 6.8616564
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Prinzeß-Luise-Straße"
 housenumber: 42

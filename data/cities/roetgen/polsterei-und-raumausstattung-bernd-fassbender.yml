@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.6482863
 longitude: 6.1912183
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Rosentalstraße"
 housenumber: 34a

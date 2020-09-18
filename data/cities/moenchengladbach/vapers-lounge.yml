@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.167567500000004
 longitude: 6.442104400000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Hauptstraße"
 housenumber: 18

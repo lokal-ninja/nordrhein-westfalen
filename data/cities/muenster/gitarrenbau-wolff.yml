@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.925888500000006
 longitude: 7.6062498000000005
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Kegelskamp"
 housenumber: 12

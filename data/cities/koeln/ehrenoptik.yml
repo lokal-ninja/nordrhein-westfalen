@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9522677
 longitude: 6.9138090000000005
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Venloer Straße"
 housenumber: 386

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.660396000000006
 longitude: 6.789939100000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Neustraße"
 housenumber: 39

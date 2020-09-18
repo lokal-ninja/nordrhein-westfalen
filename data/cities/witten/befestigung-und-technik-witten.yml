@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.4464574
 longitude: 7.3342118
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Marienstraße"
 housenumber: 1

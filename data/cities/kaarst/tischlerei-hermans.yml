@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.2276553
 longitude: 6.6026651
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Steinweg"
 housenumber: 4

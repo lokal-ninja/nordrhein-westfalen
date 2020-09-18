@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.303588500000004
 longitude: 8.6197205
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Bäckerstraße"
 housenumber: 19

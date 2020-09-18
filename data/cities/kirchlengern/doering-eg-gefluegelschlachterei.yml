@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2399695
 longitude: 8.617958900000001
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Klosterheide"
 housenumber: 69

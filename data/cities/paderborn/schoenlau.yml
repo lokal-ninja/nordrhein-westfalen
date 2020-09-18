@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7113759
 longitude: 8.755421400000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Winfriedstraße"
 housenumber: 51

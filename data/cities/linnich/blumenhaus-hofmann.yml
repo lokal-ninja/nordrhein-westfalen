@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.977030400000004
 longitude: 6.268109600000001
-postcode: 52441
+postcode: "52441"
 city: Linnich
 street: "Rurdorfer Straße"
 housenumber: 50

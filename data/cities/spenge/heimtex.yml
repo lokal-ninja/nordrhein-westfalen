@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 52.1397807
 longitude: 8.482833600000001
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Lange Straße"
 housenumber: 16

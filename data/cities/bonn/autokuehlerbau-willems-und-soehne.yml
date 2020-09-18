@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.744210800000005
 longitude: 7.099688
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Römerstraße"
 housenumber: 59

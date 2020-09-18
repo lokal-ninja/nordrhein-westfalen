@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.2273306
 longitude: 6.6184269
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Am Maubishof"
 housenumber: 24

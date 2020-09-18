@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.35534680000001
 longitude: 8.2535504
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Im Schlahbruch"
 housenumber: 17

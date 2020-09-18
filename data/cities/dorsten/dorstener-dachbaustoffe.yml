@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.718839200000005
 longitude: 7.034606500000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Chattenweg"
 housenumber: 2

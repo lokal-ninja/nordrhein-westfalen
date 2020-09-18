@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.715487100000004
 longitude: 7.0493228000000006
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 190

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.6917382
 longitude: 6.6124342
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Robert-Koch-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2582047
 longitude: 8.7028275
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Tengerner Straße"
 housenumber: 143

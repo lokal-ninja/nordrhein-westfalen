@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2910982
 longitude: 8.886960400000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Königstraße"
 housenumber: 

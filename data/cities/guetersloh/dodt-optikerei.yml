@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9073873
 longitude: 8.3809369
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Kolbeplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.423252000000005
 longitude: 7.280983600000001
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Platz an der Schmiede"
 housenumber: 6

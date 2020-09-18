@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3982905
 longitude: 7.183724600000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Untermarkt"
 housenumber: 3

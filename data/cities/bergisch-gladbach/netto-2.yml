@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.978732400000005
 longitude: 7.1371865
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Bensberger Straße"
 housenumber: 192

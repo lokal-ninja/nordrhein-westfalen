@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.7995704
 longitude: 8.837323600000001
-postcode: 33189
+postcode: "33189"
 city: Schlangen
 street: "Paderborner Straße"
 housenumber: 79

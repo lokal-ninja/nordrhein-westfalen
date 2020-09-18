@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.6503499
 longitude: 6.805721800000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Gottfried-Schenker-Straße"
 housenumber: 1-5

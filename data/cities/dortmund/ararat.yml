@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.498808100000005
 longitude: 7.372283100000001
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Alter Hellweg"
 housenumber: 97

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.9345088
 longitude: 6.568867600000001
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Mittelstraße"
 housenumber: 4

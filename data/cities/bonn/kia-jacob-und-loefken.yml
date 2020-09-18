@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6936642
 longitude: 7.1401405
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Südstraße"
 housenumber: 120

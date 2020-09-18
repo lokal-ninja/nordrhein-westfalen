@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.77182010000001
 longitude: 7.4441882
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Gartenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.675515600000004
 longitude: 6.8600668
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Dom-Esch-Straße"
 housenumber: 24

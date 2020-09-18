@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9371219
 longitude: 6.351015
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Am Klingerpützchen"
 housenumber: 4

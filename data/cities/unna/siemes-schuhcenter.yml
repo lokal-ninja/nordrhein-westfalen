@@ -3,9 +3,9 @@ type: way
 shop: Schuhe
 latitude: 51.556639700000005
 longitude: 7.6840516
-postcode: 59425
+postcode: "59425"
 city: Unna
-street: "Fliederstraße"
+street: "Nelkenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

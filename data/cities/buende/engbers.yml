@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.197193500000004
 longitude: 8.5828862
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Eschstraße"
 housenumber: 15

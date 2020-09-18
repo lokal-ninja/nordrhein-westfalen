@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.097511100000006
 longitude: 7.6116643
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Saerbecker Straße"
 housenumber: 10-12

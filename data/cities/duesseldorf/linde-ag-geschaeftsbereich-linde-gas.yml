@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.179720700000004
 longitude: 6.85972
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Reisholzer Bahnstraße"
 housenumber: 4

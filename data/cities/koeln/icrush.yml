@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.9163797
 longitude: 6.9267688000000005
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 34

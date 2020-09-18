@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.4235601
 longitude: 6.4339341
-postcode: 47647
+postcode: "47647"
 city: Kerken
 street: "Dorfstraße"
 housenumber: 199

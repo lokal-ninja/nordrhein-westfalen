@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.481523
 longitude: 7.139195000000001
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "August-Bebel-Platz"
 housenumber: 12

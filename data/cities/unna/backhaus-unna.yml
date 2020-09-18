@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5387787
 longitude: 7.6924134
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Bahnhofstraße"
 housenumber: 76-78

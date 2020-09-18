@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.6971811
 longitude: 8.7323989
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Frankfurter Weg"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.613370100000004
 longitude: 7.1942009
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Steinstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6256587
 longitude: 6.383892400000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Hövelchesweg"
 housenumber: 4

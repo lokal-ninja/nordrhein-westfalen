@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4284486
 longitude: 6.839678500000001
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 283

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.925977
 longitude: 6.958044800000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Severinstraße"
 housenumber: 93-95

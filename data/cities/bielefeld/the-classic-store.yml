@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.024655200000005
 longitude: 8.5346965
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 52.1166914
 longitude: 8.6647414
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Steinstraße"
 housenumber: 10

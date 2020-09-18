@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.953331600000006
 longitude: 7.641124700000001
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Hansaring"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.748648800000005
 longitude: 7.9052527
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Am Vatheuershof"
 housenumber: 20

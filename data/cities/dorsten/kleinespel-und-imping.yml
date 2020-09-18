@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6805347
 longitude: 6.9570837
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Borkener Straße"
 housenumber: 139

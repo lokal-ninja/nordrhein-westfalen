@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.985916
 longitude: 8.485092
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Herner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9124132
 longitude: 6.940205400000001
-postcode: 50969
+postcode: "50969"
 city: Köln
 street: "Höninger Weg"
 housenumber: 164

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.734903900000006
 longitude: 7.105165700000001
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Belderberg"
 housenumber: 30

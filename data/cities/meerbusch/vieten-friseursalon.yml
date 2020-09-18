@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.2446167
 longitude: 6.7027643
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Oststraße"
 housenumber: 63

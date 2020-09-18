@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.212001900000004
 longitude: 6.7824255
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Corneliusstraße"
 housenumber: 91

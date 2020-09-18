@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.616204200000006
 longitude: 7.1882105
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Reitzensteinstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.479352500000005
 longitude: 6.848482300000001
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Buschhausener Straße"
 housenumber: 59

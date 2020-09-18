@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0061686
 longitude: 9.0681042
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Sibbentruper Straße"
 housenumber: 12

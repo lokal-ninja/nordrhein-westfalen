@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.8504164
 longitude: 6.634088500000001
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Burloer Weg"
 housenumber: 114

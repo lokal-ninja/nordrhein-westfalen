@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.1490129
 longitude: 6.4368509000000005
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Steinfelder Straße"
 housenumber: 45

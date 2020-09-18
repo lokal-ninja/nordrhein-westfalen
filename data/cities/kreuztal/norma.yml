@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9621116
 longitude: 7.997789200000001
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Marburger Straße"
 housenumber: 79

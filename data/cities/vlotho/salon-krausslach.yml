@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1552444
 longitude: 8.843356700000001
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Salzuflener Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.26154390000001
 longitude: 6.4045369
-postcode: 41748
+postcode: "41748"
 city: Viersen
 street: "Kanalstraße"
 housenumber: 51

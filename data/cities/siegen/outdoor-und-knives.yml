@@ -3,7 +3,7 @@ type: node
 shop: Jagd
 latitude: 50.896247300000006
 longitude: 8.0270785
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Hauptmarkt"
 housenumber: 17

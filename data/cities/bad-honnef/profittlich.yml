@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.659222400000004
 longitude: 7.2129655
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Drachenfelsstraße"
 housenumber: 19-21

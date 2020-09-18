@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2267686
 longitude: 6.7845699
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Schadowstraße"
 housenumber: 63

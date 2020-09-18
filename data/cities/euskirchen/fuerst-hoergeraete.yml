@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.6600836
 longitude: 6.7913874000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kölner Straße"
 housenumber: 6

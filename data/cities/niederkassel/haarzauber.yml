@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 50.7754921
 longitude: 7.0681899
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Adenauerplatz"
-housenumber: 11
+housenumber: 9
 phone: ""
 opening_hours: ""
 website: ""

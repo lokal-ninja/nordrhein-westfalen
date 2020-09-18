@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5912001
 longitude: 7.6485585
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Lünener Straße"
 housenumber: 30-32

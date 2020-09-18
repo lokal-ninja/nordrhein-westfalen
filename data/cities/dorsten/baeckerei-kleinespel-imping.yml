@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6600801
 longitude: 6.9542352
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Georgplatz"
 housenumber: 1

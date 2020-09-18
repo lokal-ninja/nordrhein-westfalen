@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.3504561
 longitude: 8.196052400000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Südstraße"
 housenumber: 57

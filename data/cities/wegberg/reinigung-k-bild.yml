@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.142276800000005
 longitude: 6.278898900000001
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Birkenallee"
 housenumber: 30

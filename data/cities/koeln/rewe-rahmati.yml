@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9367012
 longitude: 6.974778700000001
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Deutzer Freiheit"
 housenumber: 84

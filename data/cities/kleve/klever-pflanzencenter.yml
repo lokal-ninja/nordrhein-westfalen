@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.8035872
 longitude: 6.168383100000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Olmerstraße"
 housenumber: 8

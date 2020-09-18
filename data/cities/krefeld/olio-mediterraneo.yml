@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.3332856
 longitude: 6.589423600000001
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Oppumer Straße"
 housenumber: 175

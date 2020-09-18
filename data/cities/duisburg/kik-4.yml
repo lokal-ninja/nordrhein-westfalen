@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4110718
 longitude: 6.715624600000001
-postcode: 47226
+postcode: "47226"
 city: Duisburg
 street: "Friedrich-Alfred-Straße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.148995500000005
 longitude: 7.327756300000001
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Goldstraße"
 housenumber: 13

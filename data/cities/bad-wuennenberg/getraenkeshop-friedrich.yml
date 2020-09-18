@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5170292
 longitude: 8.741383800000001
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Forstenburgstraße"
 housenumber: 1

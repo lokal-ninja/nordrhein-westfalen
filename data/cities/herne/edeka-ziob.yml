@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.539662
 longitude: 7.255643
-postcode: 44627
+postcode: "44627"
 city: Herne
 street: "Mont-Cenis-Straße"
 housenumber: 267

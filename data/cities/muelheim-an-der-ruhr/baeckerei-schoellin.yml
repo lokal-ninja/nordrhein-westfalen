@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4608422
 longitude: 6.8886089
-postcode: 45475
+postcode: "45475"
 city: Mülheim an der Ruhr
 street: "Mellinghofer Straße"
 housenumber: 312

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.38929
 longitude: 8.57651
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0723245
 longitude: 8.4128222
-postcode: 33824
+postcode: "33824"
 city: Werther (Westf.)
 street: "Alte Bielefelder Straße"
 housenumber: 14a

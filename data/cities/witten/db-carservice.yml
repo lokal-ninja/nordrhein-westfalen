@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.443992300000005
 longitude: 7.336904100000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Hauptstraße"
 housenumber: 74

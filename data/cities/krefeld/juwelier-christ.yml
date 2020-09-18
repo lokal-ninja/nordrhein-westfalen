@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.330884100000006
 longitude: 6.563524200000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Hochstraße"
 housenumber: 63

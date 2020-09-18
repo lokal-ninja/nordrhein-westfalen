@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.0294542
 longitude: 8.5680561
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Bleichstraße"
 housenumber: 126

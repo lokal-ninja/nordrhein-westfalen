@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.074569600000004
 longitude: 6.995643800000001
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Adenauerring"
 housenumber: 4

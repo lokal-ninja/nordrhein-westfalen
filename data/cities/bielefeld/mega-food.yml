@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.032567500000006
 longitude: 8.540872700000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 104

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.7658926
 longitude: 8.5625285
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Lipplinger Straße"
 housenumber: 3

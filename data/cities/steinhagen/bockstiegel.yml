@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.006010700000004
 longitude: 8.4155771
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Brinkstraße"
 housenumber: 13-15

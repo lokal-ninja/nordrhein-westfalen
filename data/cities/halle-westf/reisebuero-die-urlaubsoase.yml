@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 52.0596991
 longitude: 8.360406600000001
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Bahnhofstraße"
 housenumber: 18

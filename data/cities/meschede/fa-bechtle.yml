@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.35974
 longitude: 8.2860656
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Dünnefeldweg"
 housenumber: 1

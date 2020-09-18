@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.086095
 longitude: 8.611981700000001
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Im Obernholz"
 housenumber: 72

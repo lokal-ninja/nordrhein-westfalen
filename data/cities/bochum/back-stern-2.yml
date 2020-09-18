@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.488666800000004
 longitude: 7.1465752
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Sommerdellenstraße"
 housenumber: 108

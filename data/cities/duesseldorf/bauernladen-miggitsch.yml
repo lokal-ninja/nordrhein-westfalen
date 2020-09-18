@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.169263900000004
 longitude: 6.8164172
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Am Steinebrück"
 housenumber: 18

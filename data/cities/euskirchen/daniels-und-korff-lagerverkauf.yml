@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6605896
 longitude: 6.8315329
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Zur Kleeburg"
 housenumber: 34

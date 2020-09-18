@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.063397900000005
 longitude: 6.8632631
-postcode: 50769
+postcode: "50769"
 city: Köln
 street: "St.-Tönnis-Straße"
 housenumber: 55

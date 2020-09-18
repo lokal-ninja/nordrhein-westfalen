@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.0287701
 longitude: 8.8927495
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Johannistorwall"
 housenumber: 1

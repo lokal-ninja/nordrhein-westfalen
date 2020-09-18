@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.7038499
 longitude: 8.7788419
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Warburger Straße"
 housenumber: 136

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2362661
 longitude: 6.794184400000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Tußmannstraße"
 housenumber: 1

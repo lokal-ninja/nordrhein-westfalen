@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.810355900000005
 longitude: 7.1248747
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Im Zehntfeld"
 housenumber: 70

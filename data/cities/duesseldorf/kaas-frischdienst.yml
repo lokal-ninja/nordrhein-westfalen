@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 51.241488200000006
 longitude: 6.792568800000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Tußmannstraße"
 housenumber: 76

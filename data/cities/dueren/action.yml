@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.8080889
 longitude: 6.4767926000000005
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Fritz-Erler-Straße"
 housenumber: 21

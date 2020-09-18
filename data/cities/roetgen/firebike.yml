@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.6444094
 longitude: 6.1867467000000005
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 36

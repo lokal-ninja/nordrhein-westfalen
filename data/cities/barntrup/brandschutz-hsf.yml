@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 51.995437300000006
 longitude: 9.1202217
-postcode: 32683
+postcode: "32683"
 city: Barntrup
 street: "Alverdisser Straße"
 housenumber: 26

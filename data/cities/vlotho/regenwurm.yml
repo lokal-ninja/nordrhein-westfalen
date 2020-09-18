@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.16644470000001
 longitude: 8.859897400000001
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Lange Straße"
 housenumber: 126

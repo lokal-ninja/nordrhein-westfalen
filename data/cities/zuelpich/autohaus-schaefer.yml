@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7038431
 longitude: 6.6260196
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Brüsseler Straße"
 housenumber: 123

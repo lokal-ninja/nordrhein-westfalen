@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.028583000000005
 longitude: 8.5220464
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Rolandstraße"
 housenumber: 20

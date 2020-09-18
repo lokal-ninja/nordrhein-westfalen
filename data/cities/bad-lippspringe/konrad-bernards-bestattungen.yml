@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.7819653
 longitude: 8.814707
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: ""
 housenumber: 

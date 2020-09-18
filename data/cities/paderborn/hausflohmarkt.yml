@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.712859800000004
 longitude: 8.7480747
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Ludwigstraße"
 housenumber: 26

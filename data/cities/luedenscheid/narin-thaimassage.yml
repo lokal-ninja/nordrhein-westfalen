@@ -1,12 +1,12 @@
 id: 5034815224
 type: node
 shop: Massage
-latitude: 51.2202107
-longitude: 7.6202243
-postcode: 58509
+latitude: 51.220162
+longitude: 7.6202277
+postcode: "58509"
 city: Lüdenscheid
 street: "Parkstraße"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Su,PH 10:00-20:00"
+opening_hours: "Mo,We,Th,Fr,Sa,Su 10:00-20:00; Tu,PH off"
 website: ""

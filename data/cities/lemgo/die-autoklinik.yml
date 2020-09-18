@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.0332359
 longitude: 8.8445251
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Wittighöfer Straße"
 housenumber: 167

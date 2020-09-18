@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.093406300000005
 longitude: 6.907296700000001
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Am Wald"
 housenumber: 21

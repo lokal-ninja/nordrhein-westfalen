@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2574017
 longitude: 8.496029100000001
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: ""
 housenumber: 

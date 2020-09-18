@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.828046900000004
 longitude: 6.523889400000001
-postcode: 52399
+postcode: "52399"
 city: Merzenich
 street: "Dürener Straße"
 housenumber: 4

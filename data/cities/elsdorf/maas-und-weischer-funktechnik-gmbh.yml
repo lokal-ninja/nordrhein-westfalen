@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 50.926092000000004
 longitude: 6.5920725000000004
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Heppendorfer Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.288592200000004
 longitude: 8.9375237
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Viktoriastraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.992343500000004
 longitude: 6.5732249000000005
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Lindenstraße"
 housenumber: 16

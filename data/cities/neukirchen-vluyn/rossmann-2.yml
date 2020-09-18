@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4502461
 longitude: 6.579453300000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Hochstraße"
 housenumber: 1a-1n

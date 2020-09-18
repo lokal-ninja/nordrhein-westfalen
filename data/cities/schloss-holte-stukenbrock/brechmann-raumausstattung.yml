@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 51.9113503
 longitude: 8.6591848
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Hauptstraße"
 housenumber: 19

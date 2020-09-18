@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2796893
 longitude: 7.4435625000000005
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Emsstraße"
 housenumber: 68

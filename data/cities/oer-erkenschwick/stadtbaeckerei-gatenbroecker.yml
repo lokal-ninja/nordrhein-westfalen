@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6426864
 longitude: 7.260063400000001
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Stimbergstraße"
 housenumber: 126-138

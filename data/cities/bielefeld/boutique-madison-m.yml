@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.056862800000005
 longitude: 8.548946200000001
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Johannisstraße"
 housenumber: 35

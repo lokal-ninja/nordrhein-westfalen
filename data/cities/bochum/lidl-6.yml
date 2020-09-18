@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4966166
 longitude: 7.1908782
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Freudenbergstraße"
 housenumber: 6

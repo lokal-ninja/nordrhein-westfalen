@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.363923400000004
 longitude: 7.5827201
-postcode: 58119
+postcode: "58119"
 city: Hagen
 street: "Auf dem Lölfert"
 housenumber: 50

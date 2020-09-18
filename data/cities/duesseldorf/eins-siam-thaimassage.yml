@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.216982200000004
 longitude: 6.789062700000001
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Luisenstraße"
 housenumber: 122

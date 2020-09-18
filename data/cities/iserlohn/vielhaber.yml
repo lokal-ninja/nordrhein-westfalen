@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.36587290000001
 longitude: 7.604137100000001
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 92

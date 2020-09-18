@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9103894
 longitude: 6.813024100000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Rothkampstraße"
 housenumber: 5

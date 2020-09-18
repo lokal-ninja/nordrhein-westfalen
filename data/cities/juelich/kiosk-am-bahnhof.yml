@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.918721000000005
 longitude: 6.3678099
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Bahnhofstraße"
 housenumber: 13

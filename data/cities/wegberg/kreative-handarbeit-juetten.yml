@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.139982100000005
 longitude: 6.2764775
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Hauptstraße"
 housenumber: 24

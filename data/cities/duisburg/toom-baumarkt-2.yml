@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4207869
 longitude: 6.7095704000000005
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Asterlager Straße"
 housenumber: 94

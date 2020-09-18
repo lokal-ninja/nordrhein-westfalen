@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.6044229
 longitude: 7.1863688
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Mühlenstraße"
 housenumber: 68

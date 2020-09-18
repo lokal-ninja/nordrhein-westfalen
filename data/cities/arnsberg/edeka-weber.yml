@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4366727
 longitude: 7.9765275
-postcode: 59759
+postcode: "59759"
 city: Arnsberg
 street: "Von-Lilien-Straße"
 housenumber: 9

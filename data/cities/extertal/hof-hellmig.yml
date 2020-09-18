@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.042090300000005
 longitude: 9.0797527
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Hohensonne"
 housenumber: 1

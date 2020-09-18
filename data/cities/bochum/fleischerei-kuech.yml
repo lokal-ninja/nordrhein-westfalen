@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4898418
 longitude: 7.307056
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Rolandstraße"
 housenumber: 4

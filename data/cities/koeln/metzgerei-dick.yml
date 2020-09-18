@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.011309100000005
 longitude: 6.9055249000000005
-postcode: 50767
+postcode: "50767"
 city: Köln
 street: "Haselnußweg"
 housenumber: 24

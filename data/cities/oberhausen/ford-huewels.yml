@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5191006
 longitude: 6.854250400000001
-postcode: 46145
+postcode: "46145"
 city: Oberhausen
 street: "Wittestraße"
 housenumber: 21

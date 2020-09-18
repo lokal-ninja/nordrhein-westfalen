@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.6367172
 longitude: 6.8616142
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Brunhildestraße"
 housenumber: 4

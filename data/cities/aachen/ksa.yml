@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.791512600000004
 longitude: 6.1044549
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Lukasstraße"
 housenumber: 13

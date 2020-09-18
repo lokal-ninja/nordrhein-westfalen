@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.826762800000004
 longitude: 6.3052542
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Reeser Straße"
 housenumber: 285

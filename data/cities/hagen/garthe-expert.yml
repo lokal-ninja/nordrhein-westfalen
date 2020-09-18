@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.3562962
 longitude: 7.4700119
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Kampstraße"
 housenumber: 36

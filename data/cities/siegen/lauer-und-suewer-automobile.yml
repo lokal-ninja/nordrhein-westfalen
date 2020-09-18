@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8747011
 longitude: 8.0511634
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Hauptstraße"
 housenumber: 26

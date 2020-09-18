@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2068462
 longitude: 6.8323711000000005
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Reisholzer Straße"
 housenumber: 48

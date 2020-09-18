@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6588438
 longitude: 6.7905908
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Veybachstraße"
 housenumber: 3

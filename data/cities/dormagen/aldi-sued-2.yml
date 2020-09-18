@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.120314900000004
 longitude: 6.7677088
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "An der Sausweide"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.840094400000005
 longitude: 6.6962809000000005
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Hohe Straße"
 housenumber: 2

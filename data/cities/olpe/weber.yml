@@ -1,12 +1,12 @@
-id: 172445466
+id: 186955214
 type: way
 shop: Metzgerei
-latitude: 51.0276397
-longitude: 7.847807400000001
-postcode: 57462
+latitude: 51.0236248
+longitude: 7.847347
+postcode: "57462"
 city: Olpe
-street: "Josefstraße"
-housenumber: 8
-phone: ""
-opening_hours: "Tu-Sa 07:30-12:30; Th,Fr 07:30-18:00"
-website: ""
+street: "Kurfürst-Heinrich-Straße"
+housenumber: 47
+phone: "+49 2761 40166"
+opening_hours: ""
+website: "http://weber-partyservice.de"

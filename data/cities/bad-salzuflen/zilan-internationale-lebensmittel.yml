@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.059816500000004
 longitude: 8.7304406
-postcode: 32107
+postcode: "32107"
 city: Bad Salzuflen
 street: "Bielefelder Straße"
 housenumber: 36b

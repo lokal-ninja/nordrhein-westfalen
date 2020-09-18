@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.138286400000005
 longitude: 8.483082300000001
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Lange Straße"
 housenumber: 2

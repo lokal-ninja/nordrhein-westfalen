@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5923795
 longitude: 7.211578800000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Heidestraße"
 housenumber: 6A

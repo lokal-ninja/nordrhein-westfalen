@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.505279300000005
 longitude: 7.5717623000000005
-postcode: 44287
+postcode: "44287"
 city: Dortmund
 street: "Schleefstraße"
 housenumber: 15

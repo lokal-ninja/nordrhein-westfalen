@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.5627695
 longitude: 7.184504400000001
-postcode: 45661
+postcode: "45661"
 city: Recklinghausen
 street: "Westfalenstraße"
 housenumber: 204

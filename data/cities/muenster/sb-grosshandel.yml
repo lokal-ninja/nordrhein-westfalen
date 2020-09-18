@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9376115
 longitude: 7.6453652000000005
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Loddenheide"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.713513000000006
 longitude: 7.045146300000001
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 245

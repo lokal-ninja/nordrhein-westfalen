@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.1160629
 longitude: 6.6497628
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Dorfstraße"
 housenumber: 2

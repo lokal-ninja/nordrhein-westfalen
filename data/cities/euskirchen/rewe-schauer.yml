@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.630862400000005
 longitude: 6.8126708
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Im Krautgarten"
 housenumber: 2

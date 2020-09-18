@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.8596188
 longitude: 6.507338300000001
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Dinxperloer Straße"
 housenumber: 389

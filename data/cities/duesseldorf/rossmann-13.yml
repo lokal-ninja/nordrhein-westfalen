@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.175563100000005
 longitude: 6.834259
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Henkelstraße"
 housenumber: 3-5

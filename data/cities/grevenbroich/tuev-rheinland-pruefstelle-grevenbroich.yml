@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.0876608
 longitude: 6.5781118
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Bergheimer Straße"
 housenumber: 70

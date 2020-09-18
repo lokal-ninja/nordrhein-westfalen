@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.624360200000005
 longitude: 7.1290141
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Backumer Straße"
 housenumber: 416

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.19808930000001
 longitude: 8.5802938
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 20

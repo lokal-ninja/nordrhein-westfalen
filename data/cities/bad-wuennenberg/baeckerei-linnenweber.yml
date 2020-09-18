@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5175563
 longitude: 8.6977455
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Burgstraße"
 housenumber: 19

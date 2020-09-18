@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.8242344
 longitude: 8.1442526
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Lange Straße"
 housenumber: 27

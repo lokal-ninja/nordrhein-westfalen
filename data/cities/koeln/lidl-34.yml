@@ -1,12 +1,12 @@
-id: 389007273
+id: 798140989
 type: way
 shop: Supermarkt
-latitude: 50.867686600000006
-longitude: 6.9900852
-postcode: 50996
+latitude: 50.9507496
+longitude: 7.0010225
+postcode: "51065"
 city: Köln
-street: "Emil-Hoffmann-Straße"
-housenumber: 42
+street: "Karlsruher Straße"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/filialen/koeln/hahnwald-emil-hoffmann-str-42.html"
+opening_hours: "Mo-Su 07:00-22:00"
+website: "https://www.lidl.de/filialen/koeln/karlsruher-strasse-21.html"

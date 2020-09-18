@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.251949200000006
 longitude: 7.1042306
-postcode: 42115
+postcode: "42115"
 city: Wuppertal
 street: "Varresbecker Straße"
 housenumber: 124a

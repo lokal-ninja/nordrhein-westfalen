@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.612208300000006
 longitude: 6.9411259
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Auf der Höhe"
 housenumber: 9

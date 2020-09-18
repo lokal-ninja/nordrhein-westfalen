@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.205428600000005
 longitude: 6.389512600000001
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Mürrigerstraße"
 housenumber: 77

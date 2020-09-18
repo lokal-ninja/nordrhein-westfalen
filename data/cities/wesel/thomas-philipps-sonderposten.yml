@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.6652812
 longitude: 6.667609000000001
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Rudolf-Diesel-Straße"
 housenumber: 66

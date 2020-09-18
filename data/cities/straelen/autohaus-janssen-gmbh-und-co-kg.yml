@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4442195
 longitude: 6.277022400000001
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "An der Oelmühle"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6522505
 longitude: 6.829377900000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Bachstraße"
 housenumber: 28

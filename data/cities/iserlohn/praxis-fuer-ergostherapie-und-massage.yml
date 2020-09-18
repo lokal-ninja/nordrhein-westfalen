@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.36543330000001
 longitude: 7.612272900000001
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 44

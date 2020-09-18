@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.1242212
 longitude: 6.9169464000000005
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Hochstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2282845
 longitude: 6.612688100000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Alte Heerstraße"
 housenumber: 59

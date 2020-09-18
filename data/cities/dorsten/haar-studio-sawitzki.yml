@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.668216
 longitude: 6.9806499
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "An der Landwehr"
 housenumber: 82

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.428820400000006
 longitude: 7.1648116
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 784

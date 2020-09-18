@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.6272193
 longitude: 6.6514147
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Bülowstraße"
 housenumber: 40-42

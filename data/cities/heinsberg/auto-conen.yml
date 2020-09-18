@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0484949
 longitude: 6.153137
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Erkelenzer Straße"
 housenumber: 80-82

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6117767
 longitude: 8.3336114
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Soester Straße"
 housenumber: 11

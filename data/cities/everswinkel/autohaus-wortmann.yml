@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9271304
 longitude: 7.8630531
-postcode: 48351
+postcode: "48351"
 city: Everswinkel
 street: "Boschweg"
 housenumber: 45

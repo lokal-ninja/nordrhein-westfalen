@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.1690279
 longitude: 6.9266515
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Feldstraße"
 housenumber: 6

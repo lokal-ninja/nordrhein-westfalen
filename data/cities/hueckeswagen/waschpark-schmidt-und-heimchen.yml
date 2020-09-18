@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.146908100000005
 longitude: 7.3035461
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Industriestraße"
 housenumber: 23

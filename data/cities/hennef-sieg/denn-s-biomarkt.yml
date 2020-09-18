@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7756416
 longitude: 7.2821506000000005
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Mozartstraße"
 housenumber: 3

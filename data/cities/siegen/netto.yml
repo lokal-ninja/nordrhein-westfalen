@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8772548
 longitude: 8.023569400000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Sandstraße"
 housenumber: 46

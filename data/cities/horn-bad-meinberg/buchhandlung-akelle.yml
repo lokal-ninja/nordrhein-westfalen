@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.894913900000006
 longitude: 8.979181500000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Allee"
 housenumber: 13

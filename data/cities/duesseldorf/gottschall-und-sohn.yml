@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.209828200000004
 longitude: 6.8231494
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Lierenfelder Straße"
 housenumber: 35

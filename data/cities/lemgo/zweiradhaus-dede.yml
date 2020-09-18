@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.0232037
 longitude: 8.8920204
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Lagesche Straße"
 housenumber: 28

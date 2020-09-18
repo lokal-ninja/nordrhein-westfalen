@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4972196
 longitude: 6.243979
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Küpperssteg"
 housenumber: 1

@@ -3,10 +3,10 @@ type: way
 shop: Kiosk
 latitude: 52.0236267
 longitude: 8.5337832
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
-street: ""
-housenumber: 
+street: "Jahnplatz"
+housenumber: 4a
 phone: ""
 opening_hours: ""
 website: ""

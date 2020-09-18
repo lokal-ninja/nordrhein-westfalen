@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.9325118
 longitude: 6.8583553
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Kirchweg"
 housenumber: 123

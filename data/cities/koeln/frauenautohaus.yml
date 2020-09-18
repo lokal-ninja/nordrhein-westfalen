@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.92809140000001
 longitude: 6.9747924
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Siegburger Straße"
 housenumber: 104

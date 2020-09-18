@@ -1,12 +1,12 @@
-id: 2142928644
-type: node
+id: 104486910
+type: way
 shop: Supermarkt
-latitude: 51.595151300000005
-longitude: 7.1308588
-postcode: 45699
+latitude: 51.602573400000004
+longitude: 7.1568803
+postcode: "45699"
 city: Herten
-street: "Paschenbergstraße"
-housenumber: 1
+street: "Kaiserstr."
+housenumber: 223
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

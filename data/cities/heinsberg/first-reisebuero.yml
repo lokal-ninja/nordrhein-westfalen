@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.0623943
 longitude: 6.0927344
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Gangolfusstraße"
 housenumber: 34

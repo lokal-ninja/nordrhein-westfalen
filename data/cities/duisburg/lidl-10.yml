@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5033005
 longitude: 6.7650765
-postcode: 47169
+postcode: "47169"
 city: Duisburg
 street: "Schulte-Marxloh-Straße"
 housenumber: 1

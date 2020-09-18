@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.6252489
 longitude: 6.1988076
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Bahnstraße"
 housenumber: 22

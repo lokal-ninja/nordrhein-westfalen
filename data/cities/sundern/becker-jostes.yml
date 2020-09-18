@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.3258882
 longitude: 8.004314800000001
-postcode: 59846
+postcode: "59846"
 city: Sundern
 street: "Hauptstraße"
 housenumber: 74

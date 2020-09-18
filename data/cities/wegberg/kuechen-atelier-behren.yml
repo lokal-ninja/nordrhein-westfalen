@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.1112291
 longitude: 6.3290341
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Gladbacher Straße"
 housenumber: 35

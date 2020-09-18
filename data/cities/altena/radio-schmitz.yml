@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.2953344
 longitude: 7.6735394
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Kirchstraße"
 housenumber: 22

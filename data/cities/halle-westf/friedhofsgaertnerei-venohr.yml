@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.056332600000005
 longitude: 8.3700001
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Bielefelder Straße"
 housenumber: 33

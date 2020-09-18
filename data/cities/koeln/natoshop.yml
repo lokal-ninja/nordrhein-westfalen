@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 50.8398714
 longitude: 7.1016342
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Niederkasseler Straße"
 housenumber: 4

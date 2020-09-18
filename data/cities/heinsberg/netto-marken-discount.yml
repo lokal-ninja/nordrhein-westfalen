@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.059540600000005
 longitude: 6.1188549000000005
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Karl-Arnold-Straße"
 housenumber: 97

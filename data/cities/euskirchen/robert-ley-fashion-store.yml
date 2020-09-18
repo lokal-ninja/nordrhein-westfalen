@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.653125700000004
 longitude: 6.8001541
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 113

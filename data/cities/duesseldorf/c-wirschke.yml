@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2231462
 longitude: 6.7800383
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Steinstraße"
 housenumber: 4

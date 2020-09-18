@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7559521
 longitude: 6.138652700000001
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Sittarder Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.019425500000004
 longitude: 8.5436905
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Teutoburger Straße"
 housenumber: 96

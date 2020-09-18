@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.8874153
 longitude: 6.1720128
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Linnicher Straße"
 housenumber: 197

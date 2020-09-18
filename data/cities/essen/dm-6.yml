@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.458144600000004
 longitude: 7.0060631
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Limbecker Platz"
 housenumber: 1a

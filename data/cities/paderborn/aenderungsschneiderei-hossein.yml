@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.717658500000006
 longitude: 8.7505149
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienstraße"
 housenumber: 7

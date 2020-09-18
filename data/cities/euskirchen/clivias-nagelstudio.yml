@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.627079800000004
 longitude: 6.817992
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Skorpionstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.638331
 longitude: 7.261040100000001
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Stimbergstraße"
 housenumber: 100

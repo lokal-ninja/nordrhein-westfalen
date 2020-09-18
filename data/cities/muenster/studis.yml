@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9750208
 longitude: 7.5911388
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Rudolf-Harbig-Weg"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.572808200000004
 longitude: 7.2126155
-postcode: 45661
+postcode: "45661"
 city: Recklinghausen
 street: "Bochumer Straße"
 housenumber: 119

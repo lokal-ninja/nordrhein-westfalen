@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.02141700000001
 longitude: 8.5498764
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Heeper Straße"
 housenumber: 80

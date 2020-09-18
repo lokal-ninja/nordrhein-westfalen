@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.0155669
 longitude: 8.538493800000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 154

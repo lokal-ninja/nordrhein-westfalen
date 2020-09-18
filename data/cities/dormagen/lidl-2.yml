@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0982557
 longitude: 6.8460023
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Walhovener Straße"
 housenumber: 30

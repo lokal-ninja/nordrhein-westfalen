@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.959980800000004
 longitude: 6.973129200000001
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Stammheimer Straße"
 housenumber: 8

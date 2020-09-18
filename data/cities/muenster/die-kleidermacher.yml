@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 51.963470300000004
 longitude: 7.6334631
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Sonnenstraße"
 housenumber: 19/23

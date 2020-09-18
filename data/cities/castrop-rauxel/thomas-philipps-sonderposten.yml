@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.5853035
 longitude: 7.3185998
-postcode: 44579
+postcode: "44579"
 city: Castrop-Rauxel
 street: "Poststraße"
 housenumber: 8-10

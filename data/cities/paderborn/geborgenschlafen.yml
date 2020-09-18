@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.715642900000006
 longitude: 8.729685100000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 135

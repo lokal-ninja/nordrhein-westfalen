@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.493321200000004
 longitude: 7.585553000000001
-postcode: 44289
+postcode: "44289"
 city: Dortmund
 street: "Sölder Straße"
 housenumber: 145

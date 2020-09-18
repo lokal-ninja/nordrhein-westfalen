@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.0366215
 longitude: 6.8248205
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Twicklerstraße"
 housenumber: 4

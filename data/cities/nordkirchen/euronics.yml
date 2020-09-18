@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.742562400000004
 longitude: 7.516724900000001
-postcode: 59394
+postcode: "59394"
 city: Nordkirchen
 street: "Lüdinghauser Straße"
 housenumber: 62

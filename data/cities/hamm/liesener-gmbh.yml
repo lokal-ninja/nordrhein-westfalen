@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6664619
 longitude: 7.8090995
-postcode: 59063
+postcode: "59063"
 city: Hamm
 street: "Östingstraße"
 housenumber: 11

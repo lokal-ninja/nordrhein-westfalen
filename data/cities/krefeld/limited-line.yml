@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3321478
 longitude: 6.563908400000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Königstraße"
 housenumber: 110

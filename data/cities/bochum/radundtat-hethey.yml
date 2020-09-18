@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.444302
 longitude: 7.2212852000000005
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Markstraße"
 housenumber: 363

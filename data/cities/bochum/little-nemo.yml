@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4787176
 longitude: 7.2145767
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Südring"
 housenumber: 37

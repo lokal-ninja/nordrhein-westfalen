@@ -1,12 +1,12 @@
-id: 358329090
+id: 554220401
 type: node
 shop: Kiosk
-latitude: 51.44436030000001
-longitude: 7.0351704
-postcode: 45138
+latitude: 51.4319834
+longitude: 6.976150100000001
+postcode: "45149"
 city: Essen
-street: "Moltkestraße"
-housenumber: 92
+street: "Laubenweg"
+housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
 website: ""

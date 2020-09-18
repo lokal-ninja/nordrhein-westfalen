@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.45780430000001
 longitude: 7.174570200000001
-postcode: 44869
+postcode: "44869"
 city: Bochum
 street: "Am Thie"
 housenumber: 9

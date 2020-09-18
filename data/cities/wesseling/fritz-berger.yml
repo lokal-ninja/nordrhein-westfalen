@@ -3,10 +3,10 @@ type: way
 shop: Outdoor
 latitude: 50.8126413
 longitude: 6.992645100000001
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Vorgebirgsstraße"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://www.fritz-berger.de/branch/filiale-wesseling"
+opening_hours: "Mar-Sep Mo-Fr 09:00-18:30; Mar-Sep Sa 09:00-16:00; Oct-Feb Mo-Fr 09:00-18:30; Oct-Feb Sa 09:00-14:00; PH off"
+website: ""

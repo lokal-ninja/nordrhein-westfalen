@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.995541
 longitude: 8.111921
-postcode: 57271
+postcode: "57271"
 city: Hilchenbach
 street: "In der Herrenwiese"
 housenumber: 30

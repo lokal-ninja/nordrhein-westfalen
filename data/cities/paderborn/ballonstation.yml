@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.726266900000006
 longitude: 8.7920519
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Karl-Schurz-Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.119347000000005
 longitude: 8.6549461
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Engerstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6089445
 longitude: 6.3007344000000005
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Schmiedstraße"
 housenumber: 6

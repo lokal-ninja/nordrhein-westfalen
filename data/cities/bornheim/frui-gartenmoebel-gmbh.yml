@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.7592252
 longitude: 7.029996700000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Alexander-Bell-Straße"
 housenumber: 15-17

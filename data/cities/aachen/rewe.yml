@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.774704500000006
 longitude: 6.094153700000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Adalbertstraße"
 housenumber: 100

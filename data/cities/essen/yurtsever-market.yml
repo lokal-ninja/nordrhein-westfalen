@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.486648800000005
 longitude: 7.064441700000001
-postcode: 45309
+postcode: "45309"
 city: Essen
 street: "Huestraße"
 housenumber: 144

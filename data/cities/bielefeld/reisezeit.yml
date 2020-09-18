@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.045601700000006
 longitude: 8.5222561
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 205

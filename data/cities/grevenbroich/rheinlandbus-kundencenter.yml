@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.089357500000006
 longitude: 6.5892289
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 12

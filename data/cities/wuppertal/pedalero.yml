@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2561521
 longitude: 7.136718900000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Luisenstraße"
 housenumber: 

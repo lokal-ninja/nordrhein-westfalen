@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4948081
 longitude: 7.007818
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Vogelheimer Straße"
 housenumber: 3

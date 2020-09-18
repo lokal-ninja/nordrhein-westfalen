@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.830492500000005
 longitude: 6.4750848
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Fehlender Feld"
 housenumber: 5-9

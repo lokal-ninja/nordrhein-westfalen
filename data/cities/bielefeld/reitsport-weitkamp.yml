@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.985423700000005
 longitude: 8.6345098
-postcode: 33699
+postcode: "33699"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 707

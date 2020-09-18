@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.814694800000005
 longitude: 6.8892452
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Euskirchener Straße"
 housenumber: 97

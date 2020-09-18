@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.691613700000005
 longitude: 7.1452793
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Sankt-Augustinus-Straße"
 housenumber: 84

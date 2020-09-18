@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.4515497
 longitude: 7.18519
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Rathenaustraße"
 housenumber: 8

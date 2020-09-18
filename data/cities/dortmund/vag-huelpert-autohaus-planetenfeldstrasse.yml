@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.503770100000004
 longitude: 7.395251
-postcode: 44379
+postcode: "44379"
 city: Dortmund
 street: "Planetenfeldstraße"
 housenumber: 87

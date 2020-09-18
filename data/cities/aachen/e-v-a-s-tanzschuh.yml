@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.7698054
 longitude: 6.0945627
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Theaterstraße"
 housenumber: 83

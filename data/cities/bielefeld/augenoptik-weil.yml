@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0252789
 longitude: 8.5293056
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Karl-Eilers-Straße"
 housenumber: 20

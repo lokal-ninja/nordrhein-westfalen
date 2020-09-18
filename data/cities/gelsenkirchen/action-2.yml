@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5056931
 longitude: 7.1018432
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofsvorplatz"
 housenumber: 5

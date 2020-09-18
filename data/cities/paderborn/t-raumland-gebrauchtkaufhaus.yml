@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.7578205
 longitude: 8.7801918
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "An der Talle"
 housenumber: 93

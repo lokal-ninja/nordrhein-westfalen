@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.207881300000004
 longitude: 6.7829822
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Erasmusstraße"
 housenumber: 14

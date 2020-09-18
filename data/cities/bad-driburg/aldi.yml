@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.72139790000001
 longitude: 9.0138611
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Am Siedlerplatz"
 housenumber: 18

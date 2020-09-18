@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.581192
 longitude: 6.2527185
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Bleichstraße"
 housenumber: 48

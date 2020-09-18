@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.422973000000006
 longitude: 7.2795049
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Wittener Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.750465000000005
 longitude: 8.763104400000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "An der Talle"
 housenumber: 78

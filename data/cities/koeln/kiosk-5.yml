@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.8644022
 longitude: 7.004569
-postcode: 50999
+postcode: "50999"
 city: Köln
 street: "Falderstraße"
 housenumber: 2

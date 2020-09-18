@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.4426609
 longitude: 7.216987100000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Markstraße"
 housenumber: 393

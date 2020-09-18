@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.6576693
 longitude: 6.6181755
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Hohe Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0236515
 longitude: 8.5356936
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Friedrich-Verleger-Straße"
 housenumber: 3

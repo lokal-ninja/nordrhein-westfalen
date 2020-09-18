@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5255682
 longitude: 7.450871500000001
-postcode: 44147
+postcode: "44147"
 city: Dortmund
 street: "Schützenstraße"
 housenumber: 96

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4042407
 longitude: 6.8758461
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 59-61

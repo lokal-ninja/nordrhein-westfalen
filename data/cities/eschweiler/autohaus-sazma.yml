@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8218666
 longitude: 6.3030759000000005
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Dürener Straße"
 housenumber: 342

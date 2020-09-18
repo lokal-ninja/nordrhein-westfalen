@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3442804
 longitude: 6.5520408
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Inrather Straße"
 housenumber: 135

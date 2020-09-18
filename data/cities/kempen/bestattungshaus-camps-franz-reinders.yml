@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.3647751
 longitude: 6.418145600000001
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Buttermarkt"
 housenumber: 19

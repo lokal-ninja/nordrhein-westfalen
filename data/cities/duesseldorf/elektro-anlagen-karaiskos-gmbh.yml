@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.180541600000005
 longitude: 6.8718408
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Graudenzer Straße"
 housenumber: 20

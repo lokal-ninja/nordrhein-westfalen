@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.775055
 longitude: 7.9331293
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Porschestraße"
 housenumber: 4

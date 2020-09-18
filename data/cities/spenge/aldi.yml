@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1387627
 longitude: 8.481115800000001
-postcode: 32139
+postcode: "32139"
 city: Spenge
 street: "Mühlenburger Straße"
 housenumber: 5

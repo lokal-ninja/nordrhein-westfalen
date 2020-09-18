@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.929230200000006
 longitude: 6.775055600000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Frechen Nord"
 housenumber: 

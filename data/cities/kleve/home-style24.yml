@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.7856315
 longitude: 6.1361903
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 23

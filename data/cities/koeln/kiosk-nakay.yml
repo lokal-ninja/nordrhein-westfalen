@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9262323
 longitude: 6.9387110000000005
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Gabelsbergerstraße"
 housenumber: 53

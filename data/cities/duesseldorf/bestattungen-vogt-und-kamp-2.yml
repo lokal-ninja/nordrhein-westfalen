@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.2351194
 longitude: 6.863099600000001
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Am Pesch"
 housenumber: 23a

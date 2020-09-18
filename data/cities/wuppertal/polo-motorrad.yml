@@ -1,12 +1,12 @@
 id: 151060553
 type: way
-shop: Motorrad
+shop: Kleidung
 latitude: 51.2564677
 longitude: 7.1553585
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Bundesallee"
 housenumber: 245
-phone: "+49 202 4938119"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.polo.de"
+phone: ""
+opening_hours: "Mo-Sa 09:30-20:00; PH off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.7358198
 longitude: 7.1021502000000005
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wenzelgasse"
 housenumber: 1

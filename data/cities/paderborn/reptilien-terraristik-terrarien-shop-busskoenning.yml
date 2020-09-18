@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.743489100000005
 longitude: 8.7253858
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bentelerstraße"
 housenumber: 3

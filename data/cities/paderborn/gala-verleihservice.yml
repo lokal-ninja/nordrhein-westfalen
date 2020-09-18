@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.768937900000005
 longitude: 8.716442200000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bielefelder Straße"
 housenumber: 111

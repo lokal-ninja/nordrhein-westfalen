@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.763179400000006
 longitude: 6.9759777000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Am Hellenkreuz"
 housenumber: 3

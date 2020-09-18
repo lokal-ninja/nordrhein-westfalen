@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.882227
 longitude: 8.142508300000001
-postcode: 57250
+postcode: "57250"
 city: Netphen
 street: "Kälberhof"
 housenumber: 21

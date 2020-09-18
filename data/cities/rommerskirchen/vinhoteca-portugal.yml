@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.0386904
 longitude: 6.680892900000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Otto-Hahn-Straße"
 housenumber: 1

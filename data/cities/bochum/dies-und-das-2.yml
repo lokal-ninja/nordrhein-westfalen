@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.491485000000004
 longitude: 7.3056355
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Werner Hellweg"
 housenumber: 483

@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.629916200000004
 longitude: 6.8143745000000004
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Selmenstraße"
 housenumber: 30

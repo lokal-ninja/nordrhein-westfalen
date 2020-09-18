@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 51.197661000000004
 longitude: 6.6932117
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Oberstraße"
 housenumber: 137

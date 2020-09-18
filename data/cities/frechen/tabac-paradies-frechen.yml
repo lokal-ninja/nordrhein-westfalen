@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9099584
 longitude: 6.8122099
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 45

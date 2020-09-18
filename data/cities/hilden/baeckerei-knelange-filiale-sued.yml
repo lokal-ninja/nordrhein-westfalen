@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1497797
 longitude: 6.9473780000000005
-postcode: 40723
+postcode: "40723"
 city: Hilden
 street: "Erikaweg"
 housenumber: 54

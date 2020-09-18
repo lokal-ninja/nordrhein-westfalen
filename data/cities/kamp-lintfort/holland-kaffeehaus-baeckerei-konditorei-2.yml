@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.515070400000006
 longitude: 6.5319333
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Wiesenbruchstraße"
 housenumber: 64

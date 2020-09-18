@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.2179811
 longitude: 6.8659055
-postcode: 40627
+postcode: "40627"
 city: Düsseldorf
 street: "Glashüttenstraße"
 housenumber: 31

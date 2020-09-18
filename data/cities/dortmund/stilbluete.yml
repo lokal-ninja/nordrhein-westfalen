@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5082235
 longitude: 7.452103200000001
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "Hüttemannstraße"
 housenumber: 60

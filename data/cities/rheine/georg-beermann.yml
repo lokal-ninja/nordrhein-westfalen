@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2891686
 longitude: 7.4480035
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Overbergstraße"
 housenumber: 77

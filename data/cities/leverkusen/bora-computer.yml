@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.0306617
 longitude: 6.984516500000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Dönhoffstraße"
 housenumber: 39

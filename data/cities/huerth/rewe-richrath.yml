@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.889682
 longitude: 6.833782
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Ernst-Reuter-Straße"
 housenumber: 44

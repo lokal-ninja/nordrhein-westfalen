@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.620615400000005
 longitude: 6.853255900000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kleine Höhle"
 housenumber: 12

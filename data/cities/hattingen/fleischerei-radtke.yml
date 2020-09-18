@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4112559
 longitude: 7.2035498
-postcode: 45527
+postcode: "45527"
 city: Hattingen
 street: "Thingstraße"
 housenumber: 30

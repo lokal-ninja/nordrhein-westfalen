@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.419712700000005
 longitude: 7.0252341000000005
-postcode: 45134
+postcode: "45134"
 city: Essen
 street: "Stadtwaldplatz"
 housenumber: 3

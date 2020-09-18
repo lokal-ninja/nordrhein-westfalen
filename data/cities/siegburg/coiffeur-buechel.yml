@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.796279000000006
 longitude: 7.204366
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: ""
 housenumber: 

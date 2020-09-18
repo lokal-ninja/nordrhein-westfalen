@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.43974600000001
 longitude: 7.337737700000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Johannisstraße"
 housenumber: 9

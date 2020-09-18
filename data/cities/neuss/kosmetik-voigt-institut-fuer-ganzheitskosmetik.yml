@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.1379523
 longitude: 6.747496900000001
-postcode: 41470
+postcode: "41470"
 city: Neuss
 street: "Hardenbergstraße"
 housenumber: 13

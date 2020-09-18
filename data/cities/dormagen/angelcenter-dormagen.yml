@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 51.097731
 longitude: 6.837472900000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Krefelder Straße"
 housenumber: 38-40

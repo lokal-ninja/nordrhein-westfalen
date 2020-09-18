@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8298615
 longitude: 7.0290907
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Gierslinger Straße"
 housenumber: 3b

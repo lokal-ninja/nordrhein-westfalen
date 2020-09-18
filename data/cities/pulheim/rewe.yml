@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.99481350000001
 longitude: 6.8100433
-postcode: 50259
+postcode: "50259"
 city: Pulheim
 street: ""
 housenumber: 

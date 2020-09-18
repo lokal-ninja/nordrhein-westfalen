@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.332924000000006
 longitude: 6.562352300000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Hochstraße"
 housenumber: 123

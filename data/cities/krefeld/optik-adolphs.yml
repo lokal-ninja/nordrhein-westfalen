@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.333141000000005
 longitude: 6.565219900000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Ostwall"
 housenumber: 160-164

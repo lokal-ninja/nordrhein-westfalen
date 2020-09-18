@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.275363000000006
 longitude: 8.7112745
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Mindener Straße"
 housenumber: 1

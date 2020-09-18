@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4373931
 longitude: 7.349521800000001
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Ardeystraße"
 housenumber: 116

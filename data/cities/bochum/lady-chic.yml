@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.480063900000005
 longitude: 7.1392546
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hochstraße"
 housenumber: 14

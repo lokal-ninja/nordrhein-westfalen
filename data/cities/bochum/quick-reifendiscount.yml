@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.4680666
 longitude: 7.2710688
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Alte Wittener Straße"
 housenumber: 42a

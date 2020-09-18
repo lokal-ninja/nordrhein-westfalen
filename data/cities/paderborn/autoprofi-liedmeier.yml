@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.732012000000005
 longitude: 8.765511400000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.35784820000001
 longitude: 6.934693800000001
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Montebruchstraße"
 housenumber: 19

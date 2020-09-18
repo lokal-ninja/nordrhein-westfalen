@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7747077
 longitude: 6.0847553
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Münsterplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.65834400000001
 longitude: 6.9792890000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Marler Straße"
 housenumber: 45

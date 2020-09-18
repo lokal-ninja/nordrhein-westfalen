@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.920693
 longitude: 6.3595701
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Große Rurstraße"
 housenumber: 29

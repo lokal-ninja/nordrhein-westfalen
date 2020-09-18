@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.6502324
 longitude: 6.8273351
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 116

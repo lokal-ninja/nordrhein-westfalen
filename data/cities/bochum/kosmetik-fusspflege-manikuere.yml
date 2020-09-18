@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.4722512
 longitude: 7.3221657
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 22

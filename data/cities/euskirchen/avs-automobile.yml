@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.624166100000004
 longitude: 6.844621900000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 26

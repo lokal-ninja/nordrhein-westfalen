@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6132015
 longitude: 7.2001067
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Löhrhof"
 housenumber: 1

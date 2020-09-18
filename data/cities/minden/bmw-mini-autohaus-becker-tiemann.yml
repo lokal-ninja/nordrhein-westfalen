@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2668911
 longitude: 8.8501046
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Uphauser Weg"
 housenumber: 70

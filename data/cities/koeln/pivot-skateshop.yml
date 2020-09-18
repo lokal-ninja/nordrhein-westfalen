@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.9389921
 longitude: 6.9332193
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Brüsseler Platz"
 housenumber: 22

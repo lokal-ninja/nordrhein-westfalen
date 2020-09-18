@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.479375000000005
 longitude: 7.1383052000000005
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Westenfelder Straße"
 housenumber: 20

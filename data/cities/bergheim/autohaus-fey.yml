@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9367652
 longitude: 6.6933221000000005
-postcode: 50127
+postcode: "50127"
 city: Bergheim
 street: "Köln-Aachener-Straße"
 housenumber: 270

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.751600800000006
 longitude: 6.4883044000000005
-postcode: 52372
+postcode: "52372"
 city: Kreuzau
 street: "Stockheimer Weg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.935608900000005
 longitude: 6.951809900000001
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Cäcilienstraße"
 housenumber: 30

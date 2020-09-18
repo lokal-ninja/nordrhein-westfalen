@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.658376100000005
 longitude: 6.6201758
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Beguinenstraße"
 housenumber: 36

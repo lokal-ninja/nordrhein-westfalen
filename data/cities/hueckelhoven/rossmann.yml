@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.054017300000005
 longitude: 6.2231025
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Parkhofstraße"
 housenumber: 65

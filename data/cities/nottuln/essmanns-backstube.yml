@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.930820700000005
 longitude: 7.349965200000001
-postcode: 48301
+postcode: "48301"
 city: Nottuln
 street: "Daruper Straße"
 housenumber: 14
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

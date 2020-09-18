@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.276844600000004
 longitude: 6.765619600000001
-postcode: 40474
+postcode: "40474"
 city: Düsseldorf
 street: "Terminal Ring"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.598705700000004
 longitude: 8.777844700000001
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Dammstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.9668349
 longitude: 7.1571179
-postcode: 51429
+postcode: "51429"
 city: Bergisch Gladbach
 street: "Schloßstraße"
 housenumber: 7

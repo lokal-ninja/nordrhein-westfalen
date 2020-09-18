@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.6002616
 longitude: 7.313189800000001
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Kirchplatz"
 housenumber: 2

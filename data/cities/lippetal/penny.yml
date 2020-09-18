@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6637457
 longitude: 8.140372300000001
-postcode: 59510
+postcode: "59510"
 city: Lippetal
 street: "Lippborger Straße"
 housenumber: 19

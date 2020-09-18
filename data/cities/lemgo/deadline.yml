@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 52.032769900000005
 longitude: 8.8939351
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Richard-Wagner-Straße"
 housenumber: 38
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 14:00-19:00"
 website: ""

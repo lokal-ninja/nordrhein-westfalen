@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.963883900000006
 longitude: 7.5042844
-postcode: 51674
+postcode: "51674"
 city: Wiehl
 street: "Bielsteiner Straße"
 housenumber: 78

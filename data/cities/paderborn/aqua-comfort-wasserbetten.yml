@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.708034600000005
 longitude: 8.720690300000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Frankfurter Weg"
 housenumber: 6

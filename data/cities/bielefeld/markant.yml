@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.986786
 longitude: 8.628267000000001
-postcode: 33699
+postcode: "33699"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 674

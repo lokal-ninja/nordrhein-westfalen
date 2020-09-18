@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 50.741049200000006
 longitude: 7.0708403
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Brühler Straße"
 housenumber: 26

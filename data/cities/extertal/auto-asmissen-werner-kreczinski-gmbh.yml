@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.06783840000001
 longitude: 9.0959511
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Sternberger Straße"
 housenumber: 11

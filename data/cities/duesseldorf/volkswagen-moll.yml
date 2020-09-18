@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2382264
 longitude: 6.7213275
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Schiessstraße"
 housenumber: 40

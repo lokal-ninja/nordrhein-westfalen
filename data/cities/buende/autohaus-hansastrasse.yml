@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.220593300000004
 longitude: 8.5380271
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Geroldstraße"
 housenumber: 2-4

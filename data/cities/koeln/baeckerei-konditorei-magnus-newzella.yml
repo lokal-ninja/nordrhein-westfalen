@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.010811600000004
 longitude: 6.9057561000000005
-postcode: 50767
+postcode: "50767"
 city: Köln
 street: "Haselnußweg"
 housenumber: 19

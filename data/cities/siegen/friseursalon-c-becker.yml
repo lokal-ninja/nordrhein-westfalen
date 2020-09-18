@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8902432
 longitude: 8.038252
-postcode: 57076
+postcode: "57076"
 city: Siegen
 street: "Försterstraße"
 housenumber: 18

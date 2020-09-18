@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5904954
 longitude: 7.649984600000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Herbert-Wehner-Straße"
 housenumber: 3

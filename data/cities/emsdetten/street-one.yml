@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.175277300000005
 longitude: 7.529431300000001
-postcode: 48282
+postcode: "48282"
 city: Emsdetten
 street: "Rheiner Straße"
 housenumber: 7

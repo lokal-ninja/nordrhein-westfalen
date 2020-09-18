@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.6861745
 longitude: 7.1534233
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Bonner Straße"
 housenumber: 2a

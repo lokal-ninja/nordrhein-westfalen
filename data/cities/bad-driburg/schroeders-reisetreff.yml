@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.735030200000004
 longitude: 9.019696600000001
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 92

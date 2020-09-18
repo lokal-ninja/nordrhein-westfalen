@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.4501458
 longitude: 7.097385900000001
-postcode: 45276
+postcode: "45276"
 city: Essen
 street: "Bochumer Landstraße"
 housenumber: 242

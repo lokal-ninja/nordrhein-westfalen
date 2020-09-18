@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.257045100000006
 longitude: 7.1441641
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Herzogstraße"
 housenumber: 21-25

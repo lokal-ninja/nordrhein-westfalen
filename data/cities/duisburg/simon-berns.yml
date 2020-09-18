@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.432205100000004
 longitude: 6.761530400000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.482772600000004
 longitude: 6.8623311000000005
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Mülheimer Straße"
 housenumber: 25

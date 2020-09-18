@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.38101210000001
 longitude: 6.5986355
-postcode: 47802
+postcode: "47802"
 city: Krefeld
 street: "Moerser Landstraße"
 housenumber: 411

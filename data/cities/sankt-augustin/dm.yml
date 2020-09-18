@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7671629
 longitude: 7.1958178
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Alte Heerstraße"
 housenumber: 56

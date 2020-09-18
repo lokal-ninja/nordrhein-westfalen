@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.7168824
 longitude: 7.052427300000001
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 147

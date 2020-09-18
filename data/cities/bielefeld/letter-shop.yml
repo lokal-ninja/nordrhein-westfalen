@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.013448600000004
 longitude: 8.5534496
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 10

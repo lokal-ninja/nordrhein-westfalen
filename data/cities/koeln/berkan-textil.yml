@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.970680800000004
 longitude: 7.0092639000000005
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Berliner Straße"
 housenumber: 42

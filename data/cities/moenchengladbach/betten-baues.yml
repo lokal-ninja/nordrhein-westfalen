@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.211078400000005
 longitude: 6.465781300000001
-postcode: 41066
+postcode: "41066"
 city: Mönchengladbach
 street: "Krefelder Straße"
 housenumber: 245

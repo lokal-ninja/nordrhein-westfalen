@@ -3,10 +3,10 @@ type: way
 shop: Schuhe
 latitude: 51.416625
 longitude: 7.1197695
-postcode: 45289
+postcode: "45289"
 city: Essen
 street: "Alte Hauptstraße"
 housenumber: 23
 phone: "+49 201 54506970"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-15:00"
-website: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00, SU off; PH off"
+website: "https://www.schuhmodegeller.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2172337
 longitude: 7.6270585
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Börsenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.7111889
 longitude: 7.2775226
-postcode: 53639
+postcode: "53639"
 city: Königswinter
 street: "Siegburger Straße"
 housenumber: 35

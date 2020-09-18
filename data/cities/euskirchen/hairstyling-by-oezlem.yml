@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6637118
 longitude: 6.7739937
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Rüdesheimer Ring"
 housenumber: 176a

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9441113
 longitude: 6.625879100000001
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Humboldtstraße"
 housenumber: 15

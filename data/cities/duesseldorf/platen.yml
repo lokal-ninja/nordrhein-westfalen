@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.175756400000004
 longitude: 6.833445200000001
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 7

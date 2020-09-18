@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8853427
 longitude: 8.359389
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Auf'm Kampe"
 housenumber: 1-11

@@ -3,7 +3,7 @@ type: way
 shop: Werkzeuge
 latitude: 52.2124734
 longitude: 8.814777600000001
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Mindener Straße"
 housenumber: 87

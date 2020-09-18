@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9779617
 longitude: 6.101343900000001
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen
 street: "Gutenbergstraße"
 housenumber: 3

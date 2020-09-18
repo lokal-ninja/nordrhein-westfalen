@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6606856
 longitude: 6.7893032
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Neustraße"
 housenumber: 25

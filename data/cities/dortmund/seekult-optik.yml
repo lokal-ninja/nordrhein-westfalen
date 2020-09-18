@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.489989900000005
 longitude: 7.5066557000000005
-postcode: 44263
+postcode: "44263"
 city: Dortmund
 street: "Rudolf-Platte-Weg"
 housenumber: 11

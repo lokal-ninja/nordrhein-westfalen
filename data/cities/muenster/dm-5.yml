@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.9039007
 longitude: 7.643432300000001
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Marktallee"
 housenumber: 38

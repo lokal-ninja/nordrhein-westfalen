@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.0276824
 longitude: 8.905119500000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Papenstraße"
 housenumber: 57a

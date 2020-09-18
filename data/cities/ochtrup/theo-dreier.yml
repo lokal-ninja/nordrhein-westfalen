@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.2090734
 longitude: 7.1881956
-postcode: 48607
+postcode: "48607"
 city: Ochtrup
 street: "Weinerstraße"
 housenumber: 20

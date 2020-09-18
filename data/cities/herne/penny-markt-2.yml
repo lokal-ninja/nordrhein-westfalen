@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.532076800000006
 longitude: 7.1908542
-postcode: 44625
+postcode: "44625"
 city: Herne
 street: "Bielefelder Straße"
 housenumber: 130

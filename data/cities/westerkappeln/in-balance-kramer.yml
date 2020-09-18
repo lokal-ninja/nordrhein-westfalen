@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.3149907
 longitude: 7.8809345
-postcode: 49492
+postcode: "49492"
 city: Westerkappeln
 street: "Gartenstraße"
 housenumber: 18

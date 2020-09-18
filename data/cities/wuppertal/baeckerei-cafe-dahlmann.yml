@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.307014200000005
 longitude: 7.2574737
-postcode: 42279
+postcode: "42279"
 city: Wuppertal
 street: "Porschestraße"
 housenumber: 23

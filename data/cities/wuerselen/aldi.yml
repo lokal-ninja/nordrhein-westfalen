@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8095646
 longitude: 6.1426181
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Am alten Kaninsberg"
 housenumber: 5

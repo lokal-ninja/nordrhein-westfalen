@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.4378499
 longitude: 7.160571200000001
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Polterberg"
 housenumber: 28

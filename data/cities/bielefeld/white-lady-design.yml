@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9874595
 longitude: 8.511828000000001
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Treppenstraße"
 housenumber: 18a

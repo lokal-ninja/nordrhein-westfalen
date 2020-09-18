@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1166963
 longitude: 7.396137700000001
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Marktstraße"
 housenumber: 23

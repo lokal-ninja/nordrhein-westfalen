@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.056940700000006
 longitude: 7.360822000000001
-postcode: 48366
+postcode: "48366"
 city: Laer
 street: "Klingenhagen"
 housenumber: 30

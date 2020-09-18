@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.421582
 longitude: 7.438448200000001
-postcode: 58313
+postcode: "58313"
 city: Herdecke
 street: "Ostender Weg"
 housenumber: 12

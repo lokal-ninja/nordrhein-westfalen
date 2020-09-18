@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.916325400000005
 longitude: 8.3901833
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Gneisenaustraße"
 housenumber: 1

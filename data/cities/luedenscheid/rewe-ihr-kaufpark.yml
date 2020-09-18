@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.238528800000005
 longitude: 7.6085691
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Brockhauser Weg"
 housenumber: 99

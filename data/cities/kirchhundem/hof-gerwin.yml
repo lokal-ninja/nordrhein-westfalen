@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.0960084
 longitude: 8.0979247
-postcode: 57399
+postcode: "57399"
 city: Kirchhundem
 street: "Bettinghof"
 housenumber: 2

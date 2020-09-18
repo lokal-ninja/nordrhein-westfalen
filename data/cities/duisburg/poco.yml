@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.4233988
 longitude: 6.7471414
-postcode: 47053
+postcode: "47053"
 city: Duisburg
 street: "Fehrbellinstraße"
 housenumber: 50

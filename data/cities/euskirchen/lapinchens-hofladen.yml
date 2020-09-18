@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.6177447
 longitude: 6.8518432
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Dompfaffstraße"
 housenumber: 34

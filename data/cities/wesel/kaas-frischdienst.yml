@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6748398
 longitude: 6.610925000000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Grünstraße"
 housenumber: 120

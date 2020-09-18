@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.668010900000006
 longitude: 7.177247
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Drachenburgstraße"
 housenumber: 18

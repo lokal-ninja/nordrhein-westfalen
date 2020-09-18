@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1648106
 longitude: 6.837858700000001
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Am Trippelsberg"
 housenumber: 92

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 51.3455511
 longitude: 6.5302723
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Mevissenstraße"
 housenumber: 64a

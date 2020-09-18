@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.499887900000004
 longitude: 7.2548187
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Harpener Heide"
 housenumber: 1

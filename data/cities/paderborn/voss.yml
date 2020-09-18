@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.7204775
 longitude: 8.7502169
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kisau"
 housenumber: 21

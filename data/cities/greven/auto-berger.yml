@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.132706600000006
 longitude: 7.547550200000001
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Emsdettener Landstraße"
 housenumber: 24

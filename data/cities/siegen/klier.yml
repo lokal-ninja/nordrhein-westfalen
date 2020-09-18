@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.857092900000005
 longitude: 8.0101034
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Eiserfelder Straße"
 housenumber: 170

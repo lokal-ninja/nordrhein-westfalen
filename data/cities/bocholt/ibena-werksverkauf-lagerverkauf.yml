@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.8337159
 longitude: 6.6258271
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Industriestraße"
 housenumber: 9

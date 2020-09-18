@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5924209
 longitude: 7.344054000000001
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Emscherstraße"
 housenumber: 8

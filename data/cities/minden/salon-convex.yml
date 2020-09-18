@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2895449
 longitude: 8.9274087
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Kaiserstraße"
 housenumber: 11

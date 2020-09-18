@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.9357064
 longitude: 6.949526100000001
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Neumarkt"
 housenumber: 3

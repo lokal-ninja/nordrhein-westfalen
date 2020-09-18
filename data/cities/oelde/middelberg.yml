@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8229666
 longitude: 8.1452103
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Lange Straße"
 housenumber: 39

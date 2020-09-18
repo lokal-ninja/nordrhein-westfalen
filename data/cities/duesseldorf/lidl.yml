@@ -1,12 +1,12 @@
-id: 4777508221
+id: 1561453960
 type: node
 shop: Supermarkt
-latitude: 51.2182593
-longitude: 6.778720000000001
-postcode: 40215
+latitude: 51.2229211
+longitude: 6.7736175
+postcode: "40213"
 city: Düsseldorf
-street: "Königsallee"
-housenumber: 63-65
+street: "Benrather Straße"
+housenumber: 7b
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

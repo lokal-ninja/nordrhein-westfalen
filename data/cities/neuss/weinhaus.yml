@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 51.1947892
 longitude: 6.641860500000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Bauerbahn"
 housenumber: 5

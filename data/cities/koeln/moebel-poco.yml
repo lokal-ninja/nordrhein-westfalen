@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.9085897
 longitude: 7.0693143
-postcode: 51149
+postcode: "51149"
 city: Köln
 street: "Fuggerstraße"
 housenumber: 43-45

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.613094600000004
 longitude: 8.3516861
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Wemberweg"
 housenumber: 4

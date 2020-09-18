@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4286818
 longitude: 6.840864000000001
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Hornhof"
 housenumber: 2

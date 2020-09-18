@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.9299776
 longitude: 8.119050900000001
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Warendorfer Straße"
 housenumber: 18

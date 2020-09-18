@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9295765
 longitude: 8.425087600000001
-postcode: 57334
+postcode: "57334"
 city: Bad Laasphe
 street: "Ludwig-Koch-Straße"
 housenumber: 9

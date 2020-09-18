@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0144889
 longitude: 8.621105700000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Lange Wand"
 housenumber: 8

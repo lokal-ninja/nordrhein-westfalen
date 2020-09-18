@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2861996
 longitude: 7.4637428
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Windmühlenstraße"
 housenumber: 3

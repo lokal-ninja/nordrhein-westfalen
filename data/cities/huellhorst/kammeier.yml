@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2639507
 longitude: 8.7045344
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Bredenhop"
 housenumber: 29

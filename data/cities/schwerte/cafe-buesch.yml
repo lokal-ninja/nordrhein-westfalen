@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.422639200000006
 longitude: 7.5276528
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: ""
 housenumber: 

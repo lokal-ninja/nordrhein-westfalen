@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.558922700000004
 longitude: 7.0919229
-postcode: 45891
+postcode: "45891"
 city: Gelsenkirchen
 street: "Cranger Straße"
 housenumber: 294

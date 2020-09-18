@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.279299300000005
 longitude: 6.615785600000001
-postcode: 40670
+postcode: "40670"
 city: Meerbusch
 street: "Krefelder Straße"
 housenumber: 84

@@ -1,4 +1,4 @@
 ---
-title: "human INKstinct  Tattoostudio"
+title: "human INKstinct Tattoostudio"
 url: /schwerte/human-inkstinct-tattoostudio/
 ---

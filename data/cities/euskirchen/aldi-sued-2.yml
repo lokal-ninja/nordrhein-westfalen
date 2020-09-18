@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6670534
 longitude: 6.806460100000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Stresemannstraße"
 housenumber: 3

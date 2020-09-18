@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0095791
 longitude: 8.595566100000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 236

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.929748100000005
 longitude: 8.1167589
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Bahnhofstraße"
 housenumber: 1

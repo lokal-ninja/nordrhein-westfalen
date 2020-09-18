@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.2023018
 longitude: 6.718184300000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2

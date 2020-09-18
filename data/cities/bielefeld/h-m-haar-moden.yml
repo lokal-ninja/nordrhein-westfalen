@@ -1,12 +1,12 @@
-id: 1057700851
+id: 1372521281
 type: node
 shop: Friseur
-latitude: 52.010105700000004
-longitude: 8.5939808
-postcode: 33719
+latitude: 52.0107883
+longitude: 8.593408100000001
+postcode: "33719"
 city: Bielefeld
 street: "Oldentruper Straße"
-housenumber: 236
+housenumber: 240
 phone: "+49-521-203111"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: ""
 website: ""

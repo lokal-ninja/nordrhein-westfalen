@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.745154400000004
 longitude: 7.0858596
-postcode: 53117
+postcode: "53117"
 city: Bonn
 street: "Kölnstraße"
 housenumber: 251

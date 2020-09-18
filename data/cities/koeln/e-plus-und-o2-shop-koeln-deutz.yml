@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9368573
 longitude: 6.9773075
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Deutzer Freiheit"
 housenumber: 116

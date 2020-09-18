@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.383742100000006
 longitude: 7.430801400000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Vorhaller Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.6449471
 longitude: 8.5105859
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Lindenweg"
 housenumber: 1

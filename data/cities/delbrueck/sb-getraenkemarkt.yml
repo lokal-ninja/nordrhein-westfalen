@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.7349064
 longitude: 8.6139171
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Bentfelder Straße"
 housenumber: 40

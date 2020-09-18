@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.527295300000006
 longitude: 7.5182735
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Unterste-Wilms-Straße"
 housenumber: 7

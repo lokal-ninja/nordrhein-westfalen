@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.4581529
 longitude: 6.986315
-postcode: 45143
+postcode: "45143"
 city: Essen
 street: "Haedenkampstraße"
 housenumber: 21

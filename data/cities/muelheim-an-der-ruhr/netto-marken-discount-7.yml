@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3939151
 longitude: 6.8735483
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Remscheider Straße"
 housenumber: 4

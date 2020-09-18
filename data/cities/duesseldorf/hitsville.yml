@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.2243882
 longitude: 6.7735136
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Wallstraße"
 housenumber: 21

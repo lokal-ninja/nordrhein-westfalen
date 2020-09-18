@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.907948100000006
 longitude: 7.481533000000001
-postcode: 48308
+postcode: "48308"
 city: Senden
 street: "Im Südfeld"
 housenumber: 96

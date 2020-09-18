@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7822395
 longitude: 8.8187725
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Detmolder Straße"
 housenumber: 144

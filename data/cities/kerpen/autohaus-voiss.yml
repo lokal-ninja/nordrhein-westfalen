@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8460698
 longitude: 6.7802267
-postcode: 50169
+postcode: "50169"
 city: Kerpen
 street: "Heerstraße"
 housenumber: 484

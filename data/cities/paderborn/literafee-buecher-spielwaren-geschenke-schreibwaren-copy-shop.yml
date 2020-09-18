@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7474099
 longitude: 8.7153636
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Hatzfelder Platz"
 housenumber: 

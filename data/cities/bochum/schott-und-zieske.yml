@@ -1,12 +1,12 @@
 id: 5779319654
 type: node
 shop: Autowerkstatt
-latitude: 51.4838943
-longitude: 7.244991700000001
-postcode: 44791
+latitude: 51.4840875
+longitude: 7.245645000000001
+postcode: "44791"
 city: Bochum
 street: "Harpener Straße"
-housenumber: 14
+housenumber: 16
 phone: ""
 opening_hours: ""
 website: ""

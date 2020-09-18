@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.163640900000004
 longitude: 6.8711719
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Börchemstraße"
 housenumber: 1

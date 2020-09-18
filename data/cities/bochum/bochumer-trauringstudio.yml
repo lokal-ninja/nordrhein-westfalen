@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.483748500000004
 longitude: 7.217500500000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 111

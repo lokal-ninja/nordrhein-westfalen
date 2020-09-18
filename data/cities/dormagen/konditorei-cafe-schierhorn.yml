@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.114890700000004
 longitude: 6.7723293
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Neusser Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.7976326
 longitude: 7.7403173
-postcode: 48317
+postcode: "48317"
 city: Drensteinfurt
 street: "Wagenfeldstraße"
 housenumber: 20

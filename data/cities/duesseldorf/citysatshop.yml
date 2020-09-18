@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.163416500000004
 longitude: 6.8655084
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Benrodestraße"
 housenumber: 43

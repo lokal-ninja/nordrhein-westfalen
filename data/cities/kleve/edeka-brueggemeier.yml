@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7926311
 longitude: 6.140790900000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Ludwig-Jahn-Straße"
 housenumber: 7-15

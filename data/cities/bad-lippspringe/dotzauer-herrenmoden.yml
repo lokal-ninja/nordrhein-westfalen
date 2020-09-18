@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.782484700000005
 longitude: 8.8213162
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Arminiuspark"
 housenumber: 15

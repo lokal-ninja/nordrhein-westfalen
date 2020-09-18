@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 51.479049100000005
 longitude: 7.2167683
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 47

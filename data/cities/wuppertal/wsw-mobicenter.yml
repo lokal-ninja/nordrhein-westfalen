@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.256252200000006
 longitude: 7.146591000000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Wall"
 housenumber: 31

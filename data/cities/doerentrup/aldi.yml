@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0336597
 longitude: 9.0040825
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Lemgoer Straße"
 housenumber: 2a

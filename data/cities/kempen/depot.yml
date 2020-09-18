@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.3651026
 longitude: 6.420929200000001
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Orsaystraße"
 housenumber: 9

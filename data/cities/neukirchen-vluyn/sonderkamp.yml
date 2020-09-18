@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4515566
 longitude: 6.578420800000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Lindenstraße"
 housenumber: 

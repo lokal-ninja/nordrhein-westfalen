@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.1881816
 longitude: 6.9945648
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Düsseldorfer Straße"
 housenumber: 28

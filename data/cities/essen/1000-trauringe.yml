@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.452544200000006
 longitude: 7.0148628
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Hollestraße"
 housenumber: 1a

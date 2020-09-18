@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1991364
 longitude: 6.781757300000001
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 81

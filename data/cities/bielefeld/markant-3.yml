@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0354031
 longitude: 8.506582100000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Kurt-Schumacher-Straße"
 housenumber: 25

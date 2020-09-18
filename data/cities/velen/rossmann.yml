@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.8954998
 longitude: 6.9876351
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Coesfelder Straße"
 housenumber: 9

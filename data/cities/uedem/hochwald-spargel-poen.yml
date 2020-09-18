@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6822121
 longitude: 6.330189300000001
-postcode: 47589
+postcode: "47589"
 city: Uedem
 street: "Am Hochwald"
 housenumber: 5

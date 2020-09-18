@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.432367600000006
 longitude: 7.0362464000000005
-postcode: 45136
+postcode: "45136"
 city: Essen
 street: "Rellinghauser Straße"
 housenumber: 334H

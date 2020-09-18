@@ -1,12 +1,12 @@
-id: 43387981
+id: 43760855
 type: way
 shop: Supermarkt
-latitude: 50.8806597
-longitude: 7.069101600000001
-postcode: 51145
+latitude: 50.940529500000004
+longitude: 7.0133799
+postcode: "51103"
 city: Köln
-street: "Kaiserstraße"
-housenumber: 99
+street: "Kasernenstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: ""
 website: ""

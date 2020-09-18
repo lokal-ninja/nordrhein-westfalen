@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.129804500000006
 longitude: 7.2008741
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Braunsberger Straße"
 housenumber: 2

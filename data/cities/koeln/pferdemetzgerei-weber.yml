@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9623222
 longitude: 6.9982183000000004
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Lohmühlenstraße"
 housenumber: 8

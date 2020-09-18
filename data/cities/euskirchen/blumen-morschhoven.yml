@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6521963
 longitude: 6.8030949000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 117

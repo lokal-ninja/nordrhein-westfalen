@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.47897570000001
 longitude: 7.2209938000000005
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kurt-Schumacher-Platz"
 housenumber: 3

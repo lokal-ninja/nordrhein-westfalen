@@ -1,4 +1,4 @@
 ---
-title: "SerVicePunkt"
+title: "Servicepunkt"
 url: /stolberg-rhld/servicepunkt/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.7664856
 longitude: 8.943171600000001
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Bahnhofstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.6477026
 longitude: 6.803310300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Narzissenweg"
 housenumber: 18a

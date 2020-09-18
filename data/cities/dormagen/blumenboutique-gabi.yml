@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.097717
 longitude: 6.832261000000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Pommernallee"
 housenumber: 26

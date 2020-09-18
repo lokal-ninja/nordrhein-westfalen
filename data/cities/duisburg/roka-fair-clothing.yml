@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.427800100000006
 longitude: 6.795021500000001
-postcode: 47057
+postcode: "47057"
 city: Duisburg
 street: "Gneisenaustraße"
 housenumber: 102

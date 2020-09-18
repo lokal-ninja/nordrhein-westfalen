@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.485269800000005
 longitude: 6.9941693
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Krablerstraße"
 housenumber: 127

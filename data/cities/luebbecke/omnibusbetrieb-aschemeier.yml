@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.325857500000005
 longitude: 8.6196053
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Borsigstraße"
 housenumber: 14a

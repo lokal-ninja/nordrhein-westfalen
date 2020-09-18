@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.520405700000005
 longitude: 7.4882343
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Im Spähenfelde"
 housenumber: 51

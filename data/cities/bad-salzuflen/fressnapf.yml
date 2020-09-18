@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.077745400000005
 longitude: 8.750045100000001
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Hoffmannstraße"
 housenumber: 30

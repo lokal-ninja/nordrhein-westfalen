@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9533952
 longitude: 6.6351544
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "An der Stadtmauer"
 housenumber: 3

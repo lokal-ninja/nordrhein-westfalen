@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.732812700000004
 longitude: 6.595971400000001
-postcode: 52391
+postcode: "52391"
 city: Vettweiß
 street: "Gereonstraße"
 housenumber: 137e

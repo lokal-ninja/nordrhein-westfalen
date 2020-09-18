@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5599937
 longitude: 8.080512500000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Schloitweg"
 housenumber: 16

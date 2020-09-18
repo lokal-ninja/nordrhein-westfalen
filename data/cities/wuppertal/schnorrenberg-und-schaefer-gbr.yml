@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.246821800000006
 longitude: 7.0953441
-postcode: 42327
+postcode: "42327"
 city: Wuppertal
 street: "Deutscher Ring"
 housenumber: 65

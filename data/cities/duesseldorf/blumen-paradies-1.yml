@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2634069
 longitude: 6.8198758
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Westfalenstraße"
 housenumber: 97

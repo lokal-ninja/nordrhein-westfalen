@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.024104300000005
 longitude: 7.5517642
-postcode: 
+postcode: ""
 city: Gummersbach
 street: "Hömerichstraße"
 housenumber: 3

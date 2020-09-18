@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5654581
 longitude: 7.0462078
-postcode: 45897
+postcode: "45897"
 city: Gelsenkirchen
 street: "Horster Straße"
 housenumber: 186

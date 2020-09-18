@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 50.658484300000005
 longitude: 6.832415200000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Lisztstraße"
 housenumber: 36
-phone: ""
+phone: "+49 162 1095596"
 opening_hours: ""
 website: ""

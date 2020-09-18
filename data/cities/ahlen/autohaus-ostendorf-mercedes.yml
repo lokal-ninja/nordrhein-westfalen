@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.749268400000005
 longitude: 7.899194100000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Am Vatheuershof"
 housenumber: 3

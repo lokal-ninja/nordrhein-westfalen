@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.209484100000005
 longitude: 6.8149981
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Im Liefeld"
 housenumber: 38

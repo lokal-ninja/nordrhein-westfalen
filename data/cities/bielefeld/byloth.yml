@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0198271
 longitude: 8.5329327
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Steinstraße"
 housenumber: 7

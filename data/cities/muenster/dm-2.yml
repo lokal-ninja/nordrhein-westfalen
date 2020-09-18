@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.9600189
 longitude: 7.6267516
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Ludgeristraße"
 housenumber: 100

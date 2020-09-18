@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.463019700000004
 longitude: 6.8342631
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Flockenfeld"
 housenumber: 2

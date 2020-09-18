@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 51.766628600000004
 longitude: 7.895175900000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Lütkeweg"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00"
 website: ""

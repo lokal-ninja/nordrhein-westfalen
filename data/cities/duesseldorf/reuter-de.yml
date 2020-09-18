@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.215233600000005
 longitude: 6.7557809
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Zollhof"
 housenumber: 3

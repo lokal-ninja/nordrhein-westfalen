@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.046455800000004
 longitude: 8.5436209
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Beckhausstraße"
 housenumber: 129

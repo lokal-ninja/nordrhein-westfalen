@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 52.012814500000005
 longitude: 9.0575401
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Bahnhofstraße"
 housenumber: 49

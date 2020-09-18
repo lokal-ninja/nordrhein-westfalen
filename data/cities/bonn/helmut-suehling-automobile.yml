@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7014848
 longitude: 7.1252043
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Servatiusstraße"
 housenumber: 23

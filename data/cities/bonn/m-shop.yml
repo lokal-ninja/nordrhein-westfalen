@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.7373296
 longitude: 7.092450400000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Franzstraße"
 housenumber: 32

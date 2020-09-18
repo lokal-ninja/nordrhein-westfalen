@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3474525
 longitude: 6.6184437
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Uerdinger Straße"
 housenumber: 614

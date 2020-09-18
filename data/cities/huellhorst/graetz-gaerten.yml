@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.269313800000006
 longitude: 8.6759155
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Löhner Straße"
 housenumber: 25

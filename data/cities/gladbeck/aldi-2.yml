@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5697174
 longitude: 6.996098000000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Horster Straße"
 housenumber: 55b

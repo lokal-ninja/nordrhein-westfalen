@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.786299400000004
 longitude: 6.1369005
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 5

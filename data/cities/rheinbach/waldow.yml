@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6281619
 longitude: 6.9614935000000004
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Römerkanal"
 housenumber: 64

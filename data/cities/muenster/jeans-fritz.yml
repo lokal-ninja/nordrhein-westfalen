@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.958542400000006
 longitude: 7.5696278
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Gartenbreie"
 housenumber: 1

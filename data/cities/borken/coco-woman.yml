@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.8443697
 longitude: 6.858885600000001
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Mühlenstraße"
 housenumber: 1

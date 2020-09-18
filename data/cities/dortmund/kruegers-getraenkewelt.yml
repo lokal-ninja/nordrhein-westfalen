@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.499239800000005
 longitude: 7.3453337
-postcode: 44388
+postcode: "44388"
 city: Dortmund
 street: "Lütgendortmunder Straße"
 housenumber: 73

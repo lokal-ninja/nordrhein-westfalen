@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.4237314
 longitude: 7.531854500000001
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Reichshofstraße"
 housenumber: 30

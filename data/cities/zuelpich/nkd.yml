@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6982663
 longitude: 6.6601623000000005
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Römerallee"
 housenumber: 48c

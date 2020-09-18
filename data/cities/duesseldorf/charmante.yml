@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2096177
 longitude: 6.7771387
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 138

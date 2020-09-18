@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.287632300000006
 longitude: 7.2701041
-postcode: 58332
+postcode: "58332"
 city: Schwelm
 street: "Saarstraße"
 housenumber: 9

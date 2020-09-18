@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.7313703
 longitude: 8.7934455
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Friedrich-List-Straße"
 housenumber: 35a/b

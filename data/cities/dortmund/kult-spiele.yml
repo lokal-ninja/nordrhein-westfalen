@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 51.515264300000005
 longitude: 7.463402100000001
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "Kampstraße"
 housenumber: 35-37

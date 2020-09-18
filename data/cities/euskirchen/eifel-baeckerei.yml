@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.612121
 longitude: 6.7917361000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Weingartenstraße"
 housenumber: 8

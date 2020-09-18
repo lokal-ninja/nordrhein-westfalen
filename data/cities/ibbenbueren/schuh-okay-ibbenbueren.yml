@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.2758206
 longitude: 7.715629900000001
-postcode: 49477
+postcode: "49477"
 city: Ibbenbüren
 street: "Marktstraße"
 housenumber: 1

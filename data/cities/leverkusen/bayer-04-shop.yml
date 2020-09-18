@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.0322606
 longitude: 6.986775700000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Wiesdorfer Platz"
 housenumber: 9

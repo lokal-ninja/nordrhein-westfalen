@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.839032
 longitude: 6.6133636000000005
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Josef-Jakob-Platz"
 housenumber: 3

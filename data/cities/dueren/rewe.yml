@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.790019900000004
 longitude: 6.500659300000001
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Dechant-Bohnekamp-Straße"
 housenumber: 116
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: "https://www.rewe.de/marktseite/dueren/321042/rewe-markt-dechant-bohnekamp-strasse-116/"

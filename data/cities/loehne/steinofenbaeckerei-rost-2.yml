@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.2098456
 longitude: 8.6828494
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Ellerbuscher Straße"
 housenumber: 80

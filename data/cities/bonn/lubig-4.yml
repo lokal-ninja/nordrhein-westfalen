@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7140393
 longitude: 7.057694000000001
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Schieffelingsweg"
 housenumber: 10

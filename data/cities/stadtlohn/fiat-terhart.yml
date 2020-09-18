@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.983406
 longitude: 6.9043676000000005
-postcode: 48703
+postcode: "48703"
 city: Stadtlohn
 street: "Daimlerstraße"
 housenumber: 24

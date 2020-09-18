@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.925266500000006
 longitude: 6.0997366
-postcode: 52531
+postcode: "52531"
 city: Übach-Palenberg
 street: "Aachener Straße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9920868
 longitude: 8.6060657
-postcode: 33699
+postcode: "33699"
 city: Bielefeld
 street: "Oerlinghauser Straße"
 housenumber: 8a

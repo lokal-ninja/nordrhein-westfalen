@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.159851700000004
 longitude: 6.499844400000001
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Erftstraße"
 housenumber: 30

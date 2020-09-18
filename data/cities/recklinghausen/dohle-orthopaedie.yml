@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.611995400000005
 longitude: 7.1979518
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Kaiserwall"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5561628
 longitude: 8.0850407
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Schloitweg"
 housenumber: 3

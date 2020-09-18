@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.166354600000005
 longitude: 6.4441782000000005
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Stresemannstraße"
 housenumber: 43

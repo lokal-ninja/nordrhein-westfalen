@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.048255600000005
 longitude: 8.3338021
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Postweg"
 housenumber: 53

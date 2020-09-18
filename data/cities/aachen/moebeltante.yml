@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.7707533
 longitude: 6.0845970000000005
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Franzstraße"
 housenumber: 28

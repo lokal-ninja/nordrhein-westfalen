@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.729238800000005
 longitude: 7.100712000000001
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Heinrich-von-Kleist-Straße"
 housenumber: 10

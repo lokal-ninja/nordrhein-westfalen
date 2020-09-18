@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.4790329
 longitude: 7.219061900000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Luisenstraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Tu,Th,Fr 10:00-19:00; We 10:00-18:30; Sa 10:00-16:00"
 website: ""

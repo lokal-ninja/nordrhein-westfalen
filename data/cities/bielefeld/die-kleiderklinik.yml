@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.0352742
 longitude: 8.5067272
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Jakob-Kaiser-Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.662604400000006
 longitude: 6.9640073000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 33

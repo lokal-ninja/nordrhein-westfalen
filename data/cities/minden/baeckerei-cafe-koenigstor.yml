@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.292246500000005
 longitude: 8.8862213
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Königstraße"
 housenumber: 162

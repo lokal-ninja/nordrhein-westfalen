@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.316250100000005
 longitude: 6.4748045
-postcode: 47918
+postcode: "47918"
 city: Tönisvorst
 street: "Höhenhöfe"
 housenumber: 17

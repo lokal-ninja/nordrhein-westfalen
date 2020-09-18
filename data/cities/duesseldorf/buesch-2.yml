@@ -1,12 +1,12 @@
-id: 3638793208
+id: 5196345771
 type: node
 shop: Bäckerei
-latitude: 51.1961273
-longitude: 6.8164696000000005
-postcode: 40591
+latitude: 51.245015200000005
+longitude: 6.782665300000001
+postcode: "40476"
 city: Düsseldorf
-street: "Harffstraße"
-housenumber: 53
+street: "Golzheimer Straße"
+housenumber: 129
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-12:00; PH 07:00-12:00"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-18:00; Su 07:00-12:00"
 website: ""

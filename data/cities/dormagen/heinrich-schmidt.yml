@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.0915413
 longitude: 6.8096581
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Hamburger Straße"
 housenumber: 11

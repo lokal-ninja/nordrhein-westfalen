@@ -1,12 +1,12 @@
-id: 1639388256
-type: node
+id: 26793191
+type: way
 shop: Supermarkt
-latitude: 52.093754100000005
-longitude: 7.6059121
-postcode: 48268
+latitude: 52.1095223
+longitude: 7.6129829
+postcode: "48268"
 city: Greven
-street: "Kardinal-von-Galen-Straße"
-housenumber: 4
+street: "Saerbecker Straße"
+housenumber: 128
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://www.aldi-nord.de/"

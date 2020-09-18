@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5639526
 longitude: 7.522663400000001
-postcode: 44329
+postcode: "44329"
 city: Dortmund
 street: "Nikolaus-Groß-Straße"
 housenumber: 18

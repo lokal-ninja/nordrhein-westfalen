@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.137916800000006
 longitude: 8.0150438
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Kölner Straße"
 housenumber: 

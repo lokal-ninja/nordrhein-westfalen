@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.9160606
 longitude: 6.927262000000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.731932300000004
 longitude: 6.2953269
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Talstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9896328
 longitude: 7.4727309
-postcode: 51766
+postcode: "51766"
 city: Engelskirchen
 street: "Gummersbacher Straße"
 housenumber: 2

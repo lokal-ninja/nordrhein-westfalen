@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7586913
 longitude: 8.720019800000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Dubelohstraße"
 housenumber: 268

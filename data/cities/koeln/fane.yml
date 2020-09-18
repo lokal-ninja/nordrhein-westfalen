@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.90945910000001
 longitude: 6.9697768
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Goltsteinstraße"
 housenumber: 85

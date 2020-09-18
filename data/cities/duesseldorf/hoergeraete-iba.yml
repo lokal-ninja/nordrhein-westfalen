@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.2078281
 longitude: 6.777715700000001
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Brunnenstraße"
 housenumber: 2a

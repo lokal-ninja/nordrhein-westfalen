@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.37722230000001
 longitude: 8.9709558
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Mindener Straße"
 housenumber: 17

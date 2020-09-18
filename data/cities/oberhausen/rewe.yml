@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4697995
 longitude: 6.822892800000001
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Duisburger Straße"
 housenumber: 531

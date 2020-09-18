@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.7630971
 longitude: 7.890511500000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Oststraße"
 housenumber: 67

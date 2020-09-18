@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.04383850000001
 longitude: 8.5311462
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Apfelstraße"
 housenumber: 85

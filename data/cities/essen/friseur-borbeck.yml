@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.473842700000006
 longitude: 6.9508057
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Marktstraße"
 housenumber: 32

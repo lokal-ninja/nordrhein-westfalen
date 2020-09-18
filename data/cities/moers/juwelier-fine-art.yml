@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.451122500000004
 longitude: 6.6275608
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Steinstraße"
 housenumber: 24

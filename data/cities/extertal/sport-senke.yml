@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.0654587
 longitude: 9.119545200000001
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Hackemackweg"
 housenumber: 24a

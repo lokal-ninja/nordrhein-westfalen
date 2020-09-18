@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8113669
 longitude: 7.037651800000001
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Hauptstraße"
 housenumber: 13a

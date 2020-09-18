@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.93806480000001
 longitude: 8.8828229
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Behringstraße"
 housenumber: 3a

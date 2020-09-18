@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.8818749
 longitude: 8.0282415
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Sandstraße"
 housenumber: 163

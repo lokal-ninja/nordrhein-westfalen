@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.660728600000006
 longitude: 6.7884323
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 30

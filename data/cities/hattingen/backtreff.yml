@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3992288
 longitude: 7.184216500000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Heggerstraße"
 housenumber: 11

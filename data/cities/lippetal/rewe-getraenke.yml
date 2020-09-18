@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6640555
 longitude: 8.142869600000001
-postcode: 59510
+postcode: "59510"
 city: Lippetal
 street: "Lippborger Straße"
 housenumber: 12

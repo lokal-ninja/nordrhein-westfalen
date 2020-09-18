@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6416015
 longitude: 7.2779325
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Ewaldstraße"
 housenumber: 130

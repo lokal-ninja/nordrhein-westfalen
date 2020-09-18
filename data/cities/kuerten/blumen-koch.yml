@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.0392749
 longitude: 7.209674700000001
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Kölner Straße"
 housenumber: 384

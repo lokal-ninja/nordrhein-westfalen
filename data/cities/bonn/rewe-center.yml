@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.7430293
 longitude: 7.1581453
-postcode: 53229
+postcode: "53229"
 city: Bonn
 street: "Am Weidenbach"
 housenumber: 31
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: ""

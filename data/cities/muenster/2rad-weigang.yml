@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.996388100000004
 longitude: 7.6134417
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Grevener Straße"
 housenumber: 434

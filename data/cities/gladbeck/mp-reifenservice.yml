@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.5533835
 longitude: 6.9906341
-postcode: 45968
+postcode: "45968"
 city: Gladbeck
 street: "Europastraße"
 housenumber: 30

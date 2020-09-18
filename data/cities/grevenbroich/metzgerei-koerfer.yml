@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0889037
 longitude: 6.5868101
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Bahnstraße"
 housenumber: 8

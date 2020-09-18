@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.0414831
 longitude: 6.1482261000000005
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Jägerstraße"
 housenumber: 38

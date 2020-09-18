@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 51.601798200000005
 longitude: 6.6887316000000006
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Friedhofstraße"
 housenumber: 35

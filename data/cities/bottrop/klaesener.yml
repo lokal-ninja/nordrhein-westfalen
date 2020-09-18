@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.603817400000004
 longitude: 6.9195150000000005
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Hauptstraße"
 housenumber: 25

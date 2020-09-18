@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9668368
 longitude: 6.911882
-postcode: 50827
+postcode: "50827"
 city: Köln
 street: "Ossendorfer Straße"
 housenumber: 306

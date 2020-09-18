@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.177993
 longitude: 6.7404983000000005
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Bonner Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.840988200000005
 longitude: 7.2878555
-postcode: 48249
+postcode: "48249"
 city: Dülmen
 street: "Münsterstraße"
 housenumber: 158

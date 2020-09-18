@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7207056
 longitude: 8.136479600000001
-postcode: 57299
+postcode: "57299"
 city: Burbach
 street: "Bahnhofsplatz"
 housenumber: 2

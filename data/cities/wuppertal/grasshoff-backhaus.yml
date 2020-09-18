@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2303203
 longitude: 7.0677327000000005
-postcode: 42329
+postcode: "42329"
 city: Wuppertal
 street: "Vohwinkeler Straße"
 housenumber: 22

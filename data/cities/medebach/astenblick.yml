@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2224821
 longitude: 8.603263100000001
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Winterberger Straße"
 housenumber: 9-11

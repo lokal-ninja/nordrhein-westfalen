@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.53390520000001
 longitude: 6.953965800000001
-postcode: 46238
+postcode: "46238"
 city: Bottrop
 street: "Horster Straße"
 housenumber: 262

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8837848
 longitude: 8.0267826
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Sieghütter Hauptweg"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.164797
 longitude: 6.79133
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Rheinfährstraße"
 housenumber: 179

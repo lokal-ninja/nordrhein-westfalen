@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.331245
 longitude: 6.793863300000001
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Graf-Engelbert-Straße"
 housenumber: 37

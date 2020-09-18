@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8377016
 longitude: 6.4592055
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Stromberg"
 housenumber: 1

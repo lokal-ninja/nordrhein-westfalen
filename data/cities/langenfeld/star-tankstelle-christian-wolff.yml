@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.104410800000004
 longitude: 6.9439910000000005
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Düsseldorfer Straße"
 housenumber: 42-44

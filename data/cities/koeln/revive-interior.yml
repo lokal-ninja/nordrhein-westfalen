@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.954943400000005
 longitude: 7.003145000000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Bertoldistraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.542030200000006
 longitude: 7.217204700000001
-postcode: 44629
+postcode: "44629"
 city: Herne
 street: "Von-der-Heydt-Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.3512556
 longitude: 8.518960400000001
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Auf dem Buchholz"
 housenumber: 1

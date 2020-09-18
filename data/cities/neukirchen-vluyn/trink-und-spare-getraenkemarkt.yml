@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4572974
 longitude: 6.5787415000000005
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Neukirchener Ring"
 housenumber: 1

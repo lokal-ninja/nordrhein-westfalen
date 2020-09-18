@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.498629400000006
 longitude: 6.839797000000001
-postcode: 46149
+postcode: "46149"
 city: Oberhausen
 street: "Max-Eyth-Straße"
 housenumber: 3-7

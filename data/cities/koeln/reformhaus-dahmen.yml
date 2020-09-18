@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9295702
 longitude: 6.913745100000001
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 192-194

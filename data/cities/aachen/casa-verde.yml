@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.77407040000001
 longitude: 6.0876757
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 6

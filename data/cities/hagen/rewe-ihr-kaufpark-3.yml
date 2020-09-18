@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3560042
 longitude: 7.513459600000001
-postcode: 58093
+postcode: "58093"
 city: Hagen
 street: "Karl-Ernst-Osthaus-Straße"
 housenumber: 90

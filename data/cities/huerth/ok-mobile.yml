@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9008126
 longitude: 6.899275500000001
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Berrenrather Straße"
 housenumber: 513

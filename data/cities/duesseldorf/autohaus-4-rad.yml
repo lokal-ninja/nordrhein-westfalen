@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2125549
 longitude: 6.8589083
-postcode: 40627
+postcode: "40627"
 city: Düsseldorf
 street: "In den Kötten"
 housenumber: 10

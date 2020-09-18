@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1075327
 longitude: 7.9559226
-postcode: 57439
+postcode: "57439"
 city: Attendorn
 street: "Zum Kalkofen"
 housenumber: 18

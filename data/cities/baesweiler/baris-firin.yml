@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9111695
 longitude: 6.1784495
-postcode: 52499
+postcode: "52499"
 city: Baesweiler
 street: "Reyplatz"
 housenumber: 8

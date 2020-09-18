@@ -3,7 +3,7 @@ type: node
 shop: Gerberei
 latitude: 51.167889100000004
 longitude: 6.684560800000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 498h

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.616891200000005
 longitude: 8.8952171
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Lange Straße"
 housenumber: 26

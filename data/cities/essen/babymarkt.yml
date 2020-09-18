@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 51.428523500000004
 longitude: 7.0522489
-postcode: 45134
+postcode: "45134"
 city: Essen
 street: "Frankenstraße"
 housenumber: 46

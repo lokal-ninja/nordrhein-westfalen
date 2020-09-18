@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.748040700000004
 longitude: 8.7146702
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bielefelder Straße"
 housenumber: 13

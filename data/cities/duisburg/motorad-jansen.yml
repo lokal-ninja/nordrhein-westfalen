@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.418571
 longitude: 6.6925201
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Schauenstraße"
 housenumber: 31

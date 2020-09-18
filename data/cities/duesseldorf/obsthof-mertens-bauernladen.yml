@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.237297100000006
 longitude: 6.798713200000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 123

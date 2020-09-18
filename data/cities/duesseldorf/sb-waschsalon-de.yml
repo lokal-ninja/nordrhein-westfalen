@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1784581
 longitude: 6.8290056
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Kölner Landstraße"
 housenumber: 374

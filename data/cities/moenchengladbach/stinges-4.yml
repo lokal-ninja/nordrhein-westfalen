@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1999025
 longitude: 6.3958474
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Stationsweg"
 housenumber: 44

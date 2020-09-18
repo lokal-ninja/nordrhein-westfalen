@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.9038875
 longitude: 8.636941100000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Holter Straße"
 housenumber: 130

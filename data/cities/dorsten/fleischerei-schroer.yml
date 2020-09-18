@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.7197722
 longitude: 7.0134837
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Hervester Straße"
 housenumber: 10

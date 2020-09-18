@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.024215000000005
 longitude: 8.532044200000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Bahnhofstraße"
 housenumber: 15-17

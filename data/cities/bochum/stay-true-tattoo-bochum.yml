@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.4816525
 longitude: 7.2178674
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Grabenstraße"
 housenumber: 4

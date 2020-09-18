@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.198813200000004
 longitude: 8.5861266
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 1-3

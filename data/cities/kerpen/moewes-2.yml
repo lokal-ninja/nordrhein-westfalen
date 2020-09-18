@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.8706371
 longitude: 6.693978700000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Hahnenstraße"
 housenumber: 32

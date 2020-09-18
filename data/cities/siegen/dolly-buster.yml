@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.881895400000005
 longitude: 8.0269343
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Sieghütter Hauptweg"
 housenumber: 13

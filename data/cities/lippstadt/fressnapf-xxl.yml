@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.6540965
 longitude: 8.345763100000001
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Planckstraße"
 housenumber: 10

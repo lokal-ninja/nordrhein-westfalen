@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.4197514
 longitude: 6.8475032
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Saarner Straße"
 housenumber: 283

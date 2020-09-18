@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1013571
 longitude: 8.297124
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Jammerpatt"
 housenumber: 2

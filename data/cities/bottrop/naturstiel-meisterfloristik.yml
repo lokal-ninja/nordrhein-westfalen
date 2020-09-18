@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.515167600000005
 longitude: 6.914836500000001
-postcode: 46242
+postcode: "46242"
 city: Bottrop
 street: "Westring"
 housenumber: 43

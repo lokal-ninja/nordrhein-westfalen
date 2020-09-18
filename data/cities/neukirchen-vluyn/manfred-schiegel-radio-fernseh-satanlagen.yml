@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.4392452
 longitude: 6.532173500000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Leineweberplatz"
 housenumber: 7

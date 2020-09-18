@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.887975700000005
 longitude: 8.0256489
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Bismarckstraße"
 housenumber: 95a

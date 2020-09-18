@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2169466
 longitude: 6.8031058
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 186

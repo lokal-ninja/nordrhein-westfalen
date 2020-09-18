@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.2867832
 longitude: 8.908863100000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Königstraße"
 housenumber: 51

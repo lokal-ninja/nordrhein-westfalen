@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.232100900000006
 longitude: 6.7490126
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Quirinstraße"
 housenumber: 10

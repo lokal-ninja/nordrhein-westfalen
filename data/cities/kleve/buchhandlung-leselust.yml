@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.773566800000005
 longitude: 6.116797900000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Kapellenstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4569016
 longitude: 7.1758180000000005
-postcode: 44869
+postcode: "44869"
 city: Bochum
 street: "Am Thie"
 housenumber: 3a

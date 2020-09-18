@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.026259800000005
 longitude: 8.5354541
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 22

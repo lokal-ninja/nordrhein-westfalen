@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.993868600000006
 longitude: 8.488285300000001
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Friedrich-Wilhelms-Bleiche"
 housenumber: 8b

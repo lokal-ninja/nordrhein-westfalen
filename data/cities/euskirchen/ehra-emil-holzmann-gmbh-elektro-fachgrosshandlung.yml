@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 50.6232957
 longitude: 6.8442471000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 51

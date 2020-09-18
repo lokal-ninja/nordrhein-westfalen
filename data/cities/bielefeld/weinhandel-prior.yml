@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0223512
 longitude: 8.4738331
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Dornberger Straße"
 housenumber: 300

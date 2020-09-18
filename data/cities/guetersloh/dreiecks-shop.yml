@@ -3,7 +3,7 @@ type: way
 shop: E-Zigaretten
 latitude: 51.90630710000001
 longitude: 8.3758613
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Münsterstraße"
 housenumber: 19

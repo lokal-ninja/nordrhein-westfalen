@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.270713400000005
 longitude: 7.206808100000001
-postcode: 42289
+postcode: "42289"
 city: Wuppertal
 street: "Heckinghauser Straße"
 housenumber: 21-25

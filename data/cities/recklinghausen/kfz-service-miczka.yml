@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.6099292
 longitude: 7.1978955000000004
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Herner Straße"
 housenumber: 19

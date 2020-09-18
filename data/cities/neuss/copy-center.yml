@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.2018542
 longitude: 6.6837106
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Kapitelstraße"
 housenumber: 26

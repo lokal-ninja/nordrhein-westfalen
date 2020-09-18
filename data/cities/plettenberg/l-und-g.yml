@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.232697800000004
 longitude: 7.871639600000001
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Reichsstraße"
 housenumber: 56g

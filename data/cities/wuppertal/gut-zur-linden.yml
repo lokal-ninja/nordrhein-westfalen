@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.2215574
 longitude: 7.044985700000001
-postcode: 42327
+postcode: "42327"
 city: Wuppertal
 street: "Gruitener Straße"
 housenumber: 308

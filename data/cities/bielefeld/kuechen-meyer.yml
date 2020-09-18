@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.0561537
 longitude: 8.5196751
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 320

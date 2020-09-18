@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3934305
 longitude: 7.2615075000000004
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Im Hammertal"
 housenumber: 103

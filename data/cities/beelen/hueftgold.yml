@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 51.929482400000005
 longitude: 8.1162727
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Bahnhofstraße"
 housenumber: 3

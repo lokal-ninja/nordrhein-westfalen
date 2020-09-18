@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3390865
 longitude: 6.574431000000001
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Lessingstraße"
 housenumber: 50

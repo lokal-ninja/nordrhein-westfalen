@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6110327
 longitude: 8.3425096
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Berger Straße"
 housenumber: 16

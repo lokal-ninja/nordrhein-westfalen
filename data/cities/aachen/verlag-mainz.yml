@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.7870774
 longitude: 6.062772300000001
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Süsterfeldstraße"
 housenumber: 83

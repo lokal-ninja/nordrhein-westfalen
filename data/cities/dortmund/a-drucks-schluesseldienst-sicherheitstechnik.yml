@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.574152000000005
 longitude: 7.3848840000000004
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Williburgstraße"
 housenumber: 11

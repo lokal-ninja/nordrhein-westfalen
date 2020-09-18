@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.189483800000005
 longitude: 6.9994041000000005
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Bahnhofstraße"
 housenumber: 16

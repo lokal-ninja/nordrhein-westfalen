@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0929413
 longitude: 6.7643307
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Linden-Kirch-Platz"
 housenumber: 21

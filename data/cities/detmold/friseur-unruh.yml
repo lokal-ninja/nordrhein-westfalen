@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.9228699
 longitude: 8.845603500000001
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Friedrich-Ebert-Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.4513632
 longitude: 7.027955800000001
-postcode: 45138
+postcode: "45138"
 city: Essen
 street: "Heilermannstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.516910700000004
 longitude: 6.4664527000000005
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "An der Olef"
 housenumber: 50

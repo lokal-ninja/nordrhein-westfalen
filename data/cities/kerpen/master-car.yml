@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.8959478
 longitude: 6.682670900000001
-postcode: 50170
+postcode: "50170"
 city: Kerpen
 street: "Johannes-Kepler-Straße"
 housenumber: 21

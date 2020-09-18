@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.8062966
 longitude: 8.42559
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Mastholter Straße"
 housenumber: 2

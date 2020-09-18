@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.4247207
 longitude: 7.299479900000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Herbeder Straße"
 housenumber: 150

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.935956100000006
 longitude: 6.9545833
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "An St. Agatha"
 housenumber: 41

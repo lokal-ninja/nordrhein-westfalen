@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3800521
 longitude: 7.513548500000001
-postcode: 58093
+postcode: "58093"
 city: Hagen
 street: "Rohrstraße"
 housenumber: 5

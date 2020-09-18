@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.019841500000005
 longitude: 8.5533809
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Huberstraße"
 housenumber: 8

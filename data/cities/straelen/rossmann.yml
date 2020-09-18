@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4457753
 longitude: 6.2652616000000005
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Nordwall"
 housenumber: 7-9

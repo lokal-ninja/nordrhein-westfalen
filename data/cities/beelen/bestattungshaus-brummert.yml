@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.930285000000005
 longitude: 8.116661200000001
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Warendorfer Straße"
 housenumber: 30

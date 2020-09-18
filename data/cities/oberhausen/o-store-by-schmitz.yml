@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.515744000000005
 longitude: 6.8214382
-postcode: 46149
+postcode: "46149"
 city: Oberhausen
 street: "Erlenstraße"
 housenumber: 14a

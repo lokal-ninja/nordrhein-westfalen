@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.440295400000004
 longitude: 6.7554268
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Auf der Höhe"
 housenumber: 20

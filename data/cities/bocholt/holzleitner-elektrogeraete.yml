@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.839249200000005
 longitude: 6.6081937
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Westend"
 housenumber: 2-6

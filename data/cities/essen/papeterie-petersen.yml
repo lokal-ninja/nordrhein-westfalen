@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.4368769
 longitude: 7.0054989
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 107

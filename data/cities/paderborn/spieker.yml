@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7178004
 longitude: 8.7517367
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Am Abdinghof"
 housenumber: 30

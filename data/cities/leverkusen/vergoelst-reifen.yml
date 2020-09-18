@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.075144300000005
 longitude: 6.9927188000000005
-postcode: 51379
+postcode: "51379"
 city: Leverkusen
 street: "Düsseldorfer Straße"
 housenumber: 183

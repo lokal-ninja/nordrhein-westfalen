@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2400371
 longitude: 8.920223700000001
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Unter der Schalksburg"
 housenumber: 3

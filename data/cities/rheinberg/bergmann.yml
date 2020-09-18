@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.55092560000001
 longitude: 6.5966521
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
 street: "Xantener Straße"
 housenumber: 47

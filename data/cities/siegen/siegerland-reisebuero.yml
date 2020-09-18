@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.875278200000004
 longitude: 8.0171571
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Am Bahnhof"
 housenumber: 5

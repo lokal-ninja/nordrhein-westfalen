@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.9697381
 longitude: 8.2211734
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Prozessionsweg"
 housenumber: 41

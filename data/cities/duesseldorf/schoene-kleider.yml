@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2062766
 longitude: 6.7691419
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Planetenstraße"
 housenumber: 1

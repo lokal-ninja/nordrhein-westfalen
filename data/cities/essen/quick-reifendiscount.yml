@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.490766900000004
 longitude: 6.9534181
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Weidkamp"
 housenumber: 240

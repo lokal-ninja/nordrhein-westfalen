@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.832798800000006
 longitude: 7.0450264
-postcode: 48734
+postcode: "48734"
 city: Reken
 street: "Neue Mitte"
 housenumber: 12

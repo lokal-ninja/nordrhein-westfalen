@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5530905
 longitude: 6.5945033
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
 street: "Xantener Straße"
 housenumber: 79

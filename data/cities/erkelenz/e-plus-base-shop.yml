@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0801013
 longitude: 6.3162767
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Brückstraße"
 housenumber: 2

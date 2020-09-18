@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4630141
 longitude: 6.834536300000001
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Bebelstraße"
 housenumber: 171

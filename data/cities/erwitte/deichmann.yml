@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.6063065
 longitude: 8.3367985
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Bahnhofstraße"
 housenumber: 14

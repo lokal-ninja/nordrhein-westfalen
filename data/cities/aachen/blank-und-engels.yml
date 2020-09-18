@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.772327600000004
 longitude: 6.080299200000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Löhergraben"
 housenumber: 1-3

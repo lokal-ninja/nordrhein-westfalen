@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.9773628
 longitude: 6.1004065
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen-Niederheid
 street: ""
 housenumber: 

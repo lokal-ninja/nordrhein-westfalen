@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.6365333
 longitude: 7.3870009
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Friedhofstraße"
 housenumber: 109

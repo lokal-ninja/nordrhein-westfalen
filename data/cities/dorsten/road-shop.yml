@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.6702414
 longitude: 6.9780755
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Halterner Straße"
 housenumber: 68

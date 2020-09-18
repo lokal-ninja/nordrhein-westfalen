@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.4876638
 longitude: 6.9599269
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Alte Bottroper Straße"
 housenumber: 46

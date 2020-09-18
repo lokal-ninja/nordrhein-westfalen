@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.573540300000005
 longitude: 6.991850100000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hochstraße"
 housenumber: 29

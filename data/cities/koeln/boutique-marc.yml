@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.894337900000004
 longitude: 6.993666200000001
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 43

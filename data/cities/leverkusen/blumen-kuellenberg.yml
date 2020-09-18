@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0601305
 longitude: 6.9970822
-postcode: 51379
+postcode: "51379"
 city: Leverkusen
 street: "Friesenweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 50.927672400000006
 longitude: 6.962167900000001
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "Bayenstraße"
 housenumber: 67-69

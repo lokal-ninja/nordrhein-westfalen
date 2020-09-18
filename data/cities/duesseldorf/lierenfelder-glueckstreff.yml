@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.208491200000005
 longitude: 6.829696200000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Kempgensweg"
 housenumber: 81

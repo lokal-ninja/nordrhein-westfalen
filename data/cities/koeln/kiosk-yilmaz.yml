@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9540269
 longitude: 6.963930100000001
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Reichenspergerplatz"
 housenumber: 

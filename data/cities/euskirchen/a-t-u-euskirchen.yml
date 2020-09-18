@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6525265
 longitude: 6.7983095
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 176

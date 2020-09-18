@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.0291681
 longitude: 7.847136300000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Martinstraße"
 housenumber: 17

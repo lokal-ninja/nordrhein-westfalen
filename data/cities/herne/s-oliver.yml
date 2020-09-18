@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.540651800000006
 longitude: 7.2222308
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Bahnhofstraße"
 housenumber: 49

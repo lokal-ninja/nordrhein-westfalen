@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4512386
 longitude: 6.625890600000001
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Klosterstraße"
 housenumber: 2c

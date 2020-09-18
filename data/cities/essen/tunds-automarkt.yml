@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4661364
 longitude: 6.9270396000000005
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Frintroper Straße"
 housenumber: 211

@@ -3,10 +3,10 @@ type: way
 shop: Landwirtschaftlich
 latitude: 51.946287000000005
 longitude: 7.0202895000000005
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Bahnhofstraße"
 housenumber: 79
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
 website: ""

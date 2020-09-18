@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.205843300000005
 longitude: 6.833232300000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Zeppelinstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.8560518
 longitude: 7.486663200000001
-postcode: 48308
+postcode: "48308"
 city: Senden
 street: "Herrenstraße"
 housenumber: 20

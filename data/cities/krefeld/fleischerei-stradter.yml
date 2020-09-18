@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.3433489
 longitude: 6.5525042000000004
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Hülser Straße"
 housenumber: 117

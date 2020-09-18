@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.759584700000005
 longitude: 6.1362353
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Neuhausstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.881762800000004
 longitude: 6.693467900000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Sindorfer Straße"
 housenumber: 32

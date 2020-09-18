@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.068065700000005
 longitude: 6.8637302
-postcode: 50769
+postcode: "50769"
 city: Köln
 street: "Neusser Landstraße"
 housenumber: 321a

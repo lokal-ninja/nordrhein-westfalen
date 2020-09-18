@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.229613900000004
 longitude: 6.8070659000000004
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ackerstraße"
 housenumber: 159

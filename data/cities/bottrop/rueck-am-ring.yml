@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.5444669
 longitude: 6.915951700000001
-postcode: 46240
+postcode: "46240"
 city: Bottrop
 street: "Kirchhellener Straße"
 housenumber: 270

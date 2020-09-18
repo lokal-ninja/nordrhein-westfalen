@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.663233600000005
 longitude: 6.7918047
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Mühlenstraße"
 housenumber: 45

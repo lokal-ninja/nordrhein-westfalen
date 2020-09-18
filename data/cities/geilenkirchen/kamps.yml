@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9610819
 longitude: 6.1240296
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen
 street: "Bahnhofstraße"
 housenumber: 1

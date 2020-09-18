@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.025207200000004
 longitude: 8.5415249
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Werner-Bock-Straße"
 housenumber: 17

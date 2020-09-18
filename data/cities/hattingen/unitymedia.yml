@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.39825140000001
 longitude: 7.183240400000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Untermarkt"
 housenumber: 2

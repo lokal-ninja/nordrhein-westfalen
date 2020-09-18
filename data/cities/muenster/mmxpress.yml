@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.9757631
 longitude: 7.6029637
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Steinfurter Straße"
 housenumber: 130

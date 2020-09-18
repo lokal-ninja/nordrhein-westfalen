@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1929096
 longitude: 7.5069093
-postcode: 58553
+postcode: "58553"
 city: Halver
 street: "Von-Vincke-Straße"
 housenumber: 82

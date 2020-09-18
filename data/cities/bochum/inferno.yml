@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 51.4811108
 longitude: 7.1340123
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Oststraße"
 housenumber: 9

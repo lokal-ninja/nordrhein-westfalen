@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.66668730000001
 longitude: 7.638322100000001
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Alte Münsterstraße"
 housenumber: 24

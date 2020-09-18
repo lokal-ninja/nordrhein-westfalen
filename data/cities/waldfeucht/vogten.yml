@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0655562
 longitude: 5.9892876
-postcode: 52525
+postcode: "52525"
 city: Waldfeucht
 street: "Brabanter Straße"
 housenumber: 59

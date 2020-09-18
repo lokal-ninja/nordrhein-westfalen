@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 51.952542
 longitude: 8.572152800000001
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Hansestraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.110879600000004
 longitude: 6.949045900000001
-postcode: 40764
+postcode: "40764"
 city: Langenfeld (Rheinland)
 street: "Marktplatz"
 housenumber: 17

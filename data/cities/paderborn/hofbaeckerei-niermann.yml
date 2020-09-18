@@ -1,12 +1,12 @@
-id: 4702443140
+id: 1659640959
 type: node
 shop: Bäckerei
-latitude: 51.746804600000004
-longitude: 8.748336700000001
-postcode: 33102
+latitude: 51.7268902
+longitude: 8.7279003
+postcode: "33102"
 city: Paderborn
-street: "Angelnweg"
-housenumber: 2
+street: "Elsener Straße"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Fr 6:00-19:00; Sa 6:00-18:00; Su, PH 8:00-18:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.9970792
 longitude: 8.477422
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Carl-Severing-Straße"
 housenumber: 116

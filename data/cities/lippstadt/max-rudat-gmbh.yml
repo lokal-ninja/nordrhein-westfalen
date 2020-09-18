@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.654708400000004
 longitude: 8.3516037
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Bremer Straße"
 housenumber: 15

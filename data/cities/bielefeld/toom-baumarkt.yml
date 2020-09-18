@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.010089300000004
 longitude: 8.593024100000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 236

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.239986200000004
 longitude: 6.801897100000001
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Brehmstraße"
 housenumber: 9

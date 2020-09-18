@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 51.5138814
 longitude: 7.4721595
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Ostwall"
 housenumber: 3

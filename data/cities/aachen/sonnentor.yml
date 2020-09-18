@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.776315200000006
 longitude: 6.0882176
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Dahmengraben"
 housenumber: 15

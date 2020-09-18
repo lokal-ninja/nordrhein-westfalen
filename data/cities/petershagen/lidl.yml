@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3756702
 longitude: 8.996359
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Dingbreite"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.160026
 longitude: 8.8467132
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Herforder Straße"
 housenumber: 64

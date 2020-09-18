@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9031433
 longitude: 7.183875400000001
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Hauptstraße"
 housenumber: 109

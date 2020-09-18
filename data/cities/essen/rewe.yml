@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4525159
 longitude: 6.971465800000001
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Kerckhoffstraße"
 housenumber: 156a

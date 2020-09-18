@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2704096
 longitude: 7.196988800000001
-postcode: 42275
+postcode: "42275"
 city: Wuppertal
 street: "Alter Markt"
 housenumber: 1

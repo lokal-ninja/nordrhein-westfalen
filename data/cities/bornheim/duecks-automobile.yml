@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7695249
 longitude: 6.9424213
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Lintgesfuhr"
 housenumber: 5

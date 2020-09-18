@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.281852
 longitude: 7.446680000000001
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Osnabrücker Straße"
 housenumber: 11

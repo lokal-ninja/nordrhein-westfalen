@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 51.4409305
 longitude: 7.2125181000000005
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Markstraße"
 housenumber: 418

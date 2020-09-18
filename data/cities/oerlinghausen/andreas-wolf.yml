@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.944752
 longitude: 8.6559475
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Adolf-Sültemeier-Straße"
 housenumber: 16

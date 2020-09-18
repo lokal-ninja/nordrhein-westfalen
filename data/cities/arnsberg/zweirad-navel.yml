@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.445497100000004
 longitude: 7.9650863
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Tappeweg"
 housenumber: 8

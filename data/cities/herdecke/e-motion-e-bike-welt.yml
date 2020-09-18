@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.398533300000004
 longitude: 7.430642000000001
-postcode: 58313
+postcode: "58313"
 city: Herdecke
 street: ""
 housenumber: 

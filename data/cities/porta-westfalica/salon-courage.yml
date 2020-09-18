@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.257975
 longitude: 8.934233
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Meißener Straße"
 housenumber: 11a

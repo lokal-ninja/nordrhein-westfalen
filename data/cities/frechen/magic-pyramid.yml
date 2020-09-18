@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.924420500000004
 longitude: 6.833611800000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Europaallee"
 housenumber: 34

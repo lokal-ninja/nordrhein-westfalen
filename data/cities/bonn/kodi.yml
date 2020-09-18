@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.7151483
 longitude: 7.0487245000000005
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 204

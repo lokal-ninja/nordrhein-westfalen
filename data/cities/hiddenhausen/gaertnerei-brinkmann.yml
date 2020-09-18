@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.160659700000004
 longitude: 8.6122605
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Wulferkamp"
 housenumber: 2

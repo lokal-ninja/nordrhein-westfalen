@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.460154
 longitude: 6.982429700000001
-postcode: 45143
+postcode: "45143"
 city: Essen
 street: "Altendorfer Straße"
 housenumber: 262

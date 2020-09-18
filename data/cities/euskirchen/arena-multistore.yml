@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.6602873
 longitude: 6.7875703000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 40

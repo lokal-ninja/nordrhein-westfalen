@@ -1,4 +1,4 @@
 ---
-title: "Frischmarkt"
+title: "frischmarkt"
 url: /paderborn/frischmarkt/
 ---

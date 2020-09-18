@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.735711900000005
 longitude: 7.099865500000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Sternstraße"
 housenumber: 33

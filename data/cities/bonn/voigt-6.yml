@@ -1,12 +1,12 @@
-id: 126122536
-type: way
+id: 7476902532
+type: node
 shop: Bäckerei
-latitude: 50.715451200000004
-longitude: 7.0452864
-postcode: 53123
+latitude: 50.696008400000004
+longitude: 7.1611753
+postcode: "53175"
 city: Bonn
-street: "Bahnhofstraße"
-housenumber: 22
+street: "Mittelstraße"
+housenumber: 6-10
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:30; Su 07:30-17:30"
+opening_hours: "Mo-Sa 07:00-21:00; Su 07:30-12:00"
 website: ""

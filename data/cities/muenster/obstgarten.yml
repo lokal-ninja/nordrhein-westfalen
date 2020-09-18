@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.9220649
 longitude: 7.726853
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Münsterstraße"
 housenumber: 

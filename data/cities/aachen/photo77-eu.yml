@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.7688792
 longitude: 6.0942872
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Dunantstraße"
 housenumber: 8

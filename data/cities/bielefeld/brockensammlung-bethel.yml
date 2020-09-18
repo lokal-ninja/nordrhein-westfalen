@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.0075312
 longitude: 8.520295200000001
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "An der Tonkuhle"
 housenumber: 1

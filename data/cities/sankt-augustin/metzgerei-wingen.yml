@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.76074920000001
 longitude: 7.189848400000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Großenbuschstraße"
 housenumber: 109

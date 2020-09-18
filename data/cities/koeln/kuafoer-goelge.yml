@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.966207000000004
 longitude: 7.0078072
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Keupstraße"
 housenumber: 32

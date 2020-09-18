@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.484642400000006
 longitude: 7.3090681
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Am Heerbusch"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3460204
 longitude: 7.428438000000001
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Heilig-Geist-Straße"
 housenumber: 24

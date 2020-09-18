@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.2575141
 longitude: 7.1475659
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Poststraße"
 housenumber: 16

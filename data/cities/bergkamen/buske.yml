@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.615477600000006
 longitude: 7.597543300000001
-postcode: 59192
+postcode: "59192"
 city: Bergkamen
 street: "Jahnstraße"
 housenumber: 86

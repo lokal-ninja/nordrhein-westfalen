@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.8067493
 longitude: 8.4258573
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Sennstraße"
 housenumber: 1

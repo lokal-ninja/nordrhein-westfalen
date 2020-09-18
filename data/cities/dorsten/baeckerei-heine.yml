@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.750052700000005
 longitude: 6.929892700000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Debbingstraße"
 housenumber: 18

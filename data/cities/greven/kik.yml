@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1326381
 longitude: 7.5461999
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Emsdettener Landstraße"
 housenumber: 33a

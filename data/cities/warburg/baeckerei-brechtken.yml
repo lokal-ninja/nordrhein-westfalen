@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4850712
 longitude: 9.1025708
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Quellenstraße"
 housenumber: 1

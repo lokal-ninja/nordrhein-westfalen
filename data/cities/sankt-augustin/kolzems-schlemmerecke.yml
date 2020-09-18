@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.789277000000006
 longitude: 7.165373300000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Siegstraße"
 housenumber: 69

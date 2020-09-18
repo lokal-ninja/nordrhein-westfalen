@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.905137100000005
 longitude: 8.6373209
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Industriestraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.8807034
 longitude: 8.226230600000001
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Dieselstraße"
 housenumber: 33-35

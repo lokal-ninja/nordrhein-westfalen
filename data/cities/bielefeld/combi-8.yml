@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0029782
 longitude: 8.5894698
-postcode: 33605
+postcode: "33605"
 city: Bielefeld
 street: "Stieghorster Straße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.443313
 longitude: 6.9940118
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Savignystraße"
 housenumber: 45

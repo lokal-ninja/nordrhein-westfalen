@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.919114900000004
 longitude: 6.9247003000000005
-postcode: 50939
+postcode: "50939"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 234

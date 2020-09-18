@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.302845600000005
 longitude: 6.8289757
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Am Roten Kreuz"
 housenumber: 41

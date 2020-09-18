@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.955027300000005
 longitude: 7.1132474000000006
-postcode: 51427
+postcode: "51427"
 city: Bergisch Gladbach
 street: "Vürfels"
 housenumber: 12

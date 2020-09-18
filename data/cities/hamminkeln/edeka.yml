@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.73926
 longitude: 6.512746300000001
-postcode: 46499
+postcode: "46499"
 city: Hamminkeln
 street: "Bahnhofstraße"
 housenumber: 47

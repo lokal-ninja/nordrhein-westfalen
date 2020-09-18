@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.18438870000001
 longitude: 6.6808838
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Ruwerstraße"
 housenumber: 8

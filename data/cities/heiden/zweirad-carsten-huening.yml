@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.8257355
 longitude: 6.933156
-postcode: 46359
+postcode: "46359"
 city: Heiden
 street: "Rekener Straße"
 housenumber: 4

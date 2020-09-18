@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.00648090000001
 longitude: 8.4158103
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Brinkstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.829255800000006
 longitude: 7.9371457
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Hauptstraße"
 housenumber: 2a

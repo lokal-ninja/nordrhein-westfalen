@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.2274405
 longitude: 6.7760115
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Grabbeplatz"
 housenumber: 4

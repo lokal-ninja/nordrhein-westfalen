@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1998423
 longitude: 6.692329000000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Münsterstraße"
 housenumber: 1-3

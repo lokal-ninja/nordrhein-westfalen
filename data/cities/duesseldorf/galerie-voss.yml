@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.2298916
 longitude: 6.7754146
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Mühlengasse"
 housenumber: 3

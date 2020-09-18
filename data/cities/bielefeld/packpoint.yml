@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.007877
 longitude: 8.5616629
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Otto-Brenner-Straße"
 housenumber: 201

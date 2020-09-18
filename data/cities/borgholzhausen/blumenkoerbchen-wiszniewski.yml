@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.104024200000005
 longitude: 8.3025716
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Kaiserstraße"
 housenumber: 12

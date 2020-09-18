@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.909505100000004
 longitude: 6.807452700000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 122

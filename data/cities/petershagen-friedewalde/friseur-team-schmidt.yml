@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.35426330000001
 longitude: 8.8504716
-postcode: 32469
+postcode: "32469"
 city: Petershagen - Friedewalde
 street: "Friedewalder Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.2318276
 longitude: 6.613842
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Friedensstraße"
 housenumber: 24

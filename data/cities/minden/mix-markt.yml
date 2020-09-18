@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.286353500000004
 longitude: 8.8933814
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Rodenbecker Straße"
 housenumber: 79

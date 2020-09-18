@@ -1,12 +1,12 @@
-id: 6148360093
+id: 680002648
 type: node
 shop: Bäckerei
-latitude: 50.7142896
-longitude: 7.045311300000001
-postcode: 53123
+latitude: 50.7323577
+longitude: 7.0752674
+postcode: "53121"
 city: Bonn
-street: "Am Schickshof"
-housenumber: 6
+street: "Immenburgstraße"
+housenumber: 42
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-12:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

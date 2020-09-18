@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.377591
 longitude: 7.453944300000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Becheltestraße"
 housenumber: 60

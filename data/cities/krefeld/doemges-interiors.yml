@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.3312529
 longitude: 6.5649933
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Lohstraße"
 housenumber: 64

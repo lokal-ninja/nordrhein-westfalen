@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.480907900000005
 longitude: 7.217042800000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 67

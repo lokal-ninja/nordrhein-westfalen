@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.74635000000001
 longitude: 8.7544432
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Holsteiner Weg"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.100469600000004
 longitude: 8.2965923
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Jammerpatt"
 housenumber: 4

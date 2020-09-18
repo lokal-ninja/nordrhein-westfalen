@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.6755208
 longitude: 8.344882400000001
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Helle Halle"
 housenumber: 2

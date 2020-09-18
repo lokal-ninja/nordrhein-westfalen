@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.050641500000005
 longitude: 8.3928426
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Poststraße"
 housenumber: 27

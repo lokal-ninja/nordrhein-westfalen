@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.8290767
 longitude: 8.6417248
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Industriestraße"
 housenumber: 5

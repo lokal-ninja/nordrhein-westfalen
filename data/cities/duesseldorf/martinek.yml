@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.210820000000005
 longitude: 6.7750215
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Elisabethstraße"
 housenumber: 117

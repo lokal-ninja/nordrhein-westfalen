@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.906416300000004
 longitude: 8.190359500000001
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Marienfelder Straße"
 housenumber: 35

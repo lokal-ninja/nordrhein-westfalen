@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.591764700000006
 longitude: 7.6502058
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Lünener Straße"
 housenumber: 25

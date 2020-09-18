@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.9656024
 longitude: 6.9777339000000005
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Hittorfstraße"
 housenumber: 8

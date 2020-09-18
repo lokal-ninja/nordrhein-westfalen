@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6543129
 longitude: 8.3440692
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Planckstraße"
 housenumber: 2

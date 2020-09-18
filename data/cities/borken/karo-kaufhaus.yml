@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.859536000000006
 longitude: 6.8767319
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Röntgenstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.227323500000004
 longitude: 6.619401300000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Am Maubishof"
 housenumber: 4

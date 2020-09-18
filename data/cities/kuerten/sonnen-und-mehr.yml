@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.0529688
 longitude: 7.2679624
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Rotdornweg"
 housenumber: 6a

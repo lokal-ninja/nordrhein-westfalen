@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4949248
 longitude: 8.4346236
-postcode: 59602
+postcode: "59602"
 city: Rüthen
 street: "Lippstädter Straße"
 housenumber: 1

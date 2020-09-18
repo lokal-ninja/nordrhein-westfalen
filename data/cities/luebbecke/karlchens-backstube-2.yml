@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.307088900000004
 longitude: 8.6222784
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Hardenbergstraße"
 housenumber: 2

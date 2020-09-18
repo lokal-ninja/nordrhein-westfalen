@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.2383193
 longitude: 6.8004823000000005
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 153

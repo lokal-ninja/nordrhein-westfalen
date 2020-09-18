@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0582579
 longitude: 8.5434748
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Westerfeldstraße"
 housenumber: 48a

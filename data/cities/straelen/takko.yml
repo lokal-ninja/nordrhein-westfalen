@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.444140000000004
 longitude: 6.2673174000000005
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Kuhstraße"
 housenumber: 4-8

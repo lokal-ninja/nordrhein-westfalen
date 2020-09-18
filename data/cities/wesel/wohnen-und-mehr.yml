@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.654698800000006
 longitude: 6.6276101
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Friedenstraße"
 housenumber: 4

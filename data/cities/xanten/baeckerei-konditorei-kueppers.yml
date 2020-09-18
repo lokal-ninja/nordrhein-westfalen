@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.6603031
 longitude: 6.455036000000001
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Marsstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8378549
 longitude: 6.2515364
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Am Portenhövel"
 housenumber: 2

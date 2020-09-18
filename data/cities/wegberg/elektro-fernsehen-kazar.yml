@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 51.1397454
 longitude: 6.2757639
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Hauptstraße"
 housenumber: 38

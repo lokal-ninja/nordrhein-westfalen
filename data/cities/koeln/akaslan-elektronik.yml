@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.971600300000006
 longitude: 7.0100728000000005
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Berliner Straße"
 housenumber: 63

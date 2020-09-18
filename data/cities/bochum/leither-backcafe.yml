@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.481652000000004
 longitude: 7.110571
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Krayer Straße"
 housenumber: 13

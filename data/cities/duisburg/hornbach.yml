@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4918448
 longitude: 6.8067219
-postcode: 47167
+postcode: "47167"
 city: Duisburg
 street: "Theodor-Heuss-Straße"
 housenumber: 83

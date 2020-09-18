@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7765265
 longitude: 6.0436302
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Pauwelsstraße"
 housenumber: 30

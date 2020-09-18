@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.9356936
 longitude: 6.9456756
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Neumarkt"
 housenumber: 49

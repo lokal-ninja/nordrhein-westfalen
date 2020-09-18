@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.8285174
 longitude: 6.1697759
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Nassauer Straße"
 housenumber: 31,33

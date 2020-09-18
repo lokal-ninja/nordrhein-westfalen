@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.0484044
 longitude: 8.655402
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Kafkastraße"
 housenumber: 101

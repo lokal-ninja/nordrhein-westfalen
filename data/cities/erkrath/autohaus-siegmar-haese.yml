@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.215530900000005
 longitude: 6.948894800000001
-postcode: 40699
+postcode: "40699"
 city: Erkrath
 street: "Schimmelbuschstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 50.7365792
 longitude: 7.0114793
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Holzgasse"
 housenumber: 13a

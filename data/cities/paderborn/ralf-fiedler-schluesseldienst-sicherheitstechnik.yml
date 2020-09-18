@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.7104471
 longitude: 8.746607800000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Borchener Straße"
 housenumber: 44

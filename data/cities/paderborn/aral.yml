@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.7322883
 longitude: 8.7648051
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 75

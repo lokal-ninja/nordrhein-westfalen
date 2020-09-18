@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.938624000000004
 longitude: 6.8431701
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Bahnstraße"
 housenumber: 118

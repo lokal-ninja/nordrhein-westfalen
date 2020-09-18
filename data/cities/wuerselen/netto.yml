@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8265795
 longitude: 6.1297205
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Kesselsgracht"
 housenumber: 10

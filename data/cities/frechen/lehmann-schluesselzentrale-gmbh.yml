@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.9094174
 longitude: 6.805376000000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 149

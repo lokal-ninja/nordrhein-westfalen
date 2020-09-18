@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 50.8300338
 longitude: 6.475466000000001
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Fehlender Feld"
 housenumber: 11
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.bauhaus.info/fachcentren/fachcentrum-dueren/fc/637"

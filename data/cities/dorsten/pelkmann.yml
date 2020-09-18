@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.6605324
 longitude: 6.963457600000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 1

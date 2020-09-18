@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.840278500000004
 longitude: 6.6160664
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Niederbruch"
 housenumber: 2

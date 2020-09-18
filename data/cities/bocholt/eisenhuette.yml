@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.8484259
 longitude: 6.553322700000001
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Sporker Ringstraße"
 housenumber: 2

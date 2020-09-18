@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.6046777
 longitude: 6.2992071
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Hauptstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5400216
 longitude: 7.150579400000001
-postcode: 
+postcode: ""
 city: Herne
 street: "Am Stöckmannshof"
 housenumber: 1

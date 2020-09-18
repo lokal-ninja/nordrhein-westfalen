@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6755566
 longitude: 6.828206300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Rigaer Straße"
 housenumber: 9

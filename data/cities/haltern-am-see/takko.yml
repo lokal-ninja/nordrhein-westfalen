@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.751104500000004
 longitude: 7.193724700000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Lohausstraße"
 housenumber: 23

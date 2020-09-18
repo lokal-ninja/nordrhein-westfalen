@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.207869200000005
 longitude: 8.5938101
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Dünner Straße"
 housenumber: 4

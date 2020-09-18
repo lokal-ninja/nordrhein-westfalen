@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.326922100000004
 longitude: 8.6121885
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Maschweg"
 housenumber: 1

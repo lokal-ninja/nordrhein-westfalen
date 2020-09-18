@@ -1,12 +1,12 @@
-id: 600204446
+id: 394815420
 type: node
 shop: Bäckerei
-latitude: 51.436282600000006
-longitude: 7.0364396000000005
-postcode: 45136
+latitude: 51.4369068
+longitude: 7.103336700000001
+postcode: "45279"
 city: Essen
-street: "Weserstraße"
-housenumber: 25
+street: "Dahlhauser Straße"
+housenumber: 164
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"
+opening_hours: "Mo-Fr 06:00-18:00;Sa 06:00-13:00"
 website: ""

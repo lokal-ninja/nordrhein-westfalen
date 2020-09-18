@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.144331900000005
 longitude: 6.2795461
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Bahnhofstraße"
 housenumber: 46

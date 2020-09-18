@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.4549067
 longitude: 7.0126846
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kettwiger Straße"
 housenumber: 29a

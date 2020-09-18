@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.94442840000001
 longitude: 8.410653
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Haverkamp"
 housenumber: 10

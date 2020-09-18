@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1940031
 longitude: 8.532167300000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Am Waltenberg"
 housenumber: 6

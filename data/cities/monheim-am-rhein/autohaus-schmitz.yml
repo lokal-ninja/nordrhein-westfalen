@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.113176200000005
 longitude: 6.900452100000001
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Robert-Bosch-Straße"
 housenumber: 4

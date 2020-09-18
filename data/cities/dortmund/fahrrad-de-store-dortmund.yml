@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.494095200000004
 longitude: 7.375708500000001
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Wulfshofstraße"
 housenumber: 1

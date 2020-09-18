@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.020924300000004
 longitude: 6.895624700000001
-postcode: 50765
+postcode: "50765"
 city: Köln
 street: "Mailänder Passage"
 housenumber: 1

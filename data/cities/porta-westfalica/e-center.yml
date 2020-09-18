@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.262347500000004
 longitude: 8.9010628
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Flurweg"
 housenumber: 11

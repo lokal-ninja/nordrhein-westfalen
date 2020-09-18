@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3508554
 longitude: 8.584436700000001
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Gestringer Straße"
 housenumber: 62

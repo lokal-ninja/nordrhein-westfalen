@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.7749911
 longitude: 6.1112272
-postcode: 52068
+postcode: "52068"
 city: Aachen
 street: "Eifelstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.697073800000005
 longitude: 7.0561268
-postcode: 53125
+postcode: "53125"
 city: Bonn
 street: "Edisonallee"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.6247747
 longitude: 6.846056300000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.0324365
 longitude: 8.6040744
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Salzufler Straße"
 housenumber: 1

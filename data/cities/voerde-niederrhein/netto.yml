@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.602720000000005
 longitude: 6.7006151
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Bahnhofstraße"
 housenumber: 151

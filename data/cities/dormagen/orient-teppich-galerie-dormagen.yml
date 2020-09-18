@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.0922417
 longitude: 6.842658500000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.1057757
 longitude: 6.9485238
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Hauptstraße"
 housenumber: 85

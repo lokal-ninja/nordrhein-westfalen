@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.975750600000005
 longitude: 6.974667200000001
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Boltensternstraße"
 housenumber: 128

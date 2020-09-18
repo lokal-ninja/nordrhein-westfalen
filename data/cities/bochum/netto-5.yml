@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.441769900000004
 longitude: 7.2132868000000006
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Markstraße"
 housenumber: 410

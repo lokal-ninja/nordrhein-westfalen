@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.9101214
 longitude: 6.806221300000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Dr.-Tusch-Straße"
 housenumber: 22-24

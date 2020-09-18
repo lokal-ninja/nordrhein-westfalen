@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.3450642
 longitude: 7.429318200000001
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Romachstraße"
 housenumber: 25

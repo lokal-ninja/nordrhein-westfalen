@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.507946100000005
 longitude: 7.098411400000001
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofstraße"
 housenumber: 48-56

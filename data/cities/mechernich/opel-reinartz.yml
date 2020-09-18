@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5921894
 longitude: 6.6602528
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Feytalstraße"
 housenumber: 20

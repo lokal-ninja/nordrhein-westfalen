@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.2316774
 longitude: 6.6167403
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Friedensstraße"
 housenumber: 3

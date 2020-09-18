@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1389026
 longitude: 6.283128100000001
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Beecker Straße"
 housenumber: 62

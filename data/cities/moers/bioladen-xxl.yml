@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4894862
 longitude: 6.5893115
-postcode: 47445
+postcode: "47445"
 city: Moers
 street: "Lintforter Straße"
 housenumber: 11

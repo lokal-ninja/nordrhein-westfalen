@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.7783193
 longitude: 6.0821356
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Pontstraße"
 housenumber: 66-68

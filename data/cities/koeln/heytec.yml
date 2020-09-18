@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.881358500000005
 longitude: 7.0870648
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Waldstraße"
 housenumber: 42

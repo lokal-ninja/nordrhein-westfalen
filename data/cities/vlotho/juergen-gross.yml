@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1749858
 longitude: 8.869498400000001
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Mindener Straße"
 housenumber: 30

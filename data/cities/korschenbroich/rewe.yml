@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1939252
 longitude: 6.5063485000000005
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Robert-Bosch-Straße"
 housenumber: 4

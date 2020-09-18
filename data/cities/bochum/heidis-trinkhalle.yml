@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.476797600000005
 longitude: 7.3059991
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Lünsender Straße"
 housenumber: 21

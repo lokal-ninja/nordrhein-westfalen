@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4858545
 longitude: 7.3077456000000005
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Am Heerbusch"
 housenumber: 6

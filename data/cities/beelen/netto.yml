@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9304964
 longitude: 8.1121009
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Westkirchener Straße"
 housenumber: 4

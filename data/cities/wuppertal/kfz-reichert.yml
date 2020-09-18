@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.2640052
 longitude: 7.175084600000001
-postcode: 42285
+postcode: "42285"
 city: Wuppertal
 street: "Hünefeldstraße"
 housenumber: 62a

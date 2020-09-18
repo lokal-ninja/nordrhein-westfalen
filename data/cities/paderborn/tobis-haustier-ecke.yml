@@ -1,12 +1,12 @@
-id: 4412971913
+id: 287314118
 type: node
 shop: Tiere
-latitude: 51.729703300000004
-longitude: 8.6929347
-postcode: 33106
+latitude: 51.7325244
+longitude: 8.692679700000001
+postcode: "33106"
 city: Paderborn
 street: "Wewerstraße"
-housenumber: 27
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 9:00-13:00"
+opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-15:00; PH,Su off"
 website: ""

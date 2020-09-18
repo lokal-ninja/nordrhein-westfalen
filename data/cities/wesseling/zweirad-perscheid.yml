@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.838851000000005
 longitude: 6.9486318
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Industriestraße"
 housenumber: 60

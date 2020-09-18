@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7152954
 longitude: 7.027076500000001
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Alfterer Straße"
 housenumber: 43

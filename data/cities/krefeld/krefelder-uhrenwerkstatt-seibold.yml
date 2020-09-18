@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 51.332057000000006
 longitude: 6.5660815
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Ostwall"
 housenumber: 136

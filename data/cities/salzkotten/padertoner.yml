@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.6862287
 longitude: 8.5484927
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Teichstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2435483
 longitude: 7.603054500000001
-postcode: 58513
+postcode: "58513"
 city: Lüdenscheid
 street: "Freisenbergstraße"
 housenumber: 39

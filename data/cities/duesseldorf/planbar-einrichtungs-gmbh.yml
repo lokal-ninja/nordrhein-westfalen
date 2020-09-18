@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.239435300000004
 longitude: 6.7770463
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Kaiserswerther Straße"
 housenumber: 41

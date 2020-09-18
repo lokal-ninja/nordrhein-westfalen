@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.9528315
 longitude: 8.8547525
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Klingenbergstraße"
 housenumber: 31

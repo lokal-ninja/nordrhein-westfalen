@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.3225867
 longitude: 6.605569600000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Hafelsstraße"
 housenumber: 245

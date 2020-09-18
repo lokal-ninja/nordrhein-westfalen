@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2268807
 longitude: 6.818982500000001
-postcode: 40235
+postcode: "40235"
 city: Düsseldorf
 street: "Gaußstraße"
 housenumber: 22-24

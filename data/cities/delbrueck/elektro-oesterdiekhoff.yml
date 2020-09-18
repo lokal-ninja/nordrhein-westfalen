@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.784005400000005
 longitude: 8.6169103
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Wittendorfer Straße"
 housenumber: 16

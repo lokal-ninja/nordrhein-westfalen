@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 51.717457700000004
 longitude: 8.7502825
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königsplatz"
 housenumber: 12

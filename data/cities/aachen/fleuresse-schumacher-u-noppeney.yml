@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.7046093
 longitude: 6.176577900000001
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Pingsheimstraße"
 housenumber: 1

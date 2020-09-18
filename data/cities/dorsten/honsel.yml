@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6714635
 longitude: 6.984606100000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Fürst-Leopold-Allee"
 housenumber: 60

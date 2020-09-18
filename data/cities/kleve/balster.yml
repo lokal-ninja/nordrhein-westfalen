@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.7883295
 longitude: 6.1392992
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Große Straße"
 housenumber: 27

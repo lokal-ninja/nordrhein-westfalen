@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0766399
 longitude: 6.068450100000001
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Waldfeuchter Straße"
 housenumber: 259

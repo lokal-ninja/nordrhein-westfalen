@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6613569
 longitude: 6.4527535
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Kurfürstenstraße"
 housenumber: 5

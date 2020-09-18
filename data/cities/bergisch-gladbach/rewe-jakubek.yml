@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0033521
 longitude: 7.0937887
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Kempener Straße"
 housenumber: 79

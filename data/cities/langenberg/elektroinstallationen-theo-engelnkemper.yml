@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.7497624
 longitude: 8.3218508
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Im Winkel"
 housenumber: 4

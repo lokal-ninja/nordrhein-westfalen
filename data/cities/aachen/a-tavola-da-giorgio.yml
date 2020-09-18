@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7743358
 longitude: 6.0820696000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Annastraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.1758059
 longitude: 6.6412703
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Lanzerather Straße"
 housenumber: 29

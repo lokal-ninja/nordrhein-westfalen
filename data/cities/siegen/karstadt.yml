@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.874476300000005
 longitude: 8.0221373
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Kölner Straße"
 housenumber: 41

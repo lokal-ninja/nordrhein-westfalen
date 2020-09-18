@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.092924800000006
 longitude: 6.8421345
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 70

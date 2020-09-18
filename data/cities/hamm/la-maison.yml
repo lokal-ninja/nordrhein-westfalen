@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.679722600000005
 longitude: 7.816447800000001
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Nassauerstraße"
 housenumber: 28 - 32

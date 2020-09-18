@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.8337602
 longitude: 8.3113574
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Wichernstraße"
 housenumber: 13

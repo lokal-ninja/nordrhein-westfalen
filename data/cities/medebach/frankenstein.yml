@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.199965500000005
 longitude: 8.7018661
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Oberstraße"
 housenumber: 22A

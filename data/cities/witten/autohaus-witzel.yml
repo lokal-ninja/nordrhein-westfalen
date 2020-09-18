@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4595071
 longitude: 7.3467675
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Bebbelsdorf"
 housenumber: 71

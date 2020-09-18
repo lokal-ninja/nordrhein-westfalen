@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.169902400000005
 longitude: 6.855962300000001
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Nürnberger Straße"
 housenumber: 22

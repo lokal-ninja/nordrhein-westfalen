@@ -1,12 +1,12 @@
-id: 770873788
+id: 303000232
 type: way
 shop: Supermarkt
-latitude: 51.4449301
-longitude: 7.057147400000001
-postcode: 45138
+latitude: 51.393270900000005
+longitude: 7.082890000000001
+postcode: "45257"
 city: Essen
-street: "Steeler Straße"
-housenumber: 466
+street: "Kupferdreher Straße"
+housenumber: 127
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-nord.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.2050958
 longitude: 8.5855584
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Franz-Werfel-Straße"
 housenumber: 7-9

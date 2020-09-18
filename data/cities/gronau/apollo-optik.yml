@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.21158380000001
 longitude: 7.0245011
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Neustraße"
 housenumber: 15

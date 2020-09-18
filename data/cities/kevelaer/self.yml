@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.579704500000005
 longitude: 6.259512600000001
-postcode: 47623
+postcode: "47623"
 city: Kevelaer
 street: "Gewerbering"
 housenumber: 12

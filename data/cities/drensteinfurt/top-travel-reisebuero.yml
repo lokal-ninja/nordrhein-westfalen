@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.798217900000004
 longitude: 7.7386099
-postcode: 48317
+postcode: "48317"
 city: Drensteinfurt
 street: "Marienstraße"
 housenumber: 4

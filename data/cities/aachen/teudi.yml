@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.7724039
 longitude: 6.0795817
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Löhergraben"
 housenumber: 13

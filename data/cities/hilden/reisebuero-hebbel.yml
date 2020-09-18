@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1674354
 longitude: 6.9312193
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Mittelstraße"
 housenumber: 113

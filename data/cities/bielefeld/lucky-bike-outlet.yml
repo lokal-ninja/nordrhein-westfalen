@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9802924
 longitude: 8.4939371
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Sunderweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 51.991573700000004
 longitude: 7.6661497
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: "Rudolf-Diesel-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4721953
 longitude: 7.3220245
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 22

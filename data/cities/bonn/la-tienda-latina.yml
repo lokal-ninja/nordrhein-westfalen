@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7409436
 longitude: 7.0944338
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Heerstraße"
 housenumber: 20

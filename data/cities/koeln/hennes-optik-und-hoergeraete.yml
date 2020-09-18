@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.8916192
 longitude: 6.9968981
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 91

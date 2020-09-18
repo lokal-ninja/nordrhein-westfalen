@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.8810568
 longitude: 7.0731703
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Kaiserstraße"
 housenumber: 63

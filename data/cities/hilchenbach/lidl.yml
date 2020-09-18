@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.976488800000006
 longitude: 8.068451900000001
-postcode: 57271
+postcode: "57271"
 city: Hilchenbach
 street: "Wittgensteiner Straße"
 housenumber: 123, 125, 127

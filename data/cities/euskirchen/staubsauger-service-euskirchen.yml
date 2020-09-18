@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 50.6600948
 longitude: 6.786609400000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Hochstraße"
 housenumber: 30

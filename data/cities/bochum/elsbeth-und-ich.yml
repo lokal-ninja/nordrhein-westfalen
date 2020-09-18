@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.483432500000006
 longitude: 7.218481700000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Brückstraße"
 housenumber: 18

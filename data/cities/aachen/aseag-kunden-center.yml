@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.7774231
 longitude: 6.0917216000000005
-postcode: 
+postcode: ""
 city: Aachen
 street: "Schumacherstraße"
 housenumber: 14

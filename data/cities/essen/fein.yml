@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4920923
 longitude: 6.942160500000001
-postcode: 45357
+postcode: "45357"
 city: Essen
 street: "Haus-Horl-Straße"
 housenumber: 73

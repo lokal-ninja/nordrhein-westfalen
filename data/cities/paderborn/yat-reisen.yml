@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7168573
 longitude: 8.7576136
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kamp"
 housenumber: 30

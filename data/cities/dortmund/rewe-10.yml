@@ -1,12 +1,12 @@
-id: 33873686
+id: 32347712
 type: way
 shop: Supermarkt
-latitude: 51.574818300000004
-longitude: 7.462415000000001
-postcode: 44339
+latitude: 51.559449
+longitude: 7.3986565
+postcode: "44359"
 city: Dortmund
-street: "Evinger Straße"
-housenumber: 538
+street: "Mengeder Straße"
+housenumber: 413
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

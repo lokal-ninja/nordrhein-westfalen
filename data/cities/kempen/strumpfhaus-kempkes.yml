@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3637409
 longitude: 6.419285
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Peterstraße"
 housenumber: 5

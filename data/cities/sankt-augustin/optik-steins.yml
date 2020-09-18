@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.7683534
 longitude: 7.199269800000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Alte Heerstraße"
 housenumber: 37

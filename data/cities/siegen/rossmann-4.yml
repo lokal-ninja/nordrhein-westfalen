@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.873537400000004
 longitude: 8.0526687
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Hauptstraße"
 housenumber: 52

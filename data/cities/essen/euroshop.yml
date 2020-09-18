@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.4573119
 longitude: 7.0113228
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kornmarkt"
 housenumber: 7

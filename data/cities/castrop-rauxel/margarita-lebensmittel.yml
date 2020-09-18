@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.55094750000001
 longitude: 7.309921500000001
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Obere Münsterstraße"
 housenumber: 

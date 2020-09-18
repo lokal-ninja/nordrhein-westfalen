@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.944934
 longitude: 8.6537091
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Adolf-Sültemeier-Straße"
 housenumber: 1

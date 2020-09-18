@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.646295200000004
 longitude: 7.3108295000000005
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Himberger Straße"
 housenumber: 4

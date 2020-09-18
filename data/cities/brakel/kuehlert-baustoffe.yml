@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.705238300000005
 longitude: 9.174302200000001
-postcode: 33034
+postcode: "33034"
 city: Brakel
 street: "Warburger Straße"
 housenumber: 63

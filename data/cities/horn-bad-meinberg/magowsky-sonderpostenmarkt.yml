@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.878836400000004
 longitude: 8.9548462
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Bahnhofstraße"
 housenumber: 48

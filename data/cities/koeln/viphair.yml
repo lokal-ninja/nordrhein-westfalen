@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.964403100000006
 longitude: 6.8306841
-postcode: 50859
+postcode: "50859"
 city: Köln
 street: "Hauptstraße"
 housenumber: 24

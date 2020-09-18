@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.884387600000004
 longitude: 7.0577616
-postcode: 51143
+postcode: "51143"
 city: Köln
 street: "Hermannstraße"
 housenumber: 12

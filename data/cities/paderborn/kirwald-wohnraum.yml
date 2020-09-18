@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7173736
 longitude: 8.7556128
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kötterhagen"
 housenumber: 3b

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.476074700000005
 longitude: 7.7039039
-postcode: 58730
+postcode: "58730"
 city: Fröndenberg/Ruhr
 street: "Hauptstraße"
 housenumber: 30

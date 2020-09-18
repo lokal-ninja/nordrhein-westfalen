@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.9629084
 longitude: 8.8401967
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Westerfeldstraße"
 housenumber: 25

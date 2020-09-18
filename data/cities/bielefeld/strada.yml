@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.020338800000005
 longitude: 8.5329688
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rathausstraße"
 housenumber: 6-8

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.0600712
 longitude: 8.3620217
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: ""
 housenumber: 

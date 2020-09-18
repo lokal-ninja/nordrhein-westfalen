@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.605791100000005
 longitude: 6.3030976
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Robert-Koch-Straße"
 housenumber: 3 - 5

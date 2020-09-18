@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.174749500000004
 longitude: 6.913623500000001
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Westring"
 housenumber: 5

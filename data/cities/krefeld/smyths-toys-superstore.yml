@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.3337894
 longitude: 6.5648751
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Rheinstraße"
 housenumber: 85

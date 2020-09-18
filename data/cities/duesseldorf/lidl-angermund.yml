@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3235517
 longitude: 6.769385300000001
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Pfarrer-Holl-Weg"
 housenumber: 21

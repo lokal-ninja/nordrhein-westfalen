@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0694299
 longitude: 8.751763200000001
-postcode: 32108
+postcode: "32108"
 city: Bad Salzuflen
 street: "Krumme Weide"
 housenumber: 59

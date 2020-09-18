@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.0508195
 longitude: 8.5522392
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Engersche Straße"
 housenumber: 96

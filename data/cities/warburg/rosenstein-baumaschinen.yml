@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.5001425
 longitude: 9.1461804
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Obere Hilgenstock"
 housenumber: 

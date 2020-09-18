@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8733961
 longitude: 6.1582711
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Klosterstraße"
 housenumber: 20

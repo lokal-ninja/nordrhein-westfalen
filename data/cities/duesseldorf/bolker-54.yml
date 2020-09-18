@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.226544000000004
 longitude: 6.7757351
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Bolkerstraße"
 housenumber: 54

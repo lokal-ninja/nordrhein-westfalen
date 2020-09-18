@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.7377271
 longitude: 7.5248974
-postcode: 59394
+postcode: "59394"
 city: Nordkirchen
 street: "Bergstraße"
 housenumber: 3

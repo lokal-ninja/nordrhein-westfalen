@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.443982000000005
 longitude: 8.3552722
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Rangestraße"
 housenumber: 7

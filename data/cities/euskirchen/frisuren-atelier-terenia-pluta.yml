@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.663198
 longitude: 6.7885498
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kessenicher Straße"
 housenumber: 43

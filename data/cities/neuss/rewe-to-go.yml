@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.206884200000005
 longitude: 6.6710146
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Engelbertstraße"
 housenumber: 

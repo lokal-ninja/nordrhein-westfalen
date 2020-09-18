@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2222
 longitude: 6.482950000000001
-postcode: 41066
+postcode: "41066"
 city: Mönchengladbach
 street: "Krefelder Straße"
 housenumber: 570

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.921007900000006
 longitude: 6.9585876
-postcode: 
+postcode: ""
 city: Köln
 street: "Karolingerring"
 housenumber: 1

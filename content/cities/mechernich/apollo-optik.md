@@ -1,4 +1,4 @@
 ---
-title: "Apollo Optik"
+title: "Apollo-Optik"
 url: /mechernich/apollo-optik/
 ---

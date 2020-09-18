@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.452936
 longitude: 7.401544400000001
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Friedrich-Ebert-Straße"
 housenumber: 116

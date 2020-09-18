@@ -3,10 +3,10 @@ type: node
 shop: Fisch
 latitude: 50.9371367
 longitude: 7.000643200000001
-postcode: 51105
+postcode: "51105"
 city: Köln
 street: "Rolshover Straße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Sa 09:00-19:00; Mo off; PH off"
 website: ""

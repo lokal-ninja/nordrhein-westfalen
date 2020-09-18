@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4908858
 longitude: 6.878178800000001
-postcode: 46047
+postcode: "46047"
 city: Oberhausen
 street: "Centroallee"
 housenumber: 36

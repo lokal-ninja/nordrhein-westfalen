@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.367332000000005
 longitude: 7.4699295
-postcode: 58097
+postcode: "58097"
 city: Hagen
 street: "Kinkelstraße"
 housenumber: 32

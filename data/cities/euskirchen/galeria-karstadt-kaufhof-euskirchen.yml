@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.661708700000005
 longitude: 6.7899175000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Spiegelstraße"
 housenumber: 14

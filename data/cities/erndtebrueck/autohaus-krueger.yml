@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.996801500000004
 longitude: 8.3104502
-postcode: 57339
+postcode: "57339"
 city: Erndtebrück
 street: "Rohrbacher Weg"
 housenumber: 1

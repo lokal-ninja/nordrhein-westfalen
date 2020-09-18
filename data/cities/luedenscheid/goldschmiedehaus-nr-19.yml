@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.215800900000005
 longitude: 7.6306962
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 19

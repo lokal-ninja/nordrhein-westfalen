@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6906869
 longitude: 8.6974175
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Kleestraße"
 housenumber: 21

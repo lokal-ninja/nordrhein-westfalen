@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.797048000000004
 longitude: 8.02664
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Hauptstraße"
 housenumber: 76

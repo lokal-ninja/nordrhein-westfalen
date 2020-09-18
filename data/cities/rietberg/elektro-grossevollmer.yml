@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.755295100000005
 longitude: 8.389891500000001
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Lippstädter Straße"
 housenumber: 17

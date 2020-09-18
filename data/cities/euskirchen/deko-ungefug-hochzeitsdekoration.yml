@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.663432
 longitude: 6.8393239
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Alemannenstraße"
 housenumber: 17

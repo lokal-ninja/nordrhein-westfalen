@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7175293
 longitude: 8.7753774
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Driburger Straße"
 housenumber: 44

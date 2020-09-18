@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.2008792
 longitude: 6.781065900000001
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 63-65

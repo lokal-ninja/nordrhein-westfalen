@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.758256200000005
 longitude: 6.3983955
-postcode: 46459
+postcode: "46459"
 city: Rees
 street: "Oberstadt"
 housenumber: 2

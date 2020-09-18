@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7640037
 longitude: 7.891568400000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Nordstraße"
 housenumber: 17

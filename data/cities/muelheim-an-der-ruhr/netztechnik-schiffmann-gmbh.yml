@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.403158000000005
 longitude: 6.860638700000001
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Am Bühlsbach"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 52.1296504
 longitude: 8.6689494
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Goebenstraße"
 housenumber: 86

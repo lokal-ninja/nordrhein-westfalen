@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4856817
 longitude: 9.1464409
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Josef-Kohlschein-Straße"
 housenumber: 20

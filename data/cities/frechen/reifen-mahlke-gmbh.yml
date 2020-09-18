@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.921068600000005
 longitude: 6.8204744
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Rudolf-Diesel-Straße"
 housenumber: 6

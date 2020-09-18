@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 50.776222700000005
 longitude: 6.081775400000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kockerellstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9963252
 longitude: 7.6017825000000006
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Idenbrockplatz"
 housenumber: 5a

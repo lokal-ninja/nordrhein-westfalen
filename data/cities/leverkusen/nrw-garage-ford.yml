@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.027306100000004
 longitude: 6.9914664
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Manforter Straße"
 housenumber: 24

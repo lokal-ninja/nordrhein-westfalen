@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.415310600000005
 longitude: 7.178558600000001
-postcode: 45529
+postcode: "45529"
 city: Hattingen
 street: "Rauendahlstraße"
 housenumber: 20

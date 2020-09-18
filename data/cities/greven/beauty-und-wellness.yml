@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.1304573
 longitude: 7.554064800000001
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Bahnhofstraße"
 housenumber: 12

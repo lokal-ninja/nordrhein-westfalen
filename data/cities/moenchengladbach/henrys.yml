@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.168517900000005
 longitude: 6.4456005
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Hauptstraße"
 housenumber: 81

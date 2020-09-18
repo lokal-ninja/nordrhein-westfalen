@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.201
 longitude: 6.6867368
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Erftstraße"
 housenumber: 4

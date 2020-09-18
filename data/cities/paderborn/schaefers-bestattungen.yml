@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.751021800000004
 longitude: 8.6773453
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Münsterstraße"
 housenumber: 99

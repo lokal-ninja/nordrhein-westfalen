@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.4621277
 longitude: 6.8517738
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Lothringer Straße"
 housenumber: 147

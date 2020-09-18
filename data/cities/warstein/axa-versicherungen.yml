@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4453681
 longitude: 8.354297200000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Hauptstraße"
 housenumber: 59

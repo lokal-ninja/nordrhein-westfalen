@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0329903
 longitude: 8.6091967
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Altenhagener Straße"
 housenumber: 22

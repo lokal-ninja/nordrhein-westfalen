@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.8462808
 longitude: 6.357857500000001
-postcode: 52459
+postcode: "52459"
 city: Inden
 street: "Rathausstraße"
 housenumber: 4

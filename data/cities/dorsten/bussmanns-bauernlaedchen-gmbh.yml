@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.782279200000005
 longitude: 7.015700300000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Rekener Straße"
 housenumber: 73

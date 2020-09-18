@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.625523900000005
 longitude: 6.2004998
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Kevelaerer Straße"
 housenumber: 30-32

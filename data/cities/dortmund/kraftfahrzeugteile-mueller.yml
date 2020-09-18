@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.5691241
 longitude: 7.523909000000001
-postcode: 44329
+postcode: "44329"
 city: Dortmund
 street: "Altenderner Straße"
 housenumber: 43

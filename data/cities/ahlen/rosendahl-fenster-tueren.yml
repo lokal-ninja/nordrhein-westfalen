@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.7708841
 longitude: 7.919162300000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Daimlerstraße"
 housenumber: 14b

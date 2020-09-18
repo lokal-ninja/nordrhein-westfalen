@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.9037683
 longitude: 7.3968693000000005
-postcode: 53804
+postcode: "53804"
 city: Much
 street: "Zeithstraße"
 housenumber: 10

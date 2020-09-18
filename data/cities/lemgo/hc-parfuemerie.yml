@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.028345800000004
 longitude: 8.9025204
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 40

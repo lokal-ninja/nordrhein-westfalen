@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.321876800000005
 longitude: 8.908895000000001
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Kutenhauser Straße"
 housenumber: 155

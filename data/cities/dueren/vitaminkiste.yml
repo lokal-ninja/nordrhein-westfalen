@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.763406
 longitude: 6.472642400000001
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Gerichtsweg"
 housenumber: 4

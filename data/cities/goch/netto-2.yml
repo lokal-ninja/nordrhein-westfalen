@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6737351
 longitude: 6.1641368000000005
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Weezer Straße"
 housenumber: 15a

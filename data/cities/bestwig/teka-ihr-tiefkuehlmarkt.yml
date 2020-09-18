@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.360322800000006
 longitude: 8.3934031
-postcode: 59909
+postcode: "59909"
 city: Bestwig
 street: "Bundesstraße"
 housenumber: 127

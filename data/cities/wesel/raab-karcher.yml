@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.6615273
 longitude: 6.6489528
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Philipp-Reis-Straße"
 housenumber: 5

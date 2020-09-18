@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.5750642
 longitude: 7.050435800000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Pastor-Franke-Straße"
 housenumber: 8

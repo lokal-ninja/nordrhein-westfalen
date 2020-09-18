@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.9347549
 longitude: 7.7542577
-postcode: 51580
+postcode: "51580"
 city: Reichshof
 street: "Wildberger Straße"
 housenumber: 79
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: "Mo- Sa 08:00-20:00"
 website: ""

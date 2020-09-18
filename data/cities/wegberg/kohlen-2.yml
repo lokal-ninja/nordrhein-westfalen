@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.1358613
 longitude: 6.2515695000000004
-postcode: 41844
+postcode: "41844"
 city: Wegberg
 street: "Alte Landstraße"
 housenumber: 100

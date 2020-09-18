@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1675042
 longitude: 6.6777483
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Dahlienstraße"
 housenumber: 48

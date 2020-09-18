@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.304080000000006
 longitude: 8.619431800000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Bäckerstraße"
 housenumber: 25

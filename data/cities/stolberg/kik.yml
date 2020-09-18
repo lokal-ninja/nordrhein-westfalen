@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.775446800000005
 longitude: 6.2248139
-postcode: 52222
+postcode: "52222"
 city: Stolberg
 street: "Rathausstraße"
 housenumber: 96

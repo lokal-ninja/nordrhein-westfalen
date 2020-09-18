@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.226835200000004
 longitude: 6.8060767
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Birkenstraße"
 housenumber: 95

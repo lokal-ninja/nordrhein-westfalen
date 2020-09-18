@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.0266139
 longitude: 8.520574400000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Stapenhorststraße"
 housenumber: 65a

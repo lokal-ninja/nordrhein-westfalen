@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.210328200000006
 longitude: 7.872889400000001
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Kaiserstraße"
 housenumber: 22

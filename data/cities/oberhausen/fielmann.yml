@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.5146652
 longitude: 6.846545300000001
-postcode: 46145
+postcode: "46145"
 city: Oberhausen
 street: "Bahnhofstraße"
 housenumber: 40

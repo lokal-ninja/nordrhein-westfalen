@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.9604992
 longitude: 6.9986098000000005
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Windmühlenstraße"
 housenumber: 149,151

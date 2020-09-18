@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.482424900000005
 longitude: 6.860436300000001
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Mülheimer Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8289714
 longitude: 7.026589
-postcode: 53859
+postcode: "53859"
 city: Niederkassel
 street: "Feldmühlestraße"
 housenumber: 24

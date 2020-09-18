@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7491087
 longitude: 7.1616752
-postcode: 53229
+postcode: "53229"
 city: Bonn
 street: "Reinold-Hagen-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.9274232
 longitude: 7.677591700000001
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Paul-Engelhard-Weg"
 housenumber: 50e

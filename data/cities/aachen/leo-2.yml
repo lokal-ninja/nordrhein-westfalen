@@ -1,12 +1,12 @@
-id: 87087785
-type: way
+id: 2506502028
+type: node
 shop: Bäckerei
-latitude: 50.769971500000004
-longitude: 6.117451600000001
-postcode: 
+latitude: 50.729246100000005
+longitude: 6.179180700000001
+postcode: "52076"
 city: Aachen
-street: "Trierer Straße"
-housenumber: 4
+street: "Steinkaulplatz"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-14:00"
-website: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00; Su 08:00-11:00"
+website: "https://www.leo-der-baecker.de/cms/front_content.php?idart=234&print=1&nr=12&placeValuesBeforeTB_=savedValues&TB_iframe=true&height=550&width=610&modal=true"

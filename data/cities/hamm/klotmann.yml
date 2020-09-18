@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6460853
 longitude: 7.883913700000001
-postcode: 59069
+postcode: "59069"
 city: Hamm
 street: "Davidisstraße"
 housenumber: 7

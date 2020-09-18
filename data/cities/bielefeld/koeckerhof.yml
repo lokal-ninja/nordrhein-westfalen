@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.063133
 longitude: 8.5140625
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Babenhauser Straße"
 housenumber: 30

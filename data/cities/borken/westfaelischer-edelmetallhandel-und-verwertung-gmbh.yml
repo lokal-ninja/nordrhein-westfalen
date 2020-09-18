@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.844819300000005
 longitude: 6.8590093
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Johann-Walling-Straße"
 housenumber: 8

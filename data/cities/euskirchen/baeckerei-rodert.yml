@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6512346
 longitude: 6.824890000000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 77

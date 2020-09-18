@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.958112400000005
 longitude: 7.9775881
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Heesstraße"
 housenumber: 91

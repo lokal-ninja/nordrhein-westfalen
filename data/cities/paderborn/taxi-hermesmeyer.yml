@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.730834900000005
 longitude: 8.720857500000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Stedener Feld"
 housenumber: 4

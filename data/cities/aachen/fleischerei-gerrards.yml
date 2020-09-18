@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.774042
 longitude: 6.085439
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Hartmannstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.094936600000004
 longitude: 6.8110246000000005
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 1

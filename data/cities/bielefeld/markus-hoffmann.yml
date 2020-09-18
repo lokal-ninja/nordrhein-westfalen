@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0433541
 longitude: 8.5231369
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 198

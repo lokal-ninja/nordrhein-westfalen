@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.130335200000005
 longitude: 6.447057600000001
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Wiedemannstraße"
 housenumber: 51-53

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9281188
 longitude: 6.9189287
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Gleueler Straße"
 housenumber: 20

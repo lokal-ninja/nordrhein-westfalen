@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.601533
 longitude: 7.0816547000000005
-postcode: 45701
+postcode: "45701"
 city: Herten
 street: "Zum Bahnhof"
 housenumber: 4

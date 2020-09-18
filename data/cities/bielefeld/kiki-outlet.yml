@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.019502700000004
 longitude: 8.530495100000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Neustädter Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.9779756
 longitude: 7.7061944
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: "Gildenstraße"
 housenumber: 12

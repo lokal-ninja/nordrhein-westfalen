@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.19287490000001
 longitude: 8.6239861
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Südlenger Straße"
 housenumber: 216

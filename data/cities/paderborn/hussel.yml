@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.7171979
 longitude: 8.753008000000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rathausplatz"
 housenumber: 15

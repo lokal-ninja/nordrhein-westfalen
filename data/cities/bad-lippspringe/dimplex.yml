@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 51.7694003
 longitude: 8.809598300000001
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Hohe Kamp"
 housenumber: 46

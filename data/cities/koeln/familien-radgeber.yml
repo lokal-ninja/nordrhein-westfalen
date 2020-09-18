@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.9408655
 longitude: 6.9339127000000005
-postcode: 50672
+postcode: "50672"
 city: Köln
 street: "Bismarckstraße"
 housenumber: 56-62

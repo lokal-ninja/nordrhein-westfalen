@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.0522652
 longitude: 6.999461800000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Adolf-Kaschny-Straße"
 housenumber: 9

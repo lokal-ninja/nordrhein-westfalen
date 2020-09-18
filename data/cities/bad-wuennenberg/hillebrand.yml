@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.5145367
 longitude: 8.7422115
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Forstenburgstraße"
 housenumber: 9

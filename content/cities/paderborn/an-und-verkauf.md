@@ -1,4 +1,4 @@
 ---
-title: "An & Verkauf"
+title: "An- & Verkauf"
 url: /paderborn/an-und-verkauf/
 ---

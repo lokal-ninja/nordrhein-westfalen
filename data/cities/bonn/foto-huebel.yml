@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 50.660697600000006
 longitude: 7.1917732
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Meckenheimer Straße"
 housenumber: 1

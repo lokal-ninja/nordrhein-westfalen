@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.830396500000006
 longitude: 6.961081900000001
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Brühler Straße"
 housenumber: 121

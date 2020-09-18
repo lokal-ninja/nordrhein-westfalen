@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.195893500000004
 longitude: 7.7958940000000005
-postcode: 58849
+postcode: "58849"
 city: Herscheid
 street: "Kuhlen"
 housenumber: 2

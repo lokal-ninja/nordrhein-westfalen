@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8797281
 longitude: 6.8896227
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Luxemburger Straße"
 housenumber: 346

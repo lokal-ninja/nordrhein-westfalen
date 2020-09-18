@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0051208
 longitude: 8.5108584
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Eggeweg"
 housenumber: 3

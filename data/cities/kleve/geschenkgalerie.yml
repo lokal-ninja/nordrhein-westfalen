@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 51.7895727
 longitude: 6.1386143
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Kavarinerstraße"
 housenumber: 24

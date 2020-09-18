@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9149746
 longitude: 8.372276900000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Georgstraße"
 housenumber: 2

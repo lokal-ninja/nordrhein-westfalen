@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.826993200000004
 longitude: 6.9318096
-postcode: 46359
+postcode: "46359"
 city: Heiden
 street: "Velener Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.439296500000005
 longitude: 7.024131700000001
-postcode: 45136
+postcode: "45136"
 city: Essen
 street: "Rellinghauser Straße"
 housenumber: 178

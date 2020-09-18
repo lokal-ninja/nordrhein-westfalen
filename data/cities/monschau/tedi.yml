@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.5754047
 longitude: 6.2600651
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Auf Beuel"
 housenumber: 1

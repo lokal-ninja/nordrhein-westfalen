@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.4939411
 longitude: 7.3791888000000005
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Brennaborstraße"
 housenumber: 12

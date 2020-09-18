@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.77957120000001
 longitude: 8.8037747
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Am Vorderflöß"
 housenumber: 25a

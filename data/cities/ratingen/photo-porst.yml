@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.297757700000005
 longitude: 6.8510638
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Oberstraße"
 housenumber: 9

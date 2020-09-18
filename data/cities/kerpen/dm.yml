@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.880693300000004
 longitude: 6.690743100000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Am Falder"
 housenumber: 20

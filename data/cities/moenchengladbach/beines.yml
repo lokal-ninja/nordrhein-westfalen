@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.197968900000006
 longitude: 6.3903371
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Roermonder Straße"
 housenumber: 414

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2380548
 longitude: 6.733658500000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Hansaallee"
 housenumber: 105a

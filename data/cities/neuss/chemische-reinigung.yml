@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.208472900000004
 longitude: 6.6727581
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Berliner Platz"
 housenumber: 17

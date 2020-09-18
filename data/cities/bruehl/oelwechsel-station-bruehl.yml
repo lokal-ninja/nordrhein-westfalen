@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8455664
 longitude: 6.910276400000001
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Bremer Straße"
 housenumber: 9

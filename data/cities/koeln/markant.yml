@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.920582800000005
 longitude: 6.9983351
-postcode: 51105
+postcode: "51105"
 city: Köln
 street: "Rolshover Straße"
 housenumber: 420

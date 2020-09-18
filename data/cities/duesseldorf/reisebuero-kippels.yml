@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2437449
 longitude: 6.781181
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Roßstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.7430947
 longitude: 7.1865588
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Rekumer Straße"
 housenumber: 5

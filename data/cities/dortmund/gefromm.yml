@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.494632300000006
 longitude: 7.5881686
-postcode: 44289
+postcode: "44289"
 city: Dortmund
 street: "Sölder Straße"
 housenumber: 118

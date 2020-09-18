@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3829014
 longitude: 6.4496585
-postcode: 47906
+postcode: "47906"
 city: Kempen
 street: "Bahnstraße"
 housenumber: 4

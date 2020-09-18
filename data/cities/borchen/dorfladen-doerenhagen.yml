@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.667602300000006
 longitude: 8.8361699
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Kirchborchener Straße"
 housenumber: 34

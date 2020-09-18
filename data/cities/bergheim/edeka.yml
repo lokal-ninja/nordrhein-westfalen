@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.966587200000006
 longitude: 6.756322000000001
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Dansweilerstraße"
 housenumber: 3

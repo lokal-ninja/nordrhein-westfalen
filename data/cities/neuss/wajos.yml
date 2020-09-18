@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.201384100000006
 longitude: 6.7182919000000005
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2-4

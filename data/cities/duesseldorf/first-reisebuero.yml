@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2190893
 longitude: 6.7802702
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Graf-Adolf-Straße"
 housenumber: 16

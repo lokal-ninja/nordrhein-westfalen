@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.121860100000006
 longitude: 7.901660100000001
-postcode: 57439
+postcode: "57439"
 city: Attendorn
 street: "Am Zollstock"
 housenumber: 51

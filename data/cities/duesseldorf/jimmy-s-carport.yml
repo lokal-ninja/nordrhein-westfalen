@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.233471800000004
 longitude: 6.792686000000001
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Düsselthaler Straße"
 housenumber: 41

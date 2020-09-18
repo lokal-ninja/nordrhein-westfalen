@@ -1,12 +1,12 @@
-id: 80365248
+id: 114443544
 type: way
 shop: Supermarkt
-latitude: 51.5093334
-longitude: 7.008511
-postcode: 45329
+latitude: 51.4433154
+longitude: 6.9994871000000005
+postcode: "45147"
 city: Essen
-street: "Heßlerstraße"
-housenumber: 9
+street: "Gemarkenstraße"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Su 07:00-22:00"
 website: ""

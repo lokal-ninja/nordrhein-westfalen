@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.776610700000006
 longitude: 8.8045167
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "An der Weberei"
 housenumber: 10

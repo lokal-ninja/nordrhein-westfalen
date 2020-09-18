@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.515719700000005
 longitude: 7.2572147000000005
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Wiescherstraße"
 housenumber: 7

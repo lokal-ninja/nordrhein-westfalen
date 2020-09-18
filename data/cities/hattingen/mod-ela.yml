@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3979456
 longitude: 7.183462400000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Keilstraße"
 housenumber: 4

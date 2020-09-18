@@ -1,12 +1,12 @@
-id: 4463578480
-type: node
+id: 122023071
+type: way
 shop: Supermarkt
-latitude: 51.2327822
-longitude: 7.0727396
-postcode: 42329
+latitude: 51.2808676
+longitude: 7.242034500000001
+postcode: "42389"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 33
+street: "Dahler Straße"
+housenumber: 72
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "https://www.aldi-nord.de/"

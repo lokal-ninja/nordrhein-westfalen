@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.142193400000004
 longitude: 8.0179553
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Bahnhofsplatz"
 housenumber: 1

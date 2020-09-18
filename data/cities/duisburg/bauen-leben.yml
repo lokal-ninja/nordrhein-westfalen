@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3795853
 longitude: 6.7360975000000005
-postcode: 47249
+postcode: "47249"
 city: Duisburg
 street: "Ehinger Straße"
 housenumber: 106

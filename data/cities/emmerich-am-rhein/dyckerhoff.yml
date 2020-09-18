@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.8319716
 longitude: 6.2806755
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "An der Landwehr"
 housenumber: 8

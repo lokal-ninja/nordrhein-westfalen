@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2364474
 longitude: 6.8005649
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Achenbachstraße"
 housenumber: 132

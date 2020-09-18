@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.4524277
 longitude: 6.6257790000000005
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Neumarkt"
 housenumber: 15-17

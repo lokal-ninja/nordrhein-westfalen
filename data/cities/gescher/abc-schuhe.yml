@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.9561349
 longitude: 7.0103958
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Hauskampstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2304752
 longitude: 6.707925400000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Heerdter Landstraße"
 housenumber: 181

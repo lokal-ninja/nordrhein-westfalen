@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1072451
 longitude: 8.949452800000001
-postcode: 32689
+postcode: "32689"
 city: Kalletal
 street: "Rintelner Straße"
 housenumber: 10

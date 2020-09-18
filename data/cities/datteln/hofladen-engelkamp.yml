@@ -1,12 +1,12 @@
 id: 301047829
 type: way
 shop: Hofladen
-latitude: 51.6484527
-longitude: 7.3119087
-postcode: 45711
+latitude: 51.648458100000006
+longitude: 7.3118765
+postcode: "45711"
 city: Datteln
 street: "Friedrich-Ebert-Straße"
 housenumber: 251
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:30 Sa 9:00-14:00"
+opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-14:00"
 website: ""

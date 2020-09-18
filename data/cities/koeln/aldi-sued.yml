@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.916220700000004
 longitude: 6.926412300000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 44-46

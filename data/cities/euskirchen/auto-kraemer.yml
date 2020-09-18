@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.661808300000004
 longitude: 6.794216700000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Dominikanerinnenplatz"
 housenumber: 9

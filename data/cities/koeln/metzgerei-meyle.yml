@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.956442900000006
 longitude: 6.9192451
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Landmannstraße"
 housenumber: 36

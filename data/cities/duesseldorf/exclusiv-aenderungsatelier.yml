@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.301924400000004
 longitude: 6.7373561
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Fliednerstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 51.431956400000004
 longitude: 6.7725508
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Königstraße"
 housenumber: 76

@@ -1,12 +1,12 @@
-id: 554220401
+id: 2416615574
 type: node
 shop: Kiosk
-latitude: 51.4319834
-longitude: 6.976150100000001
-postcode: 45149
+latitude: 51.46863260000001
+longitude: 7.0812061
+postcode: "45307"
 city: Essen
-street: "Laubenweg"
-housenumber: 11
+street: "Krayer Straße"
+housenumber: 251
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
+opening_hours: ""
 website: ""

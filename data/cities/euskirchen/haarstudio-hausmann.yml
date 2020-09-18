@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.622443000000004
 longitude: 6.844261100000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Im Reiherflug"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7546729
 longitude: 7.011513000000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Bonner Straße"
 housenumber: 70-72

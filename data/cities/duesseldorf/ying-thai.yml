@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.235607800000004
 longitude: 6.799141700000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Humboldtstraße"
 housenumber: 76

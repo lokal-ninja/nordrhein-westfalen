@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.839566500000004
 longitude: 6.2392814
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "'s-Heerenberger Straße"
 housenumber: 51

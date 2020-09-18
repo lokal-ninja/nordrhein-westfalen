@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.579102600000006
 longitude: 7.007471700000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Buersche Straße"
 housenumber: 95

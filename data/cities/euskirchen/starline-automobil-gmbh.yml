@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6682105
 longitude: 6.807130300000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Stresemannstraße"
 housenumber: 1

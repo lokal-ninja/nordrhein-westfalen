@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5880531
 longitude: 7.336369100000001
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Recklinghauser Straße"
 housenumber: 120

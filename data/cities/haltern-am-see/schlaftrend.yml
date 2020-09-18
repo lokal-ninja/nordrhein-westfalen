@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.727183000000004
 longitude: 7.1861062
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Recklinghäuser Straße"
 housenumber: 152

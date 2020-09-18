@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2201286
 longitude: 7.623241900000001
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Knapper Straße"
 housenumber: 50

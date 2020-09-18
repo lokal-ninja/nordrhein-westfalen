@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 50.7685699
 longitude: 6.075109100000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Boxgraben"
 housenumber: 131

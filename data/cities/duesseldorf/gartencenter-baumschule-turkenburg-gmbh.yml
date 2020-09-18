@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.260457800000005
 longitude: 6.913913300000001
-postcode: 40629
+postcode: "40629"
 city: Düsseldorf
 street: "Bergische Landstraße"
 housenumber: 622

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.30407700000001
 longitude: 8.854733000000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Königstraße"
 housenumber: 

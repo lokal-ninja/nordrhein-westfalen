@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.476323300000004
 longitude: 7.033023
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Grabenstraße"
 housenumber: 1

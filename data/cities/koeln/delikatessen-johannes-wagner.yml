@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8929636
 longitude: 6.9950011000000005
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 98

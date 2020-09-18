@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.755756600000005
 longitude: 6.972847600000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Ploon"
 housenumber: 6

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.517814300000005
 longitude: 6.3230911
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Issumer Straße"
-housenumber: 
+housenumber: 12
 phone: ""
 opening_hours: ""
 website: ""

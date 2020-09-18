@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6562111
 longitude: 7.6276633
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Lünener Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0407875
 longitude: 6.8084609
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Zwillbrocker Straße"
 housenumber: 70

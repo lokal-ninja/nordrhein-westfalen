@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2576223
 longitude: 7.1435836
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Erholungstraße"
 housenumber: 14

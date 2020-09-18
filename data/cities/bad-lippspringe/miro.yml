@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.7823379
 longitude: 8.8194016
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Lange Straße"
 housenumber: 5

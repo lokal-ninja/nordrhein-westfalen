@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.723708900000005
 longitude: 6.9171190000000005
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Dützhofer Straße"
 housenumber: 14

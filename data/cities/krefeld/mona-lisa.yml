@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.340816200000006
 longitude: 6.5961758
-postcode: 47800
+postcode: "47800"
 city: Krefeld
 street: "Uerdinger Straße"
 housenumber: 340

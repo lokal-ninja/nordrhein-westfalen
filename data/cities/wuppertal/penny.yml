@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.266507600000004
 longitude: 7.150853700000001
-postcode: 42107
+postcode: "42107"
 city: Wuppertal
 street: "Kieler Straße"
 housenumber: 34

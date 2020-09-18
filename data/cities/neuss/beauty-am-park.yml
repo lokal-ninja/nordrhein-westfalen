@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.192282000000006
 longitude: 6.6913825000000005
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Jülicher Straße"
 housenumber: 2

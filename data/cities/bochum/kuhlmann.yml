@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4282272
 longitude: 7.1653462
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Nehringskamp"
 housenumber: 4

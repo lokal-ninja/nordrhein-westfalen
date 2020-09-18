@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.0943314
 longitude: 6.811000600000001
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Lübecker Straße"
 housenumber: 1

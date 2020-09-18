@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4712794
 longitude: 7.3203072
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 39

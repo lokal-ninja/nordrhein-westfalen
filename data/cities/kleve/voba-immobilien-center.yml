@@ -3,7 +3,7 @@ type: way
 shop: Immobilien
 latitude: 51.789184000000006
 longitude: 6.1387385000000005
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Kavarinerstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.932486100000006
 longitude: 7.2834167
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Siegburger Straße"
 housenumber: 1a

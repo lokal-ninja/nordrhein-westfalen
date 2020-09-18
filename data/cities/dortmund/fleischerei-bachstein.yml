@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.478205100000004
 longitude: 7.5313878
-postcode: 44269
+postcode: "44269"
 city: Dortmund
 street: "Berghofer Straße"
 housenumber: 131

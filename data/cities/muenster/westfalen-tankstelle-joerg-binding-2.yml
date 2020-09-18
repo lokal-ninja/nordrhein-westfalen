@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.9777386
 longitude: 7.6000291
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Steinfurter Straße"
 housenumber: 166

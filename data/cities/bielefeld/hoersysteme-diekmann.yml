@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.0322587
 longitude: 8.604497700000001
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Salzufler Straße"
 housenumber: 7

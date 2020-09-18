@@ -3,7 +3,7 @@ type: node
 shop: Fußböden
 latitude: 50.6918748
 longitude: 7.1457822
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Godesberger Straße"
 housenumber: 27

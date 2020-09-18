@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.399829700000005
 longitude: 7.1858523000000005
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Heggerstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.1957699
 longitude: 8.8114893
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Niederbecksener Straße"
 housenumber: 12

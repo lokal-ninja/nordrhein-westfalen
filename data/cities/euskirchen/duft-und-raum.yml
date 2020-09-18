@@ -3,7 +3,7 @@ type: node
 shop: Kerzen
 latitude: 50.6623548
 longitude: 6.786061500000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Annaturmstraße"
 housenumber: 20

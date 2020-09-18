@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.760105200000005
 longitude: 6.1735626
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Peter-Eich-Straße"
 housenumber: 9

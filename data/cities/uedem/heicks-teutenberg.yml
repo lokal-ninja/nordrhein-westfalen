@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6684616
 longitude: 6.272469
-postcode: 47589
+postcode: "47589"
 city: Uedem
 street: "Mühlenstraße"
 housenumber: 4

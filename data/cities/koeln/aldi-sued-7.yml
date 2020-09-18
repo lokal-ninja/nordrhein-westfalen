@@ -1,12 +1,12 @@
-id: 29398622
+id: 27777290
 type: way
 shop: Supermarkt
-latitude: 50.9488246
-longitude: 6.911707600000001
-postcode: 50825
+latitude: 50.9600255
+longitude: 6.9372816
+postcode: "50739"
 city: Köln
-street: "Grüner Weg"
-housenumber: 2
+street: "Osterather Straße"
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su, PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: ""

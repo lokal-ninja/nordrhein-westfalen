@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.473841
 longitude: 6.9512672
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Rechtstraße"
 housenumber: 4

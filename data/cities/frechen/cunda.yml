@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9099481
 longitude: 6.8107588
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 61-67

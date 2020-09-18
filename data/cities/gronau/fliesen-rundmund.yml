@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 52.198870400000004
 longitude: 7.0721926
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Heinrich-Hertz-Straße"
 housenumber: 2

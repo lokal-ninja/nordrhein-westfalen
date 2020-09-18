@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 51.7635359
 longitude: 7.8905818000000005
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Nordstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-19:00; Sa 10:00-13:00"
 website: ""

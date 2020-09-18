@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.096138200000006
 longitude: 8.5134743
-postcode: 33739
+postcode: "33739"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 581

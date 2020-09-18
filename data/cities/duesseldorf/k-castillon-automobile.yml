@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 51.1784211
 longitude: 6.8318200000000004
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Hügelstraße"
 housenumber: 41
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
 website: ""

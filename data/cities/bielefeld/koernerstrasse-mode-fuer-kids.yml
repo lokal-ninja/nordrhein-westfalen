@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0224333
 longitude: 8.534954500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Körnerstraße"
 housenumber: 3

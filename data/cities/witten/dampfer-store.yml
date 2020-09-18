@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.4232942
 longitude: 7.281070100000001
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Platz an der Schmiede"
 housenumber: 6

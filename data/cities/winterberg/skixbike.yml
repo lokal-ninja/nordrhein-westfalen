@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.1965129
 longitude: 8.532133700000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Neue Mitte"
 housenumber: 

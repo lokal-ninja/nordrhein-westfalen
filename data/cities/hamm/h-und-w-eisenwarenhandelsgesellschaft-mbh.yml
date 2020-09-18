@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.6549849
 longitude: 7.789883100000001
-postcode: 59067
+postcode: "59067"
 city: Hamm
 street: "Rathenaustraße"
 housenumber: 18

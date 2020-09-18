@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.196303900000004
 longitude: 6.4472614
-postcode: 41065
+postcode: "41065"
 city: Mönchengladbach
 street: "Lürriper Straße"
 housenumber: 17

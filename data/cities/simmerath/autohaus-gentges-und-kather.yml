@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6072707
 longitude: 6.3056282
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "In den Bremen"
 housenumber: 20

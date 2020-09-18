@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.238422
 longitude: 6.7996973
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 146

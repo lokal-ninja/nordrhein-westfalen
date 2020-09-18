@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 50.8697485
 longitude: 8.0122357
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Koblenzer Straße"
 housenumber: 120

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.463858300000005
 longitude: 6.949103300000001
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Schloßstraße"
 housenumber: 2

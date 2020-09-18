@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.2731075
 longitude: 7.221972200000001
-postcode: 42289
+postcode: "42289"
 city: Wuppertal
 street: "Widukindstraße"
 housenumber: 97

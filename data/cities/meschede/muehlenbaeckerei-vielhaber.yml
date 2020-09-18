@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3565945
 longitude: 8.2887474
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Jahnstraße"
 housenumber: 58

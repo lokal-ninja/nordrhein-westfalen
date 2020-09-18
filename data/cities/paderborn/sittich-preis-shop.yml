@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7174941
 longitude: 8.750578200000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königsplatz"
 housenumber: 14

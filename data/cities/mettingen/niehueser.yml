@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3473179
 longitude: 7.764079300000001
-postcode: 49497
+postcode: "49497"
 city: Mettingen
 street: "Wöstenstraße"
 housenumber: 150

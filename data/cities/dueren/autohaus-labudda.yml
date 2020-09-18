@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.768198600000005
 longitude: 6.4469734
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Monschauer Landstraße"
 housenumber: 274

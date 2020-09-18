@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5780788
 longitude: 8.110171900000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Vor dem Walburgertor"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.454579200000005
 longitude: 7.3830834
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Salinger Feld"
 housenumber: 42a

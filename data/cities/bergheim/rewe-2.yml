@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9798338
 longitude: 6.681928200000001
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Peter-Achnitz-Straße"
 housenumber: 8

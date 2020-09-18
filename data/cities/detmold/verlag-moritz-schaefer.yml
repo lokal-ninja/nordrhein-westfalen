@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.937279700000005
 longitude: 8.8747554
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Grabbestraße"
 housenumber: 7

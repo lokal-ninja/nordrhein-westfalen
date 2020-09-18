@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 50.770646000000006
 longitude: 6.1180659
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Trierer Straße"
 housenumber: 1

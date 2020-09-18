@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4916129
 longitude: 9.073602600000001
-postcode: 34474
+postcode: "34474"
 city: Diemelstadt
 street: "Teichstraße"
 housenumber: 3

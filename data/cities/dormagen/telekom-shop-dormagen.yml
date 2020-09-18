@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0939636
 longitude: 6.840156100000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 96

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.718141100000004
 longitude: 6.909936200000001
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Kölner Straße"
 housenumber: 75

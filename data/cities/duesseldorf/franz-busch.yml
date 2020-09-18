@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2150441
 longitude: 6.807432400000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Mindener Straße"
 housenumber: 30

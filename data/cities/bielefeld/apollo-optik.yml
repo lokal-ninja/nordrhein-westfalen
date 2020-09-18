@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.0090524
 longitude: 8.517912500000001
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Artur-Ladebeck-Straße"
 housenumber: 81

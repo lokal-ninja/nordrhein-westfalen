@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 52.198095
 longitude: 8.5792149
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Bahnhofstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.727657
 longitude: 7.1075046
-postcode: 53113
+postcode: "53113"
 city: Bonn
 street: "Weberstraße"
 housenumber: 26

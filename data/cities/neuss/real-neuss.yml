@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.202364200000005
 longitude: 6.717797
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2

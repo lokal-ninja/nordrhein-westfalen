@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.837015
 longitude: 7.204790200000001
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Auelsweg"
 housenumber: 16b

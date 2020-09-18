@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4551858
 longitude: 7.960070600000001
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Werler Straße"
 housenumber: 4

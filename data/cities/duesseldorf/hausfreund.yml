@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.229339
 longitude: 6.8062433
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ackerstraße"
 housenumber: 155

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.879958
 longitude: 9.2818398
-postcode: 32676
+postcode: "32676"
 city: Lügde
 street: "Hauptstraße"
 housenumber: 32

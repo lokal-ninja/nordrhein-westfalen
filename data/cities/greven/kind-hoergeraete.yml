@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 52.091844800000004
 longitude: 7.6134832
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Münsterstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 9:00-13:00 und 14:00-18:00"
 website: ""

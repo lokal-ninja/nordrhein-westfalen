@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9585147
 longitude: 8.2907993
-postcode: 33428
+postcode: "33428"
 city: Marienfeld
 street: "Max-Planck-Straße"
 housenumber: 20

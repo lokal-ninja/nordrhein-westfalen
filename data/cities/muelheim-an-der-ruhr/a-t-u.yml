@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4328173
 longitude: 6.8437783
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Weseler Straße"
 housenumber: 77

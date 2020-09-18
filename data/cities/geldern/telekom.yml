@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.5176961
 longitude: 6.3224067
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Issumer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.2130379
 longitude: 7.008407200000001
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Enscheder Straße"
 housenumber: 87a

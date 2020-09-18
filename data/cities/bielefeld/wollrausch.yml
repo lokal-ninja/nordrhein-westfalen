@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 52.0192263
 longitude: 8.5325371
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Gehrenberg"
 housenumber: 18

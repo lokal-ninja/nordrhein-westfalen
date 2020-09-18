@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.112461100000004
 longitude: 6.1528552
-postcode: 41849
+postcode: "41849"
 city: Wassenberg
 street: "Lambertusstraße"
 housenumber: 66

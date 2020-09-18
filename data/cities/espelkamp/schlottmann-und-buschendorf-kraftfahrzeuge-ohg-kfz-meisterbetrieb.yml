@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3535313
 longitude: 8.5622117
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Blasheimer Straße"
 housenumber: 2

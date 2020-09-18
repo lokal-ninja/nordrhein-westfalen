@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.0311413
 longitude: 6.696393100000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 4

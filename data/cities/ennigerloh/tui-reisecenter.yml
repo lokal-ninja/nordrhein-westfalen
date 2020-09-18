@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.836560000000006
 longitude: 8.025019200000001
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Bahnhofstraße"
 housenumber: 2

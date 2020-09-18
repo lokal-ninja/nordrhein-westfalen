@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2312735
 longitude: 7.8694215000000005
-postcode: 58840
+postcode: "58840"
 city: Plettenberg
 street: "Breddestraße"
 housenumber: 1

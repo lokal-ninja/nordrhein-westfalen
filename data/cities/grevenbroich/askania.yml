@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.087761500000006
 longitude: 6.5924133000000005
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 56

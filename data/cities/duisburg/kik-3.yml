@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.433309300000005
 longitude: 6.726923800000001
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Javastraße"
 housenumber: 

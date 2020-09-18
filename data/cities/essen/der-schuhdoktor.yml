@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.47388350000001
 longitude: 6.950831300000001
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Marktstraße"
 housenumber: 32

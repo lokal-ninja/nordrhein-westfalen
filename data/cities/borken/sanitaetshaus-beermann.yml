@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.841436
 longitude: 6.859388
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Am Boltenhof"
 housenumber: 2

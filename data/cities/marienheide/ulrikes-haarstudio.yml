@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0828585
 longitude: 7.5319212
-postcode: 51709
+postcode: "51709"
 city: Marienheide
 street: "Hauptstraße"
 housenumber: 65

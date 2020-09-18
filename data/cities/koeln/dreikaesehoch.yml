@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9214634
 longitude: 6.919161300000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 316

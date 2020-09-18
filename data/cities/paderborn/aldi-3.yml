@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.703326100000005
 longitude: 8.7695456
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

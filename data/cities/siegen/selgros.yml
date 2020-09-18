@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.870437800000005
 longitude: 8.0068154
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Papierfabrik"
 housenumber: 5

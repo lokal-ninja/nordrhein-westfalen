@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.66184500000001
 longitude: 6.9628546
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 13

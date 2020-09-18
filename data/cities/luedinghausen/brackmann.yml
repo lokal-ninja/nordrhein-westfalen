@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.770919000000006
 longitude: 7.443346600000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Langenbrückenstraße"
 housenumber: 10a

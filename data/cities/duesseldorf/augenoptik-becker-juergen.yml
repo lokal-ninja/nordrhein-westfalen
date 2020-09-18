@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2383278
 longitude: 6.779987200000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 63

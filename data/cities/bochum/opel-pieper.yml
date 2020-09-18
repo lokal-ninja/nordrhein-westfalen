@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.46909
 longitude: 7.30219
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Am Neggenborn"
 housenumber: 105

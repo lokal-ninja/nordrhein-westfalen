@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.197497600000005
 longitude: 6.4459032
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Europaplatz"
 housenumber: 11

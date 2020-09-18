@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.679619200000005
 longitude: 6.6252236
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Julius-Leber-Straße"
 housenumber: 10

@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 50.610635900000005
 longitude: 6.291336800000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Bickerather Straße"
-housenumber: 
+housenumber: 47
 phone: "+49 2473 1860"
 opening_hours: "Mo,Tu,Th 08:00-12:30,14:00-17:30; We 08:00-13:00; Fr 08:00-14:00; Sa,Su,PH off"
 website: "http://www.kfz-palm.de/"

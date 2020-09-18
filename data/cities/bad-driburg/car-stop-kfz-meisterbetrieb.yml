@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6755122
 longitude: 8.9912942
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Paderborner Straße"
 housenumber: 3

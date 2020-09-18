@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.0837713
 longitude: 8.748118
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Brunnengasse"
 housenumber: 1

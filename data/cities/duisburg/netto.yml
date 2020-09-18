@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.36379650000001
 longitude: 6.7783873
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Angermunder Straße"
 housenumber: 8

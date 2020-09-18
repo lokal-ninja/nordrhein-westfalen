@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.303283300000004
 longitude: 8.498025400000001
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Mindener Straße"
 housenumber: 27

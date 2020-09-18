@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.093518
 longitude: 6.8164616
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Kieler Straße"
 housenumber: 6b

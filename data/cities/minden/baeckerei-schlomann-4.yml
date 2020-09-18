@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3354051
 longitude: 8.8962261
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Kutenhauser Dorfstraße"
 housenumber: 36

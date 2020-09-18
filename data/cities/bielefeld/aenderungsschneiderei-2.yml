@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.0096105
 longitude: 8.5090831
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Haller Weg"
 housenumber: 35

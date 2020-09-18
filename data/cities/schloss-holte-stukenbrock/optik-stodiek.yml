@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9083149
 longitude: 8.6104509
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Bahnhofstraße"
 housenumber: 7

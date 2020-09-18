@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.155525700000005
 longitude: 8.8429877
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Salzuflener Straße"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 2423117826
-type: node
+id: 315334717
+type: way
 shop: Supermarkt
-latitude: 50.393904500000005
-longitude: 6.545113700000001
-postcode: 53949
+latitude: 50.3940514
+longitude: 6.5449275
+postcode: "53949"
 city: Dahlem
 street: "Schmidtheimer Straße"
 housenumber: 30
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00;Su, PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.823430200000004
 longitude: 6.6126450000000006
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Dingdener Straße"
 housenumber: 22

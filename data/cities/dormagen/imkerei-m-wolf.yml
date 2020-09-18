@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.114397700000005
 longitude: 6.773273100000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Neusser Straße"
 housenumber: 2

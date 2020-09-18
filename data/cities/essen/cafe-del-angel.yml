@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.424545300000005
 longitude: 7.039040600000001
-postcode: 45134
+postcode: "45134"
 city: Essen
 street: "Frankenstraße"
 housenumber: 155

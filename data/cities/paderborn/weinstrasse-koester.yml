@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.732393300000005
 longitude: 8.7844478
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Senefelderstraße"
 housenumber: 1

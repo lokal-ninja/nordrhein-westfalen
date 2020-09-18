@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.783835
 longitude: 6.0549542
-postcode: 47559
+postcode: "47559"
 city: Kranenburg
 street: "Im Schlop"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0059905
 longitude: 7.1287479000000005
-postcode: 48720
+postcode: "48720"
 city: Rosendahl
 street: "Legdener Straße"
 housenumber: 4

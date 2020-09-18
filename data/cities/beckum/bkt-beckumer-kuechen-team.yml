@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.7361073
 longitude: 7.989563800000001
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Hammer Straße"
 housenumber: 

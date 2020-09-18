@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.732909500000005
 longitude: 7.0832088
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Karlstraße"
 housenumber: 33

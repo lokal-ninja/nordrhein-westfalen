@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 50.9268348
 longitude: 6.5866129
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Giesendorfer Straße"
 housenumber: 2

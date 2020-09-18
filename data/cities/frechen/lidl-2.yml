@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.909741700000005
 longitude: 6.8248563
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Dr.-Gottfried-Cremer-Allee"
 housenumber: 22

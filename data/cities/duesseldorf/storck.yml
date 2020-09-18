@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.214179
 longitude: 6.7492393
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Speditionstraße"
 housenumber: 1

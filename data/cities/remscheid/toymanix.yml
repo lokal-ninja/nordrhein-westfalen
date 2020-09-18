@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.195813400000006
 longitude: 7.1931522
-postcode: 42855
+postcode: "42855"
 city: Remscheid
 street: "Haddenbacher Straße"
 housenumber: 153

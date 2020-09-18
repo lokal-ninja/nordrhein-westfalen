@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.216484200000004
 longitude: 7.6294317000000005
-postcode: 58507
+postcode: "58507"
 city: Lüdenscheid
 street: "Altenaer Straße"
 housenumber: 1

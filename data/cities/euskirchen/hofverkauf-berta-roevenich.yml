@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.6644225
 longitude: 6.7388054
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Elsiger Straße"
 housenumber: 76

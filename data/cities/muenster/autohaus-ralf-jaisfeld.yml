@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.96901020000001
 longitude: 7.6499337
-postcode: 48145
+postcode: "48145"
 city: Münster
 street: "Beckhofstraße"
 housenumber: 23

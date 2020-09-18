@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5357752
 longitude: 6.9811002
-postcode: 46240
+postcode: "46240"
 city: Bottrop
 street: "Ruhrölstraße"
 housenumber: 2

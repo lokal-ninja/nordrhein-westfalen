@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.9113568
 longitude: 7.889890800000001
-postcode: 57258
+postcode: "57258"
 city: Freudenberg
 street: "Triftstraße"
 housenumber: 41

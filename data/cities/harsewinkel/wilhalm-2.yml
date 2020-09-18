@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.977417800000005
 longitude: 8.1434861
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Hauptstraße"
 housenumber: 33

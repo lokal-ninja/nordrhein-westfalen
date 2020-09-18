@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.353819400000006
 longitude: 8.2796731
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Klosterberg"
 housenumber: 11

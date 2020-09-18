@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.7155647
 longitude: 8.751638
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rosenstraße"
 housenumber: 16

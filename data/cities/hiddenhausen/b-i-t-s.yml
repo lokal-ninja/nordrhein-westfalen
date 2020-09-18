@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.1612067
 longitude: 8.6650867
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Herforder Straße"
 housenumber: 156

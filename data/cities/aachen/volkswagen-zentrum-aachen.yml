@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.765760300000004
 longitude: 6.1279319
-postcode: 52078
+postcode: "52078"
 city: Aachen
 street: "Trierer Straße"
 housenumber: 169

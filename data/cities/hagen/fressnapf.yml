@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.376814800000005
 longitude: 7.463743300000001
-postcode: 58097
+postcode: "58097"
 city: Hagen
 street: "Alexanderstraße"
 housenumber: 20

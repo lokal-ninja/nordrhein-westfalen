@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.954866100000004
 longitude: 7.6497136
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Wolbecker Straße"
 housenumber: 124

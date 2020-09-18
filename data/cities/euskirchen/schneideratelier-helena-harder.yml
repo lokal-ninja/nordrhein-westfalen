@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.6592843
 longitude: 6.789550500000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 22

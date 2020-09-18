@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2079454
 longitude: 6.8308138000000005
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Reisholzer Straße"
 housenumber: 26

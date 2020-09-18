@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.845918000000005
 longitude: 7.007617300000001
-postcode: 51143
+postcode: "51143"
 city: Köln
 street: "Heinrich-Klein-Straße"
 housenumber: 21

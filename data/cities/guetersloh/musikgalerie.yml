@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.9069732
 longitude: 8.3747602
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Königstraße"
 housenumber: 25

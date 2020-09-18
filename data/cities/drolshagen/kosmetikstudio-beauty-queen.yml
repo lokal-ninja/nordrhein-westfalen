@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.0219244
 longitude: 7.7760737
-postcode: 57489
+postcode: "57489"
 city: Drolshagen
 street: "Breite Wiese"
 housenumber: 2

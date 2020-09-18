@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.241201000000004
 longitude: 6.7917971
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Tußmannstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.090458600000005
 longitude: 7.4805076
-postcode: 48356
+postcode: "48356"
 city: Nordwalde
 street: "Emsdettener Straße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.296658300000004
 longitude: 6.867168100000001
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Eisenhüttenstraße"
 housenumber: 4

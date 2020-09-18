@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2151499
 longitude: 8.779028700000001
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Sielstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.929913400000004
 longitude: 8.1251013
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Lilienweg"
 housenumber: 1

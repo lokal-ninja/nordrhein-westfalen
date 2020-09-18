@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.699217000000004
 longitude: 7.1754477
-postcode: 53639
+postcode: "53639"
 city: Königswinter
 street: "Hauptstraße"
-housenumber: 17
+housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"
 website: "https://www.getraenke-hoffmann.de/"

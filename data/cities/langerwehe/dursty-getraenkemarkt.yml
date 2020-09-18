@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8166105
 longitude: 6.371244300000001
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Hauptstraße"
 housenumber: 273

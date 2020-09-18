@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.0888155
 longitude: 6.594585100000001
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Ostwall"
 housenumber: 31

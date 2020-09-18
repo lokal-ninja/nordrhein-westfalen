@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.0801285
 longitude: 7.3013285
-postcode: 48612
+postcode: "48612"
 city: Horstmar
 street: "Schöppinger Straße"
 housenumber: 3

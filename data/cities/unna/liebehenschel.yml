@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.5340148
 longitude: 7.690352300000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Wasserstraße"
 housenumber: 7

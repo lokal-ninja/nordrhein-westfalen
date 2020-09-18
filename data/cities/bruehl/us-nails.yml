@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8299673
 longitude: 6.9054665
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Kölnstraße"
 housenumber: 24

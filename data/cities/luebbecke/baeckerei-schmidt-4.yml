@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2997548
 longitude: 8.705289
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Ravensberger Straße"
 housenumber: 65

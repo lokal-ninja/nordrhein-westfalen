@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8945834
 longitude: 6.8948719
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Bachstraße"
 housenumber: 23

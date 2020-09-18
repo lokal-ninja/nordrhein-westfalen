@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.241179800000005
 longitude: 6.7820872
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Collenbachstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6615594
 longitude: 6.7870642000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Alter Markt"
 housenumber: 8

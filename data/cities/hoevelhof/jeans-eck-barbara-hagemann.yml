@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.8212647
 longitude: 8.6607911
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Allee"
 housenumber: 19

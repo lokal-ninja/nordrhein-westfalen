@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.494297700000004
 longitude: 7.370034
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Wulfshofstraße"
 housenumber: 6-8

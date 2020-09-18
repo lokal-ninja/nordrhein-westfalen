@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.746860600000005
 longitude: 6.850338300000001
-postcode: 53919
+postcode: "53919"
 city: Weilerswist
 street: "Parkallee"
 housenumber: 2 - 8

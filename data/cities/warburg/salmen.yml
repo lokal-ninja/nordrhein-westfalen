@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.5309679
 longitude: 9.031622800000001
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Paderborner Straße"
 housenumber: 2-8

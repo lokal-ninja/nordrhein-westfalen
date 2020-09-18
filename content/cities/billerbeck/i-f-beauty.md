@@ -1,4 +1,4 @@
 ---
-title: "I.F.Beauty"
+title: "I.F. Beauty"
 url: /billerbeck/i-f-beauty/
 ---

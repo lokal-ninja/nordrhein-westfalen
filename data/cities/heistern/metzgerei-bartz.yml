@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.797074200000004
 longitude: 6.336049500000001
-postcode: 52379
+postcode: "52379"
 city: Heistern
 street: "Weisweilerstraße"
 housenumber: 

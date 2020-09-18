@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5678229
 longitude: 9.2409662
-postcode: 34434
+postcode: "34434"
 city: Borgentreich
 street: "Mühlenstraße"
 housenumber: 5

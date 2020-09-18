@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2309106
 longitude: 6.613931200000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Martinusstraße"
 housenumber: 9

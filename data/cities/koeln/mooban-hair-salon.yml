@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.927618100000004
 longitude: 6.9434222000000005
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Salierring"
 housenumber: 43

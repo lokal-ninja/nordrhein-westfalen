@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1532642
 longitude: 8.284153100000001
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Bahnhofstraße"
 housenumber: 3

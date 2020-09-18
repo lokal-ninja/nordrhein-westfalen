@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.7079133
 longitude: 8.733976
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Waldenburger Straße"
 housenumber: 13

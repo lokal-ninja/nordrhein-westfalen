@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.763075900000004
 longitude: 7.897143700000001
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Oststraße"
 housenumber: 2-10
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-14:00; Su,PH 08:00-12:00"
 website: ""

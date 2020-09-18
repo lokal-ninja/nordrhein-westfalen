@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7760103
 longitude: 8.3149571
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Hauptstraße"
 housenumber: 54

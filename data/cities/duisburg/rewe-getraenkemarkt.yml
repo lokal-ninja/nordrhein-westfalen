@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.36905470000001
 longitude: 6.735941
-postcode: 47259
+postcode: "47259"
 city: Duisburg
 street: "Mündelheimer Straße"
 housenumber: 175

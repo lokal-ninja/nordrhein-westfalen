@@ -1,12 +1,12 @@
-id: 1747371324
-type: node
+id: 50021780
+type: way
 shop: Babysachen
-latitude: 50.983754100000006
-longitude: 6.898338300000001
-postcode: 50829
+latitude: 50.8579664
+longitude: 6.9721953
+postcode: "50997"
 city: Köln
-street: "Butzweilerstraße"
-housenumber: 49
-phone: "+492217090473"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su,PH off"
-website: "https://www.babyone.de/shop/fachmarkt/BabyOne-Koeln"
+street: "Otto-Hahn-Straße"
+housenumber: 5
+phone: ""
+opening_hours: ""
+website: "https://www.babyone.de/shop/fachmarkt/BabyOne-Koeln-Godorf"

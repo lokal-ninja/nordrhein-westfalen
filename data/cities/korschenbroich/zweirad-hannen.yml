@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.1967816
 longitude: 6.552326000000001
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Rhedung"
 housenumber: 7

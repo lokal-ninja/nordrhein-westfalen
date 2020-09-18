@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.257217000000004
 longitude: 7.7630584
-postcode: 58791
+postcode: "58791"
 city: Werdohl
 street: "Freiheitstraße"
 housenumber: 22

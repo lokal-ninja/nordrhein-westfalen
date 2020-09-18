@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.651003100000004
 longitude: 6.982071500000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Händelstraße"
 housenumber: 161

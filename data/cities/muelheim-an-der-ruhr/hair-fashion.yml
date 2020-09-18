@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.451100700000005
 longitude: 6.852569900000001
-postcode: 45476
+postcode: "45476"
 city: Mülheim an der Ruhr
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 10

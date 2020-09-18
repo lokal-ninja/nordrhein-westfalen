@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.473065600000005
 longitude: 6.9229922
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Schloßstraße"
 housenumber: 292

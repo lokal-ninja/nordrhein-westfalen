@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.206993000000004
 longitude: 6.774550100000001
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Burghofstraße"
 housenumber: 28

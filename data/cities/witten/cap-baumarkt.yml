@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.4446225
 longitude: 7.368778900000001
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Annenstraße"
 housenumber: 118,120,122

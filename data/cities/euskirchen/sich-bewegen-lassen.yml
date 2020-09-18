@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6656582
 longitude: 6.8047855
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Vom-Stein-Straße"
 housenumber: 25

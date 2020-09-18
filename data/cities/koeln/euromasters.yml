@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9457523
 longitude: 6.9125166
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Melatengürtel"
 housenumber: 105

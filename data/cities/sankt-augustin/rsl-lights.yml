@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.7660549
 longitude: 7.191416200000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Tannenweg"
 housenumber: 1-3

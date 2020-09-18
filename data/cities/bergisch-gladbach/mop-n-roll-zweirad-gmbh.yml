@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.001854
 longitude: 7.0975793000000005
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Kempener Straße"
 housenumber: 33

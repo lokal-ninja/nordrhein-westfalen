@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.5365831
 longitude: 7.6912728
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Bahnhofstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.5651117
 longitude: 6.7465099
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Max-Eyth-Straße"
 housenumber: 6

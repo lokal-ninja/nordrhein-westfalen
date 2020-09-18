@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2131933
 longitude: 6.814849700000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Langenberger Straße"
 housenumber: 9

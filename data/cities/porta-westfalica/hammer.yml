@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.257398200000004
 longitude: 8.8978883
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Erbeweg"
 housenumber: 5

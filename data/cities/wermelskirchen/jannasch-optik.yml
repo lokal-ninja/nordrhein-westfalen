@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.1401102
 longitude: 7.215292600000001
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Kölner Straße"
 housenumber: 10

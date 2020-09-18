@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.644044400000006
 longitude: 6.1879843
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 43

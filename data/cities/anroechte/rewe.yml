@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.561700800000004
 longitude: 8.327578800000001
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Hauptstraße"
 housenumber: 54

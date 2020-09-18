@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.2338675
 longitude: 6.778533800000001
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Kaiserstraße"
 housenumber: 23

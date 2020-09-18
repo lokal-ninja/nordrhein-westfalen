@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8923428
 longitude: 8.3828156
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Neuenkirchener Straße"
 housenumber: 110

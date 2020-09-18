@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.961682700000004
 longitude: 7.6276619000000005
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: ""
 housenumber: 

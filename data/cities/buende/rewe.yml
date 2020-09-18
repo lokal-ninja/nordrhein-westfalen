@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1950372
 longitude: 8.5972822
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Brunnenallee"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8232239
 longitude: 8.658009100000001
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Westfalenstraße"
 housenumber: 14

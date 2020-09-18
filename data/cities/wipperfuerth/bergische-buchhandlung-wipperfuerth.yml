@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.1176174
 longitude: 7.3985899
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Marktplatz"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.0940689
 longitude: 6.8156391
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Kieler Straße"
 housenumber: 13

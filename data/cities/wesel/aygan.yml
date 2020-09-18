@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6556207
 longitude: 6.6140185
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Sandstraße"
 housenumber: 26

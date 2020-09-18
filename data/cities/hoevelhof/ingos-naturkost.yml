@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.820205300000005
 longitude: 8.6597148
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Kurze Straße"
 housenumber: 3

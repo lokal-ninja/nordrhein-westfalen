@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3351071
 longitude: 6.561323600000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Friedrichstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8167295
 longitude: 6.986302800000001
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Kronenweg"
 housenumber: 19

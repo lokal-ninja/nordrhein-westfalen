@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.9644683
 longitude: 7.6305665000000005
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Hörsterstraße"
 housenumber: 56

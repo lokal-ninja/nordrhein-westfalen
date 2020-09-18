@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.626583700000005
 longitude: 8.7637327
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Talweg"
 housenumber: 1b

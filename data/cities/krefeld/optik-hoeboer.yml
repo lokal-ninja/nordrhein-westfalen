@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.3340194
 longitude: 6.566466800000001
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Rheinstraße"
 housenumber: 67-69

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.0741145
 longitude: 8.5958471
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Glückstädter Straße"
 housenumber: 25

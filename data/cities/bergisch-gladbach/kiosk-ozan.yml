@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.956878800000005
 longitude: 7.129859700000001
-postcode: 51427
+postcode: "51427"
 city: Bergisch Gladbach
 street: "Ottostraße"
 housenumber: 2a

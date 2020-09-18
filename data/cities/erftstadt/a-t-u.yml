@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.796247300000005
 longitude: 6.7813903
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Zunftstraße"
 housenumber: 2

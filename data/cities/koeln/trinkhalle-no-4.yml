@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.928713200000004
 longitude: 6.9408693
-postcode: 
+postcode: ""
 city: Köln
 street: "Luxemburger Straße"
 housenumber: 4

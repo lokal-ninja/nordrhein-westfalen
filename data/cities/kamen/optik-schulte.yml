@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.592025500000005
 longitude: 7.664027000000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Marktstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.7351113
 longitude: 7.1020922
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Markt"
 housenumber: 11

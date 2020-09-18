@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.194763300000005
 longitude: 6.549420100000001
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Holzkamp"
 housenumber: 6

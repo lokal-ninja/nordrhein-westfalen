@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.603221500000004
 longitude: 7.197843700000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Bruchweg"
 housenumber: 56

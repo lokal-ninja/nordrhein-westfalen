@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.057427100000005
 longitude: 8.5512014
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Westerfeldstraße"
 housenumber: 10

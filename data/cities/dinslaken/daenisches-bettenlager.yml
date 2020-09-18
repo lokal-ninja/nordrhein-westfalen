@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.5616898
 longitude: 6.7411035
-postcode: 46535
+postcode: "46535"
 city: Dinslaken
 street: "Hans-Böckler-Straße"
 housenumber: 20

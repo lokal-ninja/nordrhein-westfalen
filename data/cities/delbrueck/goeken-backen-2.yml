@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7956261
 longitude: 8.612760900000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Auf dem Haupte"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.7708565
 longitude: 6.0961867000000005
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Lothringerstraße"
 housenumber: 59

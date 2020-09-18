@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0700925
 longitude: 8.6044897
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Braker Straße"
 housenumber: 53

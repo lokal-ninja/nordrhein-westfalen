@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.296986600000004
 longitude: 6.830662200000001
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Am Sandbach"
 housenumber: 30

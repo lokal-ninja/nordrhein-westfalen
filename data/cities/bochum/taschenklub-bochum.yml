@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 51.4651268
 longitude: 7.2129270000000005
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Drusenbergstraße"
 housenumber: 57

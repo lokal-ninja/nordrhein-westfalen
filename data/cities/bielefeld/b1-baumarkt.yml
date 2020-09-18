@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 52.0407759
 longitude: 8.5448979
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Beckhausstraße"
-housenumber: 76
+housenumber: 74
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

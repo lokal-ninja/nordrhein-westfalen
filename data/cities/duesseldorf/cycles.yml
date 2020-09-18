@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.200858700000005
 longitude: 6.7824885
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.4815429
 longitude: 7.2125155
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Alleestraße"
 housenumber: 22

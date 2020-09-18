@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.34045690000001
 longitude: 6.8301359
-postcode: 40885
+postcode: "40885"
 city: Ratingen
 street: "Am Löken"
 housenumber: 60

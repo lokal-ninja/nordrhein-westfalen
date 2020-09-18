@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.905624800000005
 longitude: 8.376734200000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Münsterstraße"
 housenumber: 8

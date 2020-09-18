@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.244405400000005
 longitude: 7.5975707
-postcode: 58513
+postcode: "58513"
 city: Lüdenscheid
 street: "Kerkhagen"
 housenumber: 27

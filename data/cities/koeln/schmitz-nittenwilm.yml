@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.916194700000005
 longitude: 6.9066581000000005
-postcode: 50935
+postcode: "50935"
 city: Köln
 street: "Hermeskeiler Platz"
 housenumber: 2

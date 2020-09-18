@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.923963300000004
 longitude: 7.573743
-postcode: 48163
+postcode: "48163"
 city: Münster
 street: "Heroldstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.7885222
 longitude: 6.233554900000001
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Fährstraße"
 housenumber: 3

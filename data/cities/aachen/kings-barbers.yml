@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7808721
 longitude: 6.078589200000001
-postcode: 
+postcode: ""
 city: Aachen
 street: "Friesenstraße"
 housenumber: 4

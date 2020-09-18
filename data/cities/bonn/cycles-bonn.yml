@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7392625
 longitude: 7.1005225
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Stiftsplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1983801
 longitude: 6.606507100000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Driescher Straße"
 housenumber: 16

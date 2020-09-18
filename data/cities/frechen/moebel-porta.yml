@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.9182081
 longitude: 6.8340328
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Europaallee"
 housenumber: 1

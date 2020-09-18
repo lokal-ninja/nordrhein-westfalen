@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.24289520000001
 longitude: 6.529954600000001
-postcode: 47877
+postcode: "47877"
 city: Willich
 street: "Hochstraße"
 housenumber: 105

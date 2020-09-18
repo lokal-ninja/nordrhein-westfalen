@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9370564
 longitude: 6.8957233
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Aachener Straße"
 housenumber: 559

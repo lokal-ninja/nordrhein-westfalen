@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4733582
 longitude: 6.9525063000000005
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Gerichtsstraße"
 housenumber: 25

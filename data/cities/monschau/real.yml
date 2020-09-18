@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5762312
 longitude: 6.2669667
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Hans-Georg-Weiss-Straße"
 housenumber: 6, 8

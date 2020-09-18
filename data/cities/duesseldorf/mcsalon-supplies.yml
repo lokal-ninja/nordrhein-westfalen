@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.230956500000005
 longitude: 6.849544000000001
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Dreherstraße"
 housenumber: 159-161

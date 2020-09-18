@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.6086341
 longitude: 7.261881300000001
-postcode: 45665
+postcode: "45665"
 city: Recklinghausen
 street: "Ehlingstraße"
 housenumber: 64 a

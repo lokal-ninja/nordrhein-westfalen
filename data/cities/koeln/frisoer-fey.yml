@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.926132300000006
 longitude: 6.9582581
-postcode: 
+postcode: ""
 city: Köln
 street: "Severinstraße"
 housenumber: 100-102

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.851722800000005
 longitude: 8.031001700000001
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Martinshardt"
 housenumber: 13

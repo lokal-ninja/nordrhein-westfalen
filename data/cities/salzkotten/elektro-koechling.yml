@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 51.6436549
 longitude: 8.6675375
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Kleiner Hellweg"
 housenumber: 16

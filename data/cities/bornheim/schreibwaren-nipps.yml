@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.7762478
 longitude: 6.926553500000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Am Roten Boskoop"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.195920300000004
 longitude: 8.7067958
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Niederstraße"
 housenumber: 32

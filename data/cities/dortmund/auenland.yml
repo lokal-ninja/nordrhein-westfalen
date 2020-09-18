@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 51.514520100000006
 longitude: 7.4735411
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Schwanenwall"
 housenumber: 7

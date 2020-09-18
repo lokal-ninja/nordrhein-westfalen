@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.086391000000006
 longitude: 8.4262733
-postcode: 33824
+postcode: "33824"
 city: Werther (Westf.)
 street: "Engerstraße"
 housenumber: 84

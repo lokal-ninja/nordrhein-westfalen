@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 50.7371392
 longitude: 7.0096461
-postcode: 53347
+postcode: "53347"
 city: Alfter
 street: "Am Herrenwingert"
 housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

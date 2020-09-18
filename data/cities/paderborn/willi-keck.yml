@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.6940636
 longitude: 8.7112891
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Steinbruchweg"
 housenumber: 2-4

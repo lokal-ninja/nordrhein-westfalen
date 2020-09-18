@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.160902300000004
 longitude: 6.730172100000001
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Bahnstraße"
 housenumber: 38

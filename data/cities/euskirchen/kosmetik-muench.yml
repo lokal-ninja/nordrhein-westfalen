@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.658635100000005
 longitude: 6.7925466000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Oststraße"
 housenumber: 1-5

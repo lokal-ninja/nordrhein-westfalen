@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.8337634
 longitude: 6.2705425
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Rotterdamer Straße"
 housenumber: 15

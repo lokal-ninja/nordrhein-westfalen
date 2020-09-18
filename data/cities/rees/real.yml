@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7675278
 longitude: 6.3808733
-postcode: 46459
+postcode: "46459"
 city: Rees
 street: "Grüttweg"
 housenumber: 42

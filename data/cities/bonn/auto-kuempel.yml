@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.714687500000004
 longitude: 7.105065000000001
-postcode: 53129
+postcode: "53129"
 city: Bonn
 street: "Bonner Talweg"
 housenumber: 321

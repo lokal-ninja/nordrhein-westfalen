@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 51.2367889
 longitude: 6.7797906
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Duisburger Straße"
 housenumber: 7

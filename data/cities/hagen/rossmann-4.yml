@@ -1,12 +1,12 @@
-id: 1309304934
+id: 1309304927
 type: node
 shop: Drogerie
-latitude: 51.37160050000001
-longitude: 7.4655211
-postcode: 58097
+latitude: 51.3472066
+longitude: 7.4231835
+postcode: "58135"
 city: Hagen
-street: "Brüderstraße"
-housenumber: 21
+street: "Kölner Straße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Tu 09:00-19:00; We 08:30-19:00; Th-Fr 09:00-19:00; Sa 09:00-14:00; PH off"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
 website: ""

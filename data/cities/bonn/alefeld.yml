@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.7367154
 longitude: 7.1011946
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Bonngasse"
 housenumber: 14

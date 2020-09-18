@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4929542
 longitude: 7.0634715
-postcode: 45327
+postcode: "45327"
 city: Essen
 street: "Ückendorfer Straße"
 housenumber: 172

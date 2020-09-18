@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Kipping"
+title: "Edeka Kipping"
 url: /bonn/edeka-kipping/
 ---

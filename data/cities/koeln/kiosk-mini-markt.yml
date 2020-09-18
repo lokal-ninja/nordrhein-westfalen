@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.864911600000006
 longitude: 7.0838668
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 316

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.1976856
 longitude: 6.6802067
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Gielenstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.915754400000004
 longitude: 6.833574700000001
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hermann-Seger-Straße"
 housenumber: 2-4

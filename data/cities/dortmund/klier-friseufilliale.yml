@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4944472
 longitude: 7.3714057
-postcode: 44149
+postcode: "44149"
 city: Dortmund
 street: "Wulfshofstraße"
 housenumber: 6-8

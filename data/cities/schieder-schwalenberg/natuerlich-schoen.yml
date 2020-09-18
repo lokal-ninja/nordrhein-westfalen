@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.876917000000006
 longitude: 9.193615600000001
-postcode: 32816
+postcode: "32816"
 city: Schieder-Schwalenberg
 street: "Zeißweg"
 housenumber: 3

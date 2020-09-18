@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.248283300000004
 longitude: 6.7827922
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Ulmenstraße"
 housenumber: 98

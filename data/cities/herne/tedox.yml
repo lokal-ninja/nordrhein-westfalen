@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.55046290000001
 longitude: 7.2189246
-postcode: 44629
+postcode: "44629"
 city: Herne
 street: "Roonstraße"
 housenumber: 9

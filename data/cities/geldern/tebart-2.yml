@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5735692
 longitude: 6.3669017000000006
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Lange Straße"
 housenumber: 85

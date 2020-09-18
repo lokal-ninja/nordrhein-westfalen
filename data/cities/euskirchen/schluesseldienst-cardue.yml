@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.6588347
 longitude: 6.788885100000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 40

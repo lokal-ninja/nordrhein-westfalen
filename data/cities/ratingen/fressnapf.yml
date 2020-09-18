@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 51.2986682
 longitude: 6.8298589000000005
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Am Roten Kreuz"
 housenumber: 2

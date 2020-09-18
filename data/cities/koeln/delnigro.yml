@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.92021140000001
 longitude: 6.919909100000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 172

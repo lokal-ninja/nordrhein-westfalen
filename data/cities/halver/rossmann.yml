@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.1855679
 longitude: 7.5038461000000005
-postcode: 58553
+postcode: "58553"
 city: Halver
 street: "Bahnhofstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 51.7761374
 longitude: 6.4529116
-postcode: 46459
+postcode: "46459"
 city: Rees
 street: "Eichenweg"
 housenumber: 3a

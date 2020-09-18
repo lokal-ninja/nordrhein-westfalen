@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 51.456076800000005
 longitude: 7.0089418000000006
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "III. Hagen"
 housenumber: 37

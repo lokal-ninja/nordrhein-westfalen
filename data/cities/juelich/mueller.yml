@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.922453600000004
 longitude: 6.3608257
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 20

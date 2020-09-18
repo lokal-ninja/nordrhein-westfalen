@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4476528
 longitude: 6.577204200000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Poststraße"
 housenumber: 

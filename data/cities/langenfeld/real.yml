@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0973765
 longitude: 6.9516005000000005
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Rheindorfer Straße"
 housenumber: 50

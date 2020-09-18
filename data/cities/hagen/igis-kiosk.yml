@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.356827900000006
 longitude: 7.462210000000001
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Lange Straße"
 housenumber: 15

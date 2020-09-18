@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.2363858
 longitude: 6.8005509
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Achenbachstraße"
 housenumber: 132

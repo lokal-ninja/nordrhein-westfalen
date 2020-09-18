@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.7882301
 longitude: 6.4672594000000005
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Bahnstraße"
 housenumber: 11

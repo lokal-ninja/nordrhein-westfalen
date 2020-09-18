@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1983357
 longitude: 6.8367614
-postcode: 40229
+postcode: "40229"
 city: Düsseldorf
 street: "Flottenstraße"
 housenumber: 29

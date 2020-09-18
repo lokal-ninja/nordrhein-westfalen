@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2376846
 longitude: 6.8534091
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Benderstraße"
 housenumber: 71a

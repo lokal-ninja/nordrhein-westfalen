@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4424222
 longitude: 6.7475186
-postcode: 47059
+postcode: "47059"
 city: Duisburg
 street: "Albertstraße"
 housenumber: 4a

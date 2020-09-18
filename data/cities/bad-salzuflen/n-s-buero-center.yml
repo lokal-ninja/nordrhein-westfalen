@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.0692498
 longitude: 8.752720400000001
-postcode: 32108
+postcode: "32108"
 city: Bad Salzuflen
 street: "Uferstraße"
 housenumber: 14

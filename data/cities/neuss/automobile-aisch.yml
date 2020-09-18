@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2241179
 longitude: 6.6538713000000005
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Kaarster Straße"
 housenumber: 150

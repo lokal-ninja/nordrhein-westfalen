@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1635579
 longitude: 6.6655008
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Maximilianstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.765113500000005
 longitude: 7.428778800000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Adam-Stegerwald-Straße"
 housenumber: 4

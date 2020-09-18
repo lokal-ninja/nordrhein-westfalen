@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.452454100000004
 longitude: 7.013240400000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Willy-Brandt-Platz"
 housenumber: 15

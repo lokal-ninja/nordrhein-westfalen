@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.0922968
 longitude: 6.842619300000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 58

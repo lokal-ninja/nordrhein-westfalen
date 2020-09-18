@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.024882600000005
 longitude: 8.5400528
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Werner-Bock-Straße"
 housenumber: 1

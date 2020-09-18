@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4812084
 longitude: 7.726154500000001
-postcode: 58730
+postcode: "58730"
 city: Fröndenberg/Ruhr
 street: "Ardeyer Straße"
 housenumber: 56

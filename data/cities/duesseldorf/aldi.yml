@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.186574300000004
 longitude: 6.818475100000001
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Kölner Landstraße"
 housenumber: 209

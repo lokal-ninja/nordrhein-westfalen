@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 51.9563088
 longitude: 7.010438000000001
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Hauskampstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.6749452
 longitude: 7.8651527
-postcode: 59071
+postcode: "59071"
 city: Hamm
 street: "Soester Straße"
 housenumber: 264

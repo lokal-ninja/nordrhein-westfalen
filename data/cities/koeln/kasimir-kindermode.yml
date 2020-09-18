@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.974967500000005
 longitude: 7.074534300000001
-postcode: 51069
+postcode: "51069"
 city: Köln
 street: "Dellbrücker Hauptstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5493712
 longitude: 7.6920573
-postcode: 59425
+postcode: "59425"
 city: Unna
 street: "Berliner Allee"
 housenumber: 

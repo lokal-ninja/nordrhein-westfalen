@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8200864
 longitude: 6.123580400000001
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Aachener Straße"
 housenumber: 58

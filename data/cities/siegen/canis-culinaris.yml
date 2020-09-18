@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8683197
 longitude: 8.0066916
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Schlachthausstraße"
 housenumber: 10

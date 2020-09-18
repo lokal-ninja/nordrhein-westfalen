@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.7920377
 longitude: 7.0274694
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Römerstraße"
 housenumber: 81

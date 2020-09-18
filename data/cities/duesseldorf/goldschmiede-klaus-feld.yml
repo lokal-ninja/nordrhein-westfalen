@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.216104800000004
 longitude: 6.7769833
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 28a

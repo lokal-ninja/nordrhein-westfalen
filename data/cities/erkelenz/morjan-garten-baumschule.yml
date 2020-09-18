@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.106969500000005
 longitude: 6.2899142
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Rheinweg"
 housenumber: 30

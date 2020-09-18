@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.3722367
 longitude: 6.509419100000001
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Schulstraße"
 housenumber: 15

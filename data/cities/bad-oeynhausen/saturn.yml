@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.2149963
 longitude: 8.8142832
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Mindener Straße"
 housenumber: 

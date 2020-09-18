@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.0221588
 longitude: 8.529612100000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Notpfortenstraße"
 housenumber: 1

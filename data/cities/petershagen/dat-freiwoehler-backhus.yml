@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3540368
 longitude: 8.850636900000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Friedewalder Straße"
 housenumber: 20

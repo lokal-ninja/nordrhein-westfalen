@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.4772435
 longitude: 7.302150800000001
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 211
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-16:00"
-website: "http://www.schmitdmeier.de"
+website: "https://www.schmidtmeier.de"

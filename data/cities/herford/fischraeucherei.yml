@@ -3,10 +3,10 @@ type: way
 shop: Fisch
 latitude: 52.127207500000004
 longitude: 8.685813300000001
-postcode: 32049
+postcode: "32049"
 city: Herford
 street: "Mindener Straße"
 housenumber: 106b
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Sa 09:00-18:00"
 website: ""

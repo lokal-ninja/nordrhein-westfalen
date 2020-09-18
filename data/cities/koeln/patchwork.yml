@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.9270204
 longitude: 6.9577147
-postcode: 
+postcode: ""
 city: Köln
 street: "Severinstraße"
 housenumber: 127

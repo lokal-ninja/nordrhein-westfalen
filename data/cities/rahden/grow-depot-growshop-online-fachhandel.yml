@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.490338200000004
 longitude: 8.600405700000001
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Gerlager Straße"
 housenumber: 13

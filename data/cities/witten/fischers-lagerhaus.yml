@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.4202134
 longitude: 7.2755301
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Wittener Straße"
 housenumber: 62,64

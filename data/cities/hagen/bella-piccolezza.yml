@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.3797256
 longitude: 7.477153800000001
-postcode: 58097
+postcode: "58097"
 city: Hagen
 street: "Boeler Straße"
 housenumber: 120

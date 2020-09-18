@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0883322
 longitude: 8.106920200000001
-postcode: 57399
+postcode: "57399"
 city: Kirchhundem
 street: "Herrntroper Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 51.822716400000004
 longitude: 8.6637243
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Sennestraße"
 housenumber: 1

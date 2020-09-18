@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0594236
 longitude: 8.5152751
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Babenhauser Straße"
 housenumber: 20

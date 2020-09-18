@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.200970600000005
 longitude: 6.701156800000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Hammer Landstraße"
 housenumber: 41-43

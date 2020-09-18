@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.26018800000001
 longitude: 7.7081083
-postcode: 49479
+postcode: "49479"
 city: Ibbenbüren
 street: "Maybachstraße"
 housenumber: 30

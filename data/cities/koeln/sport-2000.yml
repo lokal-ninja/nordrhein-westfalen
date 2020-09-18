@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.919257800000004
 longitude: 6.9262166
-postcode: 50939
+postcode: "50939"
 city: Köln
 street: "Berrenrather Straße"
 housenumber: 216

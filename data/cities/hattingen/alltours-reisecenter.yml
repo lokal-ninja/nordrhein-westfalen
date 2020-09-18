@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3976265
 longitude: 7.1819844
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Langenberger Straße"
 housenumber: 

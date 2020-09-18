@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 51.5812083
 longitude: 7.0516904
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Russellplatz"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "closed"
 website: ""

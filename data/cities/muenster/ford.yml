@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.9399146
 longitude: 7.629935400000001
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Dahlweg"
 housenumber: 121

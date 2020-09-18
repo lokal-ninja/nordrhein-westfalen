@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.9538238
 longitude: 8.2460412
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Franz-Claas-Straße"
 housenumber: 1

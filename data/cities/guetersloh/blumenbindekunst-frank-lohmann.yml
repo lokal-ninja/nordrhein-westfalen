@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.9475138
 longitude: 8.408206700000001
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Steinhagener Straße"
 housenumber: 3

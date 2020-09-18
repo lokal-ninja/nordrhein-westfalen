@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.910964400000005
 longitude: 6.3618937
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Elisabethstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.733071
 longitude: 8.6918565
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Wewerstraße"
 housenumber: 4

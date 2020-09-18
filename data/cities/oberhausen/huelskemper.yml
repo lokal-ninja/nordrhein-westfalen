@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.4682692
 longitude: 6.8632397
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Marktstraße"
 housenumber: 193

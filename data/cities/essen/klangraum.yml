@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.4403445
 longitude: 6.9879739
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Gemarkenstraße"
 housenumber: 121

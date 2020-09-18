@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2003378
 longitude: 8.7568065
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Weihestraße"
 housenumber: 15-17

@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 50.77000880000001
 longitude: 6.0594106000000005
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Vaalser Straße"
 housenumber: 236

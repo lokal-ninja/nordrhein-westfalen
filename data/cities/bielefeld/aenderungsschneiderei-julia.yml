@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.018191900000005
 longitude: 8.5399288
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 151

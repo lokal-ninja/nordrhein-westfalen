@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4667947
 longitude: 6.8544628
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Hermann-Albertz-Straße"
 housenumber: 113

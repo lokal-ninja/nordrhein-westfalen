@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4725836
 longitude: 6.9183659
-postcode: 45359
+postcode: "45359"
 city: Essen
 street: "Frintroper Straße"
 housenumber: 368

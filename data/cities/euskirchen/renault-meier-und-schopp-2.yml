@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.647585400000004
 longitude: 6.8020499
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Narzissenweg"
 housenumber: 20

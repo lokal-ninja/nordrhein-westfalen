@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.43969370000001
 longitude: 7.0056751
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Krawehlstraße"
 housenumber: 4

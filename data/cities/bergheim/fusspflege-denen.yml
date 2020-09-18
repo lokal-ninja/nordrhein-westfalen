@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9767373
 longitude: 6.687404900000001
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Kölner Hohlweg"
 housenumber: 16

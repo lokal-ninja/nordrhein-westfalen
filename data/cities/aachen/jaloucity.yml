@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 50.769880400000005
 longitude: 6.095078600000001
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Wilhelmstraße"
 housenumber: 96

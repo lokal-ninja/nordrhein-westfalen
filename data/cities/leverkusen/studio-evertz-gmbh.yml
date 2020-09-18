@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.053428700000005
 longitude: 6.9987265
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Hardenbergstraße"
 housenumber: 6a

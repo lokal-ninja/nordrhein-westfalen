@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.935093
 longitude: 8.877697900000001
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Unter der Wehme"
 housenumber: 2a

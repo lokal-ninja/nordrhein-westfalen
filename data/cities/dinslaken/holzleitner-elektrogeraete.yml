@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.567613300000005
 longitude: 6.7521595
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Am Pfauenzehnt"
 housenumber: 23

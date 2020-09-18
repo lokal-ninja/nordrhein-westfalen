@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2254762
 longitude: 6.6938086000000006
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Leuschstraße"
 housenumber: 10

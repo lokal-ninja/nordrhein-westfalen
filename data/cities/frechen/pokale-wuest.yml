@@ -3,7 +3,7 @@ type: way
 shop: Pokal
 latitude: 50.908764700000006
 longitude: 6.8007384
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Rosmarstraße"
 housenumber: 6

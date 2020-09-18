@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.393967800000006
 longitude: 7.182056800000001
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Raabestraße"
 housenumber: 19

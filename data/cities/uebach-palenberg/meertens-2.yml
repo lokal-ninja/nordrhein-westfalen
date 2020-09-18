@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.9262633
 longitude: 6.0999084
-postcode: 52531
+postcode: "52531"
 city: Übach-Palenberg
 street: "Alte Poststraße"
 housenumber: 7

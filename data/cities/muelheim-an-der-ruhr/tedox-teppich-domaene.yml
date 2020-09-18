@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 51.431285800000005
 longitude: 6.8499603
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Weseler Straße"
 housenumber: 54

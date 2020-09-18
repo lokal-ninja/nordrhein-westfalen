@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4443769
 longitude: 7.965260600000001
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Lange Wende"
 housenumber: 93

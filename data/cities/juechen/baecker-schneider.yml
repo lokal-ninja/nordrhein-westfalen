@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1147603
 longitude: 6.552524
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Gierather Straße"
 housenumber: 83

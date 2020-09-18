@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.7736074
 longitude: 6.088836400000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
-street: "Elisengalerie"
-housenumber: 
+street: "Friedrich-Wilhelm-Platz"
+housenumber: 5-6
 phone: "+49 241 9214650"
 opening_hours: ""
 website: "http://www.sovrano.de/"

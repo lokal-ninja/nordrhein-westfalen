@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 51.363867500000005
 longitude: 6.9372199000000005
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Hauptstraße"
 housenumber: 112

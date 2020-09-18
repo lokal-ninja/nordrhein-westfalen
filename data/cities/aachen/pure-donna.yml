@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.772175600000004
 longitude: 6.085725
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kapuzinergraben"
 housenumber: 19a

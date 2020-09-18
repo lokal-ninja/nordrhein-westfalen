@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.8376731
 longitude: 8.02767
-postcode: 59320
+postcode: "59320"
 city: Ennigerloh
 street: "Clemens-August-Straße"
 housenumber: 41

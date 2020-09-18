@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9396089
 longitude: 7.1607962
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Paradiesweg"
 housenumber: 1

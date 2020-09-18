@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.8817024
 longitude: 8.5115113
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Paderborner Straße"
 housenumber: 24

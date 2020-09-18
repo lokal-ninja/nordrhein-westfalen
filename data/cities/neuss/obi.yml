@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.186467900000004
 longitude: 6.7079636
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Kölner Straße"
 housenumber: 100

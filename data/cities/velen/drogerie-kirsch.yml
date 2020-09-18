@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.8944455
 longitude: 6.9859230000000005
-postcode: 46342
+postcode: "46342"
 city: Velen
 street: "Ramsdorfer Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5592808
 longitude: 6.765099500000001
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Sterkrader Straße"
 housenumber: 229

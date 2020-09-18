@@ -3,7 +3,7 @@ type: way
 shop: Eisprodukte
 latitude: 52.196324700000005
 longitude: 8.5815322
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Museumsplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7714371
 longitude: 6.2141168
-postcode: 52223
+postcode: "52223"
 city: Stolberg (Rhld.)
 street: "Mauerstraße"
 housenumber: 27

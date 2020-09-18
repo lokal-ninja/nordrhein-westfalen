@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.8798985
 longitude: 8.9517567
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Kampstraße"
 housenumber: 47

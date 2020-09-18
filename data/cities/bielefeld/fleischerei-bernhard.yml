@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0256192
 longitude: 8.558680500000001
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Bleichstraße"
 housenumber: 44a

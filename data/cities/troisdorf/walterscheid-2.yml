@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.802494100000004
 longitude: 7.159389300000001
-postcode: 53840
+postcode: "53840"
 city: Troisdorf
 street: "Mendener Straße"
 housenumber: 43

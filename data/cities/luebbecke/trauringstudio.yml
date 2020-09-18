@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.304054300000004
 longitude: 8.6188572
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Lange Straße"
 housenumber: 54

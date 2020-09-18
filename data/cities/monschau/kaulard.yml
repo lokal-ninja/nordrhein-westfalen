@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.574829
 longitude: 6.262799
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Trierer Straße"
 housenumber: 221

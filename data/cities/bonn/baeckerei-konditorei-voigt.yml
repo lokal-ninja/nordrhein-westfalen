@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.722231300000004
 longitude: 7.088324200000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Clemens-August-Straße"
 housenumber: 48

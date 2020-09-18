@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.447835600000005
 longitude: 7.007274700000001
-postcode: 45128
+postcode: "45128"
 city: Essen
 street: "Bismarckstraße"
 housenumber: 15a

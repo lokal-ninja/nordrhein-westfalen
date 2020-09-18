@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7736327
 longitude: 6.0858672
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Hartmannstraße"
 housenumber: 32

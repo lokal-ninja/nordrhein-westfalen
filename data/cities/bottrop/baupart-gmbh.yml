@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5674166
 longitude: 6.9138877
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Hegestraße"
 housenumber: 4a

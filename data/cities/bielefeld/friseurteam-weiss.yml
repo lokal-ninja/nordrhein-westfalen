@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.054104900000006
 longitude: 8.5483901
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Niederfeldstraße"
 housenumber: 1

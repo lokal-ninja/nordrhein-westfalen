@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.829597
 longitude: 6.2436191
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Rheinpromenade"
 housenumber: 17

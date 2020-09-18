@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6524336
 longitude: 6.803303400000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.187940000000005
 longitude: 6.8187213
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Opladener Straße"
 housenumber: 2

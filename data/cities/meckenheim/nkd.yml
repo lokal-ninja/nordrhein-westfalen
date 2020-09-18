@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 50.6223496
 longitude: 7.0219925000000005
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Hauptstraße"
 housenumber: 69
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
 website: ""

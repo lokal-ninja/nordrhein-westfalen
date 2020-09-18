@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.476330600000004
 longitude: 6.9428824
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Flurstraße"
 housenumber: 88

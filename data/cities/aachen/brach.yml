@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.774250300000006
 longitude: 6.084054500000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Münsterplatz"
 housenumber: 11

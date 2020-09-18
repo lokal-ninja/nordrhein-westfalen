@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9782778
 longitude: 6.10494
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen
 street: "Von-Humboldt-Straße"
 housenumber: 103

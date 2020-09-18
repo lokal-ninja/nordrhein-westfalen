@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.230263400000005
 longitude: 8.5608556
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Auf dem Deich"
 housenumber: 1

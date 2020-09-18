@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.75483680000001
 longitude: 8.0381143
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Weststraße"
 housenumber: 23

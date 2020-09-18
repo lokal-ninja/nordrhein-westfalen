@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.657902
 longitude: 6.614614100000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Schmidtstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.308328800000005
 longitude: 7.233677500000001
-postcode: 42279
+postcode: "42279"
 city: Wuppertal
 street: "Mollenkotten"
 housenumber: 155

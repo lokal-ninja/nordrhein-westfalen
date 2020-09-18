@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.9207309
 longitude: 6.3543797
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Turmstraße"
 housenumber: 1

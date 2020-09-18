@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.626569100000005
 longitude: 7.0392004
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 54
 phone: ""
-opening_hours: "Tu 09:00-13:00, 14:00-18:00; We-Fr 09:00-18:00; Sa 08:00-14:00"
+opening_hours: "Mo-Fr 09:00-18:00, Sa 08:00-13:00, PH off"
 website: ""

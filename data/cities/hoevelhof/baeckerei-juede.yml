@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.819302300000004
 longitude: 8.6588428
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Paderborner Straße"
 housenumber: 12

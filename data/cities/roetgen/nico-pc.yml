@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.6421362
 longitude: 6.190457100000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Bundesstraße"
 housenumber: 61

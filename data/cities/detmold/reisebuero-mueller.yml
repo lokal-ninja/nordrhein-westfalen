@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.9409677
 longitude: 8.8565216
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Sprottauer Straße"
 housenumber: 3

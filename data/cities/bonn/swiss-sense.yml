@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.738366500000005
 longitude: 7.0773773
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Ennemoserstraße"
 housenumber: 6

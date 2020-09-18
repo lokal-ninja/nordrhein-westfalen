@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.1164469
 longitude: 6.9052711
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Heinrich-Hertz-Straße"
 housenumber: 1

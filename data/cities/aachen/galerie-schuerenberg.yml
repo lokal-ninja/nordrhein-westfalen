@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.7740626
 longitude: 6.081950900000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Annastraße"
 housenumber: 17

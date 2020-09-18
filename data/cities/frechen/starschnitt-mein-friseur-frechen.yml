@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9097863
 longitude: 6.812183
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 44

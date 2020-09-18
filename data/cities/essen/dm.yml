@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.449585500000005
 longitude: 6.9740177
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Frohnhauser Straße"
 housenumber: 255

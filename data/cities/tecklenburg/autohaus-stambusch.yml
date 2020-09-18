@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.219546300000005
 longitude: 7.815422000000001
-postcode: 49545
+postcode: "49545"
 city: Tecklenburg
 street: "Pagenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.8675081
 longitude: 6.677493500000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Stiftsstraße"
 housenumber: 254-256

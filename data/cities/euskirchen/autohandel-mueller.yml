@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.649730000000005
 longitude: 6.8240748
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Schwarzer Weg"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.194199600000005
 longitude: 6.436730300000001
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Hindenburgstraße"
 housenumber: 69

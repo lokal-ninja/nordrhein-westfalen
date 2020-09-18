@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0320717
 longitude: 6.984600400000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Wiesdorfer Platz"
 housenumber: 56

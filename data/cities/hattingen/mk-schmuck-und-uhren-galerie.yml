@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.3986874
 longitude: 7.1820018
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Große Weilstraße"
 housenumber: 7

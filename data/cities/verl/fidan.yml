@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.8817766
 longitude: 8.511161000000001
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Paderborner Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.639585100000005
 longitude: 8.5097351
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Bachstraße"
 housenumber: 27

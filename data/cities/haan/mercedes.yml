@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.194554700000005
 longitude: 6.9846547
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Flurstraße"
 housenumber: 114

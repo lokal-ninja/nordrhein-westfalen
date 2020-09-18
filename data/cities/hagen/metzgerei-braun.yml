@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.277156600000005
 longitude: 7.5393302
-postcode: 58091
+postcode: "58091"
 city: Hagen
 street: "Rölveder Straße"
 housenumber: 16

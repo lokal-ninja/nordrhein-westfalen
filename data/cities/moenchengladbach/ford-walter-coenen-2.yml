@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1571142
 longitude: 6.5027802
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Langmaar"
 housenumber: 29

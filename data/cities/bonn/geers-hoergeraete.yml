@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.684286400000005
 longitude: 7.1556924
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Alte Bahnhofstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.217292300000004
 longitude: 7.0080705000000005
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Königstraße"
 housenumber: 56

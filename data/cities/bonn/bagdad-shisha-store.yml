@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.737674000000005
 longitude: 7.1046509
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Berliner Freiheit"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9318323
 longitude: 6.9344238
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Boisseréestraße"
 housenumber: 2

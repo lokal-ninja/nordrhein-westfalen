@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.3172566
 longitude: 6.5910552000000004
-postcode: 47807
+postcode: "47807"
 city: Krefeld
 street: "Niederbruchstraße"
 housenumber: 79

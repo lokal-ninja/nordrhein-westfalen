@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7285978
 longitude: 8.5631342
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Paradiesstraße"
 housenumber: 18a

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.675004
 longitude: 6.157311900000001
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Voßstraße"
 housenumber: 28

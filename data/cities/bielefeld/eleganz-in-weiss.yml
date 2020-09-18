@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.024857000000004
 longitude: 8.5233913
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Stapenhorststraße"
 housenumber: 32

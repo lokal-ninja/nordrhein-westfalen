@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.9934415
 longitude: 6.73951
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Am Alten Fließ"
 housenumber: 61

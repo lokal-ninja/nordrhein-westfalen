@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.2225048
 longitude: 6.780259200000001
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 56

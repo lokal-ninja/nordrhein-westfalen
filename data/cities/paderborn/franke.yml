@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.765816400000006
 longitude: 8.7250767
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Thuner Weg"
 housenumber: 52

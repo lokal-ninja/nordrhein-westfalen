@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 51.715834300000004
 longitude: 8.739725100000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 37

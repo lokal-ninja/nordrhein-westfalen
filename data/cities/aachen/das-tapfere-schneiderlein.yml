@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 50.7697608
 longitude: 6.078830900000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Hubertusstraße"
 housenumber: 30

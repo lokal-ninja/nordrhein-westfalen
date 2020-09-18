@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.2298666
 longitude: 6.7096716
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Wiesenstraße"
 housenumber: 30a

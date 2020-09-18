@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.660689000000005
 longitude: 6.965055
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Kirchplatz"
 housenumber: 1

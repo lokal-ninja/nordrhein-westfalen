@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.0414455
 longitude: 7.2111722
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Kölner Straße"
 housenumber: 354

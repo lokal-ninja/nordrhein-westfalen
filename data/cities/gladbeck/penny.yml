@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.592388
 longitude: 6.9847926000000005
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Feldhauser Straße"
 housenumber: 221

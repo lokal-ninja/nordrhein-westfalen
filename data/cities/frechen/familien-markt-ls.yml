@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9102472
 longitude: 6.8087644
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Keimesstraße"
 housenumber: 3

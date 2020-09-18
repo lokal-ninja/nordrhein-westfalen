@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7173956
 longitude: 8.7487271
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.7763119
 longitude: 6.0788504
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Kármánstraße"
 housenumber: 15

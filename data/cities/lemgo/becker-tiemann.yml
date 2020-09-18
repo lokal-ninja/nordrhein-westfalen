@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0322322
 longitude: 8.8929419
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Entruper Weg"
 housenumber: 23

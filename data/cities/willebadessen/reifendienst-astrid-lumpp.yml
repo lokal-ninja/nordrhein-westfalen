@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.6208709
 longitude: 9.0288666
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Borlinghausener Straße"
 housenumber: 16

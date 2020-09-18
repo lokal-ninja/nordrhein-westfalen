@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.874191700000004
 longitude: 8.2891065
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Nordrheda"
 housenumber: 17

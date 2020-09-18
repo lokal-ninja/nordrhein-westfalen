@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.697108500000006
 longitude: 6.657996000000001
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Römerallee"
 housenumber: 40-42

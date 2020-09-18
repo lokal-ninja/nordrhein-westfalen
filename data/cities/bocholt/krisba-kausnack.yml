@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.8349984
 longitude: 6.6063217000000005
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Bärendorfstraße"
 housenumber: 24

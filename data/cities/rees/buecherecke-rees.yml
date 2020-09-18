@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.759352
 longitude: 6.3959067
-postcode: 46459
+postcode: "46459"
 city: Rees
 street: "Dellstraße"
 housenumber: 14

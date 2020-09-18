@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8392964
 longitude: 8.1528876
-postcode: 57234
+postcode: "57234"
 city: Wilnsdorf
 street: "Laurentiusstraße"
 housenumber: 24

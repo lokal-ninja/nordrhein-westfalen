@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.1649589
 longitude: 6.447144600000001
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Limitenstraße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2187933
 longitude: 6.6262153
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Düsselstraße"
 housenumber: 10

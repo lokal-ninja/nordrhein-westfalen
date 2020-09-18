@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.0245747
 longitude: 8.5650672
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Lohbreite"
 housenumber: 1

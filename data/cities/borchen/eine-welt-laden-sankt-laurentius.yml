@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6685923
 longitude: 8.722771700000001
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Bülte"
 housenumber: 2

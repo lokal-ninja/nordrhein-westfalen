@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1726606
 longitude: 7.9714546
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "Max-Planck-Ring"
 housenumber: 1

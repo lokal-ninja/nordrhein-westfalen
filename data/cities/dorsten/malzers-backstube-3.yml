@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6520014
 longitude: 6.9819092000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Händelstraße"
 housenumber: 161

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.936861500000006
 longitude: 6.977391300000001
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Deutzer Freiheit"
 housenumber: 116

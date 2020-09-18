@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.6671229
 longitude: 6.7436053000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Johann-Schmitz-Straße"
 housenumber: 6

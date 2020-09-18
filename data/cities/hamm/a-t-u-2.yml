@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6639332
 longitude: 7.7615632
-postcode: 59067
+postcode: "59067"
 city: Hamm
 street: "Dortmunder Straße"
 housenumber: 100

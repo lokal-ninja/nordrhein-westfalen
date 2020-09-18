@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 51.789125000000006
 longitude: 6.1397206
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Große Straße"
 housenumber: 18

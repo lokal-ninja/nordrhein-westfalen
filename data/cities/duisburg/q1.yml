@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4122305
 longitude: 6.6821712
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Grabenacker"
 housenumber: 89

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9262188
 longitude: 7.846557000000001
-postcode: 48351
+postcode: "48351"
 city: Everswinkel
 street: "Am Magnusplatz"
 housenumber: 11

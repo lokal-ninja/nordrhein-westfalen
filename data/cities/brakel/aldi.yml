@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.713374900000005
 longitude: 9.1802343
-postcode: 33034
+postcode: "33034"
 city: Brakel
 street: "Am Sudheimer Weg"
 housenumber: 5

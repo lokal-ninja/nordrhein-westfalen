@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.659980600000004
 longitude: 6.7888596
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 23

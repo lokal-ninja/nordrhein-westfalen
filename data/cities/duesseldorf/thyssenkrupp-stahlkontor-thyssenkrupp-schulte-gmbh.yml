@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2170247
 longitude: 6.8271652000000005
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Königsberger Straße"
 housenumber: 80

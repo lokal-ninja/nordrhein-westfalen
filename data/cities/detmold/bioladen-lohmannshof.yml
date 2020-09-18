@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.9259289
 longitude: 8.8508489
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Erbhofstraße"
 housenumber: 30

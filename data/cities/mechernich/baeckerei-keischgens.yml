@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5669868
 longitude: 6.696328800000001
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Heistardstraße"
 housenumber: 51

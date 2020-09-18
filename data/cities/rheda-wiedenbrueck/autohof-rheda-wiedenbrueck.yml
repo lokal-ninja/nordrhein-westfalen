@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.8313488
 longitude: 8.2153385
-postcode: 33378
+postcode: "33378"
 city: Rheda-Wiedenbrück
 street: "Aurea"
 housenumber: 1-3

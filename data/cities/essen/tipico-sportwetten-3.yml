@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.4516671
 longitude: 7.0116953
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Hachestraße"
 housenumber: 23

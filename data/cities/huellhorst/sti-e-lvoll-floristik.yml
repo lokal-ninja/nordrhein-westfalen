@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.254590500000006
 longitude: 8.6975017
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Löhner Straße"
 housenumber: 179

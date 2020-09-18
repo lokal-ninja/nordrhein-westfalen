@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.5557711
 longitude: 7.289644600000001
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Am Landwehrbach"
 housenumber: 6

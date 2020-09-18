@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.753147000000006
 longitude: 7.0055357
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Siegesstraße"
 housenumber: 6

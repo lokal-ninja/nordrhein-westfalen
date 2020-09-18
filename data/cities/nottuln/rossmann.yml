@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.9302046
 longitude: 7.3502556000000006
-postcode: 48301
+postcode: "48301"
 city: Nottuln
 street: "Daruper Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.15338070000001
 longitude: 8.5632415
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Nuhnetalstraße"
 housenumber: 46

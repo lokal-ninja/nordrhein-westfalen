@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4482477
 longitude: 7.2584559
-postcode: 44801
+postcode: "44801"
 city: Bochum
 street: "Querenburger Höhe"
 housenumber: 230

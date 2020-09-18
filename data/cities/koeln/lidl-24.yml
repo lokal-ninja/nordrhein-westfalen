@@ -1,12 +1,12 @@
-id: 164851648
+id: 171166156
 type: way
 shop: Supermarkt
-latitude: 51.0030215
-longitude: 6.873672600000001
-postcode: 50767
+latitude: 50.9752761
+longitude: 7.0565822
+postcode: "51067"
 city: Köln
-street: "Waffenschmidtstraße"
-housenumber: 9
+street: "Wasserwerkstraße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: ""

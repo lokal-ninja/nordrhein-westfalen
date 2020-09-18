@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.654324800000005
 longitude: 6.4706448000000005
-postcode: 46509
+postcode: "46509"
 city: Xanten
 street: "Rheinberger Straße"
 housenumber: 15

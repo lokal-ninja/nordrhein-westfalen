@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1817531
 longitude: 7.1822546
-postcode: 42853
+postcode: "42853"
 city: Remscheid
 street: "Alleestraße"
 housenumber: 110

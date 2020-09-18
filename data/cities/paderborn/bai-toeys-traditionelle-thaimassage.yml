@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.721444700000006
 longitude: 8.7460502
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Neuhäuser Straße"
 housenumber: 17

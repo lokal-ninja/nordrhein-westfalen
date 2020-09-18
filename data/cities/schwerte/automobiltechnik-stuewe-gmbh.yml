@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4178324
 longitude: 7.518377500000001
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Reichshofstraße"
 housenumber: 198a

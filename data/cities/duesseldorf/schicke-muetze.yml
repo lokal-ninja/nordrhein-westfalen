@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.2164328
 longitude: 6.779736300000001
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Talstraße"
 housenumber: 22-24

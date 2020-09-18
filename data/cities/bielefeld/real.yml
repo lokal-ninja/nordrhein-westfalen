@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.987107900000005
 longitude: 8.4856393
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Gütersloher Straße"
 housenumber: 122

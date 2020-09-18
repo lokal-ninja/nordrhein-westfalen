@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.8064144
 longitude: 6.4559462000000005
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Dr.-Christian-Seybold-Straße"
 housenumber: 10

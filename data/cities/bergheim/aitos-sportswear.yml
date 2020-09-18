@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.9687853
 longitude: 6.757026300000001
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Ludwig-Erhard-Straße"
 housenumber: 2

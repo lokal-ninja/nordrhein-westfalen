@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.1808476
 longitude: 6.6872217
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Steubenstraße"
 housenumber: 7

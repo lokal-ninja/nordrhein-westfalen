@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.574435300000005
 longitude: 6.262051700000001
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Trierer Straße"
 housenumber: 244a

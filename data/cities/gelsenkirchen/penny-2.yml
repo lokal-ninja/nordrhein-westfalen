@@ -1,12 +1,12 @@
-id: 247756448
+id: 247753901
 type: node
 shop: Supermarkt
-latitude: 51.5851107
-longitude: 7.046237400000001
-postcode: 45894
+latitude: 51.556424500000006
+longitude: 7.0956181
+postcode: "45891"
 city: Gelsenkirchen
-street: "Nordring"
-housenumber: 8
+street: "Cranger Straße"
+housenumber: 330;332
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: ""

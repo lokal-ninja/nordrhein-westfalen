@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.190148
 longitude: 6.8221093
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Werstener Dorfstraße"
 housenumber: 86

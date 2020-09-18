@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.127883100000005
 longitude: 8.6272304
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Engerstraße"
 housenumber: 190

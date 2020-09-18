@@ -3,7 +3,7 @@ type: node
 shop: Anhänger
 latitude: 51.715220900000006
 longitude: 7.0079545
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Burenkamp"
 housenumber: 18-20

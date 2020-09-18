@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.1638711
 longitude: 6.425443700000001
-postcode: 41239
+postcode: "41239"
 city: Mönchengladbach
 street: "Feldstraße"
 housenumber: 130

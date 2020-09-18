@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.433871700000005
 longitude: 7.0068415
-postcode: 45131
+postcode: "45131"
 city: Essen
 street: "Franziskastraße"
 housenumber: 23

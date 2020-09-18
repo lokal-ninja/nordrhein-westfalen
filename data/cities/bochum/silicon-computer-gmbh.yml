@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.4476906
 longitude: 7.1945334
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 419

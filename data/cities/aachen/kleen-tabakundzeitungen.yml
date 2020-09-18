@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7749007
 longitude: 6.093813000000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Adalbertstraße"
 housenumber: 100

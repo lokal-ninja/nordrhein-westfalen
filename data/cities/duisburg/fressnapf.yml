@@ -3,7 +3,7 @@ type: way
 shop: Tierfutter
 latitude: 51.4198801
 longitude: 6.7104188
-postcode: 47228
+postcode: "47228"
 city: Duisburg
 street: "Homberger Straße"
 housenumber: 27

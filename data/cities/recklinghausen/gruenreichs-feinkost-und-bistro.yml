@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.6150462
 longitude: 7.2003503
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Martinistraße"
 housenumber: 4

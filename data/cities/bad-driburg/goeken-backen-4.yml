@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7364861
 longitude: 9.0173316
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Pyrmonter Straße"
 housenumber: 4

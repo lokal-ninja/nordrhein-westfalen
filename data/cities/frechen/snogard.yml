@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.92614390000001
 longitude: 6.8365831
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Europaallee"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.657972300000004
 longitude: 6.792081400000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Oststraße"
 housenumber: 2a

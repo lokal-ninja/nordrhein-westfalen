@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.650539300000005
 longitude: 6.8256158000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kuchenheimer Straße"
 housenumber: 94

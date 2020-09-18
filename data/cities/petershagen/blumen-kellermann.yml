@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3675927
 longitude: 9.006567
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Bahnhofstraße"
 housenumber: 73

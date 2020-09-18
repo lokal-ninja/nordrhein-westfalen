@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.317470900000004
 longitude: 8.62491
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Jockweg"
 housenumber: 58

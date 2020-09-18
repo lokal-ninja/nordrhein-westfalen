@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.667986500000005
 longitude: 7.4687565000000005
-postcode: 59379
+postcode: "59379"
 city: Selm
 street: "Kreisstraße"
 housenumber: 257

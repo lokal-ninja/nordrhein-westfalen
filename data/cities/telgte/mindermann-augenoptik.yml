@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 51.982313600000005
 longitude: 7.787473200000001
-postcode: 48291
+postcode: "48291"
 city: Telgte
 street: "Baßfeld"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
 website: ""

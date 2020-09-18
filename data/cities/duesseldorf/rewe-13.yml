@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2376543
 longitude: 6.7791876
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Nordstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.9602555
 longitude: 8.2264813
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Dr.-Zurbrüggen-Straße"
 housenumber: 30

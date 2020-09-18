@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.0088536
 longitude: 8.5189284
-postcode: 33617
+postcode: "33617"
 city: Bielefeld
 street: "Artur-Ladebeck-Straße"
 housenumber: 81

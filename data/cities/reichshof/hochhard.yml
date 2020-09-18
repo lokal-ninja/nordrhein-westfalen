@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.933626000000004
 longitude: 7.7569495
-postcode: 51580
+postcode: "51580"
 city: Reichshof
 street: "Bachstraße"
 housenumber: 7

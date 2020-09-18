@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4400618
 longitude: 7.5724347000000005
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Im Reiche des Wassers"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.777197900000004
 longitude: 6.1467266
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 45

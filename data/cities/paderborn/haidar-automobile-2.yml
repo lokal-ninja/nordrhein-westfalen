@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7288596
 longitude: 8.7630608
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 50

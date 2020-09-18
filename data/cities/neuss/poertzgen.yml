@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2055355
 longitude: 6.678379100000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Further Straße"
 housenumber: 61

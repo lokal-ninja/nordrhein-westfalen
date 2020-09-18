@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9389368
 longitude: 6.9984443
-postcode: 51103
+postcode: "51103"
 city: Köln
 street: "Vietorstraße"
 housenumber: 7

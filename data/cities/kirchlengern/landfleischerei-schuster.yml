@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2014482
 longitude: 8.6416084
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Lübbecker Straße"
 housenumber: 82

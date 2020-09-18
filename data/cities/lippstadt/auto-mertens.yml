@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6549174
 longitude: 8.3468643
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Planckstraße"
 housenumber: 12

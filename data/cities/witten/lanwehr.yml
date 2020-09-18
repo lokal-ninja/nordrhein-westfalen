@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.454888200000006
 longitude: 7.3547554
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Liegnitzer Straße"
 housenumber: 42

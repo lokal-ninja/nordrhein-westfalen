@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.429669100000005
 longitude: 6.7752508
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Im Hauptbahnhof"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4886962
 longitude: 6.889799300000001
-postcode: 46047
+postcode: "46047"
 city: Oberhausen
 street: "Brammenring"
 housenumber: 60

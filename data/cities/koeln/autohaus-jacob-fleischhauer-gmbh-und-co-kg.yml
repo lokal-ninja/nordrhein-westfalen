@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9458811
 longitude: 6.9167725
-postcode: 50823
+postcode: "50823"
 city: Köln
 street: "Fröbelstraße"
 housenumber: 15

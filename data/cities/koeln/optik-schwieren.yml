@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9441232
 longitude: 6.94341
-postcode: 50670
+postcode: "50670"
 city: Köln
 street: "Christophstraße"
 housenumber: 31

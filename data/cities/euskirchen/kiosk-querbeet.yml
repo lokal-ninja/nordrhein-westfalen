@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.6626191
 longitude: 6.7857392
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Annaturmstraße"
 housenumber: 26

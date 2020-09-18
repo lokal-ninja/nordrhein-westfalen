@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.1890009
 longitude: 6.844708600000001
-postcode: 40591
+postcode: "40591"
 city: Düsseldorf
 street: "Oerschbachstraße"
 housenumber: 146

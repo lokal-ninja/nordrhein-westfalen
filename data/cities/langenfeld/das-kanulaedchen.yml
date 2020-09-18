@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 51.0911911
 longitude: 6.979633000000001
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Virneburgstraße"
 housenumber: 8

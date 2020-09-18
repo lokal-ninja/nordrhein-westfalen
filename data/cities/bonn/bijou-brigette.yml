@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.735636500000005
 longitude: 7.100367800000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Sternstraße"
 housenumber: 17

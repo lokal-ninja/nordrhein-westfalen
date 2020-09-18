@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 51.8726946
 longitude: 8.944995200000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Mittelstraße"
 housenumber: 73

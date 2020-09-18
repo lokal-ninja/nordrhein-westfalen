@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.660909100000005
 longitude: 6.787540000000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Klosterstraße"
 housenumber: 1

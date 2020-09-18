@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.5936299
 longitude: 7.2196138
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Blitzkuhlenstraße"
 housenumber: 87

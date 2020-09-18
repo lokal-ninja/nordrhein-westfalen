@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.2413412
 longitude: 6.7900349
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Schloßstraße"
 housenumber: 58

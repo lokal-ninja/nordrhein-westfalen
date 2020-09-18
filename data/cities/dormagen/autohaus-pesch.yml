@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0995251
 longitude: 6.835917500000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Krefelder Straße"
 housenumber: 83-87

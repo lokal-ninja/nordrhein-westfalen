@@ -1,12 +1,12 @@
-id: 1454870012
+id: 1346784680
 type: node
 shop: Supermarkt
-latitude: 51.5723792
-longitude: 7.6092962
-postcode: 59174
+latitude: 51.590962000000005
+longitude: 7.650730200000001
+postcode: "59174"
 city: Kamen
-street: "Einsteinstraße"
-housenumber: 3
+street: "Lünener Straße"
+housenumber: 225
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: ""

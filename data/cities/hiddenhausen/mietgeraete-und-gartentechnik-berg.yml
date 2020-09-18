@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.1465526
 longitude: 8.6519011
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Schweichelner Straße"
 housenumber: 3

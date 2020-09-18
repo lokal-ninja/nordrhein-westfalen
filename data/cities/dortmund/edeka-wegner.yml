@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.506483700000004
 longitude: 7.4762021
-postcode: 44141
+postcode: "44141"
 city: Dortmund
 street: "Märkische Straße"
 housenumber: 82

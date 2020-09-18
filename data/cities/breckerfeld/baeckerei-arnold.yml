@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.259513500000004
 longitude: 7.467183100000001
-postcode: 58339
+postcode: "58339"
 city: Breckerfeld
 street: "Frankfurter Straße"
 housenumber: 51

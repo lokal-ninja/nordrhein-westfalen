@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.570764100000005
 longitude: 6.993625000000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Horster Straße"
 housenumber: 44

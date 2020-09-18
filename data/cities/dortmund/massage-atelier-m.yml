@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.5064111
 longitude: 7.448518000000001
-postcode: 44137
+postcode: "44137"
 city: Dortmund
 street: "Sonnenplatz"
 housenumber: 16

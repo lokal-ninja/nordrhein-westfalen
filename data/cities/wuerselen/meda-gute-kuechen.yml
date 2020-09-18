@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.809249900000005
 longitude: 6.148727500000001
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Adenauerstraße"
 housenumber: 4

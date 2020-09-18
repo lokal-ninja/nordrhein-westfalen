@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.440741
 longitude: 6.9921362
-postcode: 45147
+postcode: "45147"
 city: Essen
 street: "Ladenspelderstraße"
 housenumber: 11

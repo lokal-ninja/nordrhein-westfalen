@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2820327
 longitude: 8.9016047
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Ringstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.310131600000005
 longitude: 8.8829774
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Zähringerallee"
 housenumber: 117

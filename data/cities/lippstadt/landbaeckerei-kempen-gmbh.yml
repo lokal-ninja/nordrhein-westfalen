@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.66188330000001
 longitude: 8.351667200000001
-postcode: 59557
+postcode: "59557"
 city: Lippstadt
 street: "Südstraße"
 housenumber: 26

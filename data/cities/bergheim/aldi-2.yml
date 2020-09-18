@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9454718
 longitude: 6.6271766
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Humboldtstraße"
 housenumber: 5

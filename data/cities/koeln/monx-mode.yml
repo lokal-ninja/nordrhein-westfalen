@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.917084
 longitude: 6.925659700000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Sülzburgstraße"
 housenumber: 27

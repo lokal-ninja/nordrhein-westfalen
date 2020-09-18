@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6921399
 longitude: 7.8033052000000005
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Großer Sandweg"
 housenumber: 23

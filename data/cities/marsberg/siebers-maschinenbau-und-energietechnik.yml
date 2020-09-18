@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.4471162
 longitude: 8.8331131
-postcode: 34431
+postcode: "34431"
 city: Marsberg
 street: "Rennuferstraße"
 housenumber: 3

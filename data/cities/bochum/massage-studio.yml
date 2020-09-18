@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.5198909
 longitude: 7.2762739000000005
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Lothringer Straße"
 housenumber: 1

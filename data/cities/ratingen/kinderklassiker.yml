@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2966071
 longitude: 6.8675527
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Eisenhüttenstraße"
 housenumber: 6

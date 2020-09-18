@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4552928
 longitude: 6.6164284
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Am Schürmannshütt"
 housenumber: 26c

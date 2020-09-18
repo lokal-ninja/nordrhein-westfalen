@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4576184
 longitude: 7.362373300000001
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Wullener Feld"
 housenumber: 49

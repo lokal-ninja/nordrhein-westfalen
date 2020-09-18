@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0274019
 longitude: 7.842791200000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Bahnhofstraße"
 housenumber: 15

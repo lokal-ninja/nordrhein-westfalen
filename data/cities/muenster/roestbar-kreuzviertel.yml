@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.968611900000006
 longitude: 7.622219
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Nordstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.1075491
 longitude: 7.6388755
-postcode: 58540
+postcode: "58540"
 city: Meinerzhagen
 street: "Volmestraße"
 housenumber: 2

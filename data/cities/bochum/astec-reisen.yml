@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.470654200000006
 longitude: 7.2116012000000005
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 69

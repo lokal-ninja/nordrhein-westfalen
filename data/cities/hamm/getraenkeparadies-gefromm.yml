@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.669138100000005
 longitude: 7.8186251
-postcode: 59063
+postcode: "59063"
 city: Hamm
 street: "Grünstraße"
 housenumber: 84

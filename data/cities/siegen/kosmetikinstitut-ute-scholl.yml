@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.876326000000006
 longitude: 8.0275806
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hinterstraße"
 housenumber: 73

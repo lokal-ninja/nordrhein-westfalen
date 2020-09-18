@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6577185
 longitude: 6.901704400000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Gahlener Straße"
 housenumber: 333

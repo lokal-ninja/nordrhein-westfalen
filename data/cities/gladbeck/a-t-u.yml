@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.56642840000001
 longitude: 6.9656871
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Bottroper Straße"
 housenumber: 246

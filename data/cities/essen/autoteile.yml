@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.447547500000006
 longitude: 6.9845009000000005
-postcode: 45145
+postcode: "45145"
 city: Essen
 street: "Martin-Luther-Straße"
 housenumber: 37

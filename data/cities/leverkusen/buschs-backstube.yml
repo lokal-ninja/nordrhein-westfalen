@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.031482100000005
 longitude: 6.98299
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Wiesdorfer Platz"
 housenumber: 57

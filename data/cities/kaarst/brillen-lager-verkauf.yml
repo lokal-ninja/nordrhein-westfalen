@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.2220163
 longitude: 6.607454300000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Kaarster Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.4625156
 longitude: 8.410398200000001
-postcode: 59602
+postcode: "59602"
 city: Rüthen
 street: "Körtlinghausen"
 housenumber: 7

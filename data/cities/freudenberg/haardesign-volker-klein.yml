@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8970957
 longitude: 7.871434900000001
-postcode: 57258
+postcode: "57258"
 city: Freudenberg
 street: "Burgstraße"
 housenumber: 18

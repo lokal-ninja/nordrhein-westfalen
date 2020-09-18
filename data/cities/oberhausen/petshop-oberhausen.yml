@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.5180961
 longitude: 6.8218584
-postcode: 46149
+postcode: "46149"
 city: Oberhausen
 street: "Erlenstraße"
 housenumber: 14

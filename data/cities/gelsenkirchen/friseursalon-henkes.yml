@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5121459
 longitude: 7.070699100000001
-postcode: 45883
+postcode: "45883"
 city: Gelsenkirchen
 street: "Fürstinnenstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.563228800000005
 longitude: 6.7395116
-postcode: 46535
+postcode: "46535"
 city: Dinslaken
 street: "Neustraße"
 housenumber: 2-4

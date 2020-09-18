@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.256513000000005
 longitude: 7.1478793000000005
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Calvinstraße"
 housenumber: 6

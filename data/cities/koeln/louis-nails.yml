@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.892340700000005
 longitude: 6.995754600000001
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Hauptstraße"
 housenumber: 110

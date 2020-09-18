@@ -1,12 +1,12 @@
-id: 1608893873
+id: 3208872006
 type: node
 shop: Bäckerei
-latitude: 52.3247153
-longitude: 8.624120300000001
-postcode: 32312
+latitude: 52.3088295
+longitude: 8.6523977
+postcode: "32312"
 city: Lübbecke
-street: "Zeiss-Straße"
-housenumber: 1
-phone: "+49 5741 809903"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
-website: "http://www.baeckerei-spilker.de/"
+street: "Lindenstraße"
+housenumber: 51
+phone: ""
+opening_hours: ""
+website: ""

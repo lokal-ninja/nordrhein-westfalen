@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.906658300000004
 longitude: 8.3784756
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Königstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.985692400000005
 longitude: 6.435897000000001
-postcode: 52445
+postcode: "52445"
 city: Titz
 street: "Prämienstraße"
 housenumber: 19

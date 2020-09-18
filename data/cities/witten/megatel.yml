@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.4391632
 longitude: 7.3371662
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Ruhrstraße"
 housenumber: 1

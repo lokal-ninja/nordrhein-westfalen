@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1252725
 longitude: 7.610913900000001
-postcode: 58566
+postcode: "58566"
 city: Kierspe
 street: "Kölner Straße"
 housenumber: 98

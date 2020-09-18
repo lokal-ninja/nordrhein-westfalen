@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.676777400000006
 longitude: 7.779986200000001
-postcode: 59067
+postcode: "59067"
 city: Hamm
 street: "Hafenstraße"
 housenumber: 82;80-82

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 51.6760256
 longitude: 6.628935
-postcode: 46485
+postcode: "46485"
 city: Wesel
 street: "Konrad-Duden-Straße"
 housenumber: 1

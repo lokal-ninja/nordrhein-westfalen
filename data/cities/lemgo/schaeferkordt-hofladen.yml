@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.026620300000005
 longitude: 8.926529500000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Hamelner Straße"
 housenumber: 105 A

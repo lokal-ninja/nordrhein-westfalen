@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7256343
 longitude: 7.029489300000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Wulfener Markt"
 housenumber: 15

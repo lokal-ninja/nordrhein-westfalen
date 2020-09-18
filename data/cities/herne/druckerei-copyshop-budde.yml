@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.535858000000005
 longitude: 7.2206386
-postcode: 44623
+postcode: "44623"
 city: Herne
 street: "Berliner Platz"
 housenumber: 6a

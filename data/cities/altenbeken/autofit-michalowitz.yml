@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.7635572
 longitude: 8.9287922
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Adenauerstraße"
 housenumber: 1b

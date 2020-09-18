@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 51.885232
 longitude: 8.452199700000001
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Schinkenstraße"
 housenumber: 9

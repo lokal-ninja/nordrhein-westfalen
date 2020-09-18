@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.557845
 longitude: 6.9458472
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hornstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.923159000000005
 longitude: 6.3585704000000005
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Baierstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.698235100000005
 longitude: 7.126843
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Frankengraben"
 housenumber: 10

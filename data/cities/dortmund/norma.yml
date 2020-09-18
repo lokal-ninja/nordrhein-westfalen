@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.553540000000005
 longitude: 7.4462086
-postcode: 44339
+postcode: "44339"
 city: Dortmund
 street: "Lindenhorster Straße"
 housenumber: 244

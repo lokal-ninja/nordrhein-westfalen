@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 51.5131725
 longitude: 7.211426800000001
-postcode: 44807
+postcode: "44807"
 city: Bochum
 street: "Herner Straße"
 housenumber: 406
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
-website: ""
+phone: "+49 800 2000015"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "http://netto-online.de"

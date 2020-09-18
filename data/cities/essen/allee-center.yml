@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.497626000000004
 longitude: 7.0074453000000005
-postcode: 45329
+postcode: "45329"
 city: Essen
 street: "Altenessener Straße"
 housenumber: 411

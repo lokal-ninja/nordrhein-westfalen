@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.5681664
 longitude: 6.750589400000001
-postcode: 46539
+postcode: "46539"
 city: Dinslaken
 street: "Am Pfauenzehnt"
 housenumber: 15

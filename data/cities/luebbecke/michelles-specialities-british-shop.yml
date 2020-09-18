@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3086757
 longitude: 8.720755
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Oberhusener Straße"
 housenumber: 4

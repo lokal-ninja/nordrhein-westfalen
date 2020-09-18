@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5334561
 longitude: 6.711051100000001
-postcode: 47178
+postcode: "47178"
 city: Duisburg
 street: "Königstraße"
 housenumber: 86

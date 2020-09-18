@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.8963854
 longitude: 8.3698841
-postcode: 33332
+postcode: "33332"
 city: Gütersloh
 street: "Dammstraße"
 housenumber: 60a

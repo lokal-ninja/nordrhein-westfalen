@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.657141200000005
 longitude: 6.4194376
-postcode: 52385
+postcode: "52385"
 city: Nideggen
 street: "Wildparkstraße"
 housenumber: 7

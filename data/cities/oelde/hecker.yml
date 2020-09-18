@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.8843174
 longitude: 8.157945100000001
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Beelener Straße"
 housenumber: 9

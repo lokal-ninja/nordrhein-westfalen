@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.4730458
 longitude: 7.7682964000000005
-postcode: 58730
+postcode: "58730"
 city: Fröndenberg/Ruhr
 street: "Alleestraße"
 housenumber: 5

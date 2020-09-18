@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.958708200000004
 longitude: 7.6277315
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Ludgeristraße"
 housenumber: 36

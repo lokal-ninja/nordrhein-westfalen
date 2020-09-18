@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.922295000000005
 longitude: 6.9221330000000005
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 275

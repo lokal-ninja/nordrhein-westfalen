@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.9066838
 longitude: 6.8022156
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Dürener Straße"
 housenumber: 52

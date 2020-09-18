@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1819828
 longitude: 6.7281282000000004
-postcode: 41468
+postcode: "41468"
 city: Neuss
 street: "Kölner Straße"
 housenumber: 459

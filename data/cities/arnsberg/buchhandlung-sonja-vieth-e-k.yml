@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.396314100000005
 longitude: 8.0643659
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Alter Markt"
 housenumber: 10

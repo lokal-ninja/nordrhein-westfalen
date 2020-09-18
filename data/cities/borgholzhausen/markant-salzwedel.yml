@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.102689000000005
 longitude: 8.299193200000001
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Am Uphof"
 housenumber: 9

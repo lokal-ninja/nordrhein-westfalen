@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.8665146
 longitude: 9.0929044
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Marktstraße"
 housenumber: 27

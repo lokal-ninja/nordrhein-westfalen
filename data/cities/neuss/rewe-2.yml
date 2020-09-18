@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.167357200000005
 longitude: 6.6643284000000005
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Bahnhofstraße"
 housenumber: 15

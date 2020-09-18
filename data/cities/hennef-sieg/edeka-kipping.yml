@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.782985100000005
 longitude: 7.2552582
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Sanddornweg"
 housenumber: 14

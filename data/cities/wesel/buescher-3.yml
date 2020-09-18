@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6563936
 longitude: 6.624081500000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Wilhelmstraße"
 housenumber: 14

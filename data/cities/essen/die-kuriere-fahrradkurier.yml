@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4522981
 longitude: 6.9876548000000005
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Frohnhauser Straße"
 housenumber: 106

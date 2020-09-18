@@ -1,12 +1,12 @@
-id: 201507884
+id: 200272460
 type: way
 shop: Metzgerei
-latitude: 51.659822000000005
-longitude: 6.964253
-postcode: 46282
+latitude: 51.6603026
+longitude: 6.9665115
+postcode: "46282"
 city: Dorsten
-street: "Essener Straße"
-housenumber: 5
+street: "Recklinghäuser Straße"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-14:00"
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
 website: "https://www.bellendorf.com/"

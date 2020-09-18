@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 50.711888
 longitude: 7.170876700000001
-postcode: 53227
+postcode: "53227"
 city: Bonn
 street: "Adrianstraße"
 housenumber: 163
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00"
 website: "http://buchhandlung-maxundmoritz.de/kontakt.php"

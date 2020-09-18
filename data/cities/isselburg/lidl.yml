@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.846530900000005
 longitude: 6.4366741
-postcode: 46419
+postcode: "46419"
 city: Isselburg
 street: "Linders Feld"
 housenumber: 1

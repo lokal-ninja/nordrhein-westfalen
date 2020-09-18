@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.682102500000006
 longitude: 6.825511400000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Magellanstraße"
 housenumber: 20

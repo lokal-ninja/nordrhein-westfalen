@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.5853308
 longitude: 7.004622500000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Allinghofstraße"
 housenumber: 80

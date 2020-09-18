@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2375581
 longitude: 6.7200899000000005
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Schiessstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.461794100000006
 longitude: 7.5873816000000005
-postcode: 58239
+postcode: "58239"
 city: Schwerte
 street: "Lichtendorfer Straße"
 housenumber: 129

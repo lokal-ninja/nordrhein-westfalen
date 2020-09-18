@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.563270800000005
 longitude: 8.0861953
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Werler Landstraße"
 housenumber: 9

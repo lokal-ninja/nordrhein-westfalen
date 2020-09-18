@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.173601600000005
 longitude: 8.8688281
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Mindener Straße"
 housenumber: 13

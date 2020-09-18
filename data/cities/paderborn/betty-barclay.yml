@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.71718430000001
 longitude: 8.7526021
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienplatz"
 housenumber: 1

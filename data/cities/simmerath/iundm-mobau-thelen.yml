@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.6066215
 longitude: 6.3082881
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Humboldtstraße"
 housenumber: 6

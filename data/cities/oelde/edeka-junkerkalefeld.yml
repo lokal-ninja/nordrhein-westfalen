@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8291011
 longitude: 8.1460297
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Warendorfer Straße"
 housenumber: 16

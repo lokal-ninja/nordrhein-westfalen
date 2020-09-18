@@ -1,12 +1,12 @@
-id: 123559449
-type: way
+id: 6019709301
+type: node
 shop: Bäckerei
-latitude: 50.7102924
-longitude: 7.109059
-postcode: 53129
+latitude: 50.738029600000004
+longitude: 7.0464836
+postcode: "53121"
 city: Bonn
-street: "Hausdorffstraße"
-housenumber: 188-190
+street: "Vorgebirgsbahnweg"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-17:00"
+opening_hours: "Mo-Sa 08:00-20:30; Su 07:30-16:00"
 website: ""

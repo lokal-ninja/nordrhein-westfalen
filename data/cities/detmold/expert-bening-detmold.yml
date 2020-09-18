@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.954761000000005
 longitude: 8.8531379
-postcode: 32758
+postcode: "32758"
 city: Detmold
 street: "Niemeierstraße"
 housenumber: 8

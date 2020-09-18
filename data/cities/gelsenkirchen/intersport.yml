@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.585931300000006
 longitude: 7.0490361
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Königswiese"
 housenumber: 41

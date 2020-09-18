@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6530678
 longitude: 8.7170985
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Haarener Straße"
 housenumber: 60

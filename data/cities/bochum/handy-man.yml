@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.483338800000006
 longitude: 7.2182427
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Brückstraße"
 housenumber: 17

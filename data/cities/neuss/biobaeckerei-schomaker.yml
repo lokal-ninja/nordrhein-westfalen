@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.200886000000004
 longitude: 6.687369800000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Niederstraße"
 housenumber: 5

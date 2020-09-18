@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.846076700000005
 longitude: 7.6765787
-postcode: 48317
+postcode: "48317"
 city: Drensteinfurt
 street: "Alte Dorfstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6592227
 longitude: 6.790599200000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Veybachstraße"
 housenumber: 3

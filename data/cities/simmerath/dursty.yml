@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.609031800000004
 longitude: 6.308324300000001
-postcode: 
+postcode: ""
 city: Simmerath
 street: "Matthias-Zimmermann-Straße"
 housenumber: 12

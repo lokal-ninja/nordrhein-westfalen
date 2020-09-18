@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9098034
 longitude: 6.8086048
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 99-103

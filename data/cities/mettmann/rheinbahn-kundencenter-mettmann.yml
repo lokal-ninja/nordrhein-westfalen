@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.252020300000005
 longitude: 6.9788443000000004
-postcode: 40822
+postcode: "40822"
 city: Mettmann
 street: "Schwarzbachstraße"
 housenumber: 8-12

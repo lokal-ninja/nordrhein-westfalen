@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 51.394676700000005
 longitude: 7.1835547
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Im Schneppenkamp"
 housenumber: 5

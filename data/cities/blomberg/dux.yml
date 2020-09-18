@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.9307547
 longitude: 9.1007044
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Nederlandstraße"
 housenumber: 2

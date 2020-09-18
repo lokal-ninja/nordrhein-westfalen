@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.831616600000004
 longitude: 9.3184837
-postcode: 37671
+postcode: "37671"
 city: Höxter
 street: "Detmolder Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.513834800000005
 longitude: 7.4675438000000005
-postcode: 44135
+postcode: "44135"
 city: Dortmund
 street: "Kleppingstraße"
 housenumber: 3-5

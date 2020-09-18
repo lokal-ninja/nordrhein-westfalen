@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6149842
 longitude: 6.6778067000000005
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Kleiner Kiwitt"
 housenumber: 18

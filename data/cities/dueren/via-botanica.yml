@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.802057500000004
 longitude: 6.4843731
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Markt"
 housenumber: 20

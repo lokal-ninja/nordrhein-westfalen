@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.943798300000005
 longitude: 8.406413
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Haverkamp"
 housenumber: 37

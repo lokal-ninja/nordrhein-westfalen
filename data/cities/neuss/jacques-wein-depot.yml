@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.192121500000006
 longitude: 6.6921112
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 51.765033
 longitude: 7.8879482
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Kampstraße"
 housenumber: 27

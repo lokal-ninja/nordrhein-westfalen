@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3147194
 longitude: 7.8739607000000005
-postcode: 49492
+postcode: "49492"
 city: Westerkappeln
 street: "Heerstraße"
 housenumber: 2

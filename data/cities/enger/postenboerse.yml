@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.131094600000004
 longitude: 8.5586266
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Am Dreieck"
 housenumber: 1

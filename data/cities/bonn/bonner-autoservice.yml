@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7418561
 longitude: 7.0666443
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Lievelingsweg"
 housenumber: 155

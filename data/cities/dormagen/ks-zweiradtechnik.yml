@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.058945300000005
 longitude: 6.8240186000000005
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Bergiusstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2620866
 longitude: 6.8092331
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Rather Kreuzweg"
 housenumber: 9

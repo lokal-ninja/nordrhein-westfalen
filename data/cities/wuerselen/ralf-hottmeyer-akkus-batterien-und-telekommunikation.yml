@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.821824400000004
 longitude: 6.1620213
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Hauptstraße"
 housenumber: 69

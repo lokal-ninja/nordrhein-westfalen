@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.609864800000004
 longitude: 7.180606300000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Hertener Straße"
 housenumber: 100

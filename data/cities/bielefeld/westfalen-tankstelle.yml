@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.976947900000006
 longitude: 8.5186835
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
 street: "Windelsbleicher Straße"
 housenumber: 101

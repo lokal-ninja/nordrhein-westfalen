@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.8536573
 longitude: 7.088731
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Frankfurter Straße"
 housenumber: 129

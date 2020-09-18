@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.1755925
 longitude: 6.8348839
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Henkelstraße"
 housenumber: 9

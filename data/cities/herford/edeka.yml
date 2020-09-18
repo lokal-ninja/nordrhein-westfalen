@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.103788
 longitude: 8.692883100000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Ernstmeierstraße"
 housenumber: 17

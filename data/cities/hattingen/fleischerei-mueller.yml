@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3981489
 longitude: 7.1824517000000005
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Große Weilstraße"
 housenumber: 16

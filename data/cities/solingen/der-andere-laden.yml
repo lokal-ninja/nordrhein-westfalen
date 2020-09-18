@@ -1,12 +1,12 @@
 id: 2200598065
 type: node
 shop: Möbel
-latitude: 51.160594200000006
-longitude: 7.0005575
-postcode: 42697
+latitude: 51.1605708
+longitude: 7.000547900000001
+postcode: "42697"
 city: Solingen
 street: "Keldersstraße"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"
 website: ""

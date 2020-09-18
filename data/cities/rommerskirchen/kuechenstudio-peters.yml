@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.03116910000001
 longitude: 6.6962909
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Venloer Straße"
 housenumber: 2

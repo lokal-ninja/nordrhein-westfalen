@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.24845740000001
 longitude: 7.1435645
-postcode: 42119
+postcode: "42119"
 city: Wuppertal
 street: "Steinbeck"
 housenumber: 37

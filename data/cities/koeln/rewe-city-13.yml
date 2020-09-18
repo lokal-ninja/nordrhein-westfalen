@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.930862000000005
 longitude: 6.9173985
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 132-138

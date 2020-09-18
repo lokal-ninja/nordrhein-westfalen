@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7978996
 longitude: 6.107901
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Feldchen"
 housenumber: 2

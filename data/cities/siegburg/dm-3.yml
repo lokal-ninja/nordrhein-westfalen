@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.800606800000004
 longitude: 7.2011779
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Zum Hohen Ufer"
 housenumber: 6

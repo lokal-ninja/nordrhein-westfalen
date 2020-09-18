@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 50.626159900000005
 longitude: 7.039560300000001
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 25
 phone: "+49 2225 703289"
-opening_hours: "Tu-Fr 08:30-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
 website: ""

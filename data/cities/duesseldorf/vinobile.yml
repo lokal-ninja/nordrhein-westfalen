@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.163149000000004
 longitude: 6.8646878000000005
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Sophienstraße"
 housenumber: 4

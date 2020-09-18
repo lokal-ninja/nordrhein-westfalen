@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0800445
 longitude: 6.316572600000001
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Brückstraße"
 housenumber: 3

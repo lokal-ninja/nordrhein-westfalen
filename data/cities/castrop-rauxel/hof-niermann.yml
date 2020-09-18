@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.525603700000005
 longitude: 7.334596500000001
-postcode: 44577
+postcode: "44577"
 city: Castrop-Rauxel
 street: "In den Kämpen"
 housenumber: 17

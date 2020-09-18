@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.491481
 longitude: 6.6276655
-postcode: 53947
+postcode: "53947"
 city: Nettersheim
 street: "Bahnhofstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.194435600000006
 longitude: 6.4177669
-postcode: 
+postcode: ""
 city: Mönchengladbach
 street: "Rudolfstraße"
 housenumber: 10e

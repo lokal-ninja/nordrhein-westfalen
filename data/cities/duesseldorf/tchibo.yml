@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.219974
 longitude: 6.7936445
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
 street: "Konrad-Adenauer-Platz"
 housenumber: 14

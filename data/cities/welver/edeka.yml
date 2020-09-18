@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6161369
 longitude: 7.961726700000001
-postcode: 59514
+postcode: "59514"
 city: Welver
 street: "Ladestraße"
 housenumber: 30

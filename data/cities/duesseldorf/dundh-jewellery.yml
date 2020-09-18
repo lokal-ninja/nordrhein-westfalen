@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.223316800000006
 longitude: 6.7867094
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
 street: "Oststraße"
 housenumber: 89

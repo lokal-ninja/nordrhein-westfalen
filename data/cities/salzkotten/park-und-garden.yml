@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.6713941
 longitude: 8.5795498
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Wilhelm-Schierenberg-Straße"
 housenumber: 2

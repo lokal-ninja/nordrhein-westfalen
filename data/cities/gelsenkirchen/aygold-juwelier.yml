@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.50923220000001
 longitude: 7.096367300000001
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofstraße"
 housenumber: 12-14

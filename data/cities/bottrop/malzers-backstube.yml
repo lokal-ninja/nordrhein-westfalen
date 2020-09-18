@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.600410000000004
 longitude: 6.9236344
-postcode: 46244
+postcode: "46244"
 city: Bottrop
 street: "Rentforter Straße"
 housenumber: 1

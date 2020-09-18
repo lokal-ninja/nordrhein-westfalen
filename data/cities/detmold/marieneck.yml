@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9403164
 longitude: 8.887648200000001
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Richthofenstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.984423500000005
 longitude: 7.1021947
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Mülheimer Straße"
 housenumber: 79

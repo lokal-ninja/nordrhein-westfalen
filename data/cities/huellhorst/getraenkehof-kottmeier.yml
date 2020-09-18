@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.2815718
 longitude: 8.6972731
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Schmiedestraße"
 housenumber: 10

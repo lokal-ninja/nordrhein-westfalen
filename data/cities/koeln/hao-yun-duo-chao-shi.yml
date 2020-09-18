@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9461523
 longitude: 6.956548000000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Eigelstein"
 housenumber: 16

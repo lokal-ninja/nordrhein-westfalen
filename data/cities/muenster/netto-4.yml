@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.913954100000005
 longitude: 7.6354014
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Merkureck"
 housenumber: 16

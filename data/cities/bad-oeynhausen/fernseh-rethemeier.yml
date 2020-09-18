@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.221516
 longitude: 8.798553100000001
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Eidinghausener Straße"
 housenumber: 124

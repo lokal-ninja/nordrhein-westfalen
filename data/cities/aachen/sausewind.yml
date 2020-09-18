@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.766310600000004
 longitude: 6.0811513
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Südstraße"
 housenumber: 60

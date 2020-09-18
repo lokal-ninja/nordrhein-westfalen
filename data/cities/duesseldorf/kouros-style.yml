@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.240566400000006
 longitude: 6.7756191
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Klever Straße"
 housenumber: 32

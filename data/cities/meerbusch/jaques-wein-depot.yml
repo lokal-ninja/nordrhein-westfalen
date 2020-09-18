@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 51.2661321
 longitude: 6.674623400000001
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Haus Meer"
 housenumber: 2

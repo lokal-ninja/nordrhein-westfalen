@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8801976
 longitude: 8.956483500000001
-postcode: 32805
+postcode: "32805"
 city: Horn-Bad Meinberg
 street: "Gebrüder-Künnemeyer-Straße"
 housenumber: 3

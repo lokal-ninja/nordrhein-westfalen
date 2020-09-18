@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1936091
 longitude: 6.549480900000001
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Von-Stauffenberg-Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.7747468
 longitude: 6.0881442
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Friedrich-Wilhelm-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.167658700000004
 longitude: 6.441632
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Hauptstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 52.2034365
 longitude: 8.7903213
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Wilhelmstraße"
 housenumber: 7

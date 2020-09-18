@@ -3,7 +3,7 @@ type: way
 shop: Wettbüro
 latitude: 51.4280516
 longitude: 6.8838984000000005
-postcode: 45468
+postcode: "45468"
 city: Mülheim an der Ruhr
 street: "Leineweberstraße"
 housenumber: 69

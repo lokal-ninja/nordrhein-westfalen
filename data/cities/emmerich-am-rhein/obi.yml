@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8495044
 longitude: 6.2684063000000005
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Budberger Straße"
 housenumber: 1

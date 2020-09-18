@@ -1,12 +1,12 @@
-id: 169748341
-type: way
+id: 4632152809
+type: node
 shop: Küchen
-latitude: 51.730939400000004
-longitude: 8.787759300000001
-postcode: 33100
+latitude: 51.705637700000004
+longitude: 8.721589400000001
+postcode: "33106"
 city: Paderborn
-street: "Friedrich-List-Straße"
-housenumber: 17
+street: "Barkhauser Straße"
+housenumber: 3
 phone: ""
-opening_hours: "Th-Fr 10:00-19:00; Sa 09:00-18:00"
+opening_hours: ""
 website: "https://www.marquardt-kuechen.de/"

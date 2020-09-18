@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1622264
 longitude: 6.8745567
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Heubesstraße"
 housenumber: 1

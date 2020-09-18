@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.328500600000005
 longitude: 6.5703059
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Albrechtplatz"
 housenumber: 20

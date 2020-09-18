@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.0285712
 longitude: 8.515938700000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Stapenhorststraße"
 housenumber: 90

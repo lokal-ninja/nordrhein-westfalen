@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2273792
 longitude: 6.785444
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Schadowstraße"
 housenumber: 64-66

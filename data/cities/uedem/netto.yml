@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.667451
 longitude: 6.2746081
-postcode: 47589
+postcode: "47589"
 city: Uedem
 street: "Lohstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.7076658
 longitude: 7.832800000000001
-postcode: 59073
+postcode: "59073"
 city: Hamm
 street: "Ahlener Straße"
 housenumber: 118

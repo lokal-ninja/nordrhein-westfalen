@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.181845800000005
 longitude: 6.680528600000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Moselstraße"
 housenumber: 31a

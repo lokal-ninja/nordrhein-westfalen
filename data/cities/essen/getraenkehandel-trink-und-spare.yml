@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4392471
 longitude: 7.004434600000001
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.472168
 longitude: 7.3218157
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 24

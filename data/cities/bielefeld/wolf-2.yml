@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.056200600000004
 longitude: 8.548896800000001
-postcode: 33611
+postcode: "33611"
 city: Bielefeld
 street: "Im Stift"
 housenumber: 3

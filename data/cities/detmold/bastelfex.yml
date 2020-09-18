@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.9152891
 longitude: 8.906639400000001
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Hornsche Straße"
 housenumber: 250

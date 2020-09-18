@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1717032
 longitude: 6.6806564
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Rosenstraße"
 housenumber: 12

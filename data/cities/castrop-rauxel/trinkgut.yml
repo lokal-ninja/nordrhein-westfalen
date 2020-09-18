@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.579363400000005
 longitude: 7.3088075
-postcode: 44579
+postcode: "44579"
 city: Castrop-Rauxel
 street: "Siemensstraße"
 housenumber: 9

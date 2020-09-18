@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 50.661273
 longitude: 6.7807176
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Weststraße"
 housenumber: 42

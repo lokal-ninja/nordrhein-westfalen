@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.47269
 longitude: 6.9985106
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Feilenstraße"
 housenumber: 1

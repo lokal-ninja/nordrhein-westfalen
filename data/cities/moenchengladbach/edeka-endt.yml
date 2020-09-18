@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1499381
 longitude: 6.4484845
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Steinsstraße"
 housenumber: 70

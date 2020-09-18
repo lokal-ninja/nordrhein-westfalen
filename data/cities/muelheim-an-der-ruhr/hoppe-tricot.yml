@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4282211
 longitude: 6.846685900000001
-postcode: 45478
+postcode: "45478"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 234a

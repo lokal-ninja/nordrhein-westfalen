@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.926379000000004
 longitude: 6.9102746
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Bachemer Straße"
 housenumber: 173

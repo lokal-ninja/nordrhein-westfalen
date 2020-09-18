@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5802817
 longitude: 7.108226800000001
-postcode: 45892
+postcode: "45892"
 city: Gelsenkirchen
 street: "Ewaldstraße"
 housenumber: 29

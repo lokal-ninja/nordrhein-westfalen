@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 51.760982600000006
 longitude: 7.8897427
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Südenmauer"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-12:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0184372
 longitude: 8.5390569
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 116a

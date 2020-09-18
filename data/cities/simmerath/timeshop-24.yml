@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.605901100000004
 longitude: 6.3026876000000005
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Rathausplatz"
 housenumber: 3

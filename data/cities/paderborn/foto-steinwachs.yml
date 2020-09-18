@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.717100200000004
 longitude: 8.7574872
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kamp"
 housenumber: 39

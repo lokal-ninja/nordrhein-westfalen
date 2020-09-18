@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3723912
 longitude: 6.5092859
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Schulstraße"
 housenumber: 11

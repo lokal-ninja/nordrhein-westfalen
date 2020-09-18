@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5860264
 longitude: 7.0494927
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Königswiese"
 housenumber: 41

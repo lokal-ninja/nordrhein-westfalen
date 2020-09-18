@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 52.1771126
 longitude: 7.5280421
-postcode: 48282
+postcode: "48282"
 city: Emsdetten
 street: "Elbersstraße"
 housenumber: 8

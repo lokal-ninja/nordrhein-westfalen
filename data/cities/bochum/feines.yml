@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.448472
 longitude: 7.229747000000001
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 86

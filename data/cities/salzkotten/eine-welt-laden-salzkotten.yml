@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.672658500000004
 longitude: 8.606323
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Lange Straße"
 housenumber: 38

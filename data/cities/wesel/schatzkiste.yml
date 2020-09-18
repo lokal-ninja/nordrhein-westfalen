@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.6292659
 longitude: 6.5808441
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Marktstraße"
 housenumber: 16

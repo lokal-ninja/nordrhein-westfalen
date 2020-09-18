@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.048106000000004
 longitude: 8.6362041
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Am Franzhof"
 housenumber: 1

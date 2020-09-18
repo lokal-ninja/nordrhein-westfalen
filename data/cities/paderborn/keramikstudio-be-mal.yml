@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 51.7520237
 longitude: 8.726012800000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Hatzfelder Straße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.230051100000004
 longitude: 6.8086843
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ackerstraße"
 housenumber: 191

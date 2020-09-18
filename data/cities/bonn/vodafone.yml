@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.736001900000005
 longitude: 7.1023927
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wenzelgasse"
 housenumber: 6

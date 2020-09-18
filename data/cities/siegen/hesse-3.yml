@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8813942
 longitude: 8.0295305
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Sandstraße"
 housenumber: 162

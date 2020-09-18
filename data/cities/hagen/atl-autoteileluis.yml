@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3507012
 longitude: 7.4530783000000005
-postcode: 58089
+postcode: "58089"
 city: Hagen
 street: "Lange Straße"
 housenumber: 110

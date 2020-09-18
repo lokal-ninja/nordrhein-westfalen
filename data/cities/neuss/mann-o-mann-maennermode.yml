@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1681059
 longitude: 6.6846994
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 498d

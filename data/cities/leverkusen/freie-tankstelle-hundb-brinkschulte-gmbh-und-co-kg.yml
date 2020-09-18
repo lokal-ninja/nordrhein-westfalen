@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.0659154
 longitude: 6.9244617
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
 street: "Langenfelder Straße"
 housenumber: 105

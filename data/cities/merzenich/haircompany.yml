@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8279847
 longitude: 6.5238329
-postcode: 52399
+postcode: "52399"
 city: Merzenich
 street: "Dürener Straße"
 housenumber: 4

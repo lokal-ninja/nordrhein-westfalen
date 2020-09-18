@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.837543100000005
 longitude: 6.692472700000001
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Lindenstraße"
 housenumber: 9

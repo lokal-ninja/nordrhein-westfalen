@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.211621300000004
 longitude: 6.6198551000000005
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Hasselstraße"
 housenumber: 64

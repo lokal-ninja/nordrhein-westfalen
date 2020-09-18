@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.9553219
 longitude: 8.5315296
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Buschkampstraße"
 housenumber: 148

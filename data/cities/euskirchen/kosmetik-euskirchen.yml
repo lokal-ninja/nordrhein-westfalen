@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6587047
 longitude: 6.7876792
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Disternicher Torwall"
 housenumber: 3

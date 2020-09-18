@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.56285200000001
 longitude: 8.1207721
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Niederbergheimer Straße"
 housenumber: 52

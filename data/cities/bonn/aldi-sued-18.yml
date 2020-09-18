@@ -1,12 +1,12 @@
-id: 123524675
+id: 84670544
 type: way
 shop: Supermarkt
-latitude: 50.6885514
-longitude: 7.152181100000001
-postcode: 53173
+latitude: 50.6836314
+longitude: 7.0768712
+postcode: "53125"
 city: Bonn
-street: "Bonner Straße"
-housenumber: 36
+street: "Reichsstraße"
+housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
 website: "https://www.aldi-sued.de/"

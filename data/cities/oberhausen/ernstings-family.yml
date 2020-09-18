@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.542698200000004
 longitude: 6.8186879000000005
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Dudelerstraße"
 housenumber: 

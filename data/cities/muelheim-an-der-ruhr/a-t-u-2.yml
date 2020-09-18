@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.451137100000004
 longitude: 6.8824452
-postcode: 45473
+postcode: "45473"
 city: Mülheim an der Ruhr
 street: "Mellinghofer Straße"
 housenumber: 171

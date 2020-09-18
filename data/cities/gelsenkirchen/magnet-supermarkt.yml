@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.560096900000005
 longitude: 7.0788321000000005
-postcode: 45891
+postcode: "45891"
 city: Gelsenkirchen
 street: "Surkampstraße"
 housenumber: 78

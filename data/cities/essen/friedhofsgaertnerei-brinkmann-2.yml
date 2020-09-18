@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.4672684
 longitude: 6.959062100000001
-postcode: 45355
+postcode: "45355"
 city: Essen
 street: "Kesselstraße"
 housenumber: 52-54

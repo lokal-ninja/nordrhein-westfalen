@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.1785464
 longitude: 6.9272195000000005
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Gerresheimer Straße"
 housenumber: 156

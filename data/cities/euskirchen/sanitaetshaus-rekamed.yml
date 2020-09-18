@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.660082700000004
 longitude: 6.7886955
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 23

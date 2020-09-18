@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.366316100000006
 longitude: 9.003808900000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Bückeburger Straße"
 housenumber: 16

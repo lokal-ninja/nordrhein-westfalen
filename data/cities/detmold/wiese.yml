@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 51.9340223
 longitude: 8.8781151
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Lange Straße"
 housenumber: 20-24
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
 website: ""

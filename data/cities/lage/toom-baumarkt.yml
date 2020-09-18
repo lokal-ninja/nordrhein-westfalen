@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.985617600000005
 longitude: 8.805230100000001
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Detmolder Straße"
 housenumber: 29-37

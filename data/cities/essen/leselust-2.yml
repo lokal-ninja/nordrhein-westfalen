@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.420716500000005
 longitude: 6.9600168
-postcode: 45149
+postcode: "45149"
 city: Essen
 street: "Fulerumer Straße"
 housenumber: 221-223

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.3807832
 longitude: 9.0192581
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Haferkamp"
 housenumber: 29

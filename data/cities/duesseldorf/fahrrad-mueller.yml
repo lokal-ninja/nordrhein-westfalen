@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.211016900000004
 longitude: 6.765865000000001
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Bilker Allee"
 housenumber: 33

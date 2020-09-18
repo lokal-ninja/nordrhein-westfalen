@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9976921
 longitude: 8.4878996
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Carl-Severing-Straße"
 housenumber: 81

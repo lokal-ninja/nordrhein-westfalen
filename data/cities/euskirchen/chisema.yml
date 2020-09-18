@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.688771700000004
 longitude: 6.8243178
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Kolumbusstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.118722500000004
 longitude: 6.899308
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Benrather Straße"
 housenumber: 44

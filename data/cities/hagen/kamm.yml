@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3490407
 longitude: 7.571567900000001
-postcode: 58119
+postcode: "58119"
 city: Hagen
 street: "Bahnstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.196215300000006
 longitude: 6.8355515
-postcode: 40229
+postcode: "40229"
 city: Düsseldorf
 street: "Karlsruher Straße"
 housenumber: 1

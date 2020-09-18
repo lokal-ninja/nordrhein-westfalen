@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.65728
 longitude: 6.788069800000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Alleestraße"
 housenumber: 20

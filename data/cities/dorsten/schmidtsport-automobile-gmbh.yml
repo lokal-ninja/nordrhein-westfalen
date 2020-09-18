@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.7149493
 longitude: 7.0058737
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Burenkamp"
 housenumber: 12

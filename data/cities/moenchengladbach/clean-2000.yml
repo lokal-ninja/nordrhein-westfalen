@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1345267
 longitude: 6.452249
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Zur Burgmühle"
 housenumber: 6

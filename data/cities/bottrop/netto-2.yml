@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.535735800000005
 longitude: 6.9319347
-postcode: 46236
+postcode: "46236"
 city: Bottrop
 street: "Gladbecker Straße"
 housenumber: 158

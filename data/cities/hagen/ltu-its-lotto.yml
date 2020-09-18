@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.3457188
 longitude: 7.4237048
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Vollbrinkstraße"
 housenumber: 22

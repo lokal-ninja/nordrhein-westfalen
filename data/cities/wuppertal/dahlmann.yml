@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2723255
 longitude: 7.2051626
-postcode: 42275
+postcode: "42275"
 city: Wuppertal
 street: "Werth"
 housenumber: 92

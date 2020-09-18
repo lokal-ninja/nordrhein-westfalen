@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6391372
 longitude: 7.2773003
-postcode: 45739
+postcode: "45739"
 city: Oer-Erkenschwick
 street: "Industriestraße"
 housenumber: 22

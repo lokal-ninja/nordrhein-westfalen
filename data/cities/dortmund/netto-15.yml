@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.445020500000005
 longitude: 7.5224076
-postcode: 44267
+postcode: "44267"
 city: Dortmund
 street: "Kreisstraße"
 housenumber: 61

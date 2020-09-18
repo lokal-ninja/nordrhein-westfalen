@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9771754
 longitude: 6.960387900000001
-postcode: 50735
+postcode: "50735"
 city: Köln
 street: "Weidenpescher Straße"
 housenumber: 1

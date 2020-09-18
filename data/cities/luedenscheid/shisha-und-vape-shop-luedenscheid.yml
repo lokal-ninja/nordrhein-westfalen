@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.215919500000005
 longitude: 7.630775000000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Wilhelmstraße"
 housenumber: 27A

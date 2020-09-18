@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.6282751
 longitude: 6.1985204000000005
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Schmiedestraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.9932906
 longitude: 6.916296300000001
-postcode: 48703
+postcode: "48703"
 city: Stadtlohn
 street: "Mühlenstraße"
 housenumber: 5;1

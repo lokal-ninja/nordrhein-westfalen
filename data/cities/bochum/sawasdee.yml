@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.4613403
 longitude: 7.2010437000000005
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 214

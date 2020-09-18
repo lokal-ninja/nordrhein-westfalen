@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.993225
 longitude: 6.918634600000001
-postcode: 48703
+postcode: "48703"
 city: Stadtlohn
 street: "Dufkampstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 51.4577685
 longitude: 6.9998687
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Thea-Leymann-Straße"
 housenumber: 12

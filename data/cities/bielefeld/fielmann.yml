@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.027492200000005
 longitude: 8.6036819
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Potsdamer Straße"
 housenumber: 9

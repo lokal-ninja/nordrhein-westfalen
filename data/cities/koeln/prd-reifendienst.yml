@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.848331800000004
 longitude: 7.100559400000001
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Am Linder Kreuz"
 housenumber: 53

@@ -1,12 +1,12 @@
-id: 6433642083
+id: 5036973891
 type: node
 shop: Bäckerei
-latitude: 51.4569143
-longitude: 7.2508707
-postcode: 44801
+latitude: 51.4524039
+longitude: 7.232169900000001
+postcode: "44799"
 city: Bochum
-street: "Alte Markstraße"
-housenumber: 52
+street: "Brenscheder Straße"
+housenumber: 45a
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 6:30-13:00; Su 7:30-11:30"
+opening_hours: "Mo-Fr 6:00-18:00, Sa 6:00-16:00; Su 7:00-16:00"
 website: ""

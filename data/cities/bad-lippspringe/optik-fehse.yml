@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.7827445
 longitude: 8.8194006
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Detmolder Straße"
 housenumber: 152

@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 51.7703003
 longitude: 6.1862992000000006
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Bedburger Weide"
 housenumber: 47

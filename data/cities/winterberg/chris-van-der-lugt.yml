@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.194261600000004
 longitude: 8.534265300000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hauptstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.604516600000004
 longitude: 7.1281930000000004
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Feldstraße"
 housenumber: 114

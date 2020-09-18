@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.0207946
 longitude: 8.532410500000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Alter Markt"
 housenumber: 13

@@ -1,12 +1,12 @@
 id: 1001466363
 type: node
 shop: Bäckerei
-latitude: 50.674427300000005
-longitude: 7.194013300000001
-postcode: 53639
+latitude: 50.674274000000004
+longitude: 7.193915100000001
+postcode: "53639"
 city: Königswinter
 street: "Hauptstraße"
 housenumber: 415
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00;su off"
+website: "https://stadtbrotbaecker-rott.de/"

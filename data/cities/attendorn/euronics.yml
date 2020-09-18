@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.125941600000004
 longitude: 7.9106569
-postcode: 57439
+postcode: "57439"
 city: Attendorn
 street: "Finnentroper Straße"
 housenumber: 14

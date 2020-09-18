@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.09783710000001
 longitude: 7.611807300000001
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Saerbecker Straße"
 housenumber: 22

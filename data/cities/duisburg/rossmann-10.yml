@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.364326500000004
 longitude: 6.7782451
-postcode: 47269
+postcode: "47269"
 city: Duisburg
 street: "Angermunder Straße"
 housenumber: 8-10

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.936610800000004
 longitude: 6.9139135000000005
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Aachener Straße"
 housenumber: 319

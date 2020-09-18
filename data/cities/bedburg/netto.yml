@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9862016
 longitude: 6.571119400000001
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Adolf-Silverberg-Straße"
 housenumber: 20

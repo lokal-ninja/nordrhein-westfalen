@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.197686700000006
 longitude: 8.6403309
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Im Obrock"
 housenumber: 13b

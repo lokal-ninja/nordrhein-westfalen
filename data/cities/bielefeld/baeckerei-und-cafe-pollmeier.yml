@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0122298
 longitude: 8.5681124
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 111

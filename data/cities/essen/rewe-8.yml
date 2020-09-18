@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.449893
 longitude: 6.9759925
-postcode: 45144
+postcode: "45144"
 city: Essen
 street: "Frohnhauser Straße"
 housenumber: 238-240

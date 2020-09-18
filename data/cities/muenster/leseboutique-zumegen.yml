@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 51.9205321
 longitude: 7.7289747
-postcode: 48167
+postcode: "48167"
 city: Münster
 street: "Münsterstraße"
 housenumber: 26c

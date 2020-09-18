@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4190905
 longitude: 6.8511363
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Saarner Straße"
 housenumber: 241

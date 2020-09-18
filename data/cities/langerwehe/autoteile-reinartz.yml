@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.816666100000006
 longitude: 6.3715109000000005
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Hauptstraße"
 housenumber: 273

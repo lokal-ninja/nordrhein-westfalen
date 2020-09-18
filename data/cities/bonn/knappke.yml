@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6641812
 longitude: 7.1710387
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Lannesdorfer Straße"
 housenumber: 2

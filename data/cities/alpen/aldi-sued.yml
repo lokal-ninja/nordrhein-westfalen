@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5755418
 longitude: 6.513135200000001
-postcode: 46519
+postcode: "46519"
 city: Alpen
 street: "Rathausstraße"
 housenumber: 15

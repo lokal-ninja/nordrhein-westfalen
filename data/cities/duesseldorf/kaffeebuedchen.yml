@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.254833700000006
 longitude: 6.8222905
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Rather Broich"
 housenumber: 153a

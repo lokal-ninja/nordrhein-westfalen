@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.5994612
 longitude: 7.312111000000001
-postcode: 44581
+postcode: "44581"
 city: Castrop-Rauxel
 street: "Lambertstraße"
 housenumber: 2a

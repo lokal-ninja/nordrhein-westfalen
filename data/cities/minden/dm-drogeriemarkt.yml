@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.2915226
 longitude: 8.9027533
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Ringstraße"
 housenumber: 74

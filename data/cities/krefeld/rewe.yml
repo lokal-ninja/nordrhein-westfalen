@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3209887
 longitude: 6.5396403
-postcode: 47804
+postcode: "47804"
 city: Krefeld
 street: "Randstraße"
 housenumber: 4

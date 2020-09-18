@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0212919
 longitude: 8.5370232
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Viktoriastraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.722037500000006
 longitude: 7.088848700000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Sternenburgstraße"
 housenumber: 1

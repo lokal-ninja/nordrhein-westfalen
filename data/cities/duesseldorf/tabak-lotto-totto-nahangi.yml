@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1783998
 longitude: 6.8732895
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Tönisstraße"
 housenumber: 3

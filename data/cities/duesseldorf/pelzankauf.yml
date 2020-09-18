@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2167742
 longitude: 6.782272600000001
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Corneliusstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.6134513
 longitude: 7.1946289000000005
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Steinstraße"
 housenumber: 11

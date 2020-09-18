@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2551925
 longitude: 8.1682083
-postcode: 59889
+postcode: "59889"
 city: Eslohe
 street: "Tölckestraße"
 housenumber: 6

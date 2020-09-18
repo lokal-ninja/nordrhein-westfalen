@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.256486900000006
 longitude: 8.90806
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Portastraße"
 housenumber: 70c

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2733452
 longitude: 7.914314200000001
-postcode: 49504
+postcode: "49504"
 city: Lotte
 street: "Bahnhofstraße"
 housenumber: 2

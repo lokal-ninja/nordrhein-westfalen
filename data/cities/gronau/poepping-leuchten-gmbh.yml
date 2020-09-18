@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.2094266
 longitude: 7.0547279000000005
-postcode: 48599
+postcode: "48599"
 city: Gronau
 street: "Borsigstraße"
 housenumber: 23

@@ -1,12 +1,12 @@
-id: 1375989751
+id: 1376067510
 type: node
 shop: Supermarkt
-latitude: 52.059151400000005
-longitude: 8.5167766
-postcode: 33613
+latitude: 51.993486000000004
+longitude: 8.6040486
+postcode: "33699"
 city: Bielefeld
-street: "Babenhauser Straße"
-housenumber: 18
+street: "Detmolder Straße"
+housenumber: 550
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00;Su, PH off"
 website: ""

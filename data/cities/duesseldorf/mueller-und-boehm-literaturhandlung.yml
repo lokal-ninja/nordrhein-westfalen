@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.226178600000004
 longitude: 6.7748857000000005
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Bolkerstraße"
 housenumber: 53

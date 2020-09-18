@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.5793015
 longitude: 7.050973600000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hagenstraße"
 housenumber: 29

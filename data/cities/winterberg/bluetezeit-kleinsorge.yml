@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.248291800000004
 longitude: 8.4816687
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hochsauerlandstraße"
 housenumber: 68

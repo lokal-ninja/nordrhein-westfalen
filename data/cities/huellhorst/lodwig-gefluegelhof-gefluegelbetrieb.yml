@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.26170930000001
 longitude: 8.7172762
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "An der Poggenmühle"
 housenumber: 26

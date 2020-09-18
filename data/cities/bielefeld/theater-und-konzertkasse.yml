@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.0210488
 longitude: 8.5338385
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Altstädter Kirchstraße"
 housenumber: 14

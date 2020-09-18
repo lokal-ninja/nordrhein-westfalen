@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.913204900000004
 longitude: 8.6575547
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Bokelfenner Straße"
 housenumber: 8

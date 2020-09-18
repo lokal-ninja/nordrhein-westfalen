@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.612078200000006
 longitude: 7.199060200000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Kaiserwall"
 housenumber: 15

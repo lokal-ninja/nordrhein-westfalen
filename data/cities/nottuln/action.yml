@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.92641020000001
 longitude: 7.3544999
-postcode: 48301
+postcode: "48301"
 city: Nottuln
 street: "Dülmener Straße"
 housenumber: 7

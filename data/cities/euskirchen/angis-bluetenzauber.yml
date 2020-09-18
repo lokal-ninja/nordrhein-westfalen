@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.684021
 longitude: 6.8196634000000005
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Großbüllesheimer Straße"
 housenumber: 23

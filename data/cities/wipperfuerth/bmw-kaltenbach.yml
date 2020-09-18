@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1251522
 longitude: 7.360746000000001
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Obergraben"
 housenumber: 2

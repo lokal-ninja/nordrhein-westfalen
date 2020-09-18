@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.192199200000005
 longitude: 7.010699600000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Kaiserstraße"
 housenumber: 24

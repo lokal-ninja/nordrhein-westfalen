@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.928327100000004
 longitude: 6.9107343000000006
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 236

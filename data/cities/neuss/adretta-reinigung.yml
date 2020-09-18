@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.1997805
 longitude: 6.691213
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Glockhammer"
 housenumber: 18-20

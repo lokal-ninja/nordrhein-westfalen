@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.6143658
 longitude: 7.5236596
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Lange Straße"
 housenumber: 18

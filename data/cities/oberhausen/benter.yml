@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4739377
 longitude: 6.8676411
-postcode: 46047
+postcode: "46047"
 city: Oberhausen
 street: "Virchowstraße"
 housenumber: 51

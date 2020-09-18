@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.1755396
 longitude: 6.832324300000001
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bahlenstraße"
 housenumber: 189

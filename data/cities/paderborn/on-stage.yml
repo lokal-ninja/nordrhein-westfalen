@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7161169
 longitude: 8.743532700000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.9917524
 longitude: 8.797561100000001
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Friedrichstraße"
 housenumber: 29

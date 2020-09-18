@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.6566023
 longitude: 6.9512654000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Plaggenbahn"
 housenumber: 2

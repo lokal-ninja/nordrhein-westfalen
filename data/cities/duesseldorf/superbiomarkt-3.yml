@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2324275
 longitude: 6.744684
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Theo-Champion-Straße"
 housenumber: 9

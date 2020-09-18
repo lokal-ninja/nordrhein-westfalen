@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.6615326
 longitude: 6.963477
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 22

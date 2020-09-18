@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.458811000000004
 longitude: 7.013200400000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Viehofer Straße"
 housenumber: 23

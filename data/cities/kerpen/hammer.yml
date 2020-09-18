@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.881103100000004
 longitude: 6.689364500000001
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Am Falder"
 housenumber: 24a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.664473
 longitude: 6.773556500000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Rüdesheimer Ring"
 housenumber: 145

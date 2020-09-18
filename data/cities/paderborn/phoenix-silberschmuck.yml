@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.719111500000004
 longitude: 8.748725400000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Königstraße"
 housenumber: 35

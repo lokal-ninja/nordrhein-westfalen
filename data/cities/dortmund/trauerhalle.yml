@@ -3,7 +3,7 @@ type: way
 shop: Steine
 latitude: 51.4777399
 longitude: 7.422853000000001
-postcode: 44227
+postcode: "44227"
 city: Dortmund
 street: "Menglinghauser Straße"
 housenumber: 27

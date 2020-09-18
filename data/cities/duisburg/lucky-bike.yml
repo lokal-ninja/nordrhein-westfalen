@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4309184
 longitude: 6.774443300000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Mercatorstraße"
 housenumber: 15

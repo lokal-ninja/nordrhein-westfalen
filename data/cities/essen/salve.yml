@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.427112900000004
 longitude: 7.0024246
-postcode: 45131
+postcode: "45131"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 200

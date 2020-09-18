@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.869096000000006
 longitude: 8.014450400000001
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Ziegelwerkstraße"
 housenumber: 30

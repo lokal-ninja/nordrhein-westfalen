@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.0100555
 longitude: 8.4126138
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Patthorster Straße"
 housenumber: 4

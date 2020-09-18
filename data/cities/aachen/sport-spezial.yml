@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 50.7732856
 longitude: 6.0781945
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Venn"
 housenumber: 5

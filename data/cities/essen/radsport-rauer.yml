@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.423188
 longitude: 7.086341600000001
-postcode: 45277
+postcode: "45277"
 city: Essen
 street: "Überruhrstraße"
 housenumber: 255

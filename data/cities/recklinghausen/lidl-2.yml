@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6092567
 longitude: 7.2733322000000005
-postcode: 45665
+postcode: "45665"
 city: Recklinghausen
 street: "Sachsenstraße"
 housenumber: 101b

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6826129
 longitude: 7.1520327
-postcode: 53177
+postcode: "53177"
 city: Bonn
 street: "Am Fronhof"
 housenumber: 9

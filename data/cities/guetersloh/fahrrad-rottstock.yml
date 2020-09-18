@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9004751
 longitude: 8.3731832
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Unter den Ulmen"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.155062400000006
 longitude: 6.355778900000001
-postcode: 41179
+postcode: "41179"
 city: Mönchengladbach
 street: "Hardter Straße"
 housenumber: 133

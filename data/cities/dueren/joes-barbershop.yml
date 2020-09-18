@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8016287
 longitude: 6.4845801000000005
-postcode: 
+postcode: ""
 city: Düren
 street: "Markt"
 housenumber: 26

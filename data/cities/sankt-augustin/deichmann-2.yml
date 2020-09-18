@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.777867
 longitude: 7.1868262000000005
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Rathausallee"
 housenumber: 16

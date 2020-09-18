@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.297059000000004
 longitude: 6.8497262
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Marktplatz"
 housenumber: 21

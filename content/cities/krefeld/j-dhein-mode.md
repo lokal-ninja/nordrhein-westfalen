@@ -1,4 +1,4 @@
 ---
-title: "J.Dhein Mode"
+title: "J. Dhein Mode"
 url: /krefeld/j-dhein-mode/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.492167200000004
 longitude: 7.3097528
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Werner Hellweg"
 housenumber: 520

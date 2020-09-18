@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.118743200000004
 longitude: 7.394709400000001
-postcode: 48565
+postcode: "48565"
 city: Steinfurt
 street: "Altenberger Straße"
 housenumber: 2

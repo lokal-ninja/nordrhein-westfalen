@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.2058842
 longitude: 6.8332991000000005
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Am Hackenbruch"
 housenumber: 20

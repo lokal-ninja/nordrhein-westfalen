@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4385065
 longitude: 6.5313498
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Niederrheinallee"
 housenumber: 323

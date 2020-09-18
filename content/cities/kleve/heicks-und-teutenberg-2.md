@@ -1,4 +1,4 @@
 ---
-title: "Heicks und Teutenberg"
+title: "Heicks & Teutenberg"
 url: /kleve/heicks-und-teutenberg-2/
 ---

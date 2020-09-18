@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.934207300000004
 longitude: 9.104500900000001
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Flachsmarktstraße"
 housenumber: 23

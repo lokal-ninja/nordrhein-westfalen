@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 51.4716018
 longitude: 7.320642
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 34

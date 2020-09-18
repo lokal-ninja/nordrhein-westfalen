@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4283287
 longitude: 7.1644905
-postcode: 44879
+postcode: "44879"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 795

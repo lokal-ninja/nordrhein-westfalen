@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.019288800000005
 longitude: 8.530937900000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Welle"
 housenumber: 15

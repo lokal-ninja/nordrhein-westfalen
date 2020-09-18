@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.7886266
 longitude: 6.1393531
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Kavarinerstraße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.6264229
 longitude: 6.964949300000001
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Kleine Heeg"
 housenumber: 42

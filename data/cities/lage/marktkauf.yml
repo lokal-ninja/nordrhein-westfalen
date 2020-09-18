@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.9875996
 longitude: 8.8044197
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Heidensche Straße"
 housenumber: 68

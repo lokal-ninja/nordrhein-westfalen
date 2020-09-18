@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.131854600000004
 longitude: 6.450894300000001
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Burgfreiheit"
 housenumber: 120

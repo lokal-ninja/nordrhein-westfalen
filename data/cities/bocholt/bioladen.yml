@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.831851
 longitude: 6.6151442000000005
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 34

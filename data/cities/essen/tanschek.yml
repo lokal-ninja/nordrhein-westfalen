@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.378148100000004
 longitude: 6.9360979
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Im Teelbruch"
 housenumber: 69

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.660274400000006
 longitude: 8.7303574
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Stadtweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8077191
 longitude: 6.1486117
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Schumanstraße"
 housenumber: 2

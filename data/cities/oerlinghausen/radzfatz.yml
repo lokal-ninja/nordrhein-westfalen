@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.972648500000005
 longitude: 8.725286800000001
-postcode: 33813
+postcode: "33813"
 city: Oerlinghausen
 street: "Lagesche Straße"
 housenumber: 100

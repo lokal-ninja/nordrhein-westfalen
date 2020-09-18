@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2321814
 longitude: 6.6198822
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Neusser Straße"
 housenumber: 12

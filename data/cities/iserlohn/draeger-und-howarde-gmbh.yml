@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.374710500000006
 longitude: 7.687460700000001
-postcode: 58638
+postcode: "58638"
 city: Iserlohn
 street: "Hans-Böckler-Straße"
 housenumber: 72

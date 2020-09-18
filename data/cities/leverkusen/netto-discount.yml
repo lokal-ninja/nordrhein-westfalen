@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.0600789
 longitude: 7.003639700000001
-postcode: 51379
+postcode: "51379"
 city: Leverkusen
 street: "Kölner Straße"
 housenumber: 122

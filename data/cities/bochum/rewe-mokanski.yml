@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4650723
 longitude: 7.1496211
-postcode: 44867
+postcode: "44867"
 city: Bochum
 street: "Westenfelder Straße"
 housenumber: 202

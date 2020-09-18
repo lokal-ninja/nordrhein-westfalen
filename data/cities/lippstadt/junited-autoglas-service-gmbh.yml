@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.685178900000004
 longitude: 8.3627903
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Lipperoder Straße"
 housenumber: 71A

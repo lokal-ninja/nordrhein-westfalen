@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.475182100000005
 longitude: 6.972874600000001
-postcode: 45356
+postcode: "45356"
 city: Essen
 street: "Bocholder Straße"
 housenumber: 276

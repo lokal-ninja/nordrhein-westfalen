@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2171554
 longitude: 8.759233400000001
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Brückenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.0262492
 longitude: 8.534349800000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Zimmerstraße"
 housenumber: 8

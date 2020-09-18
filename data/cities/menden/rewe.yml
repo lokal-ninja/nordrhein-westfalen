@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.416322300000004
 longitude: 7.829117900000001
-postcode: 58710
+postcode: "58710"
 city: Menden
 street: "Lendringser Hauptstraße"
 housenumber: 59-63

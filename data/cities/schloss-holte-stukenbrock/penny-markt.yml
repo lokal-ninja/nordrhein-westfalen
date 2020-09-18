@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.910245800000006
 longitude: 8.607949000000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Sender Straße"
 housenumber: 8

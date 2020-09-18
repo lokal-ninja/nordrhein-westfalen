@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0280282
 longitude: 7.2649707
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Wipperfürther Straße"
 housenumber: 304b

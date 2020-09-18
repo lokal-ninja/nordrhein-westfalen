@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.451972500000004
 longitude: 8.835276
-postcode: 34431
+postcode: "34431"
 city: Marsberg
 street: "An der Ziegelei"
 housenumber: 49

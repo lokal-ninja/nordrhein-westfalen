@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3518405
 longitude: 7.4168453
-postcode: 58135
+postcode: "58135"
 city: Hagen
 street: "Mopsweg"
 housenumber: 6

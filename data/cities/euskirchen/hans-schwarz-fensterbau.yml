@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 50.6061886
 longitude: 6.843862100000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Am Kreuzberg"
 housenumber: 8

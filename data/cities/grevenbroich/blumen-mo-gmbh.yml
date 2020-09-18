@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.0480456
 longitude: 6.5743061
-postcode: 41517
+postcode: "41517"
 city: Grevenbroich
 street: "An dem Kuchenacker"
 housenumber: 1

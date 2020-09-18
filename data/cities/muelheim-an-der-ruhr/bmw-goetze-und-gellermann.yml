@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4364019
 longitude: 6.930266100000001
-postcode: 45472
+postcode: "45472"
 city: Mülheim an der Ruhr
 street: "Alexanderstraße"
 housenumber: 1

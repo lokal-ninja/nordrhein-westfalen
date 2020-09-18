@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6653734
 longitude: 7.119411100000001
-postcode: 45770
+postcode: "45770"
 city: Marl
 street: "Lipper Weg"
 housenumber: 43

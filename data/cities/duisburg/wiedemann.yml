@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3932798
 longitude: 6.656548300000001
-postcode: 47239
+postcode: "47239"
 city: Duisburg
 street: "Düsseldorfer Straße"
 housenumber: 96

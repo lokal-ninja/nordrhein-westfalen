@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.238553700000004
 longitude: 6.779357
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Schwerinstraße"
 housenumber: 4

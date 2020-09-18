@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6142564
 longitude: 7.2000728
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Schaumburgstraße"
 housenumber: 7

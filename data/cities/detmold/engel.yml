@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.93543450000001
 longitude: 8.8851825
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Seminarstraße"
 housenumber: 17

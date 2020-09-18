@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.938390000000005
 longitude: 6.942097400000001
-postcode: 50672
+postcode: "50672"
 city: Köln
 street: "Ehrenstraße"
 housenumber: 

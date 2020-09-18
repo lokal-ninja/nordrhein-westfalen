@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.218344200000004
 longitude: 6.813017400000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Pinienstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6633622
 longitude: 6.7842608
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Karlstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.21206
 longitude: 6.7580726
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Gladbacher Straße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.929024500000004
 longitude: 8.1235701
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Warendorfer Straße"
 housenumber: 1

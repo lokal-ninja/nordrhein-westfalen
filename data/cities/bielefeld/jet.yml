@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.0328522
 longitude: 8.5527853
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Eckendorfer Straße"
 housenumber: 14a

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3013533
 longitude: 6.7354227
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Kaiserswerther Markt"
 housenumber: 31

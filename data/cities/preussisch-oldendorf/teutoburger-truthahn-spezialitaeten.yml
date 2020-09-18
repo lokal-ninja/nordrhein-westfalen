@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.340363100000005
 longitude: 8.4780355
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Hafenstraße"
 housenumber: 31

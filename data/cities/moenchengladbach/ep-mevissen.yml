@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 51.130848300000004
 longitude: 6.4150812
-postcode: 41189
+postcode: "41189"
 city: Mönchengladbach
 street: "Trompeterallee"
 housenumber: 8

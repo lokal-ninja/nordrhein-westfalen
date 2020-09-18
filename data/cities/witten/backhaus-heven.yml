@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.442211300000004
 longitude: 7.3102029
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Hellweg"
 housenumber: 51

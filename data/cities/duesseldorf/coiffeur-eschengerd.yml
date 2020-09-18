@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.237948300000006
 longitude: 6.778501800000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Kaiserswerther Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4091037
 longitude: 7.4744600000000005
-postcode: 58099
+postcode: "58099"
 city: Hagen
 street: "Kabeler Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.713962800000004
 longitude: 8.738474700000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Rathenaustraße"
 housenumber: 85

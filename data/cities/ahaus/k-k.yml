@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.130507
 longitude: 6.9202747
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Gronauer Straße"
 housenumber: 30

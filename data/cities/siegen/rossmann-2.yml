@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9152993
 longitude: 8.011962
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Röntgenstraße"
 housenumber: 15

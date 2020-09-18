@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6165803
 longitude: 8.897057100000001
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Lange Straße"
 housenumber: 40

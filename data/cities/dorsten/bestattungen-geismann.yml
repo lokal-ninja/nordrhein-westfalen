@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.66970430000001
 longitude: 6.978868200000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Burgsdorffstraße"
 housenumber: 1

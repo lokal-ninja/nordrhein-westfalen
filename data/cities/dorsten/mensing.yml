@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6607969
 longitude: 6.9633988
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 3

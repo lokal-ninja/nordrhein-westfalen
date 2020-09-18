@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2262405
 longitude: 6.8574085
-postcode: 40625
+postcode: "40625"
 city: Düsseldorf
 street: "Torfbruchstraße"
 housenumber: 311a

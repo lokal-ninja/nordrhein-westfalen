@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.829692300000005
 longitude: 6.950665000000001
-postcode: 50389
+postcode: "50389"
 city: Wesseling
 street: "Hauptstraße"
 housenumber: 53

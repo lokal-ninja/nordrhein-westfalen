@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6532367
 longitude: 8.2529918
-postcode: 59556
+postcode: "59556"
 city: Lippstadt
 street: "Im Weizenfeld"
 housenumber: 5

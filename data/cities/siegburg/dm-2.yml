@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7989345
 longitude: 7.2077268000000005
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Kaiserstraße"
 housenumber: 38

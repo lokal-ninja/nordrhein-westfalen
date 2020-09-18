@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3037295
 longitude: 6.838959900000001
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "D2-Park"
 housenumber: 2

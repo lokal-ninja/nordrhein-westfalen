@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.132798
 longitude: 8.7294575
-postcode: 32049
+postcode: "32049"
 city: Herford
 street: "Senderstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.594542600000004
 longitude: 7.0866433
-postcode: 53343
+postcode: "53343"
 city: Wachtberg
 street: "Eckendorfer Straße"
 housenumber: 3

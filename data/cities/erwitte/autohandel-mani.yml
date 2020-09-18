@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.61108290000001
 longitude: 8.3307085
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Soester Straße"
 housenumber: 20

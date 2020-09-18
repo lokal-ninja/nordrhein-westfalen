@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.027906300000005
 longitude: 7.5678216
-postcode: 51643
+postcode: "51643"
 city: Gummersbach
 street: "Kaiserstraße"
 housenumber: (;:)

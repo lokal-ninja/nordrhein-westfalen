@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.363855900000004
 longitude: 9.010284500000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "An der Bahn"
 housenumber: 17

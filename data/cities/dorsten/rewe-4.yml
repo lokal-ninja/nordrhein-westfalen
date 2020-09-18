@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.716183
 longitude: 7.0114362
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Am Brauturm"
 housenumber: 17

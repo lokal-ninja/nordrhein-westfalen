@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 51.393833900000004
 longitude: 7.0824312
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 128
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-17:00; PH off"
+opening_hours: "Mo-Fr 08:00-19:30; Sa 06:00-17:00; Su 08:00-17:00; PH off"
 website: ""

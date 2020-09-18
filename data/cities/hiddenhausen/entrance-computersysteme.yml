@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.163621000000006
 longitude: 8.6234625
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Löhner Straße"
 housenumber: 250

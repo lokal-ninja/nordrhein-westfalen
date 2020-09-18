@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.1344147
 longitude: 6.5249955
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Haus - Neuenhoven"
 housenumber: 1

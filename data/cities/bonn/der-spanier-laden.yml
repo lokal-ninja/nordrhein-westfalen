@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.7370807
 longitude: 7.0879826
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Bornheimer Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.258755900000004
 longitude: 7.229228300000001
-postcode: 42289
+postcode: "42289"
 city: Wuppertal
 street: "Lenneper Straße"
 housenumber: 130c

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9220058
 longitude: 6.920661900000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 298

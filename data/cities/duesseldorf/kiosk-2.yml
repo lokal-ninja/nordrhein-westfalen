@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.171828700000006
 longitude: 6.837879200000001
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Bonner Straße"
 housenumber: 95

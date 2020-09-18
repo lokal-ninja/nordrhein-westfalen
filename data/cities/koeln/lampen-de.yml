@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.8564038
 longitude: 7.0918907
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Wilhelm-Ruppert-Straße"
 housenumber: 38

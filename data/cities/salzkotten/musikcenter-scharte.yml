@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.674092300000005
 longitude: 8.6084323
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Thüler Straße"
 housenumber: 4

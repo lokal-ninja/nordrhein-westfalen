@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4815574
 longitude: 7.220170800000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Bongardstraße"
 housenumber: 35

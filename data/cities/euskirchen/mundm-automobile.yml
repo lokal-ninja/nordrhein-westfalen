@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.645928000000005
 longitude: 6.8059905
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Felix-Wankel-Straße"
 housenumber: 27

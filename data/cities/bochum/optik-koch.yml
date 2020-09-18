@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.456654300000004
 longitude: 7.1749555
-postcode: 44869
+postcode: "44869"
 city: Bochum
 street: "Im Kattenhagen"
 housenumber: 14

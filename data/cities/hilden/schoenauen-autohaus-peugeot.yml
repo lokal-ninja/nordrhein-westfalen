@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.169406200000005
 longitude: 6.9047469
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Kleinhülsen"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.675468
 longitude: 8.3463981
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Rathausstraße"
 housenumber: 1

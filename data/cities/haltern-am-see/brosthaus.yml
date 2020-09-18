@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.7435538
 longitude: 7.1877003
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Mühlenstraße"
 housenumber: 4

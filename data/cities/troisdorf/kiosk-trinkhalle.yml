@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.799430400000006
 longitude: 7.1257808
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Grabenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.632989300000006
 longitude: 8.3405476
-postcode: 59597
+postcode: "59597"
 city: Erwitte
 street: "Overhagener Weg"
 housenumber: 46

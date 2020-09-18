@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.82441540000001
 longitude: 6.128893000000001
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Kaiserstraße"
 housenumber: 138

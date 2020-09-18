@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.1129868
 longitude: 8.6592657
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Deichkamp"
 housenumber: 7

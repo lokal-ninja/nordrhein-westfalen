@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.569756500000004
 longitude: 7.673060100000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Kamen Karree"
 housenumber: 5

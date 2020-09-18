@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.14201370000001
 longitude: 8.6158137
-postcode: 32120
+postcode: "32120"
 city: Hiddenhausen
 street: "Obere Talstraße"
 housenumber: 16

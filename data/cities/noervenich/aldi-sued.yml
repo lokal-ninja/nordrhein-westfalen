@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.808975000000004
 longitude: 6.6529192
-postcode: 52388
+postcode: "52388"
 city: Nörvenich
 street: "Am Kreuzberg"
 housenumber: 13

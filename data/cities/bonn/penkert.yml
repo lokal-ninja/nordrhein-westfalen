@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.715524800000004
 longitude: 7.0494295000000005
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 190

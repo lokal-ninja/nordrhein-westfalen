@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4314198
 longitude: 6.7725426
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Am Buchenbaum"
 housenumber: 40-42

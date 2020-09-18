@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.227458500000004
 longitude: 7.203656400000001
-postcode: 42369
+postcode: "42369"
 city: Wuppertal
 street: "Erbschlöer Straße"
 housenumber: 19

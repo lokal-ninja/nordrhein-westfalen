@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.120546700000006
 longitude: 6.888558000000001
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Kirchkuhle"
 housenumber: 4

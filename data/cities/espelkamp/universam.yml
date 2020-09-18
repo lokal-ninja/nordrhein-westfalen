@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.373985100000006
 longitude: 8.6294635
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "Eichendorffstraße"
 housenumber: 3

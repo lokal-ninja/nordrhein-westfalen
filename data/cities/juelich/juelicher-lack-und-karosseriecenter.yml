@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.914251
 longitude: 6.3837098
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Königskamp"
 housenumber: 22

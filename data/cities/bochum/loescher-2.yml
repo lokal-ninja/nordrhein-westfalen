@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.47210260000001
 longitude: 7.2507562000000005
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 248

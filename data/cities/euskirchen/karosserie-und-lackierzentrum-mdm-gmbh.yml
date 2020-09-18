@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.64953190000001
 longitude: 6.819511100000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Rosengarten"
 housenumber: 7-14

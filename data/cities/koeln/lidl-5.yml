@@ -1,12 +1,12 @@
-id: 26710143
+id: 28431132
 type: way
 shop: Supermarkt
-latitude: 50.950991900000005
-longitude: 6.9082955
-postcode: 50825
+latitude: 50.9571258
+longitude: 6.9393492000000006
+postcode: "50823"
 city: Köln
-street: "Leyendeckerstraße"
-housenumber: 2a
+street: "Hornstraße"
+housenumber: 88
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su, PH off"
+opening_hours: ""
 website: ""

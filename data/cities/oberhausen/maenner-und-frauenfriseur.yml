@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4767389
 longitude: 6.863890400000001
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Mülheimer Straße"
 housenumber: 86

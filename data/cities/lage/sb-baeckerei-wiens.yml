@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9954393
 longitude: 8.807035
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Triftenstraße"
 housenumber: 2

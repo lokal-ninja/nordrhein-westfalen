@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.745916
 longitude: 7.1903945
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Münsterstraße"
 housenumber: 8-10

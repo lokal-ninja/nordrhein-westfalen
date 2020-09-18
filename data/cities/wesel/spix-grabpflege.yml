@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.662193900000005
 longitude: 6.622186
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Caspar-Baur-Straße"
 housenumber: 20

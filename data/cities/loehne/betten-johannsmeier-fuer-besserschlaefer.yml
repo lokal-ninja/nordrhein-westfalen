@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.21575910000001
 longitude: 8.712164900000001
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Lübbecker Straße"
 housenumber: 78

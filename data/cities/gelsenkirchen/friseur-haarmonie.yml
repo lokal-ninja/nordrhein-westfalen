@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.496808400000006
 longitude: 7.1242562000000005
-postcode: 45886
+postcode: "45886"
 city: Gelsenkirchen
 street: "Festweg"
 housenumber: 7

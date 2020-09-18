@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3980722
 longitude: 7.1819591
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: ""
 housenumber: 1

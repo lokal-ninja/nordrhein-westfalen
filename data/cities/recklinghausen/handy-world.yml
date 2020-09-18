@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.615033800000006
 longitude: 7.200076900000001
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Kunibertistraße"
 housenumber: 23

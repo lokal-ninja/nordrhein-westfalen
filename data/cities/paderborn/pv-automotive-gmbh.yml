@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.735055300000006
 longitude: 8.7776336
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Steubenstraße"
 housenumber: 47

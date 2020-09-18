@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.4636111
 longitude: 7.002150800000001
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Segerothstraße"
 housenumber: 87

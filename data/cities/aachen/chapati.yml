@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.7744772
 longitude: 6.0831141
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Schmiedstraße"
 housenumber: 22

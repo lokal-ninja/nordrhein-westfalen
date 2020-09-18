@@ -1,12 +1,12 @@
-id: 152097447
+id: 131643011
 type: way
 shop: Supermarkt
-latitude: 50.9889037
-longitude: 7.001476200000001
-postcode: 51061
+latitude: 50.8718926
+longitude: 7.013137400000001
+postcode: "50999"
 city: Köln
-street: "Düsseldorfer Straße"
-housenumber: 336
+street: "Am Feldrain"
+housenumber: 38
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: ""
+website: ""

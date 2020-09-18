@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.952245700000006
 longitude: 8.574605100000001
-postcode: 33689
+postcode: "33689"
 city: Bielefeld
 street: "Industriestraße"
 housenumber: 6

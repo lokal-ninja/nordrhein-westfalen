@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9562212
 longitude: 6.918766300000001
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Landmannstraße"
 housenumber: 23

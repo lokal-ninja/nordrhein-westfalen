@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.652438800000006
 longitude: 6.8012772
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Roitzheimer Straße"
 housenumber: 117

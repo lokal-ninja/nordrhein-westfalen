@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.6068318
 longitude: 6.3067530000000005
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Humboldtstraße"
 housenumber: 15

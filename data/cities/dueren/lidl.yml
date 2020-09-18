@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.787511
 longitude: 6.489293300000001
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Nideggener Straße"
 housenumber: 215-217

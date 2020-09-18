@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 51.4157608
 longitude: 7.1786922
-postcode: 45529
+postcode: "45529"
 city: Hattingen
 street: "Rauendahlstraße"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Su"
+opening_hours: ""
 website: ""

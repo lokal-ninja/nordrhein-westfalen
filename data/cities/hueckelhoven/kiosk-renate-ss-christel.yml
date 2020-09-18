@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.059403200000006
 longitude: 6.2220673
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Von-Dechen-Straße"
 housenumber: 11

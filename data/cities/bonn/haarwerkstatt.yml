@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.735215200000006
 longitude: 7.1009988
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Acherstraße"
 housenumber: 8
-phone: ""
-opening_hours: ""
+phone: "+49 228 9086978"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
 website: ""

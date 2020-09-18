@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7883044
 longitude: 6.103176100000001
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Am Gut Wolf"
 housenumber: 10

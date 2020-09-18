@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.7122462
 longitude: 8.7989862
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Beverunger Weg"
 housenumber: 3

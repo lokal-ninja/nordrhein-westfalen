@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.8798186
 longitude: 6.9635642
-postcode: 50997
+postcode: "50997"
 city: Köln
 street: "Rodenkirchener Straße"
 housenumber: 84

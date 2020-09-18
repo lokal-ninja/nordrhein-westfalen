@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.907254
 longitude: 6.963977000000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Bonner Straße"
 housenumber: 

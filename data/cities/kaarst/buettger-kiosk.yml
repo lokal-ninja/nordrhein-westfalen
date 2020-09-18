@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.195415000000004
 longitude: 6.6085295
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Rathausplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.5812795
 longitude: 6.304016000000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Eicherscheid"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.878871100000005
 longitude: 8.0339653
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Giersbergstraße"
 housenumber: 37

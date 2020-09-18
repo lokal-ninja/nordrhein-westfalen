@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.4535482
 longitude: 7.2331351
-postcode: 44799
+postcode: "44799"
 city: Bochum
 street: "Brenscheder Straße"
 housenumber: 38a

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.90942750000001
 longitude: 6.8070887
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 124-126

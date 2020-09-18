@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.659452
 longitude: 6.7904299
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Wilhelmstraße"
 housenumber: 11

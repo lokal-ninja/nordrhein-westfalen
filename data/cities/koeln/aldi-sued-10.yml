@@ -1,12 +1,12 @@
-id: 41860867
+id: 32343354
 type: way
 shop: Supermarkt
-latitude: 50.9446549
-longitude: 6.998845800000001
-postcode: 51103
+latitude: 51.001571500000004
+longitude: 6.9873984
+postcode: "51061"
 city: Köln
-street: "Wipperfürther Straße"
-housenumber: 35
+street: "Roggendorfstraße"
+housenumber: 76
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/"

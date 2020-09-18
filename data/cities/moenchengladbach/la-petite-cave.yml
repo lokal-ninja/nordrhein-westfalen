@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.1198892
 longitude: 6.4640424
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Kölner Straße"
 housenumber: 345

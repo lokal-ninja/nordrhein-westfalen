@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.9413379
 longitude: 9.091633
-postcode: 32825
+postcode: "32825"
 city: Blomberg
 street: "Langer Steinweg"
 housenumber: 27

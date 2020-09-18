@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.1024035
 longitude: 7.6216078000000005
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Hansaring"
 housenumber: 82

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.4797895
 longitude: 7.2213786
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Huestraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.031758700000005
 longitude: 8.6049892
-postcode: 33719
+postcode: "33719"
 city: Bielefeld
 street: "Salzufler Straße"
 housenumber: 8

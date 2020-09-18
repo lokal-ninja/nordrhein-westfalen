@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.196682
 longitude: 6.694500700000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Oberstraße"
 housenumber: 96

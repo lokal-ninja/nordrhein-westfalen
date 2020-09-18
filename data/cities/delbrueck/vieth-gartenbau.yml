@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.7370535
 longitude: 8.6181736
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Bentfelder Straße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2389269
 longitude: 6.7794442
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Schwerinstraße"
 housenumber: 5

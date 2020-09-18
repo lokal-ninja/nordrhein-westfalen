@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.656893700000005
 longitude: 6.613727600000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Goldstraße"
 housenumber: 3

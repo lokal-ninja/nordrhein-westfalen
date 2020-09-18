@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.09301000000001
 longitude: 6.8889512
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Krischerstraße"
 housenumber: 10

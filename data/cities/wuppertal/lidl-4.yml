@@ -1,12 +1,12 @@
-id: 116530420
-type: way
+id: 7837012139
+type: node
 shop: Supermarkt
-latitude: 51.285197100000005
-longitude: 7.2067052
-postcode: 42281
+latitude: 51.274768300000005
+longitude: 7.1233703
+postcode: "42113"
 city: Wuppertal
-street: "Märkische Straße"
-housenumber: 43
+street: "Nevigeser Straße"
+housenumber: 170
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+website: ""

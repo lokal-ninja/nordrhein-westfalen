@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.287323400000005
 longitude: 7.2325496000000005
-postcode: 42277
+postcode: "42277"
 city: Wuppertal
 street: "Wittener Straße"
 housenumber: 32

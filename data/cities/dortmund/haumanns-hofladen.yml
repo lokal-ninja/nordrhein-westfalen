@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.5360299
 longitude: 7.5872627
-postcode: 44319
+postcode: "44319"
 city: Dortmund
 street: "Eschenwaldstraße"
 housenumber: 45

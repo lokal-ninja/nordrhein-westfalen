@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.441174600000004
 longitude: 6.414434300000001
-postcode: 47647
+postcode: "47647"
 city: Kerken
 street: "Umgehungsstraße"
 housenumber: 2

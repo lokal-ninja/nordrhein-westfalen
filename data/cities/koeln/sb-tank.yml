@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.972658100000004
 longitude: 6.904513400000001
-postcode: 50827
+postcode: "50827"
 city: Köln
 street: "Rochusstraße"
 housenumber: 353

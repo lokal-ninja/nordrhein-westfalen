@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2727201
 longitude: 8.854744700000001
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Lübbecker Straße"
 housenumber: 243

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.7035938
 longitude: 8.769891300000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

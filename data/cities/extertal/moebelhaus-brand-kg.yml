@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.1089295
 longitude: 9.0794668
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Kirchstraße"
 housenumber: 17

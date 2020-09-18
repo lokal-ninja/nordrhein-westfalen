@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9373359
 longitude: 6.9782463
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Justinianstraße"
 housenumber: 2

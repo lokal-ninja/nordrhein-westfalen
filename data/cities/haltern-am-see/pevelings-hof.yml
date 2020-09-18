@@ -1,12 +1,12 @@
 id: 2481353198
 type: node
 shop: Hofladen
-latitude: 51.701663200000006
-longitude: 7.0640979
-postcode: 45721
+latitude: 51.70166570000001
+longitude: 7.064072400000001
+postcode: "45721"
 city: Haltern am See
 street: "Kusenhorster Straße"
 housenumber: 17
 phone: "+49 2360 90069"
-opening_hours: "Tu-Sa 09:00-18:00"
+opening_hours: "We-Sa 09:00-17:00; Su-Tu off; PH off"
 website: "http://www.pevelings-hof.de/"

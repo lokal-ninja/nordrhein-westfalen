@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.99686680000001
 longitude: 6.9141902
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "August-Haas-Straße"
 housenumber: 16

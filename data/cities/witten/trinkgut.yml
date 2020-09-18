@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.441819800000005
 longitude: 7.348843100000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Dortmunder Straße"
 housenumber: 19

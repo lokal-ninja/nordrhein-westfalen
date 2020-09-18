@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.535187500000006
 longitude: 7.689660900000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Schäferstraße"
 housenumber: 1

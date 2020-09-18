@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.917565
 longitude: 6.9604634
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Bonner Straße"
 housenumber: 66

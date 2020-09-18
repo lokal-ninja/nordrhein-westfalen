@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1099733
 longitude: 6.8220160000000005
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Roseller Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.73754580000001
 longitude: 6.2869839
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Bahnhofstraße"
 housenumber: 4-5

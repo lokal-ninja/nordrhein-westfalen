@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1230011
 longitude: 6.8945083
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Geschwister-Scholl-Straße"
 housenumber: 55

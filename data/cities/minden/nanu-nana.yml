@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.2901072
 longitude: 8.9197357
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Bäckerstraße"
 housenumber: 44-46

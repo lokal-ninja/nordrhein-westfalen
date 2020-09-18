@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3988748
 longitude: 7.1835135
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Obermarkt"
 housenumber: 13a

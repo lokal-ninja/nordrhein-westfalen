@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.6635586
 longitude: 7.636237800000001
-postcode: 59368
+postcode: "59368"
 city: Werne
 street: "Bonenstraße"
 housenumber: 14

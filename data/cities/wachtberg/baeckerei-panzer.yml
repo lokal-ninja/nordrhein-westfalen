@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.643660800000006
 longitude: 7.1805177
-postcode: 53343
+postcode: "53343"
 city: Wachtberg
 street: "Konrad-Adenauer-Straße"
 housenumber: 69

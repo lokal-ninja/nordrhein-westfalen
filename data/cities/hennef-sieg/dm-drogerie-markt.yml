@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.728044800000006
 longitude: 7.3709749
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Pantaleon-Schmitz-Platz"
 housenumber: 5-7

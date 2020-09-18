@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.5009201
 longitude: 7.2617338
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Harpener Feld"
 housenumber: 14

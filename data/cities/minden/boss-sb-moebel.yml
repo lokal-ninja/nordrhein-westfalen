@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.30921480000001
 longitude: 8.8420932
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Sollingweg"
 housenumber: 32

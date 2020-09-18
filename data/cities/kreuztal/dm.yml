@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9603425
 longitude: 7.9919286000000005
-postcode: 57223
+postcode: "57223"
 city: Kreuztal
 street: "Marburger Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4645555
 longitude: 6.7287403
-postcode: 47119
+postcode: "47119"
 city: Duisburg
 street: "Florastraße"
 housenumber: 34

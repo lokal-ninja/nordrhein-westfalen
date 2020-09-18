@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8314144
 longitude: 6.6105236000000005
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Welfenstraße"
 housenumber: 21

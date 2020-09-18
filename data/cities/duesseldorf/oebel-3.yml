@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.175515700000005
 longitude: 6.871247
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Hasselsstraße"
 housenumber: 60

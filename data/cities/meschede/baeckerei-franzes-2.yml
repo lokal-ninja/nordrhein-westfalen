@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3342985
 longitude: 8.161638100000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Olper Straße"
 housenumber: 18

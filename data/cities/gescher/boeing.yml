@@ -3,10 +3,10 @@ type: node
 shop: Farben
 latitude: 51.9568032
 longitude: 7.0104183
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Fabrikstraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:30"
 website: ""

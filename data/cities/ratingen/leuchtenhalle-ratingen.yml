@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 51.305722900000006
 longitude: 6.8351914
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Halskestraße"
 housenumber: 24

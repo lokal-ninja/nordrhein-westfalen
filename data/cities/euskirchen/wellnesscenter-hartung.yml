@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.656181600000004
 longitude: 6.814908300000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Bonner Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.3933259
 longitude: 8.6249698
-postcode: 32339
+postcode: "32339"
 city: Espelkamp
 street: "In der Tütenbeke"
 housenumber: 38

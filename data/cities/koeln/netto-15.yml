@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.945035700000005
 longitude: 6.908969000000001
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Oskar-Jäger-Straße"
 housenumber: 54

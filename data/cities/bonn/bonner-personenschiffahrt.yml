@@ -3,7 +3,7 @@ type: way
 shop: Tickets
 latitude: 50.7353461
 longitude: 7.1081493
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Brassertufer"
 housenumber: 

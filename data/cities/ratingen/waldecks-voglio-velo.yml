@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3125434
 longitude: 6.8250469
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Jägerhofstraße"
 housenumber: 39

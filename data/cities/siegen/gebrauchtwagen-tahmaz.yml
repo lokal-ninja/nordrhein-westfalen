@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.914743800000004
 longitude: 8.004217
-postcode: 57078
+postcode: "57078"
 city: Siegen
 street: "Sohlbacher Straße"
 housenumber: 76

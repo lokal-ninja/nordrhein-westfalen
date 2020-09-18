@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6616335
 longitude: 6.8388882
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Etruskerstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.2637152
 longitude: 6.5484235
-postcode: 47877
+postcode: "47877"
 city: Willich
 street: "Bahnstraße"
 housenumber: 10

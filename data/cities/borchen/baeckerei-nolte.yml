@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6531631
 longitude: 8.7014178
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Walburgisstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5956647
 longitude: 7.1319751
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Am Technologiepark"
 housenumber: 1

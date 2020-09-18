@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.1692644
 longitude: 6.685049800000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 490

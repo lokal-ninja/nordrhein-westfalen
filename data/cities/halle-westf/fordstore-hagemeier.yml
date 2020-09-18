@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.03376230000001
 longitude: 8.3960874
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Werkstraße"
 housenumber: 1

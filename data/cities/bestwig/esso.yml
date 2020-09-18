@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.3676794
 longitude: 8.430577600000001
-postcode: 59909
+postcode: "59909"
 city: Bestwig
 street: "Briloner Straße"
 housenumber: 51

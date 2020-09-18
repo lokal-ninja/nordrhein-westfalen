@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.073705800000006
 longitude: 8.3133841
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: ""
 housenumber: 

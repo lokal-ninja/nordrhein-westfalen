@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.6329841
 longitude: 6.6667725
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Kurierweg"
 housenumber: 30

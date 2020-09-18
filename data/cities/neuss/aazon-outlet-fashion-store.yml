@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2008078
 longitude: 6.6879206
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Niederstraße"
 housenumber: 10

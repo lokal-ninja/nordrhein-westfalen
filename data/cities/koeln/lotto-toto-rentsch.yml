@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 50.9167257
 longitude: 6.9061047
-postcode: 50935
+postcode: "50935"
 city: Köln
 street: "Hermeskeiler Straße"
 housenumber: 20A

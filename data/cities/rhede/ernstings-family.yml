@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.8373317
 longitude: 6.695829900000001
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Molkereihof"
 housenumber: 6

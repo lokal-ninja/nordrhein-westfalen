@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.193861600000005
 longitude: 8.531495300000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Am Waltenberg"
 housenumber: 14

@@ -1,4 +1,4 @@
 ---
-title: "BUTLERS"
+title: "Butlers"
 url: /duesseldorf/butlers-2/
 ---

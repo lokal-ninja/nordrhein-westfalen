@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1329329
 longitude: 6.451757300000001
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Burgfreiheit"
 housenumber: 94

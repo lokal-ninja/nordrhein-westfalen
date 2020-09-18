@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.6434756
 longitude: 6.808207400000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Caspar-Müller-Straße"
 housenumber: 34a

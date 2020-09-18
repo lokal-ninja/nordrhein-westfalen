@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.735122000000004
 longitude: 7.101746800000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Markt"
 housenumber: 13-21

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.3719856
 longitude: 7.2911163000000005
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel-Hiddinghausen
 street: "Wittener Straße"
 housenumber: 292

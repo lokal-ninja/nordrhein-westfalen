@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.42154
 longitude: 9.066379000000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Neuenknicker Straße"
 housenumber: 36

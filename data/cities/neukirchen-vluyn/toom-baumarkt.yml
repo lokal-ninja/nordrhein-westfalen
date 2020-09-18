@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.434528500000006
 longitude: 6.5464814
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Inneboltstraße"
 housenumber: 99

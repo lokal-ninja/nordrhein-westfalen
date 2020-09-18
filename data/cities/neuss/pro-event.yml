@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.218985100000005
 longitude: 6.6529451
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Christian-Schaurte-Straße"
 housenumber: 80

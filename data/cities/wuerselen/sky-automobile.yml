@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.822277400000004
 longitude: 6.126818
-postcode: 52146
+postcode: "52146"
 city: Würselen
 street: "Aachener Straße"
 housenumber: 27a

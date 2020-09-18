@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.129932000000004
 longitude: 8.6691009
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Goebenstraße"
 housenumber: 90

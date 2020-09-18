@@ -1,12 +1,12 @@
 id: 1604597813
 type: node
 shop: Supermarkt
-latitude: 50.5452402
-longitude: 6.5731999000000005
-postcode: 53925
+latitude: 50.545238100000006
+longitude: 6.5735123
+postcode: "53925"
 city: Kall
 street: "Hüttenstraße"
 housenumber: 98
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00;Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/kall/huettenstr-98.html"

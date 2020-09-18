@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.6280471
 longitude: 6.9638263
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Römerkanal"
 housenumber: 76

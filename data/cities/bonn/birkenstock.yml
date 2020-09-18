@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.735461400000005
 longitude: 7.101073700000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Markt"
 housenumber: 37

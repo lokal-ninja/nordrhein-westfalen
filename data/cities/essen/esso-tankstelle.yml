@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.45861360000001
 longitude: 7.073637700000001
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Am Zehnthof"
 housenumber: 204

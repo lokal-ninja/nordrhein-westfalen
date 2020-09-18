@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.7753249
 longitude: 7.9294694
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Gersteinstraße"
 housenumber: 6

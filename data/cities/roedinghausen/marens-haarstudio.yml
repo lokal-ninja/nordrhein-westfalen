@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.2476118
 longitude: 8.493869400000001
-postcode: 32289
+postcode: "32289"
 city: Rödinghausen
 street: "Bünder Straße"
 housenumber: 63

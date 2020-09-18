@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.219388
 longitude: 6.632335100000001
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Königsberger Straße"
 housenumber: 4

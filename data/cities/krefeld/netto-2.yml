@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3406037
 longitude: 6.655603200000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Hafenstraße"
 housenumber: 58

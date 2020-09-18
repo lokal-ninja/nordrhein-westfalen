@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.633036800000006
 longitude: 6.8200459
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Wegastraße"
 housenumber: 50

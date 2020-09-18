@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0022055
 longitude: 6.5371658
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Heidklift"
 housenumber: 7

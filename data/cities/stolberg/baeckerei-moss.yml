@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7311473
 longitude: 6.2178018
-postcode: 52223
+postcode: "52223"
 city: Stolberg
 street: "Wilhelm-Pitz-Straße"
 housenumber: 1

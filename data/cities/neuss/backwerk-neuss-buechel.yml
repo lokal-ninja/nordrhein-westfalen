@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1984815
 longitude: 6.6919693
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Büchel"
 housenumber: 5-7

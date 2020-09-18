@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.606067800000005
 longitude: 6.2999073
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Hauptstraße"
 housenumber: 41

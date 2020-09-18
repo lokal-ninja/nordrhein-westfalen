@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5626224
 longitude: 8.3302083
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Berger Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.0344002
 longitude: 8.5337793
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Ernst-Rein-Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.534335600000006
 longitude: 7.6845739
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Westring"
 housenumber: 1

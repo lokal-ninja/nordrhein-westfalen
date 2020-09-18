@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8977245
 longitude: 7.186729000000001
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Bruchstraße"
 housenumber: 9

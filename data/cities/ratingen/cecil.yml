@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2970899
 longitude: 6.849824000000001
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Marktplatz"
 housenumber: 20

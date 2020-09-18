@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.19974130000001
 longitude: 7.0752825
-postcode: 42653
+postcode: "42653"
 city: Solingen
 street: "Wuppertaler Straße"
 housenumber: 112

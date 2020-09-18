@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.4325252
 longitude: 8.6155525
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Gerichtsstraße"
 housenumber: 9

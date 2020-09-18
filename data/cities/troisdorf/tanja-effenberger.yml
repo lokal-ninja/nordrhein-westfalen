@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.7732449
 longitude: 7.0938891
-postcode: 53844
+postcode: "53844"
 city: Troisdorf
 street: "Siegstraße"
 housenumber: 16c

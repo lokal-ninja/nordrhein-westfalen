@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.049748
 longitude: 7.4825755
-postcode: 48341
+postcode: "48341"
 city: Altenberge
 street: "An der Alten Molkerei"
 housenumber: 9

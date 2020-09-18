@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.30127340000001
 longitude: 6.736106400000001
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "An Sankt Swidbert"
 housenumber: 4

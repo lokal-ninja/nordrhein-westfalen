@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0266985
 longitude: 8.5347341
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 33

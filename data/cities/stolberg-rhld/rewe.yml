@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.763273600000005
 longitude: 6.2854649
-postcode: 52224
+postcode: "52224"
 city: Stolberg (Rhld.)
 street: "Gressenicher Straße"
 housenumber: 111

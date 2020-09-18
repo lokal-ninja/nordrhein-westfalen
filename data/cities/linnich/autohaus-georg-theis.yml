@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9791133
 longitude: 6.2559519
-postcode: 52441
+postcode: "52441"
 city: Linnich
 street: "Aachener Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1002838
 longitude: 6.7190764000000005
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Bergheimer Straße"
 housenumber: 113

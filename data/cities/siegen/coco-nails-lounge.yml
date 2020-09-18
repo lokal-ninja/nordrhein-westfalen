@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8746395
 longitude: 8.0182122
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Bahnhofstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.1129954
 longitude: 7.3880441
-postcode: 51688
+postcode: "51688"
 city: Wipperfürth
 street: "Gladbacher Straße"
 housenumber: 18

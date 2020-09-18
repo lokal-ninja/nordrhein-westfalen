@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.662974500000004
 longitude: 7.756108800000001
-postcode: 59077
+postcode: "59077"
 city: Hamm
 street: "Dortmunder Straße"
 housenumber: 118

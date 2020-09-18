@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.9042589
 longitude: 7.6511008
-postcode: 48165
+postcode: "48165"
 city: Münster
 street: "Glasuritstraße"
 housenumber: 2-4

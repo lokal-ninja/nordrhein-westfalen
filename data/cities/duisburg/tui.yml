@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.4326348
 longitude: 6.768102900000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Claubergstraße"
 housenumber: 1-3

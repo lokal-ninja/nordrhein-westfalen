@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.459442800000005
 longitude: 7.0123575
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Rottstraße"
 housenumber: 10

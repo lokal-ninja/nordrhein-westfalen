@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.932478200000006
 longitude: 7.2849433
-postcode: 51491
+postcode: "51491"
 city: Overath
 street: "Hauptstraße"
 housenumber: 32

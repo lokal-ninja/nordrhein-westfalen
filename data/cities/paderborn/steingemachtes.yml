@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.7430236
 longitude: 8.772590300000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 190

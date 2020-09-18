@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.688351600000004
 longitude: 7.1509062000000005
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Bonner Straße"
 housenumber: 65

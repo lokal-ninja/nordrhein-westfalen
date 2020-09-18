@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1987387
 longitude: 6.710432900000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Langemarckstraße"
 housenumber: 1

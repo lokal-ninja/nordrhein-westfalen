@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.1458674
 longitude: 6.446480200000001
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Luisental"
 housenumber: 61

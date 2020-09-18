@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5006908
 longitude: 6.7699778
-postcode: 47166
+postcode: "47166"
 city: Duisburg
 street: "August-Thyssen-Straße"
 housenumber: 52

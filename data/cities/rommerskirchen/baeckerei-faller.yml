@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.08761500000001
 longitude: 6.6890245
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Hoeninger Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.3308843
 longitude: 6.7263665
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Bockumer Straße"
 housenumber: 326

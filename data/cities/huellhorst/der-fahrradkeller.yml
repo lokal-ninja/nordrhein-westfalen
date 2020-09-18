@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.275134
 longitude: 8.7123329
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Mindener Straße"
 housenumber: 8

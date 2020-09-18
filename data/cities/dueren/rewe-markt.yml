@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.826384600000004
 longitude: 6.4602927
-postcode: 52353
+postcode: "52353"
 city: Düren
 street: "Nordstraße"
 housenumber: 42f

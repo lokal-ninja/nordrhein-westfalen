@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.304620500000006
 longitude: 8.617536000000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Niedernstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.982466
 longitude: 6.2746091
-postcode: 52441
+postcode: "52441"
 city: Linnich
 street: "Erkelenzer Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.4916174
 longitude: 6.9297048000000006
-postcode: 45357
+postcode: "45357"
 city: Essen
 street: "Schilfstraße"
 housenumber: 15

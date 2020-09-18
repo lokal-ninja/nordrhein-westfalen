@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.9201999
 longitude: 6.954762700000001
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Merowingerstraße"
 housenumber: 50

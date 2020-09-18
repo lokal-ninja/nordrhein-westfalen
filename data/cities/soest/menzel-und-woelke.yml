@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.5646822
 longitude: 8.0882208
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Werler Landstraße"
 housenumber: 4a

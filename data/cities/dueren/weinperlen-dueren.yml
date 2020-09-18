@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.797281700000006
 longitude: 6.4550234
-postcode: 52355
+postcode: "52355"
 city: Düren
 street: "Valencienner Straße"
 housenumber: 193

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.308466800000005
 longitude: 8.841947600000001
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Sollingweg"
 housenumber: 28

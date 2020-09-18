@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.6657062
 longitude: 8.7253296
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Sperenberger Straße"
 housenumber: 1a

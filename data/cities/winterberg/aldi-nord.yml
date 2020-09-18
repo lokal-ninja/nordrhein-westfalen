@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.196916300000005
 longitude: 8.531653500000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Neue Mitte"
 housenumber: 3

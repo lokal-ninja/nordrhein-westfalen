@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.822868500000006
 longitude: 8.657802700000001
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Bahnhofstraße"
 housenumber: 9

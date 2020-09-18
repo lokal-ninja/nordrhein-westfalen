@@ -3,7 +3,7 @@ type: way
 shop: Gewürze
 latitude: 50.862248400000006
 longitude: 7.0070657
-postcode: 50999
+postcode: "50999"
 city: Köln
 street: "Sürther Hauptstraße"
 housenumber: 59

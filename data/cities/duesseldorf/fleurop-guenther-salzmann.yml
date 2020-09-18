@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.228278200000005
 longitude: 6.789821300000001
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Am Wehrhahn"
 housenumber: 28

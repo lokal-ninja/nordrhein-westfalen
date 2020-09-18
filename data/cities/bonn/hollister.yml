@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7350986
 longitude: 7.098944800000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Vivatsgasse"
 housenumber: 2

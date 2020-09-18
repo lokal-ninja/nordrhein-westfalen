@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.224084700000006
 longitude: 6.772381500000001
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Berger Straße"
 housenumber: 29

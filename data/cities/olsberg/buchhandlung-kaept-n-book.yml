@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.353317800000006
 longitude: 8.4891852
-postcode: 59939
+postcode: "59939"
 city: Olsberg
 street: "Markt"
 housenumber: 2

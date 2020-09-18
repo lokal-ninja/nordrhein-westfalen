@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4814918
 longitude: 7.4076655
-postcode: 44227
+postcode: "44227"
 city: Dortmund
 street: "Stockumer Straße"
 housenumber: 421

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.6150603
 longitude: 7.355901
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Recklinghäuser Straße"
 housenumber: 191

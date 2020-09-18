@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4267971
 longitude: 6.859246700000001
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Duisburger Straße"
 housenumber: 147

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.262574900000004
 longitude: 6.814083200000001
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Westfalenstraße"
 housenumber: 31

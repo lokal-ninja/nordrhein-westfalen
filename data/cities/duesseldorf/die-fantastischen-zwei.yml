@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 51.2053821
 longitude: 6.8331644
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Zeppelinstraße"
 housenumber: 41

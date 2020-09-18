@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.426073300000006
 longitude: 7.2132442
-postcode: 44797
+postcode: "44797"
 city: Bochum
 street: "Blankensteiner Straße"
 housenumber: 357

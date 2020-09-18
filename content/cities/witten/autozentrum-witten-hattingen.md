@@ -1,4 +1,4 @@
 ---
-title: "Autozentrum Witten / Hattingen"
+title: "Autozentrum Witten/Hattingen"
 url: /witten/autozentrum-witten-hattingen/
 ---

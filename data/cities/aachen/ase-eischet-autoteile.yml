@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.7044786
 longitude: 6.176246600000001
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Prämienstraße"
 housenumber: 78

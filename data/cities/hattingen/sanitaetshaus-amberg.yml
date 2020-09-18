@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.398777100000004
 longitude: 7.1837811
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "Obermarkt"
 housenumber: 14

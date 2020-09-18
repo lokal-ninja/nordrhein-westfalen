@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 50.622529400000005
 longitude: 7.021931800000001
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Hauptstraße"
 housenumber: 67

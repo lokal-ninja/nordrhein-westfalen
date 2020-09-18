@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.9547
 longitude: 8.523086300000001
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Windelsbleicher Straße"
 housenumber: 277

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2405996
 longitude: 6.8018371
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Brehmstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.5556258
 longitude: 8.535668900000001
-postcode: 33142
+postcode: "33142"
 city: Büren
 street: "Westring"
 housenumber: 3

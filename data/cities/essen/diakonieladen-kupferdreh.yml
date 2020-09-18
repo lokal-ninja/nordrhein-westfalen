@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.3898694
 longitude: 7.0831831
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 179

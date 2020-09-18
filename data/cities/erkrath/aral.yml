@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.204475
 longitude: 6.9702045
-postcode: 40699
+postcode: "40699"
 city: Erkrath
 street: "Haaner Straße"
 housenumber: 77

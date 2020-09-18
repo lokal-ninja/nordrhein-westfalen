@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.058830900000004
 longitude: 8.498906100000001
-postcode: 33619
+postcode: "33619"
 city: Bielefeld
 street: "Babenhauser Straße"
 housenumber: 112

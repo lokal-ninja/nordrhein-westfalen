@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.369900300000005
 longitude: 6.5658846
-postcode: 47802
+postcode: "47802"
 city: Krefeld
 street: "Nieper Straße"
 housenumber: 91

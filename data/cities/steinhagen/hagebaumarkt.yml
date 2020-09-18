@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.0044448
 longitude: 8.4141334
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Woerdener Straße"
 housenumber: 12

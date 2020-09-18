@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5230454
 longitude: 7.3254279
-postcode: 44577
+postcode: "44577"
 city: Castrop-Rauxel
 street: "Wittener Straße"
 housenumber: 407

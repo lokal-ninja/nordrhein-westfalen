@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.851565
 longitude: 8.0259091
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Leimbachstraße"
 housenumber: 266

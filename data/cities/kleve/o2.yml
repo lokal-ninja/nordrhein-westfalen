@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.7875248
 longitude: 6.1380714
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Große Straße"
 housenumber: 76

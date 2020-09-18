@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.276033000000005
 longitude: 7.7160729
-postcode: 49477
+postcode: "49477"
 city: Ibbenbüren
 street: "Oberer Markt"
 housenumber: 9

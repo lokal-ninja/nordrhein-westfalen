@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.6605658
 longitude: 6.7865419000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Hochstraße"
 housenumber: 15

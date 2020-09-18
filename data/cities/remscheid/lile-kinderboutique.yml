@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.191308500000005
 longitude: 7.2574225000000006
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Kölner Straße"
 housenumber: 30A

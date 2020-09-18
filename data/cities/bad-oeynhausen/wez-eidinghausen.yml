@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2225905
 longitude: 8.7988782
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Eidinghausener Straße"
 housenumber: 123

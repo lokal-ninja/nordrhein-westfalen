@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4883619
 longitude: 6.931640000000001
-postcode: 45357
+postcode: "45357"
 city: Essen
 street: "Donnerstraße"
 housenumber: 218 - 220

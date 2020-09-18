@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.028232
 longitude: 8.9042045
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 22

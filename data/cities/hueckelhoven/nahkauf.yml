@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.03467920000001
 longitude: 6.278659800000001
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Pastor-Bauer-Platz"
 housenumber: 1

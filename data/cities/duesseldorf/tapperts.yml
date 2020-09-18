@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.301095700000005
 longitude: 6.7377023000000005
-postcode: 40489
+postcode: "40489"
 city: Düsseldorf
 street: "Kaiserswerther Markt"
 housenumber: 61

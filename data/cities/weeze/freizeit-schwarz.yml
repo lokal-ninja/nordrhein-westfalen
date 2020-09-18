@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.624127900000005
 longitude: 6.1972208
-postcode: 47652
+postcode: "47652"
 city: Weeze
 street: "Holtumsweg"
 housenumber: 4

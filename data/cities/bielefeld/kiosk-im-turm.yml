@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.014540100000005
 longitude: 8.4734651
-postcode: 33649
+postcode: "33649"
 city: Bielefeld
 street: "Hünenburgstraße"
 housenumber: 1

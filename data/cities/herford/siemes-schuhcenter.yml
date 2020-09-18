@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.1047986
 longitude: 8.693355200000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Salzufler Straße"
 housenumber: 141a

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 51.6474078
 longitude: 7.6694582
-postcode: 59192
+postcode: "59192"
 city: Bergkamen
 street: "Marie-Curie-Straße"
 housenumber: 3

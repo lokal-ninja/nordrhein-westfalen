@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 51.533795000000005
 longitude: 6.4231822
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Gelderner Straße"
 housenumber: 37

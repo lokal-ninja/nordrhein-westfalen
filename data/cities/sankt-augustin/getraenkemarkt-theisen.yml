@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.79359
 longitude: 7.166670900000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Siegstraße"
 housenumber: 2b

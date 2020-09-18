@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2043533
 longitude: 6.4121188
-postcode: 41063
+postcode: "41063"
 city: Mönchengladbach
 street: "Lindenstraße"
 housenumber: 276

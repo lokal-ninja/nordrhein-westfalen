@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7778937
 longitude: 6.0936807
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Peterstraße"
 housenumber: 74

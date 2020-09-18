@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 51.972074000000006
 longitude: 7.6114139000000005
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Catharina-Müller-Straße"
 housenumber: 5

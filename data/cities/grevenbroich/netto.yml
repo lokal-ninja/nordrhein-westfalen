@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0642317
 longitude: 6.5705863
-postcode: 41517
+postcode: "41517"
 city: Grevenbroich
 street: "Zur Wassermühle"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 51.468415300000004
 longitude: 6.8592186
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Düppelstraße"
 housenumber: 64

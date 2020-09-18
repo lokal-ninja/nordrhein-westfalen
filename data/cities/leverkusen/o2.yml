@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.0319519
 longitude: 6.9836643
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Wiesdorfer Platz"
 housenumber: 66a

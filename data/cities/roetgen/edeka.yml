@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6482424
 longitude: 6.1915782
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Rosentalstraße"
 housenumber: 40

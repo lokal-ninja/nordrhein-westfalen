@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.7656664
 longitude: 6.1476005
-postcode: 
+postcode: ""
 city: Aachen
 street: "Neuenhofstraße"
 housenumber: 160

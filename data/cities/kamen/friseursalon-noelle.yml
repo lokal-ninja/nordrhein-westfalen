@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.593662
 longitude: 7.666025500000001
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Oststraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0197894
 longitude: 8.892516500000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Molinder Grasweg"
 housenumber: 5

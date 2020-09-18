@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.1706999
 longitude: 6.4397245000000005
-postcode: 41236
+postcode: "41236"
 city: Mönchengladbach
 street: "Friedrich-Ebert-Straße"
 housenumber: 132

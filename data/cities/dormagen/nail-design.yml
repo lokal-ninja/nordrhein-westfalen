@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.127476
 longitude: 6.786442500000001
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Johannesstraße"
 housenumber: 67

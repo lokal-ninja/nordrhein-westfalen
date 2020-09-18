@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.475236100000004
 longitude: 6.8852755000000005
-postcode: 46047
+postcode: "46047"
 city: Oberhausen
 street: "Mellinghofer Straße"
 housenumber: 147

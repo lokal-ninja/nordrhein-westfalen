@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.237926200000004
 longitude: 6.798996300000001
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 132

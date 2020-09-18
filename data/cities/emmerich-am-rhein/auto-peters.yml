@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.835616300000005
 longitude: 6.246865700000001
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Am Löwentor"
 housenumber: 11

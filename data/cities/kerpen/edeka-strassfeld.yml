@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9130562
 longitude: 6.6676248000000005
-postcode: 50170
+postcode: "50170"
 city: Kerpen
 street: "Am Wasserwerk"
 housenumber: 7

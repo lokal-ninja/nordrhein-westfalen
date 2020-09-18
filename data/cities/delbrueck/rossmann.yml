@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.764077500000006
 longitude: 8.564986000000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Oststraße"
 housenumber: 5

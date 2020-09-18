@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.13930980000001
 longitude: 6.4440875
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Stapper Weg"
 housenumber: 65

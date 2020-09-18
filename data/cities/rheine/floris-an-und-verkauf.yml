@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.28671000000001
 longitude: 7.4743604
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Siedlerstraße"
 housenumber: 5

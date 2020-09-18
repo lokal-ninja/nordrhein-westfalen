@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.277535
 longitude: 6.8081573
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Am Hülserhof"
 housenumber: 51

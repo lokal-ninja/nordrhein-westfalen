@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.674480300000006
 longitude: 8.3470928
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Lange Straße"
 housenumber: 30

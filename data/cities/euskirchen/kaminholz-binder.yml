@@ -3,7 +3,7 @@ type: node
 shop: Treibstoff
 latitude: 50.6585362
 longitude: 6.8303928
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Lisztstraße"
 housenumber: 19

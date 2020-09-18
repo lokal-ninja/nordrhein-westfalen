@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8683525
 longitude: 6.1640153
-postcode: 52477
+postcode: "52477"
 city: Alsdorf
 street: "Grenzweg"
 housenumber: 82

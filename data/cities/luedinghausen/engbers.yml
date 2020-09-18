@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.7714469
 longitude: 7.445085300000001
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Kleine Münsterstraße"
 housenumber: 13

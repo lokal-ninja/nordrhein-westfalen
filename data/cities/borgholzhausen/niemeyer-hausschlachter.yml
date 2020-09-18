@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.077456100000006
 longitude: 8.273557400000001
-postcode: 33829
+postcode: "33829"
 city: Borgholzhausen
 street: "Pallheide"
 housenumber: 3

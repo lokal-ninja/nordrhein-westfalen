@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1558739
 longitude: 6.733443800000001
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Nievenheimer Straße"
 housenumber: 36

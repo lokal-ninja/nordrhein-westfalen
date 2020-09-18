@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3589597
 longitude: 6.9336428
-postcode: 45219
+postcode: "45219"
 city: Essen
 street: "Ringstraße"
 housenumber: 157

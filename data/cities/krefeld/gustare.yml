@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.3312016
 longitude: 6.565576500000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Petersstraße"
 housenumber: 111

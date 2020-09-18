@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.268796
 longitude: 6.776825700000001
-postcode: 40468
+postcode: "40468"
 city: Düsseldorf
 street: "Kleinschmitthauser Weg"
 housenumber: 9-11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.659681400000004
 longitude: 6.790650200000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Bahnhofstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.513294300000005
 longitude: 7.487057600000001
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Kaiserstraße"
 housenumber: 111

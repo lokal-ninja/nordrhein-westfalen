@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.7464786
 longitude: 7.130342700000001
-postcode: 53229
+postcode: "53229"
 city: Bonn
 street: "Gerhardstraße"
 housenumber: 12a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
 website: ""

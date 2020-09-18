@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2185403
 longitude: 6.6571142000000005
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Viersener Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.4501761
 longitude: 6.6386504
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Klever Straße"
 housenumber: 1-5

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.6257035
 longitude: 6.9501049
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Hauptstraße"
 housenumber: 13

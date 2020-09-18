@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.9523616
 longitude: 7.9897368
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Im Ort"
 housenumber: 1-3

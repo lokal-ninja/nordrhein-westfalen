@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.0000232
 longitude: 7.553183000000001
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Feldstiege"
 housenumber: 18

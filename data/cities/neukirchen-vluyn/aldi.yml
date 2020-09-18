@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.438067600000004
 longitude: 6.535820800000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Am Dreßlerhof"
 housenumber: 1

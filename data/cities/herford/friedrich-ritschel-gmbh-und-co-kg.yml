@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 52.126873
 longitude: 8.6368174
-postcode: 32051
+postcode: "32051"
 city: Herford
 street: "Mittelweg"
 housenumber: 22

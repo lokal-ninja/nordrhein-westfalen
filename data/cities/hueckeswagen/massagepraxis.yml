@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.1487363
 longitude: 7.340409
-postcode: 42499
+postcode: "42499"
 city: Hückeswagen
 street: "Waidmarktstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.658155300000004
 longitude: 6.8318291
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Lisztstraße"
 housenumber: 15

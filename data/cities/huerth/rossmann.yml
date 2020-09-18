@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.87946
 longitude: 6.876510000000001
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Hürth-Park"
 housenumber: L011

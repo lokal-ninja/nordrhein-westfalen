@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.686526900000004
 longitude: 8.3436334
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Wiedenbrücker Straße"
 housenumber: 50

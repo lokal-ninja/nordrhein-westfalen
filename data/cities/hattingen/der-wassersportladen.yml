@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.4013604
 longitude: 7.1662869
-postcode: 45525
+postcode: "45525"
 city: Hattingen
 street: "An der Ruhrbrücke"
 housenumber: 7e

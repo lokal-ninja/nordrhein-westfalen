@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.758498200000005
 longitude: 8.126687500000001
-postcode: 57299
+postcode: "57299"
 city: Burbach
 street: "Dillenburger Straße"
 housenumber: 22

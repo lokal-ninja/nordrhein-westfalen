@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.4918799
 longitude: 7.305053
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Nörenbergstraße"
 housenumber: 25

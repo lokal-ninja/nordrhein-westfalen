@@ -1,12 +1,12 @@
 id: 905074363
 type: node
 shop: Bücher
-latitude: 51.442379200000005
-longitude: 8.3519843
-postcode: 59581
+latitude: 51.4423716
+longitude: 8.3519659
+postcode: "59581"
 city: Warstein
 street: "Dieplohstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: ""
+website: "https://www.genialokal.de/buchhandlung/warstein/dust/"

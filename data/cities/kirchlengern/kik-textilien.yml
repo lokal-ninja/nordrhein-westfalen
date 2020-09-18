@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.1981034
 longitude: 8.639858
-postcode: 32278
+postcode: "32278"
 city: Kirchlengern
 street: "Im Obrock"
 housenumber: 17b

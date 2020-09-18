@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.195921000000006
 longitude: 6.911866000000001
-postcode: 40699
+postcode: "40699"
 city: Erkrath
 street: "Am Tönisberg"
 housenumber: 1

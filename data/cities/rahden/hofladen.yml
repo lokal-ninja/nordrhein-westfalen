@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.430426700000005
 longitude: 8.6660523
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Nuttelner Straße"
 housenumber: 50

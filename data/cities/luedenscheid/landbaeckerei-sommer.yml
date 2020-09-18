@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2285911
 longitude: 7.6531634
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
 street: "Glatzer Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.207494600000004
 longitude: 8.593522400000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Dünner Straße"
 housenumber: 2

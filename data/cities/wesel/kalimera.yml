@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.65799560000001
 longitude: 6.611804500000001
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Kornmarkt"
 housenumber: 6

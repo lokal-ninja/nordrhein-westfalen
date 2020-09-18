@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.7599821
 longitude: 6.396553900000001
-postcode: 46459
+postcode: "46459"
 city: Rees
 street: "Neustraße"
 housenumber: 6

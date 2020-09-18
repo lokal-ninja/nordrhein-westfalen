@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7503145
 longitude: 8.383040000000001
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Lippstädter Straße"
 housenumber: 55

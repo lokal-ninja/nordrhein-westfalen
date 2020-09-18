@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1847999
 longitude: 8.3177793
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Wehrscheid"
 housenumber: 22

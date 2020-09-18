@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5352301
 longitude: 6.4318346
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Vogt-von-Belle-Platz"
 housenumber: 15

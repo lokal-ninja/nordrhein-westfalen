@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 51.7560269
 longitude: 7.200303000000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "An der Ziegelei"
-housenumber: 25 a
+housenumber: 25a
 phone: "+49 2364 5088530"
 opening_hours: ""
 website: "https://www.autorehberg.de/"

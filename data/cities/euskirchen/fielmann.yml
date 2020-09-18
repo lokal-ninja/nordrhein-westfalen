@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.6603611
 longitude: 6.7901129000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Neustraße"
 housenumber: 41

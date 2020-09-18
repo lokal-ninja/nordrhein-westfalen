@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.7691851
 longitude: 6.0245432
-postcode: 52074
+postcode: "52074"
 city: Aachen
 street: "Alte Vaalser Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.296955700000005
 longitude: 6.9293753
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Am Weinhaus"
 housenumber: 15

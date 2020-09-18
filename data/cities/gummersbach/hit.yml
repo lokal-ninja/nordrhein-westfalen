@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0034337
 longitude: 7.5865875
-postcode: 51645
+postcode: "51645"
 city: Gummersbach
 street: "Kölner Straße"
 housenumber: 223

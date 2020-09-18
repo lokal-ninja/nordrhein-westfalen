@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.876058500000006
 longitude: 8.017356000000001
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Am Bahnhof"
 housenumber: 4

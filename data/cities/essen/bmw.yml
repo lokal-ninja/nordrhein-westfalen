@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.475431
 longitude: 7.0062120000000006
-postcode: 45141
+postcode: "45141"
 city: Essen
 street: "Berthold-Beitz-Boulevard"
 housenumber: 522

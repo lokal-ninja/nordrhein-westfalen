@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.8834364
 longitude: 8.0483623
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Untere Dorfstraße"
 housenumber: 127,129

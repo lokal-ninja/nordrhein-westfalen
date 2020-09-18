@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.0251669
 longitude: 8.5397104
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 82

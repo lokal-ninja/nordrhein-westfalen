@@ -1,12 +1,12 @@
-id: 3063366715
+id: 4911369021
 type: node
 shop: Supermarkt
-latitude: 51.2852436
-longitude: 7.228282900000001
-postcode: 42277
+latitude: 51.230826500000006
+longitude: 7.146555200000001
+postcode: "42349"
 city: Wuppertal
-street: "Weiherstraße"
-housenumber: 2
-phone: "+49 202 2624473"
+street: "Cronenberger Straße"
+housenumber: 334
+phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de//"
+website: "http://netto-online.de"

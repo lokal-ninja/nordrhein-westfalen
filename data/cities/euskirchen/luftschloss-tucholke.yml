@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.6613903
 longitude: 6.7988447
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Emil-Fischer-Straße"
 housenumber: 33

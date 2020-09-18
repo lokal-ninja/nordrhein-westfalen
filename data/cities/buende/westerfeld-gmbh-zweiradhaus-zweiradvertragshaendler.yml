@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.206722500000005
 longitude: 8.583386500000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Borriesstraße"
 housenumber: 111

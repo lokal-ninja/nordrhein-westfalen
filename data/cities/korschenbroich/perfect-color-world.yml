@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.1990604
 longitude: 6.5564836
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Eschenweg"
 housenumber: 8

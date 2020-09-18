@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4075405
 longitude: 6.7545978
-postcode: 47055
+postcode: "47055"
 city: Duisburg
 street: "Kulturstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.4799184
 longitude: 7.143053500000001
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hochstraße"
 housenumber: 50

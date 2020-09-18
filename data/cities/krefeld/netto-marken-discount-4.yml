@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.3398102
 longitude: 6.5587232
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Sternstraße"
 housenumber: 62-68
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: "https://www.netto-online.de/"

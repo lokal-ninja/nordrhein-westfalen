@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5791807
 longitude: 7.053329300000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.215732
 longitude: 6.803051000000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kruppstraße"
 housenumber: 6

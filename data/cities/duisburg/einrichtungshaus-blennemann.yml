@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.434851200000004
 longitude: 6.7628142
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Poststraße"
 housenumber: 30 - 36

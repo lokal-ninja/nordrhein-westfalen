@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.2193757
 longitude: 6.7794775000000005
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Königsallee"
 housenumber: 96

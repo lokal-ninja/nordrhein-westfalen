@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 51.4843765
 longitude: 7.2155472000000005
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Hans-Böckler-Straße"
 housenumber: 21
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-20:00"
 website: ""

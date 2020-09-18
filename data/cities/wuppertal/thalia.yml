@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.256934900000005
 longitude: 7.149127900000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Alte Freiheit"
 housenumber: 9

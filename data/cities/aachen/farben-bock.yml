@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.7993157
 longitude: 6.107598
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Feldchen"
 housenumber: 9

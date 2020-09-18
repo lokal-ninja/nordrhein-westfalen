@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.737748100000005
 longitude: 7.528862800000001
-postcode: 59394
+postcode: "59394"
 city: Nordkirchen
 street: "An der Post"
 housenumber: 2

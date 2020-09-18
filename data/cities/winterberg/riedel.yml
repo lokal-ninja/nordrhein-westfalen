@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.1944415
 longitude: 8.5341156
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hauptstraße"
 housenumber: 6

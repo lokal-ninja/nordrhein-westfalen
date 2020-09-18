@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.853022800000005
 longitude: 6.592028600000001
-postcode: 46399
+postcode: "46399"
 city: Bocholt
 street: "Proppertweg"
 housenumber: 9

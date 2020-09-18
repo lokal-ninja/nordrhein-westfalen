@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2888547
 longitude: 7.6801988
-postcode: 58762
+postcode: "58762"
 city: Altena
 street: "Werdohler Straße"
 housenumber: 9

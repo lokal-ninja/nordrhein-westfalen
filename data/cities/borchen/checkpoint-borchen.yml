@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.659099100000006
 longitude: 8.730544100000001
-postcode: 33178
+postcode: "33178"
 city: Borchen
 street: "Dörenhagener Straße"
 housenumber: 1

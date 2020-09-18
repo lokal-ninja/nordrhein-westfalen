@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.201646100000005
 longitude: 6.3893455
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Stationsweg"
 housenumber: 166

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 51.2156743
 longitude: 6.6637148
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Venloer Straße"
 housenumber: 125

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0828009
 longitude: 6.6052051
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Herkenbuscher Weg"
 housenumber: 28

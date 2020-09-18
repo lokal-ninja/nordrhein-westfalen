@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.47771710000001
 longitude: 6.943673700000001
-postcode: 
+postcode: ""
 city: Essen
 street: "Flurstraße"
 housenumber: 112

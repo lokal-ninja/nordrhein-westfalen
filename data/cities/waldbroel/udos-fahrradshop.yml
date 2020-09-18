@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.870389100000004
 longitude: 7.6039095
-postcode: 51545
+postcode: "51545"
 city: Waldbröl
 street: "Brölstraße"
 housenumber: 77

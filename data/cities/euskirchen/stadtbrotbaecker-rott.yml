@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.652224000000004
 longitude: 6.7922687
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Eifelring"
 housenumber: 38-42

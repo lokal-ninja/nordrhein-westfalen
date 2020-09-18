@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.204396800000005
 longitude: 6.7801621
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Brunnenstraße"
 housenumber: 73

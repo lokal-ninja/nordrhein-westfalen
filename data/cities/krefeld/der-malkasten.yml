@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.332248
 longitude: 6.5656553
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Neue Linner Straße"
 housenumber: 85

@@ -1,12 +1,12 @@
 id: 2430211786
 type: node
 shop: Kramladen
-latitude: 50.9754688
-longitude: 7.0736495
-postcode: 51069
+latitude: 50.975487400000006
+longitude: 7.0735735
+postcode: "51069"
 city: Köln
 street: "Dellbrücker Hauptstraße"
 housenumber: 83
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.bo-tex.de/fillialen-details/botex-koeln-dellbrueck.html"

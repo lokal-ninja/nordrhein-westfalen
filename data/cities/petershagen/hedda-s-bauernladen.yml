@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.397024900000005
 longitude: 8.992714900000001
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Kapellenort"
 housenumber: 6

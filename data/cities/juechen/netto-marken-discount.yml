@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.103997
 longitude: 6.4973966
-postcode: 41363
+postcode: "41363"
 city: Jüchen
 street: "Meisingstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.655199200000006
 longitude: 7.1105112
-postcode: 45770
+postcode: "45770"
 city: Marl
 street: "Breddenkampstraße"
 housenumber: 2;4

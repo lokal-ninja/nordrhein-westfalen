@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.493271400000005
 longitude: 6.6794253
-postcode: 47199
+postcode: "47199"
 city: Duisburg
 street: "Grafschafter Straße"
 housenumber: 14

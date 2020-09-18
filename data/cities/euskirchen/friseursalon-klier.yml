@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.645974100000004
 longitude: 6.8026564
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Narzissenweg"
 housenumber: 25

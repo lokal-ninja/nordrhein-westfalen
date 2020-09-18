@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.33502300000001
 longitude: 8.8783305
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Stemmer Landstraße"
 housenumber: 125

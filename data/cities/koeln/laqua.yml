@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.909650000000006
 longitude: 6.971940300000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Alteburger Straße"
 housenumber: 323

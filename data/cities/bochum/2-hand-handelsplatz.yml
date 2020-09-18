@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.475687400000005
 longitude: 7.218514000000001
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Hermannshöhe"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.761483500000004
 longitude: 6.0869423000000005
-postcode: 52066
+postcode: "52066"
 city: Aachen
 street: "Eupener Straße"
 housenumber: 3

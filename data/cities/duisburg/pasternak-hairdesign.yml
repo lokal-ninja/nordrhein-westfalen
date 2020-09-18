@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.429405
 longitude: 6.768722500000001
-postcode: 47051
+postcode: "47051"
 city: Duisburg
 street: "Tonhallenstraße"
 housenumber: 37

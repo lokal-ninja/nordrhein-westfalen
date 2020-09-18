@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.25831650000001
 longitude: 7.1442135
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Grünstraße"
 housenumber: 13

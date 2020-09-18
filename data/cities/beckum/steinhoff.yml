@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 51.7548012
 longitude: 8.0393633
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Weststraße"
 housenumber: 13

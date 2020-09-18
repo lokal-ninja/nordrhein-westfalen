@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.879715100000006
 longitude: 6.6930461
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Sindorfer Straße"
 housenumber: 65-69

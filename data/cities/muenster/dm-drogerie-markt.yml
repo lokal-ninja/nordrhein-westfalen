@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.973918100000006
 longitude: 7.6106103
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Grevener Straße"
 housenumber: 69

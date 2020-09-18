@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.4461724
 longitude: 7.3778712
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Geschwister-Scholl-Straße"
 housenumber: 2

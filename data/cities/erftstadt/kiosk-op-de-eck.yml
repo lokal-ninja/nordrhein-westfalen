@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.810186900000005
 longitude: 6.8202407
-postcode: 50374
+postcode: "50374"
 city: Erftstadt
 street: "Zedernweg"
 housenumber: 1

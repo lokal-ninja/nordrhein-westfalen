@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0678975
 longitude: 9.129111400000001
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Mittelstraße"
 housenumber: 50

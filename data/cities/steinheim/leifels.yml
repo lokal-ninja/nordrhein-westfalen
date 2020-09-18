@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.867367
 longitude: 9.0948273
-postcode: 32839
+postcode: "32839"
 city: Steinheim
 street: "Rochusstraße"
 housenumber: 17

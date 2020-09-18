@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3700624
 longitude: 7.2490565
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Hauptstraße"
 housenumber: 4

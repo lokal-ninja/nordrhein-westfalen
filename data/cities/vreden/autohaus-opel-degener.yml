@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0461777
 longitude: 6.8352043
-postcode: 48691
+postcode: "48691"
 city: Vreden
 street: "Alstätter Straße"
 housenumber: 100

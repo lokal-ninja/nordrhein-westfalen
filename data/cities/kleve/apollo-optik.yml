@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.7863495
 longitude: 6.1367779
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Hagsche Straße"
 housenumber: 7

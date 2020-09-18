@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.9936139
 longitude: 8.6055703
-postcode: 33699
+postcode: "33699"
 city: Bielefeld
 street: "Detmolder Straße"
 housenumber: 571

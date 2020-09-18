@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.9335031
 longitude: 6.5579687
-postcode: 50189
+postcode: "50189"
 city: Elsdorf
 street: "Birkenweg"
 housenumber: 47
 phone: "+49 2274 92550"
-opening_hours: "Markt: Mo-Fr 9:00-19:00, Sa 9:00-15:00; Büro & Großhandel: Di-Do 17:00-19:00 off"
+opening_hours: ""
 website: "http://www.getraenke-schnitzler.de"

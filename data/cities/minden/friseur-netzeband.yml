@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.29107380000001
 longitude: 8.9017908
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Ringstraße"
 housenumber: 68a

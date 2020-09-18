@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.9401686
 longitude: 7.001542700000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Kalk-Mülheimer Straße"
 housenumber: 60

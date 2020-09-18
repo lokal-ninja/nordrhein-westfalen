@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.9252243
 longitude: 7.5244602
-postcode: 48163
+postcode: "48163"
 city: Münster
 street: "Dülmener Straße"
 housenumber: 18c

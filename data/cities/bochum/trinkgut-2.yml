@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4685671
 longitude: 7.2953041
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Ümminger Straße"
 housenumber: 84

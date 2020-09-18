@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2667827
 longitude: 8.8816629
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Mindener Straße"
 housenumber: 63

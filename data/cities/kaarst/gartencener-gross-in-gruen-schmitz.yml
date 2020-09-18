@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.1953035
 longitude: 6.6263798000000005
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Baumschule Schmitz"
 housenumber: 1

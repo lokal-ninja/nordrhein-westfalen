@@ -1,4 +1,4 @@
 ---
-title: "kaktus"
+title: "Kaktus"
 url: /meckenheim/kaktus/
 ---

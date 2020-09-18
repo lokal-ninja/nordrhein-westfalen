@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.7773807
 longitude: 6.922020300000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Kirchstraße"
 housenumber: 28

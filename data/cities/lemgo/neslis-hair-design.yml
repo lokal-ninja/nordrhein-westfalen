@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.026888400000004
 longitude: 8.900700800000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Breite Straße"
 housenumber: 57

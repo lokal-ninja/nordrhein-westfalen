@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 50.775772
 longitude: 6.0884713
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Peterstraße"
 housenumber: 5-7

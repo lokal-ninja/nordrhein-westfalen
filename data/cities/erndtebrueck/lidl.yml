@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.98823530000001
 longitude: 8.252893
-postcode: 57339
+postcode: "57339"
 city: Erndtebrück
 street: "Siegener Straße"
 housenumber: 15

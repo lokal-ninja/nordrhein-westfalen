@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 51.738051500000005
 longitude: 8.7830077
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Otto-Stadler-Straße"
 housenumber: 15

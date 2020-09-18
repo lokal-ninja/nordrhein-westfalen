@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7735865
 longitude: 6.0760508
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Karlsgraben"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 50.8397189
 longitude: 7.216003100000001
-postcode: 53797
+postcode: "53797"
 city: Lohmar
 street: "Buchbitze"
 housenumber: 

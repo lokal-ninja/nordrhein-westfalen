@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.0243728
 longitude: 8.5317205
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Bahnhofstraße"
 housenumber: 15 - 17

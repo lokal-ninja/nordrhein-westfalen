@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9384476
 longitude: 7.6286915
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Scheibenstraße"
 housenumber: 121

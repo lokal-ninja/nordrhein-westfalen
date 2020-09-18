@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 51.2125154
 longitude: 6.7843612
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Kirchfeldstraße"
 housenumber: 120

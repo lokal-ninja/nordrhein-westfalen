@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.495442600000004
 longitude: 6.6208527
-postcode: 53947
+postcode: "53947"
 city: Nettersheim
 street: "Steinfelder Straße"
 housenumber: 95

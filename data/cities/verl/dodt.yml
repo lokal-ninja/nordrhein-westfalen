@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.881968300000004
 longitude: 8.5119085
-postcode: 33415
+postcode: "33415"
 city: Verl
 street: "Paderborner Straße"
 housenumber: 21

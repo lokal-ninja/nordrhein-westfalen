@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.904089400000004
 longitude: 8.3747457
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Blessenstätte"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.22830810000001
 longitude: 6.698869800000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Burgunderstraße"
 housenumber: 11

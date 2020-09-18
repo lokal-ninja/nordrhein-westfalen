@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.1149539
 longitude: 8.6743471
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Augustinerplatz"
 housenumber: 8

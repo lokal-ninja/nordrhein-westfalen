@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.8014341
 longitude: 6.481669500000001
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Weierstraße"
 housenumber: 41

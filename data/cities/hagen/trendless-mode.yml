@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3609188
 longitude: 7.4640119
-postcode: 58095
+postcode: "58095"
 city: Hagen
 street: "Hindenburgstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.99891280000001
 longitude: 6.5722902
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Wiesenstraße"
 housenumber: 2

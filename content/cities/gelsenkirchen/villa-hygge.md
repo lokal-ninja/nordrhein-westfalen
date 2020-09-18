@@ -1,4 +1,4 @@
 ---
-title: "Villa Hygge"
+title: "VILLA HYGGE"
 url: /gelsenkirchen/villa-hygge/
 ---

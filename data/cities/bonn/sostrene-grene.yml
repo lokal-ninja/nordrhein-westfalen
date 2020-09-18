@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.7345811
 longitude: 7.1014929
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Remigiusplatz"
 housenumber: 5

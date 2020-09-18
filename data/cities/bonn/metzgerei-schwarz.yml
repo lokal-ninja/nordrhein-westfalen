@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.743577800000004
 longitude: 7.0799342
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Riegelerstraße"
 housenumber: 1

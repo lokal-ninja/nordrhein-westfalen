@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.4419028
 longitude: 6.9998794
-postcode: 45128
+postcode: "45128"
 city: Essen
 street: "Kahrstraße"
 housenumber: 64

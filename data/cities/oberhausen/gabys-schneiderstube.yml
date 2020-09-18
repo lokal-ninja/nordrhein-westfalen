@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.4793851
 longitude: 6.8484239
-postcode: 46049
+postcode: "46049"
 city: Oberhausen
 street: "Buschhausener Straße"
 housenumber: 59

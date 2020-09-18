@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.7171692
 longitude: 8.773520300000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Schulze-Delitzsch-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.772766700000005
 longitude: 6.2146602
-postcode: 52223
+postcode: "52223"
 city: Stolberg (Rhld.)
 street: "Mauerstraße"
 housenumber: 44

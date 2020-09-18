@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.735531800000004
 longitude: 7.1008401
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Sternstraße"
 housenumber: 3

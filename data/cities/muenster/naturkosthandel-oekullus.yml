@@ -1,12 +1,12 @@
 id: 639173391
 type: node
-shop: Lebensmittel
-latitude: 51.975581500000004
-longitude: 7.710177600000001
-postcode: 48157
+shop: Hofladen
+latitude: 51.9768174
+longitude: 7.7089384
+postcode: "48157"
 city: Münster
 street: "Am Handorfer Bahnhof"
-housenumber: 2
+housenumber: 25
 phone: ""
 opening_hours: ""
 website: "https://www.oekullus.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1270298
 longitude: 8.6835717
-postcode: 32049
+postcode: "32049"
 city: Herford
 street: "Waltgeristraße"
 housenumber: 93

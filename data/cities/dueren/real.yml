@@ -1,12 +1,12 @@
-id: 89226255
+id: 26357638
 type: way
 shop: Supermarkt
-latitude: 50.822869700000005
-longitude: 6.4848144
-postcode: 52353
+latitude: 50.7947222
+longitude: 6.4668292
+postcode: "52355"
 city: Düren
-street: "Heerweg"
-housenumber: 99
+street: "Am Ellernbusch"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"
+website: "https://www.real.de/"

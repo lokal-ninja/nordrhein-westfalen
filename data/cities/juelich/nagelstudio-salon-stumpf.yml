@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.921073
 longitude: 6.3591169
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Stiftsherrenstraße"
 housenumber: 21

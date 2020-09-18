@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2185294
 longitude: 6.7837319
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Karl-Rudolf-Straße"
 housenumber: 172

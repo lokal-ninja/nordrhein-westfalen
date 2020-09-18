@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9213663
 longitude: 6.3563849
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kleine Rurstraße"
 housenumber: 12

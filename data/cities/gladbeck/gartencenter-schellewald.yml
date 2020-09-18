@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.578006
 longitude: 6.992231200000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Holunderweg"
 housenumber: 10

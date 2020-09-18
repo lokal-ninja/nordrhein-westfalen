@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.801640400000004
 longitude: 6.4822249
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Weierstraße"
 housenumber: 29

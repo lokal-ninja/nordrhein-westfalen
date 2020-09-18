@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.818856800000006
 longitude: 6.2867120000000005
-postcode: 
+postcode: ""
 city: Eschweiler
 street: "Dürener Straße"
 housenumber: 274

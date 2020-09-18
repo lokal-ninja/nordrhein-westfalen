@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9458641
 longitude: 6.907988100000001
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Oskar-Jäger-Straße"
 housenumber: 158

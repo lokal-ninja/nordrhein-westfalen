@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8528286
 longitude: 8.0008243
-postcode: 57080
+postcode: "57080"
 city: Siegen
 street: "Marienhütte"
 housenumber: 14

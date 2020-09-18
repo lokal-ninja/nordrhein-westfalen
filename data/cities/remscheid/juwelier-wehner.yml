@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.1918549
 longitude: 7.2581809
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Kölner Straße"
 housenumber: 9

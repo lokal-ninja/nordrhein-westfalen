@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.006582
 longitude: 8.413173
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Bahnhofstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.8938366
 longitude: 9.166865300000001
-postcode: 32816
+postcode: "32816"
 city: Schieder-Schwalenberg
 street: "Am Zollstock"
 housenumber: 6

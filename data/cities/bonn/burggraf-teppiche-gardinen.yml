@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.7395513
 longitude: 7.094925600000001
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Wolfstraße"
 housenumber: 12-14

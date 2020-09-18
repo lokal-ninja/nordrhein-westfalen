@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 52.085749
 longitude: 8.748077
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Dammstraße"
 housenumber: 4a

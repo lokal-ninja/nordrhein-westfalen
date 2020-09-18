@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.7176813
 longitude: 8.753435600000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rathausplatz"
 housenumber: 6

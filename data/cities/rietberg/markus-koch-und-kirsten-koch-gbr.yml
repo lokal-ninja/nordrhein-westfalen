@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.8115734
 longitude: 8.4296482
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Westerwieher Straße"
 housenumber: 4-6

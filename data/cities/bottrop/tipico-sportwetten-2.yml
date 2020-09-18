@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.5368061
 longitude: 6.969368
-postcode: 46240
+postcode: "46240"
 city: Bottrop
 street: "Horster Straße"
 housenumber: 390

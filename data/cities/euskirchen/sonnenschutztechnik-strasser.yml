@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 50.6627336
 longitude: 6.7393821
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Pfarrer-Leuchter-Straße"
 housenumber: 2-4

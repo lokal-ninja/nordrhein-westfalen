@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.686119600000005
 longitude: 6.8188541
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Hinter den Hecken"
 housenumber: 25

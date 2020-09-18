@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6833868
 longitude: 6.820312
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Großbüllesheimer Straße"
 housenumber: 13b

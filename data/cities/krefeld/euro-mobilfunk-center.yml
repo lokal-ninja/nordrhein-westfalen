@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.32746890000001
 longitude: 6.5654905
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Neusser Straße"
 housenumber: 66a

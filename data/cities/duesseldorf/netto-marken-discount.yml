@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2306241
 longitude: 6.8007017
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Grafenberger Allee"
 housenumber: 62

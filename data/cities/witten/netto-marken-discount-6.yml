@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4470607
 longitude: 7.368753000000001
-postcode: 58453
+postcode: "58453"
 city: Witten
 street: "Westfalenstraße"
 housenumber: 114

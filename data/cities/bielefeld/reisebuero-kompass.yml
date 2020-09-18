@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.958533700000004
 longitude: 8.5211679
-postcode: 33659
+postcode: "33659"
 city: Bielefeld
 street: "Windelsbleicher Straße"
 housenumber: 243

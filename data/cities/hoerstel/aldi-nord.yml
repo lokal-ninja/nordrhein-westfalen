@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.257059700000006
 longitude: 7.629838
-postcode: 48477
+postcode: "48477"
 city: Hörstel
 street: "Heinrich-Niemeyer-Straße"
 housenumber: 50f

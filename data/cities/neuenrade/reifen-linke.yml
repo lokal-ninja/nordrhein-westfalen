@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.2856382
 longitude: 7.8081724
-postcode: 58809
+postcode: "58809"
 city: Neuenrade
 street: "Hüttenweg"
 housenumber: 17

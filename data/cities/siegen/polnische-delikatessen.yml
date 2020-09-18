@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 50.8867886
 longitude: 8.0285838
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Hagener Straße"
 housenumber: 109

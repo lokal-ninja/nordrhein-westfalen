@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.9601291
 longitude: 7.628956400000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Stubengasse"
 housenumber: 22

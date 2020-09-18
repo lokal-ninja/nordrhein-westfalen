@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.72531480000001
 longitude: 6.480347
-postcode: 52372
+postcode: "52372"
 city: Kreuzau
 street: "Röschen"
 housenumber: 2

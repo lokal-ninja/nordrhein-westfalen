@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.7763326
 longitude: 6.088725800000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Komphausbadstraße"
 housenumber: 32-34

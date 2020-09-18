@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5619917
 longitude: 8.3270008
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Hauptstraße"
 housenumber: 55

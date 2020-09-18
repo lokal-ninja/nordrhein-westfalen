@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.7145923
 longitude: 7.0479161
-postcode: 53123
+postcode: "53123"
 city: Bonn
 street: "Rochusstraße"
 housenumber: 207

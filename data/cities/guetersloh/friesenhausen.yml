@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.9065943
 longitude: 8.3788687
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Berliner Straße"
 housenumber: 25

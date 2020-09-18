@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.652503900000006
 longitude: 6.7933915
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Philipp-Reis-Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3706894
 longitude: 8.172268200000001
-postcode: 59872
+postcode: "59872"
 city: Meschede
 street: "Bahnhofstraße"
 housenumber: 11

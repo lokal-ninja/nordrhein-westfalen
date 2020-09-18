@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.4545055
 longitude: 6.6343034
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Landwehrstraße"
 housenumber: 40 - 42

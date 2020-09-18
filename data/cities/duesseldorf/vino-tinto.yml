@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.2352537
 longitude: 6.792591000000001
-postcode: 40479
+postcode: "40479"
 city: Düsseldorf
 street: "Bagelstraße"
 housenumber: 124

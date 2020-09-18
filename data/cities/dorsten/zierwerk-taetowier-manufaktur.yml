@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.6711485
 longitude: 6.981597600000001
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Fürst-Leopold-Platz"
 housenumber: 1

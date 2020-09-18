@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3222631
 longitude: 6.603750000000001
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Hafelsstraße"
 housenumber: 235

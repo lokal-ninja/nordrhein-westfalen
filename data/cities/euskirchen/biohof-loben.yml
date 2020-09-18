@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.638245000000005
 longitude: 6.8331784
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Auf dem Maarpfad"
 housenumber: 6

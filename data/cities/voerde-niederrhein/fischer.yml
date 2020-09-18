@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.601844400000004
 longitude: 6.6999126
-postcode: 46562
+postcode: "46562"
 city: Voerde (Niederrhein)
 street: "Bahnhofstraße"
 housenumber: 149

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.022747300000006
 longitude: 8.5319155
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Ritterstraße"
 housenumber: 29

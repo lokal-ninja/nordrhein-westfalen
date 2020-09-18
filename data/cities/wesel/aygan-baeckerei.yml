@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6572751
 longitude: 6.6153995000000005
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Viehtor"
 housenumber: 17

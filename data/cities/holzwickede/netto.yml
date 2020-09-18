@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.502964000000006
 longitude: 7.615614000000001
-postcode: 59439
+postcode: "59439"
 city: Holzwickede
 street: "Hauptstraße"
 housenumber: 14

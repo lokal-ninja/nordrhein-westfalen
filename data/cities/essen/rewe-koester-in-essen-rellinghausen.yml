@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.428563600000004
 longitude: 7.050961200000001
-postcode: 45134
+postcode: "45134"
 city: Essen
 street: "Frankenstraße"
 housenumber: 54

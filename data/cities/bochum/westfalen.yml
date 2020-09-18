@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.49239540000001
 longitude: 7.3104243
-postcode: 44894
+postcode: "44894"
 city: Bochum
 street: "Werner Hellweg"
 housenumber: 526

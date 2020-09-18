@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.3376097
 longitude: 6.6112795
-postcode: 47809
+postcode: "47809"
 city: Krefeld
 street: "Glockenspitz"
 housenumber: 335

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.762780400000004
 longitude: 8.0422013
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Neubeckumer Straße"
 housenumber: 31

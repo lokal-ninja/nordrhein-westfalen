@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0230577
 longitude: 8.5304985
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Oberntorwall"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 51.464479600000004
 longitude: 6.864069700000001
-postcode: 46045
+postcode: "46045"
 city: Oberhausen
 street: "Mülheimer Straße"
 housenumber: 326

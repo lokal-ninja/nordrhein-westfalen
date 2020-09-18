@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.5068782
 longitude: 7.1000309
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
 street: "Bahnhofstraße"
 housenumber: 70-72

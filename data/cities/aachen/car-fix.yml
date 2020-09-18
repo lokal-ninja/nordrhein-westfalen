@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.7794092
 longitude: 6.1275366
-postcode: 52068
+postcode: "52068"
 city: Aachen
 street: "Rotter Bruch"
 housenumber: 8

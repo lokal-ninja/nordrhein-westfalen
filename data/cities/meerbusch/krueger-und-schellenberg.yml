@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2392454
 longitude: 6.7080165
-postcode: 40667
+postcode: "40667"
 city: Meerbusch
 street: "Böhlerstraße"
 housenumber: 4

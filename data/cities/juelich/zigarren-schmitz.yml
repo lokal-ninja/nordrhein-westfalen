@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9231081
 longitude: 6.358582200000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Baierstraße"
 housenumber: 5

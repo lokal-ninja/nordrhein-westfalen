@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.3443589
 longitude: 6.550263
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Hülser Straße"
 housenumber: 159

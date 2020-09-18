@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.183566500000005
 longitude: 6.6817709
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Moselstraße"
 housenumber: 6

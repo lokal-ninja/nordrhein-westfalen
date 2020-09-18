@@ -1,12 +1,12 @@
-id: 45731817
+id: 29102751
 type: way
 shop: Supermarkt
-latitude: 51.437022600000006
-longitude: 7.0260075
-postcode: 45136
+latitude: 51.437991000000004
+longitude: 7.0296330000000005
+postcode: "45136"
 city: Essen
-street: "Eleonorastraße"
-housenumber: 42
-phone: "+49201 8 96 56 03"
-opening_hours: "Mo-Sa 7:00-21:00"
+street: "Rellinghauser Straße"
+housenumber: 245
+phone: ""
+opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-22:00"
 website: ""

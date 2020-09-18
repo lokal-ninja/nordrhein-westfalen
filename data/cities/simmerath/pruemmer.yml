@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6050106
 longitude: 6.307118600000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Humboldtstraße"
 housenumber: 1

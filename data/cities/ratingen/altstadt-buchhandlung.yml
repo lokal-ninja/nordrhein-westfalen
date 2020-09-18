@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.2981205
 longitude: 6.8484205000000005
-postcode: 40878
+postcode: "40878"
 city: Ratingen
 street: "Lintorfer Straße"
 housenumber: 15

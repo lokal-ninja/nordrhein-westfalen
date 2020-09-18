@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.012871600000004
 longitude: 8.5405234
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Luisenstraße"
 housenumber: 54

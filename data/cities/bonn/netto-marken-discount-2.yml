@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6900174
 longitude: 7.1370493
-postcode: 53175
+postcode: "53175"
 city: Bonn
 street: "Im Bendel"
 housenumber: 4

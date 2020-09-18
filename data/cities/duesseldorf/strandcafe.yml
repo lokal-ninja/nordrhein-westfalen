@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.19383130000001
 longitude: 6.8851051000000005
-postcode: 40627
+postcode: "40627"
 city: Düsseldorf
 street: "Am Kleinforst"
 housenumber: 310

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.6569568
 longitude: 6.6166312000000005
-postcode: 46483
+postcode: "46483"
 city: Wesel
 street: "Kreuzstraße"
 housenumber: 10-12

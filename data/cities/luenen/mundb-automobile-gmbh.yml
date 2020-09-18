@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.6118814
 longitude: 7.560485600000001
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Kamener Straße"
 housenumber: 212

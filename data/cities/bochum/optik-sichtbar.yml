@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.471988700000004
 longitude: 7.249519
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 242

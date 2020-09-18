@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.4567114
 longitude: 6.681334400000001
-postcode: 53945
+postcode: "53945"
 city: Blankenheim
 street: "Am Genfbach"
 housenumber: 1

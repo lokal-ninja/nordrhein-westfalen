@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.112883200000006
 longitude: 6.1508367
-postcode: 41849
+postcode: "41849"
 city: Wassenberg
 street: "Lambertusstraße"
 housenumber: 103

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.0753069
 longitude: 7.007037100000001
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Marktstraße"
 housenumber: 3

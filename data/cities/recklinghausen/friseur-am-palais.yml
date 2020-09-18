@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6131795
 longitude: 7.1993115
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Löhrhof"
 housenumber: 8

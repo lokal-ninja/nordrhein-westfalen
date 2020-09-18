@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.9232378
 longitude: 6.3575476
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Düsseldorfer Straße"
 housenumber: 12

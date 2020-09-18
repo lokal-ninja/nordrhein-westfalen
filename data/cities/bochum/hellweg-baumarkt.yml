@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.509024700000005
 longitude: 7.191847500000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Riemker Straße"
 housenumber: 4

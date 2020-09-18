@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.171664400000004
 longitude: 7.977924300000001
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "In der Mark"
 housenumber: 5

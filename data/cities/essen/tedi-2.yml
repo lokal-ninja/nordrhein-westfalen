@@ -1,12 +1,12 @@
-id: 280715449
-type: way
+id: 5033180432
+type: node
 shop: Kramladen
-latitude: 51.4868821
-longitude: 7.0640831
-postcode: 45309
+latitude: 51.460719000000005
+longitude: 6.979261800000001
+postcode: "45143"
 city: Essen
-street: "Huestraße"
-housenumber: 141
-phone: ""
-opening_hours: ""
-website: ""
+street: "Altendorfer Straße"
+housenumber: 299A
+phone: "+49 231 555770"
+opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"
+website: "https://tedi.com/"

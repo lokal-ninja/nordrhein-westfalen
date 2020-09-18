@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.424170200000006
 longitude: 6.8615645
-postcode: 45479
+postcode: "45479"
 city: Mülheim an der Ruhr
 street: "Prinzeß-Luise-Straße"
 housenumber: 42

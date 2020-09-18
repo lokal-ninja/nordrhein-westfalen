@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.6044245
 longitude: 6.2990062
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Hauptstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.675667000000004
 longitude: 8.349519500000001
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Brüderstraße"
 housenumber: 27

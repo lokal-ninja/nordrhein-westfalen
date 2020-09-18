@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 51.5772391
 longitude: 7.055742400000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Goldbergplatz"
 housenumber: 6a

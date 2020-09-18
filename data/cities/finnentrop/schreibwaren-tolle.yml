@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.193353300000005
 longitude: 8.047101
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "Giebelscheidstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.455581200000005
 longitude: 7.394758800000001
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Brauckstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.5384928
 longitude: 7.0241217
-postcode: 45899
+postcode: "45899"
 city: Gelsenkirchen
 street: "Hippolytusstraße"
 housenumber: 1

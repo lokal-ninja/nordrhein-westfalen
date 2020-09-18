@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 51.231365100000005
 longitude: 6.758878500000001
-postcode: 40545
+postcode: "40545"
 city: Düsseldorf
 street: "Luegallee"
 housenumber: 11

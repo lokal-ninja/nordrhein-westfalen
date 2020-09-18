@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.614701700000005
 longitude: 7.1960401
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Heilige-Geist-Straße"
 housenumber: 1

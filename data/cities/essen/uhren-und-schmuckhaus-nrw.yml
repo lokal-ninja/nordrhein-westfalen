@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 51.440343600000006
 longitude: 7.006775
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Witteringstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.503145100000005
 longitude: 7.4642122
-postcode: 44139
+postcode: "44139"
 city: Dortmund
 street: "Chemnitzer Straße"
 housenumber: 95

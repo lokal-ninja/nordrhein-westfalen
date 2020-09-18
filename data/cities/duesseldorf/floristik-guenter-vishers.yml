@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.234198500000005
 longitude: 6.720277500000001
-postcode: 40549
+postcode: "40549"
 city: Düsseldorf
 street: "Schiessstraße"
 housenumber: 16

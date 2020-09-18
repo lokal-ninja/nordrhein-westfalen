@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 51.194065300000005
 longitude: 8.531490100000001
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Am Waltenberg"
 housenumber: 9

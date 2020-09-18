@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7342182
 longitude: 9.022251
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Lange Straße"
 housenumber: 114

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9304204
 longitude: 6.3594545
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Nordstraße"
 housenumber: 

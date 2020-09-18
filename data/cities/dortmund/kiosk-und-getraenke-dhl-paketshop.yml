@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4686516
 longitude: 7.436737900000001
-postcode: 44225
+postcode: "44225"
 city: Dortmund
 street: "Grotenbachstraße"
 housenumber: 50

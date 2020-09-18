@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5271819
 longitude: 9.0367748
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Kasseler Tor"
 housenumber: 40

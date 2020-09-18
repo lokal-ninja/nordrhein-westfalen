@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.553078600000006
 longitude: 6.9460527
-postcode: 46240
+postcode: "46240"
 city: Bottrop
 street: "Industriestraße"
 housenumber: 19

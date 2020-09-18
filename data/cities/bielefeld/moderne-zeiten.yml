@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.0367061
 longitude: 8.5168248
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Schloßhofstraße"
 housenumber: 73

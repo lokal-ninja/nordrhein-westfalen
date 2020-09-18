@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.942061
 longitude: 7.163118900000001
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Wiesenstraße"
 housenumber: 44

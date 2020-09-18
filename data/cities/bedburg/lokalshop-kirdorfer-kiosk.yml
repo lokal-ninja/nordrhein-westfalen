@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9761546
 longitude: 6.5709989
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Theodor-Heuss-Straße"
 housenumber: 30

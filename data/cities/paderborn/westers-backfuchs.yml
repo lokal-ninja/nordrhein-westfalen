@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.74455510000001
 longitude: 8.6712649
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Sander Straße"
 housenumber: 66

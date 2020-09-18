@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 52.1960938
 longitude: 8.564004200000001
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Sachsenstraße"
 housenumber: 113

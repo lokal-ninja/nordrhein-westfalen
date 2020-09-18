@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9553312
 longitude: 7.642207000000001
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Dortmunder Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0957012
 longitude: 6.218518700000001
-postcode: 41812
+postcode: "41812"
 city: Erkelenz
 street: "Lauerstraße"
 housenumber: 25

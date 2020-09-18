@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.652302000000006
 longitude: 6.7402911
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Alte Landstraße"
 housenumber: 120

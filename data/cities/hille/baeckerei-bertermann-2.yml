@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3129799
 longitude: 8.821463000000001
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Mindener Straße"
 housenumber: 444

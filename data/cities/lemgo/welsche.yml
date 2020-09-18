@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.084285200000004
 longitude: 8.8677516
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Salzufler Straße"
 housenumber: 95

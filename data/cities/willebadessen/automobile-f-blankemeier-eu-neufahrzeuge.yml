@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.5761307
 longitude: 9.1628553
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Agissenstraße"
 housenumber: 5

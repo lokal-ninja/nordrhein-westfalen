@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.094407100000005
 longitude: 6.8138759
-postcode: 41540
+postcode: "41540"
 city: Dormagen
 street: "Mathias-Giesen-Straße"
 housenumber: 28

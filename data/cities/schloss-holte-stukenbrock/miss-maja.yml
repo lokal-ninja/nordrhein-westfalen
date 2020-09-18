@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.901633200000006
 longitude: 8.618074700000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Holter Straße"
 housenumber: 242

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.0652442
 longitude: 6.628897
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Am Feldtor"
 housenumber: 5

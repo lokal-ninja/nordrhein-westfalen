@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.838467300000005
 longitude: 6.6160852000000006
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Osterstraße"
 housenumber: 5-11

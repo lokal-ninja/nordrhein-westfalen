@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7133994
 longitude: 8.6359665
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Bahnhofstraße"
 housenumber: 21

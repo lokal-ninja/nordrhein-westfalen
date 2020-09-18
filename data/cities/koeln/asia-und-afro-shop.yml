@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9301101
 longitude: 6.9408351
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Hohenstaufenring"
 housenumber: 15-17

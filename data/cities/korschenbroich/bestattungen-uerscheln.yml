@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.195176200000006
 longitude: 6.5524905
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Ladestraße"
 housenumber: 9

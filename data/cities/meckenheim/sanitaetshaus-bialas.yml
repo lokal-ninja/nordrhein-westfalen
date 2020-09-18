@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 50.6265365
 longitude: 7.0388459
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 33
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:30; We 09:00-13:30; Sa 10:00-13:00"
+opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:30; We 09:00-13:30; Sa 10:00-13:00; PH off"
 website: ""

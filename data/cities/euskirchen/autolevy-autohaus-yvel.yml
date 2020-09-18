@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.652684900000004
 longitude: 6.8094796
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Carl-Benz-Straße"
 housenumber: 32

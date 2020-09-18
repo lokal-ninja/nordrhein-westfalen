@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.019448700000005
 longitude: 8.5447968
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Teutoburger Straße"
 housenumber: 96

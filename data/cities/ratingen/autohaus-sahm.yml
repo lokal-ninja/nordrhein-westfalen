@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2990288
 longitude: 6.8172698
-postcode: 40880
+postcode: "40880"
 city: Ratingen
 street: "Boschstraße"
 housenumber: 4

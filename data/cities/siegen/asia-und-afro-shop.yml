@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8870115
 longitude: 8.0265993
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "In der Hüttenwiese"
 housenumber: 22

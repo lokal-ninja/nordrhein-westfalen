@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7605109
 longitude: 8.560642900000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Südstraße"
 housenumber: 33

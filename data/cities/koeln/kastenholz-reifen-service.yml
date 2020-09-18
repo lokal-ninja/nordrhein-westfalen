@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.9860434
 longitude: 6.943155000000001
-postcode: 50737
+postcode: "50737"
 city: Köln
 street: "Mönchsgasse"
 housenumber: 14

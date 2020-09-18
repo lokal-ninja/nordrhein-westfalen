@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 51.978394200000004
 longitude: 7.5566227
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Rüschhausweg"
 housenumber: 270

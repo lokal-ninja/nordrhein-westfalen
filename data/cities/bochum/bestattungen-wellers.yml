@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.4697405
 longitude: 7.3158067
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Stiftstraße"
 housenumber: 11

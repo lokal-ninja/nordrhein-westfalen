@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.476061900000005
 longitude: 7.2187144000000005
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Hermannshöhe"
 housenumber: 7a

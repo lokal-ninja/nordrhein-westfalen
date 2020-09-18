@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.4313177
 longitude: 6.7953662
-postcode: 47057
+postcode: "47057"
 city: Duisburg
 street: "Sternbuschweg"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 51.675133900000006
 longitude: 8.3449354
-postcode: 59555
+postcode: "59555"
 city: Lippstadt
 street: "Helle Halle"
 housenumber: 5

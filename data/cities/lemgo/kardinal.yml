@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.0282679
 longitude: 8.9020357
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 51-55

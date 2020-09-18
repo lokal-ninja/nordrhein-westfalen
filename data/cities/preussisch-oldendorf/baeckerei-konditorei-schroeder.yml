@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3088458
 longitude: 8.4974413
-postcode: 32361
+postcode: "32361"
 city: Preußisch Oldendorf
 street: "Bremer Straße"
 housenumber: 17

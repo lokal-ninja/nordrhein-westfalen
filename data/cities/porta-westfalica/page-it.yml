@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.2392976
 longitude: 8.920922000000001
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Schalksburgstraße"
 housenumber: 8a

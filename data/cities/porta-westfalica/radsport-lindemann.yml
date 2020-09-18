@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.2493762
 longitude: 8.9115696
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Portastraße"
 housenumber: 21

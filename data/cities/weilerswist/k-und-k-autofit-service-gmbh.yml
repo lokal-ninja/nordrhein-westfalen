@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7368662
 longitude: 6.83152
-postcode: 53919
+postcode: "53919"
 city: Weilerswist
 street: "Mühlenstraße"
 housenumber: 4

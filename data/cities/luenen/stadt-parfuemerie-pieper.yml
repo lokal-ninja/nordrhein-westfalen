@@ -3,7 +3,7 @@ type: way
 shop: Parfümerie
 latitude: 51.613485600000004
 longitude: 7.5239314
-postcode: 44532
+postcode: "44532"
 city: Lünen
 street: "Lange Straße"
 housenumber: 36

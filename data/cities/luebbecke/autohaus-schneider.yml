@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3152054
 longitude: 8.6153136
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Rahdener Straße"
 housenumber: 57a

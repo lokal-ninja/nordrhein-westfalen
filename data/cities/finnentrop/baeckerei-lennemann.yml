@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1778197
 longitude: 7.9695381
-postcode: 57413
+postcode: "57413"
 city: Finnentrop
 street: "Kirchstraße"
 housenumber: 77

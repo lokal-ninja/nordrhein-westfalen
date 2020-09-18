@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4601726
 longitude: 7.0774195
-postcode: 45307
+postcode: "45307"
 city: Essen
 street: "Am Bocklerbaum"
 housenumber: 22

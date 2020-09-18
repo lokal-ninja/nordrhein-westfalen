@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.373870000000004
 longitude: 7.698283000000001
-postcode: 58636
+postcode: "58636"
 city: Iserlohn
 street: "Mühlentor"
 housenumber: 10

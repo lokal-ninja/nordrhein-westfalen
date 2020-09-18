@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.799744100000005
 longitude: 7.2085132000000005
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Cecilienstraße"
 housenumber: 8

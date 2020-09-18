@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.716884
 longitude: 8.7536492
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Rathausplatz"
 housenumber: 9

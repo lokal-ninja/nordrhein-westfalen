@@ -3,10 +3,10 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.3934117
 longitude: 7.0822672
-postcode: 45257
+postcode: "45257"
 city: Essen
 street: "Kupferdreher Straße"
 housenumber: 132
 phone: ""
-opening_hours: ""
+opening_hours: "Mo, Mi, Do, Fr, Sa: 10-12; Di: 10-11:30; Fr: 15-17"
 website: ""

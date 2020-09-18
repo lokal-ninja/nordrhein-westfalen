@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2004627
 longitude: 6.3999978
-postcode: 41068
+postcode: "41068"
 city: Mönchengladbach
 street: "Hamerweg"
 housenumber: 155

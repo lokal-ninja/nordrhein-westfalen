@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.92264
 longitude: 6.3632894
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Große Rurstraße"
 housenumber: 20

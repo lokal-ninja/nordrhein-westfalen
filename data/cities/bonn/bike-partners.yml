@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.676965
 longitude: 7.068688900000001
-postcode: 53125
+postcode: "53125"
 city: Bonn
 street: "Herzogsfreudenweg"
 housenumber: 3

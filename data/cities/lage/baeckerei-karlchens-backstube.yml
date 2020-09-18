@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.966458800000005
 longitude: 8.772470700000001
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Landwehrstraße"
 housenumber: 25

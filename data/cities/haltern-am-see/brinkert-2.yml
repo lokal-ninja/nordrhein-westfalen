@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.743842900000004
 longitude: 7.190815400000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Schüttenwall"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 52.0746437
 longitude: 6.999905900000001
-postcode: 48683
+postcode: "48683"
 city: Ahaus
 street: "Wüllener Straße"
 housenumber: 49;51

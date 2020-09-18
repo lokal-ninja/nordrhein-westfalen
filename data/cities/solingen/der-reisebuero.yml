@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.16149720000001
 longitude: 6.999886200000001
-postcode: 42697
+postcode: "42697"
 city: Solingen
 street: "Düsseldorfer Straße"
 housenumber: 46

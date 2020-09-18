@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5230613
 longitude: 8.7054623
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Zinsdorfer Weg"
 housenumber: 31

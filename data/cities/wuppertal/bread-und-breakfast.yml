@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.263962500000005
 longitude: 7.179807
-postcode: 
+postcode: ""
 city: Wuppertal
 street: "Farbmühle"
 housenumber: 2

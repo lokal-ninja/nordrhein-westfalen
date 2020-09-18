@@ -1,4 +1,4 @@
 ---
-title: "Wolsdorff Cigarren"
+title: "Wolsdorff-Cigarren"
 url: /bochum/wolsdorff-cigarren/
 ---

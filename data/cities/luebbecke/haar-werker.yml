@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3090838
 longitude: 8.633926
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Am Zollamt"
 housenumber: 21a

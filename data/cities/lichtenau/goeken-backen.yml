@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6138552
 longitude: 8.8949435
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Husener Straße"
 housenumber: 17

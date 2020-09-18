@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6516443
 longitude: 6.9821198
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Händelstraße"
 housenumber: 157

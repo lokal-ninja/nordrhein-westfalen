@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.210704500000006
 longitude: 6.6400525
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Hans-Dietrich-Genscher-Straße"
 housenumber: 1

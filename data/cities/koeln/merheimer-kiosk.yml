@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.944344400000006
 longitude: 7.0481328
-postcode: 51109
+postcode: "51109"
 city: Köln
 street: "Kieskaulerweg"
 housenumber: 151

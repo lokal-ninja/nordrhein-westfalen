@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.019707600000004
 longitude: 8.532792200000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Gehrenberg"
 housenumber: 15

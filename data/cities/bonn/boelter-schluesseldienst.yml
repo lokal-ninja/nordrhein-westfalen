@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.7208957
 longitude: 7.087320600000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Clemens-August-Straße"
 housenumber: 76

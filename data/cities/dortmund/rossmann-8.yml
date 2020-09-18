@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.5696619
 longitude: 7.383137100000001
-postcode: 44359
+postcode: "44359"
 city: Dortmund
 street: "Siegburgstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 52.0330245
 longitude: 8.5435361
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 122

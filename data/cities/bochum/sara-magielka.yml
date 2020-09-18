@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.4737943
 longitude: 7.2146167000000005
-postcode: 44789
+postcode: "44789"
 city: Bochum
 street: "Alte Hattinger Straße"
 housenumber: 22

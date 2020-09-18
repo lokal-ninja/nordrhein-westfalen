@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.670774800000004
 longitude: 6.9774801
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Halterner Straße"
 housenumber: 63;65

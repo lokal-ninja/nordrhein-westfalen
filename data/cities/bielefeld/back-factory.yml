@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.0247839
 longitude: 8.533393100000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 9

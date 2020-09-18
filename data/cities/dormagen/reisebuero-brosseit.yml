@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1143014
 longitude: 6.7699945
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Saint-André-Straße"
 housenumber: 10

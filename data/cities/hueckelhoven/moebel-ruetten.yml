@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.072294500000005
 longitude: 6.1790874
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Schröverweg"
 housenumber: 47-49

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3967115
 longitude: 7.7789225
-postcode: 58675
+postcode: "58675"
 city: Hemer
 street: "Urbecker Straße"
 housenumber: 122

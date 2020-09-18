@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.521484400000006
 longitude: 6.787724300000001
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Siegesstraße"
 housenumber: 140

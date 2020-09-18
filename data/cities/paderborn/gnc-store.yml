@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.747700200000004
 longitude: 8.7153018
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bielefelder Straße"
 housenumber: 18

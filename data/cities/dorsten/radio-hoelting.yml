@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 51.6697702
 longitude: 6.974078
-postcode: 46284
+postcode: "46284"
 city: Dorsten
 street: "Halterner Straße"
 housenumber: 42

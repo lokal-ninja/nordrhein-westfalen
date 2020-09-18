@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 51.4441623
 longitude: 6.2695978000000006
-postcode: 47638
+postcode: "47638"
 city: Straelen
 street: "Rathausstraße"
 housenumber: 1

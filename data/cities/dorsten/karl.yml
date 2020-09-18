@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6610127
 longitude: 6.9565539
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Hafenstraße"
 housenumber: 10

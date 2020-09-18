@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.023751700000005
 longitude: 8.53275
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Bahnhofstraße"
 housenumber: 2

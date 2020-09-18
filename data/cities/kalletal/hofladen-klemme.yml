@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.1278973
 longitude: 8.941759300000001
-postcode: 32689
+postcode: "32689"
 city: Kalletal
 street: "Dalbke"
 housenumber: 3

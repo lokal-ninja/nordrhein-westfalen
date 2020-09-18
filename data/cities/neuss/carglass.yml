@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.184263300000005
 longitude: 6.6817377
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Ruwerstraße"
 housenumber: 3

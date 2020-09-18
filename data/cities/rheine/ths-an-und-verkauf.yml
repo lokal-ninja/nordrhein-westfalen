@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.2839588
 longitude: 7.4525516000000005
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Osnabrücker Straße"
 housenumber: 119

@@ -3,7 +3,7 @@ type: way
 shop: Partyzubehör
 latitude: 51.815791000000004
 longitude: 8.6657823
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Zieglerstraße"
 housenumber: 2

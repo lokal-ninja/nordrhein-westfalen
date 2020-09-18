@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.9359698
 longitude: 6.7797098
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Augustinusstraße"
 housenumber: 11e

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 52.205816000000006
 longitude: 8.8038937
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Königstraße"
 housenumber: 29

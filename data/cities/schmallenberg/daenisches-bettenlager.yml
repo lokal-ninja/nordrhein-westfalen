@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.18391200000001
 longitude: 8.3222362
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Holthauser Straße"
 housenumber: 1

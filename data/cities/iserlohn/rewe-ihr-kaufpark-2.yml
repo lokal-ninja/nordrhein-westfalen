@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.441244600000005
 longitude: 7.6507035000000005
-postcode: 58640
+postcode: "58640"
 city: Iserlohn
 street: "Schöneberger Straße"
 housenumber: 2a

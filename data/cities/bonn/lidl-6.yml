@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7318877
 longitude: 7.079733900000001
-postcode: 53115
+postcode: "53115"
 city: Bonn
 street: "Endenicher Straße"
 housenumber: 116

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8348492
 longitude: 8.8379338
-postcode: 33189
+postcode: "33189"
 city: Schlangen-Oesterholz
 street: "Dorfplatz"
 housenumber: 

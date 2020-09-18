@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.972298
 longitude: 8.7735821
-postcode: 32791
+postcode: "32791"
 city: Lage
 street: "Breitenheider Straße"
 housenumber: 242

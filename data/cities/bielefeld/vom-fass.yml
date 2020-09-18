@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.022674
 longitude: 8.5338702
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Niederwall"
 housenumber: 5

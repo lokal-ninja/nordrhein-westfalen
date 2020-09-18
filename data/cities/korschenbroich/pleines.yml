@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.195007000000004
 longitude: 6.5534653
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Bahnhofstraße"
 housenumber: 2

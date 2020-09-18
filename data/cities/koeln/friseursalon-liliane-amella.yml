@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.926597900000004
 longitude: 6.957839300000001
-postcode: 50678
+postcode: "50678"
 city: Köln
 street: "Severinstraße"
 housenumber: 109

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.629060200000005
 longitude: 6.5792479
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Pastor-Bergmann-Straße"
 housenumber: 19

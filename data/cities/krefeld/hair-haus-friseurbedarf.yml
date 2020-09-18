@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 51.328798600000006
 longitude: 6.5683622
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Ostwall"
 housenumber: 55-57

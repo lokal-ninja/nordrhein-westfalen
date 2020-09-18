@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.028373200000004
 longitude: 8.8801514
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Herforder Straße"
 housenumber: 81-83

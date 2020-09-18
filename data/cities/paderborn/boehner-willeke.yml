@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.71197050000001
 longitude: 8.7582096
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Brüderstraße"
 housenumber: 18

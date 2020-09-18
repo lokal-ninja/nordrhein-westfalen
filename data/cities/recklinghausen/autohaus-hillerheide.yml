@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.598066700000004
 longitude: 7.205899700000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Herner Straße"
 housenumber: 101

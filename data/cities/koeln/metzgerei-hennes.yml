@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.868515300000006
 longitude: 7.0475424
-postcode: 51143
+postcode: "51143"
 city: Köln
 street: "Schmittgasse"
 housenumber: 30

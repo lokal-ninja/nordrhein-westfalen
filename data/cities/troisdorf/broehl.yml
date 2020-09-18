@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.812055300000004
 longitude: 7.1422249
-postcode: 53842
+postcode: "53842"
 city: Troisdorf
 street: "Sieglarer Straße"
 housenumber: 83

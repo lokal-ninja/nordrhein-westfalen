@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.204470400000005
 longitude: 6.7715472000000005
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Suitbertusstraße"
 housenumber: 89

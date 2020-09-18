@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.312967300000004
 longitude: 8.8853582
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Stiftsallee"
 housenumber: 132

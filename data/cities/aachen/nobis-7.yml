@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.779071900000005
 longitude: 6.0811557
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Pontstraße"
 housenumber: 96

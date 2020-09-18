@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4421302
 longitude: 6.9005809000000005
-postcode: 45473
+postcode: "45473"
 city: Mülheim an der Ruhr
 street: "Aktienstraße"
 housenumber: 184

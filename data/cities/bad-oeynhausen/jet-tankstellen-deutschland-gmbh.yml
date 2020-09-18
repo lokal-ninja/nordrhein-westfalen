@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.206044000000006
 longitude: 8.786263
-postcode: 32545
+postcode: "32545"
 city: Bad Oeynhausen
 street: "Kanalstraße"
 housenumber: 

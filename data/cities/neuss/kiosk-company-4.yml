@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.220068500000004
 longitude: 6.6571154
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Kaarster Straße"
 housenumber: 98

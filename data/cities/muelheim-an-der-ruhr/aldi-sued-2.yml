@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.42712160000001
 longitude: 6.8994854000000005
-postcode: 45470
+postcode: "45470"
 city: Mülheim an der Ruhr
 street: "Essener Straße"
 housenumber: 46-48

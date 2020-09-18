@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.7710821
 longitude: 7.4438722
-postcode: 59348
+postcode: "59348"
 city: Lüdinghausen
 street: "Langenbrückenstraße"
 housenumber: 14

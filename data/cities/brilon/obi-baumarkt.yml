@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.4040582
 longitude: 8.5735303
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Möhnestraße"
 housenumber: 31

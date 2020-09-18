@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.7781801
 longitude: 6.1600792
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 173

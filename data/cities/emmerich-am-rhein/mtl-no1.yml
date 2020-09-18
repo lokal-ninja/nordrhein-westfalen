@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.8226196
 longitude: 6.3097063
-postcode: 46446
+postcode: "46446"
 city: Emmerich am Rhein
 street: "Josefsweg"
 housenumber: 2

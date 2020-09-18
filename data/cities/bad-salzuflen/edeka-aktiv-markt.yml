@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.083863
 longitude: 8.7455326
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Lange Straße"
 housenumber: 21-25

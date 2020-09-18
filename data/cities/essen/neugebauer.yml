@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.431989
 longitude: 7.0351311
-postcode: 45136
+postcode: "45136"
 city: Essen
 street: "Kaninenberghöhe"
 housenumber: 14

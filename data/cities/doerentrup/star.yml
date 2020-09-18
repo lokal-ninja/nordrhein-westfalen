@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.0325403
 longitude: 9.0065691
-postcode: 32694
+postcode: "32694"
 city: Dörentrup
 street: "Hamelner Straße"
 housenumber: 6

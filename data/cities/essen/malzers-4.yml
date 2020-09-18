@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4961129
 longitude: 7.0169284
-postcode: 45326
+postcode: "45326"
 city: Essen
 street: "Stauderstraße"
 housenumber: 55

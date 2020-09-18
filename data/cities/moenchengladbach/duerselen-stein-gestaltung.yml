@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.1411863
 longitude: 6.4159873
-postcode: 41189
+postcode: "41189"
 city: Mönchengladbach
 street: "Nobelstraße"
 housenumber: 10

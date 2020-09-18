@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.3069677
 longitude: 8.8483829
-postcode: 32427
+postcode: "32427"
 city: Minden
 street: "Königstraße"
 housenumber: 

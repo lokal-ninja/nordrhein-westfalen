@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.891268600000004
 longitude: 6.9974463
-postcode: 50996
+postcode: "50996"
 city: Köln
 street: "Walther-Rathenau-Straße"
 housenumber: 2

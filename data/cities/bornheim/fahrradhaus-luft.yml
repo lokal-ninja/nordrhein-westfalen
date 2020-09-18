@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7626293
 longitude: 6.9892976
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Königstraße"
 housenumber: 81a

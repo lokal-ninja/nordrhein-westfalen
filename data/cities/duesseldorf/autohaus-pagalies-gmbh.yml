@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.2211615
 longitude: 6.8056092
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Albertstraße"
 housenumber: 40

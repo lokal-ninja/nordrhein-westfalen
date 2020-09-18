@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 51.478832100000005
 longitude: 7.218733200000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Südring"
 housenumber: 8
-phone: ""
+phone: "+4923415255"
 opening_hours: "Mo-Tu 10:00-19:00, Th-Fr 10:00-19:00, Sa 10:00-16:00"
 website: "https://www.optik-ruether.de/"

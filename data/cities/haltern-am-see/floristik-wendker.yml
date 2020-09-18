@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.743329900000006
 longitude: 7.1855102
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Gantepoth"
 housenumber: 7

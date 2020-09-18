@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.4710459
 longitude: 7.3721398
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Hörder Straße"
 housenumber: 360

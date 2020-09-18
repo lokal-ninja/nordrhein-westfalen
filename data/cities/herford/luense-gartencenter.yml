@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.063759700000006
 longitude: 8.644612200000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Elverdisser Straße"
 housenumber: 548

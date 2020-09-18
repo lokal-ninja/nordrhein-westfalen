@@ -1,4 +1,4 @@
 ---
-title: "Pfaff Nähzentrum Bochum"
+title: "Pfaff-Nähzentrum Bochum"
 url: /bochum/pfaff-naehzentrum-bochum/
 ---

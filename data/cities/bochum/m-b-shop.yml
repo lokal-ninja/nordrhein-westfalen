@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.484014300000005
 longitude: 7.1530024
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Hansastraße"
 housenumber: 82

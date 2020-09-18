@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.2712973
 longitude: 7.4106673
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Felsenstraße"
 housenumber: 2

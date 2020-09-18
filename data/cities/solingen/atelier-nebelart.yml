@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.1611695
 longitude: 7.007486
-postcode: 42697
+postcode: "42697"
 city: Solingen
 street: "Sauerbreystraße"
 housenumber: 24a

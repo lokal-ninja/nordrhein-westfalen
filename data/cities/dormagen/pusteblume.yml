@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.127419700000004
 longitude: 6.7864171
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Johannesstraße"
 housenumber: 67

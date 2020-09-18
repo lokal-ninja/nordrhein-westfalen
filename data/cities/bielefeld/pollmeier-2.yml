@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.070263100000005
 longitude: 8.6027083
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Waagestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.1145416
 longitude: 8.6720232
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Gehrenberg"
 housenumber: 2

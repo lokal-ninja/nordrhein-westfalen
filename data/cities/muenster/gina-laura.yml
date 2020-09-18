@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9493893
 longitude: 7.624693400000001
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Hammer Straße"
 housenumber: 67

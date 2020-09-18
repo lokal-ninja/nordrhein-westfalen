@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.9467452
 longitude: 6.9116923
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Weinsbergstraße"
 housenumber: 190a

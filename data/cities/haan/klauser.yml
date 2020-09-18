@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1922021
 longitude: 7.009532200000001
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Kaiserstraße"
 housenumber: 23

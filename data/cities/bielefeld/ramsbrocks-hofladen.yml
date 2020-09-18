@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.046221
 longitude: 8.636158400000001
-postcode: 33729
+postcode: "33729"
 city: Bielefeld
 street: "Brönninghauser Straße"
 housenumber: 60

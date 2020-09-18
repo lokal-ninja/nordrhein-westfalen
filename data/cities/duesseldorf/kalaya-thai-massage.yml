@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.2440374
 longitude: 6.7809308
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Roßstraße"
 housenumber: 37

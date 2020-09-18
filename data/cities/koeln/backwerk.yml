@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9291416
 longitude: 6.943118200000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Neue Weyerstraße"
 housenumber: 10

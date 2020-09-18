@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.257787900000004
 longitude: 7.1482435
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Schwanenstraße"
 housenumber: 17

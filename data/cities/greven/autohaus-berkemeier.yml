@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.111882
 longitude: 7.6079327
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Zum Wasserwerk"
 housenumber: 9

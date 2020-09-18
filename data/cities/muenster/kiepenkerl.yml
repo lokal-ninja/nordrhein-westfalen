@@ -1,12 +1,12 @@
-id: 655035352
+id: 286319894
 type: node
 shop: Bäckerei
-latitude: 51.958894
-longitude: 7.6291263
-postcode: 48143
+latitude: 51.983142400000006
+longitude: 7.6465455
+postcode: "48147"
 city: Münster
-street: "Windthorststraße"
-housenumber: 47
-phone: "+49 251 44718"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-19:00; Su 09:00-17:00"
+street: "Hoher Heckenweg"
+housenumber: 186
+phone: "+49 251 32705242"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-13:00; Su 07:00-16:00"
 website: "https://baeckerei-kiepenkerl.de/"

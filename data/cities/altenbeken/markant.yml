@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.713369
 longitude: 8.9363776
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
 street: "Osttorstraße"
 housenumber: 6

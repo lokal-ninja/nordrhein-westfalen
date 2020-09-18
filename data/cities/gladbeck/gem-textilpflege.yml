@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.590822
 longitude: 6.9838382
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Beethovenstraße"
 housenumber: 27

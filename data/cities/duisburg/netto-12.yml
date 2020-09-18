@@ -1,12 +1,12 @@
-id: 146450642
+id: 150279542
 type: way
 shop: Supermarkt
-latitude: 51.417506700000004
-longitude: 6.7909917
-postcode: 47057
+latitude: 51.4575096
+longitude: 6.736520100000001
+postcode: "47119"
 city: Duisburg
-street: "Mozartstraße"
-housenumber: 17
+street: "Friedrich-Ebert-Straße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: ""
 website: ""

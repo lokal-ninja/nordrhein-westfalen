@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1938693
 longitude: 8.7075555
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Hallenberger Straße"
 housenumber: 19

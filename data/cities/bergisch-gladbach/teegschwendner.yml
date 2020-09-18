@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.990835700000005
 longitude: 7.125842100000001
-postcode: 51465
+postcode: "51465"
 city: Bergisch Gladbach
 street: "Hauptstraße"
 housenumber: 139

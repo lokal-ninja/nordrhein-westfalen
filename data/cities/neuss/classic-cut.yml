@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.19867970000001
 longitude: 6.686167
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Büttger Straße"
 housenumber: 17

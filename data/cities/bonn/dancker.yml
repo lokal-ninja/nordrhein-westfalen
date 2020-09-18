@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.7357859
 longitude: 7.100213
-postcode: 53111
+postcode: "53111"
 city: Bonn
 street: "Sternstraße"
 housenumber: 24

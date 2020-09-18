@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.792292700000004
 longitude: 6.1056495
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Lukasstraße"
 housenumber: 12

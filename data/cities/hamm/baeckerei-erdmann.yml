@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.673686200000006
 longitude: 7.814722700000001
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Sedanstraße"
-housenumber: 56
+housenumber: 58
 phone: ""
 opening_hours: ""
 website: ""

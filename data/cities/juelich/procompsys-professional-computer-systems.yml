@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.9230705
 longitude: 6.363057100000001
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kölnstraße"
 housenumber: 29

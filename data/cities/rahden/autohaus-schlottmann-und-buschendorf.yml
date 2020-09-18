@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.508386200000004
 longitude: 8.627913000000001
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Moororter Straße"
 housenumber: 6

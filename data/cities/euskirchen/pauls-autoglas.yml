@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6550275
 longitude: 6.8326329
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Klusenweg"
 housenumber: 22

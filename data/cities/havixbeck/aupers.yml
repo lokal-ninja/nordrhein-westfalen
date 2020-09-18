@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.976057000000004
 longitude: 7.412054
-postcode: 48329
+postcode: "48329"
 city: Havixbeck
 street: "Hauptstraße"
 housenumber: 47

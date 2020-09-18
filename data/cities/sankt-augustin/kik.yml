@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.780291500000004
 longitude: 7.1886216
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
 street: "Südstraße"
 housenumber: 27-35

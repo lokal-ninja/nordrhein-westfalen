@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 50.552610800000004
 longitude: 6.2417211
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Kirchstraße"
 housenumber: 51

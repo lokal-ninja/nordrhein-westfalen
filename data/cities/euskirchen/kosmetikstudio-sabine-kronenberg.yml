@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.687324800000006
 longitude: 6.8177658
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Feldgartenstraße"
 housenumber: 31b

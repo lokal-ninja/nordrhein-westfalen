@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.88207250000001
 longitude: 8.2409092
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Debusstraße"
 housenumber: 9

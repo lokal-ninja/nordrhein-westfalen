@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7419013
 longitude: 7.1853417
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Rochfordstraße"
 housenumber: 32-36

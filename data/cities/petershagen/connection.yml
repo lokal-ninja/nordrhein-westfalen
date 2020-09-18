@@ -3,10 +3,10 @@ type: node
 shop: Handy
 latitude: 52.363906
 longitude: 9.009785
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "An der Bahn"
 housenumber: 17
 phone: "+49 5702 85850"
 opening_hours: ""
-website: ""
+website: "https://www.mobilcom-debitel.de/shops/petershagen-an-der-bahn"

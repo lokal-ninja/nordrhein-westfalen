@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 51.533410800000006
 longitude: 7.685269600000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Westring"
 housenumber: 9a

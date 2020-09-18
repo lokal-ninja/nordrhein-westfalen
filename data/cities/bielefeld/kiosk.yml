@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.030998600000004
 longitude: 8.523441
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Siegfriedstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.832715500000006
 longitude: 7.0452605
-postcode: 48734
+postcode: "48734"
 city: Reken
 street: "Neue Mitte"
 housenumber: 10

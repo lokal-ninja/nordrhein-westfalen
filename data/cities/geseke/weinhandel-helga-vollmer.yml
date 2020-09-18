@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.642724300000005
 longitude: 8.507591300000001
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Viehstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.548694600000005
 longitude: 7.3097941
-postcode: 44575
+postcode: "44575"
 city: Castrop-Rauxel
 street: "Münsterstraße"
 housenumber: 5

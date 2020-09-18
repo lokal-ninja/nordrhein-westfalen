@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.8219305
 longitude: 8.4357387
-postcode: 33397
+postcode: "33397"
 city: Rietberg
 street: "Konrad-Adenauer-Straße"
 housenumber: 18

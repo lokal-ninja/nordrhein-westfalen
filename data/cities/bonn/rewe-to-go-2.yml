@@ -1,12 +1,12 @@
-id: 4417420202
-type: node
+id: 170167051
+type: way
 shop: Lebensmittel
-latitude: 50.743289100000005
-longitude: 7.0789292
-postcode: 53119
+latitude: 50.7011419
+longitude: 7.1363785
+postcode: "53175"
 city: Bonn
-street: "Potsdamer Platz"
-housenumber: 2
+street: "Godesberger Allee"
+housenumber: 131
 phone: ""
 opening_hours: "24/7"
-website: "https://togo.rewe.de/"
+website: ""

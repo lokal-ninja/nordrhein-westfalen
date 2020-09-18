@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.605676700000004
 longitude: 7.2116283
-postcode: 45665
+postcode: "45665"
 city: Recklinghausen
 street: "Castroper Straße"
 housenumber: 124

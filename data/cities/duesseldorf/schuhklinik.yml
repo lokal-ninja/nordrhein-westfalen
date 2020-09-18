@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.2076519
 longitude: 6.8311757
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Reisholzer Straße"
 housenumber: 32

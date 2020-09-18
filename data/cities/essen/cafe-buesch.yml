@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3884235
 longitude: 7.0117731
-postcode: 45239
+postcode: "45239"
 city: Essen
 street: "Velberter Straße"
 housenumber: 4

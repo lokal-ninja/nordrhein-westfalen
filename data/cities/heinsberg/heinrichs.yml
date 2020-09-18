@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0633471
 longitude: 6.0958322
-postcode: 52525
+postcode: "52525"
 city: Heinsberg
 street: "Hochstraße"
 housenumber: 125

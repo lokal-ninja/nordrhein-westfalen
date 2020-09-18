@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.956853200000005
 longitude: 7.6414742
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Wolbecker Straße"
 housenumber: 54

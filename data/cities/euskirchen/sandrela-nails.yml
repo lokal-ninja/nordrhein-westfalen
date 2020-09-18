@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.6643642
 longitude: 6.7882093
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kessenicher Straße"
 housenumber: 77

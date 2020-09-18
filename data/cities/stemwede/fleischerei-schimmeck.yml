@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4635419
 longitude: 8.542344
-postcode: 32351
+postcode: "32351"
 city: Stemwede
 street: "Hammoor"
 housenumber: 2

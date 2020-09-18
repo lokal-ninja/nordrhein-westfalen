@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.2578157
 longitude: 7.1474463
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Poststraße"
 housenumber: 10

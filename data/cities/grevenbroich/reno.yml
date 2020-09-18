@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.088130500000005
 longitude: 6.5903419
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Kölner Straße"
 housenumber: 9-11

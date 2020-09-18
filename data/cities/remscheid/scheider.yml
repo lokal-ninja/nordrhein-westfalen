@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1896313
 longitude: 7.2661606
-postcode: 42897
+postcode: "42897"
 city: Remscheid
 street: "Neuenteich"
 housenumber: 3

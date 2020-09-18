@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1883174
 longitude: 7.5061467
-postcode: 58553
+postcode: "58553"
 city: Halver
 street: "Schützenstraße"
 housenumber: 11, 13

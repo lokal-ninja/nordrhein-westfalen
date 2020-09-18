@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8687546
 longitude: 8.0056761
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Schlachthausstraße"
 housenumber: 12

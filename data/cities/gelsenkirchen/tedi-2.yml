@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5798854
 longitude: 7.0525114
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 40; 42; 44

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.071335600000005
 longitude: 9.117522300000001
-postcode: 32699
+postcode: "32699"
 city: Extertal
 street: "Bruchweg"
 housenumber: 3

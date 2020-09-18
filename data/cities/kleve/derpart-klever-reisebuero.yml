@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.7888998
 longitude: 6.139639000000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Große Straße"
 housenumber: 24

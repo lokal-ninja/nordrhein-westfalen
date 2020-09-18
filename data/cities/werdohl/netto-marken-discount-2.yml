@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2433727
 longitude: 7.7783183000000005
-postcode: 58791
+postcode: "58791"
 city: Werdohl
 street: "Pungelscheider Weg"
 housenumber: 63

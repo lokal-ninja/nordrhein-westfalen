@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 51.456479900000005
 longitude: 7.0076694
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Lindenallee"
 housenumber: 80

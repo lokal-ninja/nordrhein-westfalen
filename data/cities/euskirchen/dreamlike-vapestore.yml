@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.661639300000004
 longitude: 6.7891661
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Berliner Straße"
 housenumber: 12a

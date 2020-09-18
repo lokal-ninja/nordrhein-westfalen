@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.738775600000004
 longitude: 7.087587600000001
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Hochstadenring"
 housenumber: 1

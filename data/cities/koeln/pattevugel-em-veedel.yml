@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.921508700000004
 longitude: 6.9193046
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 314

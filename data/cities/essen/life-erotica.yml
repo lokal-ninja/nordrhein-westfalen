@@ -3,7 +3,7 @@ type: way
 shop: Erotik
 latitude: 51.4568996
 longitude: 7.009521100000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Salzmarkt"
 housenumber: 8

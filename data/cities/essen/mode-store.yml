@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.439649900000006
 longitude: 7.0062595000000005
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 71

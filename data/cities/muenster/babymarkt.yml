@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 51.96479110000001
 longitude: 7.631775800000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Hörsterstraße"
 housenumber: 41-45

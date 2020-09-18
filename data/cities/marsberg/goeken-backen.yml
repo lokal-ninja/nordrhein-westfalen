@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4584978
 longitude: 8.852691
-postcode: 34431
+postcode: "34431"
 city: Marsberg
 street: "Bülberg"
 housenumber: 1

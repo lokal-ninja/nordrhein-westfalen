@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.7222966
 longitude: 9.0161166
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Dringenberger Straße"
 housenumber: 56

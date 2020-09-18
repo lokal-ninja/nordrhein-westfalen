@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.8446762
 longitude: 6.8564511
-postcode: 46325
+postcode: "46325"
 city: Borken
 street: "Brinkstraße"
 housenumber: 30

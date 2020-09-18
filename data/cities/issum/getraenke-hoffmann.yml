@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.5383762
 longitude: 6.431526300000001
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Weseler Straße"
 housenumber: 45

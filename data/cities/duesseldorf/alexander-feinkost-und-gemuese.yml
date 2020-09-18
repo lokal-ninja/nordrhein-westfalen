@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.235724000000005
 longitude: 6.7820296
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
 street: "Duisburger Straße"
 housenumber: 40

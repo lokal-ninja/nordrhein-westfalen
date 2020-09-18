@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.214240100000005
 longitude: 6.754808700000001
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Hammer Straße"
 housenumber: 19b

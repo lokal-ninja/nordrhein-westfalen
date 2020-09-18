@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.7788242
 longitude: 8.803148100000001
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Am Vorderflöß"
 housenumber: 25c

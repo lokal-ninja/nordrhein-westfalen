@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.932061000000004
 longitude: 6.856458300000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Am Weidenpesch"
 housenumber: 16

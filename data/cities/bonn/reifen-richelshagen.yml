@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.7414198
 longitude: 7.0662551
-postcode: 53119
+postcode: "53119"
 city: Bonn
 street: "Soenneckenstraße"
 housenumber: 8

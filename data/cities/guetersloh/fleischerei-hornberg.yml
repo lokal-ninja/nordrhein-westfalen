@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9126065
 longitude: 8.3793284
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Friedrich-Ebert-Straße"
 housenumber: 15

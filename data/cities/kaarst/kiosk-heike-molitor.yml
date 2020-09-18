@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.2317763
 longitude: 6.6166612
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Friedensstraße"
 housenumber: 3

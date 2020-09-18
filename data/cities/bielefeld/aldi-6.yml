@@ -1,9 +1,9 @@
 id: 1373037326
 type: node
 shop: Supermarkt
-latitude: 52.032401
-longitude: 8.6092869
-postcode: 33719
+latitude: 52.032405000000004
+longitude: 8.6092822
+postcode: "33719"
 city: Bielefeld
 street: "Amtmann-Bullrich-Straße"
 housenumber: 23

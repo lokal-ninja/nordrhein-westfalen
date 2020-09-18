@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 51.2132804
 longitude: 6.806409800000001
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Kölner Straße"
 housenumber: 264

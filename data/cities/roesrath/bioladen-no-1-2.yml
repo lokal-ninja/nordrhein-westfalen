@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8950157
 longitude: 7.177044100000001
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Kölner Straße"
 housenumber: 1

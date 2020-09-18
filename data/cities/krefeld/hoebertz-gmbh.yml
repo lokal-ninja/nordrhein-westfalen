@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.378854700000005
 longitude: 6.5054537
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Tönisberger Straße"
 housenumber: 101

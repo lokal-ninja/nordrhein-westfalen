@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5491995
 longitude: 7.1485699
-postcode: 44653
+postcode: "44653"
 city: Herne
 street: "Resser Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5625331
 longitude: 7.04614
-postcode: 45897
+postcode: "45897"
 city: Gelsenkirchen
 street: "Horster Straße"
 housenumber: 212

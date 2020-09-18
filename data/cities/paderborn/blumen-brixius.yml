@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.73249800000001
 longitude: 8.7862086
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Senefelderstraße"
 housenumber: 4

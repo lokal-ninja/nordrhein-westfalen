@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.2147124
 longitude: 6.7874422
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Helmholtz Straße"
 housenumber: 28

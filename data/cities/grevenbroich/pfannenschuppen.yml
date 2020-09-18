@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.123214000000004
 longitude: 6.702850000000001
-postcode: 41516
+postcode: "41516"
 city: Grevenbroich
 street: "Pfannenschuppen"
 housenumber: 1

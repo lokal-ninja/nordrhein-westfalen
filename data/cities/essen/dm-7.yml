@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.437952300000006
 longitude: 7.0052262
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Rüttenscheider Straße"
 housenumber: 62

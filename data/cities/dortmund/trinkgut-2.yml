@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.5241005
 longitude: 7.5087685
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Hannöversche Straße"
 housenumber: 54

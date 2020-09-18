@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.236490200000006
 longitude: 6.801236
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Herderstraße"
 housenumber: 59

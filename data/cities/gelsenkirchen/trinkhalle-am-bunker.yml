@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.5927257
 longitude: 7.020126100000001
-postcode: 45896
+postcode: "45896"
 city: Gelsenkirchen
 street: "Feldhauser Straße"
 housenumber: 205

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5733936
 longitude: 6.966045200000001
-postcode: 45966
+postcode: "45966"
 city: Gladbeck
 street: "Stollenstraße"
 housenumber: 19

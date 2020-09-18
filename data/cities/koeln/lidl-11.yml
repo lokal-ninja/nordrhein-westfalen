@@ -1,12 +1,12 @@
-id: 35815262
+id: 38104120
 type: way
 shop: Supermarkt
-latitude: 50.9653113
-longitude: 6.904903600000001
-postcode: 50827
+latitude: 50.9002971
+longitude: 7.0757456
+postcode: "51145"
 city: Köln
-street: "Rochusstraße"
-housenumber: 235
+street: "Friedrich-Naumann-Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: ""
 website: ""

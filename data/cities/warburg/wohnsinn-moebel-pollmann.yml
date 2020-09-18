@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.49289640000001
 longitude: 9.129625200000001
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Paderborner Tor"
 housenumber: 170

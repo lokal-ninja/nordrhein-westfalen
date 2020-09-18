@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.879883400000004
 longitude: 6.1144087
-postcode: 52134
+postcode: "52134"
 city: Herzogenrath
 street: "Nordstern-Park"
 housenumber: 7

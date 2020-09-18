@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 50.6663456
 longitude: 6.7673442
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Tilsiter Straße"
 housenumber: 17

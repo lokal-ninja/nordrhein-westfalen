@@ -3,10 +3,10 @@ type: node
 shop: Allgemein
 latitude: 50.969721500000006
 longitude: 7.007619500000001
-postcode: 51063
+postcode: "51063"
 city: Köln
 street: "Berliner Straße"
 housenumber: 12
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+website: "http://www.harbeke.de"

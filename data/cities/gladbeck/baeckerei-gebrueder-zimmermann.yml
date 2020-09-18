@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.5629757
 longitude: 6.9980352
-postcode: 45968
+postcode: "45968"
 city: Gladbeck
 street: "Horster Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9341342
 longitude: 6.9777037
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Gotenring"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.021001500000004
 longitude: 8.876028100000001
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Stegelmannstraße"
 housenumber: 1

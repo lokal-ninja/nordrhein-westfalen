@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.6032425
 longitude: 7.185471100000001
-postcode: 45659
+postcode: "45659"
 city: Recklinghausen
 street: "Friedrich-Ebert-Straße"
 housenumber: 8

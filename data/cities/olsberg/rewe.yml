@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.355506600000005
 longitude: 8.4831179
-postcode: 59939
+postcode: "59939"
 city: Olsberg
 street: "Ruhrufer"
 housenumber: 20

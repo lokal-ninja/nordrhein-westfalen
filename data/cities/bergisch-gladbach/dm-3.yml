@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9844555
 longitude: 7.1206706
-postcode: 51465
+postcode: "51465"
 city: Bergisch Gladbach
 street: "Richard-Zanders-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.4862782
 longitude: 7.195085400000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Gahlensche Straße"
 housenumber: 95

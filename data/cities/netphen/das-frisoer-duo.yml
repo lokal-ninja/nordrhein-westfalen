@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.9156388
 longitude: 8.050376
-postcode: 57250
+postcode: "57250"
 city: Netphen
 street: "Siegstraße"
 housenumber: 67

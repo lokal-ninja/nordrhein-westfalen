@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.5037669
 longitude: 6.8177697
-postcode: 47167
+postcode: "47167"
 city: Duisburg
 street: "Fiskusstraße"
 housenumber: 175

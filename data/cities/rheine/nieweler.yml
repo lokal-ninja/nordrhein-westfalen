@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.277588400000006
 longitude: 7.4377434000000004
-postcode: 48431
+postcode: "48431"
 city: Rheine
 street: "Klosterstraße"
 housenumber: 19

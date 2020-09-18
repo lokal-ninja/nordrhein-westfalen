@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.95759
 longitude: 7.639921
-postcode: 48155
+postcode: "48155"
 city: Münster
 street: "Wolbecker Straße"
 housenumber: 38

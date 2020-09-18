@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1974661
 longitude: 8.802861100000001
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Weserstraße"
 housenumber: 11

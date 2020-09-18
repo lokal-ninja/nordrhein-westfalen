@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.828946800000004
 longitude: 6.9046881
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Markt"
 housenumber: 23

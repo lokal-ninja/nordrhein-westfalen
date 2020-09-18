@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.913704800000005
 longitude: 6.9696182
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Schönhauser Straße"
 housenumber: 8

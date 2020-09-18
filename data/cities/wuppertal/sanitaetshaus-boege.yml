@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.241351900000005
 longitude: 7.1939899
-postcode: 42287
+postcode: "42287"
 city: Wuppertal
 street: "Heinz-Fangman-Straße"
 housenumber: 61

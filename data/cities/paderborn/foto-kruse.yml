@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.7035112
 longitude: 8.770002400000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Pohlweg"
 housenumber: 110

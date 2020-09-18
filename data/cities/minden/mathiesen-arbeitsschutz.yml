@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3203885
 longitude: 8.9099898
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Kutenhauser Straße"
 housenumber: 147

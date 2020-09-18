@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.0237197
 longitude: 8.536785
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Kesselbrink"
 housenumber: 5

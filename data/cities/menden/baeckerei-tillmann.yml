@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.417394800000004
 longitude: 7.8412527
-postcode: 58710
+postcode: "58710"
 city: Menden
 street: "Bieberberg"
 housenumber: 69

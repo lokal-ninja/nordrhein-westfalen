@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 51.1611782
 longitude: 6.6686196
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Martinstraße"
 housenumber: 7

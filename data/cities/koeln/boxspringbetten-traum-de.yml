@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.9270932
 longitude: 6.945462200000001
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Salierring"
 housenumber: 20-24

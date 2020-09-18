@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.9685508
 longitude: 7.612985900000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Steinfurter Straße"
 housenumber: 17

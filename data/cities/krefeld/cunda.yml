@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3334715
 longitude: 6.562446700000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Friedrichstraße"
 housenumber: 3-11

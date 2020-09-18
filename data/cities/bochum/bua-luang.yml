@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.478979700000004
 longitude: 7.1395952000000005
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Westenfelder Straße"
 housenumber: 19

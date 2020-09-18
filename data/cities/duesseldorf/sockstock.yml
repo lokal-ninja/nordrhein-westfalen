@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.22840780000001
 longitude: 6.796226600000001
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Worringer Straße"
 housenumber: 19

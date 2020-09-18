@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.810766
 longitude: 8.6724227
-postcode: 33161
+postcode: "33161"
 city: Hövelhof
 street: "Erlenweg"
 housenumber: 15

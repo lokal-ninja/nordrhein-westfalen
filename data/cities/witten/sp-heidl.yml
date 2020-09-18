@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.438459
 longitude: 7.311336300000001
-postcode: 58455
+postcode: "58455"
 city: Witten
 street: "Auf dem Hee"
 housenumber: 18

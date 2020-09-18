@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.02971470000001
 longitude: 8.5216422
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
 street: "Wittekindstraße"
 housenumber: 14

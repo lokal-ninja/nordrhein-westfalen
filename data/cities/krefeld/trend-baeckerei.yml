@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3716883
 longitude: 6.5069996
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Josef-Heinrichs-Straße"
 housenumber: 18

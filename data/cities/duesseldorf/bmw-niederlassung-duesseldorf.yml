@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.273777
 longitude: 6.808093100000001
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Theodorstraße"
 housenumber: 279

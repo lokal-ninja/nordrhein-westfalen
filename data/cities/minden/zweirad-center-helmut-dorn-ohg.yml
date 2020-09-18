@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.295541400000005
 longitude: 8.9345707
-postcode: 32423
+postcode: "32423"
 city: Minden
 street: "Friedrich-Wilhelm-Straße"
 housenumber: 81-85

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.170863700000005
 longitude: 6.6621585
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Lövelinger Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1953764
 longitude: 8.8345651
-postcode: 32547
+postcode: "32547"
 city: Bad Oeynhausen
 street: "Borweg"
 housenumber: 18

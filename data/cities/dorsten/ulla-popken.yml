@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.6601312
 longitude: 6.9642084
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Markt"
 housenumber: 6

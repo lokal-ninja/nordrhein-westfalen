@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.83305360000001
 longitude: 6.7101103
-postcode: 46414
+postcode: "46414"
 city: Rhede
 street: "Münsterstraße"
 housenumber: 56

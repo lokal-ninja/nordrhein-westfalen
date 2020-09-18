@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.011607500000004
 longitude: 6.905935
-postcode: 50767
+postcode: "50767"
 city: Köln
 street: "Haselnußweg"
 housenumber: 36

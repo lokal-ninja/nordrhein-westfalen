@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4391923
 longitude: 7.0131575
-postcode: 45130
+postcode: "45130"
 city: Essen
 street: "Paulinenstraße"
 housenumber: 5

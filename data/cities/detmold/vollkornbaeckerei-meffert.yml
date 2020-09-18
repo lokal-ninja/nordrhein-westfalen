@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.934587
 longitude: 8.8768847
-postcode: 32756
+postcode: "32756"
 city: Detmold
 street: "Krumme Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1644869
 longitude: 6.4579975
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Ottostraße"
 housenumber: 3-5

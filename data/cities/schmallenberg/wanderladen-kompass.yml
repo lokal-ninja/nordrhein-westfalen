@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 51.184412300000005
 longitude: 8.3123425
-postcode: 57392
+postcode: "57392"
 city: Schmallenberg
 street: "Bahnhofstraße"
 housenumber: 1

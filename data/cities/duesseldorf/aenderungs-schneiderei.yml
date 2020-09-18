@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.201631500000005
 longitude: 6.7807211
-postcode: 40225
+postcode: "40225"
 city: Düsseldorf
 street: "Himmelgeister Straße"
 housenumber: 43

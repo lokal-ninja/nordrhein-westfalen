@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.0801311
 longitude: 8.653244800000001
-postcode: 32052
+postcode: "32052"
 city: Herford
 street: "Elverdisser Straße"
 housenumber: 327

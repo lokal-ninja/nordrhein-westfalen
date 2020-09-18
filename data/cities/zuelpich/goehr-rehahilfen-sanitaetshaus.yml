@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.7005125
 longitude: 6.658776700000001
-postcode: 53909
+postcode: "53909"
 city: Zülpich
 street: "Bergheimer Straße"
 housenumber: 3a

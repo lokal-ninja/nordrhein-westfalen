@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.917821
 longitude: 6.8384323
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Europaallee"
 housenumber: 7

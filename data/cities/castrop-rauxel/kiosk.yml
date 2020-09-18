@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.5731729
 longitude: 7.3055127
-postcode: 44579
+postcode: "44579"
 city: Castrop-Rauxel
 street: "Berliner Platz"
 housenumber: 12

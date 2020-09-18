@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4421187
 longitude: 8.3517963
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Domring"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.5946616
 longitude: 7.139364400000001
-postcode: 45699
+postcode: "45699"
 city: Herten
 street: "Konrad-Adenauer-Straße"
 housenumber: 12

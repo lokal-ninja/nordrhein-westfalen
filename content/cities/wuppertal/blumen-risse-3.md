@@ -1,4 +1,4 @@
 ---
-title: "Blumen  Risse"
+title: "Blumen Risse"
 url: /wuppertal/blumen-risse-3/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3134742
 longitude: 8.881874700000001
-postcode: 32425
+postcode: "32425"
 city: Minden
 street: "Petershäger Weg"
 housenumber: 208

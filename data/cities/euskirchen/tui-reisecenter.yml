@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.661644
 longitude: 6.7868881000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Annaturmstraße"
 housenumber: 1

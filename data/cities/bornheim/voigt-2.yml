@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.796734
 longitude: 6.917830800000001
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Walberberger Straße"
 housenumber: 59

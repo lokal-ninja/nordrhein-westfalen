@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 51.1532179
 longitude: 6.7352489
-postcode: 41469
+postcode: "41469"
 city: Neuss
 street: "Thomas-Mann-Straße"
 housenumber: 19

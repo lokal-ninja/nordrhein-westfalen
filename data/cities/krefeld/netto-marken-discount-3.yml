@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3256336
 longitude: 6.5664503000000005
-postcode: 
+postcode: ""
 city: Krefeld
 street: "Am Hauptbahnhof"
 housenumber: 

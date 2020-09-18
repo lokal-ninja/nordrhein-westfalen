@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.018388200000004
 longitude: 8.5399379
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "August-Bebel-Straße"
 housenumber: 149

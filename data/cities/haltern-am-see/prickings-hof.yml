@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.784694200000004
 longitude: 7.2274590000000005
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Niehuser Weg"
 housenumber: 14

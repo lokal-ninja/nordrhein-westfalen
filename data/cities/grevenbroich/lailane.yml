@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 51.0875683
 longitude: 6.590668
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Südwall"
 housenumber: 14

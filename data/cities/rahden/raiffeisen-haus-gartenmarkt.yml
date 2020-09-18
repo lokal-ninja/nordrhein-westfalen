@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.430679500000004
 longitude: 8.6238116
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Eisenbahnstraße"
 housenumber: 11

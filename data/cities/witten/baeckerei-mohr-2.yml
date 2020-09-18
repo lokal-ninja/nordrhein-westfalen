@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4288194
 longitude: 7.414349400000001
-postcode: 58454
+postcode: "58454"
 city: Witten
 street: "Auf dem Schnee"
 housenumber: 1

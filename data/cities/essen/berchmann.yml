@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.441602100000004
 longitude: 6.9977613000000005
-postcode: 45128
+postcode: "45128"
 city: Essen
 street: "Kahrstraße"
 housenumber: 91

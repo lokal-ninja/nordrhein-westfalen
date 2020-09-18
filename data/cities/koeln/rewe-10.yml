@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.97226130000001
 longitude: 7.073101500000001
-postcode: 51069
+postcode: "51069"
 city: Köln
 street: "Hatzfeldstraße"
 housenumber: 14a

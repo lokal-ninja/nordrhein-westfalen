@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.1948899
 longitude: 8.5332703
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Hellenstraße"
 housenumber: 6

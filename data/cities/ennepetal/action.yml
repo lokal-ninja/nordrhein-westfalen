@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.299782500000006
 longitude: 7.3483954
-postcode: 58256
+postcode: "58256"
 city: Ennepetal
 street: "Voerder Straße"
 housenumber: 39

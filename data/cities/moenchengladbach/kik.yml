@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1650761
 longitude: 6.4305192
-postcode: 41239
+postcode: "41239"
 city: Mönchengladbach
 street: "Dahlener Straße"
 housenumber: 171

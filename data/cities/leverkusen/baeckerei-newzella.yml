@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.031513000000004
 longitude: 6.990664000000001
-postcode: 51373
+postcode: "51373"
 city: Leverkusen
 street: "Heinrich-von-Stephan-Straße"
 housenumber: 6

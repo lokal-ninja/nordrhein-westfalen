@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.024519600000005
 longitude: 7.5652188
-postcode: 51643
+postcode: "51643"
 city: Gummersbach
 street: "Steinmüllerallee"
 housenumber: 5

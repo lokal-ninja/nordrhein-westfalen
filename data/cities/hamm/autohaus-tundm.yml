@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.6986099
 longitude: 7.8040161
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Münsterstraße"
 housenumber: 138

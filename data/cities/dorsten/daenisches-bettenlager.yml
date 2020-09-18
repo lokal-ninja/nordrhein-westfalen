@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.657790600000006
 longitude: 7.015541700000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lünsingskuhle"
 housenumber: 38

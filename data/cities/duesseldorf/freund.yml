@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 51.2164274
 longitude: 6.812865400000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Fichtenstraße"
 housenumber: 44
-phone: ""
+phone: "+49 211 50727920"
 opening_hours: ""
-website: ""
+website: "http://www.cog-classics.com"

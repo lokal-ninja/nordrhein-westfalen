@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.0285737
 longitude: 8.8977397
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Mittelstraße"
 housenumber: 100

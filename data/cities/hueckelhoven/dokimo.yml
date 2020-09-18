@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.0040874
 longitude: 6.2413623000000005
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Hauptstraße"
 housenumber: 39

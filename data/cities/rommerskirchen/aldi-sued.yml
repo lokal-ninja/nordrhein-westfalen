@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0363891
 longitude: 6.698735200000001
-postcode: 41569
+postcode: "41569"
 city: Rommerskirchen
 street: "Bahnstraße"
 housenumber: 44;46

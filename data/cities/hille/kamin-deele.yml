@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 52.332548700000004
 longitude: 8.7481152
-postcode: 32479
+postcode: "32479"
 city: Hille
 street: "Eickhorster Straße"
 housenumber: 7

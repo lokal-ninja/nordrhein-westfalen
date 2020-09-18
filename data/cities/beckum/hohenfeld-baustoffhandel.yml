@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.8009715
 longitude: 8.0081326
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Zollernstraße"
 housenumber: 23

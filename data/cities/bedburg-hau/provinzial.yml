@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.768488600000005
 longitude: 6.199947300000001
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Schulstraße"
 housenumber: 8

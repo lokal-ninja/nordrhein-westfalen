@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.2283332
 longitude: 6.787100000000001
-postcode: 40211
+postcode: "40211"
 city: Düsseldorf
 street: "Jacobistraße"
 housenumber: 3-5

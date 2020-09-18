@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9359047
 longitude: 6.9712158
-postcode: 50679
+postcode: "50679"
 city: Köln
 street: "Siegburger Straße"
 housenumber: 25-27

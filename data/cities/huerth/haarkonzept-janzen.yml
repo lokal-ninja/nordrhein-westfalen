@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.878125600000004
 longitude: 6.8798639
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Hürther Bogen"
 housenumber: 2b

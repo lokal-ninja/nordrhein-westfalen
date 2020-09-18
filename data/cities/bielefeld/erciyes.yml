@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0214152
 longitude: 8.5470716
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Heeper Straße"
 housenumber: 54a

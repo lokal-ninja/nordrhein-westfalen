@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 50.982961200000005
 longitude: 6.1892401
-postcode: 52511
+postcode: "52511"
 city: Geilenkirchen
 street: "Am Mühlenhof"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.927821300000005
 longitude: 6.9127967
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Wittgensteinstraße"
 housenumber: 13

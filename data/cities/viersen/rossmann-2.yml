@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.251625600000004
 longitude: 6.3271052
-postcode: 41751
+postcode: "41751"
 city: Viersen
 street: "Bruchweg"
 housenumber: 27

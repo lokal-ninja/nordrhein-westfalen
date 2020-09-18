@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.654678700000005
 longitude: 6.7988930000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "An der Vogelrute"
 housenumber: 45-47

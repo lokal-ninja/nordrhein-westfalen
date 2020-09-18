@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.94402040000001
 longitude: 7.166020100000001
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Kupferstraße"
 housenumber: 5

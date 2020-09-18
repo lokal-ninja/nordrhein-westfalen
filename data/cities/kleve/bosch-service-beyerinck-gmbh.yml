@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.787798
 longitude: 6.144568700000001
-postcode: 47533
+postcode: "47533"
 city: Kleve
 street: "Kalkarer Straße"
 housenumber: 1-5

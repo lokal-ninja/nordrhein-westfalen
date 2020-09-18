@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.022767300000005
 longitude: 7.369207
-postcode: 51789
+postcode: "51789"
 city: Lindlar
 street: "Luisenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.217781200000005
 longitude: 8.8047074
-postcode: 32549
+postcode: "32549"
 city: Bad Oeynhausen
 street: "Werrestraße"
 housenumber: 17

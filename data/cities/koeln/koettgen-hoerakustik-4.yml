@@ -1,12 +1,12 @@
-id: 297000122
-type: way
+id: 7802200812
+type: node
 shop: Hörgeräte
-latitude: 51.011123000000005
-longitude: 6.9059759000000005
-postcode: 50767
+latitude: 50.9756596
+longitude: 7.0737323000000005
+postcode: "51069"
 city: Köln
-street: "Haselnußweg"
-housenumber: 25
+street: "Dellbrücker Hauptstraße"
+housenumber: 80
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00"
+opening_hours: ""
 website: ""

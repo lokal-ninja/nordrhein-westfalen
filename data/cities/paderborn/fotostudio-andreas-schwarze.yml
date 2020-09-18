@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.7510325
 longitude: 8.724520700000001
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Hatzfelder Straße"
 housenumber: 46

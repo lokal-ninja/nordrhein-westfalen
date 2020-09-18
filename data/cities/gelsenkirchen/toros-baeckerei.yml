@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6004736
 longitude: 7.050262300000001
-postcode: 45896
+postcode: "45896"
 city: Gelsenkirchen
 street: "Polsumer Straße"
 housenumber: 180

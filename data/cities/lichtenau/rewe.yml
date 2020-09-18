@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5953978
 longitude: 8.7970211
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Finkestraße"
 housenumber: 64

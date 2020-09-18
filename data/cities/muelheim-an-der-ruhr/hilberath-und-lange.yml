@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.4062732
 longitude: 6.8727564
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Düsseldorfer Straße"
 housenumber: 111

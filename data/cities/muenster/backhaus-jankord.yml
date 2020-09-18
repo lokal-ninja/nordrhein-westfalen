@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9652863
 longitude: 7.619152700000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Überwasserstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.686087500000006
 longitude: 6.9838588
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Bundesstraße"
 housenumber: 18

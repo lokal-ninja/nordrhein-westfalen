@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.736712700000005
 longitude: 7.116996100000001
-postcode: 53225
+postcode: "53225"
 city: Bonn
 street: "Johann-Link-Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.783233300000006
 longitude: 7.2559629
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Löhestraße"
 housenumber: 1

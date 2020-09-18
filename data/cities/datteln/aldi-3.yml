@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6501431
 longitude: 7.3266809
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Rudolf-Diesel-Straße"
 housenumber: 3

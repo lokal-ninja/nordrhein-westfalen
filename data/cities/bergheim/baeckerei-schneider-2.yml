@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9265029
 longitude: 6.656852000000001
-postcode: 50127
+postcode: "50127"
 city: Bergheim
 street: "In der Freiheit"
 housenumber: 4

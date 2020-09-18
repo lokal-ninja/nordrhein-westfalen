@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.039795000000005
 longitude: 8.5667342
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Herforder Straße"
 housenumber: 269

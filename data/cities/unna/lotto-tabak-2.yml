@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.5349797
 longitude: 7.689727
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Markt"
 housenumber: 16

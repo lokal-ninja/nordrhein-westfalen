@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 50.660086
 longitude: 6.7850371
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kapellenstraße"
 housenumber: 22-24

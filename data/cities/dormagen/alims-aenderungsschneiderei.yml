@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.114519900000005
 longitude: 6.7725692
-postcode: 41542
+postcode: "41542"
 city: Dormagen
 street: "Neusser Straße"
 housenumber: 1

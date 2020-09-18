@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.705974000000005
 longitude: 6.1816481
-postcode: 52076
+postcode: "52076"
 city: Aachen
 street: "Schleidener Straße"
 housenumber: 158

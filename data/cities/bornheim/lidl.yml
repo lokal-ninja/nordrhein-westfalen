@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.768880100000004
 longitude: 6.9443847000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Auf dem Knickert"
 housenumber: 2

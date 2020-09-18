@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.4506546
 longitude: 8.3547508
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Belecker Landstraße"
 housenumber: 6

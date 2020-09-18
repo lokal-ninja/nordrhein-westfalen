@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.3691417
 longitude: 6.569479800000001
-postcode: 
+postcode: ""
 city: Krefeld
 street: "Am Wiesenhof"
 housenumber: 1

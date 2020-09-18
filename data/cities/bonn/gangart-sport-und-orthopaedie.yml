@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.724379400000004
 longitude: 7.0676221
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Euskirchener Straße"
 housenumber: 36-38

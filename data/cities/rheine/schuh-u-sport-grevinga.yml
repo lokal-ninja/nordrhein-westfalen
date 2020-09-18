@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.2858491
 longitude: 7.4693858
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Osnabrücker Straße"
 housenumber: 276

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.9095558
 longitude: 6.8078624
-postcode: 50226
+postcode: "50226"
 city: Frechen
 street: "Hauptstraße"
 housenumber: 116

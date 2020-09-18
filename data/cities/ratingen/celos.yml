@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.293757400000004
 longitude: 6.8794776
-postcode: 40882
+postcode: "40882"
 city: Ratingen
 street: "Brachter Straße"
 housenumber: 66

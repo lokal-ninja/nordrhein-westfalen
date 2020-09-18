@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 50.6610117
 longitude: 6.7831152
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Frauenberger Straße"
 housenumber: 13

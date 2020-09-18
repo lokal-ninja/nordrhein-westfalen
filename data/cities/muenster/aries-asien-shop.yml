@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.947134000000005
 longitude: 7.623463
-postcode: 48153
+postcode: "48153"
 city: Münster
 street: "Hammer Straße"
 housenumber: 106

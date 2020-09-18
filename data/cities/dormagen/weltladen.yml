@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.0953889
 longitude: 6.840203900000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 126

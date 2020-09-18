@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.3345597
 longitude: 6.5700665
-postcode: 47799
+postcode: "47799"
 city: Krefeld
 street: "Rheinstraße"
 housenumber: 20-22

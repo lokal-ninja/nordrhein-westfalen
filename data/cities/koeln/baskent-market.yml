@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.883365100000006
 longitude: 7.0600985000000005
-postcode: 51143
+postcode: "51143"
 city: Köln
 street: "Bahnhofstraße"
 housenumber: 45

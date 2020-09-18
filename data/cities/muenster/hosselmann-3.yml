@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.988622500000005
 longitude: 7.6103553
-postcode: 48159
+postcode: "48159"
 city: Münster
 street: "Westhoffstraße"
 housenumber: 1

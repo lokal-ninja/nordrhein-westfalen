@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.1928624
 longitude: 8.5920517
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Herforder Straße"
 housenumber: 38

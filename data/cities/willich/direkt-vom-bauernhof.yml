@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.2498592
 longitude: 6.619624300000001
-postcode: 47877
+postcode: "47877"
 city: Willich
 street: "Hardt"
 housenumber: 26a

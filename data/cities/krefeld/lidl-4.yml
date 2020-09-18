@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.342188400000005
 longitude: 6.564612100000001
-postcode: 47803
+postcode: "47803"
 city: Krefeld
 street: "Gahlingspfad"
 housenumber: 25

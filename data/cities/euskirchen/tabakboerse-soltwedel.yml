@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.6644919
 longitude: 6.7733942
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Winkelpfad"
 housenumber: 50

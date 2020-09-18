@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 51.967509500000006
 longitude: 7.612399600000001
-postcode: 48149
+postcode: "48149"
 city: Münster
 street: "Wilhelmstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.3679026
 longitude: 7.2485204
-postcode: 45549
+postcode: "45549"
 city: Sprockhövel
 street: "Hauptstraße"
 housenumber: 25

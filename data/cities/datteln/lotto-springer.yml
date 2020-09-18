@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 51.629361
 longitude: 7.3251799
-postcode: 45711
+postcode: "45711"
 city: Datteln
 street: "Castroper Straße"
 housenumber: 338

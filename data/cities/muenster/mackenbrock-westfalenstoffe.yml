@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9639369
 longitude: 7.626665200000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Bogenstraße"
 housenumber: 7

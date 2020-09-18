@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.728915400000005
 longitude: 6.2984169
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Kastellstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.367764300000005
 longitude: 8.425754000000001
-postcode: 59909
+postcode: "59909"
 city: Bestwig
 street: "Briloner Straße"
 housenumber: 38

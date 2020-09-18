@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5777255
 longitude: 7.055807700000001
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Goldbergplatz"
 housenumber: 5

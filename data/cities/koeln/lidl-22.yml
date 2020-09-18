@@ -1,12 +1,12 @@
-id: 133111240
+id: 155144241
 type: way
 shop: Supermarkt
-latitude: 50.9096199
-longitude: 6.9637599
-postcode: 50968
+latitude: 50.894192100000005
+longitude: 7.048011700000001
+postcode: "51149"
 city: Köln
-street: "Bonner Straße"
-housenumber: 243
+street: "Kölner Straße"
+housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/filialen/koeln/bayenthal-bonner-strasse-243.html"
+website: ""

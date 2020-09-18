@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.939133000000005
 longitude: 6.9323698
-postcode: 50674
+postcode: "50674"
 city: Köln
 street: "Moltkestraße"
 housenumber: 125

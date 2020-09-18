@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.727648
 longitude: 7.073678
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Endenicher Straße"
 housenumber: 299

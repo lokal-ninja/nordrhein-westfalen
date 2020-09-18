@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 51.8214576
 longitude: 6.6160173
-postcode: 46395
+postcode: "46395"
 city: Bocholt
 street: "Donaustraße"
 housenumber: 6

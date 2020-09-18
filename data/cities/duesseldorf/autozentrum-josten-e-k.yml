@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.215418500000006
 longitude: 6.7836362
-postcode: 40215
+postcode: "40215"
 city: Düsseldorf
 street: "Herzogstraße"
 housenumber: 75

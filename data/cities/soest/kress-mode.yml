@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.575032
 longitude: 8.106208200000001
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Waisenhausstraße"
 housenumber: 11

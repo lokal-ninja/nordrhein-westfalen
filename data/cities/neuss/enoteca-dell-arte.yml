@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 51.210221700000005
 longitude: 6.671443200000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Further Straße"
 housenumber: 178

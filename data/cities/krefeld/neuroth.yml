@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.303295500000004
 longitude: 6.5897185
-postcode: 47807
+postcode: "47807"
 city: Krefeld
 street: "Kölner Straße"
 housenumber: 576

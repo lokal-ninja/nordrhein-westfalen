@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.6601342
 longitude: 6.785256
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kapellenstraße"
 housenumber: 20

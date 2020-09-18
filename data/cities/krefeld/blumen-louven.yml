@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.371738400000005
 longitude: 6.510952400000001
-postcode: 47839
+postcode: "47839"
 city: Krefeld
 street: "Krefelder Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.457435700000005
 longitude: 7.134236100000001
-postcode: 44867
+postcode: "44867"
 city: Bochum
 street: "Wattenscheider Hellweg"
 housenumber: 314

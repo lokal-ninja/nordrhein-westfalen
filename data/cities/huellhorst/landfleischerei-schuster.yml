@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2531412
 longitude: 8.6558562
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Büttendorfer Straße"
 housenumber: 196

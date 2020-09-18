@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.916909100000005
 longitude: 6.9546314
-postcode: 50677
+postcode: "50677"
 city: Köln
 street: "Bonner Wall"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4797595
 longitude: 7.217437
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Huestraße"
 housenumber: 25

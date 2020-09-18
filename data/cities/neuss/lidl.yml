@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2180709
 longitude: 6.678934900000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Normannenstraße"
 housenumber: 32-34

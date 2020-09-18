@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2159856
 longitude: 6.8191094
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Ronsdorfer Straße"
 housenumber: 126

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.4931459
 longitude: 6.8351797
-postcode: 46149
+postcode: "46149"
 city: Oberhausen
 street: "Lindnerstraße"
 housenumber: 155

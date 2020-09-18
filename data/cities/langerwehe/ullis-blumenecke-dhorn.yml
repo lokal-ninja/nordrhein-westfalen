@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.8077064
 longitude: 6.4001641000000005
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Schlicher Straße"
 housenumber: 13

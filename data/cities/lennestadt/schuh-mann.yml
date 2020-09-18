@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.1029519
 longitude: 8.0716353
-postcode: 57368
+postcode: "57368"
 city: Lennestadt
 street: "Hundemstraße"
 housenumber: 38

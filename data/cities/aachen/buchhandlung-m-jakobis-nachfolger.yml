@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.776126500000004
 longitude: 6.0851521
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Büchel"
 housenumber: 12

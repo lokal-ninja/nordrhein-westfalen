@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.39500030000001
 longitude: 8.5688356
-postcode: 59929
+postcode: "59929"
 city: Brilon
 street: "Königstraße"
 housenumber: 6

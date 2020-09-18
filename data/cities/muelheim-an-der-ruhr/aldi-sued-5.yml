@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.45087100000001
 longitude: 6.8488986
-postcode: 45476
+postcode: "45476"
 city: Mülheim an der Ruhr
 street: "Heidestraße"
 housenumber: 15

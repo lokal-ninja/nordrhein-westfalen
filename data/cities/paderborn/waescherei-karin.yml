@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.765223000000006
 longitude: 8.7241081
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Thuner Weg"
 housenumber: 40

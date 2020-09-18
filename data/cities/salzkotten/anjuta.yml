@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.6709109
 longitude: 8.6144391
-postcode: 33154
+postcode: "33154"
 city: Salzkotten
 street: "Wewelsburger Straße"
 housenumber: 34

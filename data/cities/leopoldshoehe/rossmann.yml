@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.0117041
 longitude: 8.7003071
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Hauptstraße"
 housenumber: 1

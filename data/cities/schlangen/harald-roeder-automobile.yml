@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.8012694
 longitude: 8.8210574
-postcode: 33189
+postcode: "33189"
 city: Schlangen
 street: "Gewerbepark"
 housenumber: 22

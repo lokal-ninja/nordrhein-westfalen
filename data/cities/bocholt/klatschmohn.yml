@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.8380018
 longitude: 6.616891900000001
-postcode: 46397
+postcode: "46397"
 city: Bocholt
 street: "Boesstiege"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.755139500000006
 longitude: 7.0091647
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Bahnhofstraße"
 housenumber: 42

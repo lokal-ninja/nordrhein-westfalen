@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4337025
 longitude: 8.6133707
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Lange Straße"
 housenumber: 10

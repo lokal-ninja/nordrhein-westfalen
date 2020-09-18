@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.017568000000004
 longitude: 7.078631700000001
-postcode: 51467
+postcode: "51467"
 city: Bergisch Gladbach
 street: "Zehntweg"
 housenumber: 23

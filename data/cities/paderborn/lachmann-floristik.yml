@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.714164100000005
 longitude: 8.7520267
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Kilianstraße"
 housenumber: 6

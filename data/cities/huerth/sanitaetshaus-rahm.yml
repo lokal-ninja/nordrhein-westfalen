@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8781672
 longitude: 6.8755813
-postcode: 50354
+postcode: "50354"
 city: Hürth
 street: "Theresienhöhe"
 housenumber: 5

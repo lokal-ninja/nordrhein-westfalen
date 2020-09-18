@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.579596900000006
 longitude: 7.0527888
-postcode: 45894
+postcode: "45894"
 city: Gelsenkirchen
 street: "Hochstraße"
 housenumber: 38

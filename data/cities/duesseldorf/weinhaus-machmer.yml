@@ -1,12 +1,12 @@
 id: 1935056394
 type: node
-shop: Spirituosen
-latitude: 51.2056933
-longitude: 6.7771463
-postcode: 40223
+shop: Wein
+latitude: 51.205700900000004
+longitude: 6.7771604000000005
+postcode: "40223"
 city: Düsseldorf
 street: "Merowingerstraße"
 housenumber: 28
 phone: "+49 211 56646404"
-opening_hours: "Mo-Fr 14:00-19:45; Sa 10:00-17:00"
-website: "http://www.weinhaus-machmer.de/"
+opening_hours: "Mo-Tu 14:00-19:00; We 14:30-19:30; Th 14:00-19:00; Fr 14:30-19:30; Sa 11:00-15:30"
+website: "https://weinhaus-machmer.de/"

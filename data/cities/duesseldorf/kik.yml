@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2268259
 longitude: 6.8059113
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Birkenstraße"
 housenumber: 89

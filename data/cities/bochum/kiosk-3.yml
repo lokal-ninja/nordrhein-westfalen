@@ -1,12 +1,12 @@
-id: 2293778686
+id: 4767924072
 type: node
-shop: Kiosk
-latitude: 51.4793413
-longitude: 7.223724000000001
-postcode: 44787
+shop: Zeitungen
+latitude: 51.481538500000006
+longitude: 7.3241018
+postcode: "44894"
 city: Bochum
-street: "Kurt-Schumacher-Platz"
-housenumber: 13-15
+street: "Hauptstraße"
+housenumber: 90
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: ""
 website: ""

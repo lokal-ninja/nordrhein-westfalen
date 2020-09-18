@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.0566438
 longitude: 8.5187541
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
 street: "Jöllenbecker Straße"
 housenumber: 325

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7701277
 longitude: 6.103210000000001
-postcode: 52070
+postcode: "52070"
 city: Aachen
 street: "Roonstraße"
 housenumber: 1

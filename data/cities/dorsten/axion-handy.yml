@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.6615459
 longitude: 6.9631281000000005
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 7

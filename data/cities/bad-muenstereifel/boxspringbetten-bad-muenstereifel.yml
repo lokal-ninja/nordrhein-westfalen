@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.565820800000004
 longitude: 6.764467700000001
-postcode: 53902
+postcode: "53902"
 city: Bad Münstereifel
 street: "Kölner Straße"
 housenumber: 138

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9307371
 longitude: 8.1153584
-postcode: 48361
+postcode: "48361"
 city: Beelen
 street: "Kirchstraße"
 housenumber: 2

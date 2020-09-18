@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.7566387
 longitude: 8.0408638
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Nordstraße"
 housenumber: 29

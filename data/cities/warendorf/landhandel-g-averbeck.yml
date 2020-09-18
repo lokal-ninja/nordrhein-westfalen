@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.8733845
 longitude: 7.906503700000001
-postcode: 48231
+postcode: "48231"
 city: Warendorf
 street: "Hellstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.17143900000001
 longitude: 7.084236700000001
-postcode: 42651
+postcode: "42651"
 city: Solingen
 street: "Küstergasse"
 housenumber: 3

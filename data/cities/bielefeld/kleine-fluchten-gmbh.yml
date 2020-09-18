@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.0159226
 longitude: 8.537374400000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Rohrteichstraße"
 housenumber: 33

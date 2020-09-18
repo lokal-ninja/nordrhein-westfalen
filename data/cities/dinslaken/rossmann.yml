@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.562915700000005
 longitude: 6.7405555
-postcode: 46535
+postcode: "46535"
 city: Dinslaken
 street: "Am Neutor"
 housenumber: 16-20

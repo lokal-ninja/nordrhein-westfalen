@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.621036700000005
 longitude: 7.3929974000000005
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Leveringhäuser Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.6411141
 longitude: 8.5104504
-postcode: 59590
+postcode: "59590"
 city: Geseke
 street: "Bachstraße"
 housenumber: 3

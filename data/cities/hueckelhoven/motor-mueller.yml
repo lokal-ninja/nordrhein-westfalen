@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.0514972
 longitude: 6.218686900000001
-postcode: 41836
+postcode: "41836"
 city: Hückelhoven
 street: "Neckarstraße"
 housenumber: 2

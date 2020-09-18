@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.0896946
 longitude: 6.8891966
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Heinestraße"
 housenumber: 7

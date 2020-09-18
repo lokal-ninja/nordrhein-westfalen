@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 51.4869466
 longitude: 7.198050200000001
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Seilfahrt"
 housenumber: 22

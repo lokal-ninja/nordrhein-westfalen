@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7335432
 longitude: 6.297436800000001
-postcode: 47546
+postcode: "47546"
 city: Kalkar
 street: "Xantener Straße"
 housenumber: 15

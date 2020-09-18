@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.13634020000001
 longitude: 6.4495962
-postcode: 41199
+postcode: "41199"
 city: Mönchengladbach
 street: "Wehrstraße"
 housenumber: 6

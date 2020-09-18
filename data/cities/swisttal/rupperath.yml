@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.7153812
 longitude: 6.9140154
-postcode: 53913
+postcode: "53913"
 city: Swisttal
 street: "Kölner Straße"
 housenumber: 30

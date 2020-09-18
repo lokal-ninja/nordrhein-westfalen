@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.763040100000005
 longitude: 7.8927693
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Oststraße"
 housenumber: 35

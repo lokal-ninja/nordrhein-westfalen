@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.626976500000005
 longitude: 6.944572000000001
-postcode: 53359
+postcode: "53359"
 city: Rheinbach
 street: "Münstereifeler Straße"
 housenumber: 5-7

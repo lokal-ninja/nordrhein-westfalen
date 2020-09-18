@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.8948734
 longitude: 7.180269300000001
-postcode: 51503
+postcode: "51503"
 city: Rösrath
 street: "Hauptstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.995939
 longitude: 6.574814300000001
-postcode: 50181
+postcode: "50181"
 city: Bedburg
 street: "Arnold-Freund-Straße"
 housenumber: 14

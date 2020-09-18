@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3294579
 longitude: 6.565281400000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
 street: "Königstraße"
 housenumber: 30

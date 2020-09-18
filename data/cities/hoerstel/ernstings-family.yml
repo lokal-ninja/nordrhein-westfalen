@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.2573638
 longitude: 7.6296236
-postcode: 48477
+postcode: "48477"
 city: Hörstel
 street: "Heinrich-Niemeyer-Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.19504250000001
 longitude: 6.4410083
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
 street: "Hindenburgstraße"
 housenumber: 126

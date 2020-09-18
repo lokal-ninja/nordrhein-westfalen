@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.6747864
 longitude: 6.1589915
-postcode: 47574
+postcode: "47574"
 city: Goch
 street: "Voßstraße"
 housenumber: 51

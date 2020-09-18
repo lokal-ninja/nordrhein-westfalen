@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.954958000000005
 longitude: 6.965916900000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Riehler Straße"
 housenumber: 73

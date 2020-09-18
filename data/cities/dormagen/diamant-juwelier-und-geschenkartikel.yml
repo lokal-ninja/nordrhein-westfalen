@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.0943118
 longitude: 6.840889300000001
-postcode: 41539
+postcode: "41539"
 city: Dormagen
 street: "Kölner Straße"
 housenumber: 104

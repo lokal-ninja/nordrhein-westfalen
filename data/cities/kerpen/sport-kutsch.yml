@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.874439300000006
 longitude: 6.6905678
-postcode: 50171
+postcode: "50171"
 city: Kerpen
 street: "Mödrather Straße"
 housenumber: 2

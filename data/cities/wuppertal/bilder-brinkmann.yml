@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.2575756
 longitude: 7.1467931
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Schwanenstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7937175
 longitude: 6.9582630000000005
-postcode: 53332
+postcode: "53332"
 city: Bornheim
 street: "Aarhusweg"
 housenumber: 1

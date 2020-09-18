@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.685886200000006
 longitude: 7.1544255
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Oststraße"
 housenumber: 8-12

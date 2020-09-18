@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.704991
 longitude: 6.9691514
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Birkenallee"
 housenumber: 

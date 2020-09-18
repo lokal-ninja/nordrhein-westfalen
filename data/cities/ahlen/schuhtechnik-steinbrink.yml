@@ -3,10 +3,10 @@ type: node
 shop: Basteln
 latitude: 51.7665098
 longitude: 7.8977246
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Lütkeweg"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00"
 website: ""

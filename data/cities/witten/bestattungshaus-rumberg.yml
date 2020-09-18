@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.4123146
 longitude: 7.2858106000000005
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Kattenjagd"
 housenumber: 28

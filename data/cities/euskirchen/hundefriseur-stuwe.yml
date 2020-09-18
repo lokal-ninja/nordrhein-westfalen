@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 50.66059550000001
 longitude: 6.795539600000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Kölner Straße"
 housenumber: 61

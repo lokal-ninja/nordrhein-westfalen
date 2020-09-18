@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2692744
 longitude: 8.826076500000001
-postcode: 32429
+postcode: "32429"
 city: Minden
 street: "Biemker Straße"
 housenumber: 53

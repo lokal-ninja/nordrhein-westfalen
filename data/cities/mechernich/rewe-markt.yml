@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.593300400000004
 longitude: 6.642842000000001
-postcode: 53894
+postcode: "53894"
 city: Mechernich
 street: "Marienau"
 housenumber: 3

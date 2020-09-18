@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.160625
 longitude: 6.940510000000001
-postcode: 40723
+postcode: "40723"
 city: Hilden
 street: "St.-Konrad-Allee"
 housenumber: 9-11

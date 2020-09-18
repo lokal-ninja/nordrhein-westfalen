@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.499675
 longitude: 7.259798000000001
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Harpener Feld"
 housenumber: 15

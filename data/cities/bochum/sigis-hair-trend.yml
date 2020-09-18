@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.471997200000004
 longitude: 7.2456921
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 221

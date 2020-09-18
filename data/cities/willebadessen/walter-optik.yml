@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.627037300000005
 longitude: 9.038530100000001
-postcode: 34439
+postcode: "34439"
 city: Willebadessen
 street: "Lange Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8742935
 longitude: 7.6154495
-postcode: 51545
+postcode: "51545"
 city: Waldbröl
 street: "Hochstraße"
 housenumber: 19

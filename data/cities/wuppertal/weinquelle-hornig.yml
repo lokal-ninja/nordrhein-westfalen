@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.26207530000001
 longitude: 7.127799700000001
-postcode: 42115
+postcode: "42115"
 city: Wuppertal
 street: "Bayreuther Straße"
 housenumber: 50c

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.946527800000005
 longitude: 8.409381
-postcode: 33334
+postcode: "33334"
 city: Gütersloh
 street: "Haller Straße"
 housenumber: 122

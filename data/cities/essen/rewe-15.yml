@@ -1,12 +1,12 @@
-id: 65372042
+id: 55997716
 type: way
 shop: Supermarkt
-latitude: 51.396088000000006
-longitude: 7.0813218
-postcode: 45257
+latitude: 51.402952000000006
+longitude: 7.067687
+postcode: "45259"
 city: Essen
-street: "Hinsbecker Löh"
-housenumber: 16
+street: "Schangstraße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH closed"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

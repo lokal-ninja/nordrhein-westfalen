@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.9764659
 longitude: 8.1480776
-postcode: 33428
+postcode: "33428"
 city: Harsewinkel
 street: "Hauptstraße"
 housenumber: 53

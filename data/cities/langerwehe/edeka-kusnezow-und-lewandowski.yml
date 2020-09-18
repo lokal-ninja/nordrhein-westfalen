@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.816891000000005
 longitude: 6.374375000000001
-postcode: 52379
+postcode: "52379"
 city: Langerwehe
 street: "Am vorderen Steinchen"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: "https://edeka-kusnezow-lewandowski.de/"

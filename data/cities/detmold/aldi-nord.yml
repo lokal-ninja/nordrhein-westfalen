@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.914765
 longitude: 8.9115973
-postcode: 32760
+postcode: "32760"
 city: Detmold
 street: "Remmighauser Straße"
 housenumber: 109a

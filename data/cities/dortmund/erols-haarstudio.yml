@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5252573
 longitude: 7.469114500000001
-postcode: 44145
+postcode: "44145"
 city: Dortmund
 street: "Mallinckrodtstraße"
 housenumber: 38

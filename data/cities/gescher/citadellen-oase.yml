@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.9556267
 longitude: 7.0069859
-postcode: 48712
+postcode: "48712"
 city: Gescher
 street: "Katharinenstraße"
 housenumber: 10

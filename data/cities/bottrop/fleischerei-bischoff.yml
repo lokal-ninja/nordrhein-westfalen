@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.5298358
 longitude: 6.8925223
-postcode: 46242
+postcode: "46242"
 city: Bottrop
 street: "Im Fuhlenbrock"
 housenumber: 117

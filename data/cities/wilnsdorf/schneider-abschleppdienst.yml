@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.8178829
 longitude: 8.106049200000001
-postcode: 57234
+postcode: "57234"
 city: Wilnsdorf
 street: "Hagener Straße"
 housenumber: 19

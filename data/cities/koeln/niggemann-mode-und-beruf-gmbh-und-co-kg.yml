@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.939295300000005
 longitude: 6.9597204
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Alter Markt"
 housenumber: 67

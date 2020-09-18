@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9401972
 longitude: 7.0212038
-postcode: 51103
+postcode: "51103"
 city: Köln
 street: "Olpener Straße"
 housenumber: 114

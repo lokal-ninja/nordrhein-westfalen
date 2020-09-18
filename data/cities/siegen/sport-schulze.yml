@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.882061
 longitude: 8.0463089
-postcode: 57074
+postcode: "57074"
 city: Siegen
 street: "Untere Dorfstraße"
 housenumber: 163

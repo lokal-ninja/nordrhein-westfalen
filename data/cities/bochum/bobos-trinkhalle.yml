@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.4717915
 longitude: 7.2450618
-postcode: 44803
+postcode: "44803"
 city: Bochum
 street: "Wittener Straße"
 housenumber: 208

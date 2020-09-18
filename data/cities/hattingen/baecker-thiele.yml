@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4104703
 longitude: 7.1639923
-postcode: 45529
+postcode: "45529"
 city: Hattingen
 street: "Dahlhauser Straße"
 housenumber: 62

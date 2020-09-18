@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.1503123
 longitude: 6.868871700000001
-postcode: 40593
+postcode: "40593"
 city: Düsseldorf
 street: "Urdenbacher Allee"
 housenumber: 105

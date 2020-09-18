@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.2623697
 longitude: 6.812696900000001
-postcode: 40472
+postcode: "40472"
 city: Düsseldorf
 street: "Westfalenstraße"
 housenumber: 17

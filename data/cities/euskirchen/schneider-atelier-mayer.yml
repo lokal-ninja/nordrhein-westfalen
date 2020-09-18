@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.624577300000006
 longitude: 6.849634600000001
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Christian-Schäfer-Straße"
 housenumber: 1

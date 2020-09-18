@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7991863
 longitude: 7.1968538
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Industriestraße"
 housenumber: 29

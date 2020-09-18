@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.605661600000005
 longitude: 6.302808700000001
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Rathausplatz"
 housenumber: 2

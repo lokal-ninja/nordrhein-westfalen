@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.7693031
 longitude: 6.838839
-postcode: 46348
+postcode: "46348"
 city: Raesfeld
 street: "Weseler Straße"
 housenumber: 8

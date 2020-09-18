@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.7147014
 longitude: 8.7458344
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Am Westerntor"
 housenumber: 9

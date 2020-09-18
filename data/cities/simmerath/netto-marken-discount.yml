@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6080674
 longitude: 6.3063095
-postcode: 52152
+postcode: "52152"
 city: Simmerath
 street: "Humboldtstraße"
 housenumber: 23

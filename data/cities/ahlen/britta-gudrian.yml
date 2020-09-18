@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.7635591
 longitude: 7.890653
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Nordstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.201028900000004
 longitude: 6.718362300000001
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Breslauer Straße"
 housenumber: 2-4

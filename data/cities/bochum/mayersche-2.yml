@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.494256400000005
 longitude: 7.2810718
-postcode: 44791
+postcode: "44791"
 city: Bochum
 street: "Am Einkaufszentrum"
 housenumber: 1

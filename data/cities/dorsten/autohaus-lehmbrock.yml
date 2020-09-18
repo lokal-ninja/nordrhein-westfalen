@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.755846000000005
 longitude: 6.9927139
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Am Krusenhof"
 housenumber: 61

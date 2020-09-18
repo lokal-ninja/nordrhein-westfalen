@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.438348500000004
 longitude: 7.3368918
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Ruhrstraße"
 housenumber: 10

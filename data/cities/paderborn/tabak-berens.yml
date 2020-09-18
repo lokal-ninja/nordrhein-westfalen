@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.717381700000004
 longitude: 8.7524525
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Marienplatz"
 housenumber: 2

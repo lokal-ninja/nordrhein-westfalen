@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.9239144
 longitude: 6.3569272
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Düsseldorfer Straße"
 housenumber: 29

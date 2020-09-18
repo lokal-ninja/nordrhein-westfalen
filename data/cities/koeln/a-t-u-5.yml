@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.952778900000006
 longitude: 6.8998990000000004
-postcode: 50825
+postcode: "50825"
 city: Köln
 street: "Vogelsanger Straße"
 housenumber: 326

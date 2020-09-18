@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.370856
 longitude: 7.548887400000001
-postcode: 58119
+postcode: "58119"
 city: Hagen
 street: "Alter Reher Weg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7341727
 longitude: 7.132942300000001
-postcode: 53227
+postcode: "53227"
 city: Bonn
 street: "Königswinterer Straße"
 housenumber: 95

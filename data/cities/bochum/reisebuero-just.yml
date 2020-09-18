@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.476021200000005
 longitude: 7.302724
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 191

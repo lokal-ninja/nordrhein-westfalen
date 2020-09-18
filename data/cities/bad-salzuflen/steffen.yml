@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0826853
 longitude: 8.7567018
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Ahornstraße"
 housenumber: 46a

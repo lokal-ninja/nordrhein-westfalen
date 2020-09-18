@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.6606558
 longitude: 6.963843300000001
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Lippestraße"
 housenumber: 2

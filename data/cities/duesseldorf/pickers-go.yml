@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.218561
 longitude: 6.776737000000001
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Friedrichstraße"
 housenumber: 1

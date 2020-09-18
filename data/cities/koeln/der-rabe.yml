@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.9291634
 longitude: 6.9119425
-postcode: 50931
+postcode: "50931"
 city: Köln
 street: "Dürener Straße"
 housenumber: 225

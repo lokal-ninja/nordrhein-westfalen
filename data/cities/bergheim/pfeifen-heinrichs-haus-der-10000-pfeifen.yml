@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9908645
 longitude: 6.681509500000001
-postcode: 50129
+postcode: "50129"
 city: Bergheim
 street: "Voltastraße"
 housenumber: 17

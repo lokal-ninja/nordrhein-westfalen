@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.427522700000004
 longitude: 6.8796318
-postcode: 45468
+postcode: "45468"
 city: Mülheim an der Ruhr
 street: "Friedrich-Ebert-Straße"
 housenumber: 39

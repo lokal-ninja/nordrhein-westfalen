@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 52.06044850000001
 longitude: 8.3612635
-postcode: 33790
+postcode: "33790"
 city: Halle (Westf.)
 street: "Bahnhofstraße"
 housenumber: 13

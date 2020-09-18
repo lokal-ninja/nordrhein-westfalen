@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.569531500000004
 longitude: 8.1819567
-postcode: 59505
+postcode: "59505"
 city: Bad Sassendorf
 street: "An der Helle"
 housenumber: 3

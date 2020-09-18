@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.666475500000004
 longitude: 6.7839846
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Im Schilderfeldchen"
 housenumber: 29

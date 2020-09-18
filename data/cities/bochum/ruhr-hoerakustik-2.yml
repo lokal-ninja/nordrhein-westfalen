@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.473801
 longitude: 7.323203800000001
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Unterstraße"
 housenumber: 10

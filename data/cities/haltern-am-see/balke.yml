@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.744170100000005
 longitude: 7.1881108000000005
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Mühlenstraße"
 housenumber: 16

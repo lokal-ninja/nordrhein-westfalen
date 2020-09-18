@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.4363
 longitude: 6.541440000000001
-postcode: 47506
+postcode: "47506"
 city: Neukirchen-Vluyn
 street: "Hartfeldstraße"
 housenumber: 3

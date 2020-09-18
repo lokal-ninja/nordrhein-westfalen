@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.21570010000001
 longitude: 6.676947800000001
-postcode: 41462
+postcode: "41462"
 city: Neuss
 street: "Neusser Weyhe"
 housenumber: 74

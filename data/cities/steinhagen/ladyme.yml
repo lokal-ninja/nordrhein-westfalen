@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.0051636
 longitude: 8.414894
-postcode: 33803
+postcode: "33803"
 city: Steinhagen
 street: "Am Markt"
 housenumber: 1

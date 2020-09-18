@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.462065700000004
 longitude: 7.203044
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Stensstraße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.6608291
 longitude: 6.786716200000001
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Vuvenstraße"
 housenumber: 10

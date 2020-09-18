@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.720541600000004
 longitude: 7.2760733
-postcode: 53639
+postcode: "53639"
 city: Königswinter
 street: "In der Brückenwiese"
 housenumber: 9-13

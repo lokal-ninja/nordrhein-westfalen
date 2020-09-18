@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 51.22508130000001
 longitude: 6.6098726
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Büttgener Straße"
 housenumber: 22

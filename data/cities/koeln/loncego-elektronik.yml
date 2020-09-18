@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.8591868
 longitude: 7.0887498
-postcode: 51147
+postcode: "51147"
 city: Köln
 street: "Distelweg"
 housenumber: 3

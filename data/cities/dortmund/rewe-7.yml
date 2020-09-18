@@ -1,12 +1,12 @@
-id: 31278649
-type: way
+id: 4916996409
+type: node
 shop: Supermarkt
-latitude: 51.469473900000004
-longitude: 7.460861800000001
-postcode: 44225
+latitude: 51.503798200000006
+longitude: 7.4765744000000005
+postcode: ""
 city: Dortmund
-street: "Hagener Straße"
-housenumber: 150
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

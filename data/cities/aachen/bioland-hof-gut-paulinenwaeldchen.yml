@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.8096345
 longitude: 6.0965869
-postcode: 
+postcode: ""
 city: Aachen
 street: "Zum Blauen Stein"
 housenumber: 26-34

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.457339000000005
 longitude: 7.012819800000001
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Kettwiger Straße"
 housenumber: 58

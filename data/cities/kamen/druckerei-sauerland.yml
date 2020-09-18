@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.579250200000004
 longitude: 7.7152602
-postcode: 59174
+postcode: "59174"
 city: Kamen
 street: "Märkische Straße"
 housenumber: 28

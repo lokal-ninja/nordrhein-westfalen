@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.695088500000004
 longitude: 7.821212900000001
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Heessener Straße"
 housenumber: 79

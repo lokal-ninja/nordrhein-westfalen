@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.327429300000006
 longitude: 7.8471929000000005
-postcode: 58802
+postcode: "58802"
 city: Balve
 street: "Gransau"
 housenumber: 3a

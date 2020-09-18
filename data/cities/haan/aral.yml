@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.193578
 longitude: 6.98801
-postcode: 42781
+postcode: "42781"
 city: Haan
 street: "Hochdahler Straße"
 housenumber: 130

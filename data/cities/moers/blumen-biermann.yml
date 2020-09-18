@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4193532
 longitude: 6.595030100000001
-postcode: 47447
+postcode: "47447"
 city: Moers
 street: "Bendmannstraße"
 housenumber: 20b

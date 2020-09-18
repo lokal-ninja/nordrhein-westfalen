@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.958723600000006
 longitude: 7.570183500000001
-postcode: 48161
+postcode: "48161"
 city: Münster
 street: "Gartenbreie"
 housenumber: 1

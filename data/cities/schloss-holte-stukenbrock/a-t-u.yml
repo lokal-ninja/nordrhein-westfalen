@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.9047801
 longitude: 8.639414
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Holter Straße"
 housenumber: 114

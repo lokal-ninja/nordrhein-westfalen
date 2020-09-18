@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.476347100000005
 longitude: 7.216130100000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
 street: "Kortumstraße"
 housenumber: 5

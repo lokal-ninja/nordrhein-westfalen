@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.727362600000006
 longitude: 8.760747700000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Detmolder Straße"
 housenumber: 45

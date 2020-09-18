@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.945355000000006
 longitude: 7.1674939
-postcode: 48653
+postcode: "48653"
 city: Coesfeld
 street: "Markt"
 housenumber: 9

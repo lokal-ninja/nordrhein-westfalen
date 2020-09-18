@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8748875
 longitude: 6.4728398
-postcode: 52382
+postcode: "52382"
 city: Niederzier
 street: "Niederzierer Straße"
 housenumber: 86

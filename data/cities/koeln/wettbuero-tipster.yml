@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.9489157
 longitude: 6.953224100000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Weidengasse"
 housenumber: 89

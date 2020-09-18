@@ -1,12 +1,12 @@
-id: 77665416
-type: way
+id: 732619520
+type: node
 shop: Bäckerei
-latitude: 50.7760784
-longitude: 6.0855011
-postcode: 52062
+latitude: 50.7611137
+longitude: 6.1313557
+postcode: "52078"
 city: Aachen
-street: "Büchel"
-housenumber: 27
-phone: "+49 241 32501"
-opening_hours: "Mo-Sa 06:30-18:30; Su,PH off"
-website: "http://www.printen-drouven.de/"
+street: "Schönforststraße"
+housenumber: 72
+phone: ""
+opening_hours: ""
+website: ""

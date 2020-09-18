@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.280408400000006
 longitude: 8.6674288
-postcode: 32609
+postcode: "32609"
 city: Hüllhorst
 street: "Hauptstraße"
 housenumber: 82

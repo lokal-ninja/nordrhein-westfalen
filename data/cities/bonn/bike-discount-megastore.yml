@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.708541000000004
 longitude: 7.0624905
-postcode: 53127
+postcode: "53127"
 city: Bonn
 street: "Auf dem Kirchbüchel"
 housenumber: 6

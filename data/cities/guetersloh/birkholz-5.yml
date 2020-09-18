@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9075841
 longitude: 8.382629600000001
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
 street: "Eickhoffstraße"
 housenumber: 20-22

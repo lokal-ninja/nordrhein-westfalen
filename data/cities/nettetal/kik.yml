@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.305942900000005
 longitude: 6.2740599
-postcode: 41334
+postcode: "41334"
 city: Nettetal
 street: "Von-Bocholtz-Straße"
 housenumber: 23

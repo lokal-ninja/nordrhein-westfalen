@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.724603300000005
 longitude: 7.1867511
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Recklinghäuser Straße"
 housenumber: 180

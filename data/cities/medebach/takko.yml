@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2009417
 longitude: 8.7098457
-postcode: 59964
+postcode: "59964"
 city: Medebach
 street: "Vopeliusstraße"
 housenumber: 2-4

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.6943776
 longitude: 7.7501977
-postcode: 59075
+postcode: "59075"
 city: Hamm
 street: "Hammer Straße"
 housenumber: 103c

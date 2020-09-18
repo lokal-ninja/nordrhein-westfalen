@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.0272469
 longitude: 8.534595000000001
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
 street: "Feilenstraße"
 housenumber: 2

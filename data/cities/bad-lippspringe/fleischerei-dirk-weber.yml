@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.781984800000004
 longitude: 8.8207318
-postcode: 33175
+postcode: "33175"
 city: Bad Lippspringe
 street: "Lange Straße"
 housenumber: 15

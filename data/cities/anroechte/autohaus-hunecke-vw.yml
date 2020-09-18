@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.565849
 longitude: 8.311221900000001
-postcode: 59609
+postcode: "59609"
 city: Anröchte
 street: "Dieselstraße"
 housenumber: 2

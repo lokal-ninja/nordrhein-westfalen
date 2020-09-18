@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7202093
 longitude: 9.013782
-postcode: 33014
+postcode: "33014"
 city: Bad Driburg
 street: "Am Siedlerplatz"
 housenumber: 11-13

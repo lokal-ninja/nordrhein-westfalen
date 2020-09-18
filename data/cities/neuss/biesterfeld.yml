@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.201304900000004
 longitude: 6.6872818
-postcode: 41460
+postcode: "41460"
 city: Neuss
 street: "Krefelder Straße"
 housenumber: 68

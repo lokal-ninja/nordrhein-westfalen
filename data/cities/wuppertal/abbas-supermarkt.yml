@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.275274700000004
 longitude: 7.2170163
-postcode: 42275
+postcode: "42275"
 city: Wuppertal
 street: "Berliner Straße"
 housenumber: 121

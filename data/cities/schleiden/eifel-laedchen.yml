@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.573743900000004
 longitude: 6.4981878
-postcode: 53937
+postcode: "53937"
 city: Schleiden
 street: "Dreiborner Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.136238000000006
 longitude: 7.2079605
-postcode: 42929
+postcode: "42929"
 city: Wermelskirchen
 street: "Obere Waldstraße"
 housenumber: 6

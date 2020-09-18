@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1628734
 longitude: 6.873798900000001
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.133293
 longitude: 6.9640010000000006
-postcode: 40764
+postcode: "40764"
 city: Langenfeld
 street: "Carl-Leverkus-Straße"
 housenumber: 20

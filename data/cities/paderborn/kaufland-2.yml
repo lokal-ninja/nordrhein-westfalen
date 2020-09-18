@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.743876900000004
 longitude: 8.7267483
-postcode: 33104
+postcode: "33104"
 city: Paderborn
 street: "Bentelerstraße"
 housenumber: 4

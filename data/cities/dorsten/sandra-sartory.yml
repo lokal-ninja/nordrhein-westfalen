@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6604795
 longitude: 6.9678936
-postcode: 46282
+postcode: "46282"
 city: Dorsten
 street: "Ostwall"
 housenumber: 1

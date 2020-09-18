@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.732857900000006
 longitude: 8.785456
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Senefelderstraße"
 housenumber: 1a

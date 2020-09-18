@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6064865
 longitude: 7.3915065
-postcode: 45731
+postcode: "45731"
 city: Waltrop
 street: "Zum Schacht"
 housenumber: 3

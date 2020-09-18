@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.377776100000005
 longitude: 8.9704992
-postcode: 32469
+postcode: "32469"
 city: Petershagen
 street: "Mindener Straße"
 housenumber: 7-11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.457638
 longitude: 6.9025129000000005
-postcode: 45475
+postcode: "45475"
 city: Mülheim an der Ruhr
 street: "Oberheidstraße"
 housenumber: 200

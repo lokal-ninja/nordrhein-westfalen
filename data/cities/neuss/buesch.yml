@@ -1,12 +1,12 @@
-id: 5186855688
+id: 4837463660
 type: node
 shop: Bäckerei
-latitude: 51.1464766
-longitude: 6.702834500000001
-postcode: 41469
+latitude: 51.223879200000006
+longitude: 6.6661057
+postcode: "41462"
 city: Neuss
-street: "Hochstadenstraße"
-housenumber: 17
+street: "Böcklerstraße"
+housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-12:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH 07:00-12:00"
 website: ""

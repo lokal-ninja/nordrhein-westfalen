@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.7403405
 longitude: 8.8301192
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Sundlieth"
 housenumber: 8

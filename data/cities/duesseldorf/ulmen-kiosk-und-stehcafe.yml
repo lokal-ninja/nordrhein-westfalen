@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.248051600000004
 longitude: 6.7834222
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
 street: "Ulmenstraße"
 housenumber: 63

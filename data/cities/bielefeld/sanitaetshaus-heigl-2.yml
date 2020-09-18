@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.025210900000005
 longitude: 8.5685967
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Heeper Straße"
 housenumber: 224

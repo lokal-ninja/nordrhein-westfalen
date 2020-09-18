@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.7774347
 longitude: 6.1584814
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Von-Coels-Straße"
 housenumber: 176a

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.4511321
 longitude: 7.964697
-postcode: 59755
+postcode: "59755"
 city: Arnsberg
 street: "Hauptstraße"
 housenumber: 25

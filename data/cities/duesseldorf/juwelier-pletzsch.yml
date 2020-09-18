@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.2257583
 longitude: 6.7803643000000005
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Schadowstraße"
 housenumber: 16

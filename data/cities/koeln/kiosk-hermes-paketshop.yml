@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.880627000000004
 longitude: 7.0924111000000005
-postcode: 51145
+postcode: "51145"
 city: Köln
 street: "Am Urbacher Wall"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.9194096
 longitude: 6.8453936
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Max-Planck-Straße"
 housenumber: 26a

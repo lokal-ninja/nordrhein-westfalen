@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.259241200000005
 longitude: 8.9027616
-postcode: 32457
+postcode: "32457"
 city: Porta Westfalica
 street: "Feldstraße"
 housenumber: 20b

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7283832
 longitude: 8.7571439
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Rolandsweg"
 housenumber: 111

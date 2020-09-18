@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2078707
 longitude: 6.7404897
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Hammer Dorfstraße"
 housenumber: 126

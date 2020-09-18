@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.167489
 longitude: 6.8492876
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
 street: "Prof.-Oehler-Straße"
 housenumber: 1

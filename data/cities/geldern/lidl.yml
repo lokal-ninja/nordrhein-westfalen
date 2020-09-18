@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5205842
 longitude: 6.3173605
-postcode: 47608
+postcode: "47608"
 city: Geldern
 street: "Harttor"
 housenumber: 26-28

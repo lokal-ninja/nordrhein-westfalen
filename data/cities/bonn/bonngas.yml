@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 50.733269
 longitude: 7.0755604000000005
-postcode: 53121
+postcode: "53121"
 city: Bonn
 street: "Immenburgstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.1776472
 longitude: 8.8679334
-postcode: 32602
+postcode: "32602"
 city: Vlotho
 street: "Höferweg"
 housenumber: 18

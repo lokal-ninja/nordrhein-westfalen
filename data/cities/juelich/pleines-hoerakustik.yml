@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.9276703
 longitude: 6.3633535000000006
-postcode: 52428
+postcode: "52428"
 city: Jülich
 street: "Kurfürstenstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.536473900000004
 longitude: 7.689876600000001
-postcode: 59423
+postcode: "59423"
 city: Unna
 street: "Schäferstraße"
 housenumber: 34

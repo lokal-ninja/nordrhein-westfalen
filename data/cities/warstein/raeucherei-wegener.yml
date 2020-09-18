@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.4489838
 longitude: 8.354301900000001
-postcode: 59581
+postcode: "59581"
 city: Warstein
 street: "Feldstraße"
 housenumber: 24

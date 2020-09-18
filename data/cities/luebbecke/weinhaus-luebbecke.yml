@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.3094684
 longitude: 8.655269800000001
-postcode: 32312
+postcode: "32312"
 city: Lübbecke
 street: "Berliner Tor"
 housenumber: 3

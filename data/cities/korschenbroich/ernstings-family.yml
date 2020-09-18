@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.189094100000005
 longitude: 6.5092033
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Matthias-Hoeren-Platz"
 housenumber: 1-7

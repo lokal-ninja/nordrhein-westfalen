@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.829054400000004
 longitude: 6.9022869
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Steinweg"
 housenumber: 26

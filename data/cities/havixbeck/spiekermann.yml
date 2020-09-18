@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.975183900000005
 longitude: 7.4126037
-postcode: 48329
+postcode: "48329"
 city: Havixbeck
 street: "Hauptstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.165978200000005
 longitude: 6.9329492
-postcode: 40721
+postcode: "40721"
 city: Hilden
 street: "Klotzstraße"
 housenumber: 31

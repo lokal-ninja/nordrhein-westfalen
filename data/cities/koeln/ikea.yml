@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 50.8623765
 longitude: 6.970107100000001
-postcode: 50997
+postcode: "50997"
 city: Köln
 street: "Godorfer Hauptstraße"
 housenumber: 171
 phone: ""
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00"
+opening_hours: "Mo-Th, Sa 10:00-20:00; Fr 10:00-21:00"
 website: "http://www.ikea.com/de/de/store/koeln_godorf"

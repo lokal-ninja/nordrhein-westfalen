@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4344273
 longitude: 8.6229843
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Eisenbahnstraße"
 housenumber: 2

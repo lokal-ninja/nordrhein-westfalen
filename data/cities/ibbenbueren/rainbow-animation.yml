@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.2625474
 longitude: 7.7804196
-postcode: 49479
+postcode: "49479"
 city: Ibbenbüren
 street: "In der Garte"
 housenumber: 40

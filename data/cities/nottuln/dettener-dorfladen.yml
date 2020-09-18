@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.9359654
 longitude: 7.412307200000001
-postcode: 48301
+postcode: "48301"
 city: Nottuln
 street: "Roxeler Straße"
 housenumber: 8

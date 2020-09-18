@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.7336832
 longitude: 8.686071
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Von-Ketteler-Straße"
 housenumber: 39

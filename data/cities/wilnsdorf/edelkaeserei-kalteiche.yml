@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.8199078
 longitude: 8.1331051
-postcode: 57234
+postcode: "57234"
 city: Wilnsdorf
 street: "Schönebachsweg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.6006258
 longitude: 6.390660100000001
-postcode: 47665
+postcode: "47665"
 city: Sonsbeck
 street: "Stettiner Straße"
 housenumber: 5

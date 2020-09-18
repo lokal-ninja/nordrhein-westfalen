@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9275881
 longitude: 6.953177500000001
-postcode: 
+postcode: ""
 city: Köln
 street: "Paulstraße"
 housenumber: 39

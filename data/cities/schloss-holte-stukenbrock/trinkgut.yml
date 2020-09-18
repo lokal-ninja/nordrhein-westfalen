@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.9044782
 longitude: 8.637481600000001
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Industriestraße"
 housenumber: 26

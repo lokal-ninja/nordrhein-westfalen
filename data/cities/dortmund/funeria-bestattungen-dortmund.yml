@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.512933200000006
 longitude: 7.4912033000000005
-postcode: 44143
+postcode: "44143"
 city: Dortmund
 street: "Davidisstraße"
 housenumber: 7

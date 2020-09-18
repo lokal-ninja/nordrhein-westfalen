@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.773651900000004
 longitude: 6.0861267
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Hartmannstraße"
 housenumber: 36

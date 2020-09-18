@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.2075881
 longitude: 6.831262700000001
-postcode: 40231
+postcode: "40231"
 city: Düsseldorf
 street: "Reisholzer Straße"
 housenumber: 32

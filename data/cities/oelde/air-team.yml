@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.829896000000005
 longitude: 8.1296443
-postcode: 59302
+postcode: "59302"
 city: Oelde
 street: "Zum Geisterholz"
 housenumber: 5

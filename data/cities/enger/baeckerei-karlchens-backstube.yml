@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1409669
 longitude: 8.5090005
-postcode: 32130
+postcode: "32130"
 city: Enger
 street: "Spenger Straße"
 housenumber: 346

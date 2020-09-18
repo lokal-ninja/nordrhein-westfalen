@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.5786608
 longitude: 6.2615568
-postcode: 52156
+postcode: "52156"
 city: Monschau
 street: "Am Handwerkerzentrum"
 housenumber: 1

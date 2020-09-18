@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.9509558
 longitude: 7.004009000000001
-postcode: 51065
+postcode: "51065"
 city: Köln
 street: "Heidelberger Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.9967107
 longitude: 7.4618456
-postcode: 48329
+postcode: "48329"
 city: Havixbeck
 street: "Auf dem Stift"
 housenumber: 26

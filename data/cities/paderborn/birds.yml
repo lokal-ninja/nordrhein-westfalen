@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.716508100000006
 longitude: 8.752634800000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
 street: "Jühengasse"
 housenumber: 2

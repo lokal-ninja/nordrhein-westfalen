@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.048177
 longitude: 8.392134500000001
-postcode: 57319
+postcode: "57319"
 city: Bad Berleburg
 street: "Marktplatz"
 housenumber: 2

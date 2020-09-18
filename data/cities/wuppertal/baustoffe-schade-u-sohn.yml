@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.244338600000006
 longitude: 7.089623400000001
-postcode: 42327
+postcode: "42327"
 city: Wuppertal
 street: "Industriestraße"
 housenumber: 27

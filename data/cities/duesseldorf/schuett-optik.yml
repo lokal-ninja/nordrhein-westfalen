@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2260865
 longitude: 6.783753600000001
-postcode: 40212
+postcode: "40212"
 city: Düsseldorf
 street: "Berliner Allee"
 housenumber: 6-8

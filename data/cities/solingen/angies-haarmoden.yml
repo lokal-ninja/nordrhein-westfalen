@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.170735400000005
 longitude: 7.035357100000001
-postcode: 42699
+postcode: "42699"
 city: Solingen
 street: "Merscheider Straße"
 housenumber: 280

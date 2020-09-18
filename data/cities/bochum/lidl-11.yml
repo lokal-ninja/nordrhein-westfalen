@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4933556
 longitude: 7.1436136
-postcode: 44866
+postcode: "44866"
 city: Bochum
 street: "Günnigfelder Straße"
 housenumber: 39b

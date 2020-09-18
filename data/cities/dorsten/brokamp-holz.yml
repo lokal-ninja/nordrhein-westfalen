@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 51.711071100000005
 longitude: 7.009807100000001
-postcode: 46286
+postcode: "46286"
 city: Dorsten
 street: "Baddenkamp"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.9837633
 longitude: 7.0997741
-postcode: 51469
+postcode: "51469"
 city: Bergisch Gladbach
 street: "Mülheimer Straße"
 housenumber: 59

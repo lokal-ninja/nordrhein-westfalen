@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7233394
 longitude: 8.760339
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Gertrud-Gröninger-Straße"
 housenumber: 12

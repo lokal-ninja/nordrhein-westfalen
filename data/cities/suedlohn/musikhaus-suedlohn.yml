@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.9449637
 longitude: 6.866382300000001
-postcode: 46354
+postcode: "46354"
 city: Südlohn
 street: "Kirchstraße"
 housenumber: 12

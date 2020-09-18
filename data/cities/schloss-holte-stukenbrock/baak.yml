@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.9079203
 longitude: 8.6102396
-postcode: 33758
+postcode: "33758"
 city: Schloß Holte-Stukenbrock
 street: "Bahnhofstraße"
 housenumber: 16

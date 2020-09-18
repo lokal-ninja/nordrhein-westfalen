@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 51.395789300000004
 longitude: 6.863031
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
 street: "Weißdornbogen"
 housenumber: 8

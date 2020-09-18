@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 50.9100309
 longitude: 6.968930200000001
-postcode: 50968
+postcode: "50968"
 city: Köln
 street: "Goltsteinstraße"
 housenumber: 68

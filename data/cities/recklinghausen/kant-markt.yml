@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.572605800000005
 longitude: 7.1850244000000005
-postcode: 45661
+postcode: "45661"
 city: Recklinghausen
 street: "Westfalenstraße"
 housenumber: 86a

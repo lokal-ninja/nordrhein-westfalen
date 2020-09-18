@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.464429900000006
 longitude: 7.0443781
-postcode: 45139
+postcode: "45139"
 city: Essen
 street: "Elisabethstraße"
 housenumber: 100

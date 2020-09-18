@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.1385949
 longitude: 6.806514300000001
-postcode: 41541
+postcode: "41541"
 city: Dormagen
 street: "Sachtlebenstraße"
 housenumber: 2

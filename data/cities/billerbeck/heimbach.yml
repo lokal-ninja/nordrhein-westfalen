@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.9765389
 longitude: 7.2897582000000005
-postcode: 48727
+postcode: "48727"
 city: Billerbeck
 street: "Lange Straße"
 housenumber: 28

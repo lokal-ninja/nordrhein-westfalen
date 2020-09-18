@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.696634800000005
 longitude: 7.165971300000001
-postcode: 53173
+postcode: "53173"
 city: Bonn
 street: "Am Büchel"
 housenumber: 5

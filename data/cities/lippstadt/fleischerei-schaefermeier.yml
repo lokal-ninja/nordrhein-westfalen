@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.6918293
 longitude: 8.375942100000001
-postcode: 59558
+postcode: "59558"
 city: Lippstadt
 street: "Lippestraße"
 housenumber: 8

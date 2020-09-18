@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.489507
 longitude: 6.875360700000001
-postcode: 46047
+postcode: "46047"
 city: Oberhausen
 street: "Centroallee"
 housenumber: 1000

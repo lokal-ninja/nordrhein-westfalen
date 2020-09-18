@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.6112187
 longitude: 6.8333212
-postcode: 53881
+postcode: "53881"
 city: Euskirchen
 street: "Arloffer Straße"
 housenumber: 23

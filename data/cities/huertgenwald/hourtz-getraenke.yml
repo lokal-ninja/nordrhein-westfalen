@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.7404463
 longitude: 6.4321817
-postcode: 52393
+postcode: "52393"
 city: Hürtgenwald
 street: "Maubacher Straße"
 housenumber: 60

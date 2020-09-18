@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.455609700000004
 longitude: 6.3809819
-postcode: 47647
+postcode: "47647"
 city: Kerken
 street: "Industriestraße"
 housenumber: 5a

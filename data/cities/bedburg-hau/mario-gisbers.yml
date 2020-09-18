@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.765068500000005
 longitude: 6.1647711
-postcode: 47551
+postcode: "47551"
 city: Bedburg-Hau
 street: "Antoniterstraße"
 housenumber: 68

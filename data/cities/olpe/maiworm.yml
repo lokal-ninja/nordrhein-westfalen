@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.029191700000005
 longitude: 7.847560100000001
-postcode: 57462
+postcode: "57462"
 city: Olpe
 street: "Martinstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.504696300000006
 longitude: 6.543245700000001
-postcode: 47475
+postcode: "47475"
 city: Kamp-Lintfort
 street: "Moerser Straße"
 housenumber: 221

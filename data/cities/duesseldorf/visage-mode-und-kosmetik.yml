@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.2079055
 longitude: 6.7398731000000005
-postcode: 40221
+postcode: "40221"
 city: Düsseldorf
 street: "Hammer Dorfstraße"
 housenumber: 140

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.0186458
 longitude: 8.9133686
-postcode: 32657
+postcode: "32657"
 city: Lemgo
 street: "Lemgoer Straße"
 housenumber: 67

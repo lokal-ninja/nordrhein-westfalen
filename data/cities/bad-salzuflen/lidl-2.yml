@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0906941
 longitude: 8.7286304
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Herforder Straße"
 housenumber: 82

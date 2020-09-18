@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.5430952
 longitude: 7.2035534000000006
-postcode: 44629
+postcode: "44629"
 city: Herne
 street: "Cranger Straße"
 housenumber: 26

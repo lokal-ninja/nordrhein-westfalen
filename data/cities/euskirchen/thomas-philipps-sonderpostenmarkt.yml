@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.655578500000004
 longitude: 6.7987574
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "An der Vogelrute"
 housenumber: 43

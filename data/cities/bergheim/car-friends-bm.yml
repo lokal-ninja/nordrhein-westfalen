@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.945165900000006
 longitude: 6.626332400000001
-postcode: 50126
+postcode: "50126"
 city: Bergheim
 street: "Humboldtstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.5316002
 longitude: 7.4158543
-postcode: 44369
+postcode: "44369"
 city: Dortmund
 street: "Huckarder Straße"
 housenumber: 352

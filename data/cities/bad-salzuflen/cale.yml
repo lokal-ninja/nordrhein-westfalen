@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 52.0623293
 longitude: 8.7477192
-postcode: 32108
+postcode: "32108"
 city: Bad Salzuflen
 street: "Oerlinghauser Straße"
 housenumber: 63

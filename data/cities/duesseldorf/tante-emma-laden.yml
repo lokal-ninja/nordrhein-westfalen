@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.1748084
 longitude: 6.8567451
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
 street: "Eichelstraße"
 housenumber: 90

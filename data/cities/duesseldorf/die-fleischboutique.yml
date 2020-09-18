@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.243633
 longitude: 6.801155100000001
-postcode: 40239
+postcode: "40239"
 city: Düsseldorf
 street: "Grunerstraße"
 housenumber: 40

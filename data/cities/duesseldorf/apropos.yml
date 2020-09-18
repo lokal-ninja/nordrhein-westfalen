@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2229121
 longitude: 6.7751125000000005
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Benrather Straße"
 housenumber: 15

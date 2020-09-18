@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0919146
 longitude: 6.1572136
-postcode: 41849
+postcode: "41849"
 city: Wassenberg
 street: "Weilerstraße"
 housenumber: 55

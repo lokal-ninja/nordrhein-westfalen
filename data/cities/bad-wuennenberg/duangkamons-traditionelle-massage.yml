@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.5214999
 longitude: 8.7029931
-postcode: 33181
+postcode: "33181"
 city: Bad Wünnenberg
 street: "Mittelstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.9481291
 longitude: 6.8484623000000004
-postcode: 50859
+postcode: "50859"
 city: Köln
 street: "Kölner Straße"
 housenumber: 111

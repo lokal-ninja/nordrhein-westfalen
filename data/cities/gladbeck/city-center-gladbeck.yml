@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.574710800000005
 longitude: 6.9942374
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Hochstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.283712900000005
 longitude: 7.4525258
-postcode: 48429
+postcode: "48429"
 city: Rheine
 street: "Osnabrücker Straße"
 housenumber: 112

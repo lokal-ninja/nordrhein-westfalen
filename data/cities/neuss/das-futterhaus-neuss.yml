@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.1867492
 longitude: 6.682302000000001
-postcode: 41464
+postcode: "41464"
 city: Neuss
 street: "Jülicher Landstraße"
 housenumber: 88

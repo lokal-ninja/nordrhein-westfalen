@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.7011314
 longitude: 8.7274548
-postcode: 33106
+postcode: "33106"
 city: Paderborn
 street: "Frankfurter Weg"
 housenumber: 42

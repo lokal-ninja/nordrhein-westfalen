@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.539213600000004
 longitude: 8.0274253
-postcode: 59494
+postcode: "59494"
 city: Soest
 street: "Auf der Wollmeine"
 housenumber: 6

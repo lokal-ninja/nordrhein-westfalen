@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.2801382
 longitude: 7.169500200000001
-postcode: 42109
+postcode: "42109"
 city: Wuppertal
 street: "Uellendahler Straße"
 housenumber: 462

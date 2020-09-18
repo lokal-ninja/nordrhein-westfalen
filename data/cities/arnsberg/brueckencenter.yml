@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3961417
 longitude: 8.0695349
-postcode: 59821
+postcode: "59821"
 city: Arnsberg
 street: "Zum Schützenhof"
 housenumber: 1

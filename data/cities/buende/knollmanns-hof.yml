@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.2180783
 longitude: 8.5967909
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Knoller Straße"
 housenumber: 44

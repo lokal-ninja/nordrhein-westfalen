@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 51.452186600000005
 longitude: 7.034100100000001
-postcode: 45138
+postcode: "45138"
 city: Essen
 street: "Wörthstraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.1690971
 longitude: 6.685619300000001
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 475

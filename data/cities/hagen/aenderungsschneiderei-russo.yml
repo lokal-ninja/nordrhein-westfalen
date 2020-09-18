@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.379809400000006
 longitude: 7.477275100000001
-postcode: 58097
+postcode: "58097"
 city: Hagen
 street: "Boeler Straße"
 housenumber: 122

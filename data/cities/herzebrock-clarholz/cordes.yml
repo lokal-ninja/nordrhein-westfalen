@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.88190590000001
 longitude: 8.2402116
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
 street: "Debusstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.544774700000005
 longitude: 6.6045508
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
 street: "Orsoyer Straße"
 housenumber: 18

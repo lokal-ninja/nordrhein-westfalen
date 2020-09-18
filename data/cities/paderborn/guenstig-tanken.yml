@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.7034723
 longitude: 8.766603700000001
-postcode: 33100
+postcode: "33100"
 city: Paderborn
 street: "Husener Straße"
 housenumber: 121

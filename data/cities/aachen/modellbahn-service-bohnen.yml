@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.7799105
 longitude: 6.1551935
-postcode: 52080
+postcode: "52080"
 city: Aachen
 street: "Steinstraße"
 housenumber: 56

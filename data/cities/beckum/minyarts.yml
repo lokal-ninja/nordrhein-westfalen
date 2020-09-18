@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.7574522
 longitude: 8.0412335
-postcode: 59269
+postcode: "59269"
 city: Beckum
 street: "Nordstraße"
 housenumber: 45

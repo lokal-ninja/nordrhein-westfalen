@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9614017
 longitude: 7.627491600000001
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Prinzipalmarkt"
 housenumber: 22

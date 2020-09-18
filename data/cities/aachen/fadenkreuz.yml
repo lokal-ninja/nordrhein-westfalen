@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7721212
 longitude: 6.0917238000000005
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Schützenstraße"
 housenumber: 2

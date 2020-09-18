@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 52.1970692
 longitude: 8.6103746
-postcode: 32257
+postcode: "32257"
 city: Bünde
 street: "Südlenger Straße"
 housenumber: 131

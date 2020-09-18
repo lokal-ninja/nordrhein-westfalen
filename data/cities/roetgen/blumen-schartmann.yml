@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.649260100000006
 longitude: 6.197311200000001
-postcode: 52159
+postcode: "52159"
 city: Roetgen
 street: "Hauptstraße"
 housenumber: 75

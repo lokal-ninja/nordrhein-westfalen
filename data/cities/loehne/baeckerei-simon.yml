@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.1961687
 longitude: 8.7676912
-postcode: 32584
+postcode: "32584"
 city: Löhne
 street: "Rüscherstraße"
 housenumber: 33

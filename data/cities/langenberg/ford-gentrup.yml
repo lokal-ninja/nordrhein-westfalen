@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.787677800000004
 longitude: 8.320813600000001
-postcode: 33449
+postcode: "33449"
 city: Langenberg
 street: "Max-Georg-Straße"
 housenumber: 2

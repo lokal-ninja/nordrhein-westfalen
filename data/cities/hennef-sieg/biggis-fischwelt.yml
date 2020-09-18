@@ -3,10 +3,10 @@ type: way
 shop: Tiere
 latitude: 50.7723299
 longitude: 7.3002938
-postcode: 53773
+postcode: "53773"
 city: Hennef (Sieg)
 street: "Im Marienfried"
 housenumber: 23
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We,Fr 14:00-19:00; Sa 10:00-14:00"
 website: ""

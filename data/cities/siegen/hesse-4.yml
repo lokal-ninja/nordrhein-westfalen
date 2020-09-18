@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.874839400000006
 longitude: 8.0246033
-postcode: 57072
+postcode: "57072"
 city: Siegen
 street: "Markt"
 housenumber: 9

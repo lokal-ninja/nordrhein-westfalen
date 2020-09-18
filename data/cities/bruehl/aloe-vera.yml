@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.8087455
 longitude: 6.8916595
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Auf der Kehre"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 50.6260739
 longitude: 7.039368100000001
-postcode: 53340
+postcode: "53340"
 city: Meckenheim
 street: "Neuer Markt"
 housenumber: 25

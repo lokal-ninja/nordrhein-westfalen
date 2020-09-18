@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.212648
 longitude: 6.807349
-postcode: 40227
+postcode: "40227"
 city: Düsseldorf
 street: "Heerstraße"
 housenumber: 4

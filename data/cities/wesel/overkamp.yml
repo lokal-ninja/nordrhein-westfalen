@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.6890061
 longitude: 6.609269800000001
-postcode: 46487
+postcode: "46487"
 city: Wesel
 street: "Hamminkelner Landstraße"
 housenumber: 114a

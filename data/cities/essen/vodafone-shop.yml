@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.4569422
 longitude: 6.9988112000000005
-postcode: 45127
+postcode: "45127"
 city: Essen
 street: "Paul-Klinger-Straße"
 housenumber: 1

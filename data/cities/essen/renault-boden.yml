@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3832625
 longitude: 6.9880529000000005
-postcode: 45239
+postcode: "45239"
 city: Essen
 street: "Ruhrtalstraße"
 housenumber: 46

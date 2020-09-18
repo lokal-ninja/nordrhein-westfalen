@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1686191
 longitude: 6.5889473
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Dieselstraße"
 housenumber: 9

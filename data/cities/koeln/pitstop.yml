@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9385975
 longitude: 6.844123000000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Aachener Straße"
 housenumber: 1128

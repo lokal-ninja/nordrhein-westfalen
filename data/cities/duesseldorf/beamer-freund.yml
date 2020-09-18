@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.213035500000004
 longitude: 6.815184500000001
-postcode: 40233
+postcode: "40233"
 city: Düsseldorf
 street: "Fichtenstraße"
 housenumber: 143

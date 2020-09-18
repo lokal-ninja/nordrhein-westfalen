@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.43318360000001
 longitude: 8.6166672
-postcode: 32369
+postcode: "32369"
 city: Rahden
 street: "Gartenstraße"
 housenumber: 3a

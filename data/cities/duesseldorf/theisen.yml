@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.204063500000004
 longitude: 6.772846
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
 street: "Aachener Straße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.275534900000004
 longitude: 7.2468522
-postcode: 42389
+postcode: "42389"
 city: Wuppertal
 street: "Schwelmer Straße"
 housenumber: 27-29

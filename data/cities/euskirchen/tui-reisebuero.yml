@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.661694100000005
 longitude: 6.7885135000000005
-postcode: 53879
+postcode: "53879"
 city: Euskirchen
 street: "Mittelstraße"
 housenumber: 3

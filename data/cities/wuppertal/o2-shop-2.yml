@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.2563827
 longitude: 7.1483356
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
 street: "Alte Freiheit"
 housenumber: 22

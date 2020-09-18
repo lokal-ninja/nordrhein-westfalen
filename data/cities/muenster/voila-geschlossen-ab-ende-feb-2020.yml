@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.957183500000006
 longitude: 7.6268932000000005
-postcode: 48143
+postcode: "48143"
 city: Münster
 street: "Ludgeristraße"
 housenumber: 61

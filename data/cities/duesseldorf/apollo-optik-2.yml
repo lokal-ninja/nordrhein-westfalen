@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2382737
 longitude: 6.7995045
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 142

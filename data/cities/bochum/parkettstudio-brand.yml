@@ -3,7 +3,7 @@ type: node
 shop: Fußböden
 latitude: 51.474135800000006
 longitude: 7.3073649000000005
-postcode: 44892
+postcode: "44892"
 city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 159

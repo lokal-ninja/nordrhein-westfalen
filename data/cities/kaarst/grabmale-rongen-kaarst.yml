@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.23499
 longitude: 6.6150772
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Jungfernweg"
 housenumber: 3

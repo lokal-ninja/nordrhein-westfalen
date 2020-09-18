@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.0243009
 longitude: 8.5662216
-postcode: 33607
+postcode: "33607"
 city: Bielefeld
 street: "Heeper Straße"
 housenumber: 206

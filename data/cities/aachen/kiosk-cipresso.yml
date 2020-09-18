@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.7631986
 longitude: 6.0820385
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Habsburgerallee"
 housenumber: 16

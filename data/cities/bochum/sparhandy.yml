@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.486008500000004
 longitude: 7.1912669000000005
-postcode: 44809
+postcode: "44809"
 city: Bochum
 street: "Porschestraße"
 housenumber: 7

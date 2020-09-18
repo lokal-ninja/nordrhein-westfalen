@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.508077500000006
 longitude: 7.280841000000001
-postcode: 44805
+postcode: "44805"
 city: Bochum
 street: "Josef-Baumann-Straße"
 housenumber: 22

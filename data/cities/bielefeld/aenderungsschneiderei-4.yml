@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.0137993
 longitude: 8.5536521
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
 street: "Oldentruper Straße"
 housenumber: 9

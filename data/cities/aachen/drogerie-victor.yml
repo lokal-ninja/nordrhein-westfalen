@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.7724612
 longitude: 6.076892900000001
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 128,130

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4576252
 longitude: 6.621239900000001
-postcode: 47441
+postcode: "47441"
 city: Moers
 street: "Am Schürmannshütt"
 housenumber: 40g

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.238049700000005
 longitude: 6.7997491000000005
-postcode: 40237
+postcode: "40237"
 city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 141

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8104184
 longitude: 6.471960800000001
-postcode: 52349
+postcode: "52349"
 city: Düren
 street: "Malteserstraße"
 housenumber: 47

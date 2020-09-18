@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.172670600000004
 longitude: 6.686433
-postcode: 41466
+postcode: "41466"
 city: Neuss
 street: "Bergheimer Straße"
 housenumber: 421

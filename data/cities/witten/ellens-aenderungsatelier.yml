@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.4216023
 longitude: 7.2813784
-postcode: 58456
+postcode: "58456"
 city: Witten
 street: "Meesmannstraße"
 housenumber: 62

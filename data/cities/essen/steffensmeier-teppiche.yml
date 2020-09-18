@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.4948792
 longitude: 6.9976476000000005
-postcode: 45329
+postcode: "45329"
 city: Essen
 street: "Fünfhöfestraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.8077763
 longitude: 7.209299100000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
 street: "Aulgasse"
 housenumber: 124

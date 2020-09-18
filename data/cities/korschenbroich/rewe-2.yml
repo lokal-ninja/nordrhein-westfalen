@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.1644506
 longitude: 6.5782452000000005
-postcode: 41352
+postcode: "41352"
 city: Korschenbroich
 street: "Bachstraße"
 housenumber: 32

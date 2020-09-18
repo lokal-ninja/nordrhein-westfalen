@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.5064755
 longitude: 6.456226900000001
-postcode: 47661
+postcode: "47661"
 city: Issum
 street: "Hoerstgener Straße"
 housenumber: 122

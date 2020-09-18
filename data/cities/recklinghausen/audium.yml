@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.614552100000004
 longitude: 7.2004410000000005
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
 street: "Kampstraße"
 housenumber: 68

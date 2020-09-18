@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0407207
 longitude: 7.841549400000001
-postcode: 48346
+postcode: "48346"
 city: Ostbevern
 street: "Engelstraße"
 housenumber: 14

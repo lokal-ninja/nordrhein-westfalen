@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 50.774456300000004
 longitude: 6.0832701
-postcode: 52062
+postcode: "52062"
 city: Aachen
 street: "Schmiedstraße"
 housenumber: 18

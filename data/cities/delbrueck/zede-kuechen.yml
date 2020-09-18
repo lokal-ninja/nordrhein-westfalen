@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.760365900000004
 longitude: 8.5624418
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Boker Straße"
 housenumber: 8

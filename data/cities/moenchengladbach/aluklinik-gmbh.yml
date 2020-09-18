@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.1507914
 longitude: 6.4699568
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Giesenkirchener Straße"
 housenumber: 256

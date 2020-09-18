@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9239162
 longitude: 6.927297800000001
-postcode: 50937
+postcode: "50937"
 city: Köln
 street: "Zülpicher Straße"
 housenumber: 207

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 51.742850100000005
 longitude: 7.184836700000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Turmstraße"
 housenumber: 6

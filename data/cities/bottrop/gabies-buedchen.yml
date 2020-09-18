@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.504544700000004
 longitude: 6.945776700000001
-postcode: 46242
+postcode: "46242"
 city: Bottrop
 street: "Ebelstraße"
 housenumber: 33a

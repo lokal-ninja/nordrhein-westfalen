@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.502545700000006
 longitude: 6.760301800000001
-postcode: 47169
+postcode: "47169"
 city: Duisburg
 street: "August-Bebel-Platz"
 housenumber: 20

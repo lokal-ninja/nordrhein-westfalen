@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0025099
 longitude: 7.0377625
-postcode: 51069
+postcode: "51069"
 city: Köln
 street: "Kunstfelder Straße"
 housenumber: 9

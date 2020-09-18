@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.779986900000004
 longitude: 6.0738469
-postcode: 52072
+postcode: "52072"
 city: Aachen
 street: "Claßenstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.489375800000005
 longitude: 9.1411504
-postcode: 34414
+postcode: "34414"
 city: Warburg
 street: "Paderborner Tor"
 housenumber: 107

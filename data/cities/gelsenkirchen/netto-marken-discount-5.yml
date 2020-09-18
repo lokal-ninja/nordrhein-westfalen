@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5838429
 longitude: 7.023352200000001
-postcode: 45896
+postcode: "45896"
 city: Gelsenkirchen
 street: "Taubenstraße"
 housenumber: 117

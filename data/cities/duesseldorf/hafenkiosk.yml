@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.2128572
 longitude: 6.752819700000001
-postcode: 40219
+postcode: "40219"
 city: Düsseldorf
 street: "Gladbacher Straße"
 housenumber: 95

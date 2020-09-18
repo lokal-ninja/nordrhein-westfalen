@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.5960831
 longitude: 8.801705100000001
-postcode: 33165
+postcode: "33165"
 city: Lichtenau
 street: "Finkestraße"
 housenumber: 48

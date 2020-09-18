@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.729772600000004
 longitude: 7.163187700000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
 street: "Annabergstraße"
 housenumber: 166

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.918652
 longitude: 6.851937100000001
-postcode: 50858
+postcode: "50858"
 city: Köln
 street: "Dürener Straße"
 housenumber: 458

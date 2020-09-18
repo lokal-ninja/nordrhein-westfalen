@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.693305200000005
 longitude: 7.087557
-postcode: 53127
+postcode: "53127"
 city: Bonn
 street: "Haager Weg"
 housenumber: 91

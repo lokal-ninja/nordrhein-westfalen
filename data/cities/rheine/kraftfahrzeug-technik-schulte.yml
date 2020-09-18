@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.2898666
 longitude: 7.494832300000001
-postcode: 48432
+postcode: "48432"
 city: Rheine
 street: "Edisonstraße"
 housenumber: 15

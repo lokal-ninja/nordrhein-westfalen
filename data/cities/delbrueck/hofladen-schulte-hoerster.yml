@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.740071
 longitude: 8.575830700000001
-postcode: 33129
+postcode: "33129"
 city: Delbrück
 street: "Im Hagen"
 housenumber: 1

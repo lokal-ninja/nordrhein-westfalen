@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.019807400000005
 longitude: 7.2452239
-postcode: 51515
+postcode: "51515"
 city: Kürten
 street: "Wipperfürther Straße"
 housenumber: 235

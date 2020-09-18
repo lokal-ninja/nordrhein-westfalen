@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.395340600000004
 longitude: 6.641959600000001
-postcode: 47239
+postcode: "47239"
 city: Duisburg
 street: "Kapellener Straße"
 housenumber: 116

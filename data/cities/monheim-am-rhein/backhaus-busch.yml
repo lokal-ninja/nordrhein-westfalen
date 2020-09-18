@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0944146
 longitude: 6.8980003000000005
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Lerchenweg"
 housenumber: 1

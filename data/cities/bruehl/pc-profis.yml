@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.814221100000005
 longitude: 6.888555
-postcode: 50321
+postcode: "50321"
 city: Brühl
 street: "Euskirchener Straße"
 housenumber: 96

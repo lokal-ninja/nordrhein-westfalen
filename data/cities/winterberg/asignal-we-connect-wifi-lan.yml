@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.155930100000006
 longitude: 8.4630261
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Alter Weg"
 housenumber: 24

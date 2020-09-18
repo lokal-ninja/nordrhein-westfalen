@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.943478000000006
 longitude: 6.9588963
-postcode: 50667
+postcode: "50667"
 city: Köln
 street: "Trankgasse"
 housenumber: 11

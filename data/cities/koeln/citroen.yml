@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.946119800000005
 longitude: 6.890910600000001
-postcode: 50933
+postcode: "50933"
 city: Köln
 street: "Widdersdorfer Straße"
 housenumber: 345

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.49889
 longitude: 7.3497111
-postcode: 44388
+postcode: "44388"
 city: Dortmund
 street: "Lütgendortmunder Straße"
 housenumber: 41

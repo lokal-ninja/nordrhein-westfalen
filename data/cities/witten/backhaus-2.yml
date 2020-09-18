@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4386347
 longitude: 7.3368757
-postcode: 58452
+postcode: "58452"
 city: Witten
 street: "Ruhrstraße"
 housenumber: 6

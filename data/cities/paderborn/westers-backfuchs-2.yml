@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.7158371
 longitude: 8.744253200000001
-postcode: 33102
+postcode: "33102"
 city: Paderborn
 street: "Riemekestraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 08:00-11:00"
+opening_hours: "Mo-Fr 06:00-17:30; Sa 06:00-12:30; Su 08:00-11:00"
 website: ""

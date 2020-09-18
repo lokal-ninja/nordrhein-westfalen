@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.22936180000001
 longitude: 8.4828806
-postcode: 59955
+postcode: "59955"
 city: Winterberg
 street: "Burgstraße"
 housenumber: 1

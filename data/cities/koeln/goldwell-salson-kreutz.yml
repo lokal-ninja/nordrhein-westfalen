@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9482172
 longitude: 6.954792100000001
-postcode: 50668
+postcode: "50668"
 city: Köln
 street: "Weidengasse"
 housenumber: 40

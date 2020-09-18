@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.3529866
 longitude: 8.4877319
-postcode: 59939
+postcode: "59939"
 city: Olsberg
 street: "Ruhrstraße"
 housenumber: 11

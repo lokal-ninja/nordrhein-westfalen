@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.6815416
 longitude: 7.8202625
-postcode: 59065
+postcode: "59065"
 city: Hamm
 street: "Marktplatz"
 housenumber: 8a

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.128789700000006
 longitude: 7.551198100000001
-postcode: 48268
+postcode: "48268"
 city: Greven
 street: "Grevener Landstraße"
 housenumber: 1

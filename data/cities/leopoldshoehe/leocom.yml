@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.0124499
 longitude: 8.700424
-postcode: 33818
+postcode: "33818"
 city: Leopoldshöhe
 street: "Schötmarsche Straße"
 housenumber: 10

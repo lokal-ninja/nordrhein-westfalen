@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 51.2330192
 longitude: 6.6178178
-postcode: 41564
+postcode: "41564"
 city: Kaarst
 street: "Mittelstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 51.73713600000001
 longitude: 7.876526600000001
-postcode: 59229
+postcode: "59229"
 city: Ahlen
 street: "Bunsenstraße"
 housenumber: 44

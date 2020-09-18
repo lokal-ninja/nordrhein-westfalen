@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9866663
 longitude: 6.9911931
-postcode: 51061
+postcode: "51061"
 city: Köln
 street: "Bonhoefferstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5720813
 longitude: 6.978585000000001
-postcode: 45964
+postcode: "45964"
 city: Gladbeck
 street: "Bottroper Straße"
 housenumber: 88

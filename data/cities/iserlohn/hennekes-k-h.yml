@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.365055500000004
 longitude: 7.6136002000000005
-postcode: 58642
+postcode: "58642"
 city: Iserlohn
 street: "Hagener Straße"
 housenumber: 45

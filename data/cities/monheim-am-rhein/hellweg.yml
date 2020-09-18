@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1043053
 longitude: 6.8990479
-postcode: 40789
+postcode: "40789"
 city: Monheim am Rhein
 street: "Benzstraße"
 housenumber: 5

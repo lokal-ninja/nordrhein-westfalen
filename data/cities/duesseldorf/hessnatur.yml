@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.2238478
 longitude: 6.773661000000001
-postcode: 40213
+postcode: "40213"
 city: Düsseldorf
 street: "Carlsplatz"
 housenumber: 21

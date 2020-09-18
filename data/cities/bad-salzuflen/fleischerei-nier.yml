@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.0851406
 longitude: 8.745301000000001
-postcode: 32105
+postcode: "32105"
 city: Bad Salzuflen
 street: "Lange Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.993730400000004
 longitude: 7.647877
-postcode: 48157
+postcode: "48157"
 city: Münster
 street: "Hamannplatz"
 housenumber: 21

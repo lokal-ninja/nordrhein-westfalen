@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.817446100000005
 longitude: 6.2653689
-postcode: 52249
+postcode: "52249"
 city: Eschweiler
 street: "Marienstraße"
 housenumber: 4

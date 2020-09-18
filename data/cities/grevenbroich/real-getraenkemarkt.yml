@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.108616100000006
 longitude: 6.578147
-postcode: 41515
+postcode: "41515"
 city: Grevenbroich
 street: "Am Rittergut"
 housenumber: 1

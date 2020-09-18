@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.542415500000004
 longitude: 6.8184335
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
 street: "Dudelerstraße"
 housenumber: 9

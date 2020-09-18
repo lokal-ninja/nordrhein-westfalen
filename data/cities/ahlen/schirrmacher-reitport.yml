@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 51.7325044
 longitude: 7.8452532
-postcode: 59227
+postcode: "59227"
 city: Ahlen
 street: "Im Oestricher Holt"
 housenumber: 65

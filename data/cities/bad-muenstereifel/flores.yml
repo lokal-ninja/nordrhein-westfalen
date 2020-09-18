@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.596009200000005
 longitude: 6.7885111
-postcode: 53902
+postcode: "53902"
 city: Bad Münstereifel
 street: "Bahnhofstraße"
 housenumber: 33

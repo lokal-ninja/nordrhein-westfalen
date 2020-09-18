@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.770866600000005
 longitude: 6.0815044
-postcode: 52064
+postcode: "52064"
 city: Aachen
 street: "Matthiashofstraße"
 housenumber: 1

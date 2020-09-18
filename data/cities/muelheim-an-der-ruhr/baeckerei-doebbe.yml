@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.423766
 longitude: 6.8922844
-postcode: 
+postcode: ""
 city: Mülheim an der Ruhr
 street: "An den Sportstätten"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2922528
 longitude: 7.9873677
-postcode: 59846
+postcode: "59846"
 city: Sundern
 street: "Se"
 housenumber: 34

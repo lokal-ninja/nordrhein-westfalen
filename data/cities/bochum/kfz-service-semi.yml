@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.4551698
 longitude: 7.185951200000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
 street: "Elsa-Brändström-Straße"
 housenumber: 56a

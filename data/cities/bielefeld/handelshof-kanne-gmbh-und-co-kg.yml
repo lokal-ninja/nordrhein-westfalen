@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.0398214
 longitude: 8.6099525
-postcode: 33609
+postcode: "33609"
 city: Bielefeld
 street: "Schelpmilser Weg"
 housenumber: 24

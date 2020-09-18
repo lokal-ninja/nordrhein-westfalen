@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2141031
 longitude: 6.775652300000001
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
 street: "Fürstenwall"
 housenumber: 142

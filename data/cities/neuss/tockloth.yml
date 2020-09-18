@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.171116700000006
 longitude: 6.6342562
-postcode: 41472
+postcode: "41472"
 city: Neuss
 street: "Trockenpützstraße"
 housenumber: 2

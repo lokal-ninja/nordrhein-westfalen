@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.152663100000005
 longitude: 6.4960072
-postcode: 41238
+postcode: "41238"
 city: Mönchengladbach
 street: "Mülforter Straße"
 housenumber: 39
