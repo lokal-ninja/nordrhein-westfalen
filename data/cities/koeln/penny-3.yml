@@ -1,12 +1,12 @@
-id: 3600917859
+id: 1673071169
 type: node
 shop: Supermarkt
-latitude: 50.9205112
-longitude: 6.957204300000001
-postcode: "50677"
+latitude: 50.8816548
+longitude: 7.081671
+postcode: "51145"
 city: Köln
-street: "Merowingerstraße"
-housenumber: 33A
+street: "Kaiserstraße"
+housenumber: 6-8
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00"
-website: "https://www.penny.de/"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: ""

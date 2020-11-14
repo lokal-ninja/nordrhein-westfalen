@@ -1,12 +1,12 @@
-id: 7308392396
-type: node
+id: 32568781
+type: way
 shop: Drogerie
-latitude: 50.7526492
-longitude: 7.0454347
-postcode: "53119"
+latitude: 50.707062500000006
+longitude: 7.0586093000000005
+postcode: "53123"
 city: Bonn
-street: "Agnetendorfer Straße"
-housenumber: 4
-phone: "+49 228 92894599"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-1522/bonn/agnetendorfer-strasse-4"
+street: "Basketsring"
+housenumber: 5
+phone: "+49 228 92599193"
+opening_hours: "Mo-Su,PH off"
+website: "https://www.dm.de/store/de-1335/bonn/basketsring-5"

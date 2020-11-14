@@ -1,12 +1,12 @@
-id: 6033094003
-type: node
+id: 86826364
+type: way
 shop: Supermarkt
-latitude: 51.227018300000005
-longitude: 6.7872482000000005
-postcode: "40212"
+latitude: 51.171200600000006
+longitude: 6.8602802
+postcode: "40599"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 93
+street: "Nürnberger Straße"
+housenumber: 37
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

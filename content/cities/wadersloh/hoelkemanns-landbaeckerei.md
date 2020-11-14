@@ -1,4 +1,4 @@
 ---
-title: "Hölkemanns Landbäckerei"
+title: "Hölkemann'S Landbäckerei"
 url: /wadersloh/hoelkemanns-landbaeckerei/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "BioHaus"
+title: "Biohaus"
 url: /duesseldorf/biohaus/
 ---

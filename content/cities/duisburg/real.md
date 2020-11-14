@@ -1,4 +1,4 @@
 ---
-title: "real,-"
+title: "Real"
 url: /duisburg/real/
 ---

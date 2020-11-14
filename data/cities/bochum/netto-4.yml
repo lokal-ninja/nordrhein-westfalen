@@ -1,12 +1,12 @@
-id: 7340689088
-type: node
+id: 86124901
+type: way
 shop: Supermarkt
-latitude: 51.520049500000006
-longitude: 7.281906500000001
-postcode: "44805"
+latitude: 51.441769900000004
+longitude: 7.2132868000000006
+postcode: "44795"
 city: Bochum
-street: "Lothringer Straße"
-housenumber: 37
+street: "Markstraße"
+housenumber: 410
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

@@ -1,4 +1,4 @@
 ---
-title: "Bogestra Kundencenter"
+title: "BOGESTRA Kundencenter"
 url: /gelsenkirchen/bogestra-kundencenter/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /frechen/kodi/
 ---

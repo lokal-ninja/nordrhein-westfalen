@@ -1,4 +1,4 @@
 ---
-title: "Netto"
+title: "netto"
 url: /koeln/netto-10/
 ---

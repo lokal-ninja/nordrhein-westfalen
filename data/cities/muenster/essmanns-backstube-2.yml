@@ -1,12 +1,12 @@
-id: 646815015
+id: 612989315
 type: node
 shop: Bäckerei
-latitude: 51.94723200000001
-longitude: 7.608319000000001
-postcode: "48151"
+latitude: 51.970025
+longitude: 7.621984200000001
+postcode: "48149"
 city: Münster
-street: "Von-Witzleben-Straße"
-housenumber: 10
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-17:00"
-website: ""
+street: "Studtstraße"
+housenumber: 64
+phone: "+49 251 92455023"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 07:00-17:00"
+website: "https://essmanns-backstube.de"

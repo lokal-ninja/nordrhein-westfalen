@@ -1,12 +1,12 @@
-id: 5781571359
+id: 5259659221
 type: node
 shop: Supermarkt
-latitude: 52.0385113
-longitude: 8.5449175
-postcode: "33611"
+latitude: 52.025854
+longitude: 8.5333001
+postcode: "33602"
 city: Bielefeld
-street: "Beckhausstraße"
-housenumber: 64
+street: "Bahnhofstraße"
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: ""

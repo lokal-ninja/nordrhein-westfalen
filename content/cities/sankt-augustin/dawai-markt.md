@@ -1,4 +1,4 @@
 ---
-title: "DAWAI Markt"
+title: "Dawai Markt"
 url: /sankt-augustin/dawai-markt/
 ---

@@ -1,12 +1,12 @@
 id: 7626289789
 type: node
 shop: Supermarkt
-latitude: 50.9636439
-longitude: 7.0007618
+latitude: 50.963639400000005
+longitude: 7.0007315000000006
 postcode: "51063"
 city: Köln
 street: "Wallstraße"
 housenumber: 81
 phone: ""
-opening_hours: "closed"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00; Su,PH off"
 website: "https://www.instagram.com/uwieunverpackt/?hl=de"

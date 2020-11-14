@@ -1,12 +1,12 @@
 id: 442529089
 type: node
 shop: Bäckerei
-latitude: 51.1458841
-longitude: 6.7552193
+latitude: 51.1458517
+longitude: 6.755284400000001
 postcode: "41470"
 city: Neuss
 street: "Am Kirchenmorgen"
 housenumber: 1
 phone: "+49 2137 7874487"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 08:00-20:00"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
 website: ""

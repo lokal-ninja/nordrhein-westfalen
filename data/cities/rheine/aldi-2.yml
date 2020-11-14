@@ -1,12 +1,12 @@
-id: 682373190
-type: node
+id: 154937344
+type: way
 shop: Supermarkt
-latitude: 52.271714900000006
-longitude: 7.412298900000001
-postcode: "48431"
+latitude: 52.2953138
+longitude: 7.450271300000001
+postcode: "48429"
 city: Rheine
-street: "Nienbergstraße"
-housenumber: 100
+street: "Friedrich-Ebert-Ring"
+housenumber: 184
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

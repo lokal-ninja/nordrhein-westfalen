@@ -1,12 +1,12 @@
-id: 1639491808
+id: 1556907000
 type: node
 shop: Bäckerei
-latitude: 51.9971393
-longitude: 7.6648076000000005
-postcode: "48157"
+latitude: 51.961511300000005
+longitude: 7.6402897
+postcode: "48145"
 city: Münster
-street: "An der Alten Ziegelei"
-housenumber: 6
-phone: "+49251328958"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-13:00"
+street: "Warendorfer Straße"
+housenumber: 22
+phone: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; PH,Su 08:00-17:00"
 website: ""

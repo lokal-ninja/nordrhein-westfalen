@@ -1,12 +1,12 @@
-id: 583036513
-type: node
+id: 289397730
+type: way
 shop: Kiosk
-latitude: 50.9603947
-longitude: 6.998596
+latitude: 50.9604992
+longitude: 6.9986098000000005
 postcode: "51063"
 city: Köln
 street: "Windmühlenstraße"
-housenumber: 149-151
+housenumber: 149,151
 phone: ""
 opening_hours: ""
 website: ""

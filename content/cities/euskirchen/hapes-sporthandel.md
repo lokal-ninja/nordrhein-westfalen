@@ -1,4 +1,4 @@
 ---
-title: "HAPE's Sporthandel"
+title: "HaPe's Sporthandel"
 url: /euskirchen/hapes-sporthandel/
 ---

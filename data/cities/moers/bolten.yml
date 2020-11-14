@@ -1,12 +1,12 @@
-id: 24928844
-type: way
+id: 939719931
+type: node
 shop: Bäckerei
-latitude: 51.455113000000004
-longitude: 6.6645538
-postcode: "47443"
+latitude: 51.420398500000005
+longitude: 6.654414200000001
+postcode: ""
 city: Moers
-street: "Franz-Haniel-Straße"
-housenumber: 20c
-phone: ""
-opening_hours: ""
-website: ""
+street: "Düsseldorfer Straße"
+housenumber: 334
+phone: "+49 2841 8830200"
+opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-15:00; Su 08:00-12:00"
+website: "https://www.baeckerei-bolten.de/filialen/duesseldorfer-strasse-moers"

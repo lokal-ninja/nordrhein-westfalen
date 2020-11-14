@@ -1,4 +1,4 @@
 ---
-title: "Ernstings Family"
+title: "Ernsting's family"
 url: /selfkant/ernstings-family/
 ---

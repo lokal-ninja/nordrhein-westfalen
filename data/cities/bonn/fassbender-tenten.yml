@@ -1,6 +1,6 @@
 id: 43410666
 type: way
-shop: Baumarkt
+shop: Baustoffe
 latitude: 50.695723
 longitude: 7.139474600000001
 postcode: "53175"
@@ -8,5 +8,5 @@ city: Bonn
 street: "Godesberger Straße"
 housenumber: 69
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
 website: ""

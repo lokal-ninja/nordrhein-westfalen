@@ -1,12 +1,12 @@
-id: 119423144
-type: way
+id: 3990017657
+type: node
 shop: Supermarkt
-latitude: 51.212766300000006
-longitude: 7.235034300000001
-postcode: "42899"
+latitude: 51.1897284
+longitude: 7.2603841000000005
+postcode: "42897"
 city: Remscheid
-street: "Am Schützenplatz"
-housenumber: 16
+street: "Wupperstraße"
+housenumber: 13
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-22:00"
 website: ""

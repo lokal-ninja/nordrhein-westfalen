@@ -1,4 +1,4 @@
 ---
-title: "KODI"
+title: "KODi"
 url: /bochum/kodi/
 ---

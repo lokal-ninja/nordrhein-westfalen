@@ -1,12 +1,12 @@
-id: 2140204080
+id: 2748000383
 type: node
 shop: Bäckerei
-latitude: 51.958195800000006
-longitude: 7.570373200000001
-postcode: "48161"
+latitude: 51.951994000000006
+longitude: 7.6199649
+postcode: "48151"
 city: Münster
-street: "Roxeler Straße"
-housenumber: 416
-phone: "+49 251 1364087"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
+street: "Geiststraße"
+housenumber: 2
+phone: "+49 251 527511"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: "https://krimphove.de/"

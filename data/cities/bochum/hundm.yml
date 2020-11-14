@@ -1,12 +1,12 @@
-id: 1932268901
+id: 1116366660
 type: node
 shop: Kleidung
-latitude: 51.494822400000004
-longitude: 7.283175000000001
-postcode: "44791"
+latitude: 51.482370100000004
+longitude: 7.216384000000001
+postcode: "44787"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 3
-phone: "+49 234 68727868;+49 800 6655900"
-opening_hours: "Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30"
-website: "http://www.hm.com/de/"
+street: "Kortumstraße"
+housenumber: 89
+phone: "+49 234 682414"
+opening_hours: "Mo-Sa 10:00-20:00"
+website: "https://citypoint-bochum.de/shops/hm/"

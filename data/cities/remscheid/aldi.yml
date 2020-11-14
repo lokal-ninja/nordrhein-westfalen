@@ -1,12 +1,12 @@
-id: 5467738702
-type: node
+id: 470321116
+type: way
 shop: Supermarkt
-latitude: 51.19050360000001
-longitude: 7.2566651
-postcode: "42897"
+latitude: 51.1670467
+longitude: 7.202915900000001
+postcode: "42859"
 city: Remscheid
-street: "Kölner Straße"
-housenumber: 38-40
+street: "Burger Straße"
+housenumber: 85a
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00"
+opening_hours: ""
 website: ""

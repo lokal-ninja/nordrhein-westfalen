@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Brinkmann"
+title: "Edeka Brinkmann"
 url: /bielefeld/edeka-brinkmann/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "MOBAU"
+title: "Mobau"
 url: /schleiden/mobau/
 ---

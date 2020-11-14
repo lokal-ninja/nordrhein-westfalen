@@ -1,4 +1,4 @@
 ---
-title: "Aldi - Süd"
+title: "Aldi Süd"
 url: /elsdorf/aldi-sued/
 ---
