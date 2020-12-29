@@ -1,4 +1,4 @@
 ---
-title: "Trink Stop"
+title: "trink stop"
 url: /hattingen/trink-stop/
 ---

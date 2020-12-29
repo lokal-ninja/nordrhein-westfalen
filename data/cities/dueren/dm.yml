@@ -1,12 +1,12 @@
 id: 2680342681
 type: node
 shop: Drogerie
-latitude: 50.809817800000005
-longitude: 6.4777648
+latitude: 50.809775900000005
+longitude: 6.4776461
 postcode: "52349"
 city: Düren
 street: "Josef-Schregel-Straße"
 housenumber: 57-59
 phone: ""
-opening_hours: "Tu-We 08:30-20:00, Fr-Sa 08:30-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.dm.de/"

@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Patzer"
+title: "Edeka Patzer"
 url: /luenen/edeka-patzer/
 ---

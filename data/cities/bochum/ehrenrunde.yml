@@ -8,5 +8,5 @@ city: Bochum
 street: "Königsallee"
 housenumber: 34
 phone: ""
-opening_hours: "Mo off; Tu,We 10:30-13:30,15:30-18:30; Th 10:30-13:30,18:30-21:30; Fr 10:30-13:30; Sa 10:30-14:00"
+opening_hours: "Mo,Fr,Sa off; Tu-Th 15:30-18:30"
 website: ""

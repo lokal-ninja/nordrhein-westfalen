@@ -1,6 +1,6 @@
 ---
 title: Kierspe
 url: /kierspe/
-latitude: 51.136593500000004
-longitude: 7.5871946
+latitude: 51.1278531
+longitude: 7.600651300000001
 ---

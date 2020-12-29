@@ -1,12 +1,12 @@
-id: 942841751
+id: 1080372143
 type: node
 shop: Supermarkt
-latitude: 51.47714860000001
-longitude: 7.2164767
-postcode: "44787"
+latitude: 51.4897621
+longitude: 7.2605341
+postcode: "44791"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 17
+street: "Grüner Weg"
+housenumber: 44
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

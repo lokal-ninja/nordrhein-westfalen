@@ -8,5 +8,5 @@ city: Verl
 street: "Schmiedestrang"
 housenumber: 33
 phone: "+49 5246 3941"
-opening_hours: "Th,Fr 09:00-19:00;Sa 09:00-13:00;PH,Mo-We,Su off"
+opening_hours: "We-Fr 09:00-19:00; Sa 09:00-13:00; PH,Su-We off"
 website: "http://www.bremehrs.de/"

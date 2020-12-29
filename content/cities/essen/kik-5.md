@@ -1,4 +1,4 @@
 ---
-title: "KIK"
+title: "KiK"
 url: /essen/kik-5/
 ---

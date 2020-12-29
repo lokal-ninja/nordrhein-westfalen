@@ -1,12 +1,12 @@
-id: 4362648531
+id: 4341693636
 type: node
 shop: Bäckerei
-latitude: 52.2982226
-longitude: 8.9117498
-postcode: "32425"
+latitude: 52.290160900000004
+longitude: 8.914844
+postcode: "32423"
 city: Minden
-street: "Stiftstraße"
-housenumber: 56
+street: "Kampstraße"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00; Sa 06:00-12:30; Su 07:00-12:00"
-website: "https://www.bertermann.com/"
+opening_hours: "Tu-Sa 08:00-13:00; Su-Mo off"
+website: ""

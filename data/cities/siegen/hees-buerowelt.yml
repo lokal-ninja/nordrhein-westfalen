@@ -1,12 +1,12 @@
-id: 207879207
-type: way
+id: 3391243393
+type: node
 shop: Schreibwaren
-latitude: 50.851565
-longitude: 8.0259091
-postcode: "57074"
+latitude: 50.8752179
+longitude: 8.0170736
+postcode: "57072"
 city: Siegen
-street: "Leimbachstraße"
-housenumber: 266
+street: "Am Bahnhof"
+housenumber: 7
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 10:00-19:00"
+website: "https://hees.de/"

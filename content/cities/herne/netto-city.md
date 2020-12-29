@@ -1,4 +1,4 @@
 ---
-title: "netto city"
+title: "Netto City"
 url: /herne/netto-city/
 ---

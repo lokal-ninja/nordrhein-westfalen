@@ -1,4 +1,4 @@
 ---
-title: "E center Schenke"
+title: "E-Center Schenke"
 url: /bielefeld/e-center-schenke/
 ---

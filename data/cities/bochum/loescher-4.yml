@@ -1,12 +1,12 @@
-id: 1543187797
+id: 1523595267
 type: node
 shop: Bäckerei
-latitude: 51.485097800000005
-longitude: 7.2156808
-postcode: "44787"
+latitude: 51.4730587
+longitude: 7.2220301000000005
+postcode: "44789"
 city: Bochum
-street: "Brückstraße"
-housenumber: 56
-phone: "+49 234 54500297"
-opening_hours: "Mo-Fr 06:00-16:00, Sa 06:00-14:00; Su,PH 07:00-14:00"
+street: "Joachimstraße"
+housenumber: 27
+phone: "+49 234 3254768"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

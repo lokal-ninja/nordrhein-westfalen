@@ -1,4 +1,4 @@
 ---
-title: "netto"
+title: "Netto"
 url: /meschede/netto/
 ---

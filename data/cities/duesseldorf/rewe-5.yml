@@ -1,12 +1,12 @@
-id: 369377070
+id: 1194635379
 type: node
 shop: Supermarkt
-latitude: 51.224951000000004
-longitude: 6.8627555000000005
-postcode: "40625"
+latitude: 51.255291
+longitude: 6.865011600000001
+postcode: "40629"
 city: Düsseldorf
-street: "Heyestraße"
-housenumber: 128
+street: "Blanckertzstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

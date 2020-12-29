@@ -1,12 +1,12 @@
-id: 5036973891
+id: 4789970137
 type: node
 shop: Bäckerei
-latitude: 51.4524039
-longitude: 7.232169900000001
-postcode: "44799"
+latitude: 51.499991
+longitude: 7.204706300000001
+postcode: "44809"
 city: Bochum
-street: "Brenscheder Straße"
-housenumber: 45a
+street: "Speicherstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 6:00-18:00, Sa 6:00-16:00; Su 7:00-16:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; SU, PH off"
+website: "https://www.baeckerei-loescher.de/filialen/bochum-hofstede-im-kaufland/"

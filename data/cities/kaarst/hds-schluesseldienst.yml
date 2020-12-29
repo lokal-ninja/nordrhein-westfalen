@@ -1,12 +1,12 @@
-id: 128734230
-type: way
-shop: Allgemein
-latitude: 51.2274253
-longitude: 6.6116128000000005
+id: 8248645226
+type: node
+shop: Schlüsseldienst
+latitude: 51.2273201
+longitude: 6.611729100000001
 postcode: "41564"
 city: Kaarst
 street: "Martinusstraße"
 housenumber: 45
-phone: ""
+phone: "+49 2131 79 29 29"
 opening_hours: ""
-website: ""
+website: "http://www.hds-schluesseldienst.de/"

@@ -1,4 +1,4 @@
 ---
-title: "olsson"
+title: "Olsson"
 url: /bielefeld/olsson-6/
 ---

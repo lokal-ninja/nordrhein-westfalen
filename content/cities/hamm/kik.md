@@ -1,4 +1,4 @@
 ---
-title: "kik"
+title: "Kik"
 url: /hamm/kik/
 ---

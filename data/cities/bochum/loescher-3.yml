@@ -1,12 +1,12 @@
-id: 1523595267
+id: 1029922946
 type: node
 shop: Bäckerei
-latitude: 51.4730587
-longitude: 7.2220301000000005
-postcode: "44789"
+latitude: 51.47210260000001
+longitude: 7.2507562000000005
+postcode: "44803"
 city: Bochum
-street: "Joachimstraße"
-housenumber: 27
-phone: "+49 234 3254768"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+street: "Wittener Straße"
+housenumber: 248
+phone: "+49 234 355828"
+opening_hours: "Mo-Sa 06:30-20:00, Su 07:00-15:00"
+website: "https://www.baeckerei-loescher.de"

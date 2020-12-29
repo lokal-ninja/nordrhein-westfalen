@@ -1,12 +1,12 @@
-id: 84160604
+id: 219682112
 type: way
 shop: Supermarkt
-latitude: 50.77349340000001
-longitude: 6.0761495000000005
-postcode: "52064"
+latitude: 50.7682598
+longitude: 6.0827828
+postcode: ""
 city: Aachen
-street: "Karlsgraben"
-housenumber: 27
+street: "Boxgraben"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00, Su,PH off"
-website: "https://www.netto-online.de//"
+opening_hours: "Mo-Sa 07:00-21:00;Su, PH off"
+website: ""

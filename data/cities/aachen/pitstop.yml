@@ -1,12 +1,12 @@
-id: 211268257
+id: 93562868
 type: way
 shop: Autowerkstatt
-latitude: 50.786906200000004
-longitude: 6.0706382
-postcode: "52072"
+latitude: 50.768705000000004
+longitude: 6.055993600000001
+postcode: ""
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 118
-phone: ""
-opening_hours: ""
-website: ""
+street: "Kronenberg"
+housenumber: 150
+phone: "+49 241 1730618"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+website: "https://www.pitstop.de/"
