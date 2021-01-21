@@ -1,6 +1,5 @@
 id: 4164210038
 type: node
-shop: Pokal
 latitude: 51.964070500000005
 longitude: 7.624988600000001
 postcode: "48143"
@@ -9,4 +8,4 @@ street: "Spiekerhof"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-13:00"
-website: "https://www.stempelweichert.de/"
+website: ""

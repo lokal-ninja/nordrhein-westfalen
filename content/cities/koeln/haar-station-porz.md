@@ -1,4 +1,5 @@
 ---
-title: "Haar-Station Porz"
+title: "Haar-Station-Porz"
 url: /koeln/haar-station-porz/
+shop: Friseur
 ---

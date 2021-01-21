@@ -1,6 +1,5 @@
 id: 6370709202
 type: node
-shop: Fahrrad
 latitude: 51.439747700000005
 longitude: 6.917280000000001
 postcode: "45472"
@@ -8,5 +7,5 @@ city: Mülheim an der Ruhr
 street: "Hänflingstraße"
 housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30 Sa 10:00-16:00"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00"
 website: ""

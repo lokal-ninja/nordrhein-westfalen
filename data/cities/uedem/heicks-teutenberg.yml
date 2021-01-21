@@ -1,6 +1,5 @@
 id: 6340057273
 type: node
-shop: Bäckerei
 latitude: 51.6684616
 longitude: 6.272469
 postcode: "47589"
@@ -8,5 +7,5 @@ city: Uedem
 street: "Mühlenstraße"
 housenumber: 4
 phone: "+49 2825 9387893"
-opening_hours: "Mo–Fr 05:30–18:30; Sa 05:30–13:00; So 07:00–17:00"
+opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-13:00; Su 07:00-17:00"
 website: "https://heicks-teutenberg.de"

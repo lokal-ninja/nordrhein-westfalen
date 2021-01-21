@@ -1,6 +1,5 @@
 id: 48216512
 type: way
-shop: Supermarkt
 latitude: 51.2686275
 longitude: 6.6304818
 postcode: "40670"
@@ -8,5 +7,5 @@ city: Meerbusch
 street: "Gottlieb-Daimler-Straße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: "https://www.aldi-sued.de/"

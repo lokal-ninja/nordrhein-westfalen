@@ -1,6 +1,5 @@
 id: 288392666
 type: node
-shop: Outdoor
 latitude: 51.964415900000006
 longitude: 7.6238061
 postcode: "48143"
@@ -9,4 +8,4 @@ street: "Rosenstraße"
 housenumber: 10-13
 phone: ""
 opening_hours: "Mo-Fr 9:30-19:00; Sa 9:30-18:00"
-website: "https://unterwegs-muenster.de"
+website: ""

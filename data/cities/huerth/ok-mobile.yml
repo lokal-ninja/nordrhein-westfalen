@@ -1,6 +1,5 @@
 id: 6327224082
 type: node
-shop: Autohaus
 latitude: 50.9008126
 longitude: 6.899275500000001
 postcode: "50354"
@@ -9,4 +8,4 @@ street: "Berrenrather Straße"
 housenumber: 513
 phone: "+49 2233 692399"
 opening_hours: ""
-website: "www.ok-mobile.de"
+website: "http://www.ok-mobile.de"

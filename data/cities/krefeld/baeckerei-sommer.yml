@@ -1,6 +1,5 @@
 id: 566269232
 type: node
-shop: Bäckerei
 latitude: 51.326188
 longitude: 6.5666833
 postcode: "47798"
@@ -8,5 +7,5 @@ city: Krefeld
 street: "Neusser Straße"
 housenumber: 25-27
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; PH off"
+opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-15:00; PH off"
 website: "https://www.baeckerei-sommer.de/"

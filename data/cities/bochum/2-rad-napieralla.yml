@@ -1,6 +1,5 @@
 id: 1619586135
 type: node
-shop: Fahrrad
 latitude: 51.4648173
 longitude: 7.153467300000001
 postcode: "44869"
@@ -8,5 +7,5 @@ city: Bochum
 street: "Wattenscheider Hellweg"
 housenumber: 82
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30,  Sa 10:00-14:00; Tu off"
-website: "https://www.2rad-napieralla.de"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30, Sa 10:00-14:00; Tu off"
+website: ""

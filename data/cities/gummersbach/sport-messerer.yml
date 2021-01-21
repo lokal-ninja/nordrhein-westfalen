@@ -1,6 +1,5 @@
 id: 4584119183
 type: node
-shop: Sport
 latitude: 51.01297640000001
 longitude: 7.6229075
 postcode: "51645"
@@ -9,4 +8,4 @@ street: "Klosterstraße"
 housenumber: 39
 phone: "+49 2261 921888"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"
-website: "sportmesserer.de"
+website: "https://www.sportmesserer.de/"

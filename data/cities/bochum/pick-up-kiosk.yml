@@ -1,6 +1,5 @@
 id: 1704999836
 type: node
-shop: Lebensmittel
 latitude: 51.460472300000006
 longitude: 7.1546469
 postcode: "44869"
@@ -8,5 +7,5 @@ city: Bochum
 street: "Höntroper Straße"
 housenumber: 49
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00, Sa 08:00-19:00; Su,PH 1:00-17:00"
+opening_hours: "Mo-Fr 06:30-19:00, Sa 08:00-19:00; Su,PH 01:00-17:00"
 website: ""

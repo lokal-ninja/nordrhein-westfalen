@@ -1,6 +1,5 @@
 id: 4403950202
 type: node
-shop: Lebensmittel
 latitude: 51.359079400000006
 longitude: 7.4488285
 postcode: "58089"
@@ -9,4 +8,4 @@ street: "Heinrichstraße"
 housenumber: 12
 phone: "+49 2331 7888830"
 opening_hours: "Tu,Fr 15:00-19:00; We,Th 10:30-14:00"
-website: "www.hauswolf-barf.de"
+website: ""

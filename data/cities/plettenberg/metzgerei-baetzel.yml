@@ -1,6 +1,5 @@
 id: 6818413443
 type: node
-shop: Metzgerei
 latitude: 51.208738200000006
 longitude: 7.869844400000001
 postcode: "58840"
@@ -8,5 +7,5 @@ city: Plettenberg
 street: "Herscheider Straße"
 housenumber: 29
 phone: "+49 2391 10606"
-opening_hours: "Mo-Mi,Fr,Sa 07:00-12:00;Th 05:30-12:00"
+opening_hours: "Mo-We,Fr,Sa 07:00-12:00; Th 05:30-12:00"
 website: "https://www.metzger-baetzel.de/"

@@ -1,6 +1,5 @@
 id: 2083253089
 type: node
-shop: Kleidung
 latitude: 51.327701100000006
 longitude: 6.5652604000000006
 postcode: "47798"
@@ -8,5 +7,5 @@ city: Krefeld
 street: "Südwall"
 housenumber: 30a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-17:30; Sa 09:00-15:00"
 website: ""

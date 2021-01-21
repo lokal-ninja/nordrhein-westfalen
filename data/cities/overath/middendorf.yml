@@ -1,6 +1,5 @@
 id: 6196599807
 type: node
-shop: Allgemein
 latitude: 50.9405161
 longitude: 7.2961876000000006
 postcode: "51491"
@@ -8,5 +7,5 @@ city: Overath
 street: "Hammermühle"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su off"
 website: "https://www.hm-middendorf.de/"

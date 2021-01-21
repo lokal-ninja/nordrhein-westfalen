@@ -1,6 +1,5 @@
 id: 3028114421
 type: node
-shop: Süßwaren
 latitude: 51.829597
 longitude: 6.2436191
 postcode: "46446"
@@ -8,5 +7,5 @@ city: Emmerich am Rhein
 street: "Rheinpromenade"
 housenumber: 17
 phone: ""
-opening_hours: "Jan-Feb: Mo, Su, PH off; Tu-Sa 10:00-18:00;Mar-Dec: Mo-Sa 10:00-18:00; Su 11:00-18:00; Ph off"
+opening_hours: "Jan-Feb: Mo,Su,PH off; Tu-Sa 10:00-18:00; Mar-Dec: Mo-Sa 10:00-18:00; Su 11:00-18:00; PH off"
 website: "https://www.katjes.de/shops-cafe/katjes-shop-emmerich.html"

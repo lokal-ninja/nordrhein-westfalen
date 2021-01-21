@@ -1,11 +1,10 @@
 id: 8017243935
 type: node
-shop: Friseur
 latitude: 52.097225400000006
 longitude: 8.515162700000001
 postcode: "33739"
 city: Bielefeld
-street: "Dorfstr."
+street: "Dorfstraße"
 housenumber: 8
 phone: "+49 5206 707498"
 opening_hours: "Tu-Fr 08:30-13:00; Su-Fr 15:00-19:00; Sa 08:00-13:00"

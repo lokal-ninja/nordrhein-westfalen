@@ -1,6 +1,5 @@
 id: 119031388
 type: way
-shop: Friseur
 latitude: 51.9567952
 longitude: 8.9410761
 postcode: "32758"
@@ -9,4 +8,4 @@ street: "Barntruper Straße"
 housenumber: 118
 phone: ""
 opening_hours: ""
-website: "www.salon-die-perfekte-welle.de/"
+website: "http://www.salon-die-perfekte-welle.de"

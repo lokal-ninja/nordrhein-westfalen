@@ -1,6 +1,5 @@
 id: 109084241
 type: way
-shop: Kleidung
 latitude: 51.7886266
 longitude: 6.1393531
 postcode: "47533"
@@ -9,4 +8,4 @@ street: "Kavarinerstraße"
 housenumber: 1-3
 phone: "+49 2821 7159690"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "www.mensing.com"
+website: "https://www.mensing.com/"

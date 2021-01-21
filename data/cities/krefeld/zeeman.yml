@@ -1,6 +1,5 @@
 id: 2079538844
 type: node
-shop: Kleidung
 latitude: 51.3262896
 longitude: 6.566624600000001
 postcode: "47798"
@@ -8,5 +7,5 @@ city: Krefeld
 street: "Neusser Straße"
 housenumber: 29
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
 website: ""

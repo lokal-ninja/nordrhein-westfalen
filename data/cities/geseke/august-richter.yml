@@ -1,6 +1,5 @@
 id: 230138176
 type: way
-shop: Eisenwaren
 latitude: 51.628556800000005
 longitude: 8.5123961
 postcode: "59590"
@@ -9,4 +8,4 @@ street: "Am Lülingsbusch"
 housenumber: 2
 phone: "+49 2942 97870"
 opening_hours: ""
-website: "www.august-richter.de/"
+website: "https://www.augustrichter.de/"

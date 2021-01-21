@@ -1,12 +1,11 @@
-id: 33808227
-type: way
-shop: Küchen
-latitude: 51.9314891
-longitude: 9.100388800000001
+id: 357357989
+type: node
+latitude: 51.9413379
+longitude: 9.091633
 postcode: "32825"
 city: Blomberg
-street: "Nederlandstraße"
-housenumber: 1A
+street: "Langer Steinweg"
+housenumber: 27
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://www.kuechen-wittmann.de/"

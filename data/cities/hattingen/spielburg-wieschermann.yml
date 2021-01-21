@@ -1,6 +1,5 @@
 id: 1755096324
 type: node
-shop: Spielzeug
 latitude: 51.4001213
 longitude: 7.185918900000001
 postcode: "45525"
@@ -8,5 +7,5 @@ city: Hattingen
 street: "Heggerstraße"
 housenumber: 33
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-18:30; Sa 10:00-15:00; 2019 Dec 05-2019 Dec 23 Mo-Sa 10:00-18:30, 2019 Dec 24: 09:00-13:00, 2019 Dec 31 09:00-12:00"
+opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-18:30; Sa 10:00-15:00"
 website: ""

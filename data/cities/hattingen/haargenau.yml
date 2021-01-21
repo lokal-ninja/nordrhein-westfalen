@@ -1,6 +1,5 @@
 id: 6596385441
 type: node
-shop: Friseur
 latitude: 51.4118714
 longitude: 7.212905800000001
 postcode: "45527"
@@ -8,5 +7,5 @@ city: Hattingen
 street: "Marxstraße"
 housenumber: 77
 phone: ""
-opening_hours: "Mo off, Tu,We,Fr 09:00-18:00, Th 12:00-21:00, Sa 09:00-14:00"
+opening_hours: "Mo off; Tu,We,Fr 09:00-18:00, Th 12:00-21:00, Sa 09:00-14:00"
 website: ""

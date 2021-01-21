@@ -1,6 +1,5 @@
 id: 7980852927
 type: node
-shop: Friseur
 latitude: 51.4412895
 longitude: 7.0133035
 postcode: "45128"
@@ -8,5 +7,5 @@ city: Essen
 street: "Schornstraße"
 housenumber: 42
 phone: "+49 201 77 25 75"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00; Su,Ph,Mo Off"
+opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00; Su,PH,Mo off"
 website: "https://www.waechstdochwieder.de/"

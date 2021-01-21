@@ -1,6 +1,5 @@
 id: 8206937310
 type: node
-shop: Bioladen
 latitude: 51.9422009
 longitude: 7.167617600000001
 postcode: "48653"
@@ -8,5 +7,5 @@ city: Coesfeld
 street: "Südring"
 housenumber: 2
 phone: "+4925413569"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-13:30; "
+opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:30"
 website: "https://www.reformhaus.de"

@@ -1,4 +1,5 @@
 ---
 title: "Hofladen Bauer Büttgen"
 url: /neuss/hofladen-bauer-buettgen/
+shop: Gemüse & Obst
 ---

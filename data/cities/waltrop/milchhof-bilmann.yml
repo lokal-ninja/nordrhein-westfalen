@@ -1,6 +1,5 @@
 id: 320863942
 type: way
-shop: Hofladen
 latitude: 51.6364615
 longitude: 7.391513400000001
 postcode: "45731"
@@ -8,5 +7,5 @@ city: Waltrop
 street: "Friedhofstraße"
 housenumber: 90
 phone: ""
-opening_hours: ""
+opening_hours: "PH,Mo-Su 00:00-24:00"
 website: ""

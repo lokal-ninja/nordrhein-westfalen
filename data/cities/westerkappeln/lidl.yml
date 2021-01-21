@@ -1,6 +1,5 @@
 id: 153270492
 type: way
-shop: Supermarkt
 latitude: 52.3147194
 longitude: 7.8739607000000005
 postcode: "49492"
@@ -8,5 +7,5 @@ city: Westerkappeln
 street: "Heerstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
 website: ""

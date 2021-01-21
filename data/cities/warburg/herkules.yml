@@ -1,12 +1,11 @@
 id: 892320087
 type: node
-shop: Supermarkt
 latitude: 51.493196700000006
 longitude: 9.1347454
 postcode: "34414"
 city: Warburg
-street: ""
-housenumber: 
-phone: ""
+street: "Papenheimer Straße"
+housenumber: 65-67
+phone: "+49 5641 74700"
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: ""
+website: "https://www.herkulesmarkt.de/standorte/warburg/non-food/angebote"

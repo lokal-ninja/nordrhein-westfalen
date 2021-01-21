@@ -1,12 +1,11 @@
 id: 320600193
 type: node
-shop: Bäckerei
-latitude: 50.804579800000006
-longitude: 6.4833723
+latitude: 50.8045866
+longitude: 6.4834005
 postcode: "52349"
 city: Düren
 street: "Wirtelstraße"
 housenumber: 49
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+492421889719"
+opening_hours: "Mo-Sa 06:30-19:00"
+website: "https://www.back-werk.de/"

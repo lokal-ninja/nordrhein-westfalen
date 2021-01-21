@@ -1,6 +1,5 @@
 id: 3843425185
 type: node
-shop: Optiker
 latitude: 51.7339312
 longitude: 8.6882401
 postcode: "33106"
@@ -8,5 +7,5 @@ city: Paderborn
 street: "Von-Ketteler-Straße"
 housenumber: 20
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-13:00,"
+opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-13:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 1597738363
 type: node
-shop: Bäckerei
 latitude: 52.30367510000001
 longitude: 8.616402500000001
 postcode: "32312"
@@ -8,5 +7,5 @@ city: Lübbecke
 street: "Lange Straße"
 housenumber: 19
 phone: "+49 5741 320781"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00; So 08:00-18:00"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00; Su 08:00-18:00"
 website: ""

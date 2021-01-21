@@ -1,6 +1,5 @@
 id: 106705300
 type: way
-shop: Kiosk
 latitude: 51.426173000000006
 longitude: 6.888330000000001
 postcode: "45468"
@@ -8,5 +7,5 @@ city: Mülheim an der Ruhr
 street: "Kaiserstraße"
 housenumber: 55
 phone: "+4920888387878"
-opening_hours: "Mo-Sa 06:00-01:00; So 08:00-24:00"
+opening_hours: "Mo-Sa 06:00-01:00; Su 08:00-24:00"
 website: ""

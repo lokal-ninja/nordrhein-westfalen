@@ -1,6 +1,5 @@
 id: 6271734597
 type: node
-shop: Autowerkstatt
 latitude: 51.3376097
 longitude: 6.6112795
 postcode: "47809"
@@ -8,5 +7,5 @@ city: Krefeld
 street: "Glockenspitz"
 housenumber: 335
 phone: ""
-opening_hours: "Mo-Fr 18:00-22:00 Sa-So 10:00-18:00"
+opening_hours: "Mo-Fr 18:00-22:00; Sa-Su 10:00-18:00"
 website: ""

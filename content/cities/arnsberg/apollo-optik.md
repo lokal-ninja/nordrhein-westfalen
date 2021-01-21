@@ -1,4 +1,5 @@
 ---
-title: "Apollo Optik"
+title: "Apollo-Optik"
 url: /arnsberg/apollo-optik/
+shop: Optiker
 ---

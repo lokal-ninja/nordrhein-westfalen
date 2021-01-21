@@ -1,6 +1,5 @@
 id: 6327143941
 type: node
-shop: Allgemein
 latitude: 50.8781672
 longitude: 6.8755813
 postcode: "50354"
@@ -9,4 +8,4 @@ street: "Theresienhöhe"
 housenumber: 5
 phone: "+49 2233 9289810"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "www.rahm.de"
+website: "https://www.rahm.de"

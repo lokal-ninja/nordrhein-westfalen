@@ -1,6 +1,5 @@
 id: 2692319749
 type: node
-shop: Supermarkt
 latitude: 51.953262200000005
 longitude: 8.5756335
 postcode: "33689"
@@ -8,5 +7,5 @@ city: Bielefeld
 street: "Industriestraße"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

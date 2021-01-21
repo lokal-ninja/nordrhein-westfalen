@@ -1,6 +1,5 @@
 id: 625959284
 type: node
-shop: Getränke
 latitude: 51.105393400000004
 longitude: 6.9436514
 postcode: "40764"
@@ -8,5 +7,5 @@ city: Langenfeld
 street: "Düsseldorfer Straße"
 housenumber: 49
 phone: "+49 171 3841696"
-opening_hours: "Mo - Fr: 10:00 - 12:00, 14:00 - 21:00 Sa - So: 10:00 - 21:00 Uhr"
+opening_hours: "Mo - Fr: 14:00 - 21:00 Sa - So: 10:00 - 21:00 Uhr"
 website: "https://www.bartel-schmitz.de"

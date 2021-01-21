@@ -1,6 +1,5 @@
 id: 2845538982
 type: node
-shop: Bäckerei
 latitude: 52.0281291
 longitude: 8.903894900000001
 postcode: "32657"
@@ -8,5 +7,5 @@ city: Lemgo
 street: "Mittelstraße"
 housenumber: 27
 phone: "+49 5261 4016"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 8:00-14:30"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
 website: "https://stadtbaeckerei-strate.de/"

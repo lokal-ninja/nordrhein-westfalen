@@ -1,6 +1,5 @@
 id: 5272219130
 type: node
-shop: Kiosk
 latitude: 50.7852599
 longitude: 6.0527315
 postcode: "52074"
@@ -8,5 +7,5 @@ city: Aachen
 street: "Kastanienweg"
 housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00"
+opening_hours: "Mo-Fr 07:00-24:00; Sa,Su 08:00-24:00"
 website: ""

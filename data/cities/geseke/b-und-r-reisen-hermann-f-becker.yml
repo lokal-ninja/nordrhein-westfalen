@@ -1,6 +1,5 @@
 id: 227627685
 type: way
-shop: Reisebüro
 latitude: 51.6396657
 longitude: 8.510166400000001
 postcode: "59590"
@@ -9,4 +8,4 @@ street: "Am Teich"
 housenumber: 4
 phone: "+49 2942 92006"
 opening_hours: ""
-website: "www.brtours.de"
+website: "https://derreiseplaner.de"

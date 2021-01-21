@@ -1,6 +1,5 @@
 id: 7218650682
 type: node
-shop: Hofladen
 latitude: 51.525603700000005
 longitude: 7.334596500000001
 postcode: "44577"
@@ -8,5 +7,5 @@ city: Castrop-Rauxel
 street: "In den Kämpen"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su PH 09:00-17:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su,PH 09:00-17:00"
 website: ""

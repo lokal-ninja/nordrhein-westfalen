@@ -1,6 +1,5 @@
 id: 6052874156
 type: node
-shop: Blumen
 latitude: 51.4208307
 longitude: 6.960864600000001
 postcode: "45149"
@@ -8,5 +7,5 @@ city: Essen
 street: "Hatzper Straße"
 housenumber: 214
 phone: "+49 201 / 3166241"
-opening_hours: "Mo-Sa 07:00-21:00, So 09:30-12:30"
+opening_hours: "Mo-Sa 07:00-21:00, Su 09:30-12:30"
 website: ""

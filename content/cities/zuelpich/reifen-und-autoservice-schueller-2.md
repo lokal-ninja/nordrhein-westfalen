@@ -1,4 +1,5 @@
 ---
 title: "Reifen- und Autoservice Schüller"
 url: /zuelpich/reifen-und-autoservice-schueller-2/
+shop: Reifen
 ---

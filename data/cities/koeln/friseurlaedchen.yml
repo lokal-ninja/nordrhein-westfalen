@@ -1,6 +1,5 @@
 id: 90852934
 type: way
-shop: Friseur
 latitude: 50.859208200000005
 longitude: 7.1042909000000005
 postcode: "51147"
@@ -8,5 +7,5 @@ city: Köln
 street: "Heidestraße"
 housenumber: 221
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
 website: ""

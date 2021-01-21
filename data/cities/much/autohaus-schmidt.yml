@@ -1,6 +1,5 @@
 id: 5186403722
 type: node
-shop: Autowerkstatt
 latitude: 50.9036789
 longitude: 7.397195600000001
 postcode: "53804"
@@ -8,5 +7,5 @@ city: Much
 street: "Zeithstraße"
 housenumber: 10
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-12:15"
 website: ""

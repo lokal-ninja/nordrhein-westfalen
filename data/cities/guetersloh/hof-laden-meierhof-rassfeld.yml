@@ -1,6 +1,5 @@
 id: 289761469
 type: way
-shop: Lebensmittel
 latitude: 51.924675300000004
 longitude: 8.366986
 postcode: "33330"
@@ -9,4 +8,4 @@ street: "Meier-zu-Rassfeld-Weg"
 housenumber: 13
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "www.meierhof.de"
+website: "https://www.meierhof.de/"

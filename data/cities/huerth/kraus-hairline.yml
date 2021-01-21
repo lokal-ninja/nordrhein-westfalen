@@ -1,6 +1,5 @@
 id: 6327150930
 type: node
-shop: Friseur
 latitude: 50.8781485
 longitude: 6.8758897
 postcode: "50354"
@@ -9,4 +8,4 @@ street: "Theresienhöhe"
 housenumber: 3
 phone: "+49 2233 74574"
 opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-14:00; Su,Mo,PH off"
-website: "www.kraus-hairline.de"
+website: "http://www.kraus-hairline.de"

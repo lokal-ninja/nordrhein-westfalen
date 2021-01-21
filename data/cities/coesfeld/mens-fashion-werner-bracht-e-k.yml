@@ -1,6 +1,5 @@
 id: 5953817798
 type: node
-shop: Kleidung
 latitude: 51.9445136
 longitude: 7.165841400000001
 postcode: "48653"
@@ -8,5 +7,5 @@ city: Coesfeld
 street: "Kupferpassage"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30 Sa 09:30-14:00"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
 website: ""

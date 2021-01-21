@@ -1,6 +1,5 @@
 id: 5042709103
 type: node
-shop: Autowerkstatt
 latitude: 52.06295720000001
 longitude: 7.2428799
 postcode: "48624"
@@ -9,4 +8,4 @@ street: "Vechtestraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-We 08:00-16:30; Fr 08:00-13:15"
-website: "far-gmbh.de"
+website: "https://www.far-gmbh.de/"

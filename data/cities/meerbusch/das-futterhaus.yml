@@ -1,6 +1,5 @@
 id: 6283222520
 type: node
-shop: Tiere
 latitude: 51.2744208
 longitude: 6.618386200000001
 postcode: "40670"
@@ -8,5 +7,5 @@ city: Meerbusch
 street: "Rudolf-Diesel-Straße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

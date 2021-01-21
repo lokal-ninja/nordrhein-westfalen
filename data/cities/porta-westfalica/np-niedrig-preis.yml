@@ -1,6 +1,5 @@
 id: 504355832
 type: way
-shop: Supermarkt
 latitude: 52.227453600000004
 longitude: 8.8989928
 postcode: "32457"
@@ -8,5 +7,5 @@ city: Porta Westfalica
 street: "Vlothoer Straße"
 housenumber: 117
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

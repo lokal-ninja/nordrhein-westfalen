@@ -1,6 +1,6 @@
 ---
 title: Wesseling
 url: /wesseling/
-latitude: 50.8246302
-longitude: 6.979070900000001
+latitude: 50.8247166
+longitude: 6.981085200000001
 ---

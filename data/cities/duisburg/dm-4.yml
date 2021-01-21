@@ -1,12 +1,11 @@
-id: 255552744
-type: way
-shop: Drogerie
-latitude: 51.368578400000004
-longitude: 6.7370399
-postcode: "47259"
+id: 8300102581
+type: node
+latitude: 51.4196461
+longitude: 6.784269200000001
+postcode: "47057"
 city: Duisburg
-street: "Mündelheimer Straße"
-housenumber: 173a
-phone: "+49 203 73839844"
+street: "Sternbuschweg"
+housenumber: 219
+phone: "+4920334666832"
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+website: ""

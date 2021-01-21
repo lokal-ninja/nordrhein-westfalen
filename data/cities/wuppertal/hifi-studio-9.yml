@@ -1,6 +1,5 @@
 id: 6572636828
 type: node
-shop: Hifi
 latitude: 51.268137900000006
 longitude: 7.2006198
 postcode: "42289"
@@ -8,5 +7,5 @@ city: Wuppertal
 street: "Gewerbeschulstraße"
 housenumber: 21
 phone: "+49 202 555053"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, Mo-Fr 14:30-18:30, Sa 09:00-14:00"
+opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, Mo-Fr 14:30-18:00, Sa 09:00-14:00"
 website: "http://www.hifi-studio-9.de/"

@@ -1,6 +1,5 @@
 id: 7856526310
 type: node
-shop: Supermarkt
 latitude: 51.3992069
 longitude: 7.1847159000000005
 postcode: "45525"
@@ -8,5 +7,5 @@ city: Hattingen
 street: "Augustastraße"
 housenumber: 15
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30 + Sa 09:30-15:00"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"
 website: ""

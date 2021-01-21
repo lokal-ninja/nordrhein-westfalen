@@ -1,12 +1,11 @@
-id: 61675144
-type: way
-shop: Tierfutter
-latitude: 51.4198801
-longitude: 6.7104188
-postcode: "47228"
+id: 8300102582
+type: node
+latitude: 51.4198612
+longitude: 6.784632
+postcode: "47057"
 city: Duisburg
-street: "Homberger Straße"
-housenumber: 27
+street: "Sternbuschweg"
+housenumber: 219
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 7043839719
 type: node
-shop: Metzgerei
 latitude: 51.7593625
 longitude: 7.0006773
 postcode: "46286"
@@ -8,5 +7,5 @@ city: Dorsten
 street: "Schulstraße"
 housenumber: 8
 phone: "+49 2369 7828"
-opening_hours: "Mo-Th 07:00-13:00, 14:30-18:30 Fr 07:00-19:00 Sa 07:00-13:00"
+opening_hours: "Mo-Th 07:00-13:00,14:30-18:30, Fr 07:00-19:00; Sa 07:00-13:00"
 website: "https://www.metzgerei-bellendorf.de/"

@@ -1,6 +1,5 @@
 id: 7658714016
 type: node
-shop: Blumen
 latitude: 51.4592408
 longitude: 7.456230700000001
 postcode: "44229"
@@ -9,4 +8,4 @@ street: "Hagener Straße"
 housenumber: 242
 phone: "+49 231 7273978"
 opening_hours: "Tu-Fr 09:00-16:00; Sa 08:00-12:00"
-website: "www.blumen-mooren.de"
+website: "https://www.blumen-mooren.de"

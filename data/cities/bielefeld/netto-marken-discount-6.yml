@@ -1,12 +1,11 @@
-id: 68883200
-type: way
-shop: Supermarkt
-latitude: 52.02141700000001
-longitude: 8.5498764
-postcode: "33607"
+id: 3163014176
+type: node
+latitude: 51.9508607
+longitude: 8.4993231
+postcode: "33659"
 city: Bielefeld
-street: "Heeper Straße"
-housenumber: 80
+street: "Lippstädter Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/6209.ohtm/6271"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: ""

@@ -1,12 +1,11 @@
-id: 93562868
-type: way
-shop: Autowerkstatt
-latitude: 50.768705000000004
-longitude: 6.055993600000001
-postcode: ""
+id: 534926273
+type: node
+latitude: 50.766556900000005
+longitude: 6.1252556
+postcode: "52078"
 city: Aachen
-street: "Kronenberg"
-housenumber: 150
-phone: "+49 241 1730618"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.pitstop.de/"
+street: "Trierer Straße"
+housenumber: 148
+phone: ""
+opening_hours: ""
+website: ""

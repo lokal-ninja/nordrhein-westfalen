@@ -1,6 +1,5 @@
 id: 3538431694
 type: node
-shop: Hofladen
 latitude: 51.673671500000005
 longitude: 7.295537100000001
 postcode: "45711"
@@ -8,5 +7,5 @@ city: Datteln
 street: "Redder Straße"
 housenumber: 190
 phone: ""
-opening_hours: "Th 13:30-17:30; Fr-Sa 9:30-12:30, 13:30-17:30; Su PH 12:00-17:00"
+opening_hours: "Th 13:30-17:30; Fr-Sa 09:30-12:30,13:30-17:30; Su,PH 12:00-17:00"
 website: "http://www.hof-schneider-datteln.de"

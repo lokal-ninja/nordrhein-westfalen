@@ -1,6 +1,5 @@
 id: 1599093888
 type: node
-shop: Friseur
 latitude: 51.4567428
 longitude: 7.1764711000000005
 postcode: "44869"
@@ -8,5 +7,5 @@ city: Bochum
 street: "Am Thie"
 housenumber: 29
 phone: ""
-opening_hours: "Mo off, Tu-Fr 09:00-18:00, Sa 09:00-14:00"
+opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 2495909809
 type: node
-shop: Friseur
 latitude: 51.7831623
 longitude: 8.8197624
 postcode: "33175"
@@ -8,5 +7,5 @@ city: Bad Lippspringe
 street: "Detmolder Straße"
 housenumber: 165
 phone: ""
-opening_hours: "off"
+opening_hours: "Mo-Sa 9:00-18:00"
 website: ""

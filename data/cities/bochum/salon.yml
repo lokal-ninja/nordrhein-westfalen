@@ -1,6 +1,5 @@
 id: 6781582592
 type: node
-shop: Friseur
 latitude: 51.456618600000006
 longitude: 7.1748799000000005
 postcode: "44869"
@@ -8,5 +7,5 @@ city: Bochum
 street: "Im Kattenhagen"
 housenumber: 14
 phone: ""
-opening_hours: "Mo off, Tu,We,Th 09:30-18:30, Fr 10:00-21:00, Sa 09:00-14:30"
+opening_hours: "Mo off; Tu,We,Th 09:30-18:30; Fr 10:00-21:00, Sa 09:00-14:30"
 website: ""

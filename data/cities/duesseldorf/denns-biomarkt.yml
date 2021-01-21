@@ -1,6 +1,5 @@
 id: 3491097547
 type: node
-shop: Supermarkt
 latitude: 51.228284900000006
 longitude: 6.7899824
 postcode: "40211"
@@ -8,5 +7,5 @@ city: Düsseldorf
 street: "Am Wehrhahn"
 housenumber: 28-30
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

@@ -1,12 +1,11 @@
-id: 23639676
-type: way
-shop: Supermarkt
-latitude: 51.3820904
-longitude: 6.7600218000000005
-postcode: "47249"
+id: 8300102585
+type: node
+latitude: 51.420463100000006
+longitude: 6.7843739
+postcode: "47057"
 city: Duisburg
-street: "Düsseldorfer Landstraße"
-housenumber: 107
-phone: ""
+street: "Sternbuschweg"
+housenumber: 219
+phone: "+4920375988474"
 opening_hours: "Mo-Sa 07:00-22:00"
 website: ""
