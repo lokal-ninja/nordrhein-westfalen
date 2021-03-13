@@ -1,11 +1,11 @@
-id: 6113205581
-type: node
-latitude: 51.524229600000005
-longitude: 7.380409200000001
-postcode: "44369"
+id: 24152560
+type: way
+latitude: 51.511072000000006
+longitude: 7.518683200000001
+postcode: "44141"
 city: Dortmund
-street: "Rahmer Straße"
-housenumber: 312
+street: "Geßlerstraße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo.-Sa. 7-20 Uhr"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

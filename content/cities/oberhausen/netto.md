@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /oberhausen/netto/
-shop: Getränke
+shop: Supermarkt
 ---

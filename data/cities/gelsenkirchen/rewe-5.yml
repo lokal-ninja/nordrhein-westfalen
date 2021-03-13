@@ -1,11 +1,11 @@
-id: 28785079
-type: way
-latitude: 51.5194886
-longitude: 7.0832689
-postcode: "45881"
+id: 1401869211
+type: node
+latitude: 51.59191980000001
+longitude: 7.0222655000000005
+postcode: "45896"
 city: Gelsenkirchen
-street: "Overwegstraße"
-housenumber: 70
+street: "Feldhauser Straße"
+housenumber: 196
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00, Sa 07:00-22:00; PH off"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

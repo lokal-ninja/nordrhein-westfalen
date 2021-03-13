@@ -1,5 +1,5 @@
 ---
-title: "Rewe to go"
+title: "Rewe To Go"
 url: /siegen/rewe-to-go/
-shop: Supermarkt
+shop: Lebensmittel
 ---

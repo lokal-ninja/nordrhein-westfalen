@@ -1,5 +1,5 @@
 ---
-title: "MUSKELKATERSPORT classic"
+title: "Muskelkatersport classic"
 url: /koeln/muskelkatersport-classic/
 shop: Fahrrad
 ---

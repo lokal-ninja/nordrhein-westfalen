@@ -1,5 +1,5 @@
 ---
-title: "street one"
+title: "Street One"
 url: /siegburg/street-one/
 shop: Kleidung
 ---

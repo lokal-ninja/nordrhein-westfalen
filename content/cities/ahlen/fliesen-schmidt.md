@@ -1,5 +1,5 @@
 ---
 title: "Fliesen Schmidt"
 url: /ahlen/fliesen-schmidt/
-shop: Allgemein
+shop: Fliesen
 ---

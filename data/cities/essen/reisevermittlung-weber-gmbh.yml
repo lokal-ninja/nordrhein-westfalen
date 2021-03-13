@@ -7,5 +7,5 @@ city: Essen
 street: "Stornefranzstraße"
 housenumber: 22
 phone: "+49 201 48648252"
-opening_hours: "Mo-Su off, PH off"
+opening_hours: "Mo-Su,PH off"
 website: "http://www.reise-weber.de/"

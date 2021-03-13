@@ -1,5 +1,5 @@
 ---
-title: "Jeans fritz"
+title: "Jeans Fritz"
 url: /siegen/jeans-fritz/
 shop: Kleidung
 ---

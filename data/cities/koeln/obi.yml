@@ -1,11 +1,11 @@
-id: 4272439691
-type: node
-latitude: 51.005660600000006
-longitude: 6.8752611
-postcode: "50767"
+id: 32658719
+type: way
+latitude: 50.9511011
+longitude: 7.015163800000001
+postcode: "51065"
 city: Köln
-street: "Im Gewerbegebiet Pesch"
-housenumber: 4
-phone: "+49 221 5896660"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: ""
+street: "Frankfurter Straße"
+housenumber: 194
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "http://www.obi.de/baumarkt/koeln-muelheim.html"

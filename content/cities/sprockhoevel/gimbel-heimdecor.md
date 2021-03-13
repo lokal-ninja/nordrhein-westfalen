@@ -1,5 +1,5 @@
 ---
 title: "Gimbel Heimdecor"
 url: /sprockhoevel/gimbel-heimdecor/
-shop: Baumarkt
+shop: Raumausstattung
 ---

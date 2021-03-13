@@ -1,11 +1,11 @@
-id: 8112413
-type: way
-latitude: 50.769806300000006
-longitude: 6.0576572
-postcode: "52074"
+id: 35137295
+type: node
+latitude: 50.7833957
+longitude: 6.1249935
+postcode: "52068"
 city: Aachen
-street: "Vaalser Straße"
-housenumber: 242-246
-phone: "+49 241 43504610"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: "Breslauer Straße"
+housenumber: 35
+phone: ""
+opening_hours: ""
+website: "www.kaufland.de"

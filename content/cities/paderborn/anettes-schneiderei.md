@@ -1,5 +1,5 @@
 ---
-title: "Anettes Schneiderei"
+title: "Anette's Schneiderei"
 url: /paderborn/anettes-schneiderei/
 shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speisekammer"
 url: /roetgen/speisekammer/
-shop: Supermarkt
+shop: Bioladen
 ---

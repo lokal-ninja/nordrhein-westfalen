@@ -1,11 +1,11 @@
-id: 125625207
-type: way
-latitude: 51.4973279
-longitude: 6.8252429
-postcode: "46149"
+id: 1716840465
+type: node
+latitude: 51.5016328
+longitude: 6.885795600000001
+postcode: "46117"
 city: Oberhausen
-street: "Skagerrakstraße"
-housenumber: 43
+street: "Gildenstraße"
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

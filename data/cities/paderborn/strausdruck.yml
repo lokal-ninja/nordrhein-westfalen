@@ -1,11 +1,11 @@
-id: 3448192962
-type: node
-latitude: 51.7123616
-longitude: 8.7345172
-postcode: "33102"
+id: 847121520
+type: way
+latitude: 51.704602200000004
+longitude: 8.7200828
+postcode: "33106"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 72
+street: "Barkhauser Straße"
+housenumber: 13
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-16:00"
+opening_hours: ""
 website: "https://strausdruck.de/"

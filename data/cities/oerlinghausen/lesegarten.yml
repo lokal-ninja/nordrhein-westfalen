@@ -1,11 +1,11 @@
-id: 6990787895
-type: node
-latitude: 51.9690845
-longitude: 8.711347700000001
+id: 232172527
+type: way
+latitude: 51.972394400000006
+longitude: 8.7118973
 postcode: "33813"
 city: Oerlinghausen
-street: "Lagesche Straße"
-housenumber: 34
+street: "Bahnhofstraße"
+housenumber: 22
 phone: "+49 5202 8564070"
-opening_hours: "Mo-Sa 9:00-13:00 Mo-Fr 15:00-18:00"
+opening_hours: ""
 website: ""

@@ -1,5 +1,0 @@
----
-title: "Double-U-Cycle"
-url: /neuss/double-u-cycle/
-shop: Leerstehend
----

@@ -1,5 +1,5 @@
 ---
 title: "Mädchendings"
 url: /rommerskirchen/maedchendings/
-shop: Modehaus
+shop: Kleidung
 ---

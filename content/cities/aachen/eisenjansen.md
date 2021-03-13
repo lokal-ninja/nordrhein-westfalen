@@ -1,5 +1,5 @@
 ---
 title: "Eisenjansen"
 url: /aachen/eisenjansen/
-shop: Eisenwaren
+shop: Großhandel
 ---

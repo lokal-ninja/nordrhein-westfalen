@@ -1,11 +1,11 @@
-id: 111204575
-type: way
-latitude: 51.204364700000006
-longitude: 6.6817432000000005
+id: 8431505340
+type: node
+latitude: 51.204290400000005
+longitude: 6.681473400000001
 postcode: "41462"
 city: Neuss
 street: "Further Straße"
-housenumber: 6
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 11
+phone: "+49 2131 663 2822"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://www.asia-lebensmittel.store/"

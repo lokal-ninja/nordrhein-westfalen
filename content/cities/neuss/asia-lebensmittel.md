@@ -1,5 +1,5 @@
 ---
-title: "ASIA Lebensmittel"
+title: "ASIA-Lebensmittel"
 url: /neuss/asia-lebensmittel/
 shop: Lebensmittel
 ---

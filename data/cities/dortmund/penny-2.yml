@@ -1,11 +1,11 @@
-id: 54833449
-type: way
-latitude: 51.4907952
-longitude: 7.3264376
+id: 4442016784
+type: node
+latitude: 51.520700000000005
+longitude: 7.326817200000001
 postcode: "44388"
 city: Dortmund
 street: "Provinzialstraße"
-housenumber: 25-27
+housenumber: 387
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.penny.de/"

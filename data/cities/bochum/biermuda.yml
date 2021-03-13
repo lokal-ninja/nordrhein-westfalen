@@ -7,5 +7,5 @@ city: Bochum
 street: "Rechener Straße"
 housenumber: 3
 phone: "+49 234 54459092"
-opening_hours: "Su-Mo off, Tu-We 12:00-20:00, Th-Sa 13:00-21:00; PH off"
+opening_hours: "Su-Mo off; Tu-We 12:00-20:00; Th-Sa 13:00-21:00; PH off"
 website: "http://biermuda.de/"

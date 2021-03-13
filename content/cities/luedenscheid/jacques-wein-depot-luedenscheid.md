@@ -1,5 +1,5 @@
 ---
-title: "Jacques’ Wein-Depot Lüdenscheid"
+title: "Jacques' Wein-Depot - Lüdenscheid"
 url: /luedenscheid/jacques-wein-depot-luedenscheid/
 shop: Spirituosen
 ---

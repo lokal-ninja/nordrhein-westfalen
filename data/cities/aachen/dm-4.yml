@@ -1,11 +1,11 @@
-id: 607733904
-type: way
-latitude: 50.7515068
-longitude: 6.1583454
-postcode: "52078"
+id: 8323979866
+type: node
+latitude: 50.761257900000004
+longitude: 6.093122
+postcode: ""
 city: Aachen
-street: "Trierer Straße"
-housenumber: 690
+street: "Kapellenstraße"
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: "Mo-Th 09:00-20:00; Fr 08:00-20:00; Sa 09:00-18:00; Su,PH off"
 website: ""

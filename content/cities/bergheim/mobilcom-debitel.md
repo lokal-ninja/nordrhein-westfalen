@@ -1,5 +1,5 @@
 ---
-title: "Mobilcom debitel"
+title: "Mobilcom Debitel"
 url: /bergheim/mobilcom-debitel/
 shop: Handy
 ---

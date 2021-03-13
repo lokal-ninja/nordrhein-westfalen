@@ -1,5 +1,5 @@
 ---
 title: "Lindner"
 url: /essen/lindner/
-shop: Bäckerei
+shop: Hifi
 ---

@@ -1,11 +1,11 @@
-id: 28222085
-type: way
-latitude: 51.5635429
-longitude: 7.0746571000000005
-postcode: "45891"
+id: 1602711646
+type: node
+latitude: 51.5607673
+longitude: 7.0508883
+postcode: "45897"
 city: Gelsenkirchen
-street: "Heistraße"
-housenumber: 109
+street: "Emil-Zimmermann-Allee"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: ""
 website: ""
