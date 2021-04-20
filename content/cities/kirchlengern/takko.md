@@ -1,5 +1,5 @@
 ---
-title: "TAKKO"
+title: "Takko"
 url: /kirchlengern/takko/
-shop: Modehaus
+shop: Kleidung
 ---

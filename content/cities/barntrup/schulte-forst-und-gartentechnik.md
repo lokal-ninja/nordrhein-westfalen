@@ -1,5 +1,5 @@
 ---
-title: "SCHULTE Forst- & Gartentechnik"
+title: "Schulte Forst- & Gartentechnik"
 url: /barntrup/schulte-forst-und-gartentechnik/
-shop: Supermarkt
+shop: Baumarkt
 ---

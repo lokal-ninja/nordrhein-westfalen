@@ -1,11 +1,11 @@
-id: 3861026260
-type: node
-latitude: 51.9049783
-longitude: 8.4046565
+id: 105255707
+type: way
+latitude: 51.893481900000005
+longitude: 8.3818318
 postcode: "33332"
 city: Gütersloh
-street: "Carl-Bertelsmann-Straße"
-housenumber: 152
+street: "Neuenkirchener Straße"
+housenumber: 100
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+website: ""

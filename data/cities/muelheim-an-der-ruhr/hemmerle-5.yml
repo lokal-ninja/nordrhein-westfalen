@@ -7,5 +7,5 @@ city: Mülheim an der Ruhr
 street: "Ulmenallee"
 housenumber: 49
 phone: "+49 208 43 76 825"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-16:00"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-16:00; easter +1 day,easter -2 days,easter +51 days, Dec 25-26,Jan 01 off"
 website: "https://baeckerei-hemmerle.de/"

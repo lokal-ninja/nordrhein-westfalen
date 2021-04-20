@@ -1,5 +1,5 @@
 ---
 title: "Vape-a-minute"
 url: /paderborn/vape-a-minute/
-shop: E-Zigaretten
+shop: Tabak
 ---

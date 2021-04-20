@@ -1,5 +1,5 @@
 ---
 title: "KIK Textilien"
 url: /kirchlengern/kik-textilien/
-shop: Modehaus
+shop: Kleidung
 ---

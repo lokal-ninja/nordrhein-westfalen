@@ -1,11 +1,11 @@
-id: 3646173287
-type: node
-latitude: 51.9165787
-longitude: 8.372375
-postcode: "33330"
+id: 173848591
+type: way
+latitude: 51.945004600000004
+longitude: 8.415463200000001
+postcode: "33334"
 city: Gütersloh
-street: "Brockhäger Straße"
-housenumber: 24
+street: "Isselhorster Straße"
+housenumber: 416
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
-id: 24977364
-type: way
-latitude: 51.4193094
-longitude: 6.8596839
-postcode: "45479"
+id: 6533977634
+type: node
+latitude: 51.427380400000004
+longitude: 6.8797435
+postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Prinzeß-Luise-Straße"
-housenumber: 121
+street: "Friedrich-Ebert-Straße"
+housenumber: 29
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su, Ph off"
+website: "https://www.netto-online.de"

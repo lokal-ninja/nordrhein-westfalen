@@ -1,11 +1,11 @@
-id: 255552744
-type: way
-latitude: 51.368578400000004
-longitude: 6.7370399
-postcode: "47259"
+id: 8616821744
+type: node
+latitude: 51.3840401
+longitude: 6.7634863
+postcode: "47249"
 city: Duisburg
-street: "Mündelheimer Straße"
-housenumber: 173a
-phone: "+49 203 73839844"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: "Münchener Straße"
+housenumber: 43
+phone: "+492033464482"
+opening_hours: ""
+website: ""

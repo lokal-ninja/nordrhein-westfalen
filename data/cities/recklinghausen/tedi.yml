@@ -1,11 +1,11 @@
-id: 478053905
-type: way
-latitude: 51.6128547
-longitude: 7.199760100000001
+id: 4690189291
+type: node
+latitude: 51.614582000000006
+longitude: 7.2015156000000005
 postcode: "45657"
 city: Recklinghausen
-street: "Löhrhof"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: ""
+street: "Kunibertistraße"
+housenumber: 34
+phone: "+49 231555770"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://tedi.de/"

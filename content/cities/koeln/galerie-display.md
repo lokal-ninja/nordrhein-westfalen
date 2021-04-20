@@ -1,5 +1,5 @@
 ---
-title: "Galerie DISPLAY"
+title: "Galerie Display"
 url: /koeln/galerie-display/
 shop: Allgemein
 ---

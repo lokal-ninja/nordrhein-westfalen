@@ -7,5 +7,5 @@ city: Siegen
 street: "Weidenauer Straße"
 housenumber: 172
 phone: "+49 271 44022"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
+opening_hours: "Mo,Tu,Th,Fr 09:00-17:00; We,Sa 09:00-12:00"
 website: "https://merdasoptik.de/"

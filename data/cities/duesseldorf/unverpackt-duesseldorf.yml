@@ -7,5 +7,5 @@ city: Düsseldorf
 street: "Rethelstraße"
 housenumber: 111
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-16:00; Su.PH off"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-16:00; Su,PH off"
 website: "https://www.unverpacktduesseldorf.de/"

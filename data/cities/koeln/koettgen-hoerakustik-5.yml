@@ -1,11 +1,11 @@
-id: 297000122
-type: way
-latitude: 51.011123000000005
-longitude: 6.9059759000000005
-postcode: "50767"
+id: 8587098604
+type: node
+latitude: 50.929097600000006
+longitude: 6.9117975000000005
+postcode: "50931"
 city: Köln
-street: "Haselnußweg"
-housenumber: 25
+street: "Dürener Straße"
+housenumber: 229
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00"
-website: ""
+opening_hours: ""
+website: "https://www.koettgen-hoerakustik.de/filialen-service/lindenthal/"

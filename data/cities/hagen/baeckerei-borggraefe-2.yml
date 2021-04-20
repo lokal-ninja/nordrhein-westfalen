@@ -1,4 +1,4 @@
-id: 7682253506
+id: 1420382262
 type: node
 latitude: 51.339599
 longitude: 7.395221200000001
@@ -7,5 +7,5 @@ city: Hagen
 street: "Enneper Straße"
 housenumber: 140a
 phone: "+49 2331 404657"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 06:00-18:00; Su 08:00-18:00"
+opening_hours: "Mo-Sa 05:00-18:00; Su 08:00-16:30"
 website: "https://borggräfe.de/"

@@ -1,11 +1,11 @@
-id: 262556720
-type: way
-latitude: 50.859826500000004
-longitude: 7.104356900000001
+id: 8526289382
+type: node
+latitude: 50.8598773
+longitude: 7.104446500000001
 postcode: "51147"
 city: Köln
 street: "Magazinstraße"
-housenumber: 3
-phone: "+49 2203 68144"
+housenumber: 
+phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
-website: "https://brillen-bretschneider.de"
+website: ""

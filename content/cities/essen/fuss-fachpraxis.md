@@ -1,5 +1,5 @@
 ---
-title: "Fuss- Fachpraxis"
+title: "Fuss-Fachpraxis"
 url: /essen/fuss-fachpraxis/
 shop: Sanitätshaus
 ---

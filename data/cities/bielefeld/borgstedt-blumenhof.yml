@@ -7,5 +7,5 @@ city: Bielefeld
 street: "Babenhauser Straße"
 housenumber: 222
 phone: "+49 521 103519"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; So 10:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su 10:00-13:00"
 website: "https://www.blumenhofborgstedt.de/"

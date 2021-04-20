@@ -1,5 +1,5 @@
 ---
-title: "KARTAL SUPERMARKT"
+title: "Kartal Supermarkt"
 url: /essen/kartal-supermarkt/
 shop: Supermarkt
 ---

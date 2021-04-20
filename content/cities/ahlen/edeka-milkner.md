@@ -1,5 +1,5 @@
 ---
-title: "Edeka Milkner"
+title: "EDEKA Milkner"
 url: /ahlen/edeka-milkner/
 shop: Supermarkt
 ---

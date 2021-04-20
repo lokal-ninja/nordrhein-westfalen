@@ -1,11 +1,11 @@
-id: 27060851
-type: way
-latitude: 51.3774098
-longitude: 7.461528800000001
-postcode: "58097"
+id: 1304619436
+type: node
+latitude: 51.3590433
+longitude: 7.461774
+postcode: "58089"
 city: Hagen
-street: "Alexanderstraße"
-housenumber: 16
+street: "Elberfelder Straße"
+housenumber: 93-103
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "https://www.lidl.de"

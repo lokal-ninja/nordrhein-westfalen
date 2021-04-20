@@ -1,11 +1,11 @@
-id: 5587742602
-type: node
-latitude: 51.477769
-longitude: 7.433997400000001
-postcode: "44225"
+id: 53024085
+type: way
+latitude: 51.5075275
+longitude: 7.381149700000001
+postcode: "44379"
 city: Dortmund
-street: "Luisenglück"
-housenumber: 30
+street: "Schulte-Heuthaus-Straße"
+housenumber: 58
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: ""
 website: ""

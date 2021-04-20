@@ -1,11 +1,11 @@
-id: 3223538352
-type: node
-latitude: 51.461211000000006
-longitude: 6.9715142000000005
-postcode: "45143"
+id: 31311320
+type: way
+latitude: 51.475182100000005
+longitude: 6.972874600000001
+postcode: "45356"
 city: Essen
-street: "Kopernikusstraße"
-housenumber: 2 - 6
+street: "Bocholder Straße"
+housenumber: 276
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 7:00 - 22:00"
 website: ""
