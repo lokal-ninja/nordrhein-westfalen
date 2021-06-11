@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
 url: /duesseldorf/kiosk-5/
-shop: Zeitungen
+shop: Lebensmittel
 ---

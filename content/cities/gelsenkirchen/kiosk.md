@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
 url: /gelsenkirchen/kiosk/
-shop: Kiosk
+shop: Getränke
 ---

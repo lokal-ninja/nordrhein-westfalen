@@ -1,0 +1,5 @@
+---
+title: "Aldi Nord"
+url: /preussisch-oldendorf/aldi-nord/
+shop: Supermarkt
+---

@@ -1,11 +1,11 @@
-id: 1716840465
-type: node
-latitude: 51.5016328
-longitude: 6.885795600000001
-postcode: "46117"
+id: 94330617
+type: way
+latitude: 51.524715500000006
+longitude: 6.864840200000001
+postcode: "46145"
 city: Oberhausen
-street: "Gildenstraße"
-housenumber: 26
+street: "Steinstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: ""

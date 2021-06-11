@@ -1,5 +1,5 @@
 ---
-title: "Freßnapf"
+title: "Fressnapf"
 url: /hattingen/fressnapf/
-shop: Supermarkt
+shop: Tiere
 ---

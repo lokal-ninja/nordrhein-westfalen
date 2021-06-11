@@ -1,5 +1,5 @@
 ---
 title: "Rumberg"
 url: /bochum/rumberg/
-shop: Möbel
+shop: Raumausstattung
 ---

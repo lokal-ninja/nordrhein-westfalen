@@ -1,11 +1,11 @@
-id: 5566576066
-type: node
-latitude: 50.8876805
-longitude: 8.027859000000001
-postcode: "57072"
+id: 76073767
+type: way
+latitude: 50.895956700000006
+longitude: 8.0257173
+postcode: "57076"
 city: Siegen
-street: "Hagener Straße"
-housenumber: 133
+street: "Hauptmarkt"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-18:30,Sa,Su 08:00-18:00"
 website: ""

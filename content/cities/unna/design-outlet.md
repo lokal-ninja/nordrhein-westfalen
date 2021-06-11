@@ -1,5 +1,5 @@
 ---
 title: "Design-Outlet"
 url: /unna/design-outlet/
-shop: Modehaus
+shop: Kleidung
 ---

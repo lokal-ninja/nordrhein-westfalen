@@ -1,11 +1,11 @@
-id: 36816262
-type: way
-latitude: 51.4910666
-longitude: 7.540430700000001
-postcode: "44269"
+id: 4442016784
+type: node
+latitude: 51.520700000000005
+longitude: 7.326817200000001
+postcode: "44388"
 city: Dortmund
-street: "Schüruferstraße"
-housenumber: 195
+street: "Provinzialstraße"
+housenumber: 387
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.penny.de/"

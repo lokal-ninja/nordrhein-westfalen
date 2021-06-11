@@ -1,5 +1,5 @@
 ---
 title: "Dolfus"
 url: /juelich/dolfus/
-shop: Bücher
+shop: Andenken
 ---

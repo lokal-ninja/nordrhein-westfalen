@@ -1,11 +1,11 @@
-id: 92252585
-type: way
-latitude: 51.428381800000004
-longitude: 7.0506573
-postcode: "45134"
+id: 7603551843
+type: node
+latitude: 51.3956249
+longitude: 7.0815263
+postcode: "45257"
 city: Essen
-street: "Frankenstraße"
-housenumber: 56
+street: "Hinsbecker Löh"
+housenumber: 16
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 8:00-20:00"
 website: ""

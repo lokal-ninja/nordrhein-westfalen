@@ -1,5 +1,5 @@
 ---
 title: "Mode im Trend"
 url: /aachen/mode-im-trend/
-shop: Modehaus
+shop: Kleidung
 ---

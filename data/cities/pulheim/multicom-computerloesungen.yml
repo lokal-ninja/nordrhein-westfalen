@@ -1,11 +1,11 @@
 id: 6288839526
 type: node
-latitude: 50.9598184
-longitude: 6.7834488
+latitude: 50.959799100000005
+longitude: 6.7834095
 postcode: "50259"
 city: Pulheim
 street: "Mathildenstraße"
 housenumber: 10
 phone: "+49 2234 9830 47"
-opening_hours: "Mo-Fr 09:00-12:30;Mo-Tu 15:00-18:00;Th-Fr 15:00-18:00; Sa 10:00-13:00"
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00; We 09:00-12:30; Sa 10:00-13:00; PH off"
 website: "http://www.multicom-store.de"

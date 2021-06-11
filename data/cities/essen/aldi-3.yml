@@ -1,11 +1,11 @@
-id: 6342809984
-type: node
-latitude: 51.4695934
-longitude: 7.0208189
-postcode: "45141"
+id: 29269918
+type: way
+latitude: 51.383532800000005
+longitude: 7.115072400000001
+postcode: "45257"
 city: Essen
-street: "Katzenbruchstraße"
-housenumber: 78
+street: "Nierenhofer Straße"
+housenumber: 76
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
+opening_hours: ""
 website: ""

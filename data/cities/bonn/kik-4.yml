@@ -1,11 +1,11 @@
-id: 38304154
-type: way
-latitude: 50.7619053
-longitude: 7.056813200000001
-postcode: "53117"
+id: 1450598765
+type: node
+latitude: 50.682333400000005
+longitude: 7.1521824
+postcode: "53177"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 651
+street: "Am Fronhof"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-19:00; Su,PH off"
 website: ""

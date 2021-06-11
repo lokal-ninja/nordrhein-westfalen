@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
 url: /plettenberg/fressnapf/
-shop: Supermarkt
+shop: Tiere
 ---

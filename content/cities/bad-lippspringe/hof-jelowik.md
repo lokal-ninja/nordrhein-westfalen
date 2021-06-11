@@ -1,5 +1,5 @@
 ---
 title: "Hof Jelowik"
 url: /bad-lippspringe/hof-jelowik/
-shop: Allgemein
+shop: Hofladen
 ---

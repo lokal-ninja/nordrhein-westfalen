@@ -1,11 +1,11 @@
-id: 7603551852
-type: node
-latitude: 51.3960273
-longitude: 7.0816521
-postcode: "45257"
+id: 27718337
+type: way
+latitude: 51.4794891
+longitude: 6.944846
+postcode: "45355"
 city: Essen
-street: "Hinsbecker Löh"
-housenumber: 16
+street: "Am Ellenbogen"
+housenumber: 24d
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH closed"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

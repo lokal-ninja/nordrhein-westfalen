@@ -1,5 +1,5 @@
 ---
-title: "Jacques' Wein-Depot"
+title: "Jacques’ Wein-Depot"
 url: /koeln/jacques-wein-depot-2/
-shop: Spirituosen
+shop: Wein
 ---

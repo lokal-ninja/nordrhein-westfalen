@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /moenchengladbach/boels/
-shop: Baumarkt
+shop: Allgemein
 ---

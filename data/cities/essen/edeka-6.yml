@@ -1,11 +1,11 @@
-id: 45169154
-type: way
-latitude: 51.441957800000004
-longitude: 7.0182307
+id: 4311389611
+type: node
+latitude: 51.44612660000001
+longitude: 7.016611500000001
 postcode: "45128"
 city: Essen
-street: "Rellinghauser Straße"
-housenumber: 128-134
-phone: "+49 201 2 790 265"
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+street: "Gutenbergstraße"
+housenumber: 23
+phone: "+49 201 228481"
+opening_hours: "Mo-Fr 07:00-22:00; Su,PH off"
 website: ""

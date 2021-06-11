@@ -1,11 +1,11 @@
-id: 25668563
-type: way
-latitude: 51.3615286
-longitude: 6.9464711
-postcode: "45219"
+id: 3964633216
+type: node
+latitude: 51.4295247
+longitude: 7.075005600000001
+postcode: "45277"
 city: Essen
-street: "Güterstraße"
-housenumber: 34
+street: "Schulte-Hinsel-Straße"
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH Su off"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

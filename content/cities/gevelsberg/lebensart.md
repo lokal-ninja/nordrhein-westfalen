@@ -1,5 +1,5 @@
 ---
 title: "LebensArt"
 url: /gevelsberg/lebensart/
-shop: Modehaus
+shop: Kleidung
 ---

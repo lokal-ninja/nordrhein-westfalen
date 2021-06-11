@@ -1,6 +1,6 @@
 ---
 title: Glane
 url: /glane/
-latitude: 52.23134
-longitude: 7.00469
+latitude: 52.2313175
+longitude: 7.0046825
 ---

@@ -1,11 +1,11 @@
-id: 25018719
-type: way
-latitude: 51.35784820000001
-longitude: 6.934693800000001
-postcode: "45219"
+id: 5249040070
+type: node
+latitude: 51.4601355
+longitude: 6.9851669
+postcode: "45143"
 city: Essen
-street: "Montebruchstraße"
-housenumber: 19
+street: "Altendorfer Straße"
+housenumber: 226
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Ph Su off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

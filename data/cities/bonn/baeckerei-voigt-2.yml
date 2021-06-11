@@ -1,11 +1,11 @@
-id: 249099454
-type: way
-latitude: 50.7462323
-longitude: 7.0997212
-postcode: "53111"
+id: 7562402343
+type: node
+latitude: 50.751179300000004
+longitude: 7.0455538
+postcode: "53119"
 city: Bonn
-street: "Römerstraße"
-housenumber: 96
+street: "Oppelner Straße"
+housenumber: 128
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-18:00, Su 07:30-17:30"
+opening_hours: ""
 website: ""

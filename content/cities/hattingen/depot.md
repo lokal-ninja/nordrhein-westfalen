@@ -1,5 +1,5 @@
 ---
-title: "DEPOT"
+title: "Depot"
 url: /hattingen/depot/
-shop: Andenken
+shop: Raumausstattung
 ---

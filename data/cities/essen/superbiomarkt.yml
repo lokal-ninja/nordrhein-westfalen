@@ -1,11 +1,11 @@
-id: 142207166
-type: way
-latitude: 51.4363899
-longitude: 7.0048821000000006
-postcode: "45130"
+id: 8661304250
+type: node
+latitude: 51.4189719
+longitude: 7.025032800000001
+postcode: "45134"
 city: Essen
-street: "Rüttenscheider Straße"
-housenumber: 76
-phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: ""
+street: "Heisinger Straße"
+housenumber: 13
+phone: "+49201450303-0"
+opening_hours: "Mo-Su 08:00-20:00"
+website: "https://www.superbiomarkt.de"

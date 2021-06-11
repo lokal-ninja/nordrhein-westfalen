@@ -1,11 +1,11 @@
-id: 44106221
-type: way
-latitude: 50.7757999
-longitude: 6.131637700000001
-postcode: ""
+id: 8578863920
+type: node
+latitude: 50.77340220000001
+longitude: 6.076127100000001
+postcode: "52064"
 city: Aachen
-street: "Philipsstraße"
-housenumber: 12
+street: "Karlsgraben"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
+website: "https://www.netto-online.de/"

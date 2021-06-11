@@ -1,11 +1,11 @@
-id: 91296894
-type: way
-latitude: 51.532346000000004
-longitude: 7.226179
-postcode: "44623"
+id: 667887350
+type: node
+latitude: 51.532608
+longitude: 7.1583009
+postcode: "44649"
 city: Herne
-street: "Siepenstraße"
-housenumber: 12
-phone: "+49 2323 991060"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe-dortmund.de"
+street: "Hauptstraße"
+housenumber: 258
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: ""

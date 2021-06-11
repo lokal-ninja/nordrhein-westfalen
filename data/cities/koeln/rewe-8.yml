@@ -1,11 +1,11 @@
-id: 28684078
-type: way
-latitude: 50.975408300000005
-longitude: 6.964206300000001
-postcode: "50735"
+id: 3755860979
+type: node
+latitude: 50.948297100000005
+longitude: 6.9570508
+postcode: "50668"
 city: Köln
-street: "Friedrich-Karl-Straße"
-housenumber: 245
-phone: "+49 221 9711203"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.rewe.de/marktseite/koeln-niehl/1765162/rewe-markt-friedrich-karl-strasse-245/"
+street: "Eigelstein"
+housenumber: 80-88
+phone: "+49 221 1206258"
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/rewe-markt-k%C3%B6ln-eigelstein-80-88"

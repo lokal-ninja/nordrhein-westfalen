@@ -1,5 +1,5 @@
 ---
-title: "action"
+title: "Action"
 url: /essen/action/
-shop: Warenhaus
+shop: Kramladen
 ---

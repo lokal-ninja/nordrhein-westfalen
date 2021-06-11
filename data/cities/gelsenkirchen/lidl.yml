@@ -1,11 +1,11 @@
-id: 313708778
-type: node
-latitude: 51.535763200000005
-longitude: 7.070778600000001
-postcode: "45881"
+id: 27769341
+type: way
+latitude: 51.551644800000005
+longitude: 7.0922979
+postcode: "45891"
 city: Gelsenkirchen
-street: "Uferstraße"
-housenumber: 3
+street: "Ulrichstraße"
+housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

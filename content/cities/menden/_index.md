@@ -1,6 +1,6 @@
 ---
 title: Menden
 url: /menden/
-latitude: 51.43779
-longitude: 7.795382200000001
+latitude: 51.4042388
+longitude: 6.899067400000001
 ---

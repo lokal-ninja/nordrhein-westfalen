@@ -1,11 +1,11 @@
-id: 160077179
-type: way
-latitude: 50.8645275
-longitude: 7.0834998
-postcode: "51147"
+id: 5697113789
+type: node
+latitude: 50.9640384
+longitude: 6.953598800000001
+postcode: "50733"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 307
-phone: ""
-opening_hours: ""
-website: ""
+street: "Neusser Straße"
+housenumber: 273
+phone: "+49 221 20053005"
+opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-16:00"
+website: "https://www.jacques.de/depot/344/koeln-nippes/"

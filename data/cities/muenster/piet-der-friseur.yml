@@ -7,5 +7,5 @@ city: Münster
 street: "Schulstraße"
 housenumber: 11
 phone: "+49 251 9811111"
-opening_hours: "Tu,Th 09:00-20:00; We,Fr 09:00-24:00; Sa 09:00-15:00"
+opening_hours: "Tu,Th 09:00-20:00; We,Fr 09:00-20:00; Sa 09:00-15:00"
 website: "https://piet-der-friseur.de/"

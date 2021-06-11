@@ -1,5 +1,5 @@
 ---
-title: "Evape Liquid Shop"
+title: "EVAPE Liquid Shop"
 url: /muenster/evape-liquid-shop/
 shop: E-Zigaretten
 ---
