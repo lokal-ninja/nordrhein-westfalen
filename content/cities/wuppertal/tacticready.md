@@ -1,5 +1,5 @@
 ---
 title: "tacticready"
 url: /wuppertal/tacticready/
-shop: Allgemein
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marienheide
 url: /marienheide/
-latitude: 51.07
-longitude: 7.559
+latitude: 51.085
+longitude: 7.531
 ---

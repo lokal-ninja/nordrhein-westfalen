@@ -1,6 +1,6 @@
 ---
 title: Leopoldshöhe
 url: /leopoldshoehe/
-latitude: 51.988
-longitude: 8.675
+latitude: 51.985
+longitude: 8.673
 ---

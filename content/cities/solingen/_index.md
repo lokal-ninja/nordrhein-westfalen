@@ -1,6 +1,6 @@
 ---
 title: Solingen
 url: /solingen/
-latitude: 51.149
-longitude: 7.024
+latitude: 51.162
+longitude: 7.01
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schnäppchen"
 url: /harsewinkel/schnaeppchen/
-shop: Allgemein
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Brax"
+title: "BRAX"
 url: /bielefeld/brax/
 shop: Kleidung
 ---

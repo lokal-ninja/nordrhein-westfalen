@@ -1,5 +1,5 @@
 ---
 title: "Bauking Caprasse"
 url: /bochum/bauking-caprasse/
-shop: Baumarkt
+shop: Eisenwaren
 ---

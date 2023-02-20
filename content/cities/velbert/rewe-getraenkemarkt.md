@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /velbert/rewe-getraenkemarkt/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleischwolf"
 url: /witten/fleischwolf/
-shop: Allgemein
+shop: Tiere
 ---

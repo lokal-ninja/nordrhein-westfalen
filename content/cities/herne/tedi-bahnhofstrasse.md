@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /herne/tedi/
-shop: Warenhaus
+shop: Kramladen
 ---

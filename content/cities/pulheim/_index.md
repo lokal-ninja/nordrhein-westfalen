@@ -1,6 +1,6 @@
 ---
 title: Pulheim
 url: /pulheim/
-latitude: 50.995
-longitude: 6.81
+latitude: 50.998
+longitude: 6.802
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elektro Großevollmer"
 url: /rietberg/elektro-grossevollmer/
-shop: Allgemein
+shop: Haushaltsgeräte
 ---
