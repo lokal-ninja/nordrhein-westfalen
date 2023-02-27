@@ -7,5 +7,5 @@ city: Borken
 street: "Hansestraße"
 housenumber: 40
 phone: "+49 2861 5548"
-opening_hours: "Mon, Tue, Wed, Fri 13:00 - 18:30 | Sat 09:00 - 14:00 | Sun closed"
+opening_hours: "Mo-We,Fr 13:00-18:30; Sa 09:00-14:00; Th,Su off"
 website: ""
