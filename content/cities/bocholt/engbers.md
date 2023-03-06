@@ -1,5 +1,5 @@
 ---
-title: "Engbers"
+title: "engbers"
 url: /bocholt/engbers/
 shop: Kleidung
 ---

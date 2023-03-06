@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen-Markt Büren"
 url: /bueren/raiffeisen-markt-bueren/
-shop: Allgemein
+shop: Garten-Center
 ---
