@@ -1,5 +1,5 @@
 ---
 title: "powerspirits"
 url: /paderborn/powerspirits/
-shop: Allgemein
+shop: Spirituosen
 ---

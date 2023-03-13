@@ -1,5 +1,5 @@
 ---
-title: "Care Center Deutschland"
+title: "care center Deutschland"
 url: /bochum/care-center-deutschland/
 shop: Sanitätshaus
 ---
