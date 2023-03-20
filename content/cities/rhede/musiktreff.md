@@ -1,5 +1,5 @@
 ---
 title: "Musiktreff"
 url: /rhede/musiktreff/
-shop: Allgemein
+shop: Musik
 ---
