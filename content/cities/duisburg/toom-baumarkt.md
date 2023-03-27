@@ -1,5 +1,5 @@
 ---
-title: "Toom Baumarkt"
+title: "toom Baumarkt"
 url: /duisburg/toom-baumarkt/
 shop: Baumarkt
 ---

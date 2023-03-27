@@ -7,5 +7,5 @@ city: Köln
 street: "Breite Straße"
 housenumber: 112
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+opening_hours: "PH,Su off; Mo-We 10:00-18:00; Th,Fr 10:00-19:00; Sa 10:00-18:00"
 website: "https://www.grueneerde.com/de/Info/koeln.html"

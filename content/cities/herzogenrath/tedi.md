@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /herzogenrath/tedi/
-shop: Lebensmittel
+shop: Kramladen
 ---
