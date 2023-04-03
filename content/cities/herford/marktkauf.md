@@ -1,5 +1,5 @@
 ---
-title: "Marktkauf"
+title: "MARKTKAUF"
 url: /herford/marktkauf/
 shop: Supermarkt
 ---

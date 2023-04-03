@@ -1,5 +1,5 @@
 ---
-title: "Sport Tiedje"
+title: "Sport-Tiedje"
 url: /bielefeld/sport-tiedje/
 shop: Sport
 ---

@@ -7,5 +7,5 @@ city: Essen
 street: "Lenbachstraße"
 housenumber: 14
 phone: "+49 201 87892424"
-opening_hours: "Mo,Su off; Tu-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: "Su,Mo off; Tu-Fr 09:00-18:30; Sa 09:00-16:00"
 website: ""
