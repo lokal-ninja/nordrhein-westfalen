@@ -1,6 +1,6 @@
 ---
 title: Borgentreich
 url: /borgentreich/
-latitude: 51.574
-longitude: 9.308
+latitude: 51.535
+longitude: 9.278
 ---

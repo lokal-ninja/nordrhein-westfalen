@@ -1,5 +1,5 @@
 ---
-title: "Essmann's Backstube"
+title: "Essmanns Backstube"
 url: /nordwalde/essmanns-backstube/
 shop: Bäckerei
 ---

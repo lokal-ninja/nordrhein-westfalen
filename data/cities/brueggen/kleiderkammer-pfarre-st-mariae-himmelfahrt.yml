@@ -7,5 +7,5 @@ city: Brüggen
 street: "Kirchplatz"
 housenumber: 10
 phone: "+49 2157 871974"
-opening_hours: "1st Mo 14.30–17.00"
+opening_hours: "Mo[1] 14:30-17:00"
 website: ""

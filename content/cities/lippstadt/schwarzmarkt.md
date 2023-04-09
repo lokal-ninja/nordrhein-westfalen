@@ -1,5 +1,5 @@
 ---
 title: "Schwarzmarkt"
 url: /lippstadt/schwarzmarkt/
-shop: Möbel
+shop: Gebrauchtwaren
 ---
