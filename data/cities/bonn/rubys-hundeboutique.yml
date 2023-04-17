@@ -7,5 +7,5 @@ city: Bonn
 street: "Münsterstraße"
 housenumber: 8
 phone: "+49 228 50467670"
-opening_hours: "Mo, We 11:00-18:00; Tu, Th 13:00-18:00; Fr, Sa 11:00-19:00"
+opening_hours: "Mo,We-Sa 11:00-19:00; Tu 13:00-18:00"
 website: "rubys-hundeboutique.de"

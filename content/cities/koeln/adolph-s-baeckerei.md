@@ -1,5 +1,5 @@
 ---
-title: "Adolph*s Bäckerei"
+title: "adolph*s Bäckerei"
 url: /koeln/adolph-s-baeckerei/
 shop: Bäckerei
 ---
