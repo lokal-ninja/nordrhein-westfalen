@@ -7,5 +7,5 @@ city: Bonn
 street: "Am Hauptbahnhof"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: ""
+opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su, PH 08:00-20:00"
+website: "https://www.bahnhof.de/bonn-hbf"

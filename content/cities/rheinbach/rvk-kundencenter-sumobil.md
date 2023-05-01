@@ -1,5 +1,5 @@
 ---
-title: "RVK KundenCenter SUmobil"
+title: "RVK-KundenCenter SUmobil"
 url: /rheinbach/rvk-kundencenter-sumobil/
 shop: Tickets
 ---

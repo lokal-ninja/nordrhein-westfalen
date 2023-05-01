@@ -1,5 +1,5 @@
 ---
-title: "wupsi-KundenCenter (Opladen)"
+title: "wupsi-KundenCenter Opladen"
 url: /leverkusen/wupsi-kundencenter-opladen/
 shop: Tickets
 ---
