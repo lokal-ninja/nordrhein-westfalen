@@ -1,5 +1,5 @@
 ---
 title: "Kamellebüdchen"
 url: /koeln/kamellebuedchen/
-shop: Allgemein
+shop: Süßwaren
 ---

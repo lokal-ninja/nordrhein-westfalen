@@ -1,5 +1,5 @@
 ---
 title: "Rusta"
 url: /kerpen/rusta/
-shop: Baumarkt
+shop: Kramladen
 ---

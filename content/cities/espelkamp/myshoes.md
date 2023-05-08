@@ -1,5 +1,5 @@
 ---
-title: "Myshoes"
+title: "MyShoes"
 url: /espelkamp/myshoes/
 shop: Schuhe
 ---

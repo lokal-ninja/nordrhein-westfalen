@@ -1,6 +1,6 @@
 ---
 title: Castrop-Rauxel
 url: /castrop-rauxel/
-latitude: 51.548
-longitude: 7.311
+latitude: 51.55
+longitude: 7.309
 ---

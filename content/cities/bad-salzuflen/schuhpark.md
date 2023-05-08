@@ -1,5 +1,5 @@
 ---
 title: "Schuhpark"
 url: /bad-salzuflen/schuhpark/
-shop: Lebensmittel
+shop: Schuhe
 ---
