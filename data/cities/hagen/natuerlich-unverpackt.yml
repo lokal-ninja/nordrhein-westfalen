@@ -1,11 +1,11 @@
-id: 4404928260
-type: node
-latitude: 51.35604
-longitude: 7.46115
-postcode: "58089"
+id: 165742112
+type: way
+latitude: 51.35471
+longitude: 7.50567
+postcode: "58093"
 city: Hagen
-street: "Lange Straße"
-housenumber: 29
+street: "Auf der Kugel"
+housenumber: 1
 phone: ""
-opening_hours: "Mo,Th,Fr 15:00-18:00, Mo,Th-Sa 09:00-13:00; PH,We,Su off, Tu 09:00-18:00"
-website: "https://natuerlichunverpackt.de"
+opening_hours: "Mo,Th,Fr 09:00-13:00,15:00-18:00; Tu 09:00-18:00; Sa 09:00-13:00"
+website: "https://natuerlichunverpackt.de/"
