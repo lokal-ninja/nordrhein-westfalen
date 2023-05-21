@@ -1,5 +1,5 @@
 ---
 title: "Sparparadies"
 url: /saerbeck/sparparadies/
-shop: Supermarkt
+shop: Kramladen
 ---

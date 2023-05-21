@@ -1,5 +1,5 @@
 ---
-title: "Trinkgut"
+title: "trinkgut"
 url: /arnsberg/trinkgut/
 shop: Getränke
 ---
