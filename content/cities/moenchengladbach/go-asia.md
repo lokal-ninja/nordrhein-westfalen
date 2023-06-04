@@ -1,5 +1,5 @@
 ---
-title: "go asia"
+title: "Go Asia"
 url: /moenchengladbach/go-asia/
 shop: Supermarkt
 ---

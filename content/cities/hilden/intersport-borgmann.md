@@ -1,5 +1,5 @@
 ---
 title: "Intersport Borgmann"
 url: /hilden/intersport-borgmann/
-shop: Outdoor
+shop: Sport
 ---

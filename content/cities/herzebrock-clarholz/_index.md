@@ -1,6 +1,6 @@
 ---
 title: Herzebrock-Clarholz
 url: /herzebrock-clarholz/
-latitude: 51.918
-longitude: 8.278
+latitude: 51.901
+longitude: 8.193
 ---

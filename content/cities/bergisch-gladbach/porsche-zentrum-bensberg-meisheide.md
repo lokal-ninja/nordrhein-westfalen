@@ -1,5 +1,5 @@
 ---
 title: "Porsche Zentrum Bensberg"
 url: /bergisch-gladbach/porsche-zentrum-bensberg/
-shop: Autoteile
+shop: Autohaus
 ---
