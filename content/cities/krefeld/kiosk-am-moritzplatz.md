@@ -1,5 +1,5 @@
 ---
 title: "Kiosk am Moritzplatz"
 url: /krefeld/kiosk-am-moritzplatz/
-shop: Kiosk
+shop: Tickets
 ---
