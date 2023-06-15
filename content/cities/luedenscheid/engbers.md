@@ -1,5 +1,5 @@
 ---
-title: "engbers"
+title: "Engbers"
 url: /luedenscheid/engbers/
 shop: Kleidung
 ---
