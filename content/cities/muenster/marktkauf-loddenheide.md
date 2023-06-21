@@ -1,5 +1,5 @@
 ---
-title: "MARKTKAUF"
-url: /muenster/marktkauf/
+title: "Marktkauf Loddenheide"
+url: /muenster/marktkauf-loddenheide/
 shop: Supermarkt
 ---

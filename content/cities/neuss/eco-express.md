@@ -1,5 +1,5 @@
 ---
-title: "Eco Express"
+title: "Eco-Express"
 url: /neuss/eco-express/
 shop: Wäscherei
 ---

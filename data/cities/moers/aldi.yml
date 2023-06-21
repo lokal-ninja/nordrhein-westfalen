@@ -1,11 +1,11 @@
-id: 1471860497
-type: node
-latitude: 51.45578
-longitude: 6.66783
-postcode: "47443"
+id: 159312825
+type: way
+latitude: 51.45612
+longitude: 6.6357
+postcode: "47441"
 city: Moers
-street: "Franz-Haniel-Straße"
-housenumber: 90
+street: "Baustraße"
+housenumber: 27
 phone: ""
-opening_hours: ""
-website: "https://www.aldi-sued.de/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

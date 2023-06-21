@@ -1,6 +1,6 @@
 ---
 title: Stadtlohn
 url: /stadtlohn/
-latitude: 51.994
-longitude: 6.914
+latitude: 51.993
+longitude: 6.916
 ---

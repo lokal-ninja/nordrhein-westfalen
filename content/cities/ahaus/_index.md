@@ -1,6 +1,6 @@
 ---
 title: Ahaus
 url: /ahaus/
-latitude: 52.081
-longitude: 7.013
+latitude: 52.074
+longitude: 7.026
 ---
