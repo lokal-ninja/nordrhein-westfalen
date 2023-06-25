@@ -1,5 +1,5 @@
 ---
-title: "Sonderpreis-Baumarkt"
+title: "Sonderpreis Baumarkt"
 url: /meschede/sonderpreis-baumarkt/
 shop: Baumarkt
 ---

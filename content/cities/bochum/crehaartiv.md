@@ -1,5 +1,5 @@
 ---
-title: "CreHaartiv"
+title: "Crehaartiv"
 url: /bochum/crehaartiv/
 shop: Friseur
 ---

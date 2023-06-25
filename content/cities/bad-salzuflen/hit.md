@@ -1,5 +1,5 @@
 ---
-title: "Hit"
+title: "HIT"
 url: /bad-salzuflen/hit/
 shop: Supermarkt
 ---

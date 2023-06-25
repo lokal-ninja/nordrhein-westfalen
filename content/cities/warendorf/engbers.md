@@ -1,5 +1,5 @@
 ---
-title: "Engbers"
+title: "engbers"
 url: /warendorf/engbers/
 shop: Kleidung
 ---
