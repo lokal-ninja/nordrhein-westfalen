@@ -1,5 +1,5 @@
 ---
-title: "WARHAMMER"
+title: "Warhammer"
 url: /bielefeld/warhammer/
-shop: Spielzeug
+shop: Spiele
 ---

@@ -7,5 +7,5 @@ city: Iserlohn
 street: "Wasserstraße"
 housenumber: 7
 phone: "+2371 789770"
-opening_hours: "Mo off; Tu 09:00-16:00; We-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
+opening_hours: "PH,We,Su,Mo off; Tu,Th,Fr 08:30-18:00; Sa 07:30-13:00"
 website: "https://friseursalon-diekamila.business.site/"

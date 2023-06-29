@@ -1,11 +1,11 @@
-id: 249086984
-type: way
-latitude: 50.74073
-longitude: 7.08219
-postcode: "53119"
+id: 11006989152
+type: node
+latitude: 50.73317
+longitude: 7.08291
+postcode: "53115"
 city: Bonn
-street: "Vorgebirgsstraße"
-housenumber: 86
+street: "Karlstraße"
+housenumber: 33
 phone: ""
-opening_hours: "Sa 10:00-18:00; Mo-Fr 11:00-19:00"
-website: "https://www.globetrotter.de/"
+opening_hours: "Mo-Sa 10:00-19:00"
+website: ""
