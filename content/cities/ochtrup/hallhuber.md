@@ -1,5 +1,5 @@
 ---
-title: "HALLHUBER"
+title: "Hallhuber"
 url: /ochtrup/hallhuber/
-shop: Modehaus
+shop: Kleidung
 ---

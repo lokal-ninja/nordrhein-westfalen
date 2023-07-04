@@ -1,6 +1,6 @@
 ---
 title: Weeze
 url: /weeze/
-latitude: 51.629
-longitude: 6.199
+latitude: 51.628
+longitude: 6.2
 ---

@@ -1,11 +1,11 @@
 id: 6010303222
 type: node
-latitude: 51.12257
-longitude: 7.38299
+latitude: 51.12252
+longitude: 7.38289
 postcode: "51688"
 city: Wipperfürth
 street: "Egener Straße"
 housenumber: 11
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo, Tu 9:00-13:00, 14:00-18:00; We off; Th, Fr 9:00-13:00, 14:00-18:00; Sa 9:00-13:00"
+website: "https://www.rr-bikes.de"

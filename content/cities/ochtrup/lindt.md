@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /ochtrup/lindt/
-shop: Süßwaren
+shop: Schokolade
 ---

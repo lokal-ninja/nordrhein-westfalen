@@ -1,6 +1,6 @@
 ---
 title: Lindlar
 url: /lindlar/
-latitude: 51.02
-longitude: 7.368
+latitude: 51.026
+longitude: 7.366
 ---

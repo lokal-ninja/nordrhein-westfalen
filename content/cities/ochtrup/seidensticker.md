@@ -1,5 +1,5 @@
 ---
-title: "SeidenstickeR"
+title: "Seidensticker"
 url: /ochtrup/seidensticker/
 shop: Kleidung
 ---

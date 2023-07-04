@@ -1,5 +1,5 @@
 ---
 title: "expert"
 url: /ahaus/expert/
-shop: Hifi
+shop: Elektronik
 ---
