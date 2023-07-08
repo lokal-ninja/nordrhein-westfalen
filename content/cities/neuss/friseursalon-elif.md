@@ -1,5 +1,5 @@
 ---
-title: "Friseursalon elif"
+title: "Friseursalon Elif"
 url: /neuss/friseursalon-elif/
 shop: Friseur
 ---

@@ -7,5 +7,5 @@ city: Münster
 street: "Am Hohen Ufer"
 housenumber: 111a
 phone: ""
-opening_hours: "Mo 14:30-16:30"
+opening_hours: "Mo,Tu,Fr 14:30-16:30"
 website: ""
