@@ -1,5 +1,5 @@
 ---
-title: "KOSMETIK&MEHR"
+title: "Kosmetik&mehr"
 url: /troisdorf/kosmetikundmehr/
 shop: Kosmetik
 ---

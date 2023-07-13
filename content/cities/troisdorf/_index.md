@@ -1,6 +1,6 @@
 ---
 title: Troisdorf
 url: /troisdorf/
-latitude: 50.81
-longitude: 7.124
+latitude: 50.811
+longitude: 7.126
 ---
