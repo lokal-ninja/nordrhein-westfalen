@@ -1,6 +1,6 @@
 ---
 title: Brakel
 url: /brakel/
-latitude: 51.712
-longitude: 9.176
+latitude: 51.707
+longitude: 9.178
 ---
