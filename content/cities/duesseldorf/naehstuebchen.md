@@ -1,5 +1,5 @@
 ---
 title: "Nähstübchen"
 url: /duesseldorf/naehstuebchen/
-shop: Wäscherei
+shop: Schneiderei
 ---

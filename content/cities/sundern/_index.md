@@ -1,6 +1,6 @@
 ---
 title: Sundern
 url: /sundern/
-latitude: 51.325
-longitude: 8
+latitude: 51.287
+longitude: 7.989
 ---

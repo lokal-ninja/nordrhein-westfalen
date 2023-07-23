@@ -1,6 +1,6 @@
 ---
 title: Korschenbroich
 url: /korschenbroich/
-latitude: 51.194
-longitude: 6.506
+latitude: 51.189
+longitude: 6.509
 ---
