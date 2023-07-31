@@ -1,6 +1,6 @@
 ---
 title: Schwalmtal
 url: /schwalmtal/
-latitude: 51.227
-longitude: 6.245
+latitude: 51.22
+longitude: 6.228
 ---

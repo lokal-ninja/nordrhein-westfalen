@@ -1,5 +1,5 @@
 ---
 title: "Cordewener"
 url: /wuppertal/cordewener/
-shop: Schuhe
+shop: Sanitätshaus
 ---

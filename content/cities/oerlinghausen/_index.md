@@ -1,6 +1,6 @@
 ---
 title: Oerlinghausen
 url: /oerlinghausen/
-latitude: 51.945
-longitude: 8.654
+latitude: 51.947
+longitude: 8.658
 ---

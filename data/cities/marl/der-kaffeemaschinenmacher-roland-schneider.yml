@@ -1,11 +1,11 @@
-id: 165237291
-type: way
-latitude: 51.6684
-longitude: 7.17305
-postcode: "45770"
+id: 11064503396
+type: node
+latitude: 51.67145
+longitude: 7.16586
+postcode: "45772"
 city: Marl
-street: "Bahnhofstraße"
-housenumber: 163
+street: "Schmielenfeldstraße"
+housenumber: 35
 phone: "+49 2365 84200"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:00,15:00-18:00; Sa,We 9:30-12:00; PH off"
-website: "www.rs-kfm.de"
+opening_hours: "Mo-Sa 06:30-12:00; Mo, Tu, Th, Fr 15:00-18:00; PH off; May - Oct Sa off"
+website: "https://www.rs-kfm.de"
