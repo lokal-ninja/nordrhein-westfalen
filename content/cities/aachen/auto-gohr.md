@@ -1,5 +1,5 @@
 ---
-title: "Auto-Gohr"
+title: "Auto Gohr"
 url: /aachen/auto-gohr/
 shop: Autohaus
 ---

@@ -1,11 +1,11 @@
-id: 77893791
-type: way
-latitude: 50.77777
-longitude: 6.0825
+id: 11093237902
+type: node
+latitude: 50.77779
+longitude: 6.08248
 postcode: ""
 city: Aachen
 street: "Pontstraße"
 housenumber: 29,37
-phone: "0241 4011311"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "http://www.pulsschlag.com/"
+phone: "+49 241 4011311"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su,PH off"
+website: "https://www.pulsschlag.info/"
