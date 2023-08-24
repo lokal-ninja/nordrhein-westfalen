@@ -1,5 +1,5 @@
 ---
 title: "Braha"
 url: /sankt-augustin/braha/
-shop: Autowerkstatt
+shop: Reifen
 ---

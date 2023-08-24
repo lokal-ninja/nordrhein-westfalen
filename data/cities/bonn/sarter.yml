@@ -7,5 +7,5 @@ city: Bonn
 street: "Clemens-August-Straße"
 housenumber: 27
 phone: "+49 228 636268"
-opening_hours: "Mo,Th,Fr 08:00-18:00; Tu,We,Sa 08:00-13:30"
+opening_hours: "Mo,We 08:00-13:30; Th,Fr 08:00-18:00; Sa 08:00-13:00; PH,Tu,Su off"
 website: ""

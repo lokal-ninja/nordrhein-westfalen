@@ -1,5 +1,5 @@
 ---
 title: "FanStore Phoenix Hagen"
 url: /hagen/fanstore-phoenix-hagen/
-shop: Andenken
+shop: Allgemein
 ---
