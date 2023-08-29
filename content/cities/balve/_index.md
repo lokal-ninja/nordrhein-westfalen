@@ -1,6 +1,6 @@
 ---
 title: Balve
 url: /balve/
-latitude: 51.333
-longitude: 7.866
+latitude: 51.335
+longitude: 7.869
 ---
