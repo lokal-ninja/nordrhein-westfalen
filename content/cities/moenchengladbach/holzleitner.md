@@ -1,5 +1,5 @@
 ---
 title: "Holzleitner"
 url: /moenchengladbach/holzleitner/
-shop: Elektronik
+shop: Haushaltsgeräte
 ---
