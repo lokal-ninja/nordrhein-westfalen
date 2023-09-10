@@ -1,6 +1,6 @@
 ---
 title: Wipperfürth
 url: /wipperfuerth/
-latitude: 51.116
-longitude: 7.393
+latitude: 51.118
+longitude: 7.4
 ---

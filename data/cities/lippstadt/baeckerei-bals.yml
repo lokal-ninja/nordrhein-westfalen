@@ -1,11 +1,11 @@
-id: 272813858
-type: way
-latitude: 51.66948
-longitude: 8.40585
+id: 1630425739
+type: node
+latitude: 51.69494
+longitude: 8.37615
 postcode: "59558"
 city: Lippstadt
-street: "Haslei"
-housenumber: 1
-phone: ""
-opening_hours: ""
-website: ""
+street: "Bismarckstraße"
+housenumber: 36
+phone: "+49 2941 62858"
+opening_hours: "Mo-Fr 05:45-13:00,14:30-18:00; Sa 05:30-12:30; Su 08:00-11:00"
+website: "https://bäckerei-bals.de/"

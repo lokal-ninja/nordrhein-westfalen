@@ -1,5 +1,5 @@
 ---
 title: "Plätz"
 url: /oberhausen/plaetz/
-shop: Autowerkstatt
+shop: Autohaus
 ---
