@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /detmold/combi/
+url: /detmold/combi-elisabethstrasse/
 shop: Supermarkt
 ---

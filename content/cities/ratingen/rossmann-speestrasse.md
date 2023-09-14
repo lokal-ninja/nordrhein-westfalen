@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /ratingen/rossmann/
+url: /ratingen/rossmann-speestrasse/
 shop: Drogerie
 ---

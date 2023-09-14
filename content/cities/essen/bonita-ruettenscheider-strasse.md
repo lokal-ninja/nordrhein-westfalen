@@ -1,5 +1,5 @@
 ---
 title: "Bonita"
-url: /essen/bonita/
+url: /essen/bonita-ruettenscheider-strasse/
 shop: Modehaus
 ---

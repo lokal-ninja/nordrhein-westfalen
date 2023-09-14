@@ -1,5 +1,5 @@
 ---
 title: "Artmann"
-url: /selm/artmann/
+url: /selm/artmann-im-ort/
 shop: Bäckerei
 ---

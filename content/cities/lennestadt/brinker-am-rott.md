@@ -1,5 +1,5 @@
 ---
 title: "Brinker"
-url: /lennestadt/brinker/
+url: /lennestadt/brinker-am-rott/
 shop: Bäckerei
 ---

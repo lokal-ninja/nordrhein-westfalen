@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /greven/kik/
+url: /greven/kik-emsdettener-landstrasse/
 shop: Kleidung
 ---

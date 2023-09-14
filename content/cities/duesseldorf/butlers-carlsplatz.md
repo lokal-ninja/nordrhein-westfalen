@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
-url: /duesseldorf/butlers/
+url: /duesseldorf/butlers-carlsplatz/
 shop: Raumausstattung
 ---

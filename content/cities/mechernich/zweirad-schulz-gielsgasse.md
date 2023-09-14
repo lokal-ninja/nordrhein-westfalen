@@ -1,5 +1,5 @@
 ---
 title: "Zweirad Schulz"
-url: /mechernich/zweirad-schulz/
+url: /mechernich/zweirad-schulz-gielsgasse/
 shop: Motorrad
 ---

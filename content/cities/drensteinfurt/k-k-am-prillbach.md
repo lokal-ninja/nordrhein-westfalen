@@ -1,5 +1,5 @@
 ---
 title: "K+K"
-url: /drensteinfurt/k-k/
+url: /drensteinfurt/k-k-am-prillbach/
 shop: Supermarkt
 ---

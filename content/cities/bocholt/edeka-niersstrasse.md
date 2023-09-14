@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /bocholt/edeka/
+url: /bocholt/edeka-niersstrasse/
 shop: Supermarkt
 ---

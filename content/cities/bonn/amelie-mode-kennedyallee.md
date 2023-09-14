@@ -1,5 +1,5 @@
 ---
 title: "Amélie Mode"
-url: /bonn/amelie-mode/
+url: /bonn/amelie-mode-kennedyallee/
 shop: Kleidung
 ---

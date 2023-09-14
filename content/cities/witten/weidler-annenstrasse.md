@@ -1,5 +1,5 @@
 ---
 title: "Weidler"
-url: /witten/weidler/
+url: /witten/weidler-annenstrasse/
 shop: Bäckerei
 ---

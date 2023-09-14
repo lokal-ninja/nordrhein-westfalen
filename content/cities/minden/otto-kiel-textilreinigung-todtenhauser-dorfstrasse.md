@@ -1,5 +1,5 @@
 ---
 title: "Otto Kiel Textilreinigung"
-url: /minden/otto-kiel-textilreinigung/
+url: /minden/otto-kiel-textilreinigung-todtenhauser-dorfstrasse/
 shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei"
-url: /duesseldorf/stadtbaeckerei/
+url: /duesseldorf/stadtbaeckerei-gladbacher-strasse/
 shop: Bäckerei
 ---

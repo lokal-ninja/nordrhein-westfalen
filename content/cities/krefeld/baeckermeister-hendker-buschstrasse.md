@@ -1,5 +1,5 @@
 ---
 title: "Bäckermeister Hendker"
-url: /krefeld/baeckermeister-hendker/
+url: /krefeld/baeckermeister-hendker-buschstrasse/
 shop: Bäckerei
 ---

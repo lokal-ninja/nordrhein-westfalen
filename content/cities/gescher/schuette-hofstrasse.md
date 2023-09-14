@@ -1,5 +1,5 @@
 ---
 title: "Schütte"
-url: /gescher/schuette/
+url: /gescher/schuette-hofstrasse/
 shop: Bäckerei
 ---

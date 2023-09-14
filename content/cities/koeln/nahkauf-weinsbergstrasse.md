@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /koeln/nahkauf/
+url: /koeln/nahkauf-weinsbergstrasse/
 shop: Lebensmittel
 ---

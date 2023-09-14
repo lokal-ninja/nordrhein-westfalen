@@ -1,5 +1,5 @@
 ---
 title: "Köttgen Hörakustik"
-url: /koeln/koettgen-hoerakustik/
+url: /koeln/koettgen-hoerakustik-dellbruecker-hauptstrasse/
 shop: Hörgeräte
 ---

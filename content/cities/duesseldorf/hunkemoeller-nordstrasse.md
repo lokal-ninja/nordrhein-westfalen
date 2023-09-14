@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /duesseldorf/hunkemoeller/
+url: /duesseldorf/hunkemoeller-nordstrasse/
 shop: Kleidung
 ---

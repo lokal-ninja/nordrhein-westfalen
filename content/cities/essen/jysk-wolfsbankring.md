@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /essen/jysk/
+url: /essen/jysk-wolfsbankring/
 shop: Möbel
 ---

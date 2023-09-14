@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /velbert/penny/
+url: /velbert/penny-schlossstrasse/
 shop: Supermarkt
 ---

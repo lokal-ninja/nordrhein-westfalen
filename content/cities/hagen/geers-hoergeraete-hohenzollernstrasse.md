@@ -1,5 +1,5 @@
 ---
 title: "GEERS Hörgeräte"
-url: /hagen/geers-hoergeraete/
+url: /hagen/geers-hoergeraete-hohenzollernstrasse/
 shop: Hörgeräte
 ---

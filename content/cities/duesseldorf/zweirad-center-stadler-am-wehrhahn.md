@@ -1,5 +1,5 @@
 ---
 title: "Zweirad-Center Stadler"
-url: /duesseldorf/zweirad-center-stadler/
+url: /duesseldorf/zweirad-center-stadler-am-wehrhahn/
 shop: Fahrrad
 ---

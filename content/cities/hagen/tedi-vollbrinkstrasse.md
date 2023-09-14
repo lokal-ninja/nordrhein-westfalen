@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hagen/tedi/
+url: /hagen/tedi-vollbrinkstrasse/
 shop: Kramladen
 ---

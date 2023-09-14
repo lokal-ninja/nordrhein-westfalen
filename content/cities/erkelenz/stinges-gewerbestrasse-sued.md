@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /erkelenz/stinges/
+url: /erkelenz/stinges-gewerbestrasse-sued/
 shop: Bäckerei
 ---

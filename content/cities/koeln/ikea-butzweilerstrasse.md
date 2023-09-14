@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /koeln/ikea/
+url: /koeln/ikea-butzweilerstrasse/
 shop: Möbel
 ---

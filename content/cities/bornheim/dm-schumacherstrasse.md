@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bornheim/dm/
+url: /bornheim/dm-schumacherstrasse/
 shop: Drogerie
 ---

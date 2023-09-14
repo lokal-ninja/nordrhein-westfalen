@@ -1,5 +1,5 @@
 ---
 title: "Gilgen's"
-url: /koenigswinter/gilgens/
+url: /koenigswinter/gilgens-heisterbacher-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Henke"
-url: /warburg/henke/
+url: /warburg/henke-paderborner-tor/
 shop: Bäckerei
 ---

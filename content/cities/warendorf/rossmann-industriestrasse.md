@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /warendorf/rossmann/
+url: /warendorf/rossmann-industriestrasse/
 shop: Drogerie
 ---

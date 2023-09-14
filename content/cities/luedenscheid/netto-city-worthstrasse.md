@@ -1,5 +1,5 @@
 ---
 title: "Netto City"
-url: /luedenscheid/netto-city/
+url: /luedenscheid/netto-city-worthstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
-url: /neuss/butlers/
+url: /neuss/butlers-buechel/
 shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /essen/hundm/
+url: /essen/hundm-limbecker-platz/
 shop: Kleidung
 ---

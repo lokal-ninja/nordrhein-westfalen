@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /remscheid/penny/
+url: /remscheid/penny-alleestrasse/
 shop: Supermarkt
 ---

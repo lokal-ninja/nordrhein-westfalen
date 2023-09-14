@@ -1,5 +1,5 @@
 ---
 title: "Tuxedo"
-url: /duesseldorf/tuxedo/
+url: /duesseldorf/tuxedo-cheruskerstrasse/
 shop: Kleidung
 ---

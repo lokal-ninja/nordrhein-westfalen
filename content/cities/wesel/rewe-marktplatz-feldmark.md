@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /wesel/rewe/
+url: /wesel/rewe-marktplatz-feldmark/
 shop: Supermarkt
 ---

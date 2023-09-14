@@ -1,5 +1,5 @@
 ---
 title: "AShop"
-url: /herne/ashop/
+url: /herne/ashop-hauptstrasse/
 shop: Handy
 ---

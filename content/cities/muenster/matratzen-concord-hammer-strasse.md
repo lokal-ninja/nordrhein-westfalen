@@ -1,5 +1,5 @@
 ---
 title: "Matratzen Concord"
-url: /muenster/matratzen-concord/
+url: /muenster/matratzen-concord-hammer-strasse/
 shop: Betten
 ---

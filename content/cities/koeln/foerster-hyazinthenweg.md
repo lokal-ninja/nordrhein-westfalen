@@ -1,5 +1,5 @@
 ---
 title: "Förster"
-url: /koeln/foerster/
+url: /koeln/foerster-hyazinthenweg/
 shop: Bäckerei
 ---

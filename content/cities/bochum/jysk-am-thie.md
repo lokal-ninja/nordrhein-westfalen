@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /bochum/jysk/
+url: /bochum/jysk-am-thie/
 shop: Möbel
 ---

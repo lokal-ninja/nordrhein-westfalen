@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /hamm/netto-marken-discount/
+url: /hamm/netto-marken-discount-unterer-heideweg/
 shop: Supermarkt
 ---

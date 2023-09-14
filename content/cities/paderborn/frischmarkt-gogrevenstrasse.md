@@ -1,5 +1,5 @@
 ---
 title: "Frischmarkt"
-url: /paderborn/frischmarkt/
+url: /paderborn/frischmarkt-gogrevenstrasse/
 shop: Supermarkt
 ---

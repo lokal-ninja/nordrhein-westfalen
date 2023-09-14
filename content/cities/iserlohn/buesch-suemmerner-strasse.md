@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /iserlohn/buesch/
+url: /iserlohn/buesch-suemmerner-strasse/
 shop: Bäckerei
 ---

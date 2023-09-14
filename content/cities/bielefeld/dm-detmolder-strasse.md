@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bielefeld/dm/
+url: /bielefeld/dm-detmolder-strasse/
 shop: Drogerie
 ---

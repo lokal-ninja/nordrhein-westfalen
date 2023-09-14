@@ -1,5 +1,5 @@
 ---
 title: "Edeka Buschkühle"
-url: /erwitte/edeka-buschkuehle/
+url: /erwitte/edeka-buschkuehle-wiggeringhauser-strasse/
 shop: Supermarkt
 ---

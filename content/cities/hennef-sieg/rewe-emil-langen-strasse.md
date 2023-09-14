@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /hennef-sieg/rewe/
+url: /hennef-sieg/rewe-emil-langen-strasse/
 shop: Supermarkt
 ---

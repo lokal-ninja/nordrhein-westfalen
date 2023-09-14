@@ -1,5 +1,5 @@
 ---
 title: "Platen"
-url: /duesseldorf/platen/
+url: /duesseldorf/platen-friedrichstrasse/
 shop: Parfümerie
 ---

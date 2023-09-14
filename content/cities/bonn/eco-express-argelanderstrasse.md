@@ -1,5 +1,5 @@
 ---
 title: "Eco-Express"
-url: /bonn/eco-express/
+url: /bonn/eco-express-argelanderstrasse/
 shop: Wäscherei
 ---

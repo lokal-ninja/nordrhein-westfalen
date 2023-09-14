@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /oberhausen/lidl/
+url: /oberhausen/lidl-duisburger-strasse/
 shop: Supermarkt
 ---

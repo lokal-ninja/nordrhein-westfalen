@@ -1,5 +1,5 @@
 ---
 title: "Geiping"
-url: /datteln/geiping/
+url: /datteln/geiping-neumarkt/
 shop: Bäckerei
 ---

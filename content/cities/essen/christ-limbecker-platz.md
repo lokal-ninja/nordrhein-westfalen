@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /essen/christ/
+url: /essen/christ-limbecker-platz/
 shop: Schmuck
 ---

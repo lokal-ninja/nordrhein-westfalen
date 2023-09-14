@@ -1,5 +1,5 @@
 ---
 title: "babymarkt"
-url: /dortmund/babymarkt/
+url: /dortmund/babymarkt-wulfshofstrasse/
 shop: Babysachen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /langenfeld/rewe/
+url: /langenfeld/rewe-hugo-zade-weg/
 shop: Supermarkt
 ---

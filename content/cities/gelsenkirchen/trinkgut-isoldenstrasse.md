@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /gelsenkirchen/trinkgut/
+url: /gelsenkirchen/trinkgut-isoldenstrasse/
 shop: Getränke
 ---

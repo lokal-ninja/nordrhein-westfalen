@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /recklinghausen/malzers/
+url: /recklinghausen/malzers-dieselstrasse/
 shop: Bäckerei
 ---

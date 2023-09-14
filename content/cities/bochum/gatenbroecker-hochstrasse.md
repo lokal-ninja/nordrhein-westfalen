@@ -1,5 +1,5 @@
 ---
 title: "Gatenbröcker"
-url: /bochum/gatenbroecker/
+url: /bochum/gatenbroecker-hochstrasse/
 shop: Bäckerei
 ---

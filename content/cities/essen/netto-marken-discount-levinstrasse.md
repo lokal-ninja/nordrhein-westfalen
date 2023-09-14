@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /essen/netto-marken-discount/
+url: /essen/netto-marken-discount-levinstrasse/
 shop: Supermarkt
 ---

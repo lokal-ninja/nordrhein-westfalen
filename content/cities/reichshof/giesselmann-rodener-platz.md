@@ -1,5 +1,5 @@
 ---
 title: "Gießelmann"
-url: /reichshof/giesselmann/
+url: /reichshof/giesselmann-rodener-platz/
 shop: Konditorei
 ---

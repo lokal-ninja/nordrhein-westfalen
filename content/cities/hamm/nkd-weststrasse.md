@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /hamm/nkd/
+url: /hamm/nkd-weststrasse/
 shop: Kleidung
 ---

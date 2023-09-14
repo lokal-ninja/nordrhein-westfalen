@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /duesseldorf/deichmann/
+url: /duesseldorf/deichmann-westfalenstrasse/
 shop: Schuhe
 ---

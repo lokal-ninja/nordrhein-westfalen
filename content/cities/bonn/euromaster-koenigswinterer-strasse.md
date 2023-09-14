@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /bonn/euromaster/
+url: /bonn/euromaster-koenigswinterer-strasse/
 shop: Autowerkstatt
 ---

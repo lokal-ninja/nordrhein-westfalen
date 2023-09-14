@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /schwerte/edeka/
+url: /schwerte/edeka-letmather-strasse/
 shop: Supermarkt
 ---

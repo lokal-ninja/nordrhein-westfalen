@@ -1,5 +1,5 @@
 ---
 title: "Goeken backen"
-url: /brilon/goeken-backen/
+url: /brilon/goeken-backen-bahnhofstrasse/
 shop: Bäckerei
 ---

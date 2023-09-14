@@ -1,5 +1,5 @@
 ---
 title: "Bolten"
-url: /duisburg/bolten/
+url: /duisburg/bolten-muenchener-strasse/
 shop: Bäckerei
 ---

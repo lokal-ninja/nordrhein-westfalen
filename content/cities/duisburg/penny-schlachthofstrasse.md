@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /duisburg/penny/
+url: /duisburg/penny-schlachthofstrasse/
 shop: Supermarkt
 ---

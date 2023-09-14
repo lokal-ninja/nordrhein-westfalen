@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /olpe/junge/
+url: /olpe/junge-am-markt/
 shop: Bäckerei
 ---

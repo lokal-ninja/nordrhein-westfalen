@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /gelsenkirchen/kodi/
+url: /gelsenkirchen/kodi-bahnhofstrasse/
 shop: Haushaltsartikel
 ---

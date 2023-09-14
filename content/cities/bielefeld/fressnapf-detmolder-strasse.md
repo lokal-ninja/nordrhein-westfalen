@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /bielefeld/fressnapf/
+url: /bielefeld/fressnapf-detmolder-strasse/
 shop: Tiere
 ---

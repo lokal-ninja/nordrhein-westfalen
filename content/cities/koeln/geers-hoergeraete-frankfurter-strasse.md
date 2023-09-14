@@ -1,5 +1,5 @@
 ---
 title: "GEERS Hörgeräte"
-url: /koeln/geers-hoergeraete/
+url: /koeln/geers-hoergeraete-frankfurter-strasse/
 shop: Hörgeräte
 ---

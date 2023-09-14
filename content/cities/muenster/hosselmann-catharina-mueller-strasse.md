@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /muenster/hosselmann/
+url: /muenster/hosselmann-catharina-mueller-strasse/
 shop: Bäckerei
 ---

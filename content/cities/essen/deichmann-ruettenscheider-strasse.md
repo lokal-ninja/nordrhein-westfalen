@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /essen/deichmann/
+url: /essen/deichmann-ruettenscheider-strasse/
 shop: Schuhe
 ---

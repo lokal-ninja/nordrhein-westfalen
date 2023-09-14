@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /essen/backwerk/
+url: /essen/backwerk-krefelder-strasse/
 shop: Bäckerei
 ---

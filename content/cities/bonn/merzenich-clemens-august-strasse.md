@@ -1,5 +1,5 @@
 ---
 title: "Merzenich"
-url: /bonn/merzenich/
+url: /bonn/merzenich-clemens-august-strasse/
 shop: Bäckerei
 ---

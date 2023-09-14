@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Kraus"
-url: /koeln/baeckerei-kraus/
+url: /koeln/baeckerei-kraus-aeussere-kanalstrasse/
 shop: Bäckerei
 ---

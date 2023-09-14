@@ -1,5 +1,5 @@
 ---
 title: "Wester"
-url: /bielefeld/wester/
+url: /bielefeld/wester-ehlentruper-weg/
 shop: Bäckerei
 ---

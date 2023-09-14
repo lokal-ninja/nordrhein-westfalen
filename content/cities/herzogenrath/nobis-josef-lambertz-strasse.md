@@ -1,5 +1,5 @@
 ---
 title: "Nobis"
-url: /herzogenrath/nobis/
+url: /herzogenrath/nobis-josef-lambertz-strasse/
 shop: Bäckerei
 ---

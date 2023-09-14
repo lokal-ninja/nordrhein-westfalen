@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Ludwig"
-url: /duesseldorf/metzgerei-ludwig/
+url: /duesseldorf/metzgerei-ludwig-benderstrasse/
 shop: Metzgerei
 ---

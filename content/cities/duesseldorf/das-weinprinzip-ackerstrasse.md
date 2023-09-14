@@ -1,5 +1,5 @@
 ---
 title: "Das Weinprinzip"
-url: /duesseldorf/das-weinprinzip/
+url: /duesseldorf/das-weinprinzip-ackerstrasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /duisburg/fressnapf/
+url: /duisburg/fressnapf-keniastrasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /duesseldorf/douglas/
+url: /duesseldorf/douglas-nordstrasse/
 shop: Parfümerie
 ---

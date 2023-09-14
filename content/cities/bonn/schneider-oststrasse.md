@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /bonn/schneider/
+url: /bonn/schneider-oststrasse/
 shop: Kleidung
 ---

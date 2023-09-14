@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /muenster/hosselmann/
+url: /muenster/hosselmann-westhoffstrasse/
 shop: Bäckerei
 ---

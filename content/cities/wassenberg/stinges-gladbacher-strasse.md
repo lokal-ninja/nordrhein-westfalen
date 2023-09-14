@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /wassenberg/stinges/
+url: /wassenberg/stinges-gladbacher-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /hagen/kik/
+url: /hagen/kik-alexanderstrasse/
 shop: Kleidung
 ---

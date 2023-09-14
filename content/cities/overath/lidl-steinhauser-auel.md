@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /overath/lidl/
+url: /overath/lidl-steinhauser-auel/
 shop: Supermarkt
 ---

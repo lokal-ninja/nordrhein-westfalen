@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /duesseldorf/carglass/
+url: /duesseldorf/carglass-suedring/
 shop: Autowerkstatt
 ---

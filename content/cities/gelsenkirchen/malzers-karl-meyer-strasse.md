@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /gelsenkirchen/malzers/
+url: /gelsenkirchen/malzers-karl-meyer-strasse/
 shop: Bäckerei
 ---

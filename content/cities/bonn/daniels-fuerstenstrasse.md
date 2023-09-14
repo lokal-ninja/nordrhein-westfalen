@@ -1,5 +1,5 @@
 ---
 title: "Daniels"
-url: /bonn/daniels/
+url: /bonn/daniels-fuerstenstrasse/
 shop: Kleidung
 ---

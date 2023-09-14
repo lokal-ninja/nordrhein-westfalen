@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /viersen/edeka/
+url: /viersen/edeka-luetticher-strasse/
 shop: Supermarkt
 ---

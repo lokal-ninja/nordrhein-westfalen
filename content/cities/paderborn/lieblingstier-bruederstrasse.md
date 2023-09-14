@@ -1,5 +1,5 @@
 ---
 title: "Lieblingstier"
-url: /paderborn/lieblingstier/
+url: /paderborn/lieblingstier-bruederstrasse/
 shop: Tiere
 ---

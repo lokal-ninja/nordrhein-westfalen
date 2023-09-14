@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /luenen/rossmann/
+url: /luenen/rossmann-jaegerstrasse/
 shop: Drogerie
 ---

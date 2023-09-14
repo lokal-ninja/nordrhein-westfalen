@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /duesseldorf/schneider/
+url: /duesseldorf/schneider-hilde-und-joseph-neyses-platz/
 shop: Bäckerei
 ---

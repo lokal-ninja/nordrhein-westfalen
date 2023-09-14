@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /hamm/kaufland/
+url: /hamm/kaufland-oekonomierat-peitzmeier-platz/
 shop: Supermarkt
 ---

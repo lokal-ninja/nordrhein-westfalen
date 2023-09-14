@@ -1,5 +1,5 @@
 ---
 title: "Sporkmann"
-url: /bottrop/sporkmann/
+url: /bottrop/sporkmann-passstrasse/
 shop: Bäckerei
 ---

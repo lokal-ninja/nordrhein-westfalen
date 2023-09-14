@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /bochum/kaufland/
+url: /bochum/kaufland-speicherstrasse/
 shop: Supermarkt
 ---

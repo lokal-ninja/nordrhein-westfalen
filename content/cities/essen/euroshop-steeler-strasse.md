@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /essen/euroshop/
+url: /essen/euroshop-steeler-strasse/
 shop: Kramladen
 ---

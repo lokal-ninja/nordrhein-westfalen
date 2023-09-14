@@ -1,5 +1,5 @@
 ---
 title: "Dismer"
-url: /wesel/dismer/
+url: /wesel/dismer-hohe-strasse/
 shop: Schuhe
 ---

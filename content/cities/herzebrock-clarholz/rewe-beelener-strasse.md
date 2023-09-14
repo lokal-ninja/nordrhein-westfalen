@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /herzebrock-clarholz/rewe/
+url: /herzebrock-clarholz/rewe-beelener-strasse/
 shop: Supermarkt
 ---

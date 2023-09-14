@@ -1,5 +1,5 @@
 ---
 title: "KIK"
-url: /essen/kik/
+url: /essen/kik-huelsmannstrasse/
 shop: Kleidung
 ---

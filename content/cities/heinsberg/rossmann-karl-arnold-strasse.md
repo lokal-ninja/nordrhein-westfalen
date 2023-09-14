@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /heinsberg/rossmann/
+url: /heinsberg/rossmann-karl-arnold-strasse/
 shop: Drogerie
 ---

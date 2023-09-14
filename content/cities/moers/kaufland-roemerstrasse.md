@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /moers/kaufland/
+url: /moers/kaufland-roemerstrasse/
 shop: Supermarkt
 ---

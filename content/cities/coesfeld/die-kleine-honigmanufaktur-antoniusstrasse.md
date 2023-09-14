@@ -1,5 +1,5 @@
 ---
 title: "Die kleine Honigmanufaktur"
-url: /coesfeld/die-kleine-honigmanufaktur/
+url: /coesfeld/die-kleine-honigmanufaktur-antoniusstrasse/
 shop: Süßwaren
 ---

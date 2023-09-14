@@ -1,5 +1,5 @@
 ---
 title: "Boes"
-url: /duesseldorf/boes/
+url: /duesseldorf/boes-rethelstrasse/
 shop: Tabak
 ---

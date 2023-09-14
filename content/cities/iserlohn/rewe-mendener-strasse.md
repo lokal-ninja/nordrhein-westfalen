@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /iserlohn/rewe/
+url: /iserlohn/rewe-mendener-strasse/
 shop: Supermarkt
 ---

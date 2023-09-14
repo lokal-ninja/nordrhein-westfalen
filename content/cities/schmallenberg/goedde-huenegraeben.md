@@ -1,5 +1,5 @@
 ---
 title: "Gödde"
-url: /schmallenberg/goedde/
+url: /schmallenberg/goedde-huenegraeben/
 shop: Autohaus
 ---

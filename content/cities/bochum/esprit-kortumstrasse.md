@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
-url: /bochum/esprit/
+url: /bochum/esprit-kortumstrasse/
 shop: Kleidung
 ---

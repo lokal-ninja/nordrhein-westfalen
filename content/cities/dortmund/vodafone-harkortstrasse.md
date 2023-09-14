@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /dortmund/vodafone/
+url: /dortmund/vodafone-harkortstrasse/
 shop: Handy
 ---

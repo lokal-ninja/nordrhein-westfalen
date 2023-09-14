@@ -1,5 +1,5 @@
 ---
 title: "Freenet"
-url: /dortmund/freenet/
+url: /dortmund/freenet-harkortstrasse/
 shop: Handy
 ---

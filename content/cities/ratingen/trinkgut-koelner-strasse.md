@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /ratingen/trinkgut/
+url: /ratingen/trinkgut-koelner-strasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /dueren/edeka/
+url: /dueren/edeka-zollhausstrasse/
 shop: Supermarkt
 ---

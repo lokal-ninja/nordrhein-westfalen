@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /hamm/penny/
+url: /hamm/penny-alter-uentroper-weg/
 shop: Supermarkt
 ---

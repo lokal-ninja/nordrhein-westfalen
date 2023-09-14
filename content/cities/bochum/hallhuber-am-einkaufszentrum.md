@@ -1,5 +1,5 @@
 ---
 title: "Hallhuber"
-url: /bochum/hallhuber/
+url: /bochum/hallhuber-am-einkaufszentrum/
 shop: Kleidung
 ---

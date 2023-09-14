@@ -1,5 +1,5 @@
 ---
 title: "Liening"
-url: /guetersloh/liening/
+url: /guetersloh/liening-sundernstrasse/
 shop: Bäckerei
 ---

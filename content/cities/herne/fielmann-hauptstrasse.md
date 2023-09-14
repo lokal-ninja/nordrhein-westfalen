@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /herne/fielmann/
+url: /herne/fielmann-hauptstrasse/
 shop: Optiker
 ---

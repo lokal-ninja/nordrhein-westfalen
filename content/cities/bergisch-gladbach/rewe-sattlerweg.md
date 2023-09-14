@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /bergisch-gladbach/rewe/
+url: /bergisch-gladbach/rewe-sattlerweg/
 shop: Supermarkt
 ---

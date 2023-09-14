@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /witten/malzers/
+url: /witten/malzers-friedrich-ebert-strasse/
 shop: Bäckerei
 ---

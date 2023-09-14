@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
-url: /duesseldorf/zeeman/
+url: /duesseldorf/zeeman-fuerstenwall/
 shop: Kleidung
 ---

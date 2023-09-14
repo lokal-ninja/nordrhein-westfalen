@@ -1,5 +1,5 @@
 ---
 title: "Kanne"
-url: /luenen/kanne/
+url: /luenen/kanne-viktoriastrasse/
 shop: Bäckerei
 ---

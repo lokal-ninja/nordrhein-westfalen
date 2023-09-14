@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /warburg/rossmann/
+url: /warburg/rossmann-kasseler-tor/
 shop: Drogerie
 ---

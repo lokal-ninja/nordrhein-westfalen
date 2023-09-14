@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /gelsenkirchen/nkd/
+url: /gelsenkirchen/nkd-cranger-strasse/
 shop: Kleidung
 ---

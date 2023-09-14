@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hattingen/tedi/
+url: /hattingen/tedi-reschop-carre-platz/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Drugstore"
-url: /bielefeld/drugstore/
+url: /bielefeld/drugstore-bahnhofstrasse/
 shop: Kiosk
 ---

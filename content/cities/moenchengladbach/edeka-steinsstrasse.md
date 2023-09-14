@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /moenchengladbach/edeka/
+url: /moenchengladbach/edeka-steinsstrasse/
 shop: Supermarkt
 ---

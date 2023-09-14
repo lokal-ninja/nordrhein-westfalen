@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /lemgo/hosselmann/
+url: /lemgo/hosselmann-steinweg/
 shop: Bäckerei
 ---

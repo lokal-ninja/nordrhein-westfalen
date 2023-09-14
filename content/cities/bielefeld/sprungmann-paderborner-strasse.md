@@ -1,5 +1,5 @@
 ---
 title: "Sprungmann"
-url: /bielefeld/sprungmann/
+url: /bielefeld/sprungmann-paderborner-strasse/
 shop: Autohaus
 ---

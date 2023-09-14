@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /kreuztal/aldi-nord/
+url: /kreuztal/aldi-nord-marburger-strasse/
 shop: Supermarkt
 ---

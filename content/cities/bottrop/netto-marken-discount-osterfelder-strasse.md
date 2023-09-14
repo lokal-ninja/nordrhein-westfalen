@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bottrop/netto-marken-discount/
+url: /bottrop/netto-marken-discount-osterfelder-strasse/
 shop: Supermarkt
 ---

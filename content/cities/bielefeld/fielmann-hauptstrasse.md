@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /bielefeld/fielmann/
+url: /bielefeld/fielmann-hauptstrasse/
 shop: Optiker
 ---

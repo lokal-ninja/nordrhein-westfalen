@@ -1,5 +1,5 @@
 ---
 title: "Heisters"
-url: /troisdorf/heisters/
+url: /troisdorf/heisters-zobelweg/
 shop: Bäckerei
 ---

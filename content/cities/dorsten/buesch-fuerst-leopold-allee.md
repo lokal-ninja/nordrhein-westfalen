@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /dorsten/buesch/
+url: /dorsten/buesch-fuerst-leopold-allee/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /bielefeld/combi/
+url: /bielefeld/combi-berliner-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /heinsberg/stinges/
+url: /heinsberg/stinges-unterbrucher-strasse/
 shop: Bäckerei
 ---

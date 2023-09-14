@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /duisburg/aral/
+url: /duisburg/aral-weseler-strasse/
 shop: Kiosk
 ---

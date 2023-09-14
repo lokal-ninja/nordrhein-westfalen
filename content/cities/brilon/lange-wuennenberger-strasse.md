@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /brilon/lange/
+url: /brilon/lange-wuennenberger-strasse/
 shop: Bäckerei
 ---

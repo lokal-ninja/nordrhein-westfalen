@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /elsdorf/schneider/
+url: /elsdorf/schneider-dorfplatz/
 shop: Bäckerei
 ---

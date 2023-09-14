@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /goch/kamps/
+url: /goch/kamps-vossstrasse/
 shop: Bäckerei
 ---

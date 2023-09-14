@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /herzogenrath/rossmann/
+url: /herzogenrath/rossmann-kirchrather-strasse/
 shop: Drogerie
 ---

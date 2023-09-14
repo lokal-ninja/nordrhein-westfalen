@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /leverkusen/rossmann/
+url: /leverkusen/rossmann-stixchesstrasse/
 shop: Drogerie
 ---

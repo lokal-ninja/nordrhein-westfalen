@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /solingen/rossmann/
+url: /solingen/rossmann-muehlenplatz/
 shop: Drogerie
 ---

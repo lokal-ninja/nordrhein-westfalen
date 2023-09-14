@@ -1,5 +1,5 @@
 ---
 title: "Ende"
-url: /rheine/ende/
+url: /rheine/ende-groeningstrasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Küchen Busch"
-url: /dortmund/kuechen-busch/
+url: /dortmund/kuechen-busch-brandschachtstrasse/
 shop: Küchen
 ---

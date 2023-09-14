@@ -1,5 +1,5 @@
 ---
 title: "Cardamome"
-url: /aachen/cardamome/
+url: /aachen/cardamome-jakobstrasse/
 shop: Feinkost
 ---

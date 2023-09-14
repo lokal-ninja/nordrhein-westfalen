@@ -1,5 +1,5 @@
 ---
 title: "Westermann"
-url: /witten/westermann/
+url: /witten/westermann-holzkampstrasse/
 shop: Bäckerei
 ---

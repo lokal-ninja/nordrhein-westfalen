@@ -1,5 +1,5 @@
 ---
 title: "Stehcafe"
-url: /duesseldorf/stehcafe/
+url: /duesseldorf/stehcafe-kuhstrasse/
 shop: Kiosk
 ---

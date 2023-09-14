@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /troisdorf/fressnapf/
+url: /troisdorf/fressnapf-im-zehntfeld/
 shop: Tiere
 ---

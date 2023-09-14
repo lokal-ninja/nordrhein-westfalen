@@ -1,5 +1,5 @@
 ---
 title: "Centershop"
-url: /koeln/centershop/
+url: /koeln/centershop-berliner-strasse/
 shop: Kramladen
 ---

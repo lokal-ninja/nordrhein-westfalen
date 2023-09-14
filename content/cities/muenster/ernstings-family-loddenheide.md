@@ -1,5 +1,5 @@
 ---
 title: "Ernsting's family"
-url: /muenster/ernstings-family/
+url: /muenster/ernstings-family-loddenheide/
 shop: Kleidung
 ---

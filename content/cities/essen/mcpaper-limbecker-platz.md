@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /essen/mcpaper/
+url: /essen/mcpaper-limbecker-platz/
 shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /guetersloh/rossmann/
+url: /guetersloh/rossmann-brockhaeger-strasse/
 shop: Drogerie
 ---

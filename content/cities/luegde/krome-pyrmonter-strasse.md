@@ -1,5 +1,5 @@
 ---
 title: "Krome"
-url: /luegde/krome/
+url: /luegde/krome-pyrmonter-strasse/
 shop: Bäckerei
 ---

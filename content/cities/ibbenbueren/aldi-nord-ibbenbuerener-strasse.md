@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /ibbenbueren/aldi-nord/
+url: /ibbenbueren/aldi-nord-ibbenbuerener-strasse/
 shop: Supermarkt
 ---

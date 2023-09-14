@@ -1,5 +1,5 @@
 ---
 title: "[ mella ]"
-url: /bielefeld/mella/
+url: /bielefeld/mella-obernstrasse/
 shop: Kleidung
 ---

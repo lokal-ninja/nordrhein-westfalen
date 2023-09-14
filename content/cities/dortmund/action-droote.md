@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /dortmund/action/
+url: /dortmund/action-droote/
 shop: Kramladen
 ---

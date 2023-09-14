@@ -1,5 +1,5 @@
 ---
 title: "Spangemacher"
-url: /dorsten/spangemacher/
+url: /dorsten/spangemacher-bismarckstrasse/
 shop: Bäckerei
 ---

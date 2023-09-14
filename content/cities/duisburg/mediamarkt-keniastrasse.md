@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /duisburg/mediamarkt/
+url: /duisburg/mediamarkt-keniastrasse/
 shop: Elektronik
 ---

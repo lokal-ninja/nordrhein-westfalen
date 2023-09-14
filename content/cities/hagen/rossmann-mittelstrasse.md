@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hagen/rossmann/
+url: /hagen/rossmann-mittelstrasse/
 shop: Drogerie
 ---

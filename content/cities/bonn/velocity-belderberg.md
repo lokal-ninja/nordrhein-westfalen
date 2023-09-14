@@ -1,5 +1,5 @@
 ---
 title: "Velocity"
-url: /bonn/velocity/
+url: /bonn/velocity-belderberg/
 shop: Fahrrad
 ---

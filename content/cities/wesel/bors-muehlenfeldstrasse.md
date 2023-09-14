@@ -1,5 +1,5 @@
 ---
 title: "Bors"
-url: /wesel/bors/
+url: /wesel/bors-muehlenfeldstrasse/
 shop: Bäckerei
 ---

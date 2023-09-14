@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /detmold/hosselmann/
+url: /detmold/hosselmann-hasselter-platz/
 shop: Bäckerei
 ---

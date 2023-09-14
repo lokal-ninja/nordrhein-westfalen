@@ -1,5 +1,5 @@
 ---
 title: "Wester's Backfuchs"
-url: /paderborn/westers-backfuchs/
+url: /paderborn/westers-backfuchs-sennelagerstrasse/
 shop: Bäckerei
 ---

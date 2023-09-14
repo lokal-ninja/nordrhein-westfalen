@@ -1,5 +1,5 @@
 ---
 title: "Savebu"
-url: /witten/savebu/
+url: /witten/savebu-hauptstrasse/
 shop: Allgemein
 ---

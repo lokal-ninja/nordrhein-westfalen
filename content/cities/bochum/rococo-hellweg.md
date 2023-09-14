@@ -1,5 +1,5 @@
 ---
 title: "Rococo"
-url: /bochum/rococo/
+url: /bochum/rococo-hellweg/
 shop: Friseur
 ---

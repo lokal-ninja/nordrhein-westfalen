@@ -1,5 +1,5 @@
 ---
 title: "Getränkepartner Becker"
-url: /huellhorst/getraenkepartner-becker/
+url: /huellhorst/getraenkepartner-becker-oberbauerschafter-strasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nelles"
-url: /bornheim/nelles/
+url: /bornheim/nelles-donnerbachweg/
 shop: Bäckerei
 ---

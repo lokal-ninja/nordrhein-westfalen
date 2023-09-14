@@ -1,5 +1,5 @@
 ---
 title: "Zimmermann"
-url: /bornheim/zimmermann/
+url: /bornheim/zimmermann-bonn-bruehler-strasse/
 shop: Autowerkstatt
 ---

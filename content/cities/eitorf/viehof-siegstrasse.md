@@ -1,5 +1,5 @@
 ---
 title: "Viehof"
-url: /eitorf/viehof/
+url: /eitorf/viehof-siegstrasse/
 shop: Fahrrad
 ---

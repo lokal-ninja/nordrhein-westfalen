@@ -1,5 +1,5 @@
 ---
 title: "Only"
-url: /bochum/only/
+url: /bochum/only-husemannplatz/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imkerkiste"
-url: /bocholt/imkerkiste/
+url: /bocholt/imkerkiste-hamminkelner-strasse/
 shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mensing"
-url: /velen/mensing/
+url: /velen/mensing-paulusstrasse/
 shop: Bäckerei
 ---

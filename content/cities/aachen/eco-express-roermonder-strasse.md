@@ -1,5 +1,5 @@
 ---
 title: "Eco-Express"
-url: /aachen/eco-express/
+url: /aachen/eco-express-roermonder-strasse/
 shop: Wäscherei
 ---

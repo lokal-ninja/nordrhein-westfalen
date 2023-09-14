@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /bonn/fressnapf/
+url: /bonn/fressnapf-immenburgstrasse/
 shop: Tiere
 ---

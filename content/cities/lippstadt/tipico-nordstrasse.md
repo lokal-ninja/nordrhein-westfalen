@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /lippstadt/tipico/
+url: /lippstadt/tipico-nordstrasse/
 shop: Wettbüro
 ---

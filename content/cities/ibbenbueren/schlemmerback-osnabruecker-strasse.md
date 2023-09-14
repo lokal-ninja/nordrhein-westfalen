@@ -1,5 +1,5 @@
 ---
 title: "Schlemmerback"
-url: /ibbenbueren/schlemmerback/
+url: /ibbenbueren/schlemmerback-osnabruecker-strasse/
 shop: Bäckerei
 ---

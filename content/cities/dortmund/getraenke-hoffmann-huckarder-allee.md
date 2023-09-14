@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /dortmund/getraenke-hoffmann/
+url: /dortmund/getraenke-hoffmann-huckarder-allee/
 shop: Getränke
 ---

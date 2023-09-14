@@ -1,5 +1,5 @@
 ---
 title: "Konplott"
-url: /duesseldorf/konplott/
+url: /duesseldorf/konplott-schadowstrasse/
 shop: Schmuck
 ---

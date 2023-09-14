@@ -1,5 +1,5 @@
 ---
 title: "Betten Hönscheidt"
-url: /duesseldorf/betten-hoenscheidt/
+url: /duesseldorf/betten-hoenscheidt-benrather-strasse/
 shop: Betten
 ---

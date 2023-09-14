@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /gummersbach/lidl/
+url: /gummersbach/lidl-vollmerhauser-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /koeln/jysk/
+url: /koeln/jysk-otto-hahn-strasse/
 shop: Möbel
 ---

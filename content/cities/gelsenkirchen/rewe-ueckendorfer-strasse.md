@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /gelsenkirchen/rewe/
+url: /gelsenkirchen/rewe-ueckendorfer-strasse/
 shop: Supermarkt
 ---

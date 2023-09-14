@@ -1,5 +1,5 @@
 ---
 title: "Hagemeyer"
-url: /minden/hagemeyer/
+url: /minden/hagemeyer-kampstrasse/
 shop: Kleidung
 ---

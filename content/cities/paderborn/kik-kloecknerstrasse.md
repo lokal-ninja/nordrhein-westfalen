@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /paderborn/kik/
+url: /paderborn/kik-kloecknerstrasse/
 shop: Kleidung
 ---

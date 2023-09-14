@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /moers/tedi/
+url: /moers/tedi-franz-haniel-strasse/
 shop: Kramladen
 ---

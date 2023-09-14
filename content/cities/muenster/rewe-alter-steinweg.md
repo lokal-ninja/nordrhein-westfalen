@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /muenster/rewe/
+url: /muenster/rewe-alter-steinweg/
 shop: Supermarkt
 ---

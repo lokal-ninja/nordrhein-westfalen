@@ -1,5 +1,5 @@
 ---
 title: "Gatenbröcker"
-url: /marl/gatenbroecker/
+url: /marl/gatenbroecker-schillerstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /oberhausen/norma/
+url: /oberhausen/norma-vestische-strasse/
 shop: Supermarkt
 ---

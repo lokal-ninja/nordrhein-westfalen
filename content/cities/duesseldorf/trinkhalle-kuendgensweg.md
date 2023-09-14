@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /duesseldorf/trinkhalle/
+url: /duesseldorf/trinkhalle-kuendgensweg/
 shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Köttgen"
-url: /koeln/koettgen/
+url: /koeln/koettgen-neusser-strasse/
 shop: Hörgeräte
 ---

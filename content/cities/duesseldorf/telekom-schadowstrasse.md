@@ -1,5 +1,5 @@
 ---
 title: "Telekom"
-url: /duesseldorf/telekom/
+url: /duesseldorf/telekom-schadowstrasse/
 shop: Handy
 ---

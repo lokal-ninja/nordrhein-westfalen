@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /remscheid/rewe/
+url: /remscheid/rewe-wupperstrasse/
 shop: Supermarkt
 ---

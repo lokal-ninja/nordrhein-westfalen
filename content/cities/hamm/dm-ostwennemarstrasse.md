@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /hamm/dm/
+url: /hamm/dm-ostwennemarstrasse/
 shop: Drogerie
 ---

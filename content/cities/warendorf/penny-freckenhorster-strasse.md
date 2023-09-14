@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /warendorf/penny/
+url: /warendorf/penny-freckenhorster-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klein’s Backstube"
-url: /euskirchen/kleins-backstube/
+url: /euskirchen/kleins-backstube-narzissenweg/
 shop: Bäckerei
 ---

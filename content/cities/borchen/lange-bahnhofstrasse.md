@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /borchen/lange/
+url: /borchen/lange-bahnhofstrasse/
 shop: Bäckerei
 ---

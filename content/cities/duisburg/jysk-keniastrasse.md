@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /duisburg/jysk/
+url: /duisburg/jysk-keniastrasse/
 shop: Möbel
 ---

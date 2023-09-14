@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /luenen/malzers/
+url: /luenen/malzers-baukelweg/
 shop: Bäckerei
 ---

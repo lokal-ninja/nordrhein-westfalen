@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /luedenscheid/tedi/
+url: /luedenscheid/tedi-altenaer-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /juelich/schneider/
+url: /juelich/schneider-lorsbecker-strasse/
 shop: Bäckerei
 ---

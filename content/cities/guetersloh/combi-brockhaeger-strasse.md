@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /guetersloh/combi/
+url: /guetersloh/combi-brockhaeger-strasse/
 shop: Supermarkt
 ---

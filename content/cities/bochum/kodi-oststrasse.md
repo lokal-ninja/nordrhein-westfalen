@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /bochum/kodi/
+url: /bochum/kodi-oststrasse/
 shop: Haushaltsartikel
 ---

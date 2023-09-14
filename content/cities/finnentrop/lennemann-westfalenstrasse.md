@@ -1,5 +1,5 @@
 ---
 title: "Lennemann"
-url: /finnentrop/lennemann/
+url: /finnentrop/lennemann-westfalenstrasse/
 shop: Bäckerei
 ---

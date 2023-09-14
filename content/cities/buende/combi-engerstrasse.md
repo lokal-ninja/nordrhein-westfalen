@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /buende/combi/
+url: /buende/combi-engerstrasse/
 shop: Supermarkt
 ---

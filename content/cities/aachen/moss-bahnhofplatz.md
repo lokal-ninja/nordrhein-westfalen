@@ -1,5 +1,5 @@
 ---
 title: "Moss"
-url: /aachen/moss/
+url: /aachen/moss-bahnhofplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /bielefeld/penny/
+url: /bielefeld/penny-eggeweg/
 shop: Supermarkt
 ---

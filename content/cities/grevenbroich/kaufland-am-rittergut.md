@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /grevenbroich/kaufland/
+url: /grevenbroich/kaufland-am-rittergut/
 shop: Supermarkt
 ---

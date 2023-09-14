@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /iserlohn/nkd/
+url: /iserlohn/nkd-alter-rathausplatz/
 shop: Kleidung
 ---

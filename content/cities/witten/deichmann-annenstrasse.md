@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /witten/deichmann/
+url: /witten/deichmann-annenstrasse/
 shop: Schuhe
 ---

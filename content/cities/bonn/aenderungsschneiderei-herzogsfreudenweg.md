@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /bonn/aenderungsschneiderei/
+url: /bonn/aenderungsschneiderei-herzogsfreudenweg/
 shop: Wäscherei
 ---

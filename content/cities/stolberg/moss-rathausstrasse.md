@@ -1,5 +1,5 @@
 ---
 title: "Moss"
-url: /stolberg/moss/
+url: /stolberg/moss-rathausstrasse/
 shop: Bäckerei
 ---

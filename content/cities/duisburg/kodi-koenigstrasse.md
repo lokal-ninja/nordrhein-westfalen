@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /duisburg/kodi/
+url: /duisburg/kodi-koenigstrasse/
 shop: Haushaltsartikel
 ---

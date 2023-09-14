@@ -1,5 +1,5 @@
 ---
 title: "Kodi"
-url: /duesseldorf/kodi/
+url: /duesseldorf/kodi-koelner-tor/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brillen.de"
-url: /bochum/brillen-de/
+url: /bochum/brillen-de-hattinger-strasse/
 shop: Optiker
 ---

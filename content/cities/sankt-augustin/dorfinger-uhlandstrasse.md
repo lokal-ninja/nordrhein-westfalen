@@ -1,5 +1,5 @@
 ---
 title: "Dorfinger"
-url: /sankt-augustin/dorfinger/
+url: /sankt-augustin/dorfinger-uhlandstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winkels"
-url: /duesseldorf/winkels/
+url: /duesseldorf/winkels-westfalenstrasse/
 shop: Bäckerei
 ---

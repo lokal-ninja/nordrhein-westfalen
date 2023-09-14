@@ -1,5 +1,5 @@
 ---
 title: "Bürenkemper"
-url: /guetersloh/buerenkemper/
+url: /guetersloh/buerenkemper-brackweder-strasse/
 shop: Bäckerei
 ---

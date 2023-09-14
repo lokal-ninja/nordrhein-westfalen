@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /moers/fressnapf/
+url: /moers/fressnapf-zechenstrasse/
 shop: Tiere
 ---

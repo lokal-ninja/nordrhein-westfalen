@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /gelsenkirchen/penny/
+url: /gelsenkirchen/penny-nordring/
 shop: Supermarkt
 ---

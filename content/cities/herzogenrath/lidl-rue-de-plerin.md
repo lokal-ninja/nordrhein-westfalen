@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /herzogenrath/lidl/
+url: /herzogenrath/lidl-rue-de-plerin/
 shop: Supermarkt
 ---

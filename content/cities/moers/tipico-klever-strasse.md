@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /moers/tipico/
+url: /moers/tipico-klever-strasse/
 shop: Wettbüro
 ---

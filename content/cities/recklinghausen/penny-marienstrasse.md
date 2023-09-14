@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /recklinghausen/penny/
+url: /recklinghausen/penny-marienstrasse/
 shop: Supermarkt
 ---

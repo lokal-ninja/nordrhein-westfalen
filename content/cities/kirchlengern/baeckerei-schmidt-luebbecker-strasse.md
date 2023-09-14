@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schmidt"
-url: /kirchlengern/baeckerei-schmidt/
+url: /kirchlengern/baeckerei-schmidt-luebbecker-strasse/
 shop: Bäckerei
 ---

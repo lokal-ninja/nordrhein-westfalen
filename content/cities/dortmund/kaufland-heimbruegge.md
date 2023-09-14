@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /dortmund/kaufland/
+url: /dortmund/kaufland-heimbruegge/
 shop: Supermarkt
 ---

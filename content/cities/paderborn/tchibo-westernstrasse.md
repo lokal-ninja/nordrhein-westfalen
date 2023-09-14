@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /paderborn/tchibo/
+url: /paderborn/tchibo-westernstrasse/
 shop: Kaffee
 ---

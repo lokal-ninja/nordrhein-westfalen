@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schmidt"
-url: /espelkamp/baeckerei-schmidt/
+url: /espelkamp/baeckerei-schmidt-koloniestrasse/
 shop: Bäckerei
 ---

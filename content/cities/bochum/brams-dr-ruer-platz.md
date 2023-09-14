@@ -1,5 +1,5 @@
 ---
 title: "Brams"
-url: /bochum/brams/
+url: /bochum/brams-dr-ruer-platz/
 shop: Schreibwaren
 ---

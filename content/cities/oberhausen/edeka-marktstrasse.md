@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /oberhausen/edeka/
+url: /oberhausen/edeka-marktstrasse/
 shop: Supermarkt
 ---

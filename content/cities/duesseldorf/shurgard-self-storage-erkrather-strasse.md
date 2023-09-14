@@ -1,5 +1,5 @@
 ---
 title: "Shurgard Self Storage"
-url: /duesseldorf/shurgard-self-storage/
+url: /duesseldorf/shurgard-self-storage-erkrather-strasse/
 shop: Mieten
 ---

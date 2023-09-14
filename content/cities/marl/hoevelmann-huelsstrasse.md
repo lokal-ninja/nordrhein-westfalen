@@ -1,5 +1,5 @@
 ---
 title: "Hövelmann"
-url: /marl/hoevelmann/
+url: /marl/hoevelmann-huelsstrasse/
 shop: Bäckerei
 ---

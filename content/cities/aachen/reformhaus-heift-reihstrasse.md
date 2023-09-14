@@ -1,5 +1,5 @@
 ---
 title: "Reformhaus Heift"
-url: /aachen/reformhaus-heift/
+url: /aachen/reformhaus-heift-reihstrasse/
 shop: Supermarkt
 ---

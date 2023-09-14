@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /gronau/netto-marken-discount/
+url: /gronau/netto-marken-discount-overdinkelstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Drouven"
-url: /aachen/drouven/
+url: /aachen/drouven-buechel/
 shop: Bäckerei
 ---

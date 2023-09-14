@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /witten/woolworth/
+url: /witten/woolworth-hammerstrasse/
 shop: Warenhaus
 ---

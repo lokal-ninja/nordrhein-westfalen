@@ -1,5 +1,5 @@
 ---
 title: "Birkholz"
-url: /guetersloh/birkholz/
+url: /guetersloh/birkholz-avenwedder-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /bonn/kamps/
+url: /bonn/kamps-clemens-august-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Liening"
-url: /verl/backhaus-liening/
+url: /verl/backhaus-liening-thaddaeusstrasse/
 shop: Bäckerei
 ---

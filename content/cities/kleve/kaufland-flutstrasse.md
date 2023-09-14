@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /kleve/kaufland/
+url: /kleve/kaufland-flutstrasse/
 shop: Supermarkt
 ---

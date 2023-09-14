@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /neuss/kaufland/
+url: /neuss/kaufland-bataverstrasse/
 shop: Supermarkt
 ---

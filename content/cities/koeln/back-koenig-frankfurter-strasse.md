@@ -1,5 +1,5 @@
 ---
 title: "Back König"
-url: /koeln/back-koenig/
+url: /koeln/back-koenig-frankfurter-strasse/
 shop: Bäckerei
 ---

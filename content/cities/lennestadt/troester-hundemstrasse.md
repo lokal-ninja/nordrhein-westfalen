@@ -1,5 +1,5 @@
 ---
 title: "Tröster"
-url: /lennestadt/troester/
+url: /lennestadt/troester-hundemstrasse/
 shop: Bäckerei
 ---

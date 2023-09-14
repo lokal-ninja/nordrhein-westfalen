@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /halver/getraenke-hoffmann/
+url: /halver/getraenke-hoffmann-schuetzenstrasse/
 shop: Getränke
 ---

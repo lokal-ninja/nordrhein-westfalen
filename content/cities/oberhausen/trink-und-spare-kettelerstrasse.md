@@ -1,5 +1,5 @@
 ---
 title: "Trink & Spare"
-url: /oberhausen/trink-und-spare/
+url: /oberhausen/trink-und-spare-kettelerstrasse/
 shop: Getränke
 ---

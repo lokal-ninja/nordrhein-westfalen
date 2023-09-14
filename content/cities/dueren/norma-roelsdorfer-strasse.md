@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /dueren/norma/
+url: /dueren/norma-roelsdorfer-strasse/
 shop: Supermarkt
 ---

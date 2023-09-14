@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /neuss/apollo-optik/
+url: /neuss/apollo-optik-buechel/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /greven/edeka/
+url: /greven/edeka-schuetzenstrasse/
 shop: Supermarkt
 ---

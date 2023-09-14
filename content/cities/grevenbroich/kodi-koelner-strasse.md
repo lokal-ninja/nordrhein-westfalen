@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /grevenbroich/kodi/
+url: /grevenbroich/kodi-koelner-strasse/
 shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autogarten"
-url: /paderborn/autogarten/
+url: /paderborn/autogarten-frankfurter-weg/
 shop: Autohaus
 ---

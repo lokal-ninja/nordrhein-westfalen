@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Peter"
-url: /essen/baeckerei-peter/
+url: /essen/baeckerei-peter-himmelpforten/
 shop: Bäckerei
 ---

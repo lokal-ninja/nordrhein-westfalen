@@ -1,5 +1,5 @@
 ---
 title: "Niehaves"
-url: /arnsberg/niehaves/
+url: /arnsberg/niehaves-apothekerstrasse/
 shop: Bäckerei
 ---

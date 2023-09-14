@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Honsel"
-url: /dorsten/edeka-honsel/
+url: /dorsten/edeka-honsel-freiheitsstrasse/
 shop: Supermarkt
 ---

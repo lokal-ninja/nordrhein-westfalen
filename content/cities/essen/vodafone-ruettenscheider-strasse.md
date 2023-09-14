@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /essen/vodafone/
+url: /essen/vodafone-ruettenscheider-strasse/
 shop: Handy
 ---

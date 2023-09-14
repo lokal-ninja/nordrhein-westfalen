@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /moenchengladbach/rossmann/
+url: /moenchengladbach/rossmann-poststrasse/
 shop: Drogerie
 ---

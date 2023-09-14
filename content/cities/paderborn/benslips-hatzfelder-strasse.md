@@ -1,5 +1,5 @@
 ---
 title: "Benslips"
-url: /paderborn/benslips/
+url: /paderborn/benslips-hatzfelder-strasse/
 shop: Bäckerei
 ---

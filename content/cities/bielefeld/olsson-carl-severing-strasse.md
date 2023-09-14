@@ -1,5 +1,5 @@
 ---
 title: "Olsson"
-url: /bielefeld/olsson/
+url: /bielefeld/olsson-carl-severing-strasse/
 shop: Bäckerei
 ---

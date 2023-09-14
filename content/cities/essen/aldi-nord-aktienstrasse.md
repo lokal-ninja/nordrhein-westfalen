@@ -1,5 +1,5 @@
 ---
 title: "Aldi Nord"
-url: /essen/aldi-nord/
+url: /essen/aldi-nord-aktienstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /moenchengladbach/hit/
+url: /moenchengladbach/hit-dahlener-strasse/
 shop: Supermarkt
 ---

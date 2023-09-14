@@ -1,5 +1,5 @@
 ---
 title: "Handelshof"
-url: /koeln/handelshof/
+url: /koeln/handelshof-widdersdorfer-strasse/
 shop: Supermarkt
 ---

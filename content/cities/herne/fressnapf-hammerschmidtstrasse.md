@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /herne/fressnapf/
+url: /herne/fressnapf-hammerschmidtstrasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /neuss/buesch/
+url: /neuss/buesch-hochstadenstrasse/
 shop: Bäckerei
 ---

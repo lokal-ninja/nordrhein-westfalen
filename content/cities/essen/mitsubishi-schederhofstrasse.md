@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
-url: /essen/mitsubishi/
+url: /essen/mitsubishi-schederhofstrasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hafer-Back"
-url: /siegen/hafer-back/
+url: /siegen/hafer-back-am-bahnhof/
 shop: Bäckerei
 ---

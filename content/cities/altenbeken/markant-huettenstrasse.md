@@ -1,5 +1,5 @@
 ---
 title: "Markant"
-url: /altenbeken/markant/
+url: /altenbeken/markant-huettenstrasse/
 shop: Supermarkt
 ---

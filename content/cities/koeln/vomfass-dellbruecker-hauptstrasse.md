@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /koeln/vomfass/
+url: /koeln/vomfass-dellbruecker-hauptstrasse/
 shop: Feinkost
 ---

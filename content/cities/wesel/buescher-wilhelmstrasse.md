@@ -1,5 +1,5 @@
 ---
 title: "Büscher"
-url: /wesel/buescher/
+url: /wesel/buescher-wilhelmstrasse/
 shop: Bäckerei
 ---

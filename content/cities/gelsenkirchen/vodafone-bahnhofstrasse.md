@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /gelsenkirchen/vodafone/
+url: /gelsenkirchen/vodafone-bahnhofstrasse/
 shop: Handy
 ---

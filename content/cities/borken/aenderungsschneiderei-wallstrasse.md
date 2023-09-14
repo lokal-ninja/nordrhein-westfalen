@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /borken/aenderungsschneiderei/
+url: /borken/aenderungsschneiderei-wallstrasse/
 shop: Schneiderei
 ---

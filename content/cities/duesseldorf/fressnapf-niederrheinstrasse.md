@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /duesseldorf/fressnapf/
+url: /duesseldorf/fressnapf-niederrheinstrasse/
 shop: Tiere
 ---

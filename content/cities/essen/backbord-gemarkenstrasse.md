@@ -1,5 +1,5 @@
 ---
 title: "Backbord"
-url: /essen/backbord/
+url: /essen/backbord-gemarkenstrasse/
 shop: Bäckerei
 ---

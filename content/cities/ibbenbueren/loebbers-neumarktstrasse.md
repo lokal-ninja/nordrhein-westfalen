@@ -1,5 +1,5 @@
 ---
 title: "Löbbers"
-url: /ibbenbueren/loebbers/
+url: /ibbenbueren/loebbers-neumarktstrasse/
 shop: Kleidung
 ---

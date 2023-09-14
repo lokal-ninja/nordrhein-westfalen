@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /hoevelhof/lange/
+url: /hoevelhof/lange-bielefelder-strasse/
 shop: Bäckerei
 ---

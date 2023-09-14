@@ -1,5 +1,5 @@
 ---
 title: "RKG Euskirchen"
-url: /euskirchen/rkg-euskirchen/
+url: /euskirchen/rkg-euskirchen-koelner-strasse/
 shop: Autohaus
 ---

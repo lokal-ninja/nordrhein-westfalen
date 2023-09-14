@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Niedergesäss"
-url: /luedenscheid/metzgerei-niedergesaess/
+url: /luedenscheid/metzgerei-niedergesaess-wilhelmstrasse/
 shop: Metzgerei
 ---

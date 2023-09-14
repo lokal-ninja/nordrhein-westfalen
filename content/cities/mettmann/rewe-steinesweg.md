@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /mettmann/rewe/
+url: /mettmann/rewe-steinesweg/
 shop: Supermarkt
 ---

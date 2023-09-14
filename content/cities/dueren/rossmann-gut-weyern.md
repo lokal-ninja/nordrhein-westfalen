@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /dueren/rossmann/
+url: /dueren/rossmann-gut-weyern/
 shop: Drogerie
 ---

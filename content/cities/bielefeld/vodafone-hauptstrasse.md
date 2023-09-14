@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bielefeld/vodafone/
+url: /bielefeld/vodafone-hauptstrasse/
 shop: Handy
 ---

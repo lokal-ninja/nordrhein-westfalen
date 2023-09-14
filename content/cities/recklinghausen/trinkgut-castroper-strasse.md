@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /recklinghausen/trinkgut/
+url: /recklinghausen/trinkgut-castroper-strasse/
 shop: Getränke
 ---

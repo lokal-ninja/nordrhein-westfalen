@@ -1,5 +1,5 @@
 ---
 title: "BabyOne"
-url: /essen/babyone/
+url: /essen/babyone-berthold-beitz-boulevard/
 shop: Babysachen
 ---

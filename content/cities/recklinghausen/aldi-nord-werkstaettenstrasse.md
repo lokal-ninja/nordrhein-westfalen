@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /recklinghausen/aldi-nord/
+url: /recklinghausen/aldi-nord-werkstaettenstrasse/
 shop: Supermarkt
 ---

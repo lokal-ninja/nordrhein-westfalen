@@ -1,5 +1,5 @@
 ---
 title: "Ernsting"
-url: /wesel/ernsting/
+url: /wesel/ernsting-grosser-markt/
 shop: Bäckerei
 ---

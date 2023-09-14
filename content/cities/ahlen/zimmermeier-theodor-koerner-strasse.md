@@ -1,5 +1,5 @@
 ---
 title: "Zimmermeier"
-url: /ahlen/zimmermeier/
+url: /ahlen/zimmermeier-theodor-koerner-strasse/
 shop: Bäckerei
 ---

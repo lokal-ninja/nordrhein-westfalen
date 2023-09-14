@@ -1,5 +1,5 @@
 ---
 title: "Kiosk Arenja"
-url: /koeln/kiosk-arenja/
+url: /koeln/kiosk-arenja-erlenweg/
 shop: Kiosk
 ---

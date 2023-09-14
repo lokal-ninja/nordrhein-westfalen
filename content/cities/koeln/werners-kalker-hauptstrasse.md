@@ -1,5 +1,5 @@
 ---
 title: "Werner's"
-url: /koeln/werners/
+url: /koeln/werners-kalker-hauptstrasse/
 shop: Metzgerei
 ---

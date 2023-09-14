@@ -1,5 +1,5 @@
 ---
 title: "Krüers"
-url: /lippstadt/krueers/
+url: /lippstadt/krueers-windmuellerstrasse/
 shop: Elektronik
 ---

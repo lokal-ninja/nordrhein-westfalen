@@ -1,5 +1,5 @@
 ---
 title: "dasküchendepot"
-url: /koeln/daskuechendepot/
+url: /koeln/daskuechendepot-frankfurter-strasse/
 shop: Küchen
 ---

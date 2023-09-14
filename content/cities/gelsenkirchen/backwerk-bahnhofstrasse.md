@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /gelsenkirchen/backwerk/
+url: /gelsenkirchen/backwerk-bahnhofstrasse/
 shop: Bäckerei
 ---

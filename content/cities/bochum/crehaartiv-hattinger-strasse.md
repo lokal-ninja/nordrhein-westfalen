@@ -1,5 +1,5 @@
 ---
 title: "CreHaartiv"
-url: /bochum/crehaartiv/
+url: /bochum/crehaartiv-hattinger-strasse/
 shop: Friseur
 ---

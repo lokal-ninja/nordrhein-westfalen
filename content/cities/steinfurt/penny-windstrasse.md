@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /steinfurt/penny/
+url: /steinfurt/penny-windstrasse/
 shop: Supermarkt
 ---

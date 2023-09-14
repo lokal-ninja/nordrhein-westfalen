@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /krefeld/jysk/
+url: /krefeld/jysk-gutenbergstrasse/
 shop: Möbel
 ---

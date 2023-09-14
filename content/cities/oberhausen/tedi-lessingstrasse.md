@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /oberhausen/tedi/
+url: /oberhausen/tedi-lessingstrasse/
 shop: Kramladen
 ---

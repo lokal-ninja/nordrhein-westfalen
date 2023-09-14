@@ -1,5 +1,5 @@
 ---
 title: "Effing"
-url: /ahaus/effing/
+url: /ahaus/effing-kirchplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /moenchengladbach/lidl/
+url: /moenchengladbach/lidl-engelblecker-strasse/
 shop: Supermarkt
 ---

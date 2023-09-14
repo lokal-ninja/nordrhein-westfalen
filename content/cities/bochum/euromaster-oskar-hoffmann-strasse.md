@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /bochum/euromaster/
+url: /bochum/euromaster-oskar-hoffmann-strasse/
 shop: Autowerkstatt
 ---

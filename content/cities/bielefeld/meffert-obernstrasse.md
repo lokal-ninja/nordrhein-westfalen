@@ -1,5 +1,5 @@
 ---
 title: "Meffert"
-url: /bielefeld/meffert/
+url: /bielefeld/meffert-obernstrasse/
 shop: Bäckerei
 ---

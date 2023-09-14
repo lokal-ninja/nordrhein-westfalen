@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /pulheim/rossmann/
+url: /pulheim/rossmann-ehrenfriedstrasse/
 shop: Drogerie
 ---

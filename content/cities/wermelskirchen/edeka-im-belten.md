@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wermelskirchen/edeka/
+url: /wermelskirchen/edeka-im-belten/
 shop: Supermarkt
 ---

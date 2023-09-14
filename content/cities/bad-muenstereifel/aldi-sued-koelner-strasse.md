@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /bad-muenstereifel/aldi-sued/
+url: /bad-muenstereifel/aldi-sued-koelner-strasse/
 shop: Supermarkt
 ---

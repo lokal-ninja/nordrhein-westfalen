@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /siegburg/kamps/
+url: /siegburg/kamps-luisenstrasse/
 shop: Bäckerei
 ---

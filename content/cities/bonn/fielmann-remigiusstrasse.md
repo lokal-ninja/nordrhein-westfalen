@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /bonn/fielmann/
+url: /bonn/fielmann-remigiusstrasse/
 shop: Optiker
 ---

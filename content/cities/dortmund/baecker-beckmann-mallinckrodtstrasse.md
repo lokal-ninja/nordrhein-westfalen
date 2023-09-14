@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Beckmann"
-url: /dortmund/baecker-beckmann/
+url: /dortmund/baecker-beckmann-mallinckrodtstrasse/
 shop: Bäckerei
 ---

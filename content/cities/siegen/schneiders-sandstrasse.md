@@ -1,5 +1,5 @@
 ---
 title: "Schneider's"
-url: /siegen/schneiders/
+url: /siegen/schneiders-sandstrasse/
 shop: Bäckerei
 ---

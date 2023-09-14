@@ -1,5 +1,5 @@
 ---
 title: "Brexel"
-url: /steinheim/brexel/
+url: /steinheim/brexel-marktstrasse/
 shop: Schmuck
 ---

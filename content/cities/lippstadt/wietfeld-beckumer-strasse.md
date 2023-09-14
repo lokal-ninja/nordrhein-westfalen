@@ -1,5 +1,5 @@
 ---
 title: "Wietfeld"
-url: /lippstadt/wietfeld/
+url: /lippstadt/wietfeld-beckumer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /gelsenkirchen/action/
+url: /gelsenkirchen/action-bahnhofsvorplatz/
 shop: Kramladen
 ---

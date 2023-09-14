@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /bonn/cunda/
+url: /bonn/cunda-am-fronhof/
 shop: Kleidung
 ---

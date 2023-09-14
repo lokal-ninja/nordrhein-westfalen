@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /dortmund/malzers/
+url: /dortmund/malzers-bodelschwingher-strasse/
 shop: Bäckerei
 ---

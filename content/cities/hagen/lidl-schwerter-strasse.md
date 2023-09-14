@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /hagen/lidl/
+url: /hagen/lidl-schwerter-strasse/
 shop: Supermarkt
 ---

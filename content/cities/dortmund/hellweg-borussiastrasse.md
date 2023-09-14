@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /dortmund/hellweg/
+url: /dortmund/hellweg-borussiastrasse/
 shop: Baumarkt
 ---

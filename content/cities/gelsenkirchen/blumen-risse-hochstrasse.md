@@ -1,5 +1,5 @@
 ---
 title: "Blumen Risse"
-url: /gelsenkirchen/blumen-risse/
+url: /gelsenkirchen/blumen-risse-hochstrasse/
 shop: Blumen
 ---

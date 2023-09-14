@@ -1,5 +1,5 @@
 ---
 title: "Merzenich"
-url: /koeln/merzenich/
+url: /koeln/merzenich-berrenrather-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /paderborn/aldi/
+url: /paderborn/aldi-wewersches-bruch/
 shop: Supermarkt
 ---

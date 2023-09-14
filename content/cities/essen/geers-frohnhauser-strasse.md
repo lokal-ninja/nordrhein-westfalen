@@ -1,5 +1,5 @@
 ---
 title: "Geers"
-url: /essen/geers/
+url: /essen/geers-frohnhauser-strasse/
 shop: Hörgeräte
 ---

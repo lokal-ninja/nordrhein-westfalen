@@ -1,5 +1,5 @@
 ---
 title: "Vollkornbäckerei Niemand"
-url: /hagen/vollkornbaeckerei-niemand/
+url: /hagen/vollkornbaeckerei-niemand-rohrstrasse/
 shop: Bäckerei
 ---

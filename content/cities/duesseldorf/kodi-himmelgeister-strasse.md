@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /duesseldorf/kodi/
+url: /duesseldorf/kodi-himmelgeister-strasse/
 shop: Haushaltsartikel
 ---

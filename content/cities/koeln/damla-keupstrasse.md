@@ -1,5 +1,5 @@
 ---
 title: "Damla"
-url: /koeln/damla/
+url: /koeln/damla-keupstrasse/
 shop: Bäckerei
 ---

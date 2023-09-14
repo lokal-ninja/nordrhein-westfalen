@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
-url: /bochum/snipes/
+url: /bochum/snipes-am-einkaufszentrum/
 shop: Schuhe
 ---

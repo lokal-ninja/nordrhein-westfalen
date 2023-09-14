@@ -1,5 +1,5 @@
 ---
 title: "Beresa"
-url: /muenster/beresa/
+url: /muenster/beresa-egbert-snoek-strasse/
 shop: Autohaus
 ---

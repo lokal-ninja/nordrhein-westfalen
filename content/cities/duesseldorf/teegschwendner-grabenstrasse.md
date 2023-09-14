@@ -1,5 +1,5 @@
 ---
 title: "TeeGschwendner"
-url: /duesseldorf/teegschwendner/
+url: /duesseldorf/teegschwendner-grabenstrasse/
 shop: Tee
 ---

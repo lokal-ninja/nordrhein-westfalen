@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /herne/backwerk/
+url: /herne/backwerk-konrad-adenauer-platz/
 shop: Bäckerei
 ---

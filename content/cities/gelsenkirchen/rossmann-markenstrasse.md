@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /gelsenkirchen/rossmann/
+url: /gelsenkirchen/rossmann-markenstrasse/
 shop: Drogerie
 ---

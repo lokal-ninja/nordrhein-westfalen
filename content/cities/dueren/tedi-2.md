@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /dueren/tedi/
+url: /dueren/tedi-2/
 shop: Kramladen
 ---

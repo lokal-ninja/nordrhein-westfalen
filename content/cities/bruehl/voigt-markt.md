@@ -1,5 +1,5 @@
 ---
 title: "Voigt"
-url: /bruehl/voigt/
+url: /bruehl/voigt-markt/
 shop: Bäckerei
 ---

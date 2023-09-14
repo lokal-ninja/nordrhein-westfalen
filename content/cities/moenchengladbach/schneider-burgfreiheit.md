@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /moenchengladbach/schneider/
+url: /moenchengladbach/schneider-burgfreiheit/
 shop: Bäckerei
 ---

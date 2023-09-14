@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /paderborn/combi/
+url: /paderborn/combi-rolandsweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /herten/dm/
+url: /herten/dm-zum-alten-schacht/
 shop: Drogerie
 ---

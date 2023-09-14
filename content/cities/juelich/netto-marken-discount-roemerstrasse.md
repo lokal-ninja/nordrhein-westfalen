@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /juelich/netto-marken-discount/
+url: /juelich/netto-marken-discount-roemerstrasse/
 shop: Supermarkt
 ---

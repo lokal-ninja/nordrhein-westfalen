@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /koeln/decathlon/
+url: /koeln/decathlon-duerener-strasse/
 shop: Sport
 ---

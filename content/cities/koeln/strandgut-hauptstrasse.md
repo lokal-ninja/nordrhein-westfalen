@@ -1,5 +1,5 @@
 ---
 title: "Strandgut"
-url: /koeln/strandgut/
+url: /koeln/strandgut-hauptstrasse/
 shop: Raumausstattung
 ---

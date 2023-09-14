@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Puppe"
-url: /duesseldorf/baeckerei-puppe/
+url: /duesseldorf/baeckerei-puppe-rossstrasse/
 shop: Bäckerei
 ---

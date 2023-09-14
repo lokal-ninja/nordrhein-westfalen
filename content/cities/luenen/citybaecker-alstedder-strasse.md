@@ -1,5 +1,5 @@
 ---
 title: "CityBäcker"
-url: /luenen/citybaecker/
+url: /luenen/citybaecker-alstedder-strasse/
 shop: Bäckerei
 ---

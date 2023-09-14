@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /gronau/dm/
+url: /gronau/dm-koenigstrasse/
 shop: Drogerie
 ---

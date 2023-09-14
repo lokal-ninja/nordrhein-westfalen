@@ -1,5 +1,5 @@
 ---
 title: "Frostland"
-url: /paderborn/frostland/
+url: /paderborn/frostland-senefelderstrasse/
 shop: Tiefkühl
 ---

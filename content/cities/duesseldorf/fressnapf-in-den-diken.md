@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /duesseldorf/fressnapf/
+url: /duesseldorf/fressnapf-in-den-diken/
 shop: Tiere
 ---

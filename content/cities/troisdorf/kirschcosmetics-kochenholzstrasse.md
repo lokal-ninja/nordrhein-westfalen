@@ -1,5 +1,5 @@
 ---
 title: "KirschCosmetics"
-url: /troisdorf/kirschcosmetics/
+url: /troisdorf/kirschcosmetics-kochenholzstrasse/
 shop: Kosmetik
 ---

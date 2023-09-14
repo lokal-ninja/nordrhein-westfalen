@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /dortmund/fressnapf/
+url: /dortmund/fressnapf-rodenbergstrasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bonn/dm/
+url: /bonn/dm-rochusstrasse/
 shop: Drogerie
 ---

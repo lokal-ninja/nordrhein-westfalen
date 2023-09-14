@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Beermann"
-url: /borken/sanitaetshaus-beermann/
+url: /borken/sanitaetshaus-beermann-ahauser-strasse/
 shop: Sanitätshaus
 ---

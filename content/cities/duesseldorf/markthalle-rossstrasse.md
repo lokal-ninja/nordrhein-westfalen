@@ -1,5 +1,5 @@
 ---
 title: "Markthalle"
-url: /duesseldorf/markthalle/
+url: /duesseldorf/markthalle-rossstrasse/
 shop: Kiosk
 ---

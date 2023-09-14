@@ -1,5 +1,5 @@
 ---
 title: "Geers"
-url: /bochum/geers/
+url: /bochum/geers-hattinger-strasse/
 shop: Hörgeräte
 ---

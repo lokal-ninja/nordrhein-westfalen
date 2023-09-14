@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /kevelaer/edeka/
+url: /kevelaer/edeka-dorfstrasse/
 shop: Supermarkt
 ---

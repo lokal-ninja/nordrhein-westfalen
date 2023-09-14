@@ -1,5 +1,5 @@
 ---
 title: "Optik Moeres"
-url: /aachen/optik-moeres/
+url: /aachen/optik-moeres-von-coels-strasse/
 shop: Optiker
 ---

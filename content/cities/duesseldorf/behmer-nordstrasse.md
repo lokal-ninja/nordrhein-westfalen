@@ -1,5 +1,5 @@
 ---
 title: "Behmer"
-url: /duesseldorf/behmer/
+url: /duesseldorf/behmer-nordstrasse/
 shop: Bäckerei
 ---

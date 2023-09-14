@@ -1,5 +1,5 @@
 ---
 title: "Brillen Rottler"
-url: /dortmund/brillen-rottler/
+url: /dortmund/brillen-rottler-rahmer-strasse/
 shop: Optiker
 ---

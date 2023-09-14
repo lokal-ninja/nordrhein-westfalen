@@ -1,5 +1,5 @@
 ---
 title: "Kraus"
-url: /dormagen/kraus/
+url: /dormagen/kraus-knechtstedener-strasse/
 shop: Bäckerei
 ---

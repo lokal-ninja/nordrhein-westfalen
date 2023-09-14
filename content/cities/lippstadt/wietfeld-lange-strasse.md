@@ -1,5 +1,5 @@
 ---
 title: "Wietfeld"
-url: /lippstadt/wietfeld/
+url: /lippstadt/wietfeld-lange-strasse/
 shop: Bäckerei
 ---

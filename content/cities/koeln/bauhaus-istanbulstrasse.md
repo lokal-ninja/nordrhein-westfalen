@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /koeln/bauhaus/
+url: /koeln/bauhaus-istanbulstrasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /bottrop/aldi-sued/
+url: /bottrop/aldi-sued-gungstrasse/
 shop: Supermarkt
 ---

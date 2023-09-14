@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /herzogenrath/dm/
+url: /herzogenrath/dm-kleikstrasse/
 shop: Drogerie
 ---

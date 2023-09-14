@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /luenen/action/
+url: /luenen/action-merschstrasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /essen/trinkhalle/
+url: /essen/trinkhalle-woerthstrasse/
 shop: Kiosk
 ---

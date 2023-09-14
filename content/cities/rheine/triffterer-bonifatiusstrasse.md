@@ -1,5 +1,5 @@
 ---
 title: "Triffterer"
-url: /rheine/triffterer/
+url: /rheine/triffterer-bonifatiusstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bestattungen Uerscheln"
-url: /korschenbroich/bestattungen-uerscheln/
+url: /korschenbroich/bestattungen-uerscheln-regentenstrasse/
 shop: Bestattungen
 ---

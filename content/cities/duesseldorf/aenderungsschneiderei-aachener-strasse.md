@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /duesseldorf/aenderungsschneiderei/
+url: /duesseldorf/aenderungsschneiderei-aachener-strasse/
 shop: Schneiderei
 ---

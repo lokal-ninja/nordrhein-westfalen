@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /essen/fielmann/
+url: /essen/fielmann-limbecker-strasse/
 shop: Optiker
 ---

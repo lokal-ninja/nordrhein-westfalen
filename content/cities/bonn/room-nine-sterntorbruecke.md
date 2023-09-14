@@ -1,5 +1,5 @@
 ---
 title: "Room Nine"
-url: /bonn/room-nine/
+url: /bonn/room-nine-sterntorbruecke/
 shop: Kleidung
 ---

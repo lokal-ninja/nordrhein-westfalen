@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /oberhausen/aldi-sued/
+url: /oberhausen/aldi-sued-siegesstrasse/
 shop: Supermarkt
 ---

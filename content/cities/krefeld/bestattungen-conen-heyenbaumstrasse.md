@@ -1,5 +1,5 @@
 ---
 title: "Bestattungen Conen"
-url: /krefeld/bestattungen-conen/
+url: /krefeld/bestattungen-conen-heyenbaumstrasse/
 shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "olsson"
-url: /bielefeld/olsson/
+url: /bielefeld/olsson-osningstrasse/
 shop: Bäckerei
 ---

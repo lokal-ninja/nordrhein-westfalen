@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /bonn/hellweg/
+url: /bonn/hellweg-koenigswinterer-strasse/
 shop: Baumarkt
 ---

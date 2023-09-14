@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Platen"
-url: /duesseldorf/parfuemerie-platen/
+url: /duesseldorf/parfuemerie-platen-am-kreuzberg/
 shop: Parfümerie
 ---

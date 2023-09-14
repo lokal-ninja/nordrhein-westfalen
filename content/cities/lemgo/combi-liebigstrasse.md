@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /lemgo/combi/
+url: /lemgo/combi-liebigstrasse/
 shop: Supermarkt
 ---

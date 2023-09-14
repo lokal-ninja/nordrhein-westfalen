@@ -1,5 +1,5 @@
 ---
 title: "Schlüter"
-url: /stadtlohn/schlueter/
+url: /stadtlohn/schlueter-alte-poststrasse/
 shop: Bäckerei
 ---

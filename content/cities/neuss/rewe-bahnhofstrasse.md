@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /neuss/rewe/
+url: /neuss/rewe-bahnhofstrasse/
 shop: Supermarkt
 ---

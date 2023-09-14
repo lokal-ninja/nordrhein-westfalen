@@ -1,5 +1,5 @@
 ---
 title: "K+K"
-url: /ahaus/k-k/
+url: /ahaus/k-k-wessumer-strasse/
 shop: Supermarkt
 ---

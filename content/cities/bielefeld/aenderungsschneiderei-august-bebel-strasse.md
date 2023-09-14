@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /bielefeld/aenderungsschneiderei/
+url: /bielefeld/aenderungsschneiderei-august-bebel-strasse/
 shop: Schneiderei
 ---

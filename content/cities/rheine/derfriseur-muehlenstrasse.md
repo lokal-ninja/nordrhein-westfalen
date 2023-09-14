@@ -1,5 +1,5 @@
 ---
 title: "DerFriseur"
-url: /rheine/derfriseur/
+url: /rheine/derfriseur-muehlenstrasse/
 shop: Friseur
 ---

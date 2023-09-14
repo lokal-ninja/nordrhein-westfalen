@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /koeln/kik/
+url: /koeln/kik-buchforststrasse/
 shop: Kleidung
 ---

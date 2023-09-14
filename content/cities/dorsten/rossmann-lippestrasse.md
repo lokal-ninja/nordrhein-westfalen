@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /dorsten/rossmann/
+url: /dorsten/rossmann-lippestrasse/
 shop: Drogerie
 ---

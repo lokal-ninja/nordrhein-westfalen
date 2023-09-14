@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /duesseldorf/bauhaus/
+url: /duesseldorf/bauhaus-nach-den-maureskoethen/
 shop: Garten-Center
 ---

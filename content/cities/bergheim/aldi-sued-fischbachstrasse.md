@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /bergheim/aldi-sued/
+url: /bergheim/aldi-sued-fischbachstrasse/
 shop: Supermarkt
 ---

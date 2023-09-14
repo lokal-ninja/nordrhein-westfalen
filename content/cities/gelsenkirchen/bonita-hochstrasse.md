@@ -1,5 +1,5 @@
 ---
 title: "Bonita"
-url: /gelsenkirchen/bonita/
+url: /gelsenkirchen/bonita-hochstrasse/
 shop: Kleidung
 ---

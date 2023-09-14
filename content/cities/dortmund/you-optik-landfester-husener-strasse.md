@@ -1,5 +1,5 @@
 ---
 title: "YOU-Optik Landfester"
-url: /dortmund/you-optik-landfester/
+url: /dortmund/you-optik-landfester-husener-strasse/
 shop: Optiker
 ---

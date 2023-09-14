@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /espelkamp/np/
+url: /espelkamp/np-poststrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "trinkgut"
-url: /wuppertal/trinkgut/
+url: /wuppertal/trinkgut-maerkische-strasse/
 shop: Getränke
 ---

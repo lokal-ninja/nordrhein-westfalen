@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /lippstadt/aldi-nord/
+url: /lippstadt/aldi-nord-am-mondschein/
 shop: Supermarkt
 ---

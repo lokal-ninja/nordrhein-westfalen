@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /essen/buesch/
+url: /essen/buesch-velberter-strasse/
 shop: Bäckerei
 ---

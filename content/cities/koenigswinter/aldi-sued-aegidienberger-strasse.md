@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /koenigswinter/aldi-sued/
+url: /koenigswinter/aldi-sued-aegidienberger-strasse/
 shop: Supermarkt
 ---

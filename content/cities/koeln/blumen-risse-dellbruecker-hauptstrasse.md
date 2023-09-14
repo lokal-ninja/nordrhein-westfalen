@@ -1,5 +1,5 @@
 ---
 title: "Blumen Risse"
-url: /koeln/blumen-risse/
+url: /koeln/blumen-risse-dellbruecker-hauptstrasse/
 shop: Blumen
 ---

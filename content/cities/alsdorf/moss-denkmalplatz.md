@@ -1,5 +1,5 @@
 ---
 title: "Moss"
-url: /alsdorf/moss/
+url: /alsdorf/moss-denkmalplatz/
 shop: Bäckerei
 ---

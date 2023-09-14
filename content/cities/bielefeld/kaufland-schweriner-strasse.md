@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /bielefeld/kaufland/
+url: /bielefeld/kaufland-schweriner-strasse/
 shop: Supermarkt
 ---

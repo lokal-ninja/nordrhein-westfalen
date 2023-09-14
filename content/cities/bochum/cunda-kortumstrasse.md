@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /bochum/cunda/
+url: /bochum/cunda-kortumstrasse/
 shop: Kleidung
 ---

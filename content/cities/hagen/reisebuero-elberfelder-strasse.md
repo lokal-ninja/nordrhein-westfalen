@@ -1,5 +1,5 @@
 ---
 title: "Reisebüro"
-url: /hagen/reisebuero/
+url: /hagen/reisebuero-elberfelder-strasse/
 shop: Reisebüro
 ---

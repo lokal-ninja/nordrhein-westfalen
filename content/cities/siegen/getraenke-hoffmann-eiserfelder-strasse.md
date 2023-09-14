@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /siegen/getraenke-hoffmann/
+url: /siegen/getraenke-hoffmann-eiserfelder-strasse/
 shop: Getränke
 ---

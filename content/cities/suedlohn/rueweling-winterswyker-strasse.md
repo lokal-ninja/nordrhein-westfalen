@@ -1,5 +1,5 @@
 ---
 title: "Rüweling"
-url: /suedlohn/rueweling/
+url: /suedlohn/rueweling-winterswyker-strasse/
 shop: Metzgerei
 ---

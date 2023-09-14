@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /dortmund/dm/
+url: /dortmund/dm-ostenhellweg/
 shop: Drogerie
 ---

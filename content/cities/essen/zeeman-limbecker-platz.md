@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
-url: /essen/zeeman/
+url: /essen/zeeman-limbecker-platz/
 shop: Kleidung
 ---

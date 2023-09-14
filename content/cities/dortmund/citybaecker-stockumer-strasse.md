@@ -1,5 +1,5 @@
 ---
 title: "citybäcker"
-url: /dortmund/citybaecker/
+url: /dortmund/citybaecker-stockumer-strasse/
 shop: Bäckerei
 ---

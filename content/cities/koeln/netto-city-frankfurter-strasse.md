@@ -1,5 +1,5 @@
 ---
 title: "Netto City"
-url: /koeln/netto-city/
+url: /koeln/netto-city-frankfurter-strasse/
 shop: Supermarkt
 ---

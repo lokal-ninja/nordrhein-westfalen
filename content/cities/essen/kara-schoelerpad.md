@@ -1,5 +1,5 @@
 ---
 title: "Kara"
-url: /essen/kara/
+url: /essen/kara-schoelerpad/
 shop: Bäckerei
 ---

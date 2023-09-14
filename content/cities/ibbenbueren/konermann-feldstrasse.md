@@ -1,5 +1,5 @@
 ---
 title: "Konermann"
-url: /ibbenbueren/konermann/
+url: /ibbenbueren/konermann-feldstrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kläsener"
-url: /gladbeck/klaesener/
+url: /gladbeck/klaesener-buersche-strasse/
 shop: Bäckerei
 ---

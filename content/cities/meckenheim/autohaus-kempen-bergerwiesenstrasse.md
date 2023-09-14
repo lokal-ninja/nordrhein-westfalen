@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Kempen"
-url: /meckenheim/autohaus-kempen/
+url: /meckenheim/autohaus-kempen-bergerwiesenstrasse/
 shop: Autohaus
 ---

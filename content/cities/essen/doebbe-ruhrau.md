@@ -1,5 +1,5 @@
 ---
 title: "Döbbe"
-url: /essen/doebbe/
+url: /essen/doebbe-ruhrau/
 shop: Bäckerei
 ---

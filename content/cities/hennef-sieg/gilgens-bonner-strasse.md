@@ -1,5 +1,5 @@
 ---
 title: "Gilgen's"
-url: /hennef-sieg/gilgens/
+url: /hennef-sieg/gilgens-bonner-strasse/
 shop: Bäckerei
 ---

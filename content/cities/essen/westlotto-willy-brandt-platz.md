@@ -1,5 +1,5 @@
 ---
 title: "Westlotto"
-url: /essen/westlotto/
+url: /essen/westlotto-willy-brandt-platz/
 shop: Zeitungen
 ---

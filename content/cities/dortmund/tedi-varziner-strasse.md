@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /dortmund/tedi/
+url: /dortmund/tedi-varziner-strasse/
 shop: Kramladen
 ---

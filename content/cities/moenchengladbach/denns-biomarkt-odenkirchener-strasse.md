@@ -1,5 +1,5 @@
 ---
 title: "denn's Biomarkt"
-url: /moenchengladbach/denns-biomarkt/
+url: /moenchengladbach/denns-biomarkt-odenkirchener-strasse/
 shop: Supermarkt
 ---

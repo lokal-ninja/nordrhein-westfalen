@@ -1,5 +1,5 @@
 ---
 title: "Baumann"
-url: /dorsten/baumann/
+url: /dorsten/baumann-marler-strasse/
 shop: Autowerkstatt
 ---

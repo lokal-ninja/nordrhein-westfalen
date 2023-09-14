@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /neuss/tedi/
+url: /neuss/tedi-niederstrasse/
 shop: Kramladen
 ---

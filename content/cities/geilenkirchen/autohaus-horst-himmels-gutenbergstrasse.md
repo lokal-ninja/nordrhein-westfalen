@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Horst Himmels"
-url: /geilenkirchen/autohaus-horst-himmels/
+url: /geilenkirchen/autohaus-horst-himmels-gutenbergstrasse/
 shop: Autowerkstatt
 ---

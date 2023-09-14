@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /neuss/mcpaper/
+url: /neuss/mcpaper-buechel/
 shop: Schreibwaren
 ---

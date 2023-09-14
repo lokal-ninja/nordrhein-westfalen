@@ -1,5 +1,5 @@
 ---
 title: "Hütten"
-url: /koeln/huetten/
+url: /koeln/huetten-boissereestrasse/
 shop: Bäckerei
 ---

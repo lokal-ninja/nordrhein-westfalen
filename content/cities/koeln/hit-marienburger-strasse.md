@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /koeln/hit/
+url: /koeln/hit-marienburger-strasse/
 shop: Supermarkt
 ---

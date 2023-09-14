@@ -1,5 +1,5 @@
 ---
 title: "Pieper"
-url: /stadtlohn/pieper/
+url: /stadtlohn/pieper-dufkampstrasse/
 shop: Schmuck
 ---

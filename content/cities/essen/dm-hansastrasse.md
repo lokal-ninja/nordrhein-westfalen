@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /essen/dm/
+url: /essen/dm-hansastrasse/
 shop: Drogerie
 ---

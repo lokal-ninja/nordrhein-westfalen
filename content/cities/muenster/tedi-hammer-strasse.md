@@ -1,5 +1,5 @@
 ---
 title: "Tedi"
-url: /muenster/tedi/
+url: /muenster/tedi-hammer-strasse/
 shop: Kleidung
 ---

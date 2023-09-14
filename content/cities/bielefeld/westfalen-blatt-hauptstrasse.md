@@ -1,5 +1,5 @@
 ---
 title: "Westfalen-Blatt"
-url: /bielefeld/westfalen-blatt/
+url: /bielefeld/westfalen-blatt-hauptstrasse/
 shop: Bücher
 ---

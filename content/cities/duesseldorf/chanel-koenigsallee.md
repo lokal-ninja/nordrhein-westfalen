@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
-url: /duesseldorf/chanel/
+url: /duesseldorf/chanel-koenigsallee/
 shop: Kleidung
 ---

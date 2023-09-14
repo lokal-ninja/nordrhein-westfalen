@@ -1,5 +1,5 @@
 ---
 title: "Voigt"
-url: /bonn/voigt/
+url: /bonn/voigt-colmantstrasse/
 shop: Bäckerei
 ---

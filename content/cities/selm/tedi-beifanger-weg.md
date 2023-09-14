@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /selm/tedi/
+url: /selm/tedi-beifanger-weg/
 shop: Kramladen
 ---

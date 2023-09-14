@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /duesseldorf/trinkhalle/
+url: /duesseldorf/trinkhalle-reisholzer-strasse/
 shop: Kiosk
 ---

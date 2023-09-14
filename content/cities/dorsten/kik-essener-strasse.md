@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /dorsten/kik/
+url: /dorsten/kik-essener-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "pitstop"
-url: /aachen/pitstop/
+url: /aachen/pitstop-kronenberg/
 shop: Autowerkstatt
 ---

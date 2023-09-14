@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Becker"
-url: /duesseldorf/parfuemerie-becker/
+url: /duesseldorf/parfuemerie-becker-rethelstrasse/
 shop: Kosmetik
 ---

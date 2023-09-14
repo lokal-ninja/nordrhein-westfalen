@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /eschweiler/penny/
+url: /eschweiler/penny-duerener-strasse/
 shop: Supermarkt
 ---

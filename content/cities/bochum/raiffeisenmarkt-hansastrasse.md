@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisenmarkt"
-url: /bochum/raiffeisenmarkt/
+url: /bochum/raiffeisenmarkt-hansastrasse/
 shop: Landwirtschaftlich
 ---

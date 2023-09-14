@@ -1,5 +1,5 @@
 ---
 title: "Lebensbaum"
-url: /bielefeld/lebensbaum/
+url: /bielefeld/lebensbaum-arndtstrasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /siegen/douglas/
+url: /siegen/douglas-bahnhofstrasse/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mikes Tabak Shop"
-url: /oberhausen/mikes-tabak-shop/
+url: /oberhausen/mikes-tabak-shop-knappenstrasse/
 shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Lückerath"
-url: /euskirchen/autohaus-lueckerath/
+url: /euskirchen/autohaus-lueckerath-kommerner-strasse/
 shop: Autohaus
 ---

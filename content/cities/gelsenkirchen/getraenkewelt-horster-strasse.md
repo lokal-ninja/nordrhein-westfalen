@@ -1,5 +1,5 @@
 ---
 title: "Getränkewelt"
-url: /gelsenkirchen/getraenkewelt/
+url: /gelsenkirchen/getraenkewelt-horster-strasse/
 shop: Getränke
 ---

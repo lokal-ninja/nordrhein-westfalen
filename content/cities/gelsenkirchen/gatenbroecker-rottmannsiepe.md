@@ -1,5 +1,5 @@
 ---
 title: "Gatenbröcker"
-url: /gelsenkirchen/gatenbroecker/
+url: /gelsenkirchen/gatenbroecker-rottmannsiepe/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /detmold/rewe/
+url: /detmold/rewe-denkmalstrasse/
 shop: Supermarkt
 ---

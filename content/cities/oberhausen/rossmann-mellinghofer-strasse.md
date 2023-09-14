@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /oberhausen/rossmann/
+url: /oberhausen/rossmann-mellinghofer-strasse/
 shop: Drogerie
 ---

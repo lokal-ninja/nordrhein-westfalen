@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Pass"
-url: /duesseldorf/baeckerei-pass/
+url: /duesseldorf/baeckerei-pass-paulsmuehlenstrasse/
 shop: Bäckerei
 ---

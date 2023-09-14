@@ -1,5 +1,5 @@
 ---
 title: "Vitakustik"
-url: /bonn/vitakustik/
+url: /bonn/vitakustik-rochusstrasse/
 shop: Hörgeräte
 ---

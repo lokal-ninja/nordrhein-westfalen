@@ -1,5 +1,5 @@
 ---
 title: "Möller Sanitätshaus"
-url: /bochum/moeller-sanitaetshaus/
+url: /bochum/moeller-sanitaetshaus-alleestrasse/
 shop: Sanitätshaus
 ---

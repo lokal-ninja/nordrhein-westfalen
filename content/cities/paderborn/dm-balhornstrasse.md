@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /paderborn/dm/
+url: /paderborn/dm-balhornstrasse/
 shop: Drogerie
 ---

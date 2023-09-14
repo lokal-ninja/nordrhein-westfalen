@@ -1,5 +1,5 @@
 ---
 title: "Maruyasu"
-url: /duesseldorf/maruyasu/
+url: /duesseldorf/maruyasu-luegallee/
 shop: Feinkost
 ---

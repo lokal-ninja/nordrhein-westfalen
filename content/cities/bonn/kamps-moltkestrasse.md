@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /bonn/kamps/
+url: /bonn/kamps-moltkestrasse/
 shop: Bäckerei
 ---

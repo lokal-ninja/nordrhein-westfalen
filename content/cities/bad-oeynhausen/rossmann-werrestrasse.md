@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bad-oeynhausen/rossmann/
+url: /bad-oeynhausen/rossmann-werrestrasse/
 shop: Drogerie
 ---

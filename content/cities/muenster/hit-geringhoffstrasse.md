@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /muenster/hit/
+url: /muenster/hit-geringhoffstrasse/
 shop: Getränke
 ---

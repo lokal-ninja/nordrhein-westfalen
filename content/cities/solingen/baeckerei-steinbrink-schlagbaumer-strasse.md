@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Steinbrink"
-url: /solingen/baeckerei-steinbrink/
+url: /solingen/baeckerei-steinbrink-schlagbaumer-strasse/
 shop: Bäckerei
 ---

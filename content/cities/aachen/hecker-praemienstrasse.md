@@ -1,5 +1,5 @@
 ---
 title: "Hecker"
-url: /aachen/hecker/
+url: /aachen/hecker-praemienstrasse/
 shop: Schreibwaren
 ---

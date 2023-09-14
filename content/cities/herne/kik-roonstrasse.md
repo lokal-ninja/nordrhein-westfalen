@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /herne/kik/
+url: /herne/kik-roonstrasse/
 shop: Kleidung
 ---

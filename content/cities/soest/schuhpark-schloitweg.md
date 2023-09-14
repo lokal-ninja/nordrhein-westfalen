@@ -1,5 +1,5 @@
 ---
 title: "Schuhpark"
-url: /soest/schuhpark/
+url: /soest/schuhpark-schloitweg/
 shop: Schuhe
 ---

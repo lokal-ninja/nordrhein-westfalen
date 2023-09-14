@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /wiehl/fressnapf/
+url: /wiehl/fressnapf-herrenhofer-strasse/
 shop: Tiere
 ---

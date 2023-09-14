@@ -1,5 +1,5 @@
 ---
 title: "Schwager"
-url: /steinheim/schwager/
+url: /steinheim/schwager-neue-strasse/
 shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kronenberg"
-url: /bochum/kronenberg/
+url: /bochum/kronenberg-hattinger-strasse/
 shop: Tabak
 ---

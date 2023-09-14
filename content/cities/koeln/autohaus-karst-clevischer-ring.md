@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Karst"
-url: /koeln/autohaus-karst/
+url: /koeln/autohaus-karst-clevischer-ring/
 shop: Autohaus
 ---

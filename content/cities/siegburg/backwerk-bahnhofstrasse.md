@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /siegburg/backwerk/
+url: /siegburg/backwerk-bahnhofstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellendorf"
-url: /dorsten/bellendorf/
+url: /dorsten/bellendorf-essener-strasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /moers/rossmann/
+url: /moers/rossmann-homberger-strasse/
 shop: Drogerie
 ---

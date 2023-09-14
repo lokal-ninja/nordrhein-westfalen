@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /herne/edeka/
+url: /herne/edeka-hammerschmidtstrasse/
 shop: Supermarkt
 ---

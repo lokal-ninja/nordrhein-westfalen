@@ -1,5 +1,5 @@
 ---
 title: "Netto City"
-url: /bonn/netto-city/
+url: /bonn/netto-city-koenigswinterer-strasse/
 shop: Supermarkt
 ---

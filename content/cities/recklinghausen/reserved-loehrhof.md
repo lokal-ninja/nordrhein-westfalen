@@ -1,5 +1,5 @@
 ---
 title: "Reserved"
-url: /recklinghausen/reserved/
+url: /recklinghausen/reserved-loehrhof/
 shop: Kleidung
 ---

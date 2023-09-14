@@ -1,5 +1,5 @@
 ---
 title: "Meertens"
-url: /uebach-palenberg/meertens/
+url: /uebach-palenberg/meertens-alte-poststrasse/
 shop: Metzgerei
 ---

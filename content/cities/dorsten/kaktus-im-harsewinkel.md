@@ -1,5 +1,5 @@
 ---
 title: "Kaktus"
-url: /dorsten/kaktus/
+url: /dorsten/kaktus-im-harsewinkel/
 shop: Gebrauchtwaren
 ---

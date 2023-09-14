@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /dortmund/mediamarkt/
+url: /dortmund/mediamarkt-seekante/
 shop: Elektronik
 ---

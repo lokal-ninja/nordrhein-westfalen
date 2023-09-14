@@ -1,5 +1,5 @@
 ---
 title: "Steinofenbäckerei Rost"
-url: /loehne/steinofenbaeckerei-rost/
+url: /loehne/steinofenbaeckerei-rost-ellerbuscher-strasse/
 shop: Bäckerei
 ---

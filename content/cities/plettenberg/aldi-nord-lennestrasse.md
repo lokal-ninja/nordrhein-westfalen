@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /plettenberg/aldi-nord/
+url: /plettenberg/aldi-nord-lennestrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /aachen/kik/
+url: /aachen/kik-alexianergraben/
 shop: Kleidung
 ---

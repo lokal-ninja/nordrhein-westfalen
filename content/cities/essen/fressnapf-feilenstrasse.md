@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /essen/fressnapf/
+url: /essen/fressnapf-feilenstrasse/
 shop: Tiere
 ---

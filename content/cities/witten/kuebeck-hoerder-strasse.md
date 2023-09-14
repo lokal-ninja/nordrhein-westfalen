@@ -1,5 +1,5 @@
 ---
 title: "Kübeck"
-url: /witten/kuebeck/
+url: /witten/kuebeck-hoerder-strasse/
 shop: Friseur
 ---

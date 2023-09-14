@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /duisburg/rewe/
+url: /duisburg/rewe-blumenthalstrasse/
 shop: Supermarkt
 ---

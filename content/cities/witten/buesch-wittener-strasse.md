@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /witten/buesch/
+url: /witten/buesch-wittener-strasse/
 shop: Bäckerei
 ---

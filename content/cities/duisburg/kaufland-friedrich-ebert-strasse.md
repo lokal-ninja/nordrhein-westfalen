@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /duisburg/kaufland/
+url: /duisburg/kaufland-friedrich-ebert-strasse/
 shop: Supermarkt
 ---

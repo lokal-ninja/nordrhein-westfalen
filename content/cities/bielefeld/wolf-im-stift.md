@@ -1,5 +1,5 @@
 ---
 title: "Wolf"
-url: /bielefeld/wolf/
+url: /bielefeld/wolf-im-stift/
 shop: Instrumente
 ---

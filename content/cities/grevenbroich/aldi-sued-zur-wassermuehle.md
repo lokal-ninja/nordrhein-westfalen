@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /grevenbroich/aldi-sued/
+url: /grevenbroich/aldi-sued-zur-wassermuehle/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /greven/lidl/
+url: /greven/lidl-saerbecker-strasse/
 shop: Supermarkt
 ---

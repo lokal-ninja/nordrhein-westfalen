@@ -1,5 +1,5 @@
 ---
 title: "Polonia Market"
-url: /essen/polonia-market/
+url: /essen/polonia-market-steeler-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Krefelder Straße"
-url: /moenchengladbach/autohaus-krefelder-strasse/
+url: /moenchengladbach/autohaus-krefelder-strasse-krefelder-strasse/
 shop: Autowerkstatt
 ---

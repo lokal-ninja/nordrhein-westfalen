@@ -1,5 +1,5 @@
 ---
 title: "ltur"
-url: /dortmund/ltur/
+url: /dortmund/ltur-westenhellweg/
 shop: Reisebüro
 ---

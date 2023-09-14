@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /gronau/lidl/
+url: /gronau/lidl-vereinsstrasse/
 shop: Supermarkt
 ---

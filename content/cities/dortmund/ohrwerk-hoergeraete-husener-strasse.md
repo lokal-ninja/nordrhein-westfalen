@@ -1,5 +1,5 @@
 ---
 title: "Ohrwerk Hörgeräte"
-url: /dortmund/ohrwerk-hoergeraete/
+url: /dortmund/ohrwerk-hoergeraete-husener-strasse/
 shop: Hörgeräte
 ---

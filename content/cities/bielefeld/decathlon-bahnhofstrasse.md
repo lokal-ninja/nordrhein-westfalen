@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /bielefeld/decathlon/
+url: /bielefeld/decathlon-bahnhofstrasse/
 shop: Sport
 ---

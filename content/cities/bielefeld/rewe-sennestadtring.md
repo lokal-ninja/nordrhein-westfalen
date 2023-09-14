@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /bielefeld/rewe/
+url: /bielefeld/rewe-sennestadtring/
 shop: Supermarkt
 ---

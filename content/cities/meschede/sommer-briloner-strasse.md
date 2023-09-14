@@ -1,5 +1,5 @@
 ---
 title: "Sommer"
-url: /meschede/sommer/
+url: /meschede/sommer-briloner-strasse/
 shop: Bäckerei
 ---

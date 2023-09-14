@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /duesseldorf/buesch/
+url: /duesseldorf/buesch-golzheimer-strasse/
 shop: Bäckerei
 ---

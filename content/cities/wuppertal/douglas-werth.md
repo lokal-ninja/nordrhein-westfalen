@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /wuppertal/douglas/
+url: /wuppertal/douglas-werth/
 shop: Parfümerie
 ---

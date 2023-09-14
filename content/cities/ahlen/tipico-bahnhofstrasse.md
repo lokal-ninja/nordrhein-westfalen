@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /ahlen/tipico/
+url: /ahlen/tipico-bahnhofstrasse/
 shop: Wettbüro
 ---

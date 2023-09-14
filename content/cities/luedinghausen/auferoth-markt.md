@@ -1,5 +1,5 @@
 ---
 title: "Auferoth"
-url: /luedinghausen/auferoth/
+url: /luedinghausen/auferoth-markt/
 shop: Raumausstattung
 ---

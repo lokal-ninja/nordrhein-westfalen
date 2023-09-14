@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /hagen/kaufland/
+url: /hagen/kaufland-auf-dem-loelfert/
 shop: Supermarkt
 ---

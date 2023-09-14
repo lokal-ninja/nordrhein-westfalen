@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /erftstadt/lidl/
+url: /erftstadt/lidl-holzdamm/
 shop: Supermarkt
 ---

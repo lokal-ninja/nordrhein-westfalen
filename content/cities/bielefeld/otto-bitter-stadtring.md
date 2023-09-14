@@ -1,5 +1,5 @@
 ---
 title: "Otto Bitter"
-url: /bielefeld/otto-bitter/
+url: /bielefeld/otto-bitter-stadtring/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /duesseldorf/kamps/
+url: /duesseldorf/kamps-ulmenstrasse/
 shop: Bäckerei
 ---

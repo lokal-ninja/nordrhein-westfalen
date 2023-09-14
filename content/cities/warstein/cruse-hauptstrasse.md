@@ -1,5 +1,5 @@
 ---
 title: "Cruse"
-url: /warstein/cruse/
+url: /warstein/cruse-hauptstrasse/
 shop: Kleidung
 ---

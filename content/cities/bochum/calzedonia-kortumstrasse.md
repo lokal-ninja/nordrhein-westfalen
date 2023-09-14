@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /bochum/calzedonia/
+url: /bochum/calzedonia-kortumstrasse/
 shop: Kleidung
 ---

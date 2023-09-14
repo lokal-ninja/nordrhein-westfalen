@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /essen/penny/
+url: /essen/penny-bocholder-strasse/
 shop: Supermarkt
 ---

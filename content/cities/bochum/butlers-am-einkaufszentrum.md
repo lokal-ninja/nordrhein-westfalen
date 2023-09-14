@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
-url: /bochum/butlers/
+url: /bochum/butlers-am-einkaufszentrum/
 shop: Raumausstattung
 ---

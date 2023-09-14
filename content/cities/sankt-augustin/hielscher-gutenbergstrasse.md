@@ -1,5 +1,5 @@
 ---
 title: "Hielscher"
-url: /sankt-augustin/hielscher/
+url: /sankt-augustin/hielscher-gutenbergstrasse/
 shop: Metzgerei
 ---

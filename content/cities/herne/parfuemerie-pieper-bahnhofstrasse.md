@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Pieper"
-url: /herne/parfuemerie-pieper/
+url: /herne/parfuemerie-pieper-bahnhofstrasse/
 shop: Parfümerie
 ---

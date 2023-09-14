@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /essen/kodi/
+url: /essen/kodi-kupferdreher-strasse/
 shop: Haushaltsartikel
 ---

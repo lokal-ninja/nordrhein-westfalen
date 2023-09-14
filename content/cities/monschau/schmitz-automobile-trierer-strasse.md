@@ -1,5 +1,5 @@
 ---
 title: "Schmitz Automobile"
-url: /monschau/schmitz-automobile/
+url: /monschau/schmitz-automobile-trierer-strasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /bochum/aral/
+url: /bochum/aral-herner-strasse/
 shop: Allgemein
 ---

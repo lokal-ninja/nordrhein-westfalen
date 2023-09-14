@@ -1,5 +1,5 @@
 ---
 title: "KODI"
-url: /koeln/kodi/
+url: /koeln/kodi-hauptstrasse/
 shop: Lebensmittel
 ---

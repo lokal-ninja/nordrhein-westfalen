@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /moenchengladbach/backwerk/
+url: /moenchengladbach/backwerk-hindenburgstrasse/
 shop: Bäckerei
 ---

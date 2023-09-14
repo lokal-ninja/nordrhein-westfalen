@@ -1,5 +1,5 @@
 ---
 title: "Landgraf"
-url: /bonn/landgraf/
+url: /bonn/landgraf-koenigswinterer-strasse/
 shop: Schuhe
 ---

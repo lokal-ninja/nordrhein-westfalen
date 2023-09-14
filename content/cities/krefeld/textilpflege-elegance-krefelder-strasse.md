@@ -1,5 +1,5 @@
 ---
 title: "Textilpflege Elegance"
-url: /krefeld/textilpflege-elegance/
+url: /krefeld/textilpflege-elegance-krefelder-strasse/
 shop: Wäscherei
 ---

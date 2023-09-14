@@ -1,5 +1,5 @@
 ---
 title: "Gassmann"
-url: /witten/gassmann/
+url: /witten/gassmann-bahnhofstrasse/
 shop: Warenhaus
 ---

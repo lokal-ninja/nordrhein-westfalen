@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /hagen/fressnapf/
+url: /hagen/fressnapf-becheltestrasse/
 shop: Tiere
 ---

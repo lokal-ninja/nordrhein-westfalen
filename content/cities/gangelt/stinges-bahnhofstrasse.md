@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /gangelt/stinges/
+url: /gangelt/stinges-bahnhofstrasse/
 shop: Bäckerei
 ---

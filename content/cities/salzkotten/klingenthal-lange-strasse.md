@@ -1,5 +1,5 @@
 ---
 title: "Klingenthal"
-url: /salzkotten/klingenthal/
+url: /salzkotten/klingenthal-lange-strasse/
 shop: Kleidung
 ---

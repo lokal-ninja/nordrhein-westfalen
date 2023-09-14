@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hüsch"
-url: /issum/getraenke-huesch/
+url: /issum/getraenke-huesch-rheurdter-strasse/
 shop: Getränke
 ---

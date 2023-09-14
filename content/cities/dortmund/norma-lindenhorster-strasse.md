@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /dortmund/norma/
+url: /dortmund/norma-lindenhorster-strasse/
 shop: Supermarkt
 ---

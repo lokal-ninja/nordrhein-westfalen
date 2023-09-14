@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bonn/deichmann/
+url: /bonn/deichmann-oppelner-strasse/
 shop: Schuhe
 ---

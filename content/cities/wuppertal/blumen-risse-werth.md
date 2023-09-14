@@ -1,5 +1,5 @@
 ---
 title: "Blumen Risse"
-url: /wuppertal/blumen-risse/
+url: /wuppertal/blumen-risse-werth/
 shop: Blumen
 ---

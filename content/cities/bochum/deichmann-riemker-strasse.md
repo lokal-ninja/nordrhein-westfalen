@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bochum/deichmann/
+url: /bochum/deichmann-riemker-strasse/
 shop: Schuhe
 ---

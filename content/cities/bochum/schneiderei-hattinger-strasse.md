@@ -1,5 +1,5 @@
 ---
 title: "Schneiderei"
-url: /bochum/schneiderei/
+url: /bochum/schneiderei-hattinger-strasse/
 shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baltz"
-url: /bochum/baltz/
+url: /bochum/baltz-am-einkaufszentrum/
 shop: Kleidung
 ---

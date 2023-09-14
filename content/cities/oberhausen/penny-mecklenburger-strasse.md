@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /oberhausen/penny/
+url: /oberhausen/penny-mecklenburger-strasse/
 shop: Supermarkt
 ---

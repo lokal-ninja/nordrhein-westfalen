@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /koeln/backwerk/
+url: /koeln/backwerk-2/
 shop: Bäckerei
 ---

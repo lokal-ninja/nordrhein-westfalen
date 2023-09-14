@@ -1,5 +1,5 @@
 ---
 title: "Blumen Cornielje"
-url: /paderborn/blumen-cornielje/
+url: /paderborn/blumen-cornielje-hatzfelder-strasse/
 shop: Blumen
 ---

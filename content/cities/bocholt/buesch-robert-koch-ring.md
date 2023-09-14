@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /bocholt/buesch/
+url: /bocholt/buesch-robert-koch-ring/
 shop: Bäckerei
 ---

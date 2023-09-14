@@ -1,5 +1,5 @@
 ---
 title: "KoDi"
-url: /gelsenkirchen/kodi/
+url: /gelsenkirchen/kodi-essener-strasse/
 shop: Lebensmittel
 ---

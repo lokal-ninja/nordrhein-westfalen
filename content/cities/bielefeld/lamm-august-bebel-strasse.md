@@ -1,5 +1,5 @@
 ---
 title: "Lamm"
-url: /bielefeld/lamm/
+url: /bielefeld/lamm-august-bebel-strasse/
 shop: Bäckerei
 ---

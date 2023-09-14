@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /essen/rossmann/
+url: /essen/rossmann-kupferdreher-strasse/
 shop: Drogerie
 ---

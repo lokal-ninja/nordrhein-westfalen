@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /herne/woolworth/
+url: /herne/woolworth-bahnhofstrasse/
 shop: Warenhaus
 ---

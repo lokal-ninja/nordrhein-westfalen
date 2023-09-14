@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Jägers"
-url: /reken/baeckerei-jaegers/
+url: /reken/baeckerei-jaegers-kirchstrasse/
 shop: Bäckerei
 ---

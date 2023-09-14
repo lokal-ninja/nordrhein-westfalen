@@ -1,5 +1,5 @@
 ---
 title: "Geers"
-url: /koeln/geers/
+url: /koeln/geers-dellbruecker-hauptstrasse/
 shop: Hörgeräte
 ---

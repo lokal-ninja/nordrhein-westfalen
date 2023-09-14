@@ -1,5 +1,5 @@
 ---
 title: "Heinemann"
-url: /kerpen/heinemann/
+url: /kerpen/heinemann-hauptstrasse/
 shop: Bäckerei
 ---

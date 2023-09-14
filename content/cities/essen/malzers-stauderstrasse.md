@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /essen/malzers/
+url: /essen/malzers-stauderstrasse/
 shop: Bäckerei
 ---

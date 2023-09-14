@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /duesseldorf/rituals/
+url: /duesseldorf/rituals-schadowstrasse/
 shop: Kosmetik
 ---

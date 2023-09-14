@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /paderborn/trinkgut/
+url: /paderborn/trinkgut-senefelderstrasse/
 shop: Getränke
 ---

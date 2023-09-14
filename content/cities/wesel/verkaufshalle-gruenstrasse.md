@@ -1,5 +1,5 @@
 ---
 title: "Verkaufshalle"
-url: /wesel/verkaufshalle/
+url: /wesel/verkaufshalle-gruenstrasse/
 shop: Kiosk
 ---

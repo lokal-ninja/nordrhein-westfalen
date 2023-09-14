@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /bochum/christ/
+url: /bochum/christ-am-einkaufszentrum/
 shop: Schmuck
 ---

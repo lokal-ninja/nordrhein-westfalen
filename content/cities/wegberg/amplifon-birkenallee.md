@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /wegberg/amplifon/
+url: /wegberg/amplifon-birkenallee/
 shop: Hörgeräte
 ---

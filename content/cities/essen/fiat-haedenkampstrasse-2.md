@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
-url: /essen/fiat/
+url: /essen/fiat-haedenkampstrasse-2/
 shop: Autohaus
 ---

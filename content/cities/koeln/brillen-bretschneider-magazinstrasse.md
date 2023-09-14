@@ -1,5 +1,5 @@
 ---
 title: "Brillen Bretschneider"
-url: /koeln/brillen-bretschneider/
+url: /koeln/brillen-bretschneider-magazinstrasse/
 shop: Optiker
 ---

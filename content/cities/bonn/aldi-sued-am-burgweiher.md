@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /bonn/aldi-sued/
+url: /bonn/aldi-sued-am-burgweiher/
 shop: Supermarkt
 ---

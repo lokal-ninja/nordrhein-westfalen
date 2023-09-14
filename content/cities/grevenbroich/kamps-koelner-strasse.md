@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /grevenbroich/kamps/
+url: /grevenbroich/kamps-koelner-strasse/
 shop: Bäckerei
 ---

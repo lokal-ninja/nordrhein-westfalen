@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /duisburg/buesch/
+url: /duisburg/buesch-sternbuschweg/
 shop: Bäckerei
 ---

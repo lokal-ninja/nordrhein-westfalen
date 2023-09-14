@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /dortmund/nkd/
+url: /dortmund/nkd-rahmer-strasse/
 shop: Kleidung
 ---

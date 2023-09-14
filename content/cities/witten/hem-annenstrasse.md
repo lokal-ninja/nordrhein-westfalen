@@ -1,5 +1,5 @@
 ---
 title: "HEM"
-url: /witten/hem/
+url: /witten/hem-annenstrasse/
 shop: Kiosk
 ---

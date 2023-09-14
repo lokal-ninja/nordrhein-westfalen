@@ -1,5 +1,5 @@
 ---
 title: "Rottler"
-url: /ibbenbueren/rottler/
+url: /ibbenbueren/rottler-bahnhofstrasse/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hardt"
-url: /siegburg/hardt/
+url: /siegburg/hardt-grimmelsgasse/
 shop: Bäckerei
 ---

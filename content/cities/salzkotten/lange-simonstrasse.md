@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /salzkotten/lange/
+url: /salzkotten/lange-simonstrasse/
 shop: Bäckerei
 ---

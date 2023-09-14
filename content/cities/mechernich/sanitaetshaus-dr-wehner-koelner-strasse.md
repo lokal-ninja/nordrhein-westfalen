@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Dr. Wehner"
-url: /mechernich/sanitaetshaus-dr-wehner/
+url: /mechernich/sanitaetshaus-dr-wehner-koelner-strasse/
 shop: Sanitätshaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Voss"
-url: /lichtenau/voss/
+url: /lichtenau/voss-finkestrasse/
 shop: Bäckerei
 ---

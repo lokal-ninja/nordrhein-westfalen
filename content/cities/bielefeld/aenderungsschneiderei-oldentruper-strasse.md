@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /bielefeld/aenderungsschneiderei/
+url: /bielefeld/aenderungsschneiderei-oldentruper-strasse/
 shop: Schneiderei
 ---

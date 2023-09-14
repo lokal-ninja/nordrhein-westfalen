@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /grevenbroich/kik/
+url: /grevenbroich/kik-zur-wassermuehle/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /hueckeswagen/aldi-nord/
+url: /hueckeswagen/aldi-nord-stahlschmidtsbruecke/
 shop: Supermarkt
 ---

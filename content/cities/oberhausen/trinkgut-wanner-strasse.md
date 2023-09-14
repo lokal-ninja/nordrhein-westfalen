@@ -1,5 +1,5 @@
 ---
 title: "trinkgut"
-url: /oberhausen/trinkgut/
+url: /oberhausen/trinkgut-wanner-strasse/
 shop: Getränke
 ---

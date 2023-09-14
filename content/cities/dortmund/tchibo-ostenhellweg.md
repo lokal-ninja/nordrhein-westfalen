@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /dortmund/tchibo/
+url: /dortmund/tchibo-ostenhellweg/
 shop: Kaffee
 ---

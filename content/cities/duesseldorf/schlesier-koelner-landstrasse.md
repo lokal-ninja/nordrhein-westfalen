@@ -1,5 +1,5 @@
 ---
 title: "Schlesier"
-url: /duesseldorf/schlesier/
+url: /duesseldorf/schlesier-koelner-landstrasse/
 shop: Feinkost
 ---

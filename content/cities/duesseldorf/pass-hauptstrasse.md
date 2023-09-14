@@ -1,5 +1,5 @@
 ---
 title: "Pass"
-url: /duesseldorf/pass/
+url: /duesseldorf/pass-hauptstrasse/
 shop: Bäckerei
 ---

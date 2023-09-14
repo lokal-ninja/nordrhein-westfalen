@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /paderborn/edeka/
+url: /paderborn/edeka-alter-hellweg/
 shop: Supermarkt
 ---

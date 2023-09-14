@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /paderborn/tipico/
+url: /paderborn/tipico-bielefelder-strasse/
 shop: Wettbüro
 ---

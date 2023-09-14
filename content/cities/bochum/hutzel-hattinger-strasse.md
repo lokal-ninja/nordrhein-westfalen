@@ -1,5 +1,5 @@
 ---
 title: "Hutzel"
-url: /bochum/hutzel/
+url: /bochum/hutzel-hattinger-strasse/
 shop: Bäckerei
 ---

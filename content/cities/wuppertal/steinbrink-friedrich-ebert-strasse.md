@@ -1,5 +1,5 @@
 ---
 title: "Steinbrink"
-url: /wuppertal/steinbrink/
+url: /wuppertal/steinbrink-friedrich-ebert-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /meckenheim/netto-marken-discount/
+url: /meckenheim/netto-marken-discount-bahnhofstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /duisburg/malzers/
+url: /duisburg/malzers-herbststrasse/
 shop: Bäckerei
 ---

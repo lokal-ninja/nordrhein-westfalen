@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /witten/edeka/
+url: /witten/edeka-pferdebachstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /bonn/vomfass/
+url: /bonn/vomfass-sternstrasse/
 shop: Feinkost
 ---

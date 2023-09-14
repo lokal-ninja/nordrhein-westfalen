@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /menden/rewe/
+url: /menden/rewe-walramstrasse/
 shop: Supermarkt
 ---

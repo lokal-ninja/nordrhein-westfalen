@@ -1,5 +1,5 @@
 ---
 title: "Horsthemke"
-url: /bochum/horsthemke/
+url: /bochum/horsthemke-am-einkaufszentrum/
 shop: Bäckerei
 ---

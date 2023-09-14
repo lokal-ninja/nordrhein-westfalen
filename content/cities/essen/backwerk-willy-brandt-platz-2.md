@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /essen/backwerk/
+url: /essen/backwerk-willy-brandt-platz-2/
 shop: Bäckerei
 ---

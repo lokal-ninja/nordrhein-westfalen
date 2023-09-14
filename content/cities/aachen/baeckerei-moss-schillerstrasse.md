@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Moss"
-url: /aachen/baeckerei-moss/
+url: /aachen/baeckerei-moss-schillerstrasse/
 shop: Bäckerei
 ---

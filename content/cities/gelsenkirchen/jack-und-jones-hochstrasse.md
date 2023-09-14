@@ -1,5 +1,5 @@
 ---
 title: "Jack & Jones"
-url: /gelsenkirchen/jack-und-jones/
+url: /gelsenkirchen/jack-und-jones-hochstrasse/
 shop: Kleidung
 ---

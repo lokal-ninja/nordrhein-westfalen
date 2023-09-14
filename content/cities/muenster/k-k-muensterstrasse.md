@@ -1,5 +1,5 @@
 ---
 title: "K+K"
-url: /muenster/k-k/
+url: /muenster/k-k-muensterstrasse/
 shop: Supermarkt
 ---

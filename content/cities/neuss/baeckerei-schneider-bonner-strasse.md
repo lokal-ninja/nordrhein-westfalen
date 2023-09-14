@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schneider"
-url: /neuss/baeckerei-schneider/
+url: /neuss/baeckerei-schneider-bonner-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dreimann"
-url: /olpe/dreimann/
+url: /olpe/dreimann-franziskanerstrasse/
 shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /dortmund/buesch/
+url: /dortmund/buesch-eichwaldstrasse/
 shop: Bäckerei
 ---

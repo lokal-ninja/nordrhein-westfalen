@@ -1,5 +1,5 @@
 ---
 title: "blumen-Ambiente"
-url: /grevenbroich/blumen-ambiente/
+url: /grevenbroich/blumen-ambiente-provinzstrasse/
 shop: Blumen
 ---

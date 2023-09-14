@@ -1,5 +1,5 @@
 ---
 title: "Elsweiler"
-url: /essen/elsweiler/
+url: /essen/elsweiler-ruettenscheider-strasse/
 shop: Optiker
 ---

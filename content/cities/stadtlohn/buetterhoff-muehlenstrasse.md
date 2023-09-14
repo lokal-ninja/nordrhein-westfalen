@@ -1,5 +1,5 @@
 ---
 title: "Bütterhoff"
-url: /stadtlohn/buetterhoff/
+url: /stadtlohn/buetterhoff-muehlenstrasse/
 shop: Haushaltsartikel
 ---

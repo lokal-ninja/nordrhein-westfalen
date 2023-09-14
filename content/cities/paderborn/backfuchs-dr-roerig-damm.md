@@ -1,5 +1,5 @@
 ---
 title: "Backfuchs"
-url: /paderborn/backfuchs/
+url: /paderborn/backfuchs-dr-roerig-damm/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /recklinghausen/kamps/
+url: /recklinghausen/kamps-loehrhofstrasse/
 shop: Bäckerei
 ---

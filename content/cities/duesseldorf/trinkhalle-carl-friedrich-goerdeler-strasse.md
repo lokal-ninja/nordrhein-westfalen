@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /duesseldorf/trinkhalle/
+url: /duesseldorf/trinkhalle-carl-friedrich-goerdeler-strasse/
 shop: Kiosk
 ---

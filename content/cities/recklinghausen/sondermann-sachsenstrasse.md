@@ -1,5 +1,5 @@
 ---
 title: "Sondermann"
-url: /recklinghausen/sondermann/
+url: /recklinghausen/sondermann-sachsenstrasse/
 shop: Bäckerei
 ---

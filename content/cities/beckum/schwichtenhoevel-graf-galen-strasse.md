@@ -1,5 +1,5 @@
 ---
 title: "Schwichtenhövel"
-url: /beckum/schwichtenhoevel/
+url: /beckum/schwichtenhoevel-graf-galen-strasse/
 shop: Bäckerei
 ---

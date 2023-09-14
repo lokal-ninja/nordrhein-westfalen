@@ -1,5 +1,5 @@
 ---
 title: "Schrunz"
-url: /muenster/schrunz/
+url: /muenster/schrunz-sentmaringer-weg/
 shop: Bäckerei
 ---

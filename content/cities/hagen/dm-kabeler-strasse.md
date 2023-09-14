@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /hagen/dm/
+url: /hagen/dm-kabeler-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bergkamen/lidl/
+url: /bergkamen/lidl-westenhellweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moss"
-url: /eschweiler/moss/
+url: /eschweiler/moss-grabenstrasse/
 shop: Bäckerei
 ---

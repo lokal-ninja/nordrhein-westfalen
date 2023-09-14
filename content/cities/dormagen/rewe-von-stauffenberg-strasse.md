@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /dormagen/rewe/
+url: /dormagen/rewe-von-stauffenberg-strasse/
 shop: Supermarkt
 ---

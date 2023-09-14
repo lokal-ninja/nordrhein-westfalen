@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /erwitte/lange/
+url: /erwitte/lange-bahnhofstrasse/
 shop: Bäckerei
 ---

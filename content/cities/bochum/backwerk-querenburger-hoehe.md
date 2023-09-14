@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /bochum/backwerk/
+url: /bochum/backwerk-querenburger-hoehe/
 shop: Bäckerei
 ---

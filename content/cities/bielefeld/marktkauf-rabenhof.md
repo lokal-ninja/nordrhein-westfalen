@@ -1,5 +1,5 @@
 ---
 title: "MARKTKAUF"
-url: /bielefeld/marktkauf/
+url: /bielefeld/marktkauf-rabenhof/
 shop: Supermarkt
 ---

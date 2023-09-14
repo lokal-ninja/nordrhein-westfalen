@@ -1,5 +1,5 @@
 ---
 title: "Malzers Backstube"
-url: /recklinghausen/malzers-backstube/
+url: /recklinghausen/malzers-backstube-von-bruchhausen-strasse/
 shop: Bäckerei
 ---

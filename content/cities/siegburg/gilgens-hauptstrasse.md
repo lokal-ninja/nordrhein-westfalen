@@ -1,5 +1,5 @@
 ---
 title: "Gilgen's"
-url: /siegburg/gilgens/
+url: /siegburg/gilgens-hauptstrasse/
 shop: Bäckerei
 ---

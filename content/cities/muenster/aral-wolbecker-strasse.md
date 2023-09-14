@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /muenster/aral/
+url: /muenster/aral-wolbecker-strasse/
 shop: Lebensmittel
 ---

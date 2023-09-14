@@ -1,5 +1,5 @@
 ---
 title: "Kosmetik Institut"
-url: /duisburg/kosmetik-institut/
+url: /duisburg/kosmetik-institut-stormstrasse/
 shop: Kosmetik
 ---

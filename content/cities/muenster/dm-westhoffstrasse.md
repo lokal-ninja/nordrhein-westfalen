@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /muenster/dm/
+url: /muenster/dm-westhoffstrasse/
 shop: Drogerie
 ---

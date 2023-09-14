@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /iserlohn/kik/
+url: /iserlohn/kik-brinkhofstrasse/
 shop: Kleidung
 ---

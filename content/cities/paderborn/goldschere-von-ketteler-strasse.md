@@ -1,5 +1,5 @@
 ---
 title: "Goldschere"
-url: /paderborn/goldschere/
+url: /paderborn/goldschere-von-ketteler-strasse/
 shop: Friseur
 ---

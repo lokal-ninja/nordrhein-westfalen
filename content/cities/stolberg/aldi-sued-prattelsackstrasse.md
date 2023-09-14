@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /stolberg/aldi-sued/
+url: /stolberg/aldi-sued-prattelsackstrasse/
 shop: Supermarkt
 ---

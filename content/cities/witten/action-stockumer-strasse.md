@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /witten/action/
+url: /witten/action-stockumer-strasse/
 shop: Kramladen
 ---

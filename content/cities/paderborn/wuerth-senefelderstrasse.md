@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /paderborn/wuerth/
+url: /paderborn/wuerth-senefelderstrasse/
 shop: Eisenwaren
 ---

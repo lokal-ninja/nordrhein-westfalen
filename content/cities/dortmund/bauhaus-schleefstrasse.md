@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /dortmund/bauhaus/
+url: /dortmund/bauhaus-schleefstrasse/
 shop: Baumarkt
 ---

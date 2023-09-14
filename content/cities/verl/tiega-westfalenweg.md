@@ -1,5 +1,5 @@
 ---
 title: "TieGa"
-url: /verl/tiega/
+url: /verl/tiega-westfalenweg/
 shop: Tiere
 ---

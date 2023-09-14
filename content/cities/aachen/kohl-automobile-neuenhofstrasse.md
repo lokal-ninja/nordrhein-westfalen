@@ -1,5 +1,5 @@
 ---
 title: "Kohl Automobile"
-url: /aachen/kohl-automobile/
+url: /aachen/kohl-automobile-neuenhofstrasse/
 shop: Autohaus
 ---

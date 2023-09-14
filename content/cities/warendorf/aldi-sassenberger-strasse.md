@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /warendorf/aldi/
+url: /warendorf/aldi-sassenberger-strasse/
 shop: Supermarkt
 ---

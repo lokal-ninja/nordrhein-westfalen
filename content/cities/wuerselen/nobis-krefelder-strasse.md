@@ -1,5 +1,5 @@
 ---
 title: "Nobis"
-url: /wuerselen/nobis/
+url: /wuerselen/nobis-krefelder-strasse/
 shop: Bäckerei
 ---

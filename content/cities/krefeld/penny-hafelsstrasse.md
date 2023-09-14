@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /krefeld/penny/
+url: /krefeld/penny-hafelsstrasse/
 shop: Supermarkt
 ---

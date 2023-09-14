@@ -1,5 +1,5 @@
 ---
 title: "Elli"
-url: /lippstadt/elli/
+url: /lippstadt/elli-am-nordbahnhof/
 shop: Supermarkt
 ---

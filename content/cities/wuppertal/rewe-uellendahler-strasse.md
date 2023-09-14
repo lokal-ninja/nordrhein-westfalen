@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /wuppertal/rewe/
+url: /wuppertal/rewe-uellendahler-strasse/
 shop: Supermarkt
 ---

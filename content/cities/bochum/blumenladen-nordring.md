@@ -1,5 +1,5 @@
 ---
 title: "Blumenladen"
-url: /bochum/blumenladen/
+url: /bochum/blumenladen-nordring/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /krefeld/lidl/
+url: /krefeld/lidl-gahlingspfad/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Rolf"
-url: /bielefeld/baeckerei-rolf/
+url: /bielefeld/baeckerei-rolf-westerfeldstrasse/
 shop: Bäckerei
 ---

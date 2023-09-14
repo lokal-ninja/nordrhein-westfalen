@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /duesseldorf/dm/
+url: /duesseldorf/dm-carlsplatz/
 shop: Drogerie
 ---

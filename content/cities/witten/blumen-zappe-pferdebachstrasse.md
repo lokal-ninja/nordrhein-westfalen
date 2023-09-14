@@ -1,5 +1,5 @@
 ---
 title: "Blumen Zappe"
-url: /witten/blumen-zappe/
+url: /witten/blumen-zappe-pferdebachstrasse/
 shop: Blumen
 ---

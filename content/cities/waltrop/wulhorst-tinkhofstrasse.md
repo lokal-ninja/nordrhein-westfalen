@@ -1,5 +1,5 @@
 ---
 title: "Wulhorst"
-url: /waltrop/wulhorst/
+url: /waltrop/wulhorst-tinkhofstrasse/
 shop: Hofladen
 ---

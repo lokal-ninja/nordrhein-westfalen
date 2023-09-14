@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /bielefeld/aldi/
+url: /bielefeld/aldi-braker-strasse/
 shop: Supermarkt
 ---

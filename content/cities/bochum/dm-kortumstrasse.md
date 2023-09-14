@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bochum/dm/
+url: /bochum/dm-kortumstrasse/
 shop: Drogerie
 ---

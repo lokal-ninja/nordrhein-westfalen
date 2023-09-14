@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /recklinghausen/hundm/
+url: /recklinghausen/hundm-loehrhof/
 shop: Kleidung
 ---

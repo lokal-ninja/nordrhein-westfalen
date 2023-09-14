@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /meerbusch/rewe/
+url: /meerbusch/rewe-hessenweg/
 shop: Supermarkt
 ---

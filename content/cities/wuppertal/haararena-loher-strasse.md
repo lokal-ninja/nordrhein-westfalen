@@ -1,5 +1,5 @@
 ---
 title: "Haararena"
-url: /wuppertal/haararena/
+url: /wuppertal/haararena-loher-strasse/
 shop: Friseur
 ---

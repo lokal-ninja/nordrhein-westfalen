@@ -1,5 +1,5 @@
 ---
 title: "Günnewich"
-url: /luegde/guennewich/
+url: /luegde/guennewich-hauptstrasse/
 shop: Metzgerei
 ---

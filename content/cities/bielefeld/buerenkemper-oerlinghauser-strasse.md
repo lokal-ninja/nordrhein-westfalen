@@ -1,5 +1,5 @@
 ---
 title: "Bürenkemper"
-url: /bielefeld/buerenkemper/
+url: /bielefeld/buerenkemper-oerlinghauser-strasse/
 shop: Bäckerei
 ---

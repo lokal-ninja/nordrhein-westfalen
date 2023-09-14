@@ -1,5 +1,5 @@
 ---
 title: "Geiping"
-url: /haltern-am-see/geiping/
+url: /haltern-am-see/geiping-muensterstrasse/
 shop: Bäckerei
 ---

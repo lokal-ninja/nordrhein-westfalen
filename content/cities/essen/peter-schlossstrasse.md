@@ -1,5 +1,5 @@
 ---
 title: "Peter"
-url: /essen/peter/
+url: /essen/peter-schlossstrasse/
 shop: Bäckerei
 ---

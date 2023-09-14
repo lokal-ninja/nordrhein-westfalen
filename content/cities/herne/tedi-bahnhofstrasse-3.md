@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /herne/tedi/
+url: /herne/tedi-bahnhofstrasse-3/
 shop: Kramladen
 ---

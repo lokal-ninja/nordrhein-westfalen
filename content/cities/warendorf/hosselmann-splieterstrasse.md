@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /warendorf/hosselmann/
+url: /warendorf/hosselmann-splieterstrasse/
 shop: Bäckerei
 ---

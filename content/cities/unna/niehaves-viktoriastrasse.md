@@ -1,5 +1,5 @@
 ---
 title: "Niehaves"
-url: /unna/niehaves/
+url: /unna/niehaves-viktoriastrasse/
 shop: Bäckerei
 ---

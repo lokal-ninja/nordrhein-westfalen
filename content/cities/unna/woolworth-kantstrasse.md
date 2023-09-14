@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /unna/woolworth/
+url: /unna/woolworth-kantstrasse/
 shop: Warenhaus
 ---

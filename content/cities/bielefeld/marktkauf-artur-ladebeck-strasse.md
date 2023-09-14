@@ -1,5 +1,5 @@
 ---
 title: "Marktkauf"
-url: /bielefeld/marktkauf/
+url: /bielefeld/marktkauf-artur-ladebeck-strasse/
 shop: Supermarkt
 ---

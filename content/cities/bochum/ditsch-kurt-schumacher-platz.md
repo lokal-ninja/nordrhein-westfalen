@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /bochum/ditsch/
+url: /bochum/ditsch-kurt-schumacher-platz/
 shop: Bäckerei
 ---

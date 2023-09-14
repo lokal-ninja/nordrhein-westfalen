@@ -1,5 +1,5 @@
 ---
 title: "SB-Waschsalon"
-url: /bielefeld/sb-waschsalon/
+url: /bielefeld/sb-waschsalon-elbeallee/
 shop: Wäscherei
 ---

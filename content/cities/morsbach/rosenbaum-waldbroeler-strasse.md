@@ -1,5 +1,5 @@
 ---
 title: "Rosenbaum"
-url: /morsbach/rosenbaum/
+url: /morsbach/rosenbaum-waldbroeler-strasse/
 shop: Metzgerei
 ---

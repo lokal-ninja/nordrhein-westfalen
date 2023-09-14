@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /luedenscheid/rewe/
+url: /luedenscheid/rewe-bromberger-strasse/
 shop: Supermarkt
 ---

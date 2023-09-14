@@ -1,5 +1,5 @@
 ---
 title: "Waschsalon"
-url: /koeln/waschsalon/
+url: /koeln/waschsalon-giessener-strasse/
 shop: Wäscherei
 ---

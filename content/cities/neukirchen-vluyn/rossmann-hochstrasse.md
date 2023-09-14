@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /neukirchen-vluyn/rossmann/
+url: /neukirchen-vluyn/rossmann-hochstrasse/
 shop: Drogerie
 ---

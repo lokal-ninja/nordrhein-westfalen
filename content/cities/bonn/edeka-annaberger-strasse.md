@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /bonn/edeka/
+url: /bonn/edeka-annaberger-strasse/
 shop: Supermarkt
 ---

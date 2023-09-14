@@ -1,5 +1,5 @@
 ---
 title: "Mertens"
-url: /paderborn/mertens/
+url: /paderborn/mertens-detmolder-strasse/
 shop: Bäckerei
 ---

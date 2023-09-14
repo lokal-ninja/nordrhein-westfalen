@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /euskirchen/aral/
+url: /euskirchen/aral-koelner-strasse/
 shop: Allgemein
 ---

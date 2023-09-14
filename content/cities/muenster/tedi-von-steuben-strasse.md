@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /muenster/tedi/
+url: /muenster/tedi-von-steuben-strasse/
 shop: Kramladen
 ---

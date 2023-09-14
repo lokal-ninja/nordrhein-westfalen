@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /bochum/trinkhalle/
+url: /bochum/trinkhalle-herner-strasse/
 shop: Kiosk
 ---

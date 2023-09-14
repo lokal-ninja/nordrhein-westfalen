@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /stolberg-rhld/edeka/
+url: /stolberg-rhld/edeka-eisenbahnstrasse/
 shop: Supermarkt
 ---

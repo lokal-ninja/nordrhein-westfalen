@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /harsewinkel/rewe/
+url: /harsewinkel/rewe-alte-brockhaeger-strasse/
 shop: Supermarkt
 ---

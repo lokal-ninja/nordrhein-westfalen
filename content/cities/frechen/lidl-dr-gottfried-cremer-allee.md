@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /frechen/lidl/
+url: /frechen/lidl-dr-gottfried-cremer-allee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /krefeld/trinkgut/
+url: /krefeld/trinkgut-birkschenweg/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /dortmund/kik/
+url: /dortmund/kik-brackeler-hellweg/
 shop: Kleidung
 ---

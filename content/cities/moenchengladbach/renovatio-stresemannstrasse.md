@@ -1,5 +1,5 @@
 ---
 title: "RenoVatio"
-url: /moenchengladbach/renovatio/
+url: /moenchengladbach/renovatio-stresemannstrasse/
 shop: Sanitätshaus
 ---

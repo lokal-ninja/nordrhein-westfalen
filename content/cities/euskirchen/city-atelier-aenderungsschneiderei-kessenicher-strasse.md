@@ -1,5 +1,5 @@
 ---
 title: "City Atelier Änderungsschneiderei"
-url: /euskirchen/city-atelier-aenderungsschneiderei/
+url: /euskirchen/city-atelier-aenderungsschneiderei-kessenicher-strasse/
 shop: Schneiderei
 ---

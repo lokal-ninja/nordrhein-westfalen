@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /muelheim-an-der-ruhr/thalia/
+url: /muelheim-an-der-ruhr/thalia-hans-boeckler-platz/
 shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /duisburg/action/
+url: /duisburg/action-auf-der-hoehe/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hillebrand"
-url: /bad-wuennenberg/hillebrand/
+url: /bad-wuennenberg/hillebrand-forstenburgstrasse/
 shop: Kleidung
 ---

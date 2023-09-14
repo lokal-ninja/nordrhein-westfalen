@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /aachen/tedi/
+url: /aachen/tedi-loehergraben/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hesse"
-url: /lennestadt/hesse/
+url: /lennestadt/hesse-bielefelder-strasse/
 shop: Bäckerei
 ---

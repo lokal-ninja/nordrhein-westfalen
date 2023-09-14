@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /ratingen/rewe/
+url: /ratingen/rewe-europaring/
 shop: Supermarkt
 ---

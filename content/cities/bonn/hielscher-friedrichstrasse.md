@@ -1,5 +1,5 @@
 ---
 title: "Hielscher"
-url: /bonn/hielscher/
+url: /bonn/hielscher-friedrichstrasse/
 shop: Metzgerei
 ---

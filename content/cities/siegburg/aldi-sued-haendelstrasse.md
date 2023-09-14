@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /siegburg/aldi-sued/
+url: /siegburg/aldi-sued-haendelstrasse/
 shop: Supermarkt
 ---

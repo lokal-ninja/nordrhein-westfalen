@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /duesseldorf/jysk/
+url: /duesseldorf/jysk-erkrather-strasse/
 shop: Möbel
 ---

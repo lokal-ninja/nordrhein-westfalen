@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /koeln/kodi/
+url: /koeln/kodi-deutzer-freiheit/
 shop: Haushaltsartikel
 ---

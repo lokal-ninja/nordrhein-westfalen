@@ -1,5 +1,5 @@
 ---
 title: "Reformhaus Bacher"
-url: /aachen/reformhaus-bacher/
+url: /aachen/reformhaus-bacher-adalbertstrasse/
 shop: Bioladen
 ---

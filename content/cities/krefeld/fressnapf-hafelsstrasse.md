@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /krefeld/fressnapf/
+url: /krefeld/fressnapf-hafelsstrasse/
 shop: Tiere
 ---

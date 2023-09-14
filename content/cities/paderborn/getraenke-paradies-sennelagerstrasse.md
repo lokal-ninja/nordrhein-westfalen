@@ -1,5 +1,5 @@
 ---
 title: "Getränke Paradies"
-url: /paderborn/getraenke-paradies/
+url: /paderborn/getraenke-paradies-sennelagerstrasse/
 shop: Getränke
 ---

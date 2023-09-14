@@ -1,5 +1,5 @@
 ---
 title: "Bolten"
-url: /moers/bolten/
+url: /moers/bolten-franz-haniel-strasse/
 shop: Bäckerei
 ---

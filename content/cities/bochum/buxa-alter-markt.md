@@ -1,5 +1,5 @@
 ---
 title: "Buxa"
-url: /bochum/buxa/
+url: /bochum/buxa-alter-markt/
 shop: Optiker
 ---

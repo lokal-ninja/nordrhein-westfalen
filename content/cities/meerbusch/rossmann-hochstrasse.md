@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /meerbusch/rossmann/
+url: /meerbusch/rossmann-hochstrasse/
 shop: Drogerie
 ---

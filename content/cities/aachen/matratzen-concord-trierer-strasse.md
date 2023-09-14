@@ -1,5 +1,5 @@
 ---
 title: "Matratzen Concord"
-url: /aachen/matratzen-concord/
+url: /aachen/matratzen-concord-trierer-strasse/
 shop: Betten
 ---

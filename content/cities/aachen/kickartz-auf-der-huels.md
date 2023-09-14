@@ -1,5 +1,5 @@
 ---
 title: "Kickartz"
-url: /aachen/kickartz/
+url: /aachen/kickartz-auf-der-huels/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Horsthemke"
-url: /essen/horsthemke/
+url: /essen/horsthemke-corneliusstrasse/
 shop: Bäckerei
 ---

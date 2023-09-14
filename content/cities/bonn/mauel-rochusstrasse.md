@@ -1,5 +1,5 @@
 ---
 title: "Mauel"
-url: /bonn/mauel/
+url: /bonn/mauel-rochusstrasse/
 shop: Bäckerei
 ---

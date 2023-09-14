@@ -1,5 +1,5 @@
 ---
 title: "Gilgen's"
-url: /bonn/gilgens/
+url: /bonn/gilgens-puetzstrasse/
 shop: Bäckerei
 ---

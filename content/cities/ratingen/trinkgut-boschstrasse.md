@@ -1,5 +1,5 @@
 ---
 title: "trinkgut"
-url: /ratingen/trinkgut/
+url: /ratingen/trinkgut-boschstrasse/
 shop: Getränke
 ---

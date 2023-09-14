@@ -1,5 +1,5 @@
 ---
 title: "Ernsting"
-url: /wesel/ernsting/
+url: /wesel/ernsting-schermbecker-landstrasse/
 shop: Bäckerei
 ---

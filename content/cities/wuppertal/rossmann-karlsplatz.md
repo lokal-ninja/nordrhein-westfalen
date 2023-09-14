@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wuppertal/rossmann/
+url: /wuppertal/rossmann-karlsplatz/
 shop: Drogerie
 ---

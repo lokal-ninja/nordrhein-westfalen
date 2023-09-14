@@ -1,5 +1,5 @@
 ---
 title: "Steinbrink"
-url: /remscheid/steinbrink/
+url: /remscheid/steinbrink-alleestrasse/
 shop: Bäckerei
 ---

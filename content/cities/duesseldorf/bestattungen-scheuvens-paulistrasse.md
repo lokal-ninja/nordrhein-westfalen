@@ -1,5 +1,5 @@
 ---
 title: "Bestattungen Scheuvens"
-url: /duesseldorf/bestattungen-scheuvens/
+url: /duesseldorf/bestattungen-scheuvens-paulistrasse/
 shop: Bestattungen
 ---

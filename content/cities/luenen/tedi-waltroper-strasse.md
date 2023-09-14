@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /luenen/tedi/
+url: /luenen/tedi-waltroper-strasse/
 shop: Kramladen
 ---

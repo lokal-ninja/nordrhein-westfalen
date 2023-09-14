@@ -1,5 +1,5 @@
 ---
 title: "Skiverleih Klante"
-url: /winterberg/skiverleih-klante/
+url: /winterberg/skiverleih-klante-herrlohweg/
 shop: Mieten
 ---

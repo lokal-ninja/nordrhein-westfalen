@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /datteln/netto-marken-discount/
+url: /datteln/netto-marken-discount-ostring/
 shop: Supermarkt
 ---

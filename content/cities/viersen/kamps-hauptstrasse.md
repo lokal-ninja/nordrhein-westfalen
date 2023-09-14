@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /viersen/kamps/
+url: /viersen/kamps-hauptstrasse/
 shop: Bäckerei
 ---

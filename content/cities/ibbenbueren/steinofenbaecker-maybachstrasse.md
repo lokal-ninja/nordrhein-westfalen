@@ -1,5 +1,5 @@
 ---
 title: "Steinofenbäcker"
-url: /ibbenbueren/steinofenbaecker/
+url: /ibbenbueren/steinofenbaecker-maybachstrasse/
 shop: Bäckerei
 ---

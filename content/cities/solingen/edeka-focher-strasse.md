@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /solingen/edeka/
+url: /solingen/edeka-focher-strasse/
 shop: Supermarkt
 ---

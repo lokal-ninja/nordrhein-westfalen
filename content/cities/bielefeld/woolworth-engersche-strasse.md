@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /bielefeld/woolworth/
+url: /bielefeld/woolworth-engersche-strasse/
 shop: Warenhaus
 ---

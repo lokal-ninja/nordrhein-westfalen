@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /siegburg/dm/
+url: /siegburg/dm-luisenstrasse/
 shop: Drogerie
 ---

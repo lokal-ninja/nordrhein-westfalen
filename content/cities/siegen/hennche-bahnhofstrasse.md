@@ -1,5 +1,5 @@
 ---
 title: "Hennche"
-url: /siegen/hennche/
+url: /siegen/hennche-bahnhofstrasse/
 shop: Metzgerei
 ---

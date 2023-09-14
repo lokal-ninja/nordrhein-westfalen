@@ -1,5 +1,5 @@
 ---
 title: "Siemes Schuhcenter"
-url: /dortmund/siemes-schuhcenter/
+url: /dortmund/siemes-schuhcenter-wambeler-hellweg/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /hagen/penny/
+url: /hagen/penny-schwerter-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /wuppertal/tedi/
+url: /wuppertal/tedi-alte-freiheit/
 shop: Kramladen
 ---

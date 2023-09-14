@@ -1,5 +1,5 @@
 ---
 title: "Bodis"
-url: /witten/bodis/
+url: /witten/bodis-brauckstrasse/
 shop: Baustoffe
 ---

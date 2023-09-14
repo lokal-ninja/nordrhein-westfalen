@@ -1,5 +1,5 @@
 ---
 title: "Werning"
-url: /ibbenbueren/werning/
+url: /ibbenbueren/werning-alte-muensterstrasse/
 shop: Bäckerei
 ---

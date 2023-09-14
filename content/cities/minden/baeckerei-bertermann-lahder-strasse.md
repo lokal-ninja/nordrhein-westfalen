@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Bertermann"
-url: /minden/baeckerei-bertermann/
+url: /minden/baeckerei-bertermann-lahder-strasse/
 shop: Bäckerei
 ---

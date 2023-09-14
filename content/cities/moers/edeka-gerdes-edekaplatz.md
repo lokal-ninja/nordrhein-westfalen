@@ -1,5 +1,5 @@
 ---
 title: "EDEKA GERDES"
-url: /moers/edeka-gerdes/
+url: /moers/edeka-gerdes-edekaplatz/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puppe"
-url: /duesseldorf/puppe/
+url: /duesseldorf/puppe-muensterstrasse/
 shop: Bäckerei
 ---

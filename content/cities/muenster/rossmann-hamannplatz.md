@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /muenster/rossmann/
+url: /muenster/rossmann-hamannplatz/
 shop: Drogerie
 ---

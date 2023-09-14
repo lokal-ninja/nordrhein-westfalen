@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /paderborn/lange/
+url: /paderborn/lange-bielefelder-strasse/
 shop: Bäckerei
 ---

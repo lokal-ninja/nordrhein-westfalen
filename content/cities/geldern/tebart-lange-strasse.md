@@ -1,5 +1,5 @@
 ---
 title: "Tebart"
-url: /geldern/tebart/
+url: /geldern/tebart-lange-strasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Verspohl"
-url: /altenberge/baeckerei-verspohl/
+url: /altenberge/baeckerei-verspohl-muensterstrasse/
 shop: Bäckerei
 ---

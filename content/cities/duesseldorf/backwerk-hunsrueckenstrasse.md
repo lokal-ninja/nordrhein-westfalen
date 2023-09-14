@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /duesseldorf/backwerk/
+url: /duesseldorf/backwerk-hunsrueckenstrasse/
 shop: Bäckerei
 ---

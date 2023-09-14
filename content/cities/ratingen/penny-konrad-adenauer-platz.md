@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /ratingen/penny/
+url: /ratingen/penny-konrad-adenauer-platz/
 shop: Supermarkt
 ---

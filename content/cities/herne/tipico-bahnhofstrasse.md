@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /herne/tipico/
+url: /herne/tipico-bahnhofstrasse/
 shop: Wettbüro
 ---

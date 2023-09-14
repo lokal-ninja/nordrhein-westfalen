@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /gelsenkirchen/christ/
+url: /gelsenkirchen/christ-bahnhofstrasse/
 shop: Schmuck
 ---

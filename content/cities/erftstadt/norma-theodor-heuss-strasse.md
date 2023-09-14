@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /erftstadt/norma/
+url: /erftstadt/norma-theodor-heuss-strasse/
 shop: Supermarkt
 ---

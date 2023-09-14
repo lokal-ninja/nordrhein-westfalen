@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /schwalmtal/kamps/
+url: /schwalmtal/kamps-galgheide/
 shop: Bäckerei
 ---

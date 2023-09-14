@@ -1,5 +1,5 @@
 ---
 title: "Eisenjansen"
-url: /aachen/eisenjansen/
+url: /aachen/eisenjansen-lukasstrasse/
 shop: Großhandel
 ---

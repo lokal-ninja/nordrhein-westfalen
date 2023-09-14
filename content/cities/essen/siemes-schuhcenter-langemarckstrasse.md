@@ -1,5 +1,5 @@
 ---
 title: "Siemes Schuhcenter"
-url: /essen/siemes-schuhcenter/
+url: /essen/siemes-schuhcenter-langemarckstrasse/
 shop: Schuhe
 ---

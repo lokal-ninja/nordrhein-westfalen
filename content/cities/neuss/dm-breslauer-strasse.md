@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /neuss/dm/
+url: /neuss/dm-breslauer-strasse/
 shop: Drogerie
 ---

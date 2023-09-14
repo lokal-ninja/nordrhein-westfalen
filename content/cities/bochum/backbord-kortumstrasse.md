@@ -1,5 +1,5 @@
 ---
 title: "Backbord"
-url: /bochum/backbord/
+url: /bochum/backbord-kortumstrasse/
 shop: Bäckerei
 ---

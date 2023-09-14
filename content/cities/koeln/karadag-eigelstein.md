@@ -1,5 +1,5 @@
 ---
 title: "Karadag"
-url: /koeln/karadag/
+url: /koeln/karadag-eigelstein/
 shop: Supermarkt
 ---

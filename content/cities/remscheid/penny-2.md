@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /remscheid/penny/
+url: /remscheid/penny-2/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lechtermann"
-url: /bielefeld/lechtermann/
+url: /bielefeld/lechtermann-an-der-tonkuhle/
 shop: Bäckerei
 ---

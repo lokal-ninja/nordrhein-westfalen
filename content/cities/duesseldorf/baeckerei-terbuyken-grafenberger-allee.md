@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Terbuyken"
-url: /duesseldorf/baeckerei-terbuyken/
+url: /duesseldorf/baeckerei-terbuyken-grafenberger-allee/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /krefeld/edeka/
+url: /krefeld/edeka-gutenbergstrasse/
 shop: Supermarkt
 ---

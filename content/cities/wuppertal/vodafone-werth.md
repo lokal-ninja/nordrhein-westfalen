@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /wuppertal/vodafone/
+url: /wuppertal/vodafone-werth/
 shop: Handy
 ---

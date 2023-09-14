@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bielefeld/netto-marken-discount/
+url: /bielefeld/netto-marken-discount-beckhausstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krämer"
-url: /voerde-niederrhein/kraemer/
+url: /voerde-niederrhein/kraemer-bahnhofstrasse/
 shop: Reisebüro
 ---

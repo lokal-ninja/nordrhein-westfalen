@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /minden/rossmann/
+url: /minden/rossmann-baeckerstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "tipwin Sportwetten"
-url: /essen/tipwin-sportwetten/
+url: /essen/tipwin-sportwetten-altendorfer-strasse/
 shop: Wettbüro
 ---

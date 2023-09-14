@@ -1,5 +1,5 @@
 ---
 title: "Doebbe"
-url: /essen/doebbe/
+url: /essen/doebbe-2/
 shop: Bäckerei
 ---

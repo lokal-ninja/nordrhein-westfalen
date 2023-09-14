@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /ratingen/rossmann/
+url: /ratingen/rossmann-bechemer-strasse/
 shop: Drogerie
 ---

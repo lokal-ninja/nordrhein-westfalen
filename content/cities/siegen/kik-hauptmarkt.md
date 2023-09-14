@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /siegen/kik/
+url: /siegen/kik-hauptmarkt/
 shop: Kleidung
 ---

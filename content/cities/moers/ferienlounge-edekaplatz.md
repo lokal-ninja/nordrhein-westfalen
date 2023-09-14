@@ -1,5 +1,5 @@
 ---
 title: "ferienlounge"
-url: /moers/ferienlounge/
+url: /moers/ferienlounge-edekaplatz/
 shop: Reisebüro
 ---

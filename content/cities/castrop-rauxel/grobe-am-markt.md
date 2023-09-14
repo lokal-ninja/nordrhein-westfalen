@@ -1,5 +1,5 @@
 ---
 title: "Grobe"
-url: /castrop-rauxel/grobe/
+url: /castrop-rauxel/grobe-am-markt/
 shop: Bäckerei
 ---

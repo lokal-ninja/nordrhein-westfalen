@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /gladbeck/tedi/
+url: /gladbeck/tedi-hochstrasse/
 shop: Kramladen
 ---

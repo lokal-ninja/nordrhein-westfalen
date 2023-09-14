@@ -1,5 +1,5 @@
 ---
 title: "KODI"
-url: /hagen/kodi/
+url: /hagen/kodi-mittelstrasse/
 shop: Warenhaus
 ---

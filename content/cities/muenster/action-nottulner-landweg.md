@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /muenster/action/
+url: /muenster/action-nottulner-landweg/
 shop: Kramladen
 ---

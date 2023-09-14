@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /marl/trinkgut/
+url: /marl/trinkgut-ottostrasse/
 shop: Getränke
 ---

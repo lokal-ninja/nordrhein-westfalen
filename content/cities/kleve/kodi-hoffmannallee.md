@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /kleve/kodi/
+url: /kleve/kodi-hoffmannallee/
 shop: Haushaltsartikel
 ---

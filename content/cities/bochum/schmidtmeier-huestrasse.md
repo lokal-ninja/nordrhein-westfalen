@@ -1,5 +1,5 @@
 ---
 title: "Schmidtmeier"
-url: /bochum/schmidtmeier/
+url: /bochum/schmidtmeier-huestrasse/
 shop: Bäckerei
 ---

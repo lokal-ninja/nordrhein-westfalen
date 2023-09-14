@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /dortmund/woolworth/
+url: /dortmund/woolworth-ringofenstrasse/
 shop: Warenhaus
 ---

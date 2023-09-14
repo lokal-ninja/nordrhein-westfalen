@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /goch/netto-marken-discount/
+url: /goch/netto-marken-discount-triftstrasse/
 shop: Supermarkt
 ---

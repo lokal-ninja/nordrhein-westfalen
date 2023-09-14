@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /wuppertal/deichmann/
+url: /wuppertal/deichmann-alter-markt/
 shop: Schuhe
 ---

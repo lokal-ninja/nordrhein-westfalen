@@ -1,5 +1,5 @@
 ---
 title: "SuperBioMarkt"
-url: /essen/superbiomarkt/
+url: /essen/superbiomarkt-ruettenscheider-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /duesseldorf/apollo-optik/
+url: /duesseldorf/apollo-optik-westfalenstrasse/
 shop: Optiker
 ---

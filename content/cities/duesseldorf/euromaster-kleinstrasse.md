@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /duesseldorf/euromaster/
+url: /duesseldorf/euromaster-kleinstrasse/
 shop: Autowerkstatt
 ---

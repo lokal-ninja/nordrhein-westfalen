@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /koenigswinter/nkd/
+url: /koenigswinter/nkd-siegburger-strasse/
 shop: Kleidung
 ---

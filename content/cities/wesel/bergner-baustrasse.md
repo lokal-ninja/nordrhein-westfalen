@@ -1,5 +1,5 @@
 ---
 title: "Bergner"
-url: /wesel/bergner/
+url: /wesel/bergner-baustrasse/
 shop: Wäscherei
 ---

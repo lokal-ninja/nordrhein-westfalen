@@ -1,5 +1,5 @@
 ---
 title: "Thiesbrummel"
-url: /guetersloh/thiesbrummel/
+url: /guetersloh/thiesbrummel-verler-strasse/
 shop: Bäckerei
 ---

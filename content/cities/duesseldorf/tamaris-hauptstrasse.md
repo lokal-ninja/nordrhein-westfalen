@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
-url: /duesseldorf/tamaris/
+url: /duesseldorf/tamaris-hauptstrasse/
 shop: Schuhe
 ---

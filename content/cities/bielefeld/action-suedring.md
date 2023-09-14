@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /bielefeld/action/
+url: /bielefeld/action-suedring/
 shop: Kramladen
 ---

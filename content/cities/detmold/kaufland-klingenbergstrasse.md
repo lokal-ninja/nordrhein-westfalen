@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /detmold/kaufland/
+url: /detmold/kaufland-klingenbergstrasse/
 shop: Supermarkt
 ---

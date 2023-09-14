@@ -1,5 +1,5 @@
 ---
 title: "Kind Hörgeräte"
-url: /gelsenkirchen/kind-hoergeraete/
+url: /gelsenkirchen/kind-hoergeraete-essener-strasse/
 shop: Hörgeräte
 ---

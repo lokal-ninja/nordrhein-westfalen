@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /bochum/malzers/
+url: /bochum/malzers-dr-c-otto-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gerwens"
-url: /gronau/gerwens/
+url: /gronau/gerwens-gronauer-strasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /duisburg/dm/
+url: /duisburg/dm-sternbuschweg/
 shop: Drogerie
 ---

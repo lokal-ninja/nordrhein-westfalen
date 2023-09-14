@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bottrop/rossmann/
+url: /bottrop/rossmann-schulze-delitzsch-strasse/
 shop: Drogerie
 ---

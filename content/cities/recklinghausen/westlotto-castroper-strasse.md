@@ -1,5 +1,5 @@
 ---
 title: "WestLotto"
-url: /recklinghausen/westlotto/
+url: /recklinghausen/westlotto-castroper-strasse/
 shop: Lotterie
 ---

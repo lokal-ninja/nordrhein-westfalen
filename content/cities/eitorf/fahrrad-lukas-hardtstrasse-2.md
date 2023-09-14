@@ -1,5 +1,5 @@
 ---
 title: "Fahrrad Lukas"
-url: /eitorf/fahrrad-lukas/
+url: /eitorf/fahrrad-lukas-hardtstrasse-2/
 shop: Fahrrad
 ---

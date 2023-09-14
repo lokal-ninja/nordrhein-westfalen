@@ -1,5 +1,5 @@
 ---
 title: "Zumnorde"
-url: /dortmund/zumnorde/
+url: /dortmund/zumnorde-hansastrasse/
 shop: Schuhe
 ---

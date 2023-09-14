@@ -1,5 +1,5 @@
 ---
 title: "SuperBioMarkt"
-url: /muenster/superbiomarkt/
+url: /muenster/superbiomarkt-ludgeristrasse/
 shop: Supermarkt
 ---

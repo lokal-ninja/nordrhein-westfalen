@@ -1,5 +1,5 @@
 ---
 title: "Spross"
-url: /recklinghausen/spross/
+url: /recklinghausen/spross-franz-bracht-strasse/
 shop: Bäckerei
 ---

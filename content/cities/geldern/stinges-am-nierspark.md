@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /geldern/stinges/
+url: /geldern/stinges-am-nierspark/
 shop: Bäckerei
 ---

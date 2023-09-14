@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /niederkassel/rewe/
+url: /niederkassel/rewe-porzer-strasse/
 shop: Supermarkt
 ---

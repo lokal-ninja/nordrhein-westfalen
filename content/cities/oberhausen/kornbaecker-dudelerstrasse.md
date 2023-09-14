@@ -1,5 +1,5 @@
 ---
 title: "Kornbäcker"
-url: /oberhausen/kornbaecker/
+url: /oberhausen/kornbaecker-dudelerstrasse/
 shop: Bäckerei
 ---

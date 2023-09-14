@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /delbrueck/lange/
+url: /delbrueck/lange-suedstrasse/
 shop: Bäckerei
 ---

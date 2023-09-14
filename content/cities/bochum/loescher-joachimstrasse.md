@@ -1,5 +1,5 @@
 ---
 title: "Löscher"
-url: /bochum/loescher/
+url: /bochum/loescher-joachimstrasse/
 shop: Bäckerei
 ---

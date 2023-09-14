@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /lippstadt/penny/
+url: /lippstadt/penny-overhagener-strasse/
 shop: Supermarkt
 ---

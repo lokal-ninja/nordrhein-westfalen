@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /bochum/hundm/
+url: /bochum/hundm-am-einkaufszentrum/
 shop: Kleidung
 ---

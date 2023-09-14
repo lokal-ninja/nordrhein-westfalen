@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /beckum/hosselmann/
+url: /beckum/hosselmann-hauptstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /bonn/wuerth/
+url: /bonn/wuerth-maarstrasse/
 shop: Eisenwaren
 ---

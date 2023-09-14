@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /dortmund/penny/
+url: /dortmund/penny-luetgendortmunder-strasse/
 shop: Supermarkt
 ---

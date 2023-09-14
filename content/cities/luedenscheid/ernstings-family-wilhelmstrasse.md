@@ -1,5 +1,5 @@
 ---
 title: "Ernsting's family"
-url: /luedenscheid/ernstings-family/
+url: /luedenscheid/ernstings-family-wilhelmstrasse/
 shop: Kleidung
 ---

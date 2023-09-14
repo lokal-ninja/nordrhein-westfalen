@@ -1,5 +1,5 @@
 ---
 title: "VOVIS"
-url: /muenster/vovis/
+url: /muenster/vovis-albersloher-weg/
 shop: Autowerkstatt
 ---

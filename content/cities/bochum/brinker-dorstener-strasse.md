@@ -1,5 +1,5 @@
 ---
 title: "Brinker"
-url: /bochum/brinker/
+url: /bochum/brinker-dorstener-strasse/
 shop: Bäckerei
 ---

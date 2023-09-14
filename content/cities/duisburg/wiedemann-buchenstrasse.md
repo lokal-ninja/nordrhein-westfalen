@@ -1,5 +1,5 @@
 ---
 title: "Wiedemann"
-url: /duisburg/wiedemann/
+url: /duisburg/wiedemann-buchenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /beckum/vodafone/
+url: /beckum/vodafone-nordstrasse/
 shop: Handy
 ---

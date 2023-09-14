@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /kerpen/aldi-sued/
+url: /kerpen/aldi-sued-stiftsstrasse/
 shop: Supermarkt
 ---

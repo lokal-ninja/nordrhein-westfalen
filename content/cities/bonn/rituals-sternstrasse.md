@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /bonn/rituals/
+url: /bonn/rituals-sternstrasse/
 shop: Kosmetik
 ---

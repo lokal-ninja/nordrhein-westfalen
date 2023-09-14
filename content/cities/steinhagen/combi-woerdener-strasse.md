@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /steinhagen/combi/
+url: /steinhagen/combi-woerdener-strasse/
 shop: Supermarkt
 ---

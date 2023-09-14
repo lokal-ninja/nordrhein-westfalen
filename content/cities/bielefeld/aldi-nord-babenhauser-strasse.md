@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /bielefeld/aldi-nord/
+url: /bielefeld/aldi-nord-babenhauser-strasse/
 shop: Supermarkt
 ---

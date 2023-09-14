@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /essen/woolworth/
+url: /essen/woolworth-kettwiger-strasse/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /wuppertal/netto-marken-discount/
+url: /wuppertal/netto-marken-discount-unterdoernen/
 shop: Supermarkt
 ---

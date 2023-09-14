@@ -1,5 +1,5 @@
 ---
 title: "Bestattungen Fröhning"
-url: /herdecke/bestattungen-froehning/
+url: /herdecke/bestattungen-froehning-kirchender-dorfweg/
 shop: Bestattungen
 ---

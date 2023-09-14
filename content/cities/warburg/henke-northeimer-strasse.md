@@ -1,5 +1,5 @@
 ---
 title: "Henke"
-url: /warburg/henke/
+url: /warburg/henke-northeimer-strasse/
 shop: Bäckerei
 ---

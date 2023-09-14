@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /hilden/getraenke-hoffmann/
+url: /hilden/getraenke-hoffmann-herderstrasse/
 shop: Getränke
 ---

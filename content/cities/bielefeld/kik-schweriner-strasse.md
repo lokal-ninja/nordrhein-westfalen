@@ -1,5 +1,5 @@
 ---
 title: "KIK"
-url: /bielefeld/kik/
+url: /bielefeld/kik-schweriner-strasse/
 shop: Kleidung
 ---

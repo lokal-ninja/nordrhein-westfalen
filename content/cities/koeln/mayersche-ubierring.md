@@ -1,5 +1,5 @@
 ---
 title: "Mayersche"
-url: /koeln/mayersche/
+url: /koeln/mayersche-ubierring/
 shop: Bücher
 ---

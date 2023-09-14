@@ -1,5 +1,5 @@
 ---
 title: "Combi"
-url: /salzkotten/combi/
+url: /salzkotten/combi-zum-dingfeld/
 shop: Supermarkt
 ---

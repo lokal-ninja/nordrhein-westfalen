@@ -1,5 +1,5 @@
 ---
 title: "GEERS"
-url: /duesseldorf/geers/
+url: /duesseldorf/geers-friedrichstrasse/
 shop: Hörgeräte
 ---

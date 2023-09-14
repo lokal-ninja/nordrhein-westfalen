@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /duesseldorf/kik/
+url: /duesseldorf/kik-kurt-schumacher-strasse/
 shop: Kleidung
 ---

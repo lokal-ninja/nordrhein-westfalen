@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /neuss/cunda/
+url: /neuss/cunda-breslauer-strasse/
 shop: Kleidung
 ---

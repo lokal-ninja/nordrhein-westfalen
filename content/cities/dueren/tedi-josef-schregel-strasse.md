@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /dueren/tedi/
+url: /dueren/tedi-josef-schregel-strasse/
 shop: Kramladen
 ---

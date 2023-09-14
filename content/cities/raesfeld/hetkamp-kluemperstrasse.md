@@ -1,5 +1,5 @@
 ---
 title: "Hetkamp"
-url: /raesfeld/hetkamp/
+url: /raesfeld/hetkamp-kluemperstrasse/
 shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lüningmeyer"
-url: /ascheberg/lueningmeyer/
+url: /ascheberg/lueningmeyer-bultenstrasse/
 shop: Bäckerei
 ---

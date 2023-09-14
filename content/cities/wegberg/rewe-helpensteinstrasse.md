@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /wegberg/rewe/
+url: /wegberg/rewe-helpensteinstrasse/
 shop: Supermarkt
 ---

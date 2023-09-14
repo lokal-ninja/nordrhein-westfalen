@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Brinker"
-url: /gladbeck/baeckerei-brinker/
+url: /gladbeck/baeckerei-brinker-horster-strasse/
 shop: Bäckerei
 ---

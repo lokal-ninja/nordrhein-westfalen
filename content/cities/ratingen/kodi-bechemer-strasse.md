@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /ratingen/kodi/
+url: /ratingen/kodi-bechemer-strasse/
 shop: Haushaltsartikel
 ---

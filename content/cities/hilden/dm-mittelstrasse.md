@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /hilden/dm/
+url: /hilden/dm-mittelstrasse/
 shop: Drogerie
 ---

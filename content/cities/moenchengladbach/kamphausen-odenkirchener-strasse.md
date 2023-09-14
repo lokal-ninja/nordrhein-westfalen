@@ -1,5 +1,5 @@
 ---
 title: "Kamphausen"
-url: /moenchengladbach/kamphausen/
+url: /moenchengladbach/kamphausen-odenkirchener-strasse/
 shop: Bäckerei
 ---

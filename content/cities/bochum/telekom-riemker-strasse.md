@@ -1,5 +1,5 @@
 ---
 title: "Telekom"
-url: /bochum/telekom/
+url: /bochum/telekom-riemker-strasse/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /neuss/backwerk/
+url: /neuss/backwerk-niederstrasse/
 shop: Bäckerei
 ---

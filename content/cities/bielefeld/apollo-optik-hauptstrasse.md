@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /bielefeld/apollo-optik/
+url: /bielefeld/apollo-optik-hauptstrasse/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /wuppertal/cunda/
+url: /wuppertal/cunda-werth/
 shop: Kleidung
 ---

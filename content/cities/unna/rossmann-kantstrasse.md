@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /unna/rossmann/
+url: /unna/rossmann-kantstrasse/
 shop: Drogerie
 ---

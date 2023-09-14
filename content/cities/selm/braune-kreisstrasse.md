@@ -1,5 +1,5 @@
 ---
 title: "Braune"
-url: /selm/braune/
+url: /selm/braune-kreisstrasse/
 shop: Bäckerei
 ---

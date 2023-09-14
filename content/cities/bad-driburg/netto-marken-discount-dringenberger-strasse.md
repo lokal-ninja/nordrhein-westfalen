@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bad-driburg/netto-marken-discount/
+url: /bad-driburg/netto-marken-discount-dringenberger-strasse/
 shop: Supermarkt
 ---

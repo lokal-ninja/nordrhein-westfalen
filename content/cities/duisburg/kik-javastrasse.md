@@ -1,5 +1,5 @@
 ---
 title: "Kik"
-url: /duisburg/kik/
+url: /duisburg/kik-javastrasse/
 shop: Kleidung
 ---

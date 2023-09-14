@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schneider"
-url: /duesseldorf/baeckerei-schneider/
+url: /duesseldorf/baeckerei-schneider-wormser-weg/
 shop: Bäckerei
 ---

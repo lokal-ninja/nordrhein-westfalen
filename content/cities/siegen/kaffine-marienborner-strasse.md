@@ -1,5 +1,5 @@
 ---
 title: "Kaffine"
-url: /siegen/kaffine/
+url: /siegen/kaffine-marienborner-strasse/
 shop: Friseur
 ---

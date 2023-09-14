@@ -1,5 +1,5 @@
 ---
 title: "Vorbohle"
-url: /langenberg/vorbohle/
+url: /langenberg/vorbohle-hans-boeckler-strasse/
 shop: Bäckerei
 ---

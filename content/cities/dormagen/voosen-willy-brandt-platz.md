@@ -1,5 +1,5 @@
 ---
 title: "Voosen"
-url: /dormagen/voosen/
+url: /dormagen/voosen-willy-brandt-platz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
-url: /paderborn/vergoelst/
+url: /paderborn/vergoelst-detmolder-strasse/
 shop: Reifen
 ---

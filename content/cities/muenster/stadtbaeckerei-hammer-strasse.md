@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei"
-url: /muenster/stadtbaeckerei/
+url: /muenster/stadtbaeckerei-hammer-strasse/
 shop: Bäckerei
 ---

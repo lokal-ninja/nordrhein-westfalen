@@ -1,5 +1,5 @@
 ---
 title: "Marktkauf"
-url: /guetersloh/marktkauf/
+url: /guetersloh/marktkauf-hans-boeckler-strasse/
 shop: Supermarkt
 ---

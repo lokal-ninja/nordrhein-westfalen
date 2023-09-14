@@ -1,5 +1,5 @@
 ---
 title: "Blumen Risse"
-url: /soest/blumen-risse/
+url: /soest/blumen-risse-roemerweg/
 shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /warendorf/kik/
+url: /warendorf/kik-industriestrasse/
 shop: Kleidung
 ---

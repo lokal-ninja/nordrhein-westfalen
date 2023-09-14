@@ -1,5 +1,5 @@
 ---
 title: "Heisters"
-url: /koeln/heisters/
+url: /koeln/heisters-luelsdorfer-strasse/
 shop: Bäckerei
 ---

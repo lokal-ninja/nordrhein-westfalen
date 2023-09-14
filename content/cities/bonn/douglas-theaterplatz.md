@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /bonn/douglas/
+url: /bonn/douglas-theaterplatz/
 shop: Parfümerie
 ---

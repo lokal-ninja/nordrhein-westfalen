@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bottrop/rossmann/
+url: /bottrop/rossmann-gladbecker-strasse/
 shop: Drogerie
 ---

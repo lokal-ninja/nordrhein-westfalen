@@ -1,5 +1,5 @@
 ---
 title: "Sprungmann"
-url: /dorsten/sprungmann/
+url: /dorsten/sprungmann-marler-strasse/
 shop: Autowerkstatt
 ---

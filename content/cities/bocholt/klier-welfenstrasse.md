@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /bocholt/klier/
+url: /bocholt/klier-welfenstrasse/
 shop: Friseur
 ---

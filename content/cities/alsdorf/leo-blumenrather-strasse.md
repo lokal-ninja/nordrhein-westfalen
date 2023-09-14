@@ -1,5 +1,5 @@
 ---
 title: "LEO"
-url: /alsdorf/leo/
+url: /alsdorf/leo-blumenrather-strasse/
 shop: Bäckerei
 ---

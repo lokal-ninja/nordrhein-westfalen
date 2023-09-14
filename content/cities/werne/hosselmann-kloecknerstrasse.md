@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /werne/hosselmann/
+url: /werne/hosselmann-kloecknerstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /koeln/backwerk/
+url: /koeln/backwerk-chlodwigplatz/
 shop: Bäckerei
 ---

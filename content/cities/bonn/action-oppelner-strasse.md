@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /bonn/action/
+url: /bonn/action-oppelner-strasse/
 shop: Kramladen
 ---

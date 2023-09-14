@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /bielefeld/nahkauf/
+url: /bielefeld/nahkauf-epiphanienweg/
 shop: Supermarkt
 ---

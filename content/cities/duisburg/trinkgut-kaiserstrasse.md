@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /duisburg/trinkgut/
+url: /duisburg/trinkgut-kaiserstrasse/
 shop: Getränke
 ---

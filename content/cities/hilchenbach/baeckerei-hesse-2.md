@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Hesse"
-url: /hilchenbach/baeckerei-hesse/
+url: /hilchenbach/baeckerei-hesse-2/
 shop: Bäckerei
 ---

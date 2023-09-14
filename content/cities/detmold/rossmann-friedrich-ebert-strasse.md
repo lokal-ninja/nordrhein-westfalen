@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /detmold/rossmann/
+url: /detmold/rossmann-friedrich-ebert-strasse/
 shop: Drogerie
 ---

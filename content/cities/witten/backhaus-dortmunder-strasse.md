@@ -1,5 +1,5 @@
 ---
 title: "Backhaus"
-url: /witten/backhaus/
+url: /witten/backhaus-dortmunder-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /dortmund/jysk/
+url: /dortmund/jysk-wulfshofstrasse/
 shop: Möbel
 ---

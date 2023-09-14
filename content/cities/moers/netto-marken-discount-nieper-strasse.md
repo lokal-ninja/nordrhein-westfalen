@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /moers/netto-marken-discount/
+url: /moers/netto-marken-discount-nieper-strasse/
 shop: Supermarkt
 ---

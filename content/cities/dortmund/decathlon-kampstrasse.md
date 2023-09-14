@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /dortmund/decathlon/
+url: /dortmund/decathlon-kampstrasse/
 shop: Sport
 ---

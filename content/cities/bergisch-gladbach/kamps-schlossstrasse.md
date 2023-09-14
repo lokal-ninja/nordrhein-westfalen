@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /bergisch-gladbach/kamps/
+url: /bergisch-gladbach/kamps-schlossstrasse/
 shop: Bäckerei
 ---

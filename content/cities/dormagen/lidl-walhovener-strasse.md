@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /dormagen/lidl/
+url: /dormagen/lidl-walhovener-strasse/
 shop: Supermarkt
 ---

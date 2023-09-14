@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /koeln/tedi/
+url: /koeln/tedi-strassburger-platz/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mensing"
-url: /reken/mensing/
+url: /reken/mensing-bahnhofstrasse/
 shop: Bäckerei
 ---

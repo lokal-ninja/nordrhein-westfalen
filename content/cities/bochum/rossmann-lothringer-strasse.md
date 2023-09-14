@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /bochum/rossmann/
+url: /bochum/rossmann-lothringer-strasse/
 shop: Drogerie
 ---

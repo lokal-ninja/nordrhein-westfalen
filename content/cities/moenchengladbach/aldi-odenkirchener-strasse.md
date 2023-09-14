@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /moenchengladbach/aldi/
+url: /moenchengladbach/aldi-odenkirchener-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /herne/kodi/
+url: /herne/kodi-hauptstrasse/
 shop: Haushaltsartikel
 ---

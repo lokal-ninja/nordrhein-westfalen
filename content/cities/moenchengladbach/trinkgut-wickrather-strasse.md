@@ -1,5 +1,5 @@
 ---
 title: "Trinkgut"
-url: /moenchengladbach/trinkgut/
+url: /moenchengladbach/trinkgut-wickrather-strasse/
 shop: Getränke
 ---

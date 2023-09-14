@@ -1,5 +1,5 @@
 ---
 title: "Matratzen Concord"
-url: /bielefeld/matratzen-concord/
+url: /bielefeld/matratzen-concord-joellenbecker-strasse/
 shop: Betten
 ---

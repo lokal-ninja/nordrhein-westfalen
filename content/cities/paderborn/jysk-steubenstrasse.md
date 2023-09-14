@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /paderborn/jysk/
+url: /paderborn/jysk-steubenstrasse/
 shop: Möbel
 ---

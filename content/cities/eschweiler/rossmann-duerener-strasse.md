@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /eschweiler/rossmann/
+url: /eschweiler/rossmann-duerener-strasse/
 shop: Drogerie
 ---

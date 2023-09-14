@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /leverkusen/edeka/
+url: /leverkusen/edeka-theodor-adorno-strasse/
 shop: Supermarkt
 ---

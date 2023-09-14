@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /muenster/edeka/
+url: /muenster/edeka-von-schonebeck-ring/
 shop: Supermarkt
 ---

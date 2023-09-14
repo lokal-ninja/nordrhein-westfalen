@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /duesseldorf/kaufland/
+url: /duesseldorf/kaufland-friedrichstrasse/
 shop: Supermarkt
 ---

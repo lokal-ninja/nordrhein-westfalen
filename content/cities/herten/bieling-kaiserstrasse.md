@@ -1,5 +1,5 @@
 ---
 title: "Bieling"
-url: /herten/bieling/
+url: /herten/bieling-kaiserstrasse/
 shop: Autowerkstatt
 ---

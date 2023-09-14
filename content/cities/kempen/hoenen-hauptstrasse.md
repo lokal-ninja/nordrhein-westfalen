@@ -1,5 +1,5 @@
 ---
 title: "Hoenen"
-url: /kempen/hoenen/
+url: /kempen/hoenen-hauptstrasse/
 shop: Bäckerei
 ---

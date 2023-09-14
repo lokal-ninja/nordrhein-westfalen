@@ -1,5 +1,5 @@
 ---
 title: "Postenbörse"
-url: /ibbenbueren/postenboerse/
+url: /ibbenbueren/postenboerse-gravenhorster-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thies"
-url: /marl/thies/
+url: /marl/thies-roemerstrasse/
 shop: Bäckerei
 ---

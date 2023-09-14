@@ -1,5 +1,5 @@
 ---
 title: "Hövelmann"
-url: /recklinghausen/hoevelmann/
+url: /recklinghausen/hoevelmann-amelandstrasse/
 shop: Bäckerei
 ---

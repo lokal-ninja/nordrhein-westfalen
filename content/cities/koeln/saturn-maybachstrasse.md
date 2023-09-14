@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /koeln/saturn/
+url: /koeln/saturn-maybachstrasse/
 shop: Elektronik
 ---

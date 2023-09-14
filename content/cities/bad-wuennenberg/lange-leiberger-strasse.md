@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /bad-wuennenberg/lange/
+url: /bad-wuennenberg/lange-leiberger-strasse/
 shop: Bäckerei
 ---

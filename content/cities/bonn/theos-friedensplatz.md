@@ -1,5 +1,5 @@
 ---
 title: "Theo's"
-url: /bonn/theos/
+url: /bonn/theos-friedensplatz/
 shop: Bäckerei
 ---

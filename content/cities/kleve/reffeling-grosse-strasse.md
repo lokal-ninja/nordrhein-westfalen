@@ -1,5 +1,5 @@
 ---
 title: "Reffeling"
-url: /kleve/reffeling/
+url: /kleve/reffeling-grosse-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /koeln/mediamarkt/
+url: /koeln/mediamarkt-max-planck-strasse/
 shop: Elektronik
 ---

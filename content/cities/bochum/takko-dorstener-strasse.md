@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /bochum/takko/
+url: /bochum/takko-dorstener-strasse/
 shop: Kleidung
 ---

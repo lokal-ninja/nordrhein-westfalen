@@ -1,5 +1,5 @@
 ---
 title: "Klingenstein"
-url: /essen/klingenstein/
+url: /essen/klingenstein-paulinenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Radsport Noll"
-url: /dortmund/radsport-noll/
+url: /dortmund/radsport-noll-muensterstrasse/
 shop: Fahrrad
 ---

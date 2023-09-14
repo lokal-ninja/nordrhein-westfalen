@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /paderborn/kaufland/
+url: /paderborn/kaufland-bentelerstrasse/
 shop: Supermarkt
 ---

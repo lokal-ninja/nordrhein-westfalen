@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bochum/deichmann/
+url: /bochum/deichmann-alter-markt/
 shop: Schuhe
 ---

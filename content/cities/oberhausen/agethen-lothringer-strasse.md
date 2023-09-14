@@ -1,5 +1,5 @@
 ---
 title: "Agethen"
-url: /oberhausen/agethen/
+url: /oberhausen/agethen-lothringer-strasse/
 shop: Bäckerei
 ---

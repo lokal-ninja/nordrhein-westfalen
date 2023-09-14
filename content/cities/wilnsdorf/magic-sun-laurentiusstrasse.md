@@ -1,5 +1,5 @@
 ---
 title: "Magic Sun"
-url: /wilnsdorf/magic-sun/
+url: /wilnsdorf/magic-sun-laurentiusstrasse/
 shop: Kosmetik
 ---

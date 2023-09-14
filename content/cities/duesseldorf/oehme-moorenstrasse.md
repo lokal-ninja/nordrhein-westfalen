@@ -1,5 +1,5 @@
 ---
 title: "Oehme"
-url: /duesseldorf/oehme/
+url: /duesseldorf/oehme-moorenstrasse/
 shop: Bäckerei
 ---

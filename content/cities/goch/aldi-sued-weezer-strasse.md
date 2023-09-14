@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /goch/aldi-sued/
+url: /goch/aldi-sued-weezer-strasse/
 shop: Supermarkt
 ---

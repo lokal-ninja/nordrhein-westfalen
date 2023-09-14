@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /dorsten/malzers/
+url: /dorsten/malzers-haendelstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bochum/vodafone/
+url: /bochum/vodafone-kortumstrasse/
 shop: Handy
 ---

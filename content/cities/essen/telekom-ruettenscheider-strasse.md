@@ -1,5 +1,5 @@
 ---
 title: "Telekom"
-url: /essen/telekom/
+url: /essen/telekom-ruettenscheider-strasse/
 shop: Handy
 ---

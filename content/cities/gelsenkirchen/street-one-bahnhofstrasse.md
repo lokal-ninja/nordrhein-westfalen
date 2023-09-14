@@ -1,5 +1,5 @@
 ---
 title: "Street One"
-url: /gelsenkirchen/street-one/
+url: /gelsenkirchen/street-one-bahnhofstrasse/
 shop: Kleidung
 ---

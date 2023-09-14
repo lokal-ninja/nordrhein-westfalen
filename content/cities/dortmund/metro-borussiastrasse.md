@@ -1,5 +1,5 @@
 ---
 title: "METRO"
-url: /dortmund/metro/
+url: /dortmund/metro-borussiastrasse/
 shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /bochum/hunkemoeller/
+url: /bochum/hunkemoeller-kortumstrasse/
 shop: Kleidung
 ---

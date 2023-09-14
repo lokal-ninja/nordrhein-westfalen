@@ -1,5 +1,5 @@
 ---
 title: "Hertrampf"
-url: /wesel/hertrampf/
+url: /wesel/hertrampf-hohe-strasse/
 shop: Bäckerei
 ---

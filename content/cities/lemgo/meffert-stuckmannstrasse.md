@@ -1,5 +1,5 @@
 ---
 title: "Meffert"
-url: /lemgo/meffert/
+url: /lemgo/meffert-stuckmannstrasse/
 shop: Bäckerei
 ---

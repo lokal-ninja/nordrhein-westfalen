@@ -1,5 +1,5 @@
 ---
 title: "Hachmann's Backstube"
-url: /recklinghausen/hachmanns-backstube/
+url: /recklinghausen/hachmanns-backstube-muensterstrasse/
 shop: Bäckerei
 ---

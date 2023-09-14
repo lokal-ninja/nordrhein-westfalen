@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Hövelmann"
-url: /recklinghausen/baeckerei-hoevelmann/
+url: /recklinghausen/baeckerei-hoevelmann-loehrhof/
 shop: Bäckerei
 ---

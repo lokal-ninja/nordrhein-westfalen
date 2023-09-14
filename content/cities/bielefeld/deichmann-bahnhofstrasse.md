@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /bielefeld/deichmann/
+url: /bielefeld/deichmann-bahnhofstrasse/
 shop: Schuhe
 ---

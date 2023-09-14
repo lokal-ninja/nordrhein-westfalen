@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /muenster/hellweg/
+url: /muenster/hellweg-loddenheide/
 shop: Baumarkt
 ---

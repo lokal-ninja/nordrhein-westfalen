@@ -1,5 +1,5 @@
 ---
 title: "Leo"
-url: /aachen/leo/
+url: /aachen/leo-steinkaulplatz/
 shop: Bäckerei
 ---

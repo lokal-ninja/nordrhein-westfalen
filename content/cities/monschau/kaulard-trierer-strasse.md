@@ -1,5 +1,5 @@
 ---
 title: "Kaulard"
-url: /monschau/kaulard/
+url: /monschau/kaulard-trierer-strasse/
 shop: Schmuck
 ---

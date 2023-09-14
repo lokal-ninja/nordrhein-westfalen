@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /gelsenkirchen/kik/
+url: /gelsenkirchen/kik-markenstrasse/
 shop: Kleidung
 ---

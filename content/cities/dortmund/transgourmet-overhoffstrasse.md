@@ -1,5 +1,5 @@
 ---
 title: "TransGourmet"
-url: /dortmund/transgourmet/
+url: /dortmund/transgourmet-overhoffstrasse/
 shop: Großhandel
 ---

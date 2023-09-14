@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /kreuztal/rewe/
+url: /kreuztal/rewe-hagener-strasse/
 shop: Supermarkt
 ---

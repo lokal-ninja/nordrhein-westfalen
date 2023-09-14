@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /krefeld/kamps/
+url: /krefeld/kamps-2/
 shop: Bäckerei
 ---

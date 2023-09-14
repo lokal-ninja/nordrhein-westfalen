@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /erftstadt/dm/
+url: /erftstadt/dm-dirmerzheimer-strasse/
 shop: Drogerie
 ---

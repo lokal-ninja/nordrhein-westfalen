@@ -1,5 +1,5 @@
 ---
 title: "Vielhaber"
-url: /arnsberg/vielhaber/
+url: /arnsberg/vielhaber-heinrich-luebke-strasse/
 shop: Bäckerei
 ---

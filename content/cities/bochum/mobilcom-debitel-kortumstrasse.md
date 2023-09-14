@@ -1,5 +1,5 @@
 ---
 title: "Mobilcom Debitel"
-url: /bochum/mobilcom-debitel/
+url: /bochum/mobilcom-debitel-kortumstrasse/
 shop: Handy
 ---

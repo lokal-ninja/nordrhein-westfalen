@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /gelsenkirchen/aldi-nord/
+url: /gelsenkirchen/aldi-nord-buschgrundstrasse/
 shop: Supermarkt
 ---

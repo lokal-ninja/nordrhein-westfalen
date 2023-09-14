@@ -1,5 +1,5 @@
 ---
 title: "Imping"
-url: /marl/imping/
+url: /marl/imping-bachackerweg/
 shop: Bäckerei
 ---

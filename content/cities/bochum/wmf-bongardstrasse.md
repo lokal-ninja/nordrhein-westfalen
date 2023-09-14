@@ -1,5 +1,5 @@
 ---
 title: "WMF"
-url: /bochum/wmf/
+url: /bochum/wmf-bongardstrasse/
 shop: Haushaltsartikel
 ---

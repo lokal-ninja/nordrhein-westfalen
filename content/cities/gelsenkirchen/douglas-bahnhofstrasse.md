@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /gelsenkirchen/douglas/
+url: /gelsenkirchen/douglas-bahnhofstrasse/
 shop: Parfümerie
 ---

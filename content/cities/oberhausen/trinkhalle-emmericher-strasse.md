@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /oberhausen/trinkhalle/
+url: /oberhausen/trinkhalle-emmericher-strasse/
 shop: Getränke
 ---

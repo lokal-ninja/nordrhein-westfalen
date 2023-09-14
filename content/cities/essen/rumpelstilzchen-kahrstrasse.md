@@ -1,5 +1,5 @@
 ---
 title: "Rumpelstilzchen"
-url: /essen/rumpelstilzchen/
+url: /essen/rumpelstilzchen-kahrstrasse/
 shop: Antiquitäten
 ---

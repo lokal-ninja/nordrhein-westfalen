@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Klostermann"
-url: /muenster/baeckerei-klostermann/
+url: /muenster/baeckerei-klostermann-marktallee/
 shop: Bäckerei
 ---

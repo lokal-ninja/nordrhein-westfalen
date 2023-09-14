@@ -1,5 +1,5 @@
 ---
 title: "Hit"
-url: /niederkassel/hit/
+url: /niederkassel/hit-staufenstrasse/
 shop: Getränke
 ---

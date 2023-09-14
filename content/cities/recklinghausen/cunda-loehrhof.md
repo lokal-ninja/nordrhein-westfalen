@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /recklinghausen/cunda/
+url: /recklinghausen/cunda-loehrhof/
 shop: Kleidung
 ---

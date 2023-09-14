@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /herne/penny/
+url: /herne/penny-bismarckstrasse/
 shop: Supermarkt
 ---

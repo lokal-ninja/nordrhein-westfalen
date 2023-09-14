@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /steinheim/rewe/
+url: /steinheim/rewe-am-piepenbrink/
 shop: Supermarkt
 ---

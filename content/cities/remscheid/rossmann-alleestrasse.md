@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /remscheid/rossmann/
+url: /remscheid/rossmann-alleestrasse/
 shop: Drogerie
 ---

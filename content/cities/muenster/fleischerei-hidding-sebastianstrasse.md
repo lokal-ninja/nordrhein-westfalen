@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Hidding"
-url: /muenster/fleischerei-hidding/
+url: /muenster/fleischerei-hidding-sebastianstrasse/
 shop: Metzgerei
 ---

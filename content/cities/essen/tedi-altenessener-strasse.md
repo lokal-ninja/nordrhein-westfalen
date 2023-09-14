@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /essen/tedi/
+url: /essen/tedi-altenessener-strasse/
 shop: Kramladen
 ---

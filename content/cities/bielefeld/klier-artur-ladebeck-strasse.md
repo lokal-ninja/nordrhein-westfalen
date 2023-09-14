@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /bielefeld/klier/
+url: /bielefeld/klier-artur-ladebeck-strasse/
 shop: Friseur
 ---

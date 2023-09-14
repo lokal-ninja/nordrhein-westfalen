@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /krefeld/deichmann/
+url: /krefeld/deichmann-hafelsstrasse/
 shop: Schuhe
 ---

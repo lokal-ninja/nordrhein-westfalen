@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /krefeld/tedi/
+url: /krefeld/tedi-huelser-strasse/
 shop: Kramladen
 ---

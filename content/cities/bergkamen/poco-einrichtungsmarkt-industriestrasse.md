@@ -1,5 +1,5 @@
 ---
 title: "Poco Einrichtungsmarkt"
-url: /bergkamen/poco-einrichtungsmarkt/
+url: /bergkamen/poco-einrichtungsmarkt-industriestrasse/
 shop: Möbel
 ---

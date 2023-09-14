@@ -1,5 +1,5 @@
 ---
 title: "Kamm"
-url: /hagen/kamm/
+url: /hagen/kamm-bahnstrasse/
 shop: Bäckerei
 ---

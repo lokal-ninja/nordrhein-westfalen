@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /castrop-rauxel/malzers/
+url: /castrop-rauxel/malzers-dortmunder-strasse/
 shop: Bäckerei
 ---

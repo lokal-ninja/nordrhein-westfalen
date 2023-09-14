@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /gladbeck/kik/
+url: /gladbeck/kik-hochstrasse/
 shop: Kleidung
 ---

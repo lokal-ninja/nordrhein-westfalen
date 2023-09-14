@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /viersen/rossmann/
+url: /viersen/rossmann-bruchweg/
 shop: Drogerie
 ---

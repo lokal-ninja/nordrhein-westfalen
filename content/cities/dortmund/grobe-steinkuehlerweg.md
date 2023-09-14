@@ -1,5 +1,5 @@
 ---
 title: "Grobe"
-url: /dortmund/grobe/
+url: /dortmund/grobe-steinkuehlerweg/
 shop: Bäckerei
 ---

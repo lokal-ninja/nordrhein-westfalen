@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /frechen/rossmann/
+url: /frechen/rossmann-hauptstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldbörse"
-url: /bielefeld/goldboerse/
+url: /bielefeld/goldboerse-hauptstrasse/
 shop: Leiher
 ---

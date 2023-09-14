@@ -1,5 +1,5 @@
 ---
 title: "Baudach"
-url: /witten/baudach/
+url: /witten/baudach-annenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /marl/malzers/
+url: /marl/malzers-breddenkampstrasse/
 shop: Bäckerei
 ---

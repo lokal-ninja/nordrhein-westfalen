@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /bochum/bonita/
+url: /bochum/bonita-kortumstrasse/
 shop: Kleidung
 ---

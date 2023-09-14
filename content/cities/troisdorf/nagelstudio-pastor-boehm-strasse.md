@@ -1,5 +1,5 @@
 ---
 title: "Nagelstudio"
-url: /troisdorf/nagelstudio/
+url: /troisdorf/nagelstudio-pastor-boehm-strasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "pitstop"
-url: /dortmund/pitstop/
+url: /dortmund/pitstop-wambeler-hellweg/
 shop: Autowerkstatt
 ---

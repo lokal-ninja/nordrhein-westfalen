@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /wuppertal/woolworth/
+url: /wuppertal/woolworth-bendahler-strasse/
 shop: Warenhaus
 ---

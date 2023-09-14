@@ -1,5 +1,5 @@
 ---
 title: "Geiping"
-url: /marl/geiping/
+url: /marl/geiping-duemmerweg/
 shop: Bäckerei
 ---

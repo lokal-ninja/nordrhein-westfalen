@@ -1,5 +1,5 @@
 ---
 title: "KaufBar"
-url: /viersen/kaufbar/
+url: /viersen/kaufbar-krefelder-strasse/
 shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mayersche"
-url: /bochum/mayersche/
+url: /bochum/mayersche-am-einkaufszentrum/
 shop: Bücher
 ---

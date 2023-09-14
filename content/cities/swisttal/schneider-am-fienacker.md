@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /swisttal/schneider/
+url: /swisttal/schneider-am-fienacker/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merzenich"
-url: /koeln/merzenich/
+url: /koeln/merzenich-deutzer-freiheit/
 shop: Bäckerei
 ---

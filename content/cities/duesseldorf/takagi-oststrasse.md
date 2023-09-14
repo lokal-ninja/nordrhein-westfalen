@@ -1,5 +1,5 @@
 ---
 title: "Takagi"
-url: /duesseldorf/takagi/
+url: /duesseldorf/takagi-oststrasse/
 shop: Anime
 ---

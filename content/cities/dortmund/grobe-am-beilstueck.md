@@ -1,5 +1,5 @@
 ---
 title: "Grobe"
-url: /dortmund/grobe/
+url: /dortmund/grobe-am-beilstueck/
 shop: Bäckerei
 ---

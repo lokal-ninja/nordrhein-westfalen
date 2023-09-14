@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /gelsenkirchen/hunkemoeller/
+url: /gelsenkirchen/hunkemoeller-bahnhofstrasse/
 shop: Kleidung
 ---

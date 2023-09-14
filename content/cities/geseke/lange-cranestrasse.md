@@ -1,5 +1,5 @@
 ---
 title: "Lange"
-url: /geseke/lange/
+url: /geseke/lange-cranestrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /dortmund/dm/
+url: /dortmund/dm-schleefstrasse/
 shop: Drogerie
 ---

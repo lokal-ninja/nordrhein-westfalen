@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /essen/apollo-optik/
+url: /essen/apollo-optik-haedenkampstrasse/
 shop: Optiker
 ---

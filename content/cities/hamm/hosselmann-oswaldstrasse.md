@@ -1,5 +1,5 @@
 ---
 title: "Hosselmann"
-url: /hamm/hosselmann/
+url: /hamm/hosselmann-oswaldstrasse/
 shop: Bäckerei
 ---

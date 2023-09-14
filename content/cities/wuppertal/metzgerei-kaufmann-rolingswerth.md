@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Kaufmann"
-url: /wuppertal/metzgerei-kaufmann/
+url: /wuppertal/metzgerei-kaufmann-rolingswerth/
 shop: Metzgerei
 ---

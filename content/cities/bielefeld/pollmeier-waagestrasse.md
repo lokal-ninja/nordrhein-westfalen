@@ -1,5 +1,5 @@
 ---
 title: "Pollmeier"
-url: /bielefeld/pollmeier/
+url: /bielefeld/pollmeier-waagestrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star Kiosk"
-url: /bielefeld/star-kiosk/
+url: /bielefeld/star-kiosk-arndtstrasse/
 shop: Kiosk
 ---

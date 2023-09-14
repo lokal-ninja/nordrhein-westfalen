@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /herten/aldi-nord/
+url: /herten/aldi-nord-ewaldstrasse/
 shop: Supermarkt
 ---

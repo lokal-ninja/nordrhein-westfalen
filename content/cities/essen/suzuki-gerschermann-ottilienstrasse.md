@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Gerschermann"
-url: /essen/suzuki-gerschermann/
+url: /essen/suzuki-gerschermann-ottilienstrasse/
 shop: Autohaus
 ---

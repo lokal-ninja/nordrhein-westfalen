@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /duisburg/tedi/
+url: /duisburg/tedi-friedrich-ebert-strasse/
 shop: Kramladen
 ---

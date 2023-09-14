@@ -1,5 +1,5 @@
 ---
 title: "Petite Papeterie Drange"
-url: /essen/petite-papeterie-drange/
+url: /essen/petite-papeterie-drange-laubenweg/
 shop: Lotterie
 ---

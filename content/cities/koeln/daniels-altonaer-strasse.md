@@ -1,5 +1,5 @@
 ---
 title: "Daniels"
-url: /koeln/daniels/
+url: /koeln/daniels-altonaer-strasse/
 shop: Getränke
 ---

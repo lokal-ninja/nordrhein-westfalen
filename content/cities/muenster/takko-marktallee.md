@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /muenster/takko/
+url: /muenster/takko-marktallee/
 shop: Kleidung
 ---

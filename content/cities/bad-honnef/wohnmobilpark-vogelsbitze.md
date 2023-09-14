@@ -1,5 +1,5 @@
 ---
 title: "Wohnmobilpark"
-url: /bad-honnef/wohnmobilpark/
+url: /bad-honnef/wohnmobilpark-vogelsbitze/
 shop: Autohaus
 ---

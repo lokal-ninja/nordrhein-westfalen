@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /gummersbach/aldi-nord/
+url: /gummersbach/aldi-nord-gelpestrasse/
 shop: Supermarkt
 ---

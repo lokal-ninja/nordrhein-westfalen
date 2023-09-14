@@ -1,5 +1,5 @@
 ---
 title: "Die Raumgestalter"
-url: /paderborn/die-raumgestalter/
+url: /paderborn/die-raumgestalter-westernmauer/
 shop: Raumausstattung
 ---

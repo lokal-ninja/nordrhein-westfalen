@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /gelsenkirchen/tipico/
+url: /gelsenkirchen/tipico-arminstrasse/
 shop: Wettbüro
 ---

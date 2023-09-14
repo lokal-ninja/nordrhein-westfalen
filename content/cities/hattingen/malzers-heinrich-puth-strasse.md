@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /hattingen/malzers/
+url: /hattingen/malzers-heinrich-puth-strasse/
 shop: Bäckerei
 ---

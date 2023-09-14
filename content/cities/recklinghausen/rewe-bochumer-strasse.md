@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /recklinghausen/rewe/
+url: /recklinghausen/rewe-bochumer-strasse/
 shop: Supermarkt
 ---

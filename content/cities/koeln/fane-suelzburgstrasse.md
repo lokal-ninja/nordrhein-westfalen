@@ -1,5 +1,5 @@
 ---
 title: "Fane"
-url: /koeln/fane/
+url: /koeln/fane-suelzburgstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braun"
-url: /meckenheim/braun/
+url: /meckenheim/braun-hauptstrasse/
 shop: Spielzeug
 ---

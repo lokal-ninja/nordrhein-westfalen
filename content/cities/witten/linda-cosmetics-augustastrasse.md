@@ -1,5 +1,5 @@
 ---
 title: "Linda Cosmetics"
-url: /witten/linda-cosmetics/
+url: /witten/linda-cosmetics-augustastrasse/
 shop: Kosmetik
 ---

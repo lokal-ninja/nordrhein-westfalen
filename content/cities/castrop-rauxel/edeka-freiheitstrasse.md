@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /castrop-rauxel/edeka/
+url: /castrop-rauxel/edeka-freiheitstrasse/
 shop: Supermarkt
 ---

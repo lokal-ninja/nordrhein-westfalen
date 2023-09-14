@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Pieper"
-url: /bochum/parfuemerie-pieper/
+url: /bochum/parfuemerie-pieper-kortumstrasse/
 shop: Parfümerie
 ---

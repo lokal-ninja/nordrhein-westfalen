@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /herzogenrath/kik/
+url: /herzogenrath/kik-erkensstrasse/
 shop: Kleidung
 ---

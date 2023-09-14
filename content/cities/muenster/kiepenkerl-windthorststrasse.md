@@ -1,5 +1,5 @@
 ---
 title: "Kiepenkerl"
-url: /muenster/kiepenkerl/
+url: /muenster/kiepenkerl-windthorststrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Peter"
-url: /essen/baecker-peter/
+url: /essen/baecker-peter-frankenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gilgens"
-url: /lohmar/gilgens/
+url: /lohmar/gilgens-wahlscheider-strasse/
 shop: Bäckerei
 ---

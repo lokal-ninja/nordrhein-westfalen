@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /oberhausen/dm/
+url: /oberhausen/dm-concordiastrasse/
 shop: Drogerie
 ---

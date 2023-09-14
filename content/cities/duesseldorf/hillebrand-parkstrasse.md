@@ -1,5 +1,5 @@
 ---
 title: "Hillebrand"
-url: /duesseldorf/hillebrand/
+url: /duesseldorf/hillebrand-parkstrasse/
 shop: Wein
 ---

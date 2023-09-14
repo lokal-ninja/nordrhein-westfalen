@@ -1,5 +1,5 @@
 ---
 title: "Brinker"
-url: /recklinghausen/brinker/
+url: /recklinghausen/brinker-werkstaettenstrasse/
 shop: Bäckerei
 ---

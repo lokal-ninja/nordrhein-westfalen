@@ -1,5 +1,5 @@
 ---
 title: "Rehm"
-url: /augustdorf/rehm/
+url: /augustdorf/rehm-pivitsheider-strasse/
 shop: Farben
 ---

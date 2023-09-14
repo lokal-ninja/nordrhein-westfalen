@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /bonn/kodi/
+url: /bonn/kodi-hans-boeckler-strasse/
 shop: Haushaltsartikel
 ---

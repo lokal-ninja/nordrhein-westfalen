@@ -1,5 +1,5 @@
 ---
 title: "Rolf"
-url: /bielefeld/rolf/
+url: /bielefeld/rolf-joellenbecker-strasse/
 shop: Bäckerei
 ---

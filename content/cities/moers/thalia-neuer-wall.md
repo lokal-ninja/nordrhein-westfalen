@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /moers/thalia/
+url: /moers/thalia-neuer-wall/
 shop: Schreibwaren
 ---

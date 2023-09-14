@@ -1,5 +1,5 @@
 ---
 title: "Sieveneck"
-url: /duisburg/sieveneck/
+url: /duisburg/sieveneck-fiskusstrasse/
 shop: Metzgerei
 ---

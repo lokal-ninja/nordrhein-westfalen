@@ -1,5 +1,5 @@
 ---
 title: "Optik Scholz"
-url: /dorsten/optik-scholz/
+url: /dorsten/optik-scholz-wulfener-markt/
 shop: Optiker
 ---

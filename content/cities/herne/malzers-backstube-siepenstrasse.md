@@ -1,5 +1,5 @@
 ---
 title: "Malzer's Backstube"
-url: /herne/malzers-backstube/
+url: /herne/malzers-backstube-siepenstrasse/
 shop: Bäckerei
 ---

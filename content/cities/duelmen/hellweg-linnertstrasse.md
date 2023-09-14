@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /duelmen/hellweg/
+url: /duelmen/hellweg-linnertstrasse/
 shop: Baumarkt
 ---

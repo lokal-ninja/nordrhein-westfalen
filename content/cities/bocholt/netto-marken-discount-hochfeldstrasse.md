@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bocholt/netto-marken-discount/
+url: /bocholt/netto-marken-discount-hochfeldstrasse/
 shop: Supermarkt
 ---

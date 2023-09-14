@@ -1,5 +1,5 @@
 ---
 title: "Kampmann's"
-url: /recklinghausen/kampmanns/
+url: /recklinghausen/kampmanns-steinstrasse/
 shop: Raumausstattung
 ---

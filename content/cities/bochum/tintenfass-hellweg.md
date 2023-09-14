@@ -1,5 +1,5 @@
 ---
 title: "Tintenfass"
-url: /bochum/tintenfass/
+url: /bochum/tintenfass-hellweg/
 shop: Schreibwaren
 ---

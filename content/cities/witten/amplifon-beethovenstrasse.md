@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /witten/amplifon/
+url: /witten/amplifon-beethovenstrasse/
 shop: Hörgeräte
 ---

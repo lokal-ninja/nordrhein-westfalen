@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /hattingen/rewe/
+url: /hattingen/rewe-thingstrasse/
 shop: Supermarkt
 ---

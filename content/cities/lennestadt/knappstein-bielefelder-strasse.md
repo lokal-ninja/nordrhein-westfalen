@@ -1,5 +1,5 @@
 ---
 title: "Knappstein"
-url: /lennestadt/knappstein/
+url: /lennestadt/knappstein-bielefelder-strasse/
 shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tedi"
-url: /dinslaken/tedi/
+url: /dinslaken/tedi-roonstrasse/
 shop: Kramladen
 ---

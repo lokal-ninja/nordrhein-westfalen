@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /dortmund/rossmann/
+url: /dortmund/rossmann-siegburgstrasse/
 shop: Drogerie
 ---

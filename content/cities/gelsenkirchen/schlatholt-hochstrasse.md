@@ -1,5 +1,5 @@
 ---
 title: "Schlatholt"
-url: /gelsenkirchen/schlatholt/
+url: /gelsenkirchen/schlatholt-hochstrasse/
 shop: Schuhe
 ---

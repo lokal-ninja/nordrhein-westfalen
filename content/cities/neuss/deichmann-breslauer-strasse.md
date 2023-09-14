@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /neuss/deichmann/
+url: /neuss/deichmann-breslauer-strasse/
 shop: Schuhe
 ---

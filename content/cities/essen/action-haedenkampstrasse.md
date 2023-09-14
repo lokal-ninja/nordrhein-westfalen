@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /essen/action/
+url: /essen/action-haedenkampstrasse/
 shop: Kramladen
 ---

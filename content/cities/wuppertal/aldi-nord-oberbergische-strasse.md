@@ -1,5 +1,5 @@
 ---
 title: "Aldi Nord"
-url: /wuppertal/aldi-nord/
+url: /wuppertal/aldi-nord-oberbergische-strasse/
 shop: Supermarkt
 ---

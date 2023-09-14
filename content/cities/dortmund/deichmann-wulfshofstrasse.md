@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /dortmund/deichmann/
+url: /dortmund/deichmann-wulfshofstrasse/
 shop: Schuhe
 ---

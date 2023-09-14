@@ -1,5 +1,5 @@
 ---
 title: "SIDESTEP"
-url: /duesseldorf/sidestep/
+url: /duesseldorf/sidestep-kasernenstrasse/
 shop: Schuhe
 ---

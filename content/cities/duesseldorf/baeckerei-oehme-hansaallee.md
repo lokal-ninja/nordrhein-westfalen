@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Oehme"
-url: /duesseldorf/baeckerei-oehme/
+url: /duesseldorf/baeckerei-oehme-hansaallee/
 shop: Bäckerei
 ---

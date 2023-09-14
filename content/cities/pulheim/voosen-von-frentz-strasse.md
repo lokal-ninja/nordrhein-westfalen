@@ -1,5 +1,5 @@
 ---
 title: "Voosen"
-url: /pulheim/voosen/
+url: /pulheim/voosen-von-frentz-strasse/
 shop: Bäckerei
 ---

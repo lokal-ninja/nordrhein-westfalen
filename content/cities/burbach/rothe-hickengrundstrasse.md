@@ -1,5 +1,5 @@
 ---
 title: "Rothe"
-url: /burbach/rothe/
+url: /burbach/rothe-hickengrundstrasse/
 shop: Bäckerei
 ---

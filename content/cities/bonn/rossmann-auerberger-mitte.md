@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bonn/rossmann/
+url: /bonn/rossmann-auerberger-mitte/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /bielefeld/takko/
+url: /bielefeld/takko-detmolder-strasse/
 shop: Kleidung
 ---

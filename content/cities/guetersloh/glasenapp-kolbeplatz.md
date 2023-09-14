@@ -1,5 +1,5 @@
 ---
 title: "Glasenapp"
-url: /guetersloh/glasenapp/
+url: /guetersloh/glasenapp-kolbeplatz/
 shop: Bäckerei
 ---

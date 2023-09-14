@@ -1,5 +1,5 @@
 ---
 title: "Jacobsen Nutzfahrzeuge"
-url: /euskirchen/jacobsen-nutzfahrzeuge/
+url: /euskirchen/jacobsen-nutzfahrzeuge-dachsstrasse/
 shop: Autohaus
 ---

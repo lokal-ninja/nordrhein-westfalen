@@ -1,5 +1,5 @@
 ---
 title: "Wilhalm"
-url: /harsewinkel/wilhalm/
+url: /harsewinkel/wilhalm-hauptstrasse/
 shop: Bäckerei
 ---

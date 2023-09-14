@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /troisdorf/backwerk/
+url: /troisdorf/backwerk-poststrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gatenbröcker"
-url: /herten/gatenbroecker/
+url: /herten/gatenbroecker-sueder-markt/
 shop: Bäckerei
 ---

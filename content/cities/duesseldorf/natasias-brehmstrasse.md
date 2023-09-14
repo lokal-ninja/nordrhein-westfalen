@@ -1,5 +1,5 @@
 ---
 title: "Natasias"
-url: /duesseldorf/natasias/
+url: /duesseldorf/natasias-brehmstrasse/
 shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /gevelsberg/lidl/
+url: /gevelsberg/lidl-rosendahler-strasse/
 shop: Supermarkt
 ---

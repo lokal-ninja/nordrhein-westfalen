@@ -1,5 +1,5 @@
 ---
 title: "Richard Moden"
-url: /gelsenkirchen/richard-moden/
+url: /gelsenkirchen/richard-moden-cranger-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /essen/nkd/
+url: /essen/nkd-schangstrasse/
 shop: Kleidung
 ---

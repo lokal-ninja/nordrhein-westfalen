@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /bochum/aldi-nord/
+url: /bochum/aldi-nord-luetgendortmunder-hellweg/
 shop: Supermarkt
 ---

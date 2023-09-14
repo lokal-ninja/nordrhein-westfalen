@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /duesseldorf/fielmann/
+url: /duesseldorf/fielmann-rethelstrasse/
 shop: Optiker
 ---

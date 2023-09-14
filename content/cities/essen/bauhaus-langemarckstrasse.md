@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /essen/bauhaus/
+url: /essen/bauhaus-langemarckstrasse/
 shop: Baumarkt
 ---

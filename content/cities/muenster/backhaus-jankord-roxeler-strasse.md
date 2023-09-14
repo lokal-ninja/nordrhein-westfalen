@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Jankord"
-url: /muenster/backhaus-jankord/
+url: /muenster/backhaus-jankord-roxeler-strasse/
 shop: Bäckerei
 ---

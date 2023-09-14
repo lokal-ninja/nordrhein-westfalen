@@ -1,5 +1,5 @@
 ---
 title: "Blumen Schlimgen"
-url: /koeln/blumen-schlimgen/
+url: /koeln/blumen-schlimgen-magazinstrasse/
 shop: Garten-Center
 ---

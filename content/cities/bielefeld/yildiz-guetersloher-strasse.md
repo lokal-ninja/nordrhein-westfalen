@@ -1,5 +1,5 @@
 ---
 title: "Yildiz"
-url: /bielefeld/yildiz/
+url: /bielefeld/yildiz-guetersloher-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /datteln/aldi/
+url: /datteln/aldi-rudolf-diesel-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hussel"
-url: /bochum/hussel/
+url: /bochum/hussel-am-einkaufszentrum/
 shop: Süßwaren
 ---

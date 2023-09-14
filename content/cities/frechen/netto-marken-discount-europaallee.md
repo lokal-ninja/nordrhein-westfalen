@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /frechen/netto-marken-discount/
+url: /frechen/netto-marken-discount-europaallee/
 shop: Supermarkt
 ---

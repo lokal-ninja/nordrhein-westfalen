@@ -1,5 +1,5 @@
 ---
 title: "SuperBioMarkt"
-url: /dortmund/superbiomarkt/
+url: /dortmund/superbiomarkt-harkortstrasse/
 shop: Supermarkt
 ---

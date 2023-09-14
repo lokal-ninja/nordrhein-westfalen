@@ -1,5 +1,5 @@
 ---
 title: "Essmann"
-url: /coesfeld/essmann/
+url: /coesfeld/essmann-letter-strasse/
 shop: Bäckerei
 ---

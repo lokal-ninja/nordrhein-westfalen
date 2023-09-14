@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /hagen/aldi-nord/
+url: /hagen/aldi-nord-schwerter-strasse/
 shop: Supermarkt
 ---

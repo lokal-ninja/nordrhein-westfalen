@@ -1,5 +1,5 @@
 ---
 title: "Terbuyken"
-url: /duesseldorf/terbuyken/
+url: /duesseldorf/terbuyken-belsenstrasse/
 shop: Bäckerei
 ---

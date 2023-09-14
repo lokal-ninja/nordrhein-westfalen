@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /herne/dm/
+url: /herne/dm-bahnhofstrasse/
 shop: Drogerie
 ---

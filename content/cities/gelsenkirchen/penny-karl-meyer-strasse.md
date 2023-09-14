@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /gelsenkirchen/penny/
+url: /gelsenkirchen/penny-karl-meyer-strasse/
 shop: Supermarkt
 ---

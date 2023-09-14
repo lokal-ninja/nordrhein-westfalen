@@ -1,5 +1,5 @@
 ---
 title: "Schollin"
-url: /duisburg/schollin/
+url: /duisburg/schollin-friedrich-ebert-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /neuss/hundm/
+url: /neuss/hundm-niederstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bussmann"
-url: /loehne/bussmann/
+url: /loehne/bussmann-bahnhofstrasse/
 shop: Kleidung
 ---

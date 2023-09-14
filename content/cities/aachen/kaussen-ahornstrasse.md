@@ -1,5 +1,5 @@
 ---
 title: "Kaussen"
-url: /aachen/kaussen/
+url: /aachen/kaussen-ahornstrasse/
 shop: Bäckerei
 ---

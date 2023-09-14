@@ -1,5 +1,5 @@
 ---
 title: "Karlchens Backstube"
-url: /bielefeld/karlchens-backstube/
+url: /bielefeld/karlchens-backstube-eickumer-strasse/
 shop: Bäckerei
 ---

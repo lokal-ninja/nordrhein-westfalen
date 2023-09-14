@@ -1,5 +1,5 @@
 ---
 title: "Büsch"
-url: /moers/buesch/
+url: /moers/buesch-am-schuermannshuett/
 shop: Bäckerei
 ---

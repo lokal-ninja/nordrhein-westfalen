@@ -1,5 +1,5 @@
 ---
 title: "Krimphove"
-url: /muenster/krimphove/
+url: /muenster/krimphove-loddenheide/
 shop: Bäckerei
 ---

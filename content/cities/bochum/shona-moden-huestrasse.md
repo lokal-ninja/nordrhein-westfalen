@@ -1,5 +1,5 @@
 ---
 title: "Shona Moden"
-url: /bochum/shona-moden/
+url: /bochum/shona-moden-huestrasse/
 shop: Kleidung
 ---

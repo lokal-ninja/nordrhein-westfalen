@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /herford/rewe/
+url: /herford/rewe-engerstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /bochum/kik/
+url: /bochum/kik-alter-markt/
 shop: Kleidung
 ---

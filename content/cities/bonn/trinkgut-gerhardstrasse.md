@@ -1,5 +1,5 @@
 ---
 title: "trinkgut"
-url: /bonn/trinkgut/
+url: /bonn/trinkgut-gerhardstrasse/
 shop: Getränke
 ---

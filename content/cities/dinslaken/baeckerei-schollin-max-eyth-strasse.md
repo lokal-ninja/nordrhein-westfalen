@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schollin"
-url: /dinslaken/baeckerei-schollin/
+url: /dinslaken/baeckerei-schollin-max-eyth-strasse/
 shop: Bäckerei
 ---

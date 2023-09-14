@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Kamp"
-url: /hagen/stadtbaeckerei-kamp/
+url: /hagen/stadtbaeckerei-kamp-freiligrathstrasse/
 shop: Bäckerei
 ---

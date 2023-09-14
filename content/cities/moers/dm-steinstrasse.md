@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /moers/dm/
+url: /moers/dm-steinstrasse/
 shop: Drogerie
 ---

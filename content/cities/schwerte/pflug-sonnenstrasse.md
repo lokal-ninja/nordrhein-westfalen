@@ -1,5 +1,5 @@
 ---
 title: "Pflug"
-url: /schwerte/pflug/
+url: /schwerte/pflug-sonnenstrasse/
 shop: Autohaus
 ---

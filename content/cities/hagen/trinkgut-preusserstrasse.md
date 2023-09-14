@@ -1,5 +1,5 @@
 ---
 title: "trinkgut"
-url: /hagen/trinkgut/
+url: /hagen/trinkgut-preusserstrasse/
 shop: Getränke
 ---

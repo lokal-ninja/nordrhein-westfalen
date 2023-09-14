@@ -1,5 +1,5 @@
 ---
 title: "Kodi"
-url: /duisburg/kodi/
+url: /duisburg/kodi-muenchener-strasse/
 shop: Kramladen
 ---

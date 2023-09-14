@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /overath/hit/
+url: /overath/hit-propsteistrasse/
 shop: Supermarkt
 ---

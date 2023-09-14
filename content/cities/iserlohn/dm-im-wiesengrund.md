@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /iserlohn/dm/
+url: /iserlohn/dm-im-wiesengrund/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /wuppertal/kik/
+url: /wuppertal/kik-wall/
 shop: Kleidung
 ---

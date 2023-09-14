@@ -1,5 +1,5 @@
 ---
 title: "Steinmacher"
-url: /herne/steinmacher/
+url: /herne/steinmacher-hauptstrasse/
 shop: Garten-Center
 ---

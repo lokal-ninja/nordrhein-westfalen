@@ -1,5 +1,5 @@
 ---
 title: "Geiping"
-url: /muenster/geiping/
+url: /muenster/geiping-hammer-strasse/
 shop: Bäckerei
 ---

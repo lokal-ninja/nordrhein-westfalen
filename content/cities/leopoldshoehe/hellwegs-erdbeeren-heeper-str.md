@@ -1,5 +1,5 @@
 ---
 title: "Hellwegs Erdbeeren"
-url: /leopoldshoehe/hellwegs-erdbeeren/
+url: /leopoldshoehe/hellwegs-erdbeeren-heeper-str/
 shop: Gemüse & Obst
 ---

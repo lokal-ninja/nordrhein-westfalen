@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /gelsenkirchen/fielmann/
+url: /gelsenkirchen/fielmann-bahnhofstrasse/
 shop: Optiker
 ---

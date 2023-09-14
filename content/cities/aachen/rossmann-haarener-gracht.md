@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /aachen/rossmann/
+url: /aachen/rossmann-haarener-gracht/
 shop: Drogerie
 ---

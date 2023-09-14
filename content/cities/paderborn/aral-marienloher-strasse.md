@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /paderborn/aral/
+url: /paderborn/aral-marienloher-strasse/
 shop: Lebensmittel
 ---

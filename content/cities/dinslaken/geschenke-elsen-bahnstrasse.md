@@ -1,5 +1,5 @@
 ---
 title: "Geschenke Elsen"
-url: /dinslaken/geschenke-elsen/
+url: /dinslaken/geschenke-elsen-bahnstrasse/
 shop: Andenken
 ---

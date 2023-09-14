@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /duesseldorf/aral/
+url: /duesseldorf/aral-frankfurter-strasse/
 shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hakvoort"
-url: /eitorf/hakvoort/
+url: /eitorf/hakvoort-im-laach/
 shop: Autohaus
 ---

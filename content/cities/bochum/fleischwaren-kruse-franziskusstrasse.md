@@ -1,5 +1,5 @@
 ---
 title: "Fleischwaren Kruse"
-url: /bochum/fleischwaren-kruse/
+url: /bochum/fleischwaren-kruse-franziskusstrasse/
 shop: Metzgerei
 ---

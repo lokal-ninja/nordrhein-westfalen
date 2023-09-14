@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /ahlen/rossmann/
+url: /ahlen/rossmann-ostbredenstrasse/
 shop: Drogerie
 ---

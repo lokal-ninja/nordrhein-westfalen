@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /rheine/edeka/
+url: /rheine/edeka-lingener-damm/
 shop: Supermarkt
 ---

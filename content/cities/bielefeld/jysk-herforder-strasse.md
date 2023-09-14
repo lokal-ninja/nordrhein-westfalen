@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /bielefeld/jysk/
+url: /bielefeld/jysk-herforder-strasse/
 shop: Möbel
 ---

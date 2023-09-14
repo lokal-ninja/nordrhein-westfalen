@@ -1,5 +1,5 @@
 ---
 title: "Daniels Wohnen"
-url: /bonn/daniels-wohnen/
+url: /bonn/daniels-wohnen-roemerstrasse/
 shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /paderborn/deichmann/
+url: /paderborn/deichmann-westernstrasse/
 shop: Schuhe
 ---

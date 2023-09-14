@@ -1,5 +1,5 @@
 ---
 title: "Robers"
-url: /stadtlohn/robers/
+url: /stadtlohn/robers-eschstrasse/
 shop: Schuhe
 ---

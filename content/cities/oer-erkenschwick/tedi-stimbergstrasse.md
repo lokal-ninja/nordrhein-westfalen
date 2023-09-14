@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /oer-erkenschwick/tedi/
+url: /oer-erkenschwick/tedi-stimbergstrasse/
 shop: Kramladen
 ---

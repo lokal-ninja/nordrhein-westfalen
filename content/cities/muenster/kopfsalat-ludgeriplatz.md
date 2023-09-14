@@ -1,5 +1,5 @@
 ---
 title: "Kopfsalat"
-url: /muenster/kopfsalat/
+url: /muenster/kopfsalat-ludgeriplatz/
 shop: Friseur
 ---

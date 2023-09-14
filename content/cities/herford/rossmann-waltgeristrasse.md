@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /herford/rossmann/
+url: /herford/rossmann-waltgeristrasse/
 shop: Drogerie
 ---

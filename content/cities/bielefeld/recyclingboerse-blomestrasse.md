@@ -1,5 +1,5 @@
 ---
 title: "RecyclingBörse!"
-url: /bielefeld/recyclingboerse/
+url: /bielefeld/recyclingboerse-blomestrasse/
 shop: Gebrauchtwaren
 ---

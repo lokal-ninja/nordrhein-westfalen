@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /hamm/kik/
+url: /hamm/kik-herringer-markt/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "M&H Automobile"
-url: /paderborn/mundh-automobile/
+url: /paderborn/mundh-automobile-heidturmweg/
 shop: Autohaus
 ---

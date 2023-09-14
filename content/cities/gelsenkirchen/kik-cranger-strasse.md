@@ -1,5 +1,5 @@
 ---
 title: "kik"
-url: /gelsenkirchen/kik/
+url: /gelsenkirchen/kik-cranger-strasse/
 shop: Kleidung
 ---

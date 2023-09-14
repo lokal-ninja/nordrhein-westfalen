@@ -1,5 +1,5 @@
 ---
 title: "Gerland"
-url: /bielefeld/gerland/
+url: /bielefeld/gerland-kiskerstrasse/
 shop: Hörgeräte
 ---

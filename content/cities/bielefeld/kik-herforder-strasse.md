@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /bielefeld/kik/
+url: /bielefeld/kik-herforder-strasse/
 shop: Kleidung
 ---

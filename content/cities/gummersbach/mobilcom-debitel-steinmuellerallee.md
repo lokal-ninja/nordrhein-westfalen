@@ -1,5 +1,5 @@
 ---
 title: "Mobilcom Debitel"
-url: /gummersbach/mobilcom-debitel/
+url: /gummersbach/mobilcom-debitel-steinmuellerallee/
 shop: Handy
 ---

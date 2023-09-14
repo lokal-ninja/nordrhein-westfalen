@@ -1,5 +1,5 @@
 ---
 title: "Textilpflege"
-url: /essen/textilpflege/
+url: /essen/textilpflege-klarastrasse/
 shop: Wäscherei
 ---

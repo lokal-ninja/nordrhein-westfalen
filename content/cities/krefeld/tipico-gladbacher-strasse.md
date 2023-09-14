@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /krefeld/tipico/
+url: /krefeld/tipico-gladbacher-strasse/
 shop: Wettbüro
 ---

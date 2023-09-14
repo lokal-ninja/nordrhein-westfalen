@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /siegen/dm/
+url: /siegen/dm-hagener-strasse/
 shop: Drogerie
 ---

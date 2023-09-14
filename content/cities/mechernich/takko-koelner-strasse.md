@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /mechernich/takko/
+url: /mechernich/takko-koelner-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
-url: /essen/tamaris/
+url: /essen/tamaris-altenessener-strasse/
 shop: Schuhe
 ---

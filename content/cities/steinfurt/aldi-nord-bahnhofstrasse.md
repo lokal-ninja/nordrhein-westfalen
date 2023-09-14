@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /steinfurt/aldi-nord/
+url: /steinfurt/aldi-nord-bahnhofstrasse/
 shop: Supermarkt
 ---

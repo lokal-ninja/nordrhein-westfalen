@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /dortmund/backwerk/
+url: /dortmund/backwerk-gablonzstrasse/
 shop: Bäckerei
 ---

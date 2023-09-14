@@ -1,5 +1,5 @@
 ---
 title: "Boos"
-url: /moenchengladbach/boos/
+url: /moenchengladbach/boos-myllendonker-strasse/
 shop: Bäckerei
 ---

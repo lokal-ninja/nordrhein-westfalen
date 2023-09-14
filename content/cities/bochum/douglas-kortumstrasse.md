@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /bochum/douglas/
+url: /bochum/douglas-kortumstrasse/
 shop: Parfümerie
 ---

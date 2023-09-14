@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /luedenscheid/kik/
+url: /luedenscheid/kik-wilhelmstrasse/
 shop: Kleidung
 ---

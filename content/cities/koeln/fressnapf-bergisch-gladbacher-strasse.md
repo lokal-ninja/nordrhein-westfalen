@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /koeln/fressnapf/
+url: /koeln/fressnapf-bergisch-gladbacher-strasse/
 shop: Tiere
 ---

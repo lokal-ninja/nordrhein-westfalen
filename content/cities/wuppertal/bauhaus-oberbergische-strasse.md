@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /wuppertal/bauhaus/
+url: /wuppertal/bauhaus-oberbergische-strasse/
 shop: Baumarkt
 ---

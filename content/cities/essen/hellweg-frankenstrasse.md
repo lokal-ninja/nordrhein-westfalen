@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /essen/hellweg/
+url: /essen/hellweg-frankenstrasse/
 shop: Baumarkt
 ---

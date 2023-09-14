@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /siegen/kaufland/
+url: /siegen/kaufland-hagener-strasse/
 shop: Supermarkt
 ---

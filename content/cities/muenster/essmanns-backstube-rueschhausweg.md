@@ -1,5 +1,5 @@
 ---
 title: "Essmann's Backstube"
-url: /muenster/essmanns-backstube/
+url: /muenster/essmanns-backstube-rueschhausweg/
 shop: Bäckerei
 ---

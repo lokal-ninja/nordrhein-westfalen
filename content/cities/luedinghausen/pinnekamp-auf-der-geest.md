@@ -1,5 +1,5 @@
 ---
 title: "Pinnekamp"
-url: /luedinghausen/pinnekamp/
+url: /luedinghausen/pinnekamp-auf-der-geest/
 shop: Bestattungen
 ---

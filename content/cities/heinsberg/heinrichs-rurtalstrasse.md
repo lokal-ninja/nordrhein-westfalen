@@ -1,5 +1,5 @@
 ---
 title: "Heinrichs"
-url: /heinsberg/heinrichs/
+url: /heinsberg/heinrichs-rurtalstrasse/
 shop: Blumen
 ---

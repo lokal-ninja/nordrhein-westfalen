@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /paderborn/fressnapf/
+url: /paderborn/fressnapf-barkhauser-strasse/
 shop: Tiere
 ---

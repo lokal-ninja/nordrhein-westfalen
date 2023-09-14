@@ -1,5 +1,5 @@
 ---
 title: "yoused"
-url: /wesel/yoused/
+url: /wesel/yoused-beguinenstrasse/
 shop: Gebrauchtwaren
 ---

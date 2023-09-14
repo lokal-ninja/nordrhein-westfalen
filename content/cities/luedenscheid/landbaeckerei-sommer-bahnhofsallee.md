@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Sommer"
-url: /luedenscheid/landbaeckerei-sommer/
+url: /luedenscheid/landbaeckerei-sommer-bahnhofsallee/
 shop: Bäckerei
 ---

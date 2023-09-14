@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /troisdorf/aldi-sued/
+url: /troisdorf/aldi-sued-im-zehntfeld/
 shop: Supermarkt
 ---

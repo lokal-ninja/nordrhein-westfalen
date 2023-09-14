@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /lippstadt/kaufland/
+url: /lippstadt/kaufland-planckstrasse/
 shop: Supermarkt
 ---

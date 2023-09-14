@@ -1,5 +1,5 @@
 ---
 title: "Starschnitt"
-url: /bochum/starschnitt/
+url: /bochum/starschnitt-bethanienstrasse/
 shop: Friseur
 ---

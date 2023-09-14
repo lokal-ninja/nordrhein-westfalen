@@ -1,5 +1,5 @@
 ---
 title: "DER Reisebüro"
-url: /euskirchen/der-reisebuero/
+url: /euskirchen/der-reisebuero-neustrasse/
 shop: Reisebüro
 ---

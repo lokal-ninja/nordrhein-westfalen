@@ -1,5 +1,5 @@
 ---
 title: "KODi"
-url: /essen/kodi/
+url: /essen/kodi-altenessener-strasse/
 shop: Haushaltsartikel
 ---

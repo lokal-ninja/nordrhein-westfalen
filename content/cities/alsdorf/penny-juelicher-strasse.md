@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /alsdorf/penny/
+url: /alsdorf/penny-juelicher-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruwe"
-url: /bielefeld/ruwe/
+url: /bielefeld/ruwe-beckhausstrasse/
 shop: Bäckerei
 ---

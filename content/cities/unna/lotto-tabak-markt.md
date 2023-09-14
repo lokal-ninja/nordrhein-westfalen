@@ -1,5 +1,5 @@
 ---
 title: "Lotto Tabak"
-url: /unna/lotto-tabak/
+url: /unna/lotto-tabak-markt/
 shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /wilnsdorf/rewe/
+url: /wilnsdorf/rewe-pastor-stenger-strasse/
 shop: Supermarkt
 ---

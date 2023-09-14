@@ -1,5 +1,5 @@
 ---
 title: "MediShop"
-url: /gelsenkirchen/medishop/
+url: /gelsenkirchen/medishop-nordring/
 shop: Sanitätshaus
 ---

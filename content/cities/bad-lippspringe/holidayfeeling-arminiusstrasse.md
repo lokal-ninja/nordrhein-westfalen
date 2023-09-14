@@ -1,5 +1,5 @@
 ---
 title: "Holidayfeeling"
-url: /bad-lippspringe/holidayfeeling/
+url: /bad-lippspringe/holidayfeeling-arminiusstrasse/
 shop: Kosmetik
 ---

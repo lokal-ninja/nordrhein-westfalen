@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
-url: /bonn/butlers/
+url: /bonn/butlers-wenzelgasse/
 shop: Raumausstattung
 ---

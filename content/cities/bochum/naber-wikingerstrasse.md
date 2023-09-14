@@ -1,5 +1,5 @@
 ---
 title: "Naber"
-url: /bochum/naber/
+url: /bochum/naber-wikingerstrasse/
 shop: Bäckerei
 ---

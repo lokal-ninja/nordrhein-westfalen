@@ -1,5 +1,5 @@
 ---
 title: "Änderungsatelier"
-url: /bochum/aenderungsatelier/
+url: /bochum/aenderungsatelier-hattinger-strasse/
 shop: Schneiderei
 ---

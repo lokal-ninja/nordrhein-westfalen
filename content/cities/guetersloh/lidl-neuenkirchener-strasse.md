@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /guetersloh/lidl/
+url: /guetersloh/lidl-neuenkirchener-strasse/
 shop: Lebensmittel
 ---

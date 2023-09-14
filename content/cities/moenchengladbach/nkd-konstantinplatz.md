@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /moenchengladbach/nkd/
+url: /moenchengladbach/nkd-konstantinplatz/
 shop: Kleidung
 ---

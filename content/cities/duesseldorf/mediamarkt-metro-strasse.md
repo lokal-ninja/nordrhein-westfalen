@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /duesseldorf/mediamarkt/
+url: /duesseldorf/mediamarkt-metro-strasse/
 shop: Elektronik
 ---

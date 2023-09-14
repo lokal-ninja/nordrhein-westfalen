@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /erkrath/kik/
+url: /erkrath/kik-neuenhausplatz/
 shop: Kleidung
 ---

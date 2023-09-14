@@ -1,5 +1,5 @@
 ---
 title: "Bonita"
-url: /gummersbach/bonita/
+url: /gummersbach/bonita-steinmuellerallee/
 shop: Kleidung
 ---

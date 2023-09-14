@@ -1,5 +1,5 @@
 ---
 title: "Markant"
-url: /paderborn/markant/
+url: /paderborn/markant-im-vogtland/
 shop: Supermarkt
 ---

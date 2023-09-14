@@ -1,5 +1,5 @@
 ---
 title: "Mosterei Peters"
-url: /willebadessen/mosterei-peters/
+url: /willebadessen/mosterei-peters-gartenstrasse/
 shop: Getränke
 ---

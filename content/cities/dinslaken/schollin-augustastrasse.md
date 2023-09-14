@@ -1,5 +1,5 @@
 ---
 title: "Schollin"
-url: /dinslaken/schollin/
+url: /dinslaken/schollin-augustastrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A.T.U"
-url: /dortmund/a-t-u/
+url: /dortmund/a-t-u-edelstahlweg/
 shop: Autowerkstatt
 ---

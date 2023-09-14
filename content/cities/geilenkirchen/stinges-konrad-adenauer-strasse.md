@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /geilenkirchen/stinges/
+url: /geilenkirchen/stinges-konrad-adenauer-strasse/
 shop: Bäckerei
 ---

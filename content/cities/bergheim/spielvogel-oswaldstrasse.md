@@ -1,5 +1,5 @@
 ---
 title: "Spielvogel"
-url: /bergheim/spielvogel/
+url: /bergheim/spielvogel-oswaldstrasse/
 shop: Autowerkstatt
 ---

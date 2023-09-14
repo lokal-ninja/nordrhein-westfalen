@@ -1,5 +1,5 @@
 ---
 title: "Grote"
-url: /balve/grote/
+url: /balve/grote-arnsberger-strasse/
 shop: Bäckerei
 ---

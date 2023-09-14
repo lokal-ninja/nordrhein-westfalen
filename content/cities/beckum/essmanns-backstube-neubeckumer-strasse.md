@@ -1,5 +1,5 @@
 ---
 title: "Essmanns Backstube"
-url: /beckum/essmanns-backstube/
+url: /beckum/essmanns-backstube-neubeckumer-strasse/
 shop: Bäckerei
 ---

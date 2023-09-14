@@ -1,5 +1,5 @@
 ---
 title: "Gockel"
-url: /borchen/gockel/
+url: /borchen/gockel-wegelange/
 shop: Schreibwaren
 ---

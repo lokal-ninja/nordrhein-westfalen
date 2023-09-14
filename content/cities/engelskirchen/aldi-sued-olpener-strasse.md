@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /engelskirchen/aldi-sued/
+url: /engelskirchen/aldi-sued-olpener-strasse/
 shop: Supermarkt
 ---

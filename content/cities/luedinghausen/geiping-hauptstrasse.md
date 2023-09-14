@@ -1,5 +1,5 @@
 ---
 title: "Geiping"
-url: /luedinghausen/geiping/
+url: /luedinghausen/geiping-hauptstrasse/
 shop: Bäckerei
 ---

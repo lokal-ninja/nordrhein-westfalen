@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /bochum/fressnapf/
+url: /bochum/fressnapf-castroper-strasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /bielefeld/rossmann/
+url: /bielefeld/rossmann-bahnhofstrasse/
 shop: Drogerie
 ---

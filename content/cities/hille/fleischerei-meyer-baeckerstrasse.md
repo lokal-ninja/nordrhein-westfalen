@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Meyer"
-url: /hille/fleischerei-meyer/
+url: /hille/fleischerei-meyer-baeckerstrasse/
 shop: Metzgerei
 ---

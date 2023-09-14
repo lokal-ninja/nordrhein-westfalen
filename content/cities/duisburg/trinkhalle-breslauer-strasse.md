@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /duisburg/trinkhalle/
+url: /duisburg/trinkhalle-breslauer-strasse/
 shop: Kiosk
 ---

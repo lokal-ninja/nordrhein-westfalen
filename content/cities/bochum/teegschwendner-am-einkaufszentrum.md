@@ -1,5 +1,5 @@
 ---
 title: "TeeGschwendner"
-url: /bochum/teegschwendner/
+url: /bochum/teegschwendner-am-einkaufszentrum/
 shop: Tee
 ---

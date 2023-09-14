@@ -1,5 +1,5 @@
 ---
 title: "REWE Rahmati"
-url: /koeln/rewe-rahmati/
+url: /koeln/rewe-rahmati-hohenstaufenring/
 shop: Supermarkt
 ---

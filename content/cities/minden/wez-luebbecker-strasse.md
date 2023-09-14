@@ -1,5 +1,5 @@
 ---
 title: "WEZ"
-url: /minden/wez/
+url: /minden/wez-luebbecker-strasse/
 shop: Supermarkt
 ---

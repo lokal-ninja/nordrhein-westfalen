@@ -1,5 +1,5 @@
 ---
 title: "Alltours"
-url: /dortmund/alltours/
+url: /dortmund/alltours-wulfshofstrasse/
 shop: Reisebüro
 ---

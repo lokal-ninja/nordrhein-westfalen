@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /essen/deichmann/
+url: /essen/deichmann-berthold-beitz-boulevard/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /bonn/fressnapf/
+url: /bonn/fressnapf-sankt-augustinus-strasse/
 shop: Tiere
 ---

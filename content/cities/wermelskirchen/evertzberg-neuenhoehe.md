@@ -1,5 +1,5 @@
 ---
 title: "Evertzberg"
-url: /wermelskirchen/evertzberg/
+url: /wermelskirchen/evertzberg-neuenhoehe/
 shop: Bäckerei
 ---

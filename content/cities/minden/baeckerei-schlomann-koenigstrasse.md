@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schlomann"
-url: /minden/baeckerei-schlomann/
+url: /minden/baeckerei-schlomann-koenigstrasse/
 shop: Bäckerei
 ---

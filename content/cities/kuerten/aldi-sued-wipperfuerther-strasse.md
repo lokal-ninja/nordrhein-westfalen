@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /kuerten/aldi-sued/
+url: /kuerten/aldi-sued-wipperfuerther-strasse/
 shop: Supermarkt
 ---

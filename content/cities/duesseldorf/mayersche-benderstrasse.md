@@ -1,5 +1,5 @@
 ---
 title: "Mayersche"
-url: /duesseldorf/mayersche/
+url: /duesseldorf/mayersche-benderstrasse/
 shop: Bücher
 ---

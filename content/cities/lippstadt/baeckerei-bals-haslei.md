@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Bals"
-url: /lippstadt/baeckerei-bals/
+url: /lippstadt/baeckerei-bals-haslei/
 shop: Bäckerei
 ---

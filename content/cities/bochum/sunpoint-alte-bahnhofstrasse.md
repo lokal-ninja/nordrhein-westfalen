@@ -1,5 +1,5 @@
 ---
 title: "Sunpoint"
-url: /bochum/sunpoint/
+url: /bochum/sunpoint-alte-bahnhofstrasse/
 shop: Kosmetik
 ---

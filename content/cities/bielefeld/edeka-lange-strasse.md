@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /bielefeld/edeka/
+url: /bielefeld/edeka-lange-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /herne/vodafone/
+url: /herne/vodafone-hauptstrasse/
 shop: Handy
 ---

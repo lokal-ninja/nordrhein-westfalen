@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bergisch-gladbach/dm/
+url: /bergisch-gladbach/dm-hauptstrasse/
 shop: Drogerie
 ---

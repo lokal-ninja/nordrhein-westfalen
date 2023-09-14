@@ -1,5 +1,5 @@
 ---
 title: "Traix Cycles"
-url: /muenster/traix-cycles/
+url: /muenster/traix-cycles-bremer-strasse/
 shop: Fahrrad
 ---

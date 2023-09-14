@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /wesel/tedi/
+url: /wesel/tedi-brueckstrasse/
 shop: Kramladen
 ---

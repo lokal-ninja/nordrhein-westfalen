@@ -1,5 +1,5 @@
 ---
 title: "Tabac & Co"
-url: /duesseldorf/tabac-und-co/
+url: /duesseldorf/tabac-und-co-dorotheenstrasse/
 shop: Tabak
 ---

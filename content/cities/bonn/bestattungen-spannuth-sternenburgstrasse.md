@@ -1,5 +1,5 @@
 ---
 title: "Bestattungen Spannuth"
-url: /bonn/bestattungen-spannuth/
+url: /bonn/bestattungen-spannuth-sternenburgstrasse/
 shop: Bestattungen
 ---

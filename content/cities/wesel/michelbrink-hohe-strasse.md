@@ -1,5 +1,5 @@
 ---
 title: "Michelbrink"
-url: /wesel/michelbrink/
+url: /wesel/michelbrink-hohe-strasse/
 shop: Leder
 ---

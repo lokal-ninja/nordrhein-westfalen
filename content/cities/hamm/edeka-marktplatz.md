@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /hamm/edeka/
+url: /hamm/edeka-marktplatz/
 shop: Supermarkt
 ---

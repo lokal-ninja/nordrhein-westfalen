@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /bochum/rituals/
+url: /bochum/rituals-kortumstrasse-2/
 shop: Kosmetik
 ---

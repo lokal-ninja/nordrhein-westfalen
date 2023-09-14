@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /niederkassel/netto-marken-discount/
+url: /niederkassel/netto-marken-discount-lenaustrasse/
 shop: Supermarkt
 ---

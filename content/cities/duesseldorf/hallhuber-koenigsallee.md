@@ -1,5 +1,5 @@
 ---
 title: "Hallhuber"
-url: /duesseldorf/hallhuber/
+url: /duesseldorf/hallhuber-koenigsallee/
 shop: Kleidung
 ---

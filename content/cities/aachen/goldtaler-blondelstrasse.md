@@ -1,5 +1,5 @@
 ---
 title: "Goldtaler"
-url: /aachen/goldtaler/
+url: /aachen/goldtaler-blondelstrasse/
 shop: Schmuck
 ---

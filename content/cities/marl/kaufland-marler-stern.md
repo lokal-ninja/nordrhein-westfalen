@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /marl/kaufland/
+url: /marl/kaufland-marler-stern/
 shop: Supermarkt
 ---

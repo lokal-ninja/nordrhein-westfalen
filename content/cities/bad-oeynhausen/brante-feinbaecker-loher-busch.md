@@ -1,5 +1,5 @@
 ---
 title: "Brante FeinBäcker"
-url: /bad-oeynhausen/brante-feinbaecker/
+url: /bad-oeynhausen/brante-feinbaecker-loher-busch/
 shop: Bäckerei
 ---

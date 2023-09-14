@@ -1,5 +1,5 @@
 ---
 title: "Geiping"
-url: /recklinghausen/geiping/
+url: /recklinghausen/geiping-westerholter-weg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brinker"
-url: /datteln/brinker/
+url: /datteln/brinker-ostring/
 shop: Bäckerei
 ---

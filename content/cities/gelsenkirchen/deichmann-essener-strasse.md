@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /gelsenkirchen/deichmann/
+url: /gelsenkirchen/deichmann-essener-strasse/
 shop: Schuhe
 ---

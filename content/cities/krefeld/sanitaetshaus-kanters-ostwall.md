@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Kanters"
-url: /krefeld/sanitaetshaus-kanters/
+url: /krefeld/sanitaetshaus-kanters-ostwall/
 shop: Sanitätshaus
 ---

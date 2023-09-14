@@ -1,5 +1,5 @@
 ---
 title: "Ludwig"
-url: /duesseldorf/ludwig/
+url: /duesseldorf/ludwig-rethelstrasse/
 shop: Metzgerei
 ---

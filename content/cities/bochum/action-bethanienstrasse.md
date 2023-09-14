@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /bochum/action/
+url: /bochum/action-bethanienstrasse/
 shop: Kramladen
 ---

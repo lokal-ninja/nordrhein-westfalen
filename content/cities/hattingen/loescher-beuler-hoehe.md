@@ -1,5 +1,5 @@
 ---
 title: "Löscher"
-url: /hattingen/loescher/
+url: /hattingen/loescher-beuler-hoehe/
 shop: Bäckerei
 ---

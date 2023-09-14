@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /bochum/mcpaper/
+url: /bochum/mcpaper-am-einkaufszentrum/
 shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geers"
-url: /bochum/geers/
+url: /bochum/geers-wattenscheider-hellweg/
 shop: Hörgeräte
 ---

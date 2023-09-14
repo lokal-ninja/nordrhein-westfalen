@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /witten/fressnapf/
+url: /witten/fressnapf-haldenweg/
 shop: Tiere
 ---

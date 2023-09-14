@@ -1,5 +1,5 @@
 ---
 title: "Maroc Shop"
-url: /bonn/maroc-shop/
+url: /bonn/maroc-shop-franzstrasse/
 shop: Fisch
 ---

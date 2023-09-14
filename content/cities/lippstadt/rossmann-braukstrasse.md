@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /lippstadt/rossmann/
+url: /lippstadt/rossmann-braukstrasse/
 shop: Drogerie
 ---

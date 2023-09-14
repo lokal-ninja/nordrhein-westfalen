@@ -1,5 +1,5 @@
 ---
 title: "Ebbing"
-url: /coesfeld/ebbing/
+url: /coesfeld/ebbing-kupferstrasse/
 shop: Bäckerei
 ---

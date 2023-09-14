@@ -1,5 +1,5 @@
 ---
 title: "Weltfriseur"
-url: /bonn/weltfriseur/
+url: /bonn/weltfriseur-rochusstrasse/
 shop: Friseur
 ---

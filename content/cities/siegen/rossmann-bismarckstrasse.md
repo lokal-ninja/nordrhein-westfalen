@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /siegen/rossmann/
+url: /siegen/rossmann-bismarckstrasse/
 shop: Drogerie
 ---

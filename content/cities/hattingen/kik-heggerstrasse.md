@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /hattingen/kik/
+url: /hattingen/kik-heggerstrasse/
 shop: Kleidung
 ---

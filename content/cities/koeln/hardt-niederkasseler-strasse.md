@@ -1,5 +1,5 @@
 ---
 title: "Hardt"
-url: /koeln/hardt/
+url: /koeln/hardt-niederkasseler-strasse/
 shop: Bäckerei
 ---

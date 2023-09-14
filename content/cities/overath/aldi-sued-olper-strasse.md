@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /overath/aldi-sued/
+url: /overath/aldi-sued-olper-strasse/
 shop: Supermarkt
 ---

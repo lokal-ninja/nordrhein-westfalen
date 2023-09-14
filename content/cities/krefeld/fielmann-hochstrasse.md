@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /krefeld/fielmann/
+url: /krefeld/fielmann-hochstrasse/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /bochum/kamps/
+url: /bochum/kamps-kurt-schumacher-platz/
 shop: Bäckerei
 ---

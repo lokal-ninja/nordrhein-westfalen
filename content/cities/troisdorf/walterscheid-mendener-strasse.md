@@ -1,5 +1,5 @@
 ---
 title: "Walterscheid"
-url: /troisdorf/walterscheid/
+url: /troisdorf/walterscheid-mendener-strasse/
 shop: Autowerkstatt
 ---

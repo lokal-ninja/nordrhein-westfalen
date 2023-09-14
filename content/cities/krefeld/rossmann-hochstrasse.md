@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /krefeld/rossmann/
+url: /krefeld/rossmann-hochstrasse/
 shop: Drogerie
 ---

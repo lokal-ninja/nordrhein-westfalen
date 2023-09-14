@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /bochum/penny/
+url: /bochum/penny-harpener-hellweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citybäcker Feldkamp"
-url: /dortmund/citybaecker-feldkamp/
+url: /dortmund/citybaecker-feldkamp-koenigshalt/
 shop: Bäckerei
 ---

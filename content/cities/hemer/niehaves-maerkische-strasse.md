@@ -1,5 +1,5 @@
 ---
 title: "Niehaves"
-url: /hemer/niehaves/
+url: /hemer/niehaves-maerkische-strasse/
 shop: Bäckerei
 ---

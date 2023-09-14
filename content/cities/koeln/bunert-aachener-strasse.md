@@ -1,5 +1,5 @@
 ---
 title: "Bunert"
-url: /koeln/bunert/
+url: /koeln/bunert-aachener-strasse/
 shop: Sport
 ---

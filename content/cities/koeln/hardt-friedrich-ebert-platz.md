@@ -1,5 +1,5 @@
 ---
 title: "Hardt"
-url: /koeln/hardt/
+url: /koeln/hardt-friedrich-ebert-platz/
 shop: Bäckerei
 ---

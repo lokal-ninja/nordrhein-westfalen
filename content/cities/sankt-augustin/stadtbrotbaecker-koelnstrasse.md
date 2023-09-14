@@ -1,5 +1,5 @@
 ---
 title: "StadtBROTBäcker"
-url: /sankt-augustin/stadtbrotbaecker/
+url: /sankt-augustin/stadtbrotbaecker-koelnstrasse/
 shop: Bäckerei
 ---

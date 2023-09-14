@@ -1,5 +1,5 @@
 ---
 title: "Wulfhorst"
-url: /bielefeld/wulfhorst/
+url: /bielefeld/wulfhorst-beckhausstrasse/
 shop: Bäckerei
 ---

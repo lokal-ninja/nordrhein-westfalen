@@ -1,5 +1,5 @@
 ---
 title: "Getränkewelt"
-url: /essen/getraenkewelt/
+url: /essen/getraenkewelt-hanielstrasse/
 shop: Getränke
 ---

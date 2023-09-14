@@ -1,5 +1,5 @@
 ---
 title: "Motodrom Essen"
-url: /essen/motodrom-essen/
+url: /essen/motodrom-essen-am-zehnthof/
 shop: Motorrad
 ---

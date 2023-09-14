@@ -1,5 +1,5 @@
 ---
 title: "Hardt"
-url: /sankt-augustin/hardt/
+url: /sankt-augustin/hardt-am-engelsgraben/
 shop: Bäckerei
 ---

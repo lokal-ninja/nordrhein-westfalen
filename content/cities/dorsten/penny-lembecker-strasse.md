@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /dorsten/penny/
+url: /dorsten/penny-lembecker-strasse/
 shop: Supermarkt
 ---

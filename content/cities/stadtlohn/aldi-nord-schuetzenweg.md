@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /stadtlohn/aldi-nord/
+url: /stadtlohn/aldi-nord-schuetzenweg/
 shop: Supermarkt
 ---

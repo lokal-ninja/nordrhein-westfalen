@@ -1,5 +1,5 @@
 ---
 title: "Horsthemke"
-url: /oberhausen/horsthemke/
+url: /oberhausen/horsthemke-muelheimer-strasse/
 shop: Bäckerei
 ---

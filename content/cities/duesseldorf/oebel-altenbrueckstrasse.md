@@ -1,5 +1,5 @@
 ---
 title: "Oebel"
-url: /duesseldorf/oebel/
+url: /duesseldorf/oebel-altenbrueckstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /hagen/getraenke-hoffmann/
+url: /hagen/getraenke-hoffmann-revelstrasse/
 shop: Getränke
 ---

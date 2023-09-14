@@ -1,5 +1,5 @@
 ---
 title: "Gatenbröcker"
-url: /recklinghausen/gatenbroecker/
+url: /recklinghausen/gatenbroecker-markt/
 shop: Bäckerei
 ---

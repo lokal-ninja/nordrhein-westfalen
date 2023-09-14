@@ -1,5 +1,5 @@
 ---
 title: "SuperBioMarkt"
-url: /duesseldorf/superbiomarkt/
+url: /duesseldorf/superbiomarkt-nordstrasse/
 shop: Supermarkt
 ---

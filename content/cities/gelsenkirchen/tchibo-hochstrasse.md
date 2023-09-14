@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /gelsenkirchen/tchibo/
+url: /gelsenkirchen/tchibo-hochstrasse/
 shop: Kaffee
 ---

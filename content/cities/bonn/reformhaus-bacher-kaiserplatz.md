@@ -1,5 +1,5 @@
 ---
 title: "Reformhaus Bacher"
-url: /bonn/reformhaus-bacher/
+url: /bonn/reformhaus-bacher-kaiserplatz/
 shop: Bioladen
 ---

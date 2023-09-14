@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff"
-url: /essen/wolsdorff/
+url: /essen/wolsdorff-ruettenscheider-strasse/
 shop: Tabak
 ---

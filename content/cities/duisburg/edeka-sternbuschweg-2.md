@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /duisburg/edeka/
+url: /duisburg/edeka-sternbuschweg-2/
 shop: Supermarkt
 ---

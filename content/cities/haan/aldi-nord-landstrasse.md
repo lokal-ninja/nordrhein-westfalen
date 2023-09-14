@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /haan/aldi-nord/
+url: /haan/aldi-nord-landstrasse/
 shop: Supermarkt
 ---

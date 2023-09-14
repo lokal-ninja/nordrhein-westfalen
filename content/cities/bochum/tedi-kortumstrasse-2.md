@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /bochum/tedi/
+url: /bochum/tedi-kortumstrasse-2/
 shop: Kramladen
 ---

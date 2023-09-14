@@ -1,5 +1,5 @@
 ---
 title: "Büssing"
-url: /neuss/buessing/
+url: /neuss/buessing-artur-platz-weg/
 shop: Metzgerei
 ---

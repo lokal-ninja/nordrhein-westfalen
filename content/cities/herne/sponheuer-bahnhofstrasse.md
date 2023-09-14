@@ -1,5 +1,5 @@
 ---
 title: "Sponheuer"
-url: /herne/sponheuer/
+url: /herne/sponheuer-bahnhofstrasse/
 shop: Bäckerei
 ---

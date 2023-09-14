@@ -1,5 +1,5 @@
 ---
 title: "MankelMuth"
-url: /siegen/mankelmuth/
+url: /siegen/mankelmuth-hauptmarkt/
 shop: Bücher
 ---

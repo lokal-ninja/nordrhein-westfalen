@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /bonn/hundm/
+url: /bonn/hundm-poststrasse/
 shop: Kleidung
 ---

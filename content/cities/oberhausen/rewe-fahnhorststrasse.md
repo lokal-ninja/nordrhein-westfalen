@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /oberhausen/rewe/
+url: /oberhausen/rewe-fahnhorststrasse/
 shop: Supermarkt
 ---

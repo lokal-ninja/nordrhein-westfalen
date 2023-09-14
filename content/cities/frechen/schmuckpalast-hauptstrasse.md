@@ -1,5 +1,5 @@
 ---
 title: "Schmuckpalast"
-url: /frechen/schmuckpalast/
+url: /frechen/schmuckpalast-hauptstrasse/
 shop: Schmuck
 ---

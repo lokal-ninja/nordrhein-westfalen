@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /wuppertal/kaufland/
+url: /wuppertal/kaufland-kaiserstrasse/
 shop: Supermarkt
 ---

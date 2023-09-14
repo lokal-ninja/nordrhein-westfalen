@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /korschenbroich/aldi/
+url: /korschenbroich/aldi-puellenweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /dortmund/kamps/
+url: /dortmund/kamps-wulfshofstrasse/
 shop: Bäckerei
 ---

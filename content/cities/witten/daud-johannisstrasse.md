@@ -1,5 +1,5 @@
 ---
 title: "Daud"
-url: /witten/daud/
+url: /witten/daud-johannisstrasse/
 shop: Kiosk
 ---

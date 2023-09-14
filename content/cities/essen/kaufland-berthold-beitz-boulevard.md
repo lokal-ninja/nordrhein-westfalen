@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /essen/kaufland/
+url: /essen/kaufland-berthold-beitz-boulevard/
 shop: Supermarkt
 ---

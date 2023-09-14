@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /gelsenkirchen/tedi/
+url: /gelsenkirchen/tedi-bahnhofstrasse/
 shop: Kramladen
 ---

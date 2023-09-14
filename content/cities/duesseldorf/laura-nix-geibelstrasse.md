@@ -1,5 +1,5 @@
 ---
 title: "Laura Nix"
-url: /duesseldorf/laura-nix/
+url: /duesseldorf/laura-nix-geibelstrasse/
 shop: Friseur
 ---

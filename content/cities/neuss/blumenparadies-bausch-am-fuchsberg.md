@@ -1,5 +1,5 @@
 ---
 title: "Blumenparadies Bausch"
-url: /neuss/blumenparadies-bausch/
+url: /neuss/blumenparadies-bausch-am-fuchsberg/
 shop: Blumen
 ---

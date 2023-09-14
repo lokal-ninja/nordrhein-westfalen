@@ -1,5 +1,5 @@
 ---
 title: "Claßen"
-url: /kreuzau/classen/
+url: /kreuzau/classen-wehrstrasse/
 shop: Bäckerei
 ---

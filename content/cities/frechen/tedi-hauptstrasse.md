@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /frechen/tedi/
+url: /frechen/tedi-hauptstrasse/
 shop: Kramladen
 ---

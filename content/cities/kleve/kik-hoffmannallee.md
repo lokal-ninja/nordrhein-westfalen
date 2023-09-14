@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /kleve/kik/
+url: /kleve/kik-hoffmannallee/
 shop: Kleidung
 ---

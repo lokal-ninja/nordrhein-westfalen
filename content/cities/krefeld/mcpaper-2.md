@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /krefeld/mcpaper/
+url: /krefeld/mcpaper-2/
 shop: Schreibwaren
 ---

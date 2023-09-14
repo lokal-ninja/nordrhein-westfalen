@@ -1,5 +1,5 @@
 ---
 title: "Stadthaus"
-url: /essen/stadthaus/
+url: /essen/stadthaus-ruettenscheider-stern/
 shop: Möbel
 ---

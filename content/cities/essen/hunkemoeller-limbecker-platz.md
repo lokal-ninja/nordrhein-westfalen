@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /essen/hunkemoeller/
+url: /essen/hunkemoeller-limbecker-platz/
 shop: Kleidung
 ---

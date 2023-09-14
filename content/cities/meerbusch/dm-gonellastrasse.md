@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /meerbusch/dm/
+url: /meerbusch/dm-gonellastrasse/
 shop: Drogerie
 ---

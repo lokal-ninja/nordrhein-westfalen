@@ -1,5 +1,5 @@
 ---
 title: "Mengedoht"
-url: /lemgo/mengedoht/
+url: /lemgo/mengedoht-mittelstrasse/
 shop: Schuhe
 ---

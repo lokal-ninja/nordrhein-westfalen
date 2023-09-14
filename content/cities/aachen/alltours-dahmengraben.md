@@ -1,5 +1,5 @@
 ---
 title: "Alltours"
-url: /aachen/alltours/
+url: /aachen/alltours-dahmengraben/
 shop: Reisebüro
 ---

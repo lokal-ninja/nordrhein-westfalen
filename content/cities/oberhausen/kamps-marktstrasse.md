@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /oberhausen/kamps/
+url: /oberhausen/kamps-marktstrasse/
 shop: Bäckerei
 ---

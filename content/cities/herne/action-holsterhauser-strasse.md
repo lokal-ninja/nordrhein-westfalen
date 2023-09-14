@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /herne/action/
+url: /herne/action-holsterhauser-strasse/
 shop: Kramladen
 ---

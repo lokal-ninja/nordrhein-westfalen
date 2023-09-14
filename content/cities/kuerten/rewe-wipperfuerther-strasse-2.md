@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /kuerten/rewe/
-shop: Supermarkt
+url: /kuerten/rewe-wipperfuerther-strasse-2/
+shop: Getränke
 ---

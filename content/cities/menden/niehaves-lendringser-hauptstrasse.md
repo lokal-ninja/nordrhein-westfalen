@@ -1,5 +1,5 @@
 ---
 title: "Niehaves"
-url: /menden/niehaves/
+url: /menden/niehaves-lendringser-hauptstrasse/
 shop: Bäckerei
 ---

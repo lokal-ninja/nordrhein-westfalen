@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /bochum/kik/
+url: /bochum/kik-kemnader-strasse/
 shop: Kleidung
 ---

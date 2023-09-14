@@ -1,5 +1,5 @@
 ---
 title: "Aksu"
-url: /koeln/aksu/
+url: /koeln/aksu-keupstrasse/
 shop: Schmuck
 ---

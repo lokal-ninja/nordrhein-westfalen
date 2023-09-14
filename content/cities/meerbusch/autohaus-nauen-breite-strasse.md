@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Nauen"
-url: /meerbusch/autohaus-nauen/
+url: /meerbusch/autohaus-nauen-breite-strasse/
 shop: Autohaus
 ---

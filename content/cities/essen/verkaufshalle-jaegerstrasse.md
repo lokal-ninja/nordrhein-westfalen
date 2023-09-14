@@ -1,5 +1,5 @@
 ---
 title: "Verkaufshalle"
-url: /essen/verkaufshalle/
+url: /essen/verkaufshalle-jaegerstrasse/
 shop: Kiosk
 ---

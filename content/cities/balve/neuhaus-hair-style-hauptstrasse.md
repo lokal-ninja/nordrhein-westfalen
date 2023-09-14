@@ -1,5 +1,5 @@
 ---
 title: "Neuhaus Hair Style"
-url: /balve/neuhaus-hair-style/
+url: /balve/neuhaus-hair-style-hauptstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /lengerich/aldi/
+url: /lengerich/aldi-tecklenburger-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esser"
-url: /heinsberg/esser/
+url: /heinsberg/esser-carl-benz-strasse/
 shop: Metzgerei
 ---

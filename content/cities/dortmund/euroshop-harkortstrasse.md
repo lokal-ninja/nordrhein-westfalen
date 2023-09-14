@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /dortmund/euroshop/
+url: /dortmund/euroshop-harkortstrasse/
 shop: Kramladen
 ---

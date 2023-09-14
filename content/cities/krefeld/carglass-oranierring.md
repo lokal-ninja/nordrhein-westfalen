@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /krefeld/carglass/
+url: /krefeld/carglass-oranierring/
 shop: Autowerkstatt
 ---

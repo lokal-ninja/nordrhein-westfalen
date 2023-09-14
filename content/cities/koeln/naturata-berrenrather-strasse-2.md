@@ -1,5 +1,5 @@
 ---
 title: "Naturata"
-url: /koeln/naturata/
+url: /koeln/naturata-berrenrather-strasse-2/
 shop: Spielzeug
 ---

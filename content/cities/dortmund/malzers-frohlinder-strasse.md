@@ -1,5 +1,5 @@
 ---
 title: "Malzers"
-url: /dortmund/malzers/
+url: /dortmund/malzers-frohlinder-strasse/
 shop: Bäckerei
 ---

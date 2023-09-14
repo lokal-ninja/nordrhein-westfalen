@@ -1,5 +1,5 @@
 ---
 title: "Stinges"
-url: /moenchengladbach/stinges/
+url: /moenchengladbach/stinges-monschauer-strasse/
 shop: Bäckerei
 ---

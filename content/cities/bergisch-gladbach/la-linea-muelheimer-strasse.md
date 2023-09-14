@@ -1,5 +1,5 @@
 ---
 title: "La Linea"
-url: /bergisch-gladbach/la-linea/
+url: /bergisch-gladbach/la-linea-muelheimer-strasse/
 shop: Autohaus
 ---

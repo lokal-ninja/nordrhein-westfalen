@@ -1,5 +1,5 @@
 ---
 title: "Diepenbrock"
-url: /everswinkel/diepenbrock/
+url: /everswinkel/diepenbrock-vitusstrasse/
 shop: Bäckerei
 ---

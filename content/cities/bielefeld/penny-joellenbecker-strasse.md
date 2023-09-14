@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /bielefeld/penny/
+url: /bielefeld/penny-joellenbecker-strasse/
 shop: Supermarkt
 ---

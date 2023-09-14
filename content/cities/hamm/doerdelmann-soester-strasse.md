@@ -1,5 +1,5 @@
 ---
 title: "Dördelmann"
-url: /hamm/doerdelmann/
+url: /hamm/doerdelmann-soester-strasse/
 shop: Bäckerei
 ---

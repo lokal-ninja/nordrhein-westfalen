@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /neuss/vodafone/
+url: /neuss/vodafone-buechel/
 shop: Handy
 ---

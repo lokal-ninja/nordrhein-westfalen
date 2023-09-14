@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /bochum/mediamarkt/
+url: /bochum/mediamarkt-hofsteder-strasse/
 shop: Elektronik
 ---

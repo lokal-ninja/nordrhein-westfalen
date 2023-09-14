@@ -1,5 +1,5 @@
 ---
 title: "Nobis"
-url: /aachen/nobis/
+url: /aachen/nobis-von-coels-strasse/
 shop: Bäckerei
 ---

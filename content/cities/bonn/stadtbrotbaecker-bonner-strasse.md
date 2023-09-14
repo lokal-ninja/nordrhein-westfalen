@@ -1,5 +1,5 @@
 ---
 title: "StadtBROTBäcker"
-url: /bonn/stadtbrotbaecker/
+url: /bonn/stadtbrotbaecker-bonner-strasse/
 shop: Bäckerei
 ---

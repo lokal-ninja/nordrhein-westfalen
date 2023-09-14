@@ -1,5 +1,5 @@
 ---
 title: "Skiverleih Ahre"
-url: /winterberg/skiverleih-ahre/
+url: /winterberg/skiverleih-ahre-remmeswiese/
 shop: Mieten
 ---

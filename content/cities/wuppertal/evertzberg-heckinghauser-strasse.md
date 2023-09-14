@@ -1,5 +1,5 @@
 ---
 title: "Evertzberg"
-url: /wuppertal/evertzberg/
+url: /wuppertal/evertzberg-heckinghauser-strasse/
 shop: Bäckerei
 ---

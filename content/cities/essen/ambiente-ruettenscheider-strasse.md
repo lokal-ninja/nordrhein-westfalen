@@ -1,5 +1,5 @@
 ---
 title: "Ambiente"
-url: /essen/ambiente/
+url: /essen/ambiente-ruettenscheider-strasse/
 shop: Möbel
 ---
