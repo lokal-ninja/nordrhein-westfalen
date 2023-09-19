@@ -1,11 +1,11 @@
-id: 3391243393
-type: node
-latitude: 50.87522
-longitude: 8.01707
-postcode: "57072"
+id: 207879207
+type: way
+latitude: 50.85157
+longitude: 8.02591
+postcode: "57074"
 city: Siegen
-street: "Am Bahnhof"
-housenumber: 7
+street: "Leimbachstraße"
+housenumber: 266
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://hees.de/"
+opening_hours: ""
+website: ""

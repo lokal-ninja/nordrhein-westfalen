@@ -1,5 +1,5 @@
 ---
 title: "Depot"
 url: /luebbecke/depot/
-shop: Allgemein
+shop: Raumausstattung
 ---
