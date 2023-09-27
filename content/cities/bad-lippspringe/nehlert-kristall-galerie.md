@@ -1,5 +1,5 @@
 ---
 title: "Nehlert Kristall Galerie"
 url: /bad-lippspringe/nehlert-kristall-galerie/
-shop: Allgemein
+shop: Haushaltsartikel
 ---
