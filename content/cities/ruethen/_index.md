@@ -1,6 +1,6 @@
 ---
 title: Rüthen
 url: /ruethen/
-latitude: 51.493
-longitude: 8.43
+latitude: 51.49
+longitude: 8.433
 ---
