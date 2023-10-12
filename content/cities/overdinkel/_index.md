@@ -1,6 +1,6 @@
 ---
 title: Overdinkel
 url: /overdinkel/
-latitude: 52.228
-longitude: 7.039
+latitude: 52.227
+longitude: 7.038
 ---

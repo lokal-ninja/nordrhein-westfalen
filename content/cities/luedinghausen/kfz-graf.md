@@ -1,5 +1,5 @@
 ---
-title: "KFZ Graf"
+title: "Kfz Graf"
 url: /luedinghausen/kfz-graf/
-shop: Autohaus
+shop: Autoteile
 ---

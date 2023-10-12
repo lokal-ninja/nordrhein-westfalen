@@ -7,5 +7,5 @@ city: Paderborn
 street: "Karlstraße"
 housenumber: 23
 phone: "+49 5251 22896"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-13:00; PH,Su off"
+opening_hours: "Mo,We,Th,Fr 07:30-18:30; Sa 07:00-13:00; PH,Su,Tu off"
 website: "http://www.fleischerei-loke.de"
