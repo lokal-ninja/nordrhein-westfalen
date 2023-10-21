@@ -1,5 +1,5 @@
 ---
-title: "Hacke"
+title: "hacke"
 url: /schmallenberg/hacke/
-shop: Autoteile
+shop: Reifen
 ---

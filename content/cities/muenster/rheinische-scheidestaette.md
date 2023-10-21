@@ -1,5 +1,5 @@
 ---
 title: "Rheinische Scheidestätte"
 url: /muenster/rheinische-scheidestaette/
-shop: Allgemein
+shop: Sammler
 ---
