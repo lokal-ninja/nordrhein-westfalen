@@ -1,5 +1,5 @@
 ---
-title: "TicketCenter OWL -Verkehr"
+title: "TicketCenter OWL Verkehr"
 url: /bielefeld/ticketcenter-owl-verkehr/
-shop: Allgemein
+shop: Tickets
 ---
