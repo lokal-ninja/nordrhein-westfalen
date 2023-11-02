@@ -1,6 +1,6 @@
 ---
 title: Meerbusch
 url: /meerbusch/
-latitude: 51.252
-longitude: 6.688
+latitude: 51.244
+longitude: 6.698
 ---

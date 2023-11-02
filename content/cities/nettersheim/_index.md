@@ -1,6 +1,6 @@
 ---
 title: Nettersheim
 url: /nettersheim/
-latitude: 50.48
-longitude: 6.579
+latitude: 50.492
+longitude: 6.629
 ---

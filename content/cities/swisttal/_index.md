@@ -2,5 +2,5 @@
 title: Swisttal
 url: /swisttal/
 latitude: 50.718
-longitude: 6.913
+longitude: 6.912
 ---

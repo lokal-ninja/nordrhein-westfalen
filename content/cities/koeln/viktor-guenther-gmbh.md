@@ -1,5 +1,5 @@
 ---
 title: "Viktor Günther GmbH"
 url: /koeln/viktor-guenther-gmbh/
-shop: Allgemein
+shop: Autowerkstatt
 ---

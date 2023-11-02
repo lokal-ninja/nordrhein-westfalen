@@ -1,6 +1,6 @@
 ---
 title: Herscheid
 url: /herscheid/
-latitude: 51.192
-longitude: 7.801
+latitude: 51.193
+longitude: 7.797
 ---
