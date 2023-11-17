@@ -1,5 +1,5 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /muenster/kodi/
-shop: Kramladen
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
-title: "depot"
+title: "Depot"
 url: /kempen/depot/
-shop: Warenhaus
+shop: Raumausstattung
 ---

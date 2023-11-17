@@ -1,5 +1,5 @@
 ---
 title: "noni"
 url: /koeln/noni/
-shop: Allgemein
+shop: Kleidung
 ---

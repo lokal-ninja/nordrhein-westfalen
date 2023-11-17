@@ -1,6 +1,6 @@
 ---
 title: Dülmen
 url: /duelmen/
-latitude: 51.841
-longitude: 7.29
+latitude: 51.84
+longitude: 7.287
 ---

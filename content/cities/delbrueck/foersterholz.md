@@ -1,5 +1,5 @@
 ---
 title: "Försterholz"
 url: /delbrueck/foersterholz/
-shop: Holz
+shop: Baustoffe
 ---
