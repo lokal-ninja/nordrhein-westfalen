@@ -1,5 +1,5 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /duisburg/kodi-muenchener-strasse/
-shop: Kramladen
+shop: Haushaltsartikel
 ---

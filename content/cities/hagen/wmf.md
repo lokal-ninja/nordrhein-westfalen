@@ -1,5 +1,5 @@
 ---
 title: "WMF"
 url: /hagen/wmf/
-shop: Küchen
+shop: Haushaltsartikel
 ---

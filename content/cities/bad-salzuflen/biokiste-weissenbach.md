@@ -1,5 +1,5 @@
 ---
-title: "Biokiste Weißenbach"
+title: "Biokiste Weissenbach"
 url: /bad-salzuflen/biokiste-weissenbach/
-shop: Supermarkt
+shop: Hofladen
 ---

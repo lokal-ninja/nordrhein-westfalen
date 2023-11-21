@@ -1,5 +1,5 @@
 ---
-title: "Bäckerei Karlchen's Backstube"
+title: "Bäckerei Karlchens Backstube"
 url: /detmold/baeckerei-karlchens-backstube/
 shop: Bäckerei
 ---
