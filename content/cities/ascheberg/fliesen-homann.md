@@ -1,5 +1,5 @@
 ---
 title: "Fliesen Homann"
 url: /ascheberg/fliesen-homann/
-shop: Allgemein
+shop: Fliesen
 ---
