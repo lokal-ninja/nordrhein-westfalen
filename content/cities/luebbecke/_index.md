@@ -1,6 +1,6 @@
 ---
 title: Lübbecke
 url: /luebbecke/
-latitude: 52.303
-longitude: 8.614
+latitude: 52.307
+longitude: 8.623
 ---
