@@ -7,5 +7,5 @@ city: Bonn
 street: "Am Neutor"
 housenumber: 5
 phone: "+49 228 92985599"
-opening_hours: "Mo-Mi 12:00-18:00, Do-Fr 12:00-19:00, Sa 11:00-16:00"
+opening_hours: "Mo-We 12:00-18:00; Th-Fr 12:00-19:00; Sa 11:00-16:00"
 website: "https://www.lcdh-bonn.de"
