@@ -1,5 +1,5 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /leverkusen/kodi/
-shop: Warenhaus
+shop: Haushaltsartikel
 ---

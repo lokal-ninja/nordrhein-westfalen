@@ -1,5 +1,5 @@
 ---
-title: "Sonderpreis-Baumarkt"
+title: "Sonderpreis Baumarkt"
 url: /detmold/sonderpreis-baumarkt/
 shop: Baumarkt
 ---

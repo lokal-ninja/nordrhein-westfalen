@@ -1,6 +1,6 @@
 ---
 title: Lotte
 url: /lotte/
-latitude: 52.273
-longitude: 7.914
+latitude: 52.267
+longitude: 7.915
 ---
