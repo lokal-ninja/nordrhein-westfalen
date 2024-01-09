@@ -1,6 +1,6 @@
 ---
 title: Hille
 url: /hille/
-latitude: 52.276
-longitude: 8.783
+latitude: 52.335
+longitude: 8.745
 ---
