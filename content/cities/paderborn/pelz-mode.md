@@ -1,5 +1,5 @@
 ---
 title: "Pelz-Mode"
 url: /paderborn/pelz-mode/
-shop: Allgemein
+shop: Kleidung
 ---

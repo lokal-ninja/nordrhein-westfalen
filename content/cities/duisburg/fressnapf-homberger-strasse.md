@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
 url: /duisburg/fressnapf-homberger-strasse/
-shop: Tierfutter
+shop: Tiere
 ---

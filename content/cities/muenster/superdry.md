@@ -1,5 +1,5 @@
 ---
-title: "SuperDry"
+title: "Superdry"
 url: /muenster/superdry/
 shop: Kleidung
 ---

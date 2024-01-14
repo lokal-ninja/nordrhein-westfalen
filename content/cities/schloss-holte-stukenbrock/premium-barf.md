@@ -1,5 +1,5 @@
 ---
 title: "Premium BARF"
 url: /schloss-holte-stukenbrock/premium-barf/
-shop: Tierfutter
+shop: Tiere
 ---
