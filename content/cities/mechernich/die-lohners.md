@@ -1,5 +1,5 @@
 ---
-title: "Die Lohner’s"
+title: "Die Lohner's"
 url: /mechernich/die-lohners/
 shop: Bäckerei
 ---
