@@ -1,6 +1,6 @@
 ---
 title: Geldern
 url: /geldern/
-latitude: 51.52
-longitude: 6.328
+latitude: 51.523
+longitude: 6.35
 ---

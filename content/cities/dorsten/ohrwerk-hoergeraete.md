@@ -1,5 +1,5 @@
 ---
-title: "Ohrwerk Hörgeräte"
+title: "OHRWERK Hörgeräte"
 url: /dorsten/ohrwerk-hoergeraete/
 shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DROSS Wohnkultur"
+title: "Dross Wohnkultur"
 url: /grevenbroich/dross-wohnkultur/
 shop: Raumausstattung
 ---
