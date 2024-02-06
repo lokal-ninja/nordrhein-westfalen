@@ -1,11 +1,11 @@
 id: 5646521497
 type: node
-latitude: 51.45916
-longitude: 7.19823
+latitude: 51.45915
+longitude: 7.19825
 postcode: "44795"
 city: Bochum
 street: "Hattinger Straße"
 housenumber: 252
-phone: "+49 234 232141"
-opening_hours: "Mo-Sa 09:00-13:00; Mo-Fr 15:00-18:00"
+phone: ""
+opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00, Sa 09:00-13:00; PH off"
 website: ""

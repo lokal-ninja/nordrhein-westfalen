@@ -1,6 +1,6 @@
 ---
 title: Kerpen
 url: /kerpen/
-latitude: 50.849
-longitude: 6.776
+latitude: 50.916
+longitude: 6.708
 ---
