@@ -1,5 +1,5 @@
 ---
 title: "Spargelhof Janßen"
 url: /geldern/spargelhof-janssen/
-shop: Allgemein
+shop: Hofladen
 ---

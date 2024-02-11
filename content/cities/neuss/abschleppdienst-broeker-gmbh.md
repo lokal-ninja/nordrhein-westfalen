@@ -1,5 +1,5 @@
 ---
 title: "Abschleppdienst Bröker GmbH"
 url: /neuss/abschleppdienst-broeker-gmbh/
-shop: Autoservice
+shop: Autowerkstatt
 ---
