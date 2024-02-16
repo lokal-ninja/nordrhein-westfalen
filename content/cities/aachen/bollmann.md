@@ -1,5 +1,5 @@
 ---
-title: "bollmann"
+title: "Bollmann"
 url: /aachen/bollmann/
-shop: Farben
+shop: Großhandel
 ---
