@@ -1,5 +1,5 @@
 ---
 title: "Hausfelder"
 url: /hagen/hausfelder/
-shop: Textil
+shop: Taschen & Koffer
 ---
