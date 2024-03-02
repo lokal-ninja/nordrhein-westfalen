@@ -7,5 +7,5 @@ city: Aachen
 street: "Krämerstraße"
 housenumber: 5
 phone: "+49 241 95716101"
-opening_hours: "Mo-Fr 12:00-20:00; Sa,Su 10:00-20:00"
+opening_hours: "Mo-Fr 12:00-20:00+; Sa,Su 10:00-20:00+"
 website: "http://www.ghorban.de/"

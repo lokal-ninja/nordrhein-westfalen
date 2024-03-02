@@ -1,5 +1,5 @@
 ---
-title: "Trinkgut"
+title: "trinkgut"
 url: /remscheid/trinkgut/
-shop: Supermarkt
+shop: Getränke
 ---
