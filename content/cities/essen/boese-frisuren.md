@@ -1,5 +1,5 @@
 ---
-title: "BOESE FRISUREN"
+title: "Böse Frisuren"
 url: /essen/boese-frisuren/
 shop: Friseur
 ---
