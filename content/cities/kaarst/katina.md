@@ -1,5 +1,5 @@
 ---
 title: "Katina"
 url: /kaarst/katina/
-shop: Allgemein
+shop: Sport
 ---

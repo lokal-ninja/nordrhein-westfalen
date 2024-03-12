@@ -1,5 +1,5 @@
 ---
-title: "Equiva"
+title: "EQUIVA"
 url: /neuss/equiva/
-shop: Tiere
+shop: Sport
 ---

@@ -1,11 +1,11 @@
-id: 916736309
-type: way
-latitude: 51.42937
-longitude: 6.88647
-postcode: "45468"
+id: 5098143858
+type: node
+latitude: 51.4378
+longitude: 6.95525
+postcode: "45472"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 1h
-phone: "+49 208 43720897"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.hema.com"
+street: "Humboldtring"
+housenumber: 13
+phone: ""
+opening_hours: ""
+website: "https://filialen.hema.com/de/m%C3%BClheim-am-ruhr/hema-m%C3%BClheim"

@@ -1,11 +1,11 @@
-id: 1473028001
+id: 1750817200
 type: node
-latitude: 51.45613
-longitude: 7.01294
-postcode: "45127"
+latitude: 51.47433
+longitude: 6.95119
+postcode: "45355"
 city: Essen
-street: "Kettwiger Straße"
+street: "Marktstraße"
 housenumber: 40
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: ""
+opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-15:00"
+website: "https://www.deichmann.com"
