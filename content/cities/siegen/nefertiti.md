@@ -1,5 +1,5 @@
 ---
 title: "Nefertiti"
 url: /siegen/nefertiti/
-shop: Friseur
+shop: Tattoo
 ---
