@@ -1,5 +1,5 @@
 ---
-title: "CENTRO"
+title: "Centro"
 url: /duesseldorf/centro/
-shop: Feinkost
+shop: Lebensmittel
 ---
