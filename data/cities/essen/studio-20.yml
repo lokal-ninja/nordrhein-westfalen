@@ -1,11 +1,11 @@
 id: 4393679905
 type: node
-latitude: 51.43745
-longitude: 7.00353
+latitude: 51.43746
+longitude: 7.00352
 postcode: "45130"
 city: Essen
 street: "Zweigertstraße"
 housenumber: 20
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00, Th 09:00-21:00, Sa 08:30-14:00"
+opening_hours: "Tu-We,Fr 09:00-18:00; Th 09:00-21:00; Sa 08:30-14:00"
 website: ""

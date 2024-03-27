@@ -1,6 +1,6 @@
 ---
 title: Bochum
 url: /bochum/
-latitude: 51.426
-longitude: 7.145
+latitude: 51.454
+longitude: 7.148
 ---
