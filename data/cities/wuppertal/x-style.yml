@@ -7,5 +7,5 @@ city: Wuppertal
 street: "Werth"
 housenumber: 99
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: "Mar Su[-1] - Oct Su[-1] - 1 day Mo-Sa 09:30-20:00, Oct Su[-1] - Mar Su[-1] - 1 day Mo-Sa 09:30-19:00; Su,PH off"
 website: ""

@@ -1,11 +1,11 @@
-id: 7100092526
-type: node
-latitude: 51.72615
-longitude: 7.02695
-postcode: "46286"
+id: 243819279
+type: way
+latitude: 51.66885
+longitude: 6.98093
+postcode: "46284"
 city: Dorsten
-street: "Wulfener Markt"
-housenumber: 354
-phone: "+49 2369 2087070"
-opening_hours: "Mo,Tu,We,Fr 09:00-13:00; Th 09:00-13:00, 14:30-18:00; Sa 09:00-13:00; PH off"
-website: "http://www.die-palette.de/"
+street: "Im Harsewinkel"
+housenumber: 22
+phone: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00; PH off"
+website: ""

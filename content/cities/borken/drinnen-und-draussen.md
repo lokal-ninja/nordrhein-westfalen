@@ -1,5 +1,5 @@
 ---
-title: "drinnen und draußen"
+title: "Drinnen und draussen"
 url: /borken/drinnen-und-draussen/
-shop: Blumen
+shop: Raumausstattung
 ---
