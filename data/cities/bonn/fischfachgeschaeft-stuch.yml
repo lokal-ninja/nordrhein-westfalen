@@ -7,5 +7,5 @@ city: Bonn
 street: "Theaterplatz"
 housenumber: 6
 phone: "+49 228 93299942"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: "Mo,Tu,Th 09:00-18:00; Sa 09:00-15:00; Fr 09:00-19:00"
 website: "http://www.fischfachgeschaeft-stuch.de/filiale-04.php"

@@ -1,11 +1,11 @@
 id: 8660018731
 type: node
-latitude: 51.42742
-longitude: 6.88183
+latitude: 51.42743
+longitude: 6.88191
 postcode: "45468"
 city: Mülheim an der Ruhr
 street: "Leineweberstraße"
 housenumber: 47
 phone: "+49 208 4449050"
-opening_hours: "Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; We off"
-website: "http://www.excaliburminiaturen.de/dt/"
+opening_hours: "Mo,Di,Do,Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; We,Su,Ph off"
+website: "https://www.druckertankstelle.nrw"

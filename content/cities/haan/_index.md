@@ -1,6 +1,6 @@
 ---
 title: Haan
 url: /haan/
-latitude: 51.193
-longitude: 7.011
+latitude: 51.195
+longitude: 7.015
 ---

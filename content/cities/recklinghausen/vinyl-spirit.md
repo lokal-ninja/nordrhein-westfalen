@@ -1,5 +1,5 @@
 ---
-title: "Vinyl Spirit"
+title: "Vinyl-Spirit"
 url: /recklinghausen/vinyl-spirit/
 shop: Musik
 ---
