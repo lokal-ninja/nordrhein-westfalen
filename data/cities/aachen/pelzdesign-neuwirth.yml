@@ -1,11 +1,11 @@
-id: 83729608
-type: way
-latitude: 50.77429
-longitude: 6.08302
+id: 11804770492
+type: node
+latitude: 50.77426
+longitude: 6.08305
 postcode: ""
 city: Aachen
 street: "Schmiedstraße"
 housenumber: 3a
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"
+website: "https://pelzdesign-neuwirth.de/"

@@ -1,6 +1,6 @@
 ---
 title: Odenthal
 url: /odenthal/
-latitude: 51.055
-longitude: 7.132
+latitude: 51.029
+longitude: 7.102
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Getränke HOFFMANN"
+title: "Getränke Hoffmann"
 url: /hagen/getraenke-hoffmann-elseyer-strasse/
 shop: Getränke
 ---

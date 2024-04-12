@@ -1,5 +1,5 @@
 ---
-title: "Trinkgut"
+title: "trinkgut"
 url: /lage/trinkgut/
 shop: Getränke
 ---

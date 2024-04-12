@@ -1,11 +1,11 @@
-id: 146834103
-type: way
-latitude: 50.77534
-longitude: 6.08122
+id: 11804770487
+type: node
+latitude: 50.77532
+longitude: 6.08113
 postcode: "52064"
 city: Aachen
 street: "Jakobstraße"
 housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hodey.de/vitalcentrum-hodey-ag/standorte/aachen/"
+opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa,Su,PH off"
+website: "https://hodey.de/standorte/sanitaetshaus-aachen/"

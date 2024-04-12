@@ -1,6 +1,6 @@
 ---
 title: Barntrup
 url: /barntrup/
-latitude: 51.99
-longitude: 9.125
+latitude: 51.988
+longitude: 9.134
 ---

@@ -1,11 +1,11 @@
-id: 83834311
-type: way
-latitude: 50.77828
-longitude: 6.08236
+id: 11804770484
+type: node
+latitude: 50.77825
+longitude: 6.08221
 postcode: "52062"
 city: Aachen
 street: "Pontstraße"
 housenumber: 64
-phone: "+49 241 365 39"
-opening_hours: "Tu-Fr 11:00-17:00; Sa 11:00-14:00; PH,Su,Mo off"
-website: "https://www.slowfood.de/slow_food_vor_ort/aachen/archiv/200905_teeverkostung/"
+phone: "+49 241 36539"
+opening_hours: "Tu-Fr 11:00-17:00; Sa 11:00-15:00; PH,Su,Mo off"
+website: "https://tee-jansen.de/"

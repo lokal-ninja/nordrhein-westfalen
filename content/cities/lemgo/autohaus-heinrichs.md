@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Heinrichs"
 url: /lemgo/autohaus-heinrichs/
-shop: Autowerkstatt
+shop: Autohaus
 ---

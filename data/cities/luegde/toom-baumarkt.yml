@@ -1,11 +1,11 @@
-id: 29043181
-type: way
-latitude: 51.96713
-longitude: 9.25073
+id: 11802796252
+type: node
+latitude: 51.96705
+longitude: 9.25147
 postcode: "32676"
 city: Lügde
 street: "Siemensstraße"
 housenumber: 30
 phone: "+49 5281 163310"
-opening_hours: "Mo-Th,Sa 09:00-20:00; Fr 09:00-22:00; PH off"
-website: ""
+opening_hours: "Mo-Su 09:00-20:00"
+website: "https://toom.de/m/luegde/"
