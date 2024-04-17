@@ -1,6 +1,6 @@
 ---
 title: Melle
 url: /melle/
-latitude: 52.201
-longitude: 8.455
+latitude: 52.202
+longitude: 8.454
 ---

@@ -7,5 +7,5 @@ city: Dorsten
 street: "Dülmener Straße"
 housenumber: 15
 phone: "+49 2369 4143"
-opening_hours: "Mo-Fr 09:00-12:30; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00; Sa 09:00-12:00"
+opening_hours: "Mo,We 09:00-12:30; Tu,Th,Fr 09:00-12:30, 14:30-17:00; Sa 09:00-12:00"
 website: ""
