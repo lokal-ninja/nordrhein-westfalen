@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /duesseldorf/vodafone/
-shop: Allgemein
+shop: Handy
 ---

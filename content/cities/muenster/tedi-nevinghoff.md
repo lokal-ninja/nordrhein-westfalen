@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /muenster/tedi-nevinghoff/
-shop: Lebensmittel
+shop: Kramladen
 ---

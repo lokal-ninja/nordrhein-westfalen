@@ -7,5 +7,5 @@ city: Düsseldorf
 street: "Nordstraße"
 housenumber: 10
 phone: "+492119132190"
-opening_hours: "Mo-We 08:00-18:00; Th 09:00-18:00; Fr 08:00-18:00; Sa 10:00-14:00"
+opening_hours: "Mo,Tu,Fr 08:00-17:00; We,Th 09:00-18:00"
 website: ""
