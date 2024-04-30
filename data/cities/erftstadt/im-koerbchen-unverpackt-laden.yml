@@ -7,5 +7,5 @@ city: Erftstadt
 street: "Heidebroichstraße"
 housenumber: 15
 phone: "+49 2235 9218821"
-opening_hours: "Mo-Fr 11:00-18:00, Sa 10:00-14:00; Tu off"
+opening_hours: "Mo,We-Fr 09:00-12:00, Sa 10:00-14:00; Tu off, Mo,We-Fr 14:00-18:00"
 website: "https://www.erftstadt-unverpackt.de/"
