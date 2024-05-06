@@ -1,5 +1,5 @@
 ---
 title: "Rutten"
 url: /wuppertal/rutten/
-shop: Kosmetik
+shop: Foto
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wegberg
 url: /wegberg/
-latitude: 51.144
-longitude: 6.284
+latitude: 51.14
+longitude: 6.275
 ---

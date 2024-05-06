@@ -1,11 +1,11 @@
-id: 30845331
-type: way
-latitude: 51.15215
-longitude: 6.36278
-postcode: "41179"
+id: 9332326784
+type: node
+latitude: 51.19773
+longitude: 6.44253
+postcode: "41061"
 city: Mönchengladbach
-street: "Gladbacher Straße"
-housenumber: 49
+street: "Steinmetzstraße"
+housenumber: 71
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: ""
+opening_hours: ""
+website: "https://www.lidl.de/f/moenchengladbach/steinmetzstr-71.html"
