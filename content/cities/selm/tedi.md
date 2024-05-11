@@ -1,5 +1,5 @@
 ---
-title: "TEDI"
+title: "TEDi"
 url: /selm/tedi/
-shop: Kleidung
+shop: Kramladen
 ---

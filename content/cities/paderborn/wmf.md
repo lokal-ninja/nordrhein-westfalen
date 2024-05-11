@@ -1,5 +1,5 @@
 ---
 title: "WMF"
 url: /paderborn/wmf/
-shop: Allgemein
+shop: Haushaltsartikel
 ---

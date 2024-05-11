@@ -1,5 +1,5 @@
 ---
-title: "Equiva"
+title: "EQUIVA"
 url: /paderborn/equiva/
-shop: Pferde
+shop: Sport
 ---
