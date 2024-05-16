@@ -7,5 +7,5 @@ city: Köln
 street: "Gotenring"
 housenumber: 6
 phone: "+49 221 32073303"
-opening_hours: "Mo-Th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-16:00"
+opening_hours: "Mo-We 15:00-19:00; Th,Fr 13:00-20:00; Sa 10:00-16:00"
 website: "https://www.jacques.de/depot/309/koeln-deutz/"
