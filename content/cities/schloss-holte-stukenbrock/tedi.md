@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /schloss-holte-stukenbrock/tedi/
-shop: Andenken
+shop: Kramladen
 ---
