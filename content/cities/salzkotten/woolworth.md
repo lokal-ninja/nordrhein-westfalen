@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /salzkotten/woolworth/
-shop: Kleidung
+shop: Warenhaus
 ---

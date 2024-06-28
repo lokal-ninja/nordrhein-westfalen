@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /gelsenkirchen/woolworth/
-shop: Kleidung
+shop: Warenhaus
 ---

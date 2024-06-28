@@ -1,5 +1,5 @@
 ---
-title: "Riegel Interior"
+title: "Riegel-Interior"
 url: /duesseldorf/riegel-interior/
 shop: Möbel
 ---

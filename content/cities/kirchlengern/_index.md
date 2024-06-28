@@ -1,6 +1,6 @@
 ---
 title: Kirchlengern
 url: /kirchlengern/
-latitude: 52.242
-longitude: 8.63
+latitude: 52.24
+longitude: 8.626
 ---

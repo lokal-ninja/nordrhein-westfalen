@@ -1,5 +1,5 @@
 ---
-title: "Second-Hand-Kaufhaus | BreitSeite"
+title: "Second-Hand-Kaufhaus BreitSeite"
 url: /aachen/second-hand-kaufhaus-breitseite/
 shop: Gebrauchtwaren
 ---
