@@ -1,11 +1,11 @@
-id: 624137552
-type: node
-latitude: 51.60153
-longitude: 7.08165
-postcode: "45701"
+id: 201491125
+type: way
+latitude: 51.58142
+longitude: 7.14502
+postcode: "45699"
 city: Herten
-street: "Zum Bahnhof"
-housenumber: 4
+street: "Ewaldstraße"
+housenumber: 182
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/herten/zum-bahnhof-4.html"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
+website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/herten/ewaldstr-182.html"

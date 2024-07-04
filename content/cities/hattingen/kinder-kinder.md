@@ -1,5 +1,5 @@
 ---
-title: "Kinder- Kinder"
+title: "Kinder Kinder"
 url: /hattingen/kinder-kinder/
-shop: Spielzeug
+shop: Kleidung
 ---
