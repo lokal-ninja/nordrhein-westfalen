@@ -1,6 +1,6 @@
 ---
 title: Gelsenkirchen
 url: /gelsenkirchen/
-latitude: 51.565
-longitude: 7.083
+latitude: 51.56
+longitude: 7.091
 ---

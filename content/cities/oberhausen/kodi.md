@@ -1,5 +1,5 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /oberhausen/kodi/
-shop: Kramladen
+shop: Haushaltsartikel
 ---
