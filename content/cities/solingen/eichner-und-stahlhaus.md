@@ -1,5 +1,5 @@
 ---
 title: "Eichner und Stahlhaus"
 url: /solingen/eichner-und-stahlhaus/
-shop: Schreibwaren
+shop: Modellbau
 ---

@@ -1,6 +1,6 @@
 ---
 title: Attendorn
 url: /attendorn/
-latitude: 51.103
-longitude: 7.959
+latitude: 51.12
+longitude: 7.884
 ---

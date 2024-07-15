@@ -1,5 +1,5 @@
 ---
-title: "Raiffeisen Markt"
+title: "Raiffeisen-Markt"
 url: /attendorn/raiffeisen-markt/
 shop: Baumarkt
 ---
