@@ -1,6 +1,6 @@
 ---
 title: Rietberg
 url: /rietberg/
-latitude: 51.812
-longitude: 8.43
+latitude: 51.83
+longitude: 8.442
 ---

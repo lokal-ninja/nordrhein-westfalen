@@ -1,5 +1,5 @@
 ---
-title: "Kik"
+title: "KiK"
 url: /boenen/kik/
 shop: Kleidung
 ---

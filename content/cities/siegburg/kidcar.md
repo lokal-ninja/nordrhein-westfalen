@@ -1,5 +1,5 @@
 ---
 title: "KidCar"
 url: /siegburg/kidcar/
-shop: Allgemein
+shop: Mieten
 ---
