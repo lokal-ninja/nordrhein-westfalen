@@ -1,11 +1,11 @@
-id: 268945794
-type: node
-latitude: 51.39809
-longitude: 7.1707
-postcode: "45525"
+id: 757670810
+type: way
+latitude: 51.41322
+longitude: 7.17669
+postcode: "45529"
 city: Hattingen
-street: "Eickener Straße"
-housenumber: 48
+street: "Rauendahlstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+website: "https://www.aldi-nord.de/"
