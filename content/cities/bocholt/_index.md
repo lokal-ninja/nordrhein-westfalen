@@ -1,6 +1,6 @@
 ---
 title: Bocholt
 url: /bocholt/
-latitude: 51.84
-longitude: 6.616
+latitude: 51.838
+longitude: 6.636
 ---
