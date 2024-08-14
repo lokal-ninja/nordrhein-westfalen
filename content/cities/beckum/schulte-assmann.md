@@ -1,5 +1,5 @@
 ---
-title: "Schulte-Assmann"
+title: "Schulte-Aßmann"
 url: /beckum/schulte-assmann/
 shop: Metzgerei
 ---

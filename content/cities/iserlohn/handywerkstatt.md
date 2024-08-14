@@ -1,5 +1,5 @@
 ---
 title: "Handywerkstatt"
 url: /iserlohn/handywerkstatt/
-shop: Allgemein
+shop: Handy
 ---
