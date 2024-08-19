@@ -7,5 +7,5 @@ city: Siegburg
 street: "Grimmelsgasse"
 housenumber: 12
 phone: "+49 2241 9764994"
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su 07:00-12:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH 07:00-12:00"
 website: "https://www.baeckerei-hardt.de/"

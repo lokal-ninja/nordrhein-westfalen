@@ -1,5 +1,5 @@
 ---
-title: "bunert"
+title: "Bunert"
 url: /koeln/bunert/
-shop: Allgemein
+shop: Sport
 ---

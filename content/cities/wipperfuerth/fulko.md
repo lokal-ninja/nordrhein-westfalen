@@ -1,5 +1,5 @@
 ---
 title: "Fulko"
 url: /wipperfuerth/fulko/
-shop: Lotterie
+shop: Kiosk
 ---
