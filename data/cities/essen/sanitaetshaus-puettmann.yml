@@ -1,11 +1,11 @@
-id: 64388580
-type: way
-latitude: 51.46
-longitude: 6.97937
-postcode: "45143"
+id: 5014664479
+type: node
+latitude: 51.43833
+longitude: 7.00587
+postcode: "45130"
 city: Essen
-street: "Oberdorfstraße"
-housenumber: 10
-phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; Su,PH off"
-website: ""
+street: "Rüttenscheider Straße"
+housenumber: 87
+phone: "+49 201 61 53 66 8"
+opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, 14:00-18:00; We,Sa 09:00-13:00"
+website: "https://www.sanitaetshaus-puettmann.de/sanitaetshaeuser/essen-ruettenscheid/"
