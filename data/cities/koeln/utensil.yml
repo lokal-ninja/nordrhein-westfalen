@@ -4,8 +4,8 @@ latitude: 50.94861
 longitude: 6.922
 postcode: "50823"
 city: Köln
-street: "Körnerstraße"
-housenumber: 21
-phone: "+49 221 16831673"
-opening_hours: "Tu-Fr 12:00-18:00; Th 12:00-17:00; Sa 12:00-16:00; PH off"
-website: "https://www.utensil-shop.de/"
+street: Körnerstraße
+housenumber: "21"
+phone: +49 221 16831673
+opening_hours: Tu-Fr 12:00-18:00; Th 12:00-17:00; Sa 12:00-16:00; PH off
+website: https://www.utensil-shop.de/

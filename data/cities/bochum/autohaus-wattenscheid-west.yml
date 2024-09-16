@@ -1,11 +1,11 @@
 id: 114929262
-type: way
+type: node
 latitude: 51.48537
 longitude: 7.12427
 postcode: "44866"
 city: Bochum
-street: "Lohrheidestraße"
-housenumber: 61
-phone: "+49 2327 328584"
+street: Lohrheidestraße
+housenumber: "61"
+phone: +49 2327 328584
 opening_hours: ""
 website: ""

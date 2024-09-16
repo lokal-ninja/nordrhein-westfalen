@@ -1,11 +1,11 @@
 id: 191151098
-type: way
+type: node
 latitude: 51.48984
 longitude: 7.05042
 postcode: "45327"
 city: Essen
-street: "Gelsenkirchener Straße"
-housenumber: 220
+street: Gelsenkirchener Straße
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

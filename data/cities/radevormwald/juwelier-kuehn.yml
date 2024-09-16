@@ -4,8 +4,8 @@ latitude: 51.20262
 longitude: 7.3595
 postcode: "42477"
 city: Radevormwald
-street: "Kaiserstraße"
-housenumber: 91
-phone: "+49 2195 7136"
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:30-18:30"
-website: "https://www.uhren-kuehn.de/"
+street: Kaiserstraße
+housenumber: "91"
+phone: +49 2195 7136
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:30-18:30
+website: https://www.uhren-kuehn.de/

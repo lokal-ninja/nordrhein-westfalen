@@ -4,8 +4,9 @@ latitude: 51.97691
 longitude: 7.28977
 postcode: "48727"
 city: Billerbeck
-street: "Lange Straße"
-housenumber: 21
-phone: "+49 2543 7188"
-opening_hours: "Mo,Tu 09:00-12:30,14:30-18:00, We 09:00-12:30, Th,Fr 09:00-12:30,14:30-18:00, Sa 09:00-12:30"
+street: Lange Straße
+housenumber: "21"
+phone: +49 2543 7188
+opening_hours: Mo,Tu 09:00-12:30,14:30-18:00, We 09:00-12:30, Th,Fr 09:00-12:30,14:30-18:00,
+    Sa 09:00-12:30
 website: ""

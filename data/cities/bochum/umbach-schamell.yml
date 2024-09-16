@@ -4,8 +4,8 @@ latitude: 51.48605
 longitude: 7.21462
 postcode: "44787"
 city: Bochum
-street: "Herner Straße"
-housenumber: 6
-phone: "+49 234 15280"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+street: Herner Straße
+housenumber: "6"
+phone: +49 234 15280
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

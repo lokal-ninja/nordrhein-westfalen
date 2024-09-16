@@ -1,11 +1,11 @@
 id: 256311199
-type: way
+type: node
 latitude: 51.65571
 longitude: 7.78857
 postcode: "59067"
 city: Hamm
-street: "Schieferstraße"
-housenumber: 14
-phone: "+49 2381 44973"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 09:00-13:00; Su,PH off"
-website: "https://www.holz-heilf.de/"
+street: Schieferstraße
+housenumber: "14"
+phone: +49 2381 44973
+opening_hours: Mo-Fr 07:00-17:30; Sa 09:00-13:00; Su,PH off
+website: https://www.holz-heilf.de/

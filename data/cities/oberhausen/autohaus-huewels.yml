@@ -1,11 +1,11 @@
 id: 112479970
-type: way
+type: node
 latitude: 51.51832
 longitude: 6.85721
 postcode: "46145"
 city: Oberhausen
-street: "Dorstener Straße"
-housenumber: 197
+street: Dorstener Straße
+housenumber: "197"
 phone: ""
 opening_hours: ""
 website: ""

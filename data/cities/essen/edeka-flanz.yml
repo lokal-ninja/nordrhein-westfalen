@@ -4,8 +4,8 @@ latitude: 51.42952
 longitude: 7.07501
 postcode: "45277"
 city: Essen
-street: "Schulte-Hinsel-Straße"
-housenumber: 25
+street: Schulte-Hinsel-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-flanz-schulte-hinsel-stra%C3%9Fe-7/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-flanz-schulte-hinsel-stra%C3%9Fe-7/index.jsp

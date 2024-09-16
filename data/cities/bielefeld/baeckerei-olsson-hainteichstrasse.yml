@@ -4,8 +4,8 @@ latitude: 52.05284
 longitude: 8.50974
 postcode: "33613"
 city: Bielefeld
-street: "Hainteichstraße"
-housenumber: 79
-phone: "+49 521 882487"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 08:00-12:00"
-website: "https://www.baeckerei-olsson.de/filialen/"
+street: Hainteichstraße
+housenumber: "79"
+phone: +49 521 882487
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 08:00-12:00
+website: https://www.baeckerei-olsson.de/filialen/

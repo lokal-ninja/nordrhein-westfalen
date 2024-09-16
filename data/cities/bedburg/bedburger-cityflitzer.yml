@@ -4,8 +4,8 @@ latitude: 50.99702
 longitude: 6.57632
 postcode: "50181"
 city: Bedburg
-street: "Friedrich-Wilhelm-Straße"
-housenumber: 46
+street: Friedrich-Wilhelm-Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 15:30-18:30 || Termine nach Vereinbarung"
+opening_hours: Mo-Fr 15:30-18:30 || "Termine nach Vereinbarung"
 website: ""

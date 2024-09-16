@@ -4,8 +4,8 @@ latitude: 52.0372
 longitude: 8.55828
 postcode: "33609"
 city: Bielefeld
-street: "Herforder Straße"
-housenumber: 215
-phone: "+49 521 75980400"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.lagerbox.com/lagerraum-mieten-bielefeld/mitte"
+street: Herforder Straße
+housenumber: "215"
+phone: +49 521 75980400
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.lagerbox.com/lagerraum-mieten-bielefeld/mitte

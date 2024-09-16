@@ -1,11 +1,11 @@
 id: 47903709
-type: way
+type: node
 latitude: 50.73333
 longitude: 7.07555
 postcode: "53121"
 city: Bonn
-street: "Gerhard-Domagk-Straße"
-housenumber: 2
-phone: "+49 228 631581"
+street: Gerhard-Domagk-Straße
+housenumber: "2"
+phone: +49 228 631581
 opening_hours: ""
-website: "https://johann-bonn.premio.de/"
+website: https://johann-bonn.premio.de/

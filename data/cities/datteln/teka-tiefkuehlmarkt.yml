@@ -1,11 +1,11 @@
 id: 210943418
-type: way
+type: node
 latitude: 51.63134
 longitude: 7.32819
 postcode: "45711"
 city: Datteln
-street: "Castroper Straße"
-housenumber: 306
+street: Castroper Straße
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

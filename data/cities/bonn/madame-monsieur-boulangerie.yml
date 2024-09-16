@@ -4,8 +4,8 @@ latitude: 50.68453
 longitude: 7.16944
 postcode: "53173"
 city: Bonn
-street: "Römerplatz"
-housenumber: 3
-phone: "+49 228 9339 4303"
-opening_hours: "Mo-Fr 07:00-18:00; Sa, Su, PH 08:00-17:00"
-website: "https://www.m-boulangerie.de/cafe-bistro/"
+street: Römerplatz
+housenumber: "3"
+phone: +49 228 9339 4303
+opening_hours: Mo-Fr 07:00-18:00; Sa, Su, PH 08:00-17:00
+website: https://www.m-boulangerie.de/cafe-bistro/

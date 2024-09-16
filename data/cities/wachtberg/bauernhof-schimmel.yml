@@ -4,8 +4,8 @@ latitude: 50.60765
 longitude: 7.08764
 postcode: "53343"
 city: Wachtberg
-street: "Fritzdorfer Straße"
-housenumber: 29
-phone: "+49 1784606625"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.bauernhofschimmel.com/"
+street: Fritzdorfer Straße
+housenumber: "29"
+phone: +49 1784606625
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.bauernhofschimmel.com/

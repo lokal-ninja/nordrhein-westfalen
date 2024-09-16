@@ -4,8 +4,8 @@ latitude: 51.70982
 longitude: 8.75099
 postcode: "33098"
 city: Paderborn
-street: "Winfriedstraße"
-housenumber: 80
-phone: "+49 5251 777300"
-opening_hours: "Mo,We-Th 10:00-18:00; Tu,Fr 10:00-16:00"
-website: "http://www.atacom.de/"
+street: Winfriedstraße
+housenumber: "80"
+phone: +49 5251 777300
+opening_hours: Mo,We-Th 10:00-18:00; Tu,Fr 10:00-16:00
+website: http://www.atacom.de/

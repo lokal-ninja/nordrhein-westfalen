@@ -4,8 +4,8 @@ latitude: 51.47909
 longitude: 7.21708
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 50
-phone: "+49 234 32550931"
-opening_hours: "Mo-Sa 10:00-19:00; Su, PH off"
-website: "https://schreibwarenladen-bochum.de/index.html"
+street: Kortumstraße
+housenumber: "50"
+phone: +49 234 32550931
+opening_hours: Mo-Sa 10:00-19:00; Su, PH off
+website: https://schreibwarenladen-bochum.de/index.html

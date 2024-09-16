@@ -1,11 +1,11 @@
 id: 206485179
-type: way
+type: node
 latitude: 51.73012
 longitude: 8.72094
 postcode: "33104"
 city: Paderborn
-street: "Stedener Feld"
-housenumber: 2
-phone: "+49 5251 1352 0"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
-website: "https://www.bundk.de/filialen/paderborn"
+street: Stedener Feld
+housenumber: "2"
+phone: +49 5251 1352 0
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
+website: https://www.bundk.de/filialen/paderborn

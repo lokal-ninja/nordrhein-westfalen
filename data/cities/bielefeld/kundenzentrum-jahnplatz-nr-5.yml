@@ -4,8 +4,8 @@ latitude: 52.02342
 longitude: 8.53429
 postcode: "33602"
 city: Bielefeld
-street: "Jahnplatz"
-housenumber: 5
-phone: "+49 521 51 1555"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-16:00"
-website: "https://www.stadtwerke-bielefeld.de/privatkunden/kontakt/kundenzentrum-jahnplatz-nr-5/"
+street: Jahnplatz
+housenumber: "5"
+phone: +49 521 51 1555
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-16:00
+website: https://www.stadtwerke-bielefeld.de/privatkunden/kontakt/kundenzentrum-jahnplatz-nr-5/

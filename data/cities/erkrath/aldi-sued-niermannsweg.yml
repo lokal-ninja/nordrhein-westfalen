@@ -1,11 +1,11 @@
 id: 981661604
-type: way
+type: node
 latitude: 51.19782
 longitude: 6.913
 postcode: "40699"
 city: Erkrath
-street: "Niermannsweg"
-housenumber: 7
+street: Niermannsweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.51903
 longitude: 7.41411
 postcode: "44149"
 city: Dortmund
-street: "Höfkerstraße"
-housenumber: 20
-phone: "+49 231 9866290"
-opening_hours: "24/7 closed"
-website: "http://www.baecker-beckmann.de/"
+street: Höfkerstraße
+housenumber: "20"
+phone: +49 231 9866290
+opening_hours: 24/7 closed
+website: http://www.baecker-beckmann.de/

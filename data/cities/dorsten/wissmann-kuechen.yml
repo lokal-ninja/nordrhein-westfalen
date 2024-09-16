@@ -1,11 +1,11 @@
 id: 249208139
-type: way
+type: node
 latitude: 51.68183
 longitude: 6.95623
 postcode: "46284"
 city: Dorsten
-street: "Borkener Straße"
-housenumber: 146
-phone: "+49 2362 62191"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-14:00; PH off"
-website: "https://www.wissmann-kuechen.de/"
+street: Borkener Straße
+housenumber: "146"
+phone: +49 2362 62191
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-14:00; PH off
+website: https://www.wissmann-kuechen.de/

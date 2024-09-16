@@ -4,8 +4,8 @@ latitude: 52.30439
 longitude: 8.61914
 postcode: "32312"
 city: Lübbecke
-street: "Bäckerstraße"
-housenumber: 32
-phone: "+49 5741 234343"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-14:00"
-website: "https://www.wohlgefuehl-luebbecke.de/"
+street: Bäckerstraße
+housenumber: "32"
+phone: +49 5741 234343
+opening_hours: Mo-Fr 09:30-18:00, Sa 10:00-14:00
+website: https://www.wohlgefuehl-luebbecke.de/

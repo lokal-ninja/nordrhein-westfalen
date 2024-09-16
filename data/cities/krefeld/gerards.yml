@@ -1,11 +1,11 @@
 id: 231862410
-type: way
+type: node
 latitude: 51.37712
 longitude: 6.50329
 postcode: "47839"
 city: Krefeld
-street: "Geldolfstraße"
-housenumber: 21
-phone: "+49 2151 730384"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00; Su off"
+street: Geldolfstraße
+housenumber: "21"
+phone: +49 2151 730384
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00; Su off
 website: ""

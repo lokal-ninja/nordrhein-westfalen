@@ -4,8 +4,8 @@ latitude: 50.95212
 longitude: 6.16854
 postcode: "52511"
 city: Geilenkirchen
-street: "Von-Mirbach-Straße"
-housenumber: 2
-phone: "+49 2451 2927"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; PH, Su off"
-website: "https://www.baeckerei-dohlen.de"
+street: Von-Mirbach-Straße
+housenumber: "2"
+phone: +49 2451 2927
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; PH, Su off
+website: https://www.baeckerei-dohlen.de

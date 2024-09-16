@@ -4,8 +4,8 @@ latitude: 52.3067
 longitude: 8.49138
 postcode: "32361"
 city: Preußisch Oldendorf
-street: "Friedhofstraße"
-housenumber: 1
-phone: "+49 5742 920151"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-hartmann-friedhofstr.-1/index.jsp"
+street: Friedhofstraße
+housenumber: "1"
+phone: +49 5742 920151
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-hartmann-friedhofstr.-1/index.jsp

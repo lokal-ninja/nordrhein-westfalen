@@ -1,11 +1,11 @@
 id: 253116078
-type: way
+type: node
 latitude: 51.62942
 longitude: 7.25131
 postcode: "45739"
 city: Oer-Erkenschwick
-street: "Voßacker"
-housenumber: 2
+street: Voßacker
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

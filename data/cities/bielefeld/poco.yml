@@ -1,11 +1,11 @@
 id: 27660158
-type: way
+type: node
 latitude: 52.00185
 longitude: 8.57613
 postcode: "33605"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 351
+street: Detmolder Straße
+housenumber: "351"
 phone: ""
 opening_hours: ""
-website: "https://www.poco.de/"
+website: https://www.poco.de/

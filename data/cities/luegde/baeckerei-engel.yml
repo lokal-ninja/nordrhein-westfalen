@@ -4,8 +4,8 @@ latitude: 51.96024
 longitude: 9.24834
 postcode: "32676"
 city: Lügde
-street: "Kreuzstraße"
-housenumber: 1
-phone: "+49 5281 78674"
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:30-11:00"
-website: "https://www.baeckerei-engel.com/filial-finder"
+street: Kreuzstraße
+housenumber: "1"
+phone: +49 5281 78674
+opening_hours: Mo-Sa 07:00-19:00; Su 07:30-11:00
+website: https://www.baeckerei-engel.com/filial-finder

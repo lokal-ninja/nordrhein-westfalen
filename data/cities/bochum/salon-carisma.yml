@@ -4,8 +4,8 @@ latitude: 51.49131
 longitude: 7.30539
 postcode: "44894"
 city: Bochum
-street: "Werner Hellweg"
-housenumber: 478
-phone: "+49 234 91171888"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-14:00"
+street: Werner Hellweg
+housenumber: "478"
+phone: +49 234 91171888
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-14:00
 website: ""

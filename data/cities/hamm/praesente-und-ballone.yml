@@ -4,8 +4,8 @@ latitude: 51.6807
 longitude: 7.81605
 postcode: "59065"
 city: Hamm
-street: "Weststraße"
-housenumber: 33
-phone: "+49 2381 161439"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.praesente-ballone.de"
+street: Weststraße
+housenumber: "33"
+phone: +49 2381 161439
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.praesente-ballone.de

@@ -4,8 +4,8 @@ latitude: 52.01055
 longitude: 8.53672
 postcode: "33604"
 city: Bielefeld
-street: "Lessingstraße"
-housenumber: 46
+street: Lessingstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Th 09:00-15:00; Fr 09:00-13:00"
+opening_hours: Mo-Th 09:00-15:00; Fr 09:00-13:00
 website: ""

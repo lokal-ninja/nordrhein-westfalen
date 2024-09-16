@@ -1,11 +1,11 @@
 id: 133625552
-type: way
+type: node
 latitude: 51.17686
 longitude: 7.06464
 postcode: "42655"
 city: Solingen
-street: "Beethovenstraße"
-housenumber: 89
+street: Beethovenstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

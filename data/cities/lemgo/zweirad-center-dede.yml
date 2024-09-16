@@ -4,8 +4,8 @@ latitude: 52.01929
 longitude: 8.87514
 postcode: "32657"
 city: Lemgo
-street: "Gildestraße"
-housenumber: 7
+street: Gildestraße
+housenumber: "7"
 phone: "+495261186600"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-14:30"
-website: "https://www.dede-lemgo.de"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-14:30
+website: https://www.dede-lemgo.de

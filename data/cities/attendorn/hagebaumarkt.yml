@@ -1,11 +1,11 @@
 id: 243424242
-type: way
+type: node
 latitude: 51.12238
 longitude: 7.90526
 postcode: "57439"
 city: Attendorn
-street: "Am Wassertor"
-housenumber: 20
+street: Am Wassertor
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
 website: ""

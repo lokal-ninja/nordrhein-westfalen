@@ -1,11 +1,11 @@
 id: 878157625
-type: way
+type: node
 latitude: 51.56343
 longitude: 8.08365
 postcode: "59494"
 city: Soest
-street: "Werler Landstraße"
-housenumber: 24
-phone: "+49 2921 672220"
+street: Werler Landstraße
+housenumber: "24"
+phone: +49 2921 672220
 opening_hours: ""
-website: "https://www.goettgens.de"
+website: https://www.goettgens.de

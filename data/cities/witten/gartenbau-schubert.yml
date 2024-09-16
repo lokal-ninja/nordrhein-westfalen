@@ -1,11 +1,11 @@
 id: 85578059
-type: way
+type: node
 latitude: 51.44969
 longitude: 7.3197
 postcode: "58455"
 city: Witten
-street: "Oberkrone"
-housenumber: 24
+street: Oberkrone
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

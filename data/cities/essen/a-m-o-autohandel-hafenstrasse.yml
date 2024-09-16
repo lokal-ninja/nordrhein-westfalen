@@ -1,11 +1,11 @@
 id: 446242170
-type: way
+type: node
 latitude: 51.48481
 longitude: 6.97955
 postcode: "45356"
 city: Essen
-street: "Hafenstraße"
-housenumber: 64
+street: Hafenstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

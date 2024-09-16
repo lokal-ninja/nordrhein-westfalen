@@ -1,11 +1,11 @@
 id: 94054521
-type: way
+type: node
 latitude: 51.54253
 longitude: 7.67313
 postcode: "59425"
 city: Unna
-street: "Hansastraße"
-housenumber: 83
+street: Hansastraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.herbruegger.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.herbruegger.de/

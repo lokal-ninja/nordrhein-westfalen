@@ -1,11 +1,11 @@
 id: 246438585
-type: way
+type: node
 latitude: 50.91835
 longitude: 6.95232
 postcode: "50677"
 city: Köln
-street: "Bonner Wall"
+street: Bonner Wall
 housenumber: 114-116
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00"
-website: "https://www.lidl.de/filialen/koeln/neustadt-sued-bonner-wall-114-116.html"
+opening_hours: Mo-Sa 8:00-21:00
+website: https://www.lidl.de/filialen/koeln/neustadt-sued-bonner-wall-114-116.html

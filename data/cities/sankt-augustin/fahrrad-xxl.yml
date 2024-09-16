@@ -1,11 +1,11 @@
 id: 24499550
-type: way
+type: node
 latitude: 50.79167
 longitude: 7.17617
 postcode: "53757"
 city: Sankt Augustin
-street: "Einsteinstraße"
-housenumber: 35
-phone: "+49 2241 9773-0"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; PH off"
-website: "https://www.fahrrad-xxl.de/filiale/bonn-sankt-augustin/"
+street: Einsteinstraße
+housenumber: "35"
+phone: +49 2241 9773-0
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; PH off
+website: https://www.fahrrad-xxl.de/filiale/bonn-sankt-augustin/

@@ -1,11 +1,11 @@
 id: 287116532
-type: way
+type: node
 latitude: 51.75948
 longitude: 7.91001
 postcode: "59229"
 city: Ahlen
-street: "Rottmannstraße"
-housenumber: 109
+street: Rottmannstraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

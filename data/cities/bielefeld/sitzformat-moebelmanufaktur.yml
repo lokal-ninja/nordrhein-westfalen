@@ -4,8 +4,8 @@ latitude: 52.01988
 longitude: 8.53336
 postcode: "33602"
 city: Bielefeld
-street: "Renteistraße"
-housenumber: 28
-phone: "+49 521 97796455"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://sitzformat.de/"
+street: Renteistraße
+housenumber: "28"
+phone: +49 521 97796455
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://sitzformat.de/

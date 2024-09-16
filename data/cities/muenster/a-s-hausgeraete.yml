@@ -4,8 +4,8 @@ latitude: 51.94445
 longitude: 7.64404
 postcode: "48155"
 city: Münster
-street: "Nieberdingstraße"
-housenumber: 12
-phone: "+49 251 60247"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 10:00-13:00"
-website: "http://www.teilemeister24.de/index.html"
+street: Nieberdingstraße
+housenumber: "12"
+phone: +49 251 60247
+opening_hours: Mo-Fr 15:00-18:00; Sa 10:00-13:00
+website: http://www.teilemeister24.de/index.html

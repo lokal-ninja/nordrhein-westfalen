@@ -4,8 +4,8 @@ latitude: 51.67483
 longitude: 8.34633
 postcode: "59555"
 city: Lippstadt
-street: "Poststraße"
-housenumber: 5
-phone: "+49160 99742990"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
+street: Poststraße
+housenumber: "5"
+phone: +49160 99742990
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
 website: ""

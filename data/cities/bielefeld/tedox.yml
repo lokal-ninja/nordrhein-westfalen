@@ -1,11 +1,11 @@
 id: 198373359
-type: way
+type: node
 latitude: 51.98255
 longitude: 8.47561
 postcode: "33649"
 city: Bielefeld
-street: "Sommerstraße"
+street: Sommerstraße
 housenumber: 35a
 phone: ""
 opening_hours: ""
-website: "https://www.tedox.de"
+website: https://www.tedox.de

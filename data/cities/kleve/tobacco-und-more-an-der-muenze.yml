@@ -1,11 +1,11 @@
 id: 214210624
-type: way
+type: node
 latitude: 51.78917
 longitude: 6.14071
 postcode: "47533"
 city: Kleve
-street: "An der Münze"
-housenumber: 14
+street: An der Münze
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.23848
 longitude: 6.77897
 postcode: "40477"
 city: Düsseldorf
-street: "Schwerinstraße"
-housenumber: 6
+street: Schwerinstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tu 15:00-19:00, We-Fr 12:00-19:00, Sa 10:00-15:00; Su off"
-website: "https://www.jacques.de/depot/197/duesseldorf-pempelfort/"
+opening_hours: Mo-Tu 15:00-19:00, We-Fr 12:00-19:00, Sa 10:00-15:00; Su off
+website: https://www.jacques.de/depot/197/duesseldorf-pempelfort/

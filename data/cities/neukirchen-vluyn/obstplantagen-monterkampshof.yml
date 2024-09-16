@@ -1,11 +1,11 @@
 id: 62282915
-type: way
+type: node
 latitude: 51.46157
 longitude: 6.53251
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Vluyner Straße"
-housenumber: 33
-phone: "+49 2845 31208"
-opening_hours: "Mo-Th 09:00-13:00, 15:00-18:30, Fr 9:00-18:30, Sa 9:00-13:00"
-website: "http://www.monterkampshof.de/"
+street: Vluyner Straße
+housenumber: "33"
+phone: +49 2845 31208
+opening_hours: Mo-Th 09:00-13:00, 15:00-18:30, Fr 9:00-18:30, Sa 9:00-13:00
+website: http://www.monterkampshof.de/

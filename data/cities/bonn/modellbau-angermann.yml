@@ -4,8 +4,8 @@ latitude: 50.73543
 longitude: 7.10448
 postcode: "53111"
 city: Bonn
-street: "Rathausgasse"
-housenumber: 30
+street: Rathausgasse
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-15:00
 website: ""

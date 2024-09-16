@@ -4,8 +4,8 @@ latitude: 51.35066
 longitude: 7.43528
 postcode: "58135"
 city: Hagen
-street: "Preußerstraße"
-housenumber: 6
+street: Preußerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.trinkgut.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://www.trinkgut.de/

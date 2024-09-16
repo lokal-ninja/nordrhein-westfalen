@@ -1,11 +1,11 @@
 id: 197238332
-type: way
+type: node
 latitude: 52.26138
 longitude: 7.71187
 postcode: "49479"
 city: Ibbenbüren
-street: "Rudolf-Diesel-Straße"
-housenumber: 14
+street: Rudolf-Diesel-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-18:00; Th 09:00-21:00; Sa 09:00-14:00; Su 11:00-18:00"
-website: "https://bmw-motorrad-boegel.de/"
+opening_hours: Mo-We,Fr 09:00-18:00; Th 09:00-21:00; Sa 09:00-14:00; Su 11:00-18:00
+website: https://bmw-motorrad-boegel.de/

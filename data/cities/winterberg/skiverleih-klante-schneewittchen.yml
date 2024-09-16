@@ -4,8 +4,8 @@ latitude: 51.18646
 longitude: 8.5002
 postcode: "59955"
 city: Winterberg
-street: "Am Waltenberg"
-housenumber: 119
-phone: "+49 2981 425 90 11"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://www.ski-klante.de/"
+street: Am Waltenberg
+housenumber: "119"
+phone: +49 2981 425 90 11
+opening_hours: Mo-Su 08:00-17:00
+website: https://www.ski-klante.de/

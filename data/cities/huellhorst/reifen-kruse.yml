@@ -4,8 +4,8 @@ latitude: 52.24893
 longitude: 8.69157
 postcode: "32609"
 city: Hüllhorst
-street: "Huchzener Straße"
-housenumber: 57
-phone: "+49 5744 5093653"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00, Sa 09:00-12:00"
-website: "http://www.reifen-kruse.de/"
+street: Huchzener Straße
+housenumber: "57"
+phone: +49 5744 5093653
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00, Sa 09:00-12:00
+website: http://www.reifen-kruse.de/

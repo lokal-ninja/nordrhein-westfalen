@@ -4,8 +4,8 @@ latitude: 51.48237
 longitude: 7.21638
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 89
-phone: "+49 234 682414"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://citypoint-bochum.de/shops/hm/"
+street: Kortumstraße
+housenumber: "89"
+phone: +49 234 682414
+opening_hours: Mo-Sa 10:00-20:00
+website: https://citypoint-bochum.de/shops/hm/

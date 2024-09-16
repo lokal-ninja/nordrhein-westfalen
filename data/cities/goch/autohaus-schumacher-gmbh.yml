@@ -4,8 +4,8 @@ latitude: 51.68834
 longitude: 6.13744
 postcode: "47574"
 city: Goch
-street: "Siemensstraße"
-housenumber: 53
+street: Siemensstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.toyota-schumacher-goch.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.toyota-schumacher-goch.de/

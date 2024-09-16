@@ -1,11 +1,11 @@
 id: 228779518
-type: way
+type: node
 latitude: 50.80961
 longitude: 6.47739
 postcode: "52349"
 city: Düren
-street: "Fritz-Erler-Straße"
-housenumber: 14
+street: Fritz-Erler-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.netto-online.de/

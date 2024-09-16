@@ -1,11 +1,11 @@
 id: 133533034
-type: way
+type: node
 latitude: 51.50115
 longitude: 8.34337
 postcode: "59581"
 city: Warstein
-street: "Friedrich-Harkort-Straße"
-housenumber: 4
-phone: "+49 2902 978474"
+street: Friedrich-Harkort-Straße
+housenumber: "4"
+phone: +49 2902 978474
 opening_hours: ""
-website: "http://www.reifen-rosier.de/"
+website: http://www.reifen-rosier.de/

@@ -1,11 +1,11 @@
 id: 245163827
-type: way
+type: node
 latitude: 51.68716
 longitude: 6.76982
 postcode: "46514"
 city: Schermbeck
-street: "Beckmanns Stege"
-housenumber: 10
+street: Beckmanns Stege
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

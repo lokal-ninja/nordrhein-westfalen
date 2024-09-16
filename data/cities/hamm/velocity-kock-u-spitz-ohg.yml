@@ -4,8 +4,8 @@ latitude: 51.6892
 longitude: 7.88508
 postcode: "59071"
 city: Hamm
-street: "Moritz-Bacharach-Straße"
-housenumber: 5
-phone: "+49 2381 889699"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.velocity-hamm.de/"
+street: Moritz-Bacharach-Straße
+housenumber: "5"
+phone: +49 2381 889699
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.velocity-hamm.de/

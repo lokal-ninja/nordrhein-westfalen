@@ -1,11 +1,11 @@
 id: 804905570
-type: way
+type: node
 latitude: 50.98937
 longitude: 7.55119
 postcode: "51645"
 city: Gummersbach
-street: "Vollmerhauser Straße"
-housenumber: 72
+street: Vollmerhauser Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 108236832
-type: way
+type: node
 latitude: 52.00287
 longitude: 8.55898
 postcode: "33605"
 city: Bielefeld
-street: "Osningstraße"
-housenumber: 25
+street: Osningstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

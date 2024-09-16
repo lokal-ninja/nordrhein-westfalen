@@ -1,11 +1,11 @@
 id: 462849553
-type: way
+type: node
 latitude: 50.81528
 longitude: 8.14336
 postcode: "57234"
 city: Wilnsdorf
-street: "Sangweg"
-housenumber: 1
-phone: "+49 2739 1547"
-opening_hours: "Mo-Sa 06:30-20:00; PH off"
-website: "https://www.rewe-dreysse.de/unsere-filialen/filiale-wilgersdorf/"
+street: Sangweg
+housenumber: "1"
+phone: +49 2739 1547
+opening_hours: Mo-Sa 06:30-20:00; PH off
+website: https://www.rewe-dreysse.de/unsere-filialen/filiale-wilgersdorf/

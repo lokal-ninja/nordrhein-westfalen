@@ -1,11 +1,11 @@
 id: 83739915
-type: way
+type: node
 latitude: 50.77407
 longitude: 6.07881
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
+street: Jakobstraße
 housenumber: 76c
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "http://estheticasita.npage.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: http://estheticasita.npage.de/

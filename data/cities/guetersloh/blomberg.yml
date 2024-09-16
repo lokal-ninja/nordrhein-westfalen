@@ -4,8 +4,8 @@ latitude: 51.91198
 longitude: 8.41915
 postcode: "33332"
 city: Gütersloh
-street: "Carl-Miele-Straße"
-housenumber: 191
+street: Carl-Miele-Straße
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00, 14:30-19:00;Sa 09:00-14:00"
-website: "https://www.schuhhaus-blomberg.de/"
+opening_hours: Mo-Fr 08:30-13:00, 14:30-19:00;Sa 09:00-14:00
+website: https://www.schuhhaus-blomberg.de/

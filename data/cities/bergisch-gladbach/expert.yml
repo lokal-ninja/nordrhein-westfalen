@@ -4,8 +4,8 @@ latitude: 50.98439
 longitude: 7.1226
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Richard-Zanders-Straße"
-housenumber: 11
-phone: "+49 2202 188830"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.expert.de/bergischgladbach"
+street: Richard-Zanders-Straße
+housenumber: "11"
+phone: +49 2202 188830
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.expert.de/bergischgladbach

@@ -1,11 +1,11 @@
 id: 254502388
-type: way
+type: node
 latitude: 50.49667
 longitude: 6.638
 postcode: "53947"
 city: Nettersheim
-street: "Klosterstraße"
-housenumber: 26
+street: Klosterstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.autoservice.com/zilles-dominik"
+website: https://www.autoservice.com/zilles-dominik

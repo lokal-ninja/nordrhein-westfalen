@@ -1,11 +1,11 @@
 id: 202625457
-type: way
+type: node
 latitude: 52.24641
 longitude: 7.37237
 postcode: "48485"
 city: Neuenkirchen
-street: "Zum Thie"
-housenumber: 6
+street: Zum Thie
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

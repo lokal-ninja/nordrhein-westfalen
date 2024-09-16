@@ -4,8 +4,8 @@ latitude: 51.467
 longitude: 6.79628
 postcode: "47138"
 city: Duisburg
-street: "Koopmannstraße"
-housenumber: 19
-phone: "+49 203 41 11 60"
-opening_hours: "Mo-Sa 06:00-13:00"
+street: Koopmannstraße
+housenumber: "19"
+phone: +49 203 41 11 60
+opening_hours: Mo-Sa 06:00-13:00
 website: ""

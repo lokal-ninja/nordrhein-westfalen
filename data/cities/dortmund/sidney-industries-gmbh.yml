@@ -4,8 +4,8 @@ latitude: 51.49077
 longitude: 7.36683
 postcode: "44149"
 city: Dortmund
-street: "Brandschachtstraße"
-housenumber: 14
+street: Brandschachtstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa 10:00-15:00"
-website: "https://siind.de/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00; Sa 10:00-15:00
+website: https://siind.de/

@@ -1,11 +1,11 @@
 id: 190354366
-type: way
+type: node
 latitude: 51.4887
 longitude: 6.8898
 postcode: "46047"
 city: Oberhausen
-street: "Brammenring"
-housenumber: 60
+street: Brammenring
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

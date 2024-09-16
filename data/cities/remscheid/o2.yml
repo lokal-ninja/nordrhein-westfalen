@@ -4,8 +4,8 @@ latitude: 51.18092
 longitude: 7.18681
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 75
-phone: "+49 21915991902"
-opening_hours: "Mo-Fr 10:00-18:30; Sa-10:00-15:00"
-website: "https://www.o2online.de/shops/remscheid/1496"
+street: Alleestraße
+housenumber: "75"
+phone: +49 21915991902
+opening_hours: Mo-Fr 10:00-18:30; Sa-10:00-15:00
+website: https://www.o2online.de/shops/remscheid/1496

@@ -1,11 +1,11 @@
 id: 137723551
-type: way
+type: node
 latitude: 51.96459
 longitude: 8.51924
 postcode: "33659"
 city: Bielefeld
-street: "Breipohls Hof"
-housenumber: 2
+street: Breipohls Hof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

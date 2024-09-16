@@ -1,11 +1,11 @@
 id: 871868285
-type: way
+type: node
 latitude: 50.85483
 longitude: 6.90164
 postcode: "50354"
 city: Hürth
-street: "Bonnstraße"
-housenumber: 542
+street: Bonnstraße
+housenumber: "542"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/huerth/bonnstrasse-542-544"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/huerth/bonnstrasse-542-544

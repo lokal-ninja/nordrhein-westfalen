@@ -4,8 +4,8 @@ latitude: 51.73
 longitude: 8.75424
 postcode: "33102"
 city: Paderborn
-street: "Am Rolandsbad"
-housenumber: 1
+street: Am Rolandsbad
+housenumber: "1"
 phone: ""
-opening_hours: "Mo, Tu 8:30-15:00; We 13:00-17:00; Th, Fr 8:30-15:00"
-website: "https://www.skm-paderborn.de/12803-Hilfen--Nah-am-Menschen/12817-Soziales-Kaufhaus.html"
+opening_hours: Mo, Tu 8:30-15:00; We 13:00-17:00; Th, Fr 8:30-15:00
+website: https://www.skm-paderborn.de/12803-Hilfen--Nah-am-Menschen/12817-Soziales-Kaufhaus.html

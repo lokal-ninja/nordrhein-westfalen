@@ -1,11 +1,11 @@
 id: 91221326
-type: way
+type: node
 latitude: 51.15771
 longitude: 6.93789
 postcode: "40723"
 city: Hilden
-street: "Richrather Straße"
-housenumber: 126
+street: Richrather Straße
+housenumber: "126"
 phone: ""
-opening_hours: "PH off; Mo-Sa 08:00-21:00"
+opening_hours: PH off; Mo-Sa 08:00-21:00
 website: ""

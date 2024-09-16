@@ -1,11 +1,11 @@
 id: 112939011
-type: way
+type: node
 latitude: 50.77242
 longitude: 6.06165
 postcode: "52074"
 city: Aachen
-street: "An der Glashütte"
-housenumber: 2
+street: An der Glashütte
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

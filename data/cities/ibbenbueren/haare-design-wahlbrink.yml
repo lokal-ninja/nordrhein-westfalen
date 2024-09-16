@@ -1,11 +1,11 @@
 id: 181450982
-type: way
+type: node
 latitude: 52.29543
 longitude: 7.65804
 postcode: "49479"
 city: Ibbenbüren
-street: "Jordanstraße"
-housenumber: 10
+street: Jordanstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

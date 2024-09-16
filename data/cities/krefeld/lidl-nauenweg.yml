@@ -1,11 +1,11 @@
 id: 172855053
-type: way
+type: node
 latitude: 51.32279
 longitude: 6.54787
 postcode: "47804"
 city: Krefeld
-street: "Nauenweg"
+street: Nauenweg
 housenumber: 78-80
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

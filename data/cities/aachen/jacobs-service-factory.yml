@@ -1,11 +1,11 @@
 id: 965617508
-type: way
+type: node
 latitude: 50.76667
 longitude: 6.15823
 postcode: "52078"
 city: Aachen
-street: "Kellershaustraße"
-housenumber: 23
+street: Kellershaustraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

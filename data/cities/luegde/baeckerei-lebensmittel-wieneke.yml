@@ -1,11 +1,11 @@
 id: 306356257
-type: way
+type: node
 latitude: 51.90734
 longitude: 9.25155
 postcode: "32676"
 city: Lügde
-street: "Im Winkel"
-housenumber: 6
-phone: "+49 5283 500"
+street: Im Winkel
+housenumber: "6"
+phone: +49 5283 500
 opening_hours: ""
 website: ""

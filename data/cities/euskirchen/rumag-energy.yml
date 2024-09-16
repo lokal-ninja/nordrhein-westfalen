@@ -1,11 +1,11 @@
 id: 168554834
-type: way
+type: node
 latitude: 50.66556
 longitude: 6.77935
 postcode: "53879"
 city: Euskirchen
-street: "Frauenberger Straße"
-housenumber: 128
+street: Frauenberger Straße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 08:00-22:00
 website: ""

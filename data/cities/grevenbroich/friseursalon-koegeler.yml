@@ -1,11 +1,11 @@
 id: 267806211
-type: way
+type: node
 latitude: 51.06524
 longitude: 6.6289
 postcode: "41515"
 city: Grevenbroich
-street: "Am Feldtor"
-housenumber: 5
+street: Am Feldtor
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

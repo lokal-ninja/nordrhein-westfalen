@@ -4,8 +4,8 @@ latitude: 51.20208
 longitude: 6.42174
 postcode: "41063"
 city: Mönchengladbach
-street: "Lindenstraße"
-housenumber: 100
-phone: "+49 2161 6981661"
-opening_hours: "Mo-Fr 11:00-17:00"
+street: Lindenstraße
+housenumber: "100"
+phone: +49 2161 6981661
+opening_hours: Mo-Fr 11:00-17:00
 website: ""

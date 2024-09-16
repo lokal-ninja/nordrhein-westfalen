@@ -1,11 +1,11 @@
 id: 77272318
-type: way
+type: node
 latitude: 51.44707
 longitude: 7.36874
 postcode: "58453"
 city: Witten
-street: "Westfalenstraße"
-housenumber: 114
+street: Westfalenstraße
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

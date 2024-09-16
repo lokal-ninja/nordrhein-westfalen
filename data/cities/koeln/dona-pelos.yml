@@ -4,8 +4,8 @@ latitude: 50.95302
 longitude: 6.95789
 postcode: "50670"
 city: Köln
-street: "Balthasarstraße"
-housenumber: 65
+street: Balthasarstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://donapelos.de/"
+website: https://donapelos.de/

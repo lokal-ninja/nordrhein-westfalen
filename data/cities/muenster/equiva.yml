@@ -4,8 +4,8 @@ latitude: 51.97606
 longitude: 7.65621
 postcode: "48145"
 city: Münster
-street: "Dieckstraße"
-housenumber: 71
-phone: "+49 251 1442040"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.equiva.com/stores/muenster"
+street: Dieckstraße
+housenumber: "71"
+phone: +49 251 1442040
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.equiva.com/stores/muenster

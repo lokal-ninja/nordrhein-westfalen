@@ -4,8 +4,8 @@ latitude: 51.93622
 longitude: 8.87453
 postcode: "32756"
 city: Detmold
-street: "Bruchstraße"
-housenumber: 41
-phone: "+49 5231 24422"
+street: Bruchstraße
+housenumber: "41"
+phone: +49 5231 24422
 opening_hours: ""
-website: "http://bei-sami.de/"
+website: http://bei-sami.de/

@@ -1,11 +1,11 @@
 id: 1157141167
-type: way
+type: node
 latitude: 51.05619
 longitude: 6.14017
 postcode: "52525"
 city: Heinsberg
-street: "Boos-Fremery-Straße"
-housenumber: 90
+street: Boos-Fremery-Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

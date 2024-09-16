@@ -4,8 +4,8 @@ latitude: 51.41047
 longitude: 7.16354
 postcode: "45529"
 city: Hattingen
-street: "Dahlhauser Straße"
-housenumber: 63
-phone: "+49 2324 8673964"
-opening_hours: "||Nach Vereinbarung"
+street: Dahlhauser Straße
+housenumber: "63"
+phone: +49 2324 8673964
+opening_hours: '||"Nach Vereinbarung"'
 website: ""

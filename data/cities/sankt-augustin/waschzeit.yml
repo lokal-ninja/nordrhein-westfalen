@@ -4,8 +4,8 @@ latitude: 50.78421
 longitude: 7.16092
 postcode: "53757"
 city: Sankt Augustin
-street: "Mittelstraße"
-housenumber: 110
+street: Mittelstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://waschzeit.com/"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://waschzeit.com/

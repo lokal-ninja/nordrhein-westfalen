@@ -4,8 +4,8 @@ latitude: 51.3589
 longitude: 7.46878
 postcode: "58095"
 city: Hagen
-street: "Elberfelder Straße"
-housenumber: 44
-phone: "+49 2331 1272077"
-opening_hours: "Mo-Fr 09:30-13:30, Sa 10:00-14:00, Mo-Fr 14:30-18:00"
-website: "http://www.hagen-pfandhaus.de/"
+street: Elberfelder Straße
+housenumber: "44"
+phone: +49 2331 1272077
+opening_hours: Mo-Fr 09:30-13:30, Sa 10:00-14:00, Mo-Fr 14:30-18:00
+website: http://www.hagen-pfandhaus.de/

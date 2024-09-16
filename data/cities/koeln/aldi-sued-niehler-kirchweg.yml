@@ -1,11 +1,11 @@
 id: 347364034
-type: way
+type: node
 latitude: 50.97209
 longitude: 6.95285
 postcode: "50733"
 city: Köln
-street: "Niehler Kirchweg"
-housenumber: 67
+street: Niehler Kirchweg
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de/

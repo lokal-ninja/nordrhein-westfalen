@@ -1,11 +1,11 @@
 id: 110233350
-type: way
+type: node
 latitude: 50.82094
 longitude: 7.12243
 postcode: "53842"
 city: Troisdorf
-street: "Bonner Straße"
-housenumber: 32
+street: Bonner Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

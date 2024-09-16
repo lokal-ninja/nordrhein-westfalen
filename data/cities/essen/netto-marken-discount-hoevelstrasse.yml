@@ -1,11 +1,11 @@
 id: 35993807
-type: way
+type: node
 latitude: 51.48057
 longitude: 6.9932
 postcode: "45326"
 city: Essen
-street: "Hövelstraße"
-housenumber: 168
+street: Hövelstraße
+housenumber: "168"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 37789583
-type: way
+type: node
 latitude: 51.21329
 longitude: 6.68269
 postcode: "41462"
 city: Neuss
-street: "Römerstraße"
-housenumber: 120
+street: Römerstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

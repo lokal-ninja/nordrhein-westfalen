@@ -4,8 +4,8 @@ latitude: 51.71368
 longitude: 8.73967
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 34
-phone: "+49 5251 22336"
-opening_hours: "Mo off; Tu-Fr 9:00-18:00; Sa 10:00-13:00"
-website: "https://www.diermann-fahrraeder.de/"
+street: Bahnhofstraße
+housenumber: "34"
+phone: +49 5251 22336
+opening_hours: Mo off; Tu-Fr 9:00-18:00; Sa 10:00-13:00
+website: https://www.diermann-fahrraeder.de/

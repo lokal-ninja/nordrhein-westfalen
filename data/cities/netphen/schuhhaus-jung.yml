@@ -1,11 +1,11 @@
 id: 136483107
-type: way
+type: node
 latitude: 50.91451
 longitude: 8.05738
 postcode: "57250"
 city: Netphen
-street: "Dreisbachstraße"
-housenumber: 7
+street: Dreisbachstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 93214137
-type: way
+type: node
 latitude: 51.49934
 longitude: 7.26204
 postcode: "44805"
 city: Bochum
-street: "Harpener Feld"
-housenumber: 4
+street: Harpener Feld
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.zander-gruppe.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.zander-gruppe.de

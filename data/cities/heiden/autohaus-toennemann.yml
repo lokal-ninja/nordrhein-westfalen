@@ -1,11 +1,11 @@
 id: 260634029
-type: way
+type: node
 latitude: 51.82173
 longitude: 6.94668
 postcode: "46359"
 city: Heiden
-street: "Industriestraße"
-housenumber: 21
-phone: "+49 2867 97330"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://www.autohaus-toennemann.de/standorte/heiden/"
+street: Industriestraße
+housenumber: "21"
+phone: +49 2867 97330
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://www.autohaus-toennemann.de/standorte/heiden/

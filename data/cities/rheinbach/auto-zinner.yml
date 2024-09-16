@@ -1,11 +1,11 @@
 id: 199236465
-type: way
+type: node
 latitude: 50.63123
 longitude: 6.96426
 postcode: "53359"
 city: Rheinbach
-street: "Boschstraße"
-housenumber: 28
+street: Boschstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

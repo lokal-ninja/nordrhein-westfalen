@@ -1,11 +1,11 @@
 id: 113714605
-type: way
+type: node
 latitude: 50.79753
 longitude: 7.12442
 postcode: "53844"
 city: Troisdorf
-street: "Larstraße"
-housenumber: 180
+street: Larstraße
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 280704296
-type: way
+type: node
 latitude: 51.77125
 longitude: 7.9298
 postcode: "59227"
 city: Ahlen
-street: "Kruppstraße"
-housenumber: 12
+street: Kruppstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-13:00
 website: ""

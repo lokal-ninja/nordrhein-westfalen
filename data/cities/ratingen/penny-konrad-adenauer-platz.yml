@@ -1,11 +1,11 @@
 id: 143822895
-type: way
+type: node
 latitude: 51.3335
 longitude: 6.8302
 postcode: "40885"
 city: Ratingen
-street: "Konrad-Adenauer-Platz"
-housenumber: 4
+street: Konrad-Adenauer-Platz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

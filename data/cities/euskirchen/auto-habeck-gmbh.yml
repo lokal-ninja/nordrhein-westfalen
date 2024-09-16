@@ -1,11 +1,11 @@
 id: 257931824
-type: way
+type: node
 latitude: 50.65873
 longitude: 6.79458
 postcode: "53879"
 city: Euskirchen
-street: "Oststraße"
-housenumber: 2
+street: Oststraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
 website: ""

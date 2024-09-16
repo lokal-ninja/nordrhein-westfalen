@@ -1,11 +1,11 @@
 id: 35166967
-type: way
+type: node
 latitude: 51.72749
 longitude: 8.78723
 postcode: "33100"
 city: Paderborn
-street: "Karl-Schurz-Straße"
-housenumber: 18
+street: Karl-Schurz-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-16:00"
-website: "https://www.blumen-risse.de/"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-16:00
+website: https://www.blumen-risse.de/

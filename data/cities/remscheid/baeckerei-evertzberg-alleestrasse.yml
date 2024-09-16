@@ -4,8 +4,8 @@ latitude: 51.18307
 longitude: 7.18728
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 74
-phone: "+49 2191 22290"
-opening_hours: "Mo-Sa 07:30-19:00; PH off"
-website: "https://www.evertzberg.de/"
+street: Alleestraße
+housenumber: "74"
+phone: +49 2191 22290
+opening_hours: Mo-Sa 07:30-19:00; PH off
+website: https://www.evertzberg.de/

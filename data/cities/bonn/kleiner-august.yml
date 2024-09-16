@@ -4,8 +4,8 @@ latitude: 50.72255
 longitude: 7.08901
 postcode: "53115"
 city: Bonn
-street: "Clemens-August-Straße"
-housenumber: 47
-phone: "+49 228 9762951"
-opening_hours: "Tu,We,Fr 11:00-18:00; Sa 10:00-13:30; Mo,Th 11:00-17:00"
-website: "http://kleineraugust.de/"
+street: Clemens-August-Straße
+housenumber: "47"
+phone: +49 228 9762951
+opening_hours: Tu,We,Fr 11:00-18:00; Sa 10:00-13:30; Mo,Th 11:00-17:00
+website: http://kleineraugust.de/

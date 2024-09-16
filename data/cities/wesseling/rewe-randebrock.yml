@@ -1,11 +1,11 @@
 id: 321950431
-type: way
+type: node
 latitude: 50.82304
 longitude: 6.98453
 postcode: "50389"
 city: Wesseling
-street: "Gotenstraße"
-housenumber: 9
-phone: "+49 2236 3945206"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-wesseling-gotenstra%C3%9Fe-9"
+street: Gotenstraße
+housenumber: "9"
+phone: +49 2236 3945206
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/rewe-markt-wesseling-gotenstra%C3%9Fe-9

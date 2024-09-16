@@ -4,8 +4,8 @@ latitude: 51.05132
 longitude: 7.23311
 postcode: "51515"
 city: Kürten
-street: "Kölner Straße"
-housenumber: 225
-phone: "+49 2268 908650"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00; PH off"
-website: "http://www.wfg-kuerten.de"
+street: Kölner Straße
+housenumber: "225"
+phone: +49 2268 908650
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-13:00; PH off
+website: http://www.wfg-kuerten.de

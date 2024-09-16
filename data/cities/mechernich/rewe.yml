@@ -4,8 +4,8 @@ latitude: 50.59018
 longitude: 6.65414
 postcode: "53894"
 city: Mechernich
-street: "St. Florian Straße"
-housenumber: 1
-phone: "+49 2443 315490"
-opening_hours: "Mo-Sa 07:00-22:00;Su,PH off;Dec 24 07:00-14:00"
-website: "https://www.rewe.de/marktseite/mechernich/1940129/rewe-markt-st-florian-str-1/"
+street: St. Florian Straße
+housenumber: "1"
+phone: +49 2443 315490
+opening_hours: Mo-Sa 07:00-22:00;Su,PH off;Dec 24 07:00-14:00
+website: https://www.rewe.de/marktseite/mechernich/1940129/rewe-markt-st-florian-str-1/

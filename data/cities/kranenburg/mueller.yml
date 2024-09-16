@@ -1,11 +1,11 @@
 id: 972942400
-type: way
+type: node
 latitude: 51.79027
 longitude: 6.01397
 postcode: "47559"
 city: Kranenburg
-street: "Großen Haag"
-housenumber: 8
+street: Großen Haag
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH closed"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH closed
 website: ""

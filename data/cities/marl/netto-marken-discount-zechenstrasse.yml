@@ -1,11 +1,11 @@
 id: 250105004
-type: way
+type: node
 latitude: 51.66424
 longitude: 7.08918
 postcode: "45772"
 city: Marl
-street: "Zechenstraße"
-housenumber: 3
+street: Zechenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

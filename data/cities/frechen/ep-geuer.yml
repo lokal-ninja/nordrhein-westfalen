@@ -4,8 +4,8 @@ latitude: 50.90979
 longitude: 6.81256
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 38
-phone: "+49 2234 957700"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-14:00"
-website: "https://www.elektro-geuer.de/"
+street: Hauptstraße
+housenumber: "38"
+phone: +49 2234 957700
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-14:00
+website: https://www.elektro-geuer.de/

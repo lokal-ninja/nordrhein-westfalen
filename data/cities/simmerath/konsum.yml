@@ -1,11 +1,11 @@
 id: 114707432
-type: way
+type: node
 latitude: 50.57895
 longitude: 6.30392
 postcode: "52152"
 city: Simmerath
-street: "Am Weiher"
-housenumber: 4
-phone: "+49 2473 1396"
-opening_hours: "Mo-Fr 06:00-13:00, 15:00-18:00; Sa 06:00-13:00; Su 08:00-10:00"
+street: Am Weiher
+housenumber: "4"
+phone: +49 2473 1396
+opening_hours: Mo-Fr 06:00-13:00, 15:00-18:00; Sa 06:00-13:00; Su 08:00-10:00
 website: ""

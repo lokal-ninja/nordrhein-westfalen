@@ -1,11 +1,11 @@
 id: 87514304
-type: way
+type: node
 latitude: 51.19335
 longitude: 7.0751
 postcode: "42653"
 city: Solingen
-street: "Wuppertaler Straße"
-housenumber: 28
+street: Wuppertaler Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://auto-freun.de/"
+website: https://auto-freun.de/

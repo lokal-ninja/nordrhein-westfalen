@@ -1,11 +1,11 @@
 id: 153270492
-type: way
+type: node
 latitude: 52.31469
 longitude: 7.8739
 postcode: "49492"
 city: Westerkappeln
-street: "Heerstraße"
-housenumber: 2
+street: Heerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

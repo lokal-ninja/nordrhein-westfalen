@@ -4,8 +4,8 @@ latitude: 52.02647
 longitude: 8.88767
 postcode: "32657"
 city: Lemgo
-street: "Grevenmarschstraße"
-housenumber: 20
-phone: "+49 5261 666191"
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.fressnapf.de/maerkte/fressnapf-lemgo"
+street: Grevenmarschstraße
+housenumber: "20"
+phone: +49 5261 666191
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.fressnapf.de/maerkte/fressnapf-lemgo

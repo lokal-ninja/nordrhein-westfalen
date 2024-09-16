@@ -1,11 +1,11 @@
 id: 344559336
-type: way
+type: node
 latitude: 50.73687
 longitude: 6.83152
 postcode: "53919"
 city: Weilerswist
-street: "Mühlenstraße"
-housenumber: 4
+street: Mühlenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
 website: ""

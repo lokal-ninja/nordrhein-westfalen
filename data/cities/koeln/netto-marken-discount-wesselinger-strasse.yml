@@ -1,11 +1,11 @@
 id: 275667064
-type: way
+type: node
 latitude: 50.85967
 longitude: 7.004
 postcode: "50999"
 city: Köln
-street: "Wesselinger Straße"
-housenumber: 9
+street: Wesselinger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

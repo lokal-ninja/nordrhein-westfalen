@@ -4,8 +4,8 @@ latitude: 50.80059
 longitude: 7.20675
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 59
-phone: "+49 2241 1201800"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.goldschmiede-siegburg.de/"
+street: Kaiserstraße
+housenumber: "59"
+phone: +49 2241 1201800
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.goldschmiede-siegburg.de/

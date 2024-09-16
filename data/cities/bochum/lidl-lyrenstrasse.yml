@@ -1,11 +1,11 @@
 id: 389598816
-type: way
+type: node
 latitude: 51.48243
 longitude: 7.12874
 postcode: "44866"
 city: Bochum
-street: "Lyrenstraße"
-housenumber: 9
+street: Lyrenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1152323976
-type: way
+type: node
 latitude: 52.30402
 longitude: 8.49809
 postcode: "32361"
 city: Preußisch Oldendorf
-street: "Mindener Straße"
-housenumber: 24
+street: Mindener Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

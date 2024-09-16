@@ -1,11 +1,11 @@
 id: 322536985
-type: way
+type: node
 latitude: 50.83981
 longitude: 8.15354
 postcode: "57234"
 city: Wilnsdorf
-street: "Dillenburger Straße"
-housenumber: 56
+street: Dillenburger Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

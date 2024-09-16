@@ -1,11 +1,11 @@
 id: 36404353
-type: way
+type: node
 latitude: 51.66754
 longitude: 8.59306
 postcode: "33154"
 city: Salzkotten
-street: "Geseker Straße"
-housenumber: 41
+street: Geseker Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

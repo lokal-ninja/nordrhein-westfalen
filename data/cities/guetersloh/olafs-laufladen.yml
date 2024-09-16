@@ -1,11 +1,11 @@
 id: 265778709
-type: way
+type: node
 latitude: 51.90663
 longitude: 8.3756
 postcode: "33330"
 city: Gütersloh
-street: "Münsterstraße"
-housenumber: 25
+street: Münsterstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

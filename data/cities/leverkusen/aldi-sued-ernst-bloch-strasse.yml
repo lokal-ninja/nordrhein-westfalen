@@ -1,11 +1,11 @@
 id: 93185789
-type: way
+type: node
 latitude: 51.05622
 longitude: 7.05716
 postcode: "51377"
 city: Leverkusen
-street: "Ernst-Bloch-Straße"
-housenumber: 3
+street: Ernst-Bloch-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1258403644
-type: way
+type: node
 latitude: 50.87045
 longitude: 6.16672
 postcode: "52477"
 city: Alsdorf
-street: "Schweriner Straße"
-housenumber: 5
+street: Schweriner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00; PH off
 website: ""

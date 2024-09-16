@@ -4,8 +4,8 @@ latitude: 51.22743
 longitude: 7.61674
 postcode: "58507"
 city: Lüdenscheid
-street: "Breitenfeld"
-housenumber: 1
-phone: "+49 2351 62153"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+street: Breitenfeld
+housenumber: "1"
+phone: +49 2351 62153
+opening_hours: Mo-Sa 07:00-20:00; Su off
 website: ""

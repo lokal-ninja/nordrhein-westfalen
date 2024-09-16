@@ -4,8 +4,8 @@ latitude: 50.79893
 longitude: 7.20773
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 38
+street: Kaiserstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-18:00"
-website: "https://www.nkd.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-18:00
+website: https://www.nkd.de/

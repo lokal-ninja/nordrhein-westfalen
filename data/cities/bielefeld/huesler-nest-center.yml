@@ -4,8 +4,8 @@ latitude: 52.01872
 longitude: 8.53094
 postcode: "33602"
 city: Bielefeld
-street: "Am Bach"
-housenumber: 15
+street: Am Bach
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://bielefeld.huesler-nest.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://bielefeld.huesler-nest.de/

@@ -4,8 +4,8 @@ latitude: 51.48121
 longitude: 7.13499
 postcode: "44866"
 city: Bochum
-street: "Freiheitstraße"
-housenumber: 2
+street: Freiheitstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 08:30-16:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 08:30-16:00
 website: ""

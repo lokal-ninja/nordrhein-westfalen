@@ -4,8 +4,8 @@ latitude: 52.21553
 longitude: 7.02491
 postcode: "48599"
 city: Gronau
-street: "Fabrikstraße"
-housenumber: 3
+street: Fabrikstraße
+housenumber: "3"
 phone: "+4925629937211"
-opening_hours: "24/7"
-website: "https://www.blumenshop.de/"
+opening_hours: 24/7
+website: https://www.blumenshop.de/

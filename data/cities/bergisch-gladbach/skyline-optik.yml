@@ -4,8 +4,8 @@ latitude: 51.01381
 longitude: 7.07884
 postcode: "51467"
 city: Bergisch Gladbach
-street: "Altenberger-Dom-Straße"
-housenumber: 113
-phone: "+49 2202 82016"
-opening_hours: "Mo,Th,Fr 14:30-18:30; Tu 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00"
+street: Altenberger-Dom-Straße
+housenumber: "113"
+phone: +49 2202 82016
+opening_hours: Mo,Th,Fr 14:30-18:30; Tu 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00
 website: ""

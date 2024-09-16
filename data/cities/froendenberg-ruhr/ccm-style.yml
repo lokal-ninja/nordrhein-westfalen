@@ -1,11 +1,11 @@
 id: 330259502
-type: way
+type: node
 latitude: 51.47297
 longitude: 7.76695
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Markt"
-housenumber: 3
+street: Markt
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

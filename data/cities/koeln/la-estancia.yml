@@ -4,8 +4,8 @@ latitude: 50.89415
 longitude: 6.99359
 postcode: "50996"
 city: Köln
-street: "Hauptstraße"
-housenumber: 72
+street: Hauptstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "https://www.la-estancia-import.de/"
+website: https://www.la-estancia-import.de/

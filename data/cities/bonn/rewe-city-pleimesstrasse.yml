@@ -1,11 +1,11 @@
 id: 88409070
-type: way
+type: node
 latitude: 50.70632
 longitude: 7.11183
 postcode: "53129"
 city: Bonn
-street: "Pleimesstraße"
-housenumber: 3
-phone: "+49 228 18457862"
-opening_hours: "PH off; Mo-Sa 07:00-22:00; Su off"
-website: "https://www.rewe.de/"
+street: Pleimesstraße
+housenumber: "3"
+phone: +49 228 18457862
+opening_hours: PH off; Mo-Sa 07:00-22:00; Su off
+website: https://www.rewe.de/

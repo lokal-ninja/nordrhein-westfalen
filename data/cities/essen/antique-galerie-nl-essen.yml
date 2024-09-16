@@ -4,8 +4,8 @@ latitude: 51.43848
 longitude: 7.00777
 postcode: "45130"
 city: Essen
-street: "Klarastraße"
-housenumber: 25
+street: Klarastraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,14:30-18:00; Sa 10:30-14:00; Su off"
-website: "https://antiquegalerie.de/standorte/antiquitaeten-essen"
+opening_hours: Mo-Fr 10:00-14:00,14:30-18:00; Sa 10:30-14:00; Su off
+website: https://antiquegalerie.de/standorte/antiquitaeten-essen

@@ -1,11 +1,11 @@
 id: 151249590
-type: way
+type: node
 latitude: 51.48617
 longitude: 6.85779
 postcode: "46049"
 city: Oberhausen
-street: "Max-Planck-Ring"
-housenumber: 70
+street: Max-Planck-Ring
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

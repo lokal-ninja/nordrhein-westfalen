@@ -1,11 +1,11 @@
 id: 233084835
-type: way
+type: node
 latitude: 50.95689
 longitude: 6.89699
 postcode: "50827"
 city: Köln
-street: "Wilhelm-Mauser-Straße"
-housenumber: 19
+street: Wilhelm-Mauser-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

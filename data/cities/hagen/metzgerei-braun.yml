@@ -1,11 +1,11 @@
 id: 445253203
-type: way
+type: node
 latitude: 51.27716
 longitude: 7.53933
 postcode: "58091"
 city: Hagen
-street: "Rölveder Straße"
-housenumber: 16
+street: Rölveder Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

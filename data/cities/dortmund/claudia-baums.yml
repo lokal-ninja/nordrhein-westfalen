@@ -4,8 +4,8 @@ latitude: 51.5137
 longitude: 7.51936
 postcode: "44141"
 city: Dortmund
-street: "Matthias-Grünewald-Straße"
-housenumber: 29
-phone: "+49 231 2889546"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.claudia-baums.de"
+street: Matthias-Grünewald-Straße
+housenumber: "29"
+phone: +49 231 2889546
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.claudia-baums.de

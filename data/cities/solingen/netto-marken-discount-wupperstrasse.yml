@@ -1,11 +1,11 @@
 id: 132091678
-type: way
+type: node
 latitude: 51.17405
 longitude: 7.09351
 postcode: "42651"
 city: Solingen
-street: "Wupperstraße"
-housenumber: 89
+street: Wupperstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.49143
 longitude: 7.2415
 postcode: "44791"
 city: Bochum
-street: "I. Parallelstraße"
-housenumber: 3
-phone: "+49 234 54466636"
-opening_hours: "Mo-Fr 11:00-18:00, Sa 10:30-15:30; PH off"
-website: "https://www.filmcult.de"
+street: I. Parallelstraße
+housenumber: "3"
+phone: +49 234 54466636
+opening_hours: Mo-Fr 11:00-18:00, Sa 10:30-15:30; PH off
+website: https://www.filmcult.de

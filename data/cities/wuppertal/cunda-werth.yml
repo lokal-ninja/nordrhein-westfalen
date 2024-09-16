@@ -1,11 +1,11 @@
 id: 275403590
-type: way
+type: node
 latitude: 51.27161
 longitude: 7.20372
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 76
-phone: "+49 2022 5780"
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+street: Werth
+housenumber: "76"
+phone: +49 2022 5780
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
 website: ""

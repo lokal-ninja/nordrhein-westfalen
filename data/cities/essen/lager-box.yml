@@ -1,11 +1,11 @@
 id: 41390314
-type: way
+type: node
 latitude: 51.45182
 longitude: 7.00611
 postcode: "45127"
 city: Essen
-street: "Hachestraße"
-housenumber: 50
-phone: "+49 201/ 80 68 55 33"
+street: Hachestraße
+housenumber: "50"
+phone: +49 201/ 80 68 55 33
 opening_hours: ""
-website: "https://www.lagerbox.com/lagerraum-mieten-essen/stadtkern"
+website: https://www.lagerbox.com/lagerraum-mieten-essen/stadtkern

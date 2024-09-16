@@ -1,11 +1,11 @@
 id: 35896115
-type: way
+type: node
 latitude: 52.084
 longitude: 7.47261
 postcode: "48356"
 city: Nordwalde
-street: "Bahnhofstraße"
-housenumber: 50
+street: Bahnhofstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

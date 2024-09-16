@@ -4,8 +4,8 @@ latitude: 51.29769
 longitude: 6.85089
 postcode: "40878"
 city: Ratingen
-street: "Oberstraße"
-housenumber: 5
+street: Oberstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.apollo.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.apollo.de/

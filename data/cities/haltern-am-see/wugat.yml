@@ -1,11 +1,11 @@
 id: 276416615
-type: way
+type: node
 latitude: 51.74285
 longitude: 7.18484
 postcode: "45721"
 city: Haltern am See
-street: "Turmstraße"
-housenumber: 6
-phone: "+49 2364 9354303"
-opening_hours: "Th-Fr 10:00-13:00,14:30-18:30; Sa 10:00-13:00"
+street: Turmstraße
+housenumber: "6"
+phone: +49 2364 9354303
+opening_hours: Th-Fr 10:00-13:00,14:30-18:30; Sa 10:00-13:00
 website: ""

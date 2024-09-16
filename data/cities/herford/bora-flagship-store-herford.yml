@@ -1,11 +1,11 @@
 id: 1232577954
-type: way
+type: node
 latitude: 52.09635
 longitude: 8.6835
 postcode: "32052"
 city: Herford
-street: "Ahmser Straße"
-housenumber: 156
+street: Ahmser Straße
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

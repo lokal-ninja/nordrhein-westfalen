@@ -1,11 +1,11 @@
 id: 666701517
-type: way
+type: node
 latitude: 51.32834
 longitude: 7.36468
 postcode: ""
 city: Gevelsberg
-street: "Hagener Straße"
-housenumber: 210
+street: Hagener Straße
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "https://www.wuerth.de/web/de/awkg/niederlassungen/niederlassung.php?branch=500552"
+website: https://www.wuerth.de/web/de/awkg/niederlassungen/niederlassung.php?branch=500552

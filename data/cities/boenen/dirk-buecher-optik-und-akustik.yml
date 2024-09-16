@@ -4,8 +4,8 @@ latitude: 51.59841
 longitude: 7.75579
 postcode: "59199"
 city: Bönen
-street: "Bahnhofstraße"
-housenumber: 105
-phone: "+49 2383 7886"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:30; We 09:00-12:30; Sa 09:00-13:00"
-website: "https://www.dirkbuecher.de"
+street: Bahnhofstraße
+housenumber: "105"
+phone: +49 2383 7886
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:30; We 09:00-12:30; Sa 09:00-13:00
+website: https://www.dirkbuecher.de

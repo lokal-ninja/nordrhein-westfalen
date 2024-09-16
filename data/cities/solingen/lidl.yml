@@ -1,11 +1,11 @@
 id: 131423552
-type: way
+type: node
 latitude: 51.16399
 longitude: 7.0955
 postcode: ""
 city: Solingen
-street: "Zietenstraße"
-housenumber: 1
-phone: "+49 800 4353361"
+street: Zietenstraße
+housenumber: "1"
+phone: +49 800 4353361
 opening_hours: ""
 website: ""

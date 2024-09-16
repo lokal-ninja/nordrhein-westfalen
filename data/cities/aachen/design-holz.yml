@@ -1,11 +1,11 @@
 id: 83274341
-type: way
+type: node
 latitude: 50.77368
 longitude: 6.07811
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
-housenumber: 90
+street: Jakobstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"
-website: "http://www.lust-auf-parkett.de"
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00
+website: http://www.lust-auf-parkett.de

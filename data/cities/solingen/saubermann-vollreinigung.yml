@@ -1,11 +1,11 @@
 id: 981208785
-type: way
+type: node
 latitude: 51.16128
 longitude: 7.00018
 postcode: "42697"
 city: Solingen
-street: "Forststraße"
-housenumber: 6
+street: Forststraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 181927095
-type: way
+type: node
 latitude: 50.64431
 longitude: 7.0199
 postcode: "53340"
 city: Meckenheim
-street: "Am Hambuch"
-housenumber: 6
+street: Am Hambuch
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
 website: ""

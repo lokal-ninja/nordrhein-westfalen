@@ -4,8 +4,8 @@ latitude: 51.33089
 longitude: 7.0588
 postcode: "42551"
 city: Velbert
-street: "Sontumer Straße"
-housenumber: 73
+street: Sontumer Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.edeka.de/eh/rhein-ruhr/e-center-hundrieser-sontumer-stra%C3%9Fe-73/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.edeka.de/eh/rhein-ruhr/e-center-hundrieser-sontumer-stra%C3%9Fe-73/

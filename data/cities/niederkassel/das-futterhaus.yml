@@ -1,11 +1,11 @@
 id: 226971836
-type: way
+type: node
 latitude: 50.77783
 longitude: 7.0777
 postcode: "53859"
 city: Niederkassel
-street: "Rosenthalstraße"
-housenumber: 1
+street: Rosenthalstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.7886
 longitude: 6.48913
 postcode: "52349"
 city: Düren
-street: "Nideggener Straße"
-housenumber: 154
+street: Nideggener Straße
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30; Sa,Su,PH off"
-website: "http://www.altmann-computertechnik.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:30; Sa,Su,PH off
+website: http://www.altmann-computertechnik.de/

@@ -1,11 +1,11 @@
 id: 146386674
-type: way
+type: node
 latitude: 51.59367
 longitude: 7.66589
 postcode: "59174"
 city: Kamen
-street: "Oststraße"
-housenumber: 26
-phone: "+49 2307 10259"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
+street: Oststraße
+housenumber: "26"
+phone: +49 2307 10259
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.37706
 longitude: 8.96504
 postcode: "32469"
 city: Petershagen
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off
 website: ""

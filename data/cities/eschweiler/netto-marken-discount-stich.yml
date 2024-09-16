@@ -1,11 +1,11 @@
 id: 30798094
-type: way
+type: node
 latitude: 50.81106
 longitude: 6.25373
 postcode: "52249"
 city: Eschweiler
-street: "Stich"
-housenumber: 21
+street: Stich
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

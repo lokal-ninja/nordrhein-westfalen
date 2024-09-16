@@ -1,11 +1,11 @@
 id: 171166156
-type: way
+type: node
 latitude: 50.97528
 longitude: 7.05658
 postcode: "51067"
 city: Köln
-street: "Wasserwerkstraße"
-housenumber: 8
+street: Wasserwerkstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

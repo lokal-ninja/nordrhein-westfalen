@@ -1,11 +1,11 @@
 id: 413364463
-type: way
+type: node
 latitude: 52.02489
 longitude: 8.53167
 postcode: "33602"
 city: Bielefeld
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

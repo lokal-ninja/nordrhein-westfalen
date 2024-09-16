@@ -4,8 +4,8 @@ latitude: 51.2508
 longitude: 6.98099
 postcode: "40822"
 city: Mettmann
-street: "Poststraße"
-housenumber: 19
+street: Poststraße
+housenumber: "19"
 phone: ""
-opening_hours: "Sa 09:00-18:00; Mo-Fr 10:00-20:00"
+opening_hours: Sa 09:00-18:00; Mo-Fr 10:00-20:00
 website: ""

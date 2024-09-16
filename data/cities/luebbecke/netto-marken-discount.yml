@@ -1,11 +1,11 @@
 id: 51812870
-type: way
+type: node
 latitude: 52.29956
 longitude: 8.70496
 postcode: "32312"
 city: Lübbecke
-street: "Ravensberger Straße"
-housenumber: 65
+street: Ravensberger Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

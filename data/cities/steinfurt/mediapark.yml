@@ -1,11 +1,11 @@
 id: 82514610
-type: way
+type: node
 latitude: 52.14895
 longitude: 7.32885
 postcode: "48565"
 city: Steinfurt
-street: "Goldstraße"
-housenumber: 4
+street: Goldstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:30-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 08:00-13:00,14:30-18:30; Sa 09:30-18:00
 website: ""

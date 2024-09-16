@@ -1,11 +1,11 @@
 id: 240371160
-type: way
+type: node
 latitude: 51.78002
 longitude: 6.12984
 postcode: "47533"
 city: Kleve
-street: "Hoffmannallee"
-housenumber: 29
-phone: "+49 2821 806 548"
+street: Hoffmannallee
+housenumber: "29"
+phone: +49 2821 806 548
 opening_hours: ""
 website: ""

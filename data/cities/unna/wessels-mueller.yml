@@ -1,11 +1,11 @@
 id: 96834931
-type: way
+type: node
 latitude: 51.53005
 longitude: 7.66392
 postcode: "59423"
 city: Unna
-street: "Hans-Böckler-Straße"
-housenumber: 15
+street: Hans-Böckler-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 50901114
-type: way
+type: node
 latitude: 50.93061
 longitude: 8.00837
 postcode: "57223"
 city: Kreuztal
-street: "Siegener Straße"
-housenumber: 198
+street: Siegener Straße
+housenumber: "198"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:30
 website: ""

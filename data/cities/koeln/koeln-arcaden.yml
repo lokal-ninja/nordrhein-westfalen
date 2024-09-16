@@ -1,11 +1,11 @@
 id: 7831409
-type: way
+type: node
 latitude: 50.93819
 longitude: 6.99764
 postcode: "51103"
 city: Köln
-street: "Kalker Hauptstraße"
-housenumber: 55
-phone: "+49 221 992030"
-opening_hours: "Mo-Th 08:00-20:00; Fr,Sa 08:00-22:00"
-website: "https://www.koeln-arcaden.de/"
+street: Kalker Hauptstraße
+housenumber: "55"
+phone: +49 221 992030
+opening_hours: Mo-Th 08:00-20:00; Fr,Sa 08:00-22:00
+website: https://www.koeln-arcaden.de/

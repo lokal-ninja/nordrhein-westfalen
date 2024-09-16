@@ -4,8 +4,8 @@ latitude: 51.29152
 longitude: 7.23841
 postcode: "42279"
 city: Wuppertal
-street: "Linderhauser Straße"
-housenumber: 38
-phone: "+49 1 72 21 39 306"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.beulencenter.de"
+street: Linderhauser Straße
+housenumber: "38"
+phone: +49 1 72 21 39 306
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.beulencenter.de

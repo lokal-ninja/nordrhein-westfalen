@@ -4,8 +4,8 @@ latitude: 51.75397
 longitude: 8.77913
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 325
+street: Detmolder Straße
+housenumber: "325"
 phone: ""
-opening_hours: "Tu-Fr 14:00-20:00; Sa 11:00-20:00; Su 13:00-18:00;Mo off"
-website: "https://www.dorn-stein.de/"
+opening_hours: Tu-Fr 14:00-20:00; Sa 11:00-20:00; Su 13:00-18:00;Mo off
+website: https://www.dorn-stein.de/

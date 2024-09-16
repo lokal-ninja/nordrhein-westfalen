@@ -1,11 +1,13 @@
 id: 95138988
-type: way
+type: node
 latitude: 51.74594
 longitude: 7.90012
 postcode: "59229"
 city: Ahlen
-street: "Am Neuen Baum"
-housenumber: 32
+street: Am Neuen Baum
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00, Fr 17:00-18:00 Exhibition & Sales only; Sa 09:00-12:00, Sa 12:00-18:00 Exhibition; Su 09:00-18:00 Exhibition only"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00, Fr 17:00-18:00 "Exhibition & Sales
+    only"; Sa 09:00-12:00, Sa 12:00-18:00 "Exhibition"; Su 09:00-18:00 "Exhibition
+    only"
 website: ""

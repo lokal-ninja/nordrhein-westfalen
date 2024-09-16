@@ -1,11 +1,11 @@
 id: 32798377
-type: way
+type: node
 latitude: 50.86446
 longitude: 8.03352
 postcode: "57074"
 city: Siegen
-street: "Friedrich-Wilhelm-Straße"
-housenumber: 134
-phone: "+49 271 31922300"
-opening_hours: "Mo-Fr 09:00-20:00,Sa 08:00-18:00; PH off"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/99/"
+street: Friedrich-Wilhelm-Straße
+housenumber: "134"
+phone: +49 271 31922300
+opening_hours: Mo-Fr 09:00-20:00,Sa 08:00-18:00; PH off
+website: https://www.mixmarkt.eu/de/germany/maerkte/99/

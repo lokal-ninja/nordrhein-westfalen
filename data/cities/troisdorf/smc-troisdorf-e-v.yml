@@ -1,11 +1,11 @@
 id: 65978225
-type: way
+type: node
 latitude: 50.8118
 longitude: 7.17319
 postcode: "53840"
 city: Troisdorf
-street: "Im Laach"
-housenumber: 27
+street: Im Laach
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

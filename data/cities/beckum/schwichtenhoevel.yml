@@ -4,8 +4,8 @@ latitude: 51.75471
 longitude: 8.04058
 postcode: "59269"
 city: Beckum
-street: "Weststraße"
-housenumber: 1
+street: Weststraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
 website: ""

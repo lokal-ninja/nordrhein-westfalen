@@ -4,8 +4,9 @@ latitude: 51.87295
 longitude: 8.94576
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Mittelstraße"
-housenumber: 81
+street: Mittelstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo off; Tu 6:00-17:30; We 6:00-13:30; Th, Fr 6:00-17:30; Sa 6:00-12:30; Su off"
+opening_hours: Mo off; Tu 6:00-17:30; We 6:00-13:30; Th, Fr 6:00-17:30; Sa 6:00-12:30;
+    Su off
 website: ""

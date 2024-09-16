@@ -4,8 +4,8 @@ latitude: 51.47602
 longitude: 7.228
 postcode: "44789"
 city: Bochum
-street: "Alsenstraße"
-housenumber: 30
+street: Alsenstraße
+housenumber: "30"
 phone: ""
-opening_hours: "12:00-22:00; PH off"
+opening_hours: 12:00-22:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 285149258
-type: way
+type: node
 latitude: 50.79835
 longitude: 7.20268
 postcode: "53721"
 city: Siegburg
-street: "Wilhelmstraße"
-housenumber: 116
+street: Wilhelmstraße
+housenumber: "116"
 phone: ""
 opening_hours: ""
-website: "http://www.identica-heidinger.de"
+website: http://www.identica-heidinger.de

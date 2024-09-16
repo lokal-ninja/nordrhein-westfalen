@@ -4,8 +4,8 @@ latitude: 50.89609
 longitude: 8.02693
 postcode: "57076"
 city: Siegen
-street: "Hauptmarkt"
-housenumber: 3
-phone: "+49 271 2504484"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH off"
-website: "https://www.parfuemerie-muenker.de"
+street: Hauptmarkt
+housenumber: "3"
+phone: +49 271 2504484
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH off
+website: https://www.parfuemerie-muenker.de

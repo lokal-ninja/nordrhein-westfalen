@@ -1,11 +1,11 @@
 id: 1301333250
-type: way
+type: node
 latitude: 51.1119
 longitude: 6.95003
 postcode: "40764"
 city: Langenfeld (Rheinland)
 street: ""
-housenumber: 1
-phone: "+49 2173 8549573"
+housenumber: "1"
+phone: +49 2173 8549573
 opening_hours: ""
-website: "https://www.saint-georges.de/"
+website: https://www.saint-georges.de/

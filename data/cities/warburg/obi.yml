@@ -4,8 +4,8 @@ latitude: 51.49406
 longitude: 9.12966
 postcode: "34414"
 city: Warburg
-street: "Industriestraße"
-housenumber: 2
-phone: "+49 5641 76220"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
-website: "https://www.obi.de/baumarkt/warburg/"
+street: Industriestraße
+housenumber: "2"
+phone: +49 5641 76220
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off
+website: https://www.obi.de/baumarkt/warburg/

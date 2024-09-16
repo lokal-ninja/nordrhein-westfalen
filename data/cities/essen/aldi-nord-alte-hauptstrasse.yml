@@ -1,11 +1,11 @@
 id: 232428236
-type: way
+type: node
 latitude: 51.41479
 longitude: 7.10763
 postcode: "45289"
 city: Essen
-street: "Alte Hauptstraße"
-housenumber: 111
+street: Alte Hauptstraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

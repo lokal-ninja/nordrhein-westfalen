@@ -1,11 +1,11 @@
 id: 74203566
-type: way
+type: node
 latitude: 51.6113
 longitude: 7.17926
 postcode: "45657"
 city: Recklinghausen
-street: "Bert-Brecht-Straße"
-housenumber: 2
+street: Bert-Brecht-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/

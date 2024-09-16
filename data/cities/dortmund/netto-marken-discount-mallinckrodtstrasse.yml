@@ -1,11 +1,11 @@
 id: 40877022
-type: way
+type: node
 latitude: 51.52464
 longitude: 7.4652
 postcode: "44145"
 city: Dortmund
-street: "Mallinckrodtstraße"
-housenumber: 70
+street: Mallinckrodtstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.28057
 longitude: 8.79977
 postcode: "32479"
 city: Hille
-street: "Bäckerstraße"
-housenumber: 46
-phone: "+49 5734 93146"
-opening_hours: "Mo-Fr 06:00-13:00,15:00-18:00, Sa 06:00-13:00"
+street: Bäckerstraße
+housenumber: "46"
+phone: +49 5734 93146
+opening_hours: Mo-Fr 06:00-13:00,15:00-18:00, Sa 06:00-13:00
 website: ""

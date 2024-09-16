@@ -1,11 +1,11 @@
 id: 260317559
-type: way
+type: node
 latitude: 50.98843
 longitude: 6.90803
 postcode: "50739"
 city: Köln
-street: "Robert-Perthel-Straße"
-housenumber: 65
+street: Robert-Perthel-Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-13:00"
-website: "https://www.odendahl-heise.de/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-13:00
+website: https://www.odendahl-heise.de/

@@ -1,11 +1,11 @@
 id: 194112480
-type: way
+type: node
 latitude: 52.20315
 longitude: 7.81519
 postcode: "49525"
 city: Lengerich
-street: "Teutopark"
-housenumber: 8
+street: Teutopark
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

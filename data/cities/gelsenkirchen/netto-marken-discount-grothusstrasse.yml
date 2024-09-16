@@ -1,11 +1,11 @@
 id: 28677681
-type: way
+type: node
 latitude: 51.52514
 longitude: 7.06381
 postcode: "45883"
 city: Gelsenkirchen
-street: "Grothusstraße"
-housenumber: 52
+street: Grothusstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

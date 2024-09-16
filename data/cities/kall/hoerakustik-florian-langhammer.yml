@@ -4,8 +4,8 @@ latitude: 50.54087
 longitude: 6.55778
 postcode: "53925"
 city: Kall
-street: "Aachener Straße"
-housenumber: 5
-phone: "+49 2441 7948010"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.hoerakustik-langhammer.de/"
+street: Aachener Straße
+housenumber: "5"
+phone: +49 2441 7948010
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.hoerakustik-langhammer.de/

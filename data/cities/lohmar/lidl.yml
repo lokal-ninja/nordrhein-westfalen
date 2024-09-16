@@ -1,11 +1,11 @@
 id: 113872599
-type: way
+type: node
 latitude: 50.8817
 longitude: 7.24931
 postcode: "53797"
 city: Lohmar
-street: "Wahlscheider Straße"
-housenumber: 120
+street: Wahlscheider Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

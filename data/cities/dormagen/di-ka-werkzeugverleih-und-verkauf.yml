@@ -1,11 +1,12 @@
 id: 143338548
-type: way
+type: node
 latitude: 51.12884
 longitude: 6.80638
 postcode: "41541"
 city: Dormagen
-street: "Düsseldorfer Straße"
-housenumber: 114
-phone: "+49 2133 538516"
-opening_hours: "Mar 1 - Oct 31: Mo-Fr 08:00-18:00, Sa 08:00-14:00; Nov 1 - Feb 28: Mo-Fr 08:00-17:00, Sa 08:00-12:00"
-website: "https://www.maschinenverleih-dika.de/"
+street: Düsseldorfer Straße
+housenumber: "114"
+phone: +49 2133 538516
+opening_hours: 'Mar 1 - Oct 31: Mo-Fr 08:00-18:00, Sa 08:00-14:00; Nov 1 - Feb 28:
+    Mo-Fr 08:00-17:00, Sa 08:00-12:00'
+website: https://www.maschinenverleih-dika.de/

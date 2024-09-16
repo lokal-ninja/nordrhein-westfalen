@@ -1,11 +1,11 @@
 id: 38267137
-type: way
+type: node
 latitude: 50.73842
 longitude: 7.14014
 postcode: "53227"
 city: Bonn
-street: "In den Wiesen"
-housenumber: 2
+street: In den Wiesen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

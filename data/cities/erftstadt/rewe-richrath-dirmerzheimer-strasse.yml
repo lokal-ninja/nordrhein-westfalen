@@ -1,11 +1,11 @@
 id: 439690578
-type: way
+type: node
 latitude: 50.83333
 longitude: 6.74795
 postcode: "50374"
 city: Erftstadt
-street: "Dirmerzheimer Straße"
-housenumber: 48
+street: Dirmerzheimer Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

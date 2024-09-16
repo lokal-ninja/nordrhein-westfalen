@@ -1,11 +1,11 @@
 id: 312636622
-type: way
+type: node
 latitude: 51.67567
 longitude: 6.62618
 postcode: "46485"
 city: Wesel
-street: "Lübecker Straße"
-housenumber: 25
+street: Lübecker Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.89813
 longitude: 8.37864
 postcode: "33332"
 city: Gütersloh
-street: "Neuenkirchener Straße"
-housenumber: 45
+street: Neuenkirchener Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.topgetraenke.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.topgetraenke.de/

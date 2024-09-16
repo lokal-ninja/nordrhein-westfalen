@@ -4,8 +4,8 @@ latitude: 51.21828
 longitude: 6.77746
 postcode: "40215"
 city: Düsseldorf
-street: "Adersstraße"
-housenumber: 4
-phone: "+49 211 15969108"
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa,Su off"
-website: "https://www.ihre-bandage.de/"
+street: Adersstraße
+housenumber: "4"
+phone: +49 211 15969108
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa,Su off
+website: https://www.ihre-bandage.de/

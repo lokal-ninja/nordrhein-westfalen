@@ -1,11 +1,11 @@
 id: 102343879
-type: way
+type: node
 latitude: 51.42158
 longitude: 7.43845
 postcode: "58313"
 city: Herdecke
-street: "Ostender Weg"
-housenumber: 12
-phone: "+49 2330 849037"
+street: Ostender Weg
+housenumber: "12"
+phone: +49 2330 849037
 opening_hours: ""
-website: "https://hf-classic-cars.de"
+website: https://hf-classic-cars.de

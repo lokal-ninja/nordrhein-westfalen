@@ -4,8 +4,8 @@ latitude: 51.98392
 longitude: 8.51013
 postcode: "33647"
 city: Bielefeld
-street: "Winterberger Straße"
-housenumber: 2
-phone: "+49 521 98735280"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Winterberger Straße
+housenumber: "2"
+phone: +49 521 98735280
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

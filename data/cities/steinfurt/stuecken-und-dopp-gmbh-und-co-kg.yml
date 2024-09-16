@@ -1,11 +1,11 @@
 id: 192705272
-type: way
+type: node
 latitude: 52.11374
 longitude: 7.39874
 postcode: "48565"
 city: Steinfurt
-street: "Altenberger Straße"
-housenumber: 82
-phone: "+49 2552 3947"
+street: Altenberger Straße
+housenumber: "82"
+phone: +49 2552 3947
 opening_hours: ""
-website: "https://www.stuecken-dopp.de/"
+website: https://www.stuecken-dopp.de/

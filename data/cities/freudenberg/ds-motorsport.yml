@@ -1,11 +1,11 @@
 id: 45403847
-type: way
+type: node
 latitude: 50.91541
 longitude: 7.88395
 postcode: "57258"
 city: Freudenberg
-street: "Hommeswiese"
-housenumber: 3
+street: Hommeswiese
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

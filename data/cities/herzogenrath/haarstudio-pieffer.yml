@@ -4,8 +4,8 @@ latitude: 50.86772
 longitude: 6.09467
 postcode: "52134"
 city: Herzogenrath
-street: "Ferdinand-Schmetz-Platz"
-housenumber: 5
-phone: "+49 2406 5293"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-14:00"
+street: Ferdinand-Schmetz-Platz
+housenumber: "5"
+phone: +49 2406 5293
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-14:00
 website: ""

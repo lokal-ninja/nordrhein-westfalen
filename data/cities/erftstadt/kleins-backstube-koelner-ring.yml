@@ -4,8 +4,8 @@ latitude: 50.80246
 longitude: 6.7803
 postcode: "50374"
 city: Erftstadt
-street: "Kölner Ring"
-housenumber: 2
-phone: "+49 2235 691793"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://kleinsbackstube.de/"
+street: Kölner Ring
+housenumber: "2"
+phone: +49 2235 691793
+opening_hours: Mo-Sa 07:30-20:00
+website: https://kleinsbackstube.de/

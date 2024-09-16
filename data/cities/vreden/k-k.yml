@@ -1,11 +1,11 @@
 id: 919359398
-type: way
+type: node
 latitude: 52.03603
 longitude: 6.83284
 postcode: "48691"
 city: Vreden
-street: "Ottensteiner Straße"
-housenumber: 26
+street: Ottensteiner Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

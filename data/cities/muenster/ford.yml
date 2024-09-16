@@ -1,11 +1,11 @@
 id: 112979243
-type: way
+type: node
 latitude: 51.93991
 longitude: 7.62994
 postcode: "48153"
 city: Münster
-street: "Dahlweg"
-housenumber: 121
-phone: "+49 251 70019"
+street: Dahlweg
+housenumber: "121"
+phone: +49 251 70019
 opening_hours: ""
 website: ""

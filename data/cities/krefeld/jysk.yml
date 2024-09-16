@@ -4,8 +4,8 @@ latitude: 51.33
 longitude: 6.54696
 postcode: "47803"
 city: Krefeld
-street: "Gutenbergstraße"
-housenumber: 158
+street: Gutenbergstraße
+housenumber: "158"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://jysk.de/stores-locator"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://jysk.de/stores-locator

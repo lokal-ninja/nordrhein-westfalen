@@ -4,8 +4,8 @@ latitude: 52.11402
 longitude: 8.67335
 postcode: "32052"
 city: Herford
-street: "Tribenstraße"
-housenumber: 6
+street: Tribenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.combi.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.combi.de/

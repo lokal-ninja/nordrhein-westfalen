@@ -4,8 +4,8 @@ latitude: 52.03934
 longitude: 8.54321
 postcode: "33611"
 city: Bielefeld
-street: "Beckhausstraße"
-housenumber: 59
-phone: "+49-521-98915540"
-opening_hours: "Mo-Th 07:30-17:00, Fr 07:30-15:00"
-website: "http://www.bscar-service-team.de/"
+street: Beckhausstraße
+housenumber: "59"
+phone: +49-521-98915540
+opening_hours: Mo-Th 07:30-17:00, Fr 07:30-15:00
+website: http://www.bscar-service-team.de/

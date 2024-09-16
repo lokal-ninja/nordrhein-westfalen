@@ -4,8 +4,8 @@ latitude: 51.2381
 longitude: 6.73318
 postcode: "40549"
 city: Düsseldorf
-street: "Hansaallee"
-housenumber: 107
+street: Hansaallee
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 11:00-17:30; Su off"
+opening_hours: Mo-Fr 09:30-17:30; Sa 11:00-17:30; Su off
 website: ""

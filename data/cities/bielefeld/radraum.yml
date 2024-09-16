@@ -4,8 +4,8 @@ latitude: 52.02624
 longitude: 8.5342
 postcode: "33602"
 city: Bielefeld
-street: "Zimmerstraße"
-housenumber: 8
+street: Zimmerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.radraum.com/de/"
+website: https://www.radraum.com/de/

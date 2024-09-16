@@ -4,8 +4,8 @@ latitude: 51.29798
 longitude: 6.85181
 postcode: "40878"
 city: Ratingen
-street: "Oberstraße"
-housenumber: 28
+street: Oberstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off"
-website: "https://www.brillen-broden.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off
+website: https://www.brillen-broden.de/

@@ -4,8 +4,8 @@ latitude: 50.95297
 longitude: 6.91268
 postcode: "50825"
 city: Köln
-street: "Venloer Straße"
-housenumber: 414
+street: Venloer Straße
+housenumber: "414"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.the-good-food.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.the-good-food.de

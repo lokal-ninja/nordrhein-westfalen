@@ -1,11 +1,11 @@
 id: 35330930
-type: way
+type: node
 latitude: 51.92751
 longitude: 7.17211
 postcode: "48653"
 city: Coesfeld
-street: "Dülmener Straße"
-housenumber: 117
+street: Dülmener Straße
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.42738
 longitude: 6.87974
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Friedrich-Ebert-Straße"
-housenumber: 29
+street: Friedrich-Ebert-Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.netto-online.de

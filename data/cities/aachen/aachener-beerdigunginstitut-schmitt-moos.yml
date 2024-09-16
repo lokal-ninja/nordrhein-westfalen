@@ -4,8 +4,8 @@ latitude: 50.76905
 longitude: 6.0553
 postcode: "52074"
 city: Aachen
-street: "Vaalser Straße"
-housenumber: 272
-phone: "+49 241 84855"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.schmitt-moos.de/"
+street: Vaalser Straße
+housenumber: "272"
+phone: +49 241 84855
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.schmitt-moos.de/

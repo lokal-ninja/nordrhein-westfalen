@@ -1,11 +1,11 @@
 id: 136776616
-type: way
+type: node
 latitude: 52.05565
 longitude: 8.51963
 postcode: "33613"
 city: Bielefeld
-street: "Jöllenbecker Straße"
-housenumber: 316
+street: Jöllenbecker Straße
+housenumber: "316"
 phone: ""
 opening_hours: ""
-website: "https://www.brummel.de/"
+website: https://www.brummel.de/

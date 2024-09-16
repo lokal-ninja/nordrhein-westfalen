@@ -1,11 +1,12 @@
 id: 200505040
-type: way
+type: node
 latitude: 50.91595
 longitude: 6.99226
 postcode: "51105"
 city: Köln
-street: "Siegburger Straße"
-housenumber: 385
+street: Siegburger Straße
+housenumber: "385"
 phone: ""
-opening_hours: "Mo-Th 05:00-23:00; Fr 05:00-24:00; Sa 07:00-24:00; Su 09:00-22:00; PH 09:00-24:00"
+opening_hours: Mo-Th 05:00-23:00; Fr 05:00-24:00; Sa 07:00-24:00; Su 09:00-22:00;
+    PH 09:00-24:00
 website: ""

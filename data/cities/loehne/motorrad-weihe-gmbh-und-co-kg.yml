@@ -1,11 +1,11 @@
 id: 115493038
-type: way
+type: node
 latitude: 52.17986
 longitude: 8.7538
 postcode: "32584"
 city: Löhne
-street: "Koblenzer Straße"
-housenumber: 243
-phone: "+49 5731 78640"
+street: Koblenzer Straße
+housenumber: "243"
+phone: +49 5731 78640
 opening_hours: ""
-website: "https://www.motorrad-weihe.de/"
+website: https://www.motorrad-weihe.de/

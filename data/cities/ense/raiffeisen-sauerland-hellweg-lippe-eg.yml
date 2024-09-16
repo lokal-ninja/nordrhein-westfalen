@@ -1,11 +1,11 @@
 id: 235821681
-type: way
+type: node
 latitude: 51.50498
 longitude: 7.96636
 postcode: "59469"
 city: Ense
-street: "Werler Straße"
-housenumber: 57
+street: Werler Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 826550041
-type: way
+type: node
 latitude: 52.32179
 longitude: 8.86565
 postcode: "32425"
 city: Minden
-street: "Junkersweg"
-housenumber: 28
-phone: "+49 2505 939915"
+street: Junkersweg
+housenumber: "28"
+phone: +49 2505 939915
 opening_hours: ""
-website: "https://www.hewi-lagerpark.de/"
+website: https://www.hewi-lagerpark.de/

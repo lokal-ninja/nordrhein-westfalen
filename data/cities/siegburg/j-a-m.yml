@@ -4,8 +4,8 @@ latitude: 50.79681
 longitude: 7.2064
 postcode: "53721"
 city: Siegburg
-street: "Markt"
-housenumber: 5
-phone: "+49 2241 9763303"
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-18:00"
+street: Markt
+housenumber: "5"
+phone: +49 2241 9763303
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:30-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.42815
 longitude: 6.78626
 postcode: "47057"
 city: Duisburg
-street: "Oststraße"
-housenumber: 113
-phone: "+49 203 352989"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Oststraße
+housenumber: "113"
+phone: +49 203 352989
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

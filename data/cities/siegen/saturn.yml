@@ -4,8 +4,8 @@ latitude: 50.87376
 longitude: 8.01429
 postcode: "57072"
 city: Siegen
-street: "Morleystraße"
-housenumber: 40
+street: Morleystraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.saturn.de/de/store/siegen-312"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.saturn.de/de/store/siegen-312

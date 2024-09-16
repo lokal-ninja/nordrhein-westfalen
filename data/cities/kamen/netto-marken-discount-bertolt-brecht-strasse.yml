@@ -1,11 +1,11 @@
 id: 101072566
-type: way
+type: node
 latitude: 51.58449
 longitude: 7.71816
 postcode: "59174"
 city: Kamen
-street: "Bertolt-Brecht-Straße"
-housenumber: 1
+street: Bertolt-Brecht-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

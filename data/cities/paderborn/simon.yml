@@ -1,11 +1,11 @@
 id: 217112462
-type: way
+type: node
 latitude: 51.73515
 longitude: 8.7005
 postcode: "33106"
 city: Paderborn
-street: "Fohling"
-housenumber: 2
+street: Fohling
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

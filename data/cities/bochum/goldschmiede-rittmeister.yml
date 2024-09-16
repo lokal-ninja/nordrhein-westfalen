@@ -4,8 +4,8 @@ latitude: 51.4709
 longitude: 7.21213
 postcode: "44789"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 63
-phone: "+49 234 9310372"
-opening_hours: "Mo,Tu,Th 09:30-18:00; Fr 9:30-17:30; We,Sa 09:30-13:00; PH off"
-website: "https://www.goldschmiede-rittmeister.de/"
+street: Hattinger Straße
+housenumber: "63"
+phone: +49 234 9310372
+opening_hours: Mo,Tu,Th 09:30-18:00; Fr 9:30-17:30; We,Sa 09:30-13:00; PH off
+website: https://www.goldschmiede-rittmeister.de/

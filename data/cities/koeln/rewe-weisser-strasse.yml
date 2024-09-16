@@ -1,11 +1,11 @@
 id: 149235205
-type: way
+type: node
 latitude: 50.88226
 longitude: 7.01152
 postcode: "50999"
 city: Köln
-street: "Weißer Straße"
-housenumber: 124
+street: Weißer Straße
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

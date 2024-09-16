@@ -4,8 +4,9 @@ latitude: 52.22834
 longitude: 7.48968
 postcode: "48432"
 city: Rheine
-street: "Alte Bahnhofstraße"
-housenumber: 16
+street: Alte Bahnhofstraße
+housenumber: "16"
 phone: "+4959759170180"
-opening_hours: "Mo 15:00-18:00; Tu 09:00-12:00; Th 09:00-12:00; Fr 15:00-18:00; Sa 09:00-12:00"
-website: "https://aqua-tex.info/index.php?page=mesum"
+opening_hours: Mo 15:00-18:00; Tu 09:00-12:00; Th 09:00-12:00; Fr 15:00-18:00; Sa
+    09:00-12:00
+website: https://aqua-tex.info/index.php?page=mesum

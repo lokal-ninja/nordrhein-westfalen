@@ -1,11 +1,11 @@
 id: 1029588233
-type: way
+type: node
 latitude: 51.52281
 longitude: 8.70546
 postcode: "33181"
 city: Bad Wünnenberg
-street: "Zinsdorfer Weg"
-housenumber: 31
+street: Zinsdorfer Weg
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
+opening_hours: Mo-Sa 7:00-21:00
 website: ""

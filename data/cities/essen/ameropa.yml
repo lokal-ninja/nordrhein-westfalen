@@ -1,11 +1,11 @@
 id: 512339150
-type: way
+type: node
 latitude: 51.45089
 longitude: 7.01401
 postcode: "45127"
 city: Essen
-street: "Freiheit"
-housenumber: 3
+street: Freiheit
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00,14:30-18:30, Sa 09:30-15:00"
+opening_hours: Mo-Fr 09:30-14:00,14:30-18:30, Sa 09:30-15:00
 website: ""

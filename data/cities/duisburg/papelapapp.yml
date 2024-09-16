@@ -4,8 +4,8 @@ latitude: 51.43621
 longitude: 6.77348
 postcode: "47051"
 city: Duisburg
-street: "Mainstraße"
-housenumber: 42
+street: Mainstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://papelapapp.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://papelapapp.de/

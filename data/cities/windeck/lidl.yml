@@ -1,11 +1,11 @@
 id: 31556963
-type: way
+type: node
 latitude: 50.80525
 longitude: 7.60905
 postcode: "51570"
 city: Windeck
-street: "Rathausstraße"
-housenumber: 73
+street: Rathausstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00"
+opening_hours: Mo-Fr 07:00-21:00
 website: ""

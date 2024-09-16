@@ -1,11 +1,11 @@
 id: 268899402
-type: way
+type: node
 latitude: 51.68782
 longitude: 8.69653
 postcode: "33106"
 city: Paderborn
-street: "Alter Hellweg"
-housenumber: 30
+street: Alter Hellweg
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
+opening_hours: Mo-Sa 7:00-20:00
 website: ""

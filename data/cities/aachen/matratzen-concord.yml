@@ -1,11 +1,11 @@
 id: 200487233
-type: way
+type: node
 latitude: 50.76982
 longitude: 6.05987
 postcode: "52074"
 city: Aachen
-street: "Vaalser Straße"
-housenumber: 234
-phone: "+49 241 8865904"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.matratzen-concord.de/"
+street: Vaalser Straße
+housenumber: "234"
+phone: +49 241 8865904
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.matratzen-concord.de/

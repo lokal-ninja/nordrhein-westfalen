@@ -1,11 +1,11 @@
 id: 90183851
-type: way
+type: node
 latitude: 50.61292
 longitude: 6.37775
 postcode: "52152"
 city: Simmerath
-street: "In den Birken"
-housenumber: 18
+street: In den Birken
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

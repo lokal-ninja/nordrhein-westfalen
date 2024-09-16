@@ -4,8 +4,8 @@ latitude: 51.22212
 longitude: 6.7796
 postcode: "40212"
 city: Düsseldorf
-street: "Königsallee"
-housenumber: 60
+street: Königsallee
+housenumber: "60"
 phone: "+492118606661"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.muji.com/de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.muji.com/de/

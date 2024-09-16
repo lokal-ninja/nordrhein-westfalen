@@ -4,8 +4,8 @@ latitude: 51.24853
 longitude: 7.13543
 postcode: "42103"
 city: Wuppertal
-street: "Steinbecker Meile"
-housenumber: 10
-phone: "+49 202 37380"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/de/markets/maerkte/Wuppertal/index.html"
+street: Steinbecker Meile
+housenumber: "10"
+phone: +49 202 37380
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/de/markets/maerkte/Wuppertal/index.html

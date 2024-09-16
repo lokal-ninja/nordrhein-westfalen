@@ -1,11 +1,11 @@
 id: 219700961
-type: way
+type: node
 latitude: 51.45188
 longitude: 6.38643
 postcode: "47647"
 city: Kerken
-street: "Kölner Straße"
-housenumber: 85
+street: Kölner Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/kerken/nieukerk-koelner-str-85.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/kerken/nieukerk-koelner-str-85.html

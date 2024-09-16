@@ -1,11 +1,11 @@
 id: 27940173
-type: way
+type: node
 latitude: 51.57875
 longitude: 7.11627
 postcode: "45892"
 city: Gelsenkirchen
-street: "Engelbertstraße"
-housenumber: 8
+street: Engelbertstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

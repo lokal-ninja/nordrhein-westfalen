@@ -1,11 +1,11 @@
 id: 105078975
-type: way
+type: node
 latitude: 51.62785
 longitude: 7.29428
 postcode: "45711"
 city: Datteln
-street: "Friedhofstraße"
-housenumber: 8
+street: Friedhofstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://ego-horneburg.de/"
+website: https://ego-horneburg.de/

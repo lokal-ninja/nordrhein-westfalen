@@ -4,8 +4,8 @@ latitude: 51.42256
 longitude: 6.85479
 postcode: "45479"
 city: Mülheim an der Ruhr
-street: "Hermannstraße"
-housenumber: 73
-phone: "+49 208 424100"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Hermannstraße
+housenumber: "73"
+phone: +49 208 424100
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

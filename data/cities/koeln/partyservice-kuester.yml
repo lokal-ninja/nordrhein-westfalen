@@ -1,11 +1,11 @@
 id: 135157316
-type: way
+type: node
 latitude: 50.86213
 longitude: 7.10206
 postcode: "51147"
 city: Köln
-street: "Sportplatzstraße"
-housenumber: 44
+street: Sportplatzstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

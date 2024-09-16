@@ -1,11 +1,11 @@
 id: 202975727
-type: way
+type: node
 latitude: 52.27345
 longitude: 7.73602
 postcode: "49477"
 city: Ibbenbüren
-street: "Gildestraße"
-housenumber: 9
+street: Gildestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

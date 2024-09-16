@@ -1,11 +1,11 @@
 id: 330022585
-type: way
+type: node
 latitude: 51.55524
 longitude: 7.098
 postcode: "45891"
 city: Gelsenkirchen
-street: "Cranger Straße"
-housenumber: 367
+street: Cranger Straße
+housenumber: "367"
 phone: ""
 opening_hours: ""
 website: ""

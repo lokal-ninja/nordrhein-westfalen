@@ -4,8 +4,8 @@ latitude: 50.84079
 longitude: 7.33434
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 2247 2206"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00"
-website: "https://www.wernersmetzgerei.de/fachgeschaefte/#neunkirchen"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 2247 2206
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00
+website: https://www.wernersmetzgerei.de/fachgeschaefte/#neunkirchen

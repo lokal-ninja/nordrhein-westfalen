@@ -1,11 +1,11 @@
 id: 192262699
-type: way
+type: node
 latitude: 52.11838
 longitude: 7.39615
 postcode: "48565"
 city: Steinfurt
-street: "Altenberger Straße"
-housenumber: 7
+street: Altenberger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

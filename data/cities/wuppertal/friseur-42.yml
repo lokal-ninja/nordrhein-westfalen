@@ -4,8 +4,8 @@ latitude: 51.25922
 longitude: 7.14679
 postcode: "42103"
 city: Wuppertal
-street: "Friedrichstraße"
-housenumber: 2
+street: Friedrichstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.friseur42-wuppertal.de/"
+website: https://www.friseur42-wuppertal.de/

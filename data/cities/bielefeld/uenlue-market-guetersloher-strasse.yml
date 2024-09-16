@@ -1,11 +1,11 @@
 id: 233908112
-type: way
+type: node
 latitude: 51.99677
 longitude: 8.499
 postcode: "33647"
 city: Bielefeld
-street: "Gütersloher Straße"
-housenumber: 8
+street: Gütersloher Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

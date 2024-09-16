@@ -1,11 +1,11 @@
 id: 133944127
-type: way
+type: node
 latitude: 51.6813
 longitude: 7.86903
 postcode: "59071"
 city: Hamm
-street: "Marker Dorfstraße"
-housenumber: 123
+street: Marker Dorfstraße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 10:00-20:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 10:00-20:00
 website: ""

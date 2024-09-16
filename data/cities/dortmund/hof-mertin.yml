@@ -4,8 +4,8 @@ latitude: 51.56338
 longitude: 7.55298
 postcode: "44329"
 city: Dortmund
-street: "Bönninghauser Straße"
-housenumber: 5
+street: Bönninghauser Straße
+housenumber: "5"
 phone: ""
-opening_hours: "9-18h"
-website: "https://hof-mertin.de/"
+opening_hours: 9-18h
+website: https://hof-mertin.de/

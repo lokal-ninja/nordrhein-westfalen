@@ -1,11 +1,11 @@
 id: 311304133
-type: way
+type: node
 latitude: 51.7325
 longitude: 7.84525
 postcode: "59227"
 city: Ahlen
-street: "Im Oestricher Holt"
-housenumber: 65
+street: Im Oestricher Holt
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

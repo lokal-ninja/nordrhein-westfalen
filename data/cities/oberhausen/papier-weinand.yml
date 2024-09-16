@@ -1,11 +1,11 @@
 id: 96856255
-type: way
+type: node
 latitude: 51.49728
 longitude: 6.83971
 postcode: "46149"
 city: Oberhausen
-street: "Max-Eyth-Straße"
-housenumber: 6
+street: Max-Eyth-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

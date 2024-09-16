@@ -4,8 +4,9 @@ latitude: 51.20501
 longitude: 6.77
 postcode: "40223"
 city: Düsseldorf
-street: "Suitbertusstraße"
-housenumber: 52
+street: Suitbertusstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Tu-Fr 09:00-14:00,15:00-19:00; We 09:00-14:00,15:00-20:00; Sa 09:00-15:00; PH off"
-website: "https://www.andrea-rieder.de/"
+opening_hours: Tu-Fr 09:00-14:00,15:00-19:00; We 09:00-14:00,15:00-20:00; Sa 09:00-15:00;
+    PH off
+website: https://www.andrea-rieder.de/

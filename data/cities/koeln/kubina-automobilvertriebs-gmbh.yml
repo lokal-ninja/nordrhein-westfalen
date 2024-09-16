@@ -1,11 +1,11 @@
 id: 255325661
-type: way
+type: node
 latitude: 50.91543
 longitude: 6.85551
 postcode: "50858"
 city: Köln
-street: "Württembergische Allee"
-housenumber: 2
-phone: "+49 2234 601060"
+street: Württembergische Allee
+housenumber: "2"
+phone: +49 2234 601060
 opening_hours: ""
 website: ""

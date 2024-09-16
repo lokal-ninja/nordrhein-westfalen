@@ -4,8 +4,8 @@ latitude: 52.04384
 longitude: 8.53115
 postcode: "33613"
 city: Bielefeld
-street: "Apfelstraße"
-housenumber: 85
-phone: "+49-521-7840524"
-opening_hours: "Mo-Th 09:00-12:30,14:30-18:00; Fr 09:00-18:00; Sa 09:00-13:00"
+street: Apfelstraße
+housenumber: "85"
+phone: +49-521-7840524
+opening_hours: Mo-Th 09:00-12:30,14:30-18:00; Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 778968462
-type: way
+type: node
 latitude: 51.36595
 longitude: 7.24477
 postcode: "45549"
 city: Sprockhövel
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

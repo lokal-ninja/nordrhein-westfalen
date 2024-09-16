@@ -1,11 +1,11 @@
 id: 1006152216
-type: way
+type: node
 latitude: 51.53893
 longitude: 7.69017
 postcode: "59425"
 city: Unna
-street: "Kantstraße"
-housenumber: 5
+street: Kantstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

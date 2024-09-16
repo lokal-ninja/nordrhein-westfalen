@@ -4,8 +4,8 @@ latitude: 52.04209
 longitude: 9.07975
 postcode: "32699"
 city: Extertal
-street: "Hohensonne"
-housenumber: 1
-phone: "+49 152 58554767"
-opening_hours: "Mo-Sa 17:30-18:30 || nach Vereinbarung"
-website: "https://hof-hellmig.de/"
+street: Hohensonne
+housenumber: "1"
+phone: +49 152 58554767
+opening_hours: Mo-Sa 17:30-18:30 || "nach Vereinbarung"
+website: https://hof-hellmig.de/

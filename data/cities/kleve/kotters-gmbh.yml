@@ -1,11 +1,11 @@
 id: 109084199
-type: way
+type: node
 latitude: 51.78944
 longitude: 6.13872
 postcode: "47533"
 city: Kleve
-street: "Kavarinerstraße"
+street: Kavarinerstraße
 housenumber: 14-16
-phone: "+49 2821 229 58"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:15"
-website: "https://www.kotters.de/"
+phone: +49 2821 229 58
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:15
+website: https://www.kotters.de/

@@ -4,8 +4,8 @@ latitude: 51.41902
 longitude: 6.59522
 postcode: "47447"
 city: Moers
-street: "Bendmannstraße"
-housenumber: 9
+street: Bendmannstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00,15:00-18:00;Sa 06:00-13:00;Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-13:00,15:00-18:00;Sa 06:00-13:00;Su 08:00-11:00
 website: ""

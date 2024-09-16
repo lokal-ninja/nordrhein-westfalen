@@ -1,11 +1,11 @@
 id: 74569611
-type: way
+type: node
 latitude: 51.43221
 longitude: 6.84573
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Weseler Straße"
-housenumber: 71
+street: Weseler Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 282506699
-type: way
+type: node
 latitude: 51.25087
 longitude: 7.5981
 postcode: "58513"
 city: Lüdenscheid
-street: "Römerweg"
-housenumber: 1
+street: Römerweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su off"
-website: "http://www.b-r-automobile.de/br-luedenscheid/3831/3831/3831/home.html"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su off
+website: http://www.b-r-automobile.de/br-luedenscheid/3831/3831/3831/home.html

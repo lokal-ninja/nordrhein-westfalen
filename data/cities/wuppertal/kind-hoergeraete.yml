@@ -4,8 +4,8 @@ latitude: 51.25771
 longitude: 7.1469
 postcode: "42103"
 city: Wuppertal
-street: "Schwanenstraße"
-housenumber: 44
-phone: "+49 202 43049860"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
+street: Schwanenstraße
+housenumber: "44"
+phone: +49 202 43049860
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
 website: ""

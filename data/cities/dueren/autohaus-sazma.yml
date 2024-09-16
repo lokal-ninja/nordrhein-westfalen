@@ -1,11 +1,11 @@
 id: 657013825
-type: way
+type: node
 latitude: 50.78484
 longitude: 6.50678
 postcode: "52351"
 city: Düren
-street: "Henry-Ford-Straße"
+street: Henry-Ford-Straße
 housenumber: 5-7
 phone: "+492421388800"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://autohaus-sazma.de/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://autohaus-sazma.de/

@@ -4,8 +4,8 @@ latitude: 50.66184
 longitude: 6.77943
 postcode: "53879"
 city: Euskirchen
-street: "Winkelpfad"
-housenumber: 12
+street: Winkelpfad
+housenumber: "12"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

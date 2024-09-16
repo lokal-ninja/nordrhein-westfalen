@@ -1,11 +1,11 @@
 id: 40159042
-type: way
+type: node
 latitude: 50.74605
 longitude: 7.08056
 postcode: "53119"
 city: Bonn
-street: "Obernierstraße"
-housenumber: 15
+street: Obernierstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 14:00-18:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 14:00-18:00
 website: ""

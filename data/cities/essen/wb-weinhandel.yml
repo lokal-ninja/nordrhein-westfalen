@@ -4,8 +4,9 @@ latitude: 51.38877
 longitude: 7.00074
 postcode: "45239"
 city: Essen
-street: "Grafenstraße"
-housenumber: 12
+street: Grafenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Th 14:00-20:00; Tu 14:00-18:30; We 14:00-19:00; Fr 14:00-22:00; Sa 16:00-22:00"
+opening_hours: Mo,Th 14:00-20:00; Tu 14:00-18:30; We 14:00-19:00; Fr 14:00-22:00;
+    Sa 16:00-22:00
 website: ""

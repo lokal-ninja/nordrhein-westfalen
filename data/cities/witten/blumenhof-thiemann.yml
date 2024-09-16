@@ -1,11 +1,11 @@
 id: 78234162
-type: way
+type: node
 latitude: 51.43531
 longitude: 7.30088
 postcode: "58455"
 city: Witten
-street: "Hevener Straße"
-housenumber: 25
+street: Hevener Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

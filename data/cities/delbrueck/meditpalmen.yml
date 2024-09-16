@@ -1,11 +1,11 @@
 id: 328767900
-type: way
+type: node
 latitude: 51.74553
 longitude: 8.50399
 postcode: "33129"
 city: Delbrück
-street: "Rixelstraße"
-housenumber: 28
+street: Rixelstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 13:00-18:00; Sa-Su 13:00-16:00; Mo off"
-website: "http://www.meditpalmen.com"
+opening_hours: Tu-Fr 13:00-18:00; Sa-Su 13:00-16:00; Mo off
+website: http://www.meditpalmen.com

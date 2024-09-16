@@ -1,11 +1,11 @@
 id: 268159790
-type: way
+type: node
 latitude: 52.02119
 longitude: 9.0135
 postcode: "32694"
 city: Dörentrup
-street: "Mittelstraße"
-housenumber: 51
-phone: "+49 5265 955 9440"
+street: Mittelstraße
+housenumber: "51"
+phone: +49 5265 955 9440
 opening_hours: ""
-website: "https://www.kirsch-kuechen.de/"
+website: https://www.kirsch-kuechen.de/

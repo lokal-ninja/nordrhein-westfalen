@@ -1,11 +1,11 @@
 id: 89514125
-type: way
+type: node
 latitude: 50.81562
 longitude: 6.12198
 postcode: "52146"
 city: Würselen
-street: "Aachener Straße"
-housenumber: 145
+street: Aachener Straße
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "http://www.maurer-niessen.de/"
+website: http://www.maurer-niessen.de/

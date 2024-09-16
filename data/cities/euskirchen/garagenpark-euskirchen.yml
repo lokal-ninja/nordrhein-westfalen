@@ -1,11 +1,11 @@
 id: 638480240
-type: way
+type: node
 latitude: 50.64529
 longitude: 6.80621
 postcode: "53881"
 city: Euskirchen
-street: "Felix-Wankel-Straße"
-housenumber: 31
+street: Felix-Wankel-Straße
+housenumber: "31"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

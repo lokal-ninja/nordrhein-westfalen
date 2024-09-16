@@ -1,11 +1,11 @@
 id: 161744542
-type: way
+type: node
 latitude: 51.65431
 longitude: 8.34407
 postcode: "59557"
 city: Lippstadt
-street: "Planckstraße"
-housenumber: 2
+street: Planckstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

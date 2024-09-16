@@ -4,8 +4,9 @@ latitude: 50.94535
 longitude: 7.07529
 postcode: "51109"
 city: Köln
-street: "Olpener Straße"
-housenumber: 803
+street: Olpener Straße
+housenumber: "803"
 phone: ""
-opening_hours: "Mo-Tu,Th 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Fr 09:00-18:30; PH off"
-website: "http://www.optik-schoeggl.de/"
+opening_hours: Mo-Tu,Th 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Fr 09:00-18:30;
+    PH off
+website: http://www.optik-schoeggl.de/

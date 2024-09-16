@@ -1,11 +1,11 @@
 id: 35002767
-type: way
+type: node
 latitude: 50.76286
 longitude: 6.97568
 postcode: "53332"
 city: Bornheim
-street: "Am Hellenkreuz"
-housenumber: 3
+street: Am Hellenkreuz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

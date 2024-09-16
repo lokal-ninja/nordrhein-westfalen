@@ -4,8 +4,9 @@ latitude: 51.47738
 longitude: 7.30236
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 204
+street: Alte Bahnhofstraße
+housenumber: "204"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; PH,Su 09:00-20:00; Letzter Einlass 15 Minuten vor Ladenschluss"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; PH,Su 09:00-20:00; "Letzter Einlass
+    15 Minuten vor Ladenschluss"
 website: ""

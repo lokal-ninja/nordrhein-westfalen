@@ -1,11 +1,11 @@
 id: 387151342
-type: way
+type: node
 latitude: 50.85567
 longitude: 7.08108
 postcode: "51147"
 city: Köln
-street: "Am Bahnhof"
-housenumber: 25
+street: Am Bahnhof
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.21573
 longitude: 6.94882
 postcode: "40699"
 city: Erkrath
-street: "Schimmelbuschstraße"
-housenumber: 27
+street: Schimmelbuschstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00; PH off"
-website: "https://www.auto-haese.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00; PH off
+website: https://www.auto-haese.de/

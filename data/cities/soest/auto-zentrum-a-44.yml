@@ -1,11 +1,11 @@
 id: 1046757144
-type: way
+type: node
 latitude: 51.55698
 longitude: 8.13643
 postcode: "59494"
 city: Soest
-street: "Lange Wende"
-housenumber: 24
+street: Lange Wende
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

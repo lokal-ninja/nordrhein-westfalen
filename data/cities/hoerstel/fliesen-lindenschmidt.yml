@@ -1,11 +1,11 @@
 id: 241131453
-type: way
+type: node
 latitude: 52.25323
 longitude: 7.63643
 postcode: "48477"
 city: Hörstel
-street: "Münsterstraße"
-housenumber: 36
-phone: "+49 5454 8248"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.fliesen-lindenschmidt.de/"
+street: Münsterstraße
+housenumber: "36"
+phone: +49 5454 8248
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.fliesen-lindenschmidt.de/

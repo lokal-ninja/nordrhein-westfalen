@@ -1,11 +1,11 @@
 id: 53277044
-type: way
+type: node
 latitude: 51.50535
 longitude: 7.40378
 postcode: "44379"
 city: Dortmund
-street: "Martener Hellweg"
-housenumber: 30
-phone: "+49 231 589 971 61"
+street: Martener Hellweg
+housenumber: "30"
+phone: +49 231 589 971 61
 opening_hours: ""
-website: "https://www.bundr-autoglas.de/"
+website: https://www.bundr-autoglas.de/

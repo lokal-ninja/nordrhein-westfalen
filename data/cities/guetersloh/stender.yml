@@ -1,11 +1,11 @@
 id: 218611853
-type: way
+type: node
 latitude: 51.90017
 longitude: 8.37041
 postcode: "33330"
 city: Gütersloh
-street: "Friedhofstraße"
-housenumber: 32
+street: Friedhofstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.gaertnerei-stender.de/"
+website: https://www.gaertnerei-stender.de/

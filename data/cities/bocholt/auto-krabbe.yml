@@ -1,11 +1,11 @@
 id: 253964067
-type: way
+type: node
 latitude: 51.83786
 longitude: 6.63943
 postcode: "46397"
 city: Bocholt
-street: "Münsterstraße"
-housenumber: 145
+street: Münsterstraße
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

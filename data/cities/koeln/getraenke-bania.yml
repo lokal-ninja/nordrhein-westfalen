@@ -1,11 +1,11 @@
 id: 258083911
-type: way
+type: node
 latitude: 50.91855
 longitude: 6.98862
 postcode: "51105"
 city: Köln
-street: "Am Altenberger Kreuz"
-housenumber: 2
+street: Am Altenberger Kreuz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

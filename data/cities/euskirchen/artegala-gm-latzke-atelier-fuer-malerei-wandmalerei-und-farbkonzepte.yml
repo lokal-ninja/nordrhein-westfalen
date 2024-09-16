@@ -1,11 +1,11 @@
 id: 180409385
-type: way
+type: node
 latitude: 50.64797
 longitude: 6.79386
 postcode: "53879"
 city: Euskirchen
-street: "Franz-Sester-Straße"
-housenumber: 35
+street: Franz-Sester-Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://artegala.de/"
+website: https://artegala.de/

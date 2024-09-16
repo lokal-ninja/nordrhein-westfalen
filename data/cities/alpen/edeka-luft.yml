@@ -1,11 +1,11 @@
 id: 238578677
-type: way
+type: node
 latitude: 51.5747
 longitude: 6.51173
 postcode: "46519"
 city: Alpen
-street: "Rathausstraße"
-housenumber: 4
+street: Rathausstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

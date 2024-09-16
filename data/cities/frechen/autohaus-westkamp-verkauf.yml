@@ -1,11 +1,11 @@
 id: 216999853
-type: way
+type: node
 latitude: 50.91418
 longitude: 6.83124
 postcode: "50226"
 city: Frechen
-street: "Kölner Straße"
-housenumber: 
+street: Kölner Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.westkamp.com/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.westkamp.com/

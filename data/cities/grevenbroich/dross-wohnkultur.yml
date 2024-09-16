@@ -1,11 +1,11 @@
 id: 269161328
-type: way
+type: node
 latitude: 51.09065
 longitude: 6.57429
 postcode: "41515"
 city: Grevenbroich
-street: "Am Hammerwerk"
-housenumber: 35
+street: Am Hammerwerk
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 09:00-16:00"
+opening_hours: Mo-Fr 08:00-18:30, Sa 09:00-16:00
 website: ""

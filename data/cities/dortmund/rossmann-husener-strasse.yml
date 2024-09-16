@@ -4,8 +4,8 @@ latitude: 51.55992
 longitude: 7.59517
 postcode: "44319"
 city: Dortmund
-street: "Husener Straße"
-housenumber: 48
-phone: "+49 231 98713198"
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"
-website: "https://www.rossmann.de/de/filialen/nordrhein-westfalen/dortmund/husener-str--46-50.html"
+street: Husener Straße
+housenumber: "48"
+phone: +49 231 98713198
+opening_hours: Mo-Sa 08:00-20:00; Su, PH off
+website: https://www.rossmann.de/de/filialen/nordrhein-westfalen/dortmund/husener-str--46-50.html

@@ -1,11 +1,11 @@
 id: 208876222
-type: way
+type: node
 latitude: 50.80454
 longitude: 7.22422
 postcode: "53721"
 city: Siegburg
-street: "Zeithstraße"
-housenumber: 210
+street: Zeithstraße
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

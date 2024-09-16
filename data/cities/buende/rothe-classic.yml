@@ -1,11 +1,11 @@
 id: 69078421
-type: way
+type: node
 latitude: 52.19642
 longitude: 8.58168
 postcode: "32257"
 city: Bünde
-street: "Eschstraße"
-housenumber: 4
+street: Eschstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

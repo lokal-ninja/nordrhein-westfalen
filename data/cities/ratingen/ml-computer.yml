@@ -4,8 +4,8 @@ latitude: 51.29852
 longitude: 6.8542
 postcode: "40878"
 city: Ratingen
-street: "Bahnstraße"
-housenumber: 4
+street: Bahnstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-14:00, Th 14:00-19:00, Mo,Tu 15:00-18:00"
-website: "https://www.computer-ml.de/"
+opening_hours: Mo-We,Fr 09:00-14:00, Th 14:00-19:00, Mo,Tu 15:00-18:00
+website: https://www.computer-ml.de/

@@ -1,11 +1,11 @@
 id: 277798587
-type: way
+type: node
 latitude: 51.80026
 longitude: 8.03452
 postcode: "59269"
 city: Beckum
-street: "Breslauer Straße"
-housenumber: 12
-phone: "+49 2525 3888"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-13:30"
-website: "http://www.getraenkeschuermann.de/modules.php?lang_id=1&mod=slider&action=show_market_data&markt_id=16&area_id=2&path=2"
+street: Breslauer Straße
+housenumber: "12"
+phone: +49 2525 3888
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-13:30
+website: http://www.getraenkeschuermann.de/modules.php?lang_id=1&mod=slider&action=show_market_data&markt_id=16&area_id=2&path=2

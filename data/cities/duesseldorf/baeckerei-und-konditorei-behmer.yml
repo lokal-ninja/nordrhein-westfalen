@@ -4,8 +4,8 @@ latitude: 51.23739
 longitude: 6.8535
 postcode: "40625"
 city: Düsseldorf
-street: "Benderstraße"
-housenumber: 68
-phone: "+49 211 287380"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 06:00-12:00"
-website: "https://baeckerei-behmer.de"
+street: Benderstraße
+housenumber: "68"
+phone: +49 211 287380
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 06:00-12:00
+website: https://baeckerei-behmer.de

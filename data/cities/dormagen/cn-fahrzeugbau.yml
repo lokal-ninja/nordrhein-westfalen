@@ -1,11 +1,11 @@
 id: 227996900
-type: way
+type: node
 latitude: 51.13868
 longitude: 6.80743
 postcode: "41541"
 city: Dormagen
-street: "Sachtlebenstraße"
-housenumber: 6
-phone: "+49 2133 2178460"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.cobra-cn.de/"
+street: Sachtlebenstraße
+housenumber: "6"
+phone: +49 2133 2178460
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.cobra-cn.de/

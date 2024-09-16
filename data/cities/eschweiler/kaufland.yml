@@ -1,11 +1,11 @@
 id: 22998215
-type: way
+type: node
 latitude: 50.82509
 longitude: 6.25093
 postcode: "52249"
 city: Eschweiler
-street: "Auerbachstraße"
-housenumber: 10
-phone: "+49 2403 807860"
-opening_hours: "Mo-Sa 07:00-22:00, Su,PH off"
-website: "https://filiale.kaufland.de/service/filiale/eschweiler-4223.html"
+street: Auerbachstraße
+housenumber: "10"
+phone: +49 2403 807860
+opening_hours: Mo-Sa 07:00-22:00, Su,PH off
+website: https://filiale.kaufland.de/service/filiale/eschweiler-4223.html

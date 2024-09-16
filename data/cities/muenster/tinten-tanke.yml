@@ -4,8 +4,8 @@ latitude: 51.97231
 longitude: 7.63805
 postcode: "48147"
 city: Münster
-street: "Niedersachsenring"
-housenumber: 102
-phone: "+49 251 2108372"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00"
-website: "http://www.tinten-apotheke.com/"
+street: Niedersachsenring
+housenumber: "102"
+phone: +49 251 2108372
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00
+website: http://www.tinten-apotheke.com/

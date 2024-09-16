@@ -4,8 +4,8 @@ latitude: 51.47965
 longitude: 7.50624
 postcode: "44269"
 city: Dortmund
-street: "Benninghofer Straße"
-housenumber: 101
-phone: "+49 231 53473587"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://motorcenter-zillmann.de/"
+street: Benninghofer Straße
+housenumber: "101"
+phone: +49 231 53473587
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://motorcenter-zillmann.de/

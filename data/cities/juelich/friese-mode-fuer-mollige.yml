@@ -4,8 +4,8 @@ latitude: 50.92098
 longitude: 6.358
 postcode: "52428"
 city: Jülich
-street: "Marktstraße"
-housenumber: 14
+street: Marktstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.mode-friese.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.mode-friese.de/

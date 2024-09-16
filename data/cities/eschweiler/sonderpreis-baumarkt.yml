@@ -1,11 +1,11 @@
 id: 91965472
-type: way
+type: node
 latitude: 50.82496
 longitude: 6.32435
 postcode: "52249"
 city: Eschweiler
-street: "Langerweher Straße"
+street: Langerweher Straße
 housenumber: 16-18
-phone: "+49 2403 8307082"
+phone: +49 2403 8307082
 opening_hours: ""
-website: "https://www.sonderpreis-baumarkt.de/"
+website: https://www.sonderpreis-baumarkt.de/

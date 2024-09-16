@@ -1,11 +1,11 @@
 id: 103296657
-type: way
+type: node
 latitude: 51.4193
 longitude: 7.43825
 postcode: "58313"
 city: Herdecke
-street: "Gahlenfeldstraße"
-housenumber: 5
+street: Gahlenfeldstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00; Su off; PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00; Su off; PH off
 website: ""

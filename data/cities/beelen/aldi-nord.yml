@@ -1,11 +1,11 @@
 id: 116991285
-type: way
+type: node
 latitude: 51.92942
 longitude: 8.12572
 postcode: "48361"
 city: Beelen
-street: "Lilienweg"
-housenumber: 2
+street: Lilienweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

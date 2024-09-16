@@ -1,11 +1,11 @@
 id: 111253697
-type: way
+type: node
 latitude: 51.44273
 longitude: 6.2639
 postcode: "47638"
 city: Straelen
-street: "Beginenpad"
-housenumber: 5
+street: Beginenpad
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

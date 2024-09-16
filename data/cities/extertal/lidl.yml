@@ -1,11 +1,11 @@
 id: 32469807
-type: way
+type: node
 latitude: 52.06878
 longitude: 9.10781
 postcode: "32699"
 city: Extertal
-street: "Breslauer Straße"
-housenumber: 8
+street: Breslauer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 286391071
-type: way
+type: node
 latitude: 51.86042
 longitude: 8.55859
 postcode: "33415"
 city: Verl
-street: "Marienstraße"
-housenumber: 2
-phone: "+49 5246 9291960"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-13:00"
-website: "https://www.fotoline-photos.de"
+street: Marienstraße
+housenumber: "2"
+phone: +49 5246 9291960
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-13:00
+website: https://www.fotoline-photos.de

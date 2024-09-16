@@ -4,8 +4,8 @@ latitude: 50.93907
 longitude: 6.84279
 postcode: "50858"
 city: Köln
-street: "Bahnstraße"
-housenumber: 161
+street: Bahnstraße
+housenumber: "161"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:30; We 09:00-18:00; Sa 08:00-16:00"
+opening_hours: Tu,Th,Fr 09:00-18:30; We 09:00-18:00; Sa 08:00-16:00
 website: ""

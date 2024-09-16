@@ -4,8 +4,8 @@ latitude: 51.25852
 longitude: 7.14485
 postcode: "42103"
 city: Wuppertal
-street: "Neumarktstraße"
-housenumber: 14
-phone: "+49 202 448118"
-opening_hours: "Mo-Fr 08:30-21:30; Sa 08:30-20:30; Su 10:00-20:00"
-website: "https://www.speedsun-sonne.de/filialen/wuppertal-neumarktstr-14/"
+street: Neumarktstraße
+housenumber: "14"
+phone: +49 202 448118
+opening_hours: Mo-Fr 08:30-21:30; Sa 08:30-20:30; Su 10:00-20:00
+website: https://www.speedsun-sonne.de/filialen/wuppertal-neumarktstr-14/

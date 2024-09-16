@@ -1,11 +1,11 @@
 id: 195978759
-type: way
+type: node
 latitude: 51.68071
 longitude: 7.81438
 postcode: "59065"
 city: Hamm
-street: "Weststraße"
-housenumber: 48
-phone: "+49 2381 15081"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-16:00"
-website: "https://www.fielmann.de/niederlassungen/hamm/59065-weststrasse-48/"
+street: Weststraße
+housenumber: "48"
+phone: +49 2381 15081
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-16:00
+website: https://www.fielmann.de/niederlassungen/hamm/59065-weststrasse-48/

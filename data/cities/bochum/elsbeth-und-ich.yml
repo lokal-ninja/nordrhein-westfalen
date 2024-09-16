@@ -4,8 +4,8 @@ latitude: 51.48343
 longitude: 7.21848
 postcode: "44787"
 city: Bochum
-street: "Brückstraße"
-housenumber: 18
+street: Brückstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Sa 10:30-15:00; We-Fr 10:30-18:00"
-website: "https://www.elsbethundich.de"
+opening_hours: Sa 10:30-15:00; We-Fr 10:30-18:00
+website: https://www.elsbethundich.de

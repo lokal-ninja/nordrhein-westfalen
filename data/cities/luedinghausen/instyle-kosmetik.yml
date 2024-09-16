@@ -4,8 +4,8 @@ latitude: 51.77091
 longitude: 7.44618
 postcode: "59348"
 city: Lüdinghausen
-street: "Hermannstraße"
-housenumber: 1
+street: Hermannstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.instyle-kosmetik.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.instyle-kosmetik.com/

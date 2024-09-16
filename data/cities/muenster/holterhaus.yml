@@ -1,11 +1,11 @@
 id: 170527916
-type: way
+type: node
 latitude: 51.92414
 longitude: 7.7258
 postcode: "48167"
 city: Münster
-street: "Münsterstraße"
-housenumber: 50
+street: Münsterstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

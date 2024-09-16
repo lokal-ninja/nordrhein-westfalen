@@ -1,11 +1,11 @@
 id: 875150020
-type: way
+type: node
 latitude: 50.7904
 longitude: 7.17771
 postcode: "53757"
 city: Sankt Augustin
-street: "Friedrich-Gauß-Straße"
-housenumber: 6
-phone: "+49 2241-1681590"
+street: Friedrich-Gauß-Straße
+housenumber: "6"
+phone: +49 2241-1681590
 opening_hours: ""
-website: "https://www.reifen-osman.de"
+website: https://www.reifen-osman.de

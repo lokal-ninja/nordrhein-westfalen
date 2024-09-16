@@ -1,11 +1,11 @@
 id: 261585007
-type: way
+type: node
 latitude: 51.08599
 longitude: 6.60395
 postcode: "41515"
 city: Grevenbroich
-street: "Lindenstraße"
-housenumber: 66
+street: Lindenstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

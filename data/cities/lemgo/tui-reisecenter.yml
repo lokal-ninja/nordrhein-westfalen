@@ -4,8 +4,8 @@ latitude: 52.02842
 longitude: 8.89898
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 83
-phone: "+49 5261 94910"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-13:00; Su, PH off"
-website: "https://m.tui-reisecenter.de/lemgo1"
+street: Mittelstraße
+housenumber: "83"
+phone: +49 5261 94910
+opening_hours: Mo-Fr 09:30-18:00, Sa 10:00-13:00; Su, PH off
+website: https://m.tui-reisecenter.de/lemgo1

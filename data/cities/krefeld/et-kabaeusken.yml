@@ -4,8 +4,8 @@ latitude: 51.30509
 longitude: 6.58787
 postcode: "47807"
 city: Krefeld
-street: "Kölner Straße"
-housenumber: 532
-phone: "+49 2151 30960"
-opening_hours: "Mo,Tu,We,Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00; We off"
-website: "https://www.hafels-krefeld.de/"
+street: Kölner Straße
+housenumber: "532"
+phone: +49 2151 30960
+opening_hours: Mo,Tu,We,Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00; We off
+website: https://www.hafels-krefeld.de/

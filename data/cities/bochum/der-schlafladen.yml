@@ -4,8 +4,8 @@ latitude: 51.47898
 longitude: 7.22099
 postcode: "44787"
 city: Bochum
-street: "Kurt-Schumacher-Platz"
-housenumber: 3
+street: Kurt-Schumacher-Platz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-12:00, Tu,Th 08:00-12:00,14:00-17:00; PH off"
+opening_hours: Mo,We,Fr 08:00-12:00, Tu,Th 08:00-12:00,14:00-17:00; PH off
 website: ""

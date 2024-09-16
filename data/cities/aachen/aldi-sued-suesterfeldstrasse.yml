@@ -1,11 +1,11 @@
 id: 87499376
-type: way
+type: node
 latitude: 50.78555
 longitude: 6.0637
 postcode: "52072"
 city: Aachen
-street: "Süsterfeldstraße"
-housenumber: 63
+street: Süsterfeldstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.aldi-sued.de/

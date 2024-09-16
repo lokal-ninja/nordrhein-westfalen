@@ -1,11 +1,11 @@
 id: 109739047
-type: way
+type: node
 latitude: 50.8186
 longitude: 7.11944
 postcode: "53842"
 city: Troisdorf
-street: "Godesberger Straße"
-housenumber: 28
-phone: "+49 2241 9454565"
-opening_hours: "Mo-Sa 08:00-15:00"
+street: Godesberger Straße
+housenumber: "28"
+phone: +49 2241 9454565
+opening_hours: Mo-Sa 08:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 365965487
-type: way
+type: node
 latitude: 51.67735
 longitude: 7.85359
 postcode: "59071"
 city: Hamm
-street: "Herbert-Rust-Weg"
-housenumber: 3
-phone: "+49 2381 950100"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-14:00"
-website: "https://www.gautzsch-gruppe.de/"
+street: Herbert-Rust-Weg
+housenumber: "3"
+phone: +49 2381 950100
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-14:00
+website: https://www.gautzsch-gruppe.de/

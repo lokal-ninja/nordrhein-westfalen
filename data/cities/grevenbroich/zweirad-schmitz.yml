@@ -1,11 +1,11 @@
 id: 261690342
-type: way
+type: node
 latitude: 51.08842
 longitude: 6.58909
 postcode: "41515"
 city: Grevenbroich
-street: "Oelgasse"
-housenumber: 12
+street: Oelgasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

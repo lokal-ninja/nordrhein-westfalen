@@ -4,8 +4,8 @@ latitude: 51.5747
 longitude: 8.10559
 postcode: "59494"
 city: Soest
-street: "Brüderstraße"
-housenumber: 34
-phone: "+49 2921 2512"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://schuhpark.de/"
+street: Brüderstraße
+housenumber: "34"
+phone: +49 2921 2512
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://schuhpark.de/

@@ -1,11 +1,11 @@
 id: 312611801
-type: way
+type: node
 latitude: 51.58209
 longitude: 7.01758
 postcode: "45896"
 city: Gelsenkirchen
-street: "Honigmannstraße"
-housenumber: 20
+street: Honigmannstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

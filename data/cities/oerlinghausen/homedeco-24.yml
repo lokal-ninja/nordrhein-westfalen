@@ -1,11 +1,11 @@
 id: 234162703
-type: way
+type: node
 latitude: 51.96859
 longitude: 8.6934
 postcode: "33813"
 city: Oerlinghausen
-street: "Bielefelder Straße"
-housenumber: 17
+street: Bielefelder Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "http://www.homedeco-24.de"
+opening_hours: Mo-Fr 09:30-18:00
+website: http://www.homedeco-24.de

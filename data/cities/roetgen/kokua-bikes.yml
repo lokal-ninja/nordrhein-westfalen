@@ -1,11 +1,11 @@
 id: 93182538
-type: way
+type: node
 latitude: 50.64065
 longitude: 6.19167
 postcode: "52159"
 city: Roetgen
-street: "Schwerzfelder Straße"
-housenumber: 3
-phone: "+49 2471 134160"
+street: Schwerzfelder Straße
+housenumber: "3"
+phone: +49 2471 134160
 opening_hours: ""
-website: "https://www.kokua.de/"
+website: https://www.kokua.de/

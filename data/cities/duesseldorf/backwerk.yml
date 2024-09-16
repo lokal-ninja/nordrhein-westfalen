@@ -4,8 +4,8 @@ latitude: 51.22024
 longitude: 6.79314
 postcode: "40210"
 city: Düsseldorf
-street: "Konrad-Adenauer-Platz"
-housenumber: 14
-phone: "+49 211/1701113"
-opening_hours: "24/7"
-website: "https://www.back-werk.de/"
+street: Konrad-Adenauer-Platz
+housenumber: "14"
+phone: +49 211/1701113
+opening_hours: 24/7
+website: https://www.back-werk.de/

@@ -1,11 +1,11 @@
 id: 202278762
-type: way
+type: node
 latitude: 51.62403
 longitude: 7.41165
 postcode: "45731"
 city: Waltrop
-street: "Riphausstraße"
-housenumber: 7
+street: Riphausstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

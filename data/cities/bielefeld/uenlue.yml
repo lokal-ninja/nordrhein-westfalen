@@ -1,11 +1,11 @@
 id: 51528353
-type: way
+type: node
 latitude: 52.02081
 longitude: 8.55038
 postcode: "33607"
 city: Bielefeld
-street: "Holländische Straße"
-housenumber: 16
+street: Holländische Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

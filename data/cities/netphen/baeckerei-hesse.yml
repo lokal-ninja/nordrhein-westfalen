@@ -4,8 +4,8 @@ latitude: 50.91103
 longitude: 8.10386
 postcode: "57250"
 city: Netphen
-street: "Talstraße"
-housenumber: 22
+street: Talstraße
+housenumber: "22"
 phone: "+492738305934"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.baeckerei-hesse.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.baeckerei-hesse.de/

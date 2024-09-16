@@ -1,11 +1,11 @@
 id: 485069426
-type: way
+type: node
 latitude: 51.34739
 longitude: 7.49149
 postcode: "58091"
 city: Hagen
-street: "Eilper Straße"
-housenumber: 69
+street: Eilper Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

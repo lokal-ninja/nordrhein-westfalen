@@ -1,11 +1,11 @@
 id: 322124786
-type: way
+type: node
 latitude: 51.55856
 longitude: 7.0005
 postcode: "45968"
 city: Gladbeck
-street: "Horster Straße"
-housenumber: 154
+street: Horster Straße
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

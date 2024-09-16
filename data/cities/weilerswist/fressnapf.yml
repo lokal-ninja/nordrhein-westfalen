@@ -1,11 +1,11 @@
 id: 767841205
-type: way
+type: node
 latitude: 50.74733
 longitude: 6.85156
 postcode: "53919"
 city: Weilerswist
-street: "An den Eifelhecken"
-housenumber: 5
+street: An den Eifelhecken
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

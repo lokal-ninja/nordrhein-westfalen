@@ -1,11 +1,11 @@
 id: 142293076
-type: way
+type: node
 latitude: 50.79167
 longitude: 7.17787
 postcode: "53757"
 city: Sankt Augustin
-street: "Einsteinstraße"
-housenumber: 33
-phone: "+49 2241 929130"
-opening_hours: "Mo-Fr 07:20-18:00"
-website: "https://www.rrg-auto.de/renault/finde-einen-handler/renault-rhein-sieg"
+street: Einsteinstraße
+housenumber: "33"
+phone: +49 2241 929130
+opening_hours: Mo-Fr 07:20-18:00
+website: https://www.rrg-auto.de/renault/finde-einen-handler/renault-rhein-sieg

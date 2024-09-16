@@ -4,8 +4,8 @@ latitude: 51.10449
 longitude: 7.37969
 postcode: "51688"
 city: Wipperfürth
-street: "Hansestraße"
-housenumber: 36
+street: Hansestraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 7:00-17:00; Sa 8:00-12:00"
-website: "https://www.hausunddach.de/"
+opening_hours: Mo-Fr 7:00-17:00; Sa 8:00-12:00
+website: https://www.hausunddach.de/

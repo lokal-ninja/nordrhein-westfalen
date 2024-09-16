@@ -4,8 +4,8 @@ latitude: 51.74242
 longitude: 7.18578
 postcode: "45721"
 city: Haltern am See
-street: "Merschstraße"
-housenumber: 20
-phone: "+49 2364 15754"
-opening_hours: "Mo,Tu,Th 08:00-18:30; We 08:00-12:30; Fr 07:30-18:30; Sa 07:30-13:00"
+street: Merschstraße
+housenumber: "20"
+phone: +49 2364 15754
+opening_hours: Mo,Tu,Th 08:00-18:30; We 08:00-12:30; Fr 07:30-18:30; Sa 07:30-13:00
 website: ""

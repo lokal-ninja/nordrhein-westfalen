@@ -1,11 +1,11 @@
 id: 178955043
-type: way
+type: node
 latitude: 52.20673
 longitude: 8.51978
 postcode: "32257"
 city: Bünde
-street: "Rödinghauser Straße"
-housenumber: 101
-phone: "+49 5223 68 830"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:30"
-website: "http://www.autozentrum-holsen.de/"
+street: Rödinghauser Straße
+housenumber: "101"
+phone: +49 5223 68 830
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:30
+website: http://www.autozentrum-holsen.de/

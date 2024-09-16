@@ -4,8 +4,8 @@ latitude: 52.32635
 longitude: 8.62711
 postcode: "32312"
 city: Lübbecke
-street: "Daimlerstraße"
-housenumber: 14
-phone: "+49 5741 40622"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://www.autoverwertung-muth.de/"
+street: Daimlerstraße
+housenumber: "14"
+phone: +49 5741 40622
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00
+website: https://www.autoverwertung-muth.de/

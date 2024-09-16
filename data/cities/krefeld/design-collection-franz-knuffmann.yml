@@ -4,8 +4,8 @@ latitude: 51.34762
 longitude: 6.54239
 postcode: "47803"
 city: Krefeld
-street: "Birkschenweg"
-housenumber: 2
-phone: "+49 2151 9272600"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00"
-website: "https://www.design-collection.com"
+street: Birkschenweg
+housenumber: "2"
+phone: +49 2151 9272600
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:00
+website: https://www.design-collection.com

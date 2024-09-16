@@ -4,8 +4,8 @@ latitude: 51.74297
 longitude: 7.51594
 postcode: "59394"
 city: Nordkirchen
-street: "Lüdinghauser Straße"
-housenumber: 76
+street: Lüdinghauser Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,15:00-18:00; Sa nach Vereinbarung"
-website: "www.kuechenstudio-hoersken.de"
+opening_hours: Mo-Fr 10:00-12:30,15:00-18:00; Sa "nach Vereinbarung"
+website: www.kuechenstudio-hoersken.de

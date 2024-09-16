@@ -4,8 +4,8 @@ latitude: 52.15008
 longitude: 7.34219
 postcode: "48565"
 city: Steinfurt
-street: "Tecklenburger Straße"
-housenumber: 1
-phone: "+49 2551 7018194"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00, Su 07:30-17:00"
-website: "https://www.baeckerei-voss.de/filialen/baeckercafe-in-steinfurt/"
+street: Tecklenburger Straße
+housenumber: "1"
+phone: +49 2551 7018194
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00, Su 07:30-17:00
+website: https://www.baeckerei-voss.de/filialen/baeckercafe-in-steinfurt/

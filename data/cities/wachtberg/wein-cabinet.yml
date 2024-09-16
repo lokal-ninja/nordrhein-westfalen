@@ -4,8 +4,8 @@ latitude: 50.62292
 longitude: 7.12476
 postcode: "53343"
 city: Wachtberg
-street: "Bernareggio-Platz"
-housenumber: 4
+street: Bernareggio-Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 15:00-19:00, Sa 10:00-15:00, Mo-Fr 15:00-19:00"
-website: "http://www.weincabinet-briem.de/"
+opening_hours: Tu-Fr 15:00-19:00, Sa 10:00-15:00, Mo-Fr 15:00-19:00
+website: http://www.weincabinet-briem.de/

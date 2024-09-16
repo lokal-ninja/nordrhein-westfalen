@@ -4,8 +4,8 @@ latitude: 50.77596
 longitude: 6.08537
 postcode: "52062"
 city: Aachen
-street: "Körbergasse"
-housenumber: 2
-phone: "+49 241 31597"
-opening_hours: "Tu-Fr 12:00-18:00; Mo off"
-website: "http://www.wehrens-uhren.de/"
+street: Körbergasse
+housenumber: "2"
+phone: +49 241 31597
+opening_hours: Tu-Fr 12:00-18:00; Mo off
+website: http://www.wehrens-uhren.de/

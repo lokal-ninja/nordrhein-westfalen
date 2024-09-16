@@ -1,11 +1,11 @@
 id: 88415097
-type: way
+type: node
 latitude: 51.45246
 longitude: 8.35849
 postcode: "59581"
 city: Warstein
-street: "Alte Kreisstraße"
-housenumber: 15
+street: Alte Kreisstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/warstein/alte-kreisstr-15.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/warstein/alte-kreisstr-15.html

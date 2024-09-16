@@ -4,8 +4,8 @@ latitude: 51.24993
 longitude: 6.78041
 postcode: "40476"
 city: Düsseldorf
-street: "Frankenstraße"
-housenumber: 24
+street: Frankenstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:30; Sa 09:00-14:00; Su 10:00-12:00"
+opening_hours: Mo-Tu,Th-Fr 09:00-18:30; Sa 09:00-14:00; Su 10:00-12:00
 website: ""

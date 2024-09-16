@@ -4,8 +4,8 @@ latitude: 50.92377
 longitude: 6.91254
 postcode: "50931"
 city: Köln
-street: "Gleueler Straße"
-housenumber: 104
-phone: "+49 221 447487"
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-14:00; Su 08:00-12:00"
-website: "https://schmitz-nittenwilm.de/"
+street: Gleueler Straße
+housenumber: "104"
+phone: +49 221 447487
+opening_hours: Mo-Fr 06:00-19:30; Sa 06:00-14:00; Su 08:00-12:00
+website: https://schmitz-nittenwilm.de/

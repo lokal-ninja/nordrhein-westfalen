@@ -1,11 +1,11 @@
 id: 252088424
-type: way
+type: node
 latitude: 51.0386
 longitude: 7.26045
 postcode: "51515"
 city: Kürten
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

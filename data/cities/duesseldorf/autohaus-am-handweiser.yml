@@ -4,8 +4,8 @@ latitude: 51.22763
 longitude: 6.69875
 postcode: "40549"
 city: Düsseldorf
-street: "Burgunderstraße"
-housenumber: 19
-phone: "+49 211 569060"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH 11:00-16:00"
-website: "http://www.handweiser.de/"
+street: Burgunderstraße
+housenumber: "19"
+phone: +49 211 569060
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH 11:00-16:00
+website: http://www.handweiser.de/

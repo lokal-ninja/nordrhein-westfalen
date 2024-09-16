@@ -4,8 +4,8 @@ latitude: 50.97697
 longitude: 6.8923
 postcode: "50827"
 city: Köln
-street: "Mathias-Brüggen-Straße"
-housenumber: 80
-phone: "+49 (0)221 7000814"
-opening_hours: "Mo-Fr 08:00-19:00;Sa 09:00-18:00"
-website: "https://www.andronaco.info/standorte/koeln/"
+street: Mathias-Brüggen-Straße
+housenumber: "80"
+phone: +49 (0)221 7000814
+opening_hours: Mo-Fr 08:00-19:00;Sa 09:00-18:00
+website: https://www.andronaco.info/standorte/koeln/

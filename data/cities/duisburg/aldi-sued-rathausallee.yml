@@ -1,11 +1,11 @@
 id: 38829388
-type: way
+type: node
 latitude: 51.39797
 longitude: 6.6638
 postcode: "47239"
 city: Duisburg
-street: "Rathausallee"
-housenumber: 25
+street: Rathausallee
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

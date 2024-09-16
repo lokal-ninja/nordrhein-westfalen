@@ -1,11 +1,11 @@
 id: 267303180
-type: way
+type: node
 latitude: 51.07746
 longitude: 6.67827
 postcode: "41569"
 city: Rommerskirchen
-street: "Ueckinghovener Straße"
-housenumber: 88
-phone: "+49 2183 7842"
-opening_hours: "Fr 8:30-18:30; Sa 8:30-12:30"
-website: "https://www.metzgerei-wissdorf.de"
+street: Ueckinghovener Straße
+housenumber: "88"
+phone: +49 2183 7842
+opening_hours: Fr 8:30-18:30; Sa 8:30-12:30
+website: https://www.metzgerei-wissdorf.de

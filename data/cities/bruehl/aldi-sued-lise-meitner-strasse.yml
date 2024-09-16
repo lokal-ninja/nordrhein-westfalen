@@ -1,11 +1,11 @@
 id: 610843325
-type: way
+type: node
 latitude: 50.83287
 longitude: 6.92372
 postcode: "50321"
 city: Brühl
-street: "Lise-Meitner-Straße"
-housenumber: 8
+street: Lise-Meitner-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

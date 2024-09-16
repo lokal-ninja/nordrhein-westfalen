@@ -1,11 +1,11 @@
 id: 307352291
-type: way
+type: node
 latitude: 51.44149
 longitude: 6.67874
 postcode: "47198"
 city: Duisburg
-street: "Grenzstraße"
-housenumber: 193
+street: Grenzstraße
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

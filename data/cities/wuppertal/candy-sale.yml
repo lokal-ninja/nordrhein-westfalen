@@ -4,8 +4,8 @@ latitude: 51.25691
 longitude: 7.1482
 postcode: "42103"
 city: Wuppertal
-street: "Schöne Gasse"
-housenumber: 3
+street: Schöne Gasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

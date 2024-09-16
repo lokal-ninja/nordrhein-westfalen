@@ -1,11 +1,11 @@
 id: 104635160
-type: way
+type: node
 latitude: 51.36421
 longitude: 7.2435
 postcode: "45549"
 city: Sprockhövel
-street: "Beisenbruchstraße"
-housenumber: 10
+street: Beisenbruchstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

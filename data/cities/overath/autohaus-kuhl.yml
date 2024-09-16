@@ -1,11 +1,11 @@
 id: 107172304
-type: way
+type: node
 latitude: 50.93356
 longitude: 7.29044
 postcode: "51491"
 city: Overath
-street: "Hauptstraße"
-housenumber: 80
-phone: "+49 2206 6009 - 0"
+street: Hauptstraße
+housenumber: "80"
+phone: +49 2206 6009 - 0
 opening_hours: ""
-website: "https://www.autohaus-kuhl.de/"
+website: https://www.autohaus-kuhl.de/

@@ -4,8 +4,8 @@ latitude: 51.97233
 longitude: 7.6059
 postcode: "48149"
 city: Münster
-street: "Steinfurter Straße"
-housenumber: 79
-phone: "+49 1525 3745395"
-opening_hours: "Mo,Th 16:00-18:00; PH off"
-website: "https://leihothek.de"
+street: Steinfurter Straße
+housenumber: "79"
+phone: +49 1525 3745395
+opening_hours: Mo,Th 16:00-18:00; PH off
+website: https://leihothek.de

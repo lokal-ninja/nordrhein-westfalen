@@ -1,11 +1,11 @@
 id: 252053864
-type: way
+type: node
 latitude: 51.22746
 longitude: 7.60149
 postcode: "58509"
 city: Lüdenscheid
-street: "Hohe Steinert"
-housenumber: 19
+street: Hohe Steinert
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

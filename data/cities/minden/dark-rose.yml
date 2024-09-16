@@ -4,8 +4,8 @@ latitude: 52.28552
 longitude: 8.94979
 postcode: "32423"
 city: Minden
-street: "Am Exerzierplatz"
-housenumber: 5
+street: Am Exerzierplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo, We, Fr 11:00-19:00; Tu 14:00-19:00; Sa nach Vereinbarung"
+opening_hours: Mo, We, Fr 11:00-19:00; Tu 14:00-19:00; Sa "nach Vereinbarung"
 website: ""

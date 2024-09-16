@@ -1,11 +1,11 @@
 id: 1205302173
-type: way
+type: node
 latitude: 51.89144
 longitude: 7.59206
 postcode: "48163"
 city: Münster
-street: "Schadowstraße"
-housenumber: 12
+street: Schadowstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 838985321
-type: way
+type: node
 latitude: 50.96869
 longitude: 7.25653
 postcode: "51491"
 city: Overath
-street: "Obersteeg"
-housenumber: 
+street: Obersteeg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

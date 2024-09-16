@@ -4,8 +4,8 @@ latitude: 50.47157
 longitude: 6.52529
 postcode: "53925"
 city: Kall
-street: "Ahrstraße"
-housenumber: 2
-phone: "+49 160 93801862"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.eifel-antik.de/"
+street: Ahrstraße
+housenumber: "2"
+phone: +49 160 93801862
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.eifel-antik.de/

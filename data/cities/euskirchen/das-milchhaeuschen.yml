@@ -1,11 +1,11 @@
 id: 600578615
-type: way
+type: node
 latitude: 50.6427
 longitude: 6.84277
 postcode: "53881"
 city: Euskirchen
-street: "Palmersheimer Straße"
-housenumber: 100
+street: Palmersheimer Straße
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

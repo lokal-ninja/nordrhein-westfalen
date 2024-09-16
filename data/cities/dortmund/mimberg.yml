@@ -1,11 +1,11 @@
 id: 1064485348
-type: way
+type: node
 latitude: 51.52595
 longitude: 7.43577
 postcode: "44147"
 city: Dortmund
-street: "Kohlenweg"
-housenumber: 22
-phone: "+49 231 88211252"
+street: Kohlenweg
+housenumber: "22"
+phone: +49 231 88211252
 opening_hours: ""
-website: "https://www.mimberg-spedition.de/"
+website: https://www.mimberg-spedition.de/

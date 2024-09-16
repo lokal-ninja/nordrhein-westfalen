@@ -1,11 +1,11 @@
 id: 172333111
-type: way
+type: node
 latitude: 51.56262
 longitude: 8.33021
 postcode: "59609"
 city: Anröchte
-street: "Berger Straße"
-housenumber: 8
+street: Berger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

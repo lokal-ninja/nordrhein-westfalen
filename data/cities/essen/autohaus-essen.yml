@@ -4,8 +4,8 @@ latitude: 51.44776
 longitude: 7.0241
 postcode: "45138"
 city: Essen
-street: "Ruhrallee"
-housenumber: 1
-phone: "+49 201 271 631"
+street: Ruhrallee
+housenumber: "1"
+phone: +49 201 271 631
 opening_hours: ""
-website: "https://www.autohaus-essen.de/"
+website: https://www.autohaus-essen.de/

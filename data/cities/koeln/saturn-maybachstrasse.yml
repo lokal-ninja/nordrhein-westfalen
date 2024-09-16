@@ -1,11 +1,11 @@
 id: 26352154
-type: way
+type: node
 latitude: 50.94989
 longitude: 6.94978
 postcode: "50670"
 city: Köln
-street: "Maybachstraße"
-housenumber: 115
+street: Maybachstraße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.saturn.de/de/store/koeln-hansaring-301"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.saturn.de/de/store/koeln-hansaring-301

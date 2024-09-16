@@ -1,11 +1,11 @@
 id: 105576045
-type: way
+type: node
 latitude: 50.7678
 longitude: 6.15885
 postcode: "52078"
 city: Aachen
-street: "Kellershaustraße"
-housenumber: 32
+street: Kellershaustraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.autoglas-hammer.de/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 08:00-12:00; Su,PH off
+website: https://www.autoglas-hammer.de/

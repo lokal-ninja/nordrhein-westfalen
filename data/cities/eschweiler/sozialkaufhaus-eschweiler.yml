@@ -1,11 +1,11 @@
 id: 32393299
-type: way
+type: node
 latitude: 50.81979
 longitude: 6.28759
 postcode: "52249"
 city: Eschweiler
-street: "Dürener Straße"
-housenumber: 247
+street: Dürener Straße
+housenumber: "247"
 phone: ""
 opening_hours: ""
-website: "https://www.wabe-aachen.de/de/wabe-ev/arbeit-und-soziale-integration/beschaeftigungsprojekte/sozialkaufhaeuser-aachen-stolberg"
+website: https://www.wabe-aachen.de/de/wabe-ev/arbeit-und-soziale-integration/beschaeftigungsprojekte/sozialkaufhaeuser-aachen-stolberg

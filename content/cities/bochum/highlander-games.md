@@ -1,5 +1,5 @@
 ---
 title: "Highlander Games"
 url: /bochum/highlander-games/
-shop: Spielzeug
+shop: Spiele
 ---

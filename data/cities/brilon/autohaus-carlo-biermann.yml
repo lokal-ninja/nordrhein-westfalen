@@ -1,11 +1,11 @@
 id: 844495135
-type: way
+type: node
 latitude: 51.45332
 longitude: 8.61528
 postcode: "59929"
 city: Brilon
-street: "Obere Bahnhofstraße"
-housenumber: 20
+street: Obere Bahnhofstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 248525847
-type: way
+type: node
 latitude: 51.94464
 longitude: 7.52969
 postcode: "48161"
 city: Münster
-street: "Nottulner Landweg"
-housenumber: 97
+street: Nottulner Landweg
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

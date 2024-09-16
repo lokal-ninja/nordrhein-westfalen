@@ -4,8 +4,8 @@ latitude: 51.975
 longitude: 7.56998
 postcode: "48161"
 city: Münster
-street: "Toppheideweg"
-housenumber: 13
-phone: "+49 251 8715430"
-opening_hours: "Sa 09:00-13:00; Tu-Fr 09:00-18:30"
+street: Toppheideweg
+housenumber: "13"
+phone: +49 251 8715430
+opening_hours: Sa 09:00-13:00; Tu-Fr 09:00-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 373901415
-type: way
+type: node
 latitude: 51.84736
 longitude: 7.48704
 postcode: "48308"
 city: Senden
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

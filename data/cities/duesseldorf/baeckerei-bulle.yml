@@ -1,11 +1,11 @@
-id: 8614557100
+id: 8605230841
 type: node
-latitude: 51.222
-longitude: 6.78572
-postcode: "40210"
+latitude: 51.22695
+longitude: 6.80307
+postcode: "40233"
 city: Düsseldorf
-street: "Oststraße"
-housenumber: 113
-phone: "+49 170 8257251"
-opening_hours: "Tu-Fr 07:00-17:00; Sa 07:00-13:00"
-website: "https://www.baeckerei-bulle.de/"
+street: Birkenstraße
+housenumber: "55"
+phone: +49 170 8257251
+opening_hours: Tu,We,Fr 07:00-17:00; Sa 07:00-13:00; Su 07:00-11:00
+website: https://www.baeckerei-bulle.de/

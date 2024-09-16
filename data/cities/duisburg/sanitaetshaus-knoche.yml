@@ -4,8 +4,8 @@ latitude: 51.43048
 longitude: 6.76979
 postcode: "47051"
 city: Duisburg
-street: "Friedrich-Wilhelm-Straße"
-housenumber: 80
-phone: "+49 203 555960"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-17:30; Sa,Su off"
-website: "https://www.sh-knoche.de/"
+street: Friedrich-Wilhelm-Straße
+housenumber: "80"
+phone: +49 203 555960
+opening_hours: Mo-Fr 08:30-13:00,14:00-17:30; Sa,Su off
+website: https://www.sh-knoche.de/

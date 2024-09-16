@@ -4,8 +4,8 @@ latitude: 51.74125
 longitude: 7.66186
 postcode: "59387"
 city: Ascheberg
-street: "Merschstraße"
-housenumber: 3
+street: Merschstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,15:00-18:30; We 15:00-18:30; Sa 10:00-12:30"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,15:00-18:30; We 15:00-18:30; Sa 10:00-12:30
 website: ""

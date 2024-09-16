@@ -1,11 +1,11 @@
 id: 28806361
-type: way
+type: node
 latitude: 51.68254
 longitude: 7.81334
 postcode: "59065"
 city: Hamm
-street: "Richard-Matthaei-Platz"
-housenumber: 1
+street: Richard-Matthaei-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; Su,PH off"
-website: "https://www.allee-center-hamm.de/"
+opening_hours: Mo-Sa 08:00-20:30; Su,PH off
+website: https://www.allee-center-hamm.de/

@@ -1,11 +1,11 @@
 id: 104806339
-type: way
+type: node
 latitude: 52.07093
 longitude: 8.75881
 postcode: "32108"
 city: Bad Salzuflen
-street: "Schloßstraße"
-housenumber: 4
+street: Schloßstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.emily-brautmoden.de/"
+website: https://www.emily-brautmoden.de/

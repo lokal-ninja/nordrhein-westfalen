@@ -4,8 +4,8 @@ latitude: 52.43833
 longitude: 8.38498
 postcode: "32351"
 city: Stemwede
-street: "Haldemer Straße"
-housenumber: 59
+street: Haldemer Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 05:30-16:00; Sa 05:30-12:00; Su 07:30-11:00"
-website: "https://www.baeckerei-schmidt.de/"
+opening_hours: Mo-Fr 05:30-16:00; Sa 05:30-12:00; Su 07:30-11:00
+website: https://www.baeckerei-schmidt.de/

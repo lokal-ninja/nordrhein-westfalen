@@ -1,11 +1,11 @@
 id: 122032139
-type: way
+type: node
 latitude: 50.90395
 longitude: 7.07056
 postcode: "51149"
 city: Köln
-street: "Rudolf-Diesel-Straße"
-housenumber: 18
+street: Rudolf-Diesel-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
 website: ""

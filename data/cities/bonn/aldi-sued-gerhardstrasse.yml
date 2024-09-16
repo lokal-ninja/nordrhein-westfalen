@@ -4,8 +4,8 @@ latitude: 50.75052
 longitude: 7.13086
 postcode: "53225"
 city: Bonn
-street: "Gerhardstraße"
-housenumber: 1
+street: Gerhardstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bonn/gerhardstrasse-1"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bonn/gerhardstrasse-1

@@ -5,7 +5,7 @@ longitude: 7.04999
 postcode: ""
 city: Velbert
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su, PH closed"
-website: "https://www.baeckerei-loescher.de/filialen_velbert_kaufland"
+opening_hours: Mo-Sa 07:00-22:00; Su, PH closed
+website: https://www.baeckerei-loescher.de/filialen_velbert_kaufland

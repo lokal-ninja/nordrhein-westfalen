@@ -4,8 +4,8 @@ latitude: 51.91749
 longitude: 7.53433
 postcode: "48163"
 city: Münster
-street: "Sendener Stiege"
-housenumber: 32
+street: Sendener Stiege
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 09:00-15:00"
-website: "https://www.hofladenfreitag.de/"
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00; Sa 09:00-15:00
+website: https://www.hofladenfreitag.de/

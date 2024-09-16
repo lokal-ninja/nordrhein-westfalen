@@ -4,8 +4,8 @@ latitude: 51.45629
 longitude: 7.00548
 postcode: "45127"
 city: Essen
-street: "Limbecker Platz"
-housenumber: 1
-phone: "+49 201 458 446 00"
-opening_hours: "Mo-Su 10:00-24:00"
-website: "https://www.wellnest.me/"
+street: Limbecker Platz
+housenumber: "1"
+phone: +49 201 458 446 00
+opening_hours: Mo-Su 10:00-24:00
+website: https://www.wellnest.me/

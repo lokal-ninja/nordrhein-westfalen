@@ -1,11 +1,11 @@
 id: 242795079
-type: way
+type: node
 latitude: 50.77502
 longitude: 7.06608
 postcode: "53859"
 city: Niederkassel
-street: "Unterdorfstraße"
-housenumber: 57
+street: Unterdorfstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

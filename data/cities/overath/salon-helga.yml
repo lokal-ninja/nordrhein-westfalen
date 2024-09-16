@@ -4,8 +4,8 @@ latitude: 50.93269
 longitude: 7.28587
 postcode: "51491"
 city: Overath
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-14:00; Su off"
-website: "http://www.salon-helga.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-14:00; Su off
+website: http://www.salon-helga.de/

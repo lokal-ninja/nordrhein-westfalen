@@ -4,8 +4,8 @@ latitude: 52.02776
 longitude: 8.52259
 postcode: "33615"
 city: Bielefeld
-street: "Weststraße"
-housenumber: 62
+street: Weststraße
+housenumber: "62"
 phone: ""
-opening_hours: "Sa 10:00-15:00; Mo-Fr 09:00-18:00"
-website: "http://www.roestwerkstadt.de"
+opening_hours: Sa 10:00-15:00; Mo-Fr 09:00-18:00
+website: http://www.roestwerkstadt.de

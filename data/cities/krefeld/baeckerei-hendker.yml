@@ -4,8 +4,8 @@ latitude: 51.3362
 longitude: 6.64314
 postcode: "47809"
 city: Krefeld
-street: "Danziger Platz"
-housenumber: 5
-phone: "+49 2151 157790"
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "https://www.baeckerei-hendker.de/"
+street: Danziger Platz
+housenumber: "5"
+phone: +49 2151 157790
+opening_hours: Mo-Sa 06:00-20:00
+website: https://www.baeckerei-hendker.de/

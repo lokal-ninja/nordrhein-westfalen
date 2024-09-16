@@ -1,11 +1,11 @@
 id: 227361000
-type: way
+type: node
 latitude: 50.84114
 longitude: 6.89607
 postcode: ""
 city: Brühl
-street: "Thüringer Platz"
-housenumber: 28
+street: Thüringer Platz
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.2244
 longitude: 6.77413
 postcode: "40213"
 city: Düsseldorf
-street: "Mittelstraße"
-housenumber: 15
+street: Mittelstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://de.florisvanbommel.com/de/storedetail?StoreID=floris_van_bommel_store_dusseldorf"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://de.florisvanbommel.com/de/storedetail?StoreID=floris_van_bommel_store_dusseldorf

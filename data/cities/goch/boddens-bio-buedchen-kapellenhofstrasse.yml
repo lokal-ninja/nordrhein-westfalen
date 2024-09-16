@@ -1,11 +1,11 @@
 id: 313164792
-type: way
+type: node
 latitude: 51.7033
 longitude: 6.04551
 postcode: "47574"
 city: Goch
-street: "Kapellenhofstraße"
-housenumber: 57
+street: Kapellenhofstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

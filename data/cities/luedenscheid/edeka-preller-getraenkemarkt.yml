@@ -1,11 +1,11 @@
 id: 316153792
-type: way
+type: node
 latitude: 51.22496
 longitude: 7.60402
 postcode: "58509"
 city: Lüdenscheid
-street: "Unterm Freihof"
-housenumber: 1
+street: Unterm Freihof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
+opening_hours: Mo-Sa 07:00-21:00; Su off
 website: ""

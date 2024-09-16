@@ -1,11 +1,11 @@
 id: 253034867
-type: way
+type: node
 latitude: 51.4182
 longitude: 7.52856
 postcode: "58239"
 city: Schwerte
-street: "Hagener Straße"
-housenumber: 328
-phone: "+492304 14445"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"
-website: "https://www.puetter.de"
+street: Hagener Straße
+housenumber: "328"
+phone: +492304 14445
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00
+website: https://www.puetter.de

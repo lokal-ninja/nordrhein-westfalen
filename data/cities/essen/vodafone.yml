@@ -4,8 +4,8 @@ latitude: 51.45663
 longitude: 7.01248
 postcode: "45127"
 city: Essen
-street: "Kettwiger Straße"
-housenumber: 47
+street: Kettwiger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 244221799
-type: way
+type: node
 latitude: 51.85323
 longitude: 6.87064
 postcode: "46325"
 city: Borken
-street: "Max-Planck-Straße"
-housenumber: 8
-phone: "+49 2861 2157"
+street: Max-Planck-Straße
+housenumber: "8"
+phone: +49 2861 2157
 opening_hours: ""
-website: "https://www.fliesen-bollrath.de/"
+website: https://www.fliesen-bollrath.de/

@@ -1,11 +1,11 @@
 id: 295560786
-type: way
+type: node
 latitude: 51.57344
 longitude: 6.9674
 postcode: "45966"
 city: Gladbeck
-street: "Stollenstraße"
-housenumber: 13
+street: Stollenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

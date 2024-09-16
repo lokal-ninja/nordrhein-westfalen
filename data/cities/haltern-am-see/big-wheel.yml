@@ -1,11 +1,11 @@
 id: 265986505
-type: way
+type: node
 latitude: 51.74171
 longitude: 7.1858
 postcode: "45721"
 city: Haltern am See
-street: "Rochfordstraße"
-housenumber: 38
-phone: "+49 2364 9669520"
-opening_hours: "Mo-Fr 10:00-13:00,13:00-14:00,14:00-19:00; Sa 10:00-14:00"
-website: "https://bigwheel.de/"
+street: Rochfordstraße
+housenumber: "38"
+phone: +49 2364 9669520
+opening_hours: Mo-Fr 10:00-13:00,13:00-14:00,14:00-19:00; Sa 10:00-14:00
+website: https://bigwheel.de/

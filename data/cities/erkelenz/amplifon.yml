@@ -4,8 +4,8 @@ latitude: 51.07935
 longitude: 6.31551
 postcode: "41812"
 city: Erkelenz
-street: "Aachener Straße"
-housenumber: 5
-phone: "+49 2431 9014036"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Su, PH off"
-website: "https://www.amplifon.com"
+street: Aachener Straße
+housenumber: "5"
+phone: +49 2431 9014036
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Su, PH off
+website: https://www.amplifon.com

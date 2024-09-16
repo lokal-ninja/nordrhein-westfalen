@@ -4,8 +4,8 @@ latitude: 51.1958
 longitude: 8.53755
 postcode: "59955"
 city: Winterberg
-street: "Hellenstraße"
-housenumber: 48
+street: Hellenstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 14:30-18:00; Sa 09:30-14:00"
-website: "http://www.schallplattewinterberg.de/"
+opening_hours: Mo-Fr 10:00-13:00, 14:30-18:00; Sa 09:30-14:00
+website: http://www.schallplattewinterberg.de/

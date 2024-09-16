@@ -4,8 +4,8 @@ latitude: 51.76616
 longitude: 8.78947
 postcode: "33104"
 city: Paderborn
-street: "Bendeslo"
-housenumber: 2
+street: Bendeslo
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.mertens-hofladen.de/"
+website: https://www.mertens-hofladen.de/

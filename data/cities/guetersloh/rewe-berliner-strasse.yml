@@ -4,8 +4,8 @@ latitude: 51.9121
 longitude: 8.38633
 postcode: "33330"
 city: Gütersloh
-street: "Berliner Straße"
-housenumber: 135
+street: Berliner Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

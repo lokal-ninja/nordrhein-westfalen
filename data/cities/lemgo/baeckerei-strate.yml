@@ -4,8 +4,8 @@ latitude: 52.02763
 longitude: 8.8981
 postcode: "32657"
 city: Lemgo
-street: "Rampendal"
-housenumber: 31
-phone: "+49 5261 4016"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-13:00; Su 08:00-16:00"
-website: "https://stadtbaeckerei-strate.de/"
+street: Rampendal
+housenumber: "31"
+phone: +49 5261 4016
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-13:00; Su 08:00-16:00
+website: https://stadtbaeckerei-strate.de/

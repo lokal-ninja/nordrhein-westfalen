@@ -1,11 +1,11 @@
 id: 90983287
-type: way
+type: node
 latitude: 51.52494
 longitude: 7.17191
 postcode: "44652"
 city: Herne
-street: "Dorneburger Straße"
-housenumber: 65
+street: Dorneburger Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

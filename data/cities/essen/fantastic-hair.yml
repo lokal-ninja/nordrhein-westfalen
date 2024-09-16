@@ -4,8 +4,8 @@ latitude: 51.46443
 longitude: 7.04438
 postcode: "45139"
 city: Essen
-street: "Elisabethstraße"
-housenumber: 100
+street: Elisabethstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "http://fantastic-hair-essen.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:30
+website: http://fantastic-hair-essen.de/

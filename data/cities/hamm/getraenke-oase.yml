@@ -1,11 +1,11 @@
 id: 134677045
-type: way
+type: node
 latitude: 51.69079
 longitude: 7.87021
 postcode: "59071"
 city: Hamm
-street: "Alter Uentroper Weg"
-housenumber: 68
+street: Alter Uentroper Weg
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00
 website: ""

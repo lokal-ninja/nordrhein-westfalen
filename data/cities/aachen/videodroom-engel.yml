@@ -4,8 +4,8 @@ latitude: 50.74768
 longitude: 6.16058
 postcode: "52078"
 city: Aachen
-street: "Ringstraße"
-housenumber: 73
+street: Ringstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo,Fr,Sa 10:00-20:00; We,Th 12:00-20:00; PH,Tu,Su off"
+opening_hours: Mo,Fr,Sa 10:00-20:00; We,Th 12:00-20:00; PH,Tu,Su off
 website: ""

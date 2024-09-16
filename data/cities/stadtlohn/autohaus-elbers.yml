@@ -1,11 +1,11 @@
 id: 107691007
-type: way
+type: node
 latitude: 52.00357
 longitude: 6.91509
 postcode: "48703"
 city: Stadtlohn
-street: "Mühlenstraße"
-housenumber: 102
+street: Mühlenstraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

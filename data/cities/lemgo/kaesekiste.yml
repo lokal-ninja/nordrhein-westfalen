@@ -4,8 +4,8 @@ latitude: 52.02848
 longitude: 8.8959
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 120
+street: Mittelstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 07:00-14:00"
-website: "https://kaesekiste-lemgo.de/"
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00; Sa 07:00-14:00
+website: https://kaesekiste-lemgo.de/

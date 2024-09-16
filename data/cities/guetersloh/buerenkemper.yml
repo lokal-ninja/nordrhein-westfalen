@@ -4,8 +4,8 @@ latitude: 51.94718
 longitude: 8.40839
 postcode: "33334"
 city: Gütersloh
-street: "Steinhagener Straße"
-housenumber: 4
+street: Steinhagener Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-18:00, Su 08:00-18:00"
-website: "https://www.baeckerei-buerenkemper.de/"
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:30-18:00, Su 08:00-18:00
+website: https://www.baeckerei-buerenkemper.de/

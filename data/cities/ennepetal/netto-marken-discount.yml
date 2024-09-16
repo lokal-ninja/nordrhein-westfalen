@@ -1,11 +1,11 @@
 id: 112448746
-type: way
+type: node
 latitude: 51.29591
 longitude: 7.36633
 postcode: "58256"
 city: Ennepetal
-street: "Neustraße"
-housenumber: 58
+street: Neustraße
+housenumber: "58"
 phone: ""
-opening_hours: "7:00-21:00"
+opening_hours: 7:00-21:00
 website: ""

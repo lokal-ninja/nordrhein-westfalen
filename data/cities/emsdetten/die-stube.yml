@@ -1,11 +1,12 @@
 id: 263036228
-type: way
+type: node
 latitude: 52.17583
 longitude: 7.52821
 postcode: "48282"
 city: Emsdetten
-street: "Rheiner Straße"
-housenumber: 13
-phone: "+49 2572 1521011"
-opening_hours: "Tu,We 08:00-20:00; Th 08:00-14:00; Fr 08:00-18:00; Sa 08:00-14:00; Mo,PH off"
-website: "https://diestube.net/"
+street: Rheiner Straße
+housenumber: "13"
+phone: +49 2572 1521011
+opening_hours: Tu,We 08:00-20:00; Th 08:00-14:00; Fr 08:00-18:00; Sa 08:00-14:00;
+    Mo,PH off
+website: https://diestube.net/

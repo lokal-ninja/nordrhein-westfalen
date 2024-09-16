@@ -4,8 +4,8 @@ latitude: 51.91736
 longitude: 8.37131
 postcode: "33330"
 city: Gütersloh
-street: "Haegestraße"
-housenumber: 2
+street: Haegestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de

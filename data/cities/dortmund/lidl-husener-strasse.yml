@@ -1,11 +1,11 @@
 id: 1112156821
-type: way
+type: node
 latitude: 51.55955
 longitude: 7.59295
 postcode: "44319"
 city: Dortmund
-street: "Husener Straße"
-housenumber: 44
+street: Husener Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

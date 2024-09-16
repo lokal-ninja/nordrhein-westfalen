@@ -1,11 +1,11 @@
 id: 259607459
-type: way
+type: node
 latitude: 51.98295
 longitude: 7.78404
 postcode: "48291"
 city: Telgte
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+49 2504 9289220"
-opening_hours: "Mo 09:00-12:00,15:00-18:00"
-website: "www.sicherheitstechnik-gertzen.de"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +49 2504 9289220
+opening_hours: Mo 09:00-12:00,15:00-18:00
+website: www.sicherheitstechnik-gertzen.de

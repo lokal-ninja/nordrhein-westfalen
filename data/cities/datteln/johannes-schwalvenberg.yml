@@ -1,11 +1,11 @@
 id: 111403088
-type: way
+type: node
 latitude: 51.62925
 longitude: 7.29422
 postcode: "45711"
 city: Datteln
-street: "Schloßstraße"
-housenumber: 15
+street: Schloßstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

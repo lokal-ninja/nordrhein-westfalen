@@ -1,11 +1,11 @@
 id: 302329167
-type: way
+type: node
 latitude: 51.44999
 longitude: 6.85954
 postcode: "45476"
 city: Mülheim an der Ruhr
-street: "Oberhausener Straße"
-housenumber: 154
-phone: "+49 208 9601333"
+street: Oberhausener Straße
+housenumber: "154"
+phone: +49 208 9601333
 opening_hours: ""
-website: "https://lennys-bahnshop.info/"
+website: https://lennys-bahnshop.info/

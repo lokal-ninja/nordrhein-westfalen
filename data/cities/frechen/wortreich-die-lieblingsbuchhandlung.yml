@@ -4,8 +4,9 @@ latitude: 50.93598
 longitude: 6.77019
 postcode: "50226"
 city: Frechen
-street: "Aachener Straße"
-housenumber: 624
+street: Aachener Straße
+housenumber: "624"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-13:00; SH Mo 14:00-18:30; SH Tu-Fr 09:30-13:00,14:00-18:30; SH Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-13:00; SH Mo 14:00-18:30; SH Tu-Fr 09:30-13:00,14:00-18:30;
+    SH Sa 09:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 79595106
-type: way
+type: node
 latitude: 50.77316
 longitude: 6.08797
 postcode: ""
 city: Aachen
-street: "Wirichsbongardstraße"
-housenumber: 24
+street: Wirichsbongardstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://detlef-kellermann.de/"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-15:00
+website: https://detlef-kellermann.de/

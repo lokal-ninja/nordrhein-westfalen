@@ -1,11 +1,11 @@
 id: 26162830
-type: way
+type: node
 latitude: 51.08819
 longitude: 8.08555
 postcode: "57399"
 city: Kirchhundem
-street: "Bahnhofsweg"
-housenumber: 16
+street: Bahnhofsweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

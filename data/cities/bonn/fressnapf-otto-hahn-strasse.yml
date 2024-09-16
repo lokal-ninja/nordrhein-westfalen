@@ -1,11 +1,11 @@
 id: 38304161
-type: way
+type: node
 latitude: 50.76176
 longitude: 7.05671
 postcode: "53117"
 city: Bonn
-street: "Otto-Hahn-Straße"
-housenumber: 16
+street: Otto-Hahn-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

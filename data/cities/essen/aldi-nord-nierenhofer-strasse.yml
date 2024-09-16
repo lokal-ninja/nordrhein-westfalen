@@ -1,11 +1,11 @@
 id: 29269918
-type: way
+type: node
 latitude: 51.38353
 longitude: 7.11507
 postcode: "45257"
 city: Essen
-street: "Nierenhofer Straße"
-housenumber: 76
+street: Nierenhofer Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

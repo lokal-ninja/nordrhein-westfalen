@@ -1,11 +1,11 @@
 id: 238940758
-type: way
+type: node
 latitude: 50.98828
 longitude: 6.57253
 postcode: "50181"
 city: Bedburg
-street: "Bahnstraße"
-housenumber: 27
-phone: "+49 2272 3210"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shell.de/"
+street: Bahnstraße
+housenumber: "27"
+phone: +49 2272 3210
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shell.de/

@@ -1,11 +1,11 @@
 id: 123447478
-type: way
+type: node
 latitude: 50.77415
 longitude: 7.30261
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Emil-Langen-Straße"
-housenumber: 4
-phone: "+49 2242 3450"
-opening_hours: "Mo-Sa 07:00-22:00; Su, PH off"
-website: "https://www.petz.de/"
+street: Emil-Langen-Straße
+housenumber: "4"
+phone: +49 2242 3450
+opening_hours: Mo-Sa 07:00-22:00; Su, PH off
+website: https://www.petz.de/

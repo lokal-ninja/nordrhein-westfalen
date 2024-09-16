@@ -1,11 +1,11 @@
 id: 259609105
-type: way
+type: node
 latitude: 51.9849
 longitude: 7.7858
 postcode: "48291"
 city: Telgte
-street: "Kapellenstraße"
-housenumber: 7
+street: Kapellenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:30-14:00; Mo off"
-website: "https://www.fadenstreich.de"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:30-14:00; Mo off
+website: https://www.fadenstreich.de

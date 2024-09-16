@@ -1,11 +1,11 @@
 id: 209629218
-type: way
+type: node
 latitude: 51.44342
 longitude: 6.79461
 postcode: "47058"
 city: Duisburg
-street: "Meidericher Straße"
+street: Meidericher Straße
 housenumber: 6-8
 phone: ""
-opening_hours: "Th-Fr 14:00-24:00"
+opening_hours: Th-Fr 14:00-24:00
 website: ""

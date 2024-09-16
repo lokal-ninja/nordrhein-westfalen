@@ -4,8 +4,8 @@ latitude: 51.2129
 longitude: 6.96261
 postcode: "40699"
 city: Erkrath
-street: "Bergstraße"
-housenumber: 9
-phone: "+49 2104 45335"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-13:00"
-website: "https://www.vital-hilden.de/pages/address.html"
+street: Bergstraße
+housenumber: "9"
+phone: +49 2104 45335
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-13:00
+website: https://www.vital-hilden.de/pages/address.html

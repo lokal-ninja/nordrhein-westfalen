@@ -1,11 +1,11 @@
 id: 130807374
-type: way
+type: node
 latitude: 50.91614
 longitude: 7.65083
 postcode: "51580"
 city: Reichshof
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

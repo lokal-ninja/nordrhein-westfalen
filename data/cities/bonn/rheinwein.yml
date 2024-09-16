@@ -4,8 +4,8 @@ latitude: 50.74095
 longitude: 7.0944
 postcode: "53111"
 city: Bonn
-street: "Heerstraße"
-housenumber: 20
-phone: "+49 228 96399484"
+street: Heerstraße
+housenumber: "20"
+phone: +49 228 96399484
 opening_hours: ""
-website: "https://rheinwein-bonn.de"
+website: https://rheinwein-bonn.de

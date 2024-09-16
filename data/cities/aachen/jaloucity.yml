@@ -4,8 +4,8 @@ latitude: 50.76988
 longitude: 6.09508
 postcode: "52070"
 city: Aachen
-street: "Wilhelmstraße"
-housenumber: 96
-phone: "+49 241 159998"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off"
-website: "https://www.jaloucity.de/filialen/aachen.html"
+street: Wilhelmstraße
+housenumber: "96"
+phone: +49 241 159998
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off
+website: https://www.jaloucity.de/filialen/aachen.html

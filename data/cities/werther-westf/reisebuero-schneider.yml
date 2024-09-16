@@ -4,8 +4,8 @@ latitude: 52.07313
 longitude: 8.41361
 postcode: "33824"
 city: Werther (Westf.)
-street: "Rosenstraße"
-housenumber: 5
-phone: "+49 5203 88635"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://schneider-reisebuero.de"
+street: Rosenstraße
+housenumber: "5"
+phone: +49 5203 88635
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://schneider-reisebuero.de

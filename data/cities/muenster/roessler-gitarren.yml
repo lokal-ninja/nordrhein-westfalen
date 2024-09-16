@@ -4,8 +4,8 @@ latitude: 51.97004
 longitude: 7.67692
 postcode: "48155"
 city: Münster
-street: "Mondstraße"
-housenumber: 1
+street: Mondstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00"
+opening_hours: Mo-Fr 15:00-18:00
 website: ""

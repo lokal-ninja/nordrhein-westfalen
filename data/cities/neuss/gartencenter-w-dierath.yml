@@ -4,8 +4,8 @@ latitude: 51.15054
 longitude: 6.69826
 postcode: "41466"
 city: Neuss
-street: "Hoistener Straße"
-housenumber: 140
-phone: "+49 2131 476653"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.gartencenter-dierath.de"
+street: Hoistener Straße
+housenumber: "140"
+phone: +49 2131 476653
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.gartencenter-dierath.de

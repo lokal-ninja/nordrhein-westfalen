@@ -4,8 +4,8 @@ latitude: 51.94304
 longitude: 7.62475
 postcode: "48153"
 city: Münster
-street: "Hammer Straße"
-housenumber: 149
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/muenster/hammer-strasse-149.html"
+street: Hammer Straße
+housenumber: "149"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/muenster/hammer-strasse-149.html

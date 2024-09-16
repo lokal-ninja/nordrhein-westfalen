@@ -1,11 +1,11 @@
 id: 784883250
-type: way
+type: node
 latitude: 51.61715
 longitude: 6.68159
 postcode: "46562"
 city: Voerde (Niederrhein)
-street: "Grenzstraße"
-housenumber: 209
-phone: "+49 2855 96663"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://afra-fahrzeugtechnik.de"
+street: Grenzstraße
+housenumber: "209"
+phone: +49 2855 96663
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://afra-fahrzeugtechnik.de

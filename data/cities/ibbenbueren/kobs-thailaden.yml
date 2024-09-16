@@ -4,8 +4,8 @@ latitude: 52.27352
 longitude: 7.71201
 postcode: "49477"
 city: Ibbenbüren
-street: "Weberstraße"
-housenumber: 50
-phone: "+49 05451 9974 510"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-15:00"
+street: Weberstraße
+housenumber: "50"
+phone: +49 05451 9974 510
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-15:00
 website: ""

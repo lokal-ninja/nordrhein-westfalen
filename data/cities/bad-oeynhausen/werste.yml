@@ -1,11 +1,11 @@
 id: 35569461
-type: way
+type: node
 latitude: 52.21564
 longitude: 8.78509
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Werster Straße"
-housenumber: 86
+street: Werster Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

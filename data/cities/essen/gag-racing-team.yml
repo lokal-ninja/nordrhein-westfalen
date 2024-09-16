@@ -1,11 +1,11 @@
 id: 109709266
-type: way
+type: node
 latitude: 51.42628
 longitude: 7.11889
 postcode: "45289"
 city: Essen
-street: "Worringstraße"
-housenumber: 279
+street: Worringstraße
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

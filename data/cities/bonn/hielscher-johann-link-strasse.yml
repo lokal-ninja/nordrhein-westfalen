@@ -4,8 +4,8 @@ latitude: 50.73671
 longitude: 7.117
 postcode: "53225"
 city: Bonn
-street: "Johann-Link-Straße"
-housenumber: 21
-phone: "+49 228 1844961"
-opening_hours: "Tu,Fr 07:00-18:00; Mo,We-Th,Sa 07:00-14:00"
-website: "https://www.hielscher-fleischwaren.de/"
+street: Johann-Link-Straße
+housenumber: "21"
+phone: +49 228 1844961
+opening_hours: Tu,Fr 07:00-18:00; Mo,We-Th,Sa 07:00-14:00
+website: https://www.hielscher-fleischwaren.de/

@@ -4,8 +4,8 @@ latitude: 51.1805
 longitude: 7.19124
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 22
+street: Alleestraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://5thavenue-remscheid.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://5thavenue-remscheid.de/

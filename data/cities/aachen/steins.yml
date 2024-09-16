@@ -4,8 +4,8 @@ latitude: 50.78269
 longitude: 6.07714
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 18
+street: Roermonder Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu-Fr 07:00-15:00; Sa 07:00-13:00; Mo,Su,PH off"
-website: "http://www.metzgerei-steins.de/"
+opening_hours: Tu-Fr 07:00-15:00; Sa 07:00-13:00; Mo,Su,PH off
+website: http://www.metzgerei-steins.de/

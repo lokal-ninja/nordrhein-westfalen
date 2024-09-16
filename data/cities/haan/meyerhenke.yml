@@ -4,8 +4,9 @@ latitude: 51.19368
 longitude: 7.01296
 postcode: "42781"
 city: Haan
-street: "Mittelstraße"
-housenumber: 2
+street: Mittelstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Th 09:00-18:30; Sa 10:00-14:00; PH off"
-website: "http://www.foto-meyerhenke.de/"
+opening_hours: Mo,Tu,Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Th 09:00-18:30; Sa
+    10:00-14:00; PH off
+website: http://www.foto-meyerhenke.de/

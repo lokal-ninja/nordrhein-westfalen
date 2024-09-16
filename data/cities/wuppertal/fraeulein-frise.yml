@@ -4,8 +4,8 @@ latitude: 51.27092
 longitude: 7.12476
 postcode: "42113"
 city: Wuppertal
-street: "Katernberger Schulweg"
-housenumber: 3
-phone: "+49 202 94672771"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; Mo,Su,PH off"
-website: "https://fraeulein-frise.de/"
+street: Katernberger Schulweg
+housenumber: "3"
+phone: +49 202 94672771
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; Mo,Su,PH off
+website: https://fraeulein-frise.de/

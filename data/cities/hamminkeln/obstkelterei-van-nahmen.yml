@@ -1,11 +1,11 @@
 id: 285571663
-type: way
+type: node
 latitude: 51.72877
 longitude: 6.58653
 postcode: "46499"
 city: Hamminkeln
-street: "Diersfordter Straße"
-housenumber: 27
-phone: "+49 2852 96099 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.vannahmen.de/"
+street: Diersfordter Straße
+housenumber: "27"
+phone: +49 2852 96099 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.vannahmen.de/

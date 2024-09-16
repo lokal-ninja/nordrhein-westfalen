@@ -1,11 +1,11 @@
 id: 843611570
-type: way
+type: node
 latitude: 52.00843
 longitude: 9.05654
 postcode: "32694"
 city: Dörentrup
-street: "Alter Schulweg"
-housenumber: 13
+street: Alter Schulweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

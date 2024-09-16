@@ -1,11 +1,11 @@
 id: 259607309
-type: way
+type: node
 latitude: 51.9791
 longitude: 7.77662
 postcode: "48291"
 city: Telgte
-street: "Von-Siemens-Straße"
-housenumber: 27
-phone: "+49 2504 4037"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://www.autoteile-center-telgte.de/"
+street: Von-Siemens-Straße
+housenumber: "27"
+phone: +49 2504 4037
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
+website: https://www.autoteile-center-telgte.de/

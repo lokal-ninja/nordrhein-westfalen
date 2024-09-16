@@ -4,8 +4,8 @@ latitude: 51.67854
 longitude: 8.33575
 postcode: "59555"
 city: Lippstadt
-street: "Bastionstraße"
-housenumber: 8
+street: Bastionstraße
+housenumber: "8"
 phone: "+49294178617"
-opening_hours: "Mo-Fr 9:00-12:00, 13:00-18:00; Sa 9:00-13:00"
-website: "https://www.fahrradsport-apelt.de/"
+opening_hours: Mo-Fr 9:00-12:00, 13:00-18:00; Sa 9:00-13:00
+website: https://www.fahrradsport-apelt.de/

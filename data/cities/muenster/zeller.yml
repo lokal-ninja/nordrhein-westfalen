@@ -4,8 +4,8 @@ latitude: 51.98727
 longitude: 7.69844
 postcode: "48157"
 city: Münster
-street: "Handorfer Straße"
-housenumber: 14
-phone: "+49 251 324305"
-opening_hours: "Mo-Fr 08:30-12:30; Sa 08:30-13:00; Mo, Tu, Th, Fr 14:30-18:00"
+street: Handorfer Straße
+housenumber: "14"
+phone: +49 251 324305
+opening_hours: Mo-Fr 08:30-12:30; Sa 08:30-13:00; Mo, Tu, Th, Fr 14:30-18:00
 website: ""

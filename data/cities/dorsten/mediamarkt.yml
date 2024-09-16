@@ -1,11 +1,11 @@
 id: 194299339
-type: way
+type: node
 latitude: 51.65691
 longitude: 6.96939
 postcode: "46282"
 city: Dorsten
-street: "Europaplatz"
-housenumber: 10
+street: Europaplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.mediamarkt.de/de/store/dorsten-1232"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.mediamarkt.de/de/store/dorsten-1232

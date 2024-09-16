@@ -1,11 +1,11 @@
 id: 41462738
-type: way
+type: node
 latitude: 50.69613
 longitude: 6.49053
 postcode: "52385"
 city: Nideggen
-street: "Thumer Weg"
-housenumber: 54
-phone: "+49 2427 902273"
+street: Thumer Weg
+housenumber: "54"
+phone: +49 2427 902273
 opening_hours: ""
-website: "https://eifelflor.de/"
+website: https://eifelflor.de/

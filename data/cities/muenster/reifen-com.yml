@@ -1,11 +1,11 @@
 id: 112979227
-type: way
+type: node
 latitude: 51.93856
 longitude: 7.6407
 postcode: "48155"
 city: Münster
-street: "Eulerstraße"
-housenumber: 12
+street: Eulerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen.com/"
+website: https://www.reifen.com/

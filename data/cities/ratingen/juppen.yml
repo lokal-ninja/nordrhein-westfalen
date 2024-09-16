@@ -4,8 +4,8 @@ latitude: 51.29656
 longitude: 6.84852
 postcode: "40878"
 city: Ratingen
-street: "Düsseldorfer Straße"
-housenumber: 21
-phone: "+49 2102 21021"
-opening_hours: "Mo-We 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.juppen.de"
+street: Düsseldorfer Straße
+housenumber: "21"
+phone: +49 2102 21021
+opening_hours: Mo-We 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.juppen.de

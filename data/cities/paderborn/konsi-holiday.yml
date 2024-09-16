@@ -4,8 +4,8 @@ latitude: 51.74671
 longitude: 8.74821
 postcode: "33102"
 city: Paderborn
-street: "Angelnweg"
-housenumber: 2
+street: Angelnweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://konsi-holiday.de/"
+website: https://konsi-holiday.de/

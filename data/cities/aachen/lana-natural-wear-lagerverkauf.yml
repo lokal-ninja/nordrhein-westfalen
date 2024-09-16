@@ -1,11 +1,11 @@
 id: 162854000
-type: way
+type: node
 latitude: 50.77116
 longitude: 6.05926
 postcode: "52074"
 city: Aachen
-street: "Weststraße"
-housenumber: 38
-phone: "+49 241 89493 40"
-opening_hours: "einmal im Monat"
-website: "http://www.lana-naturalwear.de/index.php?object=129"
+street: Weststraße
+housenumber: "38"
+phone: +49 241 89493 40
+opening_hours: '"einmal im Monat"'
+website: http://www.lana-naturalwear.de/index.php?object=129

@@ -4,8 +4,8 @@ latitude: 50.68185
 longitude: 7.07392
 postcode: "53125"
 city: Bonn
-street: "Kurfürstenplatz"
-housenumber: 4
-phone: "+49 228 259288"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:00-11:00"
-website: "https://kamps.de/standort/kamps-baeckerei-bonn-am-kurfuerstenplatz-4"
+street: Kurfürstenplatz
+housenumber: "4"
+phone: +49 228 259288
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:00-11:00
+website: https://kamps.de/standort/kamps-baeckerei-bonn-am-kurfuerstenplatz-4

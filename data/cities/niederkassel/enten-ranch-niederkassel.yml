@@ -1,11 +1,11 @@
 id: 106117696
-type: way
+type: node
 latitude: 50.81004
 longitude: 7.04465
 postcode: "53859"
 city: Niederkassel
-street: "Weidenstraße"
-housenumber: 37
+street: Weidenstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "http://www.entenranch-ndk.de/"
+website: http://www.entenranch-ndk.de/

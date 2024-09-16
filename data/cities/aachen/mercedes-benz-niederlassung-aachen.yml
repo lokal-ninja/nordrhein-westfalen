@@ -1,11 +1,11 @@
 id: 170311324
-type: way
+type: node
 latitude: 50.78076
 longitude: 6.11811
 postcode: "52068"
 city: Aachen
-street: "Gneisenaustraße"
-housenumber: 46
+street: Gneisenaustraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

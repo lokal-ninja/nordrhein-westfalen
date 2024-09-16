@@ -4,8 +4,8 @@ latitude: 50.99811
 longitude: 6.80016
 postcode: "50259"
 city: Pulheim
-street: "Rathausstraße"
-housenumber: 3
+street: Rathausstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-18:00; Tu 09:00-21:00; Th 08:00-21:00; Sa 09:00-15:00"
-website: "https://www.maxxderfriseur.de/"
+opening_hours: Mo,We,Fr 09:00-18:00; Tu 09:00-21:00; Th 08:00-21:00; Sa 09:00-15:00
+website: https://www.maxxderfriseur.de/

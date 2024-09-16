@@ -4,8 +4,8 @@ latitude: 50.88352
 longitude: 7.18645
 postcode: "51503"
 city: Rösrath
-street: "Hans-Böckler-Straße"
-housenumber: 33
-phone: "+49 2205 901621"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
-website: "https://www.reifen-frorath.de"
+street: Hans-Böckler-Straße
+housenumber: "33"
+phone: +49 2205 901621
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
+website: https://www.reifen-frorath.de

@@ -1,11 +1,11 @@
 id: 917146870
-type: way
+type: node
 latitude: 51.42947
 longitude: 6.88635
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 43906716"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.tedi.com"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 43906716
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.tedi.com

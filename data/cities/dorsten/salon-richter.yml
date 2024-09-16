@@ -1,11 +1,11 @@
 id: 218508995
-type: way
+type: node
 latitude: 51.67115
 longitude: 6.99206
 postcode: "46284"
 city: Dorsten
-street: "Freiligrathstraße"
-housenumber: 5
+street: Freiligrathstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

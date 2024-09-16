@@ -1,11 +1,11 @@
 id: 171481560
-type: way
+type: node
 latitude: 50.89815
 longitude: 8.03406
 postcode: "57076"
 city: Siegen
-street: "Am Friedrich-Flender-Platz"
-housenumber: 5
+street: Am Friedrich-Flender-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:30"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:30
 website: ""

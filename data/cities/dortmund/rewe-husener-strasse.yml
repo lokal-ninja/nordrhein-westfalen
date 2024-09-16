@@ -1,11 +1,11 @@
 id: 53773912
-type: way
+type: node
 latitude: 51.55951
 longitude: 7.59503
 postcode: "44319"
 city: Dortmund
-street: "Husener Straße"
-housenumber: 46
-phone: "+49 231 5349700"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/marktseite/dortmund/1766005/rewe-dortmund-husenerstr-50/"
+street: Husener Straße
+housenumber: "46"
+phone: +49 231 5349700
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/marktseite/dortmund/1766005/rewe-dortmund-husenerstr-50/

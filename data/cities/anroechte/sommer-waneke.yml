@@ -1,11 +1,11 @@
 id: 245985415
-type: way
+type: node
 latitude: 51.55716
 longitude: 8.26963
 postcode: "59609"
 city: Anröchte
-street: "Luziastraße"
-housenumber: 12
+street: Luziastraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

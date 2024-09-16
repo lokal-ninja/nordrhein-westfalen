@@ -4,8 +4,8 @@ latitude: 51.57407
 longitude: 6.98545
 postcode: "45964"
 city: Gladbeck
-street: "Friedenstraße"
-housenumber: 1
-phone: "+49 2043 22394"
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00"
+street: Friedenstraße
+housenumber: "1"
+phone: +49 2043 22394
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00
 website: ""

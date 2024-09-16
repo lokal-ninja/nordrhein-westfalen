@@ -1,11 +1,11 @@
 id: 308772460
-type: way
+type: node
 latitude: 51.2253
 longitude: 7.20065
 postcode: "42369"
 city: Wuppertal
-street: "Am Stadtbahnhof"
-housenumber: 25
+street: Am Stadtbahnhof
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-12:00; PH off"
-website: "https://www.friseur-wernick.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-12:00; PH off
+website: https://www.friseur-wernick.de/

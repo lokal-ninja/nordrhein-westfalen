@@ -1,11 +1,11 @@
 id: 217792584
-type: way
+type: node
 latitude: 52.16309
 longitude: 8.66492
 postcode: "32120"
 city: Hiddenhausen
-street: "Herforder Straße"
-housenumber: 155
+street: Herforder Straße
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-15:00"
-website: "https://www.bloete.de/"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-15:00
+website: https://www.bloete.de/

@@ -4,8 +4,8 @@ latitude: 51.25705
 longitude: 7.14474
 postcode: "42103"
 city: Wuppertal
-street: "Herzogstraße"
-housenumber: 17
-phone: "+49 202440871"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.douglas.de/Parf%C3%BCmerie/Wuppertal/0331/0002/vst.html?trac=de.16x.dgl.opm.filialenDE.000027"
+street: Herzogstraße
+housenumber: "17"
+phone: +49 202440871
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.douglas.de/Parf%C3%BCmerie/Wuppertal/0331/0002/vst.html?trac=de.16x.dgl.opm.filialenDE.000027

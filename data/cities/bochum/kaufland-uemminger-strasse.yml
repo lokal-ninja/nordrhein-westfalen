@@ -1,11 +1,11 @@
 id: 97722467
-type: way
+type: node
 latitude: 51.47019
 longitude: 7.29251
 postcode: "44892"
 city: Bochum
-street: "Ümminger Straße"
-housenumber: 90
-phone: "+49 234 96290480"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Ümminger Straße
+housenumber: "90"
+phone: +49 234 96290480
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

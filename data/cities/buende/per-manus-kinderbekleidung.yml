@@ -1,11 +1,11 @@
 id: 131348104
-type: way
+type: node
 latitude: 52.1982
 longitude: 8.56503
 postcode: "32257"
 city: Bünde
-street: "Blankensteinstraße"
-housenumber: 60
+street: Blankensteinstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

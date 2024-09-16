@@ -4,8 +4,8 @@ latitude: 51.32652
 longitude: 6.56643
 postcode: "47798"
 city: Krefeld
-street: "Neusser Straße"
-housenumber: 35
-phone: "+49 2151 9311-0"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.saturn.de/de/store/krefeld-74"
+street: Neusser Straße
+housenumber: "35"
+phone: +49 2151 9311-0
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.saturn.de/de/store/krefeld-74

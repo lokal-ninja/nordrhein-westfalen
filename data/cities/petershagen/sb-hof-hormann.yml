@@ -4,8 +4,8 @@ latitude: 52.33853
 longitude: 8.99448
 postcode: "32469"
 city: Petershagen
-street: "Brunnenweg"
-housenumber: 
+street: Brunnenweg
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.brueder-hormann.de/"
+opening_hours: 24/7
+website: https://www.brueder-hormann.de/

@@ -1,11 +1,11 @@
 id: 230017743
-type: way
+type: node
 latitude: 51.65179
 longitude: 6.97971
 postcode: "46282"
 city: Dorsten
-street: "Zum Alten Kreuz"
-housenumber: 1
-phone: "+49 2362 20070"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00; PH off"
-website: "https://ahag-group.de/standorte/dorsten"
+street: Zum Alten Kreuz
+housenumber: "1"
+phone: +49 2362 20070
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00; PH off
+website: https://ahag-group.de/standorte/dorsten

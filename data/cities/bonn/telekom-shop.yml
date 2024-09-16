@@ -4,8 +4,8 @@ latitude: 50.71525
 longitude: 7.04894
 postcode: "53123"
 city: Bonn
-street: "Rochusstraße"
-housenumber: 198
-phone: "+49 228 96289003"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off"
-website: "https://shopseite.telekom.de/west/bonn/rochusstr-198"
+street: Rochusstraße
+housenumber: "198"
+phone: +49 228 96289003
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off
+website: https://shopseite.telekom.de/west/bonn/rochusstr-198

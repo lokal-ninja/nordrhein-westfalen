@@ -4,8 +4,8 @@ latitude: 51.28069
 longitude: 6.78374
 postcode: "40468"
 city: Düsseldorf
-street: "Kieshecker Weg"
-housenumber: 118
-phone: "+49 211 6000690"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-15:30"
-website: "https://www.glas-hirnstein.de/"
+street: Kieshecker Weg
+housenumber: "118"
+phone: +49 211 6000690
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-15:30
+website: https://www.glas-hirnstein.de/

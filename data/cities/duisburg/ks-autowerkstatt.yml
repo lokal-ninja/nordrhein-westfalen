@@ -1,11 +1,11 @@
 id: 158744891
-type: way
+type: node
 latitude: 51.52577
 longitude: 6.7802
 postcode: "47169"
 city: Duisburg
-street: "Sassenstraße"
-housenumber: 5
+street: Sassenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

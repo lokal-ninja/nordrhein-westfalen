@@ -1,11 +1,11 @@
 id: 275936935
-type: way
+type: node
 latitude: 51.04849
 longitude: 6.15314
 postcode: "52525"
 city: Heinsberg
-street: "Erkelenzer Straße"
+street: Erkelenzer Straße
 housenumber: 80-82
-phone: "+49 2452 9680"
+phone: +49 2452 9680
 opening_hours: ""
-website: "https://www.autoconen.de/"
+website: https://www.autoconen.de/

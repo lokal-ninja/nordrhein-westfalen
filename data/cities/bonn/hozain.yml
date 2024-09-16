@@ -1,11 +1,11 @@
 id: 156308450
-type: way
+type: node
 latitude: 50.75468
 longitude: 7.07135
 postcode: "53117"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 488
+street: Kölnstraße
+housenumber: "488"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

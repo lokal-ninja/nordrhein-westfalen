@@ -1,11 +1,11 @@
 id: 32394159
-type: way
+type: node
 latitude: 51.48756
 longitude: 7.04644
 postcode: "45309"
 city: Essen
-street: "Gelsenkirchener Straße"
-housenumber: 189
+street: Gelsenkirchener Straße
+housenumber: "189"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 158829302
-type: way
+type: node
 latitude: 50.77306
 longitude: 6.07256
 postcode: "52064"
 city: Aachen
-street: "Junkerstraße"
-housenumber: 62
+street: Junkerstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Su 12:00-24:00"
+opening_hours: Mo-Su 12:00-24:00
 website: ""

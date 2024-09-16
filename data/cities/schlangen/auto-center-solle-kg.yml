@@ -1,11 +1,11 @@
 id: 203979954
-type: way
+type: node
 latitude: 51.80286
 longitude: 8.83983
 postcode: "33189"
 city: Schlangen
-street: "Paderborner Straße"
+street: Paderborner Straße
 housenumber: 47a
-phone: "+49 5252 97010"
+phone: +49 5252 97010
 opening_hours: ""
-website: "https://www.auto-solle.de/"
+website: https://www.auto-solle.de/

@@ -4,8 +4,8 @@ latitude: 51.93338
 longitude: 8.87803
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 10
-phone: "+49 5231 9822850"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://shop.riekehof.de/"
+street: Lange Straße
+housenumber: "10"
+phone: +49 5231 9822850
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://shop.riekehof.de/

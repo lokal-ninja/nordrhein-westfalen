@@ -4,8 +4,8 @@ latitude: 52.20055
 longitude: 7.06952
 postcode: "48599"
 city: Gronau
-street: "Borgwardstraße"
-housenumber: 1
+street: Borgwardstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://cyran.de"
+website: http://cyran.de

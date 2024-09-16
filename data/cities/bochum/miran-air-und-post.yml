@@ -4,8 +4,8 @@ latitude: 51.48474
 longitude: 7.22811
 postcode: "44791"
 city: Bochum
-street: "Castroper Straße"
-housenumber: 62
-phone: "+49 234 54467755"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su,PH off"
+street: Castroper Straße
+housenumber: "62"
+phone: +49 234 54467755
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su,PH off
 website: ""

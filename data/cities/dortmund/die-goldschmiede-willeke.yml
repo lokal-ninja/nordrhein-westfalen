@@ -4,8 +4,8 @@ latitude: 51.51726
 longitude: 7.5192
 postcode: "44143"
 city: Dortmund
-street: "Akazienstraße"
-housenumber: 83
+street: Akazienstraße
+housenumber: "83"
 phone: "+49231599942"
-opening_hours: "Tu-Fr 09:00-13:00,15:00-18:00"
-website: "https://goldschmiedewilleke.de/"
+opening_hours: Tu-Fr 09:00-13:00,15:00-18:00
+website: https://goldschmiedewilleke.de/

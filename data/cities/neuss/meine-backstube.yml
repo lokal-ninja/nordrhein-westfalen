@@ -1,11 +1,11 @@
 id: 109281804
-type: way
+type: node
 latitude: 51.20674
 longitude: 6.67621
 postcode: "41462"
 city: Neuss
-street: "Alemannenstraße"
-housenumber: 7
+street: Alemannenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

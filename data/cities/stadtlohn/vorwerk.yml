@@ -1,11 +1,11 @@
 id: 118714052
-type: way
+type: node
 latitude: 51.99349
 longitude: 6.91896
 postcode: "48703"
 city: Stadtlohn
-street: "Dufkampstraße"
-housenumber: 21
+street: Dufkampstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

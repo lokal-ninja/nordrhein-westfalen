@@ -1,11 +1,11 @@
 id: 58994052
-type: way
+type: node
 latitude: 52.20796
 longitude: 8.55534
 postcode: "32257"
 city: Bünde
-street: "Holzhauser Straße"
-housenumber: 112
+street: Holzhauser Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

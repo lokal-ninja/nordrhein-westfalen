@@ -4,8 +4,9 @@ latitude: 52.03598
 longitude: 6.82469
 postcode: "48691"
 city: Vreden
-street: "Wüllener Straße"
-housenumber: 2
+street: Wüllener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:30-18:00; Tu 14:30-18:00; We 14:30-18:00; Th 14:30-18:00; Fr 14:30-18:00"
-website: "https://www.liesner-computer.de/"
+opening_hours: Mo 14:30-18:00; Tu 14:30-18:00; We 14:30-18:00; Th 14:30-18:00; Fr
+    14:30-18:00
+website: https://www.liesner-computer.de/

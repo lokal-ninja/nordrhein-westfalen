@@ -1,11 +1,11 @@
 id: 113895737
-type: way
+type: node
 latitude: 51.9346
 longitude: 8.88003
 postcode: "32756"
 city: Detmold
-street: "Schülerstraße"
-housenumber: 9
+street: Schülerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:30, Mo-Th 15:00-17:30"
+opening_hours: Mo-Sa 10:00-13:30, Mo-Th 15:00-17:30
 website: ""

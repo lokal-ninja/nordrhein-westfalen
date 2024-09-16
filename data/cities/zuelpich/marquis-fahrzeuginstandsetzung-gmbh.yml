@@ -1,11 +1,11 @@
 id: 361025304
-type: way
+type: node
 latitude: 50.70302
 longitude: 6.65835
 postcode: "53909"
 city: Zülpich
-street: "Bergheimer Straße"
-housenumber: 12
+street: Bergheimer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://marquis-kfz.de/"
+website: https://marquis-kfz.de/

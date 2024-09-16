@@ -4,8 +4,8 @@ latitude: 50.96882
 longitude: 6.93801
 postcode: "50739"
 city: Köln
-street: "Schiefersburger Weg"
-housenumber: 23
+street: Schiefersburger Weg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-13:00"
-website: "https://www.unwiderstehlich-gut.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-13:00
+website: https://www.unwiderstehlich-gut.de/

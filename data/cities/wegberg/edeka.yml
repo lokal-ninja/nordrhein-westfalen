@@ -1,11 +1,11 @@
 id: 25143199
-type: way
+type: node
 latitude: 51.14423
 longitude: 6.28318
 postcode: "41844"
 city: Wegberg
-street: "Am Bahnhof"
-housenumber: 10
+street: Am Bahnhof
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
-website: "https://www.edeka-endt.de/standorte/wegberg/"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
+website: https://www.edeka-endt.de/standorte/wegberg/

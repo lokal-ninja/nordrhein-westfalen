@@ -1,11 +1,11 @@
 id: 30790421
-type: way
+type: node
 latitude: 51.43657
 longitude: 7.27752
 postcode: "44801"
 city: Bochum
-street: "Blumenau"
-housenumber: 
+street: Blumenau
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

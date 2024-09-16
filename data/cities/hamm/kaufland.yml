@@ -1,11 +1,11 @@
 id: 91330486
-type: way
+type: node
 latitude: 51.70179
 longitude: 7.80062
 postcode: "59073"
 city: Hamm
-street: "Münsterstraße"
-housenumber: 183
+street: Münsterstraße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "www.kaufland.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: www.kaufland.de

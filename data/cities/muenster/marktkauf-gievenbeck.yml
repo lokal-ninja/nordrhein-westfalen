@@ -1,11 +1,11 @@
 id: 40977015
-type: way
+type: node
 latitude: 51.95815
 longitude: 7.56999
 postcode: "48161"
 city: Münster
-street: "Roxeler Straße"
-housenumber: 416
+street: Roxeler Straße
+housenumber: "416"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 29143647
-type: way
+type: node
 latitude: 51.86591
 longitude: 9.08697
 postcode: "32839"
 city: Steinheim
-street: "Anton-Spilker-Straße"
-housenumber: 33
+street: Anton-Spilker-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

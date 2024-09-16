@@ -4,8 +4,8 @@ latitude: 50.76979
 longitude: 6.09464
 postcode: "52062"
 city: Aachen
-street: "Theaterstraße"
-housenumber: 83
+street: Theaterstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Tu-Fr 12:00-20:00; Sa 12:00-18:00; Mo,Su,PH off"
-website: "http://gleis8store.com/"
+opening_hours: Tu-Fr 12:00-20:00; Sa 12:00-18:00; Mo,Su,PH off
+website: http://gleis8store.com/

@@ -4,8 +4,8 @@ latitude: 51.50599
 longitude: 7.19261
 postcode: "44809"
 city: Bochum
-street: "Dorstener Straße"
-housenumber: 402
+street: Dorstener Straße
+housenumber: "402"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.c-and-a.com/stores/de-de/nordrhein-westfalen/bochum/riemkerstrasse-13.html"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.c-and-a.com/stores/de-de/nordrhein-westfalen/bochum/riemkerstrasse-13.html

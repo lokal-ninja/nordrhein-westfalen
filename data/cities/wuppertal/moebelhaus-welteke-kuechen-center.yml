@@ -1,11 +1,11 @@
 id: 173182880
-type: way
+type: node
 latitude: 51.28123
 longitude: 7.24476
 postcode: "42389"
 city: Wuppertal
-street: "Jesinghauser Straße"
-housenumber: 5
+street: Jesinghauser Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

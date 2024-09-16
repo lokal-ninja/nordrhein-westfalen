@@ -1,11 +1,11 @@
 id: 85877978
-type: way
+type: node
 latitude: 51.46294
 longitude: 7.00246
 postcode: "45141"
 city: Essen
-street: "Segerothstraße"
-housenumber: 79
+street: Segerothstraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

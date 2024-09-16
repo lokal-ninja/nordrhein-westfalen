@@ -1,11 +1,11 @@
 id: 179160728
-type: way
+type: node
 latitude: 51.09978
 longitude: 7.67254
 postcode: "58540"
 city: Meinerzhagen
-street: "Zum Schnüffel"
-housenumber: 1
+street: Zum Schnüffel
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

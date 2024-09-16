@@ -1,11 +1,11 @@
 id: 371488829
-type: way
+type: node
 latitude: 50.62853
 longitude: 6.98819
 postcode: "53340"
 city: Meckenheim
-street: "Rheinbacher Landstraße"
-housenumber: 2
-phone: "+49 2225 99170"
+street: Rheinbacher Landstraße
+housenumber: "2"
+phone: +49 2225 99170
 opening_hours: ""
-website: "https://www.fischer-baumschulen.de/"
+website: https://www.fischer-baumschulen.de/

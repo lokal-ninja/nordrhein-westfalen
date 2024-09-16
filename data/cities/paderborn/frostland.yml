@@ -4,8 +4,8 @@ latitude: 51.6981
 longitude: 8.73294
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 29
+street: Frankfurter Weg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00, PH off"
-website: "https://frostland24.de/portfolio/project-example-1-square-book/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00, PH off
+website: https://frostland24.de/portfolio/project-example-1-square-book/

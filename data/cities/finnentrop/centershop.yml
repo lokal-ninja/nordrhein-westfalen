@@ -1,11 +1,11 @@
 id: 131937829
-type: way
+type: node
 latitude: 51.16646
 longitude: 7.98052
 postcode: "57413"
 city: Finnentrop
-street: "Johannes-Scheele-Straße"
-housenumber: 9
+street: Johannes-Scheele-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.centershop.de/unsere-filialen-detailseite/centershop-finnentrop-finnentrop/"
+website: https://www.centershop.de/unsere-filialen-detailseite/centershop-finnentrop-finnentrop/

@@ -4,8 +4,8 @@ latitude: 51.526
 longitude: 7.4747
 postcode: "44145"
 city: Dortmund
-street: "Borsigstraße"
-housenumber: 6
+street: Borsigstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-20:00"
-website: "https://www.megazoo.de/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 10:00-20:00
+website: https://www.megazoo.de/

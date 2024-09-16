@@ -1,11 +1,11 @@
 id: 28762865
-type: way
+type: node
 latitude: 51.50992
 longitude: 7.10265
 postcode: "45888"
 city: Gelsenkirchen
-street: "Kirchstraße"
-housenumber: 46
-phone: "+49 209 95 704 453"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Kirchstraße
+housenumber: "46"
+phone: +49 209 95 704 453
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

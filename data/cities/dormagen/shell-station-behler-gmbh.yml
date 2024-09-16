@@ -1,11 +1,11 @@
 id: 137688314
-type: way
+type: node
 latitude: 51.08987
 longitude: 6.81164
 postcode: "41540"
 city: Dormagen
-street: "Hamburger Straße"
-housenumber: 2
-phone: "+49 2133 477940"
-opening_hours: "24/7"
-website: "http://www.shell-dormagen.de/"
+street: Hamburger Straße
+housenumber: "2"
+phone: +49 2133 477940
+opening_hours: 24/7
+website: http://www.shell-dormagen.de/

@@ -4,8 +4,8 @@ latitude: 50.60659
 longitude: 6.63758
 postcode: "53894"
 city: Mechernich
-street: "Nachtigallenthal"
-housenumber: 2
-phone: "+49 2443 9036975"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00"
-website: "https://www.tierfutter-fischer.de/"
+street: Nachtigallenthal
+housenumber: "2"
+phone: +49 2443 9036975
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-13:00
+website: https://www.tierfutter-fischer.de/

@@ -1,11 +1,11 @@
 id: 347989370
-type: way
+type: node
 latitude: 51.76432
 longitude: 7.88853
 postcode: "59227"
 city: Ahlen
-street: "Steingasse"
-housenumber: 7
+street: Steingasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Th 14:30-17:30; Tu,We 09:00-12:00; Fr 14:00-16:00"
+opening_hours: Mo,Th 14:30-17:30; Tu,We 09:00-12:00; Fr 14:00-16:00
 website: ""

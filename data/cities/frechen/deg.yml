@@ -1,11 +1,11 @@
 id: 216969008
-type: way
+type: node
 latitude: 50.91524
 longitude: 6.82032
 postcode: "50226"
 city: Frechen
-street: "Alfred-Nobel-Straße"
-housenumber: 25
+street: Alfred-Nobel-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

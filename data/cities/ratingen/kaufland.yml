@@ -1,11 +1,11 @@
 id: 25091623
-type: way
+type: node
 latitude: 51.35928
 longitude: 6.86477
 postcode: "40885"
 city: Ratingen
-street: "An der Hoffnung"
-housenumber: 125
+street: An der Hoffnung
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-14:00; PH off"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-14:00; PH off
+website: https://www.kaufland.de/

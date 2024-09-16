@@ -1,11 +1,11 @@
 id: 93450992
-type: way
+type: node
 latitude: 51.39481
 longitude: 7.17821
 postcode: "45525"
 city: Hattingen
-street: "Bruchstraße"
-housenumber: 58
+street: Bruchstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

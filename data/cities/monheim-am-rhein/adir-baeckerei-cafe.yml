@@ -1,11 +1,11 @@
 id: 150574894
-type: way
+type: node
 latitude: 51.11883
 longitude: 6.89929
 postcode: "40789"
 city: Monheim am Rhein
-street: "Benrather Straße"
-housenumber: 48
+street: Benrather Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 06:00-16:00; Sa 07:00-16:00; Su 07:00-16:00; PH 07:00-13:00"
+opening_hours: Mo-Fr 06:00-16:00; Sa 07:00-16:00; Su 07:00-16:00; PH 07:00-13:00
 website: ""

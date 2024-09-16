@@ -1,11 +1,11 @@
 id: 886030070
-type: way
+type: node
 latitude: 51.28942
 longitude: 7.2331
 postcode: "42279"
 city: Wuppertal
-street: "Mählersbeck"
-housenumber: 1
+street: Mählersbeck
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

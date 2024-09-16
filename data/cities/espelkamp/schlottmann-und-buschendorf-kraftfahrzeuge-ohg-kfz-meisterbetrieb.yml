@@ -1,11 +1,11 @@
 id: 123696672
-type: way
+type: node
 latitude: 52.35371
 longitude: 8.56244
 postcode: "32339"
 city: Espelkamp
-street: "Blasheimer Straße"
-housenumber: 2
+street: Blasheimer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

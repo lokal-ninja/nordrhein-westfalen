@@ -4,8 +4,8 @@ latitude: 51.73149
 longitude: 7.16789
 postcode: "45721"
 city: Haltern am See
-street: "Annabergstraße"
-housenumber: 97
-phone: "+49 2364 92510"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.rwg-haltern.de/raiffeisenmarkt/rm.html"
+street: Annabergstraße
+housenumber: "97"
+phone: +49 2364 92510
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.rwg-haltern.de/raiffeisenmarkt/rm.html

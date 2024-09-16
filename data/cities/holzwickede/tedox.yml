@@ -4,8 +4,8 @@ latitude: 51.51375
 longitude: 7.61986
 postcode: "59439"
 city: Holzwickede
-street: "Wilhelmstraße"
-housenumber: 6
-phone: "+49 2301 4931"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.tedox.de/shoplist/index/detail/?id=5"
+street: Wilhelmstraße
+housenumber: "6"
+phone: +49 2301 4931
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.tedox.de/shoplist/index/detail/?id=5

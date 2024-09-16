@@ -1,11 +1,11 @@
 id: 60280252
-type: way
+type: node
 latitude: 51.05285
 longitude: 7.00354
 postcode: "51373"
 city: Leverkusen
-street: "Robert-Blum-Straße"
-housenumber: 47
+street: Robert-Blum-Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

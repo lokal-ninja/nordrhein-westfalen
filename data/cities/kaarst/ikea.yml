@@ -1,11 +1,11 @@
 id: 475612923
-type: way
+type: node
 latitude: 51.21068
 longitude: 6.64003
 postcode: "41564"
 city: Kaarst
-street: "Hans-Dietrich-Genscher-Straße"
-housenumber: 1
+street: Hans-Dietrich-Genscher-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-22:00; Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-22:00; Sa 10:00-20:00; Su,PH off
 website: ""

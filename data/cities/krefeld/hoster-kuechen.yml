@@ -1,11 +1,11 @@
 id: 313064132
-type: way
+type: node
 latitude: 51.35255
 longitude: 6.53544
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 500
+street: Hülser Straße
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.hoster.kuechen.de/"
+website: https://www.hoster.kuechen.de/

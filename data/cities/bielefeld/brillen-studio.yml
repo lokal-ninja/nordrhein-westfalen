@@ -4,8 +4,8 @@ latitude: 51.96242
 longitude: 8.51991
 postcode: "33659"
 city: Bielefeld
-street: "Windelsbleicher Straße"
-housenumber: 210
-phone: "+49 521 950635"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.brillen-studio.de/"
+street: Windelsbleicher Straße
+housenumber: "210"
+phone: +49 521 950635
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00
+website: https://www.brillen-studio.de/

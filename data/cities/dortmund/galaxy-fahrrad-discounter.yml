@@ -4,8 +4,8 @@ latitude: 51.53123
 longitude: 7.4463
 postcode: "44147"
 city: Dortmund
-street: "Speicherstraße"
-housenumber: 100
+street: Speicherstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 9:00-17:00; Sa 9:00-14:00"
-website: "https://fahrradhandel-dortmund.de/"
+opening_hours: Mo-Fr 9:00-17:00; Sa 9:00-14:00
+website: https://fahrradhandel-dortmund.de/

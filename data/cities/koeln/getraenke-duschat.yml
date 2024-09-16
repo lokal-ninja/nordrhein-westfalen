@@ -1,11 +1,11 @@
 id: 260897635
-type: way
+type: node
 latitude: 50.87419
 longitude: 6.94948
 postcode: "50997"
 city: Köln
-street: "Kolberger Straße"
-housenumber: 45
+street: Kolberger Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,15:00-19:00; Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Th 09:00-13:00,15:00-19:00; Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

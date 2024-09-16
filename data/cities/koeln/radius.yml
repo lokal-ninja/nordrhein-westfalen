@@ -4,8 +4,8 @@ latitude: 50.96043
 longitude: 6.95467
 postcode: "50733"
 city: Köln
-street: "Neusser Straße"
-housenumber: 188
+street: Neusser Straße
+housenumber: "188"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-19:00; Sa 12:00-16:00; We off"
-website: "https://www.radius-koeln.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00; Sa 12:00-16:00; We off
+website: https://www.radius-koeln.de/

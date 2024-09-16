@@ -4,8 +4,8 @@ latitude: 50.77059
 longitude: 7.44966
 postcode: "53783"
 city: Eitorf
-street: "Markt"
-housenumber: 6
-phone: "+49 2243 8473605"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.dm.de/store/d3ge/eitorf/markt-6"
+street: Markt
+housenumber: "6"
+phone: +49 2243 8473605
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.dm.de/store/d3ge/eitorf/markt-6

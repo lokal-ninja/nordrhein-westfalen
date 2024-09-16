@@ -1,11 +1,11 @@
 id: 128774472
-type: way
+type: node
 latitude: 50.85766
 longitude: 7.19689
 postcode: "53842"
 city: Troisdorf
-street: "Heidegraben"
-housenumber: 1
-phone: "+49 178 5140662"
+street: Heidegraben
+housenumber: "1"
+phone: +49 178 5140662
 opening_hours: ""
-website: "https://imkerei-rosenau.de/"
+website: https://imkerei-rosenau.de/

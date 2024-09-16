@@ -1,11 +1,11 @@
 id: 434717675
-type: way
+type: node
 latitude: 51.59189
 longitude: 7.65521
 postcode: "59174"
 city: Kamen
-street: "Lünener Straße"
-housenumber: 239
+street: Lünener Straße
+housenumber: "239"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-20:30"
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-20:30
 website: ""

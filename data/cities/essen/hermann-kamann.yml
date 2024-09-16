@@ -4,8 +4,8 @@ latitude: 51.44801
 longitude: 6.98044
 postcode: "45145"
 city: Essen
-street: "Stephensonstraße"
-housenumber: 2
+street: Stephensonstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 15:00-18:30"
+opening_hours: Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 15:00-18:30
 website: ""

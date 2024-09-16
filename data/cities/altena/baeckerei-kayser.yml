@@ -4,8 +4,8 @@ latitude: 51.28478
 longitude: 7.67253
 postcode: "58762"
 city: Altena
-street: "Rahmedestraße"
-housenumber: 49
-phone: "+49 2352 333888"
-opening_hours: "Mo-Fr 06:15-20:00; Sa 06:15-16:00; Su 08:00-11:00"
-website: "http://www.baeckereikayser.de"
+street: Rahmedestraße
+housenumber: "49"
+phone: +49 2352 333888
+opening_hours: Mo-Fr 06:15-20:00; Sa 06:15-16:00; Su 08:00-11:00
+website: http://www.baeckereikayser.de

@@ -4,8 +4,8 @@ latitude: 51.93597
 longitude: 8.88255
 postcode: "32756"
 city: Detmold
-street: "Woldemarstraße"
-housenumber: 5
-phone: "+49 5231 22698"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-17:00; Sa 09:00-13:00"
-website: "http://www.bilderrahmen-detmold.de/index.php"
+street: Woldemarstraße
+housenumber: "5"
+phone: +49 5231 22698
+opening_hours: Mo-Fr 09:00-12:30,14:30-17:00; Sa 09:00-13:00
+website: http://www.bilderrahmen-detmold.de/index.php

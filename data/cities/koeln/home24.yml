@@ -1,11 +1,11 @@
 id: 35285025
-type: way
+type: node
 latitude: 50.92204
 longitude: 6.85492
 postcode: "50858"
 city: Köln
-street: "Max-Planck-Straße"
-housenumber: 7
+street: Max-Planck-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.home24.de/about/outlets-koeln/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.home24.de/about/outlets-koeln/

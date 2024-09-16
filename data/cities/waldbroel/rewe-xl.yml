@@ -1,11 +1,11 @@
 id: 323824985
-type: way
+type: node
 latitude: 50.87343
 longitude: 7.60853
 postcode: "51545"
 city: Waldbröl
-street: "Raabeweg"
-housenumber: 1
+street: Raabeweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

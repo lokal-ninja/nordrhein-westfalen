@@ -4,8 +4,8 @@ latitude: 51.52048
 longitude: 7.50903
 postcode: "44143"
 city: Dortmund
-street: "Alte Straße"
-housenumber: 59
-phone: "+49 231 95880"
-opening_hours: "Mo-Fr 13:00-18:00, Sa 10:00-14:00"
-website: "https://www.schoeler-micke.de/informationen/shop-dortmund/"
+street: Alte Straße
+housenumber: "59"
+phone: +49 231 95880
+opening_hours: Mo-Fr 13:00-18:00, Sa 10:00-14:00
+website: https://www.schoeler-micke.de/informationen/shop-dortmund/

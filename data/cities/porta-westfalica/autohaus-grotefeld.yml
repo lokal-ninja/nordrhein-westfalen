@@ -1,11 +1,11 @@
 id: 38051414
-type: way
+type: node
 latitude: 52.26067
 longitude: 8.89684
 postcode: "32457"
 city: Porta Westfalica
-street: "Erbeweg"
-housenumber: 17
-phone: "+49 571 504050"
+street: Erbeweg
+housenumber: "17"
+phone: +49 571 504050
 opening_hours: ""
-website: "https://www.autohaus-grotefeld.de/"
+website: https://www.autohaus-grotefeld.de/

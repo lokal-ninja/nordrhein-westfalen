@@ -1,11 +1,11 @@
 id: 257957767
-type: way
+type: node
 latitude: 50.8112
 longitude: 6.508
 postcode: "52351"
 city: Düren
-street: "Kölner Landstraße"
-housenumber: 265
+street: Kölner Landstraße
+housenumber: "265"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.lidl.de/

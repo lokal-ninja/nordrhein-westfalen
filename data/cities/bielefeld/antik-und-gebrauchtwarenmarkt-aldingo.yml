@@ -4,8 +4,8 @@ latitude: 52.05726
 longitude: 8.47409
 postcode: "33619"
 city: Bielefeld
-street: "Puntheide"
-housenumber: 9
-phone: "+49 521 9824750"
-opening_hours: "Mo, We 10:00-12:30, 17:00-19:00; Th 17:00-19:00; Fr 10:00-12:30"
-website: "https://www.aldingo.de/"
+street: Puntheide
+housenumber: "9"
+phone: +49 521 9824750
+opening_hours: Mo, We 10:00-12:30, 17:00-19:00; Th 17:00-19:00; Fr 10:00-12:30
+website: https://www.aldingo.de/

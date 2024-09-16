@@ -4,8 +4,8 @@ latitude: 51.15562
 longitude: 6.49103
 postcode: "41238"
 city: Mönchengladbach
-street: "Konstantinplatz"
-housenumber: 11
-phone: "+49 152 26451810"
-opening_hours: "nach Vereinbarung"
-website: "https://www.hundesalon-miriam.de"
+street: Konstantinplatz
+housenumber: "11"
+phone: +49 152 26451810
+opening_hours: '"nach Vereinbarung"'
+website: https://www.hundesalon-miriam.de

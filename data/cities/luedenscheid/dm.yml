@@ -4,8 +4,8 @@ latitude: 51.2174
 longitude: 7.65375
 postcode: "58511"
 city: Lüdenscheid
-street: "Bräuckenstraße"
-housenumber: 83
+street: Bräuckenstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su off"
-website: "https://www.dm.de"
+opening_hours: Mo-Sa 08:30-21:00; Su off
+website: https://www.dm.de

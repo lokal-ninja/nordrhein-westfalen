@@ -4,8 +4,8 @@ latitude: 51.26264
 longitude: 6.81453
 postcode: "40472"
 city: Düsseldorf
-street: "Westfalenstraße"
-housenumber: 35
-phone: "+49-211-652152"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.kodi.de/Filialfinder/KODi-DUeSSELDORF-RATH/"
+street: Westfalenstraße
+housenumber: "35"
+phone: +49-211-652152
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.kodi.de/Filialfinder/KODi-DUeSSELDORF-RATH/

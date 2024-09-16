@@ -4,8 +4,8 @@ latitude: 51.25148
 longitude: 6.32768
 postcode: "41751"
 city: Viersen
-street: "Bruchweg"
-housenumber: 27
-phone: "+49 2162 55119"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
+street: Bruchweg
+housenumber: "27"
+phone: +49 2162 55119
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
 website: ""

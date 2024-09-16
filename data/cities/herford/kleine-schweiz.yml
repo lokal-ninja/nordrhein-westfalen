@@ -4,8 +4,8 @@ latitude: 52.11344
 longitude: 8.67292
 postcode: "32052"
 city: Herford
-street: "Rennstraße"
-housenumber: 35
-phone: "+49 5221 7630334"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00; PH off"
-website: "https://www.kleineschweiz.com"
+street: Rennstraße
+housenumber: "35"
+phone: +49 5221 7630334
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-16:00; PH off
+website: https://www.kleineschweiz.com

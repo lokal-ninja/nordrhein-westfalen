@@ -4,8 +4,8 @@ latitude: 51.42087
 longitude: 7.02527
 postcode: "45134"
 city: Essen
-street: "Frankenstraße"
-housenumber: 274
-phone: "+49 201 479 500 53"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.cafedelangel.de/"
+street: Frankenstraße
+housenumber: "274"
+phone: +49 201 479 500 53
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.cafedelangel.de/

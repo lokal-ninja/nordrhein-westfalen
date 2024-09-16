@@ -4,8 +4,8 @@ latitude: 51.50512
 longitude: 7.46648
 postcode: "44139"
 city: Dortmund
-street: "Saarlandstraße"
-housenumber: 62
+street: Saarlandstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "http://www.fruchtbare-erde.de/innenstadt.htm"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: http://www.fruchtbare-erde.de/innenstadt.htm

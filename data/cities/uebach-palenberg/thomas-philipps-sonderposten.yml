@@ -1,11 +1,11 @@
 id: 1152984820
-type: way
+type: node
 latitude: 50.91853
 longitude: 6.13171
 postcode: "52531"
 city: Übach-Palenberg
-street: "Daimlerstraße"
-housenumber: 14
+street: Daimlerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/filialen/filialen/plz5/52531.html"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/filialen/filialen/plz5/52531.html

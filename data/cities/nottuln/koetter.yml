@@ -1,11 +1,11 @@
 id: 112075170
-type: way
+type: node
 latitude: 51.89621
 longitude: 7.42127
 postcode: "48301"
 city: Nottuln
-street: "Weseler Straße"
-housenumber: 26
+street: Weseler Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

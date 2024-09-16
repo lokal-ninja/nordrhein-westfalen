@@ -4,8 +4,8 @@ latitude: 51.43809
 longitude: 7.00344
 postcode: "45130"
 city: Essen
-street: "Alfredstraße"
-housenumber: 41
+street: Alfredstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:30"
-website: "https://www.facebook.com/PlatzhirschVintageMobel"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:30
+website: https://www.facebook.com/PlatzhirschVintageMobel

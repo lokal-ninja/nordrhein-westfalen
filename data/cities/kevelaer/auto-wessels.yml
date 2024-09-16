@@ -1,11 +1,11 @@
 id: 75818048
-type: way
+type: node
 latitude: 51.5788
 longitude: 6.268
 postcode: "47623"
 city: Kevelaer
-street: "Gewerbering"
+street: Gewerbering
 housenumber: 58a
-phone: "+49 170 2956933"
-opening_hours: "Mo-Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00,13:00-17:00"
-website: "https://www.auto-wessels.com/"
+phone: +49 170 2956933
+opening_hours: Mo-Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00,13:00-17:00
+website: https://www.auto-wessels.com/

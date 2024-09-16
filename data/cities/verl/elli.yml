@@ -4,8 +4,8 @@ latitude: 51.85755
 longitude: 8.56337
 postcode: "33415"
 city: Verl
-street: "Paderborner Straße"
-housenumber: 414
-phone: "+49 5246 8611"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.elli-markt.de/"
+street: Paderborner Straße
+housenumber: "414"
+phone: +49 5246 8611
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.elli-markt.de/

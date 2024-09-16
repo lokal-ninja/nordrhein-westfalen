@@ -4,8 +4,8 @@ latitude: 51.2991
 longitude: 6.85477
 postcode: "40878"
 city: Ratingen
-street: "Hochstraße"
-housenumber: 11
-phone: "+49 2102 849009"
-opening_hours: "Mo-Sa 08:00-19:30"
+street: Hochstraße
+housenumber: "11"
+phone: +49 2102 849009
+opening_hours: Mo-Sa 08:00-19:30
 website: ""

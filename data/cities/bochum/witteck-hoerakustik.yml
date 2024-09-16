@@ -4,8 +4,9 @@ latitude: 51.42585
 longitude: 7.16038
 postcode: "44879"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 830
+street: Hattinger Straße
+housenumber: "830"
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:00,14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Tu 09:00-13:00,14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,14:00-18:00;
+    Sa 10:00-13:00
 website: ""

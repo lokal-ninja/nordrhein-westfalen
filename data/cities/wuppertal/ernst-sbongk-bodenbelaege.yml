@@ -1,11 +1,11 @@
 id: 198371996
-type: way
+type: node
 latitude: 51.27514
 longitude: 7.20989
 postcode: "42275"
 city: Wuppertal
-street: "Bredde"
-housenumber: 38
+street: Bredde
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-15:00"
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-15:00
 website: ""

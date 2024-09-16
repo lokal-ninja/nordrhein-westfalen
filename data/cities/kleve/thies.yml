@@ -1,11 +1,11 @@
 id: 88659158
-type: way
+type: node
 latitude: 51.7853
 longitude: 6.13592
 postcode: "47533"
 city: Kleve
-street: "Hagsche Straße"
-housenumber: 31
+street: Hagsche Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
 website: ""

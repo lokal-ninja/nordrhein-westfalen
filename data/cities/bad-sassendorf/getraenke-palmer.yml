@@ -1,11 +1,11 @@
 id: 190300171
-type: way
+type: node
 latitude: 51.56764
 longitude: 8.21288
 postcode: "59505"
 city: Bad Sassendorf
-street: "Neuengeseker Straße"
-housenumber: 9
+street: Neuengeseker Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

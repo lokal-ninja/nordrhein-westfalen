@@ -4,8 +4,8 @@ latitude: 51.95441
 longitude: 7.63043
 postcode: "48153"
 city: Münster
-street: "Hafenstraße"
-housenumber: 29
-phone: "+49 251 85701822"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.sport-tiedje.de/sport-tiedje-in-muenster"
+street: Hafenstraße
+housenumber: "29"
+phone: +49 251 85701822
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.sport-tiedje.de/sport-tiedje-in-muenster

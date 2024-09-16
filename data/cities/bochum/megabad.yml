@@ -1,11 +1,11 @@
 id: 162074750
-type: way
+type: node
 latitude: 51.51358
 longitude: 7.21136
 postcode: "44807"
 city: Bochum
-street: "Herner Straße"
-housenumber: 408
+street: Herner Straße
+housenumber: "408"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-15:00
 website: ""

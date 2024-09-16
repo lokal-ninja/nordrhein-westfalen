@@ -4,8 +4,8 @@ latitude: 50.76206
 longitude: 7.12274
 postcode: "53225"
 city: Bonn
-street: "Siegauenstraße"
-housenumber: 6
-phone: "+49 228 4224096"
+street: Siegauenstraße
+housenumber: "6"
+phone: +49 228 4224096
 opening_hours: ""
-website: "https://www.detronic.eu/home/"
+website: https://www.detronic.eu/home/

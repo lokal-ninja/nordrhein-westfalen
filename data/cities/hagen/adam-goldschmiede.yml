@@ -4,8 +4,8 @@ latitude: 51.35946
 longitude: 7.47268
 postcode: "58095"
 city: Hagen
-street: "Sparkassen-Karree"
-housenumber: 5
-phone: "+49 2331 32957"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.adamschmuck.de"
+street: Sparkassen-Karree
+housenumber: "5"
+phone: +49 2331 32957
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.adamschmuck.de

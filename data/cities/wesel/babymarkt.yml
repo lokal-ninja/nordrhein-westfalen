@@ -1,11 +1,11 @@
 id: 310541368
-type: way
+type: node
 latitude: 51.66297
 longitude: 6.64565
 postcode: "46485"
 city: Wesel
-street: "Am Schepersfeld"
-housenumber: 48
-phone: "+49 281 2065300"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 9:30-18:00"
-website: "https://babyprofi.de"
+street: Am Schepersfeld
+housenumber: "48"
+phone: +49 281 2065300
+opening_hours: Mo-Fr 09:30-18:30; Sa 9:30-18:00
+website: https://babyprofi.de

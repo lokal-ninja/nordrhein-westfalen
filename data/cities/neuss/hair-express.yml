@@ -4,8 +4,8 @@ latitude: 51.21268
 longitude: 6.68261
 postcode: "41462"
 city: Neuss
-street: "Römerstraße"
-housenumber: 120
-phone: "+49 2131 3837775"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Römerstraße
+housenumber: "120"
+phone: +49 2131 3837775
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

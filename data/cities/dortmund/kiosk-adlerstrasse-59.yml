@@ -4,8 +4,8 @@ latitude: 51.51159
 longitude: 7.44144
 postcode: "44137"
 city: Dortmund
-street: "Adlerstraße"
-housenumber: 59
+street: Adlerstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:30; Sa 08:00-23:30; PH,Su 09:00-23:30"
+opening_hours: Mo-Fr 06:00-23:30; Sa 08:00-23:30; PH,Su 09:00-23:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.77844
 longitude: 6.16039
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 177
-phone: "+49 241 550095"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off"
-website: "https://www.euregioreisecenter.de/"
+street: Von-Coels-Straße
+housenumber: "177"
+phone: +49 241 550095
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off
+website: https://www.euregioreisecenter.de/

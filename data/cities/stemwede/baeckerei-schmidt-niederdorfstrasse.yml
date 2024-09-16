@@ -4,8 +4,8 @@ latitude: 52.3851
 longitude: 8.44865
 postcode: "32351"
 city: Stemwede
-street: "Niederdorfstraße"
-housenumber: 7
-phone: "+49 5745 1565"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-12:00"
-website: "https://www.baeckerei-schmidt.de/filialen"
+street: Niederdorfstraße
+housenumber: "7"
+phone: +49 5745 1565
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-12:00
+website: https://www.baeckerei-schmidt.de/filialen

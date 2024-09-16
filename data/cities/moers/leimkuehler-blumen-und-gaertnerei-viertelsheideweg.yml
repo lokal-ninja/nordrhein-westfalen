@@ -1,11 +1,11 @@
 id: 112506990
-type: way
+type: node
 latitude: 51.4017
 longitude: 6.6342
 postcode: "47447"
 city: Moers
-street: "Viertelsheideweg"
-housenumber: 71
-phone: "+49 2841 61420"
-opening_hours: "Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00"
+street: Viertelsheideweg
+housenumber: "71"
+phone: +49 2841 61420
+opening_hours: Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

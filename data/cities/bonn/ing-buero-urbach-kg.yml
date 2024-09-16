@@ -1,11 +1,11 @@
 id: 135231991
-type: way
+type: node
 latitude: 50.73949
 longitude: 7.07639
 postcode: "53119"
 city: Bonn
-street: "Bornheimer Straße"
-housenumber: 141
+street: Bornheimer Straße
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-gutachter-urbach.de/"
+website: https://www.kfz-gutachter-urbach.de/

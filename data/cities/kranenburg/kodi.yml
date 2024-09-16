@@ -1,11 +1,11 @@
 id: 254560864
-type: way
+type: node
 latitude: 51.7893
 longitude: 6.01221
 postcode: "47559"
 city: Kranenburg
-street: "Großen Haag"
-housenumber: 4
-phone: "+49 2826 992692"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.kodi.de/"
+street: Großen Haag
+housenumber: "4"
+phone: +49 2826 992692
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.kodi.de/

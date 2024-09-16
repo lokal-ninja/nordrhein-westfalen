@@ -1,11 +1,11 @@
 id: 179193838
-type: way
+type: node
 latitude: 51.37476
 longitude: 7.73701
 postcode: "58636"
 city: Iserlohn
-street: "Corunnastraße"
-housenumber: 11
+street: Corunnastraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

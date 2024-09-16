@@ -1,11 +1,11 @@
 id: 150592135
-type: way
+type: node
 latitude: 50.6573
 longitude: 7.21268
 postcode: "53604"
 city: Bad Honnef
-street: "Rhöndorfer Straße"
-housenumber: 40
-phone: "+49 2224 1874580"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Rhöndorfer Straße
+housenumber: "40"
+phone: +49 2224 1874580
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

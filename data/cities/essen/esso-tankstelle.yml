@@ -1,11 +1,11 @@
 id: 106449047
-type: way
+type: node
 latitude: 51.45861
 longitude: 7.07364
 postcode: "45307"
 city: Essen
-street: "Am Zehnthof"
-housenumber: 204
+street: Am Zehnthof
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

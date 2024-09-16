@@ -1,11 +1,11 @@
 id: 181307968
-type: way
+type: node
 latitude: 52.29448
 longitude: 7.65981
 postcode: "49479"
 city: Ibbenbüren
-street: "Roßlauer Straße"
-housenumber: 11
+street: Roßlauer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

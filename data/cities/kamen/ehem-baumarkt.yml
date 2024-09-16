@@ -1,11 +1,11 @@
 id: 96824320
-type: way
+type: node
 latitude: 51.58451
 longitude: 7.6671
 postcode: "59174"
 city: Kamen
-street: "Henry-Everling-Straße"
-housenumber: 10
+street: Henry-Everling-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.65468
 longitude: 6.37695
 postcode: ""
 city: Simmerath
-street: "Gerstenhof"
-housenumber: 1
-phone: "+49 2474 6215"
-opening_hours: "24/7"
+street: Gerstenhof
+housenumber: "1"
+phone: +49 2474 6215
+opening_hours: 24/7
 website: ""

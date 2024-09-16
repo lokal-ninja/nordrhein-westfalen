@@ -4,8 +4,8 @@ latitude: 52.01705
 longitude: 8.56045
 postcode: "33604"
 city: Bielefeld
-street: "Spindelstraße"
-housenumber: 92
-phone: "+49 521 2607828"
-opening_hours: "Tu-Fr 09:00-18:00"
+street: Spindelstraße
+housenumber: "92"
+phone: +49 521 2607828
+opening_hours: Tu-Fr 09:00-18:00
 website: ""

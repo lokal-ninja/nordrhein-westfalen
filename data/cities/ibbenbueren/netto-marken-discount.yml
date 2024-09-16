@@ -1,11 +1,11 @@
 id: 195557032
-type: way
+type: node
 latitude: 52.27086
 longitude: 7.78863
 postcode: "49479"
 city: Ibbenbüren
-street: "Mettinger Straße"
-housenumber: 63
+street: Mettinger Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

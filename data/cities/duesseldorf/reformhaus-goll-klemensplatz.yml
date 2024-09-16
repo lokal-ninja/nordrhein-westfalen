@@ -4,8 +4,8 @@ latitude: 51.30099
 longitude: 6.73846
 postcode: "40489"
 city: Düsseldorf
-street: "Klemensplatz"
-housenumber: 1
-phone: "+49 211 4059557"
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-14:00"
-website: "https://reformhaus-goll.de"
+street: Klemensplatz
+housenumber: "1"
+phone: +49 211 4059557
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:30-14:00
+website: https://reformhaus-goll.de

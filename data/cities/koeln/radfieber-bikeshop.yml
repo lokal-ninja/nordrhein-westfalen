@@ -4,8 +4,8 @@ latitude: 50.94132
 longitude: 6.93566
 postcode: "50672"
 city: Köln
-street: "Bismarckstraße"
-housenumber: 31
+street: Bismarckstraße
+housenumber: "31"
 phone: "+492215107574"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.radfieber.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.radfieber.de/

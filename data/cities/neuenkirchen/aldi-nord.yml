@@ -1,11 +1,11 @@
 id: 1189742331
-type: way
+type: node
 latitude: 52.2421
 longitude: 7.36965
 postcode: "48485"
 city: Neuenkirchen
-street: "Industriestraße"
-housenumber: 19
+street: Industriestraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

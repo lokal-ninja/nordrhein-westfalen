@@ -4,8 +4,8 @@ latitude: 51.5469
 longitude: 7.24128
 postcode: "44628"
 city: Herne
-street: "Am Trimbuschhof"
-housenumber: 14
-phone: "+49 2323 10979"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-16:30; Sa 09:00-12:00"
-website: "https://www.evergreen-herne.de/"
+street: Am Trimbuschhof
+housenumber: "14"
+phone: +49 2323 10979
+opening_hours: Mo-Fr 07:30-12:00,13:00-16:30; Sa 09:00-12:00
+website: https://www.evergreen-herne.de/

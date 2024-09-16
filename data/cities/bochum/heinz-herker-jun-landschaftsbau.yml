@@ -4,8 +4,9 @@ latitude: 51.44988
 longitude: 7.21439
 postcode: "44795"
 city: Bochum
-street: "Prinz-Regent-Straße"
-housenumber: 74
-phone: "+49 234 9489471"
-opening_hours: "Mar-Oct: Mo-Fr 9:30-17:00, Sa 9:30-16:00; Nov-Feb: Mo-Fr 9:30-16:00; Jun 17-Sep 16: Sa off; PH off"
-website: "https://www.herker-bochum.de/"
+street: Prinz-Regent-Straße
+housenumber: "74"
+phone: +49 234 9489471
+opening_hours: 'Mar-Oct: Mo-Fr 9:30-17:00, Sa 9:30-16:00; Nov-Feb: Mo-Fr 9:30-16:00;
+    Jun 17-Sep 16: Sa off; PH off'
+website: https://www.herker-bochum.de/

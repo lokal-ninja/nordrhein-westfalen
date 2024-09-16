@@ -1,11 +1,11 @@
 id: 1105899544
-type: way
+type: node
 latitude: 51.2111
 longitude: 6.7347
 postcode: "40221"
 city: Düsseldorf
-street: "Fringsstraße"
-housenumber: 13
-phone: "+49 211 159 20960"
-opening_hours: "06:00-22:00"
-website: "https://www.lager-king.de/"
+street: Fringsstraße
+housenumber: "13"
+phone: +49 211 159 20960
+opening_hours: 06:00-22:00
+website: https://www.lager-king.de/

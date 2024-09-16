@@ -1,11 +1,11 @@
 id: 207811145
-type: way
+type: node
 latitude: 51.73499
 longitude: 8.76771
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 118
+street: Detmolder Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa off"
-website: "https://vergoelst.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa off
+website: https://vergoelst.de/

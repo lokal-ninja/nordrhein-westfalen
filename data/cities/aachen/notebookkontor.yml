@@ -4,8 +4,8 @@ latitude: 50.75852
 longitude: 6.06245
 postcode: "52074"
 city: Aachen
-street: "Lütticher Straße"
-housenumber: 238
-phone: "+49 241 9900640"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.notebookkontor.de/"
+street: Lütticher Straße
+housenumber: "238"
+phone: +49 241 9900640
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.notebookkontor.de/

@@ -1,11 +1,11 @@
 id: 31624788
-type: way
+type: node
 latitude: 50.71017
 longitude: 7.06247
 postcode: "53127"
 city: Bonn
-street: "Auf dem Kirchbüchel"
-housenumber: 10
+street: Auf dem Kirchbüchel
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bonn/auf-dem-kirchbuechel-10"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bonn/auf-dem-kirchbuechel-10

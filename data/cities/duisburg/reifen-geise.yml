@@ -1,11 +1,11 @@
 id: 52040837
-type: way
+type: node
 latitude: 51.39687
 longitude: 6.75216
 postcode: "47055"
 city: Duisburg
-street: "Forststraße"
-housenumber: 19
+street: Forststraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-11:45"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-11:45
 website: ""

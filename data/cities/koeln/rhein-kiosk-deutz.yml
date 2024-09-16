@@ -4,8 +4,8 @@ latitude: 50.9359
 longitude: 6.97122
 postcode: "50679"
 city: Köln
-street: "Siegburger Straße"
+street: Siegburger Straße
 housenumber: 25-27
-phone: "+49 221 29726875"
-opening_hours: "Mo-Th 10:00-24:00; Fr-Sa 10:00-02:00, Su 09:00-24:00"
-website: "http://kiosk-deutz.de/uber-uns"
+phone: +49 221 29726875
+opening_hours: Mo-Th 10:00-24:00; Fr-Sa 10:00-02:00, Su 09:00-24:00
+website: http://kiosk-deutz.de/uber-uns

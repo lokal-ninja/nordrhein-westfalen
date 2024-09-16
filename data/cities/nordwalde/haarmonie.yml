@@ -1,11 +1,11 @@
 id: 35588653
-type: way
+type: node
 latitude: 52.07529
 longitude: 7.46586
 postcode: "48356"
 city: Nordwalde
-street: "Wallgraben"
-housenumber: 34
+street: Wallgraben
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

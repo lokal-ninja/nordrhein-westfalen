@@ -1,11 +1,11 @@
 id: 82055304
-type: way
+type: node
 latitude: 52.21137
 longitude: 7.19208
 postcode: "48607"
 city: Ochtrup
-street: "Laurenzstraße"
-housenumber: 13
+street: Laurenzstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 168208966
-type: way
+type: node
 latitude: 50.66743
 longitude: 6.78774
 postcode: "53879"
 city: Euskirchen
-street: "Kessenicher Straße"
-housenumber: 116
+street: Kessenicher Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

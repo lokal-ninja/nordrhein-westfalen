@@ -1,11 +1,11 @@
 id: 1006024665
-type: way
+type: node
 latitude: 51.5037
 longitude: 7.38224
 postcode: "44379"
 city: Dortmund
-street: "Overhoffstraße"
-housenumber: 38
+street: Overhoffstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.transgourmet.de/"
+website: https://www.transgourmet.de/

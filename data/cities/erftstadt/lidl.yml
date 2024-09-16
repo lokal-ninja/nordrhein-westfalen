@@ -1,11 +1,11 @@
 id: 89567993
-type: way
+type: node
 latitude: 50.80005
 longitude: 6.76024
 postcode: "50374"
 city: Erftstadt
-street: "Herriger Straße"
-housenumber: 29
+street: Herriger Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

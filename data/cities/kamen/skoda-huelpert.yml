@@ -1,11 +1,11 @@
 id: 47089582
-type: way
+type: node
 latitude: 51.60115
 longitude: 7.64764
 postcode: "59174"
 city: Kamen
-street: "Bergkamener Straße"
-housenumber: 80
+street: Bergkamener Straße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

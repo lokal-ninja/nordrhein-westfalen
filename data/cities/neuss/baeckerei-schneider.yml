@@ -4,8 +4,8 @@ latitude: 51.16706
 longitude: 6.66384
 postcode: "41472"
 city: Neuss
-street: "Bahnhofstraße"
-housenumber: 15
-phone: "+49 2131 4026773"
-opening_hours: "Mo-Sa 07:30-20:00; Su 07:30-11:00"
+street: Bahnhofstraße
+housenumber: "15"
+phone: +49 2131 4026773
+opening_hours: Mo-Sa 07:30-20:00; Su 07:30-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 326265796
-type: way
+type: node
 latitude: 50.71149
 longitude: 7.03321
 postcode: "53123"
 city: Bonn
-street: "Europaring"
-housenumber: 84
+street: Europaring
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30,14:30-18:30, Sa 06:30-13:00"
+opening_hours: Mo-Fr 06:30-12:30,14:30-18:30, Sa 06:30-13:00
 website: ""

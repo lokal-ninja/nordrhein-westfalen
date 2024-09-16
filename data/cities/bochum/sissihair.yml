@@ -4,8 +4,8 @@ latitude: 51.46647
 longitude: 7.20553
 postcode: "44795"
 city: Bochum
-street: "An der Landwehr"
-housenumber: 7
+street: An der Landwehr
+housenumber: "7"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

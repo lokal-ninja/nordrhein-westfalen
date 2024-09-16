@@ -4,8 +4,8 @@ latitude: 51.50329
 longitude: 7.45514
 postcode: "44139"
 city: Dortmund
-street: "Liebigstraße"
-housenumber: 48
+street: Liebigstraße
+housenumber: "48"
 phone: "+49231124861"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.optik-averbeck.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.optik-averbeck.de/

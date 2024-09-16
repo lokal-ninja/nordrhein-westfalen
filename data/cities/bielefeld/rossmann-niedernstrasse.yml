@@ -1,11 +1,11 @@
 id: 413364464
-type: way
+type: node
 latitude: 52.02231
 longitude: 8.5324
 postcode: "33602"
 city: Bielefeld
-street: "Niedernstraße"
-housenumber: 26
+street: Niedernstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

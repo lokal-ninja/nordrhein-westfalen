@@ -4,8 +4,8 @@ latitude: 50.73572
 longitude: 7.09978
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 35
-phone: "+49 800 72 42 007"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.misterspex.de/stores"
+street: Sternstraße
+housenumber: "35"
+phone: +49 800 72 42 007
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.misterspex.de/stores

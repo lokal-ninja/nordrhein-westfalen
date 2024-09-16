@@ -1,11 +1,11 @@
 id: 68523855
-type: way
+type: node
 latitude: 51.72685
 longitude: 7.02669
 postcode: "46286"
 city: Dorsten
 street: ""
-housenumber: 
-phone: "+49 2369 915866"
-opening_hours: "Auf Anfrage"
+housenumber: ""
+phone: +49 2369 915866
+opening_hours: '"Auf Anfrage"'
 website: ""

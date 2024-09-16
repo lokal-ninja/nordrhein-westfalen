@@ -1,11 +1,11 @@
 id: 683685212
-type: way
+type: node
 latitude: 51.61456
 longitude: 8.35319
 postcode: "59597"
 city: Erwitte
-street: "Hellweg"
-housenumber: 75
-phone: "+49 2943 870200"
+street: Hellweg
+housenumber: "75"
+phone: +49 2943 870200
 opening_hours: ""
-website: "https://www.autohaus-reckhaus.de"
+website: https://www.autohaus-reckhaus.de

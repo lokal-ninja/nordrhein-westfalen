@@ -1,11 +1,11 @@
 id: 110726719
-type: way
+type: node
 latitude: 50.73189
 longitude: 7.07974
 postcode: "53115"
 city: Bonn
-street: "Endenicher Straße"
-housenumber: 116
+street: Endenicher Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/filialen/bonn/endenich-endenicher-str-116.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/filialen/bonn/endenich-endenicher-str-116.html

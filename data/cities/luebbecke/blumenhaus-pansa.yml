@@ -4,8 +4,8 @@ latitude: 52.31229
 longitude: 8.60425
 postcode: "32312"
 city: Lübbecke
-street: "Alsweder Straße"
-housenumber: 46
-phone: "+49 5741 7533"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-13:00; Su 10:30-12:00"
-website: "http://www.blumenhaus-pansa.de/"
+street: Alsweder Straße
+housenumber: "46"
+phone: +49 5741 7533
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-13:00; Su 10:30-12:00
+website: http://www.blumenhaus-pansa.de/

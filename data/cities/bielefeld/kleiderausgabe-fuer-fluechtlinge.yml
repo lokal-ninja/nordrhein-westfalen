@@ -4,8 +4,8 @@ latitude: 52.02517
 longitude: 8.53971
 postcode: "33602"
 city: Bielefeld
-street: "August-Bebel-Straße"
-housenumber: 82
+street: August-Bebel-Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Su[1],Su[3] 14:30-16:30"
+opening_hours: Su[1],Su[3] 14:30-16:30
 website: ""

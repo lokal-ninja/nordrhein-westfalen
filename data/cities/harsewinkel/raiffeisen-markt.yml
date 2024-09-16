@@ -1,11 +1,11 @@
 id: 51857685
-type: way
+type: node
 latitude: 51.96138
 longitude: 8.23182
 postcode: "33428"
 city: Harsewinkel
-street: "Theo-Claas-Damm"
+street: Theo-Claas-Damm
 housenumber: 5A
-phone: "+49 5247 2385"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
+phone: +49 5247 2385
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
 website: ""

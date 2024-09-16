@@ -1,11 +1,11 @@
 id: 291590394
-type: way
+type: node
 latitude: 51.81511
 longitude: 7.5978
 postcode: "59387"
 city: Ascheberg
-street: "Burgstraße"
-housenumber: 1
+street: Burgstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.standuhren-bolle.de/"
+website: http://www.standuhren-bolle.de/

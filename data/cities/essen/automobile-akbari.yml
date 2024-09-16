@@ -1,11 +1,11 @@
 id: 30127393
-type: way
+type: node
 latitude: 51.47661
 longitude: 6.98375
 postcode: "45356"
 city: Essen
-street: "Bottroper Straße"
-housenumber: 106
+street: Bottroper Straße
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "http://www.automobile-akbari.de/"
+website: http://www.automobile-akbari.de/

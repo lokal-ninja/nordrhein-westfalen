@@ -4,8 +4,8 @@ latitude: 50.96972
 longitude: 7.00762
 postcode: "51063"
 city: Köln
-street: "Berliner Straße"
-housenumber: 12
+street: Berliner Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.harbeke.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.harbeke.de/

@@ -1,11 +1,11 @@
 id: 40774656
-type: way
+type: node
 latitude: 50.76331
 longitude: 6.07663
 postcode: "52064"
 city: Aachen
-street: "Schillerstraße"
-housenumber: 20
+street: Schillerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://edeka-vieler.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://edeka-vieler.de

@@ -4,8 +4,8 @@ latitude: 52.26206
 longitude: 8.89931
 postcode: "32457"
 city: Porta Westfalica
-street: "Flurweg"
-housenumber: 11
+street: Flurweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://vodafone-porta.de/"
+website: https://vodafone-porta.de/

@@ -1,11 +1,11 @@
 id: 1089492647
-type: way
+type: node
 latitude: 51.65867
 longitude: 8.36389
 postcode: "59557"
 city: Lippstadt
-street: "Welserstraße"
-housenumber: 1
+street: Welserstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

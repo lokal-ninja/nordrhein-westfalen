@@ -4,8 +4,9 @@ latitude: 51.42652
 longitude: 6.79344
 postcode: "47057"
 city: Duisburg
-street: "Gneisenaustraße"
-housenumber: 212
+street: Gneisenaustraße
+housenumber: "212"
 phone: ""
-opening_hours: "Tu,Th 09:00-19:00; We 09:00-14:00; Fr 09:00-18:00; Sa 09:00-15:00; PH off"
+opening_hours: Tu,Th 09:00-19:00; We 09:00-14:00; Fr 09:00-18:00; Sa 09:00-15:00;
+    PH off
 website: ""

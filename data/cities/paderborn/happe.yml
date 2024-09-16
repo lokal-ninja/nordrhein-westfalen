@@ -1,11 +1,11 @@
 id: 206052166
-type: way
+type: node
 latitude: 51.73584
 longitude: 8.78124
 postcode: "33100"
 city: Paderborn
-street: "Otto-Stadler-Straße"
-housenumber: 4
+street: Otto-Stadler-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

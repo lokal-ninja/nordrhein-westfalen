@@ -1,11 +1,12 @@
 id: 163130959
-type: way
+type: node
 latitude: 50.63733
 longitude: 6.81364
 postcode: "53881"
 city: Euskirchen
-street: "Im Mühlenfeld"
+street: Im Mühlenfeld
 housenumber: 22-28
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00 Raiffeisen-Markt; Mo-Fr 08:00-18:00; Sa 08:00-13:00 Agrarprodukte, Energie, Raiffeisen-Bauzentrum und Lager"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00 "Raiffeisen-Markt"; Mo-Fr 08:00-18:00;
+    Sa 08:00-13:00 "Agrarprodukte, Energie, Raiffeisen-Bauzentrum und Lager"
 website: ""

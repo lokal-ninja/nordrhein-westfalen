@@ -4,8 +4,8 @@ latitude: 51.70846
 longitude: 8.78037
 postcode: "33100"
 city: Paderborn
-street: "Im Lichtenfelde"
-housenumber: 4
-phone: "+49 5251 61873"
-opening_hours: "Tu,Fr 08:30-18:00; Sa 08:00-14:00"
-website: "https://www.birgit-tillmann.de/"
+street: Im Lichtenfelde
+housenumber: "4"
+phone: +49 5251 61873
+opening_hours: Tu,Fr 08:30-18:00; Sa 08:00-14:00
+website: https://www.birgit-tillmann.de/

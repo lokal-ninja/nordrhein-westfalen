@@ -4,8 +4,8 @@ latitude: 51.44173
 longitude: 7.21438
 postcode: "44795"
 city: Bochum
-street: "Markstraße"
-housenumber: 402
-phone: "+49 234 53034222"
-opening_hours: "Mo-Fr 9:00-13:00, 15:00-18:00; Sa 9:00-13:00; PH off"
-website: "https://www.palmingo.com/"
+street: Markstraße
+housenumber: "402"
+phone: +49 234 53034222
+opening_hours: Mo-Fr 9:00-13:00, 15:00-18:00; Sa 9:00-13:00; PH off
+website: https://www.palmingo.com/

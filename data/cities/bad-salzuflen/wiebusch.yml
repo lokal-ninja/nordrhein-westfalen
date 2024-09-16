@@ -1,11 +1,11 @@
 id: 116391718
-type: way
+type: node
 latitude: 52.07193
 longitude: 8.76028
 postcode: "32108"
 city: Bad Salzuflen
-street: "Heldmanstraße"
-housenumber: 12
+street: Heldmanstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 05:00-12:45,14:30-18:00; We 05:00-12:45; Sa 05:00-12:00; Su 07:30-11:00"
+opening_hours: Mo-Fr 05:00-12:45,14:30-18:00; We 05:00-12:45; Sa 05:00-12:00; Su 07:30-11:00
 website: ""

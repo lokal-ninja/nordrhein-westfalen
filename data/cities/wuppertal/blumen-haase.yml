@@ -1,11 +1,11 @@
 id: 328633135
-type: way
+type: node
 latitude: 51.25636
 longitude: 7.14
 postcode: "42103"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
+street: Friedrich-Ebert-Straße
 housenumber: 16b
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-15:00
 website: ""

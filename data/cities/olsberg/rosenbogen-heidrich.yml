@@ -1,11 +1,11 @@
 id: 180270250
-type: way
+type: node
 latitude: 51.32096
 longitude: 8.53056
 postcode: "59939"
 city: Olsberg
-street: "Gaugreben'scher Weg"
-housenumber: 1
+street: Gaugreben'scher Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.rosenbogen-heidrich.de/"
+website: https://www.rosenbogen-heidrich.de/

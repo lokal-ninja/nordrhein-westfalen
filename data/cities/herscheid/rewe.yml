@@ -1,11 +1,11 @@
 id: 292732547
-type: way
+type: node
 latitude: 51.17799
 longitude: 7.74589
 postcode: "58849"
 city: Herscheid
-street: "Neuer Weg"
+street: Neuer Weg
 housenumber: 11-11c
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/herscheid/320186/rewe-markt-neuer-weg-12/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/herscheid/320186/rewe-markt-neuer-weg-12/

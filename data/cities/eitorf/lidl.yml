@@ -1,11 +1,11 @@
 id: 970316662
-type: way
+type: node
 latitude: 50.77335
 longitude: 7.46365
 postcode: "53783"
 city: Eitorf
-street: "Siegstraße"
-housenumber: 125
+street: Siegstraße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

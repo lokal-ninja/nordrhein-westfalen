@@ -1,11 +1,11 @@
 id: 101155870
-type: way
+type: node
 latitude: 51.17581
 longitude: 6.64127
 postcode: "41472"
 city: Neuss
-street: "Lanzerather Straße"
-housenumber: 29
-phone: "+49 2131 80637"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.blumenhof-bakker.de/"
+street: Lanzerather Straße
+housenumber: "29"
+phone: +49 2131 80637
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.blumenhof-bakker.de/

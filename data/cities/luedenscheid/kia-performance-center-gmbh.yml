@@ -1,11 +1,11 @@
 id: 1004072364
-type: way
+type: node
 latitude: 51.23475
 longitude: 7.61031
 postcode: "58509"
 city: Lüdenscheid
-street: "Grebbecker Weg"
-housenumber: 5
+street: Grebbecker Weg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su off
 website: ""

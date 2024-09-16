@@ -1,11 +1,11 @@
 id: 56181178
-type: way
+type: node
 latitude: 51.51286
 longitude: 7.61525
 postcode: "59439"
 city: Holzwickede
-street: "Gottlieb-Daimler-Straße"
-housenumber: 1
+street: Gottlieb-Daimler-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 321104523
-type: way
+type: node
 latitude: 50.71131
 longitude: 7.2774
 postcode: "53639"
 city: Königswinter
-street: "Siegburger Straße"
-housenumber: 37
+street: Siegburger Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

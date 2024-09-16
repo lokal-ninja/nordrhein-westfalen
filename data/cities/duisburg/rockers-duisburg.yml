@@ -1,11 +1,11 @@
 id: 160705861
-type: way
+type: node
 latitude: 51.43132
 longitude: 6.79537
 postcode: "47057"
 city: Duisburg
-street: "Sternbuschweg"
-housenumber: 37
-phone: "+49 203 3461010"
-opening_hours: "Mo-Fr 10:00-14:00,15:00-19:00; Sa 10:00-14:00; PH off"
-website: "https://rockers-duisburg.de/"
+street: Sternbuschweg
+housenumber: "37"
+phone: +49 203 3461010
+opening_hours: Mo-Fr 10:00-14:00,15:00-19:00; Sa 10:00-14:00; PH off
+website: https://rockers-duisburg.de/

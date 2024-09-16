@@ -4,8 +4,8 @@ latitude: 50.78115
 longitude: 6.15029
 postcode: "52080"
 city: Aachen
-street: "Kaiserstraße"
-housenumber: 56
+street: Kaiserstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 06:00-14:00; Sa 06:00-13:00; Su 08:00-11:00"
-website: "https://leo-der-baecker.de/"
+opening_hours: Mo-Fr 06:00-14:00; Sa 06:00-13:00; Su 08:00-11:00
+website: https://leo-der-baecker.de/

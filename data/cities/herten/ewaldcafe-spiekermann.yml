@@ -1,11 +1,11 @@
 id: 103065861
-type: way
+type: node
 latitude: 51.57137
 longitude: 7.14517
 postcode: "45699"
 city: Herten
-street: "Doncaster-Platz"
-housenumber: 2
-phone: "+49 2366 502844"
-opening_hours: "Mo-Sa 05:30-19:00; Su,PH 08:00-18:00"
-website: "https://www.ewald-cafe.de/"
+street: Doncaster-Platz
+housenumber: "2"
+phone: +49 2366 502844
+opening_hours: Mo-Sa 05:30-19:00; Su,PH 08:00-18:00
+website: https://www.ewald-cafe.de/

@@ -1,11 +1,11 @@
 id: 1300248505
-type: way
+type: node
 latitude: 51.11836
 longitude: 6.96315
 postcode: "40764"
 city: Langenfeld (Rheinland)
-street: "Kronprinzstraße"
-housenumber: 2
+street: Kronprinzstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.omega-nutzfahrzeuge.eu/"
+website: https://www.omega-nutzfahrzeuge.eu/

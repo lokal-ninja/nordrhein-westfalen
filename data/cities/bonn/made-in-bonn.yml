@@ -4,8 +4,9 @@ latitude: 50.73888
 longitude: 7.09094
 postcode: "53111"
 city: Bonn
-street: "Vorgebirgsstraße"
-housenumber: 3
-phone: "+49 151 20116272"
-opening_hours: "Mo 16:30-18:30,19:00-21:00; Tu 17:00-19:00,19:00-21:00; Th 19:00-21:00; We,Fr-Su,PH off || Mo-Tu,Th 16:30-21:00 open nach Vereinbarung"
-website: "https://www.made-in-bonn.de"
+street: Vorgebirgsstraße
+housenumber: "3"
+phone: +49 151 20116272
+opening_hours: Mo 16:30-18:30,19:00-21:00; Tu 17:00-19:00,19:00-21:00; Th 19:00-21:00;
+    We,Fr-Su,PH off || Mo-Tu,Th 16:30-21:00 open "nach Vereinbarung"
+website: https://www.made-in-bonn.de

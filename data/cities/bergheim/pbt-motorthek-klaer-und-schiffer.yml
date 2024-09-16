@@ -1,11 +1,11 @@
 id: 319328883
-type: way
+type: node
 latitude: 50.94725
 longitude: 6.62416
 postcode: "50126"
 city: Bergheim
-street: "Heisenbergstraße"
-housenumber: 19
+street: Heisenbergstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "https://www.pbt-motorthek.de/de"
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: https://www.pbt-motorthek.de/de

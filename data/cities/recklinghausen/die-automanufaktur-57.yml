@@ -4,8 +4,8 @@ latitude: 51.61193
 longitude: 7.17769
 postcode: "45659"
 city: Recklinghausen
-street: "Westring"
-housenumber: 57
-phone: "+49 2361 8487109"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "http://www.die-automanufaktur-57.de/"
+street: Westring
+housenumber: "57"
+phone: +49 2361 8487109
+opening_hours: Mo-Sa 08:00-19:00
+website: http://www.die-automanufaktur-57.de/

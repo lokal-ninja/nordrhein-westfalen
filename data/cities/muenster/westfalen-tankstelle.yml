@@ -4,8 +4,8 @@ latitude: 51.96902
 longitude: 7.6557
 postcode: "48145"
 city: Münster
-street: "Schifffahrter Damm"
-housenumber: 29
+street: Schifffahrter Damm
+housenumber: "29"
 phone: "+49251232904"
-opening_hours: "24/7"
-website: "https://www.westfalen-tankstellen.de/"
+opening_hours: 24/7
+website: https://www.westfalen-tankstellen.de/

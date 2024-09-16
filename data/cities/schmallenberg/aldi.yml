@@ -1,11 +1,11 @@
 id: 250661416
-type: way
+type: node
 latitude: 51.15805
 longitude: 8.29188
 postcode: "57392"
 city: Schmallenberg
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 42a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/schmallenberg/bahnhofstr-42-a.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/schmallenberg/bahnhofstr-42-a.html

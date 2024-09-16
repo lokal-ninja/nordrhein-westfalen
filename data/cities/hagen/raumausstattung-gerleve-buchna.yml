@@ -4,8 +4,8 @@ latitude: 51.35748
 longitude: 7.4791
 postcode: "58097"
 city: Hagen
-street: "Märkischer Ring"
-housenumber: 105
-phone: "+49 2331 332071"
-opening_hours: "nach Vereinbarung"
-website: "https://gerleve-buchna.de/"
+street: Märkischer Ring
+housenumber: "105"
+phone: +49 2331 332071
+opening_hours: '"nach Vereinbarung"'
+website: https://gerleve-buchna.de/

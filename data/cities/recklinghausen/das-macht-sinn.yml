@@ -4,8 +4,8 @@ latitude: 51.61382
 longitude: 7.19774
 postcode: "45657"
 city: Recklinghausen
-street: "Breite Straße"
-housenumber: 2
-phone: "+49 2361 904600"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-20:00"
-website: "https://sinnleffers.de"
+street: Breite Straße
+housenumber: "2"
+phone: +49 2361 904600
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-20:00
+website: https://sinnleffers.de

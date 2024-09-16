@@ -1,11 +1,11 @@
 id: 247001362
-type: way
+type: node
 latitude: 52.07898
 longitude: 7.45792
 postcode: "48356"
 city: Nordwalde
-street: "An den Bahngleisen"
-housenumber: 2
+street: An den Bahngleisen
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-lemper.de/"
+website: https://www.auto-lemper.de/

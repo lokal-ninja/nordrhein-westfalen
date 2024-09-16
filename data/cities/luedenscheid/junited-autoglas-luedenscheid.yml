@@ -1,11 +1,11 @@
 id: 284606783
-type: way
+type: node
 latitude: 51.21418
 longitude: 7.56423
 postcode: "58515"
 city: Lüdenscheid
-street: "Volmestraße"
-housenumber: 143
-phone: "+49 2351 9818010"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00; Su off"
+street: Volmestraße
+housenumber: "143"
+phone: +49 2351 9818010
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00; Su off
 website: ""

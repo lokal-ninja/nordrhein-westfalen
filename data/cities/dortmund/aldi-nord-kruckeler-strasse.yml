@@ -1,11 +1,11 @@
 id: 53842472
-type: way
+type: node
 latitude: 51.45768
 longitude: 7.41399
 postcode: "44227"
 city: Dortmund
-street: "Kruckeler Straße"
-housenumber: 266
+street: Kruckeler Straße
+housenumber: "266"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

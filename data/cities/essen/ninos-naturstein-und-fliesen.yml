@@ -1,11 +1,11 @@
 id: 276459203
-type: way
+type: node
 latitude: 51.4697
 longitude: 7.04347
 postcode: "45141"
 city: Essen
-street: "Helfenbergweg"
-housenumber: 14
+street: Helfenbergweg
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 12:00-17:00; Su,Mo off"
-website: "https://www.ninos-naturstein.com/de/service/standorte-vertriebspartner/"
+opening_hours: Tu-Sa 12:00-17:00; Su,Mo off
+website: https://www.ninos-naturstein.com/de/service/standorte-vertriebspartner/

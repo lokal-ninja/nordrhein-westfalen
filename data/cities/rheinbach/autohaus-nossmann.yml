@@ -1,11 +1,11 @@
 id: 96913657
-type: way
+type: node
 latitude: 50.62616
 longitude: 6.96399
 postcode: "53359"
 city: Rheinbach
-street: "Kleine Heeg"
-housenumber: 36
-phone: "+49 2226 92100"
+street: Kleine Heeg
+housenumber: "36"
+phone: +49 2226 92100
 opening_hours: ""
-website: "http://www.opel-nossmann.de"
+website: http://www.opel-nossmann.de

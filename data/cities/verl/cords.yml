@@ -4,8 +4,8 @@ latitude: 51.88226
 longitude: 8.51097
 postcode: "33415"
 city: Verl
-street: "Poststraße"
-housenumber: 4
+street: Poststraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30; Sa 09:00-13:00; PH,Su off"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30; Sa 09:00-13:00; PH,Su off
 website: ""

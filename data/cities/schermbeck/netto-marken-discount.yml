@@ -1,11 +1,11 @@
 id: 164817175
-type: way
+type: node
 latitude: 51.68936
 longitude: 6.86407
 postcode: "46514"
 city: Schermbeck
-street: "Weseler Straße"
-housenumber: 13
+street: Weseler Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 254561536
-type: way
+type: node
 latitude: 51.7876
 longitude: 6.01385
 postcode: "47559"
 city: Kranenburg
-street: "Klever Straße"
-housenumber: 21
+street: Klever Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.92486
 longitude: 7.1648
 postcode: "48653"
 city: Coesfeld
-street: "Dreischkamp"
-housenumber: 11
-phone: "+49 2541 4017"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://haendler.peugeot.de/robert-koetting-coesfeld/"
+street: Dreischkamp
+housenumber: "11"
+phone: +49 2541 4017
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://haendler.peugeot.de/robert-koetting-coesfeld/

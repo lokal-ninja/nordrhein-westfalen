@@ -4,8 +4,8 @@ latitude: 50.73278
 longitude: 7.0988
 postcode: "53111"
 city: Bonn
-street: "Gangolfstraße"
-housenumber: 6
-phone: "+49 228 18414190"
-opening_hours: "Mo-Sa 8:00-19:00"
-website: "https://www.bonntex.de"
+street: Gangolfstraße
+housenumber: "6"
+phone: +49 228 18414190
+opening_hours: Mo-Sa 8:00-19:00
+website: https://www.bonntex.de

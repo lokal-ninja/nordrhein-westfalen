@@ -1,11 +1,11 @@
 id: 197248423
-type: way
+type: node
 latitude: 52.25962
 longitude: 7.72615
 postcode: "49479"
 city: Ibbenbüren
-street: "Gutenbergstraße"
-housenumber: 27
+street: Gutenbergstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 285951981
-type: way
+type: node
 latitude: 52.05394
 longitude: 7.35297
 postcode: "48366"
 city: Laer
-street: "Am Bült"
-housenumber: 4
+street: Am Bült
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.motoguzzi-baecker.de/"
+website: https://www.motoguzzi-baecker.de/

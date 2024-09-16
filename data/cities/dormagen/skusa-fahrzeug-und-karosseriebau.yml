@@ -1,11 +1,11 @@
 id: 155361396
-type: way
+type: node
 latitude: 51.10028
 longitude: 6.71908
 postcode: "41542"
 city: Dormagen
-street: "Bergheimer Straße"
-housenumber: 113
-phone: "+49 2182 871155"
+street: Bergheimer Straße
+housenumber: "113"
+phone: +49 2182 871155
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 166286407
-type: way
+type: node
 latitude: 52.14893
 longitude: 7.96273
 postcode: "49536"
 city: Lienen
-street: "Lengericher Straße"
-housenumber: 31
+street: Lengericher Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

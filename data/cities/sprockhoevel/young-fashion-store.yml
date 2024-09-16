@@ -4,8 +4,8 @@ latitude: 51.33339
 longitude: 7.27726
 postcode: "45549"
 city: Sprockhövel
-street: "Mittelstraße"
-housenumber: 29
-phone: "+49 2339 121230"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-13:00"
-website: "http://streetone.de"
+street: Mittelstraße
+housenumber: "29"
+phone: +49 2339 121230
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-13:00
+website: http://streetone.de

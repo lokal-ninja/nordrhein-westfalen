@@ -1,11 +1,11 @@
 id: 314332959
-type: way
+type: node
 latitude: 51.68114
 longitude: 6.60949
 postcode: "46483"
 city: Wesel
-street: "Hamminkelner Landstraße"
-housenumber: 60
+street: Hamminkelner Landstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30,14:30-18:30, Sa 07:00-13:00, Su 14:00-16:00"
+opening_hours: Mo-Fr 07:00-12:30,14:30-18:30, Sa 07:00-13:00, Su 14:00-16:00
 website: ""

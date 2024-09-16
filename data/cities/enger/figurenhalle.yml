@@ -1,11 +1,11 @@
 id: 170867568
-type: way
+type: node
 latitude: 52.13891
 longitude: 8.50095
 postcode: "32130"
 city: Enger
-street: "Weststraße"
-housenumber: 107
-phone: "+49 5225 862 3031"
+street: Weststraße
+housenumber: "107"
+phone: +49 5225 862 3031
 opening_hours: ""
-website: "https://www.figurenhalle.de/"
+website: https://www.figurenhalle.de/

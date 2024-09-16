@@ -1,11 +1,11 @@
 id: 100975859
-type: way
+type: node
 latitude: 51.40138
 longitude: 7.48199
 postcode: "58099"
 city: Hagen
-street: "Poststraße"
-housenumber: 13
+street: Poststraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

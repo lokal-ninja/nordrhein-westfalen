@@ -1,11 +1,11 @@
 id: 267295662
-type: way
+type: node
 latitude: 51.86684
 longitude: 9.10299
 postcode: "32839"
 city: Steinheim
-street: "Am Piepenbrink"
-housenumber: 1
+street: Am Piepenbrink
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

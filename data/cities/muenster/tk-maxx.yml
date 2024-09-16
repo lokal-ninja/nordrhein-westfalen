@@ -1,11 +1,11 @@
 id: 97656826
-type: way
+type: node
 latitude: 51.9627
 longitude: 7.63181
 postcode: "48143"
 city: Münster
-street: "Alter Steinweg"
-housenumber: 15
+street: Alter Steinweg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

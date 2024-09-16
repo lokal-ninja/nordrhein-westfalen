@@ -4,8 +4,8 @@ latitude: 50.71627
 longitude: 7.04917
 postcode: "53123"
 city: Bonn
-street: "Am Burgweiher"
-housenumber: 14
-phone: "+49 228 62 15 58"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://topstyle-bonn.de/index.php"
+street: Am Burgweiher
+housenumber: "14"
+phone: +49 228 62 15 58
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://topstyle-bonn.de/index.php

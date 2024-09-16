@@ -1,11 +1,11 @@
 id: 1207810454
-type: way
+type: node
 latitude: 51.47362
 longitude: 7.29557
 postcode: "44892"
 city: Bochum
-street: "Industriestraße"
-housenumber: 28
+street: Industriestraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

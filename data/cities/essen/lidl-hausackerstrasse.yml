@@ -1,11 +1,11 @@
 id: 947815839
-type: way
+type: node
 latitude: 51.44179
 longitude: 6.97804
 postcode: "45147"
 city: Essen
-street: "Hausackerstraße"
-housenumber: 27
+street: Hausackerstraße
+housenumber: "27"
 phone: ""
-opening_hours: "PH off; Mo-Sa 07:00-22:00"
+opening_hours: PH off; Mo-Sa 07:00-22:00
 website: ""

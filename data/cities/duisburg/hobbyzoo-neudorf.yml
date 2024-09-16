@@ -4,8 +4,8 @@ latitude: 51.42308
 longitude: 6.78232
 postcode: "47057"
 city: Duisburg
-street: "Neudorfer Straße"
-housenumber: 205
-phone: "+49 203 358701"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We 14:00-18:30; Sa 09:00-14:00"
-website: "https://www.hobbyzoo-neudorf.de/"
+street: Neudorfer Straße
+housenumber: "205"
+phone: +49 203 358701
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We 14:00-18:30; Sa 09:00-14:00
+website: https://www.hobbyzoo-neudorf.de/

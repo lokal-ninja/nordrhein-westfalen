@@ -4,8 +4,8 @@ latitude: 51.88467
 longitude: 8.42548
 postcode: "33334"
 city: Gütersloh
-street: "Verler Straße"
-housenumber: 336
+street: Verler Straße
+housenumber: "336"
 phone: ""
-opening_hours: "PH,Mo-Fr 07:00-19:00;Sa 07:00-16:00;PH,Su off"
-website: "https://www.baeckerei-thiesbrummel.de/lebensmittelmarkt/"
+opening_hours: PH,Mo-Fr 07:00-19:00;Sa 07:00-16:00;PH,Su off
+website: https://www.baeckerei-thiesbrummel.de/lebensmittelmarkt/

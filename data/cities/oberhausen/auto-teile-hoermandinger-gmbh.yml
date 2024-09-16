@@ -1,11 +1,11 @@
 id: 205730756
-type: way
+type: node
 latitude: 51.51394
 longitude: 6.85833
 postcode: "46145"
 city: Oberhausen
-street: "Vestische Straße"
-housenumber: 246
+street: Vestische Straße
+housenumber: "246"
 phone: ""
 opening_hours: ""
 website: ""

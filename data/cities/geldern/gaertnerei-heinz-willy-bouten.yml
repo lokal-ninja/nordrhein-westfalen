@@ -4,8 +4,8 @@ latitude: 51.49898
 longitude: 6.24928
 postcode: "47608"
 city: Geldern
-street: "Walbecker Straße"
-housenumber: 66
-phone: "+49 2831 974533"
-opening_hours: "mo-do: 8.00 - 17.00, fr: 8.00 - 13.00 Uhr"
+street: Walbecker Straße
+housenumber: "66"
+phone: +49 2831 974533
+opening_hours: 'mo-do: 8.00 - 17.00, fr: 8.00 - 13.00 Uhr'
 website: ""

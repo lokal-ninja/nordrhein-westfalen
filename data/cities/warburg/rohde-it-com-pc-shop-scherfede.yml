@@ -4,8 +4,8 @@ latitude: 51.52838
 longitude: 9.03762
 postcode: "34414"
 city: Warburg
-street: "Kasseler Tor"
-housenumber: 42
-phone: "+49 5642 98770 0"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.rohde-it.com/"
+street: Kasseler Tor
+housenumber: "42"
+phone: +49 5642 98770 0
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.rohde-it.com/

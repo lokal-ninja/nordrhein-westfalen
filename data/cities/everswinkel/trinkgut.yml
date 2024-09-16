@@ -1,11 +1,11 @@
 id: 255599875
-type: way
+type: node
 latitude: 51.93278
 longitude: 7.85319
 postcode: "48351"
 city: Everswinkel
-street: "Grothues"
-housenumber: 3
+street: Grothues
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

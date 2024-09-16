@@ -4,8 +4,8 @@ latitude: 50.87801
 longitude: 6.11813
 postcode: "52134"
 city: Herzogenrath
-street: "Nordstern-Park"
-housenumber: 10
-phone: "+49 171 38 48 48 1"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-17:00"
-website: "http://www.corvetteproject.de"
+street: Nordstern-Park
+housenumber: "10"
+phone: +49 171 38 48 48 1
+opening_hours: Mo-Fr 09:00-12:30,14:00-17:00
+website: http://www.corvetteproject.de

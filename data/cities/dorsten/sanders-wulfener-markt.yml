@@ -4,8 +4,8 @@ latitude: 51.72564
 longitude: 7.02949
 postcode: "46286"
 city: Dorsten
-street: "Wulfener Markt"
-housenumber: 15
-phone: "+49 2369 5469"
-opening_hours: "Mo,Tu,Th,Fr 06:45-17:00; We 06:45-14:00; Sa 07:00-12:30; Su,PH off"
-website: "https://www.baeckerei-sanders.de/"
+street: Wulfener Markt
+housenumber: "15"
+phone: +49 2369 5469
+opening_hours: Mo,Tu,Th,Fr 06:45-17:00; We 06:45-14:00; Sa 07:00-12:30; Su,PH off
+website: https://www.baeckerei-sanders.de/

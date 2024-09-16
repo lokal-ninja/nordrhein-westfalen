@@ -4,8 +4,8 @@ latitude: 50.95569
 longitude: 6.89182
 postcode: "50827"
 city: Köln
-street: "Wilhelm-Mauser-Straße"
-housenumber: 53
-phone: "+49 221 583738"
-opening_hours: "Mo-Fr 06:30-17:00"
-website: "https://wittersheim-fischer.de/"
+street: Wilhelm-Mauser-Straße
+housenumber: "53"
+phone: +49 221 583738
+opening_hours: Mo-Fr 06:30-17:00
+website: https://wittersheim-fischer.de/

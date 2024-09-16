@@ -1,11 +1,11 @@
 id: 296156004
-type: way
+type: node
 latitude: 51.71614
 longitude: 8.67072
 postcode: "33106"
 city: Paderborn
-street: "Scharmeder Straße"
-housenumber: 137
+street: Scharmeder Straße
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

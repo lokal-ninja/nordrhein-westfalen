@@ -1,11 +1,11 @@
 id: 307772744
-type: way
+type: node
 latitude: 51.0833
 longitude: 6.33167
 postcode: "41812"
 city: Erkelenz
-street: "Ferdinand-Clasen-Straße"
-housenumber: 36
-phone: "+49 2432 908000"
+street: Ferdinand-Clasen-Straße
+housenumber: "36"
+phone: +49 2432 908000
 opening_hours: ""
-website: "https://www.peschmann24.de/"
+website: https://www.peschmann24.de/

@@ -4,8 +4,8 @@ latitude: 51.18436
 longitude: 6.82055
 postcode: "40591"
 city: Düsseldorf
-street: "Kölner Landstraße"
-housenumber: 257
-phone: "+49 211 2202000"
-opening_hours: "Mo,Sa 06:30-13:00; Tu-Fr 06:30-16:00"
+street: Kölner Landstraße
+housenumber: "257"
+phone: +49 211 2202000
+opening_hours: Mo,Sa 06:30-13:00; Tu-Fr 06:30-16:00
 website: ""

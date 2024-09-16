@@ -1,11 +1,11 @@
 id: 603724175
-type: way
+type: node
 latitude: 50.7731
 longitude: 7.29177
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Allner Weg"
-housenumber: 8
+street: Allner Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:45
+website: https://www.penny.de/

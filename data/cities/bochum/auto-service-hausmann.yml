@@ -1,11 +1,11 @@
 id: 146413002
-type: way
+type: node
 latitude: 51.50621
 longitude: 7.20371
 postcode: "44809"
 city: Bochum
-street: "Auf dem Dahlacker"
-housenumber: 74
+street: Auf dem Dahlacker
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

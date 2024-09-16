@@ -1,11 +1,11 @@
 id: 225805779
-type: way
+type: node
 latitude: 51.4684
 longitude: 6.85721
 postcode: "46045"
 city: Oberhausen
-street: "Nohlstraße"
-housenumber: 67
+street: Nohlstraße
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://whiskyhort.com/"
+website: https://whiskyhort.com/

@@ -4,8 +4,8 @@ latitude: 50.79916
 longitude: 7.21163
 postcode: "53721"
 city: Siegburg
-street: "Zeithstraße"
-housenumber: 8
-phone: "+49 2241 69900"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-14:00"
-website: "https://www.friseurteam-schmitz.de/"
+street: Zeithstraße
+housenumber: "8"
+phone: +49 2241 69900
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-14:00
+website: https://www.friseurteam-schmitz.de/

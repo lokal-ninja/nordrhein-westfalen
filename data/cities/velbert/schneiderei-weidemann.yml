@@ -4,8 +4,8 @@ latitude: 51.35071
 longitude: 7.11924
 postcode: "42555"
 city: Velbert
-street: "Hauptstraße"
-housenumber: 71
-phone: "+49 1522 673 5509"
-opening_hours: "Mo,Sa,Su,PH off; Tu-Fr 09:00-13:00, Tu,Th 15:00-17:00"
+street: Hauptstraße
+housenumber: "71"
+phone: +49 1522 673 5509
+opening_hours: Mo,Sa,Su,PH off; Tu-Fr 09:00-13:00, Tu,Th 15:00-17:00
 website: ""

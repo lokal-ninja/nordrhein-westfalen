@@ -1,11 +1,11 @@
 id: 50666752
-type: way
+type: node
 latitude: 51.8734
 longitude: 6.15827
 postcode: "46446"
 city: Emmerich am Rhein
-street: "Klosterstraße"
-housenumber: 20
+street: Klosterstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00"
+opening_hours: Mo-Sa 7:00-22:00
 website: ""

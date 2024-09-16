@@ -4,8 +4,8 @@ latitude: 51.45666
 longitude: 7.08798
 postcode: "45307"
 city: Essen
-street: "Isingplatz"
-housenumber: 3
+street: Isingplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00,14:30-18:30; Sa 06:00-13:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-13:00,14:30-18:30; Sa 06:00-13:00; Su 08:00-11:00
 website: ""

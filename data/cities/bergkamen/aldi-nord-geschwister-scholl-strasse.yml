@@ -1,11 +1,11 @@
 id: 450743877
-type: way
+type: node
 latitude: 51.61724
 longitude: 7.65512
 postcode: "59192"
 city: Bergkamen
-street: "Geschwister-Scholl-Straße"
-housenumber: 2
+street: Geschwister-Scholl-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

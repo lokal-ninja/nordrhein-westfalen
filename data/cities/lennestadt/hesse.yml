@@ -4,8 +4,8 @@ latitude: 51.10509
 longitude: 8.07401
 postcode: "57368"
 city: Lennestadt
-street: "Helmut-Kumpf-Straße"
-housenumber: 6
-phone: "+49 2723 5282"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-13:00; Su 08:00-11:00"
-website: "http://www.baeckerei-hesse.de/"
+street: Helmut-Kumpf-Straße
+housenumber: "6"
+phone: +49 2723 5282
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-13:00; Su 08:00-11:00
+website: http://www.baeckerei-hesse.de/

@@ -1,11 +1,11 @@
 id: 221042189
-type: way
+type: node
 latitude: 52.24148
 longitude: 8.54148
 postcode: "32289"
 city: Rödinghausen
-street: "Donoer Straße"
-housenumber: 13
+street: Donoer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

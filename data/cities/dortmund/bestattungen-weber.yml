@@ -4,8 +4,8 @@ latitude: 51.51004
 longitude: 7.53353
 postcode: "44143"
 city: Dortmund
-street: "Am Gottesacker"
-housenumber: 52
+street: Am Gottesacker
+housenumber: "52"
 phone: "+4923156229333"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-14:30"
-website: "https://www.haus-am-gottesacker.de/"
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-14:30
+website: https://www.haus-am-gottesacker.de/

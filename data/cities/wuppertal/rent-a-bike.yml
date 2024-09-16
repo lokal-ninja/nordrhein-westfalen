@@ -4,8 +4,8 @@ latitude: 51.25771
 longitude: 7.10623
 postcode: "42115"
 city: Wuppertal
-street: "Nordbahntrasse"
-housenumber: 5
+street: Nordbahntrasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 09:00-20:00"
-website: "https://rentabike-wuppertal.de/"
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 09:00-20:00
+website: https://rentabike-wuppertal.de/

@@ -1,11 +1,11 @@
 id: 110890473
-type: way
+type: node
 latitude: 50.84918
 longitude: 7.48511
 postcode: "53809"
 city: Ruppichteroth
-street: "Köttingen"
-housenumber: 1
+street: Köttingen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

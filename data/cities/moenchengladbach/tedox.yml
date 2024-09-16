@@ -4,8 +4,8 @@ latitude: 51.16387
 longitude: 6.42544
 postcode: "41239"
 city: Mönchengladbach
-street: "Feldstraße"
-housenumber: 130
+street: Feldstraße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su,PH off"
-website: "https://www.tedox.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su,PH off
+website: https://www.tedox.de/

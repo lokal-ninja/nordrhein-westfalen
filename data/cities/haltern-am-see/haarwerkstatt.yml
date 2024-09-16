@@ -4,8 +4,8 @@ latitude: 51.74498
 longitude: 7.18924
 postcode: "45721"
 city: Haltern am See
-street: "Mühlenstraße"
-housenumber: 34
-phone: "+49 2364 4705"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.haarwerkstatt.info/"
+street: Mühlenstraße
+housenumber: "34"
+phone: +49 2364 4705
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.haarwerkstatt.info/

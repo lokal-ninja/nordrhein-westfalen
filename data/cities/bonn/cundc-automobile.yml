@@ -1,11 +1,11 @@
 id: 162145930
-type: way
+type: node
 latitude: 50.69886
 longitude: 7.12204
 postcode: "53175"
 city: Bonn
-street: "Schwalbengarten"
-housenumber: 1
+street: Schwalbengarten
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

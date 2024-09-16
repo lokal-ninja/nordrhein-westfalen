@@ -1,11 +1,11 @@
 id: 302948998
-type: way
+type: node
 latitude: 50.78341
 longitude: 6.22032
 postcode: "52222"
 city: Stolberg
-street: "Prattelsackstraße"
+street: Prattelsackstraße
 housenumber: 30b
-phone: "+49 (0)2402 768264"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.takko-fashion.com/"
+phone: +49 (0)2402 768264
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.takko-fashion.com/

@@ -4,8 +4,8 @@ latitude: 51.92305
 longitude: 7.56257
 postcode: "48163"
 city: Münster
-street: "Harkortstraße"
-housenumber: 27
+street: Harkortstraße
+housenumber: "27"
 phone: "+4925171026"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
-website: "https://becker-muenster.de/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00
+website: https://becker-muenster.de/

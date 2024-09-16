@@ -4,8 +4,8 @@ latitude: 50.78066
 longitude: 6.0781
 postcode: "52062"
 city: Aachen
-street: "Malteserstraße"
-housenumber: 18
+street: Malteserstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

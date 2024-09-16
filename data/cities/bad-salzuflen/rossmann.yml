@@ -1,11 +1,11 @@
 id: 104698639
-type: way
+type: node
 latitude: 52.07077
 longitude: 8.75673
 postcode: "32108"
 city: Bad Salzuflen
-street: "Begastraße"
-housenumber: 17
+street: Begastraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

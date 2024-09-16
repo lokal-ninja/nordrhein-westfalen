@@ -1,11 +1,11 @@
 id: 115570872
-type: way
+type: node
 latitude: 50.796
 longitude: 6.06347
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 315
-phone: "+49 241 12773"
-opening_hours: "Mo-Fr 06:00-23:00; Sa,Su,PH 07:00-23:00"
+street: Roermonder Straße
+housenumber: "315"
+phone: +49 241 12773
+opening_hours: Mo-Fr 06:00-23:00; Sa,Su,PH 07:00-23:00
 website: ""

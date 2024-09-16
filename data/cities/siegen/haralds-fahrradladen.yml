@@ -1,11 +1,11 @@
 id: 49139574
-type: way
+type: node
 latitude: 50.93009
 longitude: 7.99894
 postcode: "57078"
 city: Siegen
-street: "Gutenbergstraße"
+street: Gutenbergstraße
 housenumber: 33a
-phone: "+49 271 800530"
-opening_hours: "Mo-Fr 09:30-18:00,Sa 09:30-13:30"
-website: "http://www.haralds-fahrradladen.de"
+phone: +49 271 800530
+opening_hours: Mo-Fr 09:30-18:00,Sa 09:30-13:30
+website: http://www.haralds-fahrradladen.de

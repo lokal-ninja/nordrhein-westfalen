@@ -1,11 +1,11 @@
 id: 169748335
-type: way
+type: node
 latitude: 51.73122
 longitude: 8.79031
 postcode: "33100"
 city: Paderborn
-street: "Friedrich-List-Straße"
-housenumber: 27
+street: Friedrich-List-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
-website: "https://www.holzdisselnmeyer.de/"
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
+website: https://www.holzdisselnmeyer.de/

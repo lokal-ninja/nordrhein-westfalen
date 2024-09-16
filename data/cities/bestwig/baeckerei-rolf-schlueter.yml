@@ -4,8 +4,8 @@ latitude: 51.3242
 longitude: 8.43263
 postcode: "59909"
 city: Bestwig
-street: "Barbarastraße"
-housenumber: 5
-phone: "+49 2905 1629"
-opening_hours: "Tu-Fr 07:00-10:30; Sa 07:00-11:00; Mo off"
+street: Barbarastraße
+housenumber: "5"
+phone: +49 2905 1629
+opening_hours: Tu-Fr 07:00-10:30; Sa 07:00-11:00; Mo off
 website: ""

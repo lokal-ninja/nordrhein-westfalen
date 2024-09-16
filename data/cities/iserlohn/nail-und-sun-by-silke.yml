@@ -4,8 +4,8 @@ latitude: 51.36531
 longitude: 7.61159
 postcode: "58642"
 city: Iserlohn
-street: "Hagener Straße"
-housenumber: 48
+street: Hagener Straße
+housenumber: "48"
 phone: ""
-opening_hours: "nach Vereinbarung; Mo off"
+opening_hours: '"nach Vereinbarung"; Mo off'
 website: ""

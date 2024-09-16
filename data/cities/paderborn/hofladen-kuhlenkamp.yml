@@ -1,11 +1,11 @@
 id: 161457849
-type: way
+type: node
 latitude: 51.73212
 longitude: 8.71581
 postcode: "33104"
 city: Paderborn
-street: "Im Quinhagen"
-housenumber: 51
+street: Im Quinhagen
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://hofladen-kuhlenkamp.de/"
+website: https://hofladen-kuhlenkamp.de/

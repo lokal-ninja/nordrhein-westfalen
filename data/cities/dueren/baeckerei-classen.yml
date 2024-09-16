@@ -1,11 +1,11 @@
 id: 408710963
-type: way
+type: node
 latitude: 50.8238
 longitude: 6.4598
 postcode: "52353"
 city: Düren
-street: "Nordstraße"
-housenumber: 9
+street: Nordstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:30-15:00; Su 07:00-17:00"
-website: "https://www.baeckerei-classen.de/"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:30-15:00; Su 07:00-17:00
+website: https://www.baeckerei-classen.de/

@@ -4,8 +4,8 @@ latitude: 52.17516
 longitude: 7.53006
 postcode: "48282"
 city: Emsdetten
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 2572 8003899"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00; PH off"
-website: "http://haar-und-bar.de/"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 2572 8003899
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00; PH off
+website: http://haar-und-bar.de/

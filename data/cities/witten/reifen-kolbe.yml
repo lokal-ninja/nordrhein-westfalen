@@ -1,11 +1,11 @@
 id: 74585169
-type: way
+type: node
 latitude: 51.43877
 longitude: 7.34162
 postcode: "58452"
 city: Witten
-street: "Oberstraße"
-housenumber: 39
+street: Oberstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
+opening_hours: Mo-Fr 08:00-17:00; PH off
 website: ""

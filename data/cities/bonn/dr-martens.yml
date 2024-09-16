@@ -4,8 +4,8 @@ latitude: 50.73567
 longitude: 7.09856
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 63
-phone: "+49 228 96915513"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.drmartens.com/"
+street: Sternstraße
+housenumber: "63"
+phone: +49 228 96915513
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.drmartens.com/

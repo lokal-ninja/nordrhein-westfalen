@@ -1,11 +1,11 @@
 id: 92447173
-type: way
+type: node
 latitude: 51.19271
 longitude: 7.01177
 postcode: "42781"
 city: Haan
-street: "Kaiserstraße"
-housenumber: 49
-phone: "+49 162 5139791"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
+street: Kaiserstraße
+housenumber: "49"
+phone: +49 162 5139791
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
 website: ""

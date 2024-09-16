@@ -1,11 +1,11 @@
 id: 285494748
-type: way
+type: node
 latitude: 51.73132
 longitude: 6.58893
 postcode: "46499"
 city: Hamminkeln
-street: "Brauereistraße"
-housenumber: 4
-phone: "+49 2852 91320"
-opening_hours: "siehe Homepage"
-website: "https://www.nrw-braumanufaktur.nrw/"
+street: Brauereistraße
+housenumber: "4"
+phone: +49 2852 91320
+opening_hours: siehe Homepage
+website: https://www.nrw-braumanufaktur.nrw/

@@ -1,11 +1,11 @@
 id: 287754370
-type: way
+type: node
 latitude: 51.76233
 longitude: 8.94677
 postcode: "33184"
 city: Altenbeken
-street: "Hüttenstraße"
-housenumber: 16
-phone: "+49 5255 6147"
-opening_hours: "Mo-Sa 08:30-13:00,14:30-18:00, Sa 08:30-13:00"
+street: Hüttenstraße
+housenumber: "16"
+phone: +49 5255 6147
+opening_hours: Mo-Sa 08:30-13:00,14:30-18:00, Sa 08:30-13:00
 website: ""

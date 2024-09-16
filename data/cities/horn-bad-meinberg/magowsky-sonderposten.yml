@@ -1,11 +1,11 @@
 id: 275289608
-type: way
+type: node
 latitude: 51.87886
 longitude: 8.95487
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Bahnhofstraße"
-housenumber: 48
+street: Bahnhofstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Tu off; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Tu off; PH off
 website: ""

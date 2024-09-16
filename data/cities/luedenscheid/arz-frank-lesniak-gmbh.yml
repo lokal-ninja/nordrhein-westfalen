@@ -1,11 +1,11 @@
 id: 252015983
-type: way
+type: node
 latitude: 51.22757
 longitude: 7.64824
 postcode: "58511"
 city: Lüdenscheid
-street: "Werdohler Straße"
-housenumber: 210
+street: Werdohler Straße
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
 website: ""

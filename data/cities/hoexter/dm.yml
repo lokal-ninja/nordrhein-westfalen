@@ -1,11 +1,11 @@
 id: 224098973
-type: way
+type: node
 latitude: 51.77488
 longitude: 9.36018
 postcode: "37671"
 city: Höxter
-street: "Pfennigbreite"
-housenumber: 36
+street: Pfennigbreite
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

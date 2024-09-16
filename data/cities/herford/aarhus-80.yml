@@ -1,11 +1,11 @@
 id: 1238377111
-type: way
+type: node
 latitude: 52.12587
 longitude: 8.68288
 postcode: "32049"
 city: Herford
-street: "Waltgeristraße"
-housenumber: 80
+street: Waltgeristraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.aarhus80.de/"
+website: https://www.aarhus80.de/

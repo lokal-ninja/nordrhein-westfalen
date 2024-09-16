@@ -1,11 +1,11 @@
 id: 145582973
-type: way
+type: node
 latitude: 51.45467
 longitude: 7.1924
 postcode: "44795"
 city: Bochum
-street: "Hattinger Straße"
+street: Hattinger Straße
 housenumber: 302 - 310
-phone: "+49 234 954 2240"
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-14:00"
-website: "https://www.skibo.de"
+phone: +49 234 954 2240
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-14:00
+website: https://www.skibo.de

@@ -1,11 +1,11 @@
 id: 150056563
-type: way
+type: node
 latitude: 50.6479
 longitude: 7.32759
 postcode: "53604"
 city: Bad Honnef
-street: "Vogelsbitze"
-housenumber: 11
+street: Vogelsbitze
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

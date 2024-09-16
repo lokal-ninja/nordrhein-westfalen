@@ -4,8 +4,8 @@ latitude: 50.95359
 longitude: 6.6428
 postcode: "50126"
 city: Bergheim
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 2271 43990"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-13:00; PH off"
-website: "https://www.dtsreisen.com/"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 2271 43990
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-13:00; PH off
+website: https://www.dtsreisen.com/

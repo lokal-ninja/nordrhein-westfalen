@@ -1,11 +1,11 @@
 id: 94786389
-type: way
+type: node
 latitude: 50.77075
 longitude: 7.29405
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Wippenhohner Straße"
-housenumber: 4
+street: Wippenhohner Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

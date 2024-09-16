@@ -4,8 +4,8 @@ latitude: 52.01155
 longitude: 7.1258
 postcode: "48720"
 city: Rosendahl
-street: "Handwerkerstraße"
-housenumber: 6
+street: Handwerkerstraße
+housenumber: "6"
 phone: "+4925669347044"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su, PH 7:30-11:00"
-website: "https://www.stadtbaeckerei-schuette.de"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su, PH 7:30-11:00
+website: https://www.stadtbaeckerei-schuette.de

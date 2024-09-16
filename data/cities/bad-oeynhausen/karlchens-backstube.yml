@@ -4,8 +4,8 @@ latitude: 52.19747
 longitude: 8.80286
 postcode: "32547"
 city: Bad Oeynhausen
-street: "Weserstraße"
-housenumber: 11
-phone: "+49 5731 7447140"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-18:00; Su 07:00-18:00"
-website: "https://www.karlchens-backstube.de/"
+street: Weserstraße
+housenumber: "11"
+phone: +49 5731 7447140
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-18:00; Su 07:00-18:00
+website: https://www.karlchens-backstube.de/

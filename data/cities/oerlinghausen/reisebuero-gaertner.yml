@@ -4,8 +4,8 @@ latitude: 51.9595
 longitude: 8.66489
 postcode: "33813"
 city: Oerlinghausen
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://reisebuero-gaertner.de/"
+website: https://reisebuero-gaertner.de/

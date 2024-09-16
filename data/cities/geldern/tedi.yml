@@ -1,11 +1,11 @@
 id: 303456509
-type: way
+type: node
 latitude: 51.51692
 longitude: 6.32426
 postcode: "47608"
 city: Geldern
-street: "Markt"
-housenumber: 16
+street: Markt
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.tedi.com/"
+website: https://www.tedi.com/

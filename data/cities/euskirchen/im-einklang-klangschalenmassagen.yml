@@ -4,8 +4,9 @@ latitude: 50.67556
 longitude: 6.82821
 postcode: "53881"
 city: Euskirchen
-street: "Rigaer Straße"
-housenumber: 9
+street: Rigaer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00+,16:30-18:30; We,Sa nachmittags nach Absprache; Su off"
+opening_hours: Mo,Tu,Th,Fr 10:00+,16:30-18:30; We,Sa "nachmittags nach Absprache";
+    Su off
 website: ""

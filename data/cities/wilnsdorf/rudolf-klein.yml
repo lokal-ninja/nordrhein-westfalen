@@ -1,11 +1,11 @@
 id: 294648862
-type: way
+type: node
 latitude: 50.84566
 longitude: 8.13014
 postcode: "57234"
 city: Wilnsdorf
-street: "Schlosserstraße"
-housenumber: 5
+street: Schlosserstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

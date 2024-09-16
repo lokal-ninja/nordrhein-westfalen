@@ -4,8 +4,8 @@ latitude: 51.51331
 longitude: 7.48502
 postcode: "44135"
 city: Dortmund
-street: "Kaiserstraße"
-housenumber: 122
-phone: "+49 231 521182"
-opening_hours: "Mo-We,Fr 12:00-18:30; Th 12:00-19:00; Sa 10:00-14:00"
-website: "https://www.comic-haus.de/"
+street: Kaiserstraße
+housenumber: "122"
+phone: +49 231 521182
+opening_hours: Mo-We,Fr 12:00-18:30; Th 12:00-19:00; Sa 10:00-14:00
+website: https://www.comic-haus.de/

@@ -1,11 +1,11 @@
 id: 124892770
-type: way
+type: node
 latitude: 50.80569
 longitude: 7.19818
 postcode: "53721"
 city: Siegburg
-street: "Luisenstraße"
+street: Luisenstraße
 housenumber: 86a
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa,Su 10:00-15:00"
-website: "https://www.pcking.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa,Su 10:00-15:00
+website: https://www.pcking.de/

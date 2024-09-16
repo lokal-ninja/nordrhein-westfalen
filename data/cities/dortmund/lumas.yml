@@ -4,8 +4,8 @@ latitude: 51.51374
 longitude: 7.46363
 postcode: "44137"
 city: Dortmund
-street: "Schwarze-Brüder-Straße"
-housenumber: 1
+street: Schwarze-Brüder-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.lumas.de/galerien/dortmund/"
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.lumas.de/galerien/dortmund/

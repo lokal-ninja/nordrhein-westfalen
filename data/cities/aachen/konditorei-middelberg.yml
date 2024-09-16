@@ -4,8 +4,8 @@ latitude: 50.74993
 longitude: 6.0871
 postcode: "52066"
 city: Aachen
-street: "Jahnplatz"
-housenumber: 11
-phone: "+49 241 61112"
-opening_hours: "Mo off; Tu-Fr 07:00-18:30; Sa 07:00-17:30; Su,PH 08:00-17:30"
-website: "https://www.cafe-middelberg.de/"
+street: Jahnplatz
+housenumber: "11"
+phone: +49 241 61112
+opening_hours: Mo off; Tu-Fr 07:00-18:30; Sa 07:00-17:30; Su,PH 08:00-17:30
+website: https://www.cafe-middelberg.de/

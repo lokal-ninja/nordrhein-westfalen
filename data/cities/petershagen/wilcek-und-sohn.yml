@@ -4,8 +4,8 @@ latitude: 52.43824
 longitude: 9.03467
 postcode: "32469"
 city: Petershagen
-street: "Bickbeeren"
-housenumber: 41
-phone: "+49 5705 343"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 10:00-13:00"
-website: "http://musikhauswilcek.com/index.html"
+street: Bickbeeren
+housenumber: "41"
+phone: +49 5705 343
+opening_hours: Mo-Fr 15:00-18:00; Sa 10:00-13:00
+website: http://musikhauswilcek.com/index.html

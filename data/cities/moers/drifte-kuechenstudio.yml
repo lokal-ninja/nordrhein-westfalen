@@ -1,11 +1,11 @@
 id: 113137844
-type: way
+type: node
 latitude: 51.42774
 longitude: 6.60909
 postcode: "47447"
 city: Moers
-street: "Holderberger Straße"
-housenumber: 69
+street: Holderberger Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

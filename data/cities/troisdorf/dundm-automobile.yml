@@ -1,11 +1,11 @@
 id: 93340054
-type: way
+type: node
 latitude: 50.8231
 longitude: 7.13022
 postcode: "53842"
 city: Troisdorf
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137738596
-type: way
+type: node
 latitude: 51.9498
 longitude: 7.6492
 postcode: "48155"
 city: Münster
-street: "Lütkenbecker Weg"
-housenumber: 8
+street: Lütkenbecker Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-12:00,14:30-18:00; Th 14:30-18:00; Mo off; Sa 10:00-13:00"
-website: "https://www.lignumonline.de/"
+opening_hours: Tu,We,Fr 09:00-12:00,14:30-18:00; Th 14:30-18:00; Mo off; Sa 10:00-13:00
+website: https://www.lignumonline.de/

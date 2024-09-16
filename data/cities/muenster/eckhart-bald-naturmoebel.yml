@@ -1,11 +1,11 @@
 id: 127791318
-type: way
+type: node
 latitude: 51.92587
 longitude: 7.58003
 postcode: "48163"
 city: Münster
-street: "Weseler Straße"
-housenumber: 628
-phone: "+49 251 719985"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 10:00-15:00"
-website: "https://www.e-bald.de"
+street: Weseler Straße
+housenumber: "628"
+phone: +49 251 719985
+opening_hours: Tu-Fr 13:00-18:00; Sa 10:00-15:00
+website: https://www.e-bald.de

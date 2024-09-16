@@ -4,8 +4,8 @@ latitude: 52.01592
 longitude: 8.53737
 postcode: "33602"
 city: Bielefeld
-street: "Rohrteichstraße"
-housenumber: 33
-phone: "+49-521-66199"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://kleinefluchten-bielefeld.de/"
+street: Rohrteichstraße
+housenumber: "33"
+phone: +49-521-66199
+opening_hours: Mo-Fr 10:00-17:00
+website: https://kleinefluchten-bielefeld.de/

@@ -4,8 +4,8 @@ latitude: 51.44914
 longitude: 8.35559
 postcode: "59581"
 city: Warstein
-street: "Hauptstraße"
-housenumber: 9
-phone: "+49 2902 4435"
-opening_hours: "Mo-Sa 09:00-13:00, Tu,Th 14:30-18:00"
-website: "https://www.foto-wiemer.de/"
+street: Hauptstraße
+housenumber: "9"
+phone: +49 2902 4435
+opening_hours: Mo-Sa 09:00-13:00, Tu,Th 14:30-18:00
+website: https://www.foto-wiemer.de/

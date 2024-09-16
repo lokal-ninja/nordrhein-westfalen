@@ -1,11 +1,11 @@
 id: 315791626
-type: way
+type: node
 latitude: 50.88477
 longitude: 6.17028
 postcode: "52477"
 city: Alsdorf
-street: "Oidtweilerweg"
+street: Oidtweilerweg
 housenumber: 152a
-phone: "+49 2404 551798"
+phone: +49 2404 551798
 opening_hours: ""
-website: "https://www.fressnapf.de/maerkte/fressnapf-alsdorf"
+website: https://www.fressnapf.de/maerkte/fressnapf-alsdorf

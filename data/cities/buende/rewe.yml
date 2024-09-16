@@ -1,11 +1,11 @@
 id: 45193896
-type: way
+type: node
 latitude: 52.19504
 longitude: 8.59728
 postcode: "32257"
 city: Bünde
-street: "Brunnenallee"
+street: Brunnenallee
 housenumber: 58-62
-phone: "+49 5223 179730"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/buende/241044/rewe-markt-brunnenallee-58-62"
+phone: +49 5223 179730
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/buende/241044/rewe-markt-brunnenallee-58-62

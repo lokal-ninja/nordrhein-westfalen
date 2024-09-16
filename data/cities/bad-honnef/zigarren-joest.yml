@@ -1,11 +1,11 @@
 id: 157109220
-type: way
+type: node
 latitude: 50.64515
 longitude: 7.22622
 postcode: "53604"
 city: Bad Honnef
-street: "Hauptstraße"
-housenumber: 48
+street: Hauptstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30, Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-18:30, Sa 07:00-13:00
 website: ""

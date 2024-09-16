@@ -1,11 +1,11 @@
 id: 155172212
-type: way
+type: node
 latitude: 51.52955
 longitude: 7.21012
 postcode: "44625"
 city: Herne
-street: "Am Westerfeld"
-housenumber: 1
+street: Am Westerfeld
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:30, Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-19:30, Sa 10:00-19:00
 website: ""

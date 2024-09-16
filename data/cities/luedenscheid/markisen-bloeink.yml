@@ -1,11 +1,11 @@
 id: 309112149
-type: way
+type: node
 latitude: 51.23285
 longitude: 7.67274
 postcode: "58513"
 city: Lüdenscheid
-street: "Werdohler Landstraße"
-housenumber: 187
+street: Werdohler Landstraße
+housenumber: "187"
 phone: ""
 opening_hours: ""
-website: "https://www.markisen-bloeink.de/"
+website: https://www.markisen-bloeink.de/

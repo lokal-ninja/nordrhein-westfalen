@@ -1,11 +1,11 @@
 id: 403034299
-type: way
+type: node
 latitude: 51.9071
 longitude: 8.38452
 postcode: "33330"
 city: Gütersloh
-street: "Willy-Brandt-Platz"
-housenumber: 2
+street: Willy-Brandt-Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00,13:00-18:30"
+opening_hours: Mo-Fr 06:30-12:00,13:00-18:30
 website: ""

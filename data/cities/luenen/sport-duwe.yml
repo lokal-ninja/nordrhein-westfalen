@@ -1,11 +1,11 @@
 id: 146507383
-type: way
+type: node
 latitude: 51.61218
 longitude: 7.52363
 postcode: "44532"
 city: Lünen
-street: "Lange Straße"
-housenumber: 59
-phone: "+49 2306 13140"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://www.sport-duwe.de/filialen/44532-luenen"
+street: Lange Straße
+housenumber: "59"
+phone: +49 2306 13140
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://www.sport-duwe.de/filialen/44532-luenen

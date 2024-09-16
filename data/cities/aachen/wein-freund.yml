@@ -4,8 +4,8 @@ latitude: 50.77342
 longitude: 6.10988
 postcode: "52066"
 city: Aachen
-street: "Adalbertsteinweg"
-housenumber: 170
+street: Adalbertsteinweg
+housenumber: "170"
 phone: ""
-opening_hours: "Tu-We 09:00-13:00,15:00-18:30; Th-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.weinfreund-aachen.de/"
+opening_hours: Tu-We 09:00-13:00,15:00-18:30; Th-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.weinfreund-aachen.de/

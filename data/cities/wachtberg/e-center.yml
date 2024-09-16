@@ -4,8 +4,8 @@ latitude: 50.62193
 longitude: 7.12294
 postcode: "53343"
 city: Wachtberg
-street: "Am Wachtbergring"
-housenumber: 5
+street: Am Wachtbergring
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.edeka.de/eh/rhein-ruhr/e-center-wachtberg-berkum-am-wachtbergring-5/index.jsp"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.edeka.de/eh/rhein-ruhr/e-center-wachtberg-berkum-am-wachtbergring-5/index.jsp

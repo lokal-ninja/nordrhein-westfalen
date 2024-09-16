@@ -4,8 +4,8 @@ latitude: 52.0146
 longitude: 8.55022
 postcode: "33604"
 city: Bielefeld
-street: "Oststraße"
-housenumber: 97
+street: Oststraße
+housenumber: "97"
 phone: ""
-opening_hours: "Fr 14:00-18:00; Sa 11:00-15:00"
+opening_hours: Fr 14:00-18:00; Sa 11:00-15:00
 website: ""

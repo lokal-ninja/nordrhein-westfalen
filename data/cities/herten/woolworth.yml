@@ -1,11 +1,11 @@
 id: 201466033
-type: way
+type: node
 latitude: 51.58383
 longitude: 7.14664
 postcode: "45699"
 city: Herten
-street: "Ewaldstraße"
-housenumber: 142
+street: Ewaldstraße
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

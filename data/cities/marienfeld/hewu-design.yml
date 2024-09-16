@@ -1,11 +1,11 @@
 id: 362778913
-type: way
+type: node
 latitude: 51.93991
 longitude: 8.29624
 postcode: "33428"
 city: Marienfeld
-street: "Südfeld"
-housenumber: 47
+street: Südfeld
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00; Mo-Fr 13:00-18:00; Sa 10:00-16:00"
-website: "https://hewu-design.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00, Sa 10:00-16:00
+website: https://hewu-design.de/

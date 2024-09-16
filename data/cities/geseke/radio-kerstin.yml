@@ -1,11 +1,11 @@
 id: 228248296
-type: way
+type: node
 latitude: 51.64155
 longitude: 8.5089
 postcode: "59590"
 city: Geseke
-street: "Bäckstraße"
-housenumber: 4
-phone: "+49 2942 9885900"
+street: Bäckstraße
+housenumber: "4"
+phone: +49 2942 9885900
 opening_hours: ""
 website: ""

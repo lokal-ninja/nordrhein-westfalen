@@ -1,11 +1,11 @@
 id: 107721170
-type: way
+type: node
 latitude: 51.20554
 longitude: 6.67838
 postcode: "41462"
 city: Neuss
-street: "Further Straße"
-housenumber: 61
+street: Further Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off
 website: ""

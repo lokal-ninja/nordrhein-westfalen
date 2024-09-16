@@ -1,11 +1,11 @@
 id: 1160732594
-type: way
+type: node
 latitude: 51.49764
 longitude: 7.52004
 postcode: "44263"
 city: Dortmund
-street: "Freie-Vogel-Straße"
-housenumber: 15
-phone: "+49 231 42770310"
+street: Freie-Vogel-Straße
+housenumber: "15"
+phone: +49 231 42770310
 opening_hours: ""
-website: "https://www.autohausamsee.com/"
+website: https://www.autohausamsee.com/

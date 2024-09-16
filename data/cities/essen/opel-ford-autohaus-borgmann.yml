@@ -1,11 +1,11 @@
 id: 27615811
-type: way
+type: node
 latitude: 51.49146
 longitude: 6.95268
 postcode: "45356"
 city: Essen
-street: "Weidkamp"
-housenumber: 279
+street: Weidkamp
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

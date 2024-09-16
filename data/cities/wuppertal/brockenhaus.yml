@@ -4,8 +4,8 @@ latitude: 51.26293
 longitude: 7.17285
 postcode: "42285"
 city: Wuppertal
-street: "Hünefeldstraße"
-housenumber: 20
-phone: "+49 202 97444750"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 9:00-14:00; PH off"
-website: "https://das-brockenhaus.de"
+street: Hünefeldstraße
+housenumber: "20"
+phone: +49 202 97444750
+opening_hours: Mo-Fr 09:00-18:30; Sa 9:00-14:00; PH off
+website: https://das-brockenhaus.de

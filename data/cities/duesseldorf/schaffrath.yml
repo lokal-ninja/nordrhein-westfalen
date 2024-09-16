@@ -4,8 +4,8 @@ latitude: 51.20259
 longitude: 6.77204
 postcode: "40223"
 city: Düsseldorf
-street: "Aachener Straße"
-housenumber: 90
-phone: "+49-211-33880"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.moebel-schaffrath.com/standorte/wohnkaufhaeuser+duesseldorf"
+street: Aachener Straße
+housenumber: "90"
+phone: +49-211-33880
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.moebel-schaffrath.com/standorte/wohnkaufhaeuser+duesseldorf

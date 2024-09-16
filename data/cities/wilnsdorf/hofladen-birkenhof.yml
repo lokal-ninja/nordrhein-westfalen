@@ -1,11 +1,11 @@
 id: 322864255
-type: way
+type: node
 latitude: 50.82739
 longitude: 8.14232
 postcode: "57234"
 city: Wilnsdorf
-street: "Birkenhof"
-housenumber: 1
+street: Birkenhof
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://birkenhof-siegerland.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://birkenhof-siegerland.de

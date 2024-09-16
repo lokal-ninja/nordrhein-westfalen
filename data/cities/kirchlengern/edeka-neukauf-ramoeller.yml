@@ -1,11 +1,11 @@
 id: 191780859
-type: way
+type: node
 latitude: 52.24069
 longitude: 8.62601
 postcode: "32278"
 city: Kirchlengern
-street: "Stiftstraße"
-housenumber: 91
-phone: "+49 5223 74343"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"
+street: Stiftstraße
+housenumber: "91"
+phone: +49 5223 74343
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00
 website: ""

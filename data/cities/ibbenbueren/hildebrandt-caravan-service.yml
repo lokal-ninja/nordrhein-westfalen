@@ -1,11 +1,11 @@
 id: 1108046182
-type: way
+type: node
 latitude: 52.31498
 longitude: 7.67521
 postcode: "49479"
 city: Ibbenbüren
-street: "Buchholzer Damm"
-housenumber: 2
+street: Buchholzer Damm
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off
 website: ""

@@ -4,8 +4,9 @@ latitude: 52.0284
 longitude: 8.90231
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 44
-phone: "+49 5261 4194"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,PH off"
-website: "https://waffen-kratz.de/"
+street: Mittelstraße
+housenumber: "44"
+phone: +49 5261 4194
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,PH
+    off
+website: https://waffen-kratz.de/

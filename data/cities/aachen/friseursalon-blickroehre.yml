@@ -4,8 +4,8 @@ latitude: 50.7739
 longitude: 6.07646
 postcode: "52064"
 city: Aachen
-street: "Johanniterstraße"
-housenumber: 33
+street: Johanniterstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu 10:00-21:00, We-Fr 10:00-19:00, Sa 10:00-15:00, Su,Mo closed"
-website: "https://blickroehre.de/"
+opening_hours: Tu 10:00-21:00, We-Fr 10:00-19:00, Sa 10:00-15:00, Su,Mo closed
+website: https://blickroehre.de/

@@ -1,11 +1,11 @@
 id: 325925175
-type: way
+type: node
 latitude: 51.95254
 longitude: 8.57215
 postcode: "33689"
 city: Bielefeld
-street: "Hansestraße"
-housenumber: 1
+street: Hansestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.21456
 longitude: 6.78747
 postcode: "40215"
 city: Düsseldorf
-street: "Hüttenstraße"
-housenumber: 78
-phone: "+49 211 85949847"
-opening_hours: "Su,Mo off; Tu-Fr 09:30-19:00; Sa 09:00-16:00"
+street: Hüttenstraße
+housenumber: "78"
+phone: +49 211 85949847
+opening_hours: Su,Mo off; Tu-Fr 09:30-19:00; Sa 09:00-16:00
 website: ""

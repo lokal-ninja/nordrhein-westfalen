@@ -1,11 +1,11 @@
 id: 143856350
-type: way
+type: node
 latitude: 51.02219
 longitude: 7.04866
 postcode: "51375"
 city: Leverkusen
-street: "Saarstraße"
-housenumber: 22
+street: Saarstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

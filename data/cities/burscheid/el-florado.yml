@@ -4,8 +4,8 @@ latitude: 51.09791
 longitude: 7.15212
 postcode: "51399"
 city: Burscheid
-street: "Dünweg"
-housenumber: 1
+street: Dünweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-16:00"
-website: "https://www.elflorado.de/"
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-16:00
+website: https://www.elflorado.de/

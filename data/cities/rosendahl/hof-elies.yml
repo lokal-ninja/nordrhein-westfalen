@@ -4,8 +4,8 @@ latitude: 52.03359
 longitude: 7.30779
 postcode: "48720"
 city: Rosendahl
-street: "Höpingen"
-housenumber: 25
-phone: "+49 2545 1710"
-opening_hours: "24/7"
-website: "https://www.hof-elies.de"
+street: Höpingen
+housenumber: "25"
+phone: +49 2545 1710
+opening_hours: 24/7
+website: https://www.hof-elies.de

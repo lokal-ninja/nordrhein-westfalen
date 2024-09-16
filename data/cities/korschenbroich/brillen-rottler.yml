@@ -4,8 +4,8 @@ latitude: 51.19331
 longitude: 6.51318
 postcode: "41352"
 city: Korschenbroich
-street: "Hindenburgstraße"
-housenumber: 33
-phone: "+49 2161 644764"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH closed"
-website: "https://www.rottler.de/standort-waehlen/korschenbroich/"
+street: Hindenburgstraße
+housenumber: "33"
+phone: +49 2161 644764
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH closed
+website: https://www.rottler.de/standort-waehlen/korschenbroich/

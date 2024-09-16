@@ -1,11 +1,11 @@
 id: 96926631
-type: way
+type: node
 latitude: 51.66116
 longitude: 7.60861
 postcode: "59368"
 city: Werne
-street: "Gewerbehof"
-housenumber: 17
-phone: "+49 2389 1619"
-opening_hours: "Mo-Fr 03:30-18:00; Sa 10:00-12:00"
-website: "https://www.schittek-werne.de/"
+street: Gewerbehof
+housenumber: "17"
+phone: +49 2389 1619
+opening_hours: Mo-Fr 03:30-18:00; Sa 10:00-12:00
+website: https://www.schittek-werne.de/

@@ -4,8 +4,8 @@ latitude: 51.39634
 longitude: 7.18193
 postcode: "45525"
 city: Hattingen
-street: "Im Bruchfeld"
-housenumber: 2
-phone: "+49 2324 56590"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://rewe-uhl.de/"
+street: Im Bruchfeld
+housenumber: "2"
+phone: +49 2324 56590
+opening_hours: Mo-Sa 07:00-21:00
+website: https://rewe-uhl.de/

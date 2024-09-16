@@ -4,8 +4,8 @@ latitude: 52.02475
 longitude: 8.53388
 postcode: "33602"
 city: Bielefeld
-street: "Herforder Straße"
-housenumber: 9
-phone: "+49-521-52191876"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dm.de/"
+street: Herforder Straße
+housenumber: "9"
+phone: +49-521-52191876
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dm.de/

@@ -1,11 +1,11 @@
 id: 86872625
-type: way
+type: node
 latitude: 50.93715
 longitude: 6.92869
 postcode: "50674"
 city: Köln
-street: "Aachener Straße"
-housenumber: 112
+street: Aachener Straße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

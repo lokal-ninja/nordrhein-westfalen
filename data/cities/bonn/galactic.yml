@@ -4,8 +4,8 @@ latitude: 50.73501
 longitude: 7.09497
 postcode: "53111"
 city: Bonn
-street: "Thomas-Mann-Straße"
-housenumber: 38
-phone: "+49 228 698629"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "http://www.galactic-bonn.de/"
+street: Thomas-Mann-Straße
+housenumber: "38"
+phone: +49 228 698629
+opening_hours: Mo-Sa 11:00-20:00
+website: http://www.galactic-bonn.de/

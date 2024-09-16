@@ -4,8 +4,8 @@ latitude: 51.48054
 longitude: 7.13611
 postcode: "44866"
 city: Bochum
-street: "Oststraße"
-housenumber: 38
-phone: "+49 2327 309990"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-17:00"
-website: "https://www.dm.de/"
+street: Oststraße
+housenumber: "38"
+phone: +49 2327 309990
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-17:00
+website: https://www.dm.de/

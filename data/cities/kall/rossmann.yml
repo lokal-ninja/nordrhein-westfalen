@@ -4,8 +4,8 @@ latitude: 50.54573
 longitude: 6.5755
 postcode: "53925"
 city: Kall
-street: "Siemensring"
-housenumber: 1
-phone: "+49 2441 7949999"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://www.rossmann.de/de/filialen/nordrhein-westfalen/kall/siemensring-1.html"
+street: Siemensring
+housenumber: "1"
+phone: +49 2441 7949999
+opening_hours: Mo-Fr 08:00-20:00
+website: https://www.rossmann.de/de/filialen/nordrhein-westfalen/kall/siemensring-1.html

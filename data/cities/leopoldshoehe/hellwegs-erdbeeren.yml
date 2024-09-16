@@ -4,8 +4,8 @@ latitude: 51.9941
 longitude: 8.65375
 postcode: "33818"
 city: Leopoldshöhe
-street: "Grenzweg"
-housenumber: 50
+street: Grenzweg
+housenumber: "50"
 phone: "+491707348026"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.erdbeerhof-hellweg.de/"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.erdbeerhof-hellweg.de/

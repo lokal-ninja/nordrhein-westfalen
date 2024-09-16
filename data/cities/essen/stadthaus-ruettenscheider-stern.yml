@@ -1,11 +1,11 @@
 id: 109993438
-type: way
+type: node
 latitude: 51.4374
 longitude: 7.00674
 postcode: "45130"
 city: Essen
-street: "Rüttenscheider Stern"
-housenumber: 9
+street: Rüttenscheider Stern
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

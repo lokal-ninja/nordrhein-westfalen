@@ -1,11 +1,11 @@
 id: 188048589
-type: way
+type: node
 latitude: 51.75254
 longitude: 8.71749
 postcode: "33104"
 city: Paderborn
-street: "Derenthalstraße"
-housenumber: 4
-phone: "+49 5254 663531"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-19:00"
-website: "https://www.aslanlebensmittel.de/"
+street: Derenthalstraße
+housenumber: "4"
+phone: +49 5254 663531
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-19:00
+website: https://www.aslanlebensmittel.de/

@@ -1,11 +1,11 @@
 id: 238003567
-type: way
+type: node
 latitude: 50.81625
 longitude: 7.32687
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Schönfelder Straße"
-housenumber: 25
-phone: "+49 2247 89575"
+street: Schönfelder Straße
+housenumber: "25"
+phone: +49 2247 89575
 opening_hours: ""
-website: "https://www.kfz-bblick.de/"
+website: https://www.kfz-bblick.de/

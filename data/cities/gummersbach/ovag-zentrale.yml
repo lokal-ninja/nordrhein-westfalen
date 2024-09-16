@@ -1,11 +1,11 @@
 id: 174959947
-type: way
+type: node
 latitude: 51.00423
 longitude: 7.58344
 postcode: "51645"
 city: Gummersbach
-street: "Kölner Straße"
-housenumber: 237
-phone: "+49 2261 9260-0"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa, Su, PH off"
-website: "https://www.ovaginfo.de/"
+street: Kölner Straße
+housenumber: "237"
+phone: +49 2261 9260-0
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa, Su, PH off
+website: https://www.ovaginfo.de/

@@ -4,8 +4,8 @@ latitude: 51.18088
 longitude: 7.1869
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 73
-phone: "+49 219128654"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://reformhaus-bacher.de/"
+street: Alleestraße
+housenumber: "73"
+phone: +49 219128654
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://reformhaus-bacher.de/

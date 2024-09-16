@@ -4,8 +4,8 @@ latitude: 50.73409
 longitude: 7.09862
 postcode: "53111"
 city: Bonn
-street: "Münsterplatz"
-housenumber: 9
-phone: "+49 228 3381010"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-16:00"
-website: "https://stadtbrotbaecker-rott.de/fachgeschaft/munsterplatz/"
+street: Münsterplatz
+housenumber: "9"
+phone: +49 228 3381010
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-16:00
+website: https://stadtbrotbaecker-rott.de/fachgeschaft/munsterplatz/

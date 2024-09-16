@@ -4,8 +4,8 @@ latitude: 51.22701
 longitude: 6.78146
 postcode: "40212"
 city: Düsseldorf
-street: "Königsallee"
-housenumber: 2
-phone: "+49 211 566410"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.breuninger.com/"
+street: Königsallee
+housenumber: "2"
+phone: +49 211 566410
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.breuninger.com/

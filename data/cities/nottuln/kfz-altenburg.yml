@@ -1,11 +1,11 @@
 id: 394906846
-type: way
+type: node
 latitude: 51.91222
 longitude: 7.39848
 postcode: "48301"
 city: Nottuln
-street: "Zeppelinstraße"
-housenumber: 1
+street: Zeppelinstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

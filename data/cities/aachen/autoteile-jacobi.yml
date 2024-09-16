@@ -1,11 +1,11 @@
 id: 37101236
-type: way
+type: node
 latitude: 50.77708
 longitude: 6.12614
 postcode: "52068"
 city: Aachen
-street: "Rottstraße"
-housenumber: 9
+street: Rottstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.jacobi-autoteile.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off
+website: https://www.jacobi-autoteile.de/

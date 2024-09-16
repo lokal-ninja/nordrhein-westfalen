@@ -4,8 +4,8 @@ latitude: 51.42814
 longitude: 7.05072
 postcode: "45134"
 city: Essen
-street: "Frankenstraße"
-housenumber: 56
-phone: "+49 201 4306936"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Frankenstraße
+housenumber: "56"
+phone: +49 201 4306936
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 110981358
-type: way
+type: node
 latitude: 51.09392
 longitude: 6.81299
 postcode: "41540"
 city: Dormagen
-street: "Lübecker Straße"
-housenumber: 3
-phone: "+49 2133 97674-0"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.moebel-bernskoetter.de/"
+street: Lübecker Straße
+housenumber: "3"
+phone: +49 2133 97674-0
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.moebel-bernskoetter.de/

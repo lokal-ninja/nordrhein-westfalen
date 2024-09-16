@@ -1,11 +1,11 @@
 id: 441945390
-type: way
+type: node
 latitude: 50.87366
 longitude: 6.16848
 postcode: "52477"
 city: Alsdorf
-street: "Allensteiner Straße"
-housenumber: 17
+street: Allensteiner Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-sued.de/de/"
+website: https://www.aldi-sued.de/de/

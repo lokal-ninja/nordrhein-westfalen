@@ -4,8 +4,8 @@ latitude: 51.10728
 longitude: 7.64005
 postcode: "58540"
 city: Meinerzhagen
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We,Th 09:00-13:00, 14:00-18:00; Tu, Fr 09:00-13:00, PH,Sa,Su off"
+opening_hours: Mo,We,Th 09:00-13:00, 14:00-18:00; Tu, Fr 09:00-13:00, PH,Sa,Su off
 website: ""

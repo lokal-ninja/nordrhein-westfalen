@@ -1,11 +1,11 @@
 id: 335922425
-type: way
+type: node
 latitude: 51.64812
 longitude: 7.76063
 postcode: "59077"
 city: Hamm
-street: "Kamener Straße"
-housenumber: 100
+street: Kamener Straße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

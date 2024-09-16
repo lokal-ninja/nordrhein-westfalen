@@ -4,8 +4,8 @@ latitude: 51.57349
 longitude: 8.10596
 postcode: "59494"
 city: Soest
-street: "Brüderstraße"
-housenumber: 3
-phone: "+49 2921 9815742"
-opening_hours: "Mo-Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.eyesandmore.de/"
+street: Brüderstraße
+housenumber: "3"
+phone: +49 2921 9815742
+opening_hours: Mo-Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-18:00
+website: https://www.eyesandmore.de/

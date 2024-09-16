@@ -4,8 +4,8 @@ latitude: 51.20274
 longitude: 6.41605
 postcode: "41063"
 city: Mönchengladbach
-street: "Lindenstraße"
-housenumber: 163
-phone: "+49 2161 3044515"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-16:00"
-website: "http://go-golfing.de"
+street: Lindenstraße
+housenumber: "163"
+phone: +49 2161 3044515
+opening_hours: Mo-Fr 07:00-19:00, Sa 08:00-16:00
+website: http://go-golfing.de

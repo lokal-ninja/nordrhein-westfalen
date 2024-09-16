@@ -4,8 +4,8 @@ latitude: 51.57085
 longitude: 9.17798
 postcode: "34439"
 city: Willebadessen
-street: "Agissenstraße"
-housenumber: 57
-phone: "+49-5644-946484"
-opening_hours: "Mo-Tu 09:00-18:00; We 13:30-18:00; Th-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "http://www.fahrradhof-saken.de/"
+street: Agissenstraße
+housenumber: "57"
+phone: +49-5644-946484
+opening_hours: Mo-Tu 09:00-18:00; We 13:30-18:00; Th-Fr 09:00-18:00; Sa 09:00-13:30
+website: http://www.fahrradhof-saken.de/

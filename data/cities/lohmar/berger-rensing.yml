@@ -1,11 +1,11 @@
 id: 258773306
-type: way
+type: node
 latitude: 50.83678
 longitude: 7.20788
 postcode: "53797"
 city: Lohmar
-street: "Hauptstraße"
-housenumber: 96
-phone: "+49 2246 5161"
+street: Hauptstraße
+housenumber: "96"
+phone: +49 2246 5161
 opening_hours: ""
 website: ""

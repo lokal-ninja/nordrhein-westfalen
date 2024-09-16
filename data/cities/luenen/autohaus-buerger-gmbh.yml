@@ -1,11 +1,11 @@
 id: 669589428
-type: way
+type: node
 latitude: 51.60332
 longitude: 7.45888
 postcode: "44536"
 city: Lünen
-street: "Zum Pier"
-housenumber: 56
+street: Zum Pier
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

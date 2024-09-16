@@ -1,11 +1,11 @@
 id: 120407810
-type: way
+type: node
 latitude: 51.40126
 longitude: 7.43114
 postcode: "58313"
 city: Herdecke
-street: "Stiftsstraße"
-housenumber: 11
+street: Stiftsstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

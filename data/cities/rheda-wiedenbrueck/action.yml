@@ -1,11 +1,11 @@
 id: 738388609
-type: way
+type: node
 latitude: 51.84294
 longitude: 8.29595
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Feldhüserweg"
-housenumber: 10
+street: Feldhüserweg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

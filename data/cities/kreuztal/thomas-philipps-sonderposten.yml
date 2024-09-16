@@ -1,11 +1,11 @@
 id: 77509357
-type: way
+type: node
 latitude: 50.95509
 longitude: 7.99601
 postcode: "57223"
 city: Kreuztal
-street: "Siegener Straße"
-housenumber: 37
+street: Siegener Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/maerkte/thomas-philipps-kreuztal-57223-kreuztal"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/maerkte/thomas-philipps-kreuztal-57223-kreuztal

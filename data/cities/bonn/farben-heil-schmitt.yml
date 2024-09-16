@@ -4,8 +4,8 @@ latitude: 50.69187
 longitude: 7.14578
 postcode: "53175"
 city: Bonn
-street: "Godesberger Straße"
-housenumber: 27
+street: Godesberger Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-16:00"
-website: "https://www.farbenheil.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-16:00
+website: https://www.farbenheil.de

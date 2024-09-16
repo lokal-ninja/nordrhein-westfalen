@@ -4,8 +4,8 @@ latitude: 51.88389
 longitude: 8.50854
 postcode: "33415"
 city: Verl
-street: "Bürmannstraße"
-housenumber: 5
-phone: "+49 5246 930550"
-opening_hours: "Mo-Tu,Th-Fr 10:00-12:00,15:00-18:00; We,Sa 10:00-12:00; Su,PH off"
-website: "https://iq-ebbinghaus.de/"
+street: Bürmannstraße
+housenumber: "5"
+phone: +49 5246 930550
+opening_hours: Mo-Tu,Th-Fr 10:00-12:00,15:00-18:00; We,Sa 10:00-12:00; Su,PH off
+website: https://iq-ebbinghaus.de/

@@ -4,8 +4,8 @@ latitude: 51.23152
 longitude: 7.06418
 postcode: "42327"
 city: Wuppertal
-street: "Gruitener Straße"
-housenumber: 84
-phone: "+49 202 73 10 72"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.hair-in-the-city.de/"
+street: Gruitener Straße
+housenumber: "84"
+phone: +49 202 73 10 72
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.hair-in-the-city.de/

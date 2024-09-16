@@ -1,11 +1,11 @@
 id: 51785789
-type: way
+type: node
 latitude: 50.75362
 longitude: 7.01509
 postcode: "53332"
 city: Bornheim
-street: "Bonner Straße"
-housenumber: 22
+street: Bonner Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

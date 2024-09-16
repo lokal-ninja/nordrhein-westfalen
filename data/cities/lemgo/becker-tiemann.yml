@@ -1,11 +1,11 @@
 id: 43946820
-type: way
+type: node
 latitude: 52.03223
 longitude: 8.89294
 postcode: "32657"
 city: Lemgo
-street: "Entruper Weg"
-housenumber: 23
+street: Entruper Weg
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.becker-tiemann.de/becker-tiemann-filialen/lemgo/"
+website: https://www.becker-tiemann.de/becker-tiemann-filialen/lemgo/

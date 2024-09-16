@@ -1,11 +1,11 @@
 id: 221009765
-type: way
+type: node
 latitude: 52.21958
 longitude: 8.4603
 postcode: "32289"
 city: Rödinghausen
-street: "Kilverstraße"
-housenumber: 79
+street: Kilverstraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

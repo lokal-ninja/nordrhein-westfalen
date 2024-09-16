@@ -4,8 +4,8 @@ latitude: 50.72259
 longitude: 7.08903
 postcode: "53115"
 city: Bonn
-street: "Clemens-August-Straße"
-housenumber: 47
-phone: "+49 228 656506"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"
+street: Clemens-August-Straße
+housenumber: "47"
+phone: +49 228 656506
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off
 website: ""

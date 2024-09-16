@@ -4,8 +4,8 @@ latitude: 52.20066
 longitude: 8.58919
 postcode: "32257"
 city: Bünde
-street: "Goetheplatz"
-housenumber: 3
-phone: "+49 5223 2304"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-12:00,13:30-17:00"
-website: "https://baeckerei-erdbruegger.de/"
+street: Goetheplatz
+housenumber: "3"
+phone: +49 5223 2304
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-12:00,13:30-17:00
+website: https://baeckerei-erdbruegger.de/

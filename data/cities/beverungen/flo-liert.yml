@@ -1,11 +1,11 @@
 id: 256643907
-type: way
+type: node
 latitude: 51.64353
 longitude: 9.41398
 postcode: "37688"
 city: Beverungen
-street: "Feldstraße"
-housenumber: 18
+street: Feldstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:30"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-13:30
 website: ""

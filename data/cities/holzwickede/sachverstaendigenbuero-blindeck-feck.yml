@@ -1,11 +1,11 @@
 id: 301763819
-type: way
+type: node
 latitude: 51.48325
 longitude: 7.61341
 postcode: "59439"
 city: Holzwickede
-street: "Keltenstraße"
-housenumber: 10
-phone: "+49 2301 943023"
-opening_hours: "08:00-17:00"
+street: Keltenstraße
+housenumber: "10"
+phone: +49 2301 943023
+opening_hours: 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.88942
 longitude: 8.46448
 postcode: "33415"
 city: Verl
-street: "Thaddäusstraße"
-housenumber: 80
+street: Thaddäusstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.elli-markt.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.elli-markt.de/

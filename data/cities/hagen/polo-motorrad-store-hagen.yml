@@ -1,11 +1,11 @@
 id: 598945193
-type: way
+type: node
 latitude: 51.34158
 longitude: 7.40946
 postcode: "58135"
 city: Hagen
-street: "Hochofenstraße"
-housenumber: 1
+street: Hochofenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""

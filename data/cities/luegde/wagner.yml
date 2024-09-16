@@ -1,11 +1,11 @@
 id: 29060890
-type: way
+type: node
 latitude: 51.9623
 longitude: 9.24776
 postcode: "32676"
 city: Lügde
-street: "Pyrmonter Straße"
-housenumber: 15
+street: Pyrmonter Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

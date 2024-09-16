@@ -4,8 +4,8 @@ latitude: 50.68807
 longitude: 7.33675
 postcode: "53639"
 city: Königswinter
-street: "Eudenbacher Straße"
-housenumber: 100
+street: Eudenbacher Straße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.reifen-becher.de/"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:00
+website: https://www.reifen-becher.de/

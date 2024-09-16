@@ -4,8 +4,9 @@ latitude: 50.85819
 longitude: 7.08995
 postcode: "51147"
 city: Köln
-street: "Heidestraße"
-housenumber: 29
+street: Heidestraße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu 09:00-19:00; We,Fr 09:00-18:00; Th 11:15-20:00; Sa 09:00-13:00; PH off"
+opening_hours: Tu 09:00-19:00; We,Fr 09:00-18:00; Th 11:15-20:00; Sa 09:00-13:00;
+    PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 424921242
-type: way
+type: node
 latitude: 51.5669
 longitude: 6.75363
 postcode: "46539"
 city: Dinslaken
-street: "Kleiststraße"
-housenumber: 83
-phone: "+49 2064 52242"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Kleiststraße
+housenumber: "83"
+phone: +49 2064 52242
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

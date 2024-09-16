@@ -4,8 +4,8 @@ latitude: 51.2307
 longitude: 7.07051
 postcode: "42329"
 city: Wuppertal
-street: "Gustavstraße"
-housenumber: 3
-phone: "+49 202 74 12 01"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.lecorsage.de/"
+street: Gustavstraße
+housenumber: "3"
+phone: +49 202 74 12 01
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.lecorsage.de/

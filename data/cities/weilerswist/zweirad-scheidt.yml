@@ -1,11 +1,11 @@
 id: 248984934
-type: way
+type: node
 latitude: 50.75827
 longitude: 6.8409
 postcode: "53919"
 city: Weilerswist
-street: "Kölner Straße"
-housenumber: 131
+street: Kölner Straße
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

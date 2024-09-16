@@ -1,11 +1,11 @@
 id: 109097159
-type: way
+type: node
 latitude: 50.8231
 longitude: 7.10541
 postcode: "53842"
 city: Troisdorf
-street: "Redcarstraße"
-housenumber: 11
+street: Redcarstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://frinsgmbh.de"
+website: https://frinsgmbh.de

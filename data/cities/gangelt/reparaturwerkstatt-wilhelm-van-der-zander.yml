@@ -1,11 +1,11 @@
 id: 263998087
-type: way
+type: node
 latitude: 50.99096
 longitude: 6.01464
 postcode: "52538"
 city: Gangelt
-street: "Zum Wirtsberg"
-housenumber: 22
-phone: "+49 2454 2858"
+street: Zum Wirtsberg
+housenumber: "22"
+phone: +49 2454 2858
 opening_hours: ""
-website: "https://www.vanderzander.de/"
+website: https://www.vanderzander.de/

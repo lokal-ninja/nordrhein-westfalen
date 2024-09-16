@@ -1,11 +1,11 @@
 id: 256747635
-type: way
+type: node
 latitude: 51.99293
 longitude: 7.57021
 postcode: "48159"
 city: Münster
-street: "Haus Uhlenkotten"
+street: Haus Uhlenkotten
 housenumber: 4a
-phone: "+49 251 922333"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.waerme-u-design.de/"
+phone: +49 251 922333
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.waerme-u-design.de/

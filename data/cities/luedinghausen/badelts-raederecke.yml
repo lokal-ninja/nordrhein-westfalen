@@ -1,11 +1,11 @@
 id: 220027122
-type: way
+type: node
 latitude: 51.76477
 longitude: 7.39078
 postcode: "59348"
 city: Lüdinghausen
-street: "Flaßbieke"
-housenumber: 2
+street: Flaßbieke
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:30,13:30-18:00; Sa 09:00-13:00"
-website: "https://www.badelts-raederecke.de/"
+opening_hours: Mo-Fr 9:00-12:30,13:30-18:00; Sa 09:00-13:00
+website: https://www.badelts-raederecke.de/

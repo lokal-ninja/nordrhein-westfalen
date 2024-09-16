@@ -4,8 +4,8 @@ latitude: 51.23206
 longitude: 6.74706
 postcode: "40545"
 city: Düsseldorf
-street: "Lanker Straße"
-housenumber: 2
-phone: "+49 211 17520720"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.klapdohr-delikatessen.de/"
+street: Lanker Straße
+housenumber: "2"
+phone: +49 211 17520720
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off
+website: https://www.klapdohr-delikatessen.de/

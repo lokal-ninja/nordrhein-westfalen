@@ -1,11 +1,11 @@
 id: 1011498071
-type: way
+type: node
 latitude: 50.74914
 longitude: 6.84917
 postcode: "53919"
 city: Weilerswist
-street: "Bonner Straße"
-housenumber: 68
+street: Bonner Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

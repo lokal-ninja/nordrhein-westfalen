@@ -4,8 +4,8 @@ latitude: 51.20207
 longitude: 7.35913
 postcode: "42477"
 city: Radevormwald
-street: "Schloßmacherstraße"
-housenumber: 3
-phone: "+49 2195 931830"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.pbs-rade.de/"
+street: Schloßmacherstraße
+housenumber: "3"
+phone: +49 2195 931830
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.pbs-rade.de/

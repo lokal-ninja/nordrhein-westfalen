@@ -4,8 +4,8 @@ latitude: 50.7369
 longitude: 7.10303
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 49
-phone: "+49 228 36029583"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off"
-website: "https://www.vomfass.de/bonn/"
+street: Friedrichstraße
+housenumber: "49"
+phone: +49 228 36029583
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off
+website: https://www.vomfass.de/bonn/

@@ -1,11 +1,11 @@
 id: 60432214
-type: way
+type: node
 latitude: 50.95057
 longitude: 7.21959
 postcode: "51491"
 city: Overath
-street: "Schulstraße"
-housenumber: 22
+street: Schulstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

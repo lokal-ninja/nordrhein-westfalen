@@ -4,8 +4,8 @@ latitude: 50.71442
 longitude: 7.04306
 postcode: "53123"
 city: Bonn
-street: "Im Mühlenfeld"
-housenumber: 1
-phone: "+49 228 640213"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00"
-website: "http://www.teamsport-olzem.de"
+street: Im Mühlenfeld
+housenumber: "1"
+phone: +49 228 640213
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00
+website: http://www.teamsport-olzem.de

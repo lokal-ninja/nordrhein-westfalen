@@ -4,8 +4,8 @@ latitude: 52.02554
 longitude: 8.53309
 postcode: "33602"
 city: Bielefeld
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rolf-baeckerei.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rolf-baeckerei.de/

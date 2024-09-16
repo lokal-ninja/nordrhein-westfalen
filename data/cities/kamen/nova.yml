@@ -4,8 +4,8 @@ latitude: 51.59228
 longitude: 7.66402
 postcode: "59174"
 city: Kamen
-street: "Weerenstraße"
-housenumber: 1
-phone: "+49 2307 279951"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:000; Su,PH off"
-website: "https://www.nova-kamen.de"
+street: Weerenstraße
+housenumber: "1"
+phone: +49 2307 279951
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:000; Su,PH off
+website: https://www.nova-kamen.de

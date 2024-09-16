@@ -1,11 +1,11 @@
 id: 262067879
-type: way
+type: node
 latitude: 50.92905
 longitude: 7.04616
 postcode: "51107"
 city: Köln
-street: "Hardtgenbuscher Kirchweg"
-housenumber: 111
+street: Hardtgenbuscher Kirchweg
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

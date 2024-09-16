@@ -1,11 +1,11 @@
 id: 331092688
-type: way
+type: node
 latitude: 51.11036
 longitude: 8.06517
 postcode: "57368"
 city: Lennestadt
-street: "Hagener Straße"
-housenumber: 68
+street: Hagener Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

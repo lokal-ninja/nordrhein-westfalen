@@ -4,8 +4,8 @@ latitude: 51.96069
 longitude: 7.62763
 postcode: "48143"
 city: Münster
-street: "Ludgeristraße"
-housenumber: 113
+street: Ludgeristraße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.hussel.de"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.hussel.de

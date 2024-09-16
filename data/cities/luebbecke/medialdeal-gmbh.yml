@@ -4,8 +4,8 @@ latitude: 52.30535
 longitude: 8.60285
 postcode: "32312"
 city: Lübbecke
-street: "Am Hahlerbaum"
-housenumber: 2
-phone: "+49 5741 23000"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.mediadeal.de/"
+street: Am Hahlerbaum
+housenumber: "2"
+phone: +49 5741 23000
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.mediadeal.de/

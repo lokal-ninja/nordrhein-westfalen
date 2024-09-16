@@ -1,11 +1,11 @@
 id: 294804438
-type: way
+type: node
 latitude: 52.3672
 longitude: 7.71779
 postcode: "49509"
 city: Recke
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

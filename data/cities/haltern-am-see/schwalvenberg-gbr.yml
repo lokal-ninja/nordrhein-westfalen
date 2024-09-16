@@ -1,11 +1,11 @@
 id: 397794180
-type: way
+type: node
 latitude: 51.73724
 longitude: 7.28547
 postcode: "45721"
 city: Haltern am See
-street: "Hauptstraße"
-housenumber: 26
-phone: "+49 2364 12 272"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off; PH off"
-website: "https://www.schwalvenberg.de/"
+street: Hauptstraße
+housenumber: "26"
+phone: +49 2364 12 272
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off; PH off
+website: https://www.schwalvenberg.de/

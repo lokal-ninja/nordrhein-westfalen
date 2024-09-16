@@ -1,11 +1,11 @@
 id: 223805363
-type: way
+type: node
 latitude: 51.35165
 longitude: 7.51112
 postcode: "58093"
 city: Hagen
-street: "Auf dem Birnbaum"
-housenumber: 2
+street: Auf dem Birnbaum
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30, Sa 7:30-12:00"
+opening_hours: Mo-Fr 08:30-17:30, Sa 7:30-12:00
 website: ""

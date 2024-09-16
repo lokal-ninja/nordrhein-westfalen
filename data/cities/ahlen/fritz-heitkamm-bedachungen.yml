@@ -1,11 +1,11 @@
 id: 292755968
-type: way
+type: node
 latitude: 51.76738
 longitude: 7.8986
 postcode: "59227"
 city: Ahlen
-street: "Eintrachtstraße"
-housenumber: 10
+street: Eintrachtstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.5567
 longitude: 8.13935
 postcode: "59494"
 city: Soest
-street: "Overweg"
-housenumber: 11
+street: Overweg
+housenumber: "11"
 phone: "+49292496600"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
 website: ""

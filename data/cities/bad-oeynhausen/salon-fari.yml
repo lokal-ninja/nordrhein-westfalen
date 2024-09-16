@@ -1,11 +1,11 @@
 id: 75091585
-type: way
+type: node
 latitude: 52.2096
 longitude: 8.80249
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Schwarzer Weg"
-housenumber: 4
+street: Schwarzer Weg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

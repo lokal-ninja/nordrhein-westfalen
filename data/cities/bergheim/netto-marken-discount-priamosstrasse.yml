@@ -1,11 +1,11 @@
 id: 111317060
-type: way
+type: node
 latitude: 50.93419
 longitude: 6.67233
 postcode: "50127"
 city: Bergheim
-street: "Priamosstraße"
-housenumber: 1
+street: Priamosstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

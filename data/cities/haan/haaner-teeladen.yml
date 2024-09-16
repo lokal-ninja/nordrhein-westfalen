@@ -4,8 +4,8 @@ latitude: 51.19297
 longitude: 7.01225
 postcode: "42781"
 city: Haan
-street: "Marktpassage"
-housenumber: 2
+street: Marktpassage
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00
 website: ""

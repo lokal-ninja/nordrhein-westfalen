@@ -4,8 +4,8 @@ latitude: 51.14299
 longitude: 6.20925
 postcode: "41844"
 city: Wegberg
-street: "Kampstraße"
-housenumber: 29
-phone: "+49 2436 380257"
-opening_hours: "Mo, Sa 08:00-13:00; Tu-Fr 08:00-18:00; Su,PH off"
+street: Kampstraße
+housenumber: "29"
+phone: +49 2436 380257
+opening_hours: Mo, Sa 08:00-13:00; Tu-Fr 08:00-18:00; Su,PH off
 website: ""

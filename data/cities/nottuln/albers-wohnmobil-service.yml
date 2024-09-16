@@ -1,11 +1,11 @@
 id: 932444087
-type: way
+type: node
 latitude: 51.91329
 longitude: 7.39998
 postcode: "48301"
 city: Nottuln
-street: "Zeppelinstraße"
-housenumber: 6
+street: Zeppelinstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://reisemobile-albers.de/"
+website: https://reisemobile-albers.de/

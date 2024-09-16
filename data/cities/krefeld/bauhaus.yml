@@ -1,11 +1,11 @@
 id: 82445638
-type: way
+type: node
 latitude: 51.31842
 longitude: 6.58328
 postcode: "47807"
 city: Krefeld
-street: "Untergath"
-housenumber: 89
+street: Untergath
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

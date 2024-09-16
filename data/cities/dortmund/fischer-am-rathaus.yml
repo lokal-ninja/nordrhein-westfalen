@@ -4,8 +4,8 @@ latitude: 51.51283
 longitude: 7.46726
 postcode: "44137"
 city: Dortmund
-street: "Betenstraße"
-housenumber: 14
-phone: "+49 231 571463"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 06:30-17:00"
-website: "http://www.fischer-am-rathaus.de/"
+street: Betenstraße
+housenumber: "14"
+phone: +49 231 571463
+opening_hours: Mo-Fr 07:00-18:30; Sa 06:30-17:00
+website: http://www.fischer-am-rathaus.de/

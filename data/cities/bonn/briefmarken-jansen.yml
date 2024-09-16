@@ -4,8 +4,8 @@ latitude: 50.7365
 longitude: 7.10081
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 38
-phone: "+49 228 638910"
-opening_hours: "Mo,Su off; Tu-Fr 09:00-13:00,14:00-18:30; Sa 09:00-16:00"
-website: "https://www.briefmarkenjansen.de/"
+street: Friedrichstraße
+housenumber: "38"
+phone: +49 228 638910
+opening_hours: Mo,Su off; Tu-Fr 09:00-13:00,14:00-18:30; Sa 09:00-16:00
+website: https://www.briefmarkenjansen.de/

@@ -1,11 +1,11 @@
 id: 230015442
-type: way
+type: node
 latitude: 51.22995
 longitude: 6.68514
 postcode: "41462"
 city: Neuss
-street: "Am Bommerhof"
-housenumber: 2
+street: Am Bommerhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 09:00-14:00
 website: ""

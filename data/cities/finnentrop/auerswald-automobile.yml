@@ -1,11 +1,11 @@
 id: 1013024498
-type: way
+type: node
 latitude: 51.19326
 longitude: 7.95836
 postcode: "57413"
 city: Finnentrop
-street: "Kalkofenstraße"
-housenumber: 21
-phone: "+49160/97998468"
+street: Kalkofenstraße
+housenumber: "21"
+phone: +49160/97998468
 opening_hours: ""
-website: "https://www.auerswald-automobile.de"
+website: https://www.auerswald-automobile.de

@@ -4,8 +4,8 @@ latitude: 51.61044
 longitude: 7.20979
 postcode: "45665"
 city: Recklinghausen
-street: "Castroper Straße"
-housenumber: 49
-phone: "+49 2361 44500"
-opening_hours: "Tu,Th,Fr 08:00-18:00; We 08:30-19:00; Sa 07:00-14:00"
-website: "https://www.wilmsundwilms.de/"
+street: Castroper Straße
+housenumber: "49"
+phone: +49 2361 44500
+opening_hours: Tu,Th,Fr 08:00-18:00; We 08:30-19:00; Sa 07:00-14:00
+website: https://www.wilmsundwilms.de/

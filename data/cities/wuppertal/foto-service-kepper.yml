@@ -4,8 +4,8 @@ latitude: 51.27064
 longitude: 7.19759
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 2
-phone: "+49 202 553033"
-opening_hours: "Mo-Fr 09:00-17:50; Sa 09:00-13:50; Su,PH off"
-website: "http://fotoservice-kepper.de/"
+street: Werth
+housenumber: "2"
+phone: +49 202 553033
+opening_hours: Mo-Fr 09:00-17:50; Sa 09:00-13:50; Su,PH off
+website: http://fotoservice-kepper.de/

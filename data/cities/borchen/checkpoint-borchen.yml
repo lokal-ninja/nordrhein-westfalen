@@ -4,8 +4,8 @@ latitude: 51.6591
 longitude: 8.73054
 postcode: "33178"
 city: Borchen
-street: "Dörenhagener Straße"
-housenumber: 1
+street: Dörenhagener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:00-17:00, Apr-Oct Sa 10:00-13:00; PH off"
-website: "https://www.checkpointborchen.de/"
+opening_hours: Mo-Fr 10:00-12:30,14:00-17:00, Apr-Oct Sa 10:00-13:00; PH off
+website: https://www.checkpointborchen.de/

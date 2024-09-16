@@ -4,8 +4,8 @@ latitude: 52.05687
 longitude: 8.54839
 postcode: "33611"
 city: Bielefeld
-street: "Hermann-Schäffer-Straße"
-housenumber: 12
+street: Hermann-Schäffer-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://baeckerei-schmidt.de/filiale/bielefeld-edeka-schildesche/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://baeckerei-schmidt.de/filiale/bielefeld-edeka-schildesche/

@@ -4,8 +4,8 @@ latitude: 51.9771
 longitude: 7.28999
 postcode: "48727"
 city: Billerbeck
-street: "Lange Straße"
-housenumber: 13
-phone: "+49 2543 219055"
-opening_hours: "tu-fr 09:30-12:30, 14:30-18:00,mo 14:30-18:00,sa 9:30-12:30; ph off"
-website: "https://www.blickwinkel-fotostudio-billerbeck.de/"
+street: Lange Straße
+housenumber: "13"
+phone: +49 2543 219055
+opening_hours: tu-fr 09:30-12:30, 14:30-18:00,mo 14:30-18:00,sa 9:30-12:30; ph off
+website: https://www.blickwinkel-fotostudio-billerbeck.de/

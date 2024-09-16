@@ -1,11 +1,11 @@
 id: 101948334
-type: way
+type: node
 latitude: 51.39643
 longitude: 7.06721
 postcode: "45259"
 city: Essen
-street: "Stornefranzstraße"
-housenumber: 22
-phone: "+49 201 48648252"
-opening_hours: "Mo-Su,PH off"
-website: "http://www.reise-weber.de/"
+street: Stornefranzstraße
+housenumber: "22"
+phone: +49 201 48648252
+opening_hours: Mo-Su,PH off
+website: http://www.reise-weber.de/

@@ -4,8 +4,8 @@ latitude: 51.30802
 longitude: 7.23395
 postcode: "42279"
 city: Wuppertal
-street: "Mollenkotten"
-housenumber: 155
-phone: "+49 202 2444499"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; Mo off"
-website: "http://www.tacticready.de/"
+street: Mollenkotten
+housenumber: "155"
+phone: +49 202 2444499
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; Mo off
+website: http://www.tacticready.de/

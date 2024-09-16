@@ -4,8 +4,8 @@ latitude: 51.61473
 longitude: 7.52374
 postcode: "44532"
 city: Lünen
-street: "Lange Straße"
-housenumber: 10
-phone: "+49 2306 9792012"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.eyesandmore.de/"
+street: Lange Straße
+housenumber: "10"
+phone: +49 2306 9792012
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.eyesandmore.de/

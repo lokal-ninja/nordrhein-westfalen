@@ -1,11 +1,11 @@
 id: 252414017
-type: way
+type: node
 latitude: 51.43129
 longitude: 7.96411
 postcode: "59757"
 city: Arnsberg
-street: "Wiebelsheidestraße"
-housenumber: 48
+street: Wiebelsheidestraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

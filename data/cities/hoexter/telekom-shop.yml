@@ -1,11 +1,11 @@
 id: 251069542
-type: way
+type: node
 latitude: 51.77646
 longitude: 9.38189
 postcode: "37671"
 city: Höxter
-street: "Corbiestraße"
-housenumber: 33
+street: Corbiestraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

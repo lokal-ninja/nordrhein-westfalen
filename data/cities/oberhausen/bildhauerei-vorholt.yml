@@ -1,11 +1,11 @@
 id: 332055338
-type: way
+type: node
 latitude: 51.46568
 longitude: 6.84304
 postcode: "46045"
 city: Oberhausen
-street: "Grenzstraße"
-housenumber: 12
+street: Grenzstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

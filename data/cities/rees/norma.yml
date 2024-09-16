@@ -1,11 +1,11 @@
 id: 38693500
-type: way
+type: node
 latitude: 51.77426
 longitude: 6.45735
 postcode: "46459"
 city: Rees
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH, Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH, Su off
 website: ""

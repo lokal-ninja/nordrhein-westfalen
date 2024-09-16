@@ -1,11 +1,11 @@
 id: 48917323
-type: way
+type: node
 latitude: 50.65137
 longitude: 7.30211
 postcode: "53604"
 city: Bad Honnef
-street: "Himberger Straße"
-housenumber: 35
+street: Himberger Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://edeka-klein.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://edeka-klein.de/

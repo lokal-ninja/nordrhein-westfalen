@@ -1,11 +1,11 @@
 id: 331078344
-type: way
+type: node
 latitude: 51.12518
 longitude: 8.06345
 postcode: "57368"
 city: Lennestadt
-street: "Meggener Straße"
-housenumber: 9
+street: Meggener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

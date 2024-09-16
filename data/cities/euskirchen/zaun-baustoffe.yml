@@ -1,11 +1,11 @@
 id: 161959094
-type: way
+type: node
 latitude: 50.65701
 longitude: 6.79442
 postcode: "53879"
 city: Euskirchen
-street: "Pützbergring"
-housenumber: 18
+street: Pützbergring
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

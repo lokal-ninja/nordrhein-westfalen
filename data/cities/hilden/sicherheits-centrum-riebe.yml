@@ -4,8 +4,8 @@ latitude: 51.16598
 longitude: 6.93295
 postcode: "40721"
 city: Hilden
-street: "Klotzstraße"
-housenumber: 31
-phone: "+49 2103 581 888"
-opening_hours: "Mo-Sa 09:00-13:00||Mo,Tu,Th 13:00-17:30;PH off"
-website: "https://www.sc-riebe.de"
+street: Klotzstraße
+housenumber: "31"
+phone: +49 2103 581 888
+opening_hours: Mo-Sa 09:00-13:00||Mo,Tu,Th 13:00-17:30;PH off
+website: https://www.sc-riebe.de

@@ -1,11 +1,11 @@
 id: 320863942
-type: way
+type: node
 latitude: 51.63646
 longitude: 7.39151
 postcode: "45731"
 city: Waltrop
-street: "Friedhofstraße"
-housenumber: 90
+street: Friedhofstraße
+housenumber: "90"
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
+opening_hours: PH,Mo-Su 00:00-24:00
 website: ""

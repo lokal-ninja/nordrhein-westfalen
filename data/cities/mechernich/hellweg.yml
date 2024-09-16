@@ -1,11 +1,11 @@
 id: 87347724
-type: way
+type: node
 latitude: 50.61827
 longitude: 6.64768
 postcode: "53894"
 city: Mechernich
-street: "Monzenbend"
-housenumber: 3
-phone: "+49 2443 317710"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de/cms/de/Filialen/Mechernich-Kommern/Mechernich-Kommern.htm"
+street: Monzenbend
+housenumber: "3"
+phone: +49 2443 317710
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hellweg.de/cms/de/Filialen/Mechernich-Kommern/Mechernich-Kommern.htm

@@ -1,11 +1,11 @@
 id: 101534640
-type: way
+type: node
 latitude: 51.66956
 longitude: 7.62508
 postcode: "59368"
 city: Werne
-street: "Am Bahnhof"
-housenumber: 8
+street: Am Bahnhof
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-15:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-15:00; Su 08:00-11:00
 website: ""

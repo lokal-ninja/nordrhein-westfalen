@@ -1,11 +1,11 @@
 id: 388285434
-type: way
+type: node
 latitude: 50.9453
 longitude: 7.22148
 postcode: "51491"
 city: Overath
-street: "Olper Straße"
-housenumber: 69
-phone: "+49 2204 9873752"
-opening_hours: "Tu-Fr 12:00-14:00, 18:30-22:00; Sa 18:00-22:00"
-website: "https://www.piemonteca.com/"
+street: Olper Straße
+housenumber: "69"
+phone: +49 2204 9873752
+opening_hours: Tu-Fr 12:00-14:00, 18:30-22:00; Sa 18:00-22:00
+website: https://www.piemonteca.com/

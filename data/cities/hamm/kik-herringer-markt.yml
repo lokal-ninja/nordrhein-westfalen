@@ -4,8 +4,8 @@ latitude: 51.66081
 longitude: 7.74286
 postcode: "59077"
 city: Hamm
-street: "Herringer Markt"
-housenumber: 3
+street: Herringer Markt
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.kik.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.kik.de

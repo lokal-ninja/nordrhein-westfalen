@@ -1,11 +1,11 @@
 id: 26572975
-type: way
+type: node
 latitude: 50.91169
 longitude: 6.13735
 postcode: "52531"
 city: Übach-Palenberg
-street: "Roermonder Straße"
-housenumber: 55
+street: Roermonder Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.97649
 longitude: 7.29185
 postcode: "48727"
 city: Billerbeck
-street: "Münsterstraße"
-housenumber: 17
-phone: "+49 2543 303"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:30-12:30"
+street: Münsterstraße
+housenumber: "17"
+phone: +49 2543 303
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 314129097
-type: way
+type: node
 latitude: 51.43798
 longitude: 7.76555
 postcode: "58708"
 city: Menden (Sauerland)
-street: "Bräukerweg"
-housenumber: 113
+street: Bräukerweg
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30"
+opening_hours: Mo-Fr 10:00-18:30
 website: ""

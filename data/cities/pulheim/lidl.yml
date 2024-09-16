@@ -1,11 +1,11 @@
 id: 106222997
-type: way
+type: node
 latitude: 50.96315
 longitude: 6.7799
 postcode: "50259"
 city: Pulheim
-street: "Glessener Straße"
-housenumber: 2
+street: Glessener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/f/pulheim/brauweiler-glessener-str-2.html"
+website: https://www.lidl.de/f/pulheim/brauweiler-glessener-str-2.html

@@ -1,11 +1,11 @@
 id: 188207903
-type: way
+type: node
 latitude: 50.99209
 longitude: 7.45928
 postcode: "51766"
 city: Engelskirchen
-street: "Hüttenstraße"
-housenumber: 9
+street: Hüttenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:15"
+opening_hours: Mo-Sa 07:00-21:15
 website: ""

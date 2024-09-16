@@ -4,8 +4,8 @@ latitude: 51.37537
 longitude: 7.6977
 postcode: "58636"
 city: Iserlohn
-street: "Unnaer Straße"
-housenumber: 13
-phone: "+49 2371 12261"
-opening_hours: "Mo,We 11:00-14:00; Tu,Th,Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://weltlaeden.de/iserlohn/"
+street: Unnaer Straße
+housenumber: "13"
+phone: +49 2371 12261
+opening_hours: Mo,We 11:00-14:00; Tu,Th,Fr 11:00-18:00; Sa 11:00-15:00
+website: https://weltlaeden.de/iserlohn/

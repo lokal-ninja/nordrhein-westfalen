@@ -4,8 +4,8 @@ latitude: 51.25927
 longitude: 7.13701
 postcode: "42105"
 city: Wuppertal
-street: "Marienstraße"
-housenumber: 39
-phone: "+49 202 302584"
-opening_hours: "Tu,Th-Fr 08:00-16:00; We,Sa 08:00-13:00"
-website: "http://www.nord-stadt.de/?page_id=95"
+street: Marienstraße
+housenumber: "39"
+phone: +49 202 302584
+opening_hours: Tu,Th-Fr 08:00-16:00; We,Sa 08:00-13:00
+website: http://www.nord-stadt.de/?page_id=95

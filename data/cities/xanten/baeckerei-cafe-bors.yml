@@ -1,11 +1,11 @@
 id: 255163495
-type: way
+type: node
 latitude: 51.65932
 longitude: 6.44883
 postcode: "46509"
 city: Xanten
-street: "Bahnhofstraße"
-housenumber: 29
-phone: "+49 2801 9871180"
-opening_hours: "Mo-Fr 06:30-18:30; Sa-Su 07:00-16:00"
-website: "https://bors-mein-baecker.de/"
+street: Bahnhofstraße
+housenumber: "29"
+phone: +49 2801 9871180
+opening_hours: Mo-Fr 06:30-18:30; Sa-Su 07:00-16:00
+website: https://bors-mein-baecker.de/

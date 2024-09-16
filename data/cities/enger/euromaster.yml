@@ -1,11 +1,11 @@
 id: 262667332
-type: way
+type: node
 latitude: 52.16995
 longitude: 8.5876
 postcode: "32130"
 city: Enger
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

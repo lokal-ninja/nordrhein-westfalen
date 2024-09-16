@@ -4,8 +4,8 @@ latitude: 51.47999
 longitude: 7.2177
 postcode: "44787"
 city: Bochum
-street: "Huestraße"
-housenumber: 32
+street: Huestraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00
 website: ""

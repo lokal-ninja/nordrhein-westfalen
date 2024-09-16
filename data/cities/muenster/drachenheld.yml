@@ -4,8 +4,8 @@ latitude: 51.9603
 longitude: 7.63299
 postcode: "48143"
 city: Münster
-street: "Salzstraße"
-housenumber: 35
+street: Salzstraße
+housenumber: "35"
 phone: "017306244521"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-20:00"
-website: "https://www.drachenheld.de"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-20:00
+website: https://www.drachenheld.de

@@ -4,8 +4,8 @@ latitude: 51.47367
 longitude: 7.21591
 postcode: "44789"
 city: Bochum
-street: "Königsallee"
-housenumber: 12
-phone: "+49 234 5305580"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://www.stueckgut-bochum.de/"
+street: Königsallee
+housenumber: "12"
+phone: +49 234 5305580
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://www.stueckgut-bochum.de/

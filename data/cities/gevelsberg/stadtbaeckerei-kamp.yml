@@ -4,8 +4,8 @@ latitude: 51.31964
 longitude: 7.33968
 postcode: "58285"
 city: Gevelsberg
-street: "Mittelstraße"
-housenumber: 24
-phone: "+49 2332 555692"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-14:00"
-website: "https://www.stadtbaeckerei-kamp.de/"
+street: Mittelstraße
+housenumber: "24"
+phone: +49 2332 555692
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-14:00
+website: https://www.stadtbaeckerei-kamp.de/

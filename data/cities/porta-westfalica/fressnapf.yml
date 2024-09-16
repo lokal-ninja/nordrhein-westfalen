@@ -4,8 +4,8 @@ latitude: 52.25785
 longitude: 8.8979
 postcode: "32457"
 city: Porta Westfalica
-street: "Erbeweg"
-housenumber: 7
-phone: "+49 571 22924"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.fressnapf.de/"
+street: Erbeweg
+housenumber: "7"
+phone: +49 571 22924
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.fressnapf.de/

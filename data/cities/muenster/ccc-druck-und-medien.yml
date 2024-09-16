@@ -4,8 +4,8 @@ latitude: 51.97119
 longitude: 7.62564
 postcode: "48147"
 city: Münster
-street: "Coerdestraße"
-housenumber: 44
+street: Coerdestraße
+housenumber: "44"
 phone: "+49251922010"
 opening_hours: ""
-website: "https://ccc-ms.de/"
+website: https://ccc-ms.de/

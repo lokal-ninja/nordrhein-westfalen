@@ -1,11 +1,11 @@
 id: 104423544
-type: way
+type: node
 latitude: 51.44645
 longitude: 7.96535
 postcode: "59755"
 city: Arnsberg
-street: "Tappeweg"
-housenumber: 13
+street: Tappeweg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

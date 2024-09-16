@@ -4,8 +4,8 @@ latitude: 51.48674
 longitude: 7.21405
 postcode: "44787"
 city: Bochum
-street: "Widumestraße"
-housenumber: 15
-phone: "+49 176 84467093"
-opening_hours: "Mo-Fr 10:30-17:30; Sa 10:30-14:00; PH off"
+street: Widumestraße
+housenumber: "15"
+phone: +49 176 84467093
+opening_hours: Mo-Fr 10:30-17:30; Sa 10:30-14:00; PH off
 website: ""

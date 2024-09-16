@@ -1,11 +1,11 @@
 id: 25000795
-type: way
+type: node
 latitude: 51.42996
 longitude: 6.84483
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Hansastraße"
-housenumber: 22
+street: Hansastraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

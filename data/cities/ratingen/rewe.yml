@@ -4,8 +4,8 @@ latitude: 51.33447
 longitude: 6.83289
 postcode: "40885"
 city: Ratingen
-street: "Speestraße"
-housenumber: 18
+street: Speestraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/

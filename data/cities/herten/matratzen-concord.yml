@@ -1,11 +1,11 @@
 id: 321635856
-type: way
+type: node
 latitude: 51.59485
 longitude: 7.128
 postcode: "45699"
 city: Herten
-street: "Resser Weg"
-housenumber: 24
+street: Resser Weg
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.matratzen-concord.de"
+website: https://www.matratzen-concord.de

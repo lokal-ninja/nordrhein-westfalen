@@ -1,11 +1,11 @@
 id: 85953456
-type: way
+type: node
 latitude: 51.39273
 longitude: 7.69179
 postcode: "58636"
 city: Iserlohn
-street: "Baarstraße"
-housenumber: 111
+street: Baarstraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

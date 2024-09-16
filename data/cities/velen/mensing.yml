@@ -4,8 +4,8 @@ latitude: 51.8873
 longitude: 6.91967
 postcode: "46342"
 city: Velen
-street: "Lange Straße"
-housenumber: 17
-phone: "+49 2863 5206"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:30-17:00"
-website: "https://www.baeckerei-mensing.de/"
+street: Lange Straße
+housenumber: "17"
+phone: +49 2863 5206
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:30-17:00
+website: https://www.baeckerei-mensing.de/

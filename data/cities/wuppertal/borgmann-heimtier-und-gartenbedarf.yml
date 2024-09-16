@@ -1,11 +1,11 @@
 id: 283143245
-type: way
+type: node
 latitude: 51.22837
 longitude: 7.20716
 postcode: "42369"
 city: Wuppertal
-street: "Geranienstraße"
-housenumber: 47
-phone: "+49 202 464614"
+street: Geranienstraße
+housenumber: "47"
+phone: +49 202 464614
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.61396
 longitude: 7.39448
 postcode: "45731"
 city: Waltrop
-street: "Leveringhäuser Straße"
-housenumber: 103
-phone: "+49 176 73882517"
-opening_hours: "Mo-Fr 06:30-19:00"
-website: "https://www.getraenkelieferant-dortmund.de"
+street: Leveringhäuser Straße
+housenumber: "103"
+phone: +49 176 73882517
+opening_hours: Mo-Fr 06:30-19:00
+website: https://www.getraenkelieferant-dortmund.de

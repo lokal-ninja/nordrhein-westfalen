@@ -1,11 +1,11 @@
 id: 292227406
-type: way
+type: node
 latitude: 51.09068
 longitude: 6.84574
 postcode: "41539"
 city: Dormagen
-street: "Kölner Straße"
-housenumber: 15
+street: Kölner Straße
+housenumber: "15"
 phone: "+49213342525"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-14:00"
-website: "https://www.auto-kappenberg.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-14:00
+website: https://www.auto-kappenberg.de/

@@ -1,11 +1,11 @@
 id: 259800600
-type: way
+type: node
 latitude: 50.93402
 longitude: 7.29068
 postcode: "51491"
 city: Overath
-street: "Hauptstraße"
-housenumber: 92
-phone: "+49 2206 608941"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 09:00-20:00; PH 09:00-20:00"
-website: "https://www.sunpoint.de/studiofinder/solarium-overath"
+street: Hauptstraße
+housenumber: "92"
+phone: +49 2206 608941
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 09:00-20:00; PH 09:00-20:00
+website: https://www.sunpoint.de/studiofinder/solarium-overath

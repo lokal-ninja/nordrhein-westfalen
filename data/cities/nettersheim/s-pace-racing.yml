@@ -1,11 +1,11 @@
 id: 254542562
-type: way
+type: node
 latitude: 50.50468
 longitude: 6.66064
 postcode: "53947"
 city: Nettersheim
-street: "Gewerbegebiet Zingsheim-Süd"
-housenumber: 13
+street: Gewerbegebiet Zingsheim-Süd
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://s-paceracing.de/wordpress/impressum/"
+website: http://s-paceracing.de/wordpress/impressum/

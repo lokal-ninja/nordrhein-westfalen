@@ -4,8 +4,8 @@ latitude: 52.06606
 longitude: 8.7517
 postcode: "32108"
 city: Bad Salzuflen
-street: "Otto-Hahn-Straße"
-housenumber: 41
-phone: "+49 5222 3689382"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.zentauron.de"
+street: Otto-Hahn-Straße
+housenumber: "41"
+phone: +49 5222 3689382
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.zentauron.de

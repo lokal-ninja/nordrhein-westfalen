@@ -1,11 +1,11 @@
 id: 228388299
-type: way
+type: node
 latitude: 52.16052
 longitude: 8.6106
 postcode: "32120"
 city: Hiddenhausen
-street: "Heidestraße"
-housenumber: 42
+street: Heidestraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://obsthof-otte.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://obsthof-otte.de/

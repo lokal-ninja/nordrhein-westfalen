@@ -1,11 +1,11 @@
 id: 229779538
-type: way
+type: node
 latitude: 51.46757
 longitude: 6.81718
 postcode: "47138"
 city: Duisburg
-street: "Obermeidericher Straße"
-housenumber: 30
+street: Obermeidericher Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

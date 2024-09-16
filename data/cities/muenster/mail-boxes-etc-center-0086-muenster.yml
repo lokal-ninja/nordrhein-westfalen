@@ -4,8 +4,8 @@ latitude: 51.98358
 longitude: 7.63411
 postcode: "48147"
 city: Münster
-street: "Nevinghoff"
-housenumber: 18
-phone: "+49 251 13397910"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.mbe.de/de/versand-druck/mnster/0086"
+street: Nevinghoff
+housenumber: "18"
+phone: +49 251 13397910
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.mbe.de/de/versand-druck/mnster/0086

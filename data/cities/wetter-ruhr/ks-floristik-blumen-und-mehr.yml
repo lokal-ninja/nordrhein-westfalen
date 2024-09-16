@@ -1,11 +1,12 @@
 id: 271122596
-type: way
+type: node
 latitude: 51.37023
 longitude: 7.38362
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Von-der-Recke-Straße"
-housenumber: 13
-phone: "+49 2335 60487"
-opening_hours: "Mo-Tu,Th-Fr 08:30-13:00,15:00-18:00; We 08:30-13:00; Sa 08:00-13:00; PH,Su off"
-website: "https://www.ks-floristik.de/"
+street: Von-der-Recke-Straße
+housenumber: "13"
+phone: +49 2335 60487
+opening_hours: Mo-Tu,Th-Fr 08:30-13:00,15:00-18:00; We 08:30-13:00; Sa 08:00-13:00;
+    PH,Su off
+website: https://www.ks-floristik.de/

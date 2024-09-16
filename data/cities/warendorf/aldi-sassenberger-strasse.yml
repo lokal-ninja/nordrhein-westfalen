@@ -1,11 +1,11 @@
 id: 261869110
-type: way
+type: node
 latitude: 51.95723
 longitude: 8.00545
 postcode: "48231"
 city: Warendorf
-street: "Sassenberger Straße"
-housenumber: 57
+street: Sassenberger Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

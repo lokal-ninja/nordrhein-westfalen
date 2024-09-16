@@ -4,8 +4,8 @@ latitude: 51.06335
 longitude: 6.09583
 postcode: "52525"
 city: Heinsberg
-street: "Hochstraße"
-housenumber: 125
-phone: "+49 2452 909293"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 9:30-17:00"
-website: "https://www.handelshaus-heinrichs.de/"
+street: Hochstraße
+housenumber: "125"
+phone: +49 2452 909293
+opening_hours: Mo-Fr 09:00-19:00; Sa 9:30-17:00
+website: https://www.handelshaus-heinrichs.de/

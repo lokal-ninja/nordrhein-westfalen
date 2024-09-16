@@ -4,8 +4,8 @@ latitude: 50.77822
 longitude: 6.08832
 postcode: "52062"
 city: Aachen
-street: "Alexanderstraße"
-housenumber: 5
+street: Alexanderstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-17:00; Su,PH off"
-website: "https://nobis-printen.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-17:00; Su,PH off
+website: https://nobis-printen.de/

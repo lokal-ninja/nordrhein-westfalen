@@ -4,8 +4,8 @@ latitude: 52.26387
 longitude: 7.71513
 postcode: "49477"
 city: Ibbenbüren
-street: "Münsterstraße"
-housenumber: 98
+street: Münsterstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.mysmolo.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.mysmolo.de/

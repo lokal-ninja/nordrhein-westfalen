@@ -4,8 +4,8 @@ latitude: 51.26036
 longitude: 6.9126
 postcode: "40629"
 city: Düsseldorf
-street: "Bergische Landstraße"
-housenumber: 618
-phone: "+49 (0) 211 298686"
-opening_hours: "Mo-Th 15:00-19:00; Fr 14:00-19:00; Sa 10:00-14:00"
-website: "https://www.gerards-weinmarkt.de/"
+street: Bergische Landstraße
+housenumber: "618"
+phone: +49 (0) 211 298686
+opening_hours: Mo-Th 15:00-19:00; Fr 14:00-19:00; Sa 10:00-14:00
+website: https://www.gerards-weinmarkt.de/

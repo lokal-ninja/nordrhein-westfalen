@@ -4,8 +4,8 @@ latitude: 51.53416
 longitude: 7.69248
 postcode: "59423"
 city: Unna
-street: "Ostring"
-housenumber: 9
-phone: "+49 2303 22200"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://friseur-treffpunkt.de"
+street: Ostring
+housenumber: "9"
+phone: +49 2303 22200
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://friseur-treffpunkt.de

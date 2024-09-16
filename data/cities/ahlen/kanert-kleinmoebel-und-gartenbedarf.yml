@@ -1,11 +1,11 @@
 id: 280714565
-type: way
+type: node
 latitude: 51.76941
 longitude: 7.9094
 postcode: "59229"
 city: Ahlen
-street: "Ostberg"
-housenumber: 17
+street: Ostberg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.23105
 longitude: 6.74662
 postcode: "40545"
 city: Düsseldorf
-street: "Belsenstraße"
-housenumber: 4
-phone: "+49 211 554927"
-opening_hours: "Mo off; Tu,Th 09:00-21:00; We,Fr 09:00-20:00; Sa off"
-website: "https://haarstolz.de/"
+street: Belsenstraße
+housenumber: "4"
+phone: +49 211 554927
+opening_hours: Mo off; Tu,Th 09:00-21:00; We,Fr 09:00-20:00; Sa off
+website: https://haarstolz.de/

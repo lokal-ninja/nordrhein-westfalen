@@ -1,11 +1,11 @@
 id: 227632128
-type: way
+type: node
 latitude: 51.64108
 longitude: 8.50985
 postcode: "59590"
 city: Geseke
-street: "Bachstraße"
-housenumber: 10
+street: Bachstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "http://www.sport-bartscher.de/"
+website: http://www.sport-bartscher.de/

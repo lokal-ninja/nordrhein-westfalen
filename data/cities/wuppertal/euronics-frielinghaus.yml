@@ -4,8 +4,9 @@ latitude: 51.26772
 longitude: 7.12649
 postcode: "42113"
 city: Wuppertal
-street: "Kruppstraße"
-housenumber: 79
-phone: "+49 202 760000"
-opening_hours: "Mo-Fr 09:00-12:00, 15:00-18:00, Sa 10:00-13:00; We 09:00-12:00; PH off"
-website: "https://euronics-frielinghaus.de"
+street: Kruppstraße
+housenumber: "79"
+phone: +49 202 760000
+opening_hours: Mo-Fr 09:00-12:00, 15:00-18:00, Sa 10:00-13:00; We 09:00-12:00; PH
+    off
+website: https://euronics-frielinghaus.de

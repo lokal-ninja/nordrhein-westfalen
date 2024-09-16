@@ -1,11 +1,11 @@
 id: 401492875
-type: way
+type: node
 latitude: 51.12845
 longitude: 6.80518
 postcode: "41541"
 city: Dormagen
-street: "Borsigstraße"
-housenumber: 9
-phone: "+49 2133 531515"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-15:00"
-website: "http://www.kfz-beivers.de/"
+street: Borsigstraße
+housenumber: "9"
+phone: +49 2133 531515
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-15:00
+website: http://www.kfz-beivers.de/

@@ -4,8 +4,8 @@ latitude: 50.96664
 longitude: 7.00154
 postcode: "51063"
 city: Köln
-street: "Wallstraße"
-housenumber: 143
+street: Wallstraße
+housenumber: "143"
 phone: ""
-opening_hours: "Tu 11:00-13:00, 15:00-17:00; We 11:00-13:00; Th-Fr 11:00-13:00, 15:00-17:00"
+opening_hours: Tu 11:00-13:00, 15:00-17:00; We 11:00-13:00; Th-Fr 11:00-13:00, 15:00-17:00
 website: ""

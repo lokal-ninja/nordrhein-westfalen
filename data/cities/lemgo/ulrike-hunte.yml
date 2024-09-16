@@ -4,8 +4,8 @@ latitude: 52.0277
 longitude: 8.90637
 postcode: "32657"
 city: Lemgo
-street: "Papenstraße"
-housenumber: 58
-phone: "+49 176 76788177"
-opening_hours: "by appointment"
+street: Papenstraße
+housenumber: "58"
+phone: +49 176 76788177
+opening_hours: '"by appointment"'
 website: ""

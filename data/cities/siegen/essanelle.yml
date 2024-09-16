@@ -4,8 +4,8 @@ latitude: 50.89572
 longitude: 8.02715
 postcode: "57076"
 city: Siegen
-street: "Hauptmarkt"
-housenumber: 1
-phone: "+49 271 46908"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.essanelle.de"
+street: Hauptmarkt
+housenumber: "1"
+phone: +49 271 46908
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.essanelle.de

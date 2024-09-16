@@ -1,11 +1,11 @@
 id: 173109593
-type: way
+type: node
 latitude: 52.11211
 longitude: 8.65872
 postcode: "32051"
 city: Herford
-street: "Deichkamp"
-housenumber: 13
+street: Deichkamp
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.47307
 longitude: 7.77
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Alleestraße"
-housenumber: 19
+street: Alleestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00, Sa 10:00-14:00"
-website: "https://www.repa-mediterran.de/"
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00, Sa 10:00-14:00
+website: https://www.repa-mediterran.de/

@@ -1,11 +1,11 @@
 id: 150754892
-type: way
+type: node
 latitude: 51.70236
 longitude: 8.71451
 postcode: "33106"
 city: Paderborn
-street: "Oberes Feld"
-housenumber: 2
+street: Oberes Feld
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.hoyer-energie.de/"
+opening_hours: 24/7
+website: https://www.hoyer-energie.de/

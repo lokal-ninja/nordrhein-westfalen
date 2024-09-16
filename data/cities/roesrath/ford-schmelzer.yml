@@ -1,11 +1,11 @@
 id: 113015009
-type: way
+type: node
 latitude: 50.88433
 longitude: 7.18553
 postcode: "51503"
 city: Rösrath
-street: "Oswald-von-Nell-Breuning-Straße"
-housenumber: 2
+street: Oswald-von-Nell-Breuning-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus.ford.de/schmelzer/"
+website: http://www.autohaus.ford.de/schmelzer/

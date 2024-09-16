@@ -4,8 +4,8 @@ latitude: 51.37275
 longitude: 7.70813
 postcode: "58636"
 city: Iserlohn
-street: "Friedrichstraße"
-housenumber: 47
+street: Friedrichstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.barbershop-iserlohn.de"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.barbershop-iserlohn.de

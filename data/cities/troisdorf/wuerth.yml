@@ -1,11 +1,11 @@
 id: 110719017
-type: way
+type: node
 latitude: 50.82399
 longitude: 7.10804
 postcode: "53842"
 city: Troisdorf
-street: "Langbaurghstraße"
-housenumber: 18
-phone: "+49 2241 234020"
+street: Langbaurghstraße
+housenumber: "18"
+phone: +49 2241 234020
 opening_hours: ""
 website: ""

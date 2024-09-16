@@ -4,8 +4,8 @@ latitude: 51.43228
 longitude: 6.76188
 postcode: "47051"
 city: Duisburg
-street: "Sonnenwall"
-housenumber: 40
-phone: "+49 203 284630"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-15:00; PH,Su closed"
-website: "https://www.biobaeckerei-schomaker.de/"
+street: Sonnenwall
+housenumber: "40"
+phone: +49 203 284630
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-15:00; PH,Su closed
+website: https://www.biobaeckerei-schomaker.de/

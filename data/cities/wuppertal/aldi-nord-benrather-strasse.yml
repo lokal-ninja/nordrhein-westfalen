@@ -1,11 +1,11 @@
 id: 55099903
-type: way
+type: node
 latitude: 51.25399
 longitude: 7.1
 postcode: "42115"
 city: Wuppertal
-street: "Benrather Straße"
-housenumber: 14
+street: Benrather Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

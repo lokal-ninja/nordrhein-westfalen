@@ -1,11 +1,11 @@
 id: 757831474
-type: way
+type: node
 latitude: 51.60527
 longitude: 7.51512
 postcode: "44532"
 city: Lünen
-street: "Bergstraße"
-housenumber: 3
+street: Bergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:00; Su 8:00-17:00"
-website: "https://baeckerei-kanne.de/"
+opening_hours: Mo-Sa 06:30-19:00; Su 8:00-17:00
+website: https://baeckerei-kanne.de/

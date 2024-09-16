@@ -1,11 +1,11 @@
 id: 30843479
-type: way
+type: node
 latitude: 51.52394
 longitude: 7.48995
 postcode: "44145"
 city: Dortmund
-street: "Brackeler Straße"
-housenumber: 51
+street: Brackeler Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,12 @@
 id: 67400555
-type: way
+type: node
 latitude: 51.37417
 longitude: 7.26335
 postcode: "45549"
 city: Sprockhövel
-street: "Uhlenbruchstraße"
-housenumber: 44
+street: Uhlenbruchstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Tu 09:00-13:00, 15:00-18:30; Th 15:00-18:30; Sa 09:00-13:00; Mo, We, Fr, Su, PH off"
+opening_hours: Tu 09:00-13:00, 15:00-18:30; Th 15:00-18:30; Sa 09:00-13:00; Mo, We,
+    Fr, Su, PH off
 website: ""

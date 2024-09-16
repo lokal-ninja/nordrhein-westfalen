@@ -4,8 +4,8 @@ latitude: 51.39308
 longitude: 6.78898
 postcode: "47279"
 city: Duisburg
-street: "Braunsberger Weg"
-housenumber: 15
+street: Braunsberger Weg
+housenumber: "15"
 phone: "+49203725229"
-opening_hours: "Tu-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.wedauerhaarstudio.de/"
+opening_hours: Tu-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.wedauerhaarstudio.de/

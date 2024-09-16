@@ -1,11 +1,11 @@
 id: 218757265
-type: way
+type: node
 latitude: 51.59973
 longitude: 7.09392
 postcode: "45701"
 city: Herten
-street: "Hertener Straße"
-housenumber: 38
+street: Hertener Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-21:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.9356
 longitude: 6.93943
 postcode: "50674"
 city: Köln
-street: "Habsburgerring"
-housenumber: 22
+street: Habsburgerring
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-17:00; Su,PH 07:00-12:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-17:00; Su,PH 07:00-12:00
 website: ""

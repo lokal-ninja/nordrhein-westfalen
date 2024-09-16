@@ -4,8 +4,8 @@ latitude: 51.29845
 longitude: 6.85347
 postcode: "40878"
 city: Ratingen
-street: "Oberstraße"
-housenumber: 52
+street: Oberstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.deichmann.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.deichmann.com/

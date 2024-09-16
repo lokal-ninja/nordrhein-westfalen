@@ -1,11 +1,11 @@
 id: 515199360
-type: way
+type: node
 latitude: 51.50824
 longitude: 6.82291
 postcode: "46149"
 city: Oberhausen
-street: "Dienststraße"
-housenumber: 14
-phone: "+49 208 651 854"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-16:00; Sa 10:00-12:00; PH Su off"
+street: Dienststraße
+housenumber: "14"
+phone: +49 208 651 854
+opening_hours: Mo-Fr 10:00-12:00, 14:00-16:00; Sa 10:00-12:00; PH Su off
 website: ""

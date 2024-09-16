@@ -1,11 +1,11 @@
 id: 246322331
-type: way
+type: node
 latitude: 51.2819
 longitude: 7.77933
 postcode: "58809"
 city: Neuenrade
-street: "Erste Straße"
-housenumber: 1
+street: Erste Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

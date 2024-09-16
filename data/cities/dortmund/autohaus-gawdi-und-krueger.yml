@@ -1,11 +1,11 @@
 id: 481817740
-type: way
+type: node
 latitude: 51.50735
 longitude: 7.39953
 postcode: "44379"
 city: Dortmund
-street: "Bünnerhelfstraße"
-housenumber: 25
+street: Bünnerhelfstraße
+housenumber: "25"
 phone: "+4923115098423"
 opening_hours: ""
-website: "https://www.autohaus-gk.de/"
+website: https://www.autohaus-gk.de/

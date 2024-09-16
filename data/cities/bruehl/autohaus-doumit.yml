@@ -1,11 +1,11 @@
 id: 182668683
-type: way
+type: node
 latitude: 50.83129
 longitude: 6.92475
 postcode: "50321"
 city: Brühl
-street: "Wesselinger Straße"
-housenumber: 9
+street: Wesselinger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-14:00
 website: ""

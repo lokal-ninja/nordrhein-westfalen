@@ -4,8 +4,8 @@ latitude: 51.75484
 longitude: 8.03877
 postcode: "59269"
 city: Beckum
-street: "Weststraße"
-housenumber: 17
+street: Weststraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://lorant-mode.de/"
+website: https://lorant-mode.de/

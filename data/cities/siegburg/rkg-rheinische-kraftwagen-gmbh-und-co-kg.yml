@@ -1,11 +1,11 @@
 id: 112167398
-type: way
+type: node
 latitude: 50.79078
 longitude: 7.22708
 postcode: "53721"
 city: Siegburg
-street: "Wahnbachtalstraße"
-housenumber: 20
+street: Wahnbachtalstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.rkg.de/de/standorte/mercedes-benz/#siegburg"
+website: http://www.rkg.de/de/standorte/mercedes-benz/#siegburg

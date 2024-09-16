@@ -1,11 +1,11 @@
 id: 1068082668
-type: way
+type: node
 latitude: 51.53305
 longitude: 7.42709
 postcode: "44147"
 city: Dortmund
-street: "Franziusstraße"
+street: Franziusstraße
 housenumber: 103-105
-phone: "+49 231 88020"
+phone: +49 231 88020
 opening_hours: ""
-website: "https://www.janssen-dach.de/"
+website: https://www.janssen-dach.de/

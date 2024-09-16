@@ -4,8 +4,8 @@ latitude: 50.71405
 longitude: 7.11248
 postcode: "53129"
 city: Bonn
-street: "Rheinweg"
-housenumber: 125
+street: Rheinweg
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00; Tu,Th,Fr 14:30-18:30; Su off"
+opening_hours: Mo-Fr 09:00-13:00; Tu,Th,Fr 14:30-18:30; Su off
 website: ""

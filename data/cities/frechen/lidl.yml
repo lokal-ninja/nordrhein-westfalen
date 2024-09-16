@@ -1,11 +1,11 @@
 id: 131497294
-type: way
+type: node
 latitude: 50.92338
 longitude: 6.81731
 postcode: "50226"
 city: Frechen
-street: "Zedernweg"
-housenumber: 3
+street: Zedernweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

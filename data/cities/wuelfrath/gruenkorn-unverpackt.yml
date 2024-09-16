@@ -4,8 +4,9 @@ latitude: 51.28185
 longitude: 7.03634
 postcode: "42489"
 city: Wülfrath
-street: "Wilhelmstraße"
-housenumber: 139
+street: Wilhelmstraße
+housenumber: "139"
 phone: "+4920588909790"
-opening_hours: "Mo-Tu 10:00-13:30,14:30-18:00; We 10:00-13:30; Th 10:00-13:30,14:30-18:00; Fr 10:00-19:30; Sa 10:00-14:00; PH closed"
-website: "https://www.gruenkornunverpackt.de"
+opening_hours: Mo-Tu 10:00-13:30,14:30-18:00; We 10:00-13:30; Th 10:00-13:30,14:30-18:00;
+    Fr 10:00-19:30; Sa 10:00-14:00; PH closed
+website: https://www.gruenkornunverpackt.de

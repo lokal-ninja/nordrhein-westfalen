@@ -4,8 +4,8 @@ latitude: 51.48033
 longitude: 7.21842
 postcode: "44787"
 city: Bochum
-street: "Dr.-Ruer-Platz"
-housenumber: 2
+street: Dr.-Ruer-Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00
 website: ""

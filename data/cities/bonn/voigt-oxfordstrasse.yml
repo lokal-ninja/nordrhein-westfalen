@@ -4,8 +4,8 @@ latitude: 50.73724
 longitude: 7.10089
 postcode: "53111"
 city: Bonn
-street: "Oxfordstraße"
-housenumber: 1
-phone: "+49 228 97662365"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-17:00"
-website: "https://www.baeckerei-voigt.de/filialen/oxfordstrasse-1-53111-bonn/"
+street: Oxfordstraße
+housenumber: "1"
+phone: +49 228 97662365
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-17:00
+website: https://www.baeckerei-voigt.de/filialen/oxfordstrasse-1-53111-bonn/

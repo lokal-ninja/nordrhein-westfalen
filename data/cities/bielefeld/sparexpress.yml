@@ -1,11 +1,11 @@
 id: 563329350
-type: way
+type: node
 latitude: 51.97899
 longitude: 8.50498
 postcode: "33647"
 city: Bielefeld
-street: "Südring"
-housenumber: 44
+street: Südring
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

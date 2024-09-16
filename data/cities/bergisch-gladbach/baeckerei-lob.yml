@@ -1,11 +1,11 @@
 id: 328357384
-type: way
+type: node
 latitude: 50.9582
 longitude: 7.14512
 postcode: "51427"
 city: Bergisch Gladbach
-street: "An der Bahn"
-housenumber: 5
+street: An der Bahn
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-15:00; Su,PH 08:00-11:00"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-15:00; Su,PH 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.71647
 longitude: 7.03443
 postcode: "53123"
 city: Bonn
-street: "Alter Heerweg"
-housenumber: 2
-phone: "+49 228 648010"
-opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-13:30"
-website: "https://www.weck.de/werksverkauf/"
+street: Alter Heerweg
+housenumber: "2"
+phone: +49 228 648010
+opening_hours: Mo-Th 08:00-15:00; Fr 08:00-13:30
+website: https://www.weck.de/werksverkauf/

@@ -4,8 +4,8 @@ latitude: 52.02014
 longitude: 8.5303
 postcode: "33602"
 city: Bielefeld
-street: "Obernstraße"
-housenumber: 17
+street: Obernstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
 website: ""

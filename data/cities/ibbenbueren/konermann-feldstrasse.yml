@@ -1,11 +1,11 @@
 id: 314759523
-type: way
+type: node
 latitude: 52.27512
 longitude: 7.70051
 postcode: "49477"
 city: Ibbenbüren
-street: "Feldstraße"
-housenumber: 3
+street: Feldstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

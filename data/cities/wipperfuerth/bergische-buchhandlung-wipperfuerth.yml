@@ -4,8 +4,8 @@ latitude: 51.11762
 longitude: 7.39859
 postcode: "51688"
 city: Wipperfürth
-street: "Marktplatz"
-housenumber: 7
-phone: "+49 2267 828340"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "http://www.bergischebuchhandlung.de/index.php?id=22"
+street: Marktplatz
+housenumber: "7"
+phone: +49 2267 828340
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: http://www.bergischebuchhandlung.de/index.php?id=22

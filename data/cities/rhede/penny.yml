@@ -1,11 +1,11 @@
 id: 1273021626
-type: way
+type: node
 latitude: 51.82747
 longitude: 6.69909
 postcode: "46414"
 city: Rhede
-street: "Krechtinger Straße"
-housenumber: 81
+street: Krechtinger Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45"
+opening_hours: Mo-Sa 07:00-21:45
 website: ""

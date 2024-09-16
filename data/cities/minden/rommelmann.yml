@@ -1,11 +1,11 @@
 id: 51795470
-type: way
+type: node
 latitude: 52.27267
 longitude: 8.86317
 postcode: "32429"
 city: Minden
-street: "Lübbecker Straße"
-housenumber: 199
-phone: "+49 571 97235544"
+street: Lübbecker Straße
+housenumber: "199"
+phone: +49 571 97235544
 opening_hours: ""
 website: ""

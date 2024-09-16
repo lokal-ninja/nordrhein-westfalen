@@ -1,11 +1,11 @@
 id: 300417086
-type: way
+type: node
 latitude: 51.67656
 longitude: 7.12483
 postcode: "45772"
 city: Marl
-street: "Carl-Duisberg-Straße"
-housenumber: 61
+street: Carl-Duisberg-Straße
+housenumber: "61"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 253584225
-type: way
+type: node
 latitude: 52.27147
 longitude: 7.41175
 postcode: "48431"
 city: Rheine
-street: "Nienbergstraße"
-housenumber: 100
+street: Nienbergstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

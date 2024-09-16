@@ -1,11 +1,11 @@
 id: 266935050
-type: way
+type: node
 latitude: 51.11391
 longitude: 6.77027
 postcode: "41542"
 city: Dormagen
-street: "Saint-André-Straße"
-housenumber: 15
+street: Saint-André-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

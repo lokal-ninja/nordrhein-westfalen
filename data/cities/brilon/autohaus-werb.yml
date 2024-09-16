@@ -1,11 +1,11 @@
 id: 315067213
-type: way
+type: node
 latitude: 51.40589
 longitude: 8.58425
 postcode: "59929"
 city: Brilon
-street: "Almerfeldweg"
-housenumber: 48
+street: Almerfeldweg
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "https://alfa-werb.de/"
+website: https://alfa-werb.de/

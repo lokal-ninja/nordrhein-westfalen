@@ -4,8 +4,8 @@ latitude: 50.83761
 longitude: 7.33229
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://www.gilgens.de/"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00
+website: https://www.gilgens.de/

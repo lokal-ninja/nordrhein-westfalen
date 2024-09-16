@@ -4,8 +4,8 @@ latitude: 50.89186
 longitude: 6.99632
 postcode: "50996"
 city: Köln
-street: "Hauptstraße"
-housenumber: 122
+street: Hauptstraße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-18:00"
-website: "http://pralinen-schokoladen-köln.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-18:00
+website: http://pralinen-schokoladen-köln.de/

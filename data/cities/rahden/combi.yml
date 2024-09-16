@@ -1,11 +1,11 @@
 id: 91385570
-type: way
+type: node
 latitude: 52.43449
 longitude: 8.61665
 postcode: "32369"
 city: Rahden
-street: "Weher Straße"
-housenumber: 13
+street: Weher Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

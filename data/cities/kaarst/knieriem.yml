@@ -1,11 +1,11 @@
 id: 127628456
-type: way
+type: node
 latitude: 51.22797
 longitude: 6.60094
 postcode: "41564"
 city: Kaarst
-street: "Industriestraße"
-housenumber: 31
-phone: "+49 2131 667171"
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-16:30"
-website: "https://knieriem-sprenger.de/"
+street: Industriestraße
+housenumber: "31"
+phone: +49 2131 667171
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-16:30
+website: https://knieriem-sprenger.de/

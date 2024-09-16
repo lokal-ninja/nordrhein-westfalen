@@ -1,11 +1,11 @@
 id: 49508454
-type: way
+type: node
 latitude: 50.74679
 longitude: 7.06181
 postcode: "53119"
 city: Bonn
-street: "Schneidemühler Straße"
-housenumber: 1
-phone: "+49 228 2428310"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/59/"
+street: Schneidemühler Straße
+housenumber: "1"
+phone: +49 228 2428310
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/59/

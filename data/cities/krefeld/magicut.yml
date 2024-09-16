@@ -1,11 +1,11 @@
 id: 258416545
-type: way
+type: node
 latitude: 51.34334
 longitude: 6.55193
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 126
+street: Hülser Straße
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

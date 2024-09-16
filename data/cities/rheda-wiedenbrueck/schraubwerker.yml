@@ -1,11 +1,11 @@
 id: 228404794
-type: way
+type: node
 latitude: 51.86121
 longitude: 8.27529
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Langer Kamp"
-housenumber: 3
+street: Langer Kamp
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://schraubwerker.de/"
+website: https://schraubwerker.de/

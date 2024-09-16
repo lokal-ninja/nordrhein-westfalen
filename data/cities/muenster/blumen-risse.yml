@@ -1,11 +1,11 @@
 id: 75298308
-type: way
+type: node
 latitude: 51.93775
 longitude: 7.6486
 postcode: "48155"
 city: Münster
-street: "Willy-Brandt-Weg"
-housenumber: 10
+street: Willy-Brandt-Weg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-16:00"
-website: "http://www.blumenrisse.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-16:00
+website: http://www.blumenrisse.de/

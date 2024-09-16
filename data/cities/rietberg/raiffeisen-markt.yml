@@ -1,11 +1,11 @@
 id: 413378668
-type: way
+type: node
 latitude: 51.81789
 longitude: 8.47786
 postcode: "33397"
 city: Rietberg
-street: "Neuenkirchener Straße"
-housenumber: 213
+street: Neuenkirchener Straße
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

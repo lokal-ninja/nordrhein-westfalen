@@ -4,8 +4,8 @@ latitude: 50.96476
 longitude: 7.16206
 postcode: "51429"
 city: Bergisch Gladbach
-street: "Schloßstraße"
-housenumber: 73
-phone: "+49 2204 54016"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00"
-website: "https://www.buchhandlung-funk.de/"
+street: Schloßstraße
+housenumber: "73"
+phone: +49 2204 54016
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00
+website: https://www.buchhandlung-funk.de/

@@ -4,8 +4,8 @@ latitude: 51.48875
 longitude: 7.20849
 postcode: "44809"
 city: Bochum
-street: "Dorstener Straße"
-housenumber: 75
-phone: "+49 234 9520010"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; We,Sa 10:00-13:00; PH off"
+street: Dorstener Straße
+housenumber: "75"
+phone: +49 234 9520010
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; We,Sa 10:00-13:00; PH off
 website: ""

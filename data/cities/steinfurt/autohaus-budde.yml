@@ -1,11 +1,11 @@
 id: 247537919
-type: way
+type: node
 latitude: 52.1589
 longitude: 7.32076
 postcode: "48565"
 city: Steinfurt
-street: "Carl-Benz-Straße"
-housenumber: 4
+street: Carl-Benz-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:00
 website: ""

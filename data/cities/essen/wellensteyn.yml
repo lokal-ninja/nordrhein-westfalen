@@ -1,11 +1,11 @@
 id: 181078667
-type: way
+type: node
 latitude: 51.45721
 longitude: 7.01285
 postcode: "45127"
 city: Essen
-street: "Kettwiger Straße"
-housenumber: 54
+street: Kettwiger Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

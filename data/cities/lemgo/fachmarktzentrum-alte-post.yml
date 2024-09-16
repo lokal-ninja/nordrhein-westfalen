@@ -1,11 +1,11 @@
 id: 342897387
-type: way
+type: node
 latitude: 52.02873
 longitude: 8.90791
 postcode: "32657"
 city: Lemgo
-street: "Bruchweg"
-housenumber: 14
+street: Bruchweg
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 417892723
-type: way
+type: node
 latitude: 51.02288
 longitude: 7.56622
 postcode: "51643"
 city: Gummersbach
 street: ""
-housenumber: 
-phone: "+49 2261 9260-60"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.ovaginfo.de/de/service/niederlassungen.html"
+housenumber: ""
+phone: +49 2261 9260-60
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://www.ovaginfo.de/de/service/niederlassungen.html

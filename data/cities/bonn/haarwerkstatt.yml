@@ -4,8 +4,8 @@ latitude: 50.73522
 longitude: 7.101
 postcode: "53111"
 city: Bonn
-street: "Acherstraße"
-housenumber: 8
-phone: "+49 228 9086978"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-16:00; PH,Su,Mo off"
+street: Acherstraße
+housenumber: "8"
+phone: +49 228 9086978
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-16:00; PH,Su,Mo off
 website: ""

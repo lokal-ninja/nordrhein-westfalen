@@ -1,11 +1,11 @@
 id: 262067710
-type: way
+type: node
 latitude: 52.1792
 longitude: 7.52095
 postcode: "48282"
 city: Emsdetten
-street: "Hermannstraße"
-housenumber: 5
+street: Hermannstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

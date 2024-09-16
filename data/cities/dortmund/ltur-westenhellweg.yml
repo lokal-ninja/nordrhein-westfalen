@@ -4,8 +4,8 @@ latitude: 51.51418
 longitude: 7.46507
 postcode: "44137"
 city: Dortmund
-street: "Westenhellweg"
-housenumber: 24
+street: Westenhellweg
+housenumber: "24"
 phone: "+492315864320"
-opening_hours: "Mo-Sa 11:00-18:00; PH,Su off"
-website: "https://www.ltur.com/de/information/shopfinder#!/l/dortmund/westenhellweg-70-84/1151383"
+opening_hours: Mo-Sa 11:00-18:00; PH,Su off
+website: https://www.ltur.com/de/information/shopfinder#!/l/dortmund/westenhellweg-70-84/1151383

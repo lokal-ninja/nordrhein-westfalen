@@ -1,11 +1,11 @@
 id: 92714586
-type: way
+type: node
 latitude: 51.30572
 longitude: 6.83519
 postcode: "40880"
 city: Ratingen
-street: "Halskestraße"
-housenumber: 24
-phone: "+49 2102 46544"
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-16:00"
-website: "https://www.leuchtenhalle.com/"
+street: Halskestraße
+housenumber: "24"
+phone: +49 2102 46544
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-16:00
+website: https://www.leuchtenhalle.com/

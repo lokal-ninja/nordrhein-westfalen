@@ -4,8 +4,8 @@ latitude: 50.9288
 longitude: 6.91825
 postcode: "50931"
 city: Köln
-street: "Bachemer Straße"
-housenumber: 85
-phone: "+49 221 222 06 706"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://happyhome.koeln/"
+street: Bachemer Straße
+housenumber: "85"
+phone: +49 221 222 06 706
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://happyhome.koeln/

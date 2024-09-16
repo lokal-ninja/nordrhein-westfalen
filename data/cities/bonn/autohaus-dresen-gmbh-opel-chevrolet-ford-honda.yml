@@ -1,11 +1,11 @@
 id: 123659376
-type: way
+type: node
 latitude: 50.74118
 longitude: 7.08447
 postcode: "53119"
 city: Bonn
-street: "Ellerstraße"
+street: Ellerstraße
 housenumber: 73-75
-phone: "+49 228 26950"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
-website: "https://www.dresen.de/dresen-gruppe/standorte/bonn/"
+phone: +49 228 26950
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
+website: https://www.dresen.de/dresen-gruppe/standorte/bonn/

@@ -4,8 +4,10 @@ latitude: 51.58949
 longitude: 6.30903
 postcode: "47626"
 city: Kevelaer
-street: "Binnenheide"
-housenumber: 6
-phone: "+49 172 2080620"
-opening_hours: "Mo. - Sa.: 08:00 - 20:00 Uhr, So.: 10:00 - 18:00 Uhr, Winter (Oktober bis Februar) Mo. - Fr.: 08:00 - 19:00 Uhr Sa.: 08:00 - 18:00 Uhr So.: 10:00 - 16:00 Uhr"
-website: "https://landmomente-kevelaer.de/"
+street: Binnenheide
+housenumber: "6"
+phone: +49 172 2080620
+opening_hours: 'Mo. - Sa.: 08:00 - 20:00 Uhr, So.: 10:00 - 18:00 Uhr, Winter (Oktober
+    bis Februar) Mo. - Fr.: 08:00 - 19:00 Uhr Sa.: 08:00 - 18:00 Uhr So.: 10:00 -
+    16:00 Uhr'
+website: https://landmomente-kevelaer.de/

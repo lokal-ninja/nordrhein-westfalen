@@ -4,8 +4,8 @@ latitude: 51.72167
 longitude: 8.74922
 postcode: "33102"
 city: Paderborn
-street: "Paderwall"
-housenumber: 7
+street: Paderwall
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://www.teambande.de/"
+opening_hours: Mo-Fr 14:00-18:00
+website: https://www.teambande.de/

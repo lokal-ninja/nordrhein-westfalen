@@ -1,11 +1,11 @@
 id: 115413530
-type: way
+type: node
 latitude: 51.43788
 longitude: 6.64584
 postcode: "47441"
 city: Moers
-street: "Chemnitzer Straße"
-housenumber: 27
+street: Chemnitzer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su off
 website: ""

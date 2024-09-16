@@ -1,11 +1,12 @@
 id: 136122601
-type: way
+type: node
 latitude: 50.82969
 longitude: 6.95067
 postcode: "50389"
 city: Wesseling
-street: "Hauptstraße"
-housenumber: 53
+street: Hauptstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo,Tu 07:00-12:30,14:30-18:30; We 07:00-12:30; Th,Fr 07:00-12:30,14:30-18:45; Sa 07:00-13:00"
+opening_hours: Mo,Tu 07:00-12:30,14:30-18:30; We 07:00-12:30; Th,Fr 07:00-12:30,14:30-18:45;
+    Sa 07:00-13:00
 website: ""

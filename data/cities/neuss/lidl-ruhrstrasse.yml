@@ -1,11 +1,11 @@
 id: 49575626
-type: way
+type: node
 latitude: 51.16019
 longitude: 6.73863
 postcode: "41469"
 city: Neuss
-street: "Ruhrstraße"
-housenumber: 42
+street: Ruhrstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 51.5609
 longitude: 8.32783
 postcode: "59609"
 city: Anröchte
-street: "Hauptstraße"
-housenumber: 66
-phone: "+49 2947 4270"
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:00-13:00; Su, Ph off"
-website: "https://schmidthoette.de/"
+street: Hauptstraße
+housenumber: "66"
+phone: +49 2947 4270
+opening_hours: Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:00-13:00; Su, Ph off
+website: https://schmidthoette.de/

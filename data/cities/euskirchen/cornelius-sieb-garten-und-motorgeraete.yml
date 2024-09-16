@@ -4,8 +4,8 @@ latitude: 50.67046
 longitude: 6.77206
 postcode: "53879"
 city: Euskirchen
-street: "Frauenberger Straße"
-housenumber: 170
+street: Frauenberger Straße
+housenumber: "170"
 phone: ""
-opening_hours: "Mar-Sep: Mo-Fr 08:00-18:00; Oct-Feb: Mo-Fr 09:00-18:00"
+opening_hours: 'Mar-Sep: Mo-Fr 08:00-18:00; Oct-Feb: Mo-Fr 09:00-18:00'
 website: ""

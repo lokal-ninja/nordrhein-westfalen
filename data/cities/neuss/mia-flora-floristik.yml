@@ -1,11 +1,11 @@
 id: 133889429
-type: way
+type: node
 latitude: 51.22255
 longitude: 6.66313
 postcode: "41462"
 city: Neuss
-street: "Furtherhofstraße"
-housenumber: 23
-phone: "+49 1511 2310863"
+street: Furtherhofstraße
+housenumber: "23"
+phone: +49 1511 2310863
 opening_hours: ""
-website: "https://www.mia-flora.de/"
+website: https://www.mia-flora.de/

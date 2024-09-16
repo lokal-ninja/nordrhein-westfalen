@@ -1,11 +1,11 @@
 id: 326590867
-type: way
+type: node
 latitude: 51.54919
 longitude: 7.92842
 postcode: "59457"
 city: Werl
-street: "Soester Straße"
-housenumber: 50
+street: Soester Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-14:00"
-website: "https://www.rk-autowelt.de"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-14:00
+website: https://www.rk-autowelt.de

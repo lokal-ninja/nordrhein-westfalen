@@ -4,8 +4,8 @@ latitude: 50.82377
 longitude: 6.97991
 postcode: "50389"
 city: Wesseling
-street: "Bahnhofstraße"
-housenumber: 35
-phone: "+49 2236 43545"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "http://weibeler.de"
+street: Bahnhofstraße
+housenumber: "35"
+phone: +49 2236 43545
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
+website: http://weibeler.de

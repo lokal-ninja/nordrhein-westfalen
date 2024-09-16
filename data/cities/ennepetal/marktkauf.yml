@@ -1,11 +1,11 @@
 id: 24901403
-type: way
+type: node
 latitude: 51.29764
 longitude: 7.31288
 postcode: "58256"
 city: Ennepetal
-street: "Kölner Straße"
+street: Kölner Straße
 housenumber: 311-313
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

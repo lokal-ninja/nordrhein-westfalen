@@ -1,11 +1,11 @@
 id: 121810283
-type: way
+type: node
 latitude: 51.17479
 longitude: 6.91383
 postcode: "40721"
 city: Hilden
-street: "Westring"
-housenumber: 7
+street: Westring
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off"
-website: "https://moebel-boss.de/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off
+website: https://moebel-boss.de/

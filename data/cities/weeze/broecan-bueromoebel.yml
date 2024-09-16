@@ -1,11 +1,11 @@
 id: 138756475
-type: way
+type: node
 latitude: 51.62113
 longitude: 6.21096
 postcode: "47652"
 city: Weeze
-street: "Industriestraße"
-housenumber: 47
-phone: "+49-2837-91802"
+street: Industriestraße
+housenumber: "47"
+phone: +49-2837-91802
 opening_hours: ""
-website: "http://www.büromöbel-broecan.de"
+website: http://www.büromöbel-broecan.de

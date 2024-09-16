@@ -1,11 +1,11 @@
 id: 162548465
-type: way
+type: node
 latitude: 51.48772
 longitude: 8.26953
 postcode: "59581"
 city: Warstein
-street: "Fritz-Josephs-Straße"
-housenumber: 4
+street: Fritz-Josephs-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

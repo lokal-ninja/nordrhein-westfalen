@@ -4,8 +4,9 @@ latitude: 50.76439
 longitude: 6.08887
 postcode: "52066"
 city: Aachen
-street: "Krugenofen"
-housenumber: 19
-phone: "+49 241 95451475"
-opening_hours: "Tu 10:30-13:00; We-Fr 10:30-13:00,15:00-17:30; Sa 10:00-13:00; PH,Su,Mo off"
-website: "http://www.flautissimo.de/"
+street: Krugenofen
+housenumber: "19"
+phone: +49 241 95451475
+opening_hours: Tu 10:30-13:00; We-Fr 10:30-13:00,15:00-17:30; Sa 10:00-13:00; PH,Su,Mo
+    off
+website: http://www.flautissimo.de/

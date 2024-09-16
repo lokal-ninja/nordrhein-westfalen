@@ -1,11 +1,11 @@
 id: 79716544
-type: way
+type: node
 latitude: 50.81426
 longitude: 7.16603
 postcode: "53840"
 city: Troisdorf
-street: "Frankfurter Straße"
-housenumber: 11
+street: Frankfurter Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

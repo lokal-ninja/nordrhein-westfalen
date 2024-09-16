@@ -4,8 +4,8 @@ latitude: 51.71577
 longitude: 8.75324
 postcode: "33098"
 city: Paderborn
-street: "Jesuitenmauer"
-housenumber: 20
+street: Jesuitenmauer
+housenumber: "20"
 phone: ""
-opening_hours: "Mo off; Tu-We 9:00-18:00; Th-Fr 9:00-19:00; Sa 8:00-15:00"
-website: "https://www.hairbymekhail.de"
+opening_hours: Mo off; Tu-We 9:00-18:00; Th-Fr 9:00-19:00; Sa 8:00-15:00
+website: https://www.hairbymekhail.de

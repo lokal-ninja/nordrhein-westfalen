@@ -1,11 +1,11 @@
 id: 156393221
-type: way
+type: node
 latitude: 52.14491
 longitude: 7.2123
 postcode: "48629"
 city: Metelen
-street: "Kirchstraße"
-housenumber: 13
+street: Kirchstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

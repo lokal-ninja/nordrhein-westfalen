@@ -1,11 +1,11 @@
 id: 204864047
-type: way
+type: node
 latitude: 51.82405
 longitude: 8.85916
 postcode: "33189"
 city: Schlangen
-street: "Lippspringer Straße"
-housenumber: 87
-phone: "+49 5252 973547"
-opening_hours: "Mo-Tu,Th-Fr 15:00-18:00; Sa 10:00-13:00; We off"
-website: "https://www.sanderangebote.de/"
+street: Lippspringer Straße
+housenumber: "87"
+phone: +49 5252 973547
+opening_hours: Mo-Tu,Th-Fr 15:00-18:00; Sa 10:00-13:00; We off
+website: https://www.sanderangebote.de/

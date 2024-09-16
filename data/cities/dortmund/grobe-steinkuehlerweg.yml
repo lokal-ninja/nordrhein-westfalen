@@ -4,8 +4,8 @@ latitude: 51.49599
 longitude: 7.50776
 postcode: "44263"
 city: Dortmund
-street: "Steinkühlerweg"
-housenumber: 227
+street: Steinkühlerweg
+housenumber: "227"
 phone: "+492314277102"
-opening_hours: "Mo-Fr 05:30-14:00; Sa 05:30-13:00; Su 07:30-12:00"
-website: "https://www.baeckerei-grobe.de/"
+opening_hours: Mo-Fr 05:30-14:00; Sa 05:30-13:00; Su 07:30-12:00
+website: https://www.baeckerei-grobe.de/

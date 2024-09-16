@@ -1,11 +1,11 @@
 id: 136334619
-type: way
+type: node
 latitude: 52.0355
 longitude: 6.83762
 postcode: "48691"
 city: Vreden
-street: "Wüllener Straße"
-housenumber: 89
+street: Wüllener Straße
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://baumarkt-vreden.de/"
+website: https://baumarkt-vreden.de/

@@ -1,11 +1,11 @@
 id: 130711181
-type: way
+type: node
 latitude: 50.87513
 longitude: 7.72077
 postcode: "51597"
 city: Morsbach
-street: "Waldbröler Straße"
-housenumber: 94
+street: Waldbröler Straße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

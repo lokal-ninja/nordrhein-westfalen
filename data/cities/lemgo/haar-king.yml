@@ -4,8 +4,8 @@ latitude: 52.02808
 longitude: 8.90436
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 21
-phone: "+49 176 40316587"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Mittelstraße
+housenumber: "21"
+phone: +49 176 40316587
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

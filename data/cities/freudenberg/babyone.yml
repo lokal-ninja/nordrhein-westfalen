@@ -1,11 +1,11 @@
 id: 45340768
-type: way
+type: node
 latitude: 50.90951
 longitude: 7.91902
 postcode: "57258"
 city: Freudenberg
-street: "Gewerbestraße"
-housenumber: 11
+street: Gewerbestraße
+housenumber: "11"
 phone: "0273427620"
 opening_hours: ""
-website: "https://www.babyone.de"
+website: https://www.babyone.de

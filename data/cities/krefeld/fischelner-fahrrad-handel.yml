@@ -1,11 +1,11 @@
 id: 259133007
-type: way
+type: node
 latitude: 51.31726
 longitude: 6.59106
 postcode: "47807"
 city: Krefeld
-street: "Niederbruchstraße"
-housenumber: 79
+street: Niederbruchstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 15:00-18:30; Sa 09:00-14:00
 website: ""

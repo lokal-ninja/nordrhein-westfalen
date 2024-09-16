@@ -4,8 +4,9 @@ latitude: 51.75071
 longitude: 6.92946
 postcode: "46286"
 city: Dorsten
-street: "Debbingstraße"
-housenumber: 10
-phone: "+49 2866 189118"
-opening_hours: "Tu,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-19:00; Sa 08:00-13:00; We off"
-website: "https://www.petras-haarstudios.de/"
+street: Debbingstraße
+housenumber: "10"
+phone: +49 2866 189118
+opening_hours: Tu,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-19:00; Sa 08:00-13:00;
+    We off
+website: https://www.petras-haarstudios.de/

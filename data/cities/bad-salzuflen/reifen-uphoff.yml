@@ -1,11 +1,11 @@
 id: 196710395
-type: way
+type: node
 latitude: 52.08749
 longitude: 8.73284
 postcode: "32105"
 city: Bad Salzuflen
-street: "Siemensstraße"
-housenumber: 36
+street: Siemensstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

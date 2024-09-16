@@ -4,8 +4,8 @@ latitude: 50.86924
 longitude: 8.01618
 postcode: "57074"
 city: Siegen
-street: "Sankt-Johann-Straße"
-housenumber: 27
+street: Sankt-Johann-Straße
+housenumber: "27"
 phone: "+49271772340"
-opening_hours: "Mo-Fr 09:00-18:30,Sa 09:00-14:00; PH off"
-website: "https://www.datacom-siegen.de/"
+opening_hours: Mo-Fr 09:00-18:30,Sa 09:00-14:00; PH off
+website: https://www.datacom-siegen.de/

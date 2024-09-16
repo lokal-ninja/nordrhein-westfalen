@@ -4,8 +4,8 @@ latitude: 52.19861
 longitude: 8.7172
 postcode: "32584"
 city: Löhne
-street: "Lübbecker Straße"
-housenumber: 5
+street: Lübbecker Straße
+housenumber: "5"
 phone: "+4957329088194"
-opening_hours: "Mo-Tu 09:00-18:00, We 09:00-13:00, Th-Fr 09:00-18:00"
-website: "https://www.kosmetikstudio-dick.de"
+opening_hours: Mo-Tu 09:00-18:00, We 09:00-13:00, Th-Fr 09:00-18:00
+website: https://www.kosmetikstudio-dick.de

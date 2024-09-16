@@ -4,8 +4,8 @@ latitude: 52.01323
 longitude: 8.53556
 postcode: "33604"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 35
+street: Detmolder Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Tu-Fr 12:00-20:00, Sa 12:00-16:00"
+opening_hours: Tu-Fr 12:00-20:00, Sa 12:00-16:00
 website: ""

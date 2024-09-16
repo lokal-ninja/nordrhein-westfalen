@@ -4,8 +4,8 @@ latitude: 51.47149
 longitude: 7.22701
 postcode: "44789"
 city: Bochum
-street: "Universitätsstraße"
-housenumber: 101
+street: Universitätsstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00, Sa nach telefonischer Vereinbarung; PH off"
+opening_hours: Mo-Fr 15:00-18:00, Sa "nach telefonischer Vereinbarung"; PH off
 website: ""

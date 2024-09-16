@@ -4,8 +4,8 @@ latitude: 51.17804
 longitude: 6.87346
 postcode: "40599"
 city: Düsseldorf
-street: "Hasselsstraße"
-housenumber: 111
-phone: "+49 211 74 40 81"
-opening_hours: "Mo-Fr 09:00-15:00"
+street: Hasselsstraße
+housenumber: "111"
+phone: +49 211 74 40 81
+opening_hours: Mo-Fr 09:00-15:00
 website: ""

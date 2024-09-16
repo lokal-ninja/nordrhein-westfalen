@@ -4,8 +4,8 @@ latitude: 52.03843
 longitude: 8.54477
 postcode: "33611"
 city: Bielefeld
-street: "Beckhausstraße"
-housenumber: 64
+street: Beckhausstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-buerenkemper.de/"
+website: https://www.baeckerei-buerenkemper.de/

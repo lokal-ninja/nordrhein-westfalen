@@ -4,8 +4,8 @@ latitude: 50.87003
 longitude: 8.0162
 postcode: "57074"
 city: Siegen
-street: "Sankt-Johann-Straße"
-housenumber: 23
-phone: "+49 271 331772"
-opening_hours: "Mo-Fr 07:15-15:30; PH off"
-website: "https://www.eha-autoschilder.de"
+street: Sankt-Johann-Straße
+housenumber: "23"
+phone: +49 271 331772
+opening_hours: Mo-Fr 07:15-15:30; PH off
+website: https://www.eha-autoschilder.de

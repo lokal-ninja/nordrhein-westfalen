@@ -1,11 +1,11 @@
 id: 113895762
-type: way
+type: node
 latitude: 51.93399
 longitude: 8.87782
 postcode: "32756"
 city: Detmold
-street: "Krumme Straße"
-housenumber: 8
+street: Krumme Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

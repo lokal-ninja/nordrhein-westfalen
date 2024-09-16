@@ -1,11 +1,11 @@
 id: 52877130
-type: way
+type: node
 latitude: 51.52029
 longitude: 7.44029
 postcode: "44147"
 city: Dortmund
-street: "Dechenstraße"
-housenumber: 21
+street: Dechenstraße
+housenumber: "21"
 phone: "+49231823612"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.96112
 longitude: 7.62713
 postcode: "48143"
 city: Münster
-street: "Rothenburg"
-housenumber: 52
+street: Rothenburg
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.misterspex.de/stores/muenster"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.misterspex.de/stores/muenster

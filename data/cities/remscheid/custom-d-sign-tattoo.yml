@@ -4,8 +4,8 @@ latitude: 51.19319
 longitude: 7.25875
 postcode: "42897"
 city: Remscheid
-street: "Schwelmer Straße"
-housenumber: 23
+street: Schwelmer Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Termine nur nach Vereinbarung"
+opening_hours: '"Termine nur nach Vereinbarung"'
 website: ""

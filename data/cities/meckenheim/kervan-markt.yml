@@ -4,8 +4,8 @@ latitude: 50.62624
 longitude: 7.03946
 postcode: "53340"
 city: Meckenheim
-street: "Neuer Markt"
-housenumber: 27
-phone: "+49 2225 9807299"
-opening_hours: "Mo-Sa 07:30-20:00"
+street: Neuer Markt
+housenumber: "27"
+phone: +49 2225 9807299
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

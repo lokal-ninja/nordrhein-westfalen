@@ -4,8 +4,8 @@ latitude: 50.74324
 longitude: 7.09074
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 191
-phone: "+49 228 52262939"
-opening_hours: "Mo-Sa 13:00-19:00"
+street: Kölnstraße
+housenumber: "191"
+phone: +49 228 52262939
+opening_hours: Mo-Sa 13:00-19:00
 website: ""

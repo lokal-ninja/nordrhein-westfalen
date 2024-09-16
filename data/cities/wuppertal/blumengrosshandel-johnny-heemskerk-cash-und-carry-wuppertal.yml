@@ -1,11 +1,11 @@
 id: 313982510
-type: way
+type: node
 latitude: 51.30069
 longitude: 7.24846
 postcode: "42279"
 city: Wuppertal
-street: "Bruch"
-housenumber: 4
+street: Bruch
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

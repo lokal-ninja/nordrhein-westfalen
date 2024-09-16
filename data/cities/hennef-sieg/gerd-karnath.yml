@@ -1,11 +1,11 @@
 id: 139925977
-type: way
+type: node
 latitude: 50.79007
 longitude: 7.32692
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Im Bröltal"
-housenumber: 64
-phone: "+49 2242 6096"
+street: Im Bröltal
+housenumber: "64"
+phone: +49 2242 6096
 opening_hours: ""
-website: "https://gerdkarnath.de/"
+website: https://gerdkarnath.de/

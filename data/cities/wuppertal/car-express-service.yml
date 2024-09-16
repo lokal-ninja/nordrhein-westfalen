@@ -4,8 +4,8 @@ latitude: 51.26624
 longitude: 7.18443
 postcode: "42283"
 city: Wuppertal
-street: "Wartburgstraße"
-housenumber: 52
+street: Wartburgstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

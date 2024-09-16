@@ -1,11 +1,11 @@
 id: 205831270
-type: way
+type: node
 latitude: 51.02267
 longitude: 7.58277
 postcode: "51643"
 city: Gummersbach
-street: "Mühlenstraße"
-housenumber: 76
+street: Mühlenstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

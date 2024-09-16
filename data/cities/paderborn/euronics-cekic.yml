@@ -4,8 +4,8 @@ latitude: 51.71619
 longitude: 8.7402
 postcode: "33102"
 city: Paderborn
-street: "Riemekestraße"
-housenumber: 50
+street: Riemekestraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-13:00"
-website: "http://www.radio-sandforth.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-13:00
+website: http://www.radio-sandforth.com/

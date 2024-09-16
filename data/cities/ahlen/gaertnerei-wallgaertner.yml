@@ -1,11 +1,11 @@
 id: 253224627
-type: way
+type: node
 latitude: 51.75601
 longitude: 7.88121
 postcode: "59227"
 city: Ahlen
-street: "Lessingstraße"
-housenumber: 38
+street: Lessingstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

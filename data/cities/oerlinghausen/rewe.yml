@@ -1,11 +1,11 @@
 id: 1193047564
-type: way
+type: node
 latitude: 51.94563
 longitude: 8.6548
 postcode: "33813"
 city: Oerlinghausen
-street: "Holter Straße"
-housenumber: 61
+street: Holter Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

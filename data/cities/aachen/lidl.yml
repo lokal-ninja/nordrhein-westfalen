@@ -1,11 +1,11 @@
 id: 25646177
-type: way
+type: node
 latitude: 50.78751
 longitude: 6.06757
 postcode: "52072"
 city: Aachen
-street: "Henricistraße"
-housenumber: 68
+street: Henricistraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/filialen/aachen/hoern-henricistr-68.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/filialen/aachen/hoern-henricistr-68.html

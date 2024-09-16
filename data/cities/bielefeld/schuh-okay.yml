@@ -4,8 +4,8 @@ latitude: 52.09677
 longitude: 8.51308
 postcode: "33739"
 city: Bielefeld
-street: "Beckendorfstraße"
-housenumber: 3
-phone: "+49-5206-9170063"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.schuh-okay.de/"
+street: Beckendorfstraße
+housenumber: "3"
+phone: +49-5206-9170063
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.schuh-okay.de/

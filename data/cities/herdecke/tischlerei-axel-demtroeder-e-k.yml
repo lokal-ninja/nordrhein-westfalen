@@ -1,11 +1,11 @@
 id: 98918130
-type: way
+type: node
 latitude: 51.43118
 longitude: 7.43311
 postcode: "58313"
 city: Herdecke
-street: "Vaerstenberg"
-housenumber: 51
+street: Vaerstenberg
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

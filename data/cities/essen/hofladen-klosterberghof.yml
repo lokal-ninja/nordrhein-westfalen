@@ -4,8 +4,9 @@ latitude: 51.43954
 longitude: 7.11977
 postcode: "45279"
 city: Essen
-street: "Weg am Berge"
-housenumber: 39
-phone: "+49 201 533545"
-opening_hours: "Mo-Th 14:00-18:30, 09:30-12:00; Fr 09:30-18:30; Sa 09:30-13:30; Su, PH off"
-website: "https://www.franz-sales-haus.de/arbeit/werkstaetten/klosterberghof"
+street: Weg am Berge
+housenumber: "39"
+phone: +49 201 533545
+opening_hours: Mo-Th 14:00-18:30, 09:30-12:00; Fr 09:30-18:30; Sa 09:30-13:30; Su,
+    PH off
+website: https://www.franz-sales-haus.de/arbeit/werkstaetten/klosterberghof

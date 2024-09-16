@@ -1,11 +1,11 @@
 id: 391905549
-type: way
+type: node
 latitude: 51.66436
 longitude: 6.64945
 postcode: "46485"
 city: Wesel
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

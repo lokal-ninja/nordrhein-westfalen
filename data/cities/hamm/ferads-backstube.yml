@@ -1,11 +1,11 @@
 id: 220786613
-type: way
+type: node
 latitude: 51.64769
 longitude: 7.76157
 postcode: "59077"
 city: Hamm
-street: "Kamener Straße"
-housenumber: 83
+street: Kamener Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

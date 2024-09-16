@@ -1,11 +1,11 @@
 id: 91393336
-type: way
+type: node
 latitude: 50.9928
 longitude: 7.12034
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Jakobstraße"
-housenumber: 57
-phone: "+49 2202 1010"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/markt/bergisch-gladbach"
+street: Jakobstraße
+housenumber: "57"
+phone: +49 2202 1010
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/markt/bergisch-gladbach

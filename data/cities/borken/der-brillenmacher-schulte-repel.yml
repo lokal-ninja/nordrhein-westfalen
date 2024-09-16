@@ -4,8 +4,8 @@ latitude: 51.84438
 longitude: 6.8591
 postcode: "46325"
 city: Borken
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49 2861 3418"
-opening_hours: "Mo-We,Fr 09:00-13:00,14:00-18:30, Th 09:00-19:00, Sa 09:00-14:00"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49 2861 3418
+opening_hours: Mo-We,Fr 09:00-13:00,14:00-18:30, Th 09:00-19:00, Sa 09:00-14:00
 website: ""

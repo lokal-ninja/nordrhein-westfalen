@@ -1,11 +1,11 @@
 id: 96995998
-type: way
+type: node
 latitude: 51.97672
 longitude: 8.7124
 postcode: "33813"
 city: Oerlinghausen
-street: "Bahnhofstraße"
-housenumber: 81
+street: Bahnhofstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

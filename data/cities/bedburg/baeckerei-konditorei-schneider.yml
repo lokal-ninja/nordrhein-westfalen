@@ -1,11 +1,11 @@
 id: 316111650
-type: way
+type: node
 latitude: 51.00593
 longitude: 6.48566
 postcode: "50181"
 city: Bedburg
-street: "Zaunstraße"
-housenumber: 63
+street: Zaunstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.baecker-schneider.de/"
+website: https://www.baecker-schneider.de/

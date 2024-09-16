@@ -4,8 +4,8 @@ latitude: 50.73659
 longitude: 7.10248
 postcode: "53111"
 city: Bonn
-street: "Wenzelgasse"
-housenumber: 24
+street: Wenzelgasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:30-20:00; Sa 10:00-20:00"
-website: "https://www.butlers.com/butlers-bonn-wenzelgasse-24-26"
+opening_hours: Mo-Fr 10:30-20:00; Sa 10:00-20:00
+website: https://www.butlers.com/butlers-bonn-wenzelgasse-24-26

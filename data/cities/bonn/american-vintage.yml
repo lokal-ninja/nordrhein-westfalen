@@ -4,8 +4,8 @@ latitude: 50.73464
 longitude: 7.10164
 postcode: "53111"
 city: Bonn
-street: "Remigiusplatz"
-housenumber: 3
+street: Remigiusplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:30"
-website: "https://www.americanvintage-store.com/de/de/store?id=211"
+opening_hours: Mo-Sa 11:00-18:30
+website: https://www.americanvintage-store.com/de/de/store?id=211

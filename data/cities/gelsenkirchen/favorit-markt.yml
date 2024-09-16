@@ -1,11 +1,11 @@
 id: 327651117
-type: way
+type: node
 latitude: 51.56023
 longitude: 7.02607
 postcode: "45897"
 city: Gelsenkirchen
-street: "Giebelstraße"
-housenumber: 9
+street: Giebelstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

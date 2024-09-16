@@ -1,11 +1,11 @@
 id: 285951711
-type: way
+type: node
 latitude: 52.05436
 longitude: 7.35843
 postcode: "48366"
 city: Laer
-street: "Hohe Straße"
-housenumber: 14
+street: Hohe Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

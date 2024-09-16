@@ -1,11 +1,11 @@
 id: 332195854
-type: way
+type: node
 latitude: 51.555
 longitude: 6.55219
 postcode: "47495"
 city: Rheinberg
-street: "Alpener Straße"
-housenumber: 302
-phone: "+49 2843 6648"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00; PH closed"
+street: Alpener Straße
+housenumber: "302"
+phone: +49 2843 6648
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00; PH closed
 website: ""

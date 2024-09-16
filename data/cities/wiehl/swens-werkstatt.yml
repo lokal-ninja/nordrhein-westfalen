@@ -1,11 +1,11 @@
 id: 120290086
-type: way
+type: node
 latitude: 50.95632
 longitude: 7.46042
 postcode: "51674"
 city: Wiehl
-street: "Brächener Straße"
-housenumber: 1
-phone: "+49 2262 7272515"
+street: Brächener Straße
+housenumber: "1"
+phone: +49 2262 7272515
 opening_hours: ""
 website: ""

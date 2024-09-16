@@ -4,8 +4,8 @@ latitude: 51.1988
 longitude: 6.78254
 postcode: "40225"
 city: Düsseldorf
-street: "Himmelgeister Straße"
-housenumber: 110
-phone: "+49 211 332930"
-opening_hours: "Su,Mo off; Tu,We,Fr 09:00-18:00; Th 10:00-20:00; Sa 09:00-13:00"
+street: Himmelgeister Straße
+housenumber: "110"
+phone: +49 211 332930
+opening_hours: Su,Mo off; Tu,We,Fr 09:00-18:00; Th 10:00-20:00; Sa 09:00-13:00
 website: ""

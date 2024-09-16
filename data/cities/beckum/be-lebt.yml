@@ -4,8 +4,8 @@ latitude: 51.75507
 longitude: 8.03654
 postcode: "59269"
 city: Beckum
-street: "Nordwall"
-housenumber: 49
+street: Nordwall
+housenumber: "49"
 phone: ""
-opening_hours: "Tu,Th,Fr 15:00-18:00; We,Sa 09:00-13:00; Su,Mo off"
-website: "https://marktschwaermer.de/de-DE/assemblies/13064"
+opening_hours: Tu,Th,Fr 15:00-18:00; We,Sa 09:00-13:00; Su,Mo off
+website: https://marktschwaermer.de/de-DE/assemblies/13064

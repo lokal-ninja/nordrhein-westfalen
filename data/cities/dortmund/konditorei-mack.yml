@@ -4,8 +4,8 @@ latitude: 51.45256
 longitude: 7.45688
 postcode: "44229"
 city: Dortmund
-street: "Hagener Straße"
-housenumber: 325
-phone: "+49 231 736592"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-15:00; Su 07:30-17:00"
-website: "https://backmeisterei-mack.de/"
+street: Hagener Straße
+housenumber: "325"
+phone: +49 231 736592
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-15:00; Su 07:30-17:00
+website: https://backmeisterei-mack.de/

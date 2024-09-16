@@ -4,8 +4,8 @@ latitude: 50.94885
 longitude: 6.98609
 postcode: "51063"
 city: Köln
-street: "Deutz-Mülheimer Straße"
-housenumber: 127
-phone: "+49 221 8875337"
-opening_hours: "Mo 12:00-20:00; We-Fr 12:00-19:00; Sa 12:00-16:00"
-website: "http://www.backstreetbikes.de/"
+street: Deutz-Mülheimer Straße
+housenumber: "127"
+phone: +49 221 8875337
+opening_hours: Mo 12:00-20:00; We-Fr 12:00-19:00; Sa 12:00-16:00
+website: http://www.backstreetbikes.de/

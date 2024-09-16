@@ -1,11 +1,11 @@
 id: 1241892633
-type: way
+type: node
 latitude: 50.91382
 longitude: 8.01179
 postcode: "57078"
 city: Siegen
-street: "Geisweider Straße"
+street: Geisweider Straße
 housenumber: 27-37
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/siegen-universitaetsstadt/1478494/rewe-markt-geisweider-strasse-27-37/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/siegen-universitaetsstadt/1478494/rewe-markt-geisweider-strasse-27-37/

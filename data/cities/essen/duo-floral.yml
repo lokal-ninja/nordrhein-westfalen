@@ -4,8 +4,8 @@ latitude: 51.36357
 longitude: 6.93727
 postcode: "45219"
 city: Essen
-street: "Hauptstraße"
-housenumber: 108
+street: Hauptstraße
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:30-14:00
 website: ""

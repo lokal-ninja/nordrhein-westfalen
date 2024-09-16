@@ -1,11 +1,11 @@
 id: 1308521885
-type: way
+type: node
 latitude: 50.92028
 longitude: 6.93255
 postcode: "50939"
 city: Köln
-street: "Luxemburger Straße"
+street: Luxemburger Straße
 housenumber: 183-185
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/koeln/luxemburger-strasse-183-185"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/koeln/luxemburger-strasse-183-185

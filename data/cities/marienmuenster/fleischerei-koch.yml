@@ -1,11 +1,11 @@
 id: 480355035
-type: way
+type: node
 latitude: 51.81122
 longitude: 9.18691
 postcode: "37696"
 city: Marienmünster
-street: "Liboristraße"
-housenumber: 28
+street: Liboristraße
+housenumber: "28"
 phone: "+495276589"
 opening_hours: ""
 website: ""

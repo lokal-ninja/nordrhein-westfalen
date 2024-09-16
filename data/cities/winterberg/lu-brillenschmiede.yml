@@ -4,8 +4,8 @@ latitude: 51.19489
 longitude: 8.53327
 postcode: "59955"
 city: Winterberg
-street: "Hellenstraße"
-housenumber: 6
+street: Hellenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 9:30-18:00; Sa 9:30-14:00"
-website: "https://www.lu-brillenschmiede.de/"
+opening_hours: Mo-Fr 9:30-18:00; Sa 9:30-14:00
+website: https://www.lu-brillenschmiede.de/

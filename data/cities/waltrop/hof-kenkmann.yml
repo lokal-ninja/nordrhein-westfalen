@@ -1,11 +1,11 @@
 id: 139208770
-type: way
+type: node
 latitude: 51.62178
 longitude: 7.33986
 postcode: "45731"
 city: Waltrop
-street: "Oberwiese"
-housenumber: 8
-phone: "+49 2363 5675773"
-opening_hours: "24/7"
-website: "https://www.hofkenkmann.de/"
+street: Oberwiese
+housenumber: "8"
+phone: +49 2363 5675773
+opening_hours: 24/7
+website: https://www.hofkenkmann.de/

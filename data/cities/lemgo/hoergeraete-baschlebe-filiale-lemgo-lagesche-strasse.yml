@@ -4,8 +4,8 @@ latitude: 52.02305
 longitude: 8.89425
 postcode: "32657"
 city: Lemgo
-street: "Lagesche Straße"
-housenumber: 5
-phone: "+49 5261 666968"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa,Su,PH off"
-website: "https://baschlebe.de/filiale/lemgo-lagesche-strasse"
+street: Lagesche Straße
+housenumber: "5"
+phone: +49 5261 666968
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa,Su,PH off
+website: https://baschlebe.de/filiale/lemgo-lagesche-strasse

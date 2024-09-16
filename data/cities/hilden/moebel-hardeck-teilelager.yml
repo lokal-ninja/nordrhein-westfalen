@@ -1,11 +1,11 @@
 id: 92100536
-type: way
+type: node
 latitude: 51.1733
 longitude: 6.90419
 postcode: "40721"
 city: Hilden
-street: "Im Hock"
-housenumber: 14
+street: Im Hock
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

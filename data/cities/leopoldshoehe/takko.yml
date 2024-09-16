@@ -1,11 +1,11 @@
 id: 290047905
-type: way
+type: node
 latitude: 52.01124
 longitude: 8.70239
 postcode: "33818"
 city: Leopoldshöhe
-street: "Krentruper Straße"
-housenumber: 32
+street: Krentruper Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.88116
 longitude: 8.50757
 postcode: "33415"
 city: Verl
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; PH,Su 07:00-11:00"
-website: "https://www.goeken-backen.de/filialien/goeken-backen-combi-verl/"
+opening_hours: Mo-Sa 07:00-19:00; PH,Su 07:00-11:00
+website: https://www.goeken-backen.de/filialien/goeken-backen-combi-verl/

@@ -1,11 +1,11 @@
 id: 201115893
-type: way
+type: node
 latitude: 51.27321
 longitude: 7.21943
 postcode: "42289"
 city: Wuppertal
-street: "Widukindstraße"
-housenumber: 97
+street: Widukindstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

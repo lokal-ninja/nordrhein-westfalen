@@ -1,11 +1,11 @@
 id: 323269186
-type: way
+type: node
 latitude: 51.01863
 longitude: 6.68138
 postcode: "50129"
 city: Bergheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Apr-Jun: Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su,Ph 09:00-13:00"
+opening_hours: 'Apr-Jun: Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su,Ph 09:00-13:00'
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.21039
 longitude: 6.77657
 postcode: "40217"
 city: Düsseldorf
-street: "Friedrichstraße"
-housenumber: 117
-phone: "+49 211 15766912"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-19:00"
-website: "https://unlicht.com/"
+street: Friedrichstraße
+housenumber: "117"
+phone: +49 211 15766912
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-19:00
+website: https://unlicht.com/

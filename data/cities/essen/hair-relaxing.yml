@@ -4,8 +4,8 @@ latitude: 51.44891
 longitude: 7.07562
 postcode: "45276"
 city: Essen
-street: "Scheidtmanntor"
-housenumber: 4
-phone: "+49 201 59 780 310"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-13:00; PH,Su,Mo off"
+street: Scheidtmanntor
+housenumber: "4"
+phone: +49 201 59 780 310
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-13:00; PH,Su,Mo off
 website: ""

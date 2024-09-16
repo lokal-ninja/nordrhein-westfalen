@@ -1,11 +1,11 @@
 id: 30041879
-type: way
+type: node
 latitude: 51.41981
 longitude: 6.74599
 postcode: "47053"
 city: Duisburg
-street: "Adelenstraße"
-housenumber: 30
+street: Adelenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

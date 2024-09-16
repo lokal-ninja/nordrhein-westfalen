@@ -1,11 +1,11 @@
 id: 257363996
-type: way
+type: node
 latitude: 52.08159
 longitude: 7.00309
 postcode: "48683"
 city: Ahaus
-street: "Wessumer Straße"
-housenumber: 60
+street: Wessumer Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

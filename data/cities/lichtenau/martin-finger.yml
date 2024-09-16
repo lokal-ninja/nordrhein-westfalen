@@ -1,11 +1,11 @@
 id: 342533414
-type: way
+type: node
 latitude: 51.67229
 longitude: 8.91069
 postcode: "33165"
 city: Lichtenau
-street: "Zum Wallberg"
-housenumber: 14
+street: Zum Wallberg
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 8:00-11:00, 14:00-19:00; Sa 8:00-11:00"
-website: "http://www.reifen-kfz-finger.de/"
+opening_hours: Mo-Fr 8:00-11:00, 14:00-19:00; Sa 8:00-11:00
+website: http://www.reifen-kfz-finger.de/

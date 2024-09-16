@@ -1,11 +1,11 @@
 id: 182554379
-type: way
+type: node
 latitude: 51.5618
 longitude: 7.19619
 postcode: "45661"
 city: Recklinghausen
-street: "Hochlarmarkstraße"
-housenumber: 69
+street: Hochlarmarkstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

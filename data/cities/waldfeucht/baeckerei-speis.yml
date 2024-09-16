@@ -1,11 +1,11 @@
 id: 50670565
-type: way
+type: node
 latitude: 51.08417
 longitude: 6.01578
 postcode: "52525"
 city: Waldfeucht
-street: "Obspringener Straße"
-housenumber: 26
+street: Obspringener Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

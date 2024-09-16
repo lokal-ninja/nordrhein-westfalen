@@ -4,8 +4,8 @@ latitude: 52.03797
 longitude: 8.52561
 postcode: "33613"
 city: Bielefeld
-street: "Apfelstraße"
-housenumber: 8
-phone: "+49-521-98919379"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Apfelstraße
+housenumber: "8"
+phone: +49-521-98919379
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

@@ -1,11 +1,11 @@
 id: 111977785
-type: way
+type: node
 latitude: 51.68044
 longitude: 7.81441
 postcode: "59065"
 city: Hamm
-street: "Weststraße"
-housenumber: 49
-phone: "+49 2381 25786"
-opening_hours: "Sa 10:00-18:00; Mo-Fr 09:30-18:00"
-website: "http://grabitz.adfash.de/de/home"
+street: Weststraße
+housenumber: "49"
+phone: +49 2381 25786
+opening_hours: Sa 10:00-18:00; Mo-Fr 09:30-18:00
+website: http://grabitz.adfash.de/de/home

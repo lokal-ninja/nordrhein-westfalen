@@ -1,11 +1,12 @@
 id: 171165960
-type: way
+type: node
 latitude: 50.97745
 longitude: 7.05836
 postcode: "51069"
 city: Köln
-street: "Moorsledestraße"
-housenumber: 10
-phone: "+49 221 605686"
-opening_hours: "Mo-Fr 14:30-18:30; Th 10:00-13:00,14:30-20:00; Fr 10:00-13:00,14:30-18:30; Sa 10:00-13:00; Su,PH off"
-website: "http://www.moto-rumpf.de"
+street: Moorsledestraße
+housenumber: "10"
+phone: +49 221 605686
+opening_hours: Mo-Fr 14:30-18:30; Th 10:00-13:00,14:30-20:00; Fr 10:00-13:00,14:30-18:30;
+    Sa 10:00-13:00; Su,PH off
+website: http://www.moto-rumpf.de

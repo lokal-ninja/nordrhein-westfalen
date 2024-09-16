@@ -1,11 +1,11 @@
 id: 33359368
-type: way
+type: node
 latitude: 51.67557
 longitude: 8.99119
 postcode: "33014"
 city: Bad Driburg
-street: "Paderborner Straße"
-housenumber: 3
+street: Paderborner Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

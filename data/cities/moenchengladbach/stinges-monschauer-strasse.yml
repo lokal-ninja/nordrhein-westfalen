@@ -4,8 +4,8 @@ latitude: 51.1945
 longitude: 6.40999
 postcode: "41068"
 city: Mönchengladbach
-street: "Monschauer Straße"
-housenumber: 6
-phone: "+49 2161 8283200"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; PH,Su off"
-website: "https://stinges.de/"
+street: Monschauer Straße
+housenumber: "6"
+phone: +49 2161 8283200
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; PH,Su off
+website: https://stinges.de/

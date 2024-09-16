@@ -4,8 +4,8 @@ latitude: 50.93571
 longitude: 6.97804
 postcode: "50679"
 city: Köln
-street: "Gotenring"
-housenumber: 9
-phone: "+49 221 89997190"
-opening_hours: "Mo,Tu,Th,Fr 08:30-13:30,14:00-18:00; We 08:30-12:30"
-website: "https://standorte.geers.de/koeln-deutz/gotenring-9.html"
+street: Gotenring
+housenumber: "9"
+phone: +49 221 89997190
+opening_hours: Mo,Tu,Th,Fr 08:30-13:30,14:00-18:00; We 08:30-12:30
+website: https://standorte.geers.de/koeln-deutz/gotenring-9.html

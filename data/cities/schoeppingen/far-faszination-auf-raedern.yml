@@ -4,8 +4,8 @@ latitude: 52.06296
 longitude: 7.24288
 postcode: "48624"
 city: Schöppingen
-street: "Vechtestraße"
-housenumber: 28
+street: Vechtestraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-We 08:00-16:30; Fr 08:00-13:15"
-website: "https://www.far-gmbh.de/"
+opening_hours: Mo-We 08:00-16:30; Fr 08:00-13:15
+website: https://www.far-gmbh.de/

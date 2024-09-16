@@ -1,11 +1,11 @@
 id: 43112226
-type: way
+type: node
 latitude: 51.44823
 longitude: 6.9564
 postcode: "45144"
 city: Essen
-street: "Frohnhauser Straße"
-housenumber: 442
+street: Frohnhauser Straße
+housenumber: "442"
 phone: ""
 opening_hours: ""
 website: ""

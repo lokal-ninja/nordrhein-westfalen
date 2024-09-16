@@ -1,11 +1,11 @@
 id: 286944373
-type: way
+type: node
 latitude: 51.13441
 longitude: 6.525
 postcode: "41363"
 city: Jüchen
-street: "Haus Neuenhoven"
-housenumber: 1
-phone: "+49 2165 2336"
-opening_hours: "Tu,Fr 09:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.bio-ne.de/"
+street: Haus Neuenhoven
+housenumber: "1"
+phone: +49 2165 2336
+opening_hours: Tu,Fr 09:00-18:00; We,Sa 09:00-13:00
+website: https://www.bio-ne.de/

@@ -4,8 +4,8 @@ latitude: 52.01406
 longitude: 8.61874
 postcode: "33719"
 city: Bielefeld
-street: "Bechterdisser Straße"
-housenumber: 5
-phone: "+49 521 91170390"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:30"
-website: "https://www.porsche-bielefeld.de/"
+street: Bechterdisser Straße
+housenumber: "5"
+phone: +49 521 91170390
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:30
+website: https://www.porsche-bielefeld.de/

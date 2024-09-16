@@ -1,11 +1,11 @@
 id: 94494692
-type: way
+type: node
 latitude: 51.49996
 longitude: 7.20518
 postcode: "44809"
 city: Bochum
-street: "Speicherstraße"
-housenumber: 2
+street: Speicherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.kaufland.de/

@@ -4,8 +4,8 @@ latitude: 51.0902
 longitude: 6.88946
 postcode: "40789"
 city: Monheim am Rhein
-street: "Rathausplatz"
-housenumber: 10
+street: Rathausplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

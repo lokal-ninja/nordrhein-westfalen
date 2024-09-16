@@ -1,11 +1,11 @@
 id: 43320628
-type: way
+type: node
 latitude: 51.18728
 longitude: 6.98711
 postcode: "42781"
 city: Haan
-street: "Düsseldorfer Straße"
-housenumber: 78
+street: Düsseldorfer Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.trinkgut.de/markt/elke-luck-ii"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.trinkgut.de/markt/elke-luck-ii

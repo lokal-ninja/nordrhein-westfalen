@@ -4,8 +4,8 @@ latitude: 51.50734
 longitude: 7.4966
 postcode: "44141"
 city: Dortmund
-street: "Im Defdahl"
-housenumber: 89
+street: Im Defdahl
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 05:30-15:00; Sa 07:00-13:00; Su 07:00-14:00"
-website: "http://www.baecker-beckmann.de/"
+opening_hours: Mo-Fr 05:30-15:00; Sa 07:00-13:00; Su 07:00-14:00
+website: http://www.baecker-beckmann.de/

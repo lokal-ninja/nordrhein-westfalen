@@ -1,11 +1,11 @@
 id: 47292627
-type: way
+type: node
 latitude: 50.75023
 longitude: 7.04645
 postcode: "53119"
 city: Bonn
-street: "Oppelner Straße"
-housenumber: 128
+street: Oppelner Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
-website: "http://www.tannenbusch-center.de/"
+website: http://www.tannenbusch-center.de/

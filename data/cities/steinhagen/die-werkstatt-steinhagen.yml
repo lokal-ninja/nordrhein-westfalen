@@ -4,8 +4,8 @@ latitude: 52.01065
 longitude: 8.43509
 postcode: "33803"
 city: Steinhagen
-street: "Bielefelder Straße"
-housenumber: 75
-phone: "+49 (0)5204 3216"
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-18:00"
-website: "https://www.die-werkstatt-steinhagen.de/"
+street: Bielefelder Straße
+housenumber: "75"
+phone: +49 (0)5204 3216
+opening_hours: Mo-Fr 08:00-13:00, 14:00-18:00
+website: https://www.die-werkstatt-steinhagen.de/

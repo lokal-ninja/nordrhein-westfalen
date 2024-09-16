@@ -1,11 +1,11 @@
 id: 133265266
-type: way
+type: node
 latitude: 52.02457
 longitude: 6.82073
 postcode: "48691"
 city: Vreden
-street: "Master Esch"
-housenumber: 68
+street: Master Esch
+housenumber: "68"
 phone: ""
 opening_hours: ""
-website: "https://bewe-gmbh.de/"
+website: https://bewe-gmbh.de/

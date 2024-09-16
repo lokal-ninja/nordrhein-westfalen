@@ -1,11 +1,11 @@
 id: 244170341
-type: way
+type: node
 latitude: 51.78797
 longitude: 6.13871
 postcode: "47533"
 city: Kleve
-street: "Große Straße"
-housenumber: 64
-phone: "+49 2821 28533"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "http://meyer-potz.de"
+street: Große Straße
+housenumber: "64"
+phone: +49 2821 28533
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: http://meyer-potz.de

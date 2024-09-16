@@ -4,8 +4,8 @@ latitude: 51.96381
 longitude: 7.62954
 postcode: "48143"
 city: Münster
-street: "Alter Fischmarkt"
-housenumber: 10
-phone: "+49 251 20240761"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.torquato.de/"
+street: Alter Fischmarkt
+housenumber: "10"
+phone: +49 251 20240761
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.torquato.de/

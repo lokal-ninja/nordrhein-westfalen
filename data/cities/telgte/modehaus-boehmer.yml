@@ -1,11 +1,11 @@
 id: 259607510
-type: way
+type: node
 latitude: 51.98448
 longitude: 7.78511
 postcode: "48291"
 city: Telgte
-street: "Markt"
-housenumber: 8
-phone: "+49 2504 1607"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.modehaus-boehmer.de"
+street: Markt
+housenumber: "8"
+phone: +49 2504 1607
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.modehaus-boehmer.de

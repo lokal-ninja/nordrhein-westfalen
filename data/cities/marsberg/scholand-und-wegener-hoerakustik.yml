@@ -4,8 +4,9 @@ latitude: 51.46064
 longitude: 8.85362
 postcode: "34431"
 city: Marsberg
-street: "Kötterhagen"
-housenumber: 4
-phone: "+49-2992-9799330"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-17:00 || nach Vereinbarung; Sa nach Vereinbarung; PH off"
-website: "https://www.sw-hoerakustik.de"
+street: Kötterhagen
+housenumber: "4"
+phone: +49-2992-9799330
+opening_hours: Mo-Fr 09:00-13:00, 14:00-17:00 || "nach Vereinbarung"; Sa "nach Vereinbarung";
+    PH off
+website: https://www.sw-hoerakustik.de

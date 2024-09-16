@@ -1,11 +1,11 @@
 id: 89642672
-type: way
+type: node
 latitude: 52.22305
 longitude: 7.47975
 postcode: "48432"
 city: Rheine
-street: "Franziskusstraße"
-housenumber: 1
+street: Franziskusstraße
+housenumber: "1"
 phone: "+495975919708"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-16:00
 website: ""

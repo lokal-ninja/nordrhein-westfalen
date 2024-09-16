@@ -1,11 +1,11 @@
 id: 106796376
-type: way
+type: node
 latitude: 51.45906
 longitude: 7.08096
 postcode: "45307"
 city: Essen
-street: "Zur Beckhove"
-housenumber: 27
-phone: "+49 201 598837"
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-abaza-zur-beckhove-27-29/index.jsp"
+street: Zur Beckhove
+housenumber: "27"
+phone: +49 201 598837
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-abaza-zur-beckhove-27-29/index.jsp

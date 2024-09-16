@@ -4,8 +4,8 @@ latitude: 50.79745
 longitude: 7.20496
 postcode: "53721"
 city: Siegburg
-street: "Ringstraße"
-housenumber: 15
-phone: "+49 2241 957200 0"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:00; Sa 09:30-12:00"
-website: "https://www.joisten-siegburg.de/"
+street: Ringstraße
+housenumber: "15"
+phone: +49 2241 957200 0
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-13:00; Sa 09:30-12:00
+website: https://www.joisten-siegburg.de/

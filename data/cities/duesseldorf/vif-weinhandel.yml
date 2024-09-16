@@ -4,8 +4,8 @@ latitude: 51.23787
 longitude: 6.80011
 postcode: "40237"
 city: Düsseldorf
-street: "Rethelstraße"
-housenumber: 139
-phone: "+49 211 8302 5149"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 09:30-16:00"
-website: "http://www.vif.de/partner_vif_duesseldorf"
+street: Rethelstraße
+housenumber: "139"
+phone: +49 211 8302 5149
+opening_hours: Tu-Fr 11:00-19:00; Sa 09:30-16:00
+website: http://www.vif.de/partner_vif_duesseldorf

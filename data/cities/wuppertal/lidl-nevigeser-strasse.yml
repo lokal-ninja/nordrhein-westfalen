@@ -1,11 +1,11 @@
 id: 238180359
-type: way
+type: node
 latitude: 51.27471
 longitude: 7.1241
 postcode: "42113"
 city: Wuppertal
-street: "Nevigeser Straße"
-housenumber: 170
+street: Nevigeser Straße
+housenumber: "170"
 phone: ""
-opening_hours: "PH,Su off; Mo-Sa 07:00-21:00"
+opening_hours: PH,Su off; Mo-Sa 07:00-21:00
 website: ""

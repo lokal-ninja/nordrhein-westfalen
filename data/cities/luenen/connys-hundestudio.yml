@@ -1,11 +1,11 @@
 id: 106749119
-type: way
+type: node
 latitude: 51.62367
 longitude: 7.51286
 postcode: "44534"
 city: Lünen
-street: "Alstedder Straße"
-housenumber: 5
+street: Alstedder Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

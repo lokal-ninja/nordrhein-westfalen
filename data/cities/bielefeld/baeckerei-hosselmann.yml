@@ -4,8 +4,8 @@ latitude: 52.02643
 longitude: 8.5276
 postcode: "33615"
 city: Bielefeld
-street: "Große-Kurfürsten-Straße"
-housenumber: 70
+street: Große-Kurfürsten-Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.hosselmann.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.hosselmann.de/

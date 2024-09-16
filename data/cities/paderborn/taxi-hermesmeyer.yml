@@ -4,8 +4,8 @@ latitude: 51.73083
 longitude: 8.72086
 postcode: "33104"
 city: Paderborn
-street: "Stedener Feld"
-housenumber: 4
+street: Stedener Feld
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
-website: "http://www.alles-klar-online.de"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
+website: http://www.alles-klar-online.de

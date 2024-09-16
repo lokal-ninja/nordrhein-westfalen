@@ -4,8 +4,8 @@ latitude: 51.5408
 longitude: 7.22119
 postcode: "44623"
 city: Herne
-street: "Bebelstraße"
-housenumber: 5
-phone: "+49 178 3977606"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Bebelstraße
+housenumber: "5"
+phone: +49 178 3977606
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

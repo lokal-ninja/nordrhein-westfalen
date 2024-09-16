@@ -1,11 +1,11 @@
 id: 335067342
-type: way
+type: node
 latitude: 51.76889
 longitude: 8.04012
 postcode: "59269"
 city: Beckum
-street: "Neubeckumer Straße"
-housenumber: 81
+street: Neubeckumer Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.wirkaufendeinauto.de"
+website: https://www.wirkaufendeinauto.de

@@ -4,8 +4,8 @@ latitude: 51.61469
 longitude: 7.19726
 postcode: "45657"
 city: Recklinghausen
-street: "Kleine Geldstraße"
-housenumber: 1
-phone: "+49 2361 9916519;+49 2361 5829757;+49 178 1545215"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
+street: Kleine Geldstraße
+housenumber: "1"
+phone: +49 2361 9916519;+49 2361 5829757;+49 178 1545215
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
 website: ""

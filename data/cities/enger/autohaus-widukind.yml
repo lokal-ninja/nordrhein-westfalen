@@ -1,11 +1,11 @@
 id: 254931491
-type: way
+type: node
 latitude: 52.14873
 longitude: 8.56278
 postcode: "32130"
 city: Enger
-street: "Lambernweg"
-housenumber: 47
-phone: "+49 5224 98800"
-opening_hours: "Mo-Fr 07:30-18:30, Sa 08:00-13:00"
-website: "https://www.schnieder.de/ueber-autohaus-schnieder/autohaus-widukind-enger.php"
+street: Lambernweg
+housenumber: "47"
+phone: +49 5224 98800
+opening_hours: Mo-Fr 07:30-18:30, Sa 08:00-13:00
+website: https://www.schnieder.de/ueber-autohaus-schnieder/autohaus-widukind-enger.php

@@ -4,8 +4,8 @@ latitude: 51.61439
 longitude: 7.19888
 postcode: "45657"
 city: Recklinghausen
-street: "Schaumburgstraße"
-housenumber: 3
-phone: "+49 2361 937410"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.tkmaxx.de/filialen/TK%20Maxx%20Recklinghausen"
+street: Schaumburgstraße
+housenumber: "3"
+phone: +49 2361 937410
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.tkmaxx.de/filialen/TK%20Maxx%20Recklinghausen

@@ -4,8 +4,8 @@ latitude: 50.79653
 longitude: 7.20793
 postcode: "53721"
 city: Siegburg
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49 2241 64573"
-opening_hours: "Mo-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-15:00"
-website: "https://www.engelskirchen-hairdesign.de/"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49 2241 64573
+opening_hours: Mo-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-15:00
+website: https://www.engelskirchen-hairdesign.de/

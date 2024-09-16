@@ -4,8 +4,8 @@ latitude: 52.01862
 longitude: 8.53043
 postcode: "33602"
 city: Bielefeld
-street: "Neustädter Straße"
-housenumber: 16
-phone: "+49-163-7743225"
-opening_hours: "on appointment"
-website: "http://owl-pc.de/"
+street: Neustädter Straße
+housenumber: "16"
+phone: +49-163-7743225
+opening_hours: '"on appointment"'
+website: http://owl-pc.de/

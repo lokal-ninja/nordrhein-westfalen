@@ -1,11 +1,11 @@
 id: 1198100438
-type: way
+type: node
 latitude: 51.81527
 longitude: 7.26101
 postcode: "48249"
 city: Dülmen
-street: "Gausepatt"
-housenumber: 58
-phone: "+49 2590 94360 0"
+street: Gausepatt
+housenumber: "58"
+phone: +49 2590 94360 0
 opening_hours: ""
-website: "https://www.duemo-caravans.de/"
+website: https://www.duemo-caravans.de/

@@ -4,8 +4,8 @@ latitude: 51.8384
 longitude: 6.62278
 postcode: "46397"
 city: Bocholt
-street: "Münsterstraße"
-housenumber: 10
-phone: "+49 2871 25730"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-17:00"
-website: "https://jysk.de/stores-locator?storeId=1157"
+street: Münsterstraße
+housenumber: "10"
+phone: +49 2871 25730
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-17:00
+website: https://jysk.de/stores-locator?storeId=1157

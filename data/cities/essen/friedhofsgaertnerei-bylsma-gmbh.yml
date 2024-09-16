@@ -1,11 +1,11 @@
 id: 846999200
-type: way
+type: node
 latitude: 51.46837
 longitude: 6.94782
 postcode: "45355"
 city: Essen
-street: "Dachstraße"
+street: Dachstraße
 housenumber: 14a
 phone: ""
 opening_hours: ""
-website: "https://bylsma-gmbh.de/"
+website: https://bylsma-gmbh.de/

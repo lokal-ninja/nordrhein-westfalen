@@ -4,8 +4,8 @@ latitude: 51.4419
 longitude: 6.99988
 postcode: "45128"
 city: Essen
-street: "Kahrstraße"
-housenumber: 64
+street: Kahrstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00, Sa 10:00-13:00"
+opening_hours: Mo-Fr 07:30-17:00, Sa 10:00-13:00
 website: ""

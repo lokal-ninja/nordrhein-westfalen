@@ -4,8 +4,8 @@ latitude: 51.06712
 longitude: 7.00334
 postcode: "51379"
 city: Leverkusen
-street: "Kölner Straße"
-housenumber: 2
+street: Kölner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off; PH off"
-website: "https://woolworth.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off; PH off
+website: https://woolworth.de/

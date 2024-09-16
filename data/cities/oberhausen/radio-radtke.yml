@@ -1,11 +1,11 @@
 id: 285067148
-type: way
+type: node
 latitude: 51.47833
 longitude: 6.88122
 postcode: "46047"
 city: Oberhausen
-street: "Knappenstraße"
-housenumber: 81
+street: Knappenstraße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

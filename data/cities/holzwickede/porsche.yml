@@ -1,11 +1,11 @@
 id: 917163094
-type: way
+type: node
 latitude: 51.51523
 longitude: 7.61593
 postcode: "59439"
 city: Holzwickede
-street: "Carrera-Straße"
-housenumber: 1
+street: Carrera-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

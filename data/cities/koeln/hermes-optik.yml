@@ -4,8 +4,8 @@ latitude: 50.91111
 longitude: 6.94105
 postcode: "50969"
 city: Köln
-street: "Gottesweg"
-housenumber: 26
-phone: "+49 221 366375"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH off"
-website: "https://www.hermesoptik.de/"
+street: Gottesweg
+housenumber: "26"
+phone: +49 221 366375
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH off
+website: https://www.hermesoptik.de/

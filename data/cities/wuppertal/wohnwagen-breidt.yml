@@ -1,11 +1,11 @@
 id: 518022740
-type: way
+type: node
 latitude: 51.23616
 longitude: 7.21257
 postcode: "42369"
 city: Wuppertal
-street: "Erbschlö"
-housenumber: 2
+street: Erbschlö
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

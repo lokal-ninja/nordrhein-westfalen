@@ -1,11 +1,11 @@
 id: 98186454
-type: way
+type: node
 latitude: 51.19789
 longitude: 6.60682
 postcode: "41564"
 city: Kaarst
-street: "Driescher Straße"
-housenumber: 6
+street: Driescher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

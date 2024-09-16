@@ -1,11 +1,11 @@
 id: 174511962
-type: way
+type: node
 latitude: 50.99138
 longitude: 7.55872
 postcode: "51645"
 city: Gummersbach
-street: "Vollmerhauser Straße"
-housenumber: 28
-phone: "+49 2261 979576"
-opening_hours: "Mo-Fr 07:30-19:00, Sa 08:00-16:00"
-website: "https://www.atu.de"
+street: Vollmerhauser Straße
+housenumber: "28"
+phone: +49 2261 979576
+opening_hours: Mo-Fr 07:30-19:00, Sa 08:00-16:00
+website: https://www.atu.de

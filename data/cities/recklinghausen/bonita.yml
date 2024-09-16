@@ -4,8 +4,8 @@ latitude: 51.61497
 longitude: 7.19948
 postcode: "45657"
 city: Recklinghausen
-street: "Kunibertistraße"
-housenumber: 15
-phone: "+49 2361 108048"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://bonita.eu/"
+street: Kunibertistraße
+housenumber: "15"
+phone: +49 2361 108048
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://bonita.eu/

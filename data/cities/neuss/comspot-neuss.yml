@@ -4,8 +4,8 @@ latitude: 51.1971
 longitude: 6.69429
 postcode: "41460"
 city: Neuss
-street: "Oberstraße"
-housenumber: 105
+street: Oberstraße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

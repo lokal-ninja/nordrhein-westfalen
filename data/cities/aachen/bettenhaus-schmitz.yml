@@ -1,11 +1,11 @@
 id: 160646963
-type: way
+type: node
 latitude: 50.71911
 longitude: 6.13883
 postcode: "52076"
 city: Aachen
-street: "Oberforstbacher Straße"
-housenumber: 390
+street: Oberforstbacher Straße
+housenumber: "390"
 phone: ""
 opening_hours: ""
-website: "http://www.bettenhaus-schmitz.de"
+website: http://www.bettenhaus-schmitz.de

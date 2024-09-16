@@ -4,8 +4,8 @@ latitude: 51.32037
 longitude: 6.27194
 postcode: "41334"
 city: Nettetal
-street: "Wevelinghoven"
-housenumber: 15
-phone: "+49 2153 2347"
-opening_hours: "Mo-Fr 09:00-18:30; Tu off; We off; Sa 09:00-13:00"
-website: "http://www.naturpark-msn.de/Naturpark-erleben/Bauernh%C3%B6fe/Helfeshof.html"
+street: Wevelinghoven
+housenumber: "15"
+phone: +49 2153 2347
+opening_hours: Mo-Fr 09:00-18:30; Tu off; We off; Sa 09:00-13:00
+website: http://www.naturpark-msn.de/Naturpark-erleben/Bauernh%C3%B6fe/Helfeshof.html

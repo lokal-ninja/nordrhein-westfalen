@@ -1,11 +1,11 @@
 id: 308447655
-type: way
+type: node
 latitude: 51.80056
 longitude: 8.02418
 postcode: "59269"
 city: Beckum
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

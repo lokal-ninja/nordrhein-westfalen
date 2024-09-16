@@ -4,8 +4,8 @@ latitude: 50.85817
 longitude: 7.086
 postcode: "51147"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 200
-phone: "+49 2203 8004058"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.hp-vaporstore.de/"
+street: Frankfurter Straße
+housenumber: "200"
+phone: +49 2203 8004058
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.hp-vaporstore.de/

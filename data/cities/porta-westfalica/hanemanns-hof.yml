@@ -1,11 +1,11 @@
 id: 1284683719
-type: way
+type: node
 latitude: 52.22795
 longitude: 8.86916
 postcode: "32457"
 city: Porta Westfalica
-street: "Gutsstraße"
-housenumber: 3
-phone: "+49 171 320 581 2"
-opening_hours: "24/7"
-website: "https://hanemannshof.de"
+street: Gutsstraße
+housenumber: "3"
+phone: +49 171 320 581 2
+opening_hours: 24/7
+website: https://hanemannshof.de

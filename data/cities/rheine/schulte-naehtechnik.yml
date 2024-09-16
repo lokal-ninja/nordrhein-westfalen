@@ -1,11 +1,11 @@
 id: 258518526
-type: way
+type: node
 latitude: 52.22195
 longitude: 7.48798
 postcode: "48432"
 city: Rheine
-street: "Industriestraße"
-housenumber: 53
+street: Industriestraße
+housenumber: "53"
 phone: "+4959753062020"
-opening_hours: "Mo-Th 07:30-12:30,13:00-16:00; Fr 07:30-12:30,13:00-15:00"
-website: "https://www.schulte-nt.de/"
+opening_hours: Mo-Th 07:30-12:30,13:00-16:00; Fr 07:30-12:30,13:00-15:00
+website: https://www.schulte-nt.de/

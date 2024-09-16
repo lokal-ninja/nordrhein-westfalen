@@ -1,11 +1,11 @@
 id: 282506641
-type: way
+type: node
 latitude: 51.25348
 longitude: 7.59979
 postcode: "58513"
 city: Lüdenscheid
-street: "Hoher Hagen"
-housenumber: 3
+street: Hoher Hagen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.81236
 longitude: 6.27182
 postcode: "52249"
 city: Eschweiler
-street: "Talstraße"
-housenumber: 79
-phone: "+49 2403 838780"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
-website: "https://www.getraenke-hoffmann.de/"
+street: Talstraße
+housenumber: "79"
+phone: +49 2403 838780
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00
+website: https://www.getraenke-hoffmann.de/

@@ -1,11 +1,11 @@
 id: 422838557
-type: way
+type: node
 latitude: 52.12351
 longitude: 8.63605
 postcode: "32051"
 city: Herford
-street: "Engerstraße"
-housenumber: 171
+street: Engerstraße
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 51078932
-type: way
+type: node
 latitude: 50.94733
 longitude: 6.90805
 postcode: "50825"
 city: Köln
-street: "Oskar-Jäger-Straße"
-housenumber: 166
+street: Oskar-Jäger-Straße
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-14:00"
-website: "http://www.ford-kierdorf.de"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-14:00
+website: http://www.ford-kierdorf.de

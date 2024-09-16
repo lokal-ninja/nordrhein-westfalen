@@ -4,8 +4,8 @@ latitude: 50.70555
 longitude: 7.11092
 postcode: "53129"
 city: Bonn
-street: "Hausdorffstraße"
-housenumber: 326
-phone: "+49 228 231650"
-opening_hours: "Mo-We 14:00-19:00; Th,Fr 12:00-19:00; Sa 10:00-15:00"
-website: "https://www.jacques.de/depot/125/bonn-dottendorf/"
+street: Hausdorffstraße
+housenumber: "326"
+phone: +49 228 231650
+opening_hours: Mo-We 14:00-19:00; Th,Fr 12:00-19:00; Sa 10:00-15:00
+website: https://www.jacques.de/depot/125/bonn-dottendorf/

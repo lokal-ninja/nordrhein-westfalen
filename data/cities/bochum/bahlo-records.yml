@@ -4,8 +4,8 @@ latitude: 51.4859
 longitude: 7.21343
 postcode: "44787"
 city: Bochum
-street: "Dorstener Straße"
-housenumber: 5
+street: Dorstener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-16:00; PH off"
-website: "https://bahlo-records.de/"
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-16:00; PH off
+website: https://bahlo-records.de/

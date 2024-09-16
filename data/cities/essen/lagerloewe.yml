@@ -1,11 +1,11 @@
 id: 1162854900
-type: way
+type: node
 latitude: 51.46775
 longitude: 6.98885
 postcode: "45141"
 city: Essen
-street: "Berthold-Beitz-Boulevard"
-housenumber: 318
+street: Berthold-Beitz-Boulevard
+housenumber: "318"
 phone: ""
 opening_hours: ""
-website: "https://lagerloewe.com/standorte/essen/"
+website: https://lagerloewe.com/standorte/essen/

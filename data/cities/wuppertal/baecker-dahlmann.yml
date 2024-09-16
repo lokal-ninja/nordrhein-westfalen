@@ -1,11 +1,11 @@
 id: 293858092
-type: way
+type: node
 latitude: 51.26447
 longitude: 7.15618
 postcode: "42107"
 city: Wuppertal
-street: "Am Engelnberg"
-housenumber: 4
+street: Am Engelnberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

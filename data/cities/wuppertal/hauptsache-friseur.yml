@@ -4,8 +4,8 @@ latitude: 51.25333
 longitude: 7.13777
 postcode: "42103"
 city: Wuppertal
-street: "Gesundheitstraße"
-housenumber: 110
-phone: "+49 202 301001"
+street: Gesundheitstraße
+housenumber: "110"
+phone: +49 202 301001
 opening_hours: ""
-website: "https://www.hauptsache-friseur.de/"
+website: https://www.hauptsache-friseur.de/

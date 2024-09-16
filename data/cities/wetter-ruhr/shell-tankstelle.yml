@@ -1,11 +1,11 @@
 id: 130096523
-type: way
+type: node
 latitude: 51.39027
 longitude: 7.38238
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Kaiserstraße"
-housenumber: 8
+street: Kaiserstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

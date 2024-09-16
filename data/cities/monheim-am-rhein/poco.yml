@@ -1,11 +1,11 @@
 id: 225155253
-type: way
+type: node
 latitude: 51.11214
 longitude: 6.90073
 postcode: "40789"
 city: Monheim am Rhein
-street: "Am Knipprather Busch"
-housenumber: 1
+street: Am Knipprather Busch
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

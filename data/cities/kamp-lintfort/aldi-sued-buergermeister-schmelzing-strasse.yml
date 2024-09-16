@@ -1,11 +1,11 @@
 id: 410333924
-type: way
+type: node
 latitude: 51.49301
 longitude: 6.52003
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Bürgermeister-Schmelzing-Straße"
-housenumber: 93
+street: Bürgermeister-Schmelzing-Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/kamp-lintfort/buergermeister-schmelzing-strasse-93-101"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/kamp-lintfort/buergermeister-schmelzing-strasse-93-101

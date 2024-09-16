@@ -4,8 +4,8 @@ latitude: 52.0806
 longitude: 7.01335
 postcode: "48683"
 city: Ahaus
-street: "Bahnhofstraße"
-housenumber: 88
+street: Bahnhofstraße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
-website: "https://www.bettingsmuehle.de/"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00
+website: https://www.bettingsmuehle.de/

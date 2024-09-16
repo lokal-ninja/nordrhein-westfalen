@@ -1,11 +1,11 @@
 id: 250854511
-type: way
+type: node
 latitude: 51.73075
 longitude: 9.031
 postcode: "33014"
 city: Bad Driburg
-street: "Brakeler Straße"
-housenumber: 4
+street: Brakeler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.zweirad24.de/"
+website: https://www.zweirad24.de/

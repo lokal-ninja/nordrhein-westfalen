@@ -4,8 +4,8 @@ latitude: 50.80061
 longitude: 7.20118
 postcode: "53721"
 city: Siegburg
-street: "Zum Hohen Ufer"
-housenumber: 6
-phone: "+49 2241 2615550"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.dm.de/filiale/de-2470/siegburg/zum-hohen-ufer-6"
+street: Zum Hohen Ufer
+housenumber: "6"
+phone: +49 2241 2615550
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.dm.de/filiale/de-2470/siegburg/zum-hohen-ufer-6

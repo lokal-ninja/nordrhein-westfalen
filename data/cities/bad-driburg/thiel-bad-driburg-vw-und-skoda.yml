@@ -1,11 +1,11 @@
 id: 250455392
-type: way
+type: node
 latitude: 51.723
 longitude: 9.01735
 postcode: "33014"
 city: Bad Driburg
-street: "Dringenberger Straße"
-housenumber: 77
+street: Dringenberger Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.thiel-gruppe.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.thiel-gruppe.de

@@ -1,11 +1,11 @@
 id: 105041611
-type: way
+type: node
 latitude: 51.25909
 longitude: 7.14355
 postcode: "42105"
 city: Wuppertal
-street: "Genügsamkeitstraße"
-housenumber: 4
+street: Genügsamkeitstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

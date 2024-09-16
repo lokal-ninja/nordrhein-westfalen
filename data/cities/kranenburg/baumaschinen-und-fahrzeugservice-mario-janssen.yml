@@ -1,11 +1,11 @@
 id: 308470977
-type: way
+type: node
 latitude: 51.78486
 longitude: 6.05331
 postcode: "47559"
 city: Kranenburg
-street: "Im Schlop"
-housenumber: 15
+street: Im Schlop
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

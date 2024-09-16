@@ -4,8 +4,8 @@ latitude: 51.19541
 longitude: 6.54927
 postcode: "41352"
 city: Korschenbroich
-street: "Ladestraße"
-housenumber: 4
+street: Ladestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.centershop.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.centershop.de

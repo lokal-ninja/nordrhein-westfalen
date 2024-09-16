@@ -1,11 +1,11 @@
 id: 244264176
-type: way
+type: node
 latitude: 51.46118
 longitude: 6.82665
 postcode: "46049"
 city: Oberhausen
-street: "Flockenfeld"
-housenumber: 97
+street: Flockenfeld
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

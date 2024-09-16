@@ -4,8 +4,8 @@ latitude: 50.94915
 longitude: 6.96271
 postcode: "50668"
 city: Köln
-street: "Thürmchenswall"
-housenumber: 72
-phone: "+49 221 123842"
-opening_hours: "Mo - Fr"
+street: Thürmchenswall
+housenumber: "72"
+phone: +49 221 123842
+opening_hours: Mo - Fr
 website: ""

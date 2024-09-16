@@ -1,11 +1,11 @@
 id: 186920106
-type: way
+type: node
 latitude: 51.5042
 longitude: 6.87259
 postcode: "46117"
 city: Oberhausen
-street: "Fahnhorststraße"
-housenumber: 66
+street: Fahnhorststraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
 website: ""

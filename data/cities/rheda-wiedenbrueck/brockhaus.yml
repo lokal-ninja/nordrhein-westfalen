@@ -1,11 +1,11 @@
 id: 105733725
-type: way
+type: node
 latitude: 51.85109
 longitude: 8.31949
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Pilgerpatt"
-housenumber: 1
+street: Pilgerpatt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

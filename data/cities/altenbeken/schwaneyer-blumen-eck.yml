@@ -4,8 +4,9 @@ latitude: 51.71436
 longitude: 8.9317
 postcode: "33184"
 city: Altenbeken
-street: "Wallstraße"
-housenumber: 1
+street: Wallstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Tu 8:30-12:30, 14:30-18:00; We 8:30-13:00; Th-Fr 8:30-12:30, 14:30-18:00; Sa 8:30-13:00"
+opening_hours: Mo-Tu 8:30-12:30, 14:30-18:00; We 8:30-13:00; Th-Fr 8:30-12:30, 14:30-18:00;
+    Sa 8:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.50824
 longitude: 7.3793
 postcode: "44379"
 city: Dortmund
-street: "Steinhammerstraße"
-housenumber: 19
+street: Steinhammerstraße
+housenumber: "19"
 phone: "+49231615671"
-opening_hours: "Tu-Fr 10:00-13:00"
-website: "http://www.herrenbekleidung-torlutter.de/"
+opening_hours: Tu-Fr 10:00-13:00
+website: http://www.herrenbekleidung-torlutter.de/

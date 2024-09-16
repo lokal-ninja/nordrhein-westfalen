@@ -1,11 +1,11 @@
 id: 289247421
-type: way
+type: node
 latitude: 50.90932
 longitude: 6.75792
 postcode: "50226"
 city: Frechen
-street: "Frechener Straße"
-housenumber: 20
+street: Frechener Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/frechen/frechener-strasse-20"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/frechen/frechener-strasse-20

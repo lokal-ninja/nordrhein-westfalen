@@ -1,11 +1,11 @@
 id: 264892543
-type: way
+type: node
 latitude: 51.69475
 longitude: 7.96756
 postcode: "59510"
 city: Lippetal
-street: "Dolberger Straße"
-housenumber: 82
+street: Dolberger Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-13:00
 website: ""

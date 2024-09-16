@@ -4,8 +4,8 @@ latitude: 50.85406
 longitude: 7.08878
 postcode: "51147"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 136
-phone: "+49 2203 64040"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00; Sa 10:00-14:00; PH off"
+street: Frankfurter Straße
+housenumber: "136"
+phone: +49 2203 64040
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00; Sa 10:00-14:00; PH off
 website: ""

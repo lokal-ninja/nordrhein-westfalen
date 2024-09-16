@@ -1,11 +1,11 @@
 id: 93180178
-type: way
+type: node
 latitude: 51.49658
 longitude: 7.1933
 postcode: "44809"
 city: Bochum
-street: "Freudenbergstraße"
+street: Freudenbergstraße
 housenumber: 25-33
-phone: "+49 234 95770"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://www.bob-automobile.de/"
+phone: +49 234 95770
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
+website: https://www.bob-automobile.de/

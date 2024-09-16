@@ -1,11 +1,11 @@
 id: 44829552
-type: way
+type: node
 latitude: 50.87107
 longitude: 8.01309
 postcode: "57072"
 city: Siegen
-street: "Kirchweg"
-housenumber: 95
+street: Kirchweg
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

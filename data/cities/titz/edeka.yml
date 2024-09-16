@@ -1,11 +1,11 @@
 id: 60975355
-type: way
+type: node
 latitude: 50.99962
 longitude: 6.42586
 postcode: "52445"
 city: Titz
-street: "Heinrich-Gossen-Straße"
-housenumber: 3
+street: Heinrich-Gossen-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

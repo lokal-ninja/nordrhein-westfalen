@@ -1,11 +1,11 @@
 id: 145260487
-type: way
+type: node
 latitude: 51.50864
 longitude: 7.07729
 postcode: "45883"
 city: Gelsenkirchen
-street: "Feldmarkstraße"
-housenumber: 126
+street: Feldmarkstraße
+housenumber: "126"
 phone: ""
-opening_hours: "Persönlicher Termin nach Vereinbarung."
+opening_hours: '"Persönlicher Termin nach Vereinbarung."'
 website: ""

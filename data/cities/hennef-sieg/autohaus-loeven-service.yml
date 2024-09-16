@@ -1,11 +1,11 @@
 id: 184002641
-type: way
+type: node
 latitude: 50.73199
 longitude: 7.36791
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Westerwaldstraße"
-housenumber: 157
+street: Westerwaldstraße
+housenumber: "157"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-loeven.de/"
+website: https://www.autohaus-loeven.de/

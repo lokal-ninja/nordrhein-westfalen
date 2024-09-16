@@ -1,11 +1,11 @@
 id: 278923132
-type: way
+type: node
 latitude: 51.47336
 longitude: 7.00245
 postcode: "45141"
 city: Essen
-street: "Sigsfeldstraße"
-housenumber: 6
-phone: "+49 201-328236"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+street: Sigsfeldstraße
+housenumber: "6"
+phone: +49 201-328236
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

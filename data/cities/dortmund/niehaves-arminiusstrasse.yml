@@ -4,8 +4,8 @@ latitude: 51.51335
 longitude: 7.42265
 postcode: "44149"
 city: Dortmund
-street: "Arminiusstraße"
-housenumber: 6
+street: Arminiusstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.westfalenbaecker.de/"
+website: https://www.westfalenbaecker.de/

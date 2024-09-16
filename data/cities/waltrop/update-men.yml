@@ -1,11 +1,11 @@
 id: 245276956
-type: way
+type: node
 latitude: 51.62436
 longitude: 7.39552
 postcode: "45731"
 city: Waltrop
-street: "Hochstraße"
-housenumber: 100
+street: Hochstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
 website: ""

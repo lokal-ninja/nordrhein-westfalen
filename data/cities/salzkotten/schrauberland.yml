@@ -4,8 +4,9 @@ latitude: 51.67795
 longitude: 8.60554
 postcode: "33154"
 city: Salzkotten
-street: "Thüler Straße"
-housenumber: 24
-phone: "+49 5258 - 93 888 77"
-opening_hours: "Mo-Fr 08:00-12:45,13:30-18:00; Sa 08:00-13:00 || Andere Zeiten sind nach Vereinbarung möglich."
-website: "https://www.schrauberland-owl.de/anfahrt.html"
+street: Thüler Straße
+housenumber: "24"
+phone: +49 5258 - 93 888 77
+opening_hours: Mo-Fr 08:00-12:45,13:30-18:00; Sa 08:00-13:00 || "Andere Zeiten sind
+    nach Vereinbarung möglich."
+website: https://www.schrauberland-owl.de/anfahrt.html

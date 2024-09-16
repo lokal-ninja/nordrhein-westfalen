@@ -1,11 +1,11 @@
 id: 383628196
-type: way
+type: node
 latitude: 51.02802
 longitude: 7.46721
 postcode: "51647"
 city: Gummersbach
-street: "Gelpestraße"
-housenumber: 49
+street: Gelpestraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

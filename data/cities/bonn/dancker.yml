@@ -4,8 +4,8 @@ latitude: 50.73579
 longitude: 7.10021
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 24
+street: Sternstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30; Sa 10:00-16:00; Su,PH off"
-website: "https://dancker.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:30; Sa 10:00-16:00; Su,PH off
+website: https://dancker.de/

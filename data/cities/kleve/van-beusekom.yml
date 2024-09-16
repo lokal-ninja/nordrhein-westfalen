@@ -1,11 +1,11 @@
 id: 380126562
-type: way
+type: node
 latitude: 51.76929
 longitude: 6.12005
 postcode: "47533"
 city: Kleve
-street: "Gertrud-Boss-Straße"
-housenumber: 1
-phone: "+49 2821 - 97 91 0-0"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:30"
-website: "https://www.van-beusekom.de/"
+street: Gertrud-Boss-Straße
+housenumber: "1"
+phone: +49 2821 - 97 91 0-0
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:30
+website: https://www.van-beusekom.de/

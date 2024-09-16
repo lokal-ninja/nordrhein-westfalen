@@ -1,11 +1,11 @@
 id: 115996000
-type: way
+type: node
 latitude: 50.79215
 longitude: 6.10871
 postcode: "52070"
 city: Aachen
-street: "Grüner Weg"
-housenumber: 92
+street: Grüner Weg
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00; Su,PH off"
-website: "https://www.autoteile-mainz.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00; Su,PH off
+website: https://www.autoteile-mainz.de/

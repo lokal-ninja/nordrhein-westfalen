@@ -1,11 +1,11 @@
 id: 117478427
-type: way
+type: node
 latitude: 51.29974
 longitude: 7.34866
 postcode: "58256"
 city: Ennepetal
-street: "Voerder Straße"
-housenumber: 39
+street: Voerder Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

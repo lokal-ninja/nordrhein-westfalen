@@ -4,8 +4,8 @@ latitude: 52.42154
 longitude: 9.06638
 postcode: "32469"
 city: Petershagen
-street: "Neuenknicker Straße"
-housenumber: 36
-phone: "+49 5705 661"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://wahrenburg-reisen.de/"
+street: Neuenknicker Straße
+housenumber: "36"
+phone: +49 5705 661
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://wahrenburg-reisen.de/

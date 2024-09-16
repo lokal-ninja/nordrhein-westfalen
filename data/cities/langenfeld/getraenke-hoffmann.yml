@@ -1,11 +1,11 @@
 id: 141066995
-type: way
+type: node
 latitude: 51.13851
 longitude: 6.99602
 postcode: "40764"
 city: Langenfeld
-street: "Ohligser Straße"
-housenumber: 44
+street: Ohligser Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

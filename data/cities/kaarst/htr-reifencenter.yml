@@ -4,8 +4,8 @@ latitude: 51.21951
 longitude: 6.62656
 postcode: "41564"
 city: Kaarst
-street: "Rurstraße"
-housenumber: 10
-phone: "+49 2131 4020669"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "http://www.htr-reifen.de/"
+street: Rurstraße
+housenumber: "10"
+phone: +49 2131 4020669
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: http://www.htr-reifen.de/

@@ -4,8 +4,8 @@ latitude: 50.95287
 longitude: 6.6353
 postcode: "50126"
 city: Bergheim
-street: "Hauptstraße"
-housenumber: 110
+street: Hauptstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-We 07:15-18:00; Th 08:45-18:00; Fr 07:15-17:00; Sa 07:45-12:00"
+opening_hours: Mo-We 07:15-18:00; Th 08:45-18:00; Fr 07:15-17:00; Sa 07:45-12:00
 website: ""

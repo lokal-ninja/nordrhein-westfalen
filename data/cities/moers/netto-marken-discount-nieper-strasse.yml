@@ -1,11 +1,11 @@
 id: 38772948
-type: way
+type: node
 latitude: 51.41335
 longitude: 6.59418
 postcode: "47447"
 city: Moers
-street: "Nieper Straße"
-housenumber: 1
+street: Nieper Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

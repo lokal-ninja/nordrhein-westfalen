@@ -4,8 +4,8 @@ latitude: 50.77404
 longitude: 6.08544
 postcode: "52062"
 city: Aachen
-street: "Hartmannstraße"
-housenumber: 16
-phone: "+49 241 34929"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00; Su,PH off"
-website: "https://gerrards-fleischerei.de/"
+street: Hartmannstraße
+housenumber: "16"
+phone: +49 241 34929
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00; Su,PH off
+website: https://gerrards-fleischerei.de/

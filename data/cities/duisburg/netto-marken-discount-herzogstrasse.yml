@@ -1,11 +1,11 @@
 id: 307906373
-type: way
+type: node
 latitude: 51.47466
 longitude: 6.73392
 postcode: "47139"
 city: Duisburg
-street: "Herzogstraße"
-housenumber: 4
+street: Herzogstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

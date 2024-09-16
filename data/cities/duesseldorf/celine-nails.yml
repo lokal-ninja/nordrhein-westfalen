@@ -4,8 +4,8 @@ latitude: 51.2369
 longitude: 6.79778
 postcode: "40237"
 city: Düsseldorf
-street: "Rethelstraße"
-housenumber: 100
+street: Rethelstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:0-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:0-17:00
 website: ""

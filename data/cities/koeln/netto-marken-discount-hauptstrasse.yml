@@ -1,11 +1,11 @@
 id: 37982833
-type: way
+type: node
 latitude: 50.96739
 longitude: 6.83968
 postcode: "50859"
 city: Köln
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

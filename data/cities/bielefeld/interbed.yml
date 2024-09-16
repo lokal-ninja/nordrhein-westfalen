@@ -1,11 +1,11 @@
 id: 108449031
-type: way
+type: node
 latitude: 52.00288
 longitude: 8.56476
 postcode: "33605"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 278
+street: Detmolder Straße
+housenumber: "278"
 phone: ""
 opening_hours: ""
-website: "https://www.interbed.de/"
+website: https://www.interbed.de/

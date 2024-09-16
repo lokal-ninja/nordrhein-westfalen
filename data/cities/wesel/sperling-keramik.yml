@@ -1,11 +1,11 @@
 id: 247601530
-type: way
+type: node
 latitude: 51.65003
 longitude: 6.61402
 postcode: "46483"
 city: Wesel
-street: "Rheinbabenstraße"
-housenumber: 7
+street: Rheinbabenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

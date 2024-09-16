@@ -1,11 +1,11 @@
 id: 89452997
-type: way
+type: node
 latitude: 51.19731
 longitude: 6.66601
 postcode: "41464"
 city: Neuss
-street: "Rheydter Straße"
-housenumber: 186
+street: Rheydter Straße
+housenumber: "186"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su 10:00-13:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su 10:00-13:00
 website: ""

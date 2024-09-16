@@ -1,11 +1,11 @@
 id: 35557642
-type: way
+type: node
 latitude: 52.08482
 longitude: 7.48008
 postcode: "48356"
 city: Nordwalde
-street: "Kirchstraße"
-housenumber: 1
+street: Kirchstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

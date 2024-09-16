@@ -1,11 +1,11 @@
 id: 635700612
-type: way
+type: node
 latitude: 50.75259
 longitude: 7.05953
 postcode: "53117"
 city: Bonn
-street: "Christian-Lassen-Straße"
-housenumber: 9
-phone: "+49 228 9678135"
-opening_hours: "Mo-Fr 05:00-16:00; Sa 06:00-13:00; Su off"
-website: "https://kamps.de/standort/kamps-baeckerei-bonn-christian-lassen-strasse-9"
+street: Christian-Lassen-Straße
+housenumber: "9"
+phone: +49 228 9678135
+opening_hours: Mo-Fr 05:00-16:00; Sa 06:00-13:00; Su off
+website: https://kamps.de/standort/kamps-baeckerei-bonn-christian-lassen-strasse-9

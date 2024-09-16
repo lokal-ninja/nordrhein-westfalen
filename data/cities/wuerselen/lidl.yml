@@ -1,11 +1,11 @@
 id: 102785062
-type: way
+type: node
 latitude: 50.80968
 longitude: 6.13857
 postcode: "52146"
 city: Würselen
-street: "Am alten Kaninsberg"
-housenumber: 14
+street: Am alten Kaninsberg
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

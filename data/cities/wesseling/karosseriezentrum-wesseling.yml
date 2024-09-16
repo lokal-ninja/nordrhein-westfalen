@@ -1,11 +1,11 @@
 id: 137218523
-type: way
+type: node
 latitude: 50.83164
 longitude: 6.95743
 postcode: "50389"
 city: Wesseling
-street: "Peter-Henlein-Straße"
+street: Peter-Henlein-Straße
 housenumber: 2f
-phone: "+49 2232 41 11 26"
+phone: +49 2232 41 11 26
 opening_hours: ""
-website: "http://www.karosseriezentrum.de/"
+website: http://www.karosseriezentrum.de/

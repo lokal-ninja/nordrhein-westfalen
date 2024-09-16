@@ -1,11 +1,11 @@
 id: 288974841
-type: way
+type: node
 latitude: 51.75274
 longitude: 7.19362
 postcode: "45721"
 city: Haltern am See
-street: "Lohausstraße"
-housenumber: 24
-phone: "+49 2364 5091141"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.reso-moebel.de/de/Wohnen_Standort_Haltern.html"
+street: Lohausstraße
+housenumber: "24"
+phone: +49 2364 5091141
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.reso-moebel.de/de/Wohnen_Standort_Haltern.html

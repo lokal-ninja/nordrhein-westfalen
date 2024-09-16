@@ -1,11 +1,11 @@
 id: 392995281
-type: way
+type: node
 latitude: 51.67231
 longitude: 6.96589
 postcode: "46284"
 city: Dorsten
-street: "Am Güterbahnhof"
-housenumber: 28
+street: Am Güterbahnhof
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00, Sa 10:00-14:00; PH off"
+opening_hours: Mo-Fr 08:30-17:00, Sa 10:00-14:00; PH off
 website: ""

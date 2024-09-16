@@ -4,8 +4,8 @@ latitude: 51.44204
 longitude: 7.5625
 postcode: "58239"
 city: Schwerte
-street: "Bahnhofstraße"
-housenumber: 20
-phone: "+49 (0)2304 – 23 90 755"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.tingelhoff.de/"
+street: Bahnhofstraße
+housenumber: "20"
+phone: +49 (0)2304 – 23 90 755
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.tingelhoff.de/

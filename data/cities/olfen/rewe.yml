@@ -1,11 +1,11 @@
 id: 272333934
-type: way
+type: node
 latitude: 51.71022
 longitude: 7.37821
 postcode: "59399"
 city: Olfen
-street: "Grüner Weg"
-housenumber: 1
+street: Grüner Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.9535
 longitude: 6.95747
 postcode: "50670"
 city: Köln
-street: "Neusser Straße"
-housenumber: 50
-phone: "+49 221 734561"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00"
+street: Neusser Straße
+housenumber: "50"
+phone: +49 221 734561
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-14:00
 website: ""

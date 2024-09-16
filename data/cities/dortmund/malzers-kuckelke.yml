@@ -4,8 +4,8 @@ latitude: 51.51551
 longitude: 7.46832
 postcode: "44135"
 city: Dortmund
-street: "Kuckelke"
-housenumber: 6
+street: Kuckelke
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00
 website: ""

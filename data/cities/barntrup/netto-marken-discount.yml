@@ -1,11 +1,11 @@
 id: 453279958
-type: way
+type: node
 latitude: 51.9892
 longitude: 9.13652
 postcode: "32683"
 city: Barntrup
-street: "Frettholz"
-housenumber: 5
+street: Frettholz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

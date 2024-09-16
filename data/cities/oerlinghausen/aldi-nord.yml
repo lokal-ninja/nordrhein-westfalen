@@ -1,11 +1,11 @@
 id: 1193047555
-type: way
+type: node
 latitude: 51.94742
 longitude: 8.65772
 postcode: "33813"
 city: Oerlinghausen
-street: "Am Kalkofen"
-housenumber: 7
+street: Am Kalkofen
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

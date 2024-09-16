@@ -1,11 +1,11 @@
 id: 151939167
-type: way
+type: node
 latitude: 51.57303
 longitude: 6.99197
 postcode: "45964"
 city: Gladbeck
-street: "Goethestraße"
-housenumber: 60
+street: Goethestraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.cecil.de/shopfinder/Gladbeck/"
+website: https://www.cecil.de/shopfinder/Gladbeck/

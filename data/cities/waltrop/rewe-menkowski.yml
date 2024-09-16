@@ -1,11 +1,11 @@
 id: 197899130
-type: way
+type: node
 latitude: 51.62104
 longitude: 7.393
 postcode: "45731"
 city: Waltrop
-street: "Leveringhäuser Straße"
-housenumber: 11
-phone: "+49 2309 7813990"
-opening_hours: "Mo-Sa 06:15-21:30"
-website: "https://www.rewe.de/marktseite/waltrop/8321312/rewe-dortmund-leveringhaeuserstr-11/"
+street: Leveringhäuser Straße
+housenumber: "11"
+phone: +49 2309 7813990
+opening_hours: Mo-Sa 06:15-21:30
+website: https://www.rewe.de/marktseite/waltrop/8321312/rewe-dortmund-leveringhaeuserstr-11/

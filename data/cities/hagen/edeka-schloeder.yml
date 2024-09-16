@@ -1,11 +1,11 @@
 id: 95515008
-type: way
+type: node
 latitude: 51.36133
 longitude: 7.49527
 postcode: "58093"
 city: Hagen
-street: "Eppenhauser Straße"
-housenumber: 46
+street: Eppenhauser Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

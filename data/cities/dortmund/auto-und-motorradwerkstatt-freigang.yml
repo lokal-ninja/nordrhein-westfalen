@@ -1,11 +1,11 @@
 id: 54179861
-type: way
+type: node
 latitude: 51.49656
 longitude: 7.5651
 postcode: "44287"
 city: Dortmund
-street: "Köln-Berliner Straße"
-housenumber: 101
+street: Köln-Berliner Straße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
 website: ""

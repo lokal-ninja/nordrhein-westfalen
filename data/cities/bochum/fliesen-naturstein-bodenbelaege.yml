@@ -4,8 +4,9 @@ latitude: 51.46433
 longitude: 7.32062
 postcode: "44892"
 city: Bochum
-street: "Hauptstraße"
-housenumber: 286
+street: Hauptstraße
+housenumber: "286"
 phone: ""
-opening_hours: "Mo 10:00-12:00, 14:00-17:00; Tu 10:00-12:00, 14:00-18:30; We 10:00-12:00; Th 10:00-12:00, 14:00-18:30; Fr 10:00-12:00 ,14:00-17:00"
+opening_hours: Mo 10:00-12:00, 14:00-17:00; Tu 10:00-12:00, 14:00-18:30; We 10:00-12:00;
+    Th 10:00-12:00, 14:00-18:30; Fr 10:00-12:00 ,14:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.60857
 longitude: 6.9334
 postcode: "46244"
 city: Bottrop
-street: "Raiffeisenstraße"
-housenumber: 2
+street: Raiffeisenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://getraenkewelt.org/markt/raiffeisen-eg-getraenkewelt-kirchhellen/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://getraenkewelt.org/markt/raiffeisen-eg-getraenkewelt-kirchhellen/

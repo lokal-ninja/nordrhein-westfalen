@@ -4,8 +4,8 @@ latitude: 52.1456
 longitude: 7.97281
 postcode: "49536"
 city: Lienen
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.busiek.de/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
+website: https://www.busiek.de/

@@ -4,8 +4,8 @@ latitude: 51.95398
 longitude: 7.63228
 postcode: "48153"
 city: Münster
-street: "Hafenstraße"
-housenumber: 45
-phone: "+49 251 4816404"
-opening_hours: "Mo-Tu 08:00-02:00; We 08:00-03:00; Fr-Sa 08:00-05:00; Su 08:00-02:00"
-website: "https://www.kippenwegbierundyallah.de/"
+street: Hafenstraße
+housenumber: "45"
+phone: +49 251 4816404
+opening_hours: Mo-Tu 08:00-02:00; We 08:00-03:00; Fr-Sa 08:00-05:00; Su 08:00-02:00
+website: https://www.kippenwegbierundyallah.de/

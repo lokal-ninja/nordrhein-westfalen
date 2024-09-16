@@ -4,8 +4,8 @@ latitude: 51.42501
 longitude: 7.15761
 postcode: "44879"
 city: Bochum
-street: "Dr.-C.-Otto-Straße"
-housenumber: 22
-phone: "+49 234 3795814"
-opening_hours: "nach Vereinbarung"
+street: Dr.-C.-Otto-Straße
+housenumber: "22"
+phone: +49 234 3795814
+opening_hours: '"nach Vereinbarung"'
 website: ""

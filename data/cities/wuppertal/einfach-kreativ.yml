@@ -4,8 +4,8 @@ latitude: 51.25609
 longitude: 7.16531
 postcode: "42285"
 city: Wuppertal
-street: "Mauerstraße"
-housenumber: 14
-phone: "+49 202 51493035"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00"
+street: Mauerstraße
+housenumber: "14"
+phone: +49 202 51493035
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-14:00
 website: ""

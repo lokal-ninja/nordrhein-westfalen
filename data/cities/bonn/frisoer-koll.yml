@@ -4,8 +4,8 @@ latitude: 50.69784
 longitude: 7.12721
 postcode: "53175"
 city: Bonn
-street: "Annaberger Straße"
-housenumber: 144
-phone: "+49 228 310288"
-opening_hours: "Mo-Sa 09:00-11:00"
+street: Annaberger Straße
+housenumber: "144"
+phone: +49 228 310288
+opening_hours: Mo-Sa 09:00-11:00
 website: ""

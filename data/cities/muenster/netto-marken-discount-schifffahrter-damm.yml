@@ -4,8 +4,8 @@ latitude: 51.9684
 longitude: 7.65685
 postcode: "48145"
 city: Münster
-street: "Schifffahrter Damm"
-housenumber: 24
+street: Schifffahrter Damm
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 51.22762
 longitude: 7.63595
 postcode: "58507"
 city: Lüdenscheid
-street: "Lennestraße"
-housenumber: 1
+street: Lennestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:30; Sa 09:30-12:00"
-website: "https://www.si-el.de/"
+opening_hours: Mo-Fr 15:00-18:30; Sa 09:30-12:00
+website: https://www.si-el.de/

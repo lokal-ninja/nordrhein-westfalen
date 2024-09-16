@@ -1,11 +1,11 @@
 id: 96722263
-type: way
+type: node
 latitude: 52.17881
 longitude: 7.84672
 postcode: "49525"
 city: Lengerich
-street: "In den Rietbroken"
-housenumber: 39
+street: In den Rietbroken
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

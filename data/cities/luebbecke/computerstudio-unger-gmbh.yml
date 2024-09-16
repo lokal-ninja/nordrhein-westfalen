@@ -4,8 +4,8 @@ latitude: 52.3283
 longitude: 8.62892
 postcode: "32312"
 city: Lübbecke
-street: "Daimlerstraße"
-housenumber: 21
-phone: "+49 5741 310012"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://computerstudio-unger.de/"
+street: Daimlerstraße
+housenumber: "21"
+phone: +49 5741 310012
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://computerstudio-unger.de/

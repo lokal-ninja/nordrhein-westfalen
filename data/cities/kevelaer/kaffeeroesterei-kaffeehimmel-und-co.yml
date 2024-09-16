@@ -4,8 +4,8 @@ latitude: 51.58295
 longitude: 6.24979
 postcode: "47623"
 city: Kevelaer
-street: "Bahnstraße"
-housenumber: 25
-phone: "+49 2832 9760860"
-opening_hours: "We-Fr 10:00-12:30,14:30-18:00; Sa 10:00-14:00"
-website: "https://www.kaffeehimmel-roesterei.de/"
+street: Bahnstraße
+housenumber: "25"
+phone: +49 2832 9760860
+opening_hours: We-Fr 10:00-12:30,14:30-18:00; Sa 10:00-14:00
+website: https://www.kaffeehimmel-roesterei.de/

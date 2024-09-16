@@ -4,8 +4,8 @@ latitude: 51.97772
 longitude: 7.61115
 postcode: "48159"
 city: Münster
-street: "An der Germania Brauerei"
-housenumber: 7
-phone: "+49 251 274470"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-16:00"
-website: "https://www.sportboerse-muenster.de/"
+street: An der Germania Brauerei
+housenumber: "7"
+phone: +49 251 274470
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-16:00
+website: https://www.sportboerse-muenster.de/

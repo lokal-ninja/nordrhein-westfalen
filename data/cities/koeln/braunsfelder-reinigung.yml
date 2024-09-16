@@ -4,8 +4,8 @@ latitude: 50.93703
 longitude: 6.89721
 postcode: "50933"
 city: Köln
-street: "Aachener Straße"
-housenumber: 545
-phone: "+49 221 9472204"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-14:00; Su off; PH off"
+street: Aachener Straße
+housenumber: "545"
+phone: +49 221 9472204
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-14:00; Su off; PH off
 website: ""

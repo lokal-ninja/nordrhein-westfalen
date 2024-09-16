@@ -1,11 +1,11 @@
 id: 242836928
-type: way
+type: node
 latitude: 50.95991
 longitude: 7.14453
 postcode: "51429"
 city: Bergisch Gladbach
-street: "Kölner Straße"
-housenumber: 104
+street: Kölner Straße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

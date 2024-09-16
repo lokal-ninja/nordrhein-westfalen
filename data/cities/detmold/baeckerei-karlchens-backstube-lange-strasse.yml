@@ -4,8 +4,8 @@ latitude: 51.9363
 longitude: 8.88096
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 66
-phone: "+49 5231 26068"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-15:00"
-website: "https://www.karlchens-backstube.de/"
+street: Lange Straße
+housenumber: "66"
+phone: +49 5231 26068
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-15:00
+website: https://www.karlchens-backstube.de/

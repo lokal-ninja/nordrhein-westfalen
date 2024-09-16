@@ -4,8 +4,9 @@ latitude: 51.71005
 longitude: 9.17931
 postcode: "33034"
 city: Brakel
-street: "Warburger Straße"
-housenumber: 28
+street: Warburger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 08:00-12:30,13:00-16:30, Sa 08:00 - 11:30, Su off; Nov-Feb: Mo-Fr 08:00-12:30,13:00-16:00, Sa-Su off"
-website: "https://www.agravis.de/de/agrarhandel/agravis-westfalen-hessen/brakel.html"
+opening_hours: 'Mar-Oct: Mo-Fr 08:00-12:30,13:00-16:30, Sa 08:00 - 11:30, Su off;
+    Nov-Feb: Mo-Fr 08:00-12:30,13:00-16:00, Sa-Su off'
+website: https://www.agravis.de/de/agrarhandel/agravis-westfalen-hessen/brakel.html

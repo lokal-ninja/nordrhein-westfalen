@@ -1,11 +1,11 @@
 id: 90019852
-type: way
+type: node
 latitude: 51.65687
 longitude: 6.44114
 postcode: "46509"
 city: Xanten
-street: "Hagdornstraße"
-housenumber: 2
-phone: "+49 2801 71610"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/xanten/2161429/rewe-markt-hagdornstrasse-2/"
+street: Hagdornstraße
+housenumber: "2"
+phone: +49 2801 71610
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/xanten/2161429/rewe-markt-hagdornstrasse-2/

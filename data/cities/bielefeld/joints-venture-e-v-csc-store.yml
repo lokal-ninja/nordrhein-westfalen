@@ -4,8 +4,8 @@ latitude: 52.02383
 longitude: 8.53072
 postcode: "33602"
 city: Bielefeld
-street: "Friedenstraße"
-housenumber: 2
+street: Friedenstraße
+housenumber: "2"
 phone: "+4952156045700"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://joints-venture.de/"
+opening_hours: Mo-Fr 10:00-16:00
+website: https://joints-venture.de/

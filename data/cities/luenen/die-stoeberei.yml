@@ -1,11 +1,11 @@
 id: 149115971
-type: way
+type: node
 latitude: 51.62157
 longitude: 7.53151
 postcode: "44534"
 city: Lünen
-street: "Arndtstraße"
-housenumber: 29
+street: Arndtstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

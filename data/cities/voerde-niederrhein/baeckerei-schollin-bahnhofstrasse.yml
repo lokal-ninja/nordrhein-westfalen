@@ -1,11 +1,11 @@
 id: 1212923721
-type: way
+type: node
 latitude: 51.6015
 longitude: 6.69793
 postcode: "46562"
 city: Voerde (Niederrhein)
-street: "Bahnhofstraße"
-housenumber: 143
+street: Bahnhofstraße
+housenumber: "143"
 phone: ""
 opening_hours: ""
-website: "https://schollin.de/backereien/h-o-voerde/"
+website: https://schollin.de/backereien/h-o-voerde/

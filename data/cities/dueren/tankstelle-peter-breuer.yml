@@ -1,11 +1,11 @@
 id: 45111695
-type: way
+type: node
 latitude: 50.83114
 longitude: 6.44344
 postcode: "52353"
 city: Düren
-street: "Birkesdorfer Straße"
-housenumber: 60
+street: Birkesdorfer Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

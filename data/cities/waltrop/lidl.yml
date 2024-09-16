@@ -1,11 +1,11 @@
 id: 90842930
-type: way
+type: node
 latitude: 51.61952
 longitude: 7.39347
 postcode: "45731"
 city: Waltrop
-street: "Leveringhäuser Straße"
-housenumber: 29
+street: Leveringhäuser Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/waltrop/leveringhaeuser-str-29.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/waltrop/leveringhaeuser-str-29.html

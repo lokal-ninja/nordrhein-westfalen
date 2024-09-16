@@ -4,8 +4,8 @@ latitude: 52.03752
 longitude: 8.4933
 postcode: "33615"
 city: Bielefeld
-street: "Universitätsstraße"
-housenumber: 25
+street: Universitätsstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:00, Fr 09:00-14:00"
-website: "https://www.bueromarkt-bielefeld.de"
+opening_hours: Mo-Th 09:00-16:00, Fr 09:00-14:00
+website: https://www.bueromarkt-bielefeld.de

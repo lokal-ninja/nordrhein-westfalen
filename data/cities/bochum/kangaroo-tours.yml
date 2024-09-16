@@ -4,8 +4,8 @@ latitude: 51.4812
 longitude: 7.21275
 postcode: "44787"
 city: Bochum
-street: "Westring"
-housenumber: 25
+street: Westring
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00"
+opening_hours: Mo-Fr 10:00-19:00
 website: ""

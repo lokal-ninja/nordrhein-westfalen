@@ -1,11 +1,11 @@
 id: 1164093517
-type: way
+type: node
 latitude: 51.22724
 longitude: 7.64098
 postcode: "58507"
 city: Lüdenscheid
-street: "Lennestraße"
-housenumber: 58
+street: Lennestraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

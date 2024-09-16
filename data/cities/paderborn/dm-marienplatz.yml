@@ -4,8 +4,8 @@ latitude: 51.71702
 longitude: 8.75195
 postcode: "33098"
 city: Paderborn
-street: "Marienplatz"
-housenumber: 11
+street: Marienplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.dm.de"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.dm.de

@@ -1,11 +1,11 @@
 id: 230507151
-type: way
+type: node
 latitude: 50.9048
 longitude: 7.0694
 postcode: "51149"
 city: Köln
-street: "Ferdinand-Porsche-Straße"
-housenumber: 24
+street: Ferdinand-Porsche-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH off
 website: ""

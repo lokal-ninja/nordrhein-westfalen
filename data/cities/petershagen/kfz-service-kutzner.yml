@@ -4,8 +4,8 @@ latitude: 52.38353
 longitude: 9.00504
 postcode: "32469"
 city: Petershagen
-street: "Dingbreite"
-housenumber: 25
-phone: "+49 5702 8516065"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00"
+street: Dingbreite
+housenumber: "25"
+phone: +49 5702 8516065
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 141561237
-type: way
+type: node
 latitude: 51.09292
 longitude: 6.84213
 postcode: "41539"
 city: Dormagen
-street: "Kölner Straße"
-housenumber: 70
-phone: "+49 2133 44664"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-16:00"
-website: "https://www.unwiderstehlich-gut.de/"
+street: Kölner Straße
+housenumber: "70"
+phone: +49 2133 44664
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-16:00
+website: https://www.unwiderstehlich-gut.de/

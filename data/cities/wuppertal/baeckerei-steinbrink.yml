@@ -1,11 +1,11 @@
 id: 396246393
-type: way
+type: node
 latitude: 51.23087
 longitude: 7.20737
 postcode: "42369"
 city: Wuppertal
-street: "Erbschlöer Straße"
-housenumber: 71
+street: Erbschlöer Straße
+housenumber: "71"
 phone: ""
-opening_hours: "5:00-18:30"
-website: "https://www.baeckerei-steinbrink.de/"
+opening_hours: 5:00-18:30
+website: https://www.baeckerei-steinbrink.de/

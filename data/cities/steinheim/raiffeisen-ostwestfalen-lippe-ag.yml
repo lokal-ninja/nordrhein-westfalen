@@ -4,8 +4,8 @@ latitude: 51.87871
 longitude: 9.08753
 postcode: "32839"
 city: Steinheim
-street: "Lipper Tor"
-housenumber: 1
+street: Lipper Tor
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.rlw-ag.de/agrar/standorte/steinheim/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.rlw-ag.de/agrar/standorte/steinheim/

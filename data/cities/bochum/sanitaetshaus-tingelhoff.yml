@@ -4,8 +4,8 @@ latitude: 51.49162
 longitude: 7.30513
 postcode: "44894"
 city: Bochum
-street: "Werner Hellweg"
-housenumber: 477
-phone: "+49 (0)234 – 64086698"
-opening_hours: "Mo,Th,Tu 08:30-13:30,14:30-18:00; We 08:30-13:00; Fr 08:30-14:00"
-website: "https://www.tingelhoff.de/"
+street: Werner Hellweg
+housenumber: "477"
+phone: +49 (0)234 – 64086698
+opening_hours: Mo,Th,Tu 08:30-13:30,14:30-18:00; We 08:30-13:00; Fr 08:30-14:00
+website: https://www.tingelhoff.de/

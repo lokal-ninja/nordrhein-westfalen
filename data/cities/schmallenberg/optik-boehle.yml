@@ -4,8 +4,8 @@ latitude: 51.15084
 longitude: 8.28453
 postcode: "57392"
 city: Schmallenberg
-street: "Oststraße"
-housenumber: 10
-phone: "+49 2972 2727"
+street: Oststraße
+housenumber: "10"
+phone: +49 2972 2727
 opening_hours: ""
-website: "https://optik-boehle.com/"
+website: https://optik-boehle.com/

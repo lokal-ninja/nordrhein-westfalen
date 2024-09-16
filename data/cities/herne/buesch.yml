@@ -4,8 +4,8 @@ latitude: 51.53956
 longitude: 7.25565
 postcode: "44627"
 city: Herne
-street: "Mont-Cenis-Straße"
-housenumber: 267
-phone: "+49 2323 9192779"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH 08:00-12:00"
-website: "https://www.baeckerei-buesch.de/"
+street: Mont-Cenis-Straße
+housenumber: "267"
+phone: +49 2323 9192779
+opening_hours: Mo-Sa 07:00-21:00; Su,PH 08:00-12:00
+website: https://www.baeckerei-buesch.de/

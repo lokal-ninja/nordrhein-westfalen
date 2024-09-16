@@ -4,8 +4,8 @@ latitude: 50.78845
 longitude: 7.21197
 postcode: "53721"
 city: Siegburg
-street: "Händelstraße"
-housenumber: 3
-phone: "+49 2241 50019"
-opening_hours: "Mo-Fr 13:00-18:30; Sa,Su,PH off"
-website: "https://www.mopshop.de/"
+street: Händelstraße
+housenumber: "3"
+phone: +49 2241 50019
+opening_hours: Mo-Fr 13:00-18:30; Sa,Su,PH off
+website: https://www.mopshop.de/

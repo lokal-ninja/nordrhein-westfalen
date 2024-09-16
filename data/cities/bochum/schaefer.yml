@@ -4,8 +4,8 @@ latitude: 51.49218
 longitude: 7.30908
 postcode: "44894"
 city: Bochum
-street: "Werner Hellweg"
-housenumber: 513
-phone: "+49 234 231783"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://schaefer-bestattungen.de"
+street: Werner Hellweg
+housenumber: "513"
+phone: +49 234 231783
+opening_hours: Mo-Fr 09:00-16:00
+website: https://schaefer-bestattungen.de

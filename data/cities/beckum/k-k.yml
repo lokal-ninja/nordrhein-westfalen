@@ -1,11 +1,11 @@
 id: 1100902927
-type: way
+type: node
 latitude: 51.80232
 longitude: 8.02387
 postcode: "59269"
 city: Beckum
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.kaufda.de/Filialen/Beckum/K-K-Klaas-Kock-Hauptstrasse/v-f133072606"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.kaufda.de/Filialen/Beckum/K-K-Klaas-Kock-Hauptstrasse/v-f133072606

@@ -1,11 +1,11 @@
 id: 202858138
-type: way
+type: node
 latitude: 50.94346
 longitude: 7.04643
 postcode: "51109"
 city: Köln
-street: "Olpener Straße"
-housenumber: 401
+street: Olpener Straße
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

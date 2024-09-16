@@ -4,8 +4,8 @@ latitude: 50.99022
 longitude: 7.12314
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Stationsstraße"
-housenumber: 3
-phone: "+49 2202 9598978"
-opening_hours: "Mo-Fr 07:00-13:00,14:00-18:30"
-website: "https://www.radstation-gl.de/"
+street: Stationsstraße
+housenumber: "3"
+phone: +49 2202 9598978
+opening_hours: Mo-Fr 07:00-13:00,14:00-18:30
+website: https://www.radstation-gl.de/

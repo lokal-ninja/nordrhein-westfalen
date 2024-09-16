@@ -4,8 +4,8 @@ latitude: 51.70319
 longitude: 8.76886
 postcode: "33100"
 city: Paderborn
-street: "Husener Straße"
-housenumber: 121
+street: Husener Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "http://www.kaufland.de"
+opening_hours: Mo-Sa 08:00-22:00
+website: http://www.kaufland.de

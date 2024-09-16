@@ -1,11 +1,11 @@
 id: 103743493
-type: way
+type: node
 latitude: 51.93797
 longitude: 8.85638
 postcode: "32756"
 city: Detmold
-street: "Sprottauer Straße"
-housenumber: 45
+street: Sprottauer Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.28814
 longitude: 8.90316
 postcode: "32427"
 city: Minden
-street: "Königstraße"
-housenumber: 76
+street: Königstraße
+housenumber: "76"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.toerner-bestattungen.de/"
+opening_hours: 24/7
+website: https://www.toerner-bestattungen.de/

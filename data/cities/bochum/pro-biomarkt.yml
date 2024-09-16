@@ -4,8 +4,8 @@ latitude: 51.44056
 longitude: 7.21147
 postcode: "44795"
 city: Bochum
-street: "Karl-Friedrich-Straße"
-housenumber: 123
-phone: "+49 234 49708635"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.pro-biomarkt.de/"
+street: Karl-Friedrich-Straße
+housenumber: "123"
+phone: +49 234 49708635
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.pro-biomarkt.de/

@@ -1,11 +1,11 @@
 id: 161960337
-type: way
+type: node
 latitude: 50.66482
 longitude: 6.77369
 postcode: "53879"
 city: Euskirchen
-street: "Rüdesheimer Ring"
-housenumber: 145
+street: Rüdesheimer Ring
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

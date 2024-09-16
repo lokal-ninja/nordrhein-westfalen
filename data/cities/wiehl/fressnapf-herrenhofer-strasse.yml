@@ -4,8 +4,8 @@ latitude: 50.94754
 longitude: 7.45207
 postcode: "51674"
 city: Wiehl
-street: "Herrenhofer Straße"
-housenumber: 1
+street: Herrenhofer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.fressnapf.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.fressnapf.de/

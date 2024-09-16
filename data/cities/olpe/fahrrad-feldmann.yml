@@ -1,11 +1,11 @@
 id: 946810152
-type: way
+type: node
 latitude: 50.99801
 longitude: 7.83849
 postcode: "57462"
 city: Olpe
-street: "Am Breithammer"
-housenumber: 2
+street: Am Breithammer
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.fahrrad-feldmann.de/"
+website: https://www.fahrrad-feldmann.de/

@@ -4,8 +4,8 @@ latitude: 51.5144
 longitude: 7.46275
 postcode: "44137"
 city: Dortmund
-street: "Westenhellweg"
-housenumber: 47
+street: Westenhellweg
+housenumber: "47"
 phone: "+4923153486080"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.eyesandmore.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.eyesandmore.de/

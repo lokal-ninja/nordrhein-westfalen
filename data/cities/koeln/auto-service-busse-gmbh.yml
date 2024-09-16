@@ -1,11 +1,11 @@
 id: 106781114
-type: way
+type: node
 latitude: 50.84117
 longitude: 7.10497
 postcode: "51147"
 city: Köln
-street: "Niederkasseler Straße"
-housenumber: 18
-phone: "+49 2203 637 59"
+street: Niederkasseler Straße
+housenumber: "18"
+phone: +49 2203 637 59
 opening_hours: ""
-website: "https://www.auto-service-busse.de/"
+website: https://www.auto-service-busse.de/

@@ -4,8 +4,8 @@ latitude: 51.42012
 longitude: 7.02493
 postcode: "45134"
 city: Essen
-street: "Frankenstraße"
-housenumber: 273
-phone: "+49 201-8154548"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "https://www.baecker-peter.de/"
+street: Frankenstraße
+housenumber: "273"
+phone: +49 201-8154548
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00
+website: https://www.baecker-peter.de/

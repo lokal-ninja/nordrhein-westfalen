@@ -1,11 +1,11 @@
 id: 164618268
-type: way
+type: node
 latitude: 51.4573
 longitude: 6.57874
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Neukirchener Ring"
-housenumber: 1
-phone: "+49 2845 936241"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "http://trink-und-spare.de/markt/neukirchen-vluyn-14966/"
+street: Neukirchener Ring
+housenumber: "1"
+phone: +49 2845 936241
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: http://trink-und-spare.de/markt/neukirchen-vluyn-14966/

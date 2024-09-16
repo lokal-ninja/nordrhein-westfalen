@@ -4,8 +4,8 @@ latitude: 51.44755
 longitude: 7.20741
 postcode: "44795"
 city: Bochum
-street: "Karl-Friedrich-Straße"
-housenumber: 21
+street: Karl-Friedrich-Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:00,15:00-17:00; Sa 09:30-12:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:30-13:00,15:00-17:00; Sa 09:30-12:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 495249395
-type: way
+type: node
 latitude: 51.8678
 longitude: 9.09221
 postcode: "32839"
 city: Steinheim
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.malermeister-gemmeke.de/"
+website: https://www.malermeister-gemmeke.de/

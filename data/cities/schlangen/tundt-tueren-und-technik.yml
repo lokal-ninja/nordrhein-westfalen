@@ -1,11 +1,11 @@
 id: 204865977
-type: way
+type: node
 latitude: 51.82715
 longitude: 8.86986
 postcode: "33189"
 city: Schlangen
-street: "Bachstraße"
-housenumber: 1
+street: Bachstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

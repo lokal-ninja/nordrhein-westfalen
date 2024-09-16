@@ -1,11 +1,11 @@
 id: 75307212
-type: way
+type: node
 latitude: 51.42612
 longitude: 7.29148
 postcode: "58456"
 city: Witten
-street: "Alter Fährweg"
-housenumber: 8
+street: Alter Fährweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off
 website: ""

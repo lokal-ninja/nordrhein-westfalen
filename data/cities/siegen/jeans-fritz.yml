@@ -4,8 +4,8 @@ latitude: 50.89656
 longitude: 8.02547
 postcode: "57076"
 city: Siegen
-street: "Bismarckstraße"
-housenumber: 15
-phone: "+49 271 4059566"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.jeans-fritz.de"
+street: Bismarckstraße
+housenumber: "15"
+phone: +49 271 4059566
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.jeans-fritz.de

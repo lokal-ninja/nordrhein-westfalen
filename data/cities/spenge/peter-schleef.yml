@@ -1,11 +1,11 @@
 id: 261725693
-type: way
+type: node
 latitude: 52.13986
 longitude: 8.48306
 postcode: "32139"
 city: Spenge
-street: "Lange Straße"
-housenumber: 18
-phone: "+49 5225 6456"
+street: Lange Straße
+housenumber: "18"
+phone: +49 5225 6456
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.8757
 longitude: 8.02121
 postcode: "57072"
 city: Siegen
-street: "Sandstraße"
-housenumber: 20
+street: Sandstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,We,Fr 13:00-22:00; Tu,Th 13:00-19:00; Sa 11:00-18:00"
-website: "https://www.fischkrieg.de"
+opening_hours: Mo,We,Fr 13:00-22:00; Tu,Th 13:00-19:00; Sa 11:00-18:00
+website: https://www.fischkrieg.de

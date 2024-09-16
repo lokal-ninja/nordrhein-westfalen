@@ -1,11 +1,11 @@
 id: 164312656
-type: way
+type: node
 latitude: 51.91404
 longitude: 9.02981
 postcode: "32825"
 city: Blomberg
-street: "Mittelstraße"
-housenumber: 41
+street: Mittelstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

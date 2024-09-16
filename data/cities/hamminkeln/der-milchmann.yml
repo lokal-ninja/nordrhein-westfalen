@@ -4,8 +4,8 @@ latitude: 51.787
 longitude: 6.50979
 postcode: "46499"
 city: Hamminkeln
-street: "Wertherbrucher Straße"
-housenumber: 22
-phone: "+49 2873 532"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-16:00"
-website: "www.der-milchmann.nrw"
+street: Wertherbrucher Straße
+housenumber: "22"
+phone: +49 2873 532
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-16:00
+website: www.der-milchmann.nrw

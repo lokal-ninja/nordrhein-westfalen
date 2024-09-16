@@ -4,8 +4,9 @@ latitude: 51.78031
 longitude: 6.82888
 postcode: "46348"
 city: Raesfeld
-street: "Vennekenweg"
-housenumber: 29
-phone: "+49 2865 2989931"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-16:00;May-Sep Su 11:00-14:00; Oct-Apr Su 11:00-17:00"
+street: Vennekenweg
+housenumber: "29"
+phone: +49 2865 2989931
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-16:00;May-Sep Su 11:00-14:00;
+    Oct-Apr Su 11:00-17:00
 website: ""

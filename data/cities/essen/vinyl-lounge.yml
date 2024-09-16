@@ -4,8 +4,8 @@ latitude: 51.44186
 longitude: 7.00068
 postcode: "45128"
 city: Essen
-street: "Kahrstraße"
-housenumber: 54
+street: Kahrstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Th,Fr 15:00-20:00, Sa 11:00-16:00"
-website: "http://www.vinyl-lounge.com/"
+opening_hours: Th,Fr 15:00-20:00, Sa 11:00-16:00
+website: http://www.vinyl-lounge.com/

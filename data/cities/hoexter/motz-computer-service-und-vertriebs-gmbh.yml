@@ -4,8 +4,8 @@ latitude: 51.77479
 longitude: 9.3636
 postcode: "37671"
 city: Höxter
-street: "Pfennigbreite"
-housenumber: 20
-phone: "+49 5271 97040"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "http://www.motz.de"
+street: Pfennigbreite
+housenumber: "20"
+phone: +49 5271 97040
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: http://www.motz.de

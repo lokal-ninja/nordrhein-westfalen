@@ -4,8 +4,8 @@ latitude: 51.93981
 longitude: 7.61432
 postcode: "48151"
 city: Münster
-street: "Inselbogen"
-housenumber: 45
-phone: "+49 251 39486662"
-opening_hours: "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:30; Su 11:00-22:00"
+street: Inselbogen
+housenumber: "45"
+phone: +49 251 39486662
+opening_hours: Mo-Th 10:00-22:00; Fr,Sa 10:00-23:30; Su 11:00-22:00
 website: ""

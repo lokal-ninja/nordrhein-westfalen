@@ -1,11 +1,11 @@
 id: 323920791
-type: way
+type: node
 latitude: 50.70625
 longitude: 7.0684
 postcode: "53127"
 city: Bonn
-street: "Provinzialstraße"
-housenumber: 12
-phone: "+49 228 91899-0"
-opening_hours: "Mo-Fr 07:45-18:30; Sa 08:00-14:00; Su,PH off"
-website: "https://www.pung.de/"
+street: Provinzialstraße
+housenumber: "12"
+phone: +49 228 91899-0
+opening_hours: Mo-Fr 07:45-18:30; Sa 08:00-14:00; Su,PH off
+website: https://www.pung.de/

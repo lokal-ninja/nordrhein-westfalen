@@ -4,8 +4,8 @@ latitude: 52.37678
 longitude: 8.95471
 postcode: "32469"
 city: Petershagen
-street: "Meßlinger Straße"
-housenumber: 35
-phone: "+49 5707 8899"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.bertermann.com"
+street: Meßlinger Straße
+housenumber: "35"
+phone: +49 5707 8899
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.bertermann.com

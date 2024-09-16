@@ -4,8 +4,8 @@ latitude: 50.76927
 longitude: 6.10026
 postcode: "52066"
 city: Aachen
-street: "Zollernstraße"
-housenumber: 50
+street: Zollernstraße
+housenumber: "50"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://www.hifidel.com/"
+opening_hours: '"nach Vereinbarung"'
+website: http://www.hifidel.com/

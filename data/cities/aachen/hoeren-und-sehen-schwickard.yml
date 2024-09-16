@@ -4,8 +4,8 @@ latitude: 50.7619
 longitude: 6.09257
 postcode: "52066"
 city: Aachen
-street: "Kapellenstraße"
-housenumber: 5
+street: Kapellenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://brille-akustik-schwickard.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://brille-akustik-schwickard.de/

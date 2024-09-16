@@ -4,8 +4,8 @@ latitude: 51.59242
 longitude: 7.34405
 postcode: "44581"
 city: Castrop-Rauxel
-street: "Emscherstraße"
-housenumber: 8
-phone: "+49-2305-73197"
-opening_hours: "Mo-We 09:30-18:00, Th 09:30-14:00, Fr 09:30-18:00, Sa 09:30-14:00"
-website: "http://www.zweirad-anderl.de/"
+street: Emscherstraße
+housenumber: "8"
+phone: +49-2305-73197
+opening_hours: Mo-We 09:30-18:00, Th 09:30-14:00, Fr 09:30-18:00, Sa 09:30-14:00
+website: http://www.zweirad-anderl.de/

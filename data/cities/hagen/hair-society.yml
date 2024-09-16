@@ -4,8 +4,8 @@ latitude: 51.34814
 longitude: 7.42783
 postcode: "58135"
 city: Hagen
-street: "Berliner Straße"
-housenumber: 115
+street: Berliner Straße
+housenumber: "115"
 phone: "+4923319812157"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:00"
-website: "https://www.hair-society-hagen.de"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-13:00
+website: https://www.hair-society-hagen.de

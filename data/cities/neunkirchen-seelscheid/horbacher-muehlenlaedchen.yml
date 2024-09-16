@@ -4,8 +4,8 @@ latitude: 50.83616
 longitude: 7.36966
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Oberhorbacher Straße"
-housenumber: 25
-phone: "+49 2247 300102"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00"
-website: "https://www.horbacher-muehle.de/historie"
+street: Oberhorbacher Straße
+housenumber: "25"
+phone: +49 2247 300102
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00
+website: https://www.horbacher-muehle.de/historie

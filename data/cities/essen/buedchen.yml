@@ -1,11 +1,11 @@
 id: 283681827
-type: way
+type: node
 latitude: 51.45819
 longitude: 6.96538
 postcode: "45143"
 city: Essen
-street: "Heinrich-Strunk-Straße"
-housenumber: 151
+street: Heinrich-Strunk-Straße
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

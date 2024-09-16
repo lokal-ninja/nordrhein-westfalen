@@ -4,8 +4,8 @@ latitude: 52.09734
 longitude: 8.51279
 postcode: "33739"
 city: Bielefeld
-street: "Beckendorfstraße"
-housenumber: 3
-phone: "+49 5206 7079969"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.kodi.de/"
+street: Beckendorfstraße
+housenumber: "3"
+phone: +49 5206 7079969
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.kodi.de/

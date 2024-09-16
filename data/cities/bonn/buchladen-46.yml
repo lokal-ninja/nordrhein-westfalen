@@ -4,8 +4,8 @@ latitude: 50.72993
 longitude: 7.10314
 postcode: "53113"
 city: Bonn
-street: "Kaiserstraße"
-housenumber: 46
-phone: "+49 228 223608"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.buchladen46.de/"
+street: Kaiserstraße
+housenumber: "46"
+phone: +49 228 223608
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.buchladen46.de/

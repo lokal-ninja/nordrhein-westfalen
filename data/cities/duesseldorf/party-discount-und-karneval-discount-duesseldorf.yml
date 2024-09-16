@@ -4,8 +4,8 @@ latitude: 51.20192
 longitude: 6.78114
 postcode: "40225"
 city: Düsseldorf
-street: "Himmelgeister Straße"
-housenumber: 50
-phone: "+49 211 -585 82-0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.party-discount.de/"
+street: Himmelgeister Straße
+housenumber: "50"
+phone: +49 211 -585 82-0
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.party-discount.de/

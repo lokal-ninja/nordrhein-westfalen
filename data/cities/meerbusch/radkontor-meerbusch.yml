@@ -4,8 +4,8 @@ latitude: 51.30838
 longitude: 6.67596
 postcode: "40668"
 city: Meerbusch
-street: "Uerdinger Straße"
-housenumber: 81
+street: Uerdinger Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00"
-website: "http://www.radkontor-meerbusch.de/"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00
+website: http://www.radkontor-meerbusch.de/

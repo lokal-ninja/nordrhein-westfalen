@@ -1,11 +1,11 @@
 id: 84951739
-type: way
+type: node
 latitude: 51.43935
 longitude: 6.75453
 postcode: "47059"
 city: Duisburg
-street: "Ruhrorter Straße"
-housenumber: 38
+street: Ruhrorter Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

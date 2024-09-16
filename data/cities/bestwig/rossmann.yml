@@ -1,11 +1,11 @@
 id: 140166388
-type: way
+type: node
 latitude: 51.36079
 longitude: 8.39694
 postcode: "59909"
 city: Bestwig
-street: "Bundesstraße"
-housenumber: 137
+street: Bundesstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

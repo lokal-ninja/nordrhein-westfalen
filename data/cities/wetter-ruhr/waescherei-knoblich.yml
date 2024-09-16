@@ -1,11 +1,11 @@
 id: 232177305
-type: way
+type: node
 latitude: 51.37024
 longitude: 7.39284
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Hagener Straße"
-housenumber: 196
+street: Hagener Straße
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Th 06:30-13:00,15:00-17:00; Fr 06:30-13:00; PH off"
+opening_hours: Mo-Th 06:30-13:00,15:00-17:00; Fr 06:30-13:00; PH off
 website: ""

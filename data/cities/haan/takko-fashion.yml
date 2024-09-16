@@ -4,8 +4,8 @@ latitude: 51.19321
 longitude: 7.01141
 postcode: "42781"
 city: Haan
-street: "Neuer Markt"
-housenumber: 10
+street: Neuer Markt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.takko.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.takko.com/

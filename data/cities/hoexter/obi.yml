@@ -1,11 +1,11 @@
 id: 39609313
-type: way
+type: node
 latitude: 51.78681
 longitude: 9.39099
 postcode: "37671"
 city: Höxter
-street: "Albaxer Straße"
-housenumber: 64
-phone: "+49 5271 97070"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.obi.de/markt/hoexter?wt=mc_gp"
+street: Albaxer Straße
+housenumber: "64"
+phone: +49 5271 97070
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.obi.de/markt/hoexter?wt=mc_gp

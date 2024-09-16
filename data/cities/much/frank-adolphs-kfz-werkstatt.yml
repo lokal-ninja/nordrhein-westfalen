@@ -1,11 +1,11 @@
 id: 123272032
-type: way
+type: node
 latitude: 50.91683
 longitude: 7.38841
 postcode: "53804"
 city: Much
-street: "Bövingen"
-housenumber: 136
+street: Bövingen
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

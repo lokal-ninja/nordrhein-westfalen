@@ -1,11 +1,11 @@
 id: 77339807
-type: way
+type: node
 latitude: 51.47915
 longitude: 6.99089
 postcode: "45326"
 city: Essen
-street: "Hövelstraße"
-housenumber: 177
+street: Hövelstraße
+housenumber: "177"
 phone: ""
 opening_hours: ""
-website: "https://www.vergoelst.de/homepage"
+website: https://www.vergoelst.de/homepage

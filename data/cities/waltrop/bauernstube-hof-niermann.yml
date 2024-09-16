@@ -1,11 +1,11 @@
 id: 67175819
-type: way
+type: node
 latitude: 51.61506
 longitude: 7.3559
 postcode: "45731"
 city: Waltrop
-street: "Recklinghäuser Straße"
-housenumber: 191
-phone: "+49 2309 2155"
+street: Recklinghäuser Straße
+housenumber: "191"
+phone: +49 2309 2155
 opening_hours: ""
-website: "https://hofniermann.de/"
+website: https://hofniermann.de/

@@ -4,8 +4,8 @@ latitude: 51.38858
 longitude: 7.00319
 postcode: "45239"
 city: Essen
-street: "Heckstraße"
-housenumber: 2
+street: Heckstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 07:00-13:00"
-website: "https://doebbe.de/store/heckstrasse-werden/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 07:00-13:00
+website: https://doebbe.de/store/heckstrasse-werden/

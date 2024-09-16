@@ -1,11 +1,11 @@
 id: 30453614
-type: way
+type: node
 latitude: 51.9795
 longitude: 7.78384
 postcode: "48291"
 city: Telgte
-street: "Orkotten"
-housenumber: 3
-phone: "+49 2504 3332"
-opening_hours: "Mo-Sa 07:00-21:30"
+street: Orkotten
+housenumber: "3"
+phone: +49 2504 3332
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

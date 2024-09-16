@@ -4,8 +4,8 @@ latitude: 51.6805
 longitude: 6.80524
 postcode: "46514"
 city: Schermbeck
-street: "Rittstege"
-housenumber: 3
-phone: "+49 2853 3010"
-opening_hours: "Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-14:00"
-website: "https://www.karosserie-heyne.de/"
+street: Rittstege
+housenumber: "3"
+phone: +49 2853 3010
+opening_hours: Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-14:00
+website: https://www.karosserie-heyne.de/

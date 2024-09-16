@@ -1,11 +1,11 @@
 id: 265048027
-type: way
+type: node
 latitude: 51.12249
 longitude: 6.68271
 postcode: "41516"
 city: Grevenbroich
-street: "Brunnenstraße"
-housenumber: 7
+street: Brunnenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

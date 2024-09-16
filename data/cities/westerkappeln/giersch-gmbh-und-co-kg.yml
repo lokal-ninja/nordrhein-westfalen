@@ -1,11 +1,11 @@
 id: 317860947
-type: way
+type: node
 latitude: 52.31088
 longitude: 7.89952
 postcode: "49492"
 city: Westerkappeln
-street: "Gartenkamp"
-housenumber: 126
+street: Gartenkamp
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Th 10:00-12:00,14:00-18:00; Fr 10:00-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.giersch-bratwurst.de/"
+opening_hours: Mo-Th 10:00-12:00,14:00-18:00; Fr 10:00-18:00; Sa 09:00-13:00; Su off
+website: https://www.giersch-bratwurst.de/

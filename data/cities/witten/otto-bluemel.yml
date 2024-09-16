@@ -1,11 +1,11 @@
 id: 74066724
-type: way
+type: node
 latitude: 51.39003
 longitude: 7.28895
 postcode: "58456"
 city: Witten
-street: "Durchholzer Straße"
-housenumber: 123
+street: Durchholzer Straße
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 218497770
-type: way
+type: node
 latitude: 51.54436
 longitude: 6.85161
 postcode: "46145"
 city: Oberhausen
-street: "Königshardter Straße"
-housenumber: 63
+street: Königshardter Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-19:00; Sa 09:00-14:00; We off"
-website: "https://www.fahrrad-lantermann.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-19:00; Sa 09:00-14:00; We off
+website: https://www.fahrrad-lantermann.de/

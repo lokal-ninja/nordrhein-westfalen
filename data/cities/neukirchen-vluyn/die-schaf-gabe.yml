@@ -4,8 +4,8 @@ latitude: 51.45944
 longitude: 6.50356
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Littardweg"
-housenumber: 77
-phone: "+49 2845 33347"
-opening_hours: "We 15:00-17:00, Sa 10:00-14:00"
-website: "https://www.schafgabe.de/"
+street: Littardweg
+housenumber: "77"
+phone: +49 2845 33347
+opening_hours: We 15:00-17:00, Sa 10:00-14:00
+website: https://www.schafgabe.de/

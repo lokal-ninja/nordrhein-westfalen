@@ -1,11 +1,11 @@
 id: 121816444
-type: way
+type: node
 latitude: 51.8831
 longitude: 8.34398
 postcode: "33334"
 city: Gütersloh
-street: "Rhedaer Straße"
-housenumber: 220
+street: Rhedaer Straße
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; We off"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00; We off
 website: ""

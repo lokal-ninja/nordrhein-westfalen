@@ -4,8 +4,8 @@ latitude: 50.64879
 longitude: 6.19704
 postcode: "52159"
 city: Roetgen
-street: "Hauptstraße"
-housenumber: 72
-phone: "+49 2471 2462"
-opening_hours: "Tu-Fr 08:00-17:30; Sa 07:00-15:00"
-website: "https://www.friseur-moosmayer.de/"
+street: Hauptstraße
+housenumber: "72"
+phone: +49 2471 2462
+opening_hours: Tu-Fr 08:00-17:30; Sa 07:00-15:00
+website: https://www.friseur-moosmayer.de/

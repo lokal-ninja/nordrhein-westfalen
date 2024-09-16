@@ -1,11 +1,11 @@
 id: 135202398
-type: way
+type: node
 latitude: 51.36096
 longitude: 6.94825
 postcode: "45219"
 city: Essen
-street: "Güterstraße"
-housenumber: 19
+street: Güterstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

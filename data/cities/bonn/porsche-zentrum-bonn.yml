@@ -1,11 +1,11 @@
 id: 42083098
-type: way
+type: node
 latitude: 50.74187
 longitude: 7.07363
 postcode: "53119"
 city: Bonn
-street: "Brühler Straße"
-housenumber: 2
-phone: "+49 228 410100"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
-website: "https://www.porsche-bonn.de/"
+street: Brühler Straße
+housenumber: "2"
+phone: +49 228 410100
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
+website: https://www.porsche-bonn.de/

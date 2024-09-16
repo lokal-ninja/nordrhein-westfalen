@@ -1,11 +1,11 @@
 id: 280051974
-type: way
+type: node
 latitude: 51.73816
 longitude: 7.17034
 postcode: "45721"
 city: Haltern am See
-street: "Weseler Straße"
-housenumber: 135
+street: Weseler Straße
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

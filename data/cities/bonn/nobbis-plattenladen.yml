@@ -4,8 +4,8 @@ latitude: 50.73624
 longitude: 7.11669
 postcode: "53225"
 city: Bonn
-street: "Marienstraße"
-housenumber: 21
-phone: "+49 228 466595"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
+street: Marienstraße
+housenumber: "21"
+phone: +49 228 466595
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
 website: ""

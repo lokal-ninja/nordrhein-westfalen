@@ -4,8 +4,8 @@ latitude: 52.3158
 longitude: 8.58026
 postcode: "32312"
 city: Lübbecke
-street: "Blasheimer Straße"
-housenumber: 39
-phone: "+49 5741 8181"
-opening_hours: "Mo-Th 07:00-16:15; Fr 07:00-13:15; Sa 09:00-12:00"
-website: "https://schwarze-sudeck.de/"
+street: Blasheimer Straße
+housenumber: "39"
+phone: +49 5741 8181
+opening_hours: Mo-Th 07:00-16:15; Fr 07:00-13:15; Sa 09:00-12:00
+website: https://schwarze-sudeck.de/

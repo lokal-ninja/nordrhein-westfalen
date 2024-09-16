@@ -1,11 +1,11 @@
 id: 170167051
-type: way
+type: node
 latitude: 50.70114
 longitude: 7.13638
 postcode: "53175"
 city: Bonn
-street: "Godesberger Allee"
-housenumber: 131
+street: Godesberger Allee
+housenumber: "131"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

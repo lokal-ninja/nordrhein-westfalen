@@ -1,11 +1,11 @@
 id: 222606485
-type: way
+type: node
 latitude: 51.4372
 longitude: 6.78514
 postcode: "47058"
 city: Duisburg
-street: "Blumenthalstraße"
-housenumber: 56
-phone: "+49 203 338346"
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.rewe-feldkamp.de"
+street: Blumenthalstraße
+housenumber: "56"
+phone: +49 203 338346
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.rewe-feldkamp.de

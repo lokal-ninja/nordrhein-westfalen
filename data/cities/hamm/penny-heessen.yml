@@ -1,11 +1,11 @@
 id: 92115291
-type: way
+type: node
 latitude: 51.70902
 longitude: 7.82939
 postcode: "59073"
 city: Hamm
-street: "Im Landwehrwinkel"
-housenumber: 2
+street: Im Landwehrwinkel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

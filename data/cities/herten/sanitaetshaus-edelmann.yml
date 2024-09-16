@@ -1,11 +1,11 @@
 id: 330568398
-type: way
+type: node
 latitude: 51.59337
 longitude: 7.1405
 postcode: "45699"
 city: Herten
-street: "Theodor-Heuss-Straße"
-housenumber: 12
+street: Theodor-Heuss-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa,Su,PH off
 website: ""

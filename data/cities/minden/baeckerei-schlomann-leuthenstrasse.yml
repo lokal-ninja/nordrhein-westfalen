@@ -4,8 +4,8 @@ latitude: 52.31586
 longitude: 8.88858
 postcode: "32425"
 city: Minden
-street: "Leuthenstraße"
-housenumber: 76
+street: Leuthenstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00, 15:00-18:00; Sa 06:00-13:00"
-website: "https://baeckerei-schlomann.de"
+opening_hours: Mo-Fr 06:00-13:00, 15:00-18:00; Sa 06:00-13:00
+website: https://baeckerei-schlomann.de

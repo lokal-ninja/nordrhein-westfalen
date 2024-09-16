@@ -4,8 +4,8 @@ latitude: 51.13635
 longitude: 7.34107
 postcode: "42499"
 city: Hückeswagen
-street: "Stahlschmidtsbrücke"
-housenumber: 11
+street: Stahlschmidtsbrücke
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-18:30; Su off"
-website: "https://www.meisterblumberg.de/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-18:30; Su off
+website: https://www.meisterblumberg.de/

@@ -4,8 +4,8 @@ latitude: 52.03323
 longitude: 8.52573
 postcode: "33613"
 city: Bielefeld
-street: "Kurze Straße"
-housenumber: 4
-phone: "+49 521 69421"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+street: Kurze Straße
+housenumber: "4"
+phone: +49 521 69421
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
 website: ""

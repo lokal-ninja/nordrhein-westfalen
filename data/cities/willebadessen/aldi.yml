@@ -1,11 +1,11 @@
 id: 33286523
-type: way
+type: node
 latitude: 51.62514
 longitude: 9.02276
 postcode: "34439"
 city: Willebadessen
-street: "Am Sportplatz"
-housenumber: 4
+street: Am Sportplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
+opening_hours: Mo-Sa 8:00-20:00
 website: ""

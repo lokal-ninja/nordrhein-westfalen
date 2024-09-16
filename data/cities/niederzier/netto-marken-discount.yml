@@ -1,11 +1,11 @@
 id: 205493329
-type: way
+type: node
 latitude: 50.87469
 longitude: 6.47168
 postcode: "52382"
 city: Niederzier
-street: "Niederzierer Straße"
-housenumber: 51
+street: Niederzierer Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

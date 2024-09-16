@@ -1,11 +1,11 @@
 id: 257771581
-type: way
+type: node
 latitude: 51.65205
 longitude: 8.35627
 postcode: "59557"
 city: Lippstadt
-street: "Westernkötter Straße"
-housenumber: 208
+street: Westernkötter Straße
+housenumber: "208"
 phone: ""
 opening_hours: ""
-website: "https://autofit-herre.de/"
+website: https://autofit-herre.de/

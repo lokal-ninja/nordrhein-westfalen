@@ -1,11 +1,11 @@
 id: 115994695
-type: way
+type: node
 latitude: 50.79149
 longitude: 6.11175
 postcode: "52070"
 city: Aachen
-street: "Liebigstraße"
-housenumber: 24
+street: Liebigstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.72055
 longitude: 8.80241
 postcode: "33100"
 city: Paderborn
-street: "Kaukenberg"
-housenumber: 23
+street: Kaukenberg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-16:00"
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.73583
 longitude: 7.09955
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 48
+street: Sternstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.hunkemoller.de/filiale/bonn/sternstrasse-48"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.hunkemoller.de/filiale/bonn/sternstrasse-48

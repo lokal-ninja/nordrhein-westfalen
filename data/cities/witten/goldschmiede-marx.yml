@@ -4,8 +4,8 @@ latitude: 51.43732
 longitude: 7.33328
 postcode: "58452"
 city: Witten
-street: "Hammerstraße"
-housenumber: 4
+street: Hammerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00; PH off
 website: ""

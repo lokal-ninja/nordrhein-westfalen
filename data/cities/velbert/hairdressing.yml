@@ -4,8 +4,8 @@ latitude: 51.35042
 longitude: 7.11566
 postcode: "42555"
 city: Velbert
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

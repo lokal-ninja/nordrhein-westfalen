@@ -4,8 +4,8 @@ latitude: 51.42796
 longitude: 6.84723
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 217
-phone: "+49 208 2998884"
-opening_hours: "Mo-Tu 10:00-17:00, We 10:00-14:00, Th 10:00-17:00, Fr 10:00-16:00"
-website: "https://b2b.workandfun.eu/"
+street: Duisburger Straße
+housenumber: "217"
+phone: +49 208 2998884
+opening_hours: Mo-Tu 10:00-17:00, We 10:00-14:00, Th 10:00-17:00, Fr 10:00-16:00
+website: https://b2b.workandfun.eu/

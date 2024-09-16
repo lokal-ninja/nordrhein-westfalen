@@ -4,8 +4,8 @@ latitude: 50.7606
 longitude: 7.05085
 postcode: "53117"
 city: Bonn
-street: "Friedlandstraße"
-housenumber: 13
+street: Friedlandstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 12:30-18:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo 12:30-18:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 279016613
-type: way
+type: node
 latitude: 51.08753
 longitude: 7.08323
 postcode: "51399"
 city: Burscheid
-street: "Industriestraße"
-housenumber: 105
-phone: "+49 2174 78 45 78"
+street: Industriestraße
+housenumber: "105"
+phone: +49 2174 78 45 78
 opening_hours: ""
 website: ""

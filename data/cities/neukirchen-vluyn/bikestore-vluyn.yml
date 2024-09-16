@@ -4,8 +4,8 @@ latitude: 51.43785
 longitude: 6.5291
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Niederrheinallee"
-housenumber: 358
-phone: "+49 2845 3098141"
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:30; Sa 09:30-14:00"
-website: "http://www.bikestore-vluyn.com/"
+street: Niederrheinallee
+housenumber: "358"
+phone: +49 2845 3098141
+opening_hours: Mo-Fr 09:30-13:00, 14:00-18:30; Sa 09:30-14:00
+website: http://www.bikestore-vluyn.com/

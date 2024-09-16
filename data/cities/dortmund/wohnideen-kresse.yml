@@ -4,8 +4,8 @@ latitude: 51.46904
 longitude: 7.43179
 postcode: "44225"
 city: Dortmund
-street: "Kieferstraße"
-housenumber: 41
-phone: "+49 231 42 40 81"
-opening_hours: "Mo,Tu,Th 10:00-18:00; We 10:00-16:00; Fr,Sa 10:00-13:00"
-website: "https://www.baederstudio-kresse.de/"
+street: Kieferstraße
+housenumber: "41"
+phone: +49 231 42 40 81
+opening_hours: Mo,Tu,Th 10:00-18:00; We 10:00-16:00; Fr,Sa 10:00-13:00
+website: https://www.baederstudio-kresse.de/

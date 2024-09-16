@@ -4,8 +4,8 @@ latitude: 52.30687
 longitude: 8.61104
 postcode: "32312"
 city: Lübbecke
-street: "Alsweder Straße"
-housenumber: 5
-phone: "+49 5741 301222"
-opening_hours: "nach Vereinbarung"
-website: "http://www.bestattungen-mansfeld.de/"
+street: Alsweder Straße
+housenumber: "5"
+phone: +49 5741 301222
+opening_hours: '"nach Vereinbarung"'
+website: http://www.bestattungen-mansfeld.de/

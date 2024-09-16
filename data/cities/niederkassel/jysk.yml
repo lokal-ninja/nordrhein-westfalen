@@ -1,11 +1,11 @@
 id: 31563774
-type: way
+type: node
 latitude: 50.82949
 longitude: 7.02811
 postcode: "53859"
 city: Niederkassel
-street: "Karl-Hass-Straße"
-housenumber: 13
+street: Karl-Hass-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

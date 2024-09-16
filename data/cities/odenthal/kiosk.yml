@@ -1,11 +1,11 @@
 id: 432743213
-type: way
+type: node
 latitude: 51.05744
 longitude: 7.13306
 postcode: "51519"
 city: Odenthal
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "PH,Tu-Su 10:00-17:00"
+opening_hours: PH,Tu-Su 10:00-17:00
 website: ""

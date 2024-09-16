@@ -1,11 +1,11 @@
 id: 312885609
-type: way
+type: node
 latitude: 51.39555
 longitude: 8.55921
 postcode: "59929"
 city: Brilon
-street: "Mühlenweg"
-housenumber: 5
+street: Mühlenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

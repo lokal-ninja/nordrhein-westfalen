@@ -1,11 +1,11 @@
 id: 97557288
-type: way
+type: node
 latitude: 51.6964
 longitude: 8.73706
 postcode: "33106"
 city: Paderborn
-street: "Dessauer Straße"
-housenumber: 2
+street: Dessauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

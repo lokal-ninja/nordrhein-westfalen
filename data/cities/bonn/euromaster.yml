@@ -4,8 +4,9 @@ latitude: 50.70455
 longitude: 7.13241
 postcode: "53175"
 city: Bonn
-street: "Godesberger Allee"
-housenumber: 
+street: Godesberger Allee
+housenumber: ""
 phone: ""
-opening_hours: "Jan-Mar,Jul-Sep Mo-Fr 08:00-17:00; Apr-Jun,Oct-Dec Mo-Fr 08:00-18:00; Apr-Jun,Oct-Dec Sa 08:00-13:00"
-website: "https://www.euromaster.de/"
+opening_hours: Jan-Mar,Jul-Sep Mo-Fr 08:00-17:00; Apr-Jun,Oct-Dec Mo-Fr 08:00-18:00;
+    Apr-Jun,Oct-Dec Sa 08:00-13:00
+website: https://www.euromaster.de/

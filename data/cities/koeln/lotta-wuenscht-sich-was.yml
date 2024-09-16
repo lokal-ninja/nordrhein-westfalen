@@ -4,8 +4,8 @@ latitude: 50.92124
 longitude: 6.95815
 postcode: "50678"
 city: Köln
-street: "Karolingerring"
-housenumber: 9
+street: Karolingerring
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.lottawuenschtsichwas.de"
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.lottawuenschtsichwas.de

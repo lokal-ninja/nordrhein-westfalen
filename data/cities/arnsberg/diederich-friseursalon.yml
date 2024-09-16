@@ -4,8 +4,8 @@ latitude: 51.39492
 longitude: 8.13604
 postcode: "59823"
 city: Arnsberg
-street: "Kirchstraße"
-housenumber: 50
-phone: "+49 2937 6477"
-opening_hours: "Tu-Fr 08:30-12:30,14:00-18:00; Sa 08:00-13:00"
-website: "https://www.friseur-diederich.de/"
+street: Kirchstraße
+housenumber: "50"
+phone: +49 2937 6477
+opening_hours: Tu-Fr 08:30-12:30,14:00-18:00; Sa 08:00-13:00
+website: https://www.friseur-diederich.de/

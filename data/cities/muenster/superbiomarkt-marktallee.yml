@@ -4,8 +4,8 @@ latitude: 51.90407
 longitude: 7.64503
 postcode: "48165"
 city: Münster
-street: "Marktallee"
-housenumber: 48
+street: Marktallee
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-14:00"
-website: "https://www.superbiomarkt.de/muenster-hiltrup/"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-14:00
+website: https://www.superbiomarkt.de/muenster-hiltrup/

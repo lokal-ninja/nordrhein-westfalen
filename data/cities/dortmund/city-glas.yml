@@ -1,11 +1,11 @@
 id: 55978987
-type: way
+type: node
 latitude: 51.53584
 longitude: 7.47007
 postcode: "44145"
 city: Dortmund
-street: "Eisenstraße"
-housenumber: 46
+street: Eisenstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

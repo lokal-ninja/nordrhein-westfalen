@@ -4,8 +4,8 @@ latitude: 51.48545
 longitude: 7.16612
 postcode: "44866"
 city: Bochum
-street: "Hansastraße"
-housenumber: 118
-phone: "+49 2327 60040"
+street: Hansastraße
+housenumber: "118"
+phone: +49 2327 60040
 opening_hours: ""
-website: "https://www.neg.de/"
+website: https://www.neg.de/

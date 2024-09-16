@@ -1,11 +1,11 @@
 id: 96680417
-type: way
+type: node
 latitude: 51.05331
 longitude: 7.00115
 postcode: "51373"
 city: Leverkusen
-street: "Adolf-Kaschny-Straße"
-housenumber: 16
+street: Adolf-Kaschny-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

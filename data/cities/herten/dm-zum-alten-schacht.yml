@@ -1,11 +1,11 @@
 id: 605820211
-type: way
+type: node
 latitude: 51.60252
 longitude: 7.15445
 postcode: "45699"
 city: Herten
-street: "Zum alten Schacht"
-housenumber: 6
-phone: "+49 2366 5729970"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.dm.de/"
+street: Zum alten Schacht
+housenumber: "6"
+phone: +49 2366 5729970
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.dm.de/

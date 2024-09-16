@@ -1,11 +1,11 @@
 id: 421664246
-type: way
+type: node
 latitude: 50.79519
 longitude: 6.53133
 postcode: "52388"
 city: Nörvenich
-street: "Dürener Straße"
-housenumber: 72
+street: Dürener Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

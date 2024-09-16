@@ -1,11 +1,11 @@
 id: 181287672
-type: way
+type: node
 latitude: 50.83353
 longitude: 7.03073
 postcode: "53859"
 city: Niederkassel
-street: "Berliner Straße"
-housenumber: 69
-phone: "+49 2208 3301"
+street: Berliner Straße
+housenumber: "69"
+phone: +49 2208 3301
 opening_hours: ""
 website: ""

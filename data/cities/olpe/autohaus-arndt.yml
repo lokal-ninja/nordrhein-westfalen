@@ -1,11 +1,11 @@
 id: 318722935
-type: way
+type: node
 latitude: 51.03546
 longitude: 7.8559
 postcode: "57462"
 city: Olpe
-street: "Bilsteiner Straße"
-housenumber: 3
+street: Bilsteiner Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

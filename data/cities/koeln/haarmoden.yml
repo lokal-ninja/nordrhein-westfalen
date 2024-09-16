@@ -4,8 +4,8 @@ latitude: 50.92584
 longitude: 6.91095
 postcode: "50931"
 city: Köln
-street: "Herderstraße"
-housenumber: 73
+street: Herderstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-17:00; Mo off; Th 09:00-14:00; Sa 09:00-13:00"
+opening_hours: Tu,We,Fr 09:00-17:00; Mo off; Th 09:00-14:00; Sa 09:00-13:00
 website: ""

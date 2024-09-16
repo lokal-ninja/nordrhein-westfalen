@@ -1,11 +1,11 @@
 id: 204092614
-type: way
+type: node
 latitude: 50.94504
 longitude: 6.90897
 postcode: "50825"
 city: Köln
-street: "Oskar-Jäger-Straße"
-housenumber: 54
+street: Oskar-Jäger-Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 138163317
-type: way
+type: node
 latitude: 51.33979
 longitude: 6.83146
 postcode: "40885"
 city: Ratingen
-street: "Am Löken"
-housenumber: 46
+street: Am Löken
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

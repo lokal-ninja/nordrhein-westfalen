@@ -1,11 +1,11 @@
 id: 29152390
-type: way
+type: node
 latitude: 51.76824
 longitude: 7.1737
 postcode: "45721"
 city: Haltern am See
-street: "Lavesumer Straße"
-housenumber: 256
+street: Lavesumer Straße
+housenumber: "256"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.3194
 longitude: 7.33993
 postcode: "58285"
 city: Gevelsberg
-street: "Mittelstraße"
-housenumber: 21
-phone: "+49 2332 2282"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:30, Sa 10:00-14:00"
-website: "https://www.juwelier-haarhaus.de/"
+street: Mittelstraße
+housenumber: "21"
+phone: +49 2332 2282
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:30, Sa 10:00-14:00
+website: https://www.juwelier-haarhaus.de/

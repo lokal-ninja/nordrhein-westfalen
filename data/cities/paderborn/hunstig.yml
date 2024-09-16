@@ -4,8 +4,8 @@ latitude: 51.71596
 longitude: 8.74752
 postcode: "33098"
 city: Paderborn
-street: "Westernstraße"
-housenumber: 40
-phone: "+49 5251 22664"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"
-website: "https://www.babyshop.de"
+street: Westernstraße
+housenumber: "40"
+phone: +49 5251 22664
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off
+website: https://www.babyshop.de

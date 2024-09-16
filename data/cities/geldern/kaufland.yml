@@ -1,11 +1,11 @@
 id: 75804058
-type: way
+type: node
 latitude: 51.51637
 longitude: 6.32048
 postcode: "47608"
 city: Geldern
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 2831 132110"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 2831 132110
 opening_hours: ""
-website: "https://www.kaufland.de/"
+website: https://www.kaufland.de/

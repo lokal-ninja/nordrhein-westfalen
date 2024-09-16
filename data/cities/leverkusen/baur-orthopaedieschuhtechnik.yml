@@ -4,8 +4,8 @@ latitude: 51.03127
 longitude: 6.98013
 postcode: "51373"
 city: Leverkusen
-street: "Hauptstraße"
-housenumber: 90
+street: Hauptstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

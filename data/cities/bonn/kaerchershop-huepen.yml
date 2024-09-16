@@ -1,11 +1,11 @@
 id: 237769210
-type: way
+type: node
 latitude: 50.70745
 longitude: 7.06336
 postcode: "53127"
 city: Bonn
-street: "Auf der Kaiserfuhr"
-housenumber: 47
+street: Auf der Kaiserfuhr
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.kaerchershop-huepen.de/"
+website: https://www.kaerchershop-huepen.de/

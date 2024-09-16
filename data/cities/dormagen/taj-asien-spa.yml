@@ -1,11 +1,11 @@
 id: 140660192
-type: way
+type: node
 latitude: 51.09152
 longitude: 6.84376
 postcode: "41539"
 city: Dormagen
-street: "Kölner Straße"
-housenumber: 43
+street: Kölner Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

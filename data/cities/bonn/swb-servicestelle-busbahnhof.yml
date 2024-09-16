@@ -1,11 +1,11 @@
 id: 691043573
-type: way
+type: node
 latitude: 50.73199
 longitude: 7.09904
 postcode: "53111"
 city: Bonn
-street: "Maximilianstraße"
-housenumber: 
+street: Maximilianstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 09:00-14:00; Su, PH off"
-website: "https://www.swb-busundbahn.de/service/servicecenter.html"
+opening_hours: Mo-Fr 06:30-19:00; Sa 09:00-14:00; Su, PH off
+website: https://www.swb-busundbahn.de/service/servicecenter.html

@@ -1,11 +1,11 @@
 id: 25583120
-type: way
+type: node
 latitude: 52.07819
 longitude: 8.75357
 postcode: "32105"
 city: Bad Salzuflen
-street: "Rudolph-Brandes-Allee"
-housenumber: 14
-phone: "+49 5222 639723"
+street: Rudolph-Brandes-Allee
+housenumber: "14"
+phone: +49 5222 639723
 opening_hours: ""
-website: "https://www.pitstop.de/Werkstatt/bad-salzuflen"
+website: https://www.pitstop.de/Werkstatt/bad-salzuflen

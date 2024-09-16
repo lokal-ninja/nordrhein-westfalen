@@ -4,8 +4,8 @@ latitude: 51.45313
 longitude: 7.01373
 postcode: "45127"
 city: Essen
-street: "Am Handelshof"
-housenumber: 1
-phone: "+49 201 810600"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-14:00"
+street: Am Handelshof
+housenumber: "1"
+phone: +49 201 810600
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-14:00
 website: ""

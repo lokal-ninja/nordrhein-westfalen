@@ -4,8 +4,8 @@ latitude: 51.16504
 longitude: 6.87362
 postcode: "40597"
 city: Düsseldorf
-street: "Börchemstraße"
-housenumber: 36
-phone: "+49 211 7103840"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 10:00-14:00"
-website: "https://www.schuhmacherei-pans.de/"
+street: Börchemstraße
+housenumber: "36"
+phone: +49 211 7103840
+opening_hours: Tu-Fr 11:00-18:00; Sa 10:00-14:00
+website: https://www.schuhmacherei-pans.de/

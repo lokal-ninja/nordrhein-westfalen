@@ -1,11 +1,11 @@
 id: 77738924
-type: way
+type: node
 latitude: 50.7773
 longitude: 6.08488
 postcode: "52062"
 city: Aachen
-street: "Großkölnstraße"
+street: Großkölnstraße
 housenumber: 15-19
-phone: "+49 241 47640"
-opening_hours: "Mo-Sa 10:30-18:30; PH off"
-website: "https://www.sinnleffers.de/allefilialen.html?path=/Nordrhein-Westfalen/Aachen-181"
+phone: +49 241 47640
+opening_hours: Mo-Sa 10:30-18:30; PH off
+website: https://www.sinnleffers.de/allefilialen.html?path=/Nordrhein-Westfalen/Aachen-181

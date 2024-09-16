@@ -4,8 +4,8 @@ latitude: 51.23823
 longitude: 6.72133
 postcode: "40549"
 city: Düsseldorf
-street: "Schiessstraße"
-housenumber: 40
-phone: "+49 211 9446 1822"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.moll.de/"
+street: Schiessstraße
+housenumber: "40"
+phone: +49 211 9446 1822
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.moll.de/

@@ -4,8 +4,8 @@ latitude: 51.49439
 longitude: 7.28083
 postcode: "44791"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 1
-phone: "+49 234 90201630"
-opening_hours: "Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30"
-website: "https://www.rituals.com/de-de/home/"
+street: Am Einkaufszentrum
+housenumber: "1"
+phone: +49 234 90201630
+opening_hours: Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30
+website: https://www.rituals.com/de-de/home/

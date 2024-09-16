@@ -1,11 +1,11 @@
 id: 222604691
-type: way
+type: node
 latitude: 50.77732
 longitude: 6.16177
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 206
-phone: "+49 241 18298788"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.rewe-reinartz.de/"
+street: Von-Coels-Straße
+housenumber: "206"
+phone: +49 241 18298788
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.rewe-reinartz.de/

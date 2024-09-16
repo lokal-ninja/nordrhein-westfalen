@@ -1,11 +1,11 @@
 id: 58534977
-type: way
+type: node
 latitude: 51.97679
 longitude: 8.66178
 postcode: "33818"
 city: Leopoldshöhe
-street: "Hansastraße"
+street: Hansastraße
 housenumber: 19-35
-phone: "+49 5202 862-0"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00"
-website: "https://www.roller.de/leopoldshoehe-%28asemissen%29/markt/3gszf/"
+phone: +49 5202 862-0
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00
+website: https://www.roller.de/leopoldshoehe-%28asemissen%29/markt/3gszf/

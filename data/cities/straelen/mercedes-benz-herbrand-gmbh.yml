@@ -1,11 +1,11 @@
 id: 247609922
-type: way
+type: node
 latitude: 51.44382
 longitude: 6.2876
 postcode: "47638"
 city: Straelen
-street: "Hubertusstraße"
-housenumber: 1
-phone: "+49 800 801 901 0"
+street: Hubertusstraße
+housenumber: "1"
+phone: +49 800 801 901 0
 opening_hours: ""
-website: "https://www.herbrand.de/"
+website: https://www.herbrand.de/

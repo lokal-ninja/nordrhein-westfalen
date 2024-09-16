@@ -4,8 +4,8 @@ latitude: 51.2138
 longitude: 7.87394
 postcode: "58840"
 city: Plettenberg
-street: "Wilhelmstraße"
-housenumber: 12
-phone: "+49 2391 2765"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.2-rad-meyer.de/"
+street: Wilhelmstraße
+housenumber: "12"
+phone: +49 2391 2765
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
+website: https://www.2-rad-meyer.de/

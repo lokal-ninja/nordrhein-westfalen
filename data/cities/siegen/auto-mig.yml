@@ -1,11 +1,11 @@
 id: 602277863
-type: way
+type: node
 latitude: 50.88797
 longitude: 8.02439
 postcode: "57072"
 city: Siegen
-street: "Tiergartenstraße"
-housenumber: 166
+street: Tiergartenstraße
+housenumber: "166"
 phone: ""
 opening_hours: ""
 website: ""

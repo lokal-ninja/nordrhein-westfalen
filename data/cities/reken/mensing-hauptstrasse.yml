@@ -4,8 +4,8 @@ latitude: 51.83206
 longitude: 7.04308
 postcode: "48734"
 city: Reken
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 2864 8854776"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-12:00"
-website: "https://www.baeckerei-mensing.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 2864 8854776
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-12:00
+website: https://www.baeckerei-mensing.de/

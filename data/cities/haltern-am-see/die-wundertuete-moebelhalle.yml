@@ -4,8 +4,8 @@ latitude: 51.73682
 longitude: 7.17852
 postcode: "45721"
 city: Haltern am See
-street: "Annabergstraße"
-housenumber: 30
-phone: "+49 2364 9577615"
-opening_hours: "Mo,Mi,Fr 14:00-18:00; Di,Do,Sa 10:00-14:00; "
-website: "https://www.wundertuete.nrw"
+street: Annabergstraße
+housenumber: "30"
+phone: +49 2364 9577615
+opening_hours: 'Mo,Mi,Fr 14:00-18:00; Di,Do,Sa 10:00-14:00; '
+website: https://www.wundertuete.nrw

@@ -4,8 +4,8 @@ latitude: 51.71534
 longitude: 8.73042
 postcode: "33102"
 city: Paderborn
-street: "Klöcknerstraße"
-housenumber: 38
+street: Klöcknerstraße
+housenumber: "38"
 phone: "+495251310784"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-kloecknerstrasse.php"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-12:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-kloecknerstrasse.php

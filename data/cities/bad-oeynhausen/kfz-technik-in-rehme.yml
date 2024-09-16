@@ -4,8 +4,8 @@ latitude: 52.21604
 longitude: 8.83161
 postcode: "32547"
 city: Bad Oeynhausen
-street: "Adam-Opel-Straße"
-housenumber: 2
-phone: "+49 5731 2445670"
-opening_hours: "Mo-Fr 08:00-17:00; Fr 08:00-15:00"
-website: "http://www.kfz-technik-rehme.de"
+street: Adam-Opel-Straße
+housenumber: "2"
+phone: +49 5731 2445670
+opening_hours: Mo-Fr 08:00-17:00; Fr 08:00-15:00
+website: http://www.kfz-technik-rehme.de

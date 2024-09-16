@@ -4,8 +4,8 @@ latitude: 50.74256
 longitude: 7.0059
 postcode: "53347"
 city: Alfter
-street: "Taubenweiherweg"
-housenumber: 4
-phone: "+49 2222 9299774"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00; Su 10:00-12:00"
-website: "https://www.hofladen-mandt.de/"
+street: Taubenweiherweg
+housenumber: "4"
+phone: +49 2222 9299774
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-14:00; Su 10:00-12:00
+website: https://www.hofladen-mandt.de/

@@ -1,11 +1,11 @@
 id: 758535137
-type: way
+type: node
 latitude: 51.94963
 longitude: 8.85327
 postcode: "32758"
 city: Detmold
-street: "Klingenbergstraße"
-housenumber: 20
+street: Klingenbergstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-11:45,12:30-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-11:45,12:30-17:00; Sa 09:00-12:00
 website: ""

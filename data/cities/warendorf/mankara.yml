@@ -4,8 +4,8 @@ latitude: 51.95248
 longitude: 7.98256
 postcode: "48231"
 city: Warendorf
-street: "August-Wessing-Damm"
-housenumber: 22
-phone: "+49 2581 93640"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://mankara.de/standorte/warendorf/"
+street: August-Wessing-Damm
+housenumber: "22"
+phone: +49 2581 93640
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://mankara.de/standorte/warendorf/

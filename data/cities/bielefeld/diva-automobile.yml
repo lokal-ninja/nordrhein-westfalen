@@ -1,11 +1,11 @@
 id: 250508709
-type: way
+type: node
 latitude: 52.00398
 longitude: 8.50815
 postcode: "33647"
 city: Bielefeld
-street: "Artur-Ladebeck-Straße"
-housenumber: 141
+street: Artur-Ladebeck-Straße
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://diva-automobile.de/"
+website: https://diva-automobile.de/

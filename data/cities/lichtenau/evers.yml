@@ -1,11 +1,11 @@
 id: 288203408
-type: way
+type: node
 latitude: 51.61282
 longitude: 8.89468
 postcode: "33165"
 city: Lichtenau
-street: "Husener Straße"
-housenumber: 25
+street: Husener Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

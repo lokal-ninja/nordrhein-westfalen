@@ -1,11 +1,11 @@
 id: 314088009
-type: way
+type: node
 latitude: 52.0691
 longitude: 8.22933
 postcode: "33775"
 city: Versmold
-street: "Hölmerweg"
-housenumber: 2
+street: Hölmerweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-13:00
 website: ""

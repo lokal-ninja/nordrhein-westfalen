@@ -4,8 +4,8 @@ latitude: 51.96401
 longitude: 7.62608
 postcode: ""
 city: Münster
-street: "Spiekerhof"
-housenumber: 
+street: Spiekerhof
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
-website: "http://www.hoerstudio-muensterland.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
+website: http://www.hoerstudio-muensterland.de/

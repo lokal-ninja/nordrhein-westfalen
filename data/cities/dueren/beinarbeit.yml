@@ -4,8 +4,9 @@ latitude: 50.79258
 longitude: 6.46882
 postcode: "52355"
 city: Düren
-street: "Monschauer Straße"
+street: Monschauer Straße
 housenumber: 62a
 phone: ""
-opening_hours: "Mo 09:30-13:00,14:00-18:30; Tu 09:30-13:00,14:00-20:00; We off; Th-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00; Su,PH off"
-website: "https://www.beinarbeit.com/"
+opening_hours: Mo 09:30-13:00,14:00-18:30; Tu 09:30-13:00,14:00-20:00; We off; Th-Fr
+    09:30-13:00,14:00-18:30; Sa 09:00-13:00; Su,PH off
+website: https://www.beinarbeit.com/

@@ -1,11 +1,11 @@
 id: 151695721
-type: way
+type: node
 latitude: 51.35621
 longitude: 7.52045
 postcode: "58093"
 city: Hagen
-street: "Donnerkuhler Weg"
-housenumber: 59
+street: Donnerkuhler Weg
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

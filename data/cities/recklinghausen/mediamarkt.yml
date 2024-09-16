@@ -1,11 +1,11 @@
 id: 478801340
-type: way
+type: node
 latitude: 51.61251
 longitude: 7.1995
 postcode: "45657"
 city: Recklinghausen
-street: "Löhrhof"
-housenumber: 1
+street: Löhrhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/recklinghausen-453"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/recklinghausen-453

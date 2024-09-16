@@ -1,11 +1,11 @@
 id: 48441339
-type: way
+type: node
 latitude: 50.91446
 longitude: 8.00339
 postcode: "57078"
 city: Siegen
-street: "In der Lehmkuhle"
-housenumber: 2
+street: In der Lehmkuhle
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

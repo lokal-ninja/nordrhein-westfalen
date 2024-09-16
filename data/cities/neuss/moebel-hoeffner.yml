@@ -1,11 +1,11 @@
 id: 306459690
-type: way
+type: node
 latitude: 51.2025
 longitude: 6.71473
 postcode: "41460"
 city: Neuss
-street: "Schanzenstraße"
-housenumber: 1
+street: Schanzenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.61511
 longitude: 7.19727
 postcode: "45657"
 city: Recklinghausen
-street: "Holzmarkt"
-housenumber: 6
-phone: "+49 2361 9099154"
-opening_hours: "Termine nach Vereinbarung"
+street: Holzmarkt
+housenumber: "6"
+phone: +49 2361 9099154
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

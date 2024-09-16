@@ -4,8 +4,8 @@ latitude: 50.93409
 longitude: 6.9449
 postcode: "50676"
 city: Köln
-street: "Mauritiussteinweg"
-housenumber: 71
-phone: "+49 221 3468-289"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://weltlaeden.de/koeln/"
+street: Mauritiussteinweg
+housenumber: "71"
+phone: +49 221 3468-289
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://weltlaeden.de/koeln/

@@ -1,11 +1,11 @@
 id: 267837895
-type: way
+type: node
 latitude: 51.10369
 longitude: 6.61682
 postcode: "41516"
 city: Grevenbroich
-street: "Oberstraße"
-housenumber: 36
+street: Oberstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 13:00-19:00; Sa 12:00-16:00"
+opening_hours: Mo-Fr 13:00-19:00; Sa 12:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 207013413
-type: way
+type: node
 latitude: 51.5225
 longitude: 7.2141
 postcode: "44625"
 city: Herne
-street: "Bochumer Straße"
-housenumber: 214
+street: Bochumer Straße
+housenumber: "214"
 phone: ""
 opening_hours: ""
-website: "https://www.bieling.de/filialen/niederlassung-herne"
+website: https://www.bieling.de/filialen/niederlassung-herne

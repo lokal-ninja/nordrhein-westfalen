@@ -1,11 +1,11 @@
 id: 197740184
-type: way
+type: node
 latitude: 50.63086
 longitude: 6.81267
 postcode: "53881"
 city: Euskirchen
-street: "Im Krautgarten"
-housenumber: 2
+street: Im Krautgarten
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.14011
 longitude: 6.26982
 postcode: "41844"
 city: Wegberg
-street: "Fußbachstraße"
-housenumber: 36
-phone: "+49 2434 9933174"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.fressnapf.de/"
+street: Fußbachstraße
+housenumber: "36"
+phone: +49 2434 9933174
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off
+website: https://www.fressnapf.de/

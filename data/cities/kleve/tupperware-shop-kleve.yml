@@ -1,11 +1,11 @@
 id: 176334945
-type: way
+type: node
 latitude: 51.78961
 longitude: 6.13839
 postcode: "47533"
 city: Kleve
-street: "Kavarinerstraße"
-housenumber: 28
+street: Kavarinerstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.44502
 longitude: 7.09738
 postcode: "45279"
 city: Essen
-street: "Freisenbruchstraße"
-housenumber: 46
+street: Freisenbruchstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-14:00; Su 07:00-13:00"
-website: "https://doebbe.de"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:00-14:00; Su 07:00-13:00
+website: https://doebbe.de

@@ -1,11 +1,11 @@
 id: 439746076
-type: way
+type: node
 latitude: 50.9101
 longitude: 8.08921
 postcode: "57250"
 city: Netphen
-street: "Obere Industriestraße"
-housenumber: 25
+street: Obere Industriestraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 158290364
-type: way
+type: node
 latitude: 51.34361
 longitude: 6.55192
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
+street: Hülser Straße
 housenumber: 129-131
-phone: "+49 (0) 2151 7672878"
-opening_hours: "Mo 15:00-18:00; Tu-Fr 11:00-18:00; Sa 10:00-15:00"
-website: "https://fahrrad-ass.de/"
+phone: +49 (0) 2151 7672878
+opening_hours: Mo 15:00-18:00; Tu-Fr 11:00-18:00; Sa 10:00-15:00
+website: https://fahrrad-ass.de/

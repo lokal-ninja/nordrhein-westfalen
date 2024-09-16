@@ -1,11 +1,11 @@
 id: 29435747
-type: way
+type: node
 latitude: 51.00001
 longitude: 7.03664
 postcode: "51069"
 city: Köln
-street: "Marienheider Straße"
-housenumber: 1
+street: Marienheider Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

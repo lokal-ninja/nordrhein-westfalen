@@ -1,11 +1,11 @@
 id: 335335368
-type: way
+type: node
 latitude: 51.56638
 longitude: 6.26055
 postcode: "47623"
 city: Kevelaer
-street: "Haagscher Weg"
-housenumber: 8
+street: Haagscher Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-16:30; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-16:30; Sa 09:00-12:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.34912
 longitude: 8.71713
 postcode: "32479"
 city: Hille
-street: "Frotheimer Straße"
-housenumber: 110
-phone: "+49 5703 3334"
-opening_hours: "Mo-Fr 09:30-13:00, 15:00-18:00; Sa 09:30-13:00"
-website: "https://www.husemann-kuechen.de/"
+street: Frotheimer Straße
+housenumber: "110"
+phone: +49 5703 3334
+opening_hours: Mo-Fr 09:30-13:00, 15:00-18:00; Sa 09:30-13:00
+website: https://www.husemann-kuechen.de/

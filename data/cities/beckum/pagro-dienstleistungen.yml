@@ -4,8 +4,8 @@ latitude: 51.75503
 longitude: 8.04244
 postcode: "59269"
 city: Beckum
-street: "Oststraße"
-housenumber: 11
+street: Oststraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We,Sa 08:30-12:30"
-website: "https://www.pagro.info/"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We,Sa 08:30-12:30
+website: https://www.pagro.info/

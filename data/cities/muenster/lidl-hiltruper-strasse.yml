@@ -1,11 +1,11 @@
 id: 168413394
-type: way
+type: node
 latitude: 51.91447
 longitude: 7.72271
 postcode: "48167"
 city: Münster
-street: "Hiltruper Straße"
-housenumber: 24
+street: Hiltruper Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 44164004
-type: way
+type: node
 latitude: 51.84897
 longitude: 9.02971
 postcode: "32839"
 city: Steinheim
-street: "Steinheimer Straße"
-housenumber: 2
+street: Steinheimer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

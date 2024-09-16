@@ -1,11 +1,11 @@
 id: 71216367
-type: way
+type: node
 latitude: 51.37646
 longitude: 7.69644
 postcode: "58636"
 city: Iserlohn
-street: "Theodor-Heuss-Ring"
-housenumber: 2
+street: Theodor-Heuss-Ring
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

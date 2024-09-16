@@ -4,8 +4,8 @@ latitude: 50.77431
 longitude: 6.0851
 postcode: "52062"
 city: Aachen
-street: "Hartmannstraße"
-housenumber: 4
-phone: "+49 241 470280"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.reisebuero-hagemann.de/"
+street: Hartmannstraße
+housenumber: "4"
+phone: +49 241 470280
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.reisebuero-hagemann.de/

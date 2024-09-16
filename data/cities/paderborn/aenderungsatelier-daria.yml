@@ -4,8 +4,8 @@ latitude: 51.71563
 longitude: 8.74918
 postcode: "33098"
 city: Paderborn
-street: "Franziskanermauer"
-housenumber: 22
+street: Franziskanermauer
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Fr 9:30-16:00; Sa nach Absprache"
+opening_hours: Tu-Fr 9:30-16:00; Sa "nach Absprache"
 website: ""

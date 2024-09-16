@@ -1,11 +1,11 @@
 id: 132788797
-type: way
+type: node
 latitude: 50.84821
 longitude: 7.11037
 postcode: "51147"
 city: Köln
-street: "Linder Mauspfad"
-housenumber: 69
+street: Linder Mauspfad
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

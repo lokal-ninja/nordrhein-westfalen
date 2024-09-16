@@ -1,11 +1,11 @@
 id: 92291515
-type: way
+type: node
 latitude: 50.79084
 longitude: 6.10137
 postcode: "52070"
 city: Aachen
-street: "Am Gut Wolf"
-housenumber: 9
+street: Am Gut Wolf
+housenumber: "9"
 phone: "+492418793050"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-18:00"
-website: "https://www.eurobike.de/"
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-18:00
+website: https://www.eurobike.de/

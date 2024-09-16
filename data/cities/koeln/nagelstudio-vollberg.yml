@@ -4,8 +4,8 @@ latitude: 50.9217
 longitude: 6.95709
 postcode: "50678"
 city: Köln
-street: "Karolingerring"
-housenumber: 25
-phone: "+49 221 31 92 65"
+street: Karolingerring
+housenumber: "25"
+phone: +49 221 31 92 65
 opening_hours: ""
-website: "https://www.nagelstudio-vollberg.de/"
+website: https://www.nagelstudio-vollberg.de/

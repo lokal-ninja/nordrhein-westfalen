@@ -1,11 +1,11 @@
 id: 399693139
-type: way
+type: node
 latitude: 51.63347
 longitude: 6.66924
 postcode: "46562"
 city: Voerde (Niederrhein)
-street: "Kurierweg"
-housenumber: 24
-phone: "+49 281 45560"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "http://www.fahrradtreff.com"
+street: Kurierweg
+housenumber: "24"
+phone: +49 281 45560
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: http://www.fahrradtreff.com

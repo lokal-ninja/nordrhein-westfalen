@@ -1,11 +1,11 @@
 id: 44491634
-type: way
+type: node
 latitude: 51.84675
 longitude: 8.02431
 postcode: "59320"
 city: Ennigerloh
-street: "Westkirchener Straße"
-housenumber: 77
+street: Westkirchener Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

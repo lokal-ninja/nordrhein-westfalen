@@ -1,11 +1,11 @@
 id: 54751483
-type: way
+type: node
 latitude: 51.76261
 longitude: 6.39545
 postcode: "46459"
 city: Rees
-street: "Florastraße"
+street: Florastraße
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/f/rees-mitte/florastr-3-a.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/f/rees-mitte/florastr-3-a.html

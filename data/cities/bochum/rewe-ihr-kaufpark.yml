@@ -4,8 +4,8 @@ latitude: 51.49715
 longitude: 7.25799
 postcode: "44805"
 city: Bochum
-street: "Castroper Hellweg"
-housenumber: 20
-phone: "+49 234 9505490"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/bochum/2161365/rewe-markt-castroper-hellweg-20/"
+street: Castroper Hellweg
+housenumber: "20"
+phone: +49 234 9505490
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/bochum/2161365/rewe-markt-castroper-hellweg-20/

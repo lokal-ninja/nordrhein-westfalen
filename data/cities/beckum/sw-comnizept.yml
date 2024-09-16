@@ -4,8 +4,8 @@ latitude: 51.75506
 longitude: 8.04227
 postcode: "59269"
 city: Beckum
-street: "Oststraße"
-housenumber: 9
+street: Oststraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.sw-comnizept.de/"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00
+website: https://www.sw-comnizept.de/

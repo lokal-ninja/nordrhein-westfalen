@@ -1,11 +1,11 @@
 id: 233652425
-type: way
+type: node
 latitude: 52.14789
 longitude: 8.61983
 postcode: "32120"
 city: Hiddenhausen
-street: "Eilshauser Straße"
-housenumber: 57
+street: Eilshauser Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

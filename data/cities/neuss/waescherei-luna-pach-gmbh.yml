@@ -4,8 +4,8 @@ latitude: 51.14128
 longitude: 6.74636
 postcode: "41470"
 city: Neuss
-street: "Am Alten Bach"
-housenumber: 11
-phone: "+49 2137 7180"
-opening_hours: "Mo 08:00-13:00; We-Fr 08:00-13:00,14:30-18:00; Sa 09:00-13:00"
+street: Am Alten Bach
+housenumber: "11"
+phone: +49 2137 7180
+opening_hours: Mo 08:00-13:00; We-Fr 08:00-13:00,14:30-18:00; Sa 09:00-13:00
 website: ""

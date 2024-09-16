@@ -1,11 +1,11 @@
 id: 337158167
-type: way
+type: node
 latitude: 50.96165
 longitude: 6.46212
 postcode: "52445"
 city: Titz
-street: "Platz"
-housenumber: 12
+street: Platz
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

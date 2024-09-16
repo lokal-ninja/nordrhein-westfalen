@@ -1,11 +1,11 @@
 id: 105586020
-type: way
+type: node
 latitude: 50.76748
 longitude: 6.14699
 postcode: "52078"
 city: Aachen
-street: "Neuenhofstraße"
-housenumber: 129
+street: Neuenhofstraße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Th 07:15-17:30; Fr 07:15-16:00; Sa,Su,PH off"
-website: "https://derlackierer.com/"
+opening_hours: Mo-Th 07:15-17:30; Fr 07:15-16:00; Sa,Su,PH off
+website: https://derlackierer.com/

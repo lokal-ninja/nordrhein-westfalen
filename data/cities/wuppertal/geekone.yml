@@ -4,8 +4,8 @@ latitude: 51.27116
 longitude: 7.2213
 postcode: "42289"
 city: Wuppertal
-street: "Heckinghauser Straße"
-housenumber: 158
-phone: "+49 177 5525152"
-opening_hours: "Tu-Sa 13:00-19:00"
-website: "https://www.geek-one.de/"
+street: Heckinghauser Straße
+housenumber: "158"
+phone: +49 177 5525152
+opening_hours: Tu-Sa 13:00-19:00
+website: https://www.geek-one.de/

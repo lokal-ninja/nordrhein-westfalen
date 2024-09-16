@@ -1,11 +1,11 @@
 id: 212066412
-type: way
+type: node
 latitude: 51.71279
 longitude: 8.73232
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 84
+street: Bahnhofstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/

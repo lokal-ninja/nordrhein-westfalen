@@ -1,11 +1,11 @@
 id: 90278527
-type: way
+type: node
 latitude: 51.16947
 longitude: 6.95162
 postcode: "40724"
 city: Hilden
-street: "Walder Straße"
-housenumber: 99
+street: Walder Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.breidohrs.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.breidohrs.de/

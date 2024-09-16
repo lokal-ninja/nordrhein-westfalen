@@ -1,11 +1,11 @@
 id: 125605027
-type: way
+type: node
 latitude: 51.99131
 longitude: 6.91784
 postcode: "48703"
 city: Stadtlohn
-street: "Stegerstraße"
-housenumber: 16
+street: Stegerstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.enge-menze.de/"
+website: https://www.enge-menze.de/

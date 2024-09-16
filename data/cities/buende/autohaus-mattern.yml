@@ -1,11 +1,11 @@
 id: 45756859
-type: way
+type: node
 latitude: 52.19697
 longitude: 8.56577
 postcode: "32257"
 city: Bünde
-street: "Blankensteinstraße"
+street: Blankensteinstraße
 housenumber: 43-48
-phone: "+49 5223 992960"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 09:00-13:00"
-website: "https://www.auto-mattern.de/"
+phone: +49 5223 992960
+opening_hours: Mo-Fr 08:00-18:30, Sa 09:00-13:00
+website: https://www.auto-mattern.de/

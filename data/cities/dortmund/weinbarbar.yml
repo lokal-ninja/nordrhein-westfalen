@@ -4,8 +4,8 @@ latitude: 51.51398
 longitude: 7.46279
 postcode: "44137"
 city: Dortmund
-street: "Westenhellweg"
-housenumber: 58
+street: Westenhellweg
+housenumber: "58"
 phone: "+4923196378188"
-opening_hours: "Mo-Th 12:30-21:00; Fr 12:30-23:00; Sa 11:00-23:00"
-website: "https://www.weinbarbar.de/"
+opening_hours: Mo-Th 12:30-21:00; Fr 12:30-23:00; Sa 11:00-23:00
+website: https://www.weinbarbar.de/

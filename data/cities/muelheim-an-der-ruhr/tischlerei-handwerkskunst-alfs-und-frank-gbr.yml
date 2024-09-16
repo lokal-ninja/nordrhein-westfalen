@@ -1,11 +1,11 @@
 id: 75668739
-type: way
+type: node
 latitude: 51.42624
 longitude: 6.85954
 postcode: "45479"
 city: Mülheim an der Ruhr
-street: "Markgrafenstraße"
-housenumber: 19
+street: Markgrafenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

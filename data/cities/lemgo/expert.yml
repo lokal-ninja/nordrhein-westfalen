@@ -4,8 +4,8 @@ latitude: 52.02874
 longitude: 8.90816
 postcode: "32657"
 city: Lemgo
-street: "Bismarckstraße"
-housenumber: 5
+street: Bismarckstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://expert-lemgo.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://expert-lemgo.de

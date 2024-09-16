@@ -4,8 +4,8 @@ latitude: 51.3817
 longitude: 7.42169
 postcode: "58089"
 city: Hagen
-street: "Weststraße"
-housenumber: 88
-phone: "+49 2331 364-0"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-15:50; Sa,Su,PH off"
-website: "https://www.isserstedt.de"
+street: Weststraße
+housenumber: "88"
+phone: +49 2331 364-0
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-15:50; Sa,Su,PH off
+website: https://www.isserstedt.de

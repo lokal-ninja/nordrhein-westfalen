@@ -4,8 +4,8 @@ latitude: 50.95472
 longitude: 6.96117
 postcode: "50670"
 city: Köln
-street: "Hülchrather Straße"
-housenumber: 23
+street: Hülchrather Straße
+housenumber: "23"
 phone: "+492217200790"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-17:30; Sa 10:00-14:00"
-website: "http://www.wentel.de"
+opening_hours: Mo-Fr 10:00-13:00,15:00-17:30; Sa 10:00-14:00
+website: http://www.wentel.de

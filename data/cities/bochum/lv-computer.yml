@@ -4,8 +4,8 @@ latitude: 51.45454
 longitude: 7.19299
 postcode: "44795"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 343
+street: Hattinger Straße
+housenumber: "343"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00,15:00-18:00, Fr 10:00-13:00,15:00-17:30; PH off"
-website: "https://www.lv-computer.de/"
+opening_hours: Mo-Th 10:00-13:00,15:00-18:00, Fr 10:00-13:00,15:00-17:30; PH off
+website: https://www.lv-computer.de/

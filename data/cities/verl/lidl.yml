@@ -1,11 +1,11 @@
 id: 58420957
-type: way
+type: node
 latitude: 51.87897
 longitude: 8.49158
 postcode: "33415"
 city: Verl
-street: "Westring"
-housenumber: 11
+street: Westring
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/

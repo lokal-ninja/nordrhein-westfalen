@@ -4,8 +4,8 @@ latitude: 52.0264
 longitude: 8.53964
 postcode: "33602"
 city: Bielefeld
-street: "August-Bebel-Straße"
-housenumber: 68
-phone: "+49 521 30526952"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-15:00; PH off"
-website: "http://beauty-blush.de/"
+street: August-Bebel-Straße
+housenumber: "68"
+phone: +49 521 30526952
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-15:00; PH off
+website: http://beauty-blush.de/

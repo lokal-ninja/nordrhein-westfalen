@@ -4,8 +4,8 @@ latitude: 51.67202
 longitude: 8.60526
 postcode: "33154"
 city: Salzkotten
-street: "Lange Straße"
-housenumber: 26
+street: Lange Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu, Th, Fr 9:00-13:00, 14:30-18:00; Sa 9:00-13:00; Mo, We, Su, PH off"
-website: "https://www.nicolibri.de"
+opening_hours: Tu, Th, Fr 9:00-13:00, 14:30-18:00; Sa 9:00-13:00; Mo, We, Su, PH off
+website: https://www.nicolibri.de

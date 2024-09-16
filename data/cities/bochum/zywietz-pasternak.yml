@@ -1,11 +1,11 @@
 id: 189137391
-type: way
+type: node
 latitude: 51.48358
 longitude: 7.16308
 postcode: "44866"
 city: Bochum
-street: "Mausegatt"
-housenumber: 40
+street: Mausegatt
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.e-pasternak.de/"
+website: https://www.e-pasternak.de/

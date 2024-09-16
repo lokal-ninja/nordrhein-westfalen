@@ -4,8 +4,8 @@ latitude: 51.44059
 longitude: 7.01135
 postcode: "45130"
 city: Essen
-street: "Annastraße"
-housenumber: 65
+street: Annastraße
+housenumber: "65"
 phone: ""
-opening_hours: "Tu 11:00-18:00; We 15:00-19:00; Th-Fr 11:00-18:00; Sa 10:00-14:00"
-website: "https://www.hockeyfriends.com/c/ueber-uns/filiale-essen"
+opening_hours: Tu 11:00-18:00; We 15:00-19:00; Th-Fr 11:00-18:00; Sa 10:00-14:00
+website: https://www.hockeyfriends.com/c/ueber-uns/filiale-essen

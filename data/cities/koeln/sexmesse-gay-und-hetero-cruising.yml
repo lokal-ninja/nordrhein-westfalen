@@ -1,11 +1,11 @@
 id: 281907403
-type: way
+type: node
 latitude: 50.93328
 longitude: 6.959
 postcode: "50676"
 city: Köln
-street: "Mathiasstraße"
-housenumber: 23
+street: Mathiasstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 10:00-24:00; Su,PH 12:00-24:00"
+opening_hours: Mo-Sa 10:00-24:00; Su,PH 12:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 335890493
-type: way
+type: node
 latitude: 50.98218
 longitude: 6.51609
 postcode: "50181"
 city: Bedburg
-street: "Elsdorfer Straße"
-housenumber: 3
+street: Elsdorfer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 06:30-17:30"
+opening_hours: Mo-We,Fr,Sa 06:30-17:30
 website: ""

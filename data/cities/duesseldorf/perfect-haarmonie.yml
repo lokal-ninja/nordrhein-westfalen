@@ -4,8 +4,8 @@ latitude: 51.23927
 longitude: 6.84671
 postcode: "40625"
 city: Düsseldorf
-street: "Benderstraße"
-housenumber: 138
-phone: "+49 211 29 97 98"
-opening_hours: "Tu-Fr 09:30-18:00; Sa,Su,PH off"
-website: "https://www.perfect-haarmonie.de/"
+street: Benderstraße
+housenumber: "138"
+phone: +49 211 29 97 98
+opening_hours: Tu-Fr 09:30-18:00; Sa,Su,PH off
+website: https://www.perfect-haarmonie.de/

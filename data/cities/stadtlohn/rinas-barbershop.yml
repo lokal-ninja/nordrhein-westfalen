@@ -1,11 +1,11 @@
 id: 124228562
-type: way
+type: node
 latitude: 51.99229
 longitude: 6.91469
 postcode: "48703"
 city: Stadtlohn
-street: "Grabenstraße"
-housenumber: 33
+street: Grabenstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.71841
 longitude: 8.75031
 postcode: "33098"
 city: Paderborn
-street: "Bachstraße"
-housenumber: 7
+street: Bachstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 7:30-21:00"
-website: "https://www.eineartwaschsalon.de/"
+opening_hours: Mo-Sa 7:30-21:00
+website: https://www.eineartwaschsalon.de/

@@ -4,8 +4,8 @@ latitude: 51.71633
 longitude: 8.75161
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 6
+street: Rosenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
-website: "https://www.modehaus-hoevel.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00
+website: https://www.modehaus-hoevel.de/

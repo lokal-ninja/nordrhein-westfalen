@@ -1,11 +1,11 @@
 id: 233981827
-type: way
+type: node
 latitude: 50.63589
 longitude: 6.69746
 postcode: "53894"
 city: Mechernich
-street: "Sinzenicher Weg"
-housenumber: 2
+street: Sinzenicher Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00"
-website: "http://www.wideback.net/index.html"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-14:00
+website: http://www.wideback.net/index.html

@@ -4,8 +4,8 @@ latitude: 51.52233
 longitude: 7.47817
 postcode: "44145"
 city: Dortmund
-street: "Stahlwerkstraße"
-housenumber: 6
+street: Stahlwerkstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 07:00-01:00"
+opening_hours: Mo-Su 07:00-01:00
 website: ""

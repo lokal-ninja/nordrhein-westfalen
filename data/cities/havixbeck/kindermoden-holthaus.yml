@@ -4,8 +4,8 @@ latitude: 51.97564
 longitude: 7.41261
 postcode: "48329"
 city: Havixbeck
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49 2507 1286"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:30;Sa 09:00-12:30"
+street: Hauptstraße
+housenumber: "53"
+phone: +49 2507 1286
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:30;Sa 09:00-12:30
 website: ""

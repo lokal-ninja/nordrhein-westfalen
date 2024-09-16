@@ -4,8 +4,8 @@ latitude: 51.83339
 longitude: 8.30997
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Klingelbrink"
-housenumber: 25
-phone: "+49 5242 5226"
-opening_hours: "Mo-Th 08:30-18:30, Fr 08:00-18:30, Sa 07:30-13:30"
-website: "https://www.groene-feinkost.de/"
+street: Klingelbrink
+housenumber: "25"
+phone: +49 5242 5226
+opening_hours: Mo-Th 08:30-18:30, Fr 08:00-18:30, Sa 07:30-13:30
+website: https://www.groene-feinkost.de/

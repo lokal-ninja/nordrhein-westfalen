@@ -1,11 +1,11 @@
 id: 1041513758
-type: way
+type: node
 latitude: 50.71775
 longitude: 7.0283
 postcode: "53347"
 city: Alfter
-street: "Im Klostergarten"
-housenumber: 54
-phone: "+49 228 71011570"
-opening_hours: "24/7"
-website: "https://www.kfz-tautenhahn.de/"
+street: Im Klostergarten
+housenumber: "54"
+phone: +49 228 71011570
+opening_hours: 24/7
+website: https://www.kfz-tautenhahn.de/

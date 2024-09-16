@@ -1,11 +1,11 @@
 id: 46151941
-type: way
+type: node
 latitude: 50.7524
 longitude: 7.06387
 postcode: "53117"
 city: Bonn
-street: "In den Dauen"
-housenumber: 3
+street: In den Dauen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

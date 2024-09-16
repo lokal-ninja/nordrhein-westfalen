@@ -4,8 +4,8 @@ latitude: 51.76589
 longitude: 8.56253
 postcode: "33129"
 city: Delbrück
-street: "Lipplinger Straße"
-housenumber: 3
-phone: "+49 5250 936231"
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-16:00; PH off"
-website: "https://www.schuh-okay.de/"
+street: Lipplinger Straße
+housenumber: "3"
+phone: +49 5250 936231
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-16:00; PH off
+website: https://www.schuh-okay.de/

@@ -1,11 +1,11 @@
 id: 625907551
-type: way
+type: node
 latitude: 51.60127
 longitude: 7.18092
 postcode: "45659"
 city: Recklinghausen
-street: "Holthoffstraße"
-housenumber: 131
-phone: "+49 2361 91930"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.vogelsang-automobile.de/"
+street: Holthoffstraße
+housenumber: "131"
+phone: +49 2361 91930
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.vogelsang-automobile.de/

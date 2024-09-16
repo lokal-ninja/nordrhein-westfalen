@@ -1,11 +1,11 @@
 id: 207736675
-type: way
+type: node
 latitude: 51.5428
 longitude: 7.33078
 postcode: "44577"
 city: Castrop-Rauxel
-street: "Dortmunder Straße"
-housenumber: 140
+street: Dortmunder Straße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 55974883
-type: way
+type: node
 latitude: 52.02681
 longitude: 8.23667
 postcode: "33775"
 city: Versmold
-street: "Oesterweger Straße"
-housenumber: 49
+street: Oesterweger Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 98037532
-type: way
+type: node
 latitude: 51.43251
 longitude: 7.23117
 postcode: "44797"
 city: Bochum
-street: "Kemnader Straße"
-housenumber: 197
+street: Kemnader Straße
+housenumber: "197"
 phone: ""
-opening_hours: "Mo, Tu, Th, Su off; PH off; We, Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://hof-schulte-schueren.de/"
+opening_hours: Mo, Tu, Th, Su off; PH off; We, Fr 09:00-18:00; Sa 09:00-13:00
+website: https://hof-schulte-schueren.de/

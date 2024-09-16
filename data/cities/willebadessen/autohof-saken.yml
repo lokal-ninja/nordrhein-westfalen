@@ -1,11 +1,11 @@
 id: 245228098
-type: way
+type: node
 latitude: 51.6047
 longitude: 9.13377
 postcode: "34439"
 city: Willebadessen
-street: "Lützer Straße"
-housenumber: 38
+street: Lützer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://autohof-saken.de/"
+website: http://autohof-saken.de/

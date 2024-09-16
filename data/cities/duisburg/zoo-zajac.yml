@@ -1,11 +1,11 @@
 id: 82454905
-type: way
+type: node
 latitude: 51.49124
 longitude: 6.80054
 postcode: "47167"
 city: Duisburg
-street: "Konrad-Adenauer-Ring"
-housenumber: 6
+street: Konrad-Adenauer-Ring
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Dec 24,31 10:00-14:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Dec 24,31 10:00-14:00
 website: ""

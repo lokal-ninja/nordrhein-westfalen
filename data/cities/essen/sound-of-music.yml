@@ -1,11 +1,11 @@
 id: 282934030
-type: way
+type: node
 latitude: 51.45777
 longitude: 6.99987
 postcode: "45127"
 city: Essen
-street: "Thea-Leymann-Straße"
-housenumber: 12
+street: Thea-Leymann-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.soundofmusic.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.soundofmusic.de

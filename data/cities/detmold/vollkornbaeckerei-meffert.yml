@@ -4,8 +4,8 @@ latitude: 51.93457
 longitude: 8.87694
 postcode: "32756"
 city: Detmold
-street: "Krumme Straße"
-housenumber: 24
-phone: "+49 5231 561836"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.baeckerei-meffert.de/"
+street: Krumme Straße
+housenumber: "24"
+phone: +49 5231 561836
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.baeckerei-meffert.de/

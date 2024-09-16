@@ -1,11 +1,11 @@
 id: 103307591
-type: way
+type: node
 latitude: 51.4335
 longitude: 6.83812
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Ruhrorter Straße"
-housenumber: 49
+street: Ruhrorter Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 168216144
-type: way
+type: node
 latitude: 51.08639
 longitude: 6.30662
 postcode: "41812"
 city: Erkelenz
-street: "St.-Rochus-Weg"
-housenumber: 1
+street: St.-Rochus-Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.03127
 longitude: 8.60436
 postcode: "33719"
 city: Bielefeld
-street: "Hillegosser Straße"
-housenumber: 10
-phone: "+49 521 330333"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-13:30, Su 07:30-16:30"
-website: "https://baeckerei-schmidt.de/filiale/bielefeld-cafe/"
+street: Hillegosser Straße
+housenumber: "10"
+phone: +49 521 330333
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-13:30, Su 07:30-16:30
+website: https://baeckerei-schmidt.de/filiale/bielefeld-cafe/

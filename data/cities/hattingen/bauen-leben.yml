@@ -1,11 +1,11 @@
 id: 25999327
-type: way
+type: node
 latitude: 51.39105
 longitude: 7.17242
 postcode: "45525"
 city: Hattingen
-street: "Beuler Höhe"
-housenumber: 8
+street: Beuler Höhe
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://bauenundleben.de/"
+website: https://bauenundleben.de/

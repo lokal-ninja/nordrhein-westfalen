@@ -1,11 +1,11 @@
 id: 141105048
-type: way
+type: node
 latitude: 51.10683
 longitude: 6.94842
 postcode: "40764"
 city: Langenfeld
-street: "Hauptstraße"
-housenumber: 96
+street: Hauptstraße
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

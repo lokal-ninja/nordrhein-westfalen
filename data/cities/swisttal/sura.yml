@@ -1,11 +1,11 @@
 id: 35821523
-type: way
+type: node
 latitude: 50.72212
 longitude: 6.91977
 postcode: "53913"
 city: Swisttal
-street: "Breniger Straße"
-housenumber: 1
+street: Breniger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

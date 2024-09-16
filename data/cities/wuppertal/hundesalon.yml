@@ -4,8 +4,8 @@ latitude: 51.23195
 longitude: 7.07121
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 13
+street: Kaiserstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Sa 10:00-18:30"
+opening_hours: Tu-Sa 10:00-18:30
 website: ""

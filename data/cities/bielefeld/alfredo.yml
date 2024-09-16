@@ -4,8 +4,8 @@ latitude: 52.02773
 longitude: 8.52251
 postcode: "33615"
 city: Bielefeld
-street: "Weststraße"
-housenumber: 62
+street: Weststraße
+housenumber: "62"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-15:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:30-15:00
 website: ""

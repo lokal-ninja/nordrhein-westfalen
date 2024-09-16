@@ -1,11 +1,11 @@
 id: 176009616
-type: way
+type: node
 latitude: 51.45973
 longitude: 7.00074
 postcode: "45127"
 city: Essen
-street: "Altendorfer Straße"
-housenumber: 2
+street: Altendorfer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.com/de/de/store/essen"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.com/de/de/store/essen

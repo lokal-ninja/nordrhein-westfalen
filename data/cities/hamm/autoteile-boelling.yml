@@ -1,11 +1,11 @@
 id: 108552345
-type: way
+type: node
 latitude: 51.66479
 longitude: 7.80928
 postcode: "59063"
 city: Hamm
-street: "Klutestraße"
-housenumber: 3
-phone: "+49 2381 950530"
+street: Klutestraße
+housenumber: "3"
+phone: +49 2381 950530
 opening_hours: ""
-website: "https://www.boelling-hamm.com/"
+website: https://www.boelling-hamm.com/

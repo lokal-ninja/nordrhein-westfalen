@@ -1,11 +1,11 @@
 id: 899156903
-type: way
+type: node
 latitude: 51.48624
 longitude: 7.06241
 postcode: "45309"
 city: Essen
-street: "Saatbruchstraße"
-housenumber: 55
+street: Saatbruchstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

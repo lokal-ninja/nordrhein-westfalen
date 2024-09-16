@@ -4,8 +4,9 @@ latitude: 51.49161
 longitude: 8.43087
 postcode: "59602"
 city: Rüthen
-street: "Burgstraße"
-housenumber: 3
-phone: "+49 2952 2664"
-opening_hours: "Tu-Th 08:00-19:00 nach Vereinbarung; Fr 08:00-12:30 nach Vereinbarung, Fr 14:00-19:30; PH off"
-website: "https://www.stfriseure.de"
+street: Burgstraße
+housenumber: "3"
+phone: +49 2952 2664
+opening_hours: Tu-Th 08:00-19:00 "nach Vereinbarung"; Fr 08:00-12:30 "nach Vereinbarung",
+    Fr 14:00-19:30; PH off
+website: https://www.stfriseure.de

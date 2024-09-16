@@ -1,11 +1,11 @@
 id: 93378380
-type: way
+type: node
 latitude: 50.64306
 longitude: 6.18956
 postcode: "52159"
 city: Roetgen
-street: "Bundesstraße"
-housenumber: 53
+street: Bundesstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

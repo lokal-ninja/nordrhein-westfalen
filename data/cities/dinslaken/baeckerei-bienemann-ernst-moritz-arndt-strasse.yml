@@ -4,8 +4,8 @@ latitude: 51.5705
 longitude: 6.72124
 postcode: "46537"
 city: Dinslaken
-street: "Ernst-Moritz-Arndt-Straße"
-housenumber: 23
+street: Ernst-Moritz-Arndt-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su 07:00-11:00"
-website: "https://www.bienemann.nrw/backbetriebe/"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su 07:00-11:00
+website: https://www.bienemann.nrw/backbetriebe/

@@ -1,11 +1,11 @@
 id: 132705751
-type: way
+type: node
 latitude: 51.17004
 longitude: 7.96726
 postcode: "57413"
 city: Finnentrop
-street: "Bamenohler Straße"
-housenumber: 196
+street: Bamenohler Straße
+housenumber: "196"
 phone: ""
 opening_hours: ""
-website: "http://dellentechnik-bartsch.de"
+website: http://dellentechnik-bartsch.de

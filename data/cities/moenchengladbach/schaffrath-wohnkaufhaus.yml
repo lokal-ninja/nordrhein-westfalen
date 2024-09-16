@@ -1,11 +1,11 @@
 id: 24259687
-type: way
+type: node
 latitude: 51.18265
 longitude: 6.44518
 postcode: "41065"
 city: Mönchengladbach
-street: "Theodor-Heuss-Straße"
-housenumber: 99
-phone: "+49 2161 2420"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.schaffrath.com/"
+street: Theodor-Heuss-Straße
+housenumber: "99"
+phone: +49 2161 2420
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.schaffrath.com/

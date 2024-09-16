@@ -1,11 +1,11 @@
 id: 259607391
-type: way
+type: node
 latitude: 51.98448
 longitude: 7.78601
 postcode: "48291"
 city: Telgte
-street: "Markt"
-housenumber: 2
+street: Markt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-13:30"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-13:30
 website: ""

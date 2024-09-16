@@ -4,8 +4,8 @@ latitude: 51.49356
 longitude: 7.49595
 postcode: "44263"
 city: Dortmund
-street: "Willem-van-Vloten-Straße"
-housenumber: 29
-phone: "+49 1511 4323967"
-opening_hours: "Sa 10:00-18:00"
-website: "https://tableandco.de/"
+street: Willem-van-Vloten-Straße
+housenumber: "29"
+phone: +49 1511 4323967
+opening_hours: Sa 10:00-18:00
+website: https://tableandco.de/

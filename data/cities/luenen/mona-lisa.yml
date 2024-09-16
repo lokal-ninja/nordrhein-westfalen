@@ -1,11 +1,11 @@
 id: 146397886
-type: way
+type: node
 latitude: 51.59337
 longitude: 7.55018
 postcode: "44532"
 city: Lünen
-street: "Preußenstraße"
-housenumber: 59
+street: Preußenstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 32891354
-type: way
+type: node
 latitude: 51.06868
 longitude: 6.99823
 postcode: "51379"
 city: Leverkusen
-street: "Bonner Straße"
-housenumber: 7
+street: Bonner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

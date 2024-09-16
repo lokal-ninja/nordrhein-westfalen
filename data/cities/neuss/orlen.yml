@@ -1,11 +1,11 @@
 id: 95409684
-type: way
+type: node
 latitude: 51.18452
 longitude: 6.71949
 postcode: "41468"
 city: Neuss
-street: "Kölner Straße"
-housenumber: 270
-phone: "+49 2131 150677"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
-website: "http://www.startankstellen.de/"
+street: Kölner Straße
+housenumber: "270"
+phone: +49 2131 150677
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
+website: http://www.startankstellen.de/

@@ -4,8 +4,8 @@ latitude: 51.43863
 longitude: 7.33688
 postcode: "58452"
 city: Witten
-street: "Ruhrstraße"
-housenumber: 6
+street: Ruhrstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-14:00; Su 07:00-12:00"
+opening_hours: Mo-Fr 05:30-19:00; Sa 05:30-14:00; Su 07:00-12:00
 website: ""

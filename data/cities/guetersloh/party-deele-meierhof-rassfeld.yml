@@ -1,11 +1,11 @@
 id: 130590611
-type: way
+type: node
 latitude: 51.92443
 longitude: 8.36689
 postcode: "33330"
 city: Gütersloh
-street: "Meier-zu-Rassfeld-Weg"
-housenumber: 15
+street: Meier-zu-Rassfeld-Weg
+housenumber: "15"
 phone: ""
-opening_hours: "Buchbar"
+opening_hours: '"Buchbar"'
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.08936
 longitude: 6.58923
 postcode: "41515"
 city: Grevenbroich
-street: "Ostwall"
-housenumber: 12
+street: Ostwall
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Tu 09:00-13:00,13:30-16:00; We 07:30-13:00,13:30-16:00; Th 09:00-13:00,13:30-18:00; Fr 07:30-13:00"
+opening_hours: Mo,Tu 09:00-13:00,13:30-16:00; We 07:30-13:00,13:30-16:00; Th 09:00-13:00,13:30-18:00;
+    Fr 07:30-13:00
 website: ""

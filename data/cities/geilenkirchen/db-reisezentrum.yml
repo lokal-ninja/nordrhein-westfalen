@@ -4,8 +4,9 @@ latitude: 50.96115
 longitude: 6.12424
 postcode: "52511"
 city: Geilenkirchen
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: "+4924512413"
-opening_hours: "Mo 07:00-12:15,13:00-16:30; Tu-Mi 09:00-12:15,13:00-16:30; Do 09:00-12:15,13:00-18:00; Fr 09:00-12:15,13:00-16:30; Sa, Su, PH off"
-website: "https://www.bahnhof.de/geilenkirchen"
+opening_hours: Mo 07:00-12:15,13:00-16:30; Tu-Mi 09:00-12:15,13:00-16:30; Do 09:00-12:15,13:00-18:00;
+    Fr 09:00-12:15,13:00-16:30; Sa, Su, PH off
+website: https://www.bahnhof.de/geilenkirchen

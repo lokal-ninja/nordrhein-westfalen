@@ -4,8 +4,8 @@ latitude: 50.77223
 longitude: 6.08505
 postcode: "52062"
 city: Aachen
-street: "Kapuzinergraben"
-housenumber: 40
+street: Kapuzinergraben
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.lederwaren-schmitz.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.lederwaren-schmitz.de/

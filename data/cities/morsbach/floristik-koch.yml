@@ -1,11 +1,11 @@
 id: 130711161
-type: way
+type: node
 latitude: 50.86647
 longitude: 7.72718
 postcode: "51597"
 city: Morsbach
-street: "Heinrich-Halberstadt-Weg"
-housenumber: 4
-phone: "+49 2294 340"
+street: Heinrich-Halberstadt-Weg
+housenumber: "4"
+phone: +49 2294 340
 opening_hours: ""
-website: "https://www.floristik-koch.de/"
+website: https://www.floristik-koch.de/

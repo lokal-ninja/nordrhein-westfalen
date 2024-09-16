@@ -4,8 +4,8 @@ latitude: 51.42366
 longitude: 7.28104
 postcode: "58456"
 city: Witten
-street: "Wittener Straße"
-housenumber: 9
+street: Wittener Straße
+housenumber: "9"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-24:00"
+opening_hours: PH,Mo-Su 06:00-24:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.17321
 longitude: 7.08517
 postcode: "42651"
 city: Solingen
-street: "Mühlenplatz"
-housenumber: 1
+street: Mühlenplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

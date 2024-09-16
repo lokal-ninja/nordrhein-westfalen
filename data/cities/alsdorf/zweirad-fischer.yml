@@ -4,8 +4,8 @@ latitude: 50.8732
 longitude: 6.16135
 postcode: "52477"
 city: Alsdorf
-street: "Broicher Straße"
-housenumber: 3
-phone: "+49 2404 12 23"
+street: Broicher Straße
+housenumber: "3"
+phone: +49 2404 12 23
 opening_hours: ""
-website: "http://www.zweiradhaus-fischer.de/fischer/index.php?page=home"
+website: http://www.zweiradhaus-fischer.de/fischer/index.php?page=home

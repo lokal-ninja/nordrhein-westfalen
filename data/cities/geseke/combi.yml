@@ -1,11 +1,11 @@
 id: 228422816
-type: way
+type: node
 latitude: 51.64053
 longitude: 8.50562
 postcode: "59590"
 city: Geseke
-street: "Lüdische Straße"
-housenumber: 29
+street: Lüdische Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

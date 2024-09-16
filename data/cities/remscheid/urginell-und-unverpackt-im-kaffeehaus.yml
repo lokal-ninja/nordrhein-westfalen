@@ -1,11 +1,11 @@
 id: 254179485
-type: way
+type: node
 latitude: 51.18372
 longitude: 7.17968
 postcode: "42853"
 city: Remscheid
-street: "Hindenburgstraße"
-housenumber: 45
-phone: "+491575 6373704"
-opening_hours: "Tu-We 10:00-18:00,Fr 10:00-18:00,Sa 09:00-15:00"
-website: "https://urginell-unverpackt.de/"
+street: Hindenburgstraße
+housenumber: "45"
+phone: +491575 6373704
+opening_hours: Tu-We 10:00-18:00,Fr 10:00-18:00,Sa 09:00-15:00
+website: https://urginell-unverpackt.de/

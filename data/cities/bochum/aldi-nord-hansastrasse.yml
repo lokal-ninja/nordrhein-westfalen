@@ -1,11 +1,11 @@
 id: 329183043
-type: way
+type: node
 latitude: 51.48377
 longitude: 7.14763
 postcode: "44866"
 city: Bochum
-street: "Hansastraße"
-housenumber: 41
+street: Hansastraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

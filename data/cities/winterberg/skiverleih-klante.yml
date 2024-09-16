@@ -4,8 +4,8 @@ latitude: 51.19909
 longitude: 8.52395
 postcode: "59955"
 city: Winterberg
-street: "Remmeswiese"
-housenumber: 10
-phone: "+49 2981 919 92 22"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://ski-klante.de/"
+street: Remmeswiese
+housenumber: "10"
+phone: +49 2981 919 92 22
+opening_hours: Mo-Su 08:00-18:00
+website: https://ski-klante.de/

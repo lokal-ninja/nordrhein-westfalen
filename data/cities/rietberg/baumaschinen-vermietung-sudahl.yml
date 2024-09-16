@@ -1,11 +1,11 @@
 id: 625001548
-type: way
+type: node
 latitude: 51.76968
 longitude: 8.38142
 postcode: "33397"
 city: Rietberg
-street: "Siemensstraße"
-housenumber: 23
+street: Siemensstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

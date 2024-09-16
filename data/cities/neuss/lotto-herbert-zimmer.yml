@@ -4,8 +4,8 @@ latitude: 51.15174
 longitude: 6.73477
 postcode: "41469"
 city: Neuss
-street: "Lessingplatz"
-housenumber: 3
-phone: "+49 2137 2944"
-opening_hours: "Mo-Th 07:15-13:00,15:00-18:30; Fr 07:15-18:30; Sa 07:15-13:00"
+street: Lessingplatz
+housenumber: "3"
+phone: +49 2137 2944
+opening_hours: Mo-Th 07:15-13:00,15:00-18:30; Fr 07:15-18:30; Sa 07:15-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.18826
 longitude: 6.40907
 postcode: "41069"
 city: Mönchengladbach
-street: "Hehner Straße"
-housenumber: 115
-phone: "+49 2161 931493"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00, PH off"
-website: "https://www.lucky-bike.de/fahrrad-moenchengladbach/"
+street: Hehner Straße
+housenumber: "115"
+phone: +49 2161 931493
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00, PH off
+website: https://www.lucky-bike.de/fahrrad-moenchengladbach/

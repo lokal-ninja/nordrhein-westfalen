@@ -1,11 +1,11 @@
 id: 25583118
-type: way
+type: node
 latitude: 52.07656
 longitude: 8.75268
 postcode: "32105"
 city: Bad Salzuflen
-street: "Hoffmannstraße"
-housenumber: 17
-phone: "+49 52 2218020"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Hoffmannstraße
+housenumber: "17"
+phone: +49 52 2218020
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

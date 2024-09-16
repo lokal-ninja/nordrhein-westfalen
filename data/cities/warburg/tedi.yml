@@ -4,8 +4,8 @@ latitude: 51.52963
 longitude: 9.0328
 postcode: "34414"
 city: Warburg
-street: "Kasseler Tor"
-housenumber: 10
-phone: "+4 9231 555770"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/stores/6821/de/NORDRHEIN-WESTFALEN/Warburg/Kasseler-Tor-10"
+street: Kasseler Tor
+housenumber: "10"
+phone: +4 9231 555770
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/stores/6821/de/NORDRHEIN-WESTFALEN/Warburg/Kasseler-Tor-10

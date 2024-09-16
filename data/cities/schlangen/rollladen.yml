@@ -1,11 +1,11 @@
 id: 217848006
-type: way
+type: node
 latitude: 51.80395
 longitude: 8.82145
 postcode: "33189"
 city: Schlangen
-street: "Gewerbepark"
-housenumber: 18
+street: Gewerbepark
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.rollladen-schlangen.de/"
+website: https://www.rollladen-schlangen.de/

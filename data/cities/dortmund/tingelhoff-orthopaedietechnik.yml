@@ -1,11 +1,11 @@
 id: 53813355
-type: way
+type: node
 latitude: 51.51012
 longitude: 7.50643
 postcode: "44141"
 city: Dortmund
-street: "Bielefelder Straße"
-housenumber: 10
-phone: "+49 231 5622410"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.tingelhoff.de/"
+street: Bielefelder Straße
+housenumber: "10"
+phone: +49 231 5622410
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.tingelhoff.de/

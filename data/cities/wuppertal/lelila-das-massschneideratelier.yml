@@ -4,8 +4,8 @@ latitude: 51.26045
 longitude: 7.13726
 postcode: "42105"
 city: Wuppertal
-street: "Brunnenstraße"
-housenumber: 32
-phone: "+49 176 435 768 02"
-opening_hours: "auf Anfrage"
-website: "http://www.lelila.eu"
+street: Brunnenstraße
+housenumber: "32"
+phone: +49 176 435 768 02
+opening_hours: '"auf Anfrage"'
+website: http://www.lelila.eu

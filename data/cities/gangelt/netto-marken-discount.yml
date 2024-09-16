@@ -1,11 +1,11 @@
 id: 39061165
-type: way
+type: node
 latitude: 50.99377
 longitude: 5.98543
 postcode: "52538"
 city: Gangelt
-street: "Heinrich-Josef-Otten-Straße"
-housenumber: 1
+street: Heinrich-Josef-Otten-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

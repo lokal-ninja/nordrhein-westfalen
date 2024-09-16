@@ -4,8 +4,8 @@ latitude: 52.33869
 longitude: 8.741
 postcode: "32479"
 city: Hille
-street: "Mindener Straße"
-housenumber: 42
-phone: "+49 5703 3452"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:30-13:00"
-website: "https://www.heidemeier-kfz.de/"
+street: Mindener Straße
+housenumber: "42"
+phone: +49 5703 3452
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:30-13:00
+website: https://www.heidemeier-kfz.de/

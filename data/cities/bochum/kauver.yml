@@ -4,8 +4,8 @@ latitude: 51.45514
 longitude: 7.25631
 postcode: "44801"
 city: Bochum
-street: "Semperstraße"
-housenumber: 20
+street: Semperstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://kauver.de/maerkte/kauver-bochum/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://kauver.de/maerkte/kauver-bochum/

@@ -1,11 +1,11 @@
 id: 190716407
-type: way
+type: node
 latitude: 50.71412
 longitude: 6.43271
 postcode: "52372"
 city: Kreuzau
-street: "Rödderweg"
-housenumber: 17
-phone: "+49 2422 5227"
-opening_hours: "Mo,We,Fr 14:00-19:00"
+street: Rödderweg
+housenumber: "17"
+phone: +49 2422 5227
+opening_hours: Mo,We,Fr 14:00-19:00
 website: ""

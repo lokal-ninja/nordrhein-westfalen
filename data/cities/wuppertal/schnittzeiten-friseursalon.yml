@@ -4,8 +4,8 @@ latitude: 51.26024
 longitude: 7.14838
 postcode: "42107"
 city: Wuppertal
-street: "Wülfingstraße"
-housenumber: 23
-phone: "+49 202 44 76 06"
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 10:00-19:30; Sa 08:00-14:00"
+street: Wülfingstraße
+housenumber: "23"
+phone: +49 202 44 76 06
+opening_hours: Tu,We,Fr 09:00-18:00; Th 10:00-19:30; Sa 08:00-14:00
 website: ""

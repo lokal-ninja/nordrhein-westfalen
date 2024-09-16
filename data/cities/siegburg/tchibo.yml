@@ -4,8 +4,8 @@ latitude: 50.7978
 longitude: 7.20899
 postcode: "53721"
 city: Siegburg
-street: "Holzgasse"
-housenumber: 9
-phone: "+49 180 5829000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.tchibo.de/m/tchibo-filiale-holzgasse-9-53721-siegburg-a1412458.html"
+street: Holzgasse
+housenumber: "9"
+phone: +49 180 5829000
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.tchibo.de/m/tchibo-filiale-holzgasse-9-53721-siegburg-a1412458.html

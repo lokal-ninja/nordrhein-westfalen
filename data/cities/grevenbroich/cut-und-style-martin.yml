@@ -1,11 +1,11 @@
 id: 268390213
-type: way
+type: node
 latitude: 51.12815
 longitude: 6.62468
 postcode: "41516"
 city: Grevenbroich
-street: "Neusser Straße"
-housenumber: 13
-phone: "+49 2182 3774"
+street: Neusser Straße
+housenumber: "13"
+phone: +49 2182 3774
 opening_hours: ""
 website: ""

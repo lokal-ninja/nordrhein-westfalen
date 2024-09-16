@@ -4,8 +4,8 @@ latitude: 50.73972
 longitude: 7.08487
 postcode: "53119"
 city: Bonn
-street: "Vorgebirgsstraße"
-housenumber: 43
-phone: "+49 178 6114861"
-opening_hours: "Mo 19:00-20:00,Th 18:00-20:00"
-website: "https://leihbarbonn.de"
+street: Vorgebirgsstraße
+housenumber: "43"
+phone: +49 178 6114861
+opening_hours: Mo 19:00-20:00,Th 18:00-20:00
+website: https://leihbarbonn.de

@@ -1,11 +1,11 @@
 id: 173864501
-type: way
+type: node
 latitude: 50.78573
 longitude: 6.15157
 postcode: "52080"
 city: Aachen
-street: "Wolfsbendenstraße"
+street: Wolfsbendenstraße
 housenumber: 5b
-phone: "+49 241 952233"
-opening_hours: "Fr 10:00-13:00, Th,Fr 15:00-18:30, Sa 10:00-14:00"
-website: "https://www.bodega-weinhandel.de/"
+phone: +49 241 952233
+opening_hours: Fr 10:00-13:00, Th,Fr 15:00-18:30, Sa 10:00-14:00
+website: https://www.bodega-weinhandel.de/

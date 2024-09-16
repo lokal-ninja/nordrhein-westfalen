@@ -1,11 +1,11 @@
 id: 262815435
-type: way
+type: node
 latitude: 50.90745
 longitude: 6.97056
 postcode: "50968"
 city: Köln
-street: "Goltsteinstraße"
+street: Goltsteinstraße
 housenumber: 91b
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

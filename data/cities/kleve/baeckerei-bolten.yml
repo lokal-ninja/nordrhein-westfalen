@@ -4,8 +4,8 @@ latitude: 51.7849
 longitude: 6.13571
 postcode: "47533"
 city: Kleve
-street: "Hagsche Straße"
-housenumber: 33
+street: Hagsche Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "https://www.baeckerei-bolten.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: https://www.baeckerei-bolten.de/

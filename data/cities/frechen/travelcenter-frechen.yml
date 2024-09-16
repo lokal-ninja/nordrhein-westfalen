@@ -4,8 +4,8 @@ latitude: 50.90925
 longitude: 6.80521
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 152
-phone: "+49 2234 - 688911"
+street: Hauptstraße
+housenumber: "152"
+phone: +49 2234 - 688911
 opening_hours: ""
-website: "http://www.travelcenter-frechen.de/index.html"
+website: http://www.travelcenter-frechen.de/index.html

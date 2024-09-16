@@ -1,11 +1,11 @@
 id: 990484284
-type: way
+type: node
 latitude: 51.53691
 longitude: 7.22539
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://woolworth.de/stores/store/1259-herne-bahnhofstrasse-7"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://woolworth.de/stores/store/1259-herne-bahnhofstrasse-7

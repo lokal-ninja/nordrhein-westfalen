@@ -1,11 +1,11 @@
 id: 136537134
-type: way
+type: node
 latitude: 51.38264
 longitude: 7.44909
 postcode: "58089"
 city: Hagen
-street: "Becheltestraße"
-housenumber: 30
+street: Becheltestraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""

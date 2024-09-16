@@ -1,11 +1,11 @@
 id: 180298980
-type: way
+type: node
 latitude: 51.57221
 longitude: 7.21217
 postcode: "45661"
 city: Recklinghausen
-street: "Bochumer Straße"
-housenumber: 138
+street: Bochumer Straße
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

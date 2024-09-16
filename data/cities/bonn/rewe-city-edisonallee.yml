@@ -4,8 +4,8 @@ latitude: 50.69707
 longitude: 7.05613
 postcode: "53125"
 city: Bonn
-street: "Edisonallee"
-housenumber: 1
+street: Edisonallee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
 website: ""

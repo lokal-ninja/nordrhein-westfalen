@@ -1,11 +1,11 @@
 id: 306205873
-type: way
+type: node
 latitude: 51.76987
 longitude: 7.92183
 postcode: "59229"
 city: Ahlen
-street: "Voltastraße"
-housenumber: 52
+street: Voltastraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

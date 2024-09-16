@@ -1,11 +1,11 @@
 id: 33680087
-type: way
+type: node
 latitude: 50.76666
 longitude: 6.94781
 postcode: "53332"
 city: Bornheim
-street: "Donnerbachweg"
-housenumber: 2
-phone: "+49 2227 9260634"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/bornheim-waldorf/1478129/rewe-markt-donnerbachweg-2/"
+street: Donnerbachweg
+housenumber: "2"
+phone: +49 2227 9260634
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/bornheim-waldorf/1478129/rewe-markt-donnerbachweg-2/

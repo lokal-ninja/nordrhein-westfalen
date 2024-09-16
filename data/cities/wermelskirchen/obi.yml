@@ -1,11 +1,11 @@
 id: 54187876
-type: way
+type: node
 latitude: 51.13461
 longitude: 7.19479
 postcode: "42929"
 city: Wermelskirchen
-street: "Biberweg"
-housenumber: 1
-phone: "+49 2196 72180"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.obi.de/baumarkt/wermelskirchen/"
+street: Biberweg
+housenumber: "1"
+phone: +49 2196 72180
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.obi.de/baumarkt/wermelskirchen/

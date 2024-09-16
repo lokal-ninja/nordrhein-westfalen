@@ -4,8 +4,8 @@ latitude: 51.19387
 longitude: 7.01469
 postcode: "42781"
 city: Haan
-street: "Kaiserstraße"
-housenumber: 64
-phone: "+49 2129 54466"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-13:00"
-website: "https://friseur-haan.de"
+street: Kaiserstraße
+housenumber: "64"
+phone: +49 2129 54466
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-13:00
+website: https://friseur-haan.de

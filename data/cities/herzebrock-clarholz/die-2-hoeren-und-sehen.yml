@@ -1,11 +1,11 @@
 id: 186205055
-type: way
+type: node
 latitude: 51.8815
 longitude: 8.23532
 postcode: "33442"
 city: Herzebrock-Clarholz
-street: "Clarholzer Straße"
-housenumber: 49
-phone: "+49 5245 9213541"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 9:00-13:00; PH off"
-website: "https://www.diezwei-hoerenundsehen.de/"
+street: Clarholzer Straße
+housenumber: "49"
+phone: +49 5245 9213541
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:30; Sa 9:00-13:00; PH off
+website: https://www.diezwei-hoerenundsehen.de/

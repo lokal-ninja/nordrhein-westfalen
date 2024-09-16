@@ -4,8 +4,8 @@ latitude: 51.23857
 longitude: 6.78008
 postcode: "40477"
 city: Düsseldorf
-street: "Nordstraße"
-housenumber: 67
-phone: "+49 211 49 11 444"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00, Su 07:00-14:00"
-website: "https://baeckerei-behmer.de/"
+street: Nordstraße
+housenumber: "67"
+phone: +49 211 49 11 444
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-16:00, Su 07:00-14:00
+website: https://baeckerei-behmer.de/

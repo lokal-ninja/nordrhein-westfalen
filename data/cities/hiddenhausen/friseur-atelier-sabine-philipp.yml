@@ -1,11 +1,11 @@
 id: 216001626
-type: way
+type: node
 latitude: 52.13576
 longitude: 8.65767
 postcode: "32120"
 city: Hiddenhausen
-street: "Bünder Straße"
-housenumber: 23
-phone: "+49 5221 690009"
+street: Bünder Straße
+housenumber: "23"
+phone: +49 5221 690009
 opening_hours: ""
 website: ""

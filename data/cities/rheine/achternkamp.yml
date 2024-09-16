@@ -1,11 +1,11 @@
 id: 233172880
-type: way
+type: node
 latitude: 52.28251
 longitude: 7.46855
 postcode: "48429"
 city: Rheine
-street: "Friedhofstraße"
-housenumber: 129
+street: Friedhofstraße
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

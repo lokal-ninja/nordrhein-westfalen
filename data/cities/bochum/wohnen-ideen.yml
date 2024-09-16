@@ -4,8 +4,8 @@ latitude: 51.48488
 longitude: 7.2187
 postcode: "44787"
 city: Bochum
-street: "Nordring"
-housenumber: 71
+street: Nordring
+housenumber: "71"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

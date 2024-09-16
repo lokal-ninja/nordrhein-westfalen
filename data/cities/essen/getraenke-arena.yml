@@ -1,11 +1,11 @@
 id: 113453671
-type: way
+type: node
 latitude: 51.44758
 longitude: 6.96722
 postcode: "45145"
 city: Essen
-street: "Rüdesheimer Straße"
-housenumber: 11
+street: Rüdesheimer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

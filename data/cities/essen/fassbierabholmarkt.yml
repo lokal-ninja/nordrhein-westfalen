@@ -1,11 +1,11 @@
 id: 305796587
-type: way
+type: node
 latitude: 51.46524
 longitude: 7.04554
 postcode: "45139"
 city: Essen
-street: "Elisabethstraße"
-housenumber: 97
+street: Elisabethstraße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

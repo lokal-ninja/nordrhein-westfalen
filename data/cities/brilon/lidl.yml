@@ -1,11 +1,11 @@
 id: 103690313
-type: way
+type: node
 latitude: 51.40383
 longitude: 8.5711
 postcode: "59929"
 city: Brilon
-street: "Möhnestraße"
-housenumber: 22
+street: Möhnestraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

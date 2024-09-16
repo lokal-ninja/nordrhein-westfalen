@@ -1,11 +1,11 @@
 id: 384647510
-type: way
+type: node
 latitude: 51.79963
 longitude: 8.01172
 postcode: "59269"
 city: Beckum
-street: "Hubertusstraße"
-housenumber: 108
+street: Hubertusstraße
+housenumber: "108"
 phone: ""
 opening_hours: ""
-website: "http://beckumer-estrichbau.de/"
+website: http://beckumer-estrichbau.de/

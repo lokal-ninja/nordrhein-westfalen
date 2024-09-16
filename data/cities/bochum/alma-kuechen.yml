@@ -4,8 +4,8 @@ latitude: 51.47424
 longitude: 7.23228
 postcode: "44789"
 city: Bochum
-street: "Oskar-Hoffmann-Straße"
-housenumber: 154
-phone: "+49 234 937380"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 9:30-16:00; PH off"
-website: "https://www.alma-kuechen.de/kuechenstudios/bochum/"
+street: Oskar-Hoffmann-Straße
+housenumber: "154"
+phone: +49 234 937380
+opening_hours: Tu-Fr 09:30-19:00; Sa 9:30-16:00; PH off
+website: https://www.alma-kuechen.de/kuechenstudios/bochum/

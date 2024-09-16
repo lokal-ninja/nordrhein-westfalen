@@ -1,11 +1,11 @@
 id: 1212641645
-type: way
+type: node
 latitude: 52.20442
 longitude: 8.79772
 postcode: "32545"
 city: Bad Oeynhausen
-street: "Klosterstraße"
+street: Klosterstraße
 housenumber: 6-8a
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off"
-website: "https://www.hagemeyer.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off
+website: https://www.hagemeyer.de/

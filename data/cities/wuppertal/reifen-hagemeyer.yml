@@ -4,8 +4,8 @@ latitude: 51.25257
 longitude: 7.13589
 postcode: "42103"
 city: Wuppertal
-street: "Gesundheitstraße"
-housenumber: 138
-phone: "+49 202 302636"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "http://www.hagemeyer-reifen.de/"
+street: Gesundheitstraße
+housenumber: "138"
+phone: +49 202 302636
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: http://www.hagemeyer-reifen.de/

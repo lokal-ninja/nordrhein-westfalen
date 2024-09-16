@@ -4,8 +4,8 @@ latitude: 50.74507
 longitude: 7.13972
 postcode: "53229"
 city: Bonn
-street: "Siegburger Straße"
-housenumber: 145
-phone: "+49 228 3381060"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-12:30"
-website: "https://www.stadtbrotbaecker-rott.de/"
+street: Siegburger Straße
+housenumber: "145"
+phone: +49 228 3381060
+opening_hours: Mo-Fr 06:00-13:00; Sa 06:00-12:30
+website: https://www.stadtbrotbaecker-rott.de/

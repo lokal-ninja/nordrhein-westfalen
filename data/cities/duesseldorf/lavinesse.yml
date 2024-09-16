@@ -4,8 +4,8 @@ latitude: 51.22851
 longitude: 6.80178
 postcode: "40233"
 city: Düsseldorf
-street: "Lindenstraße"
-housenumber: 77
-phone: "+49 211 23 04 40 8"
-opening_hours: "We-Fr 12:00-19:00; Sa 11:00-16:00"
-website: "https://www.lavinesse.de/"
+street: Lindenstraße
+housenumber: "77"
+phone: +49 211 23 04 40 8
+opening_hours: We-Fr 12:00-19:00; Sa 11:00-16:00
+website: https://www.lavinesse.de/

@@ -1,11 +1,11 @@
 id: 263060293
-type: way
+type: node
 latitude: 50.83901
 longitude: 7.33274
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

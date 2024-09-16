@@ -1,11 +1,11 @@
 id: 1231760606
-type: way
+type: node
 latitude: 51.60397
 longitude: 6.91946
 postcode: "46244"
 city: Bottrop
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

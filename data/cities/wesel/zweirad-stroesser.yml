@@ -1,11 +1,11 @@
 id: 226917102
-type: way
+type: node
 latitude: 51.67316
 longitude: 6.64693
 postcode: "46485"
 city: Wesel
-street: "Feldstraße"
-housenumber: 24
-phone: "+49 (0) 281 56644"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+street: Feldstraße
+housenumber: "24"
+phone: +49 (0) 281 56644
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

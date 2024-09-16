@@ -4,8 +4,9 @@ latitude: 51.37404
 longitude: 7.69987
 postcode: "58636"
 city: Iserlohn
-street: "Wermingser Straße"
-housenumber: 22
-phone: "+49 2371 28424"
-opening_hours: "Tu, Fr 09:00-18:00; We, Th 09:00-19:00; Sa 08:00-14:00; Mo, Su, PH off"
-website: "https://www.haargenau-iserlohn.de/"
+street: Wermingser Straße
+housenumber: "22"
+phone: +49 2371 28424
+opening_hours: Tu, Fr 09:00-18:00; We, Th 09:00-19:00; Sa 08:00-14:00; Mo, Su, PH
+    off
+website: https://www.haargenau-iserlohn.de/

@@ -4,8 +4,8 @@ latitude: 51.32537
 longitude: 6.96634
 postcode: "42579"
 city: Heiligenhaus
-street: "Hauptstraße"
-housenumber: 209
-phone: "+49 20566382"
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:30"
+street: Hauptstraße
+housenumber: "209"
+phone: +49 20566382
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:30
 website: ""

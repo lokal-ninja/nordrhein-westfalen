@@ -1,11 +1,11 @@
 id: 97383748
-type: way
+type: node
 latitude: 51.45328
 longitude: 7.40162
 postcode: "58454"
 city: Witten
-street: "Friedrich-Ebert-Straße"
-housenumber: 116
+street: Friedrich-Ebert-Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-18:00; PH off"
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-18:00; PH off
 website: ""

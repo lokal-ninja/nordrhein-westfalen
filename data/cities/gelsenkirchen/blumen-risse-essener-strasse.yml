@@ -1,11 +1,11 @@
 id: 175584696
-type: way
+type: node
 latitude: 51.53851
 longitude: 7.0243
 postcode: "45899"
 city: Gelsenkirchen
-street: "Essener Straße"
-housenumber: 9
-phone: "+49 209 512016"
+street: Essener Straße
+housenumber: "9"
+phone: +49 209 512016
 opening_hours: ""
-website: "https://www.blumenrisse.de/de/standorte/standort/Blumenladen-Gelsenkirchen_-_Horst-871.php"
+website: https://www.blumenrisse.de/de/standorte/standort/Blumenladen-Gelsenkirchen_-_Horst-871.php

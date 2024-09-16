@@ -4,8 +4,8 @@ latitude: 51.45065
 longitude: 7.96524
 postcode: "59755"
 city: Arnsberg
-street: "Hauptstraße"
-housenumber: 54
+street: Hauptstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.samoon.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.samoon.de/

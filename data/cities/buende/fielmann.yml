@@ -4,8 +4,8 @@ latitude: 52.19727
 longitude: 8.5832
 postcode: "32257"
 city: Bünde
-street: "Eschstraße"
-housenumber: 17
-phone: "+49 5223 184744"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.fielmann.de/"
+street: Eschstraße
+housenumber: "17"
+phone: +49 5223 184744
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.fielmann.de/

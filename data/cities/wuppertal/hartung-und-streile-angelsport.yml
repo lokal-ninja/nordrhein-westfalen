@@ -4,8 +4,8 @@ latitude: 51.26129
 longitude: 7.17239
 postcode: "42285"
 city: Wuppertal
-street: "Friedrich-Engels-Allee"
-housenumber: 172
+street: Friedrich-Engels-Allee
+housenumber: "172"
 phone: ""
 opening_hours: ""
-website: "https://www.angeln-wuppertal.de/index.html"
+website: https://www.angeln-wuppertal.de/index.html

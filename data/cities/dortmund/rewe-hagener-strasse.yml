@@ -1,11 +1,11 @@
 id: 31278649
-type: way
+type: node
 latitude: 51.46947
 longitude: 7.46087
 postcode: "44225"
 city: Dortmund
-street: "Hagener Straße"
-housenumber: 150
-phone: "+49 231 730003"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+street: Hagener Straße
+housenumber: "150"
+phone: +49 231 730003
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

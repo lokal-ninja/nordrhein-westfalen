@@ -4,8 +4,8 @@ latitude: 50.68377
 longitude: 7.15936
 postcode: "53173"
 city: Bonn
-street: "Moltkestraße"
-housenumber: 43
-phone: "+49 228 352855"
-opening_hours: "Mo-Su 06:00-19:30"
-website: "https://filialfinder.ugde.com/poi/eckert-bonn-bad-godesberg/"
+street: Moltkestraße
+housenumber: "43"
+phone: +49 228 352855
+opening_hours: Mo-Su 06:00-19:30
+website: https://filialfinder.ugde.com/poi/eckert-bonn-bad-godesberg/

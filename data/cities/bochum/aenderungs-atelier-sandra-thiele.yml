@@ -4,8 +4,8 @@ latitude: 51.47913
 longitude: 7.21275
 postcode: "44793"
 city: Bochum
-street: "Rottstraße"
-housenumber: 9
-phone: "+49 234 12601"
-opening_hours: "Mo-Fr 10:00-17:00; PH off"
+street: Rottstraße
+housenumber: "9"
+phone: +49 234 12601
+opening_hours: Mo-Fr 10:00-17:00; PH off
 website: ""

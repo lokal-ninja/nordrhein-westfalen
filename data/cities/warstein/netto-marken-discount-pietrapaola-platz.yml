@@ -1,11 +1,11 @@
 id: 133963588
-type: way
+type: node
 latitude: 51.48575
 longitude: 8.33852
 postcode: "59581"
 city: Warstein
-street: "Pietrapaola-Platz"
-housenumber: 11
+street: Pietrapaola-Platz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

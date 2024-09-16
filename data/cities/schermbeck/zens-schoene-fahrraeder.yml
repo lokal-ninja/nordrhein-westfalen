@@ -1,11 +1,11 @@
 id: 164820220
-type: way
+type: node
 latitude: 51.68372
 longitude: 6.87093
 postcode: "46514"
 city: Schermbeck
-street: "Im Heetwinkel"
-housenumber: 42
+street: Im Heetwinkel
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "http://www.schoenefahrraeder.de"
+website: http://www.schoenefahrraeder.de

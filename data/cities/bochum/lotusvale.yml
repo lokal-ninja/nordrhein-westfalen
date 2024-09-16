@@ -4,8 +4,8 @@ latitude: 51.48633
 longitude: 7.21415
 postcode: "44787"
 city: Bochum
-street: "Herner Straße"
-housenumber: 7
+street: Herner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 15:00-20:00; Fr 15:00-21:00; Sa 11:30-16:00; Su,PH off"
-website: "https://lotusvale-bochum.de/"
+opening_hours: Mo-Th 15:00-20:00; Fr 15:00-21:00; Sa 11:30-16:00; Su,PH off
+website: https://lotusvale-bochum.de/

@@ -4,8 +4,8 @@ latitude: 51.20546
 longitude: 6.8335
 postcode: "40231"
 city: Düsseldorf
-street: "Zeppelinstraße"
-housenumber: 42
-phone: "+49 211 69 50 95 29"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+street: Zeppelinstraße
+housenumber: "42"
+phone: +49 211 69 50 95 29
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

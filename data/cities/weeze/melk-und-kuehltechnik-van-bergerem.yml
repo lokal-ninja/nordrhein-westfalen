@@ -1,11 +1,11 @@
 id: 104789766
-type: way
+type: node
 latitude: 51.62244
 longitude: 6.19824
 postcode: "47652"
 city: Weeze
-street: "Holtumsweg"
-housenumber: 12
-phone: "+49-2837-91768"
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "http://www.melk-kuehltechnik.de"
+street: Holtumsweg
+housenumber: "12"
+phone: +49-2837-91768
+opening_hours: Mo-Fr 08:00-12:00
+website: http://www.melk-kuehltechnik.de

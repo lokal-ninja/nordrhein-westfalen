@@ -1,11 +1,11 @@
 id: 27060851
-type: way
+type: node
 latitude: 51.37741
 longitude: 7.46153
 postcode: "58097"
 city: Hagen
-street: "Alexanderstraße"
-housenumber: 16
+street: Alexanderstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

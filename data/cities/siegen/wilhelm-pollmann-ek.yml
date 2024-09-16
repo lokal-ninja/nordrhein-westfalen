@@ -1,11 +1,11 @@
 id: 120867167
-type: way
+type: node
 latitude: 50.86864
 longitude: 8.00621
 postcode: "57072"
 city: Siegen
-street: "Schlachthausstraße"
-housenumber: 10
+street: Schlachthausstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00; PH off"
-website: "https://www.pollmann-fleisch.de/"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-16:00; PH off
+website: https://www.pollmann-fleisch.de/

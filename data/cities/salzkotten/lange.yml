@@ -4,8 +4,8 @@ latitude: 51.67208
 longitude: 8.60537
 postcode: "33154"
 city: Salzkotten
-street: "Lange Straße"
-housenumber: 28
+street: Lange Straße
+housenumber: "28"
 phone: "+4952586508"
-opening_hours: "Mo-Fr 6:00-18:00; Sa 6:00-13:00; Su 7:30-12:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/salzkotten-lange-strasse.php"
+opening_hours: Mo-Fr 6:00-18:00; Sa 6:00-13:00; Su 7:30-12:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/salzkotten-lange-strasse.php

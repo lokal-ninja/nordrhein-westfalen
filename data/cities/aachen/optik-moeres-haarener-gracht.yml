@@ -4,8 +4,8 @@ latitude: 50.79588
 longitude: 6.12717
 postcode: "52080"
 city: Aachen
-street: "Haarener Gracht"
-housenumber: 2
-phone: "+49 241 962062"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://optik-moeres.de/"
+street: Haarener Gracht
+housenumber: "2"
+phone: +49 241 962062
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://optik-moeres.de/

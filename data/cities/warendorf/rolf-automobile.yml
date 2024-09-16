@@ -4,8 +4,8 @@ latitude: 51.94271
 longitude: 8.00701
 postcode: "48231"
 city: Warendorf
-street: "Splieterstraße"
-housenumber: 66
-phone: "+49 2581 1000"
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00; Sa 08:30-12:30; PH off"
+street: Splieterstraße
+housenumber: "66"
+phone: +49 2581 1000
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00; Sa 08:30-12:30; PH off
 website: ""

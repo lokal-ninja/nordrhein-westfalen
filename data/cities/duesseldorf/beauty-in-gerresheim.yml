@@ -4,8 +4,8 @@ latitude: 51.23733
 longitude: 6.85293
 postcode: "40625"
 city: Düsseldorf
-street: "Von-Gahlen-Straße"
-housenumber: 1
-phone: "+49 177 36 84 616"
-opening_hours: "Termine nach Vereinbarung"
+street: Von-Gahlen-Straße
+housenumber: "1"
+phone: +49 177 36 84 616
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

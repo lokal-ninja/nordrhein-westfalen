@@ -4,8 +4,8 @@ latitude: 50.80524
 longitude: 6.48376
 postcode: "52349"
 city: Düren
-street: "Wirteltorplatz"
-housenumber: 11
+street: Wirteltorplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:30, Su off; PH off"
-website: "https://www.friseur-cutandstyle.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:30, Su off; PH off
+website: https://www.friseur-cutandstyle.de/

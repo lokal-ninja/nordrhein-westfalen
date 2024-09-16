@@ -4,8 +4,8 @@ latitude: 51.9842
 longitude: 7.78614
 postcode: "48291"
 city: Telgte
-street: "Emsstraße"
-housenumber: 1
-phone: "+49 2504 8897730"
-opening_hours: "Sa 10:00-16:00; Mo-Fr 10:00-18:30"
-website: "https://www.2-rad-hansen.de/"
+street: Emsstraße
+housenumber: "1"
+phone: +49 2504 8897730
+opening_hours: Sa 10:00-16:00; Mo-Fr 10:00-18:30
+website: https://www.2-rad-hansen.de/

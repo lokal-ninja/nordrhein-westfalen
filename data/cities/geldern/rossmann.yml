@@ -1,11 +1,11 @@
 id: 303456457
-type: way
+type: node
 latitude: 51.51664
 longitude: 6.32351
 postcode: "47608"
 city: Geldern
-street: "Markt"
-housenumber: 22
+street: Markt
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

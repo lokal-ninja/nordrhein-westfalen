@@ -1,11 +1,11 @@
 id: 260128216
-type: way
+type: node
 latitude: 52.19186
 longitude: 8.59319
 postcode: "32257"
 city: Bünde
-street: "Haßkampstraße"
-housenumber: 94
+street: Haßkampstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-14:00;Su 7:30-12:00"
-website: "https://baeckerei-schmidt.de"
+opening_hours: Mo-Fr 07:00-18:00;Sa 07:00-14:00;Su 7:30-12:00
+website: https://baeckerei-schmidt.de

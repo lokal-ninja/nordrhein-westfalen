@@ -4,8 +4,8 @@ latitude: 51.8432
 longitude: 6.85804
 postcode: "46325"
 city: Borken
-street: "Goldstraße"
-housenumber: 2
-phone: "+49 2861 63836"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"
-website: "http://www.foto-cassee.de/"
+street: Goldstraße
+housenumber: "2"
+phone: +49 2861 63836
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off
+website: http://www.foto-cassee.de/

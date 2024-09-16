@@ -1,11 +1,11 @@
 id: 29997962
-type: way
+type: node
 latitude: 51.19946
 longitude: 6.68087
 postcode: "41460"
 city: Neuss
-street: "Hermannsplatz"
-housenumber: 8
+street: Hermannsplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

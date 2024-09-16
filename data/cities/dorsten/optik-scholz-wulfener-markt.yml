@@ -4,8 +4,8 @@ latitude: 51.72558
 longitude: 7.02954
 postcode: "46286"
 city: Dorsten
-street: "Wulfener Markt"
-housenumber: 16
-phone: "+49 2369 8806"
-opening_hours: "Tu,We,Th,Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00; Su,Mo,PH off"
-website: "https://augenblicke.optik-scholz.de/"
+street: Wulfener Markt
+housenumber: "16"
+phone: +49 2369 8806
+opening_hours: Tu,We,Th,Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00; Su,Mo,PH off
+website: https://augenblicke.optik-scholz.de/

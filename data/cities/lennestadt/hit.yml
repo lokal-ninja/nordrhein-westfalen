@@ -4,8 +4,8 @@ latitude: 51.10617
 longitude: 8.07457
 postcode: "57368"
 city: Lennestadt
-street: "Gartenstraße"
-housenumber: 8
+street: Gartenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hit.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hit.de/

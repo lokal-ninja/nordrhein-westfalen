@@ -1,11 +1,11 @@
 id: 149601293
-type: way
+type: node
 latitude: 50.8904
 longitude: 8.0286
 postcode: "57076"
 city: Siegen
-street: "Weidenauer Straße"
-housenumber: 253
+street: Weidenauer Straße
+housenumber: "253"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; PH off"
-website: "http://www.copyshopsiegen.de"
+opening_hours: Mo-Fr 10:00-18:00; PH off
+website: http://www.copyshopsiegen.de

@@ -1,11 +1,11 @@
 id: 470924254
-type: way
+type: node
 latitude: 51.44991
 longitude: 6.57798
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Mozartstraße"
-housenumber: 9
-phone: "+49 2845 9419750"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "www.edeka-raber.de/neukirchen-vluyn/"
+street: Mozartstraße
+housenumber: "9"
+phone: +49 2845 9419750
+opening_hours: Mo-Sa 08:00-21:00
+website: www.edeka-raber.de/neukirchen-vluyn/

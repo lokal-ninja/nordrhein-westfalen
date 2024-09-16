@@ -1,11 +1,11 @@
 id: 94517518
-type: way
+type: node
 latitude: 50.60852
 longitude: 6.30825
 postcode: "52152"
 city: Simmerath
-street: "Matthias-Zimmermann-Straße"
-housenumber: 12
-phone: "+49 2473 9370016"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.thomas-philipps.de"
+street: Matthias-Zimmermann-Straße
+housenumber: "12"
+phone: +49 2473 9370016
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.thomas-philipps.de

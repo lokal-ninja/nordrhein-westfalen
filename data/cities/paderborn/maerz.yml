@@ -4,8 +4,8 @@ latitude: 51.71946
 longitude: 8.7543
 postcode: "33098"
 city: Paderborn
-street: "Am Rothoborn"
-housenumber: 2
+street: Am Rothoborn
+housenumber: "2"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 12:00-17:00; Sa 11:00-14:00"
-website: "https://maerz-paderborn.de/"
+opening_hours: Mo off; Tu-Fr 12:00-17:00; Sa 11:00-14:00
+website: https://maerz-paderborn.de/

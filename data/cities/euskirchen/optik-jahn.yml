@@ -4,8 +4,8 @@ latitude: 50.66107
 longitude: 6.78845
 postcode: "53879"
 city: Euskirchen
-street: "Neustraße"
-housenumber: 11
+street: Neustraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

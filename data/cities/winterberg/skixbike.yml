@@ -4,8 +4,8 @@ latitude: 51.19651
 longitude: 8.53213
 postcode: "59955"
 city: Winterberg
-street: "Neue Mitte"
-housenumber: 3
+street: Neue Mitte
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 9:00-16:00; Nov-Apr Su off; May-Oct Su 9:00-17:30"
-website: "https://www.skixbike.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 9:00-16:00; Nov-Apr Su off; May-Oct Su 9:00-17:30
+website: https://www.skixbike.de/

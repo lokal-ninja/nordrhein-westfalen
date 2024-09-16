@@ -1,11 +1,11 @@
 id: 252043454
-type: way
+type: node
 latitude: 51.23417
 longitude: 7.63305
 postcode: "58513"
 city: Lüdenscheid
-street: "Altenaer Straße"
-housenumber: 120
+street: Altenaer Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-16:00; Sa-Su off"
-website: "https://www.kh-automobile.de/"
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-16:00; Sa-Su off
+website: https://www.kh-automobile.de/

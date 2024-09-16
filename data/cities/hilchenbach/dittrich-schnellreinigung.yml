@@ -1,11 +1,11 @@
 id: 255833239
-type: way
+type: node
 latitude: 50.99567
 longitude: 8.10713
 postcode: "57271"
 city: Hilchenbach
-street: "Bruchstraße"
-housenumber: 6
+street: Bruchstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.95678
 longitude: 9.24639
 postcode: "32676"
 city: Lügde
-street: "Vordere Straße"
-housenumber: 36
-phone: "+49 5281 7321"
-opening_hours: "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00; PH off"
+street: Vordere Straße
+housenumber: "36"
+phone: +49 5281 7321
+opening_hours: Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00; PH off
 website: ""

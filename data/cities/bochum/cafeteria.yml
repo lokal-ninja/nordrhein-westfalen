@@ -4,8 +4,8 @@ latitude: 51.48507
 longitude: 7.22263
 postcode: "44791"
 city: Bochum
-street: "Bergstraße"
-housenumber: 26
+street: Bergstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Su,PH 11:30-18:30"
-website: "http://www.augusta-bochum.de/a-z.html#cafeteria"
+opening_hours: Mo-Su,PH 11:30-18:30
+website: http://www.augusta-bochum.de/a-z.html#cafeteria

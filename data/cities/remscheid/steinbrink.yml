@@ -4,8 +4,8 @@ latitude: 51.17978
 longitude: 7.19404
 postcode: "42853"
 city: Remscheid
-street: "Markt"
-housenumber: 2
+street: Markt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00
 website: ""

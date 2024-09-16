@@ -1,11 +1,11 @@
 id: 28281802
-type: way
+type: node
 latitude: 51.40632
 longitude: 6.87064
 postcode: "45481"
 city: Mülheim an der Ruhr
-street: "Straßburger Allee"
-housenumber: 45
-phone: "+49 208 993680"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.oberhoesel.de/"
+street: Straßburger Allee
+housenumber: "45"
+phone: +49 208 993680
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00; Su,PH off
+website: https://www.oberhoesel.de/

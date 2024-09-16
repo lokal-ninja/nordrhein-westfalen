@@ -4,8 +4,10 @@ latitude: 51.33352
 longitude: 7.27772
 postcode: "45549"
 city: Sprockhövel
-street: "Mittelstraße"
-housenumber: 27
-phone: "+49 2339 2078"
-opening_hours: "Apr-Sep Mo-Fr 09:00-13:00,14:00-18:30; Apr-Sep Sa 09:00-14:00; Apr-Sep PH,Su off; Oct-Mar Mo-Fr 09:00-13:00,14:00-19:00; Oct-Mar Sa 09:00-14:00; Oct-Mar PH,Su off"
-website: "https://www.sport-kroen.de/"
+street: Mittelstraße
+housenumber: "27"
+phone: +49 2339 2078
+opening_hours: Apr-Sep Mo-Fr 09:00-13:00,14:00-18:30; Apr-Sep Sa 09:00-14:00; Apr-Sep
+    PH,Su off; Oct-Mar Mo-Fr 09:00-13:00,14:00-19:00; Oct-Mar Sa 09:00-14:00; Oct-Mar
+    PH,Su off
+website: https://www.sport-kroen.de/

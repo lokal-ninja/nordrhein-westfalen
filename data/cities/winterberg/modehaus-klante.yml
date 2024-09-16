@@ -4,8 +4,8 @@ latitude: 51.19302
 longitude: 8.52754
 postcode: "59955"
 city: Winterberg
-street: "Am Waltenberg"
-housenumber: 46
+street: Am Waltenberg
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.mode-klante.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.mode-klante.de/

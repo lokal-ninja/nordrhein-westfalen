@@ -4,8 +4,8 @@ latitude: 50.93784
 longitude: 6.94573
 postcode: "50667"
 city: Köln
-street: "Gertrudenstraße"
-housenumber: 20
-phone: "+49 (0) 221 - 2578262"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
+street: Gertrudenstraße
+housenumber: "20"
+phone: +49 (0) 221 - 2578262
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
 website: ""

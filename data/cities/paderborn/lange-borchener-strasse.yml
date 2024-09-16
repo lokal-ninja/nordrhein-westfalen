@@ -4,8 +4,8 @@ latitude: 51.71237
 longitude: 8.74644
 postcode: "33098"
 city: Paderborn
-street: "Borchener Straße"
-housenumber: 25
+street: Borchener Straße
+housenumber: "25"
 phone: "+495251740117"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-borchener-strasse.php"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-borchener-strasse.php

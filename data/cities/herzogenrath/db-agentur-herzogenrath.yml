@@ -1,11 +1,11 @@
 id: 887462479
-type: way
+type: node
 latitude: 50.87096
 longitude: 6.09481
 postcode: "52134"
 city: Herzogenrath
-street: "Bahnhofstraße"
-housenumber: 15
-phone: "+49 2406 2015"
-opening_hours: "Mo-Fr 09:00-16:00"
+street: Bahnhofstraße
+housenumber: "15"
+phone: +49 2406 2015
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.37429
 longitude: 7.69854
 postcode: "58636"
 city: Iserlohn
-street: "Wermingser Straße"
-housenumber: 6
-phone: "+49 2371 28391"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off"
+street: Wermingser Straße
+housenumber: "6"
+phone: +49 2371 28391
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off
 website: ""

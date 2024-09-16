@@ -4,8 +4,8 @@ latitude: 50.76903
 longitude: 6.04179
 postcode: "52074"
 city: Aachen
-street: "Kandelfeldstraße"
-housenumber: 42
+street: Kandelfeldstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Telefonische Vereinbarung"
+opening_hours: '"Telefonische Vereinbarung"'
 website: ""

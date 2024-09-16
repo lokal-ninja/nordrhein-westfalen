@@ -4,8 +4,8 @@ latitude: 51.35205
 longitude: 7.45244
 postcode: "58089"
 city: Hagen
-street: "Minervastraße"
-housenumber: 24
-phone: "+49 2331 900800"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe-ihr-kaufpark.de/markt/hagen-2/"
+street: Minervastraße
+housenumber: "24"
+phone: +49 2331 900800
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe-ihr-kaufpark.de/markt/hagen-2/

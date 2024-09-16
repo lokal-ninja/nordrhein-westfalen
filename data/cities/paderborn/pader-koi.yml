@@ -1,11 +1,11 @@
 id: 118722584
-type: way
+type: node
 latitude: 51.77301
 longitude: 8.65849
 postcode: "33106"
 city: Paderborn
-street: "Sennemühlenweg"
-housenumber: 74
+street: Sennemühlenweg
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "http://www.pader-koi.de"
+website: http://www.pader-koi.de

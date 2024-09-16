@@ -1,11 +1,11 @@
 id: 246725986
-type: way
+type: node
 latitude: 51.87338
 longitude: 7.9065
 postcode: "48231"
 city: Warendorf
-street: "Hellstraße"
-housenumber: 11
-phone: "+49 2585 426"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
-website: "https://www.averbeck-hoetmar.de/"
+street: Hellstraße
+housenumber: "11"
+phone: +49 2585 426
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30
+website: https://www.averbeck-hoetmar.de/

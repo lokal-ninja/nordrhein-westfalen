@@ -1,11 +1,11 @@
 id: 159862811
-type: way
+type: node
 latitude: 51.60015
 longitude: 7.04412
 postcode: "45896"
 city: Gelsenkirchen
-street: "Lessingstraße"
-housenumber: 38
+street: Lessingstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
 website: ""

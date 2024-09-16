@@ -4,8 +4,8 @@ latitude: 51.75684
 longitude: 8.72062
 postcode: "33104"
 city: Paderborn
-street: "Dubelohstraße"
-housenumber: 260
+street: Dubelohstraße
+housenumber: "260"
 phone: ""
-opening_hours: "Sa[2] 14:00-18:00; Su[2] 14:00-18:00; Sa[4] 14:00-18:00; Su[4] 14:00-18:00"
-website: "https://www.automobile-traumfabrik.de"
+opening_hours: Sa[2] 14:00-18:00; Su[2] 14:00-18:00; Sa[4] 14:00-18:00; Su[4] 14:00-18:00
+website: https://www.automobile-traumfabrik.de

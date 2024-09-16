@@ -4,8 +4,8 @@ latitude: 51.66409
 longitude: 9.37353
 postcode: "37688"
 city: Beverungen
-street: "Weserstraße"
-housenumber: 2
-phone: "+49 (0) 5273 22242"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off"
-website: "http://annasfashion.de/"
+street: Weserstraße
+housenumber: "2"
+phone: +49 (0) 5273 22242
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off
+website: http://annasfashion.de/

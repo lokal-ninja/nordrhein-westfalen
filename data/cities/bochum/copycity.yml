@@ -4,8 +4,8 @@ latitude: 51.48248
 longitude: 7.2192
 postcode: "44787"
 city: Bochum
-street: "Große Beckstraße"
-housenumber: 5
+street: Große Beckstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "https://www.copycity-bochum.de"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: https://www.copycity-bochum.de

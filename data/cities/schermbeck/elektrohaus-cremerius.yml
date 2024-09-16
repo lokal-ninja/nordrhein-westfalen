@@ -1,11 +1,11 @@
 id: 175759161
-type: way
+type: node
 latitude: 51.69429
 longitude: 6.87301
 postcode: "46514"
 city: Schermbeck
-street: "Mittelstraße"
-housenumber: 59
+street: Mittelstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
+opening_hours: Mo-Fr 09:00-13:00, Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
 website: ""

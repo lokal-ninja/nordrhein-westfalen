@@ -1,11 +1,11 @@
 id: 194561839
-type: way
+type: node
 latitude: 52.07175
 longitude: 8.32246
 postcode: "33790"
 city: Halle (Westf.)
-street: "Hesselner Straße"
-housenumber: 20
+street: Hesselner Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 887517283
-type: way
+type: node
 latitude: 52.2944
 longitude: 7.66189
 postcode: "49479"
 city: Ibbenbüren
-street: "Püsselbürener Damm"
-housenumber: 335
+street: Püsselbürener Damm
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

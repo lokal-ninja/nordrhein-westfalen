@@ -4,8 +4,8 @@ latitude: 52.02892
 longitude: 8.90266
 postcode: "32657"
 city: Lemgo
-street: "Echternstraße"
-housenumber: 47
-phone: "+49 5261 778995"
-opening_hours: "Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00"
-website: "https://www.schmuckleben.de"
+street: Echternstraße
+housenumber: "47"
+phone: +49 5261 778995
+opening_hours: Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00
+website: https://www.schmuckleben.de

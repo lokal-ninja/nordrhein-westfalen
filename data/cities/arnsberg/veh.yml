@@ -4,8 +4,8 @@ latitude: 51.45009
 longitude: 7.97169
 postcode: "59755"
 city: Arnsberg
-street: "Graf-Gottfried-Straße"
-housenumber: 45
+street: Graf-Gottfried-Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-13:00"
-website: "http://www.veh.profifleischer.de"
+opening_hours: Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-13:00
+website: http://www.veh.profifleischer.de

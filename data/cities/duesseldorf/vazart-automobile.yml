@@ -4,8 +4,8 @@ latitude: 51.16233
 longitude: 6.86349
 postcode: "40597"
 city: Düsseldorf
-street: "Benrather Schloßallee"
-housenumber: 69
-phone: "+49 211 7118173"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.vazart.de/"
+street: Benrather Schloßallee
+housenumber: "69"
+phone: +49 211 7118173
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.vazart.de/

@@ -4,8 +4,8 @@ latitude: 51.06511
 longitude: 7.00112
 postcode: "51379"
 city: Leverkusen
-street: "Birkenbergstraße"
-housenumber: 30
-phone: "+49 2171 41899"
-opening_hours: "Tu-Fr 09:30-13:30, 14:30-18:30; Sa 09:30-14:00; PH off"
-website: "https://www.pedale-lev.de/"
+street: Birkenbergstraße
+housenumber: "30"
+phone: +49 2171 41899
+opening_hours: Tu-Fr 09:30-13:30, 14:30-18:30; Sa 09:30-14:00; PH off
+website: https://www.pedale-lev.de/

@@ -1,5 +1,5 @@
 ---
 title: "schöner leben!"
 url: /muenster/schoener-leben-bergiusstrasse/
-shop: Andenken
+shop: Lotterie
 ---

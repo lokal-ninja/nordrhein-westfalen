@@ -4,8 +4,8 @@ latitude: 51.47494
 longitude: 6.84372
 postcode: "46049"
 city: Oberhausen
-street: "Concordiastraße"
-housenumber: 32
+street: Concordiastraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/

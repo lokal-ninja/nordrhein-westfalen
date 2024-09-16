@@ -4,8 +4,8 @@ latitude: 51.23186
 longitude: 7.07209
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 24
-phone: "+49 202 747069 0"
-opening_hours: "Mo,Tu 10:00-13:00,14:00-17:00; Th 10:00-13:00,14:00-18:00; Fr 10:00-15:00"
-website: "https://ww-systemhaus.de/"
+street: Kaiserstraße
+housenumber: "24"
+phone: +49 202 747069 0
+opening_hours: Mo,Tu 10:00-13:00,14:00-17:00; Th 10:00-13:00,14:00-18:00; Fr 10:00-15:00
+website: https://ww-systemhaus.de/

@@ -1,11 +1,11 @@
 id: 108134424
-type: way
+type: node
 latitude: 52.19017
 longitude: 7.03018
 postcode: "48599"
 city: Gronau
-street: "Gronauer Straße"
-housenumber: 178
+street: Gronauer Straße
+housenumber: "178"
 phone: ""
 opening_hours: ""
 website: ""

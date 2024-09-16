@@ -4,8 +4,8 @@ latitude: 51.93392
 longitude: 8.87812
 postcode: "32756"
 city: Detmold
-street: "Krumme Straße"
-housenumber: 4
-phone: "+49 5231 21188"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.diebrille-detmold.de/"
+street: Krumme Straße
+housenumber: "4"
+phone: +49 5231 21188
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.diebrille-detmold.de/

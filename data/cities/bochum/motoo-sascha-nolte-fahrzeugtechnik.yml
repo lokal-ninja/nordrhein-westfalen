@@ -1,11 +1,11 @@
 id: 609873202
-type: way
+type: node
 latitude: 51.47864
 longitude: 7.29341
 postcode: "44894"
 city: Bochum
-street: "Frenkingstraße"
-housenumber: 25
-phone: "+49 234 6104732"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.motoo-nolte.de"
+street: Frenkingstraße
+housenumber: "25"
+phone: +49 234 6104732
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.motoo-nolte.de

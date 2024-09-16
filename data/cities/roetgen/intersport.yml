@@ -1,11 +1,11 @@
 id: 93457517
-type: way
+type: node
 latitude: 50.63604
 longitude: 6.20792
 postcode: "52159"
 city: Roetgen
-street: "Grünepleistraße"
-housenumber: 1
-phone: "+49 2471 4900"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 9:30-17:00"
-website: "https://www.intersport.de/haendlersuche/sportgeschaefte-nordrhein-westfalen/52159-roetgen-intersport-plum/"
+street: Grünepleistraße
+housenumber: "1"
+phone: +49 2471 4900
+opening_hours: Mo-Fr 09:30-19:00; Sa 9:30-17:00
+website: https://www.intersport.de/haendlersuche/sportgeschaefte-nordrhein-westfalen/52159-roetgen-intersport-plum/

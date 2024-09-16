@@ -4,8 +4,8 @@ latitude: 50.72348
 longitude: 7.08966
 postcode: "53115"
 city: Bonn
-street: "Clemens-August-Straße"
-housenumber: 15
-phone: "+49228 92626993"
-opening_hours: "Mo-Fr 07:00-17:30; PH,Sa,Su 07:00-15:00"
-website: "https://baeckerei-merzenich.de/"
+street: Clemens-August-Straße
+housenumber: "15"
+phone: +49228 92626993
+opening_hours: Mo-Fr 07:00-17:30; PH,Sa,Su 07:00-15:00
+website: https://baeckerei-merzenich.de/

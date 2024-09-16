@@ -1,11 +1,11 @@
 id: 744204787
-type: way
+type: node
 latitude: 51.73061
 longitude: 8.71449
 postcode: ""
 city: Paderborn
-street: "Wilfried-Finke-Allee"
-housenumber: 2
+street: Wilfried-Finke-Allee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; 2020 Jul 30-Aug 01: Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

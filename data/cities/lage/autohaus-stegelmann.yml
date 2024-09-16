@@ -1,11 +1,11 @@
 id: 112243880
-type: way
+type: node
 latitude: 51.98862
 longitude: 8.80573
 postcode: "32791"
 city: Lage
-street: "Gasstraße"
-housenumber: 3
-phone: "+49 5232 6007 0"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-13:00"
-website: "https://stegelmann.de"
+street: Gasstraße
+housenumber: "3"
+phone: +49 5232 6007 0
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-13:00
+website: https://stegelmann.de

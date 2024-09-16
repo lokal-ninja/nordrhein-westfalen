@@ -4,8 +4,8 @@ latitude: 50.93073
 longitude: 6.93749
 postcode: "50674"
 city: Köln
-street: "Rathenauplatz"
-housenumber: 4
-phone: "+49 221 2765653"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-17:00"
-website: "https://www.art-of-dark.net/"
+street: Rathenauplatz
+housenumber: "4"
+phone: +49 221 2765653
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-17:00
+website: https://www.art-of-dark.net/

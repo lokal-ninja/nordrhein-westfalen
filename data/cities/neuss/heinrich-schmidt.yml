@@ -1,11 +1,11 @@
 id: 52532312
-type: way
+type: node
 latitude: 51.20003
 longitude: 6.69683
 postcode: "41460"
 city: Neuss
-street: "Am Zollhafen"
-housenumber: 11
-phone: "+49 2131 29131-78"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00; PH off"
-website: "https://www.schmidt-mg.de/"
+street: Am Zollhafen
+housenumber: "11"
+phone: +49 2131 29131-78
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00; PH off
+website: https://www.schmidt-mg.de/

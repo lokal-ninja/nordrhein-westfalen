@@ -5,7 +5,7 @@ longitude: 6.08293
 postcode: "52062"
 city: Aachen
 street: ""
-housenumber: 10
-phone: "+49 241 94302460"
-opening_hours: "Tu-Fr 12:00-17:00; Sa 11:00-17:00"
-website: "https://www.ornamentum-aachen.de/"
+housenumber: "10"
+phone: +49 241 94302460
+opening_hours: Tu-Fr 12:00-17:00; Sa 11:00-17:00
+website: https://www.ornamentum-aachen.de/

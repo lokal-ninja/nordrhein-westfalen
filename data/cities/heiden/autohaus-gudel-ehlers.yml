@@ -1,11 +1,11 @@
 id: 260636718
-type: way
+type: node
 latitude: 51.82334
 longitude: 6.94797
 postcode: "46359"
 city: Heiden
-street: "Industriestraße"
-housenumber: 13
-phone: "+49 2867 975010"
+street: Industriestraße
+housenumber: "13"
+phone: +49 2867 975010
 opening_hours: ""
-website: "https://www.autohaus-gudel-heiden.de/"
+website: https://www.autohaus-gudel-heiden.de/

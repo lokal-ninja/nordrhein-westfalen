@@ -4,8 +4,8 @@ latitude: 50.7387
 longitude: 7.10406
 postcode: "53111"
 city: Bonn
-street: "Am Nesselroder Hof"
-housenumber: 6
+street: Am Nesselroder Hof
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 08:30 - 18:00; Sa 08:00 - 13:00; Su off"
-website: "https://www.ellens-haarmoden.com/"
+opening_hours: Tu-Fr 08:30 - 18:00; Sa 08:00 - 13:00; Su off
+website: https://www.ellens-haarmoden.com/

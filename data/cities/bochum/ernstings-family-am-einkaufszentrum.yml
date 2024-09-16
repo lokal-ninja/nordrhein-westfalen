@@ -4,8 +4,8 @@ latitude: 51.49505
 longitude: 7.28359
 postcode: "44791"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 8
-phone: "+49 180 5833033"
-opening_hours: "Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30"
-website: "https://www.ernstings-family.de/"
+street: Am Einkaufszentrum
+housenumber: "8"
+phone: +49 180 5833033
+opening_hours: Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30
+website: https://www.ernstings-family.de/

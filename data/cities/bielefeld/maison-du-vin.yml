@@ -4,8 +4,8 @@ latitude: 52.01891
 longitude: 8.53327
 postcode: "33602"
 city: Bielefeld
-street: "Niederwall"
-housenumber: 46
-phone: "+49-521-178028"
-opening_hours: "Mo-Fr 10:30-13:30,15:00-18:30; Sa 10:00-15:00"
-website: "https://www.maison-du-vin.de/"
+street: Niederwall
+housenumber: "46"
+phone: +49-521-178028
+opening_hours: Mo-Fr 10:30-13:30,15:00-18:30; Sa 10:00-15:00
+website: https://www.maison-du-vin.de/

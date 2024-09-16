@@ -4,8 +4,8 @@ latitude: 51.75784
 longitude: 8.04132
 postcode: "59269"
 city: Beckum
-street: "Nordstraße"
-housenumber: 49
+street: Nordstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-16:00"
-website: "https://amoras.jimdosite.com/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-16:00
+website: https://amoras.jimdosite.com/

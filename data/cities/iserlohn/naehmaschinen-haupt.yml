@@ -4,8 +4,8 @@ latitude: 51.38202
 longitude: 7.69609
 postcode: "58636"
 city: Iserlohn
-street: "Baarstraße"
-housenumber: 39
-phone: "+49 2371 24466"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.naehmaschinen-haupt.de/"
+street: Baarstraße
+housenumber: "39"
+phone: +49 2371 24466
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.naehmaschinen-haupt.de/

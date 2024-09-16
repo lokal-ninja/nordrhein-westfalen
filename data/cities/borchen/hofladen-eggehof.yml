@@ -4,8 +4,8 @@ latitude: 51.6664
 longitude: 8.83821
 postcode: "33178"
 city: Borchen
-street: "Am Wallgraben"
-housenumber: 2
-phone: "+49 5293 931121"
-opening_hours: "Fr 09:00-12:00 || sonst nur nach telefonischer Vereinbarung"
-website: "http://www.eggehof.de"
+street: Am Wallgraben
+housenumber: "2"
+phone: +49 5293 931121
+opening_hours: Fr 09:00-12:00 || "sonst nur nach telefonischer Vereinbarung"
+website: http://www.eggehof.de

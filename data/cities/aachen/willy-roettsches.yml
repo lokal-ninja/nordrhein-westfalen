@@ -4,8 +4,8 @@ latitude: 50.77378
 longitude: 6.08579
 postcode: "52062"
 city: Aachen
-street: "Hartmannstraße"
-housenumber: 30
-phone: "+49 241 32091"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su,PH off"
-website: "https://modehaus-roettsches.de/"
+street: Hartmannstraße
+housenumber: "30"
+phone: +49 241 32091
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su,PH off
+website: https://modehaus-roettsches.de/

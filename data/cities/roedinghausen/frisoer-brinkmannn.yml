@@ -1,11 +1,11 @@
 id: 220034592
-type: way
+type: node
 latitude: 52.25307
 longitude: 8.47967
 postcode: "32289"
 city: Rödinghausen
-street: "Auf dem Brink"
-housenumber: 5
+street: Auf dem Brink
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

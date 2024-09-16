@@ -1,11 +1,11 @@
 id: 407235512
-type: way
+type: node
 latitude: 51.66195
 longitude: 7.72274
 postcode: "59077"
 city: Hamm
-street: "Dortmunder Straße"
-housenumber: 261
-phone: "+49 2381 462616"
+street: Dortmunder Straße
+housenumber: "261"
+phone: +49 2381 462616
 opening_hours: ""
-website: "http://www.thiemann-wohnbedarf.de/"
+website: http://www.thiemann-wohnbedarf.de/

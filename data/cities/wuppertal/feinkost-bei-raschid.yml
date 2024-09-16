@@ -4,8 +4,8 @@ latitude: 51.25793
 longitude: 7.15622
 postcode: "42103"
 city: Wuppertal
-street: "Hofkamp"
-housenumber: 109
+street: Hofkamp
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

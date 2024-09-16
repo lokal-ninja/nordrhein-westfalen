@@ -4,8 +4,8 @@ latitude: 50.73322
 longitude: 7.09667
 postcode: "53111"
 city: Bonn
-street: "Maximilianstraße"
-housenumber: 32
-phone: "+49 228 1802434"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-15:00"
-website: "http://www.newplan-travel.de/"
+street: Maximilianstraße
+housenumber: "32"
+phone: +49 228 1802434
+opening_hours: Mo-Fr 09:30-18:00, Sa 10:00-15:00
+website: http://www.newplan-travel.de/

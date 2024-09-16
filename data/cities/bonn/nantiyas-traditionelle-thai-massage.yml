@@ -1,11 +1,11 @@
 id: 37392261
-type: way
+type: node
 latitude: 50.7141
 longitude: 7.10547
 postcode: "53129"
 city: Bonn
-street: "Bonner Talweg"
-housenumber: 335
+street: Bonner Talweg
+housenumber: "335"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
 website: ""

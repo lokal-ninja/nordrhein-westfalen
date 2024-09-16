@@ -1,11 +1,11 @@
 id: 394955211
-type: way
+type: node
 latitude: 52.26487
 longitude: 8.93379
 postcode: "32457"
 city: Porta Westfalica
-street: "Friedrichstraße"
-housenumber: 2
+street: Friedrichstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.95246
 longitude: 7.98872
 postcode: "48231"
 city: Warendorf
-street: "Münsterstraße"
-housenumber: 8
+street: Münsterstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5574/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5574/

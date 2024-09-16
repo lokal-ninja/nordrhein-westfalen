@@ -1,11 +1,11 @@
 id: 150056560
-type: way
+type: node
 latitude: 50.64757
 longitude: 7.32638
 postcode: "53604"
 city: Bad Honnef
-street: "Vogelsbitze"
-housenumber: 6
-phone: "+492224 9014582"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-15:00"
-website: "https://www.kues-linz.de/"
+street: Vogelsbitze
+housenumber: "6"
+phone: +492224 9014582
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-15:00
+website: https://www.kues-linz.de/

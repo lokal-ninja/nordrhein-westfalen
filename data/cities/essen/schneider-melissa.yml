@@ -1,11 +1,11 @@
 id: 79624045
-type: way
+type: node
 latitude: 51.4727
 longitude: 6.95026
 postcode: "45355"
 city: Essen
-street: "Marktstraße"
-housenumber: 20
+street: Marktstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

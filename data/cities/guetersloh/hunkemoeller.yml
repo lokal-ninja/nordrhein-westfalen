@@ -4,8 +4,8 @@ latitude: 51.90738
 longitude: 8.37949
 postcode: "33330"
 city: Gütersloh
-street: "Berliner Straße"
-housenumber: 41
+street: Berliner Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.hunkemoller.de/de_de/filiale/gtersloh-berlinerstrae"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.hunkemoller.de/de_de/filiale/gtersloh-berlinerstrae

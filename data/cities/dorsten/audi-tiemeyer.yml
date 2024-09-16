@@ -1,11 +1,11 @@
 id: 184956283
-type: way
+type: node
 latitude: 51.67629
 longitude: 6.96063
 postcode: "46284"
 city: Dorsten
-street: "Borkener Straße"
-housenumber: 91
+street: Borkener Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.tiemeyer.de/"
+website: https://www.tiemeyer.de/

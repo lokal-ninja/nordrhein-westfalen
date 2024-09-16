@@ -4,8 +4,8 @@ latitude: 50.74219
 longitude: 7.14965
 postcode: "53229"
 city: Bonn
-street: "Adelheidisplatz"
-housenumber: 20
-phone: "+49 228 485703"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:15"
-website: "https://www.hielscher-fleischwaren.de/"
+street: Adelheidisplatz
+housenumber: "20"
+phone: +49 228 485703
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:15
+website: https://www.hielscher-fleischwaren.de/

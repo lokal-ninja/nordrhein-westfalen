@@ -1,11 +1,11 @@
 id: 87672518
-type: way
+type: node
 latitude: 51.19624
 longitude: 6.61454
 postcode: "41564"
 city: Kaarst
-street: "Justus-Liebig-Straße"
+street: Justus-Liebig-Straße
 housenumber: 2-4
-phone: "+49 2131 75750"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://kueppers-buettgen.de/"
+phone: +49 2131 75750
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://kueppers-buettgen.de/

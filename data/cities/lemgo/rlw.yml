@@ -1,11 +1,11 @@
 id: 418280106
-type: way
+type: node
 latitude: 52.02708
 longitude: 8.86509
 postcode: "32657"
 city: Lemgo
-street: "Liemer Weg"
-housenumber: 72
-phone: "+49 5232 6001 11"
-opening_hours: "24/7"
-website: "https://www.rlw-ag.de/"
+street: Liemer Weg
+housenumber: "72"
+phone: +49 5232 6001 11
+opening_hours: 24/7
+website: https://www.rlw-ag.de/

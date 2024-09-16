@@ -1,11 +1,11 @@
 id: 111597080
-type: way
+type: node
 latitude: 51.7882
 longitude: 6.14722
 postcode: "47533"
 city: Kleve
-street: "Bartelgasse"
-housenumber: 2
+street: Bartelgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

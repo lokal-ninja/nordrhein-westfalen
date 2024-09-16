@@ -1,11 +1,11 @@
 id: 43856454
-type: way
+type: node
 latitude: 50.69364
 longitude: 7.14058
 postcode: "53175"
 city: Bonn
-street: "Südstraße"
-housenumber: 
+street: Südstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.koester-bonn.de/"
+website: https://www.koester-bonn.de/

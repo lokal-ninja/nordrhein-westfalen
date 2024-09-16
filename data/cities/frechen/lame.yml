@@ -4,8 +4,8 @@ latitude: 50.90952
 longitude: 6.81141
 postcode: "50226"
 city: Frechen
-street: "Sternengasse"
-housenumber: 1
-phone: "+49 2234 709587"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00"
+street: Sternengasse
+housenumber: "1"
+phone: +49 2234 709587
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00
 website: ""

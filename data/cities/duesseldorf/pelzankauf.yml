@@ -4,8 +4,8 @@ latitude: 51.21677
 longitude: 6.78227
 postcode: "40215"
 city: Düsseldorf
-street: "Corneliusstraße"
-housenumber: 3
+street: Corneliusstraße
+housenumber: "3"
 phone: ""
-opening_hours: "We-Th 10:00-12:00,13:00-16:00; Fr-Sa 10:00-14:00"
+opening_hours: We-Th 10:00-12:00,13:00-16:00; Fr-Sa 10:00-14:00
 website: ""

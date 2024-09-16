@@ -1,11 +1,11 @@
 id: 56128643
-type: way
+type: node
 latitude: 51.49971
 longitude: 7.37961
 postcode: "44379"
 city: Dortmund
-street: "Alter Hellweg"
-housenumber: 38
+street: Alter Hellweg
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1265525096
-type: way
+type: node
 latitude: 51.21423
 longitude: 6.63867
 postcode: "41564"
 city: Kaarst
-street: "Detlev-Karsten-Rohwedder-Straße"
-housenumber: 3
-phone: "+49 2131 959519"
+street: Detlev-Karsten-Rohwedder-Straße
+housenumber: "3"
+phone: +49 2131 959519
 opening_hours: ""
-website: "https://www.hydraulik-jansen.de/"
+website: https://www.hydraulik-jansen.de/

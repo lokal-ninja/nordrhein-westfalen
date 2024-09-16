@@ -4,8 +4,8 @@ latitude: 51.97713
 longitude: 7.29071
 postcode: "48727"
 city: Billerbeck
-street: "Münsterstraße"
-housenumber: 4
+street: Münsterstraße
+housenumber: "4"
 phone: "+4915111155475"
-opening_hours: "Fr 14:00-19:00; Sa 10:00-17:00; Ph off"
-website: "https://www.potstill-billerbeck.de/"
+opening_hours: Fr 14:00-19:00; Sa 10:00-17:00; Ph off
+website: https://www.potstill-billerbeck.de/

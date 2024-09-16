@@ -1,11 +1,11 @@
 id: 43855108
-type: way
+type: node
 latitude: 51.78609
 longitude: 6.13503
 postcode: "47533"
 city: Kleve
-street: "Stechbahn"
+street: Stechbahn
 housenumber: 19-23
-phone: "+49 2821 7196 0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/kleve-79"
+phone: +49 2821 7196 0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/kleve-79

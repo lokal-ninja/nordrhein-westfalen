@@ -1,11 +1,11 @@
 id: 29294328
-type: way
+type: node
 latitude: 51.48322
 longitude: 7.00011
 postcode: "45326"
 city: Essen
-street: "Weigelwerkstraße"
-housenumber: 1
+street: Weigelwerkstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

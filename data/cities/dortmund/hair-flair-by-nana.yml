@@ -4,8 +4,8 @@ latitude: 51.51587
 longitude: 7.46514
 postcode: "44135"
 city: Dortmund
-street: "Bissenkamp"
-housenumber: 3
+street: Bissenkamp
+housenumber: "3"
 phone: "+492312269778"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "http://www.hairflair-nana.de/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: http://www.hairflair-nana.de/

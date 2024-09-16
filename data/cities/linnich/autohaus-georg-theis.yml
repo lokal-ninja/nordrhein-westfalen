@@ -1,11 +1,11 @@
 id: 339883783
-type: way
+type: node
 latitude: 50.97911
 longitude: 6.25595
 postcode: "52441"
 city: Linnich
-street: "Aachener Straße"
-housenumber: 2
+street: Aachener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

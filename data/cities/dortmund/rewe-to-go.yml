@@ -1,11 +1,11 @@
 id: 975315019
-type: way
+type: node
 latitude: 51.57389
 longitude: 7.387
 postcode: "44359"
 city: Dortmund
-street: "Schaphusstraße"
-housenumber: 9
+street: Schaphusstraße
+housenumber: "9"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

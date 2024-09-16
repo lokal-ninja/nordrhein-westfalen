@@ -1,11 +1,11 @@
 id: 1042016773
-type: way
+type: node
 latitude: 51.45454
 longitude: 6.38153
 postcode: "47647"
 city: Kerken
-street: "Slousenweg"
-housenumber: 15
-phone: "+49 2833 2063-0"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-12:00"
-website: "https://schmeisser-baustoffe.de/"
+street: Slousenweg
+housenumber: "15"
+phone: +49 2833 2063-0
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-12:00
+website: https://schmeisser-baustoffe.de/

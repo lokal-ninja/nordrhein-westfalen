@@ -1,11 +1,11 @@
 id: 976023756
-type: way
+type: node
 latitude: 51.68733
 longitude: 7.74638
 postcode: "59075"
 city: Hamm
-street: "Am Dahlhof"
-housenumber: 2
+street: Am Dahlhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

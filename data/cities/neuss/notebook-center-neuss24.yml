@@ -4,8 +4,8 @@ latitude: 51.20915
 longitude: 6.67348
 postcode: "41462"
 city: Neuss
-street: "Further Straße"
-housenumber: 146
-phone: "+49 2131 7425823"
-opening_hours: "Mo-Fr 12:00-16:00; Sa 12:00-15:00"
-website: "http://www.notebook-center-neuss24.com/"
+street: Further Straße
+housenumber: "146"
+phone: +49 2131 7425823
+opening_hours: Mo-Fr 12:00-16:00; Sa 12:00-15:00
+website: http://www.notebook-center-neuss24.com/

@@ -4,8 +4,8 @@ latitude: 52.21158
 longitude: 7.0245
 postcode: "48599"
 city: Gronau
-street: "Neustraße"
-housenumber: 15
-phone: "+49 2562 7015865"
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-15:00"
+street: Neustraße
+housenumber: "15"
+phone: +49 2562 7015865
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-15:00
 website: ""

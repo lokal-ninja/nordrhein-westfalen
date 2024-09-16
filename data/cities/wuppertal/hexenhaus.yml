@@ -4,8 +4,8 @@ latitude: 51.2733
 longitude: 7.21122
 postcode: "42275"
 city: Wuppertal
-street: "Reichsstraße"
-housenumber: 35
-phone: "+49 15750 888709"
-opening_hours: "We,Th 15:00-17:30; PH,Fr-Tu off"
+street: Reichsstraße
+housenumber: "35"
+phone: +49 15750 888709
+opening_hours: We,Th 15:00-17:30; PH,Fr-Tu off
 website: ""

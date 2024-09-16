@@ -4,8 +4,8 @@ latitude: 50.73282
 longitude: 7.099
 postcode: "53111"
 city: Bonn
-street: "Gerhard-von-Are-Straße"
-housenumber: 2
-phone: "+49 228 62976400"
-opening_hours: "Su-Th 09:00-17:00; Fr,Sa 09:00-18:00"
-website: "https://www.epi-boulangerie.de/"
+street: Gerhard-von-Are-Straße
+housenumber: "2"
+phone: +49 228 62976400
+opening_hours: Su-Th 09:00-17:00; Fr,Sa 09:00-18:00
+website: https://www.epi-boulangerie.de/

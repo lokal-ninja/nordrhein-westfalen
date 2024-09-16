@@ -1,11 +1,11 @@
 id: 107422501
-type: way
+type: node
 latitude: 50.78156
 longitude: 6.50523
 postcode: "52351"
 city: Düren
-street: "Nikolaus-Otto-Straße"
-housenumber: 2
+street: Nikolaus-Otto-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/

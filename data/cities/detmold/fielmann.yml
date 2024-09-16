@@ -4,8 +4,8 @@ latitude: 51.93345
 longitude: 8.87806
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 12
-phone: "+49 5231 37992"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.fielmann.de/niederlassungen/detmold/32756-lange-strasse-12/"
+street: Lange Straße
+housenumber: "12"
+phone: +49 5231 37992
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.fielmann.de/niederlassungen/detmold/32756-lange-strasse-12/

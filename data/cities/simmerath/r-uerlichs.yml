@@ -1,11 +1,11 @@
 id: 931139578
-type: way
+type: node
 latitude: 50.60979
 longitude: 6.31178
 postcode: "52152"
 city: Simmerath
-street: "Matthias-Zimmermann-Straße"
-housenumber: 21
+street: Matthias-Zimmermann-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

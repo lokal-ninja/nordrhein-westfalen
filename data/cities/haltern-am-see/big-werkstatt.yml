@@ -4,8 +4,8 @@ latitude: 51.73279
 longitude: 7.18944
 postcode: "45721"
 city: Haltern am See
-street: "Recklinghäuser Straße"
-housenumber: 119
-phone: "+49 2364 96695220"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-15:00"
-website: "https://www.bigwheel.de"
+street: Recklinghäuser Straße
+housenumber: "119"
+phone: +49 2364 96695220
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-15:00
+website: https://www.bigwheel.de

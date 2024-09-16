@@ -4,8 +4,8 @@ latitude: 51.35922
 longitude: 7.47371
 postcode: "58095"
 city: Hagen
-street: "Badstraße"
-housenumber: 6
-phone: "+49-2331-9760268"
-opening_hours: "Mo, Di, Do, Fr 08:00-13:00 14:00-18:00, Mi 08:00-13:00, Sa 09:00-13:00"
-website: "https://www.sanitaetshaus-fehske.de/"
+street: Badstraße
+housenumber: "6"
+phone: +49-2331-9760268
+opening_hours: Mo, Di, Do, Fr 08:00-13:00 14:00-18:00, Mi 08:00-13:00, Sa 09:00-13:00
+website: https://www.sanitaetshaus-fehske.de/

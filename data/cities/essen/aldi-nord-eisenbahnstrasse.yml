@@ -1,11 +1,11 @@
 id: 1213056283
-type: way
+type: node
 latitude: 51.42758
 longitude: 7.04416
 postcode: "45134"
 city: Essen
-street: "Eisenbahnstraße"
-housenumber: 20
+street: Eisenbahnstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su closed"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/essen/eisenbahnstrasse-20/3182090"
+opening_hours: Mo-Sa 07:00-21:00; Su closed
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/essen/eisenbahnstrasse-20/3182090

@@ -4,8 +4,8 @@ latitude: 52.14643
 longitude: 8.96264
 postcode: "32689"
 city: Kalletal
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00; PH off"
-website: "https://www.willer-schuhe.de/"
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-16:00; PH off
+website: https://www.willer-schuhe.de/

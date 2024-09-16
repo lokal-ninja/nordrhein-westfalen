@@ -4,8 +4,8 @@ latitude: 50.80071
 longitude: 7.19393
 postcode: "53721"
 city: Siegburg
-street: "Industriestraße"
-housenumber: 47
-phone: "+49 2241 971 5855"
-opening_hours: "Mo-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 07:30-14:00"
-website: "https://www.amazing-hairstyle.de/"
+street: Industriestraße
+housenumber: "47"
+phone: +49 2241 971 5855
+opening_hours: Mo-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 07:30-14:00
+website: https://www.amazing-hairstyle.de/

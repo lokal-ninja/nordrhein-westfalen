@@ -1,11 +1,11 @@
 id: 346605417
-type: way
+type: node
 latitude: 51.05079
 longitude: 6.95069
 postcode: "51371"
 city: Leverkusen
-street: "Wupperstraße"
-housenumber: 13
+street: Wupperstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

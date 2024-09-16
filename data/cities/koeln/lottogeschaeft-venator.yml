@@ -4,8 +4,8 @@ latitude: 50.96033
 longitude: 6.91696
 postcode: "50825"
 city: Köln
-street: "Iltisstraße"
-housenumber: 57
-phone: "+49 221 55 64 33"
+street: Iltisstraße
+housenumber: "57"
+phone: +49 221 55 64 33
 opening_hours: ""
-website: "https://www.venator-online.de/"
+website: https://www.venator-online.de/

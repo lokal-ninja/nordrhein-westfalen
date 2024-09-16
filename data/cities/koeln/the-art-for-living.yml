@@ -4,8 +4,8 @@ latitude: 50.93665
 longitude: 6.97417
 postcode: "50679"
 city: Köln
-street: "Deutzer Freiheit"
-housenumber: 74
-phone: "+49 221 813224"
-opening_hours: "Mo-Tu 09:30-18:30; Th-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "http://m.koeln-deutz.de/info_adresse.php?id=549"
+street: Deutzer Freiheit
+housenumber: "74"
+phone: +49 221 813224
+opening_hours: Mo-Tu 09:30-18:30; Th-Fr 09:30-18:30; Sa 09:30-16:00
+website: http://m.koeln-deutz.de/info_adresse.php?id=549

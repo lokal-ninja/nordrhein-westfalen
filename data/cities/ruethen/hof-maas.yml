@@ -4,8 +4,8 @@ latitude: 51.56721
 longitude: 8.42299
 postcode: "59602"
 city: Rüthen
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
-opening_hours: "nach telefonischer Vereinbarung"
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

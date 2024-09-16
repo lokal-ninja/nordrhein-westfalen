@@ -4,8 +4,8 @@ latitude: 50.91984
 longitude: 6.92535
 postcode: "50937"
 city: Köln
-street: "Gustavstraße"
-housenumber: 9
+street: Gustavstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 10:00-16:00; Tu-Fr 09:00-18:00; Sa 08:30-14:00"
+opening_hours: Mo 10:00-16:00; Tu-Fr 09:00-18:00; Sa 08:30-14:00
 website: ""

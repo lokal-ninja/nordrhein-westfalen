@@ -1,11 +1,11 @@
 id: 119330479
-type: way
+type: node
 latitude: 51.06371
 longitude: 6.86093
 postcode: "50769"
 city: Köln
-street: "Bitterstraße"
-housenumber: 4
+street: Bitterstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

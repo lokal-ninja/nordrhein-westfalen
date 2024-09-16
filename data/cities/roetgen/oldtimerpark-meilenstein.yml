@@ -1,11 +1,11 @@
 id: 465919624
-type: way
+type: node
 latitude: 50.65019
 longitude: 6.18226
 postcode: "52159"
 city: Roetgen
-street: "Zum Genagelten Stein"
-housenumber: 14
+street: Zum Genagelten Stein
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.meilenstein.me/"
+website: http://www.meilenstein.me/

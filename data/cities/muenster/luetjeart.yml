@@ -1,11 +1,11 @@
 id: 122484109
-type: way
+type: node
 latitude: 51.96751
 longitude: 7.6124
 postcode: "48149"
 city: Münster
-street: "Wilhelmstraße"
-housenumber: 14
+street: Wilhelmstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.luetjeart.de/"
+website: http://www.luetjeart.de/

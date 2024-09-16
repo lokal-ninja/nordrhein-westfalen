@@ -4,8 +4,8 @@ latitude: 50.7757
 longitude: 6.08643
 postcode: "52062"
 city: Aachen
-street: "Büchel"
-housenumber: 32
-phone: "+49 241 40 44 04"
-opening_hours: "Tu-Sa 11:00-17:00; Mo off"
-website: "https://www.aachenattraktiv.de/haarprofi.html"
+street: Büchel
+housenumber: "32"
+phone: +49 241 40 44 04
+opening_hours: Tu-Sa 11:00-17:00; Mo off
+website: https://www.aachenattraktiv.de/haarprofi.html

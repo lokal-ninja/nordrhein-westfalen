@@ -4,8 +4,8 @@ latitude: 50.77703
 longitude: 6.08439
 postcode: "52062"
 city: Aachen
-street: "Markt"
-housenumber: 45
-phone: "+49 160 901 700 82"
-opening_hours: "Tu-Sa 11:00-16:00"
-website: "https://sternenkontor.de/"
+street: Markt
+housenumber: "45"
+phone: +49 160 901 700 82
+opening_hours: Tu-Sa 11:00-16:00
+website: https://sternenkontor.de/

@@ -4,8 +4,8 @@ latitude: 51.13445
 longitude: 6.50373
 postcode: "41363"
 city: Jüchen
-street: "Wey"
-housenumber: 64
-phone: "+49 2166 982473"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00, Sa 09:00-13:00; Su-Mo, PH off"
-website: "https://www.landmarkt-wey.de/"
+street: Wey
+housenumber: "64"
+phone: +49 2166 982473
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:00, Sa 09:00-13:00; Su-Mo, PH off
+website: https://www.landmarkt-wey.de/

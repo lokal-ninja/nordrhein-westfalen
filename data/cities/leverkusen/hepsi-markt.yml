@@ -4,8 +4,8 @@ latitude: 51.04619
 longitude: 6.99371
 postcode: "51373"
 city: Leverkusen
-street: "Küppersteger Straße"
-housenumber: 3
-phone: "+49 214 20286550"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://hepsi-markt.de/"
+street: Küppersteger Straße
+housenumber: "3"
+phone: +49 214 20286550
+opening_hours: Mo-Sa 08:00-20:00
+website: https://hepsi-markt.de/

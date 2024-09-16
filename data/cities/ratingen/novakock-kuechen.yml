@@ -1,11 +1,11 @@
 id: 213260022
-type: way
+type: node
 latitude: 51.31276
 longitude: 6.82842
 postcode: "40880"
 city: Ratingen
-street: "Am Rosenkothen"
-housenumber: 1
+street: Am Rosenkothen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.novakock.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.novakock.de/

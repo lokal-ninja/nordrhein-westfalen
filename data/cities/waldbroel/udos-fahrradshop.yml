@@ -4,8 +4,8 @@ latitude: 50.87039
 longitude: 7.60391
 postcode: "51545"
 city: Waldbröl
-street: "Brölstraße"
-housenumber: 77
+street: Brölstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "https://www.udos-fahrrad-shop.de/"
+opening_hours: Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: https://www.udos-fahrrad-shop.de/

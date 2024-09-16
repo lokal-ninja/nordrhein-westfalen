@@ -1,11 +1,11 @@
 id: 169914725
-type: way
+type: node
 latitude: 52.16726
 longitude: 8.63346
 postcode: "32120"
 city: Hiddenhausen
-street: "Löhner Straße"
-housenumber: 316
+street: Löhner Straße
+housenumber: "316"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30;Tu,Fr 14:00-16:30;Mo,Th 14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:30;Tu,Fr 14:00-16:30;Mo,Th 14:00-18:00
 website: ""

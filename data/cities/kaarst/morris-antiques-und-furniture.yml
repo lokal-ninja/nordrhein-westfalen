@@ -1,11 +1,11 @@
 id: 145783801
-type: way
+type: node
 latitude: 51.21912
 longitude: 6.62633
 postcode: "41564"
 city: Kaarst
-street: "Rurstraße"
-housenumber: 14
-phone: "+49 2131 3140535"
-opening_hours: "Mo-Fr 10:00-17:00, Sa 10:00-16:00"
-website: "https://morris-antikshop.de/"
+street: Rurstraße
+housenumber: "14"
+phone: +49 2131 3140535
+opening_hours: Mo-Fr 10:00-17:00, Sa 10:00-16:00
+website: https://morris-antikshop.de/

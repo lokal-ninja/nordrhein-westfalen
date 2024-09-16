@@ -1,11 +1,11 @@
 id: 500103230
-type: way
+type: node
 latitude: 51.42966
 longitude: 6.77525
 postcode: "47051"
 city: Duisburg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

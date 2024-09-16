@@ -1,11 +1,11 @@
 id: 263790074
-type: way
+type: node
 latitude: 51.52292
 longitude: 8.70498
 postcode: "33181"
 city: Bad Wünnenberg
-street: "Zinsdorfer Weg"
-housenumber: 33
+street: Zinsdorfer Weg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 7:00-21:00
+website: https://www.netto-online.de

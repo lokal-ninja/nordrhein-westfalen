@@ -1,11 +1,11 @@
 id: 97018391
-type: way
+type: node
 latitude: 51.72634
 longitude: 8.73372
 postcode: "33102"
 city: Paderborn
-street: "Neuhäuser Straße"
-housenumber: 89
+street: Neuhäuser Straße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.kress-mode.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.kress-mode.de/

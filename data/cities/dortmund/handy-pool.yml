@@ -4,8 +4,8 @@ latitude: 51.5145
 longitude: 7.46967
 postcode: "44135"
 city: Dortmund
-street: "Ostenhellweg"
-housenumber: 30
-phone: "+49 178 6034444"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://handy-pool.business.site/"
+street: Ostenhellweg
+housenumber: "30"
+phone: +49 178 6034444
+opening_hours: Mo-Sa 10:00-20:00
+website: https://handy-pool.business.site/

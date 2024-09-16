@@ -4,8 +4,8 @@ latitude: 50.68545
 longitude: 7.15546
 postcode: ""
 city: Bonn
-street: "Moltkeplatz"
-housenumber: 4
+street: Moltkeplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-15:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-15:00
 website: ""

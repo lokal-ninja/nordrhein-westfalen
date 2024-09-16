@@ -4,8 +4,8 @@ latitude: 51.61598
 longitude: 7.19802
 postcode: "45657"
 city: Recklinghausen
-street: "Kirchplatz"
-housenumber: 3
-phone: "+49 2361 23813"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://salon-schramm.de/"
+street: Kirchplatz
+housenumber: "3"
+phone: +49 2361 23813
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://salon-schramm.de/

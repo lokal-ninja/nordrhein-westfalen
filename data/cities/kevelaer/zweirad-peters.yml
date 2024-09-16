@@ -4,8 +4,8 @@ latitude: 51.58275
 longitude: 6.24591
 postcode: "47623"
 city: Kevelaer
-street: "Annastraße"
-housenumber: 4
+street: Annastraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:00-18:30; We 08:30-12:30; Sa 08:30-13:00"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,14:00-18:30; We 08:30-12:30; Sa 08:30-13:00
 website: ""

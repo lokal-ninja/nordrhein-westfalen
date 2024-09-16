@@ -4,8 +4,8 @@ latitude: 50.73782
 longitude: 7.11648
 postcode: "53225"
 city: Bonn
-street: "Hermannstraße"
-housenumber: 20
-phone: "+49 228 50212830"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-14:00"
-website: "https://www.kleiderzimmer-bonn.de/"
+street: Hermannstraße
+housenumber: "20"
+phone: +49 228 50212830
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-14:00
+website: https://www.kleiderzimmer-bonn.de/

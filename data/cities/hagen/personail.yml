@@ -4,8 +4,8 @@ latitude: 51.37968
 longitude: 7.4771
 postcode: "58097"
 city: Hagen
-street: "Boeler Straße"
-housenumber: 120
+street: Boeler Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

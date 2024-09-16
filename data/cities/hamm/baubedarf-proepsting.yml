@@ -1,11 +1,11 @@
 id: 318437077
-type: way
+type: node
 latitude: 51.67082
 longitude: 7.81574
 postcode: "59063"
 city: Hamm
-street: "Schumannstraße"
-housenumber: 14
-phone: "+49 2381 5555"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-12:00; Su,PH off"
-website: "https://www.baubedarf-proepsting.de/"
+street: Schumannstraße
+housenumber: "14"
+phone: +49 2381 5555
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-12:00; Su,PH off
+website: https://www.baubedarf-proepsting.de/

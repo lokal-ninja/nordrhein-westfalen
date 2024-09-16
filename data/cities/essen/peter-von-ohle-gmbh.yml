@@ -1,11 +1,11 @@
 id: 106507867
-type: way
+type: node
 latitude: 51.45825
 longitude: 7.05533
 postcode: "45307"
 city: Essen
-street: "Wilhelm-Beckmann-Straße"
-housenumber: 2
+street: Wilhelm-Beckmann-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.vonohle.de"
+website: http://www.vonohle.de

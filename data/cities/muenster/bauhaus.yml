@@ -1,11 +1,11 @@
 id: 120030437
-type: way
+type: node
 latitude: 51.94409
 longitude: 7.6472
 postcode: "48155"
 city: Münster
-street: "Theodor-Scheiwe-Straße"
-housenumber: 2
-phone: "+49 251 1332250"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.bauhaus.info/"
+street: Theodor-Scheiwe-Straße
+housenumber: "2"
+phone: +49 251 1332250
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.bauhaus.info/

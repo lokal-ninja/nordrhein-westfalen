@@ -4,8 +4,8 @@ latitude: 50.64527
 longitude: 6.1948
 postcode: "52159"
 city: Roetgen
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,15:00-18:30; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-12:30,15:00-18:30; Sa 09:00-13:00; Su,PH off
 website: ""

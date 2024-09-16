@@ -1,11 +1,11 @@
 id: 176701108
-type: way
+type: node
 latitude: 51.45142
 longitude: 6.62849
 postcode: "47441"
 city: Moers
-street: "Steinstraße"
-housenumber: 30
+street: Steinstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.00812
 longitude: 6.81061
 postcode: "50259"
 city: Pulheim
-street: "Albrecht-Dürer-Straße"
-housenumber: 23
+street: Albrecht-Dürer-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

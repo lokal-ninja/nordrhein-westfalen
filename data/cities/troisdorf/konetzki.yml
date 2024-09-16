@@ -1,11 +1,11 @@
 id: 88856865
-type: way
+type: node
 latitude: 50.81733
 longitude: 7.12619
 postcode: "53842"
 city: Troisdorf
-street: "Industriestraße"
-housenumber: 17
+street: Industriestraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 280112419
-type: way
+type: node
 latitude: 51.73327
 longitude: 7.16874
 postcode: "45721"
 city: Haltern am See
-street: "Krumme Meer"
-housenumber: 2
+street: Krumme Meer
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

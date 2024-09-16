@@ -1,11 +1,11 @@
 id: 87531797
-type: way
+type: node
 latitude: 50.62838
 longitude: 6.94343
 postcode: "53359"
 city: Rheinbach
-street: "Euskirchener Weg"
-housenumber: 10
+street: Euskirchener Weg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

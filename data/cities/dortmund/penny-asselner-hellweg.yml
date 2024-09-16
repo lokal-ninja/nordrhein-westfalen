@@ -1,11 +1,11 @@
 id: 219136770
-type: way
+type: node
 latitude: 51.52805
 longitude: 7.588
 postcode: "44319"
 city: Dortmund
-street: "Asselner Hellweg"
-housenumber: 143
+street: Asselner Hellweg
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.penny.de/

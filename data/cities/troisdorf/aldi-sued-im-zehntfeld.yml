@@ -1,11 +1,11 @@
 id: 126960671
-type: way
+type: node
 latitude: 50.81036
 longitude: 7.12487
 postcode: "53844"
 city: Troisdorf
-street: "Im Zehntfeld"
-housenumber: 70
+street: Im Zehntfeld
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

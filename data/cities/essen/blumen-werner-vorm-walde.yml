@@ -1,11 +1,11 @@
 id: 28760445
-type: way
+type: node
 latitude: 51.46792
 longitude: 6.93303
 postcode: "45355"
 city: Essen
-street: "Rabenhorst"
-housenumber: 67
+street: Rabenhorst
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.71338
 longitude: 7.04471
 postcode: "53123"
 city: Bonn
-street: "Rochusstraße"
-housenumber: 253
-phone: "+49 228 96289700"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "http://weltfriseur.de/"
+street: Rochusstraße
+housenumber: "253"
+phone: +49 228 96289700
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: http://weltfriseur.de/

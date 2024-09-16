@@ -1,11 +1,11 @@
 id: 342742183
-type: way
+type: node
 latitude: 50.72724
 longitude: 6.18808
 postcode: "52076"
 city: Aachen
-street: "Iternberg"
-housenumber: 34
+street: Iternberg
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "http://peugeot-webers-aachen.de/231305"
+website: http://peugeot-webers-aachen.de/231305

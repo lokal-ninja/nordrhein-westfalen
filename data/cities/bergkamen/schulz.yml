@@ -4,8 +4,8 @@ latitude: 51.60842
 longitude: 7.59015
 postcode: "59192"
 city: Bergkamen
-street: "Jahnstraße"
-housenumber: 30
+street: Jahnstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,15:00-17:00; We 09:00-12:00; Sa 09:30-11:30"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,15:00-17:00; We 09:00-12:00; Sa 09:30-11:30
 website: ""

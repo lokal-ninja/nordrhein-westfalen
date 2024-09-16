@@ -1,11 +1,11 @@
 id: 265035902
-type: way
+type: node
 latitude: 51.97914
 longitude: 8.66448
 postcode: "33818"
 city: Leopoldshöhe
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.dein-anhaenger.com/index.html"
+website: https://www.dein-anhaenger.com/index.html

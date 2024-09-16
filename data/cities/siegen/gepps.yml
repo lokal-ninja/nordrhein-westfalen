@@ -4,8 +4,8 @@ latitude: 50.87425
 longitude: 8.01455
 postcode: "57072"
 city: Siegen
-street: "Am Bahnhof"
-housenumber: 40
-phone: "+49 271 31 36 66 88"
-opening_hours: "Mo-Sa 9:30-20:00"
-website: "https://www.gepps.de/dein-gaumenfreund-in-siegen/"
+street: Am Bahnhof
+housenumber: "40"
+phone: +49 271 31 36 66 88
+opening_hours: Mo-Sa 9:30-20:00
+website: https://www.gepps.de/dein-gaumenfreund-in-siegen/

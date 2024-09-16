@@ -1,11 +1,11 @@
 id: 336150848
-type: way
+type: node
 latitude: 51.56477
 longitude: 8.08494
 postcode: "59494"
 city: Soest
-street: "Werler Landstraße"
-housenumber: 14
+street: Werler Landstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

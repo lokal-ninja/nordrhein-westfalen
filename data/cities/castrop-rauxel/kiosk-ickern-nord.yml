@@ -1,11 +1,11 @@
 id: 125141959
-type: way
+type: node
 latitude: 51.59611
 longitude: 7.35193
 postcode: "44581"
 city: Castrop-Rauxel
-street: "Leveringhauser Straße"
-housenumber: 91
+street: Leveringhauser Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

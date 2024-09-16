@@ -1,11 +1,11 @@
 id: 95194160
-type: way
+type: node
 latitude: 51.55149
 longitude: 7.29558
 postcode: "44579"
 city: Castrop-Rauxel
-street: "Westring"
-housenumber: 206
+street: Westring
+housenumber: "206"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

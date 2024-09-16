@@ -4,8 +4,8 @@ latitude: 51.22421
 longitude: 6.7741
 postcode: "40213"
 city: Düsseldorf
-street: "Mittelstraße"
-housenumber: 19
+street: Mittelstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.misterspex.de"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.misterspex.de

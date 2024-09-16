@@ -1,11 +1,11 @@
 id: 46961131
-type: way
+type: node
 latitude: 51.44603
 longitude: 7.02903
 postcode: "45138"
 city: Essen
-street: "Ruhrallee"
-housenumber: 59
+street: Ruhrallee
+housenumber: "59"
 phone: ""
-opening_hours: "Sa 09:30-14:00; Tu-Fr 09:30-14:00,15:00-18:30"
-website: "https://www.kaspar-spirituosen.de/"
+opening_hours: Sa 09:30-14:00; Tu-Fr 09:30-14:00,15:00-18:30
+website: https://www.kaspar-spirituosen.de/

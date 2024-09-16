@@ -1,11 +1,11 @@
 id: 1104196903
-type: way
+type: node
 latitude: 51.28243
 longitude: 7.17194
 postcode: "42109"
 city: Wuppertal
-street: "Uellendahler Straße"
-housenumber: 525
+street: Uellendahler Straße
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 54725903
-type: way
+type: node
 latitude: 51.50408
 longitude: 7.32513
 postcode: "44388"
 city: Dortmund
-street: "Provinzialstraße"
-housenumber: 195
+street: Provinzialstraße
+housenumber: "195"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-16:00
 website: ""

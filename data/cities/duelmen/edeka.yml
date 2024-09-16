@@ -1,11 +1,11 @@
 id: 297227980
-type: way
+type: node
 latitude: 51.84144
 longitude: 7.26414
 postcode: "48249"
 city: Dülmen
-street: "Auf der Flage"
-housenumber: 42
-phone: "+49 2594 85520"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Auf der Flage
+housenumber: "42"
+phone: +49 2594 85520
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

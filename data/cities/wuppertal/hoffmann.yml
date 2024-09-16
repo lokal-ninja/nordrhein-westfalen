@@ -4,8 +4,8 @@ latitude: 51.23808
 longitude: 7.09731
 postcode: "42327"
 city: Wuppertal
-street: "Sonnborner Straße"
-housenumber: 79
-phone: "+49 202 74 13 26"
-opening_hours: "Mo-Fr 09:30-13:00, 15:00-18:30; Sa 9:30-13:00"
-website: "https://www.elektro-hoffmann-wuppertal.de/"
+street: Sonnborner Straße
+housenumber: "79"
+phone: +49 202 74 13 26
+opening_hours: Mo-Fr 09:30-13:00, 15:00-18:30; Sa 9:30-13:00
+website: https://www.elektro-hoffmann-wuppertal.de/

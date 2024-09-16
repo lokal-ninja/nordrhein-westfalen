@@ -1,11 +1,11 @@
 id: 1280967166
-type: way
+type: node
 latitude: 50.60808
 longitude: 6.30812
 postcode: "52152"
 city: Simmerath
-street: "In den Bremen"
-housenumber: 19
+street: In den Bremen
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://store-anything.com/"
+website: https://store-anything.com/

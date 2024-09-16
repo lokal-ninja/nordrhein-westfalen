@@ -4,8 +4,10 @@ latitude: 51.26889
 longitude: 7.17841
 postcode: "42283"
 city: Wuppertal
-street: "Schönebecker Straße"
+street: Schönebecker Straße
 housenumber: 2A
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-13:00; easter -49 days-easter -47 days: off Karnevalssonntag und Rosenmontag geschlossen.; easter off; easter +1 day off"
+opening_hours: 'Tu-Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-13:00; easter -49 days-easter
+    -47 days: off "Karnevalssonntag und Rosenmontag geschlossen."; easter off; easter
+    +1 day off'
 website: ""

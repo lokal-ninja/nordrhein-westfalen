@@ -1,11 +1,11 @@
 id: 164244466
-type: way
+type: node
 latitude: 51.94003
 longitude: 8.29546
 postcode: "33428"
 city: Marienfeld
-street: "Südfeld"
-housenumber: 47
+street: Südfeld
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.sport-weckenbrock.de/"
+website: https://www.sport-weckenbrock.de/

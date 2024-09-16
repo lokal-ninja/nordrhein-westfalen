@@ -1,11 +1,11 @@
 id: 94520829
-type: way
+type: node
 latitude: 50.60634
 longitude: 6.30605
 postcode: "52152"
 city: Simmerath
-street: "Robert-Koch-Straße"
-housenumber: 39
+street: Robert-Koch-Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/simmerath/robert-koch-str-39.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/filialen/simmerath/robert-koch-str-39.html

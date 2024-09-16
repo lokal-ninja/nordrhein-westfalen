@@ -4,8 +4,8 @@ latitude: 51.23129
 longitude: 6.74848
 postcode: "40545"
 city: Düsseldorf
-street: "Cheruskerstraße"
-housenumber: 111
-phone: "+49 211 95592995"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.butlers.com/"
+street: Cheruskerstraße
+housenumber: "111"
+phone: +49 211 95592995
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.butlers.com/

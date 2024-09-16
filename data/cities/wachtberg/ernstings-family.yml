@@ -4,8 +4,8 @@ latitude: 50.62255
 longitude: 7.126
 postcode: "53343"
 city: Wachtberg
-street: "Bernareggio-Platz"
-housenumber: 3
+street: Bernareggio-Platz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.ernstings-family.de/

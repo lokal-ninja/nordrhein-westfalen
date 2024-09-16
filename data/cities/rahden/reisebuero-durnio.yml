@@ -4,8 +4,8 @@ latitude: 52.43278
 longitude: 8.61253
 postcode: "32369"
 city: Rahden
-street: "Steinstraße"
-housenumber: 4
-phone: "+49 5771 91110"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "http://www.durnio.de/"
+street: Steinstraße
+housenumber: "4"
+phone: +49 5771 91110
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:00; Sa 09:00-13:00
+website: http://www.durnio.de/

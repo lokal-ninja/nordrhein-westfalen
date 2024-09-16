@@ -1,11 +1,11 @@
 id: 117878872
-type: way
+type: node
 latitude: 50.7867
 longitude: 6.06398
 postcode: "52072"
 city: Aachen
-street: "Süsterfeldstraße"
-housenumber: 170
+street: Süsterfeldstraße
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

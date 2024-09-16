@@ -1,11 +1,11 @@
 id: 998260745
-type: way
+type: node
 latitude: 51.68592
 longitude: 7.46768
 postcode: "59379"
 city: Selm
-street: "Kreisstraße"
-housenumber: 92
+street: Kreisstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/selm/kreisstrasse-92.html"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/selm/kreisstrasse-92.html

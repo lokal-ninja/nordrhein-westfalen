@@ -4,8 +4,8 @@ latitude: 52.03314
 longitude: 8.61086
 postcode: "33719"
 city: Bielefeld
-street: "Amtmann-Bullrich-Straße"
-housenumber: 22
+street: Amtmann-Bullrich-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/6209.ohtm/6281"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/6209.ohtm/6281

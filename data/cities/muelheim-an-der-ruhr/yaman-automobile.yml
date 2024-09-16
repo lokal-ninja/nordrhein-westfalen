@@ -1,11 +1,11 @@
 id: 141974272
-type: way
+type: node
 latitude: 51.43498
 longitude: 6.92125
 postcode: "45472"
 city: Mülheim an der Ruhr
-street: "Nebenbank"
-housenumber: 9
+street: Nebenbank
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/YAMANAUTOMOBILE#ses"
+website: https://home.mobile.de/YAMANAUTOMOBILE#ses

@@ -4,8 +4,8 @@ latitude: 51.42287
 longitude: 6.78028
 postcode: "47057"
 city: Duisburg
-street: "Koloniestraße"
-housenumber: 76
+street: Koloniestraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.weiss-motorencenter.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.weiss-motorencenter.de/

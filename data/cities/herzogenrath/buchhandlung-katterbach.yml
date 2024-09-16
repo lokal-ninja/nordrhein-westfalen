@@ -4,8 +4,8 @@ latitude: 50.83172
 longitude: 6.08996
 postcode: "52134"
 city: Herzogenrath
-street: "Südstraße"
-housenumber: 67
-phone: "+49 2407 17227"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:30; PH off"
-website: "https://buchhandlung-katterbach.buchkatalog.de"
+street: Südstraße
+housenumber: "67"
+phone: +49 2407 17227
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:30; PH off
+website: https://buchhandlung-katterbach.buchkatalog.de

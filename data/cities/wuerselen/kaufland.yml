@@ -1,11 +1,11 @@
 id: 329057236
-type: way
+type: node
 latitude: 50.80886
 longitude: 6.15266
 postcode: "52146"
 city: Würselen
-street: "Schumanstraße"
-housenumber: 4
-phone: "+49 2405 4829490"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Schumanstraße
+housenumber: "4"
+phone: +49 2405 4829490
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

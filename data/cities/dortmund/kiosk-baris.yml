@@ -1,11 +1,11 @@
 id: 55070738
-type: way
+type: node
 latitude: 51.51109
 longitude: 7.45764
 postcode: "44137"
 city: Dortmund
-street: "Johannesstraße"
+street: Johannesstraße
 housenumber: 8a
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:30; Sa 09:00-20:30; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:00-20:30; Sa 09:00-20:30; Su 09:00-17:00
 website: ""

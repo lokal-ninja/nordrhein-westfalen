@@ -4,8 +4,8 @@ latitude: 50.80389
 longitude: 7.20311
 postcode: "53721"
 city: Siegburg
-street: "Gartenstraße"
-housenumber: 1
-phone: "+49 2241 9386733"
+street: Gartenstraße
+housenumber: "1"
+phone: +49 2241 9386733
 opening_hours: ""
-website: "https://laola-siegburg.de/"
+website: https://laola-siegburg.de/

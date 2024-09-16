@@ -1,11 +1,11 @@
 id: 159392076
-type: way
+type: node
 latitude: 50.83599
 longitude: 7.20396
 postcode: "53797"
 city: Lohmar
-street: "Auelsweg"
-housenumber: 22
+street: Auelsweg
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-We 15:00-19:00; Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.jacques.de/depot/165/lohmar/"
+opening_hours: Tu-We 15:00-19:00; Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.jacques.de/depot/165/lohmar/

@@ -4,8 +4,8 @@ latitude: 51.16579
 longitude: 6.44176
 postcode: "41236"
 city: Mönchengladbach
-street: "Stresemannstraße"
-housenumber: 2
-phone: "+49 800 6504030"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 07:30-12:00,13:00-15:15;Su, PH off"
+street: Stresemannstraße
+housenumber: "2"
+phone: +49 800 6504030
+opening_hours: Mo-Fr 09:00-17:00; Sa 07:30-12:00,13:00-15:15;Su, PH off
 website: ""

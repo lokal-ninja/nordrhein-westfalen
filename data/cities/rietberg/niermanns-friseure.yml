@@ -1,11 +1,11 @@
 id: 386870126
-type: way
+type: node
 latitude: 51.83041
 longitude: 8.44268
 postcode: "33397"
 city: Rietberg
-street: "Lange Straße"
-housenumber: 120
+street: Lange Straße
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

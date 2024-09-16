@@ -4,8 +4,8 @@ latitude: 51.45584
 longitude: 7.2506
 postcode: "44803"
 city: Bochum
-street: "Markstraße"
-housenumber: 116
+street: Markstraße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.22988
 longitude: 7.06806
 postcode: "42329"
 city: Wuppertal
-street: "Rubensstraße"
-housenumber: 3
+street: Rubensstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-15:00"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-15:00
 website: ""

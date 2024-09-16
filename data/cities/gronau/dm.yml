@@ -4,8 +4,8 @@ latitude: 52.20433
 longitude: 7.05284
 postcode: "48599"
 city: Gronau
-street: "Ochtruper Straße"
-housenumber: 218
-phone: "+49 2562 8163739"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2190/gronau/ochtruper-strasse-218"
+street: Ochtruper Straße
+housenumber: "218"
+phone: +49 2562 8163739
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2190/gronau/ochtruper-strasse-218

@@ -1,11 +1,11 @@
 id: 112293371
-type: way
+type: node
 latitude: 50.80537
 longitude: 7.1323
 postcode: "53844"
 city: Troisdorf
-street: "Teutonenstraße"
-housenumber: 3
+street: Teutonenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

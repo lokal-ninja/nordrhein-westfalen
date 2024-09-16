@@ -1,11 +1,11 @@
 id: 107702688
-type: way
+type: node
 latitude: 51.3786
 longitude: 7.4602
 postcode: "58099"
 city: Hagen
-street: "Freiligrathstraße"
-housenumber: 30
+street: Freiligrathstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

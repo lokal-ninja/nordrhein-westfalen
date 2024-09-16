@@ -1,11 +1,11 @@
 id: 252966067
-type: way
+type: node
 latitude: 50.91941
 longitude: 6.84539
 postcode: "50858"
 city: Köln
-street: "Max-Planck-Straße"
+street: Max-Planck-Straße
 housenumber: 26a
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.schlaferei-koeln.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.schlaferei-koeln.de/

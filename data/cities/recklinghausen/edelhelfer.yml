@@ -1,11 +1,11 @@
 id: 212551341
-type: way
+type: node
 latitude: 51.61281
 longitude: 7.20391
 postcode: "45665"
 city: Recklinghausen
-street: "Dortmunder Straße"
-housenumber: 20
-phone: "+49 2361 9437420"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://die-edelhelfer.de/"
+street: Dortmunder Straße
+housenumber: "20"
+phone: +49 2361 9437420
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://die-edelhelfer.de/

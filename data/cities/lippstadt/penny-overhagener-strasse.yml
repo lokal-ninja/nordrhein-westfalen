@@ -1,11 +1,11 @@
 id: 90307462
-type: way
+type: node
 latitude: 51.66377
 longitude: 8.34195
 postcode: "59557"
 city: Lippstadt
-street: "Overhagener Straße"
-housenumber: 20
+street: Overhagener Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 258349019
-type: way
+type: node
 latitude: 51.341
 longitude: 6.55783
 postcode: "47798"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 17
+street: Hülser Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.studionagelneu-krefeld.de/"
+website: https://www.studionagelneu-krefeld.de/

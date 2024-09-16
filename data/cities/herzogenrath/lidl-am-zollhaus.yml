@@ -1,11 +1,11 @@
 id: 87544825
-type: way
+type: node
 latitude: 50.84696
 longitude: 6.07466
 postcode: "52134"
 city: Herzogenrath
-street: "Am Zollhaus"
-housenumber: 1
+street: Am Zollhaus
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

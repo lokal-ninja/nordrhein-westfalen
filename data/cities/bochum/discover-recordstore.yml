@@ -4,8 +4,8 @@ latitude: 51.48165
 longitude: 7.2208
 postcode: "44787"
 city: Bochum
-street: "Untere Marktstraße"
-housenumber: 1
-phone: "+49 234 65533"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://discover-music.de/"
+street: Untere Marktstraße
+housenumber: "1"
+phone: +49 234 65533
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://discover-music.de/

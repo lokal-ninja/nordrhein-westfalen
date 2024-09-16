@@ -4,8 +4,8 @@ latitude: 50.93992
 longitude: 6.88484
 postcode: "50933"
 city: Köln
-street: "Elisabeth-Schiemann-Weg"
-housenumber: 9
-phone: "+49 151 20181816"
-opening_hours: "24/7"
-website: "https://deinreiseberater.com"
+street: Elisabeth-Schiemann-Weg
+housenumber: "9"
+phone: +49 151 20181816
+opening_hours: 24/7
+website: https://deinreiseberater.com

@@ -4,8 +4,8 @@ latitude: 50.9367
 longitude: 6.97466
 postcode: "50679"
 city: Köln
-street: "Deutzer Freiheit"
-housenumber: 82
-phone: "+49 221 2224759"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:30"
+street: Deutzer Freiheit
+housenumber: "82"
+phone: +49 221 2224759
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.02962
 longitude: 8.52786
 postcode: "33615"
 city: Bielefeld
-street: "Weststraße"
-housenumber: 102
-phone: "+49-521-1368230"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "http://www.foto-treffpunkt.de/"
+street: Weststraße
+housenumber: "102"
+phone: +49-521-1368230
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: http://www.foto-treffpunkt.de/

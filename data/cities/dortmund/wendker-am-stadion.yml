@@ -1,11 +1,11 @@
 id: 128970906
-type: way
+type: node
 latitude: 51.49686
 longitude: 7.44119
 postcode: "44139"
 city: Dortmund
-street: "Rosemeyerstraße"
-housenumber: 1
+street: Rosemeyerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.ebbinghaus-automobile.de/standorte/ebbinghaus-am-stadion/"
+website: https://www.ebbinghaus-automobile.de/standorte/ebbinghaus-am-stadion/

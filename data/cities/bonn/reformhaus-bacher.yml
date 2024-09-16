@@ -4,8 +4,8 @@ latitude: 50.73579
 longitude: 7.09895
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 62
-phone: "+49 228 94559310"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.reformhaus-bacher.de/"
+street: Sternstraße
+housenumber: "62"
+phone: +49 228 94559310
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.reformhaus-bacher.de/

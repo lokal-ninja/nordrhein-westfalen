@@ -1,11 +1,11 @@
 id: 225015574
-type: way
+type: node
 latitude: 51.45598
 longitude: 7.61397
 postcode: "58239"
 city: Schwerte
-street: "Zwischen den Wegen"
-housenumber: 1
+street: Zwischen den Wegen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

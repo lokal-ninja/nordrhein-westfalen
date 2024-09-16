@@ -1,11 +1,11 @@
 id: 917146862
-type: way
+type: node
 latitude: 51.42917
 longitude: 6.88621
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 43784329"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.ernstings-family.de/"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 43784329
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.ernstings-family.de/

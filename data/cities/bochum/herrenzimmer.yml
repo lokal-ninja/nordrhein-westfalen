@@ -4,8 +4,8 @@ latitude: 51.48257
 longitude: 7.2246
 postcode: "44787"
 city: Bochum
-street: "Ostring"
-housenumber: 20
+street: Ostring
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 11:00-15:00, Mo,Tu,Th,Fr 16:00-20:00, We 16:00-18:00"
-website: "https://www.herrenzimmer.biz/"
+opening_hours: Mo-Fr 11:00-15:00, Mo,Tu,Th,Fr 16:00-20:00, We 16:00-18:00
+website: https://www.herrenzimmer.biz/

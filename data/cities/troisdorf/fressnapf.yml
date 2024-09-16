@@ -1,11 +1,11 @@
 id: 48781209
-type: way
+type: node
 latitude: 50.83497
 longitude: 7.11202
 postcode: "53842"
 city: Troisdorf
-street: "Maarstraße"
-housenumber: 68
+street: Maarstraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
-website: "https://www.fressnapf.de/stores/fressnapf-troisdorf-1/"
+website: https://www.fressnapf.de/stores/fressnapf-troisdorf-1/

@@ -1,11 +1,11 @@
 id: 444586841
-type: way
+type: node
 latitude: 51.46823
 longitude: 6.94608
 postcode: "45355"
 city: Essen
-street: "Borbecker Straße"
-housenumber: 219
-phone: "+49-201-6463003"
+street: Borbecker Straße
+housenumber: "219"
+phone: +49-201-6463003
 opening_hours: ""
 website: ""

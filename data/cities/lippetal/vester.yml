@@ -1,11 +1,11 @@
 id: 291315994
-type: way
+type: node
 latitude: 51.67442
 longitude: 8.02855
 postcode: "59510"
 city: Lippetal
-street: "Polmerheide"
-housenumber: 12
+street: Polmerheide
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

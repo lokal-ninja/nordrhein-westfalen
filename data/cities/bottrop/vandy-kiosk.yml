@@ -4,8 +4,8 @@ latitude: 51.60353
 longitude: 6.91844
 postcode: "46244"
 city: Bottrop
-street: "Hauptstraße"
-housenumber: 13
+street: Hauptstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Do 10:00 - 22:00, Fr-Sa 10:00-00:00, So 12:00-22:00"
+opening_hours: Mo-Do 10:00 - 22:00, Fr-Sa 10:00-00:00, So 12:00-22:00
 website: ""

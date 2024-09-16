@@ -1,11 +1,11 @@
 id: 197887109
-type: way
+type: node
 latitude: 50.8685
 longitude: 8.06356
 postcode: "57074"
 city: Siegen
-street: "In der Steinwiese"
-housenumber: 74
-phone: "+49 271 660760"
-opening_hours: "Mo-Th 7:45-12:00 , 12:45-16:30, Fr 7:30-14:00"
-website: "www.werbe-wienand.de"
+street: In der Steinwiese
+housenumber: "74"
+phone: +49 271 660760
+opening_hours: Mo-Th 7:45-12:00 , 12:45-16:30, Fr 7:30-14:00
+website: www.werbe-wienand.de

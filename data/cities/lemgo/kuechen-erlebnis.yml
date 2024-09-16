@@ -4,8 +4,8 @@ latitude: 52.02212
 longitude: 8.88158
 postcode: "32657"
 city: Lemgo
-street: "Lagesche Straße"
-housenumber: 76
-phone: "+49 5261 9218730"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.kuechen-erlebnis-lemgo.de/"
+street: Lagesche Straße
+housenumber: "76"
+phone: +49 5261 9218730
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.kuechen-erlebnis-lemgo.de/

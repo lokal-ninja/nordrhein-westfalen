@@ -1,11 +1,12 @@
 id: 146441603
-type: way
+type: node
 latitude: 51.05056
 longitude: 6.21867
 postcode: "41836"
 city: Hückelhoven
-street: "Neckarstraße"
-housenumber: 3
+street: Neckarstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su off"
-website: "https://www.action.com/de-de/laden/huckelhoven-neckarstr/"
+opening_hours: Mo-Sa 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00;
+    Fr 09:00-20:00; Sa 09:00-20:00; Su off
+website: https://www.action.com/de-de/laden/huckelhoven-neckarstr/

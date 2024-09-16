@@ -1,11 +1,11 @@
 id: 98732909
-type: way
+type: node
 latitude: 50.82651
 longitude: 7.12109
 postcode: "53842"
 city: Troisdorf
-street: "Auf der Bitz"
-housenumber: 3
-phone: "+49 2241 74444"
+street: Auf der Bitz
+housenumber: "3"
+phone: +49 2241 74444
 opening_hours: ""
 website: ""

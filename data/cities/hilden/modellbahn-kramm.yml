@@ -4,8 +4,8 @@ latitude: 51.1661
 longitude: 6.93083
 postcode: "40723"
 city: Hilden
-street: "Hofstraße"
-housenumber: 12
+street: Hofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00"
-website: "https://www.modellbahn-kramm.com"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00
+website: https://www.modellbahn-kramm.com

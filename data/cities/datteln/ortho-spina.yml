@@ -1,11 +1,11 @@
 id: 110749336
-type: way
+type: node
 latitude: 51.66622
 longitude: 7.34581
 postcode: "45711"
 city: Datteln
-street: "Drievener Weg"
-housenumber: 3
+street: Drievener Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.ortho-spina.de/"
+website: https://www.ortho-spina.de/

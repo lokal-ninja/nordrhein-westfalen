@@ -4,8 +4,8 @@ latitude: 50.8023
 longitude: 7.13653
 postcode: "53844"
 city: Troisdorf
-street: "Schmelzer Weg"
-housenumber: 20
+street: Schmelzer Weg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 08:00-12:30,14:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"
-website: "https://blumen-zuendorf.de/"
+opening_hours: Mo,We,Th,Fr 08:00-12:30,14:00-18:00; Sa 08:00-14:00; Su 10:00-12:00
+website: https://blumen-zuendorf.de/

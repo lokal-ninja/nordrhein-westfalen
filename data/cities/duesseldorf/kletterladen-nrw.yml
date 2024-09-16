@@ -4,8 +4,8 @@ latitude: 51.1714
 longitude: 6.87184
 postcode: "40599"
 city: Düsseldorf
-street: "Süllenstraße"
-housenumber: 28
+street: Süllenstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.kletterladen.nrw/"
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.kletterladen.nrw/

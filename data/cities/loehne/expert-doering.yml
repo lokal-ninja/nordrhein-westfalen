@@ -4,8 +4,8 @@ latitude: 52.21843
 longitude: 8.70974
 postcode: "32584"
 city: Löhne
-street: "Lübbecker Straße"
-housenumber: 100
-phone: "+49 5732 7686"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.doering.tv"
+street: Lübbecker Straße
+housenumber: "100"
+phone: +49 5732 7686
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.doering.tv

@@ -4,8 +4,8 @@ latitude: 51.29612
 longitude: 6.84918
 postcode: "40878"
 city: Ratingen
-street: "Wallstraße"
-housenumber: 30
-phone: "+49 2102 25 8 59"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.bioladen-garteneden.de/"
+street: Wallstraße
+housenumber: "30"
+phone: +49 2102 25 8 59
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.bioladen-garteneden.de/

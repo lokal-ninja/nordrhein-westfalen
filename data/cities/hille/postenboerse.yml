@@ -1,11 +1,11 @@
 id: 247284370
-type: way
+type: node
 latitude: 52.33849
 longitude: 8.74471
 postcode: "32479"
 city: Hille
-street: "Brennhorster Straße"
-housenumber: 16
+street: Brennhorster Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
 website: ""

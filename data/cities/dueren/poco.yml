@@ -1,11 +1,11 @@
 id: 467746394
-type: way
+type: node
 latitude: 50.78139
 longitude: 6.50495
 postcode: "52351"
 city: Düren
-street: "Nikolaus-Otto-Straße"
-housenumber: 8
+street: Nikolaus-Otto-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.poco.de/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.poco.de/

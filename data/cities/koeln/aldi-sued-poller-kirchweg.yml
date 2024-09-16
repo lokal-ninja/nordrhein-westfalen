@@ -1,11 +1,11 @@
 id: 169503385
-type: way
+type: node
 latitude: 50.91774
 longitude: 6.98408
 postcode: "51105"
 city: Köln
-street: "Poller Kirchweg"
-housenumber: 76
+street: Poller Kirchweg
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

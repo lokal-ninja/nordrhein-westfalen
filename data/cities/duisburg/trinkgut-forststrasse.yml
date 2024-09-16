@@ -1,11 +1,11 @@
 id: 31341534
-type: way
+type: node
 latitude: 51.39656
 longitude: 6.75291
 postcode: "47055"
 city: Duisburg
-street: "Forststraße"
-housenumber: 25
-phone: "+49-203-3488253"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Forststraße
+housenumber: "25"
+phone: +49-203-3488253
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 35428815
-type: way
+type: node
 latitude: 50.84144
 longitude: 6.45341
 postcode: "52353"
 city: Düren
-street: "Talbenden"
-housenumber: 2
+street: Talbenden
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 92841051
-type: way
+type: node
 latitude: 51.67196
 longitude: 7.81174
 postcode: "59065"
 city: Hamm
-street: "Alleestraße"
-housenumber: 112
-phone: "+49 2381 8711730"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.autohaus-2000.net/"
+street: Alleestraße
+housenumber: "112"
+phone: +49 2381 8711730
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.autohaus-2000.net/

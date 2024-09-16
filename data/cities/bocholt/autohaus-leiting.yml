@@ -1,11 +1,11 @@
 id: 254245600
-type: way
+type: node
 latitude: 51.83158
 longitude: 6.62391
 postcode: "46395"
 city: Bocholt
-street: "Mühlenweg"
-housenumber: 20
+street: Mühlenweg
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://leiting-automobile.de/"
+website: https://leiting-automobile.de/

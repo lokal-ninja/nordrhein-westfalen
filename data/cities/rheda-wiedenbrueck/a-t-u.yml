@@ -1,11 +1,11 @@
 id: 291737867
-type: way
+type: node
 latitude: 51.8381
 longitude: 8.30024
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Hauptstraße"
-housenumber: 69
+street: Hauptstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

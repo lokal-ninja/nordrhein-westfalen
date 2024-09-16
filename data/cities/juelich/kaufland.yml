@@ -1,11 +1,11 @@
 id: 186673584
-type: way
+type: node
 latitude: 50.92762
 longitude: 6.37141
 postcode: "52428"
 city: Jülich
-street: "An der Leimkaul"
-housenumber: 1
+street: An der Leimkaul
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.kaufland.de/

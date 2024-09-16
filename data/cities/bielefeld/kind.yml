@@ -4,8 +4,8 @@ latitude: 52.02044
 longitude: 8.53091
 postcode: "33602"
 city: Bielefeld
-street: "Obernstraße"
-housenumber: 8
-phone: "+49 521 68523"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.kind.com/"
+street: Obernstraße
+housenumber: "8"
+phone: +49 521 68523
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.kind.com/

@@ -4,8 +4,8 @@ latitude: 51.42848
 longitude: 7.16519
 postcode: "44879"
 city: Bochum
-street: "Nehringskamp"
-housenumber: 1
+street: Nehringskamp
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-16:00
 website: ""

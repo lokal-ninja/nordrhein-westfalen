@@ -1,11 +1,11 @@
 id: 257520761
-type: way
+type: node
 latitude: 51.71554
 longitude: 8.73238
 postcode: "33102"
 city: Paderborn
-street: "Riemekestraße"
-housenumber: 115
+street: Riemekestraße
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

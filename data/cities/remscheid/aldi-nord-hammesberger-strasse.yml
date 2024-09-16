@@ -1,11 +1,11 @@
 id: 35319953
-type: way
+type: node
 latitude: 51.1902
 longitude: 7.17347
 postcode: "42855"
 city: Remscheid
-street: "Hammesberger Straße"
-housenumber: 24
+street: Hammesberger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/remscheid/hammesberger-strasse-24.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/remscheid/hammesberger-strasse-24.html

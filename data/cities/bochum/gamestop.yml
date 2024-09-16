@@ -4,8 +4,8 @@ latitude: 51.48246
 longitude: 7.21762
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 100
-phone: "+49 234 3387022"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.gamestop.de/"
+street: Kortumstraße
+housenumber: "100"
+phone: +49 234 3387022
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.gamestop.de/

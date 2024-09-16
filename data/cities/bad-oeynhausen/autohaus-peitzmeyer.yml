@@ -1,11 +1,11 @@
 id: 37385481
-type: way
+type: node
 latitude: 52.20623
 longitude: 8.78858
 postcode: "32545"
 city: Bad Oeynhausen
-street: "Kanalstraße"
+street: Kanalstraße
 housenumber: 38 - 42
-phone: "+49 5731 213 10"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00"
-website: "https://www.peitzmeyer.de/"
+phone: +49 5731 213 10
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00
+website: https://www.peitzmeyer.de/

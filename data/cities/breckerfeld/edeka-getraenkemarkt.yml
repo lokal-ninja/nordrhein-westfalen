@@ -1,11 +1,11 @@
 id: 280506320
-type: way
+type: node
 latitude: 51.26339
 longitude: 7.46398
 postcode: "58339"
 city: Breckerfeld
-street: "Windmühlenstraße"
+street: Windmühlenstraße
 housenumber: 13-15
-phone: "+49 2338 8746600"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "http://edeka-breckerfeld.de/"
+phone: +49 2338 8746600
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: http://edeka-breckerfeld.de/

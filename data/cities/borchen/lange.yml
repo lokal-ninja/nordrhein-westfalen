@@ -4,8 +4,8 @@ latitude: 51.66562
 longitude: 8.72577
 postcode: "33178"
 city: Borchen
-street: "Sperenberger Straße"
-housenumber: 1
-phone: "+495251 3909896"
-opening_hours: "Mo-Sa 7:00-19:00; Su 8:00-11:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/borchen-im-combi-markt.php"
+street: Sperenberger Straße
+housenumber: "1"
+phone: +495251 3909896
+opening_hours: Mo-Sa 7:00-19:00; Su 8:00-11:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/borchen-im-combi-markt.php

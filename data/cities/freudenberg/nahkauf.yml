@@ -1,11 +1,11 @@
 id: 82072323
-type: way
+type: node
 latitude: 50.89938
 longitude: 7.88015
 postcode: "57258"
 city: Freudenberg
-street: "Bahnhofstraße"
-housenumber: 72
+street: Bahnhofstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

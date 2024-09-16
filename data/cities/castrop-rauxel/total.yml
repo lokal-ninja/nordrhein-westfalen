@@ -1,11 +1,11 @@
 id: 101528347
-type: way
+type: node
 latitude: 51.58746
 longitude: 7.32586
 postcode: "44581"
 city: Castrop-Rauxel
-street: "Lange Straße"
-housenumber: 159
+street: Lange Straße
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

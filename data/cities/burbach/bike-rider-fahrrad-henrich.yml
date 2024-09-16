@@ -1,11 +1,11 @@
 id: 322321437
-type: way
+type: node
 latitude: 50.71658
 longitude: 8.13618
 postcode: "57299"
 city: Burbach
-street: "Feldstraße"
-housenumber: 2
-phone: "+49 2736 2400"
-opening_hours: "Mo-Fr 14:00-18:00; Sa 9:30-13:30 || nach Vereinbarung"
-website: "https://www.fahrrad-henrich.de/"
+street: Feldstraße
+housenumber: "2"
+phone: +49 2736 2400
+opening_hours: Mo-Fr 14:00-18:00; Sa 9:30-13:30 || "nach Vereinbarung"
+website: https://www.fahrrad-henrich.de/

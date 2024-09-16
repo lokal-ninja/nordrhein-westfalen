@@ -1,11 +1,11 @@
 id: 307351917
-type: way
+type: node
 latitude: 51.44341
 longitude: 6.67725
 postcode: "47198"
 city: Duisburg
-street: "Asberger Straße"
+street: Asberger Straße
 housenumber: 71a
-phone: "+49 2066 31449"
+phone: +49 2066 31449
 opening_hours: ""
-website: "http://www.nather-gmbh.de"
+website: http://www.nather-gmbh.de

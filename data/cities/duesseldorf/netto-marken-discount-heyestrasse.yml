@@ -4,8 +4,8 @@ latitude: 51.22552
 longitude: 6.86292
 postcode: "40625"
 city: Düsseldorf
-street: "Heyestraße"
-housenumber: 103
+street: Heyestraße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/duesseldorf/heyestr-103/6622"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/duesseldorf/heyestr-103/6622

@@ -1,11 +1,11 @@
 id: 207289138
-type: way
+type: node
 latitude: 50.76945
 longitude: 6.94328
 postcode: "53332"
 city: Bornheim
-street: "Lintgesfuhr"
-housenumber: 4
-phone: "+492227/ 18 11"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://www.cartecbornheim.de/"
+street: Lintgesfuhr
+housenumber: "4"
+phone: +492227/ 18 11
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
+website: https://www.cartecbornheim.de/

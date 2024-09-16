@@ -1,11 +1,11 @@
 id: 51983670
-type: way
+type: node
 latitude: 51.62948
 longitude: 7.52772
 postcode: "44534"
 city: Lünen
-street: "Cappenberger Straße"
-housenumber: 98
+street: Cappenberger Straße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

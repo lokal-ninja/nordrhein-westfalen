@@ -4,8 +4,8 @@ latitude: 50.81871
 longitude: 6.26807
 postcode: "52249"
 city: Eschweiler
-street: "Neustraße"
-housenumber: 7
-phone: "+49 2403 32223"
-opening_hours: "Mo-Fr 09:30-18:15,Sa 09:30-14:00"
-website: "https://www.optikereschweiler.de/"
+street: Neustraße
+housenumber: "7"
+phone: +49 2403 32223
+opening_hours: Mo-Fr 09:30-18:15,Sa 09:30-14:00
+website: https://www.optikereschweiler.de/

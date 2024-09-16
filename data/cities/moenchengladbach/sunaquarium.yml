@@ -4,8 +4,8 @@ latitude: 51.1707
 longitude: 6.43972
 postcode: "41236"
 city: Mönchengladbach
-street: "Friedrich-Ebert-Straße"
-housenumber: 132
-phone: "+49 2166 295672"
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-15:00"
-website: "http://www.sunaquarium.de"
+street: Friedrich-Ebert-Straße
+housenumber: "132"
+phone: +49 2166 295672
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-15:00
+website: http://www.sunaquarium.de

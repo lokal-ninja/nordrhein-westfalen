@@ -1,11 +1,11 @@
 id: 97867504
-type: way
+type: node
 latitude: 51.55367
 longitude: 7.68504
 postcode: ""
 city: Unna
-street: "Kamener Straße"
-housenumber: 7
+street: Kamener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

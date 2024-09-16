@@ -1,11 +1,11 @@
 id: 24533676
-type: way
+type: node
 latitude: 51.37979
 longitude: 6.93614
 postcode: "45219"
 city: Essen
-street: "Im Teelbruch"
-housenumber: 105
-phone: "+49 2054 874750"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de/markt/Essen-Kettwig/"
+street: Im Teelbruch
+housenumber: "105"
+phone: +49 2054 874750
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hellweg.de/markt/Essen-Kettwig/

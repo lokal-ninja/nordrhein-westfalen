@@ -4,8 +4,8 @@ latitude: 51.0916
 longitude: 6.88404
 postcode: "40789"
 city: Monheim am Rhein
-street: "Alte Schulstraße"
-housenumber: 3
-phone: "+49 2173 2694586"
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00"
-website: "https://www.naschis-kiosk.de/"
+street: Alte Schulstraße
+housenumber: "3"
+phone: +49 2173 2694586
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00
+website: https://www.naschis-kiosk.de/

@@ -1,11 +1,11 @@
 id: 282506635
-type: way
+type: node
 latitude: 51.24807
 longitude: 7.59699
 postcode: "58513"
 city: Lüdenscheid
-street: "Im Wiesental"
-housenumber: 90
+street: Im Wiesental
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-trimpop.de/"
+website: https://autohaus-trimpop.de/

@@ -4,8 +4,8 @@ latitude: 51.47531
 longitude: 7.43404
 postcode: "44225"
 city: Dortmund
-street: "Harkortstraße"
-housenumber: 102
-phone: "+49 231 5309891"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "http://www.star-computer.de/"
+street: Harkortstraße
+housenumber: "102"
+phone: +49 231 5309891
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00; Su,PH off
+website: http://www.star-computer.de/

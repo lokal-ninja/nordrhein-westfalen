@@ -1,11 +1,11 @@
 id: 545743460
-type: way
+type: node
 latitude: 50.83162
 longitude: 6.53204
 postcode: "52399"
 city: Merzenich
-street: "Am Merzpark"
-housenumber: 1
+street: Am Merzpark
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/merzenich/am-merzpark-1"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/merzenich/am-merzpark-1

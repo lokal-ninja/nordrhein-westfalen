@@ -1,11 +1,11 @@
 id: 281274535
-type: way
+type: node
 latitude: 51.49538
 longitude: 6.95758
 postcode: "45356"
 city: Essen
-street: "Econova-Allee"
-housenumber: 26
+street: Econova-Allee
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30"
-website: "https://www.boels.de/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:30
+website: https://www.boels.de/

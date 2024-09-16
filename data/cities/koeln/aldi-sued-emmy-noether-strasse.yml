@@ -1,11 +1,11 @@
 id: 62829546
-type: way
+type: node
 latitude: 50.91829
 longitude: 6.84978
 postcode: "50858"
 city: Köln
-street: "Emmy-Noether-Straße"
-housenumber: 10
+street: Emmy-Noether-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

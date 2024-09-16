@@ -4,8 +4,9 @@ latitude: 51.66876
 longitude: 8.72333
 postcode: "33178"
 city: Borchen
-street: "Paderborner Straße"
-housenumber: 9
+street: Paderborner Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Tu 9:00-13:00, 14:00-18:30; We 9:00-13:00; Th-Fr 9:00-13:00, 14:00-18:30; Sa 9:0-13:00"
+opening_hours: Mo-Tu 9:00-13:00, 14:00-18:30; We 9:00-13:00; Th-Fr 9:00-13:00, 14:00-18:30;
+    Sa 9:0-13:00
 website: ""

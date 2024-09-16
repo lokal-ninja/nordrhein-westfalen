@@ -1,11 +1,11 @@
 id: 251258173
-type: way
+type: node
 latitude: 51.83008
 longitude: 9.42118
 postcode: "37671"
 city: Höxter
-street: "Stahler Weg"
-housenumber: 7
+street: Stahler Weg
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.mi-automobile.de/"
+website: http://www.mi-automobile.de/

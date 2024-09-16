@@ -1,11 +1,11 @@
 id: 55447830
-type: way
+type: node
 latitude: 51.49716
 longitude: 7.36776
 postcode: "44379"
 city: Dortmund
-street: "Oespeler Kirchweg"
-housenumber: 8
+street: Oespeler Kirchweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00; Sa,Su off"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00; Sa,Su off
 website: ""

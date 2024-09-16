@@ -4,8 +4,8 @@ latitude: 51.09455
 longitude: 6.81111
 postcode: "41540"
 city: Dormagen
-street: "Lübecker Straße"
-housenumber: 1
-phone: "+49 2133 259733"
-opening_hours: "Mo-Sa 08:00-20:30; Su, PH off"
-website: "https://www.dm.de/store/de-1185/dormagen/luebecker-strasse-1"
+street: Lübecker Straße
+housenumber: "1"
+phone: +49 2133 259733
+opening_hours: Mo-Sa 08:00-20:30; Su, PH off
+website: https://www.dm.de/store/de-1185/dormagen/luebecker-strasse-1

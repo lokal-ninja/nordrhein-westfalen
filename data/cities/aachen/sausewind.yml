@@ -4,8 +4,9 @@ latitude: 50.76631
 longitude: 6.08115
 postcode: "52064"
 city: Aachen
-street: "Südstraße"
-housenumber: 60
-phone: "+49 241 4009284"
-opening_hours: "Oct 01-Apr 30 Mo 13:00-19:00; May 01-Sep 30 Mo 10:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-14:00"
+street: Südstraße
+housenumber: "60"
+phone: +49 241 4009284
+opening_hours: Oct 01-Apr 30 Mo 13:00-19:00; May 01-Sep 30 Mo 10:00-19:00; Tu-Fr 10:00-19:00;
+    Sa 10:00-14:00
 website: ""

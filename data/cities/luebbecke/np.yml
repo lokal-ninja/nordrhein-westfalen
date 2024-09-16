@@ -1,11 +1,11 @@
 id: 153164022
-type: way
+type: node
 latitude: 52.31303
 longitude: 8.60374
 postcode: "32312"
 city: Lübbecke
-street: "Alsweder Straße"
-housenumber: 41
-phone: "+49 5741 30541"
+street: Alsweder Straße
+housenumber: "41"
+phone: +49 5741 30541
 opening_hours: ""
-website: "https://www.np.de/"
+website: https://www.np.de/

@@ -1,11 +1,11 @@
 id: 395162688
-type: way
+type: node
 latitude: 51.51369
 longitude: 6.74162
 postcode: "47169"
 city: Duisburg
-street: "Weseler Straße"
-housenumber: 261
+street: Weseler Straße
+housenumber: "261"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

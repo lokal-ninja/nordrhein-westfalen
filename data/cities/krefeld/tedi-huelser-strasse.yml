@@ -4,8 +4,8 @@ latitude: 51.34129
 longitude: 6.55652
 postcode: "47798"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 38
+street: Hülser Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off
+website: https://www.tedi.com/

@@ -4,8 +4,8 @@ latitude: 51.22893
 longitude: 6.74896
 postcode: "40545"
 city: Düsseldorf
-street: "Steffenstraße"
-housenumber: 1
-phone: "+49 211 55026991"
-opening_hours: "Di - Fr: 12.00 - 20.00 Uhr Mo & Sa: nach Vereinbarung"
-website: "https://www.beauty-spa-duesseldorf.de/"
+street: Steffenstraße
+housenumber: "1"
+phone: +49 211 55026991
+opening_hours: 'Di - Fr: 12.00 - 20.00 Uhr Mo & Sa: nach Vereinbarung'
+website: https://www.beauty-spa-duesseldorf.de/

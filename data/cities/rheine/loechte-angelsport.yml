@@ -4,8 +4,9 @@ latitude: 52.30534
 longitude: 7.4603
 postcode: "48429"
 city: Rheine
-street: "Jacksonring"
-housenumber: 7
+street: Jacksonring
+housenumber: "7"
 phone: ""
-opening_hours: "Oct-Mar Mo,Tu,Th,Fr 09:30-12:30,14:30-18:00, We 14:30-18:00, Sa 09:30-13:00;Apr-Sep Mo-Fr 09:00-12:30,14:30-18:00, Sa 09:00-14:00"
+opening_hours: Oct-Mar Mo,Tu,Th,Fr 09:30-12:30,14:30-18:00, We 14:30-18:00, Sa 09:30-13:00;Apr-Sep
+    Mo-Fr 09:00-12:30,14:30-18:00, Sa 09:00-14:00
 website: ""

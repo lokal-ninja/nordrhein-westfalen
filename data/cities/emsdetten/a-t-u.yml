@@ -1,11 +1,11 @@
 id: 263254605
-type: way
+type: node
 latitude: 52.17613
 longitude: 7.53708
 postcode: "48282"
 city: Emsdetten
-street: "Nordring"
-housenumber: 33
+street: Nordring
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

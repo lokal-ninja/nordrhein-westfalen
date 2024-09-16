@@ -4,8 +4,8 @@ latitude: 50.97176
 longitude: 6.97631
 postcode: "50735"
 city: Köln
-street: "Boltensternstraße"
-housenumber: 157
+street: Boltensternstraße
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.firstelephant.de/koeln/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.firstelephant.de/koeln/

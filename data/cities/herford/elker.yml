@@ -1,11 +1,11 @@
 id: 870991118
-type: way
+type: node
 latitude: 52.1199
 longitude: 8.66796
 postcode: "32052"
 city: Herford
-street: "Schillerstraße"
-housenumber: 11
+street: Schillerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://www.elker.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00; PH off
+website: https://www.elker.de/

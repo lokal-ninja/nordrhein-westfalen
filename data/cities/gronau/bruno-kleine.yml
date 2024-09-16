@@ -4,8 +4,8 @@ latitude: 52.21149
 longitude: 7.0249
 postcode: "48599"
 city: Gronau
-street: "Neustraße"
-housenumber: 17
-phone: "+49 2562 991224"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00"
-website: "https://www.bruno-kleine.de/gronau/"
+street: Neustraße
+housenumber: "17"
+phone: +49 2562 991224
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00
+website: https://www.bruno-kleine.de/gronau/

@@ -1,11 +1,11 @@
 id: 148749054
-type: way
+type: node
 latitude: 50.86405
 longitude: 8.0372
 postcode: "57074"
 city: Siegen
-street: "Fludersbach"
-housenumber: 118
+street: Fludersbach
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 293913821
-type: way
+type: node
 latitude: 51.82949
 longitude: 7.27037
 postcode: "48249"
 city: Dülmen
-street: "Heidelohstraße"
-housenumber: 11
-phone: "+49 2594 786450"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-16:00; Sa,Su,PH off"
-website: "https://www.quad-world.de"
+street: Heidelohstraße
+housenumber: "11"
+phone: +49 2594 786450
+opening_hours: Mo-Fr 10:00-12:00,14:00-16:00; Sa,Su,PH off
+website: https://www.quad-world.de

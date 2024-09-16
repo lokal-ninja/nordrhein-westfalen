@@ -4,8 +4,8 @@ latitude: 51.53953
 longitude: 7.22377
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 40
+street: Bahnhofstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-17:00"
-website: "https://www.schlatholt-schuhe.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-17:00
+website: https://www.schlatholt-schuhe.de/

@@ -4,8 +4,8 @@ latitude: 51.22417
 longitude: 6.77237
 postcode: "40213"
 city: Düsseldorf
-street: "Berger Straße"
-housenumber: 29
-phone: "+49 211 8368049"
-opening_hours: "Mo-Th 10:00-14:00,15:00-19:00; Fr,Sa 10:00-19:00"
-website: "http://www.duesseldorfer-senfladen.de"
+street: Berger Straße
+housenumber: "29"
+phone: +49 211 8368049
+opening_hours: Mo-Th 10:00-14:00,15:00-19:00; Fr,Sa 10:00-19:00
+website: http://www.duesseldorfer-senfladen.de

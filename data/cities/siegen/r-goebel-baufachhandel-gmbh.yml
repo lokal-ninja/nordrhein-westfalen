@@ -1,11 +1,11 @@
 id: 149734357
-type: way
+type: node
 latitude: 50.89605
 longitude: 8.03196
 postcode: "57076"
 city: Siegen
-street: "Breite Straße"
-housenumber: 29
+street: Breite Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

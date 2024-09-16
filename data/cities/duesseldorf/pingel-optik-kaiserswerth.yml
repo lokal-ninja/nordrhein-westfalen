@@ -4,8 +4,8 @@ latitude: 51.3013
 longitude: 6.73693
 postcode: "40489"
 city: Düsseldorf
-street: "Kaiserswerther Markt"
-housenumber: 53
+street: Kaiserswerther Markt
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"
-website: "http://www.pingel-optik.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off
+website: http://www.pingel-optik.de

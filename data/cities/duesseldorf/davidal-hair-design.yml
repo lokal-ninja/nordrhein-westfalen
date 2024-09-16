@@ -4,8 +4,8 @@ latitude: 51.21652
 longitude: 6.78961
 postcode: "40215"
 city: Düsseldorf
-street: "Helmholtzstraße"
-housenumber: 2
-phone: "+49 211 46866688"
-opening_hours: "Mo-We 10:00-19:00; Fr 10:00-19:00; Th 10:00-20:00"
-website: "https://davidal.de/"
+street: Helmholtzstraße
+housenumber: "2"
+phone: +49 211 46866688
+opening_hours: Mo-We 10:00-19:00; Fr 10:00-19:00; Th 10:00-20:00
+website: https://davidal.de/

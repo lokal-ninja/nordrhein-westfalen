@@ -4,8 +4,8 @@ latitude: 51.48533
 longitude: 7.16749
 postcode: "44866"
 city: Bochum
-street: "Hansastraße"
-housenumber: 128
-phone: "+49 2327 98820"
-opening_hours: "Tu, Fr 08:00-16:00"
-website: "https://www.thiers.de/"
+street: Hansastraße
+housenumber: "128"
+phone: +49 2327 98820
+opening_hours: Tu, Fr 08:00-16:00
+website: https://www.thiers.de/

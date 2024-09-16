@@ -1,11 +1,11 @@
 id: 204559226
-type: way
+type: node
 latitude: 51.67584
 longitude: 6.99949
 postcode: "46284"
 city: Dorsten
-street: "Wenger Höfe"
-housenumber: 7
+street: Wenger Höfe
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

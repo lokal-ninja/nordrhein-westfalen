@@ -4,8 +4,8 @@ latitude: 51.48587
 longitude: 7.25131
 postcode: "44791"
 city: Bochum
-street: "Auf der Prinz"
-housenumber: 2
-phone: "+49 234 594696"
-opening_hours: "Mo-Th 8:30-17:00, Fr 8:30-16:00; PH off"
-website: "https://osf-handel.de/haendler/elektro-meier"
+street: Auf der Prinz
+housenumber: "2"
+phone: +49 234 594696
+opening_hours: Mo-Th 8:30-17:00, Fr 8:30-16:00; PH off
+website: https://osf-handel.de/haendler/elektro-meier

@@ -4,8 +4,8 @@ latitude: 51.83885
 longitude: 6.61425
 postcode: "46399"
 city: Bocholt
-street: "Crispinusplatz"
-housenumber: 8
+street: Crispinusplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Di-Mi 09:00-18:30; Do-FR 09:00-20:00; Sa 9:00-14:00"
-website: "https://www.glamnmore.de"
+opening_hours: Di-Mi 09:00-18:30; Do-FR 09:00-20:00; Sa 9:00-14:00
+website: https://www.glamnmore.de

@@ -4,8 +4,8 @@ latitude: 51.76054
 longitude: 8.54774
 postcode: "33129"
 city: Delbrück
-street: "Bösendamm"
-housenumber: 1
-phone: "+49 5250 98520"
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-12:00"
-website: "http://www.westerhorstmann.de"
+street: Bösendamm
+housenumber: "1"
+phone: +49 5250 98520
+opening_hours: Mo-Fr 07:00-18:00;Sa 07:00-12:00
+website: http://www.westerhorstmann.de

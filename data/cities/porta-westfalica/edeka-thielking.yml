@@ -4,8 +4,8 @@ latitude: 52.25977
 longitude: 8.93658
 postcode: "32457"
 city: Porta Westfalica
-street: "Meißener Straße"
-housenumber: 21
-phone: "+49 571 9729540"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/"
+street: Meißener Straße
+housenumber: "21"
+phone: +49 571 9729540
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/

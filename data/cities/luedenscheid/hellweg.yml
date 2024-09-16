@@ -1,11 +1,11 @@
 id: 107428679
-type: way
+type: node
 latitude: 51.22869
 longitude: 7.60801
 postcode: "58509"
 city: Lüdenscheid
-street: "Hohe Steinert"
-housenumber: 6
-phone: "+49 2351 967910"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+street: Hohe Steinert
+housenumber: "6"
+phone: +49 2351 967910
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.47347
 longitude: 7.48517
 postcode: ""
 city: Dortmund
-street: "Zeche Crone"
-housenumber: 1
+street: Zeche Crone
+housenumber: "1"
 phone: "+492317581020"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hellweg.de/

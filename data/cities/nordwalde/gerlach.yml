@@ -1,11 +1,11 @@
 id: 114538271
-type: way
+type: node
 latitude: 52.0732
 longitude: 7.45011
 postcode: "48356"
 city: Nordwalde
-street: "Feldbauerschaft"
-housenumber: 27
+street: Feldbauerschaft
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

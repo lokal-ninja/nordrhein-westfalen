@@ -1,11 +1,11 @@
 id: 87499381
-type: way
+type: node
 latitude: 50.78929
 longitude: 6.066
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 185
+street: Roermonder Straße
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.obi.de/baumarkt/aachen-roermonder-strasse/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.obi.de/baumarkt/aachen-roermonder-strasse/

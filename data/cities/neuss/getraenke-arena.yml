@@ -1,11 +1,11 @@
 id: 89601888
-type: way
+type: node
 latitude: 51.18576
 longitude: 6.68448
 postcode: "41464"
 city: Neuss
-street: "Am Krausenbaum"
-housenumber: 48
-phone: "+49 2131 741576"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.getraenkearena.de/filiale/getraenke-bako/"
+street: Am Krausenbaum
+housenumber: "48"
+phone: +49 2131 741576
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.getraenkearena.de/filiale/getraenke-bako/

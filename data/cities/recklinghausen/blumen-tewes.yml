@@ -1,11 +1,11 @@
 id: 180217764
-type: way
+type: node
 latitude: 51.56792
 longitude: 7.2199
 postcode: "45663"
 city: Recklinghausen
-street: "Saarstraße"
-housenumber: 22
+street: Saarstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

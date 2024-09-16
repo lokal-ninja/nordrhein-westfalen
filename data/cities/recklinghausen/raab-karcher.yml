@@ -1,11 +1,11 @@
 id: 75306707
-type: way
+type: node
 latitude: 51.56795
 longitude: 7.19395
 postcode: "45661"
 city: Recklinghausen
-street: "Richardstraße"
-housenumber: 74
+street: Richardstraße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

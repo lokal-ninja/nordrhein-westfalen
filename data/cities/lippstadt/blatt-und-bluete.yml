@@ -1,11 +1,11 @@
 id: 346770865
-type: way
+type: node
 latitude: 51.65467
 longitude: 8.21733
 postcode: "59556"
 city: Lippstadt
-street: "Zum Lippesteg"
+street: Zum Lippesteg
 housenumber: 6a
-phone: "+49 2945 88838"
-opening_hours: "Mo 09:00-13:00; Tu-Fr 09:00-13:00, 14:30-18:00; Sa 08:00-13:00"
-website: "http://www.blatt-und-bluete-eickelborn.de"
+phone: +49 2945 88838
+opening_hours: Mo 09:00-13:00; Tu-Fr 09:00-13:00, 14:30-18:00; Sa 08:00-13:00
+website: http://www.blatt-und-bluete-eickelborn.de

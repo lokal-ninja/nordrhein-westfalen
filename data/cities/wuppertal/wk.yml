@@ -4,8 +4,8 @@ latitude: 51.23859
 longitude: 7.10058
 postcode: "42327"
 city: Wuppertal
-street: "Sonnborner Straße"
-housenumber: 94
-phone: "+49 162 2981777"
-opening_hours: "Termine nach Vereinbarung"
+street: Sonnborner Straße
+housenumber: "94"
+phone: +49 162 2981777
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

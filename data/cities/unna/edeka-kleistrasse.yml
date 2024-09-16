@@ -1,11 +1,11 @@
 id: 172586808
-type: way
+type: node
 latitude: 51.53607
 longitude: 7.6486
 postcode: "59427"
 city: Unna
-street: "Kleistraße"
-housenumber: 
+street: Kleistraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 330121121
-type: way
+type: node
 latitude: 51.45561
 longitude: 6.38098
 postcode: "47647"
 city: Kerken
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 5a
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
 website: ""

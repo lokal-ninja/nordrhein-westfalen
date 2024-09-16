@@ -1,11 +1,11 @@
 id: 53580231
-type: way
+type: node
 latitude: 51.51892
 longitude: 7.48842
 postcode: "44143"
 city: Dortmund
-street: "Klönnestraße"
-housenumber: 85
+street: Klönnestraße
+housenumber: "85"
 phone: "+4923118591979"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off
 website: ""

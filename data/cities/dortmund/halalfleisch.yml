@@ -4,8 +4,8 @@ latitude: 51.49442
 longitude: 7.37861
 postcode: "44149"
 city: Dortmund
-street: "Brennaborstraße"
-housenumber: 10
+street: Brennaborstraße
+housenumber: "10"
 phone: "+4923196988510"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off"
-website: "https://www.halalfleisch.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off
+website: https://www.halalfleisch.com/

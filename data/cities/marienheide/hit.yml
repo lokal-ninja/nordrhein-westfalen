@@ -1,11 +1,11 @@
 id: 657084820
-type: way
+type: node
 latitude: 51.07957
 longitude: 7.53009
 postcode: "51709"
 city: Marienheide
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.hit.de/marienheide.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.hit.de/marienheide.html

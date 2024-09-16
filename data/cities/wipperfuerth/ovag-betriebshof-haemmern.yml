@@ -1,11 +1,11 @@
 id: 89842082
-type: way
+type: node
 latitude: 51.12788
 longitude: 7.35731
 postcode: "51688"
 city: Wipperfürth
-street: "Alte Papiermühle"
-housenumber: 13
+street: Alte Papiermühle
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-14:00; SH Mo-Fr 08:30-13:00; Sa, Su, PH off"
-website: "https://www.ovaginfo.de/de/service/niederlassungen.html"
+opening_hours: Mo-Fr 08:00-14:00; SH Mo-Fr 08:30-13:00; Sa, Su, PH off
+website: https://www.ovaginfo.de/de/service/niederlassungen.html

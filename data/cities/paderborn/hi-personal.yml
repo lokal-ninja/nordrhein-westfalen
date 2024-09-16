@@ -4,8 +4,8 @@ latitude: 51.71286
 longitude: 8.74807
 postcode: "33098"
 city: Paderborn
-street: "Ludwigstraße"
-housenumber: 26
+street: Ludwigstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 8:00-17:00"
-website: "https://www.hipersonalservice.de"
+opening_hours: Mo-Fr 8:00-17:00
+website: https://www.hipersonalservice.de

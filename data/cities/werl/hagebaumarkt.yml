@@ -1,11 +1,11 @@
 id: 110448187
-type: way
+type: node
 latitude: 51.56144
 longitude: 7.90185
 postcode: "59457"
 city: Werl
-street: "Hammer Straße"
-housenumber: 77
+street: Hammer Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

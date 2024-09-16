@@ -1,11 +1,11 @@
 id: 117381134
-type: way
+type: node
 latitude: 51.95538
 longitude: 8.80966
 postcode: "32758"
 city: Detmold
-street: "Bielefelder Straße"
-housenumber: 415
-phone: "+49 5232 691 1844"
+street: Bielefelder Straße
+housenumber: "415"
+phone: +49 5232 691 1844
 opening_hours: ""
-website: "https://www.vinoevita.de/Store/"
+website: https://www.vinoevita.de/Store/

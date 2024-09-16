@@ -1,11 +1,11 @@
 id: 827916664
-type: way
+type: node
 latitude: 50.5492
 longitude: 6.57422
 postcode: "53925"
 city: Kall
-street: "Werner-Schumacher-Straße"
-housenumber: 12
+street: Werner-Schumacher-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

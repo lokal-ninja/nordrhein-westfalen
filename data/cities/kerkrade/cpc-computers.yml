@@ -2,10 +2,10 @@ id: 2872896257
 type: node
 latitude: 50.85251
 longitude: 6.03678
-postcode: "6465AB"
+postcode: 6465AB
 city: Kerkrade
-street: "Steenbergstraat"
-housenumber: 5
+street: Steenbergstraat
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

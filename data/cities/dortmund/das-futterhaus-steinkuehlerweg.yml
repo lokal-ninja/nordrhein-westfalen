@@ -1,11 +1,11 @@
 id: 41513020
-type: way
+type: node
 latitude: 51.49643
 longitude: 7.50914
 postcode: "44263"
 city: Dortmund
-street: "Steinkühlerweg"
-housenumber: 96
+street: Steinkühlerweg
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

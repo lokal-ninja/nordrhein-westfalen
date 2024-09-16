@@ -1,11 +1,11 @@
 id: 651191592
-type: way
+type: node
 latitude: 51.76629
 longitude: 7.46061
 postcode: ""
 city: Lüdinghausen
-street: "Valve"
-housenumber: 48
+street: Valve
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 6:00-18:00; Sa 6:00-17:00; Su 7:00-17:00"
+opening_hours: Mo-Fr 6:00-18:00; Sa 6:00-17:00; Su 7:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.34764
 longitude: 6.54319
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 300
-phone: "+49 2151 9272200"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.knuffmann.de"
+street: Hülser Straße
+housenumber: "300"
+phone: +49 2151 9272200
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.knuffmann.de

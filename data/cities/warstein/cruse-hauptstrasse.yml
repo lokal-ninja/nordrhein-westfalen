@@ -1,11 +1,11 @@
 id: 183535868
-type: way
+type: node
 latitude: 51.44309
 longitude: 8.35359
 postcode: "59581"
 city: Warstein
-street: "Hauptstraße"
-housenumber: 87
+street: Hauptstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

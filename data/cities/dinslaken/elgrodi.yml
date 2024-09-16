@@ -1,11 +1,11 @@
 id: 424926874
-type: way
+type: node
 latitude: 51.56425
 longitude: 6.74956
 postcode: "46539"
 city: Dinslaken
-street: "Kleiststraße"
-housenumber: 34
-phone: "+49 2064 72531"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://www.elgrodi.de/"
+street: Kleiststraße
+housenumber: "34"
+phone: +49 2064 72531
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
+website: https://www.elgrodi.de/

@@ -4,8 +4,8 @@ latitude: 50.73914
 longitude: 7.11981
 postcode: "53225"
 city: Bonn
-street: "Friedrich-Breuer-Straße"
-housenumber: 58
-phone: "+49 228 42219983"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://baeckerei-merzenich.de/"
+street: Friedrich-Breuer-Straße
+housenumber: "58"
+phone: +49 228 42219983
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://baeckerei-merzenich.de/

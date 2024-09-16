@@ -1,11 +1,11 @@
 id: 119335383
-type: way
+type: node
 latitude: 50.92198
 longitude: 7.00062
 postcode: "51105"
 city: Köln
-street: "Rolshover Straße"
+street: Rolshover Straße
 housenumber: 229-231
 phone: ""
 opening_hours: ""
-website: "https://www.handelshof.de/"
+website: https://www.handelshof.de/

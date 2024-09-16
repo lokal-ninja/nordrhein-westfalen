@@ -1,11 +1,11 @@
 id: 589446452
-type: way
+type: node
 latitude: 50.84321
 longitude: 6.90135
 postcode: "50321"
 city: Brühl
-street: "Renault-Nissan-Straße"
-housenumber: 2
+street: Renault-Nissan-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

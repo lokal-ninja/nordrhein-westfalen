@@ -4,8 +4,8 @@ latitude: 51.45128
 longitude: 7.56227
 postcode: "58239"
 city: Schwerte
-street: "Hörder Straße"
-housenumber: 32
+street: Hörder Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.premio-schwerte.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.premio-schwerte.de

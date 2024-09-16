@@ -1,11 +1,11 @@
 id: 517318622
-type: way
+type: node
 latitude: 50.85322
 longitude: 7.99936
 postcode: "57080"
 city: Siegen
-street: "Marienhütte"
-housenumber: 
+street: Marienhütte
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

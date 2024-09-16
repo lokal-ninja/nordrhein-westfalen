@@ -1,11 +1,11 @@
 id: 43018379
-type: way
+type: node
 latitude: 51.62861
 longitude: 7.48919
 postcode: "44534"
 city: Lünen
-street: "Alstedder Straße"
-housenumber: 171
-phone: "+49 2306 9784445"
-opening_hours: "Mo-Sa 06:00-13:00; Su 07:30-12:00"
-website: "https://citybaecker.de/"
+street: Alstedder Straße
+housenumber: "171"
+phone: +49 2306 9784445
+opening_hours: Mo-Sa 06:00-13:00; Su 07:30-12:00
+website: https://citybaecker.de/

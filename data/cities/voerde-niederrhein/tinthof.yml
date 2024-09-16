@@ -1,11 +1,11 @@
 id: 297483276
-type: way
+type: node
 latitude: 51.61152
 longitude: 6.6142
 postcode: "46562"
 city: Voerde (Niederrhein)
-street: "Weseler Straße"
-housenumber: 7
-phone: "+49 2855 3084893"
-opening_hours: "We 17:00-19:00; Sa 09:00-12:00"
-website: "https://tinthof.de"
+street: Weseler Straße
+housenumber: "7"
+phone: +49 2855 3084893
+opening_hours: We 17:00-19:00; Sa 09:00-12:00
+website: https://tinthof.de

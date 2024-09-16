@@ -1,11 +1,11 @@
 id: 37411145
-type: way
+type: node
 latitude: 50.82545
 longitude: 7.1242
 postcode: "53842"
 city: Troisdorf
-street: "Hauptstraße"
-housenumber: 75
+street: Hauptstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

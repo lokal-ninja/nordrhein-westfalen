@@ -1,11 +1,11 @@
 id: 108973319
-type: way
+type: node
 latitude: 50.74575
 longitude: 7.12358
 postcode: "53225"
 city: Bonn
-street: "Sankt Augustiner Straße"
-housenumber: 131
-phone: "+49 228 536 643 42"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://elektro-outlet-bonn.de/"
+street: Sankt Augustiner Straße
+housenumber: "131"
+phone: +49 228 536 643 42
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://elektro-outlet-bonn.de/

@@ -4,8 +4,8 @@ latitude: 51.20078
 longitude: 6.39131
 postcode: "41068"
 city: Mönchengladbach
-street: "Stationsweg"
-housenumber: 123
-phone: "+49 2161 495484"
-opening_hours: "Mo-Th 09:00-16:00, Fr 09:00-14:00"
+street: Stationsweg
+housenumber: "123"
+phone: +49 2161 495484
+opening_hours: Mo-Th 09:00-16:00, Fr 09:00-14:00
 website: ""

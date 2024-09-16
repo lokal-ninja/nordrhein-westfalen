@@ -1,11 +1,11 @@
 id: 162531478
-type: way
+type: node
 latitude: 52.02772
 longitude: 8.53674
 postcode: "33602"
 city: Bielefeld
-street: "Brandenburger Straße"
-housenumber: 10
-phone: "+49 521 322020"
+street: Brandenburger Straße
+housenumber: "10"
+phone: +49 521 322020
 opening_hours: ""
 website: ""

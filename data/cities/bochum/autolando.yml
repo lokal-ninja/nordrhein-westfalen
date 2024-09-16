@@ -4,8 +4,8 @@ latitude: 51.46227
 longitude: 7.24381
 postcode: "44799"
 city: Bochum
-street: "Paulinenstraße"
-housenumber: 26
+street: Paulinenstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://autolando.eu"
+website: https://autolando.eu

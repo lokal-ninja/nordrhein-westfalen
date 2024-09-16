@@ -1,11 +1,11 @@
 id: 1087936822
-type: way
+type: node
 latitude: 51.52009
 longitude: 7.49949
 postcode: "44143"
 city: Dortmund
-street: "Hannöversche Straße"
-housenumber: 26
-phone: "+49 231 838080"
+street: Hannöversche Straße
+housenumber: "26"
+phone: +49 231 838080
 opening_hours: ""
-website: "https://dressel-egu.de/"
+website: https://dressel-egu.de/

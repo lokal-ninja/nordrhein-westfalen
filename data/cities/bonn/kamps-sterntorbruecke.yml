@@ -4,8 +4,8 @@ latitude: 50.73669
 longitude: 7.09659
 postcode: "53111"
 city: Bonn
-street: "Sterntorbrücke"
-housenumber: 17
-phone: "+49 228 9086868"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-17:30; Su 08:00-12:00"
-website: "https://kamps.de/"
+street: Sterntorbrücke
+housenumber: "17"
+phone: +49 228 9086868
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-17:30; Su 08:00-12:00
+website: https://kamps.de/

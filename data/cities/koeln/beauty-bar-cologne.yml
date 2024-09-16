@@ -4,8 +4,8 @@ latitude: 50.92285
 longitude: 6.92365
 postcode: "50937"
 city: Köln
-street: "Zülpicher Straße"
-housenumber: 255
+street: Zülpicher Straße
+housenumber: "255"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

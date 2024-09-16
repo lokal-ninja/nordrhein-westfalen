@@ -1,11 +1,11 @@
 id: 140679905
-type: way
+type: node
 latitude: 51.82011
 longitude: 7.54711
 postcode: "48308"
 city: Senden
-street: "An der Windmühle"
-housenumber: 8
+street: An der Windmühle
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.alte_huette.de"
+website: http://www.alte_huette.de

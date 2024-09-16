@@ -1,11 +1,11 @@
 id: 139186775
-type: way
+type: node
 latitude: 52.15117
 longitude: 7.33533
 postcode: "48565"
 city: Steinfurt
-street: "Ochtruper Straße"
-housenumber: 26
+street: Ochtruper Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

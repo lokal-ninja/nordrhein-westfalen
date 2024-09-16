@@ -4,8 +4,8 @@ latitude: 52.37153
 longitude: 8.6277
 postcode: "32339"
 city: Espelkamp
-street: "Hindenburgring"
-housenumber: 3
-phone: "+49 5772 1467"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.baeckerei-schmidt.de/"
+street: Hindenburgring
+housenumber: "3"
+phone: +49 5772 1467
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.baeckerei-schmidt.de/

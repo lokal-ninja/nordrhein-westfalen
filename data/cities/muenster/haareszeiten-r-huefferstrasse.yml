@@ -4,8 +4,8 @@ latitude: 51.95967
 longitude: 7.60322
 postcode: "48149"
 city: Münster
-street: "Hüfferstraße"
-housenumber: 75
-phone: "+49 251 88126"
-opening_hours: "Mo-Fr 09:00-19:00"
+street: Hüfferstraße
+housenumber: "75"
+phone: +49 251 88126
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

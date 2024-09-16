@@ -4,8 +4,8 @@ latitude: 50.84181
 longitude: 6.10987
 postcode: "52146"
 city: Würselen
-street: "Dorfstraße"
-housenumber: 3
-phone: "+49 2405 86708"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00"
-website: "https://www.euronics.de/wuerselen-nacken"
+street: Dorfstraße
+housenumber: "3"
+phone: +49 2405 86708
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00
+website: https://www.euronics.de/wuerselen-nacken

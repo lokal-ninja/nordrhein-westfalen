@@ -1,11 +1,11 @@
 id: 80871332
-type: way
+type: node
 latitude: 51.4407
 longitude: 7.37103
 postcode: "58453"
 city: Witten
-street: "Holzkampstraße"
-housenumber: 37
+street: Holzkampstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
 website: ""

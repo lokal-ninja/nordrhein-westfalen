@@ -4,8 +4,8 @@ latitude: 51.41641
 longitude: 7.11805
 postcode: "45289"
 city: Essen
-street: "Alte Hauptstraße"
-housenumber: 30
-phone: "+49 201 81503777"
-opening_hours: "Mo-Th 07:30-16:00; Fr 7:30-13:30"
-website: "https://www.jost-gebaeudetechnik.de/"
+street: Alte Hauptstraße
+housenumber: "30"
+phone: +49 201 81503777
+opening_hours: Mo-Th 07:30-16:00; Fr 7:30-13:30
+website: https://www.jost-gebaeudetechnik.de/

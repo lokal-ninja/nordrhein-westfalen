@@ -1,11 +1,11 @@
 id: 89204265
-type: way
+type: node
 latitude: 50.99576
 longitude: 6.79957
 postcode: "50259"
 city: Pulheim
-street: "Steinstraße"
+street: Steinstraße
 housenumber: 46 - 48
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-sued.de/

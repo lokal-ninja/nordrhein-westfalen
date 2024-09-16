@@ -1,11 +1,11 @@
 id: 274277345
-type: way
+type: node
 latitude: 51.76615
 longitude: 8.04042
 postcode: "59269"
 city: Beckum
-street: "Neubeckumer Straße"
-housenumber: 53
+street: Neubeckumer Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

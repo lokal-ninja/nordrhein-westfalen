@@ -1,11 +1,11 @@
 id: 1017691602
-type: way
+type: node
 latitude: 51.47868
 longitude: 7.30546
 postcode: "44894"
 city: Bochum
-street: "Walzstraße"
-housenumber: 8
+street: Walzstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-17:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:00-13:00, 14:00-17:00; Sa 08:30-12:00
 website: ""

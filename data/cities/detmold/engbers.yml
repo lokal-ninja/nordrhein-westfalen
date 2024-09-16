@@ -4,8 +4,8 @@ latitude: 51.93435
 longitude: 8.87898
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 29
+street: Lange Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.engbers.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.engbers.de/

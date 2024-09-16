@@ -1,11 +1,11 @@
 id: 235446241
-type: way
+type: node
 latitude: 50.82805
 longitude: 6.90554
 postcode: "50321"
 city: Brühl
-street: "Schloßstraße"
-housenumber: 13
+street: Schloßstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.27155
 longitude: 7.21407
 postcode: "42289"
 city: Wuppertal
-street: "Heckinghauser Straße"
-housenumber: 97
-phone: "+49 202 608 45 12"
-opening_hours: "Mo,Tu,Th,Fr 16:00-18:00; Sa 10:00-14:00"
+street: Heckinghauser Straße
+housenumber: "97"
+phone: +49 202 608 45 12
+opening_hours: Mo,Tu,Th,Fr 16:00-18:00; Sa 10:00-14:00
 website: ""

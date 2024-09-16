@@ -1,11 +1,11 @@
 id: 383540345
-type: way
+type: node
 latitude: 51.54956
 longitude: 7.29538
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Herner Straße"
-housenumber: 135
-phone: "+49 2305 440730"
+street: Herner Straße
+housenumber: "135"
+phone: +49 2305 440730
 opening_hours: ""
-website: "http://www.die-karosse.de/"
+website: http://www.die-karosse.de/

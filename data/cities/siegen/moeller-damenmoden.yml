@@ -4,8 +4,8 @@ latitude: 50.87463
 longitude: 8.02244
 postcode: "57072"
 city: Siegen
-street: "Kölner Straße"
-housenumber: 42
+street: Kölner Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

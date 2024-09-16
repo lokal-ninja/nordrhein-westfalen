@@ -1,11 +1,11 @@
 id: 115993284
-type: way
+type: node
 latitude: 50.79193
 longitude: 6.10417
 postcode: ""
 city: Aachen
-street: "Lukasstraße"
-housenumber: 15
+street: Lukasstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:45-18:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.wm.de/de/unternehmen/standorte/details/aachen.html"
+opening_hours: Mo-Fr 07:45-18:00; Sa 08:00-13:00; Su,PH off
+website: https://www.wm.de/de/unternehmen/standorte/details/aachen.html

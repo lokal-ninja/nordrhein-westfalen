@@ -1,11 +1,11 @@
 id: 48714367
-type: way
+type: node
 latitude: 51.84371
 longitude: 7.83392
 postcode: "48324"
 city: Sendenhorst
-street: "Osttor"
-housenumber: 26
+street: Osttor
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

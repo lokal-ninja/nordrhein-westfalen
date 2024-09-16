@@ -1,11 +1,11 @@
 id: 105576075
-type: way
+type: node
 latitude: 50.7658
 longitude: 6.15474
 postcode: ""
 city: Aachen
-street: "Kaubendenstraße"
-housenumber: 16
+street: Kaubendenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-12:30; Su,PH off"
-website: "https://www.erasmus-willms.de/"
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-12:30; Su,PH off
+website: https://www.erasmus-willms.de/

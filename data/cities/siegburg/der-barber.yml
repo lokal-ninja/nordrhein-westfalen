@@ -4,8 +4,8 @@ latitude: 50.79673
 longitude: 7.20819
 postcode: "53721"
 city: Siegburg
-street: "Bergstraße"
-housenumber: 1
-phone: "+49 2241 8988515"
+street: Bergstraße
+housenumber: "1"
+phone: +49 2241 8988515
 opening_hours: ""
-website: "https://derbarber.com/"
+website: https://derbarber.com/

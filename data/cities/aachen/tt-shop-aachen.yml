@@ -4,8 +4,8 @@ latitude: 50.77236
 longitude: 6.0919
 postcode: "52062"
 city: Aachen
-street: "Harscampstraße"
-housenumber: 48
+street: Harscampstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.tts-deutz.de/"
+opening_hours: Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.tts-deutz.de/

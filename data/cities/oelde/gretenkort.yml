@@ -1,11 +1,11 @@
 id: 35777954
-type: way
+type: node
 latitude: 51.82321
 longitude: 8.12569
 postcode: "59302"
 city: Oelde
-street: "Westrickweg"
-housenumber: 2
+street: Westrickweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

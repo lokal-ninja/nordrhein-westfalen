@@ -4,8 +4,8 @@ latitude: 51.71562
 longitude: 8.75285
 postcode: "33098"
 city: Paderborn
-street: "Jesuitenmauer"
+street: Jesuitenmauer
 housenumber: 21-23
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa nach Vereinbarung"
-website: "https://pader-reisestudio.de/"
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; Sa "nach Vereinbarung"
+website: https://pader-reisestudio.de/

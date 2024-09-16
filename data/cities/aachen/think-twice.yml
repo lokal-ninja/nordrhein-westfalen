@@ -4,8 +4,8 @@ latitude: 50.77534
 longitude: 6.08852
 postcode: "52062"
 city: Aachen
-street: "Peterstraße"
-housenumber: 10
+street: Peterstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

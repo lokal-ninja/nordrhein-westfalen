@@ -4,8 +4,8 @@ latitude: 51.97684
 longitude: 7.29105
 postcode: "48727"
 city: Billerbeck
-street: "Münsterstraße"
-housenumber: 7
-phone: "+49 2543 257 46"
-opening_hours: "We-Fr 14:30-18:30, Sa 11:00-17:00"
-website: "https://www.liobafeld-billerbeck.de/"
+street: Münsterstraße
+housenumber: "7"
+phone: +49 2543 257 46
+opening_hours: We-Fr 14:30-18:30, Sa 11:00-17:00
+website: https://www.liobafeld-billerbeck.de/

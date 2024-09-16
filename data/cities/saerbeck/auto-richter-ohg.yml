@@ -1,11 +1,11 @@
 id: 221570891
-type: way
+type: node
 latitude: 52.17473
 longitude: 7.62867
 postcode: "48369"
 city: Saerbeck
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

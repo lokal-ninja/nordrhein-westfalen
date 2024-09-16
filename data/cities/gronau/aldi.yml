@@ -1,11 +1,11 @@
 id: 831101544
-type: way
+type: node
 latitude: 52.20501
 longitude: 7.05211
 postcode: "48599"
 city: Gronau
-street: "Ochtruper Straße"
-housenumber: 143
+street: Ochtruper Straße
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

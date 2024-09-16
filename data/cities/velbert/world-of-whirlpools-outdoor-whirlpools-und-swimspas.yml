@@ -1,11 +1,11 @@
 id: 90885180
-type: way
+type: node
 latitude: 51.34287
 longitude: 7.04063
 postcode: "42551"
 city: Velbert
-street: "Friedrichstraße"
+street: Friedrichstraße
 housenumber: 83a
-phone: "+49 2051 6071381"
+phone: +49 2051 6071381
 opening_hours: ""
-website: "https://www.world-of-whirlpools.de"
+website: https://www.world-of-whirlpools.de

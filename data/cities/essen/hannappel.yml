@@ -4,8 +4,8 @@ latitude: 51.43878
 longitude: 7.00898
 postcode: "45130"
 city: Essen
-street: "Klarastraße"
-housenumber: 35
+street: Klarastraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,13:30-18:00; We 08:00-13:00; Sa 09:00-13:00"
-website: "https://www.hannappel-essen.de/"
+opening_hours: Mo-Fr 08:00-13:00,13:30-18:00; We 08:00-13:00; Sa 09:00-13:00
+website: https://www.hannappel-essen.de/

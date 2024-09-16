@@ -4,8 +4,8 @@ latitude: 51.47316
 longitude: 7.32513
 postcode: "44892"
 city: Bochum
-street: "Oberstraße"
-housenumber: 4
-phone: "+49 234 2989386"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "http://angel-apotheke.de/"
+street: Oberstraße
+housenumber: "4"
+phone: +49 234 2989386
+opening_hours: Mo-Fr 09:30-18:00
+website: http://angel-apotheke.de/

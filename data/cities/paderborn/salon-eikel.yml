@@ -4,8 +4,8 @@ latitude: 51.71657
 longitude: 8.75166
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 3
-phone: "+49 5251 24389"
-opening_hours: "Tu-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-13:30"
-website: "http://www.friseur-eikel.de/"
+street: Rosenstraße
+housenumber: "3"
+phone: +49 5251 24389
+opening_hours: Tu-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-13:30
+website: http://www.friseur-eikel.de/

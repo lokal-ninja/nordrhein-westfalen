@@ -1,11 +1,11 @@
 id: 88433141
-type: way
+type: node
 latitude: 51.44369
 longitude: 8.36161
 postcode: "59581"
 city: Warstein
-street: "Rangestraße"
-housenumber: 58
+street: Rangestraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

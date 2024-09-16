@@ -4,8 +4,8 @@ latitude: 51.49564
 longitude: 7.27998
 postcode: "44791"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 18
-phone: "+49 234 3693802"
-opening_hours: "Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30"
-website: "https://www.esprit.de/"
+street: Am Einkaufszentrum
+housenumber: "18"
+phone: +49 234 3693802
+opening_hours: Mo-Th,Sa 10:00-20:00; Fr 10:00-21:30
+website: https://www.esprit.de/

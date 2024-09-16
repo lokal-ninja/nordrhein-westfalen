@@ -4,8 +4,8 @@ latitude: 50.99364
 longitude: 6.57531
 postcode: "50181"
 city: Bedburg
-street: "Lindenstraße"
-housenumber: 4
+street: Lindenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-bilgin-lindenstra%C3%9Fe-3-4/index.jsp"
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-bilgin-lindenstra%C3%9Fe-3-4/index.jsp

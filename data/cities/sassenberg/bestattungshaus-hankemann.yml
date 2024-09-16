@@ -1,11 +1,11 @@
 id: 264222637
-type: way
+type: node
 latitude: 51.98839
 longitude: 8.04189
 postcode: "48336"
 city: Sassenberg
-street: "Von-Galen-Straße"
-housenumber: 6
-phone: "02583-303676"
-opening_hours: "24/7"
-website: "https://www.hankemann.eu/"
+street: Von-Galen-Straße
+housenumber: "6"
+phone: 02583-303676
+opening_hours: 24/7
+website: https://www.hankemann.eu/

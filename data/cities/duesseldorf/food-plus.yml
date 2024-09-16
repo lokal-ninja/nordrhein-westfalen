@@ -4,8 +4,8 @@ latitude: 51.20883
 longitude: 6.83945
 postcode: "40231"
 city: Düsseldorf
-street: "Schlesische Straße"
-housenumber: 101
-phone: "+49 211 158 26651"
-opening_hours: "Mo 09:00-19:00;Tu-Fr 09:00-20:00;Sa 09:00-18:00;Su, PH off"
-website: "https://www.foodplus.eu/"
+street: Schlesische Straße
+housenumber: "101"
+phone: +49 211 158 26651
+opening_hours: Mo 09:00-19:00;Tu-Fr 09:00-20:00;Sa 09:00-18:00;Su, PH off
+website: https://www.foodplus.eu/

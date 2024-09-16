@@ -1,11 +1,11 @@
 id: 28807315
-type: way
+type: node
 latitude: 50.75304
 longitude: 7.05916
 postcode: "53117"
 city: Bonn
-street: "Christian-Lassen-Straße"
-housenumber: 5
+street: Christian-Lassen-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-16:00
 website: ""

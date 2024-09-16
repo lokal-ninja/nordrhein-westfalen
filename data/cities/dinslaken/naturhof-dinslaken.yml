@@ -1,11 +1,11 @@
 id: 112056225
-type: way
+type: node
 latitude: 51.57269
 longitude: 6.73127
 postcode: "46537"
 city: Dinslaken
-street: "Hedwigstraße"
-housenumber: 2
+street: Hedwigstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://mein-naturhof.de/dernaturhof.html"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://mein-naturhof.de/dernaturhof.html

@@ -4,8 +4,8 @@ latitude: 51.47448
 longitude: 7.15194
 postcode: "44867"
 city: Bochum
-street: "Dückerweg"
-housenumber: 21
-phone: "+49 2327 548794"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-bochum"
+street: Dückerweg
+housenumber: "21"
+phone: +49 2327 548794
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-bochum

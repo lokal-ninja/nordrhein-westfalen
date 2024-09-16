@@ -4,8 +4,8 @@ latitude: 51.44651
 longitude: 8.35472
 postcode: "59581"
 city: Warstein
-street: "Hauptstraße"
-housenumber: 39
-phone: "+49 2902 2403"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:30-13:00"
+street: Hauptstraße
+housenumber: "39"
+phone: +49 2902 2403
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:30-13:00
 website: ""

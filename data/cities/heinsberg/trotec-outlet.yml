@@ -1,11 +1,11 @@
 id: 274798645
-type: way
+type: node
 latitude: 51.05576
 longitude: 6.13434
 postcode: "52525"
 city: Heinsberg
-street: "Karl-Arnold-Straße"
-housenumber: 32
+street: Karl-Arnold-Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa, Su, PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa, Su, PH off
 website: ""

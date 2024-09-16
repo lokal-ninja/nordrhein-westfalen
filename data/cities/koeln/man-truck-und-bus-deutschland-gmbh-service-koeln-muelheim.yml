@@ -4,8 +4,8 @@ latitude: 50.97513
 longitude: 7.00433
 postcode: "51063"
 city: Köln
-street: "Fritz-Lehmann-Straße"
-housenumber: 17
+street: Fritz-Lehmann-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://ws-public.man-mn.com/siit/mansettlementwebapp/public/client/detail.html?lang=de&id=40419"
+website: https://ws-public.man-mn.com/siit/mansettlementwebapp/public/client/detail.html?lang=de&id=40419

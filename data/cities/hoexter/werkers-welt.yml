@@ -1,11 +1,11 @@
 id: 251079930
-type: way
+type: node
 latitude: 51.77789
 longitude: 9.39386
 postcode: "37671"
 city: Höxter
-street: "Corveyer Allee"
+street: Corveyer Allee
 housenumber: 25a
-phone: "+49 5271 97330"
+phone: +49 5271 97330
 opening_hours: ""
-website: "https://www.hagebau.de/werkerswelt/"
+website: https://www.hagebau.de/werkerswelt/

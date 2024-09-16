@@ -1,11 +1,11 @@
 id: 250663950
-type: way
+type: node
 latitude: 51.15535
 longitude: 8.28627
 postcode: "57392"
 city: Schmallenberg
-street: "Am Bahnhof"
-housenumber: 2
+street: Am Bahnhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

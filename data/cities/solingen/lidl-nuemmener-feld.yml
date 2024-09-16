@@ -1,11 +1,11 @@
 id: 1111088848
-type: way
+type: node
 latitude: 51.19221
 longitude: 7.06834
 postcode: "42719"
 city: Solingen
-street: "Nümmener Feld"
-housenumber: 1
+street: Nümmener Feld
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

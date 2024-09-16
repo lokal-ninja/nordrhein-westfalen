@@ -4,8 +4,8 @@ latitude: 50.93288
 longitude: 6.97691
 postcode: "50679"
 city: Köln
-street: "Suevenstraße"
-housenumber: 2
+street: Suevenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 06:00-24:00, Fr 06:00-01:00, Sa 08:00-01:00, Su,PH 08:00-24:00"
+opening_hours: Mo-Th 06:00-24:00, Fr 06:00-01:00, Sa 08:00-01:00, Su,PH 08:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 176852742
-type: way
+type: node
 latitude: 50.52037
 longitude: 6.46526
 postcode: "53937"
 city: Schleiden
-street: "An der Olef"
-housenumber: 64
+street: An der Olef
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://rewe-rieck.de/markt-in-schleiden/"
+opening_hours: Mo-Sa 08:00-22:00
+website: https://rewe-rieck.de/markt-in-schleiden/

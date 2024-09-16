@@ -1,11 +1,11 @@
 id: 96680405
-type: way
+type: node
 latitude: 51.05074
 longitude: 7.0004
 postcode: "51373"
 city: Leverkusen
-street: "Heinrichstraße"
-housenumber: 20
+street: Heinrichstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

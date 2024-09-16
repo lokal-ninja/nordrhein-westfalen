@@ -4,8 +4,8 @@ latitude: 51.45924
 longitude: 7.45623
 postcode: "44229"
 city: Dortmund
-street: "Hagener Straße"
-housenumber: 242
-phone: "+49 231 7273978"
-opening_hours: "Tu-Fr 09:00-16:00; Sa 08:00-12:00"
-website: "https://www.blumen-mooren.de"
+street: Hagener Straße
+housenumber: "242"
+phone: +49 231 7273978
+opening_hours: Tu-Fr 09:00-16:00; Sa 08:00-12:00
+website: https://www.blumen-mooren.de

@@ -1,11 +1,11 @@
 id: 751707871
-type: way
+type: node
 latitude: 50.73698
 longitude: 7.07223
 postcode: "53121"
 city: Bonn
-street: "Siemensstraße"
-housenumber: 1
+street: Siemensstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.77517
 longitude: 6.09154
 postcode: ""
 city: Aachen
-street: "Adalbertstraße"
-housenumber: 60
+street: Adalbertstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
-website: "https://www.tchibo.de/"
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
+website: https://www.tchibo.de/

@@ -4,8 +4,8 @@ latitude: 51.71242
 longitude: 8.75989
 postcode: "33098"
 city: Paderborn
-street: "Husener Straße"
-housenumber: 37
+street: Husener Straße
+housenumber: "37"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

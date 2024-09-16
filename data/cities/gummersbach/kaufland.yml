@@ -1,11 +1,11 @@
 id: 172842314
-type: way
+type: node
 latitude: 50.98335
 longitude: 7.52939
 postcode: "51645"
 city: Gummersbach
-street: "Dieringhauser Straße"
-housenumber: 16
+street: Dieringhauser Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

@@ -4,8 +4,8 @@ latitude: 51.47381
 longitude: 7.32305
 postcode: "44892"
 city: Bochum
-street: "Unterstraße"
-housenumber: 10
-phone: "+49 157 81569531"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Unterstraße
+housenumber: "10"
+phone: +49 157 81569531
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

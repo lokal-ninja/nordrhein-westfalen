@@ -1,11 +1,11 @@
 id: 1157436751
-type: way
+type: node
 latitude: 51.38302
 longitude: 6.99471
 postcode: "45239"
 city: Essen
-street: "Im Löwental"
-housenumber: 68
+street: Im Löwental
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

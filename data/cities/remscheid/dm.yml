@@ -4,8 +4,8 @@ latitude: 51.18311
 longitude: 7.18715
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 74
-phone: "+49 2191 927096"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.dm.de/"
+street: Alleestraße
+housenumber: "74"
+phone: +49 2191 927096
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.dm.de/

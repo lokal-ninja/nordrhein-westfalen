@@ -4,8 +4,8 @@ latitude: 51.25913
 longitude: 7.13625
 postcode: "42105"
 city: Wuppertal
-street: "Wirkerstraße"
-housenumber: 58
+street: Wirkerstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 12:00-16:00"
-website: "https://breddas.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 12:00-16:00
+website: https://breddas.de/

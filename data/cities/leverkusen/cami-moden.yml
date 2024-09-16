@@ -4,8 +4,8 @@ latitude: 51.04982
 longitude: 6.9531
 postcode: "51371"
 city: Leverkusen
-street: "Röttgerweg"
-housenumber: 4
-phone: "+49 214 86 90 39 01"
-opening_hours: "Mo-Sa 12:00-20:00"
-website: "http://www.cami-moden.de/"
+street: Röttgerweg
+housenumber: "4"
+phone: +49 214 86 90 39 01
+opening_hours: Mo-Sa 12:00-20:00
+website: http://www.cami-moden.de/

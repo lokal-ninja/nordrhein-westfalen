@@ -4,8 +4,8 @@ latitude: 51.61124
 longitude: 7.19758
 postcode: "45657"
 city: Recklinghausen
-street: "Herner Straße"
-housenumber: 5
-phone: "+49 2361 3702810"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00"
-website: "https://www.fc-computer.de/"
+street: Herner Straße
+housenumber: "5"
+phone: +49 2361 3702810
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00
+website: https://www.fc-computer.de/

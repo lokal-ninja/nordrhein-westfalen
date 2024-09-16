@@ -1,11 +1,11 @@
 id: 97860599
-type: way
+type: node
 latitude: 50.7926
 longitude: 6.10539
 postcode: "52070"
 city: Aachen
-street: "Lukasstraße"
-housenumber: 14
+street: Lukasstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
-website: "http://www.automobile-aydogan.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
+website: http://www.automobile-aydogan.com/

@@ -1,11 +1,11 @@
 id: 1176512818
-type: way
+type: node
 latitude: 50.87292
 longitude: 7.60647
 postcode: "51545"
 city: Waldbröl
-street: "Raabeweg"
-housenumber: 4
-phone: "+49 2291 8088233"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.zweirad-meister.de/"
+street: Raabeweg
+housenumber: "4"
+phone: +49 2291 8088233
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.zweirad-meister.de/

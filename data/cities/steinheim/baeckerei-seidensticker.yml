@@ -1,11 +1,11 @@
 id: 497377086
-type: way
+type: node
 latitude: 51.84724
 longitude: 9.03101
 postcode: "32839"
 city: Steinheim
-street: "Klosterstraße"
-housenumber: 4
-phone: "+49 5233 383530"
+street: Klosterstraße
+housenumber: "4"
+phone: +49 5233 383530
 opening_hours: ""
 website: ""

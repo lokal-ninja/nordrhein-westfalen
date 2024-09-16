@@ -4,8 +4,8 @@ latitude: 51.47383
 longitude: 7.21587
 postcode: "44789"
 city: Bochum
-street: "Clemensstraße"
-housenumber: 9
+street: Clemensstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,Fr 09:00-20:00; We,Th 08:00-18:00; Sa 08:00-16:00"
-website: "https://coquelicot.de/"
+opening_hours: Tu,Fr 09:00-20:00; We,Th 08:00-18:00; Sa 08:00-16:00
+website: https://coquelicot.de/

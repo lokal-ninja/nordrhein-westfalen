@@ -1,11 +1,11 @@
 id: 292729437
-type: way
+type: node
 latitude: 50.9125
 longitude: 6.38168
 postcode: "52428"
 city: Jülich
-street: "Rudolf-Schulten-Straße"
-housenumber: 6
+street: Rudolf-Schulten-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.srm.de/"
+website: https://www.srm.de/

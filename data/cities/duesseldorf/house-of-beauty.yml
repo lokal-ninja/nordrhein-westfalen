@@ -4,8 +4,8 @@ latitude: 51.22261
 longitude: 6.78526
 postcode: "40210"
 city: Düsseldorf
-street: "Bismarckstraße"
-housenumber: 48
-phone: "+49 211 15204740"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://www.house-of-beauty.online/"
+street: Bismarckstraße
+housenumber: "48"
+phone: +49 211 15204740
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://www.house-of-beauty.online/

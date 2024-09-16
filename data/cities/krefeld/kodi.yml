@@ -4,8 +4,8 @@ latitude: 51.37291
 longitude: 6.50791
 postcode: "47839"
 city: Krefeld
-street: "Kempener Straße"
-housenumber: 7
-phone: "+49 2151 3607553"
-opening_hours: "Mo-Fr 08:30-18:30, Sa 09:00-15:00"
-website: "https://www.kodi.de"
+street: Kempener Straße
+housenumber: "7"
+phone: +49 2151 3607553
+opening_hours: Mo-Fr 08:30-18:30, Sa 09:00-15:00
+website: https://www.kodi.de

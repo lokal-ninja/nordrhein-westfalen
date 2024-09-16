@@ -4,8 +4,8 @@ latitude: 50.74341
 longitude: 7.07926
 postcode: "53119"
 city: Bonn
-street: "Potsdamer Platz"
-housenumber: 2
+street: Potsdamer Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off
 website: ""

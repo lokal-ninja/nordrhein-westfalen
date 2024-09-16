@@ -1,11 +1,11 @@
 id: 543046520
-type: way
+type: node
 latitude: 51.4732
 longitude: 6.99848
 postcode: "45141"
 city: Essen
-street: "Berthold-Beitz-Boulevard"
-housenumber: 492
+street: Berthold-Beitz-Boulevard
+housenumber: "492"
 phone: ""
 opening_hours: ""
 website: ""

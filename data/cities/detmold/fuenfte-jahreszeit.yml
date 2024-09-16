@@ -4,8 +4,8 @@ latitude: 51.93912
 longitude: 8.87508
 postcode: "32756"
 city: Detmold
-street: "Paulinenstraße"
-housenumber: 60
+street: Paulinenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.fuenftejahreszeit.com"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.fuenftejahreszeit.com

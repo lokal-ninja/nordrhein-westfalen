@@ -1,11 +1,11 @@
 id: 153708803
-type: way
+type: node
 latitude: 50.71119
 longitude: 7.02077
 postcode: "53347"
 city: Alfter
-street: "Zur Ölmühle"
-housenumber: 10
-phone: "+49 228 96397606"
+street: Zur Ölmühle
+housenumber: "10"
+phone: +49 228 96397606
 opening_hours: ""
-website: "https://brandingservice.de"
+website: https://brandingservice.de

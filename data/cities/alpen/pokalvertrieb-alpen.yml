@@ -1,11 +1,11 @@
 id: 417403520
-type: way
+type: node
 latitude: 51.59094
 longitude: 6.50268
 postcode: "46519"
 city: Alpen
-street: "Ulrichstraße"
-housenumber: 96
+street: Ulrichstraße
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 77616330
-type: way
+type: node
 latitude: 52.21994
 longitude: 7.81395
 postcode: "49545"
 city: Tecklenburg
-street: "Altstadtparkplatz"
-housenumber: 7
+street: Altstadtparkplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

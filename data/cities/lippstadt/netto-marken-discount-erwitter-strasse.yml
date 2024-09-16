@@ -1,11 +1,11 @@
 id: 254355446
-type: way
+type: node
 latitude: 51.66687
 longitude: 8.34576
 postcode: "59557"
 city: Lippstadt
-street: "Erwitter Straße"
-housenumber: 15
+street: Erwitter Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

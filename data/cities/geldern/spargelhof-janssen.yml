@@ -4,8 +4,8 @@ latitude: 51.49099
 longitude: 6.23287
 postcode: "47608"
 city: Geldern
-street: "Maasstraße"
-housenumber: 81
+street: Maasstraße
+housenumber: "81"
 phone: ""
-opening_hours: "mo-sa: 8.00 - 18.00, so: 8.00 - 17.00 Uhr"
+opening_hours: 'mo-sa: 8.00 - 18.00, so: 8.00 - 17.00 Uhr'
 website: ""

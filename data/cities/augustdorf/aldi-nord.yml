@@ -1,11 +1,11 @@
 id: 320433134
-type: way
+type: node
 latitude: 51.90994
 longitude: 8.73653
 postcode: "32832"
 city: Augustdorf
-street: "Rosenstraße"
-housenumber: 8
+street: Rosenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

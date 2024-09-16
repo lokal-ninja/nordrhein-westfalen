@@ -1,11 +1,11 @@
 id: 28628705
-type: way
+type: node
 latitude: 51.42345
 longitude: 6.77837
 postcode: "47057"
 city: Duisburg
-street: "Kommandantenstraße"
-housenumber: 19
+street: Kommandantenstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

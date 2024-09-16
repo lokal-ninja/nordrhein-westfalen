@@ -1,11 +1,11 @@
 id: 109645327
-type: way
+type: node
 latitude: 51.77464
 longitude: 6.11994
 postcode: "47533"
 city: Kleve
-street: "Materborner Allee"
-housenumber: 13
+street: Materborner Allee
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

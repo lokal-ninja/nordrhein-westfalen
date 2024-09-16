@@ -1,11 +1,11 @@
 id: 52915819
-type: way
+type: node
 latitude: 51.53013
 longitude: 7.53197
 postcode: "44309"
 city: Dortmund
-street: "Oberste-Wilms-Straße"
-housenumber: 26
+street: Oberste-Wilms-Straße
+housenumber: "26"
 phone: "+49231185790"
 opening_hours: ""
-website: "https://www.huelpert.de/skoda/standorte/skoda-zentrum-dortmund"
+website: https://www.huelpert.de/skoda/standorte/skoda-zentrum-dortmund

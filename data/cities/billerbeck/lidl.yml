@@ -1,11 +1,11 @@
 id: 1206071493
-type: way
+type: node
 latitude: 51.98127
 longitude: 7.29306
 postcode: "48727"
 city: Billerbeck
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

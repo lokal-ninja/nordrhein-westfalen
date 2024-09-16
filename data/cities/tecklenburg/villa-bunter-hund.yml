@@ -4,8 +4,8 @@ latitude: 52.21384
 longitude: 7.89396
 postcode: "49545"
 city: Tecklenburg
-street: "Rosenstraße"
-housenumber: 58
+street: Rosenstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; We,Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; We,Sa 10:00-13:00
 website: ""

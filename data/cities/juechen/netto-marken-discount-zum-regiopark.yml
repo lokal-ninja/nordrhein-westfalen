@@ -1,11 +1,11 @@
 id: 303172419
-type: way
+type: node
 latitude: 51.10642
 longitude: 6.46085
 postcode: "41363"
 city: Jüchen
-street: "Zum Regiopark"
-housenumber: 20
+street: Zum Regiopark
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/

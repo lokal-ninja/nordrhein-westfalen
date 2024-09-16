@@ -1,11 +1,11 @@
 id: 219949605
-type: way
+type: node
 latitude: 52.25725
 longitude: 8.48776
 postcode: "32289"
 city: Rödinghausen
-street: "Alte Dorfstraße"
-housenumber: 88
+street: Alte Dorfstraße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

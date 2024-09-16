@@ -1,11 +1,11 @@
 id: 67302892
-type: way
+type: node
 latitude: 50.80201
 longitude: 7.15416
 postcode: "53840"
 city: Troisdorf
-street: "Langenstraße"
-housenumber: 41
+street: Langenstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

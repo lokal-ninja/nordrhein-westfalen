@@ -1,11 +1,13 @@
 id: 163011185
-type: way
+type: node
 latitude: 50.65618
 longitude: 6.81491
 postcode: "53879"
 city: Euskirchen
-street: "Bonner Straße"
-housenumber: 14
+street: Bonner Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu,We,Fr 14:00-21:30 Saunalandschaft; Mo-Fr 08:00-12:00,14:00-19:00 Wellnesscenter und Day Spa; Mo-Fr 08:00-12:00,14:00-19:00  Kosmetik-Spa Jean D'Arcel; Mo-Fr 08:00-12:00,14:00-19:00 Praxis"
+opening_hours: Tu,We,Fr 14:00-21:30 "Saunalandschaft"; Mo-Fr 08:00-12:00,14:00-19:00
+    "Wellnesscenter und Day Spa"; Mo-Fr 08:00-12:00,14:00-19:00 " Kosmetik-Spa Jean
+    D'Arcel"; Mo-Fr 08:00-12:00,14:00-19:00 "Praxis"
 website: ""

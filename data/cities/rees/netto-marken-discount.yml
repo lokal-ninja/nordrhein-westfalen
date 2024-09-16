@@ -1,11 +1,11 @@
 id: 142895210
-type: way
+type: node
 latitude: 51.76746
 longitude: 6.39209
 postcode: "46459"
 city: Rees
-street: "Fuhlensteg"
-housenumber: 52
+street: Fuhlensteg
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 270767925
-type: way
+type: node
 latitude: 51.06878
 longitude: 6.31397
 postcode: "41812"
 city: Erkelenz
-street: "Gewerbestraße Süd"
-housenumber: 73
+street: Gewerbestraße Süd
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

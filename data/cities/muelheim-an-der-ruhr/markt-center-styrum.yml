@@ -1,11 +1,11 @@
 id: 26713668
-type: way
+type: node
 latitude: 51.44651
 longitude: 6.84681
 postcode: "45476"
 city: Mülheim an der Ruhr
-street: "Steinkampstraße"
-housenumber: 49
+street: Steinkampstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

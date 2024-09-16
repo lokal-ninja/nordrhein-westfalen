@@ -4,8 +4,8 @@ latitude: 50.92946
 longitude: 6.94109
 postcode: "50674"
 city: Köln
-street: "Hohenstaufenring"
-housenumber: 1
+street: Hohenstaufenring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su off"
-website: "https://www.jaloucity.de/filialen/koeln-barbarossaplatz.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su off
+website: https://www.jaloucity.de/filialen/koeln-barbarossaplatz.html

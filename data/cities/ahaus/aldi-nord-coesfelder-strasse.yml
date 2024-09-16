@@ -1,11 +1,11 @@
 id: 257489803
-type: way
+type: node
 latitude: 52.06797
 longitude: 7.01066
 postcode: "48683"
 city: Ahaus
-street: "Coesfelder Straße"
-housenumber: 82
+street: Coesfelder Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

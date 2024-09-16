@@ -1,11 +1,11 @@
 id: 468735286
-type: way
+type: node
 latitude: 51.56851
 longitude: 7.52376
 postcode: "44329"
 city: Dortmund
-street: "Altenderner Straße"
+street: Altenderner Straße
 housenumber: 20c
-phone: "+49 231 890093"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-19:00; Su 08:00-17:00"
-website: "https://baeckerei-kanne.de/filialen.html"
+phone: +49 231 890093
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-19:00; Su 08:00-17:00
+website: https://baeckerei-kanne.de/filialen.html

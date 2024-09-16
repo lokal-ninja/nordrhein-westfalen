@@ -1,11 +1,11 @@
 id: 155440452
-type: way
+type: node
 latitude: 51.4415
 longitude: 7.0875
 postcode: "45279"
 city: Essen
-street: "Ruhrau"
-housenumber: 37
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/essen/ruhrau-37/3181884"
+street: Ruhrau
+housenumber: "37"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/essen/ruhrau-37/3181884

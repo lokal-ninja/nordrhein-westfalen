@@ -4,8 +4,8 @@ latitude: 51.54182
 longitude: 7.68651
 postcode: "59425"
 city: Unna
-street: "Friedrich-Ebert-Straße"
-housenumber: 24
+street: Friedrich-Ebert-Straße
+housenumber: "24"
 phone: "+49230322414"
-opening_hours: "Mo,Tu,Th 07:30-16:30; We,Fr 07:30-12:30"
+opening_hours: Mo,Tu,Th 07:30-16:30; We,Fr 07:30-12:30
 website: ""

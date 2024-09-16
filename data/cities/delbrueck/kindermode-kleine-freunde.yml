@@ -4,8 +4,8 @@ latitude: 51.76449
 longitude: 8.56172
 postcode: "33129"
 city: Delbrück
-street: "Lange Straße"
-housenumber: 5
+street: Lange Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:30; Sa 09:30-14:00; Su,PH off"
-website: "http://www.kindermoden-kleine-freunde.de/"
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:30; Sa 09:30-14:00; Su,PH off
+website: http://www.kindermoden-kleine-freunde.de/

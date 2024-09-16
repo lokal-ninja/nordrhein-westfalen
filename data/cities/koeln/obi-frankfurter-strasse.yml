@@ -1,11 +1,11 @@
 id: 32658719
-type: way
+type: node
 latitude: 50.9511
 longitude: 7.01516
 postcode: "51065"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 194
+street: Frankfurter Straße
+housenumber: "194"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/baumarkt/koeln-muelheim.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/baumarkt/koeln-muelheim.html

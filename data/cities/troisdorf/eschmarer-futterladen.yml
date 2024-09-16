@@ -1,11 +1,11 @@
 id: 117330012
-type: way
+type: node
 latitude: 50.79152
 longitude: 7.11086
 postcode: "53844"
 city: Troisdorf
-street: "Rheinstraße"
-housenumber: 38
-phone: "+49 2241 42169"
+street: Rheinstraße
+housenumber: "38"
+phone: +49 2241 42169
 opening_hours: ""
 website: ""

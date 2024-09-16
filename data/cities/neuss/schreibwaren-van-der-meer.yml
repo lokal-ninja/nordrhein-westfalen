@@ -1,11 +1,11 @@
 id: 272659314
-type: way
+type: node
 latitude: 51.13898
 longitude: 6.74767
 postcode: "41470"
 city: Neuss
-street: "Horremer Straße"
+street: Horremer Straße
 housenumber: 32b
-phone: "+49 2137 104640"
-opening_hours: "Mo-Th 09:00-12:30,14:30-18:30; Fr 09:00-18:30; Sa 09:00-16:00"
+phone: +49 2137 104640
+opening_hours: Mo-Th 09:00-12:30,14:30-18:30; Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

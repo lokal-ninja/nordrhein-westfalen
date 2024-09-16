@@ -4,8 +4,8 @@ latitude: 51.00149
 longitude: 6.80149
 postcode: "50259"
 city: Pulheim
-street: "Worringer Straße"
-housenumber: 1
-phone: "+49 2238 6040"
-opening_hours: "Mo-Th 07:00-24:00, Fr 07:00-01:00, Sa 08:00-01:00, Su 08:00-24:00"
+street: Worringer Straße
+housenumber: "1"
+phone: +49 2238 6040
+opening_hours: Mo-Th 07:00-24:00, Fr 07:00-01:00, Sa 08:00-01:00, Su 08:00-24:00
 website: ""

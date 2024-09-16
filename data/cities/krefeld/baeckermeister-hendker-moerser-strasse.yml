@@ -4,8 +4,8 @@ latitude: 51.34502
 longitude: 6.57123
 postcode: "47803"
 city: Krefeld
-street: "Moerser Straße"
-housenumber: 178
-phone: "+49 2151 23823"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-14:00; Su 08:00-16:30"
-website: "https://www.baeckerei-hendker.de/"
+street: Moerser Straße
+housenumber: "178"
+phone: +49 2151 23823
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:00-14:00; Su 08:00-16:30
+website: https://www.baeckerei-hendker.de/

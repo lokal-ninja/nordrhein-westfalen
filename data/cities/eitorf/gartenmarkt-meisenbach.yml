@@ -1,11 +1,11 @@
 id: 396041557
-type: way
+type: node
 latitude: 50.72729
 longitude: 7.4354
 postcode: "53783"
 city: Eitorf
-street: "Kalkstraße"
-housenumber: 32
-phone: "+49 2243 2578"
+street: Kalkstraße
+housenumber: "32"
+phone: +49 2243 2578
 opening_hours: ""
-website: "https://gartenmarkt-meisenbach.de/"
+website: https://gartenmarkt-meisenbach.de/

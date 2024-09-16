@@ -1,11 +1,11 @@
 id: 118004239
-type: way
+type: node
 latitude: 51.43384
 longitude: 7.07676
 postcode: "45277"
 city: Essen
-street: "Überruhrstraße"
+street: Überruhrstraße
 housenumber: 52c
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

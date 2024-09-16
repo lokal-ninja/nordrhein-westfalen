@@ -1,11 +1,11 @@
 id: 218713917
-type: way
+type: node
 latitude: 51.6201
 longitude: 7.53542
 postcode: "44534"
 city: Lünen
-street: "Münsterstraße"
-housenumber: 92
+street: Münsterstraße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

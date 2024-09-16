@@ -1,11 +1,11 @@
 id: 248737261
-type: way
+type: node
 latitude: 51.21718
 longitude: 7.65226
 postcode: "58511"
 city: Lüdenscheid
-street: "Bromberger Straße"
-housenumber: 8
+street: Bromberger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
-website: "https://www.rewe-ihr-kaufpark.de/"
+opening_hours: Mo-Sa 07:00-22:00; Su off
+website: https://www.rewe-ihr-kaufpark.de/

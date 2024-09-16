@@ -4,8 +4,8 @@ latitude: 50.93444
 longitude: 6.93965
 postcode: "50674"
 city: Köln
-street: "Hohenstaufenring"
-housenumber: 78
+street: Hohenstaufenring
+housenumber: "78"
 phone: "+4922117045555"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.adasan.com"
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.adasan.com

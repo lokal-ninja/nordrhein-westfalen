@@ -4,8 +4,8 @@ latitude: 50.8051
 longitude: 6.48277
 postcode: "52349"
 city: Düren
-street: "Wirteltorplatz"
-housenumber: 6
+street: Wirteltorplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-17:00"
-website: "https://www.fielmann.de/"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-17:00
+website: https://www.fielmann.de/

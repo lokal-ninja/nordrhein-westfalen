@@ -1,11 +1,11 @@
 id: 52613139
-type: way
+type: node
 latitude: 52.1721
 longitude: 7.5292
 postcode: "48282"
 city: Emsdetten
-street: "Mühlenstraße"
-housenumber: 40
+street: Mühlenstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

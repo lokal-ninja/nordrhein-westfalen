@@ -1,11 +1,11 @@
 id: 281568480
-type: way
+type: node
 latitude: 50.65809
 longitude: 6.83377
 postcode: "53881"
 city: Euskirchen
-street: "Lisztstraße"
-housenumber: 20
+street: Lisztstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

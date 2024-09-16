@@ -1,11 +1,11 @@
 id: 119332257
-type: way
+type: node
 latitude: 50.79784
 longitude: 6.47884
 postcode: "52349"
 city: Düren
-street: "Aachener Straße"
-housenumber: 19
+street: Aachener Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.mercedes-herten.com/"
+website: https://www.mercedes-herten.com/

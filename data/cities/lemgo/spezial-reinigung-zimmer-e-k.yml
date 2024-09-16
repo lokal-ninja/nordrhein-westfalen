@@ -1,11 +1,11 @@
 id: 251839629
-type: way
+type: node
 latitude: 52.01993
 longitude: 8.89335
 postcode: "32657"
 city: Lemgo
-street: "Molinder Grasweg"
-housenumber: 1
+street: Molinder Grasweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

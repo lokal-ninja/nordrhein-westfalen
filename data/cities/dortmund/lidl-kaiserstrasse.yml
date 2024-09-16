@@ -1,11 +1,11 @@
 id: 34596792
-type: way
+type: node
 latitude: 51.51543
 longitude: 7.49399
 postcode: "44143"
 city: Dortmund
-street: "Kaiserstraße"
+street: Kaiserstraße
 housenumber: 182-190
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/filialen/dortmund/kaiserstr-182-190.html"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.lidl.de/filialen/dortmund/kaiserstr-182-190.html

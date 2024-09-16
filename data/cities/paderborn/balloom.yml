@@ -4,8 +4,8 @@ latitude: 51.74683
 longitude: 8.74802
 postcode: "33102"
 city: Paderborn
-street: "Angelnweg"
-housenumber: 2
+street: Angelnweg
+housenumber: "2"
 phone: ""
-opening_hours: "We-Sa 9:00-14:00; nach Absprache"
-website: "https://balloom-paderborn.de/"
+opening_hours: We-Sa 9:00-14:00; "nach Absprache"
+website: https://balloom-paderborn.de/

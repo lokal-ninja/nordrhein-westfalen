@@ -1,11 +1,11 @@
 id: 117907241
-type: way
+type: node
 latitude: 50.79029
 longitude: 7.10906
 postcode: "53844"
 city: Troisdorf
-street: "Rheinstraße"
-housenumber: 47
+street: Rheinstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

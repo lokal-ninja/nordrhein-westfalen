@@ -4,8 +4,8 @@ latitude: 51.67186
 longitude: 8.72375
 postcode: "33178"
 city: Borchen
-street: "Paderborner Straße"
-housenumber: 35
-phone: "+49 5251 13937"
-opening_hours: "Mo-Sa 08:00-20:000"
-website: "https://www.edeka.de/"
+street: Paderborner Straße
+housenumber: "35"
+phone: +49 5251 13937
+opening_hours: Mo-Sa 08:00-20:000
+website: https://www.edeka.de/

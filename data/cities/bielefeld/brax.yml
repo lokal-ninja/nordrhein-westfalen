@@ -4,8 +4,8 @@ latitude: 52.02246
 longitude: 8.53274
 postcode: "33602"
 city: Bielefeld
-street: "Niederwall"
-housenumber: 2
+street: Niederwall
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://shop.brax.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://shop.brax.com/

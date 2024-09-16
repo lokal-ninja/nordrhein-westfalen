@@ -4,8 +4,8 @@ latitude: 51.48167
 longitude: 7.21817
 postcode: "44787"
 city: Bochum
-street: "Grabenstraße"
-housenumber: 1
-phone: "+49 234 15409"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.wurst-koenig.de"
+street: Grabenstraße
+housenumber: "1"
+phone: +49 234 15409
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.wurst-koenig.de

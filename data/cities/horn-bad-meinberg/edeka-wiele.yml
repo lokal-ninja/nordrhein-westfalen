@@ -1,11 +1,11 @@
 id: 260805889
-type: way
+type: node
 latitude: 51.89545
 longitude: 8.97427
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Brunnenstraße"
-housenumber: 12
+street: Brunnenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://edeka-wiele.de/"
+website: https://edeka-wiele.de/

@@ -1,11 +1,11 @@
 id: 304969031
-type: way
+type: node
 latitude: 50.53914
 longitude: 6.55605
 postcode: "53925"
 city: Kall
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

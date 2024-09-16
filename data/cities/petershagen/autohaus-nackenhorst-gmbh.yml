@@ -4,8 +4,8 @@ latitude: 52.37246
 longitude: 8.97423
 postcode: "32469"
 city: Petershagen
-street: "Mindener Straße"
-housenumber: 75
-phone: "+49 5707 2071"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"
-website: "http://www.autohaus-nackenhorst.de/"
+street: Mindener Straße
+housenumber: "75"
+phone: +49 5707 2071
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00
+website: http://www.autohaus-nackenhorst.de/

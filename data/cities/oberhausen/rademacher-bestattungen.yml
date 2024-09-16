@@ -1,11 +1,11 @@
 id: 342067849
-type: way
+type: node
 latitude: 51.46327
 longitude: 6.8517
 postcode: "46045"
 city: Oberhausen
-street: "Lothringer Straße"
-housenumber: 127
+street: Lothringer Straße
+housenumber: "127"
 phone: ""
 opening_hours: ""
-website: "https://www.rademacher-bestattungen.de/"
+website: https://www.rademacher-bestattungen.de/

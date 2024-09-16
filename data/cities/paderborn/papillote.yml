@@ -4,8 +4,8 @@ latitude: 51.71642
 longitude: 8.75545
 postcode: "33098"
 city: Paderborn
-street: "Kamp"
-housenumber: 8
+street: Kamp
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:00-16:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:00-16:00; Mo,Su,PH off
 website: ""

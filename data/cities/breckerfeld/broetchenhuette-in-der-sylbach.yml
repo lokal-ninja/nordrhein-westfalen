@@ -1,11 +1,11 @@
 id: 1046826902
-type: way
+type: node
 latitude: 51.25077
 longitude: 7.46315
 postcode: "58339"
 city: Breckerfeld
-street: "In der Sylbach"
-housenumber: 
-phone: "+49 2338 912950"
-opening_hours: "Sa 07:00-12:00"
+street: In der Sylbach
+housenumber: ""
+phone: +49 2338 912950
+opening_hours: Sa 07:00-12:00
 website: ""

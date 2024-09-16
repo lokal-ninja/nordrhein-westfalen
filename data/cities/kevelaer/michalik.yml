@@ -4,8 +4,8 @@ latitude: 51.58139
 longitude: 6.24348
 postcode: "47623"
 city: Kevelaer
-street: "Annastraße"
-housenumber: 37
+street: Annastraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00; PH,Su off"
-website: "https://www.zweirad-michalik.de"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00; PH,Su off
+website: https://www.zweirad-michalik.de

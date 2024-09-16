@@ -1,11 +1,11 @@
 id: 297992420
-type: way
+type: node
 latitude: 51.24502
 longitude: 6.97817
 postcode: "40822"
 city: Mettmann
-street: "Blumenstraße"
-housenumber: 27
+street: Blumenstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/

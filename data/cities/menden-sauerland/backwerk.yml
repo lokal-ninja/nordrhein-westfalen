@@ -4,8 +4,8 @@ latitude: 51.43834
 longitude: 7.79435
 postcode: "58706"
 city: Menden (Sauerland)
-street: "Hauptstraße"
-housenumber: 51
+street: Hauptstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su, PH off"
-website: "https://www.back-werk.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su, PH off
+website: https://www.back-werk.de

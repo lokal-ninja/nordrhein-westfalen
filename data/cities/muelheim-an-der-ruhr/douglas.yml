@@ -1,11 +1,11 @@
 id: 916736312
-type: way
+type: node
 latitude: 51.42918
 longitude: 6.88616
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 32850"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 32850
 opening_hours: ""
-website: "https://www.douglas.de"
+website: https://www.douglas.de

@@ -4,8 +4,8 @@ latitude: 51.21689
 longitude: 7.62796
 postcode: "58507"
 city: Lüdenscheid
-street: "Rathausplatz"
-housenumber: 17
-phone: "+49 2351 668800"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:30; Su off"
-website: "https://www.reisebuero-kattwinkel.de"
+street: Rathausplatz
+housenumber: "17"
+phone: +49 2351 668800
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:30; Su off
+website: https://www.reisebuero-kattwinkel.de

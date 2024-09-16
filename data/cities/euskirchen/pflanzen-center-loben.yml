@@ -1,11 +1,11 @@
 id: 168057432
-type: way
+type: node
 latitude: 50.65196
 longitude: 6.82207
 postcode: "53881"
 city: Euskirchen
-street: "Kuchenheimer Straße"
-housenumber: 50
+street: Kuchenheimer Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo off; Tu-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-14:00
 website: ""

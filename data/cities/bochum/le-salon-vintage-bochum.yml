@@ -4,8 +4,8 @@ latitude: 51.47356
 longitude: 7.21953
 postcode: "44789"
 city: Bochum
-street: "Oskar-Hoffmann-Straße"
-housenumber: 43
-phone: "+49 179 39 84 965"
-opening_hours: "We-Fr 12:00-18:30, Sa 11:00-15:30"
-website: "http://www.le-salon-bochum.de/"
+street: Oskar-Hoffmann-Straße
+housenumber: "43"
+phone: +49 179 39 84 965
+opening_hours: We-Fr 12:00-18:30, Sa 11:00-15:30
+website: http://www.le-salon-bochum.de/

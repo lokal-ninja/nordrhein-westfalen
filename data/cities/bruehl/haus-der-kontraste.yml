@@ -4,8 +4,8 @@ latitude: 50.82508
 longitude: 6.90058
 postcode: "50321"
 city: Brühl
-street: "Uhlstraße"
-housenumber: 117
-phone: "+49 2232 1555333"
-opening_hours: "Tu,Th,Fr 09:00-19:00; Sa 09:00-15:00; Mo,We off"
+street: Uhlstraße
+housenumber: "117"
+phone: +49 2232 1555333
+opening_hours: Tu,Th,Fr 09:00-19:00; Sa 09:00-15:00; Mo,We off
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.30104
 longitude: 6.74027
 postcode: "40489"
 city: Düsseldorf
-street: "Am Kreuzberg"
-housenumber: 3
-phone: "+49 211 41554424"
-opening_hours: ""
-website: "https://www.ludwig-wurst.de/"
+street: Am Kreuzberg
+housenumber: "3"
+phone: +49 211 41554424
+opening_hours: Mo-Th 08:00-14:00; Th 15:00-18:30; Fr 07:30-14:00, 15:00-18:30; Sa
+    07:30-13:00
+website: https://www.ludwig-wurst.de/

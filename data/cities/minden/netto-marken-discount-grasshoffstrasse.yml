@@ -1,11 +1,11 @@
 id: 41475749
-type: way
+type: node
 latitude: 52.33538
 longitude: 8.91817
 postcode: "32425"
 city: Minden
-street: "Graßhoffstraße"
-housenumber: 26
+street: Graßhoffstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

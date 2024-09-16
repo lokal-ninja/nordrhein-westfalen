@@ -4,8 +4,8 @@ latitude: 50.72929
 longitude: 7.10163
 postcode: "53113"
 city: Bonn
-street: "Prinz-Albert-Straße"
-housenumber: 20
+street: Prinz-Albert-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "PH,We,Su off; Sa 11:00-14:00; Mo,Tu,Th,Fr 11:00-18:00"
+opening_hours: PH,We,Su off; Sa 11:00-14:00; Mo,Tu,Th,Fr 11:00-18:00
 website: ""

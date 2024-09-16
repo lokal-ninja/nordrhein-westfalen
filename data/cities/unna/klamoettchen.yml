@@ -4,8 +4,9 @@ latitude: 51.54599
 longitude: 7.8112
 postcode: "59427"
 city: Unna
-street: "Hemmerder Dorfstraße"
-housenumber: 78
+street: Hemmerder Dorfstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Th[-1] 09:00-17:00 am letzten Do im Monat; Fr[-1] 09:00-12:00 am letzten Freitag im Monat"
+opening_hours: Th[-1] 09:00-17:00 "am letzten Do im Monat"; Fr[-1] 09:00-12:00 "am
+    letzten Freitag im Monat"
 website: ""

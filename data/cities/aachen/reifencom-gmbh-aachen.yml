@@ -1,11 +1,11 @@
 id: 284599075
-type: way
+type: node
 latitude: 50.75682
 longitude: 6.16263
 postcode: "52078"
 city: Aachen
-street: "Nordstraße"
-housenumber: 62
-phone: "+49 241 522041"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.reifen.com/de/Branche/Detail/0/52078/0/10021?IsStore=True&SearchFilialeOnly=False&GeoLocationJSLat=50.7506567&GeoLocationJSLng=6.163389499999994"
+street: Nordstraße
+housenumber: "62"
+phone: +49 241 522041
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.reifen.com/de/Branche/Detail/0/52078/0/10021?IsStore=True&SearchFilialeOnly=False&GeoLocationJSLat=50.7506567&GeoLocationJSLng=6.163389499999994

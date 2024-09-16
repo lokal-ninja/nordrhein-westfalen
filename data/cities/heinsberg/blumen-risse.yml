@@ -1,11 +1,11 @@
 id: 274797800
-type: way
+type: node
 latitude: 51.06676
 longitude: 6.11223
 postcode: "52525"
 city: Heinsberg
-street: "Borsigstraße"
-housenumber: 40
-phone: "+49 2452 91360"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.blumen-risse.de"
+street: Borsigstraße
+housenumber: "40"
+phone: +49 2452 91360
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.blumen-risse.de

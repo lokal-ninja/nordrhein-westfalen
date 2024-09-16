@@ -1,11 +1,11 @@
 id: 123559449
-type: way
+type: node
 latitude: 50.7103
 longitude: 7.10902
 postcode: "53129"
 city: Bonn
-street: "Hausdorffstraße"
+street: Hausdorffstraße
 housenumber: 188-190
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-17:00; Su 07:30-17:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-17:00; Su 07:30-17:00
 website: ""

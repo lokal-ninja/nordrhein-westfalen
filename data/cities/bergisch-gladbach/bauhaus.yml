@@ -1,11 +1,11 @@
 id: 119476653
-type: way
+type: node
 latitude: 50.95776
 longitude: 7.19011
 postcode: "51429"
 city: Bergisch Gladbach
-street: "Overather Straße"
-housenumber: 125
+street: Overather Straße
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

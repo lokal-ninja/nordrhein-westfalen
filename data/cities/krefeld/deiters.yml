@@ -4,8 +4,8 @@ latitude: 51.33033
 longitude: 6.56361
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 60
+street: Hochstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.deiters.de/krefeld/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.deiters.de/krefeld/

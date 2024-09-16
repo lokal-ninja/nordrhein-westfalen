@@ -4,8 +4,8 @@ latitude: 51.53405
 longitude: 7.6908
 postcode: "59423"
 city: Unna
-street: "Wasserstraße"
-housenumber: 10
-phone: "+49 2303 929 06 42"
-opening_hours: "Mo-Fr 9:00-13:00,14:00-18:00, Sa 9:00-13:00"
-website: "https://www.hesselbach-hoerakustik.de/startseite.html"
+street: Wasserstraße
+housenumber: "10"
+phone: +49 2303 929 06 42
+opening_hours: Mo-Fr 9:00-13:00,14:00-18:00, Sa 9:00-13:00
+website: https://www.hesselbach-hoerakustik.de/startseite.html

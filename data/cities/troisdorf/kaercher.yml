@@ -1,11 +1,11 @@
 id: 110363006
-type: way
+type: node
 latitude: 50.82627
 longitude: 7.1055
 postcode: "53842"
 city: Troisdorf
-street: "Lülsdorfer Straße"
-housenumber: 50
+street: Lülsdorfer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.78039
 longitude: 6.06135
 postcode: "52074"
 city: Aachen
-street: "Ahornstraße"
-housenumber: 42
-phone: "+49 241 91809763"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su 07:30-12:00"
-website: "https://baeckerei-moss.de/filiale/ahornstrasse-42/"
+street: Ahornstraße
+housenumber: "42"
+phone: +49 241 91809763
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su 07:30-12:00
+website: https://baeckerei-moss.de/filiale/ahornstrasse-42/

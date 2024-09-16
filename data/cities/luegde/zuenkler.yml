@@ -1,11 +1,11 @@
 id: 251395439
-type: way
+type: node
 latitude: 51.9563
 longitude: 9.24613
 postcode: "32676"
 city: Lügde
-street: "Vordere Straße"
-housenumber: 44
+street: Vordere Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

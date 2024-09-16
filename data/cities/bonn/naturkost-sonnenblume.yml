@@ -4,8 +4,8 @@ latitude: 50.7125
 longitude: 7.10842
 postcode: "53129"
 city: Bonn
-street: "Hausdorffstraße"
-housenumber: 158
-phone: "+49 228 2077788"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-15:00; Su,PH off"
+street: Hausdorffstraße
+housenumber: "158"
+phone: +49 228 2077788
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-15:00; Su,PH off
 website: ""

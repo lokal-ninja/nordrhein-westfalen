@@ -1,11 +1,11 @@
 id: 337134080
-type: way
+type: node
 latitude: 50.96221
 longitude: 6.46254
 postcode: "52445"
 city: Titz
-street: "Hohe Straße"
-housenumber: 1
+street: Hohe Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

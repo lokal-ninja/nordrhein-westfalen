@@ -1,11 +1,11 @@
 id: 249798271
-type: way
+type: node
 latitude: 51.64989
 longitude: 9.04751
 postcode: "34439"
 city: Willebadessen
-street: "Kirchring"
-housenumber: 15
-phone: "+49 5646 5 37"
+street: Kirchring
+housenumber: "15"
+phone: +49 5646 5 37
 opening_hours: ""
 website: ""

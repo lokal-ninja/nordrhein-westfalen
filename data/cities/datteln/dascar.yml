@@ -1,11 +1,11 @@
 id: 458147869
-type: way
+type: node
 latitude: 51.66521
 longitude: 7.34685
 postcode: "45711"
 city: Datteln
-street: "Bülowstraße"
-housenumber: 93
+street: Bülowstraße
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://dascar.gmbh/"
+website: https://dascar.gmbh/

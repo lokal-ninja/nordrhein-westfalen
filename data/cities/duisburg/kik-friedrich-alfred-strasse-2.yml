@@ -1,11 +1,11 @@
 id: 306390687
-type: way
+type: node
 latitude: 51.40281
 longitude: 6.7234
 postcode: "47226"
 city: Duisburg
-street: "Friedrich-Alfred-Straße"
-housenumber: 217
+street: Friedrich-Alfred-Straße
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

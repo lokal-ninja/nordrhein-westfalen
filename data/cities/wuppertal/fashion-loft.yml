@@ -4,8 +4,8 @@ latitude: 51.25762
 longitude: 7.14358
 postcode: "42103"
 city: Wuppertal
-street: "Erholungstraße"
-housenumber: 14
-phone: "+49 202 769 32 757"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
-website: "https://www.jilfashion.com/"
+street: Erholungstraße
+housenumber: "14"
+phone: +49 202 769 32 757
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00
+website: https://www.jilfashion.com/

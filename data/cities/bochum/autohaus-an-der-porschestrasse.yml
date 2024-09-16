@@ -1,11 +1,11 @@
 id: 91819894
-type: way
+type: node
 latitude: 51.48865
 longitude: 7.19198
 postcode: "44809"
 city: Bochum
-street: "Porschestraße"
-housenumber: 8
-phone: "+49 234 974735-0"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.tiemeyer.de/"
+street: Porschestraße
+housenumber: "8"
+phone: +49 234 974735-0
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-16:00; PH off
+website: https://www.tiemeyer.de/

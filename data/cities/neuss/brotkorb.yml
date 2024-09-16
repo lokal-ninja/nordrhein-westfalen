@@ -4,8 +4,8 @@ latitude: 51.19828
 longitude: 6.69114
 postcode: "41460"
 city: Neuss
-street: "Neustraße"
-housenumber: 5
+street: Neustraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:30
 website: ""

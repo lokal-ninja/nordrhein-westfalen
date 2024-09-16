@@ -4,8 +4,8 @@ latitude: 51.3741
 longitude: 6.41883
 postcode: "47906"
 city: Kempen
-street: "Kleinbahnstraße"
-housenumber: 32
-phone: "+49 2152 89871-0"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.obi.de/markt/kempen"
+street: Kleinbahnstraße
+housenumber: "32"
+phone: +49 2152 89871-0
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.obi.de/markt/kempen

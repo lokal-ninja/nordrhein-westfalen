@@ -1,11 +1,12 @@
 id: 184725374
-type: way
+type: node
 latitude: 50.93242
 longitude: 6.84642
 postcode: "50858"
 city: Köln
-street: "Ignystraße"
-housenumber: 93
+street: Ignystraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mar-Dec: Mo-Fr 09:00-19:00; Mar-Dec: Sa 09:00-18:00; Jan-Feb: Mo-Fr 09:00-18:30; Jan-Feb: Sa 09:00-16:00"
-website: "http://www.garten-mueller.info"
+opening_hours: 'Mar-Dec: Mo-Fr 09:00-19:00; Mar-Dec: Sa 09:00-18:00; Jan-Feb: Mo-Fr
+    09:00-18:30; Jan-Feb: Sa 09:00-16:00'
+website: http://www.garten-mueller.info

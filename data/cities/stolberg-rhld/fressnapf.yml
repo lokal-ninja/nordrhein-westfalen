@@ -1,11 +1,11 @@
 id: 435141741
-type: way
+type: node
 latitude: 50.78538
 longitude: 6.21466
 postcode: "52222"
 city: Stolberg (Rhld.)
-street: "Eisenbahnstraße"
+street: Eisenbahnstraße
 housenumber: 153f
-phone: "+49 2402 127858"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+phone: +49 2402 127858
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

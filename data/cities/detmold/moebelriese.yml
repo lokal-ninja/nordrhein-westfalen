@@ -1,11 +1,11 @@
 id: 90533754
-type: way
+type: node
 latitude: 51.94956
 longitude: 8.88795
 postcode: "32756"
 city: Detmold
-street: "Siegfriedstraße"
-housenumber: 96
-phone: "+49 5231 9108930"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+street: Siegfriedstraße
+housenumber: "96"
+phone: +49 5231 9108930
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

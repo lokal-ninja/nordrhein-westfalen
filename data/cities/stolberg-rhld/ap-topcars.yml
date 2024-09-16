@@ -1,11 +1,11 @@
 id: 260255607
-type: way
+type: node
 latitude: 50.78718
 longitude: 6.21227
 postcode: "52222"
 city: Stolberg (Rhld.)
-street: "Würselener Straße"
-housenumber: 5
+street: Würselener Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/APTOPCARS"
+website: https://home.mobile.de/APTOPCARS

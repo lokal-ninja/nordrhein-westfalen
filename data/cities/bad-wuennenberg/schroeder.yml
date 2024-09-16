@@ -1,11 +1,11 @@
 id: 35108489
-type: way
+type: node
 latitude: 51.56802
 longitude: 8.72645
 postcode: "33181"
 city: Bad Wünnenberg
-street: "Salzbrunnen"
-housenumber: 1
+street: Salzbrunnen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

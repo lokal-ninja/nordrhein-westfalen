@@ -4,8 +4,8 @@ latitude: 51.47319
 longitude: 7.22635
 postcode: "44789"
 city: Bochum
-street: "Brunsteinstraße"
-housenumber: 1
+street: Brunsteinstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Th 17:00-22:00; Fr 15:00-22:00; Sa 15:00-22:00; PH off"
+opening_hours: Tu-Th 17:00-22:00; Fr 15:00-22:00; Sa 15:00-22:00; PH off
 website: ""

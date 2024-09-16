@@ -1,11 +1,11 @@
 id: 54882532
-type: way
+type: node
 latitude: 51.5414
 longitude: 7.26526
 postcode: "44627"
 city: Herne
-street: "Mont-Cenis-Straße"
-housenumber: 351
+street: Mont-Cenis-Straße
+housenumber: "351"
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/herne/mont-cenis-strasse-351/3181764"
+opening_hours: Mo-Sa 7:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/herne/mont-cenis-strasse-351/3181764

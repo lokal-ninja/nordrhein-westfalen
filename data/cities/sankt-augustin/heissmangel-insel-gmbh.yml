@@ -1,11 +1,11 @@
 id: 271944249
-type: way
+type: node
 latitude: 50.77143
 longitude: 7.20795
 postcode: "53757"
 city: Sankt Augustin
-street: "Antoniusstraße"
-housenumber: 4
-phone: "+49 2241 239643"
-opening_hours: "Mo-Tu, Th-Fr 09:00-13:00; We 09:00-18:00; Sa 10:00-12:00; PH off"
+street: Antoniusstraße
+housenumber: "4"
+phone: +49 2241 239643
+opening_hours: Mo-Tu, Th-Fr 09:00-13:00; We 09:00-18:00; Sa 10:00-12:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.38332
 longitude: 9.00391
 postcode: "32469"
 city: Petershagen
-street: "Dingbreite"
-housenumber: 23
-phone: "+49 5702 83080"
-opening_hours: "Sa 08:00-18:00; Mo-Fr 08:00-18:00"
-website: "https://www.hagebau-lahde.de"
+street: Dingbreite
+housenumber: "23"
+phone: +49 5702 83080
+opening_hours: Sa 08:00-18:00; Mo-Fr 08:00-18:00
+website: https://www.hagebau-lahde.de

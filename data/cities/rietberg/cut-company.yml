@@ -1,11 +1,11 @@
 id: 89015230
-type: way
+type: node
 latitude: 51.75522
 longitude: 8.39259
 postcode: "33397"
 city: Rietberg
-street: "Alte Landstraße"
-housenumber: 22
+street: Alte Landstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

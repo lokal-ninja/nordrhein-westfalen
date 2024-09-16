@@ -1,11 +1,11 @@
 id: 322707170
-type: way
+type: node
 latitude: 50.81668
 longitude: 6.36754
 postcode: "52379"
 city: Langerwehe
-street: "Hauptstraße"
-housenumber: 229
+street: Hauptstraße
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

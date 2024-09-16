@@ -1,11 +1,11 @@
 id: 280715449
-type: way
+type: node
 latitude: 51.48688
 longitude: 7.06408
 postcode: "45309"
 city: Essen
-street: "Huestraße"
-housenumber: 141
+street: Huestraße
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

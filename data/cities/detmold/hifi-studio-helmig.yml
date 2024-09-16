@@ -4,8 +4,8 @@ latitude: 51.93355
 longitude: 8.87519
 postcode: "32756"
 city: Detmold
-street: "Paulinenstraße"
-housenumber: 12
-phone: "+49 5231 23561"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 10:00-13:00"
-website: "http://www.HiFi-Studio-Helmig.de"
+street: Paulinenstraße
+housenumber: "12"
+phone: +49 5231 23561
+opening_hours: Mo-Fr 11:00-18:30; Sa 10:00-13:00
+website: http://www.HiFi-Studio-Helmig.de

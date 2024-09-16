@@ -1,11 +1,11 @@
 id: 95801359
-type: way
+type: node
 latitude: 51.98112
 longitude: 8.50215
 postcode: "33647"
 city: Bielefeld
-street: "Südring"
-housenumber: 20
+street: Südring
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.bueddemann.de/"
+website: http://www.bueddemann.de/

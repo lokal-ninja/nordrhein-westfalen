@@ -1,11 +1,11 @@
 id: 401506023
-type: way
+type: node
 latitude: 51.51025
 longitude: 6.54852
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Kruppstraße"
-housenumber: 6
+street: Kruppstraße
+housenumber: "6"
 phone: "+492842330330"
-opening_hours: "24/7"
-website: "https://www.pannendienst-klein.de/"
+opening_hours: 24/7
+website: https://www.pannendienst-klein.de/

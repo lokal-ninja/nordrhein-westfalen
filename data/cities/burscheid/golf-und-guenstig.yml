@@ -1,11 +1,11 @@
 id: 292732601
-type: way
+type: node
 latitude: 51.09015
 longitude: 7.13917
 postcode: "51399"
 city: Burscheid
-street: "Linde"
-housenumber: 2
-phone: "+49 1803 333888"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off"
-website: "https://www.golfundguenstig.de/"
+street: Linde
+housenumber: "2"
+phone: +49 1803 333888
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off
+website: https://www.golfundguenstig.de/

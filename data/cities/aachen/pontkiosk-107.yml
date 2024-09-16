@@ -4,8 +4,8 @@ latitude: 50.77979
 longitude: 6.08027
 postcode: "52062"
 city: Aachen
-street: "Pontstraße"
-housenumber: 107
+street: Pontstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Th 12:00-02:00, Fr,Sa 13:00-05:00, Su 13:00-02:00"
+opening_hours: Mo-Th 12:00-02:00, Fr,Sa 13:00-05:00, Su 13:00-02:00
 website: ""

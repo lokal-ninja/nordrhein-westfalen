@@ -4,8 +4,8 @@ latitude: 50.70648
 longitude: 7.11232
 postcode: "53129"
 city: Bonn
-street: "Kessenicher Straße"
-housenumber: 114
-phone: "+49 177 3817628"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.domius.de/"
+street: Kessenicher Straße
+housenumber: "114"
+phone: +49 177 3817628
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.domius.de/

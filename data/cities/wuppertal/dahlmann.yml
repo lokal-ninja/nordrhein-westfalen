@@ -4,8 +4,8 @@ latitude: 51.27233
 longitude: 7.20516
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 92
+street: Werth
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 07:00-16:00; Su,PH off"
-website: "https://www.baeckerei-horsthemke.de/"
+opening_hours: Mo-Sa 07:00-16:00; Su,PH off
+website: https://www.baeckerei-horsthemke.de/

@@ -1,11 +1,11 @@
 id: 201491125
-type: way
+type: node
 latitude: 51.58142
 longitude: 7.14502
 postcode: "45699"
 city: Herten
-street: "Ewaldstraße"
-housenumber: 182
+street: Ewaldstraße
+housenumber: "182"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/herten/ewaldstr-182.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/herten/ewaldstr-182.html

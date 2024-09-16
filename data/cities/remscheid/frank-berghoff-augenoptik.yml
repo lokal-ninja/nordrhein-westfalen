@@ -4,8 +4,8 @@ latitude: 51.18097
 longitude: 7.18807
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 64
-phone: "+49 2191 420888"
-opening_hours: "Mo-Fr 09:30-18:30;Sa 09:30-16:00"
-website: "https://www.frank-berghoff.de"
+street: Alleestraße
+housenumber: "64"
+phone: +49 2191 420888
+opening_hours: Mo-Fr 09:30-18:30;Sa 09:30-16:00
+website: https://www.frank-berghoff.de

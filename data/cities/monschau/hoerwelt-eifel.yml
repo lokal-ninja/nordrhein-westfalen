@@ -4,8 +4,8 @@ latitude: 50.57284
 longitude: 6.26419
 postcode: ""
 city: Monschau
-street: "Trierer Straße"
-housenumber: 239
-phone: "+49 2472 9120455"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; We 09:30-13:00; PH off"
-website: "https://www.eifel-hoershop.de/"
+street: Trierer Straße
+housenumber: "239"
+phone: +49 2472 9120455
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:00; We 09:30-13:00; PH off
+website: https://www.eifel-hoershop.de/

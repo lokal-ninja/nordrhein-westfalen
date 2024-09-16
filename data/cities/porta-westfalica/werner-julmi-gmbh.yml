@@ -1,11 +1,11 @@
 id: 313545681
-type: way
+type: node
 latitude: 52.20604
 longitude: 8.87632
 postcode: "32457"
 city: Porta Westfalica
-street: "Eschweg"
-housenumber: 11
+street: Eschweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

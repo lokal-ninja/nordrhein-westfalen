@@ -1,11 +1,11 @@
 id: 115668756
-type: way
+type: node
 latitude: 51.7169
 longitude: 8.75737
 postcode: "33098"
 city: Paderborn
-street: "Kamp"
+street: Kamp
 housenumber: 30-32
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.libori-galerie.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.libori-galerie.de/

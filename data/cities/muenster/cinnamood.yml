@@ -4,8 +4,8 @@ latitude: 51.96229
 longitude: 7.63008
 postcode: "48143"
 city: Münster
-street: "Salzstraße"
-housenumber: 7
+street: Salzstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:30; Su 12:00-17:00"
-website: "https://cinnamood.de/"
+opening_hours: Mo-Sa 09:30-20:30; Su 12:00-17:00
+website: https://cinnamood.de/

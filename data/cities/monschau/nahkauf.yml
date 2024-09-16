@@ -1,11 +1,11 @@
 id: 110675518
-type: way
+type: node
 latitude: 50.54804
 longitude: 6.2856
 postcode: "52156"
 city: Monschau
-street: "Dröft"
-housenumber: 11
+street: Dröft
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

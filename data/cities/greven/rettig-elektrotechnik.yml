@@ -1,11 +1,11 @@
 id: 283865319
-type: way
+type: node
 latitude: 52.09745
 longitude: 7.62838
 postcode: "48268"
 city: Greven
-street: "Heinrich-Hertz-Straße"
-housenumber: 3
+street: Heinrich-Hertz-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

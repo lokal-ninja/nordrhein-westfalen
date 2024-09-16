@@ -1,11 +1,11 @@
 id: 152068295
-type: way
+type: node
 latitude: 51.74716
 longitude: 8.74516
 postcode: "33102"
 city: Paderborn
-street: "Biberweg"
-housenumber: 16
+street: Biberweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa off"
+opening_hours: Mo-Fr 09:00-17:00; Sa off
 website: ""

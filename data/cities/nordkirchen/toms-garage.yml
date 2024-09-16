@@ -1,11 +1,11 @@
 id: 809292135
-type: way
+type: node
 latitude: 51.74288
 longitude: 7.51029
 postcode: ""
 city: Nordkirchen
-street: "Ferdinand-Kortmann-Straße"
-housenumber: 4
+street: Ferdinand-Kortmann-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

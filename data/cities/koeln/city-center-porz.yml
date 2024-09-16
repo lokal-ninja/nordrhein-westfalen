@@ -1,11 +1,11 @@
 id: 169665471
-type: way
+type: node
 latitude: 50.88523
 longitude: 7.05816
 postcode: "51143"
 city: Köln
-street: "Josefstraße"
-housenumber: 12
+street: Josefstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://citycenterporz.de/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://citycenterporz.de/

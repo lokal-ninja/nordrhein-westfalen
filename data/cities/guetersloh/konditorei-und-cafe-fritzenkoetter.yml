@@ -4,8 +4,8 @@ latitude: 51.90808
 longitude: 8.38052
 postcode: "33330"
 city: Gütersloh
-street: "Strengerstraße"
-housenumber: 2
+street: Strengerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 07:30-17:30; Sa 07:30-17:00; Su,Mo off"
-website: "http://www.konditorei-fritzenkoetter.de"
+opening_hours: Tu-Fr 07:30-17:30; Sa 07:30-17:00; Su,Mo off
+website: http://www.konditorei-fritzenkoetter.de

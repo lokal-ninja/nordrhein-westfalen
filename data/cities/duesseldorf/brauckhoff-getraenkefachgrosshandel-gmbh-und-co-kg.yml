@@ -4,8 +4,8 @@ latitude: 51.27844
 longitude: 6.74195
 postcode: "40474"
 city: Düsseldorf
-street: "Niederrheinstraße"
-housenumber: 141
-phone: "+49 211 45 22 20"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 08:30-16:00"
-website: "http://www.getraenkemarkt-duesseldorf.de"
+street: Niederrheinstraße
+housenumber: "141"
+phone: +49 211 45 22 20
+opening_hours: Mo-Fr 09:00-19:00, Sa 08:30-16:00
+website: http://www.getraenkemarkt-duesseldorf.de

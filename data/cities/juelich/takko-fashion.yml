@@ -4,8 +4,8 @@ latitude: 50.92251
 longitude: 6.35984
 postcode: "52428"
 city: Jülich
-street: "Kölnstraße"
-housenumber: 15
+street: Kölnstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.takko-fashion.com/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.takko-fashion.com/

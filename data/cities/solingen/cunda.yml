@@ -1,11 +1,11 @@
 id: 88736501
-type: way
+type: node
 latitude: 51.17033
 longitude: 7.08072
 postcode: "42651"
 city: Solingen
-street: "Am Neumarkt"
-housenumber: 20
+street: Am Neumarkt
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

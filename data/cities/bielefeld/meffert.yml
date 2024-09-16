@@ -4,8 +4,8 @@ latitude: 52.05838
 longitude: 8.51634
 postcode: "33613"
 city: Bielefeld
-street: "Babenhauser Straße"
-housenumber: 13
+street: Babenhauser Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
-website: "https://www.baeckerei-meffert.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
+website: https://www.baeckerei-meffert.de/

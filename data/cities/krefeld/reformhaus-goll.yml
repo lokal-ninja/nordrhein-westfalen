@@ -4,8 +4,8 @@ latitude: 51.33236
 longitude: 6.56176
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 114
-phone: "+49 2151 25502"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su, PH off"
-website: "https://reformhaus-goll.de/"
+street: Hochstraße
+housenumber: "114"
+phone: +49 2151 25502
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su, PH off
+website: https://reformhaus-goll.de/

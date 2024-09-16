@@ -1,11 +1,11 @@
 id: 24393381
-type: way
+type: node
 latitude: 50.80834
 longitude: 6.15594
 postcode: "52146"
 city: Würselen
-street: "Schumanstraße"
-housenumber: 6
-phone: "+49 2405 4420"
+street: Schumanstraße
+housenumber: "6"
+phone: +49 2405 4420
 opening_hours: ""
 website: ""

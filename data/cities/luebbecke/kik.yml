@@ -1,11 +1,11 @@
 id: 680438630
-type: way
+type: node
 latitude: 52.30349
 longitude: 8.60375
 postcode: "32312"
 city: Lübbecke
-street: "Strubbergstraße"
-housenumber: 7
+street: Strubbergstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00
+website: https://www.kik.de/

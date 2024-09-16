@@ -4,8 +4,8 @@ latitude: 50.63915
 longitude: 7.23563
 postcode: "53604"
 city: Bad Honnef
-street: "Kapellenstraße"
-housenumber: 8
-phone: "+49 2224 3192"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
-website: "http://frischmarkt-adams.de"
+street: Kapellenstraße
+housenumber: "8"
+phone: +49 2224 3192
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off
+website: http://frischmarkt-adams.de

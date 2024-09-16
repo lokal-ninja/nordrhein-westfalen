@@ -1,11 +1,11 @@
 id: 264113155
-type: way
+type: node
 latitude: 51.2514
 longitude: 7.12918
 postcode: "42117"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 125
+street: Friedrich-Ebert-Straße
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

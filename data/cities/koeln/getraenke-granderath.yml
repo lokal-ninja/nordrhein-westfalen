@@ -4,8 +4,8 @@ latitude: 50.91859
 longitude: 6.95025
 postcode: "50677"
 city: Köln
-street: "Bonner Wall"
-housenumber: 55
-phone: "+49 221 371959"
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; Sa 09:00-14:30; PH closed"
-website: "https://www.getraenke-granderath.de"
+street: Bonner Wall
+housenumber: "55"
+phone: +49 221 371959
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; Sa 09:00-14:30; PH closed
+website: https://www.getraenke-granderath.de

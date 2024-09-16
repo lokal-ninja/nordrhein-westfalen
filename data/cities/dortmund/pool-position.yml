@@ -4,8 +4,8 @@ latitude: 51.50393
 longitude: 7.47566
 postcode: "44139"
 city: Dortmund
-street: "Landgrafenstraße"
-housenumber: 2
-phone: "+49 231 554466"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "http://www.pool-position.de/"
+street: Landgrafenstraße
+housenumber: "2"
+phone: +49 231 554466
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: http://www.pool-position.de/

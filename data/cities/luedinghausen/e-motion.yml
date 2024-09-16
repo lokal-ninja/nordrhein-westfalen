@@ -1,11 +1,11 @@
 id: 107736536
-type: way
+type: node
 latitude: 51.76703
 longitude: 7.4305
 postcode: "59348"
 city: Lüdinghausen
-street: "Seppenrader Straße"
-housenumber: 18
+street: Seppenrader Straße
+housenumber: "18"
 phone: ""
 opening_hours: "off"
-website: "https://emotion-technologies.de/luedinghausen/"
+website: https://emotion-technologies.de/luedinghausen/

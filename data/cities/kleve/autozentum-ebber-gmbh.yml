@@ -1,11 +1,11 @@
 id: 111597068
-type: way
+type: node
 latitude: 51.78768
 longitude: 6.14481
 postcode: "47533"
 city: Kleve
-street: "Kalkarer Straße"
-housenumber: 9
+street: Kalkarer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://autozentrum-ebber.de/"
+website: https://autozentrum-ebber.de/

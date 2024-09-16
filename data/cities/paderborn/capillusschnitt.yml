@@ -4,8 +4,9 @@ latitude: 51.71364
 longitude: 8.75236
 postcode: "33098"
 city: Paderborn
-street: "Kilianstraße"
-housenumber: 8
-phone: "+49 5251 8785737"
-opening_hours: "Tu,We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-14:00; PH,Su,Mo off"
-website: "http://www.capillus-schnitt.de"
+street: Kilianstraße
+housenumber: "8"
+phone: +49 5251 8785737
+opening_hours: Tu,We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-14:00;
+    PH,Su,Mo off
+website: http://www.capillus-schnitt.de

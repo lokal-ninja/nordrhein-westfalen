@@ -1,11 +1,11 @@
 id: 232416168
-type: way
+type: node
 latitude: 51.35343
 longitude: 7.37234
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Am Kohlenbrink"
-housenumber: 14
-phone: "+49 2335 971117"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su off"
-website: "https://www.maschinen-reinigung.com/"
+street: Am Kohlenbrink
+housenumber: "14"
+phone: +49 2335 971117
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su off
+website: https://www.maschinen-reinigung.com/

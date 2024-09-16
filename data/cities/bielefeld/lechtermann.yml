@@ -4,8 +4,8 @@ latitude: 52.04826
 longitude: 8.45627
 postcode: "33619"
 city: Bielefeld
-street: "Wertherstraße"
-housenumber: 431
+street: Wertherstraße
+housenumber: "431"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-12:00
 website: ""

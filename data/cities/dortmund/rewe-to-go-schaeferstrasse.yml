@@ -1,11 +1,11 @@
 id: 1005692993
-type: way
+type: node
 latitude: 51.53213
 longitude: 7.44081
 postcode: "44147"
 city: Dortmund
-street: "Schäferstraße"
-housenumber: 51
+street: Schäferstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

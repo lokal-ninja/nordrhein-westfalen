@@ -1,11 +1,11 @@
 id: 226836103
-type: way
+type: node
 latitude: 50.76215
 longitude: 7.03023
 postcode: "53332"
 city: Bornheim
-street: "Carl-Benz-Straße"
-housenumber: 2
+street: Carl-Benz-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-18:00
 website: ""

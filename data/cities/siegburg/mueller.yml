@@ -4,8 +4,8 @@ latitude: 50.79763
 longitude: 7.20862
 postcode: "53721"
 city: Siegburg
-street: "Holzgasse"
-housenumber: 1
-phone: "+49 2241 148376-0"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.mueller.de/"
+street: Holzgasse
+housenumber: "1"
+phone: +49 2241 148376-0
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.mueller.de/

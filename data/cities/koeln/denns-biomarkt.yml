@@ -4,8 +4,8 @@ latitude: 50.9707
 longitude: 7.04779
 postcode: "51067"
 city: Köln
-street: "Bergisch Gladbacher Straße"
-housenumber: 599
-phone: "+49 221 96482719"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://denns-biomarkt.de/koeln-bergisch-gladbacher-str-599/marktseite/"
+street: Bergisch Gladbacher Straße
+housenumber: "599"
+phone: +49 221 96482719
+opening_hours: Mo-Sa 08:00-20:00
+website: https://denns-biomarkt.de/koeln-bergisch-gladbacher-str-599/marktseite/

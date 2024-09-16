@@ -4,8 +4,8 @@ latitude: 51.25665
 longitude: 7.16689
 postcode: "42285"
 city: Wuppertal
-street: "Mauerstraße"
-housenumber: 14
-phone: "+49 202 459 71 22"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-wuppertal"
+street: Mauerstraße
+housenumber: "14"
+phone: +49 202 459 71 22
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-wuppertal

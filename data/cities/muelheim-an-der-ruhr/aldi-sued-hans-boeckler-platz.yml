@@ -1,11 +1,11 @@
 id: 917508552
-type: way
+type: node
 latitude: 51.42966
 longitude: 6.88631
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
+street: Hans-Böckler-Platz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Fr 08:00-20:00
+website: https://www.aldi-sued.de

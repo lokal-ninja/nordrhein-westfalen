@@ -4,8 +4,8 @@ latitude: 51.73902
 longitude: 8.75835
 postcode: "33102"
 city: Paderborn
-street: "Bayernweg"
-housenumber: 3
+street: Bayernweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 7:00-19:00; Sa 7:00-16:00"
+opening_hours: Mo-Fr 7:00-19:00; Sa 7:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 279113388
-type: way
+type: node
 latitude: 51.87113
 longitude: 8.93993
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Mittelstraße"
-housenumber: 20
+street: Mittelstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124101551
-type: way
+type: node
 latitude: 51.76695
 longitude: 7.43212
 postcode: "59348"
 city: Lüdinghausen
-street: "Lindenstraße"
+street: Lindenstraße
 housenumber: 2a
-phone: "+49 2591 3894"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:30; Sa 09:30-16:00"
-website: "http://mode-pottmeyer.de/geschaefte/modehaus-pottmeyer/"
+phone: +49 2591 3894
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:30; Sa 09:30-16:00
+website: http://mode-pottmeyer.de/geschaefte/modehaus-pottmeyer/

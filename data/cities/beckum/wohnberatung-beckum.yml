@@ -1,11 +1,11 @@
 id: 259816576
-type: way
+type: node
 latitude: 51.75695
 longitude: 8.03803
 postcode: "59269"
 city: Beckum
-street: "Nordwall"
-housenumber: 24
+street: Nordwall
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.42116
 longitude: 7.27994
 postcode: "58456"
 city: Witten
-street: "Meesmannstraße"
-housenumber: 67
+street: Meesmannstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off
 website: ""

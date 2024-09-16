@@ -4,8 +4,8 @@ latitude: 52.03645
 longitude: 8.51749
 postcode: "33615"
 city: Bielefeld
-street: "Schloßhofstraße"
-housenumber: 78
-phone: "+49-521-54383420"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
+street: Schloßhofstraße
+housenumber: "78"
+phone: +49-521-54383420
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
 website: ""

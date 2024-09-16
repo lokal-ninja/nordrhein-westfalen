@@ -4,8 +4,8 @@ latitude: 51.3993
 longitude: 7.1866
 postcode: "45525"
 city: Hattingen
-street: "Augustastraße"
-housenumber: 2
+street: Augustastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; Sa 11:00-15:00; PH, We, Su off"
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; Sa 11:00-15:00; PH, We, Su off
 website: ""

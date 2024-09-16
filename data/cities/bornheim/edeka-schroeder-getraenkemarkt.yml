@@ -1,11 +1,11 @@
 id: 456483618
-type: way
+type: node
 latitude: 50.77168
 longitude: 7.04542
 postcode: "53332"
 city: Bornheim
-street: "Moselstraße"
-housenumber: 7
+street: Moselstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

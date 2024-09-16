@@ -4,8 +4,9 @@ latitude: 51.45161
 longitude: 7.23236
 postcode: "44799"
 city: Bochum
-street: "Rüsenacker"
-housenumber: 1
-phone: "+49 234 5869592"
-opening_hours: "Mo,Tu,Th 8:30-14:30, 15:30-18:00; We 8:30-14:30; Fr 8:30-14:00; PH off"
-website: "https://www.luttermann.de/watermann/"
+street: Rüsenacker
+housenumber: "1"
+phone: +49 234 5869592
+opening_hours: Mo,Tu,Th 8:30-14:30, 15:30-18:00; We 8:30-14:30; Fr 8:30-14:00; PH
+    off
+website: https://www.luttermann.de/watermann/

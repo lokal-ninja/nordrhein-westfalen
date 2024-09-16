@@ -4,8 +4,8 @@ latitude: 51.24418
 longitude: 7.11411
 postcode: "42117"
 city: Wuppertal
-street: "Heimatplan"
-housenumber: 12
-phone: "+49 202 74 07 66"
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:00-13:00"
+street: Heimatplan
+housenumber: "12"
+phone: +49 202 74 07 66
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:00-13:00
 website: ""

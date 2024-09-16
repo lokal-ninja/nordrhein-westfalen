@@ -4,8 +4,8 @@ latitude: 51.07054
 longitude: 6.11137
 postcode: "52525"
 city: Heinsberg
-street: "Josef-Melchers-Straße"
-housenumber: 2
+street: Josef-Melchers-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu 07:00-16:30; Fr 07:00-14:00"
-website: "https://www.meg-west.de/"
+opening_hours: Mo-Tu 07:00-16:30; Fr 07:00-14:00
+website: https://www.meg-west.de/

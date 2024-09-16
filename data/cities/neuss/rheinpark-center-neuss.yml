@@ -1,11 +1,11 @@
 id: 19789901
-type: way
+type: node
 latitude: 51.20198
 longitude: 6.71926
 postcode: "41460"
 city: Neuss
-street: "Breslauer Straße"
+street: Breslauer Straße
 housenumber: 2-4
-phone: "+49-2131-386740"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.rheinparkcenter-neuss.de/"
+phone: +49-2131-386740
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.rheinparkcenter-neuss.de/

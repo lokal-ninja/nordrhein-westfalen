@@ -1,11 +1,11 @@
 id: 131483934
-type: way
+type: node
 latitude: 52.072
 longitude: 6.99373
 postcode: "48683"
 city: Ahaus
-street: "Wüllener Straße"
-housenumber: 93
+street: Wüllener Straße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

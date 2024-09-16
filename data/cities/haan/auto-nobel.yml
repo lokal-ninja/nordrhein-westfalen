@@ -1,11 +1,11 @@
 id: 253037175
-type: way
+type: node
 latitude: 51.19286
 longitude: 6.98835
 postcode: "42781"
 city: Haan
-street: "Hochdahler Straße"
-housenumber: 126
+street: Hochdahler Straße
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

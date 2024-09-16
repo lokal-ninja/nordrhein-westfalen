@@ -1,11 +1,11 @@
 id: 115647240
-type: way
+type: node
 latitude: 51.32995
 longitude: 6.54452
 postcode: "47803"
 city: Krefeld
-street: "Gutenbergstraße"
-housenumber: 155
+street: Gutenbergstraße
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://e-k-z.de/markt/krefeld-ekz/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://e-k-z.de/markt/krefeld-ekz/

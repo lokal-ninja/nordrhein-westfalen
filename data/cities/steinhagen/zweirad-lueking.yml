@@ -1,11 +1,11 @@
 id: 315024991
-type: way
+type: node
 latitude: 52.01404
 longitude: 8.44142
 postcode: "33803"
 city: Steinhagen
-street: "Bielefelder Straße"
-housenumber: 87
+street: Bielefelder Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://zweirad-lueking.de/"
+opening_hours: Mo-Fr 08:30-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://zweirad-lueking.de/

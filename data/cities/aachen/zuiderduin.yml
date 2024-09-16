@@ -4,8 +4,8 @@ latitude: 50.7743
 longitude: 6.08204
 postcode: "52062"
 city: Aachen
-street: "Annastraße"
-housenumber: 12
+street: Annastraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00; Mo,Su,PH off"
-website: "https://www.miranda-zuiderduin.de/"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00; Mo,Su,PH off
+website: https://www.miranda-zuiderduin.de/

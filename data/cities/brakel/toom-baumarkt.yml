@@ -1,11 +1,11 @@
 id: 108953289
-type: way
+type: node
 latitude: 51.70565
 longitude: 9.17856
 postcode: "33034"
 city: Brakel
-street: "Warburger Straße"
-housenumber: 51
+street: Warburger Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 683759641
-type: way
+type: node
 latitude: 51.76719
 longitude: 6.13396
 postcode: "47551"
 city: Bedburg-Hau
-street: "Querallee"
-housenumber: 84
+street: Querallee
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.clever-pflanzen.de/"
+website: https://www.clever-pflanzen.de/

@@ -4,8 +4,8 @@ latitude: 51.26038
 longitude: 7.14622
 postcode: "42105"
 city: Wuppertal
-street: "Karlsplatz"
-housenumber: 1
+street: Karlsplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off
 website: ""

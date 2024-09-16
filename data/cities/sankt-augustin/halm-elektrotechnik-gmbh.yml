@@ -4,8 +4,8 @@ latitude: 50.759
 longitude: 7.16697
 postcode: "53757"
 city: Sankt Augustin
-street: "Kölnstraße"
-housenumber: 103
-phone: "+49 2241 23424"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.halm-elektrotechnik.de"
+street: Kölnstraße
+housenumber: "103"
+phone: +49 2241 23424
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.halm-elektrotechnik.de

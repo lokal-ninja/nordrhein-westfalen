@@ -4,8 +4,8 @@ latitude: 50.72123
 longitude: 7.10296
 postcode: "53113"
 city: Bonn
-street: "Reuterstraße"
-housenumber: 76
+street: Reuterstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"
-website: "http://drucktechnik-rheinsieg.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-14:00
+website: http://drucktechnik-rheinsieg.de

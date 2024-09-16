@@ -1,11 +1,11 @@
 id: 125333214
-type: way
+type: node
 latitude: 51.94716
 longitude: 8.00011
 postcode: "48231"
 city: Warendorf
-street: "Splieterstraße"
-housenumber: 23
+street: Splieterstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:00 - 21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00 - 21:00; Su,PH off
 website: ""

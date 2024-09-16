@@ -1,11 +1,11 @@
 id: 398381855
-type: way
+type: node
 latitude: 51.70223
 longitude: 7.39039
 postcode: "59399"
 city: Olfen
-street: "Schlosserstraße"
-housenumber: 26
-phone: "+49-2595-386979-0"
+street: Schlosserstraße
+housenumber: "26"
+phone: +49-2595-386979-0
 opening_hours: ""
-website: "https://www.autohaus-stever.de/"
+website: https://www.autohaus-stever.de/

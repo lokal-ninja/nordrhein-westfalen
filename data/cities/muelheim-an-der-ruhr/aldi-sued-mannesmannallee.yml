@@ -1,11 +1,11 @@
 id: 261921829
-type: way
+type: node
 latitude: 51.45712
 longitude: 6.88258
 postcode: ""
 city: Mülheim an der Ruhr
-street: "Mannesmannallee"
-housenumber: 
+street: Mannesmannallee
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

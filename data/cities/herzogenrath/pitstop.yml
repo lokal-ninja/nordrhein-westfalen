@@ -4,8 +4,8 @@ latitude: 50.82607
 longitude: 6.07977
 postcode: "52134"
 city: Herzogenrath
-street: "Roermonder Straße"
-housenumber: 36
-phone: "+49 2407 565 309"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.pitstop.de/"
+street: Roermonder Straße
+housenumber: "36"
+phone: +49 2407 565 309
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.pitstop.de/

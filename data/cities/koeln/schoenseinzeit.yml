@@ -4,8 +4,8 @@ latitude: 50.93565
 longitude: 6.97431
 postcode: "50679"
 city: Köln
-street: "Mathildenstraße"
-housenumber: 28
-phone: "+49 221 16810640"
-opening_hours: "please call us"
-website: "https://www.permanentmakeup-koeln.de/"
+street: Mathildenstraße
+housenumber: "28"
+phone: +49 221 16810640
+opening_hours: '"please call us"'
+website: https://www.permanentmakeup-koeln.de/

@@ -1,11 +1,11 @@
 id: 488294163
-type: way
+type: node
 latitude: 52.03735
 longitude: 7.85202
 postcode: "48346"
 city: Ostbevern
-street: "Wischhausstraße"
-housenumber: 61
+street: Wischhausstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

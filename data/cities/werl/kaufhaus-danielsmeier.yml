@@ -1,11 +1,11 @@
 id: 95054786
-type: way
+type: node
 latitude: 51.5557
 longitude: 7.91192
 postcode: "59457"
 city: Werl
-street: "Erbsälzerstraße"
-housenumber: 2
+street: Erbsälzerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

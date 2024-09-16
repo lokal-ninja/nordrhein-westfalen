@@ -1,11 +1,11 @@
 id: 297173621
-type: way
+type: node
 latitude: 51.80805
 longitude: 7.94223
 postcode: "59227"
 city: Ahlen
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

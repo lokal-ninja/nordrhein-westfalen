@@ -1,11 +1,11 @@
 id: 99500203
-type: way
+type: node
 latitude: 51.76507
 longitude: 6.16477
 postcode: "47551"
 city: Bedburg-Hau
-street: "Antoniterstraße"
-housenumber: 68
-phone: "+49 2821 66656"
-opening_hours: "Mo off; Tu-Fr 09:00-12:30; We off; Sa 09:00-13:00; PH off"
-website: "http://www.partyservice-gisbers.de"
+street: Antoniterstraße
+housenumber: "68"
+phone: +49 2821 66656
+opening_hours: Mo off; Tu-Fr 09:00-12:30; We off; Sa 09:00-13:00; PH off
+website: http://www.partyservice-gisbers.de

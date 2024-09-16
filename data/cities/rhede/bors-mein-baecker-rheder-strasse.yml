@@ -1,11 +1,11 @@
 id: 260379898
-type: way
+type: node
 latitude: 51.82089
 longitude: 6.69608
 postcode: "46414"
 city: Rhede
-street: "Rheder Straße"
-housenumber: 13
+street: Rheder Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

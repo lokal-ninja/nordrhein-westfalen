@@ -1,11 +1,11 @@
 id: 93191999
-type: way
+type: node
 latitude: 50.65001
 longitude: 6.18401
 postcode: "52159"
 city: Roetgen
-street: "Bundesstraße"
-housenumber: 10
-phone: "+49 2471 13 58 30"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.autoservice-wollgarten.de/"
+street: Bundesstraße
+housenumber: "10"
+phone: +49 2471 13 58 30
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.autoservice-wollgarten.de/

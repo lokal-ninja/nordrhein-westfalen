@@ -4,8 +4,8 @@ latitude: 51.02855
 longitude: 6.9839
 postcode: "51373"
 city: Leverkusen
-street: "Breidenbachstraße"
-housenumber: 54
+street: Breidenbachstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 10:00-14:00; PH off"
-website: "https://ktm-koestler.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 10:00-14:00; PH off
+website: https://ktm-koestler.de/

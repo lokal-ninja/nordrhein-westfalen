@@ -4,8 +4,8 @@ latitude: 51.49516
 longitude: 7.28209
 postcode: "44791"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 1
+street: Am Einkaufszentrum
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.onygo.com/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.onygo.com/

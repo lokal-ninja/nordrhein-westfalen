@@ -1,11 +1,11 @@
 id: 52747694
-type: way
+type: node
 latitude: 52.34836
 longitude: 8.64443
 postcode: "32339"
 city: Espelkamp
-street: "Poststraße"
-housenumber: 1
-phone: "+49 5743 920318"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Poststraße
+housenumber: "1"
+phone: +49 5743 920318
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

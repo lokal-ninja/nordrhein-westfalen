@@ -4,8 +4,8 @@ latitude: 51.48895
 longitude: 7.50233
 postcode: "44263"
 city: Dortmund
-street: "Wenzelstraße"
-housenumber: 5
+street: Wenzelstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00
 website: ""

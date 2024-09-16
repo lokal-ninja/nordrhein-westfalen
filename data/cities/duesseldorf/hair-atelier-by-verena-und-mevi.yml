@@ -4,8 +4,8 @@ latitude: 51.20411
 longitude: 6.77248
 postcode: "40223"
 city: Düsseldorf
-street: "Aachener Straße"
-housenumber: 61
+street: Aachener Straße
+housenumber: "61"
 phone: ""
-opening_hours: "siehe Website www.hair-atelier-vm.de"
-website: "https://hair-atelier-vm.de"
+opening_hours: '"siehe Website www.hair-atelier-vm.de"'
+website: https://hair-atelier-vm.de

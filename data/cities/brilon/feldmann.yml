@@ -1,11 +1,11 @@
 id: 315067118
-type: way
+type: node
 latitude: 51.39845
 longitude: 8.57811
 postcode: "59929"
 city: Brilon
-street: "Papestraße"
-housenumber: 28
+street: Papestraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.feldmann-brilon.com/"
+website: https://www.feldmann-brilon.com/

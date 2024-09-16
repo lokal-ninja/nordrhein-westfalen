@@ -1,11 +1,11 @@
 id: 27616664
-type: way
+type: node
 latitude: 51.47238
 longitude: 6.95771
 postcode: "45355"
 city: Essen
-street: "Wolfsbankring"
-housenumber: 7
-phone: "+49 201 61698606"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Wolfsbankring
+housenumber: "7"
+phone: +49 201 61698606
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

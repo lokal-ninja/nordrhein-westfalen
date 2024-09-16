@@ -1,11 +1,11 @@
 id: 304142771
-type: way
+type: node
 latitude: 51.64351
 longitude: 7.1839
 postcode: "45659"
 city: Recklinghausen
-street: "Speckhorner Straße"
-housenumber: 213
+street: Speckhorner Straße
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

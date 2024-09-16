@@ -4,8 +4,8 @@ latitude: 51.62267
 longitude: 6.51181
 postcode: "46519"
 city: Alpen
-street: "Eppinghoven"
-housenumber: 10
-phone: "+49 2802 9484923"
-opening_hours: "nach telefonischer Vereinbarung"
-website: "https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=134"
+street: Eppinghoven
+housenumber: "10"
+phone: +49 2802 9484923
+opening_hours: '"nach telefonischer Vereinbarung"'
+website: https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=134

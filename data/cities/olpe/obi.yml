@@ -1,11 +1,11 @@
 id: 301108689
-type: way
+type: node
 latitude: 51.01814
 longitude: 7.83931
 postcode: "57462"
 city: Olpe
-street: "In der Trift"
-housenumber: 17
+street: In der Trift
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00,08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00,08:00-18:00
 website: ""

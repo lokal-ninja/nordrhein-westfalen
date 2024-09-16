@@ -4,8 +4,8 @@ latitude: 50.77027
 longitude: 6.09219
 postcode: "52064"
 city: Aachen
-street: "Horngasse"
-housenumber: 1
+street: Horngasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 10:00-12:00,13:30-15:00; Fr-Su,PH off"
-website: "https://www.vianobis-eingliederungshilfe.de/psychische-erkrankung-neu/region-aachen/tagesstruktur-region-aachen/verkaufsatelier-kunstvoll"
+opening_hours: Mo-Th 10:00-12:00,13:30-15:00; Fr-Su,PH off
+website: https://www.vianobis-eingliederungshilfe.de/psychische-erkrankung-neu/region-aachen/tagesstruktur-region-aachen/verkaufsatelier-kunstvoll

@@ -1,11 +1,11 @@
 id: 174192635
-type: way
+type: node
 latitude: 52.12624
 longitude: 8.6711
 postcode: "32051"
 city: Herford
-street: "Goebenstraße"
-housenumber: 58
+street: Goebenstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "http://cdm-herford.de/"
+website: http://cdm-herford.de/

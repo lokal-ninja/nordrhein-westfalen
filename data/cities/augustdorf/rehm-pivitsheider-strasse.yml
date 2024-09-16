@@ -1,11 +1,11 @@
 id: 320210722
-type: way
+type: node
 latitude: 51.9095
 longitude: 8.7417
 postcode: "32832"
 city: Augustdorf
-street: "Pivitsheider Straße"
-housenumber: 51
+street: Pivitsheider Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

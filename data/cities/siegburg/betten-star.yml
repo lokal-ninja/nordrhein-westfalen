@@ -4,8 +4,8 @@ latitude: 50.79534
 longitude: 7.20801
 postcode: "53721"
 city: Siegburg
-street: "Mühlenstraße"
-housenumber: 20
+street: Mühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:30-16:00"
-website: "https://www.betten-star.de/"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:30-16:00
+website: https://www.betten-star.de/

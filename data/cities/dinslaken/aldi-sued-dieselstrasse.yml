@@ -1,11 +1,11 @@
 id: 231639380
-type: way
+type: node
 latitude: 51.56159
 longitude: 6.793
 postcode: "46539"
 city: Dinslaken
-street: "Dieselstraße"
-housenumber: 1
+street: Dieselstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

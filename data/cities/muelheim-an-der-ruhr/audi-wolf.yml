@@ -1,11 +1,11 @@
 id: 35823250
-type: way
+type: node
 latitude: 51.41488
 longitude: 6.86799
 postcode: "45481"
 city: Mülheim an der Ruhr
-street: "Düsseldorfer Straße"
-housenumber: 261
+street: Düsseldorfer Straße
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

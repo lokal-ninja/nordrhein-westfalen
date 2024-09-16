@@ -1,11 +1,11 @@
 id: 104552511
-type: way
+type: node
 latitude: 51.59508
 longitude: 7.24058
 postcode: "45665"
 city: Recklinghausen
-street: "Schmalkalder Straße"
-housenumber: 8
+street: Schmalkalder Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.loesdau.de/"
+website: https://www.loesdau.de/

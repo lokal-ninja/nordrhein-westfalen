@@ -1,11 +1,11 @@
 id: 118930262
-type: way
+type: node
 latitude: 50.79491
 longitude: 7.11572
 postcode: "53844"
 city: Troisdorf
-street: "Gilmerich"
-housenumber: 18
-phone: "+49 2241 40 13 78"
+street: Gilmerich
+housenumber: "18"
+phone: +49 2241 40 13 78
 opening_hours: ""
 website: ""

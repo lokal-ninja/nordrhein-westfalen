@@ -4,8 +4,8 @@ latitude: 51.22345
 longitude: 6.77539
 postcode: "40213"
 city: Düsseldorf
-street: "Kasernenstraße"
-housenumber: 27
-phone: "+49 211 15979991"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:30-19:00"
-website: "https://www.titus.de/outletduesseldorf"
+street: Kasernenstraße
+housenumber: "27"
+phone: +49 211 15979991
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:30-19:00
+website: https://www.titus.de/outletduesseldorf

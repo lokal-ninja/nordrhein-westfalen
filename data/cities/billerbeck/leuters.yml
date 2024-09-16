@@ -4,8 +4,8 @@ latitude: 51.96908
 longitude: 7.28276
 postcode: "48727"
 city: Billerbeck
-street: "Friethöfer Kamp"
-housenumber: 4
-phone: "+49 2543 8025"
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-12:00;PH, Su off"
-website: "https://www.leuters.de/"
+street: Friethöfer Kamp
+housenumber: "4"
+phone: +49 2543 8025
+opening_hours: Mo-Fr 07:00-18:00;Sa 07:00-12:00;PH, Su off
+website: https://www.leuters.de/

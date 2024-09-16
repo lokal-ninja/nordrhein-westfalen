@@ -1,11 +1,11 @@
 id: 260128121
-type: way
+type: node
 latitude: 52.19286
 longitude: 8.59205
 postcode: "32257"
 city: Bünde
-street: "Herforder Straße"
-housenumber: 38
+street: Herforder Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-16:00
 website: ""

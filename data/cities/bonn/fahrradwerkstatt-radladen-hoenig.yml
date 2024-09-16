@@ -4,8 +4,8 @@ latitude: 50.73757
 longitude: 7.11699
 postcode: "53225"
 city: Bonn
-street: "Hermannstraße"
-housenumber: 27
-phone: "+49 228 4336603"
-opening_hours: "Tu 08:00-19:00; We,Th 12:00-19:00; Fr 12:00-19:00; Sa 09:00-14:00"
+street: Hermannstraße
+housenumber: "27"
+phone: +49 228 4336603
+opening_hours: Tu 08:00-19:00; We,Th 12:00-19:00; Fr 12:00-19:00; Sa 09:00-14:00
 website: ""

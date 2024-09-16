@@ -1,11 +1,11 @@
 id: 198336027
-type: way
+type: node
 latitude: 51.45919
 longitude: 7.03693
 postcode: "45139"
 city: Essen
-street: "Frillendorfer Straße"
-housenumber: 130
+street: Frillendorfer Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"
-website: "https://www.hellweg.de/markt/essen-frillendorf/"
+opening_hours: Mo-Sa 08:00-20:00; Su, PH off
+website: https://www.hellweg.de/markt/essen-frillendorf/

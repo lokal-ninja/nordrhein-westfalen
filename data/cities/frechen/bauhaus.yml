@@ -1,11 +1,11 @@
 id: 62811069
-type: way
+type: node
 latitude: 50.91972
 longitude: 6.84079
 postcode: "50226"
 city: Frechen
-street: "Europaallee"
-housenumber: 11
+street: Europaallee
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/standortliste/index.html?showUid=87&cHash=e27aba8aa1"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
+website: https://www.bauhaus.info/fachcentren/standortliste/index.html?showUid=87&cHash=e27aba8aa1

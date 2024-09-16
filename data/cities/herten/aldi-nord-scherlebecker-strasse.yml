@@ -1,11 +1,11 @@
 id: 240173595
-type: way
+type: node
 latitude: 51.61683
 longitude: 7.14404
 postcode: "45701"
 city: Herten
-street: "Scherlebecker Straße"
-housenumber: 256
+street: Scherlebecker Straße
+housenumber: "256"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

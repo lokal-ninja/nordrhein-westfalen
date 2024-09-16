@@ -4,8 +4,8 @@ latitude: 51.72122
 longitude: 7.0383
 postcode: "46286"
 city: Dorsten
-street: "Swebenring"
-housenumber: 7
-phone: "+49 2369 205120"
-opening_hours: "Tu-Th 07:00-17:00; Fr 10:00-13:00; PH off"
+street: Swebenring
+housenumber: "7"
+phone: +49 2369 205120
+opening_hours: Tu-Th 07:00-17:00; Fr 10:00-13:00; PH off
 website: ""

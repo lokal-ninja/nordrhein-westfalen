@@ -1,11 +1,11 @@
 id: 115993674
-type: way
+type: node
 latitude: 50.79384
 longitude: 6.1052
 postcode: "52070"
 city: Aachen
-street: "Lukasstraße"
+street: Lukasstraße
 housenumber: 25a
 phone: ""
-opening_hours: "Mo-Th 06:30-16:30; Fr 06:30-14:00; Sa,Su,PH off"
+opening_hours: Mo-Th 06:30-16:30; Fr 06:30-14:00; Sa,Su,PH off
 website: ""

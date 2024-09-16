@@ -4,8 +4,8 @@ latitude: 51.51381
 longitude: 7.47225
 postcode: "44135"
 city: Dortmund
-street: "Ostwall"
-housenumber: 3
+street: Ostwall
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 08:30-15:30"
+opening_hours: Tu-Fr 09:30-18:30; Sa 08:30-15:30
 website: ""

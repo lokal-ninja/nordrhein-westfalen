@@ -4,8 +4,8 @@ latitude: 50.59119
 longitude: 6.6477
 postcode: "53894"
 city: Mechernich
-street: "Bahnstraße"
-housenumber: 56
-phone: "+49 2441 7948010"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; We off"
-website: "https://www.hoerakustik-langhammer.de/"
+street: Bahnstraße
+housenumber: "56"
+phone: +49 2441 7948010
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; We off
+website: https://www.hoerakustik-langhammer.de/

@@ -4,8 +4,8 @@ latitude: 51.79705
 longitude: 8.02664
 postcode: "59269"
 city: Beckum
-street: "Hauptstraße"
-housenumber: 76
+street: Hauptstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:30-18:00"
-website: "https://autoteile-beckum.de/"
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:30-18:00
+website: https://autoteile-beckum.de/

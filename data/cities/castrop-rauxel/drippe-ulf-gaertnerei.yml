@@ -1,11 +1,11 @@
 id: 320090852
-type: way
+type: node
 latitude: 51.55062
 longitude: 7.29311
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Herner Straße"
-housenumber: 150
+street: Herner Straße
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://www.gaertnerei-drippe.de/de/Start"
+website: https://www.gaertnerei-drippe.de/de/Start

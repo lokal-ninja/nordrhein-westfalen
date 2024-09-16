@@ -4,8 +4,8 @@ latitude: 50.64354
 longitude: 7.17977
 postcode: "53343"
 city: Wachtberg
-street: "Konrad-Adenauer-Straße"
-housenumber: 42
+street: Konrad-Adenauer-Straße
+housenumber: "42"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.lehmanns-art.rocks/"
+opening_hours: 24/7
+website: https://www.lehmanns-art.rocks/

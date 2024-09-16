@@ -4,8 +4,8 @@ latitude: 51.47967
 longitude: 7.22181
 postcode: "44787"
 city: Bochum
-street: "Huestraße"
-housenumber: 4
+street: Huestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-18:00"
-website: "https://www.mytho-accessoires.de/"
+opening_hours: Mo-Fr 11:00-18:30; Sa 11:00-18:00
+website: https://www.mytho-accessoires.de/

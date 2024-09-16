@@ -1,11 +1,11 @@
 id: 416742315
-type: way
+type: node
 latitude: 50.94238
 longitude: 6.563
 postcode: "50189"
 city: Elsdorf
-street: "Ohndorfer Straße"
-housenumber: 3
+street: Ohndorfer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

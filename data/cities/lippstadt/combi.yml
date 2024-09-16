@@ -1,11 +1,11 @@
 id: 122808358
-type: way
+type: node
 latitude: 51.68403
 longitude: 8.39528
 postcode: "59558"
 city: Lippstadt
-street: "Merschweg"
-housenumber: 100
-phone: "+49 2941 9687115"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.combi.de/marktauswahl/Lippstadt"
+street: Merschweg
+housenumber: "100"
+phone: +49 2941 9687115
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.combi.de/marktauswahl/Lippstadt

@@ -1,11 +1,11 @@
 id: 306217675
-type: way
+type: node
 latitude: 51.83089
 longitude: 8.14991
 postcode: "59302"
 city: Oelde
-street: "Hohe Straße"
-housenumber: 46
+street: Hohe Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 932749539
-type: way
+type: node
 latitude: 50.92114
 longitude: 7.00182
 postcode: "51105"
 city: Köln
-street: "Poll-Vingster Straße"
-housenumber: 130
+street: Poll-Vingster Straße
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1151323702
-type: way
+type: node
 latitude: 51.59314
 longitude: 6.98524
 postcode: "45966"
 city: Gladbeck
-street: "Feldhauser Straße"
-housenumber: 226
+street: Feldhauser Straße
+housenumber: "226"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.0209
 longitude: 8.53018
 postcode: "33602"
 city: Bielefeld
-street: "Goldstraße"
-housenumber: 5
-phone: "+49 521 133333"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00"
-website: "https://galerie-best.de/"
+street: Goldstraße
+housenumber: "5"
+phone: +49 521 133333
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-16:00
+website: https://galerie-best.de/

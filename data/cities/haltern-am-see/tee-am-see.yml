@@ -4,8 +4,8 @@ latitude: 51.74265
 longitude: 7.18641
 postcode: "45721"
 city: Haltern am See
-street: "Merschstraße"
-housenumber: 7
-phone: "+49 2364 5058285"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-14:00; Su[1] 14:00-18:00"
-website: "https://teeamsee.de"
+street: Merschstraße
+housenumber: "7"
+phone: +49 2364 5058285
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-14:00; Su[1] 14:00-18:00
+website: https://teeamsee.de

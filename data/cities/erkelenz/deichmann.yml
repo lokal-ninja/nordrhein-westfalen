@@ -1,11 +1,11 @@
 id: 448984086
-type: way
+type: node
 latitude: 51.07568
 longitude: 6.30411
 postcode: "41812"
 city: Erkelenz
-street: "Adam-Opel-Straße"
-housenumber: 3
+street: Adam-Opel-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

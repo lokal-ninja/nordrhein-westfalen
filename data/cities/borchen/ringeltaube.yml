@@ -4,8 +4,8 @@ latitude: 51.66227
 longitude: 8.77316
 postcode: "33178"
 city: Borchen
-street: "Schloß Hamborn"
-housenumber: 19
+street: Schloß Hamborn
+housenumber: "19"
 phone: "+495251389272"
-opening_hours: "Variieren, bitte telefonisch erfragen"
-website: "https://ringeltaube-hamborn.de/"
+opening_hours: '"Variieren, bitte telefonisch erfragen"'
+website: https://ringeltaube-hamborn.de/

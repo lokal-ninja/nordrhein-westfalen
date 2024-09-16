@@ -4,8 +4,8 @@ latitude: 52.01629
 longitude: 8.5236
 postcode: "33602"
 city: Bielefeld
-street: "Gadderbaumer Straße"
-housenumber: 14
-phone: "+49-521-96565-0"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.tick-moebel.de/"
+street: Gadderbaumer Straße
+housenumber: "14"
+phone: +49-521-96565-0
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.tick-moebel.de/

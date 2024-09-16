@@ -4,8 +4,8 @@ latitude: 51.3993
 longitude: 7.4321
 postcode: "58313"
 city: Herdecke
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
 website: ""

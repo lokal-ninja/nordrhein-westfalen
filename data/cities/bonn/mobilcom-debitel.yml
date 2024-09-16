@@ -4,8 +4,8 @@ latitude: 50.73571
 longitude: 7.10084
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 6
+street: Sternstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
 website: ""

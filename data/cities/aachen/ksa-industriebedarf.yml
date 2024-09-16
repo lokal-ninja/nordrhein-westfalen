@@ -1,11 +1,11 @@
 id: 660923388
-type: way
+type: node
 latitude: 50.75857
 longitude: 6.16133
 postcode: "52078"
 city: Aachen
-street: "Gewerbepark Brand"
-housenumber: 41
+street: Gewerbepark Brand
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.ksa-gruppe.de/"
+website: https://www.ksa-gruppe.de/

@@ -1,11 +1,11 @@
 id: 298476488
-type: way
+type: node
 latitude: 52.021
 longitude: 8.87603
 postcode: "32657"
 city: Lemgo
-street: "Stegelmannstraße"
-housenumber: 1
-phone: "+49 5261 25970"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su 11:00-16:00"
-website: "https://www.stegelmann.de/"
+street: Stegelmannstraße
+housenumber: "1"
+phone: +49 5261 25970
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su 11:00-16:00
+website: https://www.stegelmann.de/

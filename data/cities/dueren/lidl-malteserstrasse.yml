@@ -1,11 +1,11 @@
 id: 157941568
-type: way
+type: node
 latitude: 50.81042
 longitude: 6.47196
 postcode: "52349"
 city: Düren
-street: "Malteserstraße"
-housenumber: 47
+street: Malteserstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

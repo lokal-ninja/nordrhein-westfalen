@@ -4,8 +4,8 @@ latitude: 50.93706
 longitude: 6.89461
 postcode: "50933"
 city: Köln
-street: "Aachener Straße"
-housenumber: 567
-phone: "+49 221 44 70 426"
-opening_hours: "Mo, We, Th, Fr 11:00-16:00"
-website: "https://www.geigenbau-kress.de/"
+street: Aachener Straße
+housenumber: "567"
+phone: +49 221 44 70 426
+opening_hours: Mo, We, Th, Fr 11:00-16:00
+website: https://www.geigenbau-kress.de/

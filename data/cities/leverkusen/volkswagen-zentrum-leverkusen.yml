@@ -1,11 +1,11 @@
 id: 96701437
-type: way
+type: node
 latitude: 51.05582
 longitude: 7.00467
 postcode: "51379"
 city: Leverkusen
-street: "Robert-Blum-Straße"
-housenumber: 71
+street: Robert-Blum-Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

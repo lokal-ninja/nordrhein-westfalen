@@ -1,11 +1,11 @@
 id: 162548506
-type: way
+type: node
 latitude: 51.48855
 longitude: 8.26868
 postcode: "59581"
 city: Warstein
-street: "Möhnestraße"
-housenumber: 144
-phone: "+49 2925 2058"
-opening_hours: "Mo-Sa 07:00 - 22:00"
+street: Möhnestraße
+housenumber: "144"
+phone: +49 2925 2058
+opening_hours: Mo-Sa 07:00 - 22:00
 website: ""

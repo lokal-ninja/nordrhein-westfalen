@@ -1,11 +1,11 @@
 id: 99413421
-type: way
+type: node
 latitude: 51.58255
 longitude: 6.24582
 postcode: "47623"
 city: Kevelaer
-street: "Hauptstraße"
-housenumber: 36
-phone: "+49-2832-978070"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.mueller.de/"
+street: Hauptstraße
+housenumber: "36"
+phone: +49-2832-978070
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.mueller.de/

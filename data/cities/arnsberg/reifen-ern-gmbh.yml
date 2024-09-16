@@ -1,11 +1,11 @@
 id: 102584080
-type: way
+type: node
 latitude: 51.4627
 longitude: 7.93906
 postcode: "59757"
 city: Arnsberg
-street: "Von-Siemens-Straße"
-housenumber: 9
-phone: "+49 2932 977450"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.reifen-ern.de"
+street: Von-Siemens-Straße
+housenumber: "9"
+phone: +49 2932 977450
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.reifen-ern.de

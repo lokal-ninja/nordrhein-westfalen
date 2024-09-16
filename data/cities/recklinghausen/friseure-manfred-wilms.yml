@@ -1,11 +1,12 @@
 id: 316131975
-type: way
+type: node
 latitude: 51.60689
 longitude: 7.16938
 postcode: "45659"
 city: Recklinghausen
-street: "Rottstraße"
-housenumber: 2
-phone: "+49 2361 26204"
-opening_hours: "Tu 08:30-18:00; We 08:30-19:30; Th 08:30-18:00; Fr 08:30-18:45; Sa 07:00-15:15; PH off"
-website: "https://www.manfredwilms.de/"
+street: Rottstraße
+housenumber: "2"
+phone: +49 2361 26204
+opening_hours: Tu 08:30-18:00; We 08:30-19:30; Th 08:30-18:00; Fr 08:30-18:45; Sa
+    07:00-15:15; PH off
+website: https://www.manfredwilms.de/

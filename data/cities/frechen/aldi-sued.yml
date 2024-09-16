@@ -1,11 +1,11 @@
 id: 48389706
-type: way
+type: node
 latitude: 50.93699
 longitude: 6.77881
 postcode: "50226"
 city: Frechen
-street: "Aachener Straße"
-housenumber: 539
+street: Aachener Straße
+housenumber: "539"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-sued.de/

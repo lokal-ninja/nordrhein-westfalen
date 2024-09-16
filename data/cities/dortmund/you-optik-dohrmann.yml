@@ -4,8 +4,8 @@ latitude: 51.49581
 longitude: 7.58763
 postcode: "44289"
 city: Dortmund
-street: "Sölder Straße"
-housenumber: 115
+street: Sölder Straße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:45; Sa 09:00-13:00"
-website: "http://www.you-optik-dohrmann.de"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:45; Sa 09:00-13:00
+website: http://www.you-optik-dohrmann.de

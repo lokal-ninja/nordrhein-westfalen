@@ -4,8 +4,8 @@ latitude: 51.0405
 longitude: 6.14411
 postcode: "52525"
 city: Heinsberg
-street: "Sebastianusstraße"
-housenumber: 31
-phone: "+49 2452 1560417"
-opening_hours: "Mo-Sa 09:00-20:00; Su, PH off"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/194/"
+street: Sebastianusstraße
+housenumber: "31"
+phone: +49 2452 1560417
+opening_hours: Mo-Sa 09:00-20:00; Su, PH off
+website: https://www.mixmarkt.eu/de/germany/maerkte/194/

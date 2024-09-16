@@ -1,11 +1,11 @@
 id: 109795138
-type: way
+type: node
 latitude: 50.76711
 longitude: 6.9466
 postcode: "53332"
 city: Bornheim
-street: "Donnerbachweg"
-housenumber: 3
-phone: "+49 2227 9098-0"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.auto-thomas.de/standorte/bornheim/"
+street: Donnerbachweg
+housenumber: "3"
+phone: +49 2227 9098-0
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.auto-thomas.de/standorte/bornheim/

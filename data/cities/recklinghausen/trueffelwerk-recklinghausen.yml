@@ -4,8 +4,8 @@ latitude: 51.63273
 longitude: 7.19536
 postcode: "45657"
 city: Recklinghausen
-street: "Nordcharweg"
-housenumber: 51
+street: Nordcharweg
+housenumber: "51"
 phone: ""
-opening_hours: "Tu, Th, Sa 10:00-12:00; Fr 16:00-18:00"
-website: "https://www.trueffelwerk-recklinghausen.de/"
+opening_hours: Tu, Th, Sa 10:00-12:00; Fr 16:00-18:00
+website: https://www.trueffelwerk-recklinghausen.de/

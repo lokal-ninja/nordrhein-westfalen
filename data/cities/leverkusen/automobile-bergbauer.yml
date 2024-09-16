@@ -1,11 +1,11 @@
 id: 93257603
-type: way
+type: node
 latitude: 51.04404
 longitude: 6.98457
 postcode: "51371"
 city: Leverkusen
-street: "Moselstraße"
-housenumber: 31
+street: Moselstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

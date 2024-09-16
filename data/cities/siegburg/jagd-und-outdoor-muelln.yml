@@ -1,11 +1,11 @@
 id: 285149182
-type: way
+type: node
 latitude: 50.79611
 longitude: 7.20417
 postcode: "53721"
 city: Siegburg
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 2241 590404"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 10:00-14:00"
-website: "https://selbstverteidigungsshop-siegburg.de/"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 2241 590404
+opening_hours: Mo-Fr 11:00-18:30; Sa 10:00-14:00
+website: https://selbstverteidigungsshop-siegburg.de/

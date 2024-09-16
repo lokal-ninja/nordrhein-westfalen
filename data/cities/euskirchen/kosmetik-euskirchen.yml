@@ -4,8 +4,9 @@ latitude: 50.65871
 longitude: 6.78768
 postcode: "53879"
 city: Euskirchen
-street: "Disternicher Torwall"
-housenumber: 3
-phone: "+49 157 80584337"
-opening_hours: "Mo 10:00-15:00; Tu 09:30-18:30; We 09:00-18:30; Th 09:30-19:30; Fr 09:30-18:00; Sa 09:30-15:00"
+street: Disternicher Torwall
+housenumber: "3"
+phone: +49 157 80584337
+opening_hours: Mo 10:00-15:00; Tu 09:30-18:30; We 09:00-18:30; Th 09:30-19:30; Fr
+    09:30-18:00; Sa 09:30-15:00
 website: ""

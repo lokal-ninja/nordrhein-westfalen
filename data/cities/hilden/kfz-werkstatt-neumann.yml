@@ -1,11 +1,11 @@
 id: 988935081
-type: way
+type: node
 latitude: 51.16898
 longitude: 6.91918
 postcode: "40721"
 city: Hilden
-street: "Bahnhofsallee"
-housenumber: 21
+street: Bahnhofsallee
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

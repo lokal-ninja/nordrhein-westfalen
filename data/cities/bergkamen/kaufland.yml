@@ -1,11 +1,11 @@
 id: 45101425
-type: way
+type: node
 latitude: 51.65085
 longitude: 7.67879
 postcode: "59192"
 city: Bergkamen
-street: "An der Bummannsburg"
-housenumber: 1
-phone: "+49 2389 991180"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.kaufland.de"
+street: An der Bummannsburg
+housenumber: "1"
+phone: +49 2389 991180
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.kaufland.de

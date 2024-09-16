@@ -1,11 +1,11 @@
 id: 163469744
-type: way
+type: node
 latitude: 50.77629
 longitude: 7.10338
 postcode: "53844"
 city: Troisdorf
-street: "Gronaustraße"
-housenumber: 49
-phone: "+49 228 451445"
+street: Gronaustraße
+housenumber: "49"
+phone: +49 228 451445
 opening_hours: ""
 website: ""

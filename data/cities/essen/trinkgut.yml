@@ -4,8 +4,8 @@ latitude: 51.44012
 longitude: 7.09416
 postcode: "45279"
 city: Essen
-street: "Dahlhauser Straße"
-housenumber: 103
-phone: "+49 201 54445"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-18:00; Su, PH off"
-website: "https://www.trinkgut.de/markt/trost"
+street: Dahlhauser Straße
+housenumber: "103"
+phone: +49 201 54445
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-18:00; Su, PH off
+website: https://www.trinkgut.de/markt/trost

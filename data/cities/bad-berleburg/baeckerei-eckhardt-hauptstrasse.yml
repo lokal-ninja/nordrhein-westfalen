@@ -4,8 +4,8 @@ latitude: 51.05178
 longitude: 8.29052
 postcode: "57319"
 city: Bad Berleburg
-street: "Hauptstraße"
-housenumber: 21
-phone: "+49 27 59 - 8 91"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baeckerei-eckhardt.de"
+street: Hauptstraße
+housenumber: "21"
+phone: +49 27 59 - 8 91
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baeckerei-eckhardt.de

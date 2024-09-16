@@ -4,8 +4,8 @@ latitude: 51.72065
 longitude: 7.01927
 postcode: "46286"
 city: Dorsten
-street: "Richtersfeld"
-housenumber: 3
-phone: "+49 2369 1797"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-21:00; Sa 08:00-14:00; PH off"
-website: "https://wulfener-frisurenstudio.de"
+street: Richtersfeld
+housenumber: "3"
+phone: +49 2369 1797
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-21:00; Sa 08:00-14:00; PH off
+website: https://wulfener-frisurenstudio.de

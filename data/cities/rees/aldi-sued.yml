@@ -1,11 +1,11 @@
 id: 54751474
-type: way
+type: node
 latitude: 51.76127
 longitude: 6.39539
 postcode: "46459"
 city: Rees
-street: "Vor dem Delltor"
-housenumber: 13
+street: Vor dem Delltor
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

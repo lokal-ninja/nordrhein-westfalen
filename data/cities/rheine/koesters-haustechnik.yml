@@ -1,11 +1,11 @@
 id: 581376006
-type: way
+type: node
 latitude: 52.25713
 longitude: 7.45368
 postcode: "48431"
 city: Rheine
-street: "Hovekampstraße"
-housenumber: 2
+street: Hovekampstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

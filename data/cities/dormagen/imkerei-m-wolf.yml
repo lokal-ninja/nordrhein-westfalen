@@ -1,11 +1,11 @@
 id: 154962524
-type: way
+type: node
 latitude: 51.1144
 longitude: 6.77327
 postcode: "41542"
 city: Dormagen
-street: "Neusser Straße"
-housenumber: 2
+street: Neusser Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

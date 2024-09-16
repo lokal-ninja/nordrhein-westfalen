@@ -1,11 +1,11 @@
 id: 464521160
-type: way
+type: node
 latitude: 51.0886
 longitude: 7.40587
 postcode: "51688"
 city: Wipperfürth
 street: ""
-housenumber: 4
-phone: "+49 2267 82190"
+housenumber: "4"
+phone: +49 2267 82190
 opening_hours: ""
-website: "https://www.puetz-galabau.de/wir-ueber-uns.html"
+website: https://www.puetz-galabau.de/wir-ueber-uns.html

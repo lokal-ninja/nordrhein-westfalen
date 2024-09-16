@@ -4,8 +4,8 @@ latitude: 50.90547
 longitude: 7.40646
 postcode: "53804"
 city: Much
-street: "Hauptstraße"
-housenumber: 27
-phone: "+49 2245 3303"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:30-13:00"
-website: "https://www.schreibwaren-klement.de/"
+street: Hauptstraße
+housenumber: "27"
+phone: +49 2245 3303
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:30-13:00
+website: https://www.schreibwaren-klement.de/

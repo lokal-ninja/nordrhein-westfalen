@@ -4,8 +4,8 @@ latitude: 51.80729
 longitude: 8.42676
 postcode: "33397"
 city: Rietberg
-street: "Rathausstraße"
-housenumber: 45
+street: Rathausstraße
+housenumber: "45"
 phone: "052449079930"
-opening_hours: "Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00"
-website: "www.martinabergmann.de"
+opening_hours: Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00
+website: www.martinabergmann.de

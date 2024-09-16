@@ -4,8 +4,9 @@ latitude: 51.40219
 longitude: 8.57036
 postcode: "59929"
 city: Brilon
-street: "Möhnestraße"
-housenumber: 11
-phone: "+49 29 61 98 99 98"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-14:00; PH off; Su Jeden zweiten und vierten Sonntag 14:00 - 16:00, kein Verkauf"
-website: "https://kulinario-kuechen.de"
+street: Möhnestraße
+housenumber: "11"
+phone: +49 29 61 98 99 98
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-14:00; PH off; Su "Jeden zweiten
+    und vierten Sonntag 14:00 - 16:00, kein Verkauf"
+website: https://kulinario-kuechen.de

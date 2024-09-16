@@ -1,11 +1,11 @@
 id: 936910272
-type: way
+type: node
 latitude: 51.4581
 longitude: 8.62648
 postcode: "59929"
 city: Brilon
-street: "Moosspringstraße"
-housenumber: 7
+street: Moosspringstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

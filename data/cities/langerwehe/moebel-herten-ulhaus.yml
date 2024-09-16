@@ -1,11 +1,11 @@
 id: 96255787
-type: way
+type: node
 latitude: 50.81836
 longitude: 6.35541
 postcode: "52379"
 city: Langerwehe
-street: "Ulhaus"
-housenumber: 17
+street: Ulhaus
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

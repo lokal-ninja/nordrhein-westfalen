@@ -1,11 +1,11 @@
 id: 145632981
-type: way
+type: node
 latitude: 51.47884
 longitude: 7.70038
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "In der Liethe"
-housenumber: 1
+street: In der Liethe
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

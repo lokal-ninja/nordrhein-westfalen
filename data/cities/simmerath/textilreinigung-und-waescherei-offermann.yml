@@ -4,8 +4,8 @@ latitude: 50.60731
 longitude: 6.30111
 postcode: "52152"
 city: Simmerath
-street: "Hauptstraße"
-housenumber: 59
-phone: "+49 2473 1791"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-13:00"
-website: "https://www.textilreinigung-offermann.de/"
+street: Hauptstraße
+housenumber: "59"
+phone: +49 2473 1791
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-13:00
+website: https://www.textilreinigung-offermann.de/

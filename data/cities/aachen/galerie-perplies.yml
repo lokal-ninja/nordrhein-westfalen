@@ -1,11 +1,11 @@
 id: 83912136
-type: way
+type: node
 latitude: 50.76912
 longitude: 6.07833
 postcode: "52064"
 city: Aachen
-street: "Hubertusplatz"
-housenumber: 1
+street: Hubertusplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

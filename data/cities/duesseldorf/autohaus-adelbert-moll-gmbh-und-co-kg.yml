@@ -1,11 +1,11 @@
 id: 244192396
-type: way
+type: node
 latitude: 51.27623
 longitude: 6.74402
 postcode: "40474"
 city: Düsseldorf
-street: "Niederrheinstraße"
-housenumber: 99
+street: Niederrheinstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

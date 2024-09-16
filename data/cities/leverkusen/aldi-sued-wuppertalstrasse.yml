@@ -1,11 +1,11 @@
 id: 103055638
-type: way
+type: node
 latitude: 51.07984
 longitude: 7.03322
 postcode: "51381"
 city: Leverkusen
-street: "Wuppertalstraße"
-housenumber: 4
+street: Wuppertalstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

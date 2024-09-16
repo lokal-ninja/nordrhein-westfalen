@@ -1,11 +1,11 @@
 id: 91906000
-type: way
+type: node
 latitude: 51.37714
 longitude: 8.64559
 postcode: "59929"
 city: Brilon
-street: "Hegestraße"
-housenumber: 12
+street: Hegestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

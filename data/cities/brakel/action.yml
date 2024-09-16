@@ -4,8 +4,8 @@ latitude: 51.71269
 longitude: 9.18096
 postcode: "33034"
 city: Brakel
-street: "Am Sudheimer Weg"
-housenumber: 6
+street: Am Sudheimer Weg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su closed"
-website: "https://www.action.com/de-de/laden/brakel-am-sudheimer-weg/"
+opening_hours: Mo-Sa 09:00-20:00; Su closed
+website: https://www.action.com/de-de/laden/brakel-am-sudheimer-weg/

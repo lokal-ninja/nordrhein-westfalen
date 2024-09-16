@@ -4,8 +4,8 @@ latitude: 50.89629
 longitude: 8.02636
 postcode: "57076"
 city: Siegen
-street: "Hauptmarkt"
-housenumber: 14
-phone: "+49 271 46588"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00; PH off"
-website: "http://www.intersport-langenbach.de"
+street: Hauptmarkt
+housenumber: "14"
+phone: +49 271 46588
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-16:00; PH off
+website: http://www.intersport-langenbach.de

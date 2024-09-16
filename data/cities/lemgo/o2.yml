@@ -4,8 +4,8 @@ latitude: 52.02835
 longitude: 8.90236
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 42
-phone: "+49 5261 1849205"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 09:30-13:00; Su,PH off"
-website: "https://o2online.de/"
+street: Mittelstraße
+housenumber: "42"
+phone: +49 5261 1849205
+opening_hours: Mo-Fr 10:00-18:00, Sa 09:30-13:00; Su,PH off
+website: https://o2online.de/

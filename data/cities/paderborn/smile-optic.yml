@@ -4,8 +4,8 @@ latitude: 51.71653
 longitude: 8.75031
 postcode: "33098"
 city: Paderborn
-street: "Westernstraße"
-housenumber: 17
-phone: "+49 5251 3877211"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://smileoptic.de/"
+street: Westernstraße
+housenumber: "17"
+phone: +49 5251 3877211
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://smileoptic.de/

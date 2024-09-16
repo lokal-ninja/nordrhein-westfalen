@@ -4,8 +4,8 @@ latitude: 51.718
 longitude: 8.75563
 postcode: "33098"
 city: Paderborn
-street: "Markt"
-housenumber: 8
+street: Markt
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

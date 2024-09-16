@@ -1,11 +1,11 @@
 id: 329476188
-type: way
+type: node
 latitude: 51.67109
 longitude: 6.27422
 postcode: "47589"
 city: Uedem
-street: "Crispinusstraße"
-housenumber: 7
+street: Crispinusstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

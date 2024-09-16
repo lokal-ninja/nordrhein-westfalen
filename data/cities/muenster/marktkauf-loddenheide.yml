@@ -1,11 +1,11 @@
 id: 71121265
-type: way
+type: node
 latitude: 51.93899
 longitude: 7.64894
 postcode: "48155"
 city: Münster
-street: "Loddenheide"
-housenumber: 5
+street: Loddenheide
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

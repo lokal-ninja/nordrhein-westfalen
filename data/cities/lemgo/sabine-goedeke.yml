@@ -4,8 +4,8 @@ latitude: 52.04889
 longitude: 8.8783
 postcode: "32657"
 city: Lemgo
-street: "Kleine Knopheide"
-housenumber: 18
-phone: "+49 5261 988163"
-opening_hours: "nach Vereinbarung"
-website: "https://kinesiologie-goedeke.jimdo.com"
+street: Kleine Knopheide
+housenumber: "18"
+phone: +49 5261 988163
+opening_hours: '"nach Vereinbarung"'
+website: https://kinesiologie-goedeke.jimdo.com

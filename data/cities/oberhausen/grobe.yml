@@ -1,11 +1,11 @@
 id: 112479901
-type: way
+type: node
 latitude: 51.52409
 longitude: 6.86451
 postcode: "46145"
 city: Oberhausen
-street: "Dorstener Straße"
+street: Dorstener Straße
 housenumber: 307-309
 phone: ""
 opening_hours: ""
-website: "https://www.grobe-oberhausen.de/"
+website: https://www.grobe-oberhausen.de/

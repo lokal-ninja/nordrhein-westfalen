@@ -1,11 +1,11 @@
 id: 208597027
-type: way
+type: node
 latitude: 51.82443
 longitude: 8.14373
 postcode: "59302"
 city: Oelde
-street: "Lange Straße"
-housenumber: 22
+street: Lange Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

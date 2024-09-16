@@ -1,11 +1,11 @@
 id: 333029922
-type: way
+type: node
 latitude: 52.14318
 longitude: 8.48266
 postcode: "32139"
 city: Spenge
-street: "Lange Straße"
-housenumber: 53
+street: Lange Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

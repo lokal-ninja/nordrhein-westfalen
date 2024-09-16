@@ -1,11 +1,11 @@
 id: 104486910
-type: way
+type: node
 latitude: 51.60257
 longitude: 7.15688
 postcode: "45699"
 city: Herten
-street: "Kaiserstraße"
-housenumber: 223
+street: Kaiserstraße
+housenumber: "223"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.31943
 longitude: 6.55439
 postcode: "47805"
 city: Krefeld
-street: "Martinstraße"
-housenumber: 123
-phone: "+49 2151 367074"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://obsthof-unterweiden.de"
+street: Martinstraße
+housenumber: "123"
+phone: +49 2151 367074
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://obsthof-unterweiden.de

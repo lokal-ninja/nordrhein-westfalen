@@ -4,8 +4,8 @@ latitude: 50.77424
 longitude: 7.28474
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Adenauerplatz"
-housenumber: 2
-phone: "+49 2242 7848"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.gilgens.de/"
+street: Adenauerplatz
+housenumber: "2"
+phone: +49 2242 7848
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.gilgens.de/

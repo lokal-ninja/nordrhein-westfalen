@@ -4,8 +4,8 @@ latitude: 51.94635
 longitude: 7.00733
 postcode: "48712"
 city: Gescher
-street: "Werner-von-Siemens-Straße"
-housenumber: 8
+street: Werner-von-Siemens-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-16:00"
-website: "https://www.greiwe-edelstahl.de/"
+opening_hours: Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-16:00
+website: https://www.greiwe-edelstahl.de/

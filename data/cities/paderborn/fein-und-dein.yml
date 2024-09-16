@@ -4,8 +4,8 @@ latitude: 51.7179
 longitude: 8.75151
 postcode: ""
 city: Paderborn
-street: "Paderberg"
-housenumber: 2
+street: Paderberg
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 12:00-18:00; Su, Mo off"
-website: "https://www.fein-dein-delikatessen.de/"
+opening_hours: Tu-Sa 12:00-18:00; Su, Mo off
+website: https://www.fein-dein-delikatessen.de/

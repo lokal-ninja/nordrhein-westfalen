@@ -1,11 +1,11 @@
 id: 211439363
-type: way
+type: node
 latitude: 50.63979
 longitude: 7.02067
 postcode: "53340"
 city: Meckenheim
-street: "Bergerwiesenstraße"
-housenumber: 16
-phone: "+49 2225 17088"
+street: Bergerwiesenstraße
+housenumber: "16"
+phone: +49 2225 17088
 opening_hours: ""
-website: "https://www.opel-vonwuelfing.de"
+website: https://www.opel-vonwuelfing.de

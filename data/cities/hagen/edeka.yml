@@ -1,11 +1,11 @@
 id: 31276004
-type: way
+type: node
 latitude: 51.39234
 longitude: 7.48215
 postcode: "58099"
 city: Hagen
-street: "Fröbelstraße"
-housenumber: 15
-phone: "+49 2331 65009"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/"
+street: Fröbelstraße
+housenumber: "15"
+phone: +49 2331 65009
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/

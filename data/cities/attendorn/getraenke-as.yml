@@ -1,11 +1,11 @@
 id: 76268979
-type: way
+type: node
 latitude: 51.11892
 longitude: 7.88935
 postcode: "57439"
 city: Attendorn
-street: "Am Eckenbach"
-housenumber: 4
+street: Am Eckenbach
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-13:00
 website: ""

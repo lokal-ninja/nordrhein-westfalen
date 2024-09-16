@@ -1,11 +1,11 @@
 id: 125983594
-type: way
+type: node
 latitude: 50.98274
 longitude: 7.10206
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Mülheimer Straße"
-housenumber: 78
+street: Mülheimer Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.hammer-heimtex.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.hammer-heimtex.de/

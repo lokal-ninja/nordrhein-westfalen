@@ -1,11 +1,11 @@
 id: 89839200
-type: way
+type: node
 latitude: 51.1255
 longitude: 7.35912
 postcode: "51688"
 city: Wipperfürth
-street: "Alte Papiermühle Hämmern"
-housenumber: 4
+street: Alte Papiermühle Hämmern
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.ford-bergland-wipperfuerth.de"
+website: https://www.ford-bergland-wipperfuerth.de

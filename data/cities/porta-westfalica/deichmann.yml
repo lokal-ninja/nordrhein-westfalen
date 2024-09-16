@@ -4,8 +4,8 @@ latitude: 52.25928
 longitude: 8.90022
 postcode: "32457"
 city: Porta Westfalica
-street: "Feldstraße"
-housenumber: 20
-phone: "+49 571 58137"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Feldstraße
+housenumber: "20"
+phone: +49 571 58137
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

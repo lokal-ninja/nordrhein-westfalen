@@ -1,11 +1,11 @@
 id: 208720348
-type: way
+type: node
 latitude: 50.96277
 longitude: 6.12556
 postcode: "52511"
 city: Geilenkirchen
-street: "Konrad-Adenauer-Straße"
-housenumber: 66
-phone: "+49 2451 1516"
+street: Konrad-Adenauer-Straße
+housenumber: "66"
+phone: +49 2451 1516
 opening_hours: ""
 website: ""

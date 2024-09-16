@@ -1,11 +1,11 @@
 id: 274316627
-type: way
+type: node
 latitude: 51.18472
 longitude: 7.97083
 postcode: "57413"
 city: Finnentrop
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-We 07:00-16:00; Th,Fr 07:00-18:00; Sa 08:00-12:30"
-website: "https://www.metten.net/werksverkauf"
+opening_hours: Mo-We 07:00-16:00; Th,Fr 07:00-18:00; Sa 08:00-12:30
+website: https://www.metten.net/werksverkauf

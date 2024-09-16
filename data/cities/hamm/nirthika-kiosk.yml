@@ -1,11 +1,11 @@
 id: 631662673
-type: way
+type: node
 latitude: 51.68314
 longitude: 7.82592
 postcode: "59063"
 city: Hamm
-street: "Ostenallee"
-housenumber: 2
-phone: "+49 163 4025145"
-opening_hours: "07:00-23:00"
+street: Ostenallee
+housenumber: "2"
+phone: +49 163 4025145
+opening_hours: 07:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 453835248
-type: way
+type: node
 latitude: 51.49833
 longitude: 6.9965
 postcode: "45329"
 city: Essen
-street: "Johanniskirchstraße"
-housenumber: 111
+street: Johanniskirchstraße
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

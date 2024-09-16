@@ -4,8 +4,8 @@ latitude: 51.36927
 longitude: 7.2491
 postcode: "45549"
 city: Sprockhövel
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

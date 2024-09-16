@@ -1,11 +1,11 @@
 id: 53454218
-type: way
+type: node
 latitude: 51.51859
 longitude: 7.49995
 postcode: "44143"
 city: Dortmund
-street: "Kasseler Straße"
-housenumber: 14
+street: Kasseler Straße
+housenumber: "14"
 phone: "+49231516285"
 opening_hours: ""
-website: "https://www.ams-dortmund.de/"
+website: https://www.ams-dortmund.de/

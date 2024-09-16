@@ -1,11 +1,11 @@
 id: 1012130436
-type: way
+type: node
 latitude: 51.99028
 longitude: 7.76437
 postcode: "48291"
 city: Telgte
-street: "Käthe-Paulus-Straße"
-housenumber: 2
-phone: "+49 2504 3035"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa 10:00-13:00"
-website: "https://www.weinhaus-breuer.de/"
+street: Käthe-Paulus-Straße
+housenumber: "2"
+phone: +49 2504 3035
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00; Sa 10:00-13:00
+website: https://www.weinhaus-breuer.de/

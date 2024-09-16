@@ -1,11 +1,11 @@
 id: 306488822
-type: way
+type: node
 latitude: 51.4171
 longitude: 8.04511
 postcode: "59823"
 city: Arnsberg
-street: "Wannestraße"
-housenumber: 2
+street: Wannestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

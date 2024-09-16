@@ -1,11 +1,11 @@
 id: 165438247
-type: way
+type: node
 latitude: 51.67034
 longitude: 6.98162
 postcode: "46284"
 city: Dorsten
-street: "Im Harsewinkel"
-housenumber: 3
+street: Im Harsewinkel
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,We,Th 09:00-13:00,14:00-18:00; Fr 09:00-15:00; PH off"
+opening_hours: Tu,We,Th 09:00-13:00,14:00-18:00; Fr 09:00-15:00; PH off
 website: ""

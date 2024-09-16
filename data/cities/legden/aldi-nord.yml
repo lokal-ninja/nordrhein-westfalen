@@ -1,11 +1,11 @@
 id: 196296825
-type: way
+type: node
 latitude: 52.0274
 longitude: 7.1077
 postcode: "48739"
 city: Legden
-street: "Friedrich-Castelle-Straße"
-housenumber: 7
+street: Friedrich-Castelle-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

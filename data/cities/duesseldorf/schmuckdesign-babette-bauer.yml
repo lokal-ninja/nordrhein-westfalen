@@ -4,8 +4,8 @@ latitude: 51.24298
 longitude: 6.78265
 postcode: "40476"
 city: Düsseldorf
-street: "Collenbachstraße"
-housenumber: 31
-phone: "+49 177-2159149"
-opening_hours: "Th-Fr 10:00-14:00; Sa 11:00-16:00"
-website: "http://www.atelierbb.de/"
+street: Collenbachstraße
+housenumber: "31"
+phone: +49 177-2159149
+opening_hours: Th-Fr 10:00-14:00; Sa 11:00-16:00
+website: http://www.atelierbb.de/

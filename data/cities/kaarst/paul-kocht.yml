@@ -1,11 +1,11 @@
 id: 93317574
-type: way
+type: node
 latitude: 51.22192
 longitude: 6.60743
 postcode: "41564"
 city: Kaarst
-street: "Kaarster Straße"
-housenumber: 51
-phone: "+49 2131 450 8930"
-opening_hours: "Mo-Fr 08:00-15:00"
-website: "https://paul-kocht.de/"
+street: Kaarster Straße
+housenumber: "51"
+phone: +49 2131 450 8930
+opening_hours: Mo-Fr 08:00-15:00
+website: https://paul-kocht.de/

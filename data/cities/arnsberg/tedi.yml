@@ -4,8 +4,8 @@ latitude: 51.45346
 longitude: 7.95977
 postcode: "59755"
 city: Arnsberg
-street: "Neheimer Markt"
-housenumber: 2
-phone: "+49 231 555770"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/"
+street: Neheimer Markt
+housenumber: "2"
+phone: +49 231 555770
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/

@@ -1,11 +1,11 @@
 id: 280266076
-type: way
+type: node
 latitude: 50.65112
 longitude: 6.82832
 postcode: "53881"
 city: Euskirchen
-street: "Bachstraße"
-housenumber: 6
+street: Bachstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

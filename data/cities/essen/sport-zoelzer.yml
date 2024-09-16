@@ -1,11 +1,11 @@
 id: 157880636
-type: way
+type: node
 latitude: 51.38859
 longitude: 7.08292
 postcode: "45257"
 city: Essen
-street: "Kupferdreher Straße"
+street: Kupferdreher Straße
 housenumber: 196a
-phone: "+49 201 48 7815"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.zoelzer.de"
+phone: +49 201 48 7815
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00
+website: https://www.zoelzer.de

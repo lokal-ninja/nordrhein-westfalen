@@ -1,11 +1,11 @@
 id: 135985456
-type: way
+type: node
 latitude: 51.44586
 longitude: 7.36774
 postcode: "58453"
 city: Witten
-street: "Westfalenstraße"
+street: Westfalenstraße
 housenumber: 112a
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su,PH off
 website: ""

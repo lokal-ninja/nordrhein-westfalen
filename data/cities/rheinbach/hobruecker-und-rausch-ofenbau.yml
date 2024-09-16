@@ -4,8 +4,8 @@ latitude: 50.62199
 longitude: 6.97061
 postcode: "53359"
 city: Rheinbach
-street: "Wolbersacker"
-housenumber: 12
+street: Wolbersacker
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-14:00; PH,Su off"
-website: "https://www.ofenbauinkoeln.de"
+opening_hours: Mo-Fr 14:00-18:00; Sa 10:00-14:00; PH,Su off
+website: https://www.ofenbauinkoeln.de

@@ -1,11 +1,11 @@
 id: 456663406
-type: way
+type: node
 latitude: 51.40522
 longitude: 7.25208
 postcode: "58456"
 city: Witten
-street: "Im Hammertal"
-housenumber: 1
+street: Im Hammertal
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; PH off"
+opening_hours: Mo-Fr 10:00-20:00; PH off
 website: ""

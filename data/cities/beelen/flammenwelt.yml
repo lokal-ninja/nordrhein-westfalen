@@ -1,11 +1,11 @@
 id: 155569704
-type: way
+type: node
 latitude: 51.92902
 longitude: 8.12357
 postcode: "48361"
 city: Beelen
-street: "Warendorfer Straße"
-housenumber: 1
+street: Warendorfer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

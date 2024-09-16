@@ -4,8 +4,8 @@ latitude: 51.83022
 longitude: 7.27616
 postcode: "48249"
 city: Dülmen
-street: "Marktstraße"
-housenumber: 5
-phone: "+49 2594 9737525"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-15:00"
-website: "https://www.hausfelder.de/geschaefte/duelmen"
+street: Marktstraße
+housenumber: "5"
+phone: +49 2594 9737525
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-15:00
+website: https://www.hausfelder.de/geschaefte/duelmen

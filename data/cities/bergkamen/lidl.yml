@@ -1,11 +1,11 @@
 id: 164814464
-type: way
+type: node
 latitude: 51.60762
 longitude: 7.59059
 postcode: "59192"
 city: Bergkamen
-street: "Jahnstraße"
-housenumber: 24
+street: Jahnstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

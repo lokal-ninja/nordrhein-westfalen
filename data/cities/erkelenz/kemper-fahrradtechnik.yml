@@ -1,11 +1,11 @@
 id: 208689586
-type: way
+type: node
 latitude: 51.10513
 longitude: 6.28621
 postcode: "41812"
 city: Erkelenz
-street: "Rheinweg"
-housenumber: 70
-phone: "+49 2431 77017"
-opening_hours: "Mo-Fr 09:00-18:00; Apr-Oct: Sa 10:00-14:00"
-website: "https://www.kemper-velo.de/"
+street: Rheinweg
+housenumber: "70"
+phone: +49 2431 77017
+opening_hours: 'Mo-Fr 09:00-18:00; Apr-Oct: Sa 10:00-14:00'
+website: https://www.kemper-velo.de/

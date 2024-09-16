@@ -1,11 +1,11 @@
 id: 320505273
-type: way
+type: node
 latitude: 50.78936
 longitude: 6.44072
 postcode: "52355"
 city: Düren
-street: "Schillingsstraße"
-housenumber: 211
+street: Schillingsstraße
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

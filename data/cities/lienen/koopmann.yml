@@ -1,11 +1,11 @@
 id: 275565959
-type: way
+type: node
 latitude: 52.14609
 longitude: 7.97381
 postcode: "49536"
 city: Lienen
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

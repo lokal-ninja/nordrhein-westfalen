@@ -1,11 +1,11 @@
 id: 27657825
-type: way
+type: node
 latitude: 50.91326
 longitude: 8.00913
 postcode: "57078"
 city: Siegen
-street: "Wenschtstraße"
-housenumber: 1
+street: Wenschtstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

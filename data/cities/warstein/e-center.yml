@@ -1,11 +1,11 @@
 id: 287684823
-type: way
+type: node
 latitude: 51.45067
 longitude: 8.35793
 postcode: "59581"
 city: Warstein
-street: "Alte Kreisstraße"
-housenumber: 20
-phone: "+49 2902 97820"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Alte Kreisstraße
+housenumber: "20"
+phone: +49 2902 97820
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

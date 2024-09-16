@@ -1,11 +1,11 @@
 id: 323132860
-type: way
+type: node
 latitude: 50.85143
 longitude: 8.09265
 postcode: "57234"
 city: Wilnsdorf
-street: "Lindenplatz"
-housenumber: 7
+street: Lindenplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

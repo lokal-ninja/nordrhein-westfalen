@@ -1,11 +1,11 @@
 id: 237526298
-type: way
+type: node
 latitude: 51.41139
 longitude: 6.72084
 postcode: "47226"
 city: Duisburg
-street: "Hochemmericher Markt"
-housenumber: 2
+street: Hochemmericher Markt
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

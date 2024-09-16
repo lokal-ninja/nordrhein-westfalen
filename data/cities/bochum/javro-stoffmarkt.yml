@@ -4,8 +4,8 @@ latitude: 51.42477
 longitude: 7.16075
 postcode: "44879"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 844
+street: Hattinger Straße
+housenumber: "844"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://javro-stoffmarkt.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://javro-stoffmarkt.de/

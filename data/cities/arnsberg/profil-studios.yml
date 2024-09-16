@@ -4,8 +4,8 @@ latitude: 51.45001
 longitude: 7.96682
 postcode: "59755"
 city: Arnsberg
-street: "Engelbertstraße"
-housenumber: 7
-phone: "+49 2932 4758660"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.profilstudios.de/"
+street: Engelbertstraße
+housenumber: "7"
+phone: +49 2932 4758660
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.profilstudios.de/

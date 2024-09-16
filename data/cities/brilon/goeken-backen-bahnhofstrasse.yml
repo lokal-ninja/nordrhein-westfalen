@@ -4,8 +4,8 @@ latitude: 51.39626
 longitude: 8.57124
 postcode: "59929"
 city: Brilon
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 2961 9639365"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su,PH 08:00-17:00"
-website: "https://www.goeken-backen.de/"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 2961 9639365
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su,PH 08:00-17:00
+website: https://www.goeken-backen.de/

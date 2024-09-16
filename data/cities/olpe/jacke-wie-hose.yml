@@ -4,8 +4,8 @@ latitude: 51.02967
 longitude: 7.85105
 postcode: "57462"
 city: Olpe
-street: "Martinstraße"
-housenumber: 43
-phone: "+49 2761 8344592"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.drk-olpe.de/angebote/existenzsichernde-hilfe/kleiderladen-jacke-wie-hose.html"
+street: Martinstraße
+housenumber: "43"
+phone: +49 2761 8344592
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.drk-olpe.de/angebote/existenzsichernde-hilfe/kleiderladen-jacke-wie-hose.html

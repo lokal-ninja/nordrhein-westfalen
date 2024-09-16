@@ -1,11 +1,11 @@
 id: 270298216
-type: way
+type: node
 latitude: 51.07984
 longitude: 7.53585
 postcode: "51709"
 city: Marienheide
-street: "Hauptstraße"
-housenumber: 102
+street: Hauptstraße
+housenumber: "102"
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

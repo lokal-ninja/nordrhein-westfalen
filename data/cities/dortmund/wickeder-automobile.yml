@@ -4,8 +4,8 @@ latitude: 51.5356
 longitude: 7.63178
 postcode: "44319"
 city: Dortmund
-street: "Altwickeder Hellweg"
-housenumber: 243
-phone: "+49 1743073250"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+street: Altwickeder Hellweg
+housenumber: "243"
+phone: +49 1743073250
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

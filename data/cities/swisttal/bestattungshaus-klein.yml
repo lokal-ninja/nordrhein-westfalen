@@ -1,11 +1,11 @@
 id: 126640444
-type: way
+type: node
 latitude: 50.68239
 longitude: 6.97802
 postcode: "53913"
 city: Swisttal
-street: "Am Burgweiher"
-housenumber: 9
-phone: "+49 2226 4747"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.bestatter-klein.de/"
+street: Am Burgweiher
+housenumber: "9"
+phone: +49 2226 4747
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.bestatter-klein.de/

@@ -4,8 +4,8 @@ latitude: 51.96339
 longitude: 8.41795
 postcode: "33649"
 city: Bielefeld
-street: "Brockhagener Straße"
-housenumber: 284
-phone: "+49 5241 960135"
-opening_hours: "Mo-Fr 10:00-12:30,13:30-18:00; Sa 09:00-15:00"
-website: "https://www.autohaus-brinker.de/fahrzeugbestand/1-gebrauchtwagen/"
+street: Brockhagener Straße
+housenumber: "284"
+phone: +49 5241 960135
+opening_hours: Mo-Fr 10:00-12:30,13:30-18:00; Sa 09:00-15:00
+website: https://www.autohaus-brinker.de/fahrzeugbestand/1-gebrauchtwagen/

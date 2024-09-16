@@ -4,8 +4,8 @@ latitude: 51.6106
 longitude: 7.20852
 postcode: "45657"
 city: Recklinghausen
-street: "Dordrechtring"
-housenumber: 42
-phone: "+49 23 61 909 866 0"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:30-14:00"
-website: "https://autoplus.de/filiale/recklinghausen"
+street: Dordrechtring
+housenumber: "42"
+phone: +49 23 61 909 866 0
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:30-14:00
+website: https://autoplus.de/filiale/recklinghausen

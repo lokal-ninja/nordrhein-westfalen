@@ -4,8 +4,8 @@ latitude: 51.42502
 longitude: 6.79158
 postcode: "47057"
 city: Duisburg
-street: "Gneisenaustraße"
-housenumber: 226
-phone: "+49 203- 75121"
-opening_hours: "Mo-Fr 11:00-13:00,15:00-18:30, Sa 11:00-14:00"
-website: "http://www.buchhandlung-weltbuehne.de"
+street: Gneisenaustraße
+housenumber: "226"
+phone: +49 203- 75121
+opening_hours: Mo-Fr 11:00-13:00,15:00-18:30, Sa 11:00-14:00
+website: http://www.buchhandlung-weltbuehne.de

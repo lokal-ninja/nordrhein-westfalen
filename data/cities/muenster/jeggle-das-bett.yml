@@ -4,8 +4,8 @@ latitude: 51.93312
 longitude: 7.63135
 postcode: "48153"
 city: Münster
-street: "Robert-Bosch-Straße"
-housenumber: 2
-phone: "+49 251 8716821"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.jeggle-das-bett.de/"
+street: Robert-Bosch-Straße
+housenumber: "2"
+phone: +49 251 8716821
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.jeggle-das-bett.de/

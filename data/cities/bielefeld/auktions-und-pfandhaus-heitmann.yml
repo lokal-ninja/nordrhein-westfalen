@@ -4,8 +4,8 @@ latitude: 52.01938
 longitude: 8.53703
 postcode: "33602"
 city: Bielefeld
-street: "Turnerstraße"
-housenumber: 29
-phone: "+49-521-65590"
-opening_hours: "Mo 10:30-13:00; Tu-Fr 10:30-13:00,15:00-18:00"
-website: "http://www.pfandhaus-bielefeld.de"
+street: Turnerstraße
+housenumber: "29"
+phone: +49-521-65590
+opening_hours: Mo 10:30-13:00; Tu-Fr 10:30-13:00,15:00-18:00
+website: http://www.pfandhaus-bielefeld.de

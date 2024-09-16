@@ -4,8 +4,8 @@ latitude: 51.90412
 longitude: 7.65227
 postcode: "48165"
 city: Münster
-street: "Bergiusstraße"
-housenumber: 2
-phone: "+49 2501 3321"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:30"
-website: "https://www.hoegemann-frisuren.de/"
+street: Bergiusstraße
+housenumber: "2"
+phone: +49 2501 3321
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:30
+website: https://www.hoegemann-frisuren.de/

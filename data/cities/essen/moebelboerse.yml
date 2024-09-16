@@ -1,11 +1,11 @@
 id: 83867841
-type: way
+type: node
 latitude: 51.4532
 longitude: 7.00516
 postcode: "45127"
 city: Essen
-street: "Hoffnungstraße"
-housenumber: 22
+street: Hoffnungstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-We 09:00-16:00; Th 09:00-18:00; Fr 09:00-12:00"
-website: "https://www.diakoniewerk-essen.de/de/Arbeitsprojekte/Diakoniel%c3%a4den/M%c3%b6belb%c3%b6rse/286,67.111"
+opening_hours: Mo-We 09:00-16:00; Th 09:00-18:00; Fr 09:00-12:00
+website: https://www.diakoniewerk-essen.de/de/Arbeitsprojekte/Diakoniel%c3%a4den/M%c3%b6belb%c3%b6rse/286,67.111

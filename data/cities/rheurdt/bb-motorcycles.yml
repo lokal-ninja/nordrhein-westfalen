@@ -1,11 +1,11 @@
 id: 1197484705
-type: way
+type: node
 latitude: 51.44034
 longitude: 6.49069
 postcode: "47509"
 city: Rheurdt
-street: "In den Pannenkaulen"
-housenumber: 3
-phone: "+49 2845 9842741"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:30"
-website: "https://www.bbmotorcycles.de/"
+street: In den Pannenkaulen
+housenumber: "3"
+phone: +49 2845 9842741
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:30
+website: https://www.bbmotorcycles.de/

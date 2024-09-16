@@ -1,11 +1,11 @@
 id: 256329270
-type: way
+type: node
 latitude: 51.87468
 longitude: 7.91436
 postcode: "48231"
 city: Warendorf
-street: "Raiffeisenstraße"
-housenumber: 33
+street: Raiffeisenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:45; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:45; Sa 08:00-12:00
 website: ""

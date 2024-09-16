@@ -4,8 +4,8 @@ latitude: 51.18303
 longitude: 7.18708
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 74
-phone: "+49 2191 927203"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "http://www.deichmann.com/"
+street: Alleestraße
+housenumber: "74"
+phone: +49 2191 927203
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: http://www.deichmann.com/

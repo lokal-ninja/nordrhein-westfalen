@@ -1,11 +1,11 @@
 id: 134332096
-type: way
+type: node
 latitude: 51.18044
 longitude: 7.97102
 postcode: "57413"
 city: Finnentrop
-street: "Bamenohler Straße"
-housenumber: 349
+street: Bamenohler Straße
+housenumber: "349"
 phone: ""
-opening_hours: "Mo-Fr 05:30-12:30; Sa 05:00-11:00"
+opening_hours: Mo-Fr 05:30-12:30; Sa 05:00-11:00
 website: ""

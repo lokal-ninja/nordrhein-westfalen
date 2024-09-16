@@ -1,11 +1,11 @@
 id: 136588992
-type: way
+type: node
 latitude: 50.71803
 longitude: 6.91135
 postcode: "53913"
 city: Swisttal
-street: "Kölner Straße"
-housenumber: 66
-phone: "+49 2254 836642"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.hilfe-zuhause.de"
+street: Kölner Straße
+housenumber: "66"
+phone: +49 2254 836642
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.hilfe-zuhause.de

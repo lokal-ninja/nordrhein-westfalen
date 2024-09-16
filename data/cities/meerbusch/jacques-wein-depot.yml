@@ -1,11 +1,11 @@
 id: 53137763
-type: way
+type: node
 latitude: 51.26613
 longitude: 6.67462
 postcode: "40667"
 city: Meerbusch
-street: "Haus Meer"
-housenumber: 2
-phone: "+49 2132 10380"
-opening_hours: "Mo-Th 15:00-20:00; Fr 13:00-20:00; Sa 10:00-16:00"
-website: "https://www.jacques.de/"
+street: Haus Meer
+housenumber: "2"
+phone: +49 2132 10380
+opening_hours: Mo-Th 15:00-20:00; Fr 13:00-20:00; Sa 10:00-16:00
+website: https://www.jacques.de/

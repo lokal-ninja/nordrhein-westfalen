@@ -1,11 +1,11 @@
 id: 451615018
-type: way
+type: node
 latitude: 51.44068
 longitude: 6.42221
 postcode: "47647"
 city: Kerken
-street: "Rheinstraße"
-housenumber: 32
+street: Rheinstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

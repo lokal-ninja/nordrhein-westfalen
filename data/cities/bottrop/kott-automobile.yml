@@ -1,11 +1,11 @@
 id: 118260119
-type: way
+type: node
 latitude: 51.54143
 longitude: 6.92139
 postcode: "46240"
 city: Bottrop
-street: "Nordring"
-housenumber: 10
-phone: "+49 2041 18410"
+street: Nordring
+housenumber: "10"
+phone: +49 2041 18410
 opening_hours: ""
-website: "https://www.kott-automobile.de/"
+website: https://www.kott-automobile.de/

@@ -1,11 +1,11 @@
 id: 207946587
-type: way
+type: node
 latitude: 52.05636
 longitude: 8.54849
 postcode: "33611"
 city: Bielefeld
-street: "Im Stift"
-housenumber: 4
+street: Im Stift
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

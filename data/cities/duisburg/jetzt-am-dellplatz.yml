@@ -1,11 +1,11 @@
 id: 330885847
-type: way
+type: node
 latitude: 51.42971
 longitude: 6.76109
 postcode: "47051"
 city: Duisburg
-street: "Dellplatz"
-housenumber: 31
+street: Dellplatz
+housenumber: "31"
 phone: ""
-opening_hours: "Th-Sa 17:00-21:00"
-website: "http://jetzt-am-dellplatz.de"
+opening_hours: Th-Sa 17:00-21:00
+website: http://jetzt-am-dellplatz.de

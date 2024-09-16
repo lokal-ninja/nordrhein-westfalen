@@ -1,11 +1,11 @@
 id: 122189448
-type: way
+type: node
 latitude: 50.83749
 longitude: 6.9027
 postcode: "50321"
 city: Brühl
-street: "Kurfürstenstraße"
-housenumber: 33
+street: Kurfürstenstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 394720014
-type: way
+type: node
 latitude: 51.45332
 longitude: 6.65982
 postcode: "47443"
 city: Moers
-street: "Franz-Haniel-Straße"
-housenumber: 6
+street: Franz-Haniel-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.abc-tauchparadies.de/"
+website: https://www.abc-tauchparadies.de/

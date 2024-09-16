@@ -1,11 +1,11 @@
 id: 248732251
-type: way
+type: node
 latitude: 51.6895
 longitude: 7.4651
 postcode: "59379"
 city: Selm
-street: "Kreisstraße"
-housenumber: 42
+street: Kreisstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.dm.de/store/d0nf/selm/kreisstrasse-42"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.dm.de/store/d0nf/selm/kreisstrasse-42

@@ -1,11 +1,11 @@
 id: 998260743
-type: way
+type: node
 latitude: 51.686
 longitude: 7.46668
 postcode: "59379"
 city: Selm
-street: "Kreisstraße"
-housenumber: 92
-phone: "+49 2592 9191420"
-opening_hours: "Mo-Sa 07:00 - 21:30"
-website: "https://www.rewe.de/marktseite/selm/250479/rewe-dortmund-kreisstr-92/"
+street: Kreisstraße
+housenumber: "92"
+phone: +49 2592 9191420
+opening_hours: Mo-Sa 07:00 - 21:30
+website: https://www.rewe.de/marktseite/selm/250479/rewe-dortmund-kreisstr-92/

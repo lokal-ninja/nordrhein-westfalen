@@ -4,8 +4,8 @@ latitude: 51.53015
 longitude: 9.02957
 postcode: "34414"
 city: Warburg
-street: "Briloner Straße"
-housenumber: 19
+street: Briloner Straße
+housenumber: "19"
 phone: ""
-opening_hours: "nach Absprache"
-website: "https://www.reisebuero-tegethoff.de/"
+opening_hours: '"nach Absprache"'
+website: https://www.reisebuero-tegethoff.de/

@@ -1,11 +1,11 @@
 id: 210685100
-type: way
+type: node
 latitude: 52.14988
 longitude: 8.5869
 postcode: "32130"
 city: Enger
-street: "Kaiserstraße"
-housenumber: 13
+street: Kaiserstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.69964
 longitude: 8.72964
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 54
+street: Frankfurter Weg
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 8:00-18:00; Sa 9:30-14:00"
-website: "https://www.workwearcentershop.de/"
+opening_hours: Mo-Fr 8:00-18:00; Sa 9:30-14:00
+website: https://www.workwearcentershop.de/

@@ -4,8 +4,8 @@ latitude: 51.16784
 longitude: 6.68528
 postcode: "41466"
 city: Neuss
-street: "Bergheimer Straße"
-housenumber: 495
+street: Bergheimer Straße
+housenumber: "495"
 phone: "+4921317385444"
-opening_hours: "Mo,Sa 08:00-13:00; Tu-Fr 08:00-18:30"
-website: "https://www.kuhundco.de/"
+opening_hours: Mo,Sa 08:00-13:00; Tu-Fr 08:00-18:30
+website: https://www.kuhundco.de/

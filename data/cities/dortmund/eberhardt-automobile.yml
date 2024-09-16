@@ -4,8 +4,8 @@ latitude: 51.49445
 longitude: 7.54996
 postcode: "44287"
 city: Dortmund
-street: "Ringofenstraße"
-housenumber: 23
-phone: "+49 231 45204446"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.ford-eberhardt-ringofenstrasse.de/"
+street: Ringofenstraße
+housenumber: "23"
+phone: +49 231 45204446
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.ford-eberhardt-ringofenstrasse.de/

@@ -1,11 +1,11 @@
 id: 328757861
-type: way
+type: node
 latitude: 51.92923
 longitude: 7.36126
 postcode: "48301"
 city: Nottuln
-street: "Appelhülsener Straße"
-housenumber: 3
+street: Appelhülsener Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

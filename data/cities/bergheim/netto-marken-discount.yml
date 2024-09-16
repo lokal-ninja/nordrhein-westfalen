@@ -4,8 +4,8 @@ latitude: 50.95129
 longitude: 6.62434
 postcode: "50126"
 city: Bergheim
-street: "Aachener Straße"
-housenumber: 20
+street: Aachener Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

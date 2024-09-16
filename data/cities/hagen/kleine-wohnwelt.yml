@@ -1,11 +1,11 @@
 id: 95386493
-type: way
+type: node
 latitude: 51.39864
 longitude: 7.49142
 postcode: "58099"
 city: Hagen
-street: "Feldmühlenstraße"
-housenumber: 23
+street: Feldmühlenstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

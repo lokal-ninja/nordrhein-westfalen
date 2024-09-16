@@ -4,8 +4,8 @@ latitude: 50.99171
 longitude: 7.12836
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Am Alten Pastorat"
-housenumber: 9
+street: Am Alten Pastorat
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00"
-website: "https://www.diebrillenmacher-bergischgladbach.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-14:00
+website: https://www.diebrillenmacher-bergischgladbach.de

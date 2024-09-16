@@ -4,8 +4,8 @@ latitude: 51.61555
 longitude: 7.20075
 postcode: "45657"
 city: Recklinghausen
-street: "Martinistraße"
-housenumber: 16
+street: Martinistraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://headrocker-friseure.de/start.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://headrocker-friseure.de/start.html

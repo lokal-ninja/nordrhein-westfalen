@@ -4,8 +4,8 @@ latitude: 51.3843
 longitude: 6.59034
 postcode: "47802"
 city: Krefeld
-street: "Lilienthalweg"
-housenumber: 12
-phone: "+49 1575 2796302"
-opening_hours: "Mo-Fr 14:00+; Sa, Su, 12:00+; PH 12:00+"
+street: Lilienthalweg
+housenumber: "12"
+phone: +49 1575 2796302
+opening_hours: Mo-Fr 14:00+; Sa, Su, 12:00+; PH 12:00+
 website: ""

@@ -1,11 +1,11 @@
 id: 120867164
-type: way
+type: node
 latitude: 50.86872
 longitude: 8.00642
 postcode: "57072"
 city: Siegen
-street: "Schlachthausstraße"
-housenumber: 10
-phone: "+49 271 40579985"
-opening_hours: "Mo-Fr 05:30-18:00,Sa 06:00-14:00"
+street: Schlachthausstraße
+housenumber: "10"
+phone: +49 271 40579985
+opening_hours: Mo-Fr 05:30-18:00,Sa 06:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.44089
 longitude: 7.00851
 postcode: "45130"
 city: Essen
-street: "Witteringstraße"
-housenumber: 17
-phone: "+49 201 775748"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00; Mo,Su,PH off"
+street: Witteringstraße
+housenumber: "17"
+phone: +49 201 775748
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00; Mo,Su,PH off
 website: ""

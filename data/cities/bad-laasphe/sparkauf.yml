@@ -1,11 +1,11 @@
 id: 239346167
-type: way
+type: node
 latitude: 50.92779
 longitude: 8.4336
 postcode: "57334"
 city: Bad Laasphe
-street: "Industriestraße"
-housenumber: 3
-phone: "+49 2752 200637"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 9:00-15:00"
-website: "https://www.sparkaufnemeth.de"
+street: Industriestraße
+housenumber: "3"
+phone: +49 2752 200637
+opening_hours: Mo-Fr 09:00-18:00, Sa 9:00-15:00
+website: https://www.sparkaufnemeth.de

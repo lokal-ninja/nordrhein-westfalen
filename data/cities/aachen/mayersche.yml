@@ -1,11 +1,11 @@
 id: 122366115
-type: way
+type: node
 latitude: 50.77512
 longitude: 6.08627
 postcode: "52062"
 city: Aachen
-street: "Buchkremerstraße"
+street: Buchkremerstraße
 housenumber: 1-7
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
-website: "https://www.mayersche.de/"
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
+website: https://www.mayersche.de/

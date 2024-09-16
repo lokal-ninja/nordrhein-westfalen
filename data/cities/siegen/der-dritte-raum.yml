@@ -4,8 +4,8 @@ latitude: 50.87116
 longitude: 8.01834
 postcode: "57072"
 city: Siegen
-street: "Spandauer Straße"
-housenumber: 18
-phone: "+49 271 2339423"
-opening_hours: "Mo-Fr 08:00-19:00,Sa 09:00-14:00; PH off"
-website: "https://www.derdritteraum-friseure.de"
+street: Spandauer Straße
+housenumber: "18"
+phone: +49 271 2339423
+opening_hours: Mo-Fr 08:00-19:00,Sa 09:00-14:00; PH off
+website: https://www.derdritteraum-friseure.de

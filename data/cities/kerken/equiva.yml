@@ -1,11 +1,11 @@
 id: 330149505
-type: way
+type: node
 latitude: 51.45807
 longitude: 6.37946
 postcode: "47647"
 city: Kerken
-street: "Kenger Weg"
-housenumber: 11
-phone: "+49 2833 9459950"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.equiva.com/"
+street: Kenger Weg
+housenumber: "11"
+phone: +49 2833 9459950
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.equiva.com/

@@ -1,11 +1,11 @@
 id: 227311346
-type: way
+type: node
 latitude: 51.06319
 longitude: 6.11333
 postcode: "52525"
 city: Heinsberg
-street: "Industriestraße"
-housenumber: 48
-phone: "+49 2452 91880"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:30; Su, PH off"
-website: "http://www.autohaus-koenigs.com"
+street: Industriestraße
+housenumber: "48"
+phone: +49 2452 91880
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:30; Su, PH off
+website: http://www.autohaus-koenigs.com

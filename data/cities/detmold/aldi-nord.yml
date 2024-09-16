@@ -1,11 +1,11 @@
 id: 83632089
-type: way
+type: node
 latitude: 51.94595
 longitude: 8.78396
 postcode: "32758"
 city: Detmold
-street: "Oerlinghauser Straße"
-housenumber: 109
+street: Oerlinghauser Straße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 828929277
-type: way
+type: node
 latitude: 51.22216
 longitude: 7.62684
 postcode: "58507"
 city: Lüdenscheid
-street: "Lutherstraße"
-housenumber: 12
+street: Lutherstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

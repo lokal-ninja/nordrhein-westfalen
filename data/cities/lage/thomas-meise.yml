@@ -1,11 +1,11 @@
 id: 304118305
-type: way
+type: node
 latitude: 51.97429
 longitude: 8.82108
 postcode: "32791"
 city: Lage
-street: "Detmolder Straße"
-housenumber: 212
+street: Detmolder Straße
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://meise-kfz.de"
+website: https://meise-kfz.de

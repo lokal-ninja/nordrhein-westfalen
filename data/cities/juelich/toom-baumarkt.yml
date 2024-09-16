@@ -1,11 +1,11 @@
 id: 266739063
-type: way
+type: node
 latitude: 50.93712
 longitude: 6.35102
 postcode: "52428"
 city: Jülich
-street: "Am Klingerpützchen"
-housenumber: 4
+street: Am Klingerpützchen
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"
-website: "https://toom.de/m/juelich/"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00
+website: https://toom.de/m/juelich/

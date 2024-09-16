@@ -4,8 +4,8 @@ latitude: 50.69315
 longitude: 7.02418
 postcode: "53347"
 city: Alfter
-street: "Hauptstraße"
-housenumber: 207
-phone: "+49 228 94770333"
-opening_hours: "Mo off,Tu-Fr 09:00-18:00,Sa 09:00-14:00"
+street: Hauptstraße
+housenumber: "207"
+phone: +49 228 94770333
+opening_hours: Mo off,Tu-Fr 09:00-18:00,Sa 09:00-14:00
 website: ""

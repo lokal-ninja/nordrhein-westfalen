@@ -1,11 +1,11 @@
 id: 262470192
-type: way
+type: node
 latitude: 52.18141
 longitude: 7.52856
 postcode: "48282"
 city: Emsdetten
-street: "Eisenbahnstraße"
-housenumber: 12
-phone: "+49 (0) 25 72 - 20 94 18"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.thomas-philipps.de/"
+street: Eisenbahnstraße
+housenumber: "12"
+phone: +49 (0) 25 72 - 20 94 18
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.thomas-philipps.de/

@@ -1,11 +1,11 @@
 id: 335613252
-type: way
+type: node
 latitude: 51.80568
 longitude: 8.02616
 postcode: "59269"
 city: Beckum
-street: "Harbergstraße"
-housenumber: 99
+street: Harbergstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

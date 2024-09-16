@@ -1,11 +1,11 @@
 id: 194200292
-type: way
+type: node
 latitude: 51.55065
 longitude: 7.24529
 postcode: "44628"
 city: Herne
-street: "Castroper Straße"
-housenumber: 37
+street: Castroper Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.pieper-profilbau.de"
+website: https://www.pieper-profilbau.de

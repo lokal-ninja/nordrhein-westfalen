@@ -4,8 +4,8 @@ latitude: 51.53303
 longitude: 7.11076
 postcode: "45889"
 city: Gelsenkirchen
-street: "Bismarckstraße"
-housenumber: 280
-phone: "+49 209 85906"
-opening_hours: "24/7"
+street: Bismarckstraße
+housenumber: "280"
+phone: +49 209 85906
+opening_hours: 24/7
 website: ""

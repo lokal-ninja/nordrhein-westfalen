@@ -1,11 +1,11 @@
 id: 92846847
-type: way
+type: node
 latitude: 50.68943
 longitude: 7.02326
 postcode: "53347"
 city: Alfter
-street: "Hauptstraße"
-housenumber: 281
+street: Hauptstraße
+housenumber: "281"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su off"
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su off
 website: ""

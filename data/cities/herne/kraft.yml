@@ -4,8 +4,8 @@ latitude: 51.5402
 longitude: 7.21956
 postcode: "44623"
 city: Herne
-street: "Neustraße"
-housenumber: 25
-phone: "+49 2323 56181"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00; We appointment"
-website: "https://www.san-kraft.de/"
+street: Neustraße
+housenumber: "25"
+phone: +49 2323 56181
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00; We "appointment"
+website: https://www.san-kraft.de/

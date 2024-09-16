@@ -1,11 +1,11 @@
 id: 310150731
-type: way
+type: node
 latitude: 50.95407
 longitude: 7.10807
 postcode: "51427"
 city: Bergisch Gladbach
-street: "Vürfels"
-housenumber: 71
+street: Vürfels
+housenumber: "71"
 phone: "+4922043005437"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00; We off"
-website: "https://www.raum-gefuehl-koeln.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00; We off
+website: https://www.raum-gefuehl-koeln.de/

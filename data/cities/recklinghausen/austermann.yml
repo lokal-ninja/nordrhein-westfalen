@@ -4,8 +4,8 @@ latitude: 51.61307
 longitude: 7.19657
 postcode: "45657"
 city: Recklinghausen
-street: "Schwertfegergasse"
-housenumber: 1
-phone: "+49 2361 181318"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:30"
-website: "https://www.austermann-optik.de/"
+street: Schwertfegergasse
+housenumber: "1"
+phone: +49 2361 181318
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:30
+website: https://www.austermann-optik.de/

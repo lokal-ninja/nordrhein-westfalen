@@ -4,8 +4,8 @@ latitude: 51.22617
 longitude: 6.80102
 postcode: "40233"
 city: Düsseldorf
-street: "Gerresheimer Straße"
-housenumber: 98
-phone: "+49 211-358239"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.kfz-bleifrei.de"
+street: Gerresheimer Straße
+housenumber: "98"
+phone: +49 211-358239
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.kfz-bleifrei.de

@@ -1,11 +1,11 @@
 id: 83739964
-type: way
+type: node
 latitude: 50.77426
 longitude: 6.07891
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
-housenumber: 74
+street: Jakobstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-16:00
 website: ""

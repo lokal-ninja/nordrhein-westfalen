@@ -1,11 +1,11 @@
 id: 131993089
-type: way
+type: node
 latitude: 50.84055
 longitude: 7.43245
 postcode: "53809"
 city: Ruppichteroth
-street: "Rathausstraße"
-housenumber: 3
+street: Rathausstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.blumenhof-eymold.de"
+website: http://www.blumenhof-eymold.de

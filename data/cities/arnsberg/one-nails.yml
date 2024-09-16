@@ -4,8 +4,8 @@ latitude: 51.45367
 longitude: 7.95963
 postcode: "59755"
 city: Arnsberg
-street: "Neheimer Markt"
-housenumber: 2
-phone: "+49 2932 6198559"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+street: Neheimer Markt
+housenumber: "2"
+phone: +49 2932 6198559
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 107194749
-type: way
+type: node
 latitude: 51.99251
 longitude: 6.91725
 postcode: "48703"
 city: Stadtlohn
-street: "Markt"
-housenumber: 4
+street: Markt
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://haarstudio-andrea.business.site/"
+website: https://haarstudio-andrea.business.site/

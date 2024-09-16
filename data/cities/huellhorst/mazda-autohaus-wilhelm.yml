@@ -4,8 +4,8 @@ latitude: 52.2523
 longitude: 8.69882
 postcode: "32609"
 city: Hüllhorst
-street: "Weidehorst"
-housenumber: 2
-phone: "+49 5744 929292"
-opening_hours: "Sa 08:00-13:00, Mo-Fr 08:00-18:00"
-website: "ww.auto-wilhelm.de"
+street: Weidehorst
+housenumber: "2"
+phone: +49 5744 929292
+opening_hours: Sa 08:00-13:00, Mo-Fr 08:00-18:00
+website: ww.auto-wilhelm.de

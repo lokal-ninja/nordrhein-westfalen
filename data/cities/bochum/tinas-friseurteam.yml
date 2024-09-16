@@ -4,8 +4,8 @@ latitude: 51.47823
 longitude: 7.20801
 postcode: "44793"
 city: Bochum
-street: "Springerplatz"
-housenumber: 33
-phone: "+49 234 681287"
-opening_hours: "Tu 09:00-14:00; We-Fr 09:00-17:30; Mo, PH off"
+street: Springerplatz
+housenumber: "33"
+phone: +49 234 681287
+opening_hours: Tu 09:00-14:00; We-Fr 09:00-17:30; Mo, PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 359651335
-type: way
+type: node
 latitude: 50.98666
 longitude: 6.9654
 postcode: "50735"
 city: Köln
-street: "Niehler Damm"
-housenumber: 99
-phone: "+49 221 2921881726;+49 177 4229521"
+street: Niehler Damm
+housenumber: "99"
+phone: +49 221 2921881726;+49 177 4229521
 opening_hours: ""
-website: "https://www.mogauto.de"
+website: https://www.mogauto.de

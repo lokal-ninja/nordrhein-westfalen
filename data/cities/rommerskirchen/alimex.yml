@@ -1,11 +1,11 @@
 id: 294593903
-type: way
+type: node
 latitude: 51.03358
 longitude: 6.69077
 postcode: "41569"
 city: Rommerskirchen
-street: "Venloer Straße"
+street: Venloer Straße
 housenumber: 16-18
-phone: "+492183 6033"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00- 14:00"
-website: "https://www.alimex-auto.de/"
+phone: +492183 6033
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00- 14:00
+website: https://www.alimex-auto.de/

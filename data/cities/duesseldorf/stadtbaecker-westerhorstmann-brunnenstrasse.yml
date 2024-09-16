@@ -4,8 +4,8 @@ latitude: 51.20508
 longitude: 6.78041
 postcode: "40223"
 city: Düsseldorf
-street: "Brunnenstraße"
-housenumber: 50
+street: Brunnenstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.stadtbaecker.com/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.stadtbaecker.com/

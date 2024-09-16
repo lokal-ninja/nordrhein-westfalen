@@ -1,11 +1,11 @@
 id: 281114348
-type: way
+type: node
 latitude: 51.76565
 longitude: 7.8904
 postcode: "59227"
 city: Ahlen
-street: "Klosterstraße"
-housenumber: 38
+street: Klosterstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.45244
 longitude: 6.97398
 postcode: "45144"
 city: Essen
-street: "Kerckhoffstraße"
-housenumber: 150
-phone: "+49 201 505455"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.steegmann-bestattungen.de/"
+street: Kerckhoffstraße
+housenumber: "150"
+phone: +49 201 505455
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.steegmann-bestattungen.de/

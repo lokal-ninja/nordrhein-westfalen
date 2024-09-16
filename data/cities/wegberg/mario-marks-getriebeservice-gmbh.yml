@@ -1,11 +1,11 @@
 id: 25702636
-type: way
+type: node
 latitude: 51.11525
 longitude: 6.32907
 postcode: "41844"
 city: Wegberg
-street: "Robert-Bosch-Straße"
-housenumber: 18
+street: Robert-Bosch-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

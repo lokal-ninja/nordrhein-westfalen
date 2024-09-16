@@ -4,8 +4,8 @@ latitude: 51.93588
 longitude: 8.87416
 postcode: "32756"
 city: Detmold
-street: "Paulinenstraße"
-housenumber: 31
-phone: "+49 5231 31285"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.ev-buchhandlung.de/"
+street: Paulinenstraße
+housenumber: "31"
+phone: +49 5231 31285
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.ev-buchhandlung.de/

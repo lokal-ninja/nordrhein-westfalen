@@ -1,11 +1,11 @@
 id: 284805935
-type: way
+type: node
 latitude: 51.09494
 longitude: 7.19861
 postcode: "42929"
 city: Wermelskirchen
-street: "Höferhof"
-housenumber: 14
+street: Höferhof
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

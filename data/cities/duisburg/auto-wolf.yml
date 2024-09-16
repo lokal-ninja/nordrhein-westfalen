@@ -1,11 +1,11 @@
 id: 52184919
-type: way
+type: node
 latitude: 51.3875
 longitude: 6.75983
 postcode: "47249"
 city: Duisburg
-street: "Düsseldorfer Landstraße"
-housenumber: 37
+street: Düsseldorfer Landstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.audi-zentrum-duisburg.audi/de.html"
+website: https://www.audi-zentrum-duisburg.audi/de.html

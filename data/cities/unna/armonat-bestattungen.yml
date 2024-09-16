@@ -1,11 +1,11 @@
 id: 100283367
-type: way
+type: node
 latitude: 51.54963
 longitude: 7.68173
 postcode: "59425"
 city: Unna
-street: "Friedrich-Ebert-Straße"
-housenumber: 106
+street: Friedrich-Ebert-Straße
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

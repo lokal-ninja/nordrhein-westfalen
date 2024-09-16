@@ -4,8 +4,8 @@ latitude: 51.35945
 longitude: 7.47338
 postcode: "58095"
 city: Hagen
-street: "Sparkassen-Karree"
-housenumber: 12
-phone: "+49 2331 7842450"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.evaringe.de/"
+street: Sparkassen-Karree
+housenumber: "12"
+phone: +49 2331 7842450
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.evaringe.de/

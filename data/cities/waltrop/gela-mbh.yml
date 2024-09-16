@@ -1,11 +1,11 @@
 id: 267066982
-type: way
+type: node
 latitude: 51.60674
 longitude: 7.38826
 postcode: "45731"
 city: Waltrop
-street: "Am Herdicksbach"
-housenumber: 21
-phone: "+49 2309 95950"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://www.gelambh.de"
+street: Am Herdicksbach
+housenumber: "21"
+phone: +49 2309 95950
+opening_hours: Mo-Fr 07:30-17:00
+website: http://www.gelambh.de

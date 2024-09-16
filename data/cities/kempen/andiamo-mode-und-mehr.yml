@@ -4,8 +4,8 @@ latitude: 51.36465
 longitude: 6.42125
 postcode: "47906"
 city: Kempen
-street: "Burgstraße"
-housenumber: 3
-phone: "+49 2152 5537467"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-15:00"
-website: "https://andiamo-mode.de/"
+street: Burgstraße
+housenumber: "3"
+phone: +49 2152 5537467
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-15:00
+website: https://andiamo-mode.de/

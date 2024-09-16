@@ -4,8 +4,8 @@ latitude: 50.77842
 longitude: 6.09237
 postcode: "52062"
 city: Aachen
-street: "Alexanderstraße"
-housenumber: 97
-phone: "+49 176 64902385"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://nextcut.business.site/"
+street: Alexanderstraße
+housenumber: "97"
+phone: +49 176 64902385
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://nextcut.business.site/

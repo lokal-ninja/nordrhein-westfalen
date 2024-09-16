@@ -4,8 +4,8 @@ latitude: 50.77726
 longitude: 6.1465
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 45
-phone: "+49 241 555502"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://optik-moeres.de/"
+street: Von-Coels-Straße
+housenumber: "45"
+phone: +49 241 555502
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00; Su,PH off
+website: https://optik-moeres.de/

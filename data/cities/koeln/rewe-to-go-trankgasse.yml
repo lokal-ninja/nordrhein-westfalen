@@ -1,11 +1,11 @@
 id: 504626590
-type: way
+type: node
 latitude: 50.94311
 longitude: 6.95907
 postcode: "50667"
 city: Köln
-street: "Trankgasse"
-housenumber: 11
+street: Trankgasse
+housenumber: "11"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

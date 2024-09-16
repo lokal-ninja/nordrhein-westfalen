@@ -1,11 +1,11 @@
 id: 247020868
-type: way
+type: node
 latitude: 52.03281
 longitude: 9.00357
 postcode: "32694"
 city: Dörentrup
-street: "Lemgoer Straße"
+street: Lemgoer Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.rewe.de/marktseite/doerentrup/1465298/rewe-markt-lemgoer-str-1/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.rewe.de/marktseite/doerentrup/1465298/rewe-markt-lemgoer-str-1/

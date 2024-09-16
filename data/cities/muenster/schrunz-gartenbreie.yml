@@ -4,8 +4,8 @@ latitude: 51.95866
 longitude: 7.57022
 postcode: "48161"
 city: Münster
-street: "Gartenbreie"
-housenumber: 1
-phone: "+49 251 1356308"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:00-18:00; Su 08:00-17:00"
+street: Gartenbreie
+housenumber: "1"
+phone: +49 251 1356308
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:00-18:00; Su 08:00-17:00
 website: ""

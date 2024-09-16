@@ -4,8 +4,8 @@ latitude: 51.93739
 longitude: 8.88224
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 80
+street: Lange Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:30-13:00"
-website: "https://www.garngefluester.de"
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:30-13:00
+website: https://www.garngefluester.de

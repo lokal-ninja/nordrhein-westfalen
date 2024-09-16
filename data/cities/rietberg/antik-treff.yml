@@ -4,8 +4,8 @@ latitude: 51.81097
 longitude: 8.4107
 postcode: "33397"
 city: Rietberg
-street: "Rottwiese"
-housenumber: 61
-phone: "+49 5244 906013"
-opening_hours: "Th,Fr 10:00-18:00; Sa,Su 12:00-17:00"
-website: "http://www.antik-treff.de/"
+street: Rottwiese
+housenumber: "61"
+phone: +49 5244 906013
+opening_hours: Th,Fr 10:00-18:00; Sa,Su 12:00-17:00
+website: http://www.antik-treff.de/

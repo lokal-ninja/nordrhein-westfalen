@@ -4,8 +4,8 @@ latitude: 51.44862
 longitude: 7.4574
 postcode: "44229"
 city: Dortmund
-street: "Hagener Straße"
-housenumber: 357
-phone: "+49 231 730445"
-opening_hours: "Mo, Su, PH off; Tu-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.baeckerei-kreis.com/"
+street: Hagener Straße
+housenumber: "357"
+phone: +49 231 730445
+opening_hours: Mo, Su, PH off; Tu-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.baeckerei-kreis.com/

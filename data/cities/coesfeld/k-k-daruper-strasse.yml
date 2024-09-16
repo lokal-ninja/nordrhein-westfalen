@@ -1,11 +1,11 @@
 id: 269143002
-type: way
+type: node
 latitude: 51.93869
 longitude: 7.18145
 postcode: "48653"
 city: Coesfeld
-street: "Daruper Straße"
-housenumber: 56
+street: Daruper Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.klaas-und-kock.de/"
+website: https://www.klaas-und-kock.de/

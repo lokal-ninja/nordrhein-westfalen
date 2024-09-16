@@ -1,11 +1,11 @@
 id: 76874455
-type: way
+type: node
 latitude: 51.44409
 longitude: 7.30801
 postcode: "58455"
 city: Witten
-street: "Haldenweg"
-housenumber: 3
+street: Haldenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

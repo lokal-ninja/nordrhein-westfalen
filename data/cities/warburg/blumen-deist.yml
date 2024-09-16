@@ -4,8 +4,8 @@ latitude: 51.48882
 longitude: 9.14746
 postcode: "34414"
 city: Warburg
-street: "Marktstraße"
-housenumber: 4
+street: Marktstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00;We,Sa 09:00-13:00"
-website: "http://blumen-deist.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00;We,Sa 09:00-13:00
+website: http://blumen-deist.de/

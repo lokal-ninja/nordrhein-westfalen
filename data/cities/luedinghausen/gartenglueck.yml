@@ -1,11 +1,11 @@
 id: 987769347
-type: way
+type: node
 latitude: 51.7482
 longitude: 7.43456
 postcode: ""
 city: Lüdinghausen
-street: "Albert-Einstein-Straße"
-housenumber: 8
+street: Albert-Einstein-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://gartenglueck-lh.de"
+website: https://gartenglueck-lh.de

@@ -1,11 +1,11 @@
 id: 121251674
-type: way
+type: node
 latitude: 51.856
 longitude: 8.30571
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Gütersloher Straße"
-housenumber: 73
+street: Gütersloher Straße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

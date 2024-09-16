@@ -1,11 +1,11 @@
 id: 144585109
-type: way
+type: node
 latitude: 51.39523
 longitude: 6.30846
 postcode: "47669"
 city: Wachtendonk
-street: "Grefrather Straße"
-housenumber: 32
-phone: "+49 2836 971359"
+street: Grefrather Straße
+housenumber: "32"
+phone: +49 2836 971359
 opening_hours: ""
 website: ""

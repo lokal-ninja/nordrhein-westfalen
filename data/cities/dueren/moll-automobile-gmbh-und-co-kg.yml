@@ -1,11 +1,11 @@
 id: 467812522
-type: way
+type: node
 latitude: 50.78058
 longitude: 6.51016
 postcode: "52351"
 city: Düren
-street: "Rudolf-Diesel-Straße"
-housenumber: 9
+street: Rudolf-Diesel-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.moll-automobile.de/"
+website: https://www.moll-automobile.de/

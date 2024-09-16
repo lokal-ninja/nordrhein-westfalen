@@ -4,8 +4,8 @@ latitude: 51.22694
 longitude: 6.80925
 postcode: "40233"
 city: Düsseldorf
-street: "Birkenstraße"
-housenumber: 129
+street: Birkenstraße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo,We,Th 08:00-20:00; Tu,Fr 9:00-21:30;Sa 8:00-21:30;Su, PH off"
-website: "https://www.naturburschen-flingern.de/"
+opening_hours: Mo,We,Th 08:00-20:00; Tu,Fr 9:00-21:30;Sa 8:00-21:30;Su, PH off
+website: https://www.naturburschen-flingern.de/

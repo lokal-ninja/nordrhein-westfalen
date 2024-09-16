@@ -4,8 +4,9 @@ latitude: 51.29806
 longitude: 6.85629
 postcode: "40878"
 city: Ratingen
-street: "Bahnstraße"
-housenumber: 19
-phone: "+49 2102 26161"
-opening_hours: "Mo, Th, Su off; Tu 09:00-17:00; We 09:00-17:00; Fr 09:00-17:00; Sa 08:00-13:00"
+street: Bahnstraße
+housenumber: "19"
+phone: +49 2102 26161
+opening_hours: Mo, Th, Su off; Tu 09:00-17:00; We 09:00-17:00; Fr 09:00-17:00; Sa
+    08:00-13:00
 website: ""

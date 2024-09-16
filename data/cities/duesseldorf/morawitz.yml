@@ -4,8 +4,8 @@ latitude: 51.22448
 longitude: 6.7741
 postcode: "40213"
 city: Düsseldorf
-street: "Mittelstraße"
-housenumber: 13
+street: Mittelstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:30,14:30-18:30; Sa 10:00-18:00"
-website: "https://www.juwelier-morawitz.de/"
+opening_hours: Tu-Fr 10:00-13:30,14:30-18:30; Sa 10:00-18:00
+website: https://www.juwelier-morawitz.de/

@@ -1,11 +1,11 @@
 id: 54507660
-type: way
+type: node
 latitude: 51.79707
 longitude: 7.74095
 postcode: "48317"
 city: Drensteinfurt
-street: "Wagenfeldstraße"
-housenumber: 8
-phone: "+49 2508 984206"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-14:00; Su,PH off"
-website: "https://www.reisecenter-drensteinfurt.de/"
+street: Wagenfeldstraße
+housenumber: "8"
+phone: +49 2508 984206
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-14:00; Su,PH off
+website: https://www.reisecenter-drensteinfurt.de/

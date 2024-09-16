@@ -1,11 +1,11 @@
 id: 146450642
-type: way
+type: node
 latitude: 51.41751
 longitude: 6.79099
 postcode: "47057"
 city: Duisburg
-street: "Mozartstraße"
-housenumber: 17
+street: Mozartstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

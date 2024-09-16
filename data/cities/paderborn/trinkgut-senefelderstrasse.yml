@@ -1,11 +1,11 @@
 id: 256371563
-type: way
+type: node
 latitude: 51.73378
 longitude: 8.78866
 postcode: "33100"
 city: Paderborn
-street: "Senefelderstraße"
+street: Senefelderstraße
 housenumber: 12b
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.trinkgut.de/markt/ayyildiz"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.trinkgut.de/markt/ayyildiz

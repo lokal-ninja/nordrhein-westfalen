@@ -1,11 +1,11 @@
 id: 256182007
-type: way
+type: node
 latitude: 50.83179
 longitude: 7.32508
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Mittelstraße"
-housenumber: 6
-phone: "+49 22547 2395"
+street: Mittelstraße
+housenumber: "6"
+phone: +49 22547 2395
 opening_hours: ""
-website: "https://www.koehler-zaeune.de/"
+website: https://www.koehler-zaeune.de/

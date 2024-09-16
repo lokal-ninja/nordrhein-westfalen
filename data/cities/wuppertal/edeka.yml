@@ -1,11 +1,11 @@
 id: 187167390
-type: way
+type: node
 latitude: 51.26843
 longitude: 7.20888
 postcode: "42289"
 city: Wuppertal
-street: "Albertstraße"
-housenumber: 46
+street: Albertstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://edeka-billstein.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://edeka-billstein.de

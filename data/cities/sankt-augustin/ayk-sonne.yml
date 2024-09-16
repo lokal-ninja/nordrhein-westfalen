@@ -4,8 +4,8 @@ latitude: 50.78031
 longitude: 7.18955
 postcode: "53757"
 city: Sankt Augustin
-street: "Südstraße"
-housenumber: 27
+street: Südstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:30-21:30; Sa 08:30-19:30; Su 10:00-19:00"
-website: "https://www.ayk.de/"
+opening_hours: Mo-Fr 08:30-21:30; Sa 08:30-19:30; Su 10:00-19:00
+website: https://www.ayk.de/

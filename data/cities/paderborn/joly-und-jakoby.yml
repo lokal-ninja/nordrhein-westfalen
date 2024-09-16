@@ -4,8 +4,8 @@ latitude: 51.71667
 longitude: 8.75474
 postcode: "33098"
 city: Paderborn
-street: "Kamp"
-housenumber: 11
+street: Kamp
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 10:00-16:00; Su off; Mo off"
-website: "http://www.optikerduo.de"
+opening_hours: Tu-Fr 09:00-18:30; Sa 10:00-16:00; Su off; Mo off
+website: http://www.optikerduo.de

@@ -1,11 +1,11 @@
 id: 468418579
-type: way
+type: node
 latitude: 51.50695
 longitude: 7.52725
 postcode: "44143"
 city: Dortmund
-street: "Ludwig-Lohner-Straße"
-housenumber: 9
+street: Ludwig-Lohner-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

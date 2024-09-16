@@ -1,11 +1,11 @@
 id: 25485531
-type: way
+type: node
 latitude: 51.48657
 longitude: 6.86009
 postcode: "46049"
 city: Oberhausen
-street: "Max-Planck-Ring"
-housenumber: 64
+street: Max-Planck-Ring
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.fritz-berger.de/filiale/oberhausen/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.fritz-berger.de/filiale/oberhausen/

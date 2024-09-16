@@ -1,11 +1,11 @@
 id: 261942806
-type: way
+type: node
 latitude: 50.91046
 longitude: 6.9688
 postcode: "50968"
 city: Köln
-street: "Goltsteinstraße"
-housenumber: 60
-phone: "+49 221 9404700"
-opening_hours: "Tu-Fr 11:00-18:30||Sa 11:00-14:00"
-website: "http://www.zeitlos-e-mode.de/"
+street: Goltsteinstraße
+housenumber: "60"
+phone: +49 221 9404700
+opening_hours: Tu-Fr 11:00-18:30||Sa 11:00-14:00
+website: http://www.zeitlos-e-mode.de/

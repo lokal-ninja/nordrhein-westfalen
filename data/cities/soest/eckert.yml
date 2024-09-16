@@ -1,11 +1,11 @@
 id: 367380247
-type: way
+type: node
 latitude: 51.57803
 longitude: 8.10465
 postcode: "59494"
 city: Soest
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-20:00; Sa 07:00-20:00; Su 08:00-20:00"
+opening_hours: Mo-Fr 05:30-20:00; Sa 07:00-20:00; Su 08:00-20:00
 website: ""

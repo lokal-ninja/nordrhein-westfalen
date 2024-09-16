@@ -1,11 +1,11 @@
 id: 156817446
-type: way
+type: node
 latitude: 50.98997
 longitude: 6.89395
 postcode: "50829"
 city: Köln
-street: "Von-Hünefeld-Straße"
-housenumber: 100
-phone: "+49 221 59830"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.selgros.de/markt/koeln"
+street: Von-Hünefeld-Straße
+housenumber: "100"
+phone: +49 221 59830
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.selgros.de/markt/koeln

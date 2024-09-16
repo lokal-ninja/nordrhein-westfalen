@@ -1,11 +1,11 @@
 id: 608702747
-type: way
+type: node
 latitude: 51.43159
 longitude: 6.76905
 postcode: "47051"
 city: Duisburg
-street: "Königstraße"
-housenumber: 48
+street: Königstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

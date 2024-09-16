@@ -1,11 +1,11 @@
 id: 100890151
-type: way
+type: node
 latitude: 51.12753
 longitude: 6.96117
 postcode: "40764"
 city: Langenfeld (Rheinland)
-street: "Winkelsweg"
-housenumber: 121
-phone: "+49 2173 22020"
+street: Winkelsweg
+housenumber: "121"
+phone: +49 2173 22020
 opening_hours: ""
-website: "https://autoglas-pauen.de/"
+website: https://autoglas-pauen.de/

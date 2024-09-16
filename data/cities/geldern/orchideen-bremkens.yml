@@ -4,8 +4,8 @@ latitude: 51.50557
 longitude: 6.2712
 postcode: "47608"
 city: Geldern
-street: "Walbecker Straße"
-housenumber: 119
-phone: "+49 2831 133430"
-opening_hours: "fr: 9.00 - 18.00, sa 9.00 - 13.00 Uhr"
-website: "https://www.bremkens-orchids.de"
+street: Walbecker Straße
+housenumber: "119"
+phone: +49 2831 133430
+opening_hours: 'fr: 9.00 - 18.00, sa 9.00 - 13.00 Uhr'
+website: https://www.bremkens-orchids.de

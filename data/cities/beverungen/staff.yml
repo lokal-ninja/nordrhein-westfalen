@@ -4,8 +4,8 @@ latitude: 51.6423
 longitude: 9.41829
 postcode: "37688"
 city: Beverungen
-street: "Rothestraße"
-housenumber: 2
+street: Rothestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:00-17:30; Sa 08:00-13:00; Mo,PH off"
-website: "http://www.staff-ihr-friseur.de"
+opening_hours: Tu-Fr 08:00-17:30; Sa 08:00-13:00; Mo,PH off
+website: http://www.staff-ihr-friseur.de

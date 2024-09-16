@@ -1,11 +1,11 @@
 id: 29452054
-type: way
+type: node
 latitude: 51.53006
 longitude: 6.74111
 postcode: "47179"
 city: Duisburg
-street: "Friedrich-Ebert-Straße"
-housenumber: 243
+street: Friedrich-Ebert-Straße
+housenumber: "243"
 phone: ""
 opening_hours: ""
 website: ""

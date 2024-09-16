@@ -1,11 +1,11 @@
 id: 120471662
-type: way
+type: node
 latitude: 50.77594
 longitude: 7.27706
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Gartenstraße"
-housenumber: 10
+street: Gartenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://kunstwerk7.wixsite.com/kunst-werk"
+website: https://kunstwerk7.wixsite.com/kunst-werk

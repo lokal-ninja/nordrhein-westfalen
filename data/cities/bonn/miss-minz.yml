@@ -4,8 +4,8 @@ latitude: 50.74008
 longitude: 7.11368
 postcode: "53225"
 city: Bonn
-street: "Rheinaustraße"
-housenumber: 101
-phone: "+49 228 53880454"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 08:30-20:00, Su 10:30-20:00"
+street: Rheinaustraße
+housenumber: "101"
+phone: +49 228 53880454
+opening_hours: Mo-Fr 07:00-20:00, Sa 08:30-20:00, Su 10:30-20:00
 website: ""

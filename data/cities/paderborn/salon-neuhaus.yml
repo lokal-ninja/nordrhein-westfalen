@@ -4,8 +4,8 @@ latitude: 51.74683
 longitude: 8.71471
 postcode: "33104"
 city: Paderborn
-street: "Bielefelder Straße"
-housenumber: 10
-phone: "+49 5254 6604888"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-17:00"
+street: Bielefelder Straße
+housenumber: "10"
+phone: +49 5254 6604888
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-17:00
 website: ""

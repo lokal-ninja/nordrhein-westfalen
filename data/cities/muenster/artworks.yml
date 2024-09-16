@@ -4,8 +4,8 @@ latitude: 51.96403
 longitude: 7.62572
 postcode: ""
 city: Münster
-street: "Spiekerhof"
-housenumber: 6
-phone: "+49 251 42002"
+street: Spiekerhof
+housenumber: "6"
+phone: +49 251 42002
 opening_hours: ""
-website: "http://www.artworks-muenster.de/"
+website: http://www.artworks-muenster.de/

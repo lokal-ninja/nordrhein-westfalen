@@ -1,11 +1,11 @@
 id: 79140424
-type: way
+type: node
 latitude: 50.77566
 longitude: 6.08437
 postcode: "52062"
 city: Aachen
-street: "Krämerstraße"
-housenumber: 9
-phone: "+49 241 160 35 595"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.loccitane.com/"
+street: Krämerstraße
+housenumber: "9"
+phone: +49 241 160 35 595
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.loccitane.com/

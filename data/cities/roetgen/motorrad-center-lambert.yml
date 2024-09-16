@@ -1,11 +1,11 @@
 id: 622478536
-type: way
+type: node
 latitude: 50.63722
 longitude: 6.20246
 postcode: "52159"
 city: Roetgen
-street: "Bundesstraße"
+street: Bundesstraße
 housenumber: 124 A
-phone: "+49 2471 1358656"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
-website: "https://mcl-roetgen.de/"
+phone: +49 2471 1358656
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-14:00
+website: https://mcl-roetgen.de/

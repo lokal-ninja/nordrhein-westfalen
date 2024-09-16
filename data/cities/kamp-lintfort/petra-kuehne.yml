@@ -4,8 +4,8 @@ latitude: 51.52553
 longitude: 6.52293
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Xantener Straße"
-housenumber: 63
-phone: "+49 2842 41987"
-opening_hours: "Mo,We-Fr 09:00-12:00,15:00-18:30; Tu 15:00-18:30; Sa 09:00-14:00"
-website: "https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=50"
+street: Xantener Straße
+housenumber: "63"
+phone: +49 2842 41987
+opening_hours: Mo,We-Fr 09:00-12:00,15:00-18:30; Tu 15:00-18:30; Sa 09:00-14:00
+website: https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=50

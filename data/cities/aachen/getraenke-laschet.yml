@@ -1,11 +1,11 @@
 id: 115914090
-type: way
+type: node
 latitude: 50.731
 longitude: 6.17441
 postcode: "52076"
 city: Aachen
-street: "Münsterstraße"
-housenumber: 26
+street: Münsterstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

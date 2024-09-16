@@ -4,8 +4,8 @@ latitude: 51.97221
 longitude: 7.63532
 postcode: "48147"
 city: Münster
-street: "Gartenstraße"
-housenumber: 83
-phone: "+49 251 3995099"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.wiewel.eu"
+street: Gartenstraße
+housenumber: "83"
+phone: +49 251 3995099
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.wiewel.eu

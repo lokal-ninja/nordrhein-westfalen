@@ -1,11 +1,11 @@
 id: 143385476
-type: way
+type: node
 latitude: 50.7732
 longitude: 7.3011
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Emil-Langen-Straße"
-housenumber: 2
+street: Emil-Langen-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

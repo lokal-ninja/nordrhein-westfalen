@@ -4,8 +4,8 @@ latitude: 51.22939
 longitude: 6.62373
 postcode: "41564"
 city: Kaarst
-street: "Grünstraße"
-housenumber: 17
-phone: "+49 2131 764949"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-14:00"
-website: "https://www.euronics.de/kaarst-luettkopf/"
+street: Grünstraße
+housenumber: "17"
+phone: +49 2131 764949
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-14:00
+website: https://www.euronics.de/kaarst-luettkopf/

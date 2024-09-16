@@ -1,11 +1,11 @@
 id: 89181348
-type: way
+type: node
 latitude: 52.32532
 longitude: 8.62336
 postcode: "32312"
 city: Lübbecke
-street: "Zeiss-Straße"
-housenumber: 1
+street: Zeiss-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.jawoll.de/filialsuche/jawoll-filiale-luebbecke.html"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.jawoll.de/filialsuche/jawoll-filiale-luebbecke.html

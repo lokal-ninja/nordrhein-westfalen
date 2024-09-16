@@ -4,8 +4,8 @@ latitude: 50.94223
 longitude: 6.54321
 postcode: "50189"
 city: Elsdorf
-street: "Laurentiusstraße"
-housenumber: 7
+street: Laurentiusstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Th 14:00-20:00; PH off"
+opening_hours: Tu-Fr 09:00-18:00; Th 14:00-20:00; PH off
 website: ""

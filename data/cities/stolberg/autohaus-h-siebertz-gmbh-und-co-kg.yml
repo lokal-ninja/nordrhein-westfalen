@@ -1,11 +1,11 @@
 id: 117858315
-type: way
+type: node
 latitude: 50.75883
 longitude: 6.21519
 postcode: "52223"
 city: Stolberg
-street: "Aachener Straße"
-housenumber: 120
+street: Aachener Straße
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

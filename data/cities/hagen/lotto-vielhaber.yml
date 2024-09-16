@@ -4,8 +4,8 @@ latitude: 51.35904
 longitude: 7.47346
 postcode: "58095"
 city: Hagen
-street: "Badstraße"
-housenumber: 4
-phone: "+49 2331 26286"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
-website: "https://www.lotto-tabak-vielhaber.de/"
+street: Badstraße
+housenumber: "4"
+phone: +49 2331 26286
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00
+website: https://www.lotto-tabak-vielhaber.de/

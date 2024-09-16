@@ -1,11 +1,11 @@
 id: 346974932
-type: way
+type: node
 latitude: 50.9537
 longitude: 6.9313
 postcode: "50823"
 city: Köln
-street: "Herkulesstraße"
-housenumber: 89
+street: Herkulesstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

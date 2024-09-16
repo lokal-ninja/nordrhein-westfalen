@@ -1,11 +1,11 @@
 id: 156413609
-type: way
+type: node
 latitude: 50.97362
 longitude: 7.06483
 postcode: "51069"
 city: Köln
-street: "Auf der Jüchen"
-housenumber: 14
+street: Auf der Jüchen
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-20:00
 website: ""

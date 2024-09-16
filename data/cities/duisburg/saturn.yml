@@ -1,11 +1,11 @@
 id: 609276240
-type: way
+type: node
 latitude: 51.4319
 longitude: 6.76786
 postcode: "47051"
 city: Duisburg
-street: "Königstraße"
-housenumber: 48
+street: Königstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/duisburg-379"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/duisburg-379

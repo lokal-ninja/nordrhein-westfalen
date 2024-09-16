@@ -4,8 +4,8 @@ latitude: 50.86986
 longitude: 7.04636
 postcode: "51143"
 city: Köln
-street: "Hauptstraße"
-housenumber: 184
-phone: "+49 2203 83646"
-opening_hours: "Freitag und Samstag nur nach Termin"
+street: Hauptstraße
+housenumber: "184"
+phone: +49 2203 83646
+opening_hours: '"Freitag und Samstag nur nach Termin"'
 website: ""

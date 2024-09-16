@@ -4,8 +4,8 @@ latitude: 50.7346
 longitude: 7.10324
 postcode: "53113"
 city: Bonn
-street: "Stockenstraße"
-housenumber: 6
+street: Stockenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 10:00-16:00"
-website: "https://www.kann-heyne.de/"
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 10:00-16:00
+website: https://www.kann-heyne.de/

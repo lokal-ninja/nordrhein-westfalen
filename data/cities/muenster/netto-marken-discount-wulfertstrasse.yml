@@ -1,11 +1,11 @@
 id: 248681962
-type: way
+type: node
 latitude: 51.95341
 longitude: 7.53467
 postcode: "48161"
 city: Münster
-street: "Wulfertstraße"
-housenumber: 60
+street: Wulfertstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

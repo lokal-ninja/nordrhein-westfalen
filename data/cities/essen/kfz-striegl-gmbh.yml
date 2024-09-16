@@ -4,8 +4,8 @@ latitude: 51.35089
 longitude: 6.9295
 postcode: "45219"
 city: Essen
-street: "Heiligenhauser Straße"
-housenumber: 69
+street: Heiligenhauser Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Th 08:30-17:30; Fr 08:30-16:00; PH Sa-Su off"
-website: "https://www.striegl.de"
+opening_hours: Mo-Th 08:30-17:30; Fr 08:30-16:00; PH Sa-Su off
+website: https://www.striegl.de

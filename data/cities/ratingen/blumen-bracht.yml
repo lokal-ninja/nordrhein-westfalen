@@ -4,8 +4,9 @@ latitude: 51.29438
 longitude: 6.87556
 postcode: "40882"
 city: Ratingen
-street: "Homberger Straße"
-housenumber: 44
-phone: "+49 2102 8754646"
-opening_hours: "Mo off; Tu,Th,Fr 09:30-18:30; We 09:30-13:00; Sa 09:30-14:00, Su,PH 10:00-13:00"
-website: "https://www.blumen-bracht.de"
+street: Homberger Straße
+housenumber: "44"
+phone: +49 2102 8754646
+opening_hours: Mo off; Tu,Th,Fr 09:30-18:30; We 09:30-13:00; Sa 09:30-14:00, Su,PH
+    10:00-13:00
+website: https://www.blumen-bracht.de

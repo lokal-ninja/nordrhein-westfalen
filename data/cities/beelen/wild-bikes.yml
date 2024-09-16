@@ -1,11 +1,11 @@
 id: 301722117
-type: way
+type: node
 latitude: 51.92776
 longitude: 8.11687
 postcode: "48361"
 city: Beelen
-street: "Ostenfelder Straße"
-housenumber: 13
+street: Ostenfelder Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

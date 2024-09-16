@@ -1,11 +1,11 @@
 id: 314933863
-type: way
+type: node
 latitude: 51.21259
 longitude: 7.64525
 postcode: "58511"
 city: Lüdenscheid
-street: "Bräuckenstraße"
-housenumber: 11
+street: Bräuckenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
+opening_hours: Mo-Sa 09:00-20:00; Su off
 website: ""

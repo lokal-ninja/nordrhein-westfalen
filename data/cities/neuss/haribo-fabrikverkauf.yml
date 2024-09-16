@@ -1,11 +1,11 @@
 id: 276199057
-type: way
+type: node
 latitude: 51.18482
 longitude: 6.68033
 postcode: "41464"
 city: Neuss
-street: "Ruwerstraße"
-housenumber: 6
-phone: "+49 2131 4021152"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "http://www2.haribo.com/deDE/shops/fabrikverkauf/neuss.html"
+street: Ruwerstraße
+housenumber: "6"
+phone: +49 2131 4021152
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: http://www2.haribo.com/deDE/shops/fabrikverkauf/neuss.html

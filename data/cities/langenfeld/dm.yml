@@ -4,8 +4,8 @@ latitude: 51.11009
 longitude: 6.95052
 postcode: "40764"
 city: Langenfeld
-street: "Solinger Straße"
-housenumber: 5
+street: Solinger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.dm.de"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.dm.de

@@ -4,8 +4,9 @@ latitude: 52.26081
 longitude: 8.89511
 postcode: "32457"
 city: Porta Westfalica
-street: "Flurweg"
-housenumber: 13
-phone: "+49 571 7989971"
-opening_hours: "Mo, Tu, Th 08:00-13:00, 14:00-18:00; We 08:00-13:00, 13:30-16:00; Fr 08:00-13:30"
-website: "https://standorte.geers.de/porta-westfalica/flurweg-13.html"
+street: Flurweg
+housenumber: "13"
+phone: +49 571 7989971
+opening_hours: Mo, Tu, Th 08:00-13:00, 14:00-18:00; We 08:00-13:00, 13:30-16:00; Fr
+    08:00-13:30
+website: https://standorte.geers.de/porta-westfalica/flurweg-13.html

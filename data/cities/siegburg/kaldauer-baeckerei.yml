@@ -4,8 +4,8 @@ latitude: 50.80008
 longitude: 7.26444
 postcode: "53721"
 city: Siegburg
-street: "Hauptstraße"
-housenumber: 105
+street: Hauptstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://kaldauer-backerei.business.site/#details"
+website: https://kaldauer-backerei.business.site/#details

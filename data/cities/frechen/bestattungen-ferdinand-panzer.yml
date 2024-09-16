@@ -4,8 +4,8 @@ latitude: 50.90922
 longitude: 6.80499
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 154
-phone: "+49 2234 - 52477"
+street: Hauptstraße
+housenumber: "154"
+phone: +49 2234 - 52477
 opening_hours: ""
-website: "https://www.ferdinand-panzer.de"
+website: https://www.ferdinand-panzer.de

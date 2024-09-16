@@ -4,8 +4,8 @@ latitude: 50.77427
 longitude: 6.08516
 postcode: "52062"
 city: Aachen
-street: "Hartmannstraße"
-housenumber: 6
-phone: "+49 241 37675"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00; Mo off"
-website: "https://www.galerie-am-elisengarten.de/"
+street: Hartmannstraße
+housenumber: "6"
+phone: +49 241 37675
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00; Mo off
+website: https://www.galerie-am-elisengarten.de/

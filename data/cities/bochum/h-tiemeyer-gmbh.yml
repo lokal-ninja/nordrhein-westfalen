@@ -1,11 +1,11 @@
 id: 658915623
-type: way
+type: node
 latitude: 51.47034
 longitude: 7.29539
 postcode: "44892"
 city: Bochum
-street: "Ümminger Straße"
-housenumber: 84
+street: Ümminger Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 09:00-13:00"
-website: "https://www.tiemeyer.de/de/tiemeyer-automobile-bochum.htm"
+opening_hours: Mo-Fr 07:00-17:30; Sa 09:00-13:00
+website: https://www.tiemeyer.de/de/tiemeyer-automobile-bochum.htm

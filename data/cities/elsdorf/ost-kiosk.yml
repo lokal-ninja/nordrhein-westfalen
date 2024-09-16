@@ -1,11 +1,11 @@
 id: 410102517
-type: way
+type: node
 latitude: 50.94053
 longitude: 6.57946
 postcode: "50189"
 city: Elsdorf
-street: "Oststraße"
-housenumber: 15
+street: Oststraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

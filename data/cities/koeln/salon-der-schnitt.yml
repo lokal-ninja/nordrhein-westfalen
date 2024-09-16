@@ -1,11 +1,11 @@
 id: 318745965
-type: way
+type: node
 latitude: 50.9656
 longitude: 6.97773
 postcode: "50735"
 city: Köln
-street: "Hittorfstraße"
-housenumber: 8
-phone: "+49 221-760 93 93"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-13:00"
-website: "http://www.salon-der-schnitt.com/"
+street: Hittorfstraße
+housenumber: "8"
+phone: +49 221-760 93 93
+opening_hours: Tu,Th,Fr 09:00-18:00; We 09:00-13:00
+website: http://www.salon-der-schnitt.com/

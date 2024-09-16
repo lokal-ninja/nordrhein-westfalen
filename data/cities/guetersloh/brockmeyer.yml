@@ -4,8 +4,8 @@ latitude: 51.90907
 longitude: 8.39236
 postcode: "33332"
 city: Gütersloh
-street: "Holzstraße"
-housenumber: 43
+street: Holzstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su 11:00-16:00"
-website: "https://www.brockmeyer.de/"
+opening_hours: Mo-Sa 09:00-19:00; PH,Su 11:00-16:00
+website: https://www.brockmeyer.de/

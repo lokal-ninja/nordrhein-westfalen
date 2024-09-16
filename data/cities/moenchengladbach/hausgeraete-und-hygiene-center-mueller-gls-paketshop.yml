@@ -4,8 +4,8 @@ latitude: 51.19806
 longitude: 6.41184
 postcode: "41068"
 city: Mönchengladbach
-street: "Roermonder Straße"
-housenumber: 102
-phone: "+49 2161 833105"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://hcm-mg.de"
+street: Roermonder Straße
+housenumber: "102"
+phone: +49 2161 833105
+opening_hours: Mo-Fr 08:00-17:00
+website: https://hcm-mg.de

@@ -4,8 +4,8 @@ latitude: 51.49373
 longitude: 7.2127
 postcode: "44809"
 city: Bochum
-street: "Herner Straße"
-housenumber: 131
+street: Herner Straße
+housenumber: "131"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.45703
 longitude: 6.37235
 postcode: "47647"
 city: Kerken
-street: "Krefelder Straße"
-housenumber: 17
-phone: "+49 2833 2910"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00"
+street: Krefelder Straße
+housenumber: "17"
+phone: +49 2833 2910
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00
 website: ""

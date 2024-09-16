@@ -1,11 +1,11 @@
 id: 218752940
-type: way
+type: node
 latitude: 51.38086
 longitude: 8.42351
 postcode: "59909"
 city: Bestwig
-street: "Am Roh"
-housenumber: 14
-phone: "+49 2904 70770"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "http://baumschule-meschede.de/"
+street: Am Roh
+housenumber: "14"
+phone: +49 2904 70770
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: http://baumschule-meschede.de/

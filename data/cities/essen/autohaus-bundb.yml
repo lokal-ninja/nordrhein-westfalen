@@ -1,11 +1,11 @@
 id: 616316497
-type: way
+type: node
 latitude: 51.45179
 longitude: 7.00712
 postcode: "45127"
 city: Essen
-street: "Hachestraße"
-housenumber: 40
-phone: "+49 201 827510"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"
+street: Hachestraße
+housenumber: "40"
+phone: +49 201 827510
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-14:00
 website: ""

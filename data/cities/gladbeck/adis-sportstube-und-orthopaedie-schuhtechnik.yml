@@ -1,11 +1,11 @@
 id: 295320731
-type: way
+type: node
 latitude: 51.57083
 longitude: 6.99341
 postcode: "45964"
 city: Gladbeck
-street: "Horster Straße"
-housenumber: 42
-phone: "+49 2043 63020"
-opening_hours: "Mo-Fr 10:00-13:30,15:00-18:30, Sa 10:00-14:00"
-website: "https://www.adis-sportstube.de/"
+street: Horster Straße
+housenumber: "42"
+phone: +49 2043 63020
+opening_hours: Mo-Fr 10:00-13:30,15:00-18:30, Sa 10:00-14:00
+website: https://www.adis-sportstube.de/

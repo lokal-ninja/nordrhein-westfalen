@@ -1,11 +1,11 @@
 id: 300938883
-type: way
+type: node
 latitude: 51.43298
 longitude: 6.92509
 postcode: "45472"
 city: Mülheim an der Ruhr
-street: "Paul-Kosmalla-Straße"
-housenumber: 4
+street: Paul-Kosmalla-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

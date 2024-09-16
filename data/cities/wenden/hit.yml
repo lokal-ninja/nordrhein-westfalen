@@ -4,8 +4,8 @@ latitude: 50.97131
 longitude: 7.87288
 postcode: "57482"
 city: Wenden
-street: "Peter-Dassis-Ring"
-housenumber: 2
+street: Peter-Dassis-Ring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-21:00"
-website: "https://www.hit.de/"
+opening_hours: Mo-We 08:00-20:00; Th-Sa 08:00-21:00
+website: https://www.hit.de/

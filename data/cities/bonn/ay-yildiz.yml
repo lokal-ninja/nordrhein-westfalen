@@ -4,8 +4,8 @@ latitude: 50.74331
 longitude: 7.09067
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 193
+street: Kölnstraße
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ayyildiz.de/shops"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ayyildiz.de/shops

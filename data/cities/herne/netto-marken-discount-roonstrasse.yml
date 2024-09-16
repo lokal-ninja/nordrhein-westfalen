@@ -1,11 +1,11 @@
 id: 125748495
-type: way
+type: node
 latitude: 51.55174
 longitude: 7.22762
 postcode: "44628"
 city: Herne
-street: "Roonstraße"
-housenumber: 63
+street: Roonstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

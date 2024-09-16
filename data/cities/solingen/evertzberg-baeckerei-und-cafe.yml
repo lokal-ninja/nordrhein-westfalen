@@ -1,11 +1,11 @@
 id: 313691411
-type: way
+type: node
 latitude: 51.13982
 longitude: 7.01315
 postcode: "42699"
 city: Solingen
-street: "Aufderhöher Straße"
-housenumber: 147
+street: Aufderhöher Straße
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

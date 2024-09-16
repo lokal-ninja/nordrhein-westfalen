@@ -1,11 +1,11 @@
 id: 28459529
-type: way
+type: node
 latitude: 51.58539
 longitude: 7.03418
 postcode: "45894"
 city: Gelsenkirchen
-street: "Buschgrundstraße"
-housenumber: 29
+street: Buschgrundstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

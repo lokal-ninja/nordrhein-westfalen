@@ -4,8 +4,8 @@ latitude: 52.08778
 longitude: 8.27218
 postcode: "33829"
 city: Borgholzhausen
-street: "Nienkamp"
-housenumber: 1
+street: Nienkamp
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.mobidee.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.mobidee.de/

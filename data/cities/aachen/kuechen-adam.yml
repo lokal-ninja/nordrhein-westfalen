@@ -1,11 +1,11 @@
 id: 108223868
-type: way
+type: node
 latitude: 50.76612
 longitude: 6.14649
 postcode: "52078"
 city: Aachen
-street: "Neuenhofstraße"
-housenumber: 140
+street: Neuenhofstraße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off"
-website: "https://www.kuechenwelten-adam.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off
+website: https://www.kuechenwelten-adam.de/

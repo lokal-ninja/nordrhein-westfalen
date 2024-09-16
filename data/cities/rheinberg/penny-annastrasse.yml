@@ -1,11 +1,11 @@
 id: 326947963
-type: way
+type: node
 latitude: 51.5485
 longitude: 6.58678
 postcode: "47495"
 city: Rheinberg
-street: "Annastraße"
-housenumber: 65
+street: Annastraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

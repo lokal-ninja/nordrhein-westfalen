@@ -1,11 +1,11 @@
 id: 301671014
-type: way
+type: node
 latitude: 51.5052
 longitude: 7.62277
 postcode: "59439"
 city: Holzwickede
-street: "Bahnhofstraße"
-housenumber: 37
+street: Bahnhofstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

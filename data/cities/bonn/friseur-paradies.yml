@@ -4,8 +4,8 @@ latitude: 50.75037
 longitude: 7.04591
 postcode: "53119"
 city: Bonn
-street: "Oppelner Straße"
-housenumber: 128
-phone: "+49 228 28032222"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Oppelner Straße
+housenumber: "128"
+phone: +49 228 28032222
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.92493
 longitude: 7.84836
 postcode: "48351"
 city: Everswinkel
-street: "Bergstraße"
-housenumber: 6
+street: Bergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:00"
-website: "https://www.hosselmann.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-11:00
+website: https://www.hosselmann.de/

@@ -1,11 +1,11 @@
 id: 89370753
-type: way
+type: node
 latitude: 51.16247
 longitude: 6.87913
 postcode: "40597"
 city: Düsseldorf
-street: "Hildener Straße"
-housenumber: 41
+street: Hildener Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

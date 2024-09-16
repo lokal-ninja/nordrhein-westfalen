@@ -1,11 +1,11 @@
 id: 83474213
-type: way
+type: node
 latitude: 50.65473
 longitude: 7.196
 postcode: "53179"
 city: Bonn
-street: "Mainzer Straße"
-housenumber: 278
-phone: "+49 228 34355"
+street: Mainzer Straße
+housenumber: "278"
+phone: +49 228 34355
 opening_hours: ""
 website: ""

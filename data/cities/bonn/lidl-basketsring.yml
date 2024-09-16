@@ -1,11 +1,11 @@
 id: 32568783
-type: way
+type: node
 latitude: 50.70637
 longitude: 7.05822
 postcode: "53123"
 city: Bonn
-street: "Basketsring"
-housenumber: 7
+street: Basketsring
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://www.lidl.de/

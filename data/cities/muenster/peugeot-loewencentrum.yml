@@ -1,11 +1,11 @@
 id: 242987565
-type: way
+type: node
 latitude: 51.88998
 longitude: 7.57953
 postcode: "48163"
 city: Münster
-street: "Kölner Straße"
-housenumber: 1
+street: Kölner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

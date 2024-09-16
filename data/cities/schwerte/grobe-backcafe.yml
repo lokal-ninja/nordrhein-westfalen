@@ -4,8 +4,8 @@ latitude: 51.42564
 longitude: 7.53796
 postcode: "58239"
 city: Schwerte
-street: "Reichshofstraße"
-housenumber: 9
-phone: "+49 2304 9688301"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:30-17:00"
-website: "https://www.baeckerei-grobe.de"
+street: Reichshofstraße
+housenumber: "9"
+phone: +49 2304 9688301
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:30-17:00
+website: https://www.baeckerei-grobe.de

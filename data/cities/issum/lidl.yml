@@ -1,11 +1,11 @@
 id: 111299512
-type: way
+type: node
 latitude: 51.53523
 longitude: 6.43183
 postcode: "47661"
 city: Issum
-street: "Vogt-von-Belle-Platz"
-housenumber: 15
+street: Vogt-von-Belle-Platz
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/f/issum/vogt-von-belle-platz-15.html"
+website: https://www.lidl.de/f/issum/vogt-von-belle-platz-15.html

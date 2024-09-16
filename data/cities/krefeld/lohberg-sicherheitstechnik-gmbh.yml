@@ -4,8 +4,8 @@ latitude: 51.33368
 longitude: 6.56066
 postcode: "47798"
 city: Krefeld
-street: "Sankt-Anton-Straße"
-housenumber: 63
-phone: "+49 2151 23326"
+street: Sankt-Anton-Straße
+housenumber: "63"
+phone: +49 2151 23326
 opening_hours: ""
-website: "https://lohberg-krefeld.de/"
+website: https://lohberg-krefeld.de/

@@ -1,11 +1,11 @@
 id: 321327731
-type: way
+type: node
 latitude: 51.53913
 longitude: 7.41517
 postcode: "44369"
 city: Dortmund
-street: "Rohwedderstraße"
-housenumber: 14
+street: Rohwedderstraße
+housenumber: "14"
 phone: "+492313962513450"
 opening_hours: ""
-website: "https://www.wm.de/"
+website: https://www.wm.de/

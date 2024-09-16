@@ -1,11 +1,11 @@
 id: 45656663
-type: way
+type: node
 latitude: 52.20296
 longitude: 8.58051
 postcode: "32257"
 city: Bünde
-street: "Wasserbreite"
-housenumber: 49
-phone: "+49 5223 1801555"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa 08:00-12:00; PH,Su off"
-website: "https://www.knoenerullmann.de"
+street: Wasserbreite
+housenumber: "49"
+phone: +49 5223 1801555
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa 08:00-12:00; PH,Su off
+website: https://www.knoenerullmann.de

@@ -4,8 +4,8 @@ latitude: 51.50235
 longitude: 7.45904
 postcode: "44139"
 city: Dortmund
-street: "Hohe Straße"
-housenumber: 84
-phone: "+49 231 9509 9229"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:00-15:00; Su,Mo,PH off"
-website: "https://barbierhk.de/"
+street: Hohe Straße
+housenumber: "84"
+phone: +49 231 9509 9229
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:00-15:00; Su,Mo,PH off
+website: https://barbierhk.de/

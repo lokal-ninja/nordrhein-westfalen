@@ -1,11 +1,11 @@
 id: 1097500160
-type: way
+type: node
 latitude: 51.57038
 longitude: 8.13098
 postcode: "59494"
 city: Soest
-street: "Riga-Ring"
-housenumber: 1
+street: Riga-Ring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

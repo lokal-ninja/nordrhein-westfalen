@@ -1,11 +1,11 @@
 id: 118925182
-type: way
+type: node
 latitude: 51.99117
 longitude: 6.91069
 postcode: "48703"
 city: Stadtlohn
-street: "Vredener Straße"
-housenumber: 44
+street: Vredener Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

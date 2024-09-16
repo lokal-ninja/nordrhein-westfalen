@@ -4,8 +4,8 @@ latitude: 51.71455
 longitude: 8.7523
 postcode: "33098"
 city: Paderborn
-street: "Kilianstraße"
-housenumber: 5
+street: Kilianstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-15:00; Mo 13:00-18:00"
-website: "https://lockerflockig-pb.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-15:00; Mo 13:00-18:00
+website: https://lockerflockig-pb.de/

@@ -4,8 +4,8 @@ latitude: 51.23746
 longitude: 6.77955
 postcode: "40477"
 city: Düsseldorf
-street: "Nordstraße"
-housenumber: 43
-phone: "+49 (0)211 - 493 1977"
-opening_hours: "Mo-Fr 06:15-18:30; Sa 07:00-14:00"
-website: "https://metzgerei-brosi.de/"
+street: Nordstraße
+housenumber: "43"
+phone: +49 (0)211 - 493 1977
+opening_hours: Mo-Fr 06:15-18:30; Sa 07:00-14:00
+website: https://metzgerei-brosi.de/

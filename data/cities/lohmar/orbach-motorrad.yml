@@ -4,8 +4,8 @@ latitude: 50.90901
 longitude: 7.26523
 postcode: "53797"
 city: Lohmar
-street: "Bergaggerstraße"
-housenumber: 3
-phone: "+49 2206 2662"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-14:00"
-website: "https://www.orbach-motorrad.de/"
+street: Bergaggerstraße
+housenumber: "3"
+phone: +49 2206 2662
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-14:00
+website: https://www.orbach-motorrad.de/

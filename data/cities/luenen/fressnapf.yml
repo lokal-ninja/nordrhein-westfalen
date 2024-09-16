@@ -1,11 +1,11 @@
 id: 382453870
-type: way
+type: node
 latitude: 51.59512
 longitude: 7.43238
 postcode: "44536"
 city: Lünen
-street: "Mengeder Straße"
-housenumber: 53
+street: Mengeder Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

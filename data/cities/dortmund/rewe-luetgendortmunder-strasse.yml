@@ -1,11 +1,11 @@
 id: 578561700
-type: way
+type: node
 latitude: 51.49825
 longitude: 7.33515
 postcode: "44388"
 city: Dortmund
-street: "Lütgendortmunder Straße"
-housenumber: 146
+street: Lütgendortmunder Straße
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.32281
 longitude: 7.34812
 postcode: "58285"
 city: Gevelsberg
-street: "Hagener Straße"
-housenumber: 54
-phone: "+49 2332 5521420"
-opening_hours: "Mo-Fr 08:00-18:00, Sa nach Vereinbarung; Su,PH off"
-website: "http://www.autoglas-gevelsberg.de/"
+street: Hagener Straße
+housenumber: "54"
+phone: +49 2332 5521420
+opening_hours: Mo-Fr 08:00-18:00, Sa "nach Vereinbarung"; Su,PH off
+website: http://www.autoglas-gevelsberg.de/

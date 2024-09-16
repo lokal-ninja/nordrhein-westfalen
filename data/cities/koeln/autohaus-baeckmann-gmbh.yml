@@ -1,11 +1,11 @@
 id: 291754052
-type: way
+type: node
 latitude: 50.97575
 longitude: 6.97467
 postcode: "50735"
 city: Köln
-street: "Boltensternstraße"
-housenumber: 128
-phone: "+49 221 97720211"
+street: Boltensternstraße
+housenumber: "128"
+phone: +49 221 97720211
 opening_hours: ""
-website: "https://www.autohaus-baeckmann.de/"
+website: https://www.autohaus-baeckmann.de/

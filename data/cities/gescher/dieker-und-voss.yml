@@ -4,8 +4,8 @@ latitude: 51.96088
 longitude: 6.98922
 postcode: "48712"
 city: Gescher
-street: "Porschestraße"
-housenumber: 2
+street: Porschestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://dieker-voss.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://dieker-voss.de/

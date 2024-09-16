@@ -1,11 +1,11 @@
 id: 146060890
-type: way
+type: node
 latitude: 51.62419
 longitude: 7.55913
 postcode: "44534"
 city: Lünen
-street: "Waldweg"
-housenumber: 3
+street: Waldweg
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.schulze-wethmar.de/"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.schulze-wethmar.de/

@@ -1,11 +1,11 @@
 id: 169656681
-type: way
+type: node
 latitude: 50.72695
 longitude: 7.37088
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Am Markt"
-housenumber: 5
+street: Am Markt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

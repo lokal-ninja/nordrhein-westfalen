@@ -4,8 +4,8 @@ latitude: 50.8838
 longitude: 7.05778
 postcode: "51143"
 city: Köln
-street: "Bahnhofstraße"
-housenumber: 17
-phone: "+49 2203 1804332"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 08:00-14:00"
+street: Bahnhofstraße
+housenumber: "17"
+phone: +49 2203 1804332
+opening_hours: Mo-Fr 09:00-18:00;Sa 08:00-14:00
 website: ""

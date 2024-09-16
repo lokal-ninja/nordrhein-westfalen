@@ -1,11 +1,11 @@
 id: 753881322
-type: way
+type: node
 latitude: 51.42237
 longitude: 6.77988
 postcode: "47057"
 city: Duisburg
-street: "Koloniestraße"
-housenumber: 78
+street: Koloniestraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

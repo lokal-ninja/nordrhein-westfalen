@@ -4,8 +4,8 @@ latitude: 51.54161
 longitude: 7.22255
 postcode: "44623"
 city: Herne
-street: "Viktor-Reuter-Straße"
-housenumber: 3
-phone: "+49 2323 1898798"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-15:00"
-website: "https://www.hairlounge-niko.de/"
+street: Viktor-Reuter-Straße
+housenumber: "3"
+phone: +49 2323 1898798
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:00-15:00
+website: https://www.hairlounge-niko.de/

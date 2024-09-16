@@ -1,11 +1,11 @@
 id: 111741408
-type: way
+type: node
 latitude: 50.88125
 longitude: 6.69153
 postcode: "50171"
 city: Kerpen
-street: "Am Falder"
-housenumber: 38
+street: Am Falder
+housenumber: "38"
 phone: ""
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:00-14:00; PH off"
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:00-14:00; PH off
 website: ""

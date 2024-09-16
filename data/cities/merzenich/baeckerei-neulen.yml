@@ -1,11 +1,11 @@
 id: 237298713
-type: way
+type: node
 latitude: 50.83758
 longitude: 6.58331
 postcode: "52399"
 city: Merzenich
-street: "Kirchstraße"
-housenumber: 22
+street: Kirchstraße
+housenumber: "22"
 phone: ""
-opening_hours: "07:00-18:00"
+opening_hours: 07:00-18:00
 website: ""

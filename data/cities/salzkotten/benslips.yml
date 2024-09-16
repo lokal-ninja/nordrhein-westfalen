@@ -4,8 +4,9 @@ latitude: 51.67161
 longitude: 8.60397
 postcode: "33154"
 city: Salzkotten
-street: "Lange Straße"
-housenumber: 10
+street: Lange Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 6:30-18:00; Sa 6:00-17:00; Su, PH 8:00-17:00 || Ostern, Pfingsten, 24. Dec geschlossen"
+opening_hours: Mo-Fr 6:30-18:00; Sa 6:00-17:00; Su, PH 8:00-17:00 || "Ostern, Pfingsten,
+    24. Dec geschlossen"
 website: ""

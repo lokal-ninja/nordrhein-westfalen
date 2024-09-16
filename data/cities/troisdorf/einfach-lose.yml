@@ -1,11 +1,11 @@
 id: 96835716
-type: way
+type: node
 latitude: 50.82769
 longitude: 7.11956
 postcode: "53842"
 city: Troisdorf
-street: "Hauptstraße"
-housenumber: 154
-phone: "+49 2241 9456817"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.einfach-lose.de/"
+street: Hauptstraße
+housenumber: "154"
+phone: +49 2241 9456817
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.einfach-lose.de/

@@ -1,11 +1,11 @@
 id: 451151421
-type: way
+type: node
 latitude: 50.994
 longitude: 6.79369
 postcode: "50259"
 city: Pulheim
-street: "Sonnenallee"
-housenumber: 7
+street: Sonnenallee
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

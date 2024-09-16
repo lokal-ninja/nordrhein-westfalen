@@ -4,8 +4,9 @@ latitude: 50.79384
 longitude: 7.20389
 postcode: "53721"
 city: Siegburg
-street: "Europaplatz"
-housenumber: 1
+street: Europaplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Do 8:00-12:30, 13:15-18:00; Fr 8:00-12:30,13:15-16:00; Sa 9:00-15:00; Su, PH off"
-website: "https://www.rsvg.de/service/kundenzentren-und-verkaufsstellen"
+opening_hours: Mo-Do 8:00-12:30, 13:15-18:00; Fr 8:00-12:30,13:15-16:00; Sa 9:00-15:00;
+    Su, PH off
+website: https://www.rsvg.de/service/kundenzentren-und-verkaufsstellen

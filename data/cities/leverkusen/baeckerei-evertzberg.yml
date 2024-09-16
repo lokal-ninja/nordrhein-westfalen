@@ -1,11 +1,11 @@
 id: 93784958
-type: way
+type: node
 latitude: 51.06689
 longitude: 7.02395
 postcode: "51381"
 city: Leverkusen
-street: "Lützenkirchener Straße"
-housenumber: 166
-phone: "+49 2171 3959017"
-opening_hours: "Mo 06:00-14:00,Tu-Fr 06:00-18:00, Sa 06:00-14:00, Su 07:00-12:00"
-website: "https://www.evertzberg.de/"
+street: Lützenkirchener Straße
+housenumber: "166"
+phone: +49 2171 3959017
+opening_hours: Mo 06:00-14:00,Tu-Fr 06:00-18:00, Sa 06:00-14:00, Su 07:00-12:00
+website: https://www.evertzberg.de/

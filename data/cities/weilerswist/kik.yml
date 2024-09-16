@@ -1,11 +1,11 @@
 id: 192165852
-type: way
+type: node
 latitude: 50.74736
 longitude: 6.84875
 postcode: "53919"
 city: Weilerswist
-street: "Parkallee"
-housenumber: 16
+street: Parkallee
+housenumber: "16"
 phone: ""
-opening_hours: "Sa 09:00-18:00; Mo-Fr 09:00-19:00"
+opening_hours: Sa 09:00-18:00; Mo-Fr 09:00-19:00
 website: ""

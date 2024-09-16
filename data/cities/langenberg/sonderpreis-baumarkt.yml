@@ -1,11 +1,11 @@
 id: 419678964
-type: way
+type: node
 latitude: 51.77264
 longitude: 8.31886
 postcode: "33449"
 city: Langenberg
-street: "Bentelerstraße"
-housenumber: 32
-phone: "+49 5248 8226489"
+street: Bentelerstraße
+housenumber: "32"
+phone: +49 5248 8226489
 opening_hours: ""
-website: "https://www.sonderpreis-baumarkt.de/"
+website: https://www.sonderpreis-baumarkt.de/

@@ -4,8 +4,8 @@ latitude: 51.53965
 longitude: 7.80694
 postcode: "59427"
 city: Unna
-street: "Werler Straße"
-housenumber: 199
-phone: "+49 2308 865"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-18:00"
-website: "https://www.kuckhoff-b1.de/"
+street: Werler Straße
+housenumber: "199"
+phone: +49 2308 865
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-18:00
+website: https://www.kuckhoff-b1.de/

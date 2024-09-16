@@ -1,11 +1,11 @@
 id: 319108533
-type: way
+type: node
 latitude: 51.66885
 longitude: 7.79553
 postcode: "59067"
 city: Hamm
-street: "Wilhelmstraße"
-housenumber: 127
-phone: "+49 2381 44911"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.vergoelst.de/hamm"
+street: Wilhelmstraße
+housenumber: "127"
+phone: +49 2381 44911
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.vergoelst.de/hamm

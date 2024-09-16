@@ -1,11 +1,11 @@
 id: 92866097
-type: way
+type: node
 latitude: 51.54983
 longitude: 7.30074
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Herner Straße"
-housenumber: 79
+street: Herner Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

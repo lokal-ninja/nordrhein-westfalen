@@ -4,8 +4,8 @@ latitude: 51.5128
 longitude: 7.46537
 postcode: "44137"
 city: Dortmund
-street: "Wißstraße"
-housenumber: 14
-phone: "+49 231 527010"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.azad-einrichtungshaus.de/"
+street: Wißstraße
+housenumber: "14"
+phone: +49 231 527010
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.azad-einrichtungshaus.de/

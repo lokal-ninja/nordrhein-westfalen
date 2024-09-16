@@ -1,11 +1,11 @@
 id: 1301333252
-type: way
+type: node
 latitude: 51.11178
 longitude: 6.94979
 postcode: "40764"
 city: Langenfeld (Rheinland)
 street: ""
-housenumber: 1
-phone: "+49 2173 912639"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off"
-website: "https://www.tchibo.de/service/storefinder/store/100006769"
+housenumber: "1"
+phone: +49 2173 912639
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off
+website: https://www.tchibo.de/service/storefinder/store/100006769

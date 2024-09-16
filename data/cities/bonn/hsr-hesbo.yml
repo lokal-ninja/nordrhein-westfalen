@@ -1,11 +1,11 @@
 id: 144012064
-type: way
+type: node
 latitude: 50.75329
 longitude: 7.09462
 postcode: "53117"
 city: Bonn
-street: "Römerstraße"
-housenumber: 218
+street: Römerstraße
+housenumber: "218"
 phone: ""
 opening_hours: ""
-website: "https://www.einrichtung-bonn.de/start/"
+website: https://www.einrichtung-bonn.de/start/

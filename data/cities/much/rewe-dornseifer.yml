@@ -1,11 +1,11 @@
 id: 183365446
-type: way
+type: node
 latitude: 50.90418
 longitude: 7.41141
 postcode: "53804"
 city: Much
-street: "Wahnbachtalstraße"
-housenumber: 3
+street: Wahnbachtalstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Su off; Mo-Sa 07:00-20:00"
+opening_hours: Su off; Mo-Sa 07:00-20:00
 website: ""

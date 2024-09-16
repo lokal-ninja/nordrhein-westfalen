@@ -4,8 +4,9 @@ latitude: 51.96063
 longitude: 7.60459
 postcode: "48149"
 city: Münster
-street: "Hüfferstraße"
-housenumber: 56
-phone: "+49 251 9795976"
-opening_hours: "Tu 10:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 11:00-20:00; Sa 10:00-14:00; Mo off"
-website: "https://www.cut-n-tech.de/"
+street: Hüfferstraße
+housenumber: "56"
+phone: +49 251 9795976
+opening_hours: Tu 10:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 11:00-20:00; Sa
+    10:00-14:00; Mo off
+website: https://www.cut-n-tech.de/

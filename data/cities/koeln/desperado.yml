@@ -4,8 +4,8 @@ latitude: 50.93821
 longitude: 6.94497
 postcode: "50667"
 city: Köln
-street: "Apostelnstraße"
-housenumber: 23
-phone: "+49 221 254862"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.desperado-cologne.de/"
+street: Apostelnstraße
+housenumber: "23"
+phone: +49 221 254862
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.desperado-cologne.de/

@@ -1,11 +1,11 @@
 id: 303635320
-type: way
+type: node
 latitude: 51.02486
 longitude: 7.56764
 postcode: "51643"
 city: Gummersbach
-street: "Hindenburgstraße"
-housenumber: 22
+street: Hindenburgstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

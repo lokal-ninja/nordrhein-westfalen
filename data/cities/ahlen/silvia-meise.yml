@@ -1,11 +1,11 @@
 id: 259764103
-type: way
+type: node
 latitude: 51.76274
 longitude: 7.89343
 postcode: "59227"
 city: Ahlen
-street: "Hellstraße"
-housenumber: 42
+street: Hellstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

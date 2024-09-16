@@ -4,8 +4,8 @@ latitude: 51.68839
 longitude: 7.46625
 postcode: "59379"
 city: Selm
-street: "Kreisstraße"
-housenumber: 58
+street: Kreisstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:30-18:30; Sa 10:00-14:00"
-website: "https://www.berken.de/filialen/selm/"
+opening_hours: Mo-Fr 09:30-13:00,14:30-18:30; Sa 10:00-14:00
+website: https://www.berken.de/filialen/selm/

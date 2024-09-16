@@ -1,11 +1,11 @@
 id: 210705377
-type: way
+type: node
 latitude: 51.60043
 longitude: 6.92345
 postcode: "46244"
 city: Bottrop
-street: "Rentforter Straße"
-housenumber: 1
+street: Rentforter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

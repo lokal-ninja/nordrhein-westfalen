@@ -4,8 +4,8 @@ latitude: 51.22821
 longitude: 6.8137
 postcode: "40235"
 city: Düsseldorf
-street: "Flurstraße"
-housenumber: 31
+street: Flurstraße
+housenumber: "31"
 phone: "+491785869800"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-14:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-14:00
 website: ""

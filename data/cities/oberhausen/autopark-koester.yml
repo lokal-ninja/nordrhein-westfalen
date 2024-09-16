@@ -1,11 +1,11 @@
 id: 216510970
-type: way
+type: node
 latitude: 51.54963
 longitude: 6.81995
 postcode: "46147"
 city: Oberhausen
-street: "Gabelstraße"
-housenumber: 55
+street: Gabelstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 903041163
-type: way
+type: node
 latitude: 50.7603
 longitude: 6.16494
 postcode: "52078"
 city: Aachen
-street: "Gewerbepark Brand"
-housenumber: 21
+street: Gewerbepark Brand
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://acnospharma.com/"
+website: https://acnospharma.com/

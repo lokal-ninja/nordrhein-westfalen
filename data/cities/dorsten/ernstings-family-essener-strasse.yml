@@ -1,11 +1,11 @@
 id: 169148119
-type: way
+type: node
 latitude: 51.65981
 longitude: 6.9639
 postcode: "46282"
 city: Dorsten
-street: "Essener Straße"
-housenumber: 10
-phone: "+49 2546 9899998"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
+street: Essener Straße
+housenumber: "10"
+phone: +49 2546 9899998
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
 website: ""

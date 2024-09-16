@@ -1,11 +1,11 @@
 id: 678214534
-type: way
+type: node
 latitude: 51.68741
 longitude: 8.34306
 postcode: "59555"
 city: Lippstadt
-street: "Wiedenbrücker Straße"
-housenumber: 78
+street: Wiedenbrücker Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

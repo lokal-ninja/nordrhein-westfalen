@@ -1,11 +1,11 @@
 id: 328623951
-type: way
+type: node
 latitude: 50.93992
 longitude: 6.94829
 postcode: "50667"
 city: Köln
-street: "Breite Straße"
+street: Breite Straße
 housenumber: 80-90
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.quincy.koeln"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.quincy.koeln

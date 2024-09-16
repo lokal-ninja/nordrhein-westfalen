@@ -1,11 +1,11 @@
 id: 166257862
-type: way
+type: node
 latitude: 50.97686
 longitude: 7.0668
 postcode: "51069"
 city: Köln
-street: "Grafenmühlenweg"
-housenumber: 2
+street: Grafenmühlenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:30-22:00; PH,Su 09:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:30-22:00; PH,Su 09:00-22:00
 website: ""

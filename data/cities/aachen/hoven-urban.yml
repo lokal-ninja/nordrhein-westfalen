@@ -1,11 +1,11 @@
 id: 168074112
-type: way
+type: node
 latitude: 50.80049
 longitude: 6.11552
 postcode: "52070"
 city: Aachen
-street: "Strangenhäuschen"
-housenumber: 33
+street: Strangenhäuschen
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

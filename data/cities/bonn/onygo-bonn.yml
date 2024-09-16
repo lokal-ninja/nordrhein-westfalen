@@ -4,8 +4,8 @@ latitude: 50.73583
 longitude: 7.09964
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 46
+street: Sternstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.onygo.com/de/storedetails?sid=YDE27"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.onygo.com/de/storedetails?sid=YDE27

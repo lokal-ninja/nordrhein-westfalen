@@ -1,11 +1,11 @@
 id: 169036091
-type: way
+type: node
 latitude: 51.66206
 longitude: 6.9634
 postcode: "46282"
 city: Dorsten
-street: "Lippestraße"
-housenumber: 21
-phone: "+49 2362 6057304"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:30; PH off"
-website: "https://www.eyesandmore.de"
+street: Lippestraße
+housenumber: "21"
+phone: +49 2362 6057304
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:30; PH off
+website: https://www.eyesandmore.de

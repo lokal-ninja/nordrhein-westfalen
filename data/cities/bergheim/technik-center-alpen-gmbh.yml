@@ -1,11 +1,11 @@
 id: 319328879
-type: way
+type: node
 latitude: 50.94923
 longitude: 6.62144
 postcode: "50126"
 city: Bergheim
-street: "Aachener Straße"
-housenumber: 61
+street: Aachener Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.technik-center-alpen.de/auswahl"
+website: https://www.technik-center-alpen.de/auswahl

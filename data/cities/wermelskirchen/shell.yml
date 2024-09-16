@@ -1,11 +1,11 @@
 id: 757397575
-type: way
+type: node
 latitude: 51.13872
 longitude: 7.18948
 postcode: "42929"
 city: Wermelskirchen
-street: "Hünger"
-housenumber: 12
-phone: "+49 2196 889970"
-opening_hours: "24/7"
-website: "https://find.shell.com/de/fuel/10047867-wermelskirchen-huenger-12"
+street: Hünger
+housenumber: "12"
+phone: +49 2196 889970
+opening_hours: 24/7
+website: https://find.shell.com/de/fuel/10047867-wermelskirchen-huenger-12

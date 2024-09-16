@@ -1,11 +1,11 @@
 id: 93406662
-type: way
+type: node
 latitude: 50.8162
 longitude: 8.10422
 postcode: "57234"
 city: Wilnsdorf
-street: "Hagener Straße"
-housenumber: 1
+street: Hagener Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

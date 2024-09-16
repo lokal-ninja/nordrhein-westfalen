@@ -4,8 +4,8 @@ latitude: 51.47261
 longitude: 7.32323
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 11
-phone: "+49 234 2970640"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00, Sa 09:00-13:00"
-website: "https://www.tintenklecks-bochum.de"
+street: Alte Bahnhofstraße
+housenumber: "11"
+phone: +49 234 2970640
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00, Sa 09:00-13:00
+website: https://www.tintenklecks-bochum.de

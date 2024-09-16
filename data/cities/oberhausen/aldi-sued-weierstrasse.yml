@@ -1,11 +1,11 @@
 id: 128922733
-type: way
+type: node
 latitude: 51.51897
 longitude: 6.82894
 postcode: "46149"
 city: Oberhausen
-street: "Weierstraße"
-housenumber: 72
+street: Weierstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

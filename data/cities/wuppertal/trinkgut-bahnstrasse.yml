@@ -4,8 +4,8 @@ latitude: 51.2378
 longitude: 7.06905
 postcode: "42327"
 city: Wuppertal
-street: "Bahnstraße"
-housenumber: 63
-phone: "+49 202 76900127"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.trinkgut.de"
+street: Bahnstraße
+housenumber: "63"
+phone: +49 202 76900127
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.trinkgut.de

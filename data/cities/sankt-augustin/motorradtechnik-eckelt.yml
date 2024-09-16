@@ -4,8 +4,9 @@ latitude: 50.77226
 longitude: 7.19014
 postcode: "53757"
 city: Sankt Augustin
-street: "Hennefer Straße"
-housenumber: 21
-phone: "+49 2241 1698965"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:00, We 14:30-18:00, Sa 09:30-13:00"
+street: Hennefer Straße
+housenumber: "21"
+phone: +49 2241 1698965
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:00, We 14:30-18:00, Sa
+    09:30-13:00
 website: ""

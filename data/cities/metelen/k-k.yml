@@ -1,11 +1,11 @@
 id: 318537990
-type: way
+type: node
 latitude: 52.1424
 longitude: 7.21115
 postcode: "48629"
 city: Metelen
-street: "Neutor"
-housenumber: 28
+street: Neutor
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

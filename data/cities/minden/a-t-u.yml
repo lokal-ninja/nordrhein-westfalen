@@ -4,8 +4,8 @@ latitude: 52.29952
 longitude: 8.90958
 postcode: "32427"
 city: Minden
-street: "Ringstraße"
-housenumber: 109
-phone: "+49 571 20186"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://www.atu.de/"
+street: Ringstraße
+housenumber: "109"
+phone: +49 571 20186
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://www.atu.de/

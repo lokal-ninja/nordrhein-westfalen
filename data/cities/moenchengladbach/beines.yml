@@ -4,8 +4,9 @@ latitude: 51.19797
 longitude: 6.39034
 postcode: "41068"
 city: Mönchengladbach
-street: "Roermonder Straße"
-housenumber: 414
-phone: "+49 2161 52231"
-opening_hours: "Mo 05:30-12:30; Tu-Th 05:30-18:00; Fr 05:30-18:30; Sa 05:30-12:30; Su 07:00-11:00"
+street: Roermonder Straße
+housenumber: "414"
+phone: +49 2161 52231
+opening_hours: Mo 05:30-12:30; Tu-Th 05:30-18:00; Fr 05:30-18:30; Sa 05:30-12:30;
+    Su 07:00-11:00
 website: ""

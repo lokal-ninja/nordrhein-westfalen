@@ -1,11 +1,11 @@
 id: 928849366
-type: way
+type: node
 latitude: 51.44951
 longitude: 7.03454
 postcode: "45138"
 city: Essen
-street: "Steeler Straße"
-housenumber: 187
+street: Steeler Straße
+housenumber: "187"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/

@@ -4,8 +4,8 @@ latitude: 51.71308
 longitude: 8.75086
 postcode: "33098"
 city: Paderborn
-street: "Geroldstraße"
-housenumber: 21
-phone: "+49 176 22175821"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00"
+street: Geroldstraße
+housenumber: "21"
+phone: +49 176 22175821
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00
 website: ""

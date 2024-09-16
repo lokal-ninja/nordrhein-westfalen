@@ -1,11 +1,11 @@
 id: 104486921
-type: way
+type: node
 latitude: 51.60254
 longitude: 7.1531
 postcode: "45699"
 city: Herten
-street: "Josefstraße"
-housenumber: 22
+street: Josefstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

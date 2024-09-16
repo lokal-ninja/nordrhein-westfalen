@@ -1,11 +1,11 @@
 id: 723985801
-type: way
+type: node
 latitude: 51.60772
 longitude: 7.10738
 postcode: "45701"
 city: Herten
-street: "Schlägel-und-Eisen-Straße"
-housenumber: 36
-phone: "+49 2366 51290"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.autohaus-blendorf.de/"
+street: Schlägel-und-Eisen-Straße
+housenumber: "36"
+phone: +49 2366 51290
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.autohaus-blendorf.de/

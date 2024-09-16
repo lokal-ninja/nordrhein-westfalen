@@ -1,11 +1,11 @@
 id: 78148276
-type: way
+type: node
 latitude: 51.47047
 longitude: 7.37006
 postcode: "58454"
 city: Witten
-street: "Hörder Straße"
-housenumber: 345
+street: Hörder Straße
+housenumber: "345"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00
 website: ""

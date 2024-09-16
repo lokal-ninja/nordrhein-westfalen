@@ -4,8 +4,8 @@ latitude: 51.51499
 longitude: 6.84804
 postcode: "46145"
 city: Oberhausen
-street: "Bahnhofstraße"
-housenumber: 56
-phone: "+49 208 668761"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.schuhmode-lambertz.com/"
+street: Bahnhofstraße
+housenumber: "56"
+phone: +49 208 668761
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.schuhmode-lambertz.com/

@@ -4,8 +4,8 @@ latitude: 50.73698
 longitude: 7.10264
 postcode: "53111"
 city: Bonn
-street: "Wenzelgasse"
-housenumber: 40
+street: Wenzelgasse
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
+opening_hours: Mo-Sa 10:00-19:00; Su off
 website: ""

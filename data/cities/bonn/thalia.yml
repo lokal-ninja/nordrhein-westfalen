@@ -4,8 +4,8 @@ latitude: 50.73578
 longitude: 7.10198
 postcode: "53111"
 city: Bonn
-street: "Markt"
-housenumber: 24
-phone: "+49 228 1849780"
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: "https://www.thalia.de/"
+street: Markt
+housenumber: "24"
+phone: +49 228 1849780
+opening_hours: Mo-Sa 09:30-20:00; PH off
+website: https://www.thalia.de/

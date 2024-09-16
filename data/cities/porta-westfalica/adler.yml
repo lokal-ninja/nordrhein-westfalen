@@ -4,8 +4,8 @@ latitude: 52.26004
 longitude: 8.89988
 postcode: "32457"
 city: Porta Westfalica
-street: "Flurweg"
-housenumber: 20
-phone: "+49 571 88916190"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.adlermode-unternehmen.com/"
+street: Flurweg
+housenumber: "20"
+phone: +49 571 88916190
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.adlermode-unternehmen.com/

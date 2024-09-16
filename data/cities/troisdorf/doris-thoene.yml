@@ -1,11 +1,11 @@
 id: 128201288
-type: way
+type: node
 latitude: 50.85549
 longitude: 7.20709
 postcode: "53842"
 city: Troisdorf
-street: "Auf dem Dahl"
-housenumber: 50
+street: Auf dem Dahl
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

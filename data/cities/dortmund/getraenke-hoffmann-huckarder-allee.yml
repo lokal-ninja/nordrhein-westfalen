@@ -1,11 +1,11 @@
 id: 321327737
-type: way
+type: node
 latitude: 51.53763
 longitude: 7.41501
 postcode: "44369"
 city: Dortmund
-street: "Huckarder Allee"
-housenumber: 23
+street: Huckarder Allee
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

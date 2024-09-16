@@ -1,11 +1,11 @@
 id: 1033549792
-type: way
+type: node
 latitude: 50.63902
 longitude: 7.17386
 postcode: "53343"
 city: Wachtberg
-street: "Konrad-Adenauer-Straße"
-housenumber: 129
+street: Konrad-Adenauer-Straße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

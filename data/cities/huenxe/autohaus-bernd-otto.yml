@@ -1,11 +1,11 @@
 id: 318630650
-type: way
+type: node
 latitude: 51.66852
 longitude: 6.73064
 postcode: "46569"
 city: Hünxe
-street: "Lühler Heide"
-housenumber: 1
-phone: "+49 2858 6825"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.ford-otto-huenxe.de/"
+street: Lühler Heide
+housenumber: "1"
+phone: +49 2858 6825
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.ford-otto-huenxe.de/

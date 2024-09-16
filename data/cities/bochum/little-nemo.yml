@@ -4,8 +4,8 @@ latitude: 51.47872
 longitude: 7.21458
 postcode: "44787"
 city: Bochum
-street: "Südring"
-housenumber: 37
+street: Südring
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-17:00"
-website: "http://www.little-nemo.de"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-17:00
+website: http://www.little-nemo.de

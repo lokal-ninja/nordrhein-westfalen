@@ -4,8 +4,8 @@ latitude: 51.43386
 longitude: 6.42825
 postcode: "47647"
 city: Kerken
-street: "Hülser Straße"
-housenumber: 16
-phone: "+49 2833 4561"
-opening_hours: "Tu-Fr 09:00-18:00; Sa,Su 08:30-17:00; Mo off"
-website: "https://www.naturhof-beyen.de/"
+street: Hülser Straße
+housenumber: "16"
+phone: +49 2833 4561
+opening_hours: Tu-Fr 09:00-18:00; Sa,Su 08:30-17:00; Mo off
+website: https://www.naturhof-beyen.de/

@@ -1,11 +1,11 @@
 id: 743663208
-type: way
+type: node
 latitude: 50.92203
 longitude: 6.70724
 postcode: "50169"
 city: Kerpen
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 2273 9491301"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 2273 9491301
 opening_hours: ""
 website: ""

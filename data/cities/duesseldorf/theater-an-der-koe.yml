@@ -4,8 +4,8 @@ latitude: 51.22538
 longitude: 6.78113
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 11
-phone: "+49 211 322333"
-opening_hours: "Mo-Sa 10:00-20:00; Su 13:00-18:00"
-website: "https://www.theateranderkoe.de/"
+street: Schadowstraße
+housenumber: "11"
+phone: +49 211 322333
+opening_hours: Mo-Sa 10:00-20:00; Su 13:00-18:00
+website: https://www.theateranderkoe.de/

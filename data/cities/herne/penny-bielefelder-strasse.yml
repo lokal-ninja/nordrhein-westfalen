@@ -1,11 +1,11 @@
 id: 330552631
-type: way
+type: node
 latitude: 51.53207
 longitude: 7.19086
 postcode: "44625"
 city: Herne
-street: "Bielefelder Straße"
-housenumber: 130
+street: Bielefelder Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

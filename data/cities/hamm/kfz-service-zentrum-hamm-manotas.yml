@@ -1,11 +1,11 @@
 id: 384548069
-type: way
+type: node
 latitude: 51.70529
 longitude: 7.82861
 postcode: "59073"
 city: Hamm
-street: "Palzstraße"
-housenumber: 23
-phone: "+49 2381 943773"
+street: Palzstraße
+housenumber: "23"
+phone: +49 2381 943773
 opening_hours: ""
-website: "https://www.kfz-service-zentrum.de/"
+website: https://www.kfz-service-zentrum.de/

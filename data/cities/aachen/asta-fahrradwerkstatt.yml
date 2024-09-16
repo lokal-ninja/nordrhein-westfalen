@@ -4,8 +4,8 @@ latitude: 50.77999
 longitude: 6.07385
 postcode: "52072"
 city: Aachen
-street: "Claßenstraße"
-housenumber: 11
+street: Claßenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 16:00-20:00; PH off"
-website: "https://www.asta.rwth-aachen.de/service/fahrradwerkstatt/"
+opening_hours: Mo-Th 16:00-20:00; PH off
+website: https://www.asta.rwth-aachen.de/service/fahrradwerkstatt/

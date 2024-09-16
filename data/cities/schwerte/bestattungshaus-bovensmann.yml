@@ -4,8 +4,8 @@ latitude: 51.44448
 longitude: 7.56472
 postcode: "58239"
 city: Schwerte
-street: "Rathausstraße"
-housenumber: 26
-phone: "+49 2304 16548"
-opening_hours: "Mo-Fr 08:30-17:00||telefonisch: jederzeit"
-website: "https://bovensmann.com"
+street: Rathausstraße
+housenumber: "26"
+phone: +49 2304 16548
+opening_hours: 'Mo-Fr 08:30-17:00||"telefonisch: jederzeit"'
+website: https://bovensmann.com

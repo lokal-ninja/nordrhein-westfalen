@@ -4,8 +4,8 @@ latitude: 51.47196
 longitude: 6.96071
 postcode: "45355"
 city: Essen
-street: "Wolfsbankring"
-housenumber: 31
-phone: "+49 201 672628"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Wolfsbankring
+housenumber: "31"
+phone: +49 201 672628
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

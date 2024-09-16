@@ -1,11 +1,11 @@
 id: 171586054
-type: way
+type: node
 latitude: 50.89084
 longitude: 8.02818
 postcode: "57076"
 city: Siegen
-street: "Weidenauer Straße"
-housenumber: 248
+street: Weidenauer Straße
+housenumber: "248"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30,Sa 08:30-13:00; PH off"
+opening_hours: Mo-Fr 08:30-18:30,Sa 08:30-13:00; PH off
 website: ""

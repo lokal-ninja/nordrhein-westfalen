@@ -4,8 +4,8 @@ latitude: 51.54335
 longitude: 7.22017
 postcode: "44629"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 92
-phone: "+49 2323 18198"
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-16:00"
+street: Bahnhofstraße
+housenumber: "92"
+phone: +49 2323 18198
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:30-16:00
 website: ""

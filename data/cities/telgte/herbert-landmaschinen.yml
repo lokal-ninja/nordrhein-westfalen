@@ -1,11 +1,11 @@
 id: 535024963
-type: way
+type: node
 latitude: 51.97898
 longitude: 7.7738
 postcode: "48291"
 city: Telgte
-street: "Alfred-Krupp-Straße"
-housenumber: 6
+street: Alfred-Krupp-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:30
 website: ""

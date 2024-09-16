@@ -4,8 +4,8 @@ latitude: 51.71633
 longitude: 8.74945
 postcode: "33098"
 city: Paderborn
-street: "Westernstraße"
-housenumber: 23
+street: Westernstraße
+housenumber: "23"
 phone: "+495251281141"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-westernstrasse.php"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-westernstrasse.php

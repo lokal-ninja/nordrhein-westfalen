@@ -1,11 +1,12 @@
 id: 109807325
-type: way
+type: node
 latitude: 50.72588
 longitude: 7.07116
 postcode: "53121"
 city: Bonn
-street: "Endenicher Straße"
-housenumber: 345
+street: Endenicher Straße
+housenumber: "345"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.schuhmacher-kessler.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00;
+    Su,PH off
+website: https://www.schuhmacher-kessler.de/

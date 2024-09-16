@@ -1,11 +1,11 @@
 id: 136187730
-type: way
+type: node
 latitude: 51.17736
 longitude: 7.08327
 postcode: "42651"
 city: Solingen
-street: "Konrad-Adenauer-Straße"
-housenumber: 45
+street: Konrad-Adenauer-Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

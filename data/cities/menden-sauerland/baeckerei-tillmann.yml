@@ -1,11 +1,11 @@
 id: 314826050
-type: way
+type: node
 latitude: 51.41739
 longitude: 7.84125
 postcode: "58710"
 city: Menden (Sauerland)
-street: "Bieberberg"
-housenumber: 69
+street: Bieberberg
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

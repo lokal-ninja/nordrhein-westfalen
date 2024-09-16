@@ -1,11 +1,11 @@
 id: 303356358
-type: way
+type: node
 latitude: 52.0276
 longitude: 8.83984
 postcode: "32657"
 city: Lemgo
-street: "Osterfeld"
-housenumber: 3
+street: Osterfeld
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

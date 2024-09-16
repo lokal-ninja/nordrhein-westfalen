@@ -1,11 +1,11 @@
 id: 119894488
-type: way
+type: node
 latitude: 50.62281
 longitude: 6.31766
 postcode: "52152"
 city: Simmerath
-street: "Edisonstraße"
-housenumber: 17
-phone: "+49 2473 939291"
+street: Edisonstraße
+housenumber: "17"
+phone: +49 2473 939291
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 326972271
-type: way
+type: node
 latitude: 50.93531
 longitude: 7.29431
 postcode: "51491"
 city: Overath
-street: "Alte Mucher Straße"
-housenumber: 8
-phone: "+49 2206 86490"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.holz-rottlaender.de/startseite.html"
+street: Alte Mucher Straße
+housenumber: "8"
+phone: +49 2206 86490
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.holz-rottlaender.de/startseite.html

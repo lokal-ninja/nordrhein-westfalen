@@ -4,8 +4,8 @@ latitude: 52.23848
 longitude: 8.92158
 postcode: "32457"
 city: Porta Westfalica
-street: "Hauptstraße"
-housenumber: 35
-phone: "+49 571 7100700"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00"
-website: "https://urlaubundreisen-porta.de/"
+street: Hauptstraße
+housenumber: "35"
+phone: +49 571 7100700
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00
+website: https://urlaubundreisen-porta.de/

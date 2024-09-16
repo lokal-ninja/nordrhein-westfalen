@@ -4,8 +4,8 @@ latitude: 51.21567
 longitude: 6.80293
 postcode: "40227"
 city: Düsseldorf
-street: "Kruppstraße"
-housenumber: 8
+street: Kruppstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

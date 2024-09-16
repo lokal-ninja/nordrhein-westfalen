@@ -4,8 +4,8 @@ latitude: 51.81169
 longitude: 6.54597
 postcode: "46395"
 city: Bocholt
-street: "Schlavenhorst"
-housenumber: 80
-phone: "+49 2871 186933"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.eskes-food.de/"
+street: Schlavenhorst
+housenumber: "80"
+phone: +49 2871 186933
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.eskes-food.de/

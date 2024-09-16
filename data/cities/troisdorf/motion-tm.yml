@@ -1,11 +1,11 @@
 id: 115861092
-type: way
+type: node
 latitude: 50.81902
 longitude: 7.10363
 postcode: "53844"
 city: Troisdorf
-street: "Junkersring"
-housenumber: 52
+street: Junkersring
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

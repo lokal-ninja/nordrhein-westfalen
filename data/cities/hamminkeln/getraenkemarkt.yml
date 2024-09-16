@@ -1,11 +1,11 @@
 id: 274278901
-type: way
+type: node
 latitude: 51.74155
 longitude: 6.59067
 postcode: "46499"
 city: Hamminkeln
-street: "Loikumer Rott"
-housenumber: 7
+street: Loikumer Rott
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.80351
 longitude: 6.24997
 postcode: "52249"
 city: Eschweiler
-street: "Friedrichstraße"
-housenumber: 20
+street: Friedrichstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-13:00; Sa 08:30-14:00; Su,PH 10:00-13:00"
-website: "https://www.zimmermanngalabau.de/"
+opening_hours: Mo,Tu,Th,Fr 07:30-18:00; We 07:30-13:00; Sa 08:30-14:00; Su,PH 10:00-13:00
+website: https://www.zimmermanngalabau.de/

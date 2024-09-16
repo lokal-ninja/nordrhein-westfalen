@@ -4,8 +4,8 @@ latitude: 52.0279
 longitude: 8.51737
 postcode: "33615"
 city: Bielefeld
-street: "Stapenhorststraße"
-housenumber: 91
+street: Stapenhorststraße
+housenumber: "91"
 phone: ""
-opening_hours: "PH,We-Su 10:00-18:00"
-website: "https://www.kaffeewerft.de/"
+opening_hours: PH,We-Su 10:00-18:00
+website: https://www.kaffeewerft.de/

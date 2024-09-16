@@ -1,11 +1,11 @@
 id: 44582316
-type: way
+type: node
 latitude: 50.94074
 longitude: 7.02068
 postcode: "51103"
 city: Köln
-street: "Olpener Straße"
-housenumber: 45
-phone: "+49 221 20199959"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+street: Olpener Straße
+housenumber: "45"
+phone: +49 221 20199959
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

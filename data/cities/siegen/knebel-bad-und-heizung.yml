@@ -1,11 +1,11 @@
 id: 148749050
-type: way
+type: node
 latitude: 50.86456
 longitude: 8.03541
 postcode: "57074"
 city: Siegen
-street: "Friedrich-Wilhelm-Straße"
-housenumber: 147
+street: Friedrich-Wilhelm-Straße
+housenumber: "147"
 phone: ""
 opening_hours: ""
-website: "https://www.knebel-siegen.de/"
+website: https://www.knebel-siegen.de/

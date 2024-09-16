@@ -1,11 +1,11 @@
 id: 4289636
-type: way
+type: node
 latitude: 51.57039
 longitude: 7.38449
 postcode: "44359"
 city: Dortmund
-street: "Am Hohen Teich"
-housenumber: 27
+street: Am Hohen Teich
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

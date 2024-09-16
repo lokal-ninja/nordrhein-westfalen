@@ -1,11 +1,11 @@
 id: 93871362
-type: way
+type: node
 latitude: 51.22224
 longitude: 6.60815
 postcode: "41564"
 city: Kaarst
-street: "Kaarster Straße"
-housenumber: 20
-phone: "+49 2131 2058412"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.planbreparatur.de/"
+street: Kaarster Straße
+housenumber: "20"
+phone: +49 2131 2058412
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.planbreparatur.de/

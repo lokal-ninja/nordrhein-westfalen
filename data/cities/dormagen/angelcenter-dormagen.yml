@@ -1,11 +1,11 @@
 id: 98356215
-type: way
+type: node
 latitude: 51.09771
 longitude: 6.83747
 postcode: "41539"
 city: Dormagen
-street: "Krefelder Straße"
+street: Krefelder Straße
 housenumber: 38-40
-phone: "+49-2133-2171725"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "http://www.angelcenter-dormagen.de/"
+phone: +49-2133-2171725
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: http://www.angelcenter-dormagen.de/

@@ -1,11 +1,11 @@
 id: 870737341
-type: way
+type: node
 latitude: 51.47548
 longitude: 7.49231
 postcode: "44265"
 city: Dortmund
-street: "Brandeniusstraße"
-housenumber: 94
+street: Brandeniusstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.autocenter-wellinghofen.de/"
+website: https://www.autocenter-wellinghofen.de/

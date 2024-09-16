@@ -1,11 +1,11 @@
 id: 609040380
-type: way
+type: node
 latitude: 52.12328
 longitude: 8.63895
 postcode: "32051"
 city: Herford
-street: "Engerstraße"
-housenumber: 146
-phone: "+49 5221 9933397"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-13:00; PH off"
-website: "https://www.vitakuechen.de/"
+street: Engerstraße
+housenumber: "146"
+phone: +49 5221 9933397
+opening_hours: Tu-Fr 09:00-18:00, Sa 08:00-13:00; PH off
+website: https://www.vitakuechen.de/

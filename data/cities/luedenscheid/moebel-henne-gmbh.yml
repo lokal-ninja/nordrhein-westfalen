@@ -1,11 +1,11 @@
 id: 107327285
-type: way
+type: node
 latitude: 51.23612
 longitude: 7.61084
 postcode: "58507"
 city: Lüdenscheid
-street: "Im Olpendahl"
-housenumber: 66
+street: Im Olpendahl
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00; Su off"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00; Su off
 website: ""

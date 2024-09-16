@@ -4,8 +4,8 @@ latitude: 52.04416
 longitude: 8.54038
 postcode: "33611"
 city: Bielefeld
-street: "Meierfeld"
-housenumber: 23
-phone: "+49-521-81366"
+street: Meierfeld
+housenumber: "23"
+phone: +49-521-81366
 opening_hours: ""
-website: "https://www.bestatter-brinkmann.de/"
+website: https://www.bestatter-brinkmann.de/

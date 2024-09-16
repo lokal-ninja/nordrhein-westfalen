@@ -1,11 +1,11 @@
 id: 226588159
-type: way
+type: node
 latitude: 51.61396
 longitude: 8.35191
 postcode: "59597"
 city: Erwitte
-street: "Wemberweg"
-housenumber: 4
+street: Wemberweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://edeka-windmann.de"
+website: https://edeka-windmann.de

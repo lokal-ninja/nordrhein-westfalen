@@ -1,11 +1,11 @@
 id: 94545131
-type: way
+type: node
 latitude: 51.39766
 longitude: 6.66881
 postcode: "47239"
 city: Duisburg
-street: "Dorfstraße"
-housenumber: 74
-phone: "+49 2151 7676749"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-14:00; Su 07:00-14:00"
+street: Dorfstraße
+housenumber: "74"
+phone: +49 2151 7676749
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-14:00; Su 07:00-14:00
 website: ""

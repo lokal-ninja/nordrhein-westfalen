@@ -1,11 +1,11 @@
 id: 274169197
-type: way
+type: node
 latitude: 51.00102
 longitude: 6.97929
 postcode: "51061"
 city: Köln
-street: "Evergerstraße"
-housenumber: 20
+street: Evergerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

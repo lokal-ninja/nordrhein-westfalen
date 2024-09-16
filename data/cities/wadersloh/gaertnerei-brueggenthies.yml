@@ -1,11 +1,11 @@
 id: 183985597
-type: way
+type: node
 latitude: 51.73626
 longitude: 8.18161
 postcode: "59329"
 city: Wadersloh
-street: "Waldstraße"
-housenumber: 26
+street: Waldstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,15:00-18:00; We off"
-website: "https://www.gaertnerei-brueggenthies.de/"
+opening_hours: Mo-Fr 10:00-12:00,15:00-18:00; We off
+website: https://www.gaertnerei-brueggenthies.de/

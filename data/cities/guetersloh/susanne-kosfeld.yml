@@ -1,11 +1,11 @@
 id: 270615748
-type: way
+type: node
 latitude: 51.9175
 longitude: 8.37056
 postcode: "33330"
 city: Gütersloh
-street: "Haegestraße"
-housenumber: 10
+street: Haegestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

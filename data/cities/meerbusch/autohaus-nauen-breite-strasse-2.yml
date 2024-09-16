@@ -1,11 +1,11 @@
 id: 895846668
-type: way
+type: node
 latitude: 51.27504
 longitude: 6.62028
 postcode: "40670"
 city: Meerbusch
-street: "Breite Straße"
-housenumber: 8
-phone: "+49 2159 91870"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-13:00"
-website: "https://www.autohaus-nauen.de/"
+street: Breite Straße
+housenumber: "8"
+phone: +49 2159 91870
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-13:00
+website: https://www.autohaus-nauen.de/

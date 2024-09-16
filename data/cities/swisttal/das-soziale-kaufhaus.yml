@@ -1,11 +1,11 @@
 id: 35821521
-type: way
+type: node
 latitude: 50.72145
 longitude: 6.92022
 postcode: "53913"
 city: Swisttal
-street: "Breniger Straße"
-housenumber: 3
-phone: "+49 2254 600 480 5"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-16:00"
-website: "https://das-soziale-kaufhaus.de/"
+street: Breniger Straße
+housenumber: "3"
+phone: +49 2254 600 480 5
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-16:00
+website: https://das-soziale-kaufhaus.de/

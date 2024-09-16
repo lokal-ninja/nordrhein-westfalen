@@ -4,8 +4,8 @@ latitude: 52.0204
 longitude: 8.53411
 postcode: "33602"
 city: Bielefeld
-street: "Rathausstraße"
-housenumber: 13
-phone: "+49-521-61256"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.schoko-peter.de/"
+street: Rathausstraße
+housenumber: "13"
+phone: +49-521-61256
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.schoko-peter.de/

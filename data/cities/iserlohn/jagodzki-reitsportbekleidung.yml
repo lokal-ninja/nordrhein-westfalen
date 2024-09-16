@@ -1,11 +1,11 @@
 id: 471707357
-type: way
+type: node
 latitude: 51.3753
 longitude: 7.69303
 postcode: "58638"
 city: Iserlohn
-street: "Hans-Böckler-Straße"
-housenumber: 37
-phone: "+49 2371 151135"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
+street: Hans-Böckler-Straße
+housenumber: "37"
+phone: +49 2371 151135
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

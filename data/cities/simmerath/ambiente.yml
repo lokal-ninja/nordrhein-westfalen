@@ -1,11 +1,11 @@
 id: 94517514
-type: way
+type: node
 latitude: 50.60838
 longitude: 6.30755
 postcode: "52152"
 city: Simmerath
-street: "Humboldtstraße"
-housenumber: 18
+street: Humboldtstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

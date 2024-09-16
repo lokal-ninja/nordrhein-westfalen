@@ -1,11 +1,11 @@
 id: 401846396
-type: way
+type: node
 latitude: 51.44994
 longitude: 7.75722
 postcode: "58708"
 city: Menden (Sauerland)
-street: "Holzener Dorfstraße"
-housenumber: 1
+street: Holzener Dorfstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.duennebacke.de/"
+website: https://www.duennebacke.de/

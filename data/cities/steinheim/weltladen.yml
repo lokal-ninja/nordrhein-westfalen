@@ -4,8 +4,8 @@ latitude: 51.86553
 longitude: 9.09578
 postcode: "32839"
 city: Steinheim
-street: "Grandweg"
-housenumber: 7
+street: Grandweg
+housenumber: "7"
 phone: ""
-opening_hours: "Th 16:00-18:00; Su 10:00-12:00"
-website: "http://www.weltladen-steinheim.de/"
+opening_hours: Th 16:00-18:00; Su 10:00-12:00
+website: http://www.weltladen-steinheim.de/

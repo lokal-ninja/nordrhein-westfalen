@@ -1,11 +1,11 @@
 id: 157403346
-type: way
+type: node
 latitude: 51.45087
 longitude: 6.8489
 postcode: "45476"
 city: Mülheim an der Ruhr
-street: "Heidestraße"
-housenumber: 15
+street: Heidestraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

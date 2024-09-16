@@ -4,8 +4,8 @@ latitude: 50.71189
 longitude: 7.17088
 postcode: "53227"
 city: Bonn
-street: "Adrianstraße"
-housenumber: 163
+street: Adrianstraße
+housenumber: "163"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00"
-website: "http://buchhandlung-maxundmoritz.de/kontakt.php"
+opening_hours: Tu-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00
+website: http://buchhandlung-maxundmoritz.de/kontakt.php

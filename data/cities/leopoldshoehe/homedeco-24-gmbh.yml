@@ -1,11 +1,11 @@
 id: 265035889
-type: way
+type: node
 latitude: 51.97489
 longitude: 8.66931
 postcode: "33818"
 city: Leopoldshöhe
-street: "Grester Straße"
-housenumber: 4
-phone: "+49 5202 70319-0"
+street: Grester Straße
+housenumber: "4"
+phone: +49 5202 70319-0
 opening_hours: ""
-website: "https://www.bilderrahmen-passt.de/impressum"
+website: https://www.bilderrahmen-passt.de/impressum

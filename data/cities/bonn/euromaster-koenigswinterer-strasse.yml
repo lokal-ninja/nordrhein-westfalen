@@ -1,11 +1,11 @@
 id: 88835100
-type: way
+type: node
 latitude: 50.73714
 longitude: 7.12966
 postcode: "53227"
 city: Bonn
-street: "Königswinterer Straße"
-housenumber: 50
-phone: "+49 228 946650"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.euromaster.de/"
+street: Königswinterer Straße
+housenumber: "50"
+phone: +49 228 946650
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.euromaster.de/

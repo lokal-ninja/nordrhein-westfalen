@@ -4,8 +4,8 @@ latitude: 51.76258
 longitude: 7.46018
 postcode: "59348"
 city: Lüdinghausen
-street: "Freigrafenweg"
-housenumber: 21
-phone: "+49 160 91740906"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.wellnessoase-juette.de/"
+street: Freigrafenweg
+housenumber: "21"
+phone: +49 160 91740906
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.wellnessoase-juette.de/

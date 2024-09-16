@@ -1,11 +1,11 @@
 id: 156127093
-type: way
+type: node
 latitude: 51.51847
 longitude: 7.28189
 postcode: "44805"
 city: Bochum
-street: "Amtmann-Ibing-Straße"
-housenumber: 7
+street: Amtmann-Ibing-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

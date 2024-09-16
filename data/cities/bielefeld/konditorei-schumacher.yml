@@ -4,8 +4,8 @@ latitude: 52.01308
 longitude: 8.55854
 postcode: "33604"
 city: Bielefeld
-street: "Oldentruper Straße"
-housenumber: 56
-phone: "+49 521 297970"
-opening_hours: "We-Sa 07:00-18:00; Su,PH 08:00-18:00; Mo,Tu off"
-website: "https://www.cafe-schumacher.de/"
+street: Oldentruper Straße
+housenumber: "56"
+phone: +49 521 297970
+opening_hours: We-Sa 07:00-18:00; Su,PH 08:00-18:00; Mo,Tu off
+website: https://www.cafe-schumacher.de/

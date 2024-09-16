@@ -1,11 +1,11 @@
 id: 90834305
-type: way
+type: node
 latitude: 51.83192
 longitude: 8.30704
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Auf der Schanze"
-housenumber: 16
+street: Auf der Schanze
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

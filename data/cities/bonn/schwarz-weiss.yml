@@ -4,8 +4,8 @@ latitude: 50.72641
 longitude: 7.10093
 postcode: ""
 city: Bonn
-street: "Bonner Talweg"
-housenumber: 30
-phone: "+49 22828037350"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://schwarz-weiss-bonn.com"
+street: Bonner Talweg
+housenumber: "30"
+phone: +49 22828037350
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://schwarz-weiss-bonn.com

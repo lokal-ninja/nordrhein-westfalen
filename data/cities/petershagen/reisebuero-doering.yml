@@ -4,8 +4,8 @@ latitude: 52.37822
 longitude: 8.96974
 postcode: "32469"
 city: Petershagen
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 5707 2002"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "https://reisebuero-doering.de/"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 5707 2002
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: https://reisebuero-doering.de/

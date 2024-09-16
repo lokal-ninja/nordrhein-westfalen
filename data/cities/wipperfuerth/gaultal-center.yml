@@ -1,11 +1,11 @@
 id: 105006933
-type: way
+type: node
 latitude: 51.11237
 longitude: 7.4075
 postcode: "51688"
 city: Wipperfürth
-street: "Gaulstraße"
-housenumber: 75
+street: Gaulstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

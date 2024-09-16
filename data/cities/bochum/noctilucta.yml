@@ -4,8 +4,8 @@ latitude: 51.47425
 longitude: 7.2157
 postcode: "44789"
 city: Bochum
-street: "Königsallee"
-housenumber: 4
+street: Königsallee
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00"
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

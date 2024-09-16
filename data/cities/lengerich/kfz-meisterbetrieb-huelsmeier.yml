@@ -1,11 +1,11 @@
 id: 1051057334
-type: way
+type: node
 latitude: 52.17381
 longitude: 7.87504
 postcode: "49525"
 city: Lengerich
-street: "Lohesch"
-housenumber: 66
+street: Lohesch
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

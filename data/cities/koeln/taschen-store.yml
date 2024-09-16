@@ -4,8 +4,8 @@ latitude: 50.93569
 longitude: 6.94936
 postcode: "50667"
 city: Köln
-street: "Neumarkt"
-housenumber: 3
-phone: "+49-221-271 27 577"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.taschen.com/pages/de/stores/39067.store_cologne_neumarkt.htm"
+street: Neumarkt
+housenumber: "3"
+phone: +49-221-271 27 577
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.taschen.com/pages/de/stores/39067.store_cologne_neumarkt.htm

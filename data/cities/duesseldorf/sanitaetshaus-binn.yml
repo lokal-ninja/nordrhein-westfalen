@@ -4,8 +4,8 @@ latitude: 51.22682
 longitude: 6.80507
 postcode: "40233"
 city: Düsseldorf
-street: "Birkenstraße"
-housenumber: 79
-phone: "+49 800 9131080"
+street: Birkenstraße
+housenumber: "79"
+phone: +49 800 9131080
 opening_hours: ""
-website: "https://sh-binn.de/"
+website: https://sh-binn.de/

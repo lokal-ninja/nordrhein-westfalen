@@ -1,11 +1,11 @@
 id: 154217246
-type: way
+type: node
 latitude: 51.57776
 longitude: 7.70997
 postcode: "59174"
 city: Kamen
-street: "Mittelstraße"
-housenumber: 12
+street: Mittelstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

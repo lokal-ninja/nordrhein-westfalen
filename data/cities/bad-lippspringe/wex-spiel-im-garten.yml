@@ -1,11 +1,11 @@
 id: 338703092
-type: way
+type: node
 latitude: 51.76828
 longitude: 8.81135
 postcode: "33175"
 city: Bad Lippspringe
-street: "Hohe Kamp"
-housenumber: 42
+street: Hohe Kamp
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-15:00; Sa 10:00-14:00; PH off"
+opening_hours: Mo-Th 09:00-16:00; Fr 09:00-15:00; Sa 10:00-14:00; PH off
 website: ""

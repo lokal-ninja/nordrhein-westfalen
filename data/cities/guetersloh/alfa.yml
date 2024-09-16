@@ -1,11 +1,11 @@
 id: 271142779
-type: way
+type: node
 latitude: 51.89375
 longitude: 8.36724
 postcode: "33332"
 city: Gütersloh
-street: "Saturnweg"
-housenumber: 1
+street: Saturnweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

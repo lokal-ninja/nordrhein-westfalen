@@ -1,11 +1,11 @@
 id: 40888472
-type: way
+type: node
 latitude: 50.82206
 longitude: 6.89389
 postcode: "50321"
 city: Brühl
-street: "Lessingstraße"
+street: Lessingstraße
 housenumber: 1-3
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.hit.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.hit.de/

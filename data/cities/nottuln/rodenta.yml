@@ -1,11 +1,11 @@
 id: 932444086
-type: way
+type: node
 latitude: 51.91251
 longitude: 7.39982
 postcode: "48301"
 city: Nottuln
-street: "Zeppelinstraße"
+street: Zeppelinstraße
 housenumber: 2a
 phone: ""
 opening_hours: ""
-website: "https://www.rodenta.de/"
+website: https://www.rodenta.de/

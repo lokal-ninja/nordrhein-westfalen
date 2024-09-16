@@ -1,11 +1,11 @@
 id: 27944105
-type: way
+type: node
 latitude: 51.58701
 longitude: 7.03711
 postcode: "45894"
 city: Gelsenkirchen
-street: "Feldhauser Straße"
-housenumber: 93
+street: Feldhauser Straße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 80725332
-type: way
+type: node
 latitude: 51.47237
 longitude: 6.99789
 postcode: "45141"
 city: Essen
-street: "Feilenstraße"
-housenumber: 6
+street: Feilenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

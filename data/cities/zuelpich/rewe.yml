@@ -1,11 +1,11 @@
 id: 251194938
-type: way
+type: node
 latitude: 50.69982
 longitude: 6.66169
 postcode: "53909"
 city: Zülpich
-street: "Karolingerstraße"
-housenumber: 3
+street: Karolingerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

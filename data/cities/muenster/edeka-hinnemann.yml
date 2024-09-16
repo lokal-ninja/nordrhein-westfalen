@@ -1,11 +1,11 @@
 id: 764028093
-type: way
+type: node
 latitude: 52.03816
 longitude: 7.62013
 postcode: "48159"
 city: Münster
-street: "Sprakeler Straße"
-housenumber: 35
+street: Sprakeler Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

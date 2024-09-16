@@ -4,8 +4,8 @@ latitude: 51.67554
 longitude: 8.34798
 postcode: "59555"
 city: Lippstadt
-street: "Geiststraße"
-housenumber: 11
+street: Geiststraße
+housenumber: "11"
 phone: ""
-opening_hours: "Fr[1] 11:00-18:00; Sa[1] 10:00-15:00; Termine nach Vereinbarung"
+opening_hours: Fr[1] 11:00-18:00; Sa[1] 10:00-15:00; "Termine nach Vereinbarung"
 website: ""

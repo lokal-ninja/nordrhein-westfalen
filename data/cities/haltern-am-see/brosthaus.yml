@@ -4,8 +4,8 @@ latitude: 51.74355
 longitude: 7.1877
 postcode: "45721"
 city: Haltern am See
-street: "Mühlenstraße"
-housenumber: 4
-phone: "+49 2364 2279"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su[1] 14:00-18:00"
-website: "http://www.brosthaus.de"
+street: Mühlenstraße
+housenumber: "4"
+phone: +49 2364 2279
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su[1] 14:00-18:00
+website: http://www.brosthaus.de

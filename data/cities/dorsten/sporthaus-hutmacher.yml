@@ -1,11 +1,11 @@
 id: 169036099
-type: way
+type: node
 latitude: 51.6626
 longitude: 6.96402
 postcode: "46282"
 city: Dorsten
-street: "Lippestraße"
-housenumber: 33
-phone: "+49 2362 27909"
+street: Lippestraße
+housenumber: "33"
+phone: +49 2362 27909
 opening_hours: ""
 website: ""

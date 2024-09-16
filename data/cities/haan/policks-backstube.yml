@@ -4,8 +4,8 @@ latitude: 51.19919
 longitude: 7.01561
 postcode: "42781"
 city: Haan
-street: "Alleestraße"
-housenumber: 17
+street: Alleestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00; Su 08:00-12:00"
-website: "https://www.policks-backstube.de/"
+opening_hours: Mo-Sa 06:00-19:00; Su 08:00-12:00
+website: https://www.policks-backstube.de/

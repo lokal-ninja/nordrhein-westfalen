@@ -1,11 +1,11 @@
 id: 24646092
-type: way
+type: node
 latitude: 50.66743
 longitude: 7.18009
 postcode: "53179"
 city: Bonn
-street: "Drachenburgstraße"
-housenumber: 3
+street: Drachenburgstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de/

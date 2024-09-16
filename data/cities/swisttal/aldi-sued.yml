@@ -1,11 +1,11 @@
 id: 104450287
-type: way
+type: node
 latitude: 50.65404
 longitude: 6.88138
 postcode: "53913"
 city: Swisttal
-street: "Gewerbepark Odendorf"
-housenumber: 6
+street: Gewerbepark Odendorf
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-sued.de/"
+website: https://www.aldi-sued.de/

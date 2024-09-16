@@ -4,8 +4,8 @@ latitude: 51.6713
 longitude: 8.34541
 postcode: "59555"
 city: Lippstadt
-street: "Blumenstraße"
-housenumber: 8
-phone: "+49 2941 59950"
-opening_hours: "Mo-Fr 9:30-18:30; Sa 9:30-16:00"
-website: "https://www.euronics.de/lippstadt-schumacher/"
+street: Blumenstraße
+housenumber: "8"
+phone: +49 2941 59950
+opening_hours: Mo-Fr 9:30-18:30; Sa 9:30-16:00
+website: https://www.euronics.de/lippstadt-schumacher/

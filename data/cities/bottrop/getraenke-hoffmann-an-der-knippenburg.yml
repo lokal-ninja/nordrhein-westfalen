@@ -1,11 +1,11 @@
 id: 282271369
-type: way
+type: node
 latitude: 51.5152
 longitude: 6.95619
 postcode: "46238"
 city: Bottrop
-street: "An der Knippenburg"
-housenumber: 107
+street: An der Knippenburg
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hoffmann.de/startseite"
+website: https://www.getraenke-hoffmann.de/startseite

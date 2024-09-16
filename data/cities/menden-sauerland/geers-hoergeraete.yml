@@ -4,8 +4,8 @@ latitude: 51.43842
 longitude: 7.79424
 postcode: "58706"
 city: Menden (Sauerland)
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49 2373 7605955"
-opening_hours: "Mo,We,Fr 09:00-13:00,14:00-18:00; Tu,Th,Sa,Su,PH off"
+street: Hauptstraße
+housenumber: "53"
+phone: +49 2373 7605955
+opening_hours: Mo,We,Fr 09:00-13:00,14:00-18:00; Tu,Th,Sa,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 55012346
-type: way
+type: node
 latitude: 51.47008
 longitude: 7.04636
 postcode: "45141"
 city: Essen
-street: "Langemarckstraße"
-housenumber: 9
+street: Langemarckstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.03782
 longitude: 8.52475
 postcode: "33613"
 city: Bielefeld
-street: "Apfelstraße"
-housenumber: 8
+street: Apfelstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.denns-biomarkt.de/bielefeld-apfelstr-8/marktseite/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.denns-biomarkt.de/bielefeld-apfelstr-8/marktseite/

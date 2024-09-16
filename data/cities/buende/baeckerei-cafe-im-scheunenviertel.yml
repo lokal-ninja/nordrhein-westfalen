@@ -4,8 +4,8 @@ latitude: 52.20133
 longitude: 8.57234
 postcode: "32257"
 city: Bünde
-street: "Wilhelmstraße"
-housenumber: 
-phone: "+49 5223 1835213"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.schaefers-brot.de/"
+street: Wilhelmstraße
+housenumber: ""
+phone: +49 5223 1835213
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.schaefers-brot.de/

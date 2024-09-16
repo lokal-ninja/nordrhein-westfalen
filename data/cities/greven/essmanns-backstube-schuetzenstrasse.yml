@@ -1,11 +1,11 @@
 id: 259665231
-type: way
+type: node
 latitude: 52.08581
 longitude: 7.61679
 postcode: "48268"
 city: Greven
-street: "Schützenstraße"
-housenumber: 10
+street: Schützenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.4924
 longitude: 7.37528
 postcode: "44149"
 city: Dortmund
-street: "Brennaborstraße"
-housenumber: 5
+street: Brennaborstraße
+housenumber: "5"
 phone: "+492316185720"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.moevenpick-wein.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.moevenpick-wein.de/

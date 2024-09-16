@@ -1,11 +1,11 @@
 id: 50662225
-type: way
+type: node
 latitude: 51.86067
 longitude: 6.50132
 postcode: "46399"
 city: Bocholt
-street: "Sporker Straße"
-housenumber: 35
+street: Sporker Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

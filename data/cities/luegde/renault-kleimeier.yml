@@ -1,11 +1,11 @@
 id: 29043182
-type: way
+type: node
 latitude: 51.96755
 longitude: 9.25317
 postcode: "32676"
 city: Lügde
-street: "Siemensstraße"
-housenumber: 34
+street: Siemensstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

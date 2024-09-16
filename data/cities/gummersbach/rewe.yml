@@ -1,11 +1,11 @@
 id: 881759118
-type: way
+type: node
 latitude: 51.00301
 longitude: 7.57404
 postcode: "51645"
 city: Gummersbach
-street: "Am alten Bahnhof"
-housenumber: 5
+street: Am alten Bahnhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 183110122
-type: way
+type: node
 latitude: 51.81977
 longitude: 6.44529
 postcode: "46419"
 city: Isselburg
-street: "Bocholter Straße"
-housenumber: 6
+street: Bocholter Straße
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

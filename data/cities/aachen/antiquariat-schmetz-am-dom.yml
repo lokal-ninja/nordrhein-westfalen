@@ -4,8 +4,8 @@ latitude: 50.77457
 longitude: 6.08168
 postcode: ""
 city: Aachen
-street: "Rennbahn"
-housenumber: 13
+street: Rennbahn
+housenumber: "13"
 phone: ""
-opening_hours: "Th,Fr 14:00-18:00; Sa 10:15-14:00; Su-We,PH off"
-website: "https://aachen-buch.de/"
+opening_hours: Th,Fr 14:00-18:00; Sa 10:15-14:00; Su-We,PH off
+website: https://aachen-buch.de/

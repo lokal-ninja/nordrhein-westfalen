@@ -1,11 +1,11 @@
 id: 143106085
-type: way
+type: node
 latitude: 51.59574
 longitude: 6.16485
 postcode: "47652"
 city: Weeze
-street: "Flughafen-Ring"
-housenumber: 199
+street: Flughafen-Ring
+housenumber: "199"
 phone: ""
 opening_hours: ""
-website: "https://www.erlebe-fernreisen.de/"
+website: https://www.erlebe-fernreisen.de/

@@ -1,11 +1,11 @@
 id: 693801594
-type: way
+type: node
 latitude: 51.49082
 longitude: 6.88943
 postcode: "46047"
 city: Oberhausen
-street: "Brammenring"
-housenumber: 109
-phone: "+49 20888296460"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://myspaceplus.de/standort-oberhausen/"
+street: Brammenring
+housenumber: "109"
+phone: +49 20888296460
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://myspaceplus.de/standort-oberhausen/

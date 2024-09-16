@@ -1,11 +1,11 @@
 id: 155144505
-type: way
+type: node
 latitude: 50.89538
 longitude: 7.04573
 postcode: "51149"
 city: Köln
-street: "Kölner Straße"
-housenumber: 32
+street: Kölner Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

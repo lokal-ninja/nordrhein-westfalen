@@ -4,8 +4,8 @@ latitude: 51.93879
 longitude: 8.87004
 postcode: "32756"
 city: Detmold
-street: "Elisabethstraße"
-housenumber: 24
+street: Elisabethstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu, Th, Sa 10:00-13:00; We, Fr 14:00-17:00"
-website: "https://www.heimat-liebe-owl.de"
+opening_hours: Tu, Th, Sa 10:00-13:00; We, Fr 14:00-17:00
+website: https://www.heimat-liebe-owl.de

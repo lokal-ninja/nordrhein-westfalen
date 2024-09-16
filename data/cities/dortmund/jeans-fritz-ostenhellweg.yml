@@ -4,8 +4,8 @@ latitude: 51.51452
 longitude: 7.46956
 postcode: "44135"
 city: Dortmund
-street: "Ostenhellweg"
-housenumber: 28
-phone: "+49 231 9565379"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.jeans-fritz.de/"
+street: Ostenhellweg
+housenumber: "28"
+phone: +49 231 9565379
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.jeans-fritz.de/

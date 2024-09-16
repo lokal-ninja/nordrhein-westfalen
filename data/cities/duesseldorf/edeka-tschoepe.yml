@@ -4,8 +4,8 @@ latitude: 51.21396
 longitude: 6.80585
 postcode: "40227"
 city: Düsseldorf
-street: "Kölner Straße"
-housenumber: 252
-phone: "+49 211 5072835"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.edeka.de/"
+street: Kölner Straße
+housenumber: "252"
+phone: +49 211 5072835
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.edeka.de/

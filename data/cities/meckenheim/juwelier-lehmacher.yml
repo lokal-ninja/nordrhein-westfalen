@@ -1,11 +1,11 @@
 id: 367049145
-type: way
+type: node
 latitude: 50.62213
 longitude: 7.02225
 postcode: "53340"
 city: Meckenheim
-street: "Hauptstraße"
-housenumber: 77
+street: Hauptstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Tu-Fr 09:45-12:30,14:30-18:30; Sa 09:45-12:30"
+opening_hours: Tu-Fr 09:45-12:30,14:30-18:30; Sa 09:45-12:30
 website: ""

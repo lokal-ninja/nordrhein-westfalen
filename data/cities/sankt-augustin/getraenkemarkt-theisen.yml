@@ -4,8 +4,9 @@ latitude: 50.79359
 longitude: 7.16667
 postcode: "53757"
 city: Sankt Augustin
-street: "Siegstraße"
+street: Siegstraße
 housenumber: 2b
-phone: "+49 2241 315999"
-opening_hours: "May-Sep Sa 09:00-18:00; May-Sep Mo-Fr 09:00-19:00; Oct-Apr Mo-Fr 09:00-19:00; Oct-Apr Sa 09:00-16:00"
-website: "https://www.theisen-getraenke.de/"
+phone: +49 2241 315999
+opening_hours: May-Sep Sa 09:00-18:00; May-Sep Mo-Fr 09:00-19:00; Oct-Apr Mo-Fr 09:00-19:00;
+    Oct-Apr Sa 09:00-16:00
+website: https://www.theisen-getraenke.de/

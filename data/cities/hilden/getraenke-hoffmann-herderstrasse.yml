@@ -1,11 +1,11 @@
 id: 162988757
-type: way
+type: node
 latitude: 51.17449
 longitude: 6.92598
 postcode: "40721"
 city: Hilden
-street: "Herderstraße"
-housenumber: 16
+street: Herderstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hoffmann.de/filiale/hilden/herder-str-14-16"
+website: https://www.getraenke-hoffmann.de/filiale/hilden/herder-str-14-16

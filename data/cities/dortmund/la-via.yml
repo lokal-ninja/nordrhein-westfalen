@@ -4,8 +4,8 @@ latitude: 51.57065
 longitude: 7.3818
 postcode: "44359"
 city: Dortmund
-street: "Siegburgstraße"
-housenumber: 9
+street: Siegburgstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo-Sa 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
 website: ""

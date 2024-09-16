@@ -4,8 +4,8 @@ latitude: 50.7977
 longitude: 7.20829
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 2
-phone: "+49 2241 9756430"
-opening_hours: "Sa 10:00-16:00; Mo-Fr 09:30-18:00"
-website: "https://schmuckkontor.de/juwelier-in-siegburg"
+street: Kaiserstraße
+housenumber: "2"
+phone: +49 2241 9756430
+opening_hours: Sa 10:00-16:00; Mo-Fr 09:30-18:00
+website: https://schmuckkontor.de/juwelier-in-siegburg

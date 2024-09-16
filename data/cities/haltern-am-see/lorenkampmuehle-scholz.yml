@@ -1,11 +1,11 @@
 id: 288354104
-type: way
+type: node
 latitude: 51.73391
 longitude: 7.18376
 postcode: "45721"
 city: Haltern am See
-street: "Lorenkamp"
-housenumber: 9
-phone: "+49 2364 2035"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-14:00"
-website: "https://www.bioladen-haltern.de/#bio-laden"
+street: Lorenkamp
+housenumber: "9"
+phone: +49 2364 2035
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-14:00
+website: https://www.bioladen-haltern.de/#bio-laden

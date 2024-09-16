@@ -4,8 +4,8 @@ latitude: 51.72647
 longitude: 8.76561
 postcode: "33102"
 city: Paderborn
-street: "Cheruskerstraße"
-housenumber: 20
+street: Cheruskerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 07:45-16:30; Fr 07:45-15:30; Sa 09:00-12:00"
-website: "http://www.auto-zellerhoff.com"
+opening_hours: Mo-Th 07:45-16:30; Fr 07:45-15:30; Sa 09:00-12:00
+website: http://www.auto-zellerhoff.com

@@ -1,11 +1,12 @@
 id: 105885656
-type: way
+type: node
 latitude: 51.76931
 longitude: 8.8101
 postcode: "33175"
 city: Bad Lippspringe
-street: "Hohe Kamp"
-housenumber: 44
-phone: "+49 5252 98985 0"
-opening_hours: "Mar-Oct Mo-Fr 08:30-19:00; Sa 08:30-16:00, Su 09:00-16:00; Nov-Feb Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su 09:00-14:00"
-website: "https://www.hatta.de/"
+street: Hohe Kamp
+housenumber: "44"
+phone: +49 5252 98985 0
+opening_hours: Mar-Oct Mo-Fr 08:30-19:00; Sa 08:30-16:00, Su 09:00-16:00; Nov-Feb
+    Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su 09:00-14:00
+website: https://www.hatta.de/

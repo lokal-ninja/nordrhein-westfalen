@@ -4,8 +4,8 @@ latitude: 51.43911
 longitude: 7.01591
 postcode: "45130"
 city: Essen
-street: "Corneliastraße"
-housenumber: 13
+street: Corneliastraße
+housenumber: "13"
 phone: ""
-opening_hours: "Oct-Mar Mo-Fr 12:00-18:00, Sa 10:00-13:00; Apr-Sep Mo-Fr 08:30-14:30"
-website: "https://www.velowonka.com/"
+opening_hours: Oct-Mar Mo-Fr 12:00-18:00, Sa 10:00-13:00; Apr-Sep Mo-Fr 08:30-14:30
+website: https://www.velowonka.com/

@@ -1,11 +1,11 @@
 id: 368448211
-type: way
+type: node
 latitude: 51.23242
 longitude: 6.86623
 postcode: "40625"
 city: Düsseldorf
-street: "Quadenhofstraße"
+street: Quadenhofstraße
 housenumber: 151b
-phone: "+49 211 2880251"
+phone: +49 211 2880251
 opening_hours: ""
 website: ""

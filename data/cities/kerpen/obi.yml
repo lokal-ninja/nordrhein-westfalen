@@ -1,11 +1,11 @@
 id: 60044654
-type: way
+type: node
 latitude: 50.88284
 longitude: 6.69077
 postcode: "50171"
 city: Kerpen
-street: "Sindorfer Straße"
-housenumber: 44
-phone: "+49 2237 97476100"
+street: Sindorfer Straße
+housenumber: "44"
+phone: +49 2237 97476100
 opening_hours: ""
 website: ""

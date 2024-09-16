@@ -1,11 +1,11 @@
 id: 118005814
-type: way
+type: node
 latitude: 50.78945
 longitude: 6.11787
 postcode: "52070"
 city: Aachen
-street: "Jülicher Straße"
-housenumber: 358
+street: Jülicher Straße
+housenumber: "358"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/aachen/haaren-juelicher-str-358.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/filialen/aachen/haaren-juelicher-str-358.html

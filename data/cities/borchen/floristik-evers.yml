@@ -4,8 +4,8 @@ latitude: 51.62894
 longitude: 8.76139
 postcode: "33178"
 city: Borchen
-street: "Salzstraße"
-housenumber: 3
+street: Salzstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,14:30-18:00; Th 09:00-12:00; Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,14:30-18:00; Th 09:00-12:00; Sa 10:00-13:00
 website: ""

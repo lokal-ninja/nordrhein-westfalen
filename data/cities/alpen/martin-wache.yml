@@ -4,8 +4,8 @@ latitude: 51.60739
 longitude: 6.47978
 postcode: "46519"
 city: Alpen
-street: "Leuchtefurth"
-housenumber: 1
-phone: "+49 163 9867078"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 8:30-15:30"
-website: "https://www.genussregion-niederrhein.de/index.php?article_id=9&liste_id=104"
+street: Leuchtefurth
+housenumber: "1"
+phone: +49 163 9867078
+opening_hours: Mo-Fr 08:30-18:30; Sa 8:30-15:30
+website: https://www.genussregion-niederrhein.de/index.php?article_id=9&liste_id=104

@@ -1,11 +1,11 @@
 id: 98779983
-type: way
+type: node
 latitude: 50.79794
 longitude: 6.1037
 postcode: "52070"
 city: Aachen
-street: "Krefelder Straße"
-housenumber: 223
+street: Krefelder Straße
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.91333
 longitude: 8.38016
 postcode: "33330"
 city: Gütersloh
-street: "Vennstraße"
-housenumber: 40
+street: Vennstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/guetersloh-574"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/guetersloh-574

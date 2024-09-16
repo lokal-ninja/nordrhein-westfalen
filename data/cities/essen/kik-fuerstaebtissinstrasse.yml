@@ -4,8 +4,8 @@ latitude: 51.47177
 longitude: 6.94842
 postcode: "45355"
 city: Essen
-street: "Fürstäbtissinstraße"
-housenumber: 5
+street: Fürstäbtissinstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00; PH off"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-16:00; PH off
+website: https://www.kik.de/

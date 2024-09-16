@@ -1,11 +1,11 @@
 id: 251879148
-type: way
+type: node
 latitude: 51.22609
 longitude: 7.61573
 postcode: "58509"
 city: Lüdenscheid
-street: "Heedfelder Straße"
-housenumber: 60
+street: Heedfelder Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Th 07:45-16:00; Fr 07:45-13:00; Sa-Su off"
-website: "https://www.eha-autoschilder.de/niederlassungen/niederlassungen-g-m/luedenscheid/"
+opening_hours: Mo-Th 07:45-16:00; Fr 07:45-13:00; Sa-Su off
+website: https://www.eha-autoschilder.de/niederlassungen/niederlassungen-g-m/luedenscheid/

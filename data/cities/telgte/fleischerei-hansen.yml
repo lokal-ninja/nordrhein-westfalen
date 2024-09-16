@@ -1,11 +1,11 @@
 id: 221167227
-type: way
+type: node
 latitude: 51.98389
 longitude: 7.78575
 postcode: "48291"
 city: Telgte
-street: "Steinstraße"
-housenumber: 3
-phone: "+49 2504 1625"
-opening_hours: "Sa 08:30-13:30; Mo 09:00-14:00; Tu-Fr 09:00-18:30"
-website: "https://fleischerei-hansen.de/"
+street: Steinstraße
+housenumber: "3"
+phone: +49 2504 1625
+opening_hours: Sa 08:30-13:30; Mo 09:00-14:00; Tu-Fr 09:00-18:30
+website: https://fleischerei-hansen.de/

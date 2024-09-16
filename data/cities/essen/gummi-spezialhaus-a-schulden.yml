@@ -1,11 +1,11 @@
 id: 89683623
-type: way
+type: node
 latitude: 51.47311
 longitude: 7.04572
 postcode: "45141"
 city: Essen
-street: "Zeche Ernestine"
-housenumber: 23
-phone: "+49 201 22 19 19"
-opening_hours: "Mo-Fr 07:30-15:30"
-website: "https://www.gummi-spezialhaus.de"
+street: Zeche Ernestine
+housenumber: "23"
+phone: +49 201 22 19 19
+opening_hours: Mo-Fr 07:30-15:30
+website: https://www.gummi-spezialhaus.de

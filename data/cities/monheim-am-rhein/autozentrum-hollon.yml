@@ -1,11 +1,11 @@
 id: 145128491
-type: way
+type: node
 latitude: 51.10337
 longitude: 6.90259
 postcode: "40789"
 city: Monheim am Rhein
-street: "Niederstraße"
-housenumber: 89
+street: Niederstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

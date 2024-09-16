@@ -1,11 +1,11 @@
 id: 495744212
-type: way
+type: node
 latitude: 51.51698
 longitude: 7.42449
 postcode: "44149"
 city: Dortmund
-street: "Arminiusstraße"
-housenumber: 51
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+street: Arminiusstraße
+housenumber: "51"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

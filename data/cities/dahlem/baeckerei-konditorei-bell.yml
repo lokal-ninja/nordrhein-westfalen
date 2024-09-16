@@ -4,8 +4,8 @@ latitude: 50.41637
 longitude: 6.56023
 postcode: "53949"
 city: Dahlem
-street: "Hauptstraße"
-housenumber: 54
-phone: "+49 2447 9179200"
-opening_hours: "Mo-Fr 06:15-17:00; Sa 06:15-13:00; Su 7:00-11:00"
-website: "https://www.baeckerei-bell.de"
+street: Hauptstraße
+housenumber: "54"
+phone: +49 2447 9179200
+opening_hours: Mo-Fr 06:15-17:00; Sa 06:15-13:00; Su 7:00-11:00
+website: https://www.baeckerei-bell.de

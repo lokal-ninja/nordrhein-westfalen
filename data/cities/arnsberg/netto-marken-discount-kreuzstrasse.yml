@@ -1,11 +1,11 @@
 id: 1218348621
-type: way
+type: node
 latitude: 51.42085
 longitude: 7.96664
 postcode: "59757"
 city: Arnsberg
-street: "Kreuzstraße"
-housenumber: 7
+street: Kreuzstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

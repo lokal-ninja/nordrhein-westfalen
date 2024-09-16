@@ -4,8 +4,8 @@ latitude: 51.48251
 longitude: 7.2118
 postcode: "44787"
 city: Bochum
-street: "Westring"
-housenumber: 37
-phone: "+49 234 90402240"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.queenscut.de"
+street: Westring
+housenumber: "37"
+phone: +49 234 90402240
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.queenscut.de

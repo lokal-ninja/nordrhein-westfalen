@@ -4,8 +4,8 @@ latitude: 51.03224
 longitude: 6.98678
 postcode: "51373"
 city: Leverkusen
-street: "Wiesdorfer Platz"
-housenumber: 7
-phone: "+49 214 31226890"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "http://www.vipfriseur.de/"
+street: Wiesdorfer Platz
+housenumber: "7"
+phone: +49 214 31226890
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: http://www.vipfriseur.de/

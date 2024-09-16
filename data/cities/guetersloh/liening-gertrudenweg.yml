@@ -1,11 +1,11 @@
 id: 279540261
-type: way
+type: node
 latitude: 51.90286
 longitude: 8.43747
 postcode: "33335"
 city: Gütersloh
-street: "Gertrudenweg"
-housenumber: 70
+street: Gertrudenweg
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 07:00-11:00"
+opening_hours: Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 07:00-11:00
 website: ""

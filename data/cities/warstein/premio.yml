@@ -1,11 +1,11 @@
 id: 136105710
-type: way
+type: node
 latitude: 51.45634
 longitude: 8.34878
 postcode: "59581"
 city: Warstein
-street: "Belecker Landstraße"
-housenumber: 37
+street: Belecker Landstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

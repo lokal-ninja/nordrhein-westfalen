@@ -4,8 +4,8 @@ latitude: 51.33401
 longitude: 7.27956
 postcode: "45549"
 city: Sprockhövel
-street: "Mittelstraße"
-housenumber: 13
-phone: "+49 2339 2217"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH,Su off"
-website: "https://www.gimbel-heimdecor.de"
+street: Mittelstraße
+housenumber: "13"
+phone: +49 2339 2217
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH,Su off
+website: https://www.gimbel-heimdecor.de

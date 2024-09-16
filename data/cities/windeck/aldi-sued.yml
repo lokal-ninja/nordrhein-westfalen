@@ -1,11 +1,11 @@
 id: 35899375
-type: way
+type: node
 latitude: 50.8015
 longitude: 7.60822
 postcode: "51570"
 city: Windeck
-street: "Hurster Straße"
-housenumber: 1
+street: Hurster Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

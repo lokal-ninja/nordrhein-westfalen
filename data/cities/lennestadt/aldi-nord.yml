@@ -4,8 +4,8 @@ latitude: 51.10254
 longitude: 8.07124
 postcode: "57368"
 city: Lennestadt
-street: "Hundemstraße"
-housenumber: 44
+street: Hundemstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/

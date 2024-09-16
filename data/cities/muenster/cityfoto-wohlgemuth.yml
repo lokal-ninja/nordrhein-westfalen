@@ -1,11 +1,11 @@
 id: 263379055
-type: way
+type: node
 latitude: 51.90368
 longitude: 7.64186
 postcode: "48165"
 city: Münster
-street: "Marktallee"
-housenumber: 30
-phone: "+49 2501 28000"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:30-13:00"
-website: "http://cityfoto-muenster.de/"
+street: Marktallee
+housenumber: "30"
+phone: +49 2501 28000
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:30-13:00
+website: http://cityfoto-muenster.de/

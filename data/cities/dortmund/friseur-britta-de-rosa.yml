@@ -4,8 +4,8 @@ latitude: 51.49827
 longitude: 7.48668
 postcode: "44141"
 city: Dortmund
-street: "Märkische Straße"
-housenumber: 205
-phone: "+49 231 123973"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 09:00-14:00; PH off"
-website: "https://www.friseur-derosa.de/"
+street: Märkische Straße
+housenumber: "205"
+phone: +49 231 123973
+opening_hours: Tu-Fr 08:30-17:30; Sa 09:00-14:00; PH off
+website: https://www.friseur-derosa.de/

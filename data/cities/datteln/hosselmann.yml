@@ -1,11 +1,11 @@
 id: 110749328
-type: way
+type: node
 latitude: 51.66539
 longitude: 7.34728
 postcode: "45711"
 city: Datteln
-street: "Bülowstraße"
-housenumber: 72
+street: Bülowstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00; Su 08:00-17:00"
-website: "https://hosselmann.de/"
+opening_hours: Mo-Sa 06:00-19:00; Su 08:00-17:00
+website: https://hosselmann.de/

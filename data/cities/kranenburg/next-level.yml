@@ -1,11 +1,11 @@
 id: 254560044
-type: way
+type: node
 latitude: 51.78919
 longitude: 6.01075
 postcode: "47559"
 city: Kranenburg
-street: "Große Straße"
-housenumber: 2
+street: Große Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

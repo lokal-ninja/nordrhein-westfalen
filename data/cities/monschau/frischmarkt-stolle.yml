@@ -4,8 +4,8 @@ latitude: 50.52128
 longitude: 6.22021
 postcode: "52156"
 city: Monschau
-street: "Monschauer Straße"
-housenumber: 1
-phone: "+49 2472 2937"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.ihr-frischmarkt.de/frischmarkt/stolle"
+street: Monschauer Straße
+housenumber: "1"
+phone: +49 2472 2937
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-16:00; Su,PH off
+website: https://www.ihr-frischmarkt.de/frischmarkt/stolle

@@ -1,11 +1,11 @@
 id: 35321482
-type: way
+type: node
 latitude: 51.17796
 longitude: 7.21882
 postcode: "42855"
 city: Remscheid
-street: "Neuenkamper Straße"
-housenumber: 71
+street: Neuenkamper Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

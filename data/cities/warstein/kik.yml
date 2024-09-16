@@ -1,11 +1,11 @@
 id: 129982947
-type: way
+type: node
 latitude: 51.48833
 longitude: 8.33551
 postcode: "59581"
 city: Warstein
-street: "Bahnhofstraße"
-housenumber: 46
+street: Bahnhofstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

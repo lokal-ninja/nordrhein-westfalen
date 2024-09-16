@@ -1,11 +1,11 @@
 id: 274048090
-type: way
+type: node
 latitude: 51.1018
 longitude: 6.17988
 postcode: "41849"
 city: Wassenberg
-street: "Erkelenzer Straße"
-housenumber: 109
+street: Erkelenzer Straße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

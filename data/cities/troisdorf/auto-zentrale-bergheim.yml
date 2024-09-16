@@ -1,11 +1,11 @@
 id: 85071869
-type: way
+type: node
 latitude: 50.78026
 longitude: 7.08491
 postcode: "53844"
 city: Troisdorf
-street: "Glockenstraße"
-housenumber: 90
-phone: "+49 228 4220084"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://troisdorf-mietwerkstatt.de/"
+street: Glockenstraße
+housenumber: "90"
+phone: +49 228 4220084
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://troisdorf-mietwerkstatt.de/

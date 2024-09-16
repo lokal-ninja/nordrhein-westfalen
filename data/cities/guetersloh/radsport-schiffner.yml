@@ -4,8 +4,8 @@ latitude: 51.90506
 longitude: 8.39229
 postcode: "33332"
 city: Gütersloh
-street: "Carl-Bertelsmann-Straße"
-housenumber: 53
+street: Carl-Bertelsmann-Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.radsport-schiffner.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
+website: https://www.radsport-schiffner.de/

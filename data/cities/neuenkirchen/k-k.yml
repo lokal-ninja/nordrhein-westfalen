@@ -1,11 +1,11 @@
 id: 459578447
-type: way
+type: node
 latitude: 52.24071
 longitude: 7.36804
 postcode: "48485"
 city: Neuenkirchen
-street: "Wettringer Straße"
-housenumber: 3
+street: Wettringer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.95806
 longitude: 7.0106
 postcode: "51065"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 79
+street: Frankfurter Straße
+housenumber: "79"
 phone: "+49221619882"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
-website: "https://www.sauberland-koeln.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
+website: https://www.sauberland-koeln.de/

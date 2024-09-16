@@ -1,11 +1,11 @@
 id: 675413885
-type: way
+type: node
 latitude: 51.90721
 longitude: 7.48177
 postcode: "48308"
 city: Senden
-street: "Im Südfeld"
-housenumber: 94
+street: Im Südfeld
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.autofranz.de/"
+website: https://www.autofranz.de/

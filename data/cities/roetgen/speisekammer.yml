@@ -1,11 +1,11 @@
 id: 93307928
-type: way
+type: node
 latitude: 50.6455
 longitude: 6.18719
 postcode: "52159"
 city: Roetgen
-street: "Bundesstraße"
+street: Bundesstraße
 housenumber: 23a
-phone: "+49 2471 1338485"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "https://www.speisekammer-roetgen.de/"
+phone: +49 2471 1338485
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
+website: https://www.speisekammer-roetgen.de/

@@ -1,11 +1,11 @@
 id: 282951210
-type: way
+type: node
 latitude: 51.6008
 longitude: 7.05048
 postcode: "45896"
 city: Gelsenkirchen
-street: "Polsumer Straße"
-housenumber: 182
+street: Polsumer Straße
+housenumber: "182"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
 website: ""

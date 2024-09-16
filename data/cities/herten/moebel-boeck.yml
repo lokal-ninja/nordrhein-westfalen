@@ -1,11 +1,11 @@
 id: 224956996
-type: way
+type: node
 latitude: 51.61372
 longitude: 7.11654
 postcode: "45701"
 city: Herten
-street: "Feldstraße"
-housenumber: 279
+street: Feldstraße
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

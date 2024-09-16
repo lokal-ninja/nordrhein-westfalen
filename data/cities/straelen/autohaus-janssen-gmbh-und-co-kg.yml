@@ -1,11 +1,11 @@
 id: 146759081
-type: way
+type: node
 latitude: 51.44423
 longitude: 6.27702
 postcode: "47638"
 city: Straelen
-street: "An der Oelmühle"
-housenumber: 12
-phone: "+49 2834 2422"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://www.autohaus-janssen.de/"
+street: An der Oelmühle
+housenumber: "12"
+phone: +49 2834 2422
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://www.autohaus-janssen.de/

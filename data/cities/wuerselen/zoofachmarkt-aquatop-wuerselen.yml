@@ -1,11 +1,11 @@
 id: 33692358
-type: way
+type: node
 latitude: 50.80695
 longitude: 6.15934
 postcode: "52146"
 city: Würselen
-street: "Sankt-Jobser-Straße"
-housenumber: 57
+street: Sankt-Jobser-Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.aquatop-aachen.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.aquatop-aachen.de

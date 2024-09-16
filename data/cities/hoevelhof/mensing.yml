@@ -1,11 +1,11 @@
 id: 332033434
-type: way
+type: node
 latitude: 51.82146
 longitude: 8.60615
 postcode: "33161"
 city: Hövelhof
-street: "Balkenweg"
-housenumber: 15
+street: Balkenweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

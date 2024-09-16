@@ -4,8 +4,8 @@ latitude: 51.14242
 longitude: 6.89528
 postcode: "40595"
 city: Düsseldorf
-street: "Wolfgang-Döring-Straße"
-housenumber: 4
+street: Wolfgang-Döring-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
-website: "http://www.roesener.com"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
+website: http://www.roesener.com

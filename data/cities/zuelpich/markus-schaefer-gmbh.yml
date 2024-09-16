@@ -1,11 +1,11 @@
 id: 275345937
-type: way
+type: node
 latitude: 50.70124
 longitude: 6.65893
 postcode: "53909"
 city: Zülpich
-street: "Bergheimer Straße"
-housenumber: 7
+street: Bergheimer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.autoservice.com/3b4d980e-738d-4587-b741-769cd89ae780/schaefer-markus-gmbh#"
+website: https://www.autoservice.com/3b4d980e-738d-4587-b741-769cd89ae780/schaefer-markus-gmbh#

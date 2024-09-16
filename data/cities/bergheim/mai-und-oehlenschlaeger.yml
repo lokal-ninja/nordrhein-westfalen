@@ -1,11 +1,11 @@
 id: 319640076
-type: way
+type: node
 latitude: 50.94699
 longitude: 6.62121
 postcode: "50126"
 city: Bergheim
-street: "Heisenbergstraße"
-housenumber: 14
+street: Heisenbergstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30; PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:30; PH off
 website: ""

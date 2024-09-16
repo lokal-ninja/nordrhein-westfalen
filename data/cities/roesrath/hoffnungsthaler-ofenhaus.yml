@@ -1,11 +1,11 @@
 id: 219709477
-type: way
+type: node
 latitude: 50.92542
 longitude: 7.19759
 postcode: "51503"
 city: Rösrath
-street: "Bergische Landstraße"
-housenumber: 38
+street: Bergische Landstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

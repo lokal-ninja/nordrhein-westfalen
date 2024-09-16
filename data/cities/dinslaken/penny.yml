@@ -1,11 +1,11 @@
 id: 425979144
-type: way
+type: node
 latitude: 51.57782
 longitude: 6.74578
 postcode: "46537"
 city: Dinslaken
-street: "Augustastraße"
-housenumber: 183
+street: Augustastraße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

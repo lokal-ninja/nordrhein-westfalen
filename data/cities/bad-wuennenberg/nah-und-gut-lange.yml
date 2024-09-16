@@ -1,11 +1,11 @@
 id: 249788239
-type: way
+type: node
 latitude: 51.51509
 longitude: 8.74208
 postcode: "33181"
 city: Bad Wünnenberg
-street: "Forstenburgstraße"
-housenumber: 7
+street: Forstenburgstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:30, 14:30-18:00; Sa 7:00-13:00"
+opening_hours: Mo-Fr 8:00-12:30, 14:30-18:00; Sa 7:00-13:00
 website: ""

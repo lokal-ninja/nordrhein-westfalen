@@ -1,11 +1,11 @@
 id: 757734335
-type: way
+type: node
 latitude: 51.81202
 longitude: 8.43571
 postcode: "33397"
 city: Rietberg
-street: "Westerwieher Straße"
-housenumber: 46
+street: Westerwieher Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

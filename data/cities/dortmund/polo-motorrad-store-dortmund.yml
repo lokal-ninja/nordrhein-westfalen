@@ -4,8 +4,8 @@ latitude: 51.49392
 longitude: 7.36752
 postcode: "44149"
 city: Dortmund
-street: "Brandschachtstraße"
-housenumber: 2
+street: Brandschachtstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; PH,Su off; Sa 10:00-18:00"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-dortmund"
+opening_hours: Mo-Fr 10:00-19:00; PH,Su off; Sa 10:00-18:00
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-dortmund

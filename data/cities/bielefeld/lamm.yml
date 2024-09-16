@@ -4,8 +4,8 @@ latitude: 52.05735
 longitude: 8.55201
 postcode: "33611"
 city: Bielefeld
-street: "Westerfeldstraße"
-housenumber: 6
-phone: "+49-521-98917127"
-opening_hours: "Mo-Sa 06:30-19:00; Sa 06:30-16:00; Su 07:30-11:30"
+street: Westerfeldstraße
+housenumber: "6"
+phone: +49-521-98917127
+opening_hours: Mo-Sa 06:30-19:00; Sa 06:30-16:00; Su 07:30-11:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.76368
 longitude: 8.56414
 postcode: "33129"
 city: Delbrück
-street: "Oststraße"
-housenumber: 2
-phone: "+49 211 30146100"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.de"
+street: Oststraße
+housenumber: "2"
+phone: +49 211 30146100
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.de

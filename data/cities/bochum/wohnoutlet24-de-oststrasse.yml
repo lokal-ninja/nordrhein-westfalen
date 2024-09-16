@@ -4,8 +4,8 @@ latitude: 51.48111
 longitude: 7.13401
 postcode: "44866"
 city: Bochum
-street: "Oststraße"
-housenumber: 9
+street: Oststraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.46009
 longitude: 6.58579
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Paschenweg"
-housenumber: 52
-phone: "+49 2845 4424"
-opening_hours: "24/7"
-website: "https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=234"
+street: Paschenweg
+housenumber: "52"
+phone: +49 2845 4424
+opening_hours: 24/7
+website: https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=234

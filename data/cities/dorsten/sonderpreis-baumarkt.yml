@@ -1,11 +1,11 @@
 id: 533579066
-type: way
+type: node
 latitude: 51.65101
 longitude: 6.98206
 postcode: "46282"
 city: Dorsten
-street: "Händelstraße"
-housenumber: 161
+street: Händelstraße
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off
 website: ""

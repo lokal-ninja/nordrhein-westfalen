@@ -4,8 +4,8 @@ latitude: 51.95448
 longitude: 7.61747
 postcode: "48151"
 city: Münster
-street: "Scharnhorststraße"
-housenumber: 14
-phone: "+49 251 53953670"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.haareszeiten-haarlounge.de/"
+street: Scharnhorststraße
+housenumber: "14"
+phone: +49 251 53953670
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.haareszeiten-haarlounge.de/

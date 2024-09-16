@@ -4,8 +4,8 @@ latitude: 51.45414
 longitude: 7.00996
 postcode: "45127"
 city: Essen
-street: "Lindenallee"
-housenumber: 10
-phone: "+49 201 2 486 983"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.cove.de/"
+street: Lindenallee
+housenumber: "10"
+phone: +49 201 2 486 983
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.cove.de/

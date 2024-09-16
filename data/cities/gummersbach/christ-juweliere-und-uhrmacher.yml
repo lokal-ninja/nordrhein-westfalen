@@ -1,11 +1,11 @@
 id: 303659873
-type: way
+type: node
 latitude: 51.02744
 longitude: 7.56536
 postcode: "51643"
 city: Gummersbach
-street: "Kaiserstraße"
-housenumber: 24
+street: Kaiserstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

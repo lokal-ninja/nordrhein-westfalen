@@ -4,8 +4,8 @@ latitude: 51.51536
 longitude: 7.25794
 postcode: "44805"
 city: Bochum
-street: "Wiescherstraße"
-housenumber: 3
+street: Wiescherstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:30; Sa 08:00-13:00"
+opening_hours: Tu-Fr 09:00-17:30; Sa 08:00-13:00
 website: ""

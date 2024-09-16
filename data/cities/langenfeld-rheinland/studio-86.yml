@@ -1,11 +1,11 @@
 id: 1301333247
-type: way
+type: node
 latitude: 51.11205
 longitude: 6.95067
 postcode: "40764"
 city: Langenfeld (Rheinland)
 street: ""
-housenumber: 1
-phone: "+49 2173 912012"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.studio86.de/"
+housenumber: "1"
+phone: +49 2173 912012
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.studio86.de/

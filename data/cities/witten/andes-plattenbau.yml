@@ -4,8 +4,8 @@ latitude: 51.43858
 longitude: 7.33274
 postcode: "58452"
 city: Witten
-street: "Nordstraße"
-housenumber: 2
+street: Nordstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-15:00; Su,PH off"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-15:00; Su,PH off
 website: ""

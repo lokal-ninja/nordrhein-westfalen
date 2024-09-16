@@ -4,8 +4,8 @@ latitude: 51.51545
 longitude: 7.46386
 postcode: "44137"
 city: Dortmund
-street: "Hansastraße"
+street: Hansastraße
 housenumber: 7-11
-phone: "+49 231 141075"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-14:00"
-website: "https://www.vanbremen.de/"
+phone: +49 231 141075
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-14:00
+website: https://www.vanbremen.de/

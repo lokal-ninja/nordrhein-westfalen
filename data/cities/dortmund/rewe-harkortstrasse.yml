@@ -4,8 +4,8 @@ latitude: 51.47593
 longitude: 7.44246
 postcode: "44225"
 city: Dortmund
-street: "Harkortstraße"
-housenumber: 35
-phone: "+49 231 715247"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe-schulenburg.de/"
+street: Harkortstraße
+housenumber: "35"
+phone: +49 231 715247
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe-schulenburg.de/

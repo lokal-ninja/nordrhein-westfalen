@@ -4,8 +4,8 @@ latitude: 51.25851
 longitude: 7.15287
 postcode: "42103"
 city: Wuppertal
-street: "Kipdorf"
-housenumber: 68
+street: Kipdorf
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:30-24:00, Sa 10:30-24:00, Su 12:00-24:00"
+opening_hours: Mo-Fr 09:30-24:00, Sa 10:30-24:00, Su 12:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 103645996
-type: way
+type: node
 latitude: 51.47797
 longitude: 7.53478
 postcode: "44269"
 city: Dortmund
-street: "Berghofer Straße"
-housenumber: 153
+street: Berghofer Straße
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

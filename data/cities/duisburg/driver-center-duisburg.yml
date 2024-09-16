@@ -1,11 +1,11 @@
 id: 124393068
-type: way
+type: node
 latitude: 51.4168
 longitude: 6.69654
 postcode: "47228"
 city: Duisburg
-street: "Bergheimer Straße"
+street: Bergheimer Straße
 housenumber: 109 A
-phone: "+49 (0)2065 60071"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.drivercenter.eu/de-de/standorte/driver-duisburg"
+phone: +49 (0)2065 60071
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.drivercenter.eu/de-de/standorte/driver-duisburg

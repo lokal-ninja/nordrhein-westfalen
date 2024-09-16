@@ -4,8 +4,8 @@ latitude: 51.18903
 longitude: 6.81823
 postcode: "40591"
 city: Düsseldorf
-street: "Liebfrauenstraße"
-housenumber: 5
-phone: "+49 15205761871"
-opening_hours: "Mo-Fr 10:00-13:00, Sa 09:00-13:00, Mo-Fr 15:00-18:30"
+street: Liebfrauenstraße
+housenumber: "5"
+phone: +49 15205761871
+opening_hours: Mo-Fr 10:00-13:00, Sa 09:00-13:00, Mo-Fr 15:00-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.47099
 longitude: 7.3186
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 52
-phone: "+49 234 286557"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "https://www.lechniak.de/"
+street: Alte Bahnhofstraße
+housenumber: "52"
+phone: +49 234 286557
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: https://www.lechniak.de/

@@ -4,8 +4,8 @@ latitude: 51.25186
 longitude: 6.82129
 postcode: "40470"
 city: Düsseldorf
-street: "Lenaustraße"
-housenumber: 1
+street: Lenaustraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:30-15:30; Sa 06:30-12:00"
+opening_hours: Mo-Fr 05:30-15:30; Sa 06:30-12:00
 website: ""

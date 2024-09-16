@@ -1,11 +1,11 @@
 id: 376833911
-type: way
+type: node
 latitude: 50.9082
 longitude: 6.67255
 postcode: "50170"
 city: Kerpen
-street: "Kerpener Straße"
-housenumber: 4
-phone: "+49 2273 914620"
+street: Kerpener Straße
+housenumber: "4"
+phone: +49 2273 914620
 opening_hours: ""
 website: ""

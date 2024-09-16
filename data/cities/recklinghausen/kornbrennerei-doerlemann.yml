@@ -1,11 +1,11 @@
 id: 253115194
-type: way
+type: node
 latitude: 51.62358
 longitude: 7.25297
 postcode: "45665"
 city: Recklinghausen
-street: "Marfeldstraße"
-housenumber: 18
+street: Marfeldstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

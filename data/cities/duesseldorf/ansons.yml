@@ -4,8 +4,8 @@ latitude: 51.22527
 longitude: 6.78108
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 11
+street: Schadowstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ansons.de/ansons-haeuser/duesseldorf/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ansons.de/ansons-haeuser/duesseldorf/

@@ -1,11 +1,11 @@
 id: 276084002
-type: way
+type: node
 latitude: 50.81768
 longitude: 6.15613
 postcode: "52146"
 city: Würselen
-street: "Hauptstraße"
-housenumber: 206
+street: Hauptstraße
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

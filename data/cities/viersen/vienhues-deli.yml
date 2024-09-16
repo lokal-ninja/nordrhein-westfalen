@@ -4,8 +4,8 @@ latitude: 51.25515
 longitude: 6.39893
 postcode: "41747"
 city: Viersen
-street: "Freiheitsstraße"
-housenumber: 200
+street: Freiheitsstraße
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://biomarkt.com/bio-deli.php"
+opening_hours: Mo-Fr 09:00-16:00
+website: https://biomarkt.com/bio-deli.php

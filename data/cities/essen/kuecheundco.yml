@@ -1,11 +1,11 @@
 id: 121251685
-type: way
+type: node
 latitude: 51.43237
 longitude: 7.03625
 postcode: "45136"
 city: Essen
-street: "Rellinghauser Straße"
+street: Rellinghauser Straße
 housenumber: 334H
-phone: "+49201 220266-06"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-15:00; Su,PH off"
-website: "https://www.kueche-co.de/"
+phone: +49201 220266-06
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-15:00; Su,PH off
+website: https://www.kueche-co.de/

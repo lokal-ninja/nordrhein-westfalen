@@ -1,11 +1,11 @@
 id: 314249279
-type: way
+type: node
 latitude: 51.4569
 longitude: 7.00952
 postcode: "45127"
 city: Essen
-street: "Salzmarkt"
-housenumber: 8
+street: Salzmarkt
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 268615631
-type: way
+type: node
 latitude: 50.81382
 longitude: 7.17256
 postcode: "53840"
 city: Troisdorf
-street: "Aggerstraße"
-housenumber: 4
+street: Aggerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

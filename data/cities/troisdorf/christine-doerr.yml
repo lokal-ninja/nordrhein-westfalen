@@ -1,11 +1,11 @@
 id: 87198041
-type: way
+type: node
 latitude: 50.77898
 longitude: 7.09745
 postcode: "53844"
 city: Troisdorf
-street: "Helene-Weber-Straße"
-housenumber: 47
+street: Helene-Weber-Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

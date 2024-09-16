@@ -4,8 +4,8 @@ latitude: 50.69902
 longitude: 7.18787
 postcode: "53639"
 city: Königswinter
-street: "Lindenstraße"
-housenumber: 21
+street: Lindenstraße
+housenumber: "21"
 phone: "+49222328759"
-opening_hours: "Mo-Fr 10:00-13:00, Th,Fr 15:00-18:00, Sa 10:00-13:00"
-website: "https://www.lukasundschwarz.de/"
+opening_hours: Mo-Fr 10:00-13:00, Th,Fr 15:00-18:00, Sa 10:00-13:00
+website: https://www.lukasundschwarz.de/

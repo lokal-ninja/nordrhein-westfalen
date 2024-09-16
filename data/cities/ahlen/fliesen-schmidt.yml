@@ -1,11 +1,11 @@
 id: 287013148
-type: way
+type: node
 latitude: 51.76314
 longitude: 7.90577
 postcode: "59229"
 city: Ahlen
-street: "Ostbredenstraße"
-housenumber: 36
+street: Ostbredenstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

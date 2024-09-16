@@ -4,8 +4,8 @@ latitude: 50.92279
 longitude: 6.36273
 postcode: "52428"
 city: Jülich
-street: "Kölnstraße"
-housenumber: 44
-phone: "+49 2461 341364"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-14:30"
-website: "http://www.telekomshop.de/"
+street: Kölnstraße
+housenumber: "44"
+phone: +49 2461 341364
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-14:30
+website: http://www.telekomshop.de/

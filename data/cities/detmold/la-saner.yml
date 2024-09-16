@@ -4,8 +4,8 @@ latitude: 51.93561
 longitude: 8.87671
 postcode: "32756"
 city: Detmold
-street: "Bruchstraße"
-housenumber: 21
-phone: "+49 5231 27378"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.lasaner.de/"
+street: Bruchstraße
+housenumber: "21"
+phone: +49 5231 27378
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.lasaner.de/

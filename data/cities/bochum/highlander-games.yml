@@ -4,8 +4,8 @@ latitude: 51.4799
 longitude: 7.21956
 postcode: "44787"
 city: Bochum
-street: "Huestraße"
-housenumber: 20
-phone: ""
-opening_hours: ""
-website: ""
+street: Huestraße
+housenumber: "20"
+phone: +49 234 97659700
+opening_hours: Mo-Th 11:00-19:00; Fr 11:00-20:00; Sa 11:00-18:00; PH off
+website: https://highlander-games.de

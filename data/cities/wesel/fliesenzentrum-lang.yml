@@ -1,11 +1,11 @@
 id: 185143668
-type: way
+type: node
 latitude: 51.66406
 longitude: 6.66734
 postcode: "46485"
 city: Wesel
-street: "Rudolf-Diesel-Straße"
-housenumber: 20
+street: Rudolf-Diesel-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

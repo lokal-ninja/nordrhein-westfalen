@@ -4,8 +4,8 @@ latitude: 51.43373
 longitude: 6.78305
 postcode: "47058"
 city: Duisburg
-street: "Winkelstraße"
-housenumber: 32
-phone: "+49 203 332758"
+street: Winkelstraße
+housenumber: "32"
+phone: +49 203 332758
 opening_hours: ""
-website: "https://kfztechnikschulz.de"
+website: https://kfztechnikschulz.de

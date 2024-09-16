@@ -1,11 +1,11 @@
 id: 301921474
-type: way
+type: node
 latitude: 50.82653
 longitude: 6.09085
 postcode: "52134"
 city: Herzogenrath
-street: "Josef-Lambertz-Straße"
-housenumber: 57
+street: Josef-Lambertz-Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

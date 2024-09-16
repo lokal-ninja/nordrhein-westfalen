@@ -1,11 +1,11 @@
 id: 319245357
-type: way
+type: node
 latitude: 51.12806
 longitude: 7.61974
 postcode: "58566"
 city: Kierspe
-street: "Volmestraße"
-housenumber: 147
+street: Volmestraße
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

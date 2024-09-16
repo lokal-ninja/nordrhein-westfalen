@@ -1,11 +1,11 @@
 id: 251070202
-type: way
+type: node
 latitude: 51.77424
 longitude: 9.3792
 postcode: "37671"
 city: Höxter
-street: "Westerbachstraße"
-housenumber: 22
+street: Westerbachstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 242062909
-type: way
+type: node
 latitude: 51.78858
 longitude: 6.13986
 postcode: "47533"
 city: Kleve
-street: "Große Straße"
-housenumber: 19
-phone: "+49 2821 18387"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-16:00"
-website: "http://www.mode-gahlings.de/gahlings/filialen/kleve.html"
+street: Große Straße
+housenumber: "19"
+phone: +49 2821 18387
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-16:00
+website: http://www.mode-gahlings.de/gahlings/filialen/kleve.html

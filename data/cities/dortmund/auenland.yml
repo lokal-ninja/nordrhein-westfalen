@@ -4,8 +4,8 @@ latitude: 51.51452
 longitude: 7.47354
 postcode: "44135"
 city: Dortmund
-street: "Schwanenwall"
-housenumber: 7
+street: Schwanenwall
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Th 14:00-18:00; Mo off; Fr 14:00-21:00; Sa 10:00-17:00"
-website: "http://www.auenland.de"
+opening_hours: Tu-Th 14:00-18:00; Mo off; Fr 14:00-21:00; Sa 10:00-17:00
+website: http://www.auenland.de

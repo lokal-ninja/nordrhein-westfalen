@@ -4,8 +4,8 @@ latitude: 51.38279
 longitude: 7.08478
 postcode: "45257"
 city: Essen
-street: "Dilldorfer Straße"
-housenumber: 9
+street: Dilldorfer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "We,Fr 11:00-17:00; Sa[1] 10:00-14:00"
-website: "https://www.bfh-2handkaufhaus.de/"
+opening_hours: We,Fr 11:00-17:00; Sa[1] 10:00-14:00
+website: https://www.bfh-2handkaufhaus.de/

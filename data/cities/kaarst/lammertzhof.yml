@@ -1,11 +1,11 @@
 id: 156643932
-type: way
+type: node
 latitude: 51.20716
 longitude: 6.60145
 postcode: "41564"
 city: Kaarst
-street: "Neu Lammertzhof"
-housenumber: 
-phone: "+49 2131 757470"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00"
-website: "https://www.lammertzhof.net/"
+street: Neu Lammertzhof
+housenumber: ""
+phone: +49 2131 757470
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:00
+website: https://www.lammertzhof.net/

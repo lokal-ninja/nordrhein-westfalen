@@ -4,8 +4,8 @@ latitude: 50.73634
 longitude: 7.0974
 postcode: "53111"
 city: Bonn
-street: "Friedensplatz"
-housenumber: 7
+street: Friedensplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

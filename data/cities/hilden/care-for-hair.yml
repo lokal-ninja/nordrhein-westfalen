@@ -4,8 +4,8 @@ latitude: 51.16745
 longitude: 6.93322
 postcode: "40721"
 city: Hilden
-street: "Schulstraße"
-housenumber: 11
-phone: "+49 2103 51482"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.careforhair.de/"
+street: Schulstraße
+housenumber: "11"
+phone: +49 2103 51482
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.careforhair.de/

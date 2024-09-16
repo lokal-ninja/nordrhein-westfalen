@@ -4,8 +4,9 @@ latitude: 51.67645
 longitude: 8.9977
 postcode: "33014"
 city: Bad Driburg
-street: "Paderborner Straße"
-housenumber: 25
+street: Paderborner Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00; We off, Mo,Tu,Th,Fr 14:30-18:00, Sa 09:00-13:00; Su off"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00; We off, Mo,Tu,Th,Fr 14:30-18:00, Sa 09:00-13:00;
+    Su off
 website: ""

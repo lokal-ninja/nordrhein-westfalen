@@ -1,11 +1,11 @@
 id: 90030169
-type: way
+type: node
 latitude: 50.60737
 longitude: 6.32671
 postcode: "52152"
 city: Simmerath
-street: "Bundesstraße"
-housenumber: 63
-phone: "+49 2473 4181"
+street: Bundesstraße
+housenumber: "63"
+phone: +49 2473 4181
 opening_hours: ""
 website: ""

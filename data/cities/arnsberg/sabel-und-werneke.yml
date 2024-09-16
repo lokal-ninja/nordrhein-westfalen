@@ -1,11 +1,11 @@
 id: 251964162
-type: way
+type: node
 latitude: 51.4613
 longitude: 7.97801
 postcode: "59755"
 city: Arnsberg
-street: "Zum Möhnewehr"
-housenumber: 22
+street: Zum Möhnewehr
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.71701
 longitude: 8.75616
 postcode: ""
 city: Paderborn
-street: "Grube"
-housenumber: 14
+street: Grube
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.monamie.de"
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.monamie.de

@@ -4,8 +4,8 @@ latitude: 51.61337
 longitude: 7.1942
 postcode: "45657"
 city: Recklinghausen
-street: "Steinstraße"
-housenumber: 14
-phone: "+49 2361 22832"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00"
-website: "https://partyservice-freistuehler.de/"
+street: Steinstraße
+housenumber: "14"
+phone: +49 2361 22832
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00
+website: https://partyservice-freistuehler.de/

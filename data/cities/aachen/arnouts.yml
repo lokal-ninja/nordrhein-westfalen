@@ -1,11 +1,11 @@
 id: 24286047
-type: way
+type: node
 latitude: 50.78607
 longitude: 6.13914
 postcode: "52068"
 city: Aachen
-street: "Wilmersdorfer Straße"
-housenumber: 60
+street: Wilmersdorfer Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

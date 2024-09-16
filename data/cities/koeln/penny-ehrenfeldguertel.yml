@@ -1,11 +1,11 @@
 id: 34158723
-type: way
+type: node
 latitude: 50.95133
 longitude: 6.91681
 postcode: "50823"
 city: Köln
-street: "Ehrenfeldgürtel"
-housenumber: 95
+street: Ehrenfeldgürtel
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

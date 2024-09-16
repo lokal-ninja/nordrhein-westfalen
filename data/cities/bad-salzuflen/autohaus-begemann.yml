@@ -1,11 +1,11 @@
 id: 198481631
-type: way
+type: node
 latitude: 52.06828
 longitude: 8.75921
 postcode: "32108"
 city: Bad Salzuflen
-street: "Eduard-Wolff-Straße"
-housenumber: 18
-phone: "+49 5222 989606"
+street: Eduard-Wolff-Straße
+housenumber: "18"
+phone: +49 5222 989606
 opening_hours: ""
-website: "https://www.autohaus-begemann.de"
+website: https://www.autohaus-begemann.de

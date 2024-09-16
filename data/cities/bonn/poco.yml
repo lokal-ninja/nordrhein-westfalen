@@ -1,11 +1,11 @@
 id: 28806404
-type: way
+type: node
 latitude: 50.7515
 longitude: 7.05785
 postcode: "53117"
 city: Bonn
-street: "Christian-Lassen-Straße"
-housenumber: 4
-phone: "+49 228 88682510"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.poco.de/"
+street: Christian-Lassen-Straße
+housenumber: "4"
+phone: +49 228 88682510
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.poco.de/

@@ -4,8 +4,8 @@ latitude: 51.03157
 longitude: 6.9821
 postcode: "51373"
 city: Leverkusen
-street: "Hauptstraße"
-housenumber: 70
+street: Hauptstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-14:00"
-website: "https://www.hebel.de"
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-14:00
+website: https://www.hebel.de

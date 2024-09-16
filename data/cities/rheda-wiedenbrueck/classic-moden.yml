@@ -4,8 +4,8 @@ latitude: 51.83502
 longitude: 8.30962
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Lange Straße"
-housenumber: 35
-phone: "+49 5242 54113"
-opening_hours: "Mo-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-14:00; Dec: Sa 10:00-18:00"
-website: "https://glennemeier-mode.de/portfolio/classic-moden-rheda-wiedenbrueck/"
+street: Lange Straße
+housenumber: "35"
+phone: +49 5242 54113
+opening_hours: 'Mo-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-14:00; Dec: Sa 10:00-18:00'
+website: https://glennemeier-mode.de/portfolio/classic-moden-rheda-wiedenbrueck/

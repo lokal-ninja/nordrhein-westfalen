@@ -1,11 +1,11 @@
 id: 197401793
-type: way
+type: node
 latitude: 51.59366
 longitude: 7.66603
 postcode: "59174"
 city: Kamen
-street: "Oststraße"
-housenumber: 24
+street: Oststraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

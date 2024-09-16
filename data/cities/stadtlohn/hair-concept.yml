@@ -1,11 +1,11 @@
 id: 126470806
-type: way
+type: node
 latitude: 51.99105
 longitude: 6.91723
 postcode: "48703"
 city: Stadtlohn
-street: "Klosterstraße"
-housenumber: 9
+street: Klosterstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

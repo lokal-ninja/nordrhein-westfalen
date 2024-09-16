@@ -1,11 +1,11 @@
 id: 72751203
-type: way
+type: node
 latitude: 51.93973
 longitude: 7.64778
 postcode: "48155"
 city: Münster
-street: "Loddenheide"
-housenumber: 
+street: Loddenheide
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.ratio-tankstelle.de/standorte/48155-muenster.html"
+opening_hours: 24/7
+website: https://www.ratio-tankstelle.de/standorte/48155-muenster.html

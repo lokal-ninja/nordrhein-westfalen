@@ -4,8 +4,8 @@ latitude: 50.89148
 longitude: 6.99616
 postcode: "50996"
 city: Köln
-street: "Hauptstraße"
-housenumber: 128
+street: Hauptstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

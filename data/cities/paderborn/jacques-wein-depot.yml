@@ -4,8 +4,8 @@ latitude: 51.72344
 longitude: 8.73825
 postcode: "33102"
 city: Paderborn
-street: "Rathenaustraße"
-housenumber: 2
+street: Rathenaustraße
+housenumber: "2"
 phone: ""
-opening_hours: "Sa 10:00-17:00; Mo-Fr 13:00-19:00"
-website: "http://www.jaques.de"
+opening_hours: Sa 10:00-17:00; Mo-Fr 13:00-19:00
+website: http://www.jaques.de

@@ -1,11 +1,11 @@
 id: 272238447
-type: way
+type: node
 latitude: 51.50709
 longitude: 7.59208
 postcode: "44289"
 city: Dortmund
-street: "Emschertalstraße"
-housenumber: 130
+street: Emschertalstraße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

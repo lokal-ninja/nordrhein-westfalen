@@ -1,11 +1,11 @@
 id: 123545009
-type: way
+type: node
 latitude: 51.12405
 longitude: 6.84576
 postcode: "41541"
 city: Dormagen
-street: "Saarwerdenstraße"
-housenumber: 6
-phone: "+49 2133 263892"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 06:00-22:00; Su off; PH off"
+street: Saarwerdenstraße
+housenumber: "6"
+phone: +49 2133 263892
+opening_hours: Mo-Fr 07:00-22:00; Sa 06:00-22:00; Su off; PH off
 website: ""

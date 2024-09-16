@@ -1,11 +1,11 @@
 id: 116405587
-type: way
+type: node
 latitude: 51.49756
 longitude: 8.43466
 postcode: "59602"
 city: Rüthen
-street: "Lippstädter Straße"
-housenumber: 21
-phone: "+49 2234 379410"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.centershop.de"
+street: Lippstädter Straße
+housenumber: "21"
+phone: +49 2234 379410
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.centershop.de

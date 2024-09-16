@@ -1,11 +1,11 @@
 id: 671146255
-type: way
+type: node
 latitude: 51.42271
 longitude: 7.70534
 postcode: "58640"
 city: Iserlohn
-street: "Köbbingser Mühle"
-housenumber: 1
+street: Köbbingser Mühle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.futterscheune-iserlohn.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.futterscheune-iserlohn.de/

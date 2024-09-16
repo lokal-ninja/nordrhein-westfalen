@@ -1,11 +1,11 @@
 id: 242329614
-type: way
+type: node
 latitude: 51.76267
 longitude: 7.87978
 postcode: "59227"
 city: Ahlen
-street: "Hammer Straße"
-housenumber: 8
+street: Hammer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/marktseite/ahlen/8534434/rewe-dortmund-hammer-str-8/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/marktseite/ahlen/8534434/rewe-dortmund-hammer-str-8/

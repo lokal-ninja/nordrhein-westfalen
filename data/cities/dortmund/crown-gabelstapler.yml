@@ -1,11 +1,11 @@
 id: 57699179
-type: way
+type: node
 latitude: 51.49291
 longitude: 7.38174
 postcode: "44149"
 city: Dortmund
-street: "Overhoffstraße"
-housenumber: 168
+street: Overhoffstraße
+housenumber: "168"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:00; Sa,Su off"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:00; Sa,Su off
 website: ""

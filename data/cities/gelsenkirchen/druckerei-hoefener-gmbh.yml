@@ -4,8 +4,8 @@ latitude: 51.53378
 longitude: 7.0232
 postcode: "45899"
 city: Gelsenkirchen
-street: "Industriestraße"
-housenumber: 44
-phone: "+49 209 55796"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.druckerei-hoefener.de"
+street: Industriestraße
+housenumber: "44"
+phone: +49 209 55796
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.druckerei-hoefener.de

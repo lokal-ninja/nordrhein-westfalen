@@ -4,8 +4,8 @@ latitude: 50.74044
 longitude: 7.12195
 postcode: "53225"
 city: Bonn
-street: "Hans-Böckler-Straße"
-housenumber: 3
+street: Hans-Böckler-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.aldi-sued.de/

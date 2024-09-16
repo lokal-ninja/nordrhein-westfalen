@@ -1,11 +1,11 @@
 id: 114453017
-type: way
+type: node
 latitude: 51.42135
 longitude: 8.03684
 postcode: "59823"
 city: Arnsberg
-street: "Niedereimerfeld"
-housenumber: 14
+street: Niedereimerfeld
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

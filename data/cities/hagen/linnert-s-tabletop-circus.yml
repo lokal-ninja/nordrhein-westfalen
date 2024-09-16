@@ -4,8 +4,8 @@ latitude: 51.34727
 longitude: 7.42403
 postcode: "58135"
 city: Hagen
-street: "Berliner Straße"
-housenumber: 139
+street: Berliner Straße
+housenumber: "139"
 phone: ""
-opening_hours: "Tu-Th 12:00-18:00,Fr 14:00-22:00,Sa 10:00-15:00;Su,PH off"
-website: "https://linnertstabletopcircus.de"
+opening_hours: Tu-Th 12:00-18:00,Fr 14:00-22:00,Sa 10:00-15:00;Su,PH off
+website: https://linnertstabletopcircus.de

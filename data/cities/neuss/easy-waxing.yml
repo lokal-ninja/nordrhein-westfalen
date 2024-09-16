@@ -4,8 +4,8 @@ latitude: 51.16605
 longitude: 6.68433
 postcode: "41466"
 city: Neuss
-street: "Bergheimer Straße"
-housenumber: 511
-phone: "+49 2131 4740140"
-opening_hours: "Mo-Fr nach telefonischer Vereinbarung"
-website: "http://www.waxing-neuss.de/"
+street: Bergheimer Straße
+housenumber: "511"
+phone: +49 2131 4740140
+opening_hours: '"Mo-Fr nach telefonischer Vereinbarung"'
+website: http://www.waxing-neuss.de/

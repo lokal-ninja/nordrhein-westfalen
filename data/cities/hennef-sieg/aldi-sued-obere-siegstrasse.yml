@@ -1,11 +1,11 @@
 id: 301383180
-type: way
+type: node
 latitude: 50.77421
 longitude: 7.29874
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Obere Siegstraße"
-housenumber: 80
+street: Obere Siegstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

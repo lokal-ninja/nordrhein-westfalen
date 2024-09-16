@@ -4,8 +4,8 @@ latitude: 51.1161
 longitude: 6.8866
 postcode: "40789"
 city: Monheim am Rhein
-street: "Hauptstraße"
-housenumber: 49
-phone: "+49 2173 63572"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 08:30-13:00; Mo off"
+street: Hauptstraße
+housenumber: "49"
+phone: +49 2173 63572
+opening_hours: Tu-Fr 08:30-17:30; Sa 08:30-13:00; Mo off
 website: ""

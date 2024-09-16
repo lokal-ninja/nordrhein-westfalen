@@ -1,11 +1,11 @@
 id: 126724364
-type: way
+type: node
 latitude: 51.66608
 longitude: 7.75879
 postcode: "59067"
 city: Hamm
-street: "Küferstraße"
-housenumber: 24
-phone: "+49 2381 942530"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.badambiente.de/"
+street: Küferstraße
+housenumber: "24"
+phone: +49 2381 942530
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.badambiente.de/

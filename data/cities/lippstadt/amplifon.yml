@@ -4,8 +4,8 @@ latitude: 51.67258
 longitude: 8.34919
 postcode: "59555"
 city: Lippstadt
-street: "Ostwall"
-housenumber: 27
+street: Ostwall
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,13:00-17:00; We 08:00-15:00"
-website: "https://amplifon.com/de"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,13:00-17:00; We 08:00-15:00
+website: https://amplifon.com/de

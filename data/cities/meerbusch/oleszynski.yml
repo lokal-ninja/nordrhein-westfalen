@@ -1,11 +1,11 @@
 id: 108934696
-type: way
+type: node
 latitude: 51.25051
 longitude: 6.68718
 postcode: "40667"
 city: Meerbusch
-street: "Necklenbroicher Straße"
-housenumber: 24
-phone: "+49 2132 2295"
-opening_hours: "Mo-Su off"
-website: "http://www.oleszynski.de/"
+street: Necklenbroicher Straße
+housenumber: "24"
+phone: +49 2132 2295
+opening_hours: Mo-Su off
+website: http://www.oleszynski.de/

@@ -4,8 +4,8 @@ latitude: 51.2016
 longitude: 7.08569
 postcode: "42653"
 city: Solingen
-street: "Lützowstraße"
-housenumber: 173
-phone: "+49 212 23571939"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.baeckerei-busch.de"
+street: Lützowstraße
+housenumber: "173"
+phone: +49 212 23571939
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.baeckerei-busch.de

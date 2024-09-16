@@ -1,11 +1,11 @@
 id: 132076056
-type: way
+type: node
 latitude: 51.37761
 longitude: 7.45219
 postcode: "58089"
 city: Hagen
-street: "Becheltestraße"
-housenumber: 56
+street: Becheltestraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

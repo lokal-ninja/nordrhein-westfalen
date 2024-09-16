@@ -1,11 +1,11 @@
 id: 54727041
-type: way
+type: node
 latitude: 51.37243
 longitude: 7.45835
 postcode: "58089"
 city: Hagen
-street: "Eckeseyer Straße"
-housenumber: 90
+street: Eckeseyer Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

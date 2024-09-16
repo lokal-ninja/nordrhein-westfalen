@@ -4,8 +4,8 @@ latitude: 51.47923
 longitude: 7.22116
 postcode: "44787"
 city: Bochum
-street: "Kurt-Schumacher-Platz"
-housenumber: 5
-phone: "+49 234 14750"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.pfandkredit.de/"
+street: Kurt-Schumacher-Platz
+housenumber: "5"
+phone: +49 234 14750
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.pfandkredit.de/

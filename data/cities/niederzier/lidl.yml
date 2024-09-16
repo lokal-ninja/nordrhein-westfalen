@@ -1,11 +1,11 @@
 id: 240117691
-type: way
+type: node
 latitude: 50.8469
 longitude: 6.45396
 postcode: "52382"
 city: Niederzier
-street: "Industriestraße"
-housenumber: 11
+street: Industriestraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

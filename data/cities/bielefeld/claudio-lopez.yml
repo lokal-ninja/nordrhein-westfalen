@@ -4,8 +4,8 @@ latitude: 52.02537
 longitude: 8.53118
 postcode: "33602"
 city: Bielefeld
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.claudiolopez.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.claudiolopez.de/

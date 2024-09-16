@@ -1,11 +1,11 @@
 id: 513644822
-type: way
+type: node
 latitude: 52.04715
 longitude: 8.63689
 postcode: "33729"
 city: Bielefeld
-street: "Kafkastraße"
-housenumber: 6
+street: Kafkastraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

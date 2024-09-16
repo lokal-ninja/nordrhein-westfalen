@@ -4,8 +4,8 @@ latitude: 51.69879
 longitude: 8.73551
 postcode: "33106"
 city: Paderborn
-street: "Stettiner Straße"
+street: Stettiner Straße
 housenumber: 48-50
 phone: ""
-opening_hours: "Mo-Fr 8:00-17:00; Sa nach Vereinbarung"
-website: "https://makroleasing.de"
+opening_hours: Mo-Fr 8:00-17:00; Sa "nach Vereinbarung"
+website: https://makroleasing.de

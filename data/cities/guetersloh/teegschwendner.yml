@@ -4,8 +4,8 @@ latitude: 51.90686
 longitude: 8.37687
 postcode: "33330"
 city: Gütersloh
-street: "Königstraße"
-housenumber: 9
+street: Königstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://stores.teegschwendner.de/guetersloh/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://stores.teegschwendner.de/guetersloh/

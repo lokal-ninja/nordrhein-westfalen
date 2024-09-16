@@ -4,8 +4,8 @@ latitude: 51.48424
 longitude: 7.21715
 postcode: "44787"
 city: Bochum
-street: "Brückstraße"
-housenumber: 36
-phone: "+49 234 5840052"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.vision-beauty.com"
+street: Brückstraße
+housenumber: "36"
+phone: +49 234 5840052
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.vision-beauty.com

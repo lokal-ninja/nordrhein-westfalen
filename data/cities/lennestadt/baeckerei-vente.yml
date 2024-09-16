@@ -1,11 +1,11 @@
 id: 326274757
-type: way
+type: node
 latitude: 51.09524
 longitude: 8.0192
 postcode: "57368"
 city: Lennestadt
-street: "Poorte"
-housenumber: 7
+street: Poorte
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

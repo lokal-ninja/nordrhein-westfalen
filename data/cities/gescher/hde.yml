@@ -4,8 +4,8 @@ latitude: 51.94784
 longitude: 7.01028
 postcode: "48712"
 city: Gescher
-street: "Schlesierring"
-housenumber: 33
+street: Schlesierring
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.hde-gescher.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.hde-gescher.de/

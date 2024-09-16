@@ -1,11 +1,11 @@
 id: 37772880
-type: way
+type: node
 latitude: 50.74245
 longitude: 7.07376
 postcode: "53119"
 city: Bonn
-street: "Bornheimer Straße"
-housenumber: 165
-phone: "+49 228 550850"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-14:00"
-website: "https://www.3h-automobile.de/"
+street: Bornheimer Straße
+housenumber: "165"
+phone: +49 228 550850
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-14:00
+website: https://www.3h-automobile.de/

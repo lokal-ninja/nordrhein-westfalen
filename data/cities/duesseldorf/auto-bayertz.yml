@@ -4,8 +4,8 @@ latitude: 51.21429
 longitude: 6.81867
 postcode: "40231"
 city: Düsseldorf
-street: "Lierenfelder Straße"
-housenumber: 57
-phone: "+49 211 7709696"
-opening_hours: "Mo-Fr 7:30-19:00; Sa 9:00-13:00"
-website: "http://www.identica-bayertz.de/"
+street: Lierenfelder Straße
+housenumber: "57"
+phone: +49 211 7709696
+opening_hours: Mo-Fr 7:30-19:00; Sa 9:00-13:00
+website: http://www.identica-bayertz.de/

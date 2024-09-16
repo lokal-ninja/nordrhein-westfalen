@@ -1,11 +1,11 @@
 id: 82949236
-type: way
+type: node
 latitude: 51.32022
 longitude: 6.59218
 postcode: "47807"
 city: Krefeld
-street: "Siemesdyk"
-housenumber: 45
+street: Siemesdyk
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

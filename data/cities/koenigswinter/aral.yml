@@ -1,11 +1,11 @@
 id: 41644605
-type: way
+type: node
 latitude: 50.70324
 longitude: 7.17566
 postcode: "53639"
 city: Königswinter
-street: "Im Mühlenbruch"
-housenumber: 2
-phone: "+49 2223 7009181"
+street: Im Mühlenbruch
+housenumber: "2"
+phone: +49 2223 7009181
 opening_hours: ""
 website: ""

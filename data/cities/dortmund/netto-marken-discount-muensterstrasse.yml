@@ -1,11 +1,11 @@
 id: 507846539
-type: way
+type: node
 latitude: 51.52888
 longitude: 7.46136
 postcode: "44145"
 city: Dortmund
-street: "Münsterstraße"
-housenumber: 167
+street: Münsterstraße
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

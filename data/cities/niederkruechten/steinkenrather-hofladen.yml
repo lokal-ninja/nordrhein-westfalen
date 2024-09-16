@@ -4,8 +4,8 @@ latitude: 51.21176
 longitude: 6.17416
 postcode: "41372"
 city: Niederkrüchten
-street: "Mönchengladbacher Straße"
-housenumber: 28
-phone: "+49 2163 81359"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:30; Apr-Jun: Su 10:00-15:00"
-website: "https://steinkenrather-hofladen.de/"
+street: Mönchengladbacher Straße
+housenumber: "28"
+phone: +49 2163 81359
+opening_hours: 'Mo-Fr 08:30-18:30; Sa 08:30-17:30; Apr-Jun: Su 10:00-15:00'
+website: https://steinkenrather-hofladen.de/

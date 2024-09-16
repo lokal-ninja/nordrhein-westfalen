@@ -4,8 +4,8 @@ latitude: 50.82651
 longitude: 6.90295
 postcode: "50321"
 city: Brühl
-street: "Uhlstraße"
-housenumber: 67
+street: Uhlstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-14:00"
-website: "https://www.drei-mal-drei.com"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-14:00
+website: https://www.drei-mal-drei.com

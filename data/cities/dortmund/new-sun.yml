@@ -1,11 +1,11 @@
 id: 52822063
-type: way
+type: node
 latitude: 51.50922
 longitude: 7.38394
 postcode: "44379"
 city: Dortmund
-street: "Sadelhof"
+street: Sadelhof
 housenumber: 2c
 phone: "+49231615087"
 opening_hours: ""
-website: "https://www.new-sun-sonnenstudios.com/"
+website: https://www.new-sun-sonnenstudios.com/

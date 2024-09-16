@@ -4,8 +4,9 @@ latitude: 51.44196
 longitude: 7.56195
 postcode: "58239"
 city: Schwerte
-street: "Bahnhofstraße"
-housenumber: 19
-phone: "+49 2304 16776"
-opening_hours: "Mo-Tu,Th 08:00-13:00,15:00-18:30; We 08:00-13:00; Fr 08:00-18:30; Sa 07:00-13:00; Su off; PH off"
-website: "https://der-hackepeter.de"
+street: Bahnhofstraße
+housenumber: "19"
+phone: +49 2304 16776
+opening_hours: Mo-Tu,Th 08:00-13:00,15:00-18:30; We 08:00-13:00; Fr 08:00-18:30; Sa
+    07:00-13:00; Su off; PH off
+website: https://der-hackepeter.de

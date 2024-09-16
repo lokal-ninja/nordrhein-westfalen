@@ -1,11 +1,11 @@
 id: 815633709
-type: way
+type: node
 latitude: 51.4953
 longitude: 9.12818
 postcode: "34414"
 city: Warburg
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 3c
-phone: "+49 5641 747697 0"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-16:00"
-website: "https://www.wuerth.de/web/de/awkg/niederlassungen/niederlassung.php?branch=500888"
+phone: +49 5641 747697 0
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-16:00
+website: https://www.wuerth.de/web/de/awkg/niederlassungen/niederlassung.php?branch=500888

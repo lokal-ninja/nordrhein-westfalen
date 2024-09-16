@@ -4,8 +4,8 @@ latitude: 51.54242
 longitude: 6.81843
 postcode: "46147"
 city: Oberhausen
-street: "Dudelerstraße"
-housenumber: 9
-phone: "+49 208 6215658"
-opening_hours: "Mo-We,Fr 08:30-19:00; Th 08:00-19:00; Sa 08:00-15:00"
+street: Dudelerstraße
+housenumber: "9"
+phone: +49 208 6215658
+opening_hours: Mo-We,Fr 08:30-19:00; Th 08:00-19:00; Sa 08:00-15:00
 website: ""

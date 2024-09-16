@@ -1,11 +1,11 @@
 id: 76206896
-type: way
+type: node
 latitude: 51.59709
 longitude: 7.19141
 postcode: "45659"
 city: Recklinghausen
-street: "Am Stadion"
-housenumber: 29
+street: Am Stadion
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

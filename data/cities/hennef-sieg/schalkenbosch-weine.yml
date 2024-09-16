@@ -1,11 +1,11 @@
 id: 125830228
-type: way
+type: node
 latitude: 50.77531
 longitude: 7.31343
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Johanna-Spyri-Straße"
-housenumber: 12
+street: Johanna-Spyri-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Th 14:00-19:00"
-website: "https://www.schalkenbosch-weine.de/"
+opening_hours: Th 14:00-19:00
+website: https://www.schalkenbosch-weine.de/

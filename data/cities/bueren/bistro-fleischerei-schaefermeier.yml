@@ -4,8 +4,8 @@ latitude: 51.54997
 longitude: 8.5581
 postcode: "33142"
 city: Büren
-street: "Burgstraße"
-housenumber: 54
-phone: "+49 2951 9699965"
-opening_hours: "Mo-Fr 08:00-15:00"
-website: "https://gute-wurst.de"
+street: Burgstraße
+housenumber: "54"
+phone: +49 2951 9699965
+opening_hours: Mo-Fr 08:00-15:00
+website: https://gute-wurst.de

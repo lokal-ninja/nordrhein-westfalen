@@ -4,8 +4,8 @@ latitude: 51.59798
 longitude: 9.1289
 postcode: "34439"
 city: Willebadessen
-street: "Burgstraße"
-housenumber: 2
-phone: "+49 5644 981533"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off"
+street: Burgstraße
+housenumber: "2"
+phone: +49 5644 981533
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off
 website: ""

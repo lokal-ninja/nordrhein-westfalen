@@ -4,8 +4,8 @@ latitude: 51.74322
 longitude: 7.18941
 postcode: "45721"
 city: Haltern am See
-street: "Lippstraße"
-housenumber: 21
-phone: "+49 2364 5082922"
-opening_hours: "Nach telefonischer Vereinbarung"
-website: "https://www.podo-lounge.de/"
+street: Lippstraße
+housenumber: "21"
+phone: +49 2364 5082922
+opening_hours: '"Nach telefonischer Vereinbarung"'
+website: https://www.podo-lounge.de/

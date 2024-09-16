@@ -4,8 +4,8 @@ latitude: 52.02295
 longitude: 8.53234
 postcode: "33602"
 city: Bielefeld
-street: "Oberntorwall"
-housenumber: 24
-phone: "+49-521-529964-1"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.westfalen-blatt.de/Verlag/Geschaeftsstellen/Bielefeld"
+street: Oberntorwall
+housenumber: "24"
+phone: +49-521-529964-1
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.westfalen-blatt.de/Verlag/Geschaeftsstellen/Bielefeld

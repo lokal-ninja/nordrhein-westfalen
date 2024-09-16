@@ -1,11 +1,11 @@
 id: 182855577
-type: way
+type: node
 latitude: 52.34723
 longitude: 7.76405
 postcode: "49497"
 city: Mettingen
-street: "Wöstenstraße"
-housenumber: 150
+street: Wöstenstraße
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 284230907
-type: way
+type: node
 latitude: 51.75782
 longitude: 7.91345
 postcode: "59229"
 city: Ahlen
-street: "Wetterweg"
-housenumber: 14
+street: Wetterweg
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

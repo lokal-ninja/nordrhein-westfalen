@@ -1,11 +1,11 @@
 id: 313270059
-type: way
+type: node
 latitude: 51.25423
 longitude: 8.17051
 postcode: "59889"
 city: Eslohe (Sauerland)
-street: "Schultheißstraße"
-housenumber: 3
+street: Schultheißstraße
+housenumber: "3"
 phone: "+49297397980"
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.kersting-reisen.de/"
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.kersting-reisen.de/

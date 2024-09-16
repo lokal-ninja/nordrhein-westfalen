@@ -4,8 +4,8 @@ latitude: 52.43218
 longitude: 8.61715
 postcode: "32369"
 city: Rahden
-street: "Marktstraße"
-housenumber: 5
+street: Marktstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su off
 website: ""

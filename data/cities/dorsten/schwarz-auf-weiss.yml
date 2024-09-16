@@ -4,8 +4,8 @@ latitude: 51.68185
 longitude: 6.95531
 postcode: "46284"
 city: Dorsten
-street: "Freiheitsstraße"
-housenumber: 3
-phone: "+49 2362 675288"
-opening_hours: "Mo-Sa 10:00-13:00, Mo,Th,Fr 16:00-18:00; PH off"
-website: "https://bsaw.de"
+street: Freiheitsstraße
+housenumber: "3"
+phone: +49 2362 675288
+opening_hours: Mo-Sa 10:00-13:00, Mo,Th,Fr 16:00-18:00; PH off
+website: https://bsaw.de

@@ -1,11 +1,11 @@
 id: 90849496
-type: way
+type: node
 latitude: 51.55611
 longitude: 7.68459
 postcode: "59425"
 city: Unna
-street: "Kamener Straße"
-housenumber: 23
+street: Kamener Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

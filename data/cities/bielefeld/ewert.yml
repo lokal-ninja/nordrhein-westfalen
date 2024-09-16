@@ -4,8 +4,8 @@ latitude: 52.04606
 longitude: 8.5073
 postcode: "33613"
 city: Bielefeld
-street: "Voltmannstraße"
-housenumber: 119
+street: Voltmannstraße
+housenumber: "119"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

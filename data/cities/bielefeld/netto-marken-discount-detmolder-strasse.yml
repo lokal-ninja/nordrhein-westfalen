@@ -1,11 +1,11 @@
 id: 108329160
-type: way
+type: node
 latitude: 52.00537
 longitude: 8.55662
 postcode: "33604"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 205
+street: Detmolder Straße
+housenumber: "205"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/6209.ohtm/6262"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/6209.ohtm/6262

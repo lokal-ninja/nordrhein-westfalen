@@ -1,11 +1,11 @@
 id: 103422774
-type: way
+type: node
 latitude: 51.35892
 longitude: 7.46925
 postcode: "58095"
 city: Hagen
-street: "Elberfelder Straße"
-housenumber: 42
+street: Elberfelder Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.80004
 longitude: 6.76783
 postcode: "50374"
 city: Erftstadt
-street: "Bonner Straße"
-housenumber: 15
-phone: "+49 2235 6892115"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-19:00"
-website: "https://www.kodi.de/"
+street: Bonner Straße
+housenumber: "15"
+phone: +49 2235 6892115
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-19:00
+website: https://www.kodi.de/

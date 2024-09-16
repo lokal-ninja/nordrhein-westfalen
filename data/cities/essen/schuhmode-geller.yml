@@ -1,11 +1,11 @@
 id: 343680088
-type: way
+type: node
 latitude: 51.41663
 longitude: 7.11977
 postcode: "45289"
 city: Essen
-street: "Alte Hauptstraße"
-housenumber: 23
-phone: "+49 201 54506970"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00, Su off; PH off"
-website: "https://www.schuhmodegeller.de/"
+street: Alte Hauptstraße
+housenumber: "23"
+phone: +49 201 54506970
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00, Su off; PH off
+website: https://www.schuhmodegeller.de/

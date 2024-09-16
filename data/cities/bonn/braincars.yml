@@ -1,11 +1,11 @@
 id: 42158676
-type: way
+type: node
 latitude: 50.65355
 longitude: 7.19695
 postcode: "53179"
 city: Bonn
-street: "Mainzer Straße"
-housenumber: 296
+street: Mainzer Straße
+housenumber: "296"
 phone: ""
 opening_hours: ""
 website: ""

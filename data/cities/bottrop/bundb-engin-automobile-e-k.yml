@@ -1,11 +1,11 @@
 id: 103437138
-type: way
+type: node
 latitude: 51.52056
 longitude: 6.98091
 postcode: "46238"
 city: Bottrop
-street: "Am Kämpchen"
-housenumber: 114
+street: Am Kämpchen
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

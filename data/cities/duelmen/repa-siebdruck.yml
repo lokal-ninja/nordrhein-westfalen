@@ -1,11 +1,11 @@
 id: 348537424
-type: way
+type: node
 latitude: 51.82161
 longitude: 7.30945
 postcode: "48249"
 city: Dülmen
-street: "Wierlings Esch"
-housenumber: 41
+street: Wierlings Esch
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.repa-siebdruck.de/"
+website: https://www.repa-siebdruck.de/

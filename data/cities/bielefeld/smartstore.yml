@@ -4,8 +4,9 @@ latitude: 52.02426
 longitude: 8.53061
 postcode: "33602"
 city: Bielefeld
-street: "Friedenstraße"
-housenumber: 4
-phone: "+49 521 52223777"
-opening_hours: "Mo-Th 10:00-13:00, Fr 10:00-12:00, Sa 10:00-13:00,14:00-19:00, Fr 15:00-19:00, Mo-Th 14:00-19:00"
-website: "https://smartstore-bielefeld.de/"
+street: Friedenstraße
+housenumber: "4"
+phone: +49 521 52223777
+opening_hours: Mo-Th 10:00-13:00, Fr 10:00-12:00, Sa 10:00-13:00,14:00-19:00, Fr 15:00-19:00,
+    Mo-Th 14:00-19:00
+website: https://smartstore-bielefeld.de/

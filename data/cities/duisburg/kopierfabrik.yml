@@ -4,8 +4,8 @@ latitude: 51.43011
 longitude: 6.78702
 postcode: "47057"
 city: Duisburg
-street: "Bismarckstraße"
-housenumber: 115
-phone: "+49 203 372623"
-opening_hours: "Mo-Fr 08:30-18:30"
+street: Bismarckstraße
+housenumber: "115"
+phone: +49 203 372623
+opening_hours: Mo-Fr 08:30-18:30
 website: ""

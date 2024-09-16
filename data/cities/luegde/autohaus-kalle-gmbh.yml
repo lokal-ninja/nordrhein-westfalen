@@ -1,11 +1,11 @@
 id: 251424634
-type: way
+type: node
 latitude: 51.9687
 longitude: 9.25716
 postcode: "32676"
 city: Lügde
-street: "Siemensstraße"
-housenumber: 3
-phone: "+49 5281 98250"
+street: Siemensstraße
+housenumber: "3"
+phone: +49 5281 98250
 opening_hours: ""
 website: ""

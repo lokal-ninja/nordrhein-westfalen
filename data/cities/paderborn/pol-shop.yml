@@ -4,8 +4,8 @@ latitude: 51.71497
 longitude: 8.74137
 postcode: "33102"
 city: Paderborn
-street: "Grunigerstraße"
-housenumber: 9
-phone: "+49 5251 25907"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-14:00; PH,Su off"
-website: "https://www.pol-shop.de/"
+street: Grunigerstraße
+housenumber: "9"
+phone: +49 5251 25907
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-14:00; PH,Su off
+website: https://www.pol-shop.de/

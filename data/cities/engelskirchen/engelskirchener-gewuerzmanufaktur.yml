@@ -4,8 +4,9 @@ latitude: 50.98657
 longitude: 7.41013
 postcode: "51766"
 city: Engelskirchen
-street: "Reckensteinstraße"
-housenumber: 4
-phone: "+49 2263 8025440"
-opening_hours: "Mo 14:30-18:00; Th 10:00-12:30; Fr 10:00-12:30,14:30-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.oxclusivia.eu/"
+street: Reckensteinstraße
+housenumber: "4"
+phone: +49 2263 8025440
+opening_hours: Mo 14:30-18:00; Th 10:00-12:30; Fr 10:00-12:30,14:30-18:00; Sa 09:00-13:00;
+    PH off
+website: https://www.oxclusivia.eu/

@@ -4,8 +4,9 @@ latitude: 50.6458
 longitude: 6.80138
 postcode: "53881"
 city: Euskirchen
-street: "Alte Ziegelei"
-housenumber: 4
+street: Alte Ziegelei
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00 Verkauf; Mo-Fr 07:30-17:30; Sa 09:00-14:00 Service"
-website: "https://www.toyota-levy-euskirchen.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00 "Verkauf"; Mo-Fr 07:30-17:30; Sa
+    09:00-14:00 "Service"
+website: https://www.toyota-levy-euskirchen.de/

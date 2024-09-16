@@ -4,8 +4,8 @@ latitude: 50.74459
 longitude: 7.15329
 postcode: "53229"
 city: Bonn
-street: "Marktstraße"
-housenumber: 35
-phone: "+49 228 482181"
+street: Marktstraße
+housenumber: "35"
+phone: +49 228 482181
 opening_hours: ""
-website: "https://www.ehg-bonn.de/"
+website: https://www.ehg-bonn.de/

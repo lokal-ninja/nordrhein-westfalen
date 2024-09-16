@@ -4,8 +4,10 @@ latitude: 50.61858
 longitude: 6.47895
 postcode: "52396"
 city: Heimbach
-street: "Abtei Mariawald"
-housenumber: 
+street: Abtei Mariawald
+housenumber: ""
 phone: ""
-opening_hours: "Mar Su[-1]-Oct Su[-1] -1 day 11:00-18:00, Su,PH 11:30-18:00; Oct Su[-1]-Mar Su[-1] -1 day 11:00-17:00, Su,PH 11:30-17:00; Dec 24,Dec 31 11:00-14:00; Dec 26,Jan 01 11:00-17:00; Dec 25 off; easter -2 days 11:00-14:45"
+opening_hours: Mar Su[-1]-Oct Su[-1] -1 day 11:00-18:00, Su,PH 11:30-18:00; Oct Su[-1]-Mar
+    Su[-1] -1 day 11:00-17:00, Su,PH 11:30-17:00; Dec 24,Dec 31 11:00-14:00; Dec 26,Jan
+    01 11:00-17:00; Dec 25 off; easter -2 days 11:00-14:45
 website: ""

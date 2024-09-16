@@ -1,11 +1,11 @@
 id: 89323014
-type: way
+type: node
 latitude: 50.97318
 longitude: 6.27051
 postcode: "52441"
 city: Linnich
-street: "Rurdorfer Straße"
-housenumber: 75
+street: Rurdorfer Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

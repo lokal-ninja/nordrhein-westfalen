@@ -1,11 +1,11 @@
 id: 1005271751
-type: way
+type: node
 latitude: 50.73731
 longitude: 7.07018
 postcode: "53121"
 city: Bonn
-street: "Siemensstraße"
-housenumber: 15
-phone: "+49 228 9675 823"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://bonnerespressostudio.eu/"
+street: Siemensstraße
+housenumber: "15"
+phone: +49 228 9675 823
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://bonnerespressostudio.eu/

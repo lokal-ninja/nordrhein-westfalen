@@ -1,11 +1,11 @@
 id: 28637815
-type: way
+type: node
 latitude: 51.52223
 longitude: 7.07775
 postcode: "45881"
 city: Gelsenkirchen
-street: "Lockhofstraße"
-housenumber: 13
+street: Lockhofstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.fressnapf.de/"
+website: https://www.fressnapf.de/

@@ -4,8 +4,8 @@ latitude: 51.70873
 longitude: 8.74679
 postcode: "33098"
 city: Paderborn
-street: "Borchener Straße"
-housenumber: 70
+street: Borchener Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00"
-website: "http://badsanieren.com/standorte/paderborn"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00
+website: http://badsanieren.com/standorte/paderborn

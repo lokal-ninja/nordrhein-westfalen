@@ -1,11 +1,11 @@
 id: 79299317
-type: way
+type: node
 latitude: 50.81262
 longitude: 6.99272
 postcode: "50389"
 city: Wesseling
-street: "Vorgebirgsstraße"
-housenumber: 7
+street: Vorgebirgsstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.camperland-bong.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.camperland-bong.de/

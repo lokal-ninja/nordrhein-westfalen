@@ -4,8 +4,9 @@ latitude: 50.83215
 longitude: 6.0891
 postcode: "52134"
 city: Herzogenrath
-street: "Südstraße"
-housenumber: 78
-phone: "+49 2407 3543"
-opening_hours: "Mo 09:30-18:30; Tu 09:30-18:30; We 09:30-14:00; Th 09:30-18:30; Fr 09:30-18:30; Sa 09:30-14:00; PH off"
+street: Südstraße
+housenumber: "78"
+phone: +49 2407 3543
+opening_hours: Mo 09:30-18:30; Tu 09:30-18:30; We 09:30-14:00; Th 09:30-18:30; Fr
+    09:30-18:30; Sa 09:30-14:00; PH off
 website: ""

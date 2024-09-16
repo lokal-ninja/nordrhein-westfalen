@@ -1,11 +1,11 @@
 id: 46948382
-type: way
+type: node
 latitude: 50.96572
 longitude: 8.0395
 postcode: "57223"
 city: Kreuztal
-street: "Auwiese"
-housenumber: 1
+street: Auwiese
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.forstbekleidungschmidt.de"
+website: http://www.forstbekleidungschmidt.de

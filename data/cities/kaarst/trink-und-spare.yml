@@ -1,11 +1,11 @@
 id: 112190197
-type: way
+type: node
 latitude: 51.21591
 longitude: 6.63447
 postcode: "41564"
 city: Kaarst
-street: "Porschestraße"
-housenumber: 16
-phone: "+49 2131 201 78 51"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://trink-und-spare.de/markt/kaarst-15458/"
+street: Porschestraße
+housenumber: "16"
+phone: +49 2131 201 78 51
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: http://trink-und-spare.de/markt/kaarst-15458/

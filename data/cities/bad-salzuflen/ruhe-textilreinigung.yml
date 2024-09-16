@@ -4,8 +4,8 @@ latitude: 52.07356
 longitude: 8.75796
 postcode: "32108"
 city: Bad Salzuflen
-street: "Schloßstraße"
-housenumber: 36
+street: Schloßstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 08:00-13:00"
-website: "https://ruhe-tex.de/"
+opening_hours: Mo-Fr 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00, Sa 08:00-13:00
+website: https://ruhe-tex.de/

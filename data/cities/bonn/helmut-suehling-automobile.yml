@@ -1,11 +1,11 @@
 id: 161705157
-type: way
+type: node
 latitude: 50.70148
 longitude: 7.1252
 postcode: "53175"
 city: Bonn
-street: "Servatiusstraße"
-housenumber: 23
+street: Servatiusstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "http://www.auto-suehling.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: http://www.auto-suehling.de/

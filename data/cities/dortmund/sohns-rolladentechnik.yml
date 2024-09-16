@@ -1,11 +1,11 @@
 id: 53340330
-type: way
+type: node
 latitude: 51.50614
 longitude: 7.40667
 postcode: "44149"
 city: Dortmund
-street: "Kortental"
-housenumber: 73
+street: Kortental
+housenumber: "73"
 phone: "+492319172900"
 opening_hours: ""
-website: "https://www.sohns-rolladentechnik.de/"
+website: https://www.sohns-rolladentechnik.de/

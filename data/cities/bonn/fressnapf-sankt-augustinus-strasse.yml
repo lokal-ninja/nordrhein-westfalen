@@ -4,8 +4,8 @@ latitude: 50.69161
 longitude: 7.14528
 postcode: "53175"
 city: Bonn
-street: "Sankt-Augustinus-Straße"
-housenumber: 84
-phone: "+49 228 97147724"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de"
+street: Sankt-Augustinus-Straße
+housenumber: "84"
+phone: +49 228 97147724
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.fressnapf.de

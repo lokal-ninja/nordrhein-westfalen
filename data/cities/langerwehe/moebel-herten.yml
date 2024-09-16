@@ -4,8 +4,8 @@ latitude: 50.81661
 longitude: 6.37101
 postcode: "52379"
 city: Langerwehe
-street: "Hauptstraße"
-housenumber: 273
-phone: "+49 2423 94000"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
-website: "https://www.moebel-herten.de/"
+street: Hauptstraße
+housenumber: "273"
+phone: +49 2423 94000
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
+website: https://www.moebel-herten.de/

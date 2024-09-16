@@ -4,8 +4,8 @@ latitude: 50.7509
 longitude: 6.16072
 postcode: "52078"
 city: Aachen
-street: "Trierer Straße"
-housenumber: 716
+street: Trierer Straße
+housenumber: "716"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:30; Su,PH off"
-website: "https://www.fleischerei-bayer.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:30; Su,PH off
+website: https://www.fleischerei-bayer.de/

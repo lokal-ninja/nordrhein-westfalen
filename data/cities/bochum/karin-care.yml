@@ -4,8 +4,8 @@ latitude: 51.47386
 longitude: 7.32569
 postcode: "44892"
 city: Bochum
-street: "Oberstraße"
-housenumber: 13
-phone: "+49 157 86460092"
-opening_hours: "nach Vereinbarung"
-website: "https://www.karincare.de/"
+street: Oberstraße
+housenumber: "13"
+phone: +49 157 86460092
+opening_hours: '"nach Vereinbarung"'
+website: https://www.karincare.de/

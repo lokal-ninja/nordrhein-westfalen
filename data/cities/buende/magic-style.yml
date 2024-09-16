@@ -1,11 +1,11 @@
 id: 30175855
-type: way
+type: node
 latitude: 52.20233
 longitude: 8.58079
 postcode: "32257"
 city: Bünde
-street: "Wasserbreite"
-housenumber: 42
-phone: "+49 5223 17454"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:00-13:00"
-website: "https://www.magicstyle-sb.de"
+street: Wasserbreite
+housenumber: "42"
+phone: +49 5223 17454
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:00-13:00
+website: https://www.magicstyle-sb.de

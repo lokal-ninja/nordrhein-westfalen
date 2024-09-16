@@ -1,11 +1,11 @@
 id: 535051178
-type: way
+type: node
 latitude: 51.97986
 longitude: 7.78144
 postcode: "48291"
 city: Telgte
-street: "Daimlerstraße"
-housenumber: 3
+street: Daimlerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:30-18:00; Sa 10:00-14:00"
+opening_hours: Mo off; Tu-Fr 09:30-18:00; Sa 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 804329086
-type: way
+type: node
 latitude: 52.01017
 longitude: 8.60032
 postcode: "33719"
 city: Bielefeld
-street: "Potsdamer Straße"
-housenumber: 155
+street: Potsdamer Straße
+housenumber: "155"
 phone: ""
 opening_hours: ""
-website: "https://www.golfhouse.de/"
+website: https://www.golfhouse.de/

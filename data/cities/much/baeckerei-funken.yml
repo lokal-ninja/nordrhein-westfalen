@@ -4,8 +4,8 @@ latitude: 50.88379
 longitude: 7.44157
 postcode: "53804"
 city: Much
-street: "Dorfstraße"
-housenumber: 4
-phone: "+49 2245 3692"
-opening_hours: "Tu-Fr 05:30-13:00,15:00-17:00,Sa 05:30-12:00,Su 07:00-11:00"
-website: "http://baeckereifunken.de/"
+street: Dorfstraße
+housenumber: "4"
+phone: +49 2245 3692
+opening_hours: Tu-Fr 05:30-13:00,15:00-17:00,Sa 05:30-12:00,Su 07:00-11:00
+website: http://baeckereifunken.de/

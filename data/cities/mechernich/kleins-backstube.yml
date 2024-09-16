@@ -1,11 +1,11 @@
 id: 934075130
-type: way
+type: node
 latitude: 50.59327
 longitude: 6.64323
 postcode: "53894"
 city: Mechernich
-street: "Marienau"
-housenumber: 3
-phone: "+49 2443 9029601"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://kleinsbackstube.de/"
+street: Marienau
+housenumber: "3"
+phone: +49 2443 9029601
+opening_hours: Mo-Sa 07:00-20:00
+website: https://kleinsbackstube.de/

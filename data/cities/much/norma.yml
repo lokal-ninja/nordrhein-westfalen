@@ -1,11 +1,11 @@
 id: 283698864
-type: way
+type: node
 latitude: 50.90411
 longitude: 7.39527
 postcode: "53804"
 city: Much
-street: "Krahmer Weg"
-housenumber: 2
+street: Krahmer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
+opening_hours: Mo-Sa 07:00-21:00; Su off
 website: ""

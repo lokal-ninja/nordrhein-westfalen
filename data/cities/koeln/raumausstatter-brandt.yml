@@ -4,8 +4,8 @@ latitude: 50.93532
 longitude: 6.97563
 postcode: "50679"
 city: Köln
-street: "Helenenwallstraße"
-housenumber: 10
+street: Helenenwallstraße
+housenumber: "10"
 phone: ""
-opening_hours: "man soll sich telefonisch melden. +01782010640 oder mail info@mbk-brandt.de"
-website: "https://www.mbk-brandt.de/"
+opening_hours: '"man soll sich telefonisch melden. +01782010640 oder mail info@mbk-brandt.de"'
+website: https://www.mbk-brandt.de/

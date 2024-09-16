@@ -4,8 +4,8 @@ latitude: 51.23071
 longitude: 7.19621
 postcode: "42369"
 city: Wuppertal
-street: "Elias-Eller-Straße"
-housenumber: 58
-phone: "+49 202 4 69 81 58"
-opening_hours: "Termine nach tel. Vereinbarung"
-website: "https://www.raumausstattung-engstfeld.de/"
+street: Elias-Eller-Straße
+housenumber: "58"
+phone: +49 202 4 69 81 58
+opening_hours: '"Termine nach tel. Vereinbarung"'
+website: https://www.raumausstattung-engstfeld.de/

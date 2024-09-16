@@ -1,5 +1,5 @@
 ---
 title: "TS Spezialmanufaktur"
 url: /bielefeld/ts-spezialmanufaktur/
-shop: Allgemein
+shop: Leder
 ---

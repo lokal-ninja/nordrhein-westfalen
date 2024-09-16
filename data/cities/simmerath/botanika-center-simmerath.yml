@@ -4,8 +4,8 @@ latitude: 50.60391
 longitude: 6.29805
 postcode: "52152"
 city: Simmerath
-street: "Hauptstraße"
-housenumber: 21
-phone: "+49 2473 93730"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su,PH 10:00-13:00"
-website: "https://botanika-center.de/"
+street: Hauptstraße
+housenumber: "21"
+phone: +49 2473 93730
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su,PH 10:00-13:00
+website: https://botanika-center.de/

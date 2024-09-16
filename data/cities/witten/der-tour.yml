@@ -4,8 +4,8 @@ latitude: 51.43915
 longitude: 7.33661
 postcode: "58452"
 city: Witten
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:30; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:30; PH off
 website: ""

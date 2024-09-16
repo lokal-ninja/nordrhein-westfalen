@@ -1,11 +1,11 @@
 id: 204551577
-type: way
+type: node
 latitude: 51.67332
 longitude: 6.96293
 postcode: "46284"
 city: Dorsten
-street: "An der Molkerei"
-housenumber: 47
+street: An der Molkerei
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

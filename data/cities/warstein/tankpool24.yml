@@ -1,11 +1,11 @@
 id: 196215375
-type: way
+type: node
 latitude: 51.4877
 longitude: 8.35225
 postcode: "59581"
 city: Warstein
-street: "Wiebusch"
-housenumber: 47
+street: Wiebusch
+housenumber: "47"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

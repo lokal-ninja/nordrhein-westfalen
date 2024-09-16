@@ -4,8 +4,8 @@ latitude: 50.964
 longitude: 6.83004
 postcode: "50859"
 city: Köln
-street: "Adrian-Meller-Straße"
-housenumber: 2
-phone: "+49 221 26028781"
-opening_hours: "Tu,We,Fr 09:00-18:30; Th 09:00-20:00; Sa 08:30-15:00"
+street: Adrian-Meller-Straße
+housenumber: "2"
+phone: +49 221 26028781
+opening_hours: Tu,We,Fr 09:00-18:30; Th 09:00-20:00; Sa 08:30-15:00
 website: ""

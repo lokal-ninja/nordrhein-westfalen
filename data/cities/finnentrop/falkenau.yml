@@ -1,11 +1,11 @@
 id: 132055207
-type: way
+type: node
 latitude: 51.19542
 longitude: 7.95941
 postcode: "57413"
 city: Finnentrop
-street: "Industriestraße"
-housenumber: 57
+street: Industriestraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

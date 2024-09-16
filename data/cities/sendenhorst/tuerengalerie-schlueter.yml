@@ -1,11 +1,11 @@
 id: 262462529
-type: way
+type: node
 latitude: 51.84536
 longitude: 7.84104
 postcode: "48324"
 city: Sendenhorst
-street: "Schörmelweg"
-housenumber: 17
+street: Schörmelweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.tuerengalerie.net/"
+website: https://www.tuerengalerie.net/

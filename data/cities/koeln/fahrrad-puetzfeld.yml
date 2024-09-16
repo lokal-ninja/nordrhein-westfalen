@@ -1,11 +1,11 @@
 id: 235737022
-type: way
+type: node
 latitude: 50.99697
 longitude: 6.90621
 postcode: "50739"
 city: Köln
-street: "Longericher Hauptstraße"
-housenumber: 67
+street: Longericher Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-13:00, Mo off; Apr-Oct: Sa 09:00-14:00"
-website: "https://fahrrad-puetzfeld.de/"
+opening_hours: 'Tu-Fr 09:00-18:00, Sa 09:00-13:00, Mo off; Apr-Oct: Sa 09:00-14:00'
+website: https://fahrrad-puetzfeld.de/

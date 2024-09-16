@@ -4,8 +4,8 @@ latitude: 51.83841
 longitude: 7.09457
 postcode: "48734"
 city: Reken
-street: "Poststraße"
-housenumber: 11
-phone: "+49 2864 1081"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 07:00-14:00"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-sch%C3%B6ttler-kirchstra%C3%9Fe-6/"
+street: Poststraße
+housenumber: "11"
+phone: +49 2864 1081
+opening_hours: Mo-Fr 08:00-18:30; Sa 07:00-14:00
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-sch%C3%B6ttler-kirchstra%C3%9Fe-6/

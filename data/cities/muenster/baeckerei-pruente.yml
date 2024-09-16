@@ -4,8 +4,8 @@ latitude: 51.93967
 longitude: 7.61272
 postcode: "48151"
 city: Münster
-street: "Inselbogen"
-housenumber: 30
-phone: "+49 251 2301511"
-opening_hours: "Mo-Fr 06:00-11:30; Sa 07:00-11:00"
-website: "https://www.pruentes-pumpernickel.de/"
+street: Inselbogen
+housenumber: "30"
+phone: +49 251 2301511
+opening_hours: Mo-Fr 06:00-11:30; Sa 07:00-11:00
+website: https://www.pruentes-pumpernickel.de/

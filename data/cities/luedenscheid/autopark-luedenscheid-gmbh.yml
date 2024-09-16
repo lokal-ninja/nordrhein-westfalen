@@ -1,11 +1,11 @@
 id: 252020282
-type: way
+type: node
 latitude: 51.22781
 longitude: 7.63721
 postcode: "58507"
 city: Lüdenscheid
-street: "Lennestraße"
-housenumber: 5
+street: Lennestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

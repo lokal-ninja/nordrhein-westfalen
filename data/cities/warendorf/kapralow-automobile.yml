@@ -1,11 +1,11 @@
 id: 97831226
-type: way
+type: node
 latitude: 51.95641
 longitude: 7.95184
 postcode: "48231"
 city: Warendorf
-street: "Neuwarendorf"
-housenumber: 44
+street: Neuwarendorf
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "http://www.kapralow.de"
+website: http://www.kapralow.de

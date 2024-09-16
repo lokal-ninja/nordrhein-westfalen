@@ -4,8 +4,8 @@ latitude: 50.79834
 longitude: 7.05242
 postcode: "53859"
 city: Niederkassel
-street: "Marktstraße"
-housenumber: 109
+street: Marktstraße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30; Su 08:00-12:00"
-website: "https://baeckerei-merzenich.de/"
+opening_hours: Mo-Sa 07:00-21:30; Su 08:00-12:00
+website: https://baeckerei-merzenich.de/

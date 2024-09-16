@@ -1,11 +1,11 @@
 id: 259279650
-type: way
+type: node
 latitude: 51.68112
 longitude: 7.81457
 postcode: "59065"
 city: Hamm
-street: "Ritterstraße"
-housenumber: 29
-phone: "+49 2381 24384"
-opening_hours: "Tu, Fr 09:00-18:00; We 10:00-19:00; Th 10:00-20:00; Sa 09:00-16:00"
-website: "https://www.hairstyle-hamm.de/"
+street: Ritterstraße
+housenumber: "29"
+phone: +49 2381 24384
+opening_hours: Tu, Fr 09:00-18:00; We 10:00-19:00; Th 10:00-20:00; Sa 09:00-16:00
+website: https://www.hairstyle-hamm.de/

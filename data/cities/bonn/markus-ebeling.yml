@@ -4,8 +4,8 @@ latitude: 50.73388
 longitude: 7.09666
 postcode: "53111"
 city: Bonn
-street: "Münsterstraße"
-housenumber: 19
+street: Münsterstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH,Su off
 website: ""

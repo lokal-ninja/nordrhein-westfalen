@@ -4,8 +4,8 @@ latitude: 50.74064
 longitude: 7.13001
 postcode: "53229"
 city: Bonn
-street: "Siegburger Straße"
-housenumber: 38
-phone: "+49 152 06204756"
-opening_hours: "Nach Vereinbarung"
-website: "https://peluqueria.de/"
+street: Siegburger Straße
+housenumber: "38"
+phone: +49 152 06204756
+opening_hours: '"Nach Vereinbarung"'
+website: https://peluqueria.de/

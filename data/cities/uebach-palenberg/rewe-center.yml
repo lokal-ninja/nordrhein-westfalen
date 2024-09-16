@@ -1,11 +1,11 @@
 id: 151288939
-type: way
+type: node
 latitude: 50.92152
 longitude: 6.13523
 postcode: "52531"
 city: Übach-Palenberg
-street: "Boschstraße"
-housenumber: 4
+street: Boschstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.93688
 longitude: 6.97846
 postcode: "50679"
 city: Köln
-street: "Deutz-Kalker Straße"
-housenumber: 2
-phone: "+49 221 812743"
-opening_hours: "Mo,Tu,Th 08:30-17:30; We-Fr 08:30-15:00"
-website: "https://www.rahm.de/"
+street: Deutz-Kalker Straße
+housenumber: "2"
+phone: +49 221 812743
+opening_hours: Mo,Tu,Th 08:30-17:30; We-Fr 08:30-15:00
+website: https://www.rahm.de/

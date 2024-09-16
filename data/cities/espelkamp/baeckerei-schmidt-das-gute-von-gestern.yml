@@ -4,8 +4,8 @@ latitude: 52.37754
 longitude: 8.62997
 postcode: "32339"
 city: Espelkamp
-street: "Breslauer Straße"
-housenumber: 49
-phone: "+49 5772 6944"
-opening_hours: "Tu-Sa 08:30-13:00"
-website: "https://www.baeckerei-schmidt.de/"
+street: Breslauer Straße
+housenumber: "49"
+phone: +49 5772 6944
+opening_hours: Tu-Sa 08:30-13:00
+website: https://www.baeckerei-schmidt.de/

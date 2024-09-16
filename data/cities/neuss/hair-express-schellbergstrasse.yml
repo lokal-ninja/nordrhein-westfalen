@@ -4,8 +4,8 @@ latitude: 51.16759
 longitude: 6.73451
 postcode: "41469"
 city: Neuss
-street: "Schellbergstraße"
-housenumber: 9
-phone: "+49 2131 101332"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Schellbergstraße
+housenumber: "9"
+phone: +49 2131 101332
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

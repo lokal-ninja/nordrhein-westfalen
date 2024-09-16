@@ -1,11 +1,11 @@
 id: 377036225
-type: way
+type: node
 latitude: 51.49031
 longitude: 6.44108
 postcode: "47661"
 city: Issum
-street: "Rheurdter Straße"
-housenumber: 74
+street: Rheurdter Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

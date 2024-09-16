@@ -4,8 +4,8 @@ latitude: 51.17964
 longitude: 7.19477
 postcode: "42853"
 city: Remscheid
-street: "Markt"
-housenumber: 17
-phone: "+49 2191 58959-0"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.arbeit-remscheid.de/unsere-orte/kaufhaus-remscheid/"
+street: Markt
+housenumber: "17"
+phone: +49 2191 58959-0
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.arbeit-remscheid.de/unsere-orte/kaufhaus-remscheid/

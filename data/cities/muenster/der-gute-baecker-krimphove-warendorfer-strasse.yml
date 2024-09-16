@@ -4,8 +4,8 @@ latitude: 51.96777
 longitude: 7.65851
 postcode: "48145"
 city: Münster
-street: "Warendorfer Straße"
-housenumber: 189
-phone: "+49 251 231738"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00; PH off"
-website: "https://krimphove.de/"
+street: Warendorfer Straße
+housenumber: "189"
+phone: +49 251 231738
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00; PH off
+website: https://krimphove.de/

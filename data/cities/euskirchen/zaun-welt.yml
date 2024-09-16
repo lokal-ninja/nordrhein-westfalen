@@ -1,11 +1,11 @@
 id: 226085812
-type: way
+type: node
 latitude: 50.64763
 longitude: 6.73285
 postcode: "53881"
 city: Euskirchen
-street: "Diemstraße"
+street: Diemstraße
 housenumber: 18-22
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-13:00 Ausstellung; Sa 08:00-13:00 Abholer"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-13:00 "Ausstellung"; Sa 08:00-13:00 "Abholer"
 website: ""

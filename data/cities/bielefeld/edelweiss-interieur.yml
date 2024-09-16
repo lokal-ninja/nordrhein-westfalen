@@ -4,8 +4,8 @@ latitude: 52.01887
 longitude: 8.53154
 postcode: "33602"
 city: Bielefeld
-street: "Am Bach"
-housenumber: 10
-phone: "+49-521-55600333"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.edel-weiss-interieur.de/"
+street: Am Bach
+housenumber: "10"
+phone: +49-521-55600333
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.edel-weiss-interieur.de/

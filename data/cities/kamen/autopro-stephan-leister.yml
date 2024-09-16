@@ -4,8 +4,8 @@ latitude: 51.56983
 longitude: 7.60691
 postcode: "59174"
 city: Kamen
-street: "Robert-Koch-Straße"
-housenumber: 52
-phone: "+49 2307 30626"
-opening_hours: "Mo-Th 08:00-13:00, 14:00-18:00; Fr 08:00-13:00; Sa,Su,PH off"
-website: "https://kfz-leister.de/"
+street: Robert-Koch-Straße
+housenumber: "52"
+phone: +49 2307 30626
+opening_hours: Mo-Th 08:00-13:00, 14:00-18:00; Fr 08:00-13:00; Sa,Su,PH off
+website: https://kfz-leister.de/

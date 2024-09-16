@@ -4,8 +4,8 @@ latitude: 51.21092
 longitude: 6.78107
 postcode: "40215"
 city: Düsseldorf
-street: "Bilker Allee"
-housenumber: 212
-phone: "+49 211 17450889"
+street: Bilker Allee
+housenumber: "212"
+phone: +49 211 17450889
 opening_hours: ""
-website: "https://comstu.de/"
+website: https://comstu.de/

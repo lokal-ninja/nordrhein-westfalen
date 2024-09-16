@@ -4,8 +4,8 @@ latitude: 52.02041
 longitude: 8.53021
 postcode: "33602"
 city: Bielefeld
-street: "Goldstraße"
-housenumber: 1
-phone: "+49 521 96779010"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.kunsthaus-uerpmann.de/"
+street: Goldstraße
+housenumber: "1"
+phone: +49 521 96779010
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.kunsthaus-uerpmann.de/

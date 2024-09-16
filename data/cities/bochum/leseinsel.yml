@@ -4,8 +4,8 @@ latitude: 51.45107
 longitude: 7.23078
 postcode: "44799"
 city: Bochum
-street: "Brenscheder Straße"
-housenumber: 60
-phone: "+49 234 53048072"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-13:00; PH closed"
+street: Brenscheder Straße
+housenumber: "60"
+phone: +49 234 53048072
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-13:00; PH closed
 website: ""

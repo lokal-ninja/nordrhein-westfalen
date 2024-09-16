@@ -1,11 +1,11 @@
 id: 258481471
-type: way
+type: node
 latitude: 51.44074
 longitude: 7.56803
 postcode: "58239"
 city: Schwerte
-street: "Mährstraße"
-housenumber: 2
+street: Mährstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

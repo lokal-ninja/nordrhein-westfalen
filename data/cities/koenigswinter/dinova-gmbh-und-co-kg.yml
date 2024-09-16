@@ -4,8 +4,8 @@ latitude: 50.69769
 longitude: 7.18273
 postcode: "53639"
 city: Königswinter
-street: "Bachstraße"
-housenumber: 38
-phone: "+49 2223 720"
-opening_hours: "Mo 09:00-16:00; Fr 10:00-16:30"
-website: "https://www.dinova.de/"
+street: Bachstraße
+housenumber: "38"
+phone: +49 2223 720
+opening_hours: Mo 09:00-16:00; Fr 10:00-16:30
+website: https://www.dinova.de/

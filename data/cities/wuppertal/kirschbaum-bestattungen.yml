@@ -4,8 +4,8 @@ latitude: 51.26152
 longitude: 7.13473
 postcode: "42105"
 city: Wuppertal
-street: "Wülfrather Straße"
-housenumber: 35
-phone: "+49 202 80642"
-opening_hours: "nach Vereinbarung"
-website: "https://www.kirschbaum-bestattungen.de"
+street: Wülfrather Straße
+housenumber: "35"
+phone: +49 202 80642
+opening_hours: '"nach Vereinbarung"'
+website: https://www.kirschbaum-bestattungen.de

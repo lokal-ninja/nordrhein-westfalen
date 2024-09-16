@@ -1,11 +1,11 @@
 id: 131992933
-type: way
+type: node
 latitude: 50.84045
 longitude: 7.42003
 postcode: "53809"
 city: Ruppichteroth
-street: "Felderhoferbrücke"
-housenumber: 15
+street: Felderhoferbrücke
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

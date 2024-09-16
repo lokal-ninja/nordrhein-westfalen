@@ -1,11 +1,11 @@
 id: 279717612
-type: way
+type: node
 latitude: 51.83277
 longitude: 7.40304
 postcode: "48249"
 city: Dülmen
-street: "Graskamp"
-housenumber: 17
+street: Graskamp
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.gottschling-klaviere.de/"
+website: https://www.gottschling-klaviere.de/

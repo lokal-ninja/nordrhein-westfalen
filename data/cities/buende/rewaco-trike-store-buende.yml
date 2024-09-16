@@ -1,11 +1,11 @@
 id: 45593461
-type: way
+type: node
 latitude: 52.20671
 longitude: 8.58299
 postcode: "32257"
 city: Bünde
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 22
+street: Gerhart-Hauptmann-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

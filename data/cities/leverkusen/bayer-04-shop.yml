@@ -4,8 +4,8 @@ latitude: 51.03218
 longitude: 6.98659
 postcode: "51373"
 city: Leverkusen
-street: "Wiesdorfer Platz"
-housenumber: 9
-phone: "+49 180 5 040404"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://shop.bayer04.de/"
+street: Wiesdorfer Platz
+housenumber: "9"
+phone: +49 180 5 040404
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://shop.bayer04.de/

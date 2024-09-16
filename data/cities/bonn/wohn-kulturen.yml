@@ -4,8 +4,8 @@ latitude: 50.73733
 longitude: 7.105
 postcode: "53111"
 city: Bonn
-street: "Berliner Freiheit"
-housenumber: 11
-phone: "+49 228 9455594"
-opening_hours: "Mo-Fr 11:00-19:00, Sa 11:00-18:00; PH off"
-website: "https://wohn-kulturen.de/"
+street: Berliner Freiheit
+housenumber: "11"
+phone: +49 228 9455594
+opening_hours: Mo-Fr 11:00-19:00, Sa 11:00-18:00; PH off
+website: https://wohn-kulturen.de/

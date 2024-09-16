@@ -1,11 +1,11 @@
 id: 1050650752
-type: way
+type: node
 latitude: 51.09816
 longitude: 8.62717
 postcode: "35108"
 city: Allendorf (Eder)
-street: "Sauerlandstraße"
-housenumber: 40
-phone: "+49 2984 7319620"
+street: Sauerlandstraße
+housenumber: "40"
+phone: +49 2984 7319620
 opening_hours: ""
-website: "https://www.lack-karosserie-bromskirchen.de/"
+website: https://www.lack-karosserie-bromskirchen.de/

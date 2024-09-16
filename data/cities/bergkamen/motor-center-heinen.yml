@@ -1,11 +1,11 @@
 id: 44822260
-type: way
+type: node
 latitude: 51.62684
 longitude: 7.65601
 postcode: "59192"
 city: Bergkamen
-street: "Industriestraße"
-housenumber: 110
+street: Industriestraße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

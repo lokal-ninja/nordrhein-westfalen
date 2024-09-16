@@ -4,8 +4,8 @@ latitude: 51.95064
 longitude: 8.56943
 postcode: "33689"
 city: Bielefeld
-street: "Hansestraße"
-housenumber: 1
+street: Hansestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:30; Sa 08:00-21:30"
+opening_hours: Mo-Fr 07:00-21:30; Sa 08:00-21:30
 website: ""

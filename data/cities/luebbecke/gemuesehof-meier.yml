@@ -4,8 +4,8 @@ latitude: 52.32692
 longitude: 8.61219
 postcode: "32312"
 city: Lübbecke
-street: "Maschweg"
-housenumber: 1
-phone: "+49 5741 4772"
-opening_hours: "Mo-Fr 09:00-13:30,15:00-18:00, Sa 09:00-13:00"
-website: "https://www.meiers-gemuesehof.de/"
+street: Maschweg
+housenumber: "1"
+phone: +49 5741 4772
+opening_hours: Mo-Fr 09:00-13:30,15:00-18:00, Sa 09:00-13:00
+website: https://www.meiers-gemuesehof.de/

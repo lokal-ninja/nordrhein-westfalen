@@ -4,8 +4,8 @@ latitude: 52.02313
 longitude: 8.53915
 postcode: "33602"
 city: Bielefeld
-street: "Friedrich-Verleger-Straße"
-housenumber: 26
+street: Friedrich-Verleger-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 09:00-13:00"
-website: "https://www.siebrasse-kt.de/"
+opening_hours: Mo-Fr 10:00-18:30, Sa 09:00-13:00
+website: https://www.siebrasse-kt.de/

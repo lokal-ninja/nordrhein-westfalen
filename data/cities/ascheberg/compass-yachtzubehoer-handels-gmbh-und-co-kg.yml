@@ -4,8 +4,8 @@ latitude: 51.79077
 longitude: 7.60879
 postcode: "59387"
 city: Ascheberg
-street: "Lüdinghauser Straße"
-housenumber: 34
+street: Lüdinghauser Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "https://www.compass24.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: https://www.compass24.de/

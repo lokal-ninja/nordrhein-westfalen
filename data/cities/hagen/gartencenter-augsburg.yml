@@ -1,11 +1,11 @@
 id: 94909404
-type: way
+type: node
 latitude: 51.3741
 longitude: 7.54872
 postcode: "58119"
 city: Hagen
-street: "Im Eichhof"
-housenumber: 10
+street: Im Eichhof
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00
 website: ""

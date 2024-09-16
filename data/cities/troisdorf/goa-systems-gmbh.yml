@@ -1,11 +1,11 @@
 id: 111719926
-type: way
+type: node
 latitude: 50.80084
 longitude: 7.13169
 postcode: "53844"
 city: Troisdorf
-street: "Alemannenstraße"
-housenumber: 4
+street: Alemannenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

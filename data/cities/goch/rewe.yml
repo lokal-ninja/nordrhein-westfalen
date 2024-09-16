@@ -1,11 +1,11 @@
 id: 560094755
-type: way
+type: node
 latitude: 51.68462
 longitude: 6.16022
 postcode: "47574"
 city: Goch
-street: "Klever Straße"
+street: Klever Straße
 housenumber: 20-22
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/goch/1763447/rewe-markt-klever-strasse-20-22/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/goch/1763447/rewe-markt-klever-strasse-20-22/

@@ -1,11 +1,11 @@
 id: 35414869
-type: way
+type: node
 latitude: 51.02731
 longitude: 6.99147
 postcode: "51373"
 city: Leverkusen
-street: "Manforter Straße"
-housenumber: 24
+street: Manforter Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

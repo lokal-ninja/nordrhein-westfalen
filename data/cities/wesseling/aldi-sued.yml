@@ -1,11 +1,11 @@
 id: 40153249
-type: way
+type: node
 latitude: 50.82901
 longitude: 6.9627
 postcode: "50389"
 city: Wesseling
-street: "West Devon Straße"
-housenumber: 6
+street: West Devon Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

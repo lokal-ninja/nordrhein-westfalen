@@ -1,11 +1,11 @@
 id: 251877127
-type: way
+type: node
 latitude: 51.20671
 longitude: 7.60195
 postcode: "58515"
 city: Lüdenscheid
-street: "Talstraße"
-housenumber: 110
+street: Talstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00; Su off"
+opening_hours: Mo-Sa 09:00-13:00; Su off
 website: ""

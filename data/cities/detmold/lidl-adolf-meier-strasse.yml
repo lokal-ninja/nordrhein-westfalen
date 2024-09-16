@@ -1,11 +1,11 @@
 id: 92170231
-type: way
+type: node
 latitude: 51.94473
 longitude: 8.8338
 postcode: "32758"
 city: Detmold
-street: "Adolf-Meier-Straße"
-housenumber: 38
+street: Adolf-Meier-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

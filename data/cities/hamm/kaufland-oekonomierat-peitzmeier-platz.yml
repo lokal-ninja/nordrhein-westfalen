@@ -1,11 +1,11 @@
 id: 108155759
-type: way
+type: node
 latitude: 51.6652
 longitude: 7.8276
 postcode: "59063"
 city: Hamm
-street: "Ökonomierat-Peitzmeier-Platz"
+street: Ökonomierat-Peitzmeier-Platz
 housenumber: 2-4
-phone: "+49 2381 950260"
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
+phone: +49 2381 950260
+opening_hours: Mo-Sa 07:00-22:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.7134
 longitude: 8.73947
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 6:30-19:00"
-website: "http://www.sbh-west.de"
+opening_hours: Mo-Fr 6:30-19:00
+website: http://www.sbh-west.de

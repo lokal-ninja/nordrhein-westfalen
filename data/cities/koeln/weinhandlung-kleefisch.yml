@@ -4,8 +4,8 @@ latitude: 50.96269
 longitude: 6.9526
 postcode: "50733"
 city: Köln
-street: "Wilhelmstraße"
-housenumber: 53
-phone: "+49 221 733 481"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "http://www.weinhandlung-kleefisch.de"
+street: Wilhelmstraße
+housenumber: "53"
+phone: +49 221 733 481
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: http://www.weinhandlung-kleefisch.de

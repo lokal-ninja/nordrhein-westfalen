@@ -4,8 +4,8 @@ latitude: 52.31429
 longitude: 8.81758
 postcode: "32479"
 city: Hille
-street: "Mindener Straße"
-housenumber: 432
-phone: "+49 571 73075614"
-opening_hours: "Mo-Tu 10:00-13:00,15:00-18:00; We 10:00-13:00; Th-Fr 10:00-13:00,15:00-18:00"
-website: "https://alado-it.de"
+street: Mindener Straße
+housenumber: "432"
+phone: +49 571 73075614
+opening_hours: Mo-Tu 10:00-13:00,15:00-18:00; We 10:00-13:00; Th-Fr 10:00-13:00,15:00-18:00
+website: https://alado-it.de

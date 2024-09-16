@@ -1,11 +1,11 @@
 id: 47075388
-type: way
+type: node
 latitude: 50.95928
 longitude: 6.80236
 postcode: "50259"
 city: Pulheim
-street: "Sachsstraße"
-housenumber: 9
+street: Sachsstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.dersteaklieferant.de"
+website: https://www.dersteaklieferant.de

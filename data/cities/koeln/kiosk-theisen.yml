@@ -1,11 +1,11 @@
 id: 261120710
-type: way
+type: node
 latitude: 50.90073
 longitude: 6.94869
 postcode: "50968"
 city: Köln
-street: "Markusstraße"
-housenumber: 84
+street: Markusstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Tu-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00
 website: ""

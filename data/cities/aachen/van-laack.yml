@@ -4,8 +4,8 @@ latitude: 50.77373
 longitude: 6.08588
 postcode: "52062"
 city: Aachen
-street: "Hartmannstraße"
-housenumber: 32
-phone: "+49 241 990 1560"
-opening_hours: "Mo-Sa 10:00-18:00; Su off"
-website: "https://www.vanlaack.com/"
+street: Hartmannstraße
+housenumber: "32"
+phone: +49 241 990 1560
+opening_hours: Mo-Sa 10:00-18:00; Su off
+website: https://www.vanlaack.com/

@@ -1,11 +1,11 @@
 id: 32862524
-type: way
+type: node
 latitude: 51.09167
 longitude: 6.61783
 postcode: "41515"
 city: Grevenbroich
-street: "Lilienthalstraße"
-housenumber: 31
+street: Lilienthalstraße
+housenumber: "31"
 phone: "+4921817578070"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:30"
-website: "http://www.pick-bfz.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:30
+website: http://www.pick-bfz.de/

@@ -1,11 +1,11 @@
 id: 25143308
-type: way
+type: node
 latitude: 51.14521
 longitude: 6.28428
 postcode: "41844"
 city: Wegberg
-street: "Am Bahnhof"
-housenumber: 9
+street: Am Bahnhof
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

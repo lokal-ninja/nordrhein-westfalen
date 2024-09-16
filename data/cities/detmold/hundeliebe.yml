@@ -4,8 +4,8 @@ latitude: 51.93722
 longitude: 8.88249
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 85
+street: Lange Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.hundeliebe.org/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.hundeliebe.org/

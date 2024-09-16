@@ -4,8 +4,8 @@ latitude: 51.90278
 longitude: 7.63844
 postcode: "48165"
 city: Münster
-street: "Marktallee"
-housenumber: 3
+street: Marktallee
+housenumber: "3"
 phone: "+4925013547"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:30"
-website: "https://www.droppelmann.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:30
+website: https://www.droppelmann.de/

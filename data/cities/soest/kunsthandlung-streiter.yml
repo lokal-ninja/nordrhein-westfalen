@@ -4,8 +4,8 @@ latitude: 51.57042
 longitude: 8.10952
 postcode: "59494"
 city: Soest
-street: "Grandweg"
-housenumber: 15
-phone: "+49 2921 13956"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.kunsthandlung-streiter.de/"
+street: Grandweg
+housenumber: "15"
+phone: +49 2921 13956
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.kunsthandlung-streiter.de/

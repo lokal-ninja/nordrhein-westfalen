@@ -1,11 +1,11 @@
 id: 178433832
-type: way
+type: node
 latitude: 50.83091
 longitude: 7.01995
 postcode: "53859"
 city: Niederkassel
-street: "Friedensstraße"
-housenumber: 32
-phone: "+49 2208 75413"
+street: Friedensstraße
+housenumber: "32"
+phone: +49 2208 75413
 opening_hours: ""
 website: ""

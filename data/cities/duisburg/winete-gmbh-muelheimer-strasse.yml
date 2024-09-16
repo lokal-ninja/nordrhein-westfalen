@@ -1,11 +1,11 @@
 id: 109235179
-type: way
+type: node
 latitude: 51.43308
 longitude: 6.79245
 postcode: "47057"
 city: Duisburg
-street: "Mülheimer Straße"
-housenumber: 140
+street: Mülheimer Straße
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

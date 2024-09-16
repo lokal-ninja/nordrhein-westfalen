@@ -4,8 +4,8 @@ latitude: 51.16192
 longitude: 6.87524
 postcode: "40597"
 city: Düsseldorf
-street: "Paulistraße"
-housenumber: 10
+street: Paulistraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa on appointment"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa "on appointment"
 website: ""

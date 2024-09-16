@@ -1,11 +1,11 @@
 id: 1176389612
-type: way
+type: node
 latitude: 51.55812
 longitude: 7.54208
 postcode: "44328"
 city: Dortmund
-street: "Droote"
-housenumber: 46
+street: Droote
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

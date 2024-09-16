@@ -1,11 +1,11 @@
 id: 94399211
-type: way
+type: node
 latitude: 51.33655
 longitude: 6.62621
 postcode: "47809"
 city: Krefeld
-street: "Bruchfeld"
-housenumber: 2
+street: Bruchfeld
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/krefeld/bruchfeld-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/krefeld/bruchfeld-2

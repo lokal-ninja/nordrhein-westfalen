@@ -4,8 +4,8 @@ latitude: 52.02727
 longitude: 8.89231
 postcode: "32657"
 city: Lemgo
-street: "Steinweg"
-housenumber: 15
-phone: "+49 5261 2506 0"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "https://cts-reisen.de"
+street: Steinweg
+housenumber: "15"
+phone: +49 5261 2506 0
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: https://cts-reisen.de

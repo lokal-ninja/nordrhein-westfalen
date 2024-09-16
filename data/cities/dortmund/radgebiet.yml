@@ -4,8 +4,8 @@ latitude: 51.50564
 longitude: 7.444
 postcode: "44137"
 city: Dortmund
-street: "Neuer Graben"
-housenumber: 153
-phone: "+49 231 330 391 82"
-opening_hours: "Tu-Fr 09:30-13:00,14:00-18:30; Sa 09:00-14:00"
+street: Neuer Graben
+housenumber: "153"
+phone: +49 231 330 391 82
+opening_hours: Tu-Fr 09:30-13:00,14:00-18:30; Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.92445
 longitude: 7.57738
 postcode: "48163"
 city: Münster
-street: "Weseler Straße"
-housenumber: 645
+street: Weseler Straße
+housenumber: "645"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.daenischesbettenlager.de"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.daenischesbettenlager.de

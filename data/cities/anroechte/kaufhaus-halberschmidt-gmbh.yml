@@ -1,11 +1,11 @@
 id: 243485066
-type: way
+type: node
 latitude: 51.55812
 longitude: 8.32468
 postcode: "59609"
 city: Anröchte
-street: "Kathagen"
-housenumber: 1
+street: Kathagen
+housenumber: "1"
 phone: "+49294789645"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-15:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-15:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.96173
 longitude: 7.62408
 postcode: "48143"
 city: Münster
-street: "Domplatz"
-housenumber: 10
-phone: "+49 251 9811 7384"
-opening_hours: "Dienstag bis Sonntag: 10-18 Uhr, jeden 2. Freitag im Monat 10-24 Uhr"
+street: Domplatz
+housenumber: "10"
+phone: +49 251 9811 7384
+opening_hours: '"Dienstag bis Sonntag: 10-18 Uhr, jeden 2. Freitag im Monat 10-24
+    Uhr"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.74457
 longitude: 7.11803
 postcode: "53225"
 city: Bonn
-street: "Mirecourtstraße"
-housenumber: 15
-phone: "+49 228465614"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-lange-mirecourtstra%C3%9Fe-15/index.jsp"
+street: Mirecourtstraße
+housenumber: "15"
+phone: +49 228465614
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-lange-mirecourtstra%C3%9Fe-15/index.jsp

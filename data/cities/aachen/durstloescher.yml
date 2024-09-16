@@ -1,11 +1,11 @@
 id: 115993282
-type: way
+type: node
 latitude: 50.79342
 longitude: 6.10527
 postcode: "52070"
 city: Aachen
-street: "Lukasstraße"
-housenumber: 25
-phone: "+49 241 4502150"
+street: Lukasstraße
+housenumber: "25"
+phone: +49 241 4502150
 opening_hours: ""
-website: "https://www.durstloescher-aachen.de/"
+website: https://www.durstloescher-aachen.de/

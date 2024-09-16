@@ -4,8 +4,8 @@ latitude: 51.2234
 longitude: 6.7893
 postcode: "40210"
 city: Düsseldorf
-street: "Immermannstraße"
-housenumber: 34
-phone: "+49 211 26194969"
-opening_hours: "Mo-Fr 12:00-17:00"
-website: "https://downtownbikes.de"
+street: Immermannstraße
+housenumber: "34"
+phone: +49 211 26194969
+opening_hours: Mo-Fr 12:00-17:00
+website: https://downtownbikes.de

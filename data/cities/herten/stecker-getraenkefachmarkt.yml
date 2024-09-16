@@ -4,8 +4,8 @@ latitude: 51.60206
 longitude: 7.15997
 postcode: "45699"
 city: Herten
-street: "Kaiserstraße"
-housenumber: 252
-phone: "+49 2366 38300"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00; PH off"
-website: "http://www.strecker24.de"
+street: Kaiserstraße
+housenumber: "252"
+phone: +49 2366 38300
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00; PH off
+website: http://www.strecker24.de

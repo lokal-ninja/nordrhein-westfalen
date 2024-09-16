@@ -4,8 +4,8 @@ latitude: 51.21254
 longitude: 6.7644
 postcode: "40219"
 city: Düsseldorf
-street: "Lorettostraße"
-housenumber: 60
+street: Lorettostraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Th 20:00-23:00; Fr-Sa 10:00-24:00; Su 20:00-23:00"
+opening_hours: Mo-Th 20:00-23:00; Fr-Sa 10:00-24:00; Su 20:00-23:00
 website: ""

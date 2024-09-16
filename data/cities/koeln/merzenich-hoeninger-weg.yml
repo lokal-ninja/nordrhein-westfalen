@@ -4,8 +4,8 @@ latitude: 50.9124
 longitude: 6.94062
 postcode: "50969"
 city: Köln
-street: "Höninger Weg"
-housenumber: 166
+street: Höninger Weg
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; PH,Su 06:30-17:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; PH,Su 06:30-17:00
 website: ""

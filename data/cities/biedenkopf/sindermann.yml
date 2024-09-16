@@ -1,11 +1,11 @@
 id: 1115290573
-type: way
+type: node
 latitude: 50.92184
 longitude: 8.46088
 postcode: "35216"
 city: Biedenkopf
-street: "Auf dem Krummacker"
-housenumber: 6
+street: Auf dem Krummacker
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

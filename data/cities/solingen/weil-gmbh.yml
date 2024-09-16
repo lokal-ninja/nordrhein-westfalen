@@ -4,8 +4,8 @@ latitude: 51.18599
 longitude: 7.03097
 postcode: "42719"
 city: Solingen
-street: "Wittkuller Straße"
-housenumber: 21
-phone: "+49 212 311618"
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "https://weilgmbh.de"
+street: Wittkuller Straße
+housenumber: "21"
+phone: +49 212 311618
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
+website: https://weilgmbh.de

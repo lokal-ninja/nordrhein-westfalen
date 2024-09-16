@@ -1,11 +1,12 @@
 id: 185143657
-type: way
+type: node
 latitude: 51.66588
 longitude: 6.66556
 postcode: "46485"
 city: Wesel
-street: "Rudolf-Diesel-Straße"
-housenumber: 99
-phone: "+49 281 811 05 13"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://www.louis.de/filialen/louis-wesel"
+street: Rudolf-Diesel-Straße
+housenumber: "99"
+phone: +49 281 811 05 13
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Fr 09:00-19:00; Sa 09:00-18:00;
+    Su off'
+website: https://www.louis.de/filialen/louis-wesel

@@ -1,11 +1,11 @@
 id: 27462291
-type: way
+type: node
 latitude: 51.53369
 longitude: 6.93106
 postcode: "46236"
 city: Bottrop
-street: "Gladbecker Straße"
-housenumber: 130
+street: Gladbecker Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:00-17:00
 website: ""

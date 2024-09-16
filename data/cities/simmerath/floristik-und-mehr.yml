@@ -1,11 +1,12 @@
 id: 93699111
-type: way
+type: node
 latitude: 50.63158
 longitude: 6.28054
 postcode: "52152"
 city: Simmerath
-street: "Kirchstraße"
-housenumber: 46
-phone: "+49 2473 9289968"
-opening_hours: "Mo off; Tu,Th,Fr 09:30-12:30,14:00-18:00; We 09:30-12:30; Sa 09:00-13:00; Su 10:00-12:00"
-website: "https://floristik-eigenart.de/"
+street: Kirchstraße
+housenumber: "46"
+phone: +49 2473 9289968
+opening_hours: Mo off; Tu,Th,Fr 09:30-12:30,14:00-18:00; We 09:30-12:30; Sa 09:00-13:00;
+    Su 10:00-12:00
+website: https://floristik-eigenart.de/

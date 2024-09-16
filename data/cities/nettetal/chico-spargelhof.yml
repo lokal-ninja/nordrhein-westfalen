@@ -4,8 +4,8 @@ latitude: 51.32957
 longitude: 6.17239
 postcode: "41334"
 city: Nettetal
-street: "Steyler Straße"
+street: Steyler Straße
 housenumber: 228a
-phone: "+49 2157 132114"
-opening_hours: "Apr-Jun: Mo 11:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-14:00"
-website: "https://www.chicospargelhof.de"
+phone: +49 2157 132114
+opening_hours: 'Apr-Jun: Mo 11:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-14:00'
+website: https://www.chicospargelhof.de

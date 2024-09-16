@@ -4,8 +4,8 @@ latitude: 50.88455
 longitude: 7.05667
 postcode: "51143"
 city: Köln
-street: "Friedrich-Ebert-Platz"
-housenumber: 4
-phone: "+49 2203 1868847"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Friedrich-Ebert-Platz
+housenumber: "4"
+phone: +49 2203 1868847
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

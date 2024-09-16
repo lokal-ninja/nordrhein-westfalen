@@ -4,8 +4,8 @@ latitude: 51.25787
 longitude: 7.14789
 postcode: "42103"
 city: Wuppertal
-street: "Schwanenstraße"
-housenumber: 26
-phone: "+49 202 94649786"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.jack-wolfskin.de/store/232851-wuppertal-schwanenstrasse-26"
+street: Schwanenstraße
+housenumber: "26"
+phone: +49 202 94649786
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.jack-wolfskin.de/store/232851-wuppertal-schwanenstrasse-26

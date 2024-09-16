@@ -1,11 +1,11 @@
 id: 316262008
-type: way
+type: node
 latitude: 52.27492
 longitude: 7.91566
 postcode: "49504"
 city: Lotte
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00; Tu-Fr 15:00-18:00; PH off"
-website: "https://kosmetik-lotte.de/"
+opening_hours: Tu-Sa 10:00-13:00; Tu-Fr 15:00-18:00; PH off
+website: https://kosmetik-lotte.de/

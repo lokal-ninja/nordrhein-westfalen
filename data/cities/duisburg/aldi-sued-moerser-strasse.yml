@@ -1,11 +1,11 @@
 id: 152582525
-type: way
+type: node
 latitude: 51.45118
 longitude: 6.71402
 postcode: "47198"
 city: Duisburg
-street: "Moerser Straße"
+street: Moerser Straße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de

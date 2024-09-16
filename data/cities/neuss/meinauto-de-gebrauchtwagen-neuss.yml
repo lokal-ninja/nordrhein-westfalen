@@ -1,11 +1,11 @@
 id: 1115563478
-type: way
+type: node
 latitude: 51.20508
 longitude: 6.71542
 postcode: "41460"
 city: Neuss
-street: "An der Hammer Brücke"
-housenumber: 3
-phone: "+49 2131 7766100"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.meinauto-gebrauchtwagen.de/neuss-bei-duesseldorf/"
+street: An der Hammer Brücke
+housenumber: "3"
+phone: +49 2131 7766100
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.meinauto-gebrauchtwagen.de/neuss-bei-duesseldorf/

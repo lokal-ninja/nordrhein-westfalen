@@ -1,11 +1,11 @@
 id: 88527651
-type: way
+type: node
 latitude: 51.94322
 longitude: 7.95108
 postcode: "48231"
 city: Warendorf
-street: "Neuwarendorf"
-housenumber: 110
+street: Neuwarendorf
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.spargelboerse.de/"
+website: https://www.spargelboerse.de/

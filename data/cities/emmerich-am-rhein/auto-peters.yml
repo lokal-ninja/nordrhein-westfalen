@@ -1,11 +1,11 @@
 id: 152202076
-type: way
+type: node
 latitude: 51.83562
 longitude: 6.24687
 postcode: "46446"
 city: Emmerich am Rhein
-street: "Am Löwentor"
-housenumber: 11
-phone: "+49 2822 6621"
+street: Am Löwentor
+housenumber: "11"
+phone: +49 2822 6621
 opening_hours: ""
-website: "https://autopeters.chayns.net/"
+website: https://autopeters.chayns.net/

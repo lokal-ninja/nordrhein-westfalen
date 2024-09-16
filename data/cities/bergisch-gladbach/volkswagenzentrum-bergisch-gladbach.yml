@@ -1,11 +1,11 @@
 id: 337181304
-type: way
+type: node
 latitude: 50.98398
 longitude: 7.10179
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Mülheimer Straße"
-housenumber: 73
+street: Mülheimer Straße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

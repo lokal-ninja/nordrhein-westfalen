@@ -4,8 +4,8 @@ latitude: 50.68313
 longitude: 6.8175
 postcode: "53881"
 city: Euskirchen
-street: "Talstraße"
-housenumber: 23
-phone: "+49 160 90780181"
-opening_hours: "Mo,Tu,Th,Fr 10:00-14:00; We 10:00-18:00"
+street: Talstraße
+housenumber: "23"
+phone: +49 160 90780181
+opening_hours: Mo,Tu,Th,Fr 10:00-14:00; We 10:00-18:00
 website: ""

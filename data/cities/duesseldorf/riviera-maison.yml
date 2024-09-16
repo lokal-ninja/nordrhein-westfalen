@@ -4,8 +4,8 @@ latitude: 51.21938
 longitude: 6.77948
 postcode: "40212"
 city: Düsseldorf
-street: "Königsallee"
-housenumber: 96
-phone: "+49 211 30040304"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.rivieramaison.com/"
+street: Königsallee
+housenumber: "96"
+phone: +49 211 30040304
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.rivieramaison.com/

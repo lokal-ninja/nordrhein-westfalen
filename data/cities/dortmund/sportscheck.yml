@@ -1,11 +1,11 @@
 id: 38523784
-type: way
+type: node
 latitude: 51.513
 longitude: 7.46538
 postcode: ""
 city: Dortmund
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

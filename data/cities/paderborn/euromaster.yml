@@ -1,11 +1,11 @@
 id: 206477980
-type: way
+type: node
 latitude: 51.73199
 longitude: 8.79142
 postcode: "33100"
 city: Paderborn
-street: "Friedrich-List-Straße"
-housenumber: 31
+street: Friedrich-List-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

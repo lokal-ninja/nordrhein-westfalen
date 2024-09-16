@@ -4,8 +4,8 @@ latitude: 52.00124
 longitude: 8.57144
 postcode: "33605"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 320
+street: Detmolder Straße
+housenumber: "320"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.dm.de/

@@ -1,11 +1,11 @@
 id: 365980905
-type: way
+type: node
 latitude: 51.73877
 longitude: 7.50964
 postcode: "59394"
 city: Nordkirchen
-street: "Aspastraße"
-housenumber: 79
+street: Aspastraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://baumaschinen-nordkirchen.de/"
+website: https://baumaschinen-nordkirchen.de/

@@ -4,8 +4,9 @@ latitude: 51.73835
 longitude: 8.78348
 postcode: "33100"
 city: Paderborn
-street: "Otto-Stadler-Straße"
-housenumber: 17
+street: Otto-Stadler-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 9:00-13:00, 13:30-17:00; Tu 9:00-13:00; We 9:00-13:00, 13:30-17:00; Th 9:00-13:00; Fr 9:00-13:00, 13:30-17:00"
-website: "https://findus.store/"
+opening_hours: Mo 9:00-13:00, 13:30-17:00; Tu 9:00-13:00; We 9:00-13:00, 13:30-17:00;
+    Th 9:00-13:00; Fr 9:00-13:00, 13:30-17:00
+website: https://findus.store/

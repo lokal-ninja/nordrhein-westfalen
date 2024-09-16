@@ -1,11 +1,11 @@
 id: 50970102
-type: way
+type: node
 latitude: 50.73788
 longitude: 7.14005
 postcode: "53227"
 city: Bonn
-street: "Maarstraße"
-housenumber: 95
+street: Maarstraße
+housenumber: "95"
 phone: "+49228946680"
 opening_hours: ""
-website: "http://www.opelhaendler.de/johann-bachem-autohaus_bonn/"
+website: http://www.opelhaendler.de/johann-bachem-autohaus_bonn/

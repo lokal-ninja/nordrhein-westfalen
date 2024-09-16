@@ -4,8 +4,8 @@ latitude: 51.72624
 longitude: 8.73525
 postcode: "33102"
 city: Paderborn
-street: "Neuhäuser Straße"
-housenumber: 102
-phone: "+49 5251 870944"
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00"
+street: Neuhäuser Straße
+housenumber: "102"
+phone: +49 5251 870944
+opening_hours: Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 259664254
-type: way
+type: node
 latitude: 52.08625
 longitude: 7.615
 postcode: "48268"
 city: Greven
-street: "Münsterstraße"
-housenumber: 98
+street: Münsterstraße
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

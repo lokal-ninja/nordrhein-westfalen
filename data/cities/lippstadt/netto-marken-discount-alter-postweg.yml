@@ -1,11 +1,11 @@
 id: 329336825
-type: way
+type: node
 latitude: 51.6538
 longitude: 8.21379
 postcode: "59556"
 city: Lippstadt
-street: "Alter Postweg"
-housenumber: 2
+street: Alter Postweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

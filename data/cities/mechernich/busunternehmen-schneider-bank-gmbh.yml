@@ -1,11 +1,11 @@
 id: 282358506
-type: way
+type: node
 latitude: 50.59356
 longitude: 6.64597
 postcode: "53894"
 city: Mechernich
-street: "Johannesweg"
-housenumber: 16
-phone: "+49 2443 2446"
+street: Johannesweg
+housenumber: "16"
+phone: +49 2443 2446
 opening_hours: ""
-website: "http://www.schneider-bank.de/"
+website: http://www.schneider-bank.de/

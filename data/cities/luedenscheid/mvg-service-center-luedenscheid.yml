@@ -4,8 +4,8 @@ latitude: 51.21694
 longitude: 7.62788
 postcode: "58507"
 city: Lüdenscheid
-street: "Knapper Straße"
-housenumber: 19
+street: Knapper Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:30; Su off"
-website: "https://www.mvg-online.de/wir-ueber-uns/ansprechpartner/service-center/"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:30; Su off
+website: https://www.mvg-online.de/wir-ueber-uns/ansprechpartner/service-center/

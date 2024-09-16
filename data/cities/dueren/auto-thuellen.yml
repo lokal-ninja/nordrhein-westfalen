@@ -1,11 +1,11 @@
 id: 56037638
-type: way
+type: node
 latitude: 50.79421
 longitude: 6.4727
 postcode: "52355"
 city: Düren
-street: "Monschauer Straße"
+street: Monschauer Straße
 housenumber: 17-35
-phone: "+49 2421 96440"
+phone: +49 2421 96440
 opening_hours: ""
-website: "https://www.thuellen.de/"
+website: https://www.thuellen.de/

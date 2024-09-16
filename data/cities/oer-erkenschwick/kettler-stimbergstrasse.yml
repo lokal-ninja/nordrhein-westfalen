@@ -4,8 +4,8 @@ latitude: 51.64877
 longitude: 7.25346
 postcode: "45739"
 city: Oer-Erkenschwick
-street: "Stimbergstraße"
-housenumber: 243
+street: Stimbergstraße
+housenumber: "243"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-13:00; Su 07:30-11:00"
-website: "https://www.kettler-brot.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:00-13:00; Su 07:30-11:00
+website: https://www.kettler-brot.de/

@@ -4,8 +4,8 @@ latitude: 51.51204
 longitude: 7.488
 postcode: "44143"
 city: Dortmund
-street: "Robert-Koch-Straße"
-housenumber: 28
+street: Robert-Koch-Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-13:00"
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 212655602
-type: way
+type: node
 latitude: 50.75886
 longitude: 7.02307
 postcode: "53332"
 city: Bornheim
-street: "Johann-Philipp-Reis-Straße"
+street: Johann-Philipp-Reis-Straße
 housenumber: 11-11a
 phone: "+4922229273611"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-16:00"
-website: "https://www.mallorquiner.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-16:00
+website: https://www.mallorquiner.com/

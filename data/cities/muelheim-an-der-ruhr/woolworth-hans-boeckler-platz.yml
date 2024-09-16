@@ -1,11 +1,11 @@
 id: 917146882
-type: way
+type: node
 latitude: 51.42833
 longitude: 6.88523
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
+street: Hans-Böckler-Platz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

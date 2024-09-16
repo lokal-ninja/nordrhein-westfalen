@@ -4,8 +4,8 @@ latitude: 50.64415
 longitude: 7.22797
 postcode: "53604"
 city: Bad Honnef
-street: "Hauptstraße"
-housenumber: 74
-phone: "+49 2224 10198"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.optik-beth.de"
+street: Hauptstraße
+housenumber: "74"
+phone: +49 2224 10198
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.optik-beth.de

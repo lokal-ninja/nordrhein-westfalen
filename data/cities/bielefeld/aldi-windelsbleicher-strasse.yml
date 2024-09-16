@@ -4,8 +4,8 @@ latitude: 51.95939
 longitude: 8.52163
 postcode: "33659"
 city: Bielefeld
-street: "Windelsbleicher Straße"
-housenumber: 239
+street: Windelsbleicher Straße
+housenumber: "239"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/

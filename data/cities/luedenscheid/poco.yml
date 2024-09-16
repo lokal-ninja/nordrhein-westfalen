@@ -1,11 +1,11 @@
 id: 248753753
-type: way
+type: node
 latitude: 51.20872
 longitude: 7.66765
 postcode: "58515"
 city: Lüdenscheid
-street: "Kalver Straße"
-housenumber: 18
+street: Kalver Straße
+housenumber: "18"
 phone: "+49235136610"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.poco.de/filiale/poco-luedenscheid/75"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.poco.de/filiale/poco-luedenscheid/75

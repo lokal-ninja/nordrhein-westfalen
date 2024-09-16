@@ -1,11 +1,11 @@
 id: 148629176
-type: way
+type: node
 latitude: 50.87966
 longitude: 8.02741
 postcode: "57072"
 city: Siegen
-street: "Nordstraße"
-housenumber: 14
+street: Nordstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

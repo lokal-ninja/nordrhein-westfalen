@@ -4,8 +4,8 @@ latitude: 50.79855
 longitude: 7.21002
 postcode: "53721"
 city: Siegburg
-street: "Scheerengasse"
-housenumber: 3
-phone: "+49 2241 1483790"
-opening_hours: "Mo-Fr 09:00-20:00; PH,Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://www.solarium-siegburg.de/"
+street: Scheerengasse
+housenumber: "3"
+phone: +49 2241 1483790
+opening_hours: Mo-Fr 09:00-20:00; PH,Sa 09:00-21:00; Su 10:00-21:00
+website: https://www.solarium-siegburg.de/

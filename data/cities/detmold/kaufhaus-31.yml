@@ -4,8 +4,8 @@ latitude: 51.9343
 longitude: 8.8793
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 31
+street: Lange Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Fr 9:30-18:00; Sa 9:30-14:00"
-website: "https://www.euwatec.de/kaufhaus/kaufhaus-31"
+opening_hours: Tu-Fr 9:30-18:00; Sa 9:30-14:00
+website: https://www.euwatec.de/kaufhaus/kaufhaus-31

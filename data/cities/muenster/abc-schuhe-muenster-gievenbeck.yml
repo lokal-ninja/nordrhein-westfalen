@@ -4,8 +4,8 @@ latitude: 51.95833
 longitude: 7.56935
 postcode: "48161"
 city: Münster
-street: "Gartenbreie"
-housenumber: 3
-phone: "+49 251 1447880"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.schuh-okay.de/"
+street: Gartenbreie
+housenumber: "3"
+phone: +49 251 1447880
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.schuh-okay.de/

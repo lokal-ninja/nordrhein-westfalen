@@ -1,11 +1,11 @@
 id: 94093903
-type: way
+type: node
 latitude: 51.62116
 longitude: 9.25765
 postcode: "34434"
 city: Borgentreich
-street: "Zum Burgtor"
-housenumber: 5
+street: Zum Burgtor
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

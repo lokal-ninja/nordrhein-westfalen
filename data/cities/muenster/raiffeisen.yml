@@ -4,8 +4,8 @@ latitude: 51.94042
 longitude: 7.63506
 postcode: "48155"
 city: Münster
-street: "Industrieweg"
-housenumber: 106
-phone: "+49 251 6822388"
-opening_hours: "24/7"
-website: "https://www.tankstelle-ms.de"
+street: Industrieweg
+housenumber: "106"
+phone: +49 251 6822388
+opening_hours: 24/7
+website: https://www.tankstelle-ms.de

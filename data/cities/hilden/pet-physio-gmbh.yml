@@ -4,8 +4,8 @@ latitude: 51.16677
 longitude: 6.90855
 postcode: "40721"
 city: Hilden
-street: "Nikolaus-Otto-Straße"
-housenumber: 4
+street: Nikolaus-Otto-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.petphysio-shop.de/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.petphysio-shop.de/

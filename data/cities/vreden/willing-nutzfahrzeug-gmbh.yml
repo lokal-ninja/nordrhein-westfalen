@@ -1,11 +1,11 @@
 id: 133265267
-type: way
+type: node
 latitude: 52.02742
 longitude: 6.82342
 postcode: "48691"
 city: Vreden
-street: "Stadtlohner Straße"
-housenumber: 24
+street: Stadtlohner Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.willing-nutzfahrzeug.de/"
+website: https://www.willing-nutzfahrzeug.de/

@@ -1,11 +1,11 @@
 id: 51363230
-type: way
+type: node
 latitude: 51.03893
 longitude: 8.38455
 postcode: "57319"
 city: Bad Berleburg
-street: "Ederstraße"
-housenumber: 72
+street: Ederstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

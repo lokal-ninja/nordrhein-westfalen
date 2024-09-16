@@ -1,11 +1,11 @@
 id: 276454501
-type: way
+type: node
 latitude: 51.47321
 longitude: 7.03288
 postcode: "45141"
 city: Essen
-street: "Essener Straße"
-housenumber: 71
+street: Essener Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su, PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su, PH off
 website: ""

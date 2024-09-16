@@ -1,11 +1,11 @@
 id: 255602505
-type: way
+type: node
 latitude: 51.92698
 longitude: 7.84415
 postcode: "48351"
 city: Everswinkel
-street: "Münsterstraße"
-housenumber: 4
+street: Münsterstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

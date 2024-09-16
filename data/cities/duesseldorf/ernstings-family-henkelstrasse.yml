@@ -4,8 +4,8 @@ latitude: 51.1756
 longitude: 6.83506
 postcode: "40589"
 city: Düsseldorf
-street: "Henkelstraße"
-housenumber: 11
+street: Henkelstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00,09:00-15:00"
-website: "https://www.ernestings-family.com"
+opening_hours: Mo-Fr 09:00-19:00,09:00-15:00
+website: https://www.ernestings-family.com

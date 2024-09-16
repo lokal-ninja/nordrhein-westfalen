@@ -4,8 +4,8 @@ latitude: 51.96423
 longitude: 7.6307
 postcode: "48143"
 city: Münster
-street: "Bült"
-housenumber: 5
-phone: "+49 251 54211"
-opening_hours: "Tu-Fr 11:00-13:30,15:00-18:00; Sa 10:00-14:00"
-website: "http://www.perlen-muenster.de/de/"
+street: Bült
+housenumber: "5"
+phone: +49 251 54211
+opening_hours: Tu-Fr 11:00-13:30,15:00-18:00; Sa 10:00-14:00
+website: http://www.perlen-muenster.de/de/

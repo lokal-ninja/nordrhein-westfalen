@@ -1,11 +1,11 @@
 id: 504355832
-type: way
+type: node
 latitude: 52.22745
 longitude: 8.89899
 postcode: "32457"
 city: Porta Westfalica
-street: "Vlothoer Straße"
-housenumber: 117
+street: Vlothoer Straße
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

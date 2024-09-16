@@ -1,11 +1,11 @@
 id: 26438670
-type: way
+type: node
 latitude: 51.09363
 longitude: 6.80873
 postcode: "41540"
 city: Dormagen
-street: "Kieler Straße"
-housenumber: 33
-phone: "+49 2133 25290"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
-website: "https://www.quintus.de/"
+street: Kieler Straße
+housenumber: "33"
+phone: +49 2133 25290
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00
+website: https://www.quintus.de/

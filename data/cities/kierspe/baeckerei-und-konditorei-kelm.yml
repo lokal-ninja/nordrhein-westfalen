@@ -4,8 +4,9 @@ latitude: 51.11096
 longitude: 7.50871
 postcode: "58566"
 city: Kierspe
-street: "Hauptstraße"
-housenumber: 41
-phone: "+49 2269 9298800"
-opening_hours: "Mo,Tu,Th,Fr 06:00-13:00,14:30-18:00; We,Sa 06:00-13:00; Su 08:00-11:00; PH off"
+street: Hauptstraße
+housenumber: "41"
+phone: +49 2269 9298800
+opening_hours: Mo,Tu,Th,Fr 06:00-13:00,14:30-18:00; We,Sa 06:00-13:00; Su 08:00-11:00;
+    PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 263244322
-type: way
+type: node
 latitude: 52.1746
 longitude: 7.53557
 postcode: "48282"
 city: Emsdetten
-street: "Münsterstraße"
-housenumber: 12
+street: Münsterstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

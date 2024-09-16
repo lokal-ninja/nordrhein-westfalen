@@ -1,11 +1,11 @@
 id: 128209554
-type: way
+type: node
 latitude: 50.74264
 longitude: 7.07979
 postcode: "53119"
 city: Bonn
-street: "Dorotheenstraße"
-housenumber: 239
+street: Dorotheenstraße
+housenumber: "239"
 phone: ""
 opening_hours: ""
-website: "https://www.motorradz.de/"
+website: https://www.motorradz.de/

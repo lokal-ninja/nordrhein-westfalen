@@ -1,11 +1,11 @@
 id: 121389575
-type: way
+type: node
 latitude: 51.2876
 longitude: 7.23044
 postcode: "42277"
 city: Wuppertal
-street: "Vor der Beule"
-housenumber: 12
-phone: "+49 202 974630"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.poolpowershop.de/"
+street: Vor der Beule
+housenumber: "12"
+phone: +49 202 974630
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.poolpowershop.de/

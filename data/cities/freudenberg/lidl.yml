@@ -1,11 +1,11 @@
 id: 95085374
-type: way
+type: node
 latitude: 50.89526
 longitude: 7.87455
 postcode: "57258"
 city: Freudenberg
-street: "Am Silberstern"
-housenumber: 12
+street: Am Silberstern
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.20604
 longitude: 8.78626
 postcode: "32545"
 city: Bad Oeynhausen
-street: "Kanalstraße"
-housenumber: 46
-phone: "+49 5731 1531868"
-opening_hours: "24/7"
-website: "https://www.jet-tankstellen.de/"
+street: Kanalstraße
+housenumber: "46"
+phone: +49 5731 1531868
+opening_hours: 24/7
+website: https://www.jet-tankstellen.de/

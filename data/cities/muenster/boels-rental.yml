@@ -1,11 +1,11 @@
 id: 162458527
-type: way
+type: node
 latitude: 51.93297
 longitude: 7.64802
 postcode: "48155"
 city: Münster
-street: "Gustav-Stresemann-Weg"
-housenumber: 21
-phone: "+49 251 96191400"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-12:30"
+street: Gustav-Stresemann-Weg
+housenumber: "21"
+phone: +49 251 96191400
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-12:30
 website: ""

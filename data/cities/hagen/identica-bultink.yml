@@ -1,11 +1,11 @@
 id: 324483609
-type: way
+type: node
 latitude: 51.3745
 longitude: 7.45578
 postcode: "58089"
 city: Hagen
-street: "Eckeseyer Straße"
-housenumber: 101
-phone: "+49 2331 1258-50"
+street: Eckeseyer Straße
+housenumber: "101"
+phone: +49 2331 1258-50
 opening_hours: ""
-website: "http://www.identica-bultink.de/"
+website: http://www.identica-bultink.de/

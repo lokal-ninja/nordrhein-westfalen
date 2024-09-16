@@ -1,11 +1,11 @@
 id: 137047996
-type: way
+type: node
 latitude: 52.15243
 longitude: 7.33219
 postcode: "48565"
 city: Steinfurt
-street: "Windstraße"
-housenumber: 4
+street: Windstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

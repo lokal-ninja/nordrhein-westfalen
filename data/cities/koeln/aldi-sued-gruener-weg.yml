@@ -1,11 +1,11 @@
 id: 29398622
-type: way
+type: node
 latitude: 50.94882
 longitude: 6.91171
 postcode: "50825"
 city: Köln
-street: "Grüner Weg"
-housenumber: 2
+street: Grüner Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.aldi-sued.de/

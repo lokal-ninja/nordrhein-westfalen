@@ -4,8 +4,8 @@ latitude: 52.37772
 longitude: 8.62443
 postcode: "32339"
 city: Espelkamp
-street: "Breslauer Straße"
-housenumber: 9
-phone: "+49 5772 96733"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"
-website: "https://www.np.de/"
+street: Breslauer Straße
+housenumber: "9"
+phone: +49 5772 96733
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-20:00
+website: https://www.np.de/

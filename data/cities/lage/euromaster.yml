@@ -1,11 +1,11 @@
 id: 335608260
-type: way
+type: node
 latitude: 51.99088
 longitude: 8.81173
 postcode: "32791"
 city: Lage
-street: "Triftenstraße"
-housenumber: 74
-phone: "+49 5232 3213"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://filiale.euromaster.de/23070-euromaster-lage"
+street: Triftenstraße
+housenumber: "74"
+phone: +49 5232 3213
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://filiale.euromaster.de/23070-euromaster-lage

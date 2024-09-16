@@ -4,8 +4,8 @@ latitude: 50.80143
 longitude: 7.20233
 postcode: "53721"
 city: Siegburg
-street: "Heinrichstraße"
-housenumber: 30
-phone: "+49 2241 127817"
+street: Heinrichstraße
+housenumber: "30"
+phone: +49 2241 127817
 opening_hours: ""
-website: "https://www.pitstop.de/"
+website: https://www.pitstop.de/

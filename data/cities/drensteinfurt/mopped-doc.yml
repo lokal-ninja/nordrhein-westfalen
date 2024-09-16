@@ -1,11 +1,11 @@
 id: 62378462
-type: way
+type: node
 latitude: 51.78349
 longitude: 7.72787
 postcode: "48317"
 city: Drensteinfurt
-street: "Leinenweberstraße"
-housenumber: 13
-phone: "+49 2508 984626"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.mopped-doc.de/"
+street: Leinenweberstraße
+housenumber: "13"
+phone: +49 2508 984626
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00; Su,PH off
+website: https://www.mopped-doc.de/

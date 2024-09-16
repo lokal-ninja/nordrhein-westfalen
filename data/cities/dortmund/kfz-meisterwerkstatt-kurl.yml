@@ -4,8 +4,8 @@ latitude: 51.5578
 longitude: 7.5822
 postcode: "44319"
 city: Dortmund
-street: "Plaßstraße"
-housenumber: 1
-phone: "+49 231 53337788"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00; PH off"
+street: Plaßstraße
+housenumber: "1"
+phone: +49 231 53337788
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00; PH off
 website: ""

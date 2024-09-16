@@ -1,11 +1,11 @@
 id: 143444286
-type: way
+type: node
 latitude: 50.87388
 longitude: 8.01843
 postcode: "57072"
 city: Siegen
-street: "Hammerhütter Weg"
-housenumber: 5
+street: Hammerhütter Weg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.75698
 longitude: 8.03879
 postcode: "59269"
 city: Beckum
-street: "Nordwall"
-housenumber: 18
+street: Nordwall
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.elite-beckum.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://www.elite-beckum.com/

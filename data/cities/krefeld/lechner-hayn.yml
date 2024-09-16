@@ -1,11 +1,11 @@
 id: 200927273
-type: way
+type: node
 latitude: 51.33307
 longitude: 6.56293
 postcode: "47798"
 city: Krefeld
-street: "Rheinstraße"
-housenumber: 114
+street: Rheinstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.lechner-hayn.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.lechner-hayn.de/

@@ -1,11 +1,11 @@
 id: 116405585
-type: way
+type: node
 latitude: 51.49492
 longitude: 8.43436
 postcode: "59602"
 city: Rüthen
-street: "Lippstädter Straße"
-housenumber: 1
+street: Lippstädter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.9978
 longitude: 8.48445
 postcode: "33649"
 city: Bielefeld
-street: "Borgsen-Allee"
-housenumber: 2
+street: Borgsen-Allee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

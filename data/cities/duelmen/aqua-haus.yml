@@ -1,11 +1,11 @@
 id: 345118718
-type: way
+type: node
 latitude: 51.8165
 longitude: 7.26169
 postcode: "48249"
 city: Dülmen
-street: "Koppelweg"
-housenumber: 6
+street: Koppelweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

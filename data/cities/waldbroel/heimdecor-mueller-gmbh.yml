@@ -1,11 +1,11 @@
 id: 251504764
-type: way
+type: node
 latitude: 50.88743
 longitude: 7.64377
 postcode: "51545"
 city: Waldbröl
-street: "Industriestraße"
-housenumber: 16
-phone: "+49 2291 6689"
+street: Industriestraße
+housenumber: "16"
+phone: +49 2291 6689
 opening_hours: ""
-website: "www.heimdecor-waldbroel.de"
+website: www.heimdecor-waldbroel.de

@@ -1,11 +1,11 @@
 id: 97867328
-type: way
+type: node
 latitude: 51.58913
 longitude: 7.6635
 postcode: "59174"
 city: Kamen
-street: "Bahnhofstraße"
-housenumber: 49
-phone: "+49 2307 75428"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 10:00-14:00"
+street: Bahnhofstraße
+housenumber: "49"
+phone: +49 2307 75428
+opening_hours: Mo-Fr 09:00-18:30, Sa 10:00-14:00
 website: ""

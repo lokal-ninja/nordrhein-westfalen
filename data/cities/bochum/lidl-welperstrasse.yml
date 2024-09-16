@@ -1,11 +1,11 @@
 id: 260754456
-type: way
+type: node
 latitude: 51.42841
 longitude: 7.16975
 postcode: "44879"
 city: Bochum
-street: "Welperstraße"
-housenumber: 2
+street: Welperstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
+website: https://www.lidl.de/

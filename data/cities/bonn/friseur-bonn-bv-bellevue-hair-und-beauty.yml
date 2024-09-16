@@ -4,8 +4,8 @@ latitude: 50.73214
 longitude: 7.09466
 postcode: "53115"
 city: Bonn
-street: "Meckenheimer Allee"
-housenumber: 76
-phone: "+49 22844623842"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00"
+street: Meckenheimer Allee
+housenumber: "76"
+phone: +49 22844623842
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 303469053
-type: way
+type: node
 latitude: 50.98929
 longitude: 7.1063
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Gustav-Stresemann-Straße"
-housenumber: 23
+street: Gustav-Stresemann-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

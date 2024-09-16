@@ -1,11 +1,11 @@
 id: 404446421
-type: way
+type: node
 latitude: 50.44752
 longitude: 6.65887
 postcode: "53945"
 city: Blankenheim
-street: "Am Gericht"
-housenumber: 4
+street: Am Gericht
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-13:00"
-website: "https://www.kirwel-landtechnik.de/"
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-13:00
+website: https://www.kirwel-landtechnik.de/

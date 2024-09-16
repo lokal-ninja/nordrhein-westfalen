@@ -4,8 +4,8 @@ latitude: 51.73473
 longitude: 8.76705
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 112
+street: Detmolder Straße
+housenumber: "112"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.westfalen-ag.de/tankstellen"
+opening_hours: 24/7
+website: https://www.westfalen-ag.de/tankstellen

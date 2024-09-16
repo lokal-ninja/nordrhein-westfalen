@@ -1,11 +1,11 @@
 id: 197451414
-type: way
+type: node
 latitude: 51.59253
 longitude: 7.66253
 postcode: "59174"
 city: Kamen
-street: "Weststraße"
-housenumber: 16
-phone: "+49 2307 924355"
+street: Weststraße
+housenumber: "16"
+phone: +49 2307 924355
 opening_hours: ""
 website: ""

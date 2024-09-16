@@ -1,11 +1,11 @@
 id: 182163000
-type: way
+type: node
 latitude: 50.98639
 longitude: 8.25518
 postcode: "57339"
 city: Erndtebrück
-street: "Bergstraße"
-housenumber: 25
+street: Bergstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

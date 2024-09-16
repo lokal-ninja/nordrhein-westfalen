@@ -1,11 +1,11 @@
 id: 320079949
-type: way
+type: node
 latitude: 51.0159
 longitude: 6.76569
 postcode: "50259"
 city: Pulheim
-street: "Venloer Straße"
-housenumber: 501
+street: Venloer Straße
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

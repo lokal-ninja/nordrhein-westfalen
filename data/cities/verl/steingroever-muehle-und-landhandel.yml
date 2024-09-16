@@ -1,11 +1,11 @@
 id: 286392580
-type: way
+type: node
 latitude: 51.87965
 longitude: 8.55141
 postcode: "33415"
 city: Verl
-street: "Bergstraße"
-housenumber: 115
+street: Bergstraße
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.90197
 longitude: 7.01776
 postcode: "51149"
 city: Köln
-street: "Oberstraße"
-housenumber: 114
+street: Oberstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; PH off"
+opening_hours: Mo-Fr 07:30-17:00; PH off
 website: ""

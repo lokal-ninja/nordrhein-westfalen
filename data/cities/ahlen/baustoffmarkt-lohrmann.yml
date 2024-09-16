@@ -1,11 +1,11 @@
 id: 280700935
-type: way
+type: node
 latitude: 51.77506
 longitude: 7.93313
 postcode: "59227"
 city: Ahlen
-street: "Porschestraße"
-housenumber: 4
+street: Porschestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

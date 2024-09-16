@@ -1,11 +1,11 @@
 id: 123208965
-type: way
+type: node
 latitude: 50.63642
 longitude: 6.95462
 postcode: "53359"
 city: Rheinbach
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00; PH off"
-website: "https://otto-keramik.de"
+opening_hours: Mo-Fr 14:00-18:00; PH off
+website: https://otto-keramik.de

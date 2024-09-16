@@ -1,11 +1,11 @@
 id: 83189146
-type: way
+type: node
 latitude: 50.77329
 longitude: 6.07819
 postcode: "52062"
 city: Aachen
-street: "Venn"
-housenumber: 5
-phone: "+49 241 91994828"
+street: Venn
+housenumber: "5"
+phone: +49 241 91994828
 opening_hours: ""
 website: ""

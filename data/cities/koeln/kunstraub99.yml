@@ -4,8 +4,8 @@ latitude: 50.93796
 longitude: 6.86267
 postcode: "50858"
 city: Köln
-street: "Aachener Straße"
-housenumber: 1002
+street: Aachener Straße
+housenumber: "1002"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.kunstraub99.com//"
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.kunstraub99.com//

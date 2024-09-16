@@ -4,8 +4,8 @@ latitude: 51.21181
 longitude: 7.64641
 postcode: "58511"
 city: Lüdenscheid
-street: "Wefelshohler Straße"
-housenumber: 1
+street: Wefelshohler Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.berlet.de/unsere-markte/berlet-ludenscheid/"
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.berlet.de/unsere-markte/berlet-ludenscheid/

@@ -1,11 +1,11 @@
 id: 113665183
-type: way
+type: node
 latitude: 51.94935
 longitude: 8.85741
 postcode: "32758"
 city: Detmold
-street: "Am Gelskamp"
-housenumber: 23
+street: Am Gelskamp
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.km-autohaus.de/peugeot.htm"
+website: https://www.km-autohaus.de/peugeot.htm

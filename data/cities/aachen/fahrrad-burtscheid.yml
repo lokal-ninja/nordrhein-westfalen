@@ -4,8 +4,9 @@ latitude: 50.7616
 longitude: 6.08936
 postcode: "52066"
 city: Aachen
-street: "Benediktinerstraße"
-housenumber: 44
-phone: "+49 241 46831198"
-opening_hours: "Mo 10:00-13:00,16:00-19:00; Tu 16:00-20:00; We-Fr 10:00-13:00,16:00-20:00; Sa 10:00-13:30"
-website: "https://fahrrad-burtscheid.business.site/"
+street: Benediktinerstraße
+housenumber: "44"
+phone: +49 241 46831198
+opening_hours: Mo 10:00-13:00,16:00-19:00; Tu 16:00-20:00; We-Fr 10:00-13:00,16:00-20:00;
+    Sa 10:00-13:30
+website: https://fahrrad-burtscheid.business.site/

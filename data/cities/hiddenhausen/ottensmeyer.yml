@@ -1,11 +1,11 @@
 id: 263973695
-type: way
+type: node
 latitude: 52.15333
 longitude: 8.64374
 postcode: "32120"
 city: Hiddenhausen
-street: "Bünder Straße"
-housenumber: 233
+street: Bünder Straße
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

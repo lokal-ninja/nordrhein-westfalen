@@ -4,8 +4,9 @@ latitude: 50.77299
 longitude: 6.07724
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
-housenumber: 120
+street: Jakobstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu,We 09:00-15:00; Th 09:00-18:00; Fr 10:00-18:00; Sa 09:00-15:00; Su,PH off"
+opening_hours: Mo 10:00-18:00; Tu,We 09:00-15:00; Th 09:00-18:00; Fr 10:00-18:00;
+    Sa 09:00-15:00; Su,PH off
 website: ""

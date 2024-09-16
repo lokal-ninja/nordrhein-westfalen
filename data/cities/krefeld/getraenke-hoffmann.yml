@@ -1,11 +1,11 @@
 id: 95123580
-type: way
+type: node
 latitude: 51.32876
 longitude: 6.58693
 postcode: "47805"
 city: Krefeld
-street: "Neue Ritterstraße"
-housenumber: 35
+street: Neue Ritterstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hoffmann.de/startseite"
+website: https://www.getraenke-hoffmann.de/startseite

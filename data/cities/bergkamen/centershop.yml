@@ -1,11 +1,11 @@
 id: 45069637
-type: way
+type: node
 latitude: 51.61632
 longitude: 7.65836
 postcode: "59192"
 city: Bergkamen
-street: "Am Roggenkamp"
-housenumber: 2
+street: Am Roggenkamp
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 720554307
-type: way
+type: node
 latitude: 50.65593
 longitude: 6.76901
 postcode: "53879"
 city: Euskirchen
-street: "Mainstraße"
-housenumber: 3
+street: Mainstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-15:00 Verkauf; Mo-Fr 08:00-18:00; Sa 08:00-13:00 Service; Mo-Fr 08:00-18:00; Sa 08:30-13:30 Zubehör; PH off"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-15:00 "Verkauf"; Mo-Fr 08:00-18:00; Sa
+    08:00-13:00 "Service"; Mo-Fr 08:00-18:00; Sa 08:30-13:30 "Zubehör"; PH off
 website: ""

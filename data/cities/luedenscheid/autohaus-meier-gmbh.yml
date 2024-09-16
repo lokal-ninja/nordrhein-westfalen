@@ -1,11 +1,11 @@
 id: 282509643
-type: way
+type: node
 latitude: 51.24439
 longitude: 7.59754
 postcode: "58513"
 city: Lüdenscheid
-street: "Kerkhagen"
-housenumber: 27
+street: Kerkhagen
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.meier-luedenscheid.de/"
+website: https://www.meier-luedenscheid.de/

@@ -4,8 +4,8 @@ latitude: 50.73496
 longitude: 7.09861
 postcode: "53111"
 city: Bonn
-street: "Vivatsgasse"
-housenumber: 5
+street: Vivatsgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

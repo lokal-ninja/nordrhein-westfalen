@@ -1,11 +1,11 @@
 id: 300532284
-type: way
+type: node
 latitude: 51.66548
 longitude: 7.11922
 postcode: "45770"
 city: Marl
-street: "Lipper Weg"
-housenumber: 47
+street: Lipper Weg
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

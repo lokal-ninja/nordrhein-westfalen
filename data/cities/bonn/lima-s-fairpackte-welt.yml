@@ -4,8 +4,9 @@ latitude: 50.73988
 longitude: 7.12551
 postcode: "53225"
 city: Bonn
-street: "Obere Wilhelmstraße"
-housenumber: 30
-phone: "+49 228 41036498"
-opening_hours: "Mo off; Tu-We 10:00-18:30; Th 10:00-19:00; Fr 10:00-18:30; Sa 11:00-15:00; Su off"
-website: "https://limasfairpacktewelt.de/"
+street: Obere Wilhelmstraße
+housenumber: "30"
+phone: +49 228 41036498
+opening_hours: Mo off; Tu-We 10:00-18:30; Th 10:00-19:00; Fr 10:00-18:30; Sa 11:00-15:00;
+    Su off
+website: https://limasfairpacktewelt.de/

@@ -4,8 +4,8 @@ latitude: 50.77598
 longitude: 6.08739
 postcode: "52062"
 city: Aachen
-street: "Büchel"
-housenumber: 
+street: Büchel
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00 || nach Absprache"
-website: "https://ferro-aachen.de"
+opening_hours: Mo-Sa 11:00-18:00 || "nach Absprache"
+website: https://ferro-aachen.de

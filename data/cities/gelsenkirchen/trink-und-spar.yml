@@ -1,11 +1,11 @@
 id: 28617225
-type: way
+type: node
 latitude: 51.52359
 longitude: 7.09484
 postcode: "45881"
 city: Gelsenkirchen
-street: "Münchener Straße"
-housenumber: 19
+street: Münchener Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

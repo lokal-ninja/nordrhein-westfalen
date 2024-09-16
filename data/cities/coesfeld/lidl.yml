@@ -1,11 +1,11 @@
 id: 80643974
-type: way
+type: node
 latitude: 51.93626
 longitude: 7.15573
 postcode: "48653"
 city: Coesfeld
-street: "Rekener Straße"
-housenumber: 67
+street: Rekener Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

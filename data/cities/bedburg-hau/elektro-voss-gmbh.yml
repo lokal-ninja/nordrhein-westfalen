@@ -1,11 +1,11 @@
 id: 176315921
-type: way
+type: node
 latitude: 51.76011
 longitude: 6.17356
 postcode: "47551"
 city: Bedburg-Hau
-street: "Peter-Eich-Straße"
-housenumber: 9
-phone: "+49 2821 6443"
-opening_hours: "Tu-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:00"
+street: Peter-Eich-Straße
+housenumber: "9"
+phone: +49 2821 6443
+opening_hours: Tu-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:00
 website: ""

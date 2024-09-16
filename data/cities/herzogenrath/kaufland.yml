@@ -1,11 +1,11 @@
 id: 15012240
-type: way
+type: node
 latitude: 50.87006
 longitude: 6.09473
 postcode: "52134"
 city: Herzogenrath
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

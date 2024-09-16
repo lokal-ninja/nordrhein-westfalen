@@ -1,11 +1,11 @@
 id: 36533268
-type: way
+type: node
 latitude: 51.73514
 longitude: 8.68138
 postcode: "33106"
 city: Paderborn
-street: "Alisostraße"
-housenumber: 2
+street: Alisostraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

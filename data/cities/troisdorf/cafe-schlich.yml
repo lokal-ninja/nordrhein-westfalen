@@ -1,11 +1,11 @@
 id: 78025494
-type: way
+type: node
 latitude: 50.81671
 longitude: 7.15201
 postcode: "53840"
 city: Troisdorf
-street: "Kölner Straße"
-housenumber: 139
+street: Kölner Straße
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 09:00-18:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 09:00-18:00
 website: ""

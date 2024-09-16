@@ -1,11 +1,11 @@
 id: 23718628
-type: way
+type: node
 latitude: 51.55791
 longitude: 7.53956
 postcode: "44328"
 city: Dortmund
-street: "Bücherstraße"
-housenumber: 3
+street: Bücherstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

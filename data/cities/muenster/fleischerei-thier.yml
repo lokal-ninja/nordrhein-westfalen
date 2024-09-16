@@ -4,8 +4,8 @@ latitude: 51.93152
 longitude: 7.58031
 postcode: "48163"
 city: Münster
-street: "Dingbängerweg"
-housenumber: 66
-phone: "+49 251 9720004"
-opening_hours: "Mo 08:00-14:00, Tu-Fr 08:00-18:30, Sa 08:00-14:00"
-website: "https://fleischerei-thier.de"
+street: Dingbängerweg
+housenumber: "66"
+phone: +49 251 9720004
+opening_hours: Mo 08:00-14:00, Tu-Fr 08:00-18:30, Sa 08:00-14:00
+website: https://fleischerei-thier.de

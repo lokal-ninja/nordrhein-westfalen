@@ -1,11 +1,11 @@
 id: 42044558
-type: way
+type: node
 latitude: 51.6263
 longitude: 7.497
 postcode: "44534"
 city: Lünen
-street: "Alstedder Straße"
-housenumber: 94
-phone: "+49 2306 6907"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-13:00"
-website: "https://www.autohausmurawski.de"
+street: Alstedder Straße
+housenumber: "94"
+phone: +49 2306 6907
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-13:00
+website: https://www.autohausmurawski.de

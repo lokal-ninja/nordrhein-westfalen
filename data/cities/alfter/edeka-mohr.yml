@@ -4,8 +4,8 @@ latitude: 50.73767
 longitude: 7.00963
 postcode: "53347"
 city: Alfter
-street: "Am Herrenwingert"
-housenumber: 11
-phone: "+49 2222 931087"
-opening_hours: "Mo-Sa 07:30-20:00"
+street: Am Herrenwingert
+housenumber: "11"
+phone: +49 2222 931087
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

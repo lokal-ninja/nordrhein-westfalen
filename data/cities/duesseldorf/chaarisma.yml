@@ -4,8 +4,8 @@ latitude: 51.20458
 longitude: 6.78056
 postcode: "40223"
 city: Düsseldorf
-street: "Brunnenstraße"
-housenumber: 60
+street: Brunnenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Su,Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.chaarismaforhair.de/"
+opening_hours: Su,Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.chaarismaforhair.de/

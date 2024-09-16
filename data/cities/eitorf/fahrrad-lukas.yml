@@ -1,11 +1,11 @@
 id: 265140349
-type: way
+type: node
 latitude: 50.77509
 longitude: 7.44289
 postcode: "53783"
 city: Eitorf
-street: "Hardtstraße"
-housenumber: 1
+street: Hardtstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

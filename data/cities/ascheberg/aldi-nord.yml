@@ -1,11 +1,11 @@
 id: 318529223
-type: way
+type: node
 latitude: 51.74521
 longitude: 7.66141
 postcode: "59387"
 city: Ascheberg
-street: "Münsterstraße"
-housenumber: 29
+street: Münsterstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 220874567
-type: way
+type: node
 latitude: 51.53935
 longitude: 7.15035
 postcode: "44649"
 city: Herne
-street: "Hammerschmidtstraße"
-housenumber: 76
+street: Hammerschmidtstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

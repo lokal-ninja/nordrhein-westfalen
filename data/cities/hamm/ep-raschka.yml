@@ -1,11 +1,11 @@
 id: 43381256
-type: way
+type: node
 latitude: 51.68201
 longitude: 7.82131
 postcode: "59065"
 city: Hamm
-street: "Oststraße"
-housenumber: 18
-phone: "+49 2381 22033"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "http://www.ep-raschka.de/"
+street: Oststraße
+housenumber: "18"
+phone: +49 2381 22033
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: http://www.ep-raschka.de/

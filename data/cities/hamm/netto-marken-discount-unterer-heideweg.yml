@@ -1,11 +1,11 @@
 id: 203080400
-type: way
+type: node
 latitude: 51.65826
 longitude: 7.8531
 postcode: "59069"
 city: Hamm
-street: "Unterer Heideweg"
-housenumber: 90
+street: Unterer Heideweg
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://www.netto-online.de

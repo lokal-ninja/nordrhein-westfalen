@@ -1,11 +1,11 @@
 id: 101964976
-type: way
+type: node
 latitude: 51.33604
 longitude: 7.28261
 postcode: "45549"
 city: Sprockhövel
-street: "Rathausplatz"
-housenumber: 11
-phone: "+49 2339 92150"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su, PH off"
-website: "https://www.raiffeisen-markt-hasslinghausen.de/"
+street: Rathausplatz
+housenumber: "11"
+phone: +49 2339 92150
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su, PH off
+website: https://www.raiffeisen-markt-hasslinghausen.de/

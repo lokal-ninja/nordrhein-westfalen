@@ -4,8 +4,8 @@ latitude: 50.69709
 longitude: 7.12598
 postcode: "53175"
 city: Bonn
-street: "Annaberger Straße"
-housenumber: 164
-phone: "+49 228 317957"
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:30, Sa 10:00-14:00"
-website: "https://www.fun-bikes.de"
+street: Annaberger Straße
+housenumber: "164"
+phone: +49 228 317957
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:30, Sa 10:00-14:00
+website: https://www.fun-bikes.de

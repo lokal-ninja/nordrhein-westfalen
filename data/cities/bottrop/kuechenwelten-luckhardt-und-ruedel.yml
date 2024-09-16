@@ -4,8 +4,8 @@ latitude: 51.54853
 longitude: 6.93749
 postcode: "46240"
 city: Bottrop
-street: "Gladbecker Straße"
-housenumber: 303
+street: Gladbecker Straße
+housenumber: "303"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-13:00"
-website: "https://www.luckhardt-ruedel.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-13:00
+website: https://www.luckhardt-ruedel.de/

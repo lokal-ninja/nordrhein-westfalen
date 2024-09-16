@@ -4,8 +4,8 @@ latitude: 50.89241
 longitude: 6.90334
 postcode: "50354"
 city: Hürth
-street: "Luxemburger Straße"
-housenumber: 105
-phone: "+49 2233 203945"
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-22:00"
-website: "https://www.sunpoint.de/sunpoint/studio/huerth"
+street: Luxemburger Straße
+housenumber: "105"
+phone: +49 2233 203945
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-22:00
+website: https://www.sunpoint.de/sunpoint/studio/huerth

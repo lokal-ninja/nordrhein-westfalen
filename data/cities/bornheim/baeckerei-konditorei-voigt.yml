@@ -4,8 +4,8 @@ latitude: 50.76411
 longitude: 6.98801
 postcode: "53332"
 city: Bornheim
-street: "Peter-Hausmann-Platz"
-housenumber: 1
-phone: "+49 2222 9788270"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-17:00"
-website: "https://www.baeckerei-voigt.de/"
+street: Peter-Hausmann-Platz
+housenumber: "1"
+phone: +49 2222 9788270
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-17:00
+website: https://www.baeckerei-voigt.de/

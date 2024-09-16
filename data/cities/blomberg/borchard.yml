@@ -1,11 +1,11 @@
 id: 164327311
-type: way
+type: node
 latitude: 51.92055
 longitude: 9.0315
 postcode: "32825"
 city: Blomberg
-street: "Höntruper Straße"
-housenumber: 6
+street: Höntruper Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

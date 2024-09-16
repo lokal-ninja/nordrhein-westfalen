@@ -1,11 +1,11 @@
 id: 179848637
-type: way
+type: node
 latitude: 51.03532
 longitude: 7.7554
 postcode: "57489"
 city: Drolshagen
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 2763-91570"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 2763-91570
 opening_hours: ""
-website: "https://www.reifen-albrecht.de/"
+website: https://www.reifen-albrecht.de/

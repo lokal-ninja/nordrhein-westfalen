@@ -1,11 +1,11 @@
 id: 92200232
-type: way
+type: node
 latitude: 51.9409
 longitude: 7.03174
 postcode: "48712"
 city: Gescher
-street: "Schuckertstraße"
-housenumber: 37
+street: Schuckertstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://bel-gescher.de/"
+website: https://bel-gescher.de/

@@ -4,8 +4,8 @@ latitude: 52.31478
 longitude: 7.87748
 postcode: "49492"
 city: Westerkappeln
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 5404 957181"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:30-12:30"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 5404 957181
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:30-12:30
 website: ""

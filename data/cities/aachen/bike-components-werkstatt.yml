@@ -1,11 +1,11 @@
 id: 83829750
-type: way
+type: node
 latitude: 50.77775
 longitude: 6.08318
 postcode: "52062"
 city: Aachen
-street: "Neupforte"
+street: Neupforte
 housenumber: 2b
-phone: "+49 2405 450045"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.bike-components.de/de/ueber-uns/aachener-store/"
+phone: +49 2405 450045
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.bike-components.de/de/ueber-uns/aachener-store/

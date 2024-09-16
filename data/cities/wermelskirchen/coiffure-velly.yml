@@ -4,8 +4,8 @@ latitude: 51.13957
 longitude: 7.21322
 postcode: "42929"
 city: Wermelskirchen
-street: "Telegrafenstraße"
-housenumber: 18
+street: Telegrafenstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-18:00"
-website: "https://www.velly.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-18:00
+website: https://www.velly.de/

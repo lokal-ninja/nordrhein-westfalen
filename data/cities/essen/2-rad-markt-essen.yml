@@ -1,11 +1,11 @@
 id: 77339808
-type: way
+type: node
 latitude: 51.47908
 longitude: 6.99032
 postcode: "45326"
 city: Essen
-street: "Hövelstraße"
-housenumber: 179
+street: Hövelstraße
+housenumber: "179"
 phone: ""
 opening_hours: ""
-website: "https://2-rad-markt-essen.de/"
+website: https://2-rad-markt-essen.de/

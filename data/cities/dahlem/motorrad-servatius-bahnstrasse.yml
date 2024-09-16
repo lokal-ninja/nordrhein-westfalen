@@ -1,11 +1,11 @@
 id: 330228067
-type: way
+type: node
 latitude: 50.38442
 longitude: 6.54795
 postcode: "53949"
 city: Dahlem
-street: "Bahnstraße"
-housenumber: 30
+street: Bahnstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 83917878
-type: way
+type: node
 latitude: 50.79674
 longitude: 6.9179
 postcode: "53332"
 city: Bornheim
-street: "Walberberger Straße"
-housenumber: 59
+street: Walberberger Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

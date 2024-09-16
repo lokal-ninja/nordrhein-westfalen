@@ -1,11 +1,11 @@
 id: 244133833
-type: way
+type: node
 latitude: 51.32642
 longitude: 7.34885
 postcode: "58285"
 city: Gevelsberg
-street: "Mühlenstraße"
-housenumber: 49
-phone: "+49 2332 2445"
+street: Mühlenstraße
+housenumber: "49"
+phone: +49 2332 2445
 opening_hours: ""
-website: "https://www.karosseriebau-otte.de/"
+website: https://www.karosseriebau-otte.de/

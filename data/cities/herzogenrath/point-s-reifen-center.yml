@@ -1,11 +1,11 @@
 id: 22661320
-type: way
+type: node
 latitude: 50.82787
 longitude: 6.07919
 postcode: "52134"
 city: Herzogenrath
-street: "Kaiserstraße"
-housenumber: 133
-phone: "+49 2407 91470"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://points-tph.de/"
+street: Kaiserstraße
+housenumber: "133"
+phone: +49 2407 91470
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://points-tph.de/

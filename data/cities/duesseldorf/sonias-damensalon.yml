@@ -4,8 +4,8 @@ latitude: 51.20973
 longitude: 6.82894
 postcode: "40231"
 city: Düsseldorf
-street: "Gatherweg"
-housenumber: 93
+street: Gatherweg
+housenumber: "93"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 08:00-14:00; We off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 08:00-14:00; We off
 website: ""

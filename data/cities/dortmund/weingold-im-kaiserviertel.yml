@@ -4,8 +4,8 @@ latitude: 51.51216
 longitude: 7.48766
 postcode: "44143"
 city: Dortmund
-street: "Robert-Koch-Straße"
-housenumber: 22
-phone: "+49 231 72981446"
-opening_hours: "Tu 10:00-12:00,15:00-19:00; We-Fr 10:00-12:00,15:00-21:00"
-website: "http://weingold-im-kaiserviertel.de/"
+street: Robert-Koch-Straße
+housenumber: "22"
+phone: +49 231 72981446
+opening_hours: Tu 10:00-12:00,15:00-19:00; We-Fr 10:00-12:00,15:00-21:00
+website: http://weingold-im-kaiserviertel.de/

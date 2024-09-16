@@ -1,11 +1,11 @@
 id: 196148154
-type: way
+type: node
 latitude: 50.85933
 longitude: 8.01986
 postcode: "57074"
 city: Siegen
-street: "Leimbachstraße"
-housenumber: 165
-phone: "+49 271 234460"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.audi-zentrum-siegen.audi"
+street: Leimbachstraße
+housenumber: "165"
+phone: +49 271 234460
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.audi-zentrum-siegen.audi

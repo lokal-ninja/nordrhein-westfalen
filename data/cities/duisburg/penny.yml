@@ -4,8 +4,8 @@ latitude: 51.43345
 longitude: 6.72655
 postcode: "47059"
 city: Duisburg
-street: "Javastraße"
-housenumber: 
+street: Javastraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

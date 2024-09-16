@@ -1,11 +1,11 @@
 id: 187950020
-type: way
+type: node
 latitude: 51.56411
 longitude: 8.19058
 postcode: "59505"
 city: Bad Sassendorf
-street: "An der Helle"
-housenumber: 43
+street: An der Helle
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

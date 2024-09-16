@@ -1,11 +1,11 @@
 id: 171290695
-type: way
+type: node
 latitude: 51.48106
 longitude: 7.15889
 postcode: "44866"
 city: Bochum
-street: "Dickebankstraße"
-housenumber: 59
+street: Dickebankstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

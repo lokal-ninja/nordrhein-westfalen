@@ -4,8 +4,8 @@ latitude: 52.01983
 longitude: 8.52784
 postcode: "33602"
 city: Bielefeld
-street: "Klasingstraße"
-housenumber: 1
+street: Klasingstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 11:00-17:00; Sa 10:00-15:00"
+opening_hours: Tu-Fr 11:00-17:00; Sa 10:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.96411
 longitude: 7.62651
 postcode: ""
 city: Münster
-street: "Bogenstraße"
-housenumber: 12
-phone: "+49 251 51279"
-opening_hours: "Sa 10:00-18:00; Mo-Fr 10:00-18:00"
-website: "https://www.marc-cain.com/"
+street: Bogenstraße
+housenumber: "12"
+phone: +49 251 51279
+opening_hours: Sa 10:00-18:00; Mo-Fr 10:00-18:00
+website: https://www.marc-cain.com/

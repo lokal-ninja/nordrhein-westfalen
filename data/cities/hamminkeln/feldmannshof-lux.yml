@@ -4,8 +4,8 @@ latitude: 51.76632
 longitude: 6.57066
 postcode: "46499"
 city: Hamminkeln
-street: "Feldmannsweg"
-housenumber: 2
+street: Feldmannsweg
+housenumber: "2"
 phone: ""
-opening_hours: "08:00-20:00"
-website: "https://www.feldmannshof-lux.de/"
+opening_hours: 08:00-20:00
+website: https://www.feldmannshof-lux.de/

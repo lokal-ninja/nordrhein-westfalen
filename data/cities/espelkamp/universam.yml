@@ -1,11 +1,11 @@
 id: 37689130
-type: way
+type: node
 latitude: 52.37399
 longitude: 8.62946
 postcode: "32339"
 city: Espelkamp
-street: "Eichendorffstraße"
-housenumber: 3
+street: Eichendorffstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

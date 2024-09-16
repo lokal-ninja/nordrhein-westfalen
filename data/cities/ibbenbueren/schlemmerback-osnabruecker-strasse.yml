@@ -1,11 +1,11 @@
 id: 314798349
-type: way
+type: node
 latitude: 52.28774
 longitude: 7.72844
 postcode: "49477"
 city: Ibbenbüren
-street: "Osnabrücker Straße"
-housenumber: 102
+street: Osnabrücker Straße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 32938622
-type: way
+type: node
 latitude: 52.2829
 longitude: 8.89992
 postcode: "32427"
 city: Minden
-street: "Kuckuckstraße"
-housenumber: 14
+street: Kuckuckstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.obi.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.obi.de/

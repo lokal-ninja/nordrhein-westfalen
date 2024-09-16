@@ -1,11 +1,11 @@
 id: 260626898
-type: way
+type: node
 latitude: 51.67332
 longitude: 8.37322
 postcode: "59557"
 city: Lippstadt
-street: "Am Mondschein"
-housenumber: 27
+street: Am Mondschein
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

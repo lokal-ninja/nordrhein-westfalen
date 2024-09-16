@@ -4,8 +4,8 @@ latitude: 51.6717
 longitude: 8.5865
 postcode: "33154"
 city: Salzkotten
-street: "Kugelbreite"
-housenumber: 3
+street: Kugelbreite
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30, Sa 08:00-13:00; PH off"
-website: "https://www.burs-schroeder.de/"
+opening_hours: Mo-Fr 07:30-18:30, Sa 08:00-13:00; PH off
+website: https://www.burs-schroeder.de/

@@ -1,11 +1,11 @@
 id: 260635415
-type: way
+type: node
 latitude: 51.82519
 longitude: 6.94582
 postcode: "46359"
 city: Heiden
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

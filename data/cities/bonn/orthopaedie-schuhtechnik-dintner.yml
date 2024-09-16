@@ -4,8 +4,8 @@ latitude: 50.73764
 longitude: 7.09593
 postcode: "53111"
 city: Bonn
-street: "Breite Straße"
-housenumber: 22
+street: Breite Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.dintner.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.dintner.de/

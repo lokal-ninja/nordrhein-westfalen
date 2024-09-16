@@ -4,8 +4,8 @@ latitude: 51.71775
 longitude: 8.75479
 postcode: "33098"
 city: Paderborn
-street: "Schildern"
-housenumber: 15
+street: Schildern
+housenumber: "15"
 phone: "+49525125005"
-opening_hours: "Mo-Fr 7:00-18:00; Sa 7:00-13:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-schildern.php"
+opening_hours: Mo-Fr 7:00-18:00; Sa 7:00-13:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-schildern.php

@@ -1,11 +1,11 @@
 id: 244135876
-type: way
+type: node
 latitude: 51.78656
 longitude: 6.13801
 postcode: "47533"
 city: Kleve
-street: "Schloßstraße"
-housenumber: 9
+street: Schloßstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

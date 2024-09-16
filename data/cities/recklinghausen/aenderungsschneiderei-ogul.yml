@@ -4,8 +4,8 @@ latitude: 51.61218
 longitude: 7.19756
 postcode: "45657"
 city: Recklinghausen
-street: "Hermann-Bresser-Straße"
-housenumber: 8
-phone: "+49 2361 108323"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:30; Sa 09:00-13:00"
+street: Hermann-Bresser-Straße
+housenumber: "8"
+phone: +49 2361 108323
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:30; Sa 09:00-13:00
 website: ""

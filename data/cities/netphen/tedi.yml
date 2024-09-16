@@ -4,8 +4,8 @@ latitude: 50.91122
 longitude: 8.10442
 postcode: "57250"
 city: Netphen
-street: "Talstraße"
-housenumber: 23
+street: Talstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.tedi.com"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.tedi.com

@@ -1,11 +1,11 @@
 id: 551983699
-type: way
+type: node
 latitude: 51.68858
 longitude: 8.72531
 postcode: "33106"
 city: Paderborn
-street: "Navarrastraße"
-housenumber: 27
+street: Navarrastraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.wesle-kfz.de/"
+website: https://www.wesle-kfz.de/

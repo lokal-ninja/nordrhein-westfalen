@@ -4,8 +4,8 @@ latitude: 51.2553
 longitude: 7.13707
 postcode: "42103"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 48
-phone: "+49 202 8 70 20-0"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 06:30-13:00; Su,PH off"
-website: "https://www.metzgerei-kaufmann.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "48"
+phone: +49 202 8 70 20-0
+opening_hours: Mo-Fr 07:00-18:30; Sa 06:30-13:00; Su,PH off
+website: https://www.metzgerei-kaufmann.de/

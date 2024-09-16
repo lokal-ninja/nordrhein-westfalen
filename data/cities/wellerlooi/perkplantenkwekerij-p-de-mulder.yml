@@ -1,11 +1,11 @@
 id: 274875379
-type: way
+type: node
 latitude: 51.54113
 longitude: 6.17274
-postcode: "5856CH"
+postcode: 5856CH
 city: Wellerlooi
-street: "Tuinstraat"
-housenumber: 10
-phone: "+31 478 508 025"
-opening_hours: "Mo,Tu,We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-17:00"
-website: "https://pdemulder.com/"
+street: Tuinstraat
+housenumber: "10"
+phone: +31 478 508 025
+opening_hours: Mo,Tu,We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-17:00
+website: https://pdemulder.com/

@@ -1,11 +1,11 @@
 id: 142293031
-type: way
+type: node
 latitude: 50.78952
 longitude: 7.18309
 postcode: "53757"
 city: Sankt Augustin
-street: "Einsteinstraße"
-housenumber: 15
+street: Einsteinstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.euro-car-rhein-sieg.de/"
+website: https://www.euro-car-rhein-sieg.de/

@@ -4,8 +4,8 @@ latitude: 51.67822
 longitude: 7.79118
 postcode: ""
 city: Hamm
-street: "Hafenstraße"
-housenumber: 32
+street: Hafenstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.meine-kueche.de/hamm"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.meine-kueche.de/hamm

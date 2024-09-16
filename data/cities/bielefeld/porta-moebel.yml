@@ -1,11 +1,11 @@
 id: 29130214
-type: way
+type: node
 latitude: 51.99759
 longitude: 8.61161
 postcode: "33699"
 city: Bielefeld
-street: "Bielitzer Straße"
-housenumber: 40
+street: Bielitzer Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/bielefeld"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://porta.de/einrichtungshaeuser/einrichtungshaeuser2/bielefeld

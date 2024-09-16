@@ -1,11 +1,11 @@
 id: 37608552
-type: way
+type: node
 latitude: 52.00512
 longitude: 8.51086
 postcode: "33617"
 city: Bielefeld
-street: "Eggeweg"
-housenumber: 3
+street: Eggeweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

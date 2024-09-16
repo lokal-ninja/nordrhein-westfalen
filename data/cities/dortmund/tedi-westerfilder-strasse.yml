@@ -1,11 +1,11 @@
 id: 55442155
-type: way
+type: node
 latitude: 51.54527
 longitude: 7.37525
 postcode: "44357"
 city: Dortmund
-street: "Westerfilder Straße"
-housenumber: 29
+street: Westerfilder Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

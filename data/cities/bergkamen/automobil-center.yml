@@ -1,11 +1,11 @@
 id: 95098853
-type: way
+type: node
 latitude: 51.6187
 longitude: 7.62702
 postcode: "59192"
 city: Bergkamen
-street: "Haldenweg"
-housenumber: 4
+street: Haldenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

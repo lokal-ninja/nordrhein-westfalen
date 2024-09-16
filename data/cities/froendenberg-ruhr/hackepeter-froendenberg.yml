@@ -4,8 +4,8 @@ latitude: 51.47377
 longitude: 7.7819
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Schillerstraße"
-housenumber: 1
-phone: "+49 2373 72380"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"
+street: Schillerstraße
+housenumber: "1"
+phone: +49 2373 72380
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00
 website: ""

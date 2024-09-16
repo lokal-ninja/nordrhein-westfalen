@@ -4,8 +4,8 @@ latitude: 51.18491
 longitude: 7.18655
 postcode: "42853"
 city: Remscheid
-street: "Elberfelder Straße"
-housenumber: 96
+street: Elberfelder Straße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.koehn-koelsch.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.koehn-koelsch.de/

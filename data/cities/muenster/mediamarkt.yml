@@ -4,8 +4,8 @@ latitude: 51.93285
 longitude: 7.63236
 postcode: "48153"
 city: Münster
-street: "Robert-Bosch-Straße"
-housenumber: 2
-phone: "+49 251 91950"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/muenster-507"
+street: Robert-Bosch-Straße
+housenumber: "2"
+phone: +49 251 91950
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/muenster-507

@@ -4,8 +4,8 @@ latitude: 51.97653
 longitude: 7.2886
 postcode: "48727"
 city: Billerbeck
-street: "Lilienbeck"
-housenumber: 9
-phone: "+49 2543 4187"
-opening_hours: "PH,Su off; Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:30-18:00"
-website: "https://mennemann-tapeten.de/"
+street: Lilienbeck
+housenumber: "9"
+phone: +49 2543 4187
+opening_hours: PH,Su off; Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:30-18:00
+website: https://mennemann-tapeten.de/

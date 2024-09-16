@@ -1,11 +1,11 @@
 id: 134531140
-type: way
+type: node
 latitude: 51.96655
 longitude: 8.50177
 postcode: "33659"
 city: Bielefeld
-street: "Fabrikstraße"
-housenumber: 19
+street: Fabrikstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; PH,Su closed"
-website: "https://fischholland.de/werksverkauf/"
+opening_hours: Mo-Sa 09:30-18:00; PH,Su closed
+website: https://fischholland.de/werksverkauf/

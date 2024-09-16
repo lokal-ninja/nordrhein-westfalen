@@ -4,8 +4,8 @@ latitude: 52.32472
 longitude: 8.62412
 postcode: "32312"
 city: Lübbecke
-street: "Zeiss-Straße"
-housenumber: 1
-phone: "+49 5741 809903"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
+street: Zeiss-Straße
+housenumber: "1"
+phone: +49 5741 809903
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123121829
-type: way
+type: node
 latitude: 52.35151
 longitude: 7.69616
 postcode: "49509"
 city: Recke
-street: "Recker Straße"
-housenumber: 15
+street: Recker Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

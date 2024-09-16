@@ -4,8 +4,8 @@ latitude: 52.02833
 longitude: 8.90288
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 36
+street: Mittelstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://weltbild.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://weltbild.de/

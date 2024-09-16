@@ -4,8 +4,8 @@ latitude: 51.88181
 longitude: 8.50791
 postcode: "33415"
 city: Verl
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; Su,PH off"
-website: "https://www.wm-polsterundwohnen.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; Su,PH off
+website: https://www.wm-polsterundwohnen.de/

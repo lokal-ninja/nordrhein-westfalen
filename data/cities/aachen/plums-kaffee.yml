@@ -1,11 +1,11 @@
 id: 79141503
-type: way
+type: node
 latitude: 50.7756
 longitude: 6.08504
 postcode: "52062"
 city: Aachen
-street: "Hof"
-housenumber: 2
+street: Hof
+housenumber: "2"
 phone: ""
-opening_hours: "Sa 10:00-15:00"
-website: "https://www.plumskaffee.de/"
+opening_hours: Sa 10:00-15:00
+website: https://www.plumskaffee.de/

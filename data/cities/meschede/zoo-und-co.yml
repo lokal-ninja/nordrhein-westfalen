@@ -4,8 +4,8 @@ latitude: 51.35675
 longitude: 8.28736
 postcode: "59872"
 city: Meschede
-street: "Jahnstraße"
-housenumber: 29
-phone: "+49 291 51922"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.zooundco-meschede.de/"
+street: Jahnstraße
+housenumber: "29"
+phone: +49 291 51922
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.zooundco-meschede.de/

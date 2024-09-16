@@ -1,11 +1,11 @@
 id: 993125875
-type: way
+type: node
 latitude: 50.84686
 longitude: 6.36361
 postcode: "52459"
 city: Inden
-street: "Goltsteinstraße"
-housenumber: 64
+street: Goltsteinstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

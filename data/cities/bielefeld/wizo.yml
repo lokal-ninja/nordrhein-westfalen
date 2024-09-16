@@ -4,8 +4,8 @@ latitude: 52.02282
 longitude: 8.54072
 postcode: "33607"
 city: Bielefeld
-street: "Heeper Straße"
-housenumber: 32
-phone: "+49-521-966653"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-13:30"
-website: "https://www.wizo-sicherheitstechnik.de/"
+street: Heeper Straße
+housenumber: "32"
+phone: +49-521-966653
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:30-13:30
+website: https://www.wizo-sicherheitstechnik.de/

@@ -1,11 +1,11 @@
 id: 285921172
-type: way
+type: node
 latitude: 51.68822
 longitude: 7.77585
 postcode: "59075"
 city: Hamm
-street: "Hüserstraße"
-housenumber: 13
-phone: "+49 2381 97071150"
+street: Hüserstraße
+housenumber: "13"
+phone: +49 2381 97071150
 opening_hours: ""
-website: "https://www.wm.de"
+website: https://www.wm.de

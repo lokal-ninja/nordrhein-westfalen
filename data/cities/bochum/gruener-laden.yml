@@ -1,11 +1,11 @@
 id: 100141621
-type: way
+type: node
 latitude: 51.50025
 longitude: 7.21274
 postcode: "44807"
 city: Bochum
-street: "Vierhausstraße"
-housenumber: 2
+street: Vierhausstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 10:00-14:00; PH off"
-website: "https://gruenerladencenter.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 10:00-14:00; PH off
+website: https://gruenerladencenter.de/

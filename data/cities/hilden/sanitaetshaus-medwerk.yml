@@ -1,11 +1,11 @@
 id: 91860851
-type: way
+type: node
 latitude: 51.16903
 longitude: 6.90039
 postcode: "40721"
 city: Hilden
-street: "Kleinhülsen"
-housenumber: 44
+street: Kleinhülsen
+housenumber: "44"
 phone: "+492103297920"
 opening_hours: ""
 website: ""

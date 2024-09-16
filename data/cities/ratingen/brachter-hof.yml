@@ -4,8 +4,8 @@ latitude: 51.29455
 longitude: 6.9088
 postcode: "40882"
 city: Ratingen
-street: "Brachter Straße"
-housenumber: 41
-phone: "+49 2102 106815"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.brachterhof.de/"
+street: Brachter Straße
+housenumber: "41"
+phone: +49 2102 106815
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.brachterhof.de/

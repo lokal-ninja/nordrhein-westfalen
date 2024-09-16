@@ -1,11 +1,11 @@
 id: 251059345
-type: way
+type: node
 latitude: 51.73467
 longitude: 9.02059
 postcode: "33014"
 city: Bad Driburg
-street: "Lange Straße"
-housenumber: 100
+street: Lange Straße
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "http://www.wäscheland.com/bad-driburg.html"
+website: http://www.wäscheland.com/bad-driburg.html

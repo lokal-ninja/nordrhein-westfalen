@@ -1,11 +1,11 @@
 id: 92256294
-type: way
+type: node
 latitude: 51.42871
 longitude: 7.04532
 postcode: "45134"
 city: Essen
-street: "Schnabelstraße"
-housenumber: 14
-phone: "+49 201 8 697 951 710"
+street: Schnabelstraße
+housenumber: "14"
+phone: +49 201 8 697 951 710
 opening_hours: ""
-website: "https://www.baustoffe-ruhr.de/"
+website: https://www.baustoffe-ruhr.de/

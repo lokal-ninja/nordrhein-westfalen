@@ -1,11 +1,11 @@
 id: 55008600
-type: way
+type: node
 latitude: 51.47091
 longitude: 7.04564
 postcode: "45141"
 city: Essen
-street: "Ernestinenstraße"
-housenumber: 85
+street: Ernestinenstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

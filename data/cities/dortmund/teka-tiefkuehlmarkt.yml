@@ -4,8 +4,8 @@ latitude: 51.53326
 longitude: 7.61718
 postcode: "44319"
 city: Dortmund
-street: "Wickeder Hellweg"
-housenumber: 152
+street: Wickeder Hellweg
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://tkservice.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://tkservice.com/

@@ -1,11 +1,11 @@
 id: 1034643005
-type: way
+type: node
 latitude: 51.27603
 longitude: 7.23354
 postcode: "42277"
 city: Wuppertal
-street: "Höfen"
-housenumber: 76
+street: Höfen
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

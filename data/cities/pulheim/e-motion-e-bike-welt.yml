@@ -1,11 +1,11 @@
 id: 612325955
-type: way
+type: node
 latitude: 50.99267
 longitude: 6.82252
 postcode: "50259"
 city: Pulheim
-street: "Am Westufer"
-housenumber: 5
+street: Am Westufer
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 284775422
-type: way
+type: node
 latitude: 50.93557
 longitude: 7.04688
 postcode: "51109"
 city: Köln
-street: "Servatiusstraße"
-housenumber: 88
+street: Servatiusstraße
+housenumber: "88"
 phone: "+49221865362"
 opening_hours: ""
 website: ""

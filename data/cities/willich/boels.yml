@@ -4,8 +4,8 @@ latitude: 51.26944
 longitude: 6.52037
 postcode: "47877"
 city: Willich
-street: "Halskestraße"
-housenumber: 2
+street: Halskestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30"
-website: "https://www.boels.de/filialen/nordrhein-westfalen/willich"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:30
+website: https://www.boels.de/filialen/nordrhein-westfalen/willich

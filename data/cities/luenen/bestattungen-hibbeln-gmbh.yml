@@ -1,11 +1,12 @@
 id: 814923362
-type: way
+type: node
 latitude: 51.5904
 longitude: 7.44076
 postcode: "44536"
 city: Lünen
-street: "Brechtener Straße"
+street: Brechtener Straße
 housenumber: 56a
 phone: ""
-opening_hours: "Wenn nicht besetzt, ständig auf Anfrage unter 0231 872683 oder 0231 9850980"
+opening_hours: '"Wenn nicht besetzt, ständig auf Anfrage unter 0231 872683 oder 0231
+    9850980"'
 website: ""

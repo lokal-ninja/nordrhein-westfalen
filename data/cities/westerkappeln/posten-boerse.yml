@@ -1,11 +1,11 @@
 id: 895656394
-type: way
+type: node
 latitude: 52.31513
 longitude: 7.87556
 postcode: "49492"
 city: Westerkappeln
-street: "Alte Poststraße"
-housenumber: 11
+street: Alte Poststraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

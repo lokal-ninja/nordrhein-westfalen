@@ -4,8 +4,8 @@ latitude: 50.87118
 longitude: 8.02534
 postcode: "57074"
 city: Siegen
-street: "Frankfurter Straße"
-housenumber: 29
+street: Frankfurter Straße
+housenumber: "29"
 phone: "+4927125020590"
-opening_hours: "Mo-Fr 09:00-13:00,Mo-Fr 14:00-18:00"
-website: "http://www.sanitaetshaus-moradi.de/"
+opening_hours: Mo-Fr 09:00-13:00,Mo-Fr 14:00-18:00
+website: http://www.sanitaetshaus-moradi.de/

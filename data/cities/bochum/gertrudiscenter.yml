@@ -1,11 +1,11 @@
 id: 25240067
-type: way
+type: node
 latitude: 51.48139
 longitude: 7.13146
 postcode: "44866"
 city: Bochum
-street: "Alter Markt"
-housenumber: 1
+street: Alter Markt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

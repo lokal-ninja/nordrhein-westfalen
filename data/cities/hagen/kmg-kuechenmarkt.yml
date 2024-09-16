@@ -1,11 +1,11 @@
 id: 95386479
-type: way
+type: node
 latitude: 51.40092
 longitude: 7.48547
 postcode: "58099"
 city: Hagen
-street: "Im Löhken"
-housenumber: 5
+street: Im Löhken
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 853202957
-type: way
+type: node
 latitude: 50.40929
 longitude: 6.55311
 postcode: "53949"
 city: Dahlem
-street: "Industriestraße"
-housenumber: 32
+street: Industriestraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.kt-automobile.com/"
+website: https://www.kt-automobile.com/

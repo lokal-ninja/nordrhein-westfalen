@@ -4,8 +4,8 @@ latitude: 50.79974
 longitude: 7.20851
 postcode: "53721"
 city: Siegburg
-street: "Cecilienstraße"
-housenumber: 8
-phone: "+49 2241 59620"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00; Su Off"
+street: Cecilienstraße
+housenumber: "8"
+phone: +49 2241 59620
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00; Su Off
 website: ""

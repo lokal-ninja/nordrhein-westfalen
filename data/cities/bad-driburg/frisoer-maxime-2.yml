@@ -4,8 +4,9 @@ latitude: 51.67617
 longitude: 9.00047
 postcode: "33014"
 city: Bad Driburg
-street: "Stiftsstraße"
-housenumber: 5
+street: Stiftsstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,Th 09:00-17:30;We 10:00-19:00;Fr 09:00-15:00;Sa 10:00-14:00; Mo,Su,PH off"
+opening_hours: Tu,Th 09:00-17:30;We 10:00-19:00;Fr 09:00-15:00;Sa 10:00-14:00; Mo,Su,PH
+    off
 website: ""

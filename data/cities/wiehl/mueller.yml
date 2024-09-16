@@ -4,8 +4,8 @@ latitude: 50.96305
 longitude: 7.50307
 postcode: "51674"
 city: Wiehl
-street: "Bielsteiner Straße"
-housenumber: 90
-phone: "+49 2262 2272"
-opening_hours: "Mo-Fr 07:00-13:00,14:30-18:30; Sa 07:30-13:00"
-website: "http://www.metzger-mueller.com/"
+street: Bielsteiner Straße
+housenumber: "90"
+phone: +49 2262 2272
+opening_hours: Mo-Fr 07:00-13:00,14:30-18:30; Sa 07:30-13:00
+website: http://www.metzger-mueller.com/

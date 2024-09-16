@@ -1,11 +1,12 @@
 id: 328681481
-type: way
+type: node
 latitude: 51.36303
 longitude: 7.54881
 postcode: "58119"
 city: Hagen
-street: "Hohenlimburger Straße"
-housenumber: 99
-phone: "+49 2334 5024564"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00; Sa,Su,PH off"
-website: "https://www.ath-tegeler.de/"
+street: Hohenlimburger Straße
+housenumber: "99"
+phone: +49 2334 5024564
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00; Sa,Su,PH
+    off
+website: https://www.ath-tegeler.de/

@@ -1,11 +1,11 @@
 id: 121206669
-type: way
+type: node
 latitude: 50.54948
 longitude: 6.7628
 postcode: "53902"
 city: Bad Münstereifel
-street: "Trierer Straße"
-housenumber: 20
+street: Trierer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su, PH off
 website: ""

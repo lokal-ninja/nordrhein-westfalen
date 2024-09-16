@@ -1,11 +1,11 @@
 id: 138582572
-type: way
+type: node
 latitude: 51.12197
 longitude: 6.78212
 postcode: "41542"
 city: Dormagen
-street: "Bismarckstraße"
-housenumber: 118
-phone: "+49 2133 90603"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
+street: Bismarckstraße
+housenumber: "118"
+phone: +49 2133 90603
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.38288
 longitude: 9.00296
 postcode: "32469"
 city: Petershagen
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 5702 85645"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://magro-aktuell.de/filialen/magro-m-line-lahde/"
+street: Industriestraße
+housenumber: "1"
+phone: +49 5702 85645
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://magro-aktuell.de/filialen/magro-m-line-lahde/

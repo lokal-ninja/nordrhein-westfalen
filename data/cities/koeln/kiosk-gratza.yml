@@ -1,11 +1,11 @@
 id: 264359731
-type: way
+type: node
 latitude: 50.87982
 longitude: 6.96356
 postcode: "50997"
 city: Köln
-street: "Rodenkirchener Straße"
-housenumber: 84
+street: Rodenkirchener Straße
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

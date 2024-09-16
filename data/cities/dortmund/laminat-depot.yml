@@ -1,11 +1,11 @@
 id: 29404241
-type: way
+type: node
 latitude: 51.51877
 longitude: 7.4207
 postcode: "44149"
 city: Dortmund
-street: "Arminiusstraße"
-housenumber: 50
-phone: "+49 231 9252390"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://laminatdepot.de/filiale/dortmund"
+street: Arminiusstraße
+housenumber: "50"
+phone: +49 231 9252390
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://laminatdepot.de/filiale/dortmund

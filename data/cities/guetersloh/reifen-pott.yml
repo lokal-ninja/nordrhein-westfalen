@@ -4,8 +4,8 @@ latitude: 51.92083
 longitude: 8.39969
 postcode: "33334"
 city: Gütersloh
-street: "Hülsbrockstraße"
-housenumber: 5
+street: Hülsbrockstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:15; Sa 08:00-12:00"
-website: "https://www.reifenpott.de/"
+opening_hours: Mo-Fr 08:00-17:15; Sa 08:00-12:00
+website: https://www.reifenpott.de/

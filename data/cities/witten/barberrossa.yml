@@ -4,8 +4,8 @@ latitude: 51.43768
 longitude: 7.33368
 postcode: "58452"
 city: Witten
-street: "Steinstraße"
-housenumber: 5
+street: Steinstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-15:00; Mo,PH off"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-15:00; Mo,PH off
 website: ""

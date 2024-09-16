@@ -1,11 +1,11 @@
 id: 25196560
-type: way
+type: node
 latitude: 51.4285
 longitude: 6.83961
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 283
+street: Duisburger Straße
+housenumber: "283"
 phone: ""
-opening_hours: "Mo-Sa 06:30-22:00"
+opening_hours: Mo-Sa 06:30-22:00
 website: ""

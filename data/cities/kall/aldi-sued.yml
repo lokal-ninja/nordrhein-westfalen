@@ -1,11 +1,11 @@
 id: 450314527
-type: way
+type: node
 latitude: 50.54342
 longitude: 6.57524
 postcode: "53925"
 city: Kall
-street: "Siemensring"
-housenumber: 8
+street: Siemensring
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/kall/siemensring-8"
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/kall/siemensring-8

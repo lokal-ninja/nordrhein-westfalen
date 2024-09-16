@@ -4,8 +4,8 @@ latitude: 51.49668
 longitude: 7.56576
 postcode: "44287"
 city: Dortmund
-street: "Köln-Berliner Straße"
+street: Köln-Berliner Straße
 housenumber: 103-109
-phone: "+49 231 148215"
-opening_hours: "Mo-Fr 09:00-17:00; Sa open nach Vereinbarung"
-website: "https://cobra-web.de"
+phone: +49 231 148215
+opening_hours: Mo-Fr 09:00-17:00; Sa open "nach Vereinbarung"
+website: https://cobra-web.de

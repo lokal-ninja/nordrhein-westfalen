@@ -1,11 +1,11 @@
 id: 313270045
-type: way
+type: node
 latitude: 51.25318
 longitude: 8.16736
 postcode: "59889"
 city: Eslohe (Sauerland)
-street: "Hauptstraße"
-housenumber: 76
+street: Hauptstraße
+housenumber: "76"
 phone: "+49297381563"
 opening_hours: ""
-website: "https://weber-eslohe.de"
+website: https://weber-eslohe.de

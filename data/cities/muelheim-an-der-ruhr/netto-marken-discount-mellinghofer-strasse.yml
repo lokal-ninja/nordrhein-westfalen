@@ -1,11 +1,11 @@
 id: 25108817
-type: way
+type: node
 latitude: 51.45105
 longitude: 6.88319
 postcode: "45473"
 city: Mülheim an der Ruhr
-street: "Mellinghofer Straße"
-housenumber: 175
+street: Mellinghofer Straße
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

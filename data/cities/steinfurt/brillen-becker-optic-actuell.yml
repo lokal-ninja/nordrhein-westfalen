@@ -1,11 +1,11 @@
 id: 764132326
-type: way
+type: node
 latitude: 52.14448
 longitude: 7.33586
 postcode: "48565"
 city: Steinfurt
-street: "Baumgarten"
-housenumber: 11
+street: Baumgarten
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

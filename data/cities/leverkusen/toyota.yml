@@ -1,11 +1,11 @@
 id: 93461792
-type: way
+type: node
 latitude: 51.05829
 longitude: 7.01632
 postcode: "51381"
 city: Leverkusen
-street: "Quettinger Straße"
-housenumber: 285
+street: Quettinger Straße
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

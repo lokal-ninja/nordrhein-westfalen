@@ -1,11 +1,11 @@
 id: 296747221
-type: way
+type: node
 latitude: 52.44202
 longitude: 8.35247
 postcode: "32351"
 city: Stemwede
-street: "Am Thie"
-housenumber: 24
+street: Am Thie
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

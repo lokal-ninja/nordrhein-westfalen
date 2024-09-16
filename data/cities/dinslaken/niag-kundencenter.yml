@@ -4,8 +4,8 @@ latitude: 51.5666
 longitude: 6.73776
 postcode: "46535"
 city: Dinslaken
-street: "Bahnhofsplatz"
-housenumber: 6
+street: Bahnhofsplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:00-17:00;Sa off"
+opening_hours: Mo-Fr 09:00-12:30,13:00-17:00;Sa off
 website: ""

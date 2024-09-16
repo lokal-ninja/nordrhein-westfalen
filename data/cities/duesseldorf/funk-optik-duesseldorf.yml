@@ -4,8 +4,8 @@ latitude: 51.20688
 longitude: 6.77828
 postcode: "40223"
 city: Düsseldorf
-street: "Brunnenstraße"
-housenumber: 18
-phone: "+49 211 302 940 66"
-opening_hours: "Th-Fr 10:00-18:30, Sa 10:00-15:00"
-website: "https://www.funkoptik.com/"
+street: Brunnenstraße
+housenumber: "18"
+phone: +49 211 302 940 66
+opening_hours: Th-Fr 10:00-18:30, Sa 10:00-15:00
+website: https://www.funkoptik.com/

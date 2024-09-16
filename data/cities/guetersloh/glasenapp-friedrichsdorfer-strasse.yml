@@ -1,11 +1,11 @@
 id: 282322714
-type: way
+type: node
 latitude: 51.93472
 longitude: 8.47562
 postcode: "33335"
 city: Gütersloh
-street: "Friedrichsdorfer Straße"
-housenumber: 278
+street: Friedrichsdorfer Straße
+housenumber: "278"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00; Su 07:30-11:30"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:00; Su 07:30-11:30
 website: ""

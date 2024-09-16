@@ -4,8 +4,8 @@ latitude: 52.17929
 longitude: 7.03998
 postcode: "48599"
 city: Gronau
-street: "Merschstraße"
-housenumber: 9
+street: Merschstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://novabuch.buchhandlung.de"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://novabuch.buchhandlung.de

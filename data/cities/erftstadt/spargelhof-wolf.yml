@@ -1,11 +1,11 @@
 id: 464947268
-type: way
+type: node
 latitude: 50.83918
 longitude: 6.73639
 postcode: "50374"
 city: Erftstadt
-street: "Vorpforte"
-housenumber: 11
-phone: "+49 2235 5267"
+street: Vorpforte
+housenumber: "11"
+phone: +49 2235 5267
 opening_hours: ""
-website: "http://www.spargelausbornheim.de/wolf.htm"
+website: http://www.spargelausbornheim.de/wolf.htm

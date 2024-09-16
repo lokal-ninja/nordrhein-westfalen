@@ -4,8 +4,8 @@ latitude: 51.73968
 longitude: 8.75094
 postcode: "33102"
 city: Paderborn
-street: "Estkowskistraße"
-housenumber: 22
+street: Estkowskistraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 13:00-17:00; Sa nach Vereinbarung"
+opening_hours: Mo-Fr 13:00-17:00; Sa "nach Vereinbarung"
 website: ""

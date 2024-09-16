@@ -4,8 +4,8 @@ latitude: 51.4519
 longitude: 7.01491
 postcode: "45127"
 city: Essen
-street: "Am Hauptbahnhof"
-housenumber: 5
+street: Am Hauptbahnhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 05:30-22:30; Sa 10:00-18:00; Su 10:00-16:00"
-website: "https://www.neue-arbeit-essen.de/index.php?id=107"
+opening_hours: Mo-Fr 05:30-22:30; Sa 10:00-18:00; Su 10:00-16:00
+website: https://www.neue-arbeit-essen.de/index.php?id=107

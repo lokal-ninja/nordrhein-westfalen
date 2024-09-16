@@ -4,8 +4,8 @@ latitude: 50.73546
 longitude: 7.09942
 postcode: "53111"
 city: Bonn
-street: "Dreieck"
-housenumber: 16
+street: Dreieck
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 10:30-19:30; Fr,Sa 10:30-20:00; PH,Su off"
+opening_hours: Mo-Th 10:30-19:30; Fr,Sa 10:30-20:00; PH,Su off
 website: ""

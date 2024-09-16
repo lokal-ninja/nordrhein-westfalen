@@ -1,11 +1,11 @@
 id: 134534418
-type: way
+type: node
 latitude: 51.51051
 longitude: 6.54669
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Kruppstraße"
-housenumber: 4
+street: Kruppstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

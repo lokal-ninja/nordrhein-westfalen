@@ -1,11 +1,11 @@
 id: 290532873
-type: way
+type: node
 latitude: 51.48719
 longitude: 6.54947
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Kattenstraße"
-housenumber: 228
-phone: "+49 2842 1219988"
-opening_hours: "Mo-Fr 08:00-17:00; sa 09:00-13:00"
-website: "https://www.kfz-center-dammertz.de/approach"
+street: Kattenstraße
+housenumber: "228"
+phone: +49 2842 1219988
+opening_hours: Mo-Fr 08:00-17:00; sa 09:00-13:00
+website: https://www.kfz-center-dammertz.de/approach

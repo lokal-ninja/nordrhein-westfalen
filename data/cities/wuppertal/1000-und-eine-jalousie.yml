@@ -4,8 +4,8 @@ latitude: 51.25402
 longitude: 7.13642
 postcode: "42103"
 city: Wuppertal
-street: "Aue"
-housenumber: 70
+street: Aue
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; PH,Su off"
-website: "http://www.1001jalousie.de/home.html"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; PH,Su off
+website: http://www.1001jalousie.de/home.html

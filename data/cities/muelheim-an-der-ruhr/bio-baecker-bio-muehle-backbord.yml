@@ -1,11 +1,11 @@
 id: 916736327
-type: way
+type: node
 latitude: 51.42889
 longitude: 6.88493
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 390991"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.backbord.de/"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 390991
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.backbord.de/

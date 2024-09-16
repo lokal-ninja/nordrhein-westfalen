@@ -1,11 +1,11 @@
 id: 25708662
-type: way
+type: node
 latitude: 51.11363
 longitude: 6.3303
 postcode: "41844"
 city: Wegberg
-street: "Gladbacher Straße"
+street: Gladbacher Straße
 housenumber: 21-27
-phone: "+49 2431 80800"
-opening_hours: "Mo-Fr 9:00-19:00; Sa 7:30-16:00; Su, PH off"
-website: "https://www.theissen-ultra.de/"
+phone: +49 2431 80800
+opening_hours: Mo-Fr 9:00-19:00; Sa 7:30-16:00; Su, PH off
+website: https://www.theissen-ultra.de/

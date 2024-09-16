@@ -4,8 +4,8 @@ latitude: 52.02185
 longitude: 8.53001
 postcode: "33602"
 city: Bielefeld
-street: "Goldstraße"
-housenumber: 22
-phone: "+49 521 54374307"
-opening_hours: "Mo-Fr 14:00-18:30; Sa 10:00-16:00"
-website: "https://www.whisky-room.de/de/"
+street: Goldstraße
+housenumber: "22"
+phone: +49 521 54374307
+opening_hours: Mo-Fr 14:00-18:30; Sa 10:00-16:00
+website: https://www.whisky-room.de/de/

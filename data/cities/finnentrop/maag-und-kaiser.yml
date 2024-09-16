@@ -1,11 +1,11 @@
 id: 101295401
-type: way
+type: node
 latitude: 51.21129
 longitude: 8.08277
 postcode: "57413"
 city: Finnentrop
-street: "Fretterstraße"
-housenumber: 6
-phone: "+49 2724 8721"
+street: Fretterstraße
+housenumber: "6"
+phone: +49 2724 8721
 opening_hours: ""
 website: ""

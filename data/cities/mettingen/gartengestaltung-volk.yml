@@ -1,11 +1,11 @@
 id: 182853777
-type: way
+type: node
 latitude: 52.31488
 longitude: 7.79248
 postcode: "49497"
 city: Mettingen
-street: "Hügelstraße"
-housenumber: 11
+street: Hügelstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

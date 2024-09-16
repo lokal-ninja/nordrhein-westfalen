@@ -1,11 +1,11 @@
 id: 514017520
-type: way
+type: node
 latitude: 51.81337
 longitude: 6.13899
 postcode: "47533"
 city: Kleve
-street: "Siemensstraße"
-housenumber: 26
+street: Siemensstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-fett-wirtz.de/"
+website: http://www.autohaus-fett-wirtz.de/

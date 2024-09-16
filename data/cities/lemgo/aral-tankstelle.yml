@@ -1,11 +1,11 @@
 id: 251854028
-type: way
+type: node
 latitude: 52.02263
 longitude: 8.88542
 postcode: "32657"
 city: Lemgo
-street: "Lagesche Straße"
+street: Lagesche Straße
 housenumber: 60-64
-phone: "+49 5261 17044"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://tankstelle.aral.de/tankstelle/lemgo/lagesche-strasse-60-64/28619000/"
+phone: +49 5261 17044
+opening_hours: Mo-Su 06:00-22:00
+website: https://tankstelle.aral.de/tankstelle/lemgo/lagesche-strasse-60-64/28619000/

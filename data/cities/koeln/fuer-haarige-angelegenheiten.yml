@@ -4,8 +4,8 @@ latitude: 50.92159
 longitude: 6.95837
 postcode: "50678"
 city: Köln
-street: "Karolingerring"
-housenumber: 14
-phone: "+49 221 3103595"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "http://www.fuer-haarige-angelegenheiten.de/"
+street: Karolingerring
+housenumber: "14"
+phone: +49 221 3103595
+opening_hours: Mo-Fr 10:00-19:00
+website: http://www.fuer-haarige-angelegenheiten.de/

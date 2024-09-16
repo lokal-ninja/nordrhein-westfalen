@@ -4,8 +4,8 @@ latitude: 51.71642
 longitude: 8.74718
 postcode: "33098"
 city: Paderborn
-street: "Westernmauer"
-housenumber: 7
-phone: "+49 5251 6891590"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:30; Su,PH 08:00-17:30"
-website: "https://www.benslips.de/"
+street: Westernmauer
+housenumber: "7"
+phone: +49 5251 6891590
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-17:30; Su,PH 08:00-17:30
+website: https://www.benslips.de/

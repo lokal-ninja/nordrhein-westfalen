@@ -1,11 +1,11 @@
 id: 121840909
-type: way
+type: node
 latitude: 51.19842
 longitude: 6.91999
 postcode: "40699"
 city: Erkrath
-street: "Heinrich-Hertz-Straße"
+street: Heinrich-Hertz-Straße
 housenumber: 21,23
-phone: "+49 211 92083-0"
+phone: +49 211 92083-0
 opening_hours: ""
-website: "http://www.flamme-duesseldorf.de/"
+website: http://www.flamme-duesseldorf.de/

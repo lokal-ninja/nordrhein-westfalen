@@ -1,11 +1,11 @@
 id: 27616357
-type: way
+type: node
 latitude: 51.48766
 longitude: 6.95792
 postcode: "45356"
 city: Essen
-street: "Alte Bottroper Straße"
-housenumber: 91
+street: Alte Bottroper Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.reifenfricke.de/"
+website: https://www.reifenfricke.de/

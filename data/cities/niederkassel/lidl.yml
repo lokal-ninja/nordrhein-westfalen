@@ -1,11 +1,11 @@
 id: 28159505
-type: way
+type: node
 latitude: 50.79126
 longitude: 7.05498
 postcode: ""
 city: Niederkassel
-street: "Bahnhofstraße"
-housenumber: 94
+street: Bahnhofstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

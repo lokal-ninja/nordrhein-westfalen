@@ -4,8 +4,8 @@ latitude: 51.58649
 longitude: 8.17102
 postcode: "59505"
 city: Bad Sassendorf
-street: "Landwehr"
-housenumber: 1
+street: Landwehr
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "https://www.san-kraft.de"
+opening_hours: Mo-Fr 09:00-13:00
+website: https://www.san-kraft.de

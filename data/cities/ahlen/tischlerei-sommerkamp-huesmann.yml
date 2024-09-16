@@ -1,11 +1,11 @@
 id: 287994455
-type: way
+type: node
 latitude: 51.74557
 longitude: 7.90151
 postcode: "59229"
 city: Ahlen
-street: "Am Neuen Baum"
-housenumber: 30
+street: Am Neuen Baum
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

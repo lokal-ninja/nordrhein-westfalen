@@ -1,11 +1,11 @@
 id: 203765355
-type: way
+type: node
 latitude: 51.50698
 longitude: 6.86963
 postcode: "46117"
 city: Oberhausen
-street: "Vestische Straße"
-housenumber: 111
+street: Vestische Straße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

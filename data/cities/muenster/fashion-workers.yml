@@ -4,8 +4,8 @@ latitude: 51.94768
 longitude: 7.63085
 postcode: "48153"
 city: Münster
-street: "Friedrich-Ebert-Straße"
-housenumber: 100
+street: Friedrich-Ebert-Straße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-14:00
 website: ""

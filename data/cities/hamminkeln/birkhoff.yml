@@ -1,11 +1,11 @@
 id: 236369887
-type: way
+type: node
 latitude: 51.74013
 longitude: 6.51909
 postcode: "46499"
 city: Hamminkeln
-street: "Bahnhofstraße"
-housenumber: 81
+street: Bahnhofstraße
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.egn-birkhoff.de/"
+website: https://www.egn-birkhoff.de/

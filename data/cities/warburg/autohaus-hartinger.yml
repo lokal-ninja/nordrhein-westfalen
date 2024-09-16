@@ -1,11 +1,11 @@
 id: 259944085
-type: way
+type: node
 latitude: 51.52232
 longitude: 9.0583
 postcode: "34414"
 city: Warburg
-street: "Ossendorfer Straße"
-housenumber: 20
+street: Ossendorfer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://autohaus-hartinger.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://autohaus-hartinger.de/

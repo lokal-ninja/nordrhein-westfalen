@@ -1,11 +1,11 @@
 id: 93317554
-type: way
+type: node
 latitude: 51.222
 longitude: 6.60746
 postcode: "41564"
 city: Kaarst
-street: "Kaarster Straße"
-housenumber: 53
-phone: "+49 2131 4502025"
+street: Kaarster Straße
+housenumber: "53"
+phone: +49 2131 4502025
 opening_hours: ""
-website: "https://www.brillenlagerverkauf.de/kaarst/"
+website: https://www.brillenlagerverkauf.de/kaarst/

@@ -4,8 +4,9 @@ latitude: 50.7686
 longitude: 6.08083
 postcode: "52064"
 city: Aachen
-street: "Boxgraben"
-housenumber: 53
+street: Boxgraben
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00 Geschäftskunden, Mo-Fr 10:00-12:00,13:00-16:00 Privatkunden; Sa,Su,PH off"
-website: "http://printclub.ac/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00 "Geschäftskunden", Mo-Fr 10:00-12:00,13:00-16:00
+    "Privatkunden"; Sa,Su,PH off
+website: http://printclub.ac/

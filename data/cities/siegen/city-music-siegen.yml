@@ -4,8 +4,8 @@ latitude: 50.87482
 longitude: 8.02142
 postcode: "57072"
 city: Siegen
-street: "Friedrichstraße"
-housenumber: 12
+street: Friedrichstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.city-music-siegen.de/"
+website: https://www.city-music-siegen.de/

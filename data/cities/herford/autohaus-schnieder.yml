@@ -1,11 +1,11 @@
 id: 168176273
-type: way
+type: node
 latitude: 52.12039
 longitude: 8.6511
 postcode: "32051"
 city: Herford
-street: "Engerstraße"
-housenumber: 51
-phone: "+49 5221 59920"
+street: Engerstraße
+housenumber: "51"
+phone: +49 5221 59920
 opening_hours: ""
-website: "https://www.schnieder.de/"
+website: https://www.schnieder.de/

@@ -1,11 +1,11 @@
 id: 107181777
-type: way
+type: node
 latitude: 51.02016
 longitude: 7.65187
 postcode: "51702"
 city: Bergneustadt
-street: "Kölner Straße"
-housenumber: 240
+street: Kölner Straße
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 21:00-13:00"
-website: "http://www.buchhandlung-baumhof.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 21:00-13:00
+website: http://www.buchhandlung-baumhof.de

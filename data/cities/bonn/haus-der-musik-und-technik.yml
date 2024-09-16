@@ -4,8 +4,8 @@ latitude: 50.7363
 longitude: 7.10212
 postcode: "53111"
 city: Bonn
-street: "Wenzelgasse"
-housenumber: 13
+street: Wenzelgasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 11:00-18:30; Sa 11:00-16:00"
-website: "http://www.haus-der-musik.net"
+opening_hours: Mo,Su off; Tu-Fr 11:00-18:30; Sa 11:00-16:00
+website: http://www.haus-der-musik.net

@@ -1,11 +1,11 @@
 id: 361010819
-type: way
+type: node
 latitude: 50.70131
 longitude: 6.65982
 postcode: "53909"
 city: Zülpich
-street: "Bergheimer Straße"
-housenumber: 4
-phone: "+49 (0)2252 81991"
+street: Bergheimer Straße
+housenumber: "4"
+phone: +49 (0)2252 81991
 opening_hours: ""
-website: "https://www.dieautogesellschaft.com/"
+website: https://www.dieautogesellschaft.com/

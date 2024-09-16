@@ -4,8 +4,8 @@ latitude: 51.10609
 longitude: 7.65499
 postcode: "58540"
 city: Meinerzhagen
-street: "Oststraße"
-housenumber: 42
+street: Oststraße
+housenumber: "42"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.jaeger.de/tankstellen/meinerzhagen/"
+opening_hours: 24/7
+website: https://www.jaeger.de/tankstellen/meinerzhagen/

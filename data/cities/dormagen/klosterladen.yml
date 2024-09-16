@@ -4,8 +4,8 @@ latitude: 51.07724
 longitude: 6.75208
 postcode: "41540"
 city: Dormagen
-street: "Knechtsteden"
-housenumber: 10
+street: Knechtsteden
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00, Sa-Su 11:00-17:00; PH 11:00-17:00"
-website: "https://www.kloster-knechtsteden.de/hp/kloster-klosterlaeden.php"
+opening_hours: Mo-Fr 10:00-16:00, Sa-Su 11:00-17:00; PH 11:00-17:00
+website: https://www.kloster-knechtsteden.de/hp/kloster-klosterlaeden.php

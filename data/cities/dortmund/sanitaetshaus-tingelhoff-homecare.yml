@@ -4,8 +4,8 @@ latitude: 51.52021
 longitude: 7.53261
 postcode: "44309"
 city: Dortmund
-street: "Am Knappschaftskrankenhaus"
-housenumber: 1
-phone: "+49 231 5622410"
-opening_hours: "Mo,Tu,Th 08:00-16:00; We,Fr 08:00-13:00"
-website: "https://www.tingelhoff.de/"
+street: Am Knappschaftskrankenhaus
+housenumber: "1"
+phone: +49 231 5622410
+opening_hours: Mo,Tu,Th 08:00-16:00; We,Fr 08:00-13:00
+website: https://www.tingelhoff.de/

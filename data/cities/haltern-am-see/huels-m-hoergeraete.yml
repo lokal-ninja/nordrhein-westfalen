@@ -4,8 +4,8 @@ latitude: 51.74313
 longitude: 7.18476
 postcode: "45721"
 city: Haltern am See
-street: "Zaunstraße"
-housenumber: 15
-phone: "+49 2364 169500"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
+street: Zaunstraße
+housenumber: "15"
+phone: +49 2364 169500
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
 website: ""

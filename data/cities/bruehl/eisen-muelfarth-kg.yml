@@ -1,11 +1,11 @@
 id: 75599261
-type: way
+type: node
 latitude: 50.82413
 longitude: 6.89688
 postcode: "50321"
 city: Brühl
-street: "Liblarer Straße"
-housenumber: 19
+street: Liblarer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-16:00"
-website: "https://www.eisenwaren-muelfarth.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-16:00
+website: https://www.eisenwaren-muelfarth.de/

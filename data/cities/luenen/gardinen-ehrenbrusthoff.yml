@@ -1,11 +1,11 @@
 id: 147697738
-type: way
+type: node
 latitude: 51.61322
 longitude: 7.52117
 postcode: "44532"
 city: Lünen
-street: "Bäckerstraße"
-housenumber: 27
+street: Bäckerstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

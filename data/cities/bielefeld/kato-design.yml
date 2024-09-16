@@ -4,8 +4,8 @@ latitude: 52.01906
 longitude: 8.53254
 postcode: "33602"
 city: Bielefeld
-street: "Gehrenberg"
-housenumber: 20
+street: Gehrenberg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-18:00"
-website: "http://www.kato-design.de/"
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:30-18:00
+website: http://www.kato-design.de/

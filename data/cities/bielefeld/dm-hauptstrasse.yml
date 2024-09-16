@@ -4,8 +4,8 @@ latitude: 51.99121
 longitude: 8.50998
 postcode: "33647"
 city: Bielefeld
-street: "Hauptstraße"
-housenumber: 99
-phone: "+49-5205-4174842"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Hauptstraße
+housenumber: "99"
+phone: +49-5205-4174842
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

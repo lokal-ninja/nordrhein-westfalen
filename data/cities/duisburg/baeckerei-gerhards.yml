@@ -1,11 +1,11 @@
 id: 178614196
-type: way
+type: node
 latitude: 51.4933
 longitude: 6.67349
 postcode: "47199"
 city: Duisburg
-street: "Geststraße"
-housenumber: 8
+street: Geststraße
+housenumber: "8"
 phone: "+4928418870486"
-opening_hours: "Sa 09:00-17:00; Su 09:00-18:00"
-website: "http://www.baeckerei-gerhards.de/index.html"
+opening_hours: Sa 09:00-17:00; Su 09:00-18:00
+website: http://www.baeckerei-gerhards.de/index.html

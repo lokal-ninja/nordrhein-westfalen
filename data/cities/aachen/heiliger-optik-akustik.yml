@@ -4,8 +4,8 @@ latitude: 50.77331
 longitude: 6.08806
 postcode: "52062"
 city: Aachen
-street: "Wirichsbongardstraße"
-housenumber: 17
+street: Wirichsbongardstraße
+housenumber: "17"
 phone: "+49241474690"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-16:00; Su,PH off"
-website: "https://heiliger.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-16:00; Su,PH off
+website: https://heiliger.de/

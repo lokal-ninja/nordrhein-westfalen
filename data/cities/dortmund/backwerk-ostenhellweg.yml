@@ -4,8 +4,8 @@ latitude: 51.51452
 longitude: 7.46944
 postcode: "44135"
 city: Dortmund
-street: "Ostenhellweg"
-housenumber: 26
+street: Ostenhellweg
+housenumber: "26"
 phone: "+4923192726462"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su off"
-website: "https://www.back-werk.de/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su off
+website: https://www.back-werk.de/

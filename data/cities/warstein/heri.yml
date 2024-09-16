@@ -4,8 +4,8 @@ latitude: 51.44398
 longitude: 8.35527
 postcode: "59581"
 city: Warstein
-street: "Rangestraße"
-housenumber: 7
+street: Rangestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 15:00-18:00; Sa 10:00-13:00"
-website: "http://www.heri-warstein.de/"
+opening_hours: Tu-Fr 15:00-18:00; Sa 10:00-13:00
+website: http://www.heri-warstein.de/

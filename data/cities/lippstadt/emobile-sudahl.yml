@@ -1,11 +1,11 @@
 id: 267054607
-type: way
+type: node
 latitude: 51.71702
 longitude: 8.33529
 postcode: "59556"
 city: Lippstadt
-street: "Glennestraße"
-housenumber: 2
+street: Glennestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu,Th 15:00-18:00; Sa 09:30-12:30"
+opening_hours: Tu,Th 15:00-18:00; Sa 09:30-12:30
 website: ""

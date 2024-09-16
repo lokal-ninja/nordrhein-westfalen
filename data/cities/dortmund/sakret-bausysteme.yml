@@ -1,11 +1,11 @@
 id: 1061935348
-type: way
+type: node
 latitude: 51.50829
 longitude: 7.3954
 postcode: "44379"
 city: Dortmund
-street: "Kressenweg"
-housenumber: 15
-phone: "+49 231 99580"
+street: Kressenweg
+housenumber: "15"
+phone: +49 231 99580
 opening_hours: ""
-website: "https://www.sakret.de/"
+website: https://www.sakret.de/

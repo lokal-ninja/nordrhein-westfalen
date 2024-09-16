@@ -1,11 +1,11 @@
 id: 48012431
-type: way
+type: node
 latitude: 52.02841
 longitude: 8.52327
 postcode: "33615"
 city: Bielefeld
-street: "Rolandstraße"
-housenumber: 16
-phone: "+49 521 133145"
-opening_hours: "Mo,Tu,Th 07:00-20:00; We,Fr 06:00-20:00; Sa 08:00-18:00; PH,Su 09:00-18:00"
-website: "https://www.gfs-bielefeld.de/lebensraeume-menschen-mit-psychiatrieerfahrung/kiosk-am-siegfriedplatz/"
+street: Rolandstraße
+housenumber: "16"
+phone: +49 521 133145
+opening_hours: Mo,Tu,Th 07:00-20:00; We,Fr 06:00-20:00; Sa 08:00-18:00; PH,Su 09:00-18:00
+website: https://www.gfs-bielefeld.de/lebensraeume-menschen-mit-psychiatrieerfahrung/kiosk-am-siegfriedplatz/

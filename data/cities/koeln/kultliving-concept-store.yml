@@ -4,8 +4,8 @@ latitude: 50.90934
 longitude: 6.96259
 postcode: "50968"
 city: Köln
-street: "Bonner Straße"
-housenumber: 232
-phone: "+49 221 95934934"
-opening_hours: "Mo-Tu,Th-Fr 10:00-13:30,14:30-19:00; Sa 10:00-18:00"
-website: "https://www.kultliving.de/standorte#concept-store"
+street: Bonner Straße
+housenumber: "232"
+phone: +49 221 95934934
+opening_hours: Mo-Tu,Th-Fr 10:00-13:30,14:30-19:00; Sa 10:00-18:00
+website: https://www.kultliving.de/standorte#concept-store

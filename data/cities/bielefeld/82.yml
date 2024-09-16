@@ -4,8 +4,8 @@ latitude: 52.03116
 longitude: 8.52435
 postcode: "33615"
 city: Bielefeld
-street: "Siegfriedstraße"
-housenumber: 48
-phone: "+49-1578-0851127"
-opening_hours: "We 10:00-12:30; Th,Fr 10:00-12:30,15:00-18:00; Sa 11:00-15:00"
+street: Siegfriedstraße
+housenumber: "48"
+phone: +49-1578-0851127
+opening_hours: We 10:00-12:30; Th,Fr 10:00-12:30,15:00-18:00; Sa 11:00-15:00
 website: ""

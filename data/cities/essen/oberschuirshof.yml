@@ -1,11 +1,11 @@
 id: 150911011
-type: way
+type: node
 latitude: 51.39202
 longitude: 6.97224
 postcode: "45133"
 city: Essen
-street: "Schuirweg"
-housenumber: 61
+street: Schuirweg
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-15:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-15:00
 website: ""

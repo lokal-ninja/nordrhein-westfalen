@@ -1,11 +1,11 @@
 id: 53628032
-type: way
+type: node
 latitude: 52.10655
 longitude: 9.08026
 postcode: "32699"
 city: Extertal
-street: "An der Alme"
-housenumber: 4
+street: An der Alme
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

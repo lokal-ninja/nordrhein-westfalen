@@ -1,11 +1,11 @@
 id: 200487234
-type: way
+type: node
 latitude: 50.77001
 longitude: 6.05941
 postcode: "52074"
 city: Aachen
-street: "Vaalser Straße"
-housenumber: 236
+street: Vaalser Straße
+housenumber: "236"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

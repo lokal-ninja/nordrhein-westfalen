@@ -4,8 +4,8 @@ latitude: 51.43748
 longitude: 6.77799
 postcode: "47058"
 city: Duisburg
-street: "Kardinal-Galen-Straße"
-housenumber: 120
-phone: "+49 203 282690"
-opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-14:00"
-website: "https://www.kupsch-germany.de/"
+street: Kardinal-Galen-Straße
+housenumber: "120"
+phone: +49 203 282690
+opening_hours: Mo-Fr 14:00-18:00; Sa 10:00-14:00
+website: https://www.kupsch-germany.de/

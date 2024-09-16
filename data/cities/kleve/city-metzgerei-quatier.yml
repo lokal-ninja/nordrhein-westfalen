@@ -1,11 +1,11 @@
 id: 244170334
-type: way
+type: node
 latitude: 51.78822
 longitude: 6.13934
 postcode: "47533"
 city: Kleve
-street: "Große Straße"
-housenumber: 31
+street: Große Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://metzgerei-quartier.de"
+opening_hours: Mo-Th 09:00-19:00; Fr 08:00-19:00; Sa 08:00-18:00
+website: https://metzgerei-quartier.de

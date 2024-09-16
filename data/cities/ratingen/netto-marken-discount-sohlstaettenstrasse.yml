@@ -1,11 +1,11 @@
 id: 173992149
-type: way
+type: node
 latitude: 51.3118
 longitude: 6.81996
 postcode: "40880"
 city: Ratingen
-street: "Sohlstättenstraße"
-housenumber: 11
+street: Sohlstättenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/

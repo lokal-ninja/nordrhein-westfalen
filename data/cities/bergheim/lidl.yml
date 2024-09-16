@@ -1,11 +1,11 @@
 id: 52003827
-type: way
+type: node
 latitude: 50.98032
 longitude: 6.68077
 postcode: "50129"
 city: Bergheim
-street: "Peter-Achnitz-Straße"
-housenumber: 6
+street: Peter-Achnitz-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/

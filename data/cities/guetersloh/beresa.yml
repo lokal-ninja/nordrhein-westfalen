@@ -1,11 +1,11 @@
 id: 165746452
-type: way
+type: node
 latitude: 51.89111
 longitude: 8.41237
 postcode: "33332"
 city: Gütersloh
-street: "Verler Straße"
-housenumber: 208
-phone: "+49 5241 4005-0"
+street: Verler Straße
+housenumber: "208"
+phone: +49 5241 4005-0
 opening_hours: ""
-website: "https://www.mercedes-benz-beresa-owl.de/"
+website: https://www.mercedes-benz-beresa-owl.de/

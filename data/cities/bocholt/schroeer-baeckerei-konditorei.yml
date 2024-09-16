@@ -1,11 +1,11 @@
 id: 104847618
-type: way
+type: node
 latitude: 51.83949
 longitude: 6.61707
 postcode: "46397"
 city: Bocholt
-street: "Wesemannstraße"
-housenumber: 5
-phone: "+49 2871 12383"
-opening_hours: "Su 07:00-11:30; Mo-Fr 06:30-18:30; Sa 06:30-14:00"
-website: "www.baeckerei-konditorei-schroeer.de"
+street: Wesemannstraße
+housenumber: "5"
+phone: +49 2871 12383
+opening_hours: Su 07:00-11:30; Mo-Fr 06:30-18:30; Sa 06:30-14:00
+website: www.baeckerei-konditorei-schroeer.de

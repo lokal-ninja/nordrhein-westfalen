@@ -1,11 +1,11 @@
 id: 28770332
-type: way
+type: node
 latitude: 50.96455
 longitude: 7.0237
 postcode: "51063"
 city: Köln
-street: "Bergisch Gladbacher Straße"
-housenumber: 190
+street: Bergisch Gladbacher Straße
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su, PH off"
-website: "https://www.lidl.de/filialen/koeln/buchheim-bergisch-gladbacher-str-190.html"
+opening_hours: Mo-Sa 08:00-21:00; Su, PH off
+website: https://www.lidl.de/filialen/koeln/buchheim-bergisch-gladbacher-str-190.html

@@ -1,11 +1,11 @@
 id: 313570400
-type: way
+type: node
 latitude: 50.64694
 longitude: 7.31623
 postcode: "53604"
 city: Bad Honnef
-street: "Drosselweg"
-housenumber: 2
+street: Drosselweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

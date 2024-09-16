@@ -1,11 +1,11 @@
 id: 93911623
-type: way
+type: node
 latitude: 51.36813
 longitude: 7.13703
 postcode: "42555"
 city: Velbert
-street: "Bonsfelder Straße"
-housenumber: 71
+street: Bonsfelder Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

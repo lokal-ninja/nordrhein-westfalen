@@ -1,11 +1,11 @@
 id: 121789103
-type: way
+type: node
 latitude: 51.9934
 longitude: 6.91656
 postcode: "48703"
 city: Stadtlohn
-street: "Mühlenstraße"
-housenumber: 4
+street: Mühlenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

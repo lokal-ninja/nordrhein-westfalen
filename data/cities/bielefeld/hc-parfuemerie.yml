@@ -4,8 +4,8 @@ latitude: 51.99199
 longitude: 8.50897
 postcode: "33647"
 city: Bielefeld
-street: "Hauptstraße"
-housenumber: 111
+street: Hauptstraße
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.parfuemerie-hc.de/"
+website: https://www.parfuemerie-hc.de/

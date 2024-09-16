@@ -4,8 +4,8 @@ latitude: 51.48858
 longitude: 7.30656
 postcode: "44894"
 city: Bochum
-street: "Zur Werner Heide"
-housenumber: 42
-phone: "+49 234 9250304"
-opening_hours: "Mo-Fr 10:00-15:00"
-website: "https://www.hoyer-bestattungen.de/"
+street: Zur Werner Heide
+housenumber: "42"
+phone: +49 234 9250304
+opening_hours: Mo-Fr 10:00-15:00
+website: https://www.hoyer-bestattungen.de/

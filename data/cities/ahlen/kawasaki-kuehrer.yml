@@ -1,11 +1,11 @@
 id: 290052528
-type: way
+type: node
 latitude: 51.73639
 longitude: 7.87866
 postcode: "59229"
 city: Ahlen
-street: "Kleiwellenfeld"
-housenumber: 22
+street: Kleiwellenfeld
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

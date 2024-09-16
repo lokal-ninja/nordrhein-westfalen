@@ -4,8 +4,8 @@ latitude: 52.3234
 longitude: 8.62635
 postcode: "32312"
 city: Lübbecke
-street: "Siemensstraße"
-housenumber: 4
-phone: "+49 5741 318 00"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.becker-tiemann.de"
+street: Siemensstraße
+housenumber: "4"
+phone: +49 5741 318 00
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.becker-tiemann.de

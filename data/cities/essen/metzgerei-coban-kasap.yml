@@ -1,11 +1,11 @@
 id: 188450341
-type: way
+type: node
 latitude: 51.45035
 longitude: 7.03247
 postcode: "45138"
 city: Essen
-street: "Steeler Straße"
-housenumber: 161
-phone: "+49 201 36807112"
+street: Steeler Straße
+housenumber: "161"
+phone: +49 201 36807112
 opening_hours: ""
 website: ""

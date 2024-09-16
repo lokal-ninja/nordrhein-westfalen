@@ -1,11 +1,11 @@
 id: 597479978
-type: way
+type: node
 latitude: 51.46043
 longitude: 7.19992
 postcode: "44795"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 226
+street: Hattinger Straße
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

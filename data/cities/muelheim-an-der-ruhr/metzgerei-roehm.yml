@@ -4,8 +4,8 @@ latitude: 51.42808
 longitude: 6.848
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 224
-phone: "+49 208 50 22 6"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-13:00"
-website: "https://www.metzgerei-roehm.de/"
+street: Duisburger Straße
+housenumber: "224"
+phone: +49 208 50 22 6
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-13:00
+website: https://www.metzgerei-roehm.de/

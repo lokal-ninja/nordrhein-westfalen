@@ -1,11 +1,11 @@
 id: 917146878
-type: way
+type: node
 latitude: 51.42897
 longitude: 6.88552
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
+street: Hans-Böckler-Platz
 housenumber: 1H
-phone: "+49 208 3015945"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-18:00"
-website: "https://www.hm.com/de/"
+phone: +49 208 3015945
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-18:00
+website: https://www.hm.com/de/

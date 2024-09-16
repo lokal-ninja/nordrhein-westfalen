@@ -1,11 +1,11 @@
 id: 120352365
-type: way
+type: node
 latitude: 51.18155
 longitude: 7.08073
 postcode: "42653"
 city: Solingen
-street: "Schlagbaumer Straße"
-housenumber: 10
+street: Schlagbaumer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

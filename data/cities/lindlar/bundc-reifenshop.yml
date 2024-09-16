@@ -1,11 +1,11 @@
 id: 245871918
-type: way
+type: node
 latitude: 51.04637
 longitude: 7.42481
 postcode: "51789"
 city: Lindlar
-street: "Montanusstraße"
-housenumber: 2
-phone: "+49 2266 2399"
+street: Montanusstraße
+housenumber: "2"
+phone: +49 2266 2399
 opening_hours: ""
-website: "http://www.reifenshop-lindlar.de/"
+website: http://www.reifenshop-lindlar.de/

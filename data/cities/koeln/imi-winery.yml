@@ -4,8 +4,8 @@ latitude: 50.94855
 longitude: 6.92216
 postcode: "50823"
 city: Köln
-street: "Körnerstraße"
-housenumber: 20
-phone: "+49 176 56584554"
-opening_hours: "Tu-Fr 14:00-19:00, Sa 11:00-18:00"
-website: "https://www.imi-winery.de"
+street: Körnerstraße
+housenumber: "20"
+phone: +49 176 56584554
+opening_hours: Tu-Fr 14:00-19:00, Sa 11:00-18:00
+website: https://www.imi-winery.de

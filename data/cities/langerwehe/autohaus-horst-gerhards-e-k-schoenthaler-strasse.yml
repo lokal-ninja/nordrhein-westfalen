@@ -1,11 +1,11 @@
 id: 96386639
-type: way
+type: node
 latitude: 50.81468
 longitude: 6.36291
 postcode: "52379"
 city: Langerwehe
-street: "Schönthaler Straße"
-housenumber: 1
+street: Schönthaler Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

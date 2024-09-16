@@ -1,11 +1,11 @@
 id: 291628817
-type: way
+type: node
 latitude: 50.91516
 longitude: 6.70963
 postcode: "50169"
 city: Kerpen
-street: "Hauptstraße"
-housenumber: 151
+street: Hauptstraße
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

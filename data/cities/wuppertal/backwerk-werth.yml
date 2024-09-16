@@ -4,8 +4,8 @@ latitude: 51.27203
 longitude: 7.20273
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 65
-phone: "+49 2024968495"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-17:00; Su,PH off"
+street: Werth
+housenumber: "65"
+phone: +49 2024968495
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-17:00; Su,PH off
 website: ""

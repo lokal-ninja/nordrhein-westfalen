@@ -1,11 +1,11 @@
 id: 171149368
-type: way
+type: node
 latitude: 50.89932
 longitude: 8.03298
 postcode: "57076"
 city: Siegen
-street: "Auf den Hütten"
-housenumber: 38
+street: Auf den Hütten
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

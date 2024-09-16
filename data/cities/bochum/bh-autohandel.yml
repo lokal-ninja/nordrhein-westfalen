@@ -1,11 +1,11 @@
 id: 184001060
-type: way
+type: node
 latitude: 51.48976
 longitude: 7.30967
 postcode: "44894"
 city: Bochum
-street: "Kreyenfeldstraße"
+street: Kreyenfeldstraße
 housenumber: 60-70
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.bh-autohandel.com/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.bh-autohandel.com/

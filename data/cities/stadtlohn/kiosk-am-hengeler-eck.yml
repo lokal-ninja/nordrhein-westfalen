@@ -1,11 +1,11 @@
 id: 398528258
-type: way
+type: node
 latitude: 52.00366
 longitude: 6.9141
 postcode: "48703"
 city: Stadtlohn
-street: "Birkenweg"
-housenumber: 11
+street: Birkenweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 97810121
-type: way
+type: node
 latitude: 50.79428
 longitude: 6.10892
 postcode: "52070"
 city: Aachen
-street: "Grüner Weg"
-housenumber: 105
+street: Grüner Weg
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00; Sa,Su,PH off"
-website: "https://scheins.eurofer.de/"
+opening_hours: Mo-Fr 07:30-16:00; Sa,Su,PH off
+website: https://scheins.eurofer.de/

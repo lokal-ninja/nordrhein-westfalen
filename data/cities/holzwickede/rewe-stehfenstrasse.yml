@@ -1,11 +1,11 @@
 id: 73627517
-type: way
+type: node
 latitude: 51.50562
 longitude: 7.61837
 postcode: "59439"
 city: Holzwickede
-street: "Stehfenstraße"
-housenumber: 6
-phone: "+49 2301 943154"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.rewe.de/"
+street: Stehfenstraße
+housenumber: "6"
+phone: +49 2301 943154
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.rewe.de/

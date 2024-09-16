@@ -1,11 +1,11 @@
 id: 46347899
-type: way
+type: node
 latitude: 51.21438
 longitude: 7.05876
 postcode: "42329"
 city: Wuppertal
-street: "Westring"
-housenumber: 320
+street: Westring
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

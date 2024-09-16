@@ -4,8 +4,8 @@ latitude: 51.19799
 longitude: 6.80313
 postcode: "40225"
 city: Düsseldorf
-street: "In den Großen Banden"
-housenumber: 58
+street: In den Großen Banden
+housenumber: "58"
 phone: ""
-opening_hours: "Bei gutem Wetter"
-website: "https://www.wfaa.de/entspannen-und-einkaufen/der-suedpark/kiosk/"
+opening_hours: '"Bei gutem Wetter"'
+website: https://www.wfaa.de/entspannen-und-einkaufen/der-suedpark/kiosk/

@@ -1,11 +1,11 @@
 id: 259848563
-type: way
+type: node
 latitude: 52.03198
 longitude: 6.81629
 postcode: "48691"
 city: Vreden
-street: "Wikbertstraße"
-housenumber: 28
+street: Wikbertstraße
+housenumber: "28"
 phone: "+4925644979"
 opening_hours: ""
 website: ""

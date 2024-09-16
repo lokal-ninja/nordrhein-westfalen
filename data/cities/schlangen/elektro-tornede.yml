@@ -1,11 +1,11 @@
 id: 204022782
-type: way
+type: node
 latitude: 51.80689
 longitude: 8.84159
 postcode: "33189"
 city: Schlangen
-street: "Paderborner Straße"
-housenumber: 19
+street: Paderborner Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

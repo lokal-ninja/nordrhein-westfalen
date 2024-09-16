@@ -4,8 +4,8 @@ latitude: 51.17552
 longitude: 6.87125
 postcode: "40599"
 city: Düsseldorf
-street: "Hasselsstraße"
-housenumber: 60
+street: Hasselsstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.oebel.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.oebel.de/

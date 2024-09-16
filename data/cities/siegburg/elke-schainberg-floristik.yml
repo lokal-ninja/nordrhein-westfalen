@@ -4,8 +4,8 @@ latitude: 50.80007
 longitude: 7.20687
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 64
+street: Kaiserstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.elke-schainberg-floristik.de/"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.elke-schainberg-floristik.de/

@@ -1,11 +1,11 @@
 id: 532383164
-type: way
+type: node
 latitude: 51.03152
 longitude: 6.69926
 postcode: "41569"
 city: Rommerskirchen
-street: "Am Blöcherhof"
-housenumber: 1
+street: Am Blöcherhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.55385
 longitude: 7.59423
 postcode: "44319"
 city: Dortmund
-street: "Flemerskamp"
-housenumber: 100
+street: Flemerskamp
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
 website: ""

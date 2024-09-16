@@ -1,11 +1,11 @@
 id: 182443606
-type: way
+type: node
 latitude: 51.52032
 longitude: 7.28212
 postcode: "44805"
 city: Bochum
-street: "Lothringer Straße"
-housenumber: 37
+street: Lothringer Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

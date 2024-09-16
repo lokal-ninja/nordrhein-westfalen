@@ -1,11 +1,11 @@
 id: 88171610
-type: way
+type: node
 latitude: 51.5133
 longitude: 7.15685
 postcode: "44651"
 city: Herne
-street: "Edmund-Weber-Straße"
-housenumber: 192
+street: Edmund-Weber-Straße
+housenumber: "192"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

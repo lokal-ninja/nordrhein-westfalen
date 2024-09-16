@@ -1,11 +1,11 @@
 id: 247849163
-type: way
+type: node
 latitude: 51.70431
 longitude: 7.46541
 postcode: "59379"
 city: Selm
-street: "Im Ort"
-housenumber: 12
+street: Im Ort
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

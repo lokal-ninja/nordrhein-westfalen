@@ -1,11 +1,11 @@
 id: 125935488
-type: way
+type: node
 latitude: 50.99821
 longitude: 6.56994
 postcode: "50181"
 city: Bedburg
-street: "Wiesenstraße"
-housenumber: 14
+street: Wiesenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

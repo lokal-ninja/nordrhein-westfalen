@@ -1,11 +1,11 @@
 id: 632319114
-type: way
+type: node
 latitude: 52.30805
 longitude: 8.97722
 postcode: "32423"
 city: Minden
-street: "Magdeburger Straße"
-housenumber: 18
-phone: "+49 571 3885070"
+street: Magdeburger Straße
+housenumber: "18"
+phone: +49 571 3885070
 opening_hours: ""
-website: "https://mindener-stahlhandel.de/"
+website: https://mindener-stahlhandel.de/

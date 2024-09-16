@@ -4,8 +4,8 @@ latitude: 51.0357
 longitude: 7.05094
 postcode: "51375"
 city: Leverkusen
-street: "Bergische Landstraße"
-housenumber: 67
+street: Bergische Landstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.kik.de/filialfinder"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.kik.de/filialfinder

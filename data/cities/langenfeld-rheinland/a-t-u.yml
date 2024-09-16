@@ -1,11 +1,11 @@
 id: 100328714
-type: way
+type: node
 latitude: 51.12095
 longitude: 6.96736
 postcode: "40764"
 city: Langenfeld (Rheinland)
-street: "Kronprinzstraße"
-housenumber: 64
-phone: "+49 2173 907976"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-14:00"
-website: "https://www.atu.de/"
+street: Kronprinzstraße
+housenumber: "64"
+phone: +49 2173 907976
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-14:00
+website: https://www.atu.de/

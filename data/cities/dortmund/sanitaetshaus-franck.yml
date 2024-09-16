@@ -4,8 +4,8 @@ latitude: 51.4894
 longitude: 7.50021
 postcode: "44263"
 city: Dortmund
-street: "Hörder Semerteichstraße"
-housenumber: 189
-phone: "+49 231 411119"
-opening_hours: ""
-website: "https://www.sanifranck.de/"
+street: Hörder Semerteichstraße
+housenumber: "189"
+phone: +49 231 411119
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.sanifranck.de/

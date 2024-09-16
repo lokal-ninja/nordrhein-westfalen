@@ -1,11 +1,11 @@
 id: 109580801
-type: way
+type: node
 latitude: 51.39696
 longitude: 7.43198
 postcode: "58313"
 city: Herdecke
-street: "Zweibrücker Hof"
-housenumber: 7
+street: Zweibrücker Hof
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

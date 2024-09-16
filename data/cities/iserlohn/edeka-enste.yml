@@ -1,11 +1,11 @@
 id: 129043197
-type: way
+type: node
 latitude: 51.42153
 longitude: 7.7149
 postcode: "58640"
 city: Iserlohn
-street: "Sümmerner Straße"
-housenumber: 93
-phone: "+49 2371 7726860"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-enste.de/suemmern/"
+street: Sümmerner Straße
+housenumber: "93"
+phone: +49 2371 7726860
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka-enste.de/suemmern/

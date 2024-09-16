@@ -1,11 +1,11 @@
 id: 232172527
-type: way
+type: node
 latitude: 51.97239
 longitude: 8.7119
 postcode: "33813"
 city: Oerlinghausen
-street: "Bahnhofstraße"
-housenumber: 22
-phone: "+49 5202 8564070"
+street: Bahnhofstraße
+housenumber: "22"
+phone: +49 5202 8564070
 opening_hours: ""
 website: ""

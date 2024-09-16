@@ -1,11 +1,11 @@
 id: 84441395
-type: way
+type: node
 latitude: 50.81082
 longitude: 7.14111
 postcode: "53842"
 city: Troisdorf
-street: "Sieglarer Straße"
-housenumber: 111
+street: Sieglarer Straße
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

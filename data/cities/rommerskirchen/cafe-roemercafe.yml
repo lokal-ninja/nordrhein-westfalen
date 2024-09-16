@@ -1,11 +1,11 @@
 id: 294671516
-type: way
+type: node
 latitude: 51.03639
 longitude: 6.67824
 postcode: "41569"
 city: Rommerskirchen
-street: "Alfred-Nobel-Allee"
-housenumber: 1
+street: Alfred-Nobel-Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:30; Sa 06:00-18:00; Su 08:00-18:00"
+opening_hours: Mo-Fr 05:00-18:30; Sa 06:00-18:00; Su 08:00-18:00
 website: ""

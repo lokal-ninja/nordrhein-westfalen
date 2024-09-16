@@ -1,11 +1,11 @@
 id: 255600469
-type: way
+type: node
 latitude: 51.92817
 longitude: 7.84901
 postcode: "48351"
 city: Everswinkel
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

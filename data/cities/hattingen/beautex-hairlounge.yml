@@ -4,8 +4,8 @@ latitude: 51.39873
 longitude: 7.18196
 postcode: "45525"
 city: Hattingen
-street: "Große Weilstraße"
-housenumber: 5
+street: Große Weilstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Sa 09:00-16:00; Tu-Fr 09:00-18:00"
-website: "https://www.beautex-friseure.de"
+opening_hours: Sa 09:00-16:00; Tu-Fr 09:00-18:00
+website: https://www.beautex-friseure.de

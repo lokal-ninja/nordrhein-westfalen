@@ -4,8 +4,8 @@ latitude: 50.72194
 longitude: 8.13604
 postcode: "57299"
 city: Burbach
-street: "Große Gasse"
-housenumber: 2
-phone: "+49 2736 448839"
-opening_hours: "Nach Vereinbarung"
-website: "https://reiseserviceonline.de"
+street: Große Gasse
+housenumber: "2"
+phone: +49 2736 448839
+opening_hours: '"Nach Vereinbarung"'
+website: https://reiseserviceonline.de

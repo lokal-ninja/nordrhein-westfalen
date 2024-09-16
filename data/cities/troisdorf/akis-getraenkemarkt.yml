@@ -1,11 +1,11 @@
 id: 118934981
-type: way
+type: node
 latitude: 50.79859
 longitude: 7.11984
 postcode: "53844"
 city: Troisdorf
-street: "Wilhelm-Busch-Straße"
-housenumber: 1
-phone: "+49 2241 1681224"
+street: Wilhelm-Busch-Straße
+housenumber: "1"
+phone: +49 2241 1681224
 opening_hours: ""
 website: ""

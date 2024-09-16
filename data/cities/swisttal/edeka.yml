@@ -1,11 +1,11 @@
 id: 157516420
-type: way
+type: node
 latitude: 50.64967
 longitude: 6.88337
 postcode: "53913"
 city: Swisttal
-street: "Essiger Straße"
-housenumber: 10
+street: Essiger Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
 website: ""

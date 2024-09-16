@@ -1,11 +1,11 @@
 id: 276461205
-type: way
+type: node
 latitude: 51.176
 longitude: 7.21038
 postcode: "42859"
 city: Remscheid
-street: "Industriestraße"
-housenumber: 23
+street: Industriestraße
+housenumber: "23"
 phone: "+492191362570"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/markt/remscheid"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/markt/remscheid

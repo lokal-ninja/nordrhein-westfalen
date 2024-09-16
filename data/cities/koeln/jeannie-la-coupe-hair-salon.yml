@@ -4,8 +4,8 @@ latitude: 50.96351
 longitude: 6.95318
 postcode: "50733"
 city: Köln
-street: "Viersener Straße"
-housenumber: 5
+street: Viersener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-16:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-16:00
 website: ""

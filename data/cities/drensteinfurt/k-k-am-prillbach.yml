@@ -1,11 +1,11 @@
 id: 63073035
-type: way
+type: node
 latitude: 51.75856
 longitude: 7.78925
 postcode: "48317"
 city: Drensteinfurt
-street: "Am Prillbach"
-housenumber: 39
+street: Am Prillbach
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

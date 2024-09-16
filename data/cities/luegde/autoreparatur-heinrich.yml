@@ -1,11 +1,11 @@
 id: 306018701
-type: way
+type: node
 latitude: 51.91081
 longitude: 9.25244
 postcode: "32676"
 city: Lügde
-street: "Untere Dorfstraße"
-housenumber: 29
-phone: "+49 5283 1400"
+street: Untere Dorfstraße
+housenumber: "29"
+phone: +49 5283 1400
 opening_hours: ""
-website: "http://www.autoservice-heinrich.com/"
+website: http://www.autoservice-heinrich.com/

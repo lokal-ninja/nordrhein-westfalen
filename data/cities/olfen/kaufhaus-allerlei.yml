@@ -1,11 +1,11 @@
 id: 250045285
-type: way
+type: node
 latitude: 51.69992
 longitude: 7.38152
 postcode: "59399"
 city: Olfen
-street: "Robert-Bosch-Straße"
-housenumber: 42
+street: Robert-Bosch-Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo 14:00-17:00;Tu 11:00-14:00;We 15:00-18:00"
+opening_hours: Mo 14:00-17:00;Tu 11:00-14:00;We 15:00-18:00
 website: ""

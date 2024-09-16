@@ -1,11 +1,11 @@
 id: 232326410
-type: way
+type: node
 latitude: 51.55999
 longitude: 8.08051
 postcode: "59494"
 city: Soest
-street: "Schloitweg"
-housenumber: 16
+street: Schloitweg
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

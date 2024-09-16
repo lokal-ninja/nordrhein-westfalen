@@ -4,8 +4,8 @@ latitude: 51.35694
 longitude: 6.93019
 postcode: "45219"
 city: Essen
-street: "Ringstraße"
-housenumber: 200
+street: Ringstraße
+housenumber: "200"
 phone: ""
-opening_hours: "We-Fr 14:00-18:00; Sa 11:00-16:00"
-website: "https://www.antikwerk.net/"
+opening_hours: We-Fr 14:00-18:00; Sa 11:00-16:00
+website: https://www.antikwerk.net/

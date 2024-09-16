@@ -4,8 +4,8 @@ latitude: 50.73684
 longitude: 7.10507
 postcode: "53111"
 city: Bonn
-street: "Kapuzinerstraße"
-housenumber: 11
+street: Kapuzinerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-13:00"
-website: "https://www.rautenberg-reisen.com/"
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-13:00
+website: https://www.rautenberg-reisen.com/

@@ -4,8 +4,8 @@ latitude: 50.96143
 longitude: 6.94973
 postcode: "50733"
 city: Köln
-street: "Siebachstraße"
-housenumber: 66
+street: Siebachstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00,15:00-18:00"
-website: "https://www.mandalashop.koeln/"
+opening_hours: Tu-Sa 10:00-13:00,15:00-18:00
+website: https://www.mandalashop.koeln/

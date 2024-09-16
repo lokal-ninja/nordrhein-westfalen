@@ -1,11 +1,11 @@
 id: 303385577
-type: way
+type: node
 latitude: 51.35638
 longitude: 8.26453
 postcode: "59872"
 city: Meschede
-street: "Hückeler Höhe"
-housenumber: 2
+street: Hückeler Höhe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

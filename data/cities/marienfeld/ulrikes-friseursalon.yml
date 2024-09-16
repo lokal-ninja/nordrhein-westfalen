@@ -1,11 +1,11 @@
 id: 140583504
-type: way
+type: node
 latitude: 51.95046
 longitude: 8.27875
 postcode: "33428"
 city: Marienfeld
-street: "Bielefelder Straße"
-housenumber: 27
+street: Bielefelder Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

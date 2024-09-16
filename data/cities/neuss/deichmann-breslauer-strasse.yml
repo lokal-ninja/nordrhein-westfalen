@@ -4,8 +4,8 @@ latitude: 51.20085
 longitude: 6.71885
 postcode: "41460"
 city: Neuss
-street: "Breslauer Straße"
-housenumber: 2
-phone: "+49 2131 3145492"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.deichmann.com/"
+street: Breslauer Straße
+housenumber: "2"
+phone: +49 2131 3145492
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.deichmann.com/

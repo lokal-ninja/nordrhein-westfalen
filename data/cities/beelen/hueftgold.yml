@@ -1,11 +1,11 @@
 id: 332549815
-type: way
+type: node
 latitude: 51.92949
 longitude: 8.11629
 postcode: "48361"
 city: Beelen
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.hueftgold-creatives-naschwerk.de/"
+website: https://www.hueftgold-creatives-naschwerk.de/

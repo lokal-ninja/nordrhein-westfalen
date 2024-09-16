@@ -4,8 +4,8 @@ latitude: 51.71199
 longitude: 8.77188
 postcode: "33098"
 city: Paderborn
-street: "Warburger Straße"
-housenumber: 85
+street: Warburger Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.copypoint.net/"
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.copypoint.net/

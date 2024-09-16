@@ -4,8 +4,8 @@ latitude: 51.75745
 longitude: 8.04123
 postcode: "59269"
 city: Beckum
-street: "Nordstraße"
-housenumber: 45
+street: Nordstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-15:00; We,Su off"
-website: "https://www.minyarts.eu/"
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-15:00; We,Su off
+website: https://www.minyarts.eu/

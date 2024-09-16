@@ -1,11 +1,11 @@
 id: 78088235
-type: way
+type: node
 latitude: 52.12121
 longitude: 7.55649
 postcode: "48268"
 city: Greven
-street: "Kanalstraße"
-housenumber: 2
+street: Kanalstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

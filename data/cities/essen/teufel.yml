@@ -4,8 +4,8 @@ latitude: 51.45522
 longitude: 7.01268
 postcode: "45127"
 city: Essen
-street: "Kettwiger Straße"
-housenumber: 35
+street: Kettwiger Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH Su off"
-website: "https://teufel.de/shop-essen"
+opening_hours: Mo-Sa 10:00-20:00; PH Su off
+website: https://teufel.de/shop-essen

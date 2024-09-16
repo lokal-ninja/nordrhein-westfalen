@@ -1,11 +1,11 @@
 id: 257825420
-type: way
+type: node
 latitude: 51.76501
 longitude: 7.3913
 postcode: "59348"
 city: Lüdinghausen
-street: "Dülmener Straße"
-housenumber: 27
+street: Dülmener Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

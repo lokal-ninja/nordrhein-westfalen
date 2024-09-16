@@ -1,11 +1,11 @@
 id: 345301092
-type: way
+type: node
 latitude: 50.81718
 longitude: 6.06442
 postcode: "52072"
 city: Aachen
-street: "Roder Weg"
+street: Roder Weg
 housenumber: 9-11
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://edeka-geldermann.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://edeka-geldermann.de/

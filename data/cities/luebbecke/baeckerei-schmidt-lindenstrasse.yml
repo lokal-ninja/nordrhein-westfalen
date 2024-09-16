@@ -4,8 +4,8 @@ latitude: 52.30883
 longitude: 8.6524
 postcode: "32312"
 city: Lübbecke
-street: "Lindenstraße"
-housenumber: 51
-phone: "+49 5741 6216"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://baeckerei-schmidt.de"
+street: Lindenstraße
+housenumber: "51"
+phone: +49 5741 6216
+opening_hours: Mo-Sa 08:00-19:00
+website: https://baeckerei-schmidt.de

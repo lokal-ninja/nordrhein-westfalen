@@ -1,11 +1,11 @@
 id: 56160339
-type: way
+type: node
 latitude: 51.51205
 longitude: 7.61501
 postcode: "59439"
 city: Holzwickede
-street: "Ferdinand-Porsche-Straße"
-housenumber: 4
+street: Ferdinand-Porsche-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
+opening_hours: Mo-Sa 09:00-18:00; Su off
 website: ""

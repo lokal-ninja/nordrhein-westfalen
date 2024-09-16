@@ -1,11 +1,11 @@
 id: 683498607
-type: way
+type: node
 latitude: 52.14706
 longitude: 7.73822
 postcode: "49549"
 city: Ladbergen
-street: "Rickermanns Esch"
-housenumber: 1
+street: Rickermanns Esch
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

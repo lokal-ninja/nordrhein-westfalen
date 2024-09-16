@@ -1,11 +1,11 @@
 id: 78202990
-type: way
+type: node
 latitude: 50.81766
 longitude: 7.15386
 postcode: "53840"
 city: Troisdorf
-street: "Heidestraße"
-housenumber: 30
+street: Heidestraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

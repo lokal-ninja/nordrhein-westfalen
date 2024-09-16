@@ -4,8 +4,8 @@ latitude: 51.29397
 longitude: 6.85443
 postcode: "40878"
 city: Ratingen
-street: "Europaring"
-housenumber: 3
+street: Europaring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/

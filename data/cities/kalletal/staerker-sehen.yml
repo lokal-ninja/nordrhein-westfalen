@@ -4,8 +4,9 @@ latitude: 52.10725
 longitude: 8.94945
 postcode: "32689"
 city: Kalletal
-street: "Rintelner Straße"
-housenumber: 10
-phone: "+49 5264 3299888"
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00; Su,PH off || We,Sa 14:30-18:00 nach Vereinbarung"
+street: Rintelner Straße
+housenumber: "10"
+phone: +49 5264 3299888
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00; Su,PH off || We,Sa 14:30-18:00
+    "nach Vereinbarung"
 website: ""

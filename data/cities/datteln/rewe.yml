@@ -1,11 +1,11 @@
 id: 211983256
-type: way
+type: node
 latitude: 51.65511
 longitude: 7.34999
 postcode: "45711"
 city: Datteln
-street: "Hafenstraße"
-housenumber: 20
+street: Hafenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123455820
-type: way
+type: node
 latitude: 51.17237
 longitude: 7.15976
 postcode: "42857"
 city: Remscheid
-street: "Vieringhausen"
-housenumber: 124
+street: Vieringhausen
+housenumber: "124"
 phone: "+4922120199959"
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

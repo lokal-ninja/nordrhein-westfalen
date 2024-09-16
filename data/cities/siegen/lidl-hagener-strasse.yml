@@ -1,11 +1,11 @@
 id: 125663996
-type: way
+type: node
 latitude: 50.88415
 longitude: 8.03
 postcode: "57072"
 city: Siegen
-street: "Hagener Straße"
-housenumber: 42
+street: Hagener Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/f/siegen/hagener-str-42.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/f/siegen/hagener-str-42.html

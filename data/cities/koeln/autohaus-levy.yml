@@ -4,8 +4,8 @@ latitude: 50.94592
 longitude: 6.89611
 postcode: "50825"
 city: Köln
-street: "Widdersdorfer Straße"
-housenumber: 227
+street: Widdersdorfer Straße
+housenumber: "227"
 phone: "+49221179000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.autolevy.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.autolevy.de

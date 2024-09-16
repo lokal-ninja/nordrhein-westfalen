@@ -4,8 +4,9 @@ latitude: 50.81605
 longitude: 7.15431
 postcode: "53840"
 city: Troisdorf
-street: "Kölner Straße"
-housenumber: 107
-phone: "+49 2241 76148"
-opening_hours: "Mo,Th 14:00-18:30; Tu,Fr 11:00-13:00,14:00-18:30; Sa 10:00-13:00; Su,We,PH off"
+street: Kölner Straße
+housenumber: "107"
+phone: +49 2241 76148
+opening_hours: Mo,Th 14:00-18:30; Tu,Fr 11:00-13:00,14:00-18:30; Sa 10:00-13:00; Su,We,PH
+    off
 website: ""

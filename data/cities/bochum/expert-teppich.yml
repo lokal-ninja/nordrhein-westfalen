@@ -4,8 +4,8 @@ latitude: 51.47624
 longitude: 7.3029
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 190
+street: Alte Bahnhofstraße
+housenumber: "190"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

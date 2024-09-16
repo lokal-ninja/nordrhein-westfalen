@@ -4,8 +4,8 @@ latitude: 51.22102
 longitude: 6.78437
 postcode: "40210"
 city: Düsseldorf
-street: "Stresemannstraße"
-housenumber: 16
-phone: "+49 211 328976"
-opening_hours: "Mo-Tu,Fr 09:00-19:00; We-Th 09:00-20:00; Sa 09:00-16:00"
-website: "https://www.coiffeur-peters.de/"
+street: Stresemannstraße
+housenumber: "16"
+phone: +49 211 328976
+opening_hours: Mo-Tu,Fr 09:00-19:00; We-Th 09:00-20:00; Sa 09:00-16:00
+website: https://www.coiffeur-peters.de/

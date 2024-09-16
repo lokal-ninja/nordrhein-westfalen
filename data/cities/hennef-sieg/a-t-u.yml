@@ -1,11 +1,11 @@
 id: 94821028
-type: way
+type: node
 latitude: 50.77968
 longitude: 7.27248
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Frankfurter Straße"
-housenumber: 178
+street: Frankfurter Straße
+housenumber: "178"
 phone: ""
 opening_hours: ""
 website: ""

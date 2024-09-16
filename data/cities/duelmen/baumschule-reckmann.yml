@@ -1,11 +1,11 @@
 id: 162464816
-type: way
+type: node
 latitude: 51.8266
 longitude: 7.29907
 postcode: "48249"
 city: Dülmen
-street: "Baumschulenweg"
-housenumber: 61
-phone: "+49 2594 2988"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 11:00-16:00"
-website: "https://www.n-reckmann.de"
+street: Baumschulenweg
+housenumber: "61"
+phone: +49 2594 2988
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 11:00-16:00
+website: https://www.n-reckmann.de

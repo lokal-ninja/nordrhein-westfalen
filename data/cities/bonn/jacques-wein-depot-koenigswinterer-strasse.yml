@@ -1,11 +1,11 @@
 id: 137278435
-type: way
+type: node
 latitude: 50.73672
 longitude: 7.13091
 postcode: "53227"
 city: Bonn
-street: "Königswinterer Straße"
-housenumber: 55
-phone: "+49 228 477948"
-opening_hours: "Mo-Th 14:00-19:00; Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.jacques.de/depot/90/bonn-beuel/"
+street: Königswinterer Straße
+housenumber: "55"
+phone: +49 228 477948
+opening_hours: Mo-Th 14:00-19:00; Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.jacques.de/depot/90/bonn-beuel/

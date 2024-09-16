@@ -4,8 +4,8 @@ latitude: 51.21481
 longitude: 6.76778
 postcode: "40219"
 city: Düsseldorf
-street: "Fürstenwall"
-housenumber: 37
-phone: "+49 211 3036960"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Fürstenwall
+housenumber: "37"
+phone: +49 211 3036960
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

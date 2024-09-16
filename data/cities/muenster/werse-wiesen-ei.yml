@@ -1,11 +1,11 @@
 id: 338832699
-type: way
+type: node
 latitude: 51.9511
 longitude: 7.68266
 postcode: "48157"
 city: Münster
-street: "Am Mooresch"
-housenumber: 35
+street: Am Mooresch
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.wersewiesenei.de"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.wersewiesenei.de

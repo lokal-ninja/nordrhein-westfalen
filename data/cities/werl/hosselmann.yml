@@ -4,8 +4,8 @@ latitude: 51.55128
 longitude: 7.90471
 postcode: "59457"
 city: Werl
-street: "Unnaer Straße"
-housenumber: 21
+street: Unnaer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:00"
-website: "https://hosselmann.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-11:00
+website: https://hosselmann.de/

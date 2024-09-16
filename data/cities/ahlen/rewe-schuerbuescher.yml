@@ -1,11 +1,11 @@
 id: 601388550
-type: way
+type: node
 latitude: 51.71015
 longitude: 7.92202
 postcode: "59229"
 city: Ahlen
-street: "Alleestraße"
-housenumber: 1
+street: Alleestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

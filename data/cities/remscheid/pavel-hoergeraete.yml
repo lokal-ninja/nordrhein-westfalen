@@ -4,8 +4,8 @@ latitude: 51.18192
 longitude: 7.18654
 postcode: "42853"
 city: Remscheid
-street: "Theodor-Heuss-Platz"
-housenumber: 6
-phone: "+49 2191 5894767"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; PH off"
-website: "https://hoergeraete-pavel.de/"
+street: Theodor-Heuss-Platz
+housenumber: "6"
+phone: +49 2191 5894767
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; PH off
+website: https://hoergeraete-pavel.de/

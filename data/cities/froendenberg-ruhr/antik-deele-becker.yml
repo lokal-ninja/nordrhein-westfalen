@@ -4,8 +4,8 @@ latitude: 51.50677
 longitude: 7.80518
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Hellkammer"
-housenumber: 1
+street: Hellkammer
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:00,14:30-18:00; Tu,We off; Sa 11:00-15:00; PH off"
+opening_hours: Mo-Fr 11:00-13:00,14:30-18:00; Tu,We off; Sa 11:00-15:00; PH off
 website: ""

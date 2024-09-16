@@ -1,11 +1,11 @@
 id: 223734169
-type: way
+type: node
 latitude: 50.91015
 longitude: 6.96303
 postcode: "50968"
 city: Köln
-street: "Bonner Straße"
-housenumber: 231
+street: Bonner Straße
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

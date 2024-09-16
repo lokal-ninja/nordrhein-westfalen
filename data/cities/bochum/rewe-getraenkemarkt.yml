@@ -4,8 +4,8 @@ latitude: 51.42733
 longitude: 7.16379
 postcode: "44879"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 807
-phone: "+49 234 490500"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:30-22:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-bochum-hattinger-str.-807/"
+street: Hattinger Straße
+housenumber: "807"
+phone: +49 234 490500
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:30-22:00
+website: https://www.rewe.de/marktseite/rewe-markt-bochum-hattinger-str.-807/

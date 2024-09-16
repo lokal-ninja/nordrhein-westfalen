@@ -4,8 +4,8 @@ latitude: 51.25325
 longitude: 8.16668
 postcode: "59889"
 city: Eslohe (Sauerland)
-street: "Hauptstraße"
-housenumber: 80
+street: Hauptstraße
+housenumber: "80"
 phone: "+4929731516"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://friseurschulte.de"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://friseurschulte.de

@@ -1,11 +1,11 @@
 id: 133616031
-type: way
+type: node
 latitude: 51.50135
 longitude: 8.3422
 postcode: "59581"
 city: Warstein
-street: "Friedrich-Harkort-Straße"
-housenumber: 5
-phone: "+49 2902 9780 -0"
+street: Friedrich-Harkort-Straße
+housenumber: "5"
+phone: +49 2902 9780 -0
 opening_hours: ""
-website: "https://www.buddeautomobile.de/"
+website: https://www.buddeautomobile.de/

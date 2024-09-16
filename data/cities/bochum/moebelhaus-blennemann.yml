@@ -1,11 +1,11 @@
 id: 771387123
-type: way
+type: node
 latitude: 51.48514
 longitude: 7.21458
 postcode: "44787"
 city: Bochum
-street: "Brückstraße"
+street: Brückstraße
 housenumber: 59-63
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

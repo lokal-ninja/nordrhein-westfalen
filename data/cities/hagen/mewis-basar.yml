@@ -4,8 +4,8 @@ latitude: 51.35717
 longitude: 7.47238
 postcode: "58095"
 city: Hagen
-street: "Goldbergstraße"
-housenumber: 2
-phone: "+49 2331 16099"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "http://www.mewis-basar.de/"
+street: Goldbergstraße
+housenumber: "2"
+phone: +49 2331 16099
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: http://www.mewis-basar.de/

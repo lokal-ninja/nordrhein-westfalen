@@ -1,11 +1,11 @@
 id: 276464538
-type: way
+type: node
 latitude: 51.16048
 longitude: 7.19923
 postcode: "42859"
 city: Remscheid
-street: "Bliedinghauser Straße"
-housenumber: 65
+street: Bliedinghauser Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

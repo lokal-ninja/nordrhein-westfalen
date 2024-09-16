@@ -1,11 +1,11 @@
 id: 210837283
-type: way
+type: node
 latitude: 51.45613
 longitude: 6.62733
 postcode: "47441"
 city: Moers
-street: "Mühlenstraße"
-housenumber: 3
+street: Mühlenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

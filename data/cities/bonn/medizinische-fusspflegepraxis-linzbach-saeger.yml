@@ -4,8 +4,8 @@ latitude: 50.73955
 longitude: 7.10045
 postcode: "53111"
 city: Bonn
-street: "Theaterstraße"
-housenumber: 6
+street: Theaterstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "https://podologen-bonn.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://podologen-bonn.de/

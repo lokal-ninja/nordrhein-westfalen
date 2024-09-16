@@ -4,8 +4,8 @@ latitude: 51.25961
 longitude: 6.7551
 postcode: "40474"
 city: Düsseldorf
-street: "Kaiserswerther Straße"
-housenumber: 411
-phone: "+49 211 431921"
-opening_hours: "Mo,Th 06:00-13:30; Tu,Th 15:00-18:30; Fr 06:00-18:30; Sa 06:00-13:00"
-website: "https://www.metzgerei-brosi.de/"
+street: Kaiserswerther Straße
+housenumber: "411"
+phone: +49 211 431921
+opening_hours: Mo,Th 06:00-13:30; Tu,Th 15:00-18:30; Fr 06:00-18:30; Sa 06:00-13:00
+website: https://www.metzgerei-brosi.de/

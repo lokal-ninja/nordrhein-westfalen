@@ -4,8 +4,8 @@ latitude: 51.20165
 longitude: 6.38935
 postcode: "41068"
 city: Mönchengladbach
-street: "Stationsweg"
-housenumber: 166
-phone: "+49 2161 51108"
-opening_hours: "Tu-Th 08:00-13:00, 15:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.metzgerbecker.de/"
+street: Stationsweg
+housenumber: "166"
+phone: +49 2161 51108
+opening_hours: Tu-Th 08:00-13:00, 15:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.metzgerbecker.de/

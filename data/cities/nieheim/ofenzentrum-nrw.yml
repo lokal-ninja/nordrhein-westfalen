@@ -4,8 +4,8 @@ latitude: 51.80423
 longitude: 9.11531
 postcode: "33039"
 city: Nieheim
-street: "Friedrich-Wilhelm-Weber-Straße"
-housenumber: 3
-phone: "+49 5274 1784"
+street: Friedrich-Wilhelm-Weber-Straße
+housenumber: "3"
+phone: +49 5274 1784
 opening_hours: ""
-website: "https://ofenzentrum-nrw.de/"
+website: https://ofenzentrum-nrw.de/

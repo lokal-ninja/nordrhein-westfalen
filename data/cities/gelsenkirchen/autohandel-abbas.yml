@@ -1,11 +1,11 @@
 id: 266901008
-type: way
+type: node
 latitude: 51.50471
 longitude: 7.11499
 postcode: "45886"
 city: Gelsenkirchen
-street: "Ückendorfer Straße"
-housenumber: 34
+street: Ückendorfer Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

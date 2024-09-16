@@ -4,8 +4,8 @@ latitude: 51.34602
 longitude: 7.42844
 postcode: "58135"
 city: Hagen
-street: "Heilig-Geist-Straße"
-housenumber: 24
-phone: "+49 2331 902700"
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://www.optik-ziel.de/"
+street: Heilig-Geist-Straße
+housenumber: "24"
+phone: +49 2331 902700
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
+website: https://www.optik-ziel.de/

@@ -1,11 +1,11 @@
 id: 460161978
-type: way
+type: node
 latitude: 51.21604
 longitude: 7.95886
 postcode: "57413"
 city: Finnentrop
-street: "Kilianstraße"
-housenumber: 75
+street: Kilianstraße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

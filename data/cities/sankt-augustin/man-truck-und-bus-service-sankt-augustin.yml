@@ -1,11 +1,11 @@
 id: 870387585
-type: way
+type: node
 latitude: 50.79079
 longitude: 7.1819
 postcode: "53757"
 city: Sankt Augustin
-street: "Einsteinstraße"
-housenumber: 26
+street: Einsteinstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.74427
 longitude: 7.18483
 postcode: "45721"
 city: Haltern am See
-street: "Rekumer Straße"
-housenumber: 43
+street: Rekumer Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "http://www.pipeline-haltern-am-see.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: http://www.pipeline-haltern-am-see.de

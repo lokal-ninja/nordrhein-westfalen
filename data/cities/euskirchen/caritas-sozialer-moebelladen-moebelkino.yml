@@ -4,8 +4,8 @@ latitude: 50.65866
 longitude: 6.78817
 postcode: "53879"
 city: Euskirchen
-street: "Hochstraße"
-housenumber: 57
-phone: "+49 2251 7742642"
-opening_hours: "Mo-Th 08:00-12:30,13:30-16:15; Fr 08:00-12:30,13:30-15:00"
+street: Hochstraße
+housenumber: "57"
+phone: +49 2251 7742642
+opening_hours: Mo-Th 08:00-12:30,13:30-16:15; Fr 08:00-12:30,13:30-15:00
 website: ""

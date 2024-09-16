@@ -4,8 +4,8 @@ latitude: 51.22935
 longitude: 6.80532
 postcode: "40233"
 city: Düsseldorf
-street: "Ackerstraße"
-housenumber: 124
-phone: "+49 211/6980081"
+street: Ackerstraße
+housenumber: "124"
+phone: +49 211/6980081
 opening_hours: ""
-website: "https://as-hydroplant.de/"
+website: https://as-hydroplant.de/

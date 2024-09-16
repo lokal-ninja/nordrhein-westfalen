@@ -1,11 +1,11 @@
 id: 190620863
-type: way
+type: node
 latitude: 52.11874
 longitude: 7.39471
 postcode: "48565"
 city: Steinfurt
-street: "Altenberger Straße"
-housenumber: 2
+street: Altenberger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://toyota-willbrand-steinfurt.de/"
+website: http://toyota-willbrand-steinfurt.de/

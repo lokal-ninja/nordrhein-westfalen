@@ -1,11 +1,11 @@
 id: 48389792
-type: way
+type: node
 latitude: 50.93732
 longitude: 6.78112
 postcode: "50226"
 city: Frechen
-street: "Aachener Straße"
-housenumber: 537
+street: Aachener Straße
+housenumber: "537"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

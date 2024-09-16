@@ -4,8 +4,8 @@ latitude: 51.44935
 longitude: 6.97298
 postcode: "45145"
 city: Essen
-street: "Krefelder Straße"
-housenumber: 2
-phone: "+49 20132078555"
-opening_hours: "Mo-Fr 05:30-18:30, Sa 06:00-15:00, Su,PH 08:00-13:00"
+street: Krefelder Straße
+housenumber: "2"
+phone: +49 20132078555
+opening_hours: Mo-Fr 05:30-18:30, Sa 06:00-15:00, Su,PH 08:00-13:00
 website: ""

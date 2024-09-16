@@ -1,11 +1,11 @@
 id: 283866891
-type: way
+type: node
 latitude: 52.10239
 longitude: 7.62182
 postcode: "48268"
 city: Greven
-street: "Grüner Weg"
-housenumber: 73
+street: Grüner Weg
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su off"
-website: "http://www.gp-bierzwerg.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su off
+website: http://www.gp-bierzwerg.de

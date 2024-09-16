@@ -1,11 +1,11 @@
 id: 1047696636
-type: way
+type: node
 latitude: 50.63286
 longitude: 6.96105
 postcode: "53359"
 city: Rheinbach
-street: "Boschstraße"
-housenumber: 10
+street: Boschstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.camperland-bong.de/service/service-im-camperland/"
+website: https://www.camperland-bong.de/service/service-im-camperland/

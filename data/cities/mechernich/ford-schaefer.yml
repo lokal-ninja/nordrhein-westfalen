@@ -1,11 +1,11 @@
 id: 206061522
-type: way
+type: node
 latitude: 50.5895
 longitude: 6.66467
 postcode: "53894"
 city: Mechernich
-street: "Georges-Girard-Ring"
-housenumber: 19
-phone: "+49 2443 31400"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://www.ford-schaefer-mechernich.de/"
+street: Georges-Girard-Ring
+housenumber: "19"
+phone: +49 2443 31400
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: https://www.ford-schaefer-mechernich.de/

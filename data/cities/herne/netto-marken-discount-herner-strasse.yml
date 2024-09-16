@@ -1,11 +1,11 @@
 id: 109226028
-type: way
+type: node
 latitude: 51.53336
 longitude: 7.16928
 postcode: "44652"
 city: Herne
-street: "Herner Straße"
-housenumber: 31
+street: Herner Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

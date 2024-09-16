@@ -4,8 +4,8 @@ latitude: 52.02976
 longitude: 8.5717
 postcode: "33607"
 city: Bielefeld
-street: "Meinolfstraße"
-housenumber: 4
-phone: "+49 521 321120"
-opening_hours: "Mo off; Tu-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://www.xn--frisrteam-stuckmann-t6b.de/"
+street: Meinolfstraße
+housenumber: "4"
+phone: +49 521 321120
+opening_hours: Mo off; Tu-Fr 08:30-18:00; Sa 08:00-13:00
+website: https://www.xn--frisrteam-stuckmann-t6b.de/

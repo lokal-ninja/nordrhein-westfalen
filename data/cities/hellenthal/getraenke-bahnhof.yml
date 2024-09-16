@@ -1,11 +1,11 @@
 id: 1046969636
-type: way
+type: node
 latitude: 50.4905
 longitude: 6.44348
 postcode: "53940"
 city: Hellenthal
-street: "Kölner Straße"
-housenumber: 91
-phone: "+49 2482 7655"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://getraenkekraemer.de/abholmarkt/"
+street: Kölner Straße
+housenumber: "91"
+phone: +49 2482 7655
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://getraenkekraemer.de/abholmarkt/

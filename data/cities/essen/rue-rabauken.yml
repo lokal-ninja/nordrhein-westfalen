@@ -1,11 +1,11 @@
 id: 84301542
-type: way
+type: node
 latitude: 51.43386
 longitude: 7.00788
 postcode: "45131"
 city: Essen
-street: "Franziskastraße"
-housenumber: 31
+street: Franziskastraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-14:00
 website: ""

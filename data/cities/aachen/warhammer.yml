@@ -4,8 +4,9 @@ latitude: 50.77288
 longitude: 6.089
 postcode: "52062"
 city: Aachen
-street: "Wirichsbongardstraße"
-housenumber: 39
+street: Wirichsbongardstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Tu 12:00-14:00, 14:30-18:00; We 13:00-17:00; Th-Fr 12:00-14:00, 14:30-18:00; Sa 12:00-18:00; PH off"
+opening_hours: Tu 12:00-14:00, 14:30-18:00; We 13:00-17:00; Th-Fr 12:00-14:00, 14:30-18:00;
+    Sa 12:00-18:00; PH off
 website: ""

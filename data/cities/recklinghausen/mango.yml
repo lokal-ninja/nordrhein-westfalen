@@ -1,11 +1,11 @@
 id: 478270957
-type: way
+type: node
 latitude: 51.61355
 longitude: 7.20076
 postcode: "45657"
 city: Recklinghausen
-street: "Löhrhof"
-housenumber: 1
+street: Löhrhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.77385
 longitude: 7.44489
 postcode: "59348"
 city: Lüdinghausen
-street: "Münsterstraße"
-housenumber: 42
-phone: "+49 2591 980998"
-opening_hours: "Fr 15:00-18:00; Sa 11:00-13:00"
-website: "https://dampfzeit.de/"
+street: Münsterstraße
+housenumber: "42"
+phone: +49 2591 980998
+opening_hours: Fr 15:00-18:00; Sa 11:00-13:00
+website: https://dampfzeit.de/

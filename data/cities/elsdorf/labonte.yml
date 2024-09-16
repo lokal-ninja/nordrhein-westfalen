@@ -1,11 +1,11 @@
 id: 1017376947
-type: way
+type: node
 latitude: 50.94325
 longitude: 6.58624
 postcode: "50189"
 city: Elsdorf
-street: "Ottostraße"
-housenumber: 22
+street: Ottostraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

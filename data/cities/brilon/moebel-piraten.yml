@@ -1,11 +1,11 @@
 id: 315066815
-type: way
+type: node
 latitude: 51.39768
 longitude: 8.5793
 postcode: "59929"
 city: Brilon
-street: "Oststraße"
-housenumber: 6
-phone: "+49 2961-962181"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "http://moebelpiraten.com/titel.html"
+street: Oststraße
+housenumber: "6"
+phone: +49 2961-962181
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+website: http://moebelpiraten.com/titel.html

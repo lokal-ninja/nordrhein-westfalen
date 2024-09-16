@@ -1,11 +1,11 @@
 id: 804869880
-type: way
+type: node
 latitude: 50.71805
 longitude: 7.12503
 postcode: "53113"
 city: Bonn
-street: "Heussallee"
-housenumber: 13
+street: Heussallee
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "http://bundesbuedchen.de/"
+opening_hours: Mo-Fr 07:00-18:00
+website: http://bundesbuedchen.de/

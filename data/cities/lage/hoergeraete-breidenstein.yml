@@ -4,8 +4,8 @@ latitude: 51.99095
 longitude: 8.78982
 postcode: "32791"
 city: Lage
-street: "Lange Straße"
-housenumber: 49
+street: Lange Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00; We 09:00-12:30; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00; We 09:00-12:30; Su,PH off
 website: ""

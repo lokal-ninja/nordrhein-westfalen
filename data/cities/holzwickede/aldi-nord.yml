@@ -1,11 +1,11 @@
 id: 73627522
-type: way
+type: node
 latitude: 51.50633
 longitude: 7.62106
 postcode: "59439"
 city: Holzwickede
-street: "Stehfenstraße"
-housenumber: 8
+street: Stehfenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/

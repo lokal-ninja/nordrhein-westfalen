@@ -1,11 +1,11 @@
 id: 94494712
-type: way
+type: node
 latitude: 51.49862
 longitude: 7.20179
 postcode: "44809"
 city: Bochum
-street: "Speicherstraße"
-housenumber: 5
+street: Speicherstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 6:00-20:00, Sa 8:00-20:00; PH off"
+opening_hours: Mo-Fr 6:00-20:00, Sa 8:00-20:00; PH off
 website: ""

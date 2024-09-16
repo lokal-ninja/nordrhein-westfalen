@@ -4,8 +4,8 @@ latitude: 52.02216
 longitude: 8.52961
 postcode: "33602"
 city: Bielefeld
-street: "Notpfortenstraße"
-housenumber: 1
+street: Notpfortenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-14:00, 16:00-19:00; Sa 11:00-18:00"
-website: "http://olivenoele-bielefeld.de/"
+opening_hours: Mo-Fr 11:00-14:00, 16:00-19:00; Sa 11:00-18:00
+website: http://olivenoele-bielefeld.de/

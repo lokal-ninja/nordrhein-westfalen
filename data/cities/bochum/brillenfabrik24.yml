@@ -4,8 +4,9 @@ latitude: 51.47282
 longitude: 7.32326
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 8
+street: Alte Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Tu 09:00-13:00, 15:00-18:30; We 09:00-13:00; Th-Fr 09:00-13:00, 15:00-18:30; Sa 09:00-13:00"
-website: "https://www.brillenfabrik24.de/"
+opening_hours: Mo,Tu 09:00-13:00, 15:00-18:30; We 09:00-13:00; Th-Fr 09:00-13:00,
+    15:00-18:30; Sa 09:00-13:00
+website: https://www.brillenfabrik24.de/

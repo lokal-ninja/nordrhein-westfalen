@@ -1,11 +1,11 @@
 id: 231134028
-type: way
+type: node
 latitude: 50.95466
 longitude: 7.11304
 postcode: "51427"
 city: Bergisch Gladbach
-street: "Vürfels"
-housenumber: 17
+street: Vürfels
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

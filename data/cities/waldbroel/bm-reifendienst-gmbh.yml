@@ -1,11 +1,11 @@
 id: 334943205
-type: way
+type: node
 latitude: 50.88586
 longitude: 7.63963
 postcode: "51545"
 city: Waldbröl
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

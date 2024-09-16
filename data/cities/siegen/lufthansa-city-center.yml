@@ -4,8 +4,8 @@ latitude: 50.87823
 longitude: 8.01608
 postcode: "57072"
 city: Siegen
-street: "Wellersbergstraße"
-housenumber: 6
-phone: "+49 271 2326911"
+street: Wellersbergstraße
+housenumber: "6"
+phone: +49 271 2326911
 opening_hours: ""
-website: "https://www.topservice.de"
+website: https://www.topservice.de

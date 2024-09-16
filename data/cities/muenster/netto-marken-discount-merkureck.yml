@@ -1,11 +1,11 @@
 id: 49834225
-type: way
+type: node
 latitude: 51.91395
 longitude: 7.6354
 postcode: "48165"
 city: Münster
-street: "Merkureck"
-housenumber: 16
+street: Merkureck
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

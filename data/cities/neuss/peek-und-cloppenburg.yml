@@ -4,8 +4,8 @@ latitude: 51.20256
 longitude: 6.7187
 postcode: "41460"
 city: Neuss
-street: "Breslauer Straße"
-housenumber: 2
-phone: "+49-2131-3133120"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.peek-cloppenburg.de/"
+street: Breslauer Straße
+housenumber: "2"
+phone: +49-2131-3133120
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.peek-cloppenburg.de/

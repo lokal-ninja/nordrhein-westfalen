@@ -1,11 +1,11 @@
 id: 258795413
-type: way
+type: node
 latitude: 51.76149
 longitude: 7.39502
 postcode: "59348"
 city: Lüdinghausen
-street: "Dattelner Straße"
-housenumber: 15
-phone: "+49 2591 8188"
+street: Dattelner Straße
+housenumber: "15"
+phone: +49 2591 8188
 opening_hours: ""
-website: "https://www.muhle-elektro.de/"
+website: https://www.muhle-elektro.de/

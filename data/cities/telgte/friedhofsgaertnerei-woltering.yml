@@ -1,11 +1,11 @@
 id: 309652464
-type: way
+type: node
 latitude: 52.00032
 longitude: 7.74923
 postcode: "48291"
 city: Telgte
-street: "Lauheide"
-housenumber: 9
+street: Lauheide
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

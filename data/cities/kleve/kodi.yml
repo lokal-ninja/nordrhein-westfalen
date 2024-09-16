@@ -1,11 +1,11 @@
 id: 111347841
-type: way
+type: node
 latitude: 51.78962
 longitude: 6.14113
 postcode: "47533"
 city: Kleve
-street: "Herzogstraße"
-housenumber: 21
+street: Herzogstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 435280815
-type: way
+type: node
 latitude: 50.91497
 longitude: 6.71116
 postcode: "50169"
 city: Kerpen
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

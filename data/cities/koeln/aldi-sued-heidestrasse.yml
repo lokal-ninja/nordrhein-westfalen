@@ -1,11 +1,11 @@
 id: 88028055
-type: way
+type: node
 latitude: 50.85938
 longitude: 7.09978
 postcode: "51147"
 city: Köln
-street: "Heidestraße"
+street: Heidestraße
 housenumber: 163-165
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

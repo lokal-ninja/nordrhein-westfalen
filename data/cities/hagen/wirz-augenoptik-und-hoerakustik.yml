@@ -4,8 +4,8 @@ latitude: 51.34766
 longitude: 7.42222
 postcode: "58135"
 city: Hagen
-street: "Kölner Straße"
-housenumber: 16
+street: Kölner Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30; Su,PH off"
-website: "https://www.wirz-hagen.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:30; Su,PH off
+website: https://www.wirz-hagen.de/

@@ -4,8 +4,8 @@ latitude: 51.26015
 longitude: 7.14515
 postcode: "42105"
 city: Wuppertal
-street: "Willy-Brandt-Platz"
-housenumber: 15
-phone: "+49 202 455680"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://freakystylewuppertal.wordpress.com/"
+street: Willy-Brandt-Platz
+housenumber: "15"
+phone: +49 202 455680
+opening_hours: Mo-Sa 09:30-20:00
+website: https://freakystylewuppertal.wordpress.com/

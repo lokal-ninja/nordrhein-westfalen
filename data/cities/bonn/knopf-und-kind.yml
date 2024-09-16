@@ -4,8 +4,8 @@ latitude: 50.68527
 longitude: 7.15524
 postcode: "53173"
 city: Bonn
-street: "Bürgerstraße"
-housenumber: 6
-phone: "+49 228 364949"
-opening_hours: "Tu-Fr 11:00-14:00,15:00-17:00; Sa 11:00-16:00"
+street: Bürgerstraße
+housenumber: "6"
+phone: +49 228 364949
+opening_hours: Tu-Fr 11:00-14:00,15:00-17:00; Sa 11:00-16:00
 website: ""

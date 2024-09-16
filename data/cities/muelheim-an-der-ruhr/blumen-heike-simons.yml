@@ -4,8 +4,8 @@ latitude: 51.42861
 longitude: 6.88045
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Wallstraße"
-housenumber: 16
-phone: "+49 208 475939"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-15:00; Sa 09:00-14:00"
+street: Wallstraße
+housenumber: "16"
+phone: +49 208 475939
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-15:00; Sa 09:00-14:00
 website: ""

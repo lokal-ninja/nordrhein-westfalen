@@ -4,8 +4,8 @@ latitude: 51.73299
 longitude: 8.69186
 postcode: "33106"
 city: Paderborn
-street: "Wewerstraße"
-housenumber: 4
+street: Wewerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su,PH 08:00-18:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su,PH 08:00-18:00
 website: ""

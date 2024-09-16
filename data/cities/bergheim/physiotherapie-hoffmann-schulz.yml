@@ -4,8 +4,8 @@ latitude: 50.95683
 longitude: 6.64701
 postcode: "50126"
 city: Bergheim
-street: "Heerstraße"
-housenumber: 52
+street: Heerstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:50-12:00,13:00-19:00; We 07:50-13:00"
+opening_hours: Mo,Tu,Th,Fr 07:50-12:00,13:00-19:00; We 07:50-13:00
 website: ""

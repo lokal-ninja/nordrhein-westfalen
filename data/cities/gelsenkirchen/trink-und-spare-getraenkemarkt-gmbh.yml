@@ -1,11 +1,11 @@
 id: 264072134
-type: way
+type: node
 latitude: 51.51509
 longitude: 7.0765
 postcode: "45881"
 city: Gelsenkirchen
-street: "Wilhelminenstraße"
-housenumber: 129
+street: Wilhelminenstraße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "http://www.trink-und-spare.de"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: http://www.trink-und-spare.de

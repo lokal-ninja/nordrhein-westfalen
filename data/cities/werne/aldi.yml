@@ -1,11 +1,11 @@
 id: 104282119
-type: way
+type: node
 latitude: 51.6642
 longitude: 7.64552
 postcode: "59368"
 city: Werne
-street: "Klöcknerstraße"
-housenumber: 3
+street: Klöcknerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
 website: ""

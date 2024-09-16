@@ -1,11 +1,11 @@
 id: 47056274
-type: way
+type: node
 latitude: 51.21981
 longitude: 6.67076
 postcode: "41462"
 city: Neuss
-street: "Römerstraße"
-housenumber: 198
+street: Römerstraße
+housenumber: "198"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
-website: "https://www.dino-automobile.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-15:00
+website: https://www.dino-automobile.de/

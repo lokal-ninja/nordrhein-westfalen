@@ -1,11 +1,11 @@
 id: 88635082
-type: way
+type: node
 latitude: 51.40715
 longitude: 7.19511
 postcode: "45527"
 city: Hattingen
-street: "Werksstraße"
-housenumber: 22
-phone: "+49 2324 5916 0"
-opening_hours: "Mo-Fr 08:00-17:00;Sa 08:00-12:00"
-website: "https://www.reifen-milbrandt.de/"
+street: Werksstraße
+housenumber: "22"
+phone: +49 2324 5916 0
+opening_hours: Mo-Fr 08:00-17:00;Sa 08:00-12:00
+website: https://www.reifen-milbrandt.de/

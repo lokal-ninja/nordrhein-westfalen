@@ -4,8 +4,8 @@ latitude: 51.2997
 longitude: 7.6735
 postcode: "58762"
 city: Altena
-street: "Lennestraße"
-housenumber: 39
-phone: "+49 2352 25244"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30, Sa 10:00-12:30"
+street: Lennestraße
+housenumber: "39"
+phone: +49 2352 25244
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30, Sa 10:00-12:30
 website: ""

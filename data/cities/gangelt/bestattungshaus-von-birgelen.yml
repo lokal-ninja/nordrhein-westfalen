@@ -1,11 +1,11 @@
 id: 148855270
-type: way
+type: node
 latitude: 50.98966
 longitude: 5.98325
 postcode: "52538"
 city: Gangelt
-street: "Raiffeisenstraße"
-housenumber: 23
-phone: "+49 2454 2303"
+street: Raiffeisenstraße
+housenumber: "23"
+phone: +49 2454 2303
 opening_hours: ""
 website: ""

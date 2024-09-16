@@ -1,11 +1,11 @@
 id: 239316320
-type: way
+type: node
 latitude: 51.203
 longitude: 7.02392
 postcode: "42781"
 city: Haan
-street: "Landstraße"
-housenumber: 13
+street: Landstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

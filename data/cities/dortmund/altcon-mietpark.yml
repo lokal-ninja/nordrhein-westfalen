@@ -1,11 +1,11 @@
 id: 1112384242
-type: way
+type: node
 latitude: 51.51948
 longitude: 7.50185
 postcode: "44143"
 city: Dortmund
-street: "Berliner Straße"
-housenumber: 56
-phone: "+49 231 580 489 49"
+street: Berliner Straße
+housenumber: "56"
+phone: +49 231 580 489 49
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.91325
 longitude: 7.63359
 postcode: "48165"
 city: Münster
-street: "Merkureck"
-housenumber: 2
-phone: "+49 2501 96360"
-opening_hours: "Mo-Fr 08:00-18:30;Sa 09:00-13:00"
-website: "http://www.ah-bruening.de"
+street: Merkureck
+housenumber: "2"
+phone: +49 2501 96360
+opening_hours: Mo-Fr 08:00-18:30;Sa 09:00-13:00
+website: http://www.ah-bruening.de

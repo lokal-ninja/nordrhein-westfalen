@@ -4,8 +4,8 @@ latitude: 51.46466
 longitude: 7.21239
 postcode: "44789"
 city: Bochum
-street: "Drusenbergstraße"
-housenumber: 72
-phone: "+49 234 312084"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:30"
+street: Drusenbergstraße
+housenumber: "72"
+phone: +49 234 312084
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.29663
 longitude: 6.86729
 postcode: "40882"
 city: Ratingen
-street: "Eisenhüttenstraße"
-housenumber: 6
-phone: "+49 2102 8897875"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://mens-classic-ratingen.de/"
+street: Eisenhüttenstraße
+housenumber: "6"
+phone: +49 2102 8897875
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://mens-classic-ratingen.de/

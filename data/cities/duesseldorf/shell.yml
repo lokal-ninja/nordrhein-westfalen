@@ -4,8 +4,8 @@ latitude: 51.14965
 longitude: 6.89399
 postcode: "40595"
 city: Düsseldorf
-street: "Frankfurter Straße"
-housenumber: 197
-phone: "+49 211 7005506"
-opening_hours: "24/7"
-website: "https://www.shell.de/"
+street: Frankfurter Straße
+housenumber: "197"
+phone: +49 211 7005506
+opening_hours: 24/7
+website: https://www.shell.de/

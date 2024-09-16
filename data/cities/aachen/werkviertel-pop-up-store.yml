@@ -4,8 +4,8 @@ latitude: 50.77356
 longitude: 6.08376
 postcode: "52062"
 city: Aachen
-street: "Kleinmarschierstraße"
+street: Kleinmarschierstraße
 housenumber: 30-32
-phone: "+49 176 79053153"
-opening_hours: "Mo,Su off; Tu-Fr 11:00-17:00; Sa 10:00-16:00"
-website: "https://www.werkviertel.de/startseite.html"
+phone: +49 176 79053153
+opening_hours: Mo,Su off; Tu-Fr 11:00-17:00; Sa 10:00-16:00
+website: https://www.werkviertel.de/startseite.html

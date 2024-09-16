@@ -1,11 +1,11 @@
 id: 169748341
-type: way
+type: node
 latitude: 51.73094
 longitude: 8.78776
 postcode: "33100"
 city: Paderborn
-street: "Friedrich-List-Straße"
-housenumber: 17
+street: Friedrich-List-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.meine-kueche.de/paderborn"
+website: https://www.meine-kueche.de/paderborn

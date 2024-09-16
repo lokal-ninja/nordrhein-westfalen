@@ -4,8 +4,8 @@ latitude: 51.32054
 longitude: 7.05957
 postcode: "42553"
 city: Velbert
-street: "Neustraße"
-housenumber: 110
-phone: "+49 176 62811205"
-opening_hours: "Tu-Sa 08:00-18:00"
+street: Neustraße
+housenumber: "110"
+phone: +49 176 62811205
+opening_hours: Tu-Sa 08:00-18:00
 website: ""

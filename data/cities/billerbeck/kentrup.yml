@@ -1,11 +1,11 @@
 id: 235260357
-type: way
+type: node
 latitude: 51.98025
 longitude: 7.28872
 postcode: "48727"
 city: Billerbeck
-street: "Hagen"
-housenumber: 2
+street: Hagen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:30,14:00-19:00;Sa 9:00-16:00;PH Su off"
+opening_hours: Mo-Fr 9:00-12:30,14:00-19:00;Sa 9:00-16:00;PH Su off
 website: ""

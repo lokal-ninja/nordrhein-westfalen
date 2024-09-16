@@ -1,11 +1,11 @@
 id: 289209981
-type: way
+type: node
 latitude: 51.41663
 longitude: 7.82799
 postcode: "58710"
 city: Menden (Sauerland)
-street: "Heinrich-Böll-Straße"
-housenumber: 3
+street: Heinrich-Böll-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

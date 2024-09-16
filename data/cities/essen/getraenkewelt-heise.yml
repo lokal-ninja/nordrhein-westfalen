@@ -1,11 +1,11 @@
 id: 118495413
-type: way
+type: node
 latitude: 51.44607
 longitude: 7.05498
 postcode: "45138"
 city: Essen
-street: "Steeler Straße"
-housenumber: 385
+street: Steeler Straße
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

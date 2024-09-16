@@ -4,8 +4,8 @@ latitude: 51.44225
 longitude: 7.56148
 postcode: "58239"
 city: Schwerte
-street: "Bahnhofstraße"
-housenumber: 28
-phone: "+49 2304 12900"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.optikbuettner.de/"
+street: Bahnhofstraße
+housenumber: "28"
+phone: +49 2304 12900
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.optikbuettner.de/

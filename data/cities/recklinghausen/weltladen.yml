@@ -4,8 +4,8 @@ latitude: 51.61395
 longitude: 7.19512
 postcode: "45657"
 city: Recklinghausen
-street: "Steinstraße"
-housenumber: 1
+street: Steinstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

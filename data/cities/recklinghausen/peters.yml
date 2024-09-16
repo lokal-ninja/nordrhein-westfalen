@@ -4,8 +4,8 @@ latitude: 51.61044
 longitude: 7.2608
 postcode: "45665"
 city: Recklinghausen
-street: "Schulstraße"
-housenumber: 17
+street: Schulstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Sa 09:00-12:30; Tu-Fr 09:00-12:30, 15:00-18:00"
+opening_hours: Mo,Sa 09:00-12:30; Tu-Fr 09:00-12:30, 15:00-18:00
 website: ""

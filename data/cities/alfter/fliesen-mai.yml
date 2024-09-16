@@ -1,11 +1,11 @@
 id: 179411651
-type: way
+type: node
 latitude: 50.71793
 longitude: 7.02921
 postcode: "53347"
 city: Alfter
-street: "Im Klostergarten"
-housenumber: 58
-phone: "+49 228 18035127"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.fliesen-mai.de"
+street: Im Klostergarten
+housenumber: "58"
+phone: +49 228 18035127
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.fliesen-mai.de

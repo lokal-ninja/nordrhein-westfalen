@@ -1,11 +1,11 @@
 id: 91968774
-type: way
+type: node
 latitude: 51.70237
 longitude: 7.75715
 postcode: "59075"
 city: Hamm
-street: "Horster Straße"
-housenumber: 22
+street: Horster Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

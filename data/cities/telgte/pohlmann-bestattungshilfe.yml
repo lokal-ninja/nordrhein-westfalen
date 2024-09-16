@@ -1,11 +1,11 @@
 id: 160150041
-type: way
+type: node
 latitude: 51.98427
 longitude: 7.77154
 postcode: "48291"
 city: Telgte
-street: "Hans-Geiger-Straße"
-housenumber: 46
+street: Hans-Geiger-Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

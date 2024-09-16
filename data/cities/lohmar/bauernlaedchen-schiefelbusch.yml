@@ -4,8 +4,8 @@ latitude: 50.89938
 longitude: 7.22832
 postcode: "53797"
 city: Lohmar
-street: "Schiefelbusch"
-housenumber: 3
-phone: "+49 220 583554"
-opening_hours: "Th-Fr 08:30-18:30, Sa 08:30-17:00, Su 13:00-18:00; PH 13:00-18:00"
-website: "https://www.bauerngut-schiefelbusch.de/bauernladchen/"
+street: Schiefelbusch
+housenumber: "3"
+phone: +49 220 583554
+opening_hours: Th-Fr 08:30-18:30, Sa 08:30-17:00, Su 13:00-18:00; PH 13:00-18:00
+website: https://www.bauerngut-schiefelbusch.de/bauernladchen/

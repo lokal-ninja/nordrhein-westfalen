@@ -1,11 +1,11 @@
 id: 310052303
-type: way
+type: node
 latitude: 50.67498
 longitude: 6.6994
 postcode: "53909"
 city: Zülpich
-street: "Baumschulweg"
-housenumber: 7
-phone: "+49 2252 1790"
+street: Baumschulweg
+housenumber: "7"
+phone: +49 2252 1790
 opening_hours: ""
 website: ""

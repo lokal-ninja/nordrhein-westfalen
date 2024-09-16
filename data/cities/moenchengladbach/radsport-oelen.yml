@@ -4,8 +4,8 @@ latitude: 51.17533
 longitude: 6.37186
 postcode: "41179"
 city: Mönchengladbach
-street: "Wolfsittard"
-housenumber: 109
-phone: "+49 2161 571209"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30"
-website: "https://www.radsport-oelen.de/"
+street: Wolfsittard
+housenumber: "109"
+phone: +49 2161 571209
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30
+website: https://www.radsport-oelen.de/

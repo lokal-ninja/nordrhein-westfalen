@@ -1,11 +1,11 @@
 id: 438755211
-type: way
+type: node
 latitude: 51.33055
 longitude: 6.57879
 postcode: "47799"
 city: Krefeld
-street: "Bahnstraße"
-housenumber: 2
+street: Bahnstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://waschsalon.de/waschsalon-krefeld/#bahnstrasse-2"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://waschsalon.de/waschsalon-krefeld/#bahnstrasse-2

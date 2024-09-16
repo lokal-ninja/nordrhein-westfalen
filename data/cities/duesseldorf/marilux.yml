@@ -4,8 +4,8 @@ latitude: 51.22942
 longitude: 6.80645
 postcode: "40233"
 city: Düsseldorf
-street: "Ackerstraße"
-housenumber: 151
+street: Ackerstraße
+housenumber: "151"
 phone: "+4921120031301"
-opening_hours: "Tu 13:00-18:00; We-Fr 09:00-13:00, 14:00-18:00; Sa 11:00-16:00"
-website: "http://www.marilux.de"
+opening_hours: Tu 13:00-18:00; We-Fr 09:00-13:00, 14:00-18:00; Sa 11:00-16:00
+website: http://www.marilux.de

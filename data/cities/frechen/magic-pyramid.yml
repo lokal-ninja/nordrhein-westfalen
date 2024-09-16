@@ -1,11 +1,11 @@
 id: 133336272
-type: way
+type: node
 latitude: 50.92442
 longitude: 6.83361
 postcode: "50226"
 city: Frechen
-street: "Europaallee"
-housenumber: 34
+street: Europaallee
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.magic-pyramid.de/"
+website: https://www.magic-pyramid.de/

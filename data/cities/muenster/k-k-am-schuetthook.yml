@@ -1,11 +1,11 @@
 id: 334923539
-type: way
+type: node
 latitude: 51.914
 longitude: 7.68414
 postcode: "48167"
 city: Münster
-street: "Am Schütthook"
-housenumber: 1
+street: Am Schütthook
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

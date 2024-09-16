@@ -1,11 +1,11 @@
 id: 87994777
-type: way
+type: node
 latitude: 51.11939
 longitude: 7.43286
 postcode: "51688"
 city: Wipperfürth
-street: "Niederwipper"
-housenumber: 20
+street: Niederwipper
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

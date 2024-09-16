@@ -1,11 +1,11 @@
 id: 50772890
-type: way
+type: node
 latitude: 50.74743
 longitude: 7.14954
 postcode: "53229"
 city: Bonn
-street: "Friedenstraße"
+street: Friedenstraße
 housenumber: 51-53
-phone: "+49 228 4870"
+phone: +49 228 4870
 opening_hours: ""
-website: "https://www.rkg.de/rkg-standorte/rkg-mercedes-benz-bonn-beuel"
+website: https://www.rkg.de/rkg-standorte/rkg-mercedes-benz-bonn-beuel

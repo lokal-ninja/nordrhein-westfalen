@@ -1,11 +1,11 @@
 id: 105633504
-type: way
+type: node
 latitude: 51.66255
 longitude: 7.63506
 postcode: "59368"
 city: Werne
-street: "Steinstraße"
-housenumber: 2
+street: Steinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:30; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:30; Su,PH off
 website: ""

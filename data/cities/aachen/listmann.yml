@@ -1,11 +1,11 @@
 id: 83266207
-type: way
+type: node
 latitude: 50.77487
 longitude: 6.08569
 postcode: "52062"
 city: Aachen
-street: "Ursulinerstraße"
-housenumber: 13
-phone: "+49 241 409 970"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-18:00"
-website: "https://www.listmann.de"
+street: Ursulinerstraße
+housenumber: "13"
+phone: +49 241 409 970
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-18:00
+website: https://www.listmann.de

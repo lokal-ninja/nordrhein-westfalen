@@ -4,8 +4,8 @@ latitude: 51.88523
 longitude: 8.4522
 postcode: "33415"
 city: Verl
-street: "Schinkenstraße"
-housenumber: 9
+street: Schinkenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.ehlert-gmbh.de/"
+website: https://www.ehlert-gmbh.de/

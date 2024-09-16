@@ -1,11 +1,11 @@
 id: 89701202
-type: way
+type: node
 latitude: 51.47054
 longitude: 7.24577
 postcode: "44803"
 city: Bochum
-street: "Goystraße"
+street: Goystraße
 housenumber: 18c
-phone: "+49 234 935820"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-12:00"
-website: "https://bauking.de/standort/baustoffhandel-bochum/"
+phone: +49 234 935820
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-12:00
+website: https://bauking.de/standort/baustoffhandel-bochum/

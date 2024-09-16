@@ -1,11 +1,11 @@
 id: 275968469
-type: way
+type: node
 latitude: 51.20104
 longitude: 7.15958
 postcode: "42857"
 city: Remscheid
-street: "Gerstau"
-housenumber: 18
-phone: "+49 2191 8846-0"
+street: Gerstau
+housenumber: "18"
+phone: +49 2191 8846-0
 opening_hours: ""
-website: "https://autohaus-scheider.de/"
+website: https://autohaus-scheider.de/

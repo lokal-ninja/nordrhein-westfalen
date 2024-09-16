@@ -1,11 +1,11 @@
 id: 311591131
-type: way
+type: node
 latitude: 52.08836
 longitude: 8.73232
 postcode: "32105"
 city: Bad Salzuflen
-street: "Herforder Straße"
-housenumber: 87
+street: Herforder Straße
+housenumber: "87"
 phone: ""
 opening_hours: ""
-website: "https://www.pauk-vogt.de"
+website: https://www.pauk-vogt.de

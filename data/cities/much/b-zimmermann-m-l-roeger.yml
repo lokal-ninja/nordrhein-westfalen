@@ -1,11 +1,11 @@
 id: 372834576
-type: way
+type: node
 latitude: 50.88438
 longitude: 7.44206
 postcode: "53804"
 city: Much
-street: "Dorfstraße"
-housenumber: 13
+street: Dorfstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

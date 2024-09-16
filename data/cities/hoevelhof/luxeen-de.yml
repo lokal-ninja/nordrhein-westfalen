@@ -1,11 +1,11 @@
 id: 342965148
-type: way
+type: node
 latitude: 51.82908
 longitude: 8.64172
 postcode: "33161"
 city: Hövelhof
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

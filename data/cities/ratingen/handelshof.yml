@@ -1,11 +1,11 @@
 id: 814932283
-type: way
+type: node
 latitude: 51.30406
 longitude: 6.82503
 postcode: "40880"
 city: Ratingen
-street: "Daniel-Goldbach-Straße"
-housenumber: 23
+street: Daniel-Goldbach-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.handelshof.de/"
+website: https://www.handelshof.de/

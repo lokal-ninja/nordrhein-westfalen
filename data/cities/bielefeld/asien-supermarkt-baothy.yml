@@ -4,8 +4,8 @@ latitude: 52.02638
 longitude: 8.53639
 postcode: "33602"
 city: Bielefeld
-street: "Neumarkt"
-housenumber: 11
+street: Neumarkt
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:00-19:00; PH off"
-website: "https://asia-supermarkt-bielefeld.de/"
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:00-19:00; PH off
+website: https://asia-supermarkt-bielefeld.de/

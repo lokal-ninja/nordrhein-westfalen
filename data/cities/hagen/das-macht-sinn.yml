@@ -4,8 +4,9 @@ latitude: 51.35873
 longitude: 7.47358
 postcode: "58095"
 city: Hagen
-street: "Friedrich-Ebert-Platz"
-housenumber: 3
-phone: "+49 2331 787560"
-opening_hours: "Mo-Fr 10:00-20:00; Oct-Jan Sa 10:00-20:00; Feb-Sep Sa 10:00-19:00; PH off"
-website: "https://www.sinnleffers.de/allefilialen.html?path=/Nordrhein-Westfalen/Hagen"
+street: Friedrich-Ebert-Platz
+housenumber: "3"
+phone: +49 2331 787560
+opening_hours: Mo-Fr 10:00-20:00; Oct-Jan Sa 10:00-20:00; Feb-Sep Sa 10:00-19:00;
+    PH off
+website: https://www.sinnleffers.de/allefilialen.html?path=/Nordrhein-Westfalen/Hagen

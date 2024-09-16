@@ -1,11 +1,11 @@
 id: 112056218
-type: way
+type: node
 latitude: 51.57249
 longitude: 6.72995
 postcode: "46537"
 city: Dinslaken
-street: "Hedwigstraße"
-housenumber: 6
-phone: "+49 2064 606706"
+street: Hedwigstraße
+housenumber: "6"
+phone: +49 2064 606706
 opening_hours: ""
-website: "https://www.bienemann.nrw/backbetriebe/"
+website: https://www.bienemann.nrw/backbetriebe/

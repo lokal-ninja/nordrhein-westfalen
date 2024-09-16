@@ -1,11 +1,11 @@
 id: 163986389
-type: way
+type: node
 latitude: 51.79669
 longitude: 6.1549
 postcode: "47533"
 city: Kleve
-street: "Emmericher Straße"
-housenumber: 194
+street: Emmericher Straße
+housenumber: "194"
 phone: ""
 opening_hours: ""
 website: ""

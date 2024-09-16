@@ -4,8 +4,8 @@ latitude: 51.16086
 longitude: 7.0055
 postcode: "42697"
 city: Solingen
-street: "Sauerbreystraße"
-housenumber: 6
-phone: "+49 212 334028"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-14:00"
-website: "https://www.paulsgmbh.de/"
+street: Sauerbreystraße
+housenumber: "6"
+phone: +49 212 334028
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-14:00
+website: https://www.paulsgmbh.de/

@@ -1,11 +1,11 @@
 id: 89324826
-type: way
+type: node
 latitude: 50.98286
 longitude: 6.18804
 postcode: "52511"
 city: Geilenkirchen
-street: "Am Mühlenhof"
-housenumber: 13
+street: Am Mühlenhof
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

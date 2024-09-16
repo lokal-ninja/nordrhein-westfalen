@@ -4,8 +4,8 @@ latitude: 51.24622
 longitude: 6.98394
 postcode: "40822"
 city: Mettmann
-street: "Flurstraße"
-housenumber: 20
+street: Flurstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/mettmann/flurstr-20.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/mettmann/flurstr-20.html

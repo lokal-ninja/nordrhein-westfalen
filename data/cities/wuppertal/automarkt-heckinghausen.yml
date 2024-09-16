@@ -1,11 +1,11 @@
 id: 860706853
-type: way
+type: node
 latitude: 51.27125
 longitude: 7.22388
 postcode: "42289"
 city: Wuppertal
-street: "Heckinghauser Straße"
-housenumber: 193
+street: Heckinghauser Straße
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

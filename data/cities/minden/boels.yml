@@ -1,11 +1,11 @@
 id: 216097864
-type: way
+type: node
 latitude: 52.28217
 longitude: 8.89946
 postcode: "32427"
 city: Minden
-street: "Kuckuckstraße"
+street: Kuckuckstraße
 housenumber: 17 d
-phone: "+49 571 38838870"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30"
-website: "https://www.boels.de/"
+phone: +49 571 38838870
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:30
+website: https://www.boels.de/

@@ -4,8 +4,8 @@ latitude: 51.22896
 longitude: 6.79405
 postcode: "40211"
 city: Düsseldorf
-street: "Am Wehrhahn"
-housenumber: 77
-phone: "+49 211 35581344"
-opening_hours: "Tu-Sa nach Vereinbarung"
+street: Am Wehrhahn
+housenumber: "77"
+phone: +49 211 35581344
+opening_hours: Tu-Sa "nach Vereinbarung"
 website: ""

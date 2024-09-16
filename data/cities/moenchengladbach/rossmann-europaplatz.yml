@@ -1,11 +1,11 @@
 id: 497398159
-type: way
+type: node
 latitude: 51.19713
 longitude: 6.44532
 postcode: "41061"
 city: Mönchengladbach
-street: "Europaplatz"
-housenumber: 1
+street: Europaplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 08:00-21:00; PH 08:00-21:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 08:00-21:00; Su 08:00-21:00; PH 08:00-21:00
 website: ""

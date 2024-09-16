@@ -1,11 +1,11 @@
 id: 258416688
-type: way
+type: node
 latitude: 51.34354
 longitude: 6.55207
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 127
+street: Hülser Straße
+housenumber: "127"
 phone: ""
 opening_hours: ""
-website: "https://www.antikauktion-krefeld.de/"
+website: https://www.antikauktion-krefeld.de/

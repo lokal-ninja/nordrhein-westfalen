@@ -1,11 +1,11 @@
 id: 189113184
-type: way
+type: node
 latitude: 50.6584
 longitude: 6.40626
 postcode: "52385"
 city: Nideggen
-street: "Monschauer Straße"
-housenumber: 18
-phone: "+49 2474 9986286"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su 10:00-12:00"
-website: "https://www.nahkauf.de/maerkte/nideggen-43612062-georg-zumbraegel-monschauer-str-16"
+street: Monschauer Straße
+housenumber: "18"
+phone: +49 2474 9986286
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su 10:00-12:00
+website: https://www.nahkauf.de/maerkte/nideggen-43612062-georg-zumbraegel-monschauer-str-16

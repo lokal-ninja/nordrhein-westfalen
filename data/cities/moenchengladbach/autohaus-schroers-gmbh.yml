@@ -1,11 +1,11 @@
 id: 284779334
-type: way
+type: node
 latitude: 51.20083
 longitude: 6.3494
 postcode: "41169"
 city: Mönchengladbach
-street: "Vorster Straße"
-housenumber: 372
+street: Vorster Straße
+housenumber: "372"
 phone: ""
 opening_hours: ""
-website: "http://www.toyota-schroers-moenchengladbach.de"
+website: http://www.toyota-schroers-moenchengladbach.de

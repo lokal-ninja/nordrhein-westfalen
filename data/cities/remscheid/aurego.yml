@@ -1,11 +1,11 @@
 id: 523269690
-type: way
+type: node
 latitude: 51.1799
 longitude: 7.22787
 postcode: "42855"
 city: Remscheid
-street: "Lenneper Straße"
-housenumber: 166
+street: Lenneper Straße
+housenumber: "166"
 phone: ""
 opening_hours: ""
 website: ""

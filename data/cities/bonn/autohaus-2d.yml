@@ -4,8 +4,8 @@ latitude: 50.74242
 longitude: 7.16138
 postcode: "53229"
 city: Bonn
-street: "Teufelsbachweg"
-housenumber: 3
-phone: "+49 228 9764960"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-16:00"
-website: "http://www.autohaus2d.de/"
+street: Teufelsbachweg
+housenumber: "3"
+phone: +49 228 9764960
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-16:00
+website: http://www.autohaus2d.de/

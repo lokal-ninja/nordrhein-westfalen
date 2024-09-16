@@ -1,11 +1,11 @@
 id: 27616639
-type: way
+type: node
 latitude: 51.47101
 longitude: 6.95687
 postcode: "45355"
 city: Essen
-street: "Wolfsbankring"
-housenumber: 34
+street: Wolfsbankring
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/RHEINRUHR/EH/edeka_Burkowski_Essen_88348/Homepage.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/RHEINRUHR/EH/edeka_Burkowski_Essen_88348/Homepage.html

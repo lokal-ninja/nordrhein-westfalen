@@ -1,11 +1,11 @@
 id: 155787861
-type: way
+type: node
 latitude: 51.6132
 longitude: 7.31651
 postcode: "44577"
 city: Castrop-Rauxel
-street: "Dattelner Straße"
-housenumber: 30
+street: Dattelner Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

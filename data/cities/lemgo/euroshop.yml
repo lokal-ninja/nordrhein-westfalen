@@ -4,8 +4,8 @@ latitude: 52.02841
 longitude: 8.89744
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 103
-phone: "+49 931 90004110"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://euroshop-online.de"
+street: Mittelstraße
+housenumber: "103"
+phone: +49 931 90004110
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://euroshop-online.de

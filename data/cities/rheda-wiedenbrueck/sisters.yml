@@ -1,11 +1,11 @@
 id: 251795101
-type: way
+type: node
 latitude: 51.85435
 longitude: 8.2925
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Berliner Straße"
-housenumber: 53
+street: Berliner Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

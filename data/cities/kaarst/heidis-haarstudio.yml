@@ -1,11 +1,11 @@
 id: 87370295
-type: way
+type: node
 latitude: 51.19541
 longitude: 6.6081
 postcode: "41564"
 city: Kaarst
-street: "Rathausplatz"
-housenumber: 4
+street: Rathausplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

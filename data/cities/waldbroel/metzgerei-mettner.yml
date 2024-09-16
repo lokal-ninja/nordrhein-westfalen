@@ -1,11 +1,11 @@
 id: 337574132
-type: way
+type: node
 latitude: 50.87496
 longitude: 7.6154
 postcode: "51545"
 city: Waldbröl
-street: "Querstraße"
-housenumber: 5
+street: Querstraße
+housenumber: "5"
 phone: "+4922912219"
 opening_hours: ""
 website: ""

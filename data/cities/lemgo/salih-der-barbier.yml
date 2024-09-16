@@ -1,11 +1,11 @@
 id: 251754692
-type: way
+type: node
 latitude: 52.02628
 longitude: 8.89154
 postcode: "32657"
 city: Lemgo
-street: "Steinweg"
-housenumber: 25
+street: Steinweg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

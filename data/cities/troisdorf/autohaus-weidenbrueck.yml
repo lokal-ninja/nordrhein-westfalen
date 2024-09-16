@@ -1,11 +1,11 @@
 id: 109262662
-type: way
+type: node
 latitude: 50.82284
 longitude: 7.10962
 postcode: "53842"
 city: Troisdorf
-street: "Langbaurghstraße"
-housenumber: 12
+street: Langbaurghstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

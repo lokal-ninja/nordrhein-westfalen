@@ -4,8 +4,8 @@ latitude: 52.00787
 longitude: 8.56295
 postcode: "33605"
 city: Bielefeld
-street: "Schweriner Straße"
-housenumber: 4
+street: Schweriner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://multicycle.de/cube-store-bielefeld"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://multicycle.de/cube-store-bielefeld

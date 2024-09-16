@@ -1,11 +1,11 @@
 id: 902045270
-type: way
+type: node
 latitude: 51.4816
 longitude: 7.14258
 postcode: "44866"
 city: Bochum
-street: "Voedestraße"
-housenumber: 76
+street: Voedestraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

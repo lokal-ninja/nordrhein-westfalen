@@ -1,11 +1,11 @@
 id: 26793191
-type: way
+type: node
 latitude: 52.10947
 longitude: 7.61281
 postcode: "48268"
 city: Greven
-street: "Saerbecker Straße"
-housenumber: 128
+street: Saerbecker Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/"
+website: https://www.aldi-nord.de/

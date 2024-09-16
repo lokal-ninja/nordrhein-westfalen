@@ -1,11 +1,11 @@
 id: 304359965
-type: way
+type: node
 latitude: 51.76642
 longitude: 6.60126
 postcode: "46499"
 city: Hamminkeln
-street: "Zum Tollberg"
-housenumber: 27
-phone: "+49 (0) 28 52 9 40 04"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-16:00; Su 09:30-13:00"
-website: "https://gemuesehof-bielefeld.de/"
+street: Zum Tollberg
+housenumber: "27"
+phone: +49 (0) 28 52 9 40 04
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-16:00; Su 09:30-13:00
+website: https://gemuesehof-bielefeld.de/

@@ -1,11 +1,11 @@
 id: 243902699
-type: way
+type: node
 latitude: 51.8216
 longitude: 8.43332
 postcode: "33397"
 city: Rietberg
-street: "Konrad-Adenauer-Straße"
-housenumber: 6
+street: Konrad-Adenauer-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

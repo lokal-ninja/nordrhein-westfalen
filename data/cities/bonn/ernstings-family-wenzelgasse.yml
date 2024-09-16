@@ -4,8 +4,8 @@ latitude: 50.73622
 longitude: 7.1022
 postcode: "53111"
 city: Bonn
-street: "Wenzelgasse"
-housenumber: 11
+street: Wenzelgasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://service.ernstings-family.de/filialen/1483/53111-bonn-wenzelgasse-11"
+opening_hours: Mo-Sa 09:00-19:00
+website: http://service.ernstings-family.de/filialen/1483/53111-bonn-wenzelgasse-11

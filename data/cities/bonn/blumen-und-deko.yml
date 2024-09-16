@@ -4,8 +4,8 @@ latitude: 50.71268
 longitude: 7.10952
 postcode: "53129"
 city: Bonn
-street: "Pützstraße"
-housenumber: 44
+street: Pützstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; We 09:00-13:00; Sa 09:00-14:00"
-website: "http://www.blumenunddeko.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:30; We 09:00-13:00; Sa 09:00-14:00
+website: http://www.blumenunddeko.de/

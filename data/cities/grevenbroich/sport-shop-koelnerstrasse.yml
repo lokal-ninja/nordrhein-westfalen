@@ -1,11 +1,11 @@
 id: 261585060
-type: way
+type: node
 latitude: 51.08801
 longitude: 6.59212
 postcode: "41515"
 city: Grevenbroich
-street: "Kölner Straße"
-housenumber: 39
+street: Kölner Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-We 09:30-18:30; Th,Fr 09:30-19:00; Sa 09:30-15:00"
+opening_hours: Mo-We 09:30-18:30; Th,Fr 09:30-19:00; Sa 09:30-15:00
 website: ""

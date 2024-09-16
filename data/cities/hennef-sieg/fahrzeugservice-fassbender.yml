@@ -1,11 +1,11 @@
 id: 201626258
-type: way
+type: node
 latitude: 50.73499
 longitude: 7.33225
 postcode: ""
 city: Hennef (Sieg)
-street: "Doppelsgarten"
-housenumber: 5
+street: Doppelsgarten
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

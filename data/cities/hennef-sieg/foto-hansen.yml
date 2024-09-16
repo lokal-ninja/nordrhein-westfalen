@@ -1,11 +1,11 @@
 id: 142496493
-type: way
+type: node
 latitude: 50.77392
 longitude: 7.28568
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Bahnhofpassage"
-housenumber: 8
+street: Bahnhofpassage
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.foto-hansen.de"
+website: https://www.foto-hansen.de

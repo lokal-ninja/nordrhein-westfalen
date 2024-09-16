@@ -1,11 +1,11 @@
 id: 252684414
-type: way
+type: node
 latitude: 50.72106
 longitude: 7.04148
 postcode: "53123"
 city: Bonn
-street: "Bahnhofstraße"
-housenumber: 161
-phone: "+49 228 62 65 92"
-opening_hours: "Fr 15:00-19:00; Sa 10:30-16:00"
+street: Bahnhofstraße
+housenumber: "161"
+phone: +49 228 62 65 92
+opening_hours: Fr 15:00-19:00; Sa 10:30-16:00
 website: ""

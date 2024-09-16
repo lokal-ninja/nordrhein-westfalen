@@ -1,11 +1,11 @@
 id: 116682862
-type: way
+type: node
 latitude: 50.79896
 longitude: 7.12761
 postcode: "53844"
 city: Troisdorf
-street: "Larstraße"
-housenumber: 159
-phone: "+49 2241  96 070"
-opening_hours: "Mo-Fr 06:00-12:30,14:30-18:30; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.broehl.net/"
+street: Larstraße
+housenumber: "159"
+phone: +49 2241  96 070
+opening_hours: Mo-Fr 06:00-12:30,14:30-18:30; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.broehl.net/

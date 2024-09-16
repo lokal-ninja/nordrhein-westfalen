@@ -4,8 +4,9 @@ latitude: 51.34627
 longitude: 6.61726
 postcode: "47800"
 city: Krefeld
-street: "Bockumer Platz"
+street: Bockumer Platz
 housenumber: 5-5a
-phone: "+49 (0) 02151 1533365"
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:00,15:00-18:30; We 09:30-13:00,15:00-18:00; Sa 09:30-13:00"
-website: "https://www.radsport-weyers.de/"
+phone: +49 (0) 02151 1533365
+opening_hours: Mo,Tu,Th,Fr 09:30-13:00,15:00-18:30; We 09:30-13:00,15:00-18:00; Sa
+    09:30-13:00
+website: https://www.radsport-weyers.de/

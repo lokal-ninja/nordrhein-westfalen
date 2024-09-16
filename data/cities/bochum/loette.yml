@@ -1,11 +1,11 @@
 id: 119890793
-type: way
+type: node
 latitude: 51.48185
 longitude: 7.22004
 postcode: "44787"
 city: Bochum
-street: "Bongardstraße"
-housenumber: 31
-phone: "+49 234 60797"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.loette.de/"
+street: Bongardstraße
+housenumber: "31"
+phone: +49 234 60797
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.loette.de/

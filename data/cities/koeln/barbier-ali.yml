@@ -4,8 +4,8 @@ latitude: 50.88122
 longitude: 7.07595
 postcode: "51145"
 city: Köln
-street: "Kaiserstraße"
-housenumber: 78
+street: Kaiserstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
+opening_hours: Mo-Sa 09:00-19:00; PH off
 website: ""

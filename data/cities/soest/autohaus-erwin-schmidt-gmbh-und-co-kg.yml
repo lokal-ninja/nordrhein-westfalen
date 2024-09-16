@@ -1,11 +1,11 @@
 id: 550169101
-type: way
+type: node
 latitude: 51.56013
 longitude: 8.10416
 postcode: "59494"
 city: Soest
-street: "Arnsberger Straße"
-housenumber: 30
+street: Arnsberger Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.autowelt-schmidt.de/"
+website: https://www.autowelt-schmidt.de/

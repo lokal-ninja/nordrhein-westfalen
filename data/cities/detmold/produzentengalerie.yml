@@ -4,8 +4,8 @@ latitude: 51.93826
 longitude: 8.88423
 postcode: "32756"
 city: Detmold
-street: "Richthofenstraße"
-housenumber: 16
+street: Richthofenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "und nach Vereinbarung"
+opening_hours: '"und nach Vereinbarung"'
 website: ""

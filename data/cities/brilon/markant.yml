@@ -4,8 +4,8 @@ latitude: 51.39584
 longitude: 8.57113
 postcode: "59929"
 city: Brilon
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 2961 743075"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://www.mein-markant.de/maerkte/oeffnungszeiten/markt-im-detail?tx_sharpnessmarkt_sharpnessmarktdetail%5Buid%5D=187&cHash=4c1b78f2f57c42e0f82ce601aa1487c2"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 2961 743075
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
+website: https://www.mein-markant.de/maerkte/oeffnungszeiten/markt-im-detail?tx_sharpnessmarkt_sharpnessmarktdetail%5Buid%5D=187&cHash=4c1b78f2f57c42e0f82ce601aa1487c2

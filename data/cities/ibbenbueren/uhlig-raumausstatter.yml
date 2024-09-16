@@ -1,11 +1,11 @@
 id: 182588951
-type: way
+type: node
 latitude: 52.29663
 longitude: 7.65603
 postcode: "49479"
 city: Ibbenbüren
-street: "Zur Post"
-housenumber: 5
+street: Zur Post
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

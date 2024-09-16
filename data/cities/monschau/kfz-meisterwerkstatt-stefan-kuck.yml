@@ -1,11 +1,11 @@
 id: 140546372
-type: way
+type: node
 latitude: 50.57554
 longitude: 6.22735
 postcode: "52156"
 city: Monschau
-street: "Schiffenborn"
-housenumber: 63
+street: Schiffenborn
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

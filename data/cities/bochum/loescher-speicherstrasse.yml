@@ -4,8 +4,8 @@ latitude: 51.49999
 longitude: 7.20471
 postcode: "44809"
 city: Bochum
-street: "Speicherstraße"
-housenumber: 2
+street: Speicherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.baeckerei-loescher.de/filialen/bochum-hofstede-im-kaufland/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.baeckerei-loescher.de/filialen/bochum-hofstede-im-kaufland/

@@ -1,11 +1,11 @@
 id: 104353042
-type: way
+type: node
 latitude: 50.80011
 longitude: 7.19446
 postcode: "53721"
 city: Siegburg
-street: "Industriestraße"
-housenumber: 43
-phone: "+49 2241 976404"
+street: Industriestraße
+housenumber: "43"
+phone: +49 2241 976404
 opening_hours: ""
-website: "http://www.zweiradtechnik-kitz.de"
+website: http://www.zweiradtechnik-kitz.de

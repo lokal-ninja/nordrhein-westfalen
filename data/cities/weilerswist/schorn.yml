@@ -1,11 +1,11 @@
 id: 465174794
-type: way
+type: node
 latitude: 50.71142
 longitude: 6.81439
 postcode: "53919"
 city: Weilerswist
-street: "Euskirchener Straße"
-housenumber: 104
+street: Euskirchener Straße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-13:00
 website: ""

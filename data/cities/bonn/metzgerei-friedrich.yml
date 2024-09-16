@@ -4,8 +4,8 @@ latitude: 50.72622
 longitude: 7.10112
 postcode: "53113"
 city: Bonn
-street: "Bonner Talweg"
-housenumber: 36
-phone: "+49 228 219388"
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-18:30; Sa 08:00-14:00"
+street: Bonner Talweg
+housenumber: "36"
+phone: +49 228 219388
+opening_hours: Tu-Th 08:30-18:00; Fr 08:30-18:30; Sa 08:00-14:00
 website: ""

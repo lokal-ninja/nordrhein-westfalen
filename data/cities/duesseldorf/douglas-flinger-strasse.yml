@@ -4,8 +4,8 @@ latitude: 51.22528
 longitude: 6.7748
 postcode: "40213"
 city: Düsseldorf
-street: "Flinger Straße"
-housenumber: 33
-phone: "+49 211-3239977"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.douglas.de/"
+street: Flinger Straße
+housenumber: "33"
+phone: +49 211-3239977
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.douglas.de/

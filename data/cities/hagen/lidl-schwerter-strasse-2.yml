@@ -1,11 +1,11 @@
 id: 45542061
-type: way
+type: node
 latitude: 51.38586
 longitude: 7.45522
 postcode: "58099"
 city: Hagen
-street: "Schwerter Straße"
-housenumber: 22
+street: Schwerter Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

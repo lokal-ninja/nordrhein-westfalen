@@ -4,8 +4,8 @@ latitude: 51.19519
 longitude: 6.55305
 postcode: "41352"
 city: Korschenbroich
-street: "Ladestraße"
-housenumber: 3
+street: Ladestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30, Sa 10:00-13:00, Tu,Th 15:00-18:30"
-website: "https://beautypure.de/"
+opening_hours: Tu-Fr 10:00-12:30, Sa 10:00-13:00, Tu,Th 15:00-18:30
+website: https://beautypure.de/

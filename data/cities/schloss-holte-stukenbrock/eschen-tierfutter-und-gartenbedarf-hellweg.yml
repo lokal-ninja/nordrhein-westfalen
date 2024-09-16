@@ -4,8 +4,8 @@ latitude: 51.9207
 longitude: 8.60001
 postcode: "33758"
 city: Schloß Holte-Stukenbrock
-street: "Hellweg"
-housenumber: 105
-phone: "+49 5207 920461"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00; Su,PH off"
-website: "http://www.gartenbedarf-eschen.de/"
+street: Hellweg
+housenumber: "105"
+phone: +49 5207 920461
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00; Su,PH off
+website: http://www.gartenbedarf-eschen.de/

@@ -4,8 +4,8 @@ latitude: 50.80772
 longitude: 6.14861
 postcode: "52146"
 city: Würselen
-street: "Schumanstraße"
-housenumber: 2
-phone: "+49 2405 6050"
-opening_hours: "Mo-Th 07:30-16:00; Fr 07:30-15:00"
-website: "https://biron-jansen.de/"
+street: Schumanstraße
+housenumber: "2"
+phone: +49 2405 6050
+opening_hours: Mo-Th 07:30-16:00; Fr 07:30-15:00
+website: https://biron-jansen.de/

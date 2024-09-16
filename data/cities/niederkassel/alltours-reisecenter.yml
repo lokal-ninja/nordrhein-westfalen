@@ -1,11 +1,11 @@
 id: 178942989
-type: way
+type: node
 latitude: 50.82999
 longitude: 7.01321
 postcode: "53859"
 city: Niederkassel
-street: "Rheinstraße"
-housenumber: 12
-phone: "+49 2208 919596"
+street: Rheinstraße
+housenumber: "12"
+phone: +49 2208 919596
 opening_hours: ""
 website: ""

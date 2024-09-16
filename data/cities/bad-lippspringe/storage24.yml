@@ -1,11 +1,11 @@
 id: 691831814
-type: way
+type: node
 latitude: 51.77866
 longitude: 8.79487
 postcode: "33175"
 city: Bad Lippspringe
-street: "Raiffeisenstraße"
-housenumber: 18
+street: Raiffeisenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

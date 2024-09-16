@@ -4,8 +4,8 @@ latitude: 50.88337
 longitude: 7.0601
 postcode: "51143"
 city: Köln
-street: "Bahnhofstraße"
-housenumber: 45
+street: Bahnhofstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
+opening_hours: Mo-Sa 09:00-20:00; PH off
 website: ""

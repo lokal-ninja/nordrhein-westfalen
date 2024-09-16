@@ -1,11 +1,11 @@
 id: 248804382
-type: way
+type: node
 latitude: 51.36768
 longitude: 8.43058
 postcode: "59909"
 city: Bestwig
-street: "Briloner Straße"
-housenumber: 51
-phone: "+49 2904 2232"
-opening_hours: "Geschlossen"
+street: Briloner Straße
+housenumber: "51"
+phone: +49 2904 2232
+opening_hours: '"Geschlossen"'
 website: ""

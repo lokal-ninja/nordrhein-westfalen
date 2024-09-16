@@ -4,8 +4,8 @@ latitude: 51.68077
 longitude: 7.81642
 postcode: "59065"
 city: Hamm
-street: "Weststraße"
-housenumber: 27
-phone: "+49 2381 926110"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-18:00; Su,PH off"
-website: "https://www.bonita.de/"
+street: Weststraße
+housenumber: "27"
+phone: +49 2381 926110
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-18:00; Su,PH off
+website: https://www.bonita.de/

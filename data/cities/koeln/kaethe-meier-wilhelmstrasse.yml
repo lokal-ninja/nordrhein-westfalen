@@ -4,8 +4,8 @@ latitude: 50.96298
 longitude: 6.95348
 postcode: "50733"
 city: Köln
-street: "Wilhelmstraße"
-housenumber: 52
-phone: "+49 221 346 660 46"
-opening_hours: "Th,Fr 10:00-13:00, Th 15:00-18:00, Sa 11:00-14:00"
-website: "https://www.kaethe-meier.de/"
+street: Wilhelmstraße
+housenumber: "52"
+phone: +49 221 346 660 46
+opening_hours: Th,Fr 10:00-13:00, Th 15:00-18:00, Sa 11:00-14:00
+website: https://www.kaethe-meier.de/

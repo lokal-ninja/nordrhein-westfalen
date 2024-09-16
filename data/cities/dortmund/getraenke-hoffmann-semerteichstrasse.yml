@@ -1,11 +1,11 @@
 id: 53549283
-type: way
+type: node
 latitude: 51.50739
 longitude: 7.49807
 postcode: "44141"
 city: Dortmund
-street: "Semerteichstraße"
-housenumber: 25
+street: Semerteichstraße
+housenumber: "25"
 phone: "+49231596454"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"
-website: "https://www.dursty.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-16:00
+website: https://www.dursty.de/

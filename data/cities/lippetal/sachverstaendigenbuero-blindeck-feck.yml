@@ -1,11 +1,11 @@
 id: 47855367
-type: way
+type: node
 latitude: 51.63419
 longitude: 8.09479
 postcode: "59510"
 city: Lippetal
-street: "Mühlenbrink"
+street: Mühlenbrink
 housenumber: 33a
-phone: "+49 2923 980776; +49 170 9182151"
-opening_hours: "08:00-17:00"
+phone: +49 2923 980776; +49 170 9182151
+opening_hours: 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.50714
 longitude: 7.101
 postcode: "45879"
 city: Gelsenkirchen
-street: "Weberstraße"
-housenumber: 19
+street: Weberstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.ap-datentechnik.de/"
+website: https://www.ap-datentechnik.de/

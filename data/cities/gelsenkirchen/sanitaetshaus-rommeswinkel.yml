@@ -4,8 +4,8 @@ latitude: 51.58033
 longitude: 7.049
 postcode: "45894"
 city: Gelsenkirchen
-street: "Hochstraße"
-housenumber: 72
+street: Hochstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; PH,Su off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; PH,Su off
 website: ""

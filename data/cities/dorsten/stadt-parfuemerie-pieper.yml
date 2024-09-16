@@ -1,11 +1,11 @@
 id: 190347292
-type: way
+type: node
 latitude: 51.66099
 longitude: 6.9636
 postcode: "46282"
 city: Dorsten
-street: "Lippestraße"
-housenumber: 12
-phone: "+49 2362 970091"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off"
-website: "https://www.parfuemerie-pieper.de"
+street: Lippestraße
+housenumber: "12"
+phone: +49 2362 970091
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH off
+website: https://www.parfuemerie-pieper.de

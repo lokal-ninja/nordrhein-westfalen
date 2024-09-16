@@ -4,8 +4,8 @@ latitude: 50.77224
 longitude: 7.21218
 postcode: "53757"
 city: Sankt Augustin
-street: "Schulstraße"
-housenumber: 5
-phone: "+49 2241 3193112"
-opening_hours: "Mo-Sa 07:00-21:30; Su,PH 8:00-12:00"
-website: "https://www.baeckerei-hardt.de/"
+street: Schulstraße
+housenumber: "5"
+phone: +49 2241 3193112
+opening_hours: Mo-Sa 07:00-21:30; Su,PH 8:00-12:00
+website: https://www.baeckerei-hardt.de/

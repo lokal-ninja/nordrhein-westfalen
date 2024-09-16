@@ -4,8 +4,8 @@ latitude: 51.1942
 longitude: 8.53559
 postcode: "59955"
 city: Winterberg
-street: "Hauptstraße"
-housenumber: 13
+street: Hauptstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "http://www.sanitaetshaus-kienzle.de"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: http://www.sanitaetshaus-kienzle.de

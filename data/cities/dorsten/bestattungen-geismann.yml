@@ -1,11 +1,11 @@
 id: 218513383
-type: way
+type: node
 latitude: 51.6697
 longitude: 6.97887
 postcode: "46284"
 city: Dorsten
-street: "Burgsdorffstraße"
-housenumber: 1
+street: Burgsdorffstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

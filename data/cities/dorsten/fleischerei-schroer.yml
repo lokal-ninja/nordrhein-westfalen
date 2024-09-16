@@ -1,11 +1,11 @@
 id: 198380303
-type: way
+type: node
 latitude: 51.71977
 longitude: 7.01348
 postcode: "46286"
 city: Dorsten
-street: "Hervester Straße"
-housenumber: 10
+street: Hervester Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-13:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-13:00; PH off
 website: ""

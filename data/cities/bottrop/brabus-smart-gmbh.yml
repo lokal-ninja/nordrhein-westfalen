@@ -1,11 +1,11 @@
 id: 44732484
-type: way
+type: node
 latitude: 51.5452
 longitude: 6.92414
 postcode: "46240"
 city: Bottrop
-street: "Am Vorthbach"
-housenumber: 50
+street: Am Vorthbach
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.brabus.com/"
+website: https://www.brabus.com/

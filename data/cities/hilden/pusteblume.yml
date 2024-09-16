@@ -4,8 +4,8 @@ latitude: 51.17859
 longitude: 6.92731
 postcode: "40721"
 city: Hilden
-street: "Gerresheimer Straße"
-housenumber: 156
-phone: "+49 2103 41633"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00; PH off"
-website: "https://www.pusteblume-hilden.de/"
+street: Gerresheimer Straße
+housenumber: "156"
+phone: +49 2103 41633
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00; PH off
+website: https://www.pusteblume-hilden.de/

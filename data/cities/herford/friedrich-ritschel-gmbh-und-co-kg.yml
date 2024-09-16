@@ -1,11 +1,11 @@
 id: 177977080
-type: way
+type: node
 latitude: 52.12687
 longitude: 8.63682
 postcode: "32051"
 city: Herford
-street: "Mittelweg"
-housenumber: 22
+street: Mittelweg
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.ritschelkg.com/"
+website: http://www.ritschelkg.com/

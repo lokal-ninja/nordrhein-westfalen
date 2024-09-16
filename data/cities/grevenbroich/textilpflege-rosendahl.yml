@@ -1,11 +1,11 @@
 id: 267831086
-type: way
+type: node
 latitude: 51.10704
 longitude: 6.62368
 postcode: "41516"
 city: Grevenbroich
-street: "Marktplatz"
-housenumber: 10
+street: Marktplatz
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

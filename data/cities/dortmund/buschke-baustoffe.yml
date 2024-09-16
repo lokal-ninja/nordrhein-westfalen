@@ -1,11 +1,11 @@
 id: 54848687
-type: way
+type: node
 latitude: 51.51723
 longitude: 7.49874
 postcode: "44143"
 city: Dortmund
-street: "Erfurter Straße"
-housenumber: 13
+street: Erfurter Straße
+housenumber: "13"
 phone: "+49231515006"
 opening_hours: ""
-website: "http://www.baustoffe-shop.com/"
+website: http://www.baustoffe-shop.com/

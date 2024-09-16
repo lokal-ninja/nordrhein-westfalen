@@ -4,8 +4,8 @@ latitude: 51.18784
 longitude: 6.84946
 postcode: "40589"
 city: Düsseldorf
-street: "Oerschbachstraße"
-housenumber: 75
+street: Oerschbachstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-22:00; Sa 09:00-20:00"
-website: "https://www.ikea.com/de/de/store/duesseldorf"
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-22:00; Sa 09:00-20:00
+website: https://www.ikea.com/de/de/store/duesseldorf

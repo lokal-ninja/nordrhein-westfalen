@@ -1,11 +1,11 @@
 id: 243670287
-type: way
+type: node
 latitude: 51.56869
 longitude: 8.3128
 postcode: "59609"
 city: Anröchte
-street: "Boschstraße"
-housenumber: 7
+street: Boschstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

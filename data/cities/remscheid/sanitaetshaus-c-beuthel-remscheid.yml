@@ -4,8 +4,8 @@ latitude: 51.18105
 longitude: 7.18753
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 66
-phone: "+49 21917931790"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00"
-website: "https://www.beuthel.de/"
+street: Alleestraße
+housenumber: "66"
+phone: +49 21917931790
+opening_hours: Mo-Fr 08:30-18:00; Sa 10:00-13:00
+website: https://www.beuthel.de/

@@ -1,11 +1,11 @@
 id: 332879174
-type: way
+type: node
 latitude: 51.48987
 longitude: 7.7802
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Hohenheide"
-housenumber: 89
-phone: "+49 23733960090"
-opening_hours: "Mo-Fr 06:30-13:00,15:00-18:30; Sa 06:30-13:00,15:00-18:00; Su 08:00-11:00"
+street: Hohenheide
+housenumber: "89"
+phone: +49 23733960090
+opening_hours: Mo-Fr 06:30-13:00,15:00-18:30; Sa 06:30-13:00,15:00-18:00; Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.19587
 longitude: 6.76923
 postcode: "40223"
 city: Düsseldorf
-street: "Aachener Straße"
-housenumber: 202
+street: Aachener Straße
+housenumber: "202"
 phone: "+49211151305"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
 website: ""

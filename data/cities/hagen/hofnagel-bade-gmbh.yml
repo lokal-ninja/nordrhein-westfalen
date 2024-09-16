@@ -4,8 +4,8 @@ latitude: 51.38202
 longitude: 7.51054
 postcode: "58093"
 city: Hagen
-street: "Werkzeugstraße"
-housenumber: 2
-phone: "+49 2331 35850"
-opening_hours: "Mo-Fr 06:30-17:30; Sa 07:00-14:00"
-website: "https://www.hofnagel-bade.de"
+street: Werkzeugstraße
+housenumber: "2"
+phone: +49 2331 35850
+opening_hours: Mo-Fr 06:30-17:30; Sa 07:00-14:00
+website: https://www.hofnagel-bade.de

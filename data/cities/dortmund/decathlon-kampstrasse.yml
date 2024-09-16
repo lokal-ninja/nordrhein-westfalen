@@ -4,8 +4,8 @@ latitude: 51.51519
 longitude: 7.46449
 postcode: "44137"
 city: Dortmund
-street: "Kampstraße"
-housenumber: 5
+street: Kampstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

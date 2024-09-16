@@ -1,11 +1,11 @@
 id: 239295698
-type: way
+type: node
 latitude: 51.41343
 longitude: 7.07699
 postcode: "45277"
 city: Essen
-street: "Langenberger Straße"
-housenumber: 590
+street: Langenberger Straße
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

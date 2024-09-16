@@ -4,8 +4,8 @@ latitude: 51.19076
 longitude: 6.51493
 postcode: "41352"
 city: Korschenbroich
-street: "Steinstraße"
-housenumber: 17
-phone: "+49 2161 9049292"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-14:00"
-website: "https://www.atongarix.de"
+street: Steinstraße
+housenumber: "17"
+phone: +49 2161 9049292
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-14:00
+website: https://www.atongarix.de

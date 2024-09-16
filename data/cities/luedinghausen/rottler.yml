@@ -4,8 +4,8 @@ latitude: 51.77157
 longitude: 7.44482
 postcode: "59348"
 city: Lüdinghausen
-street: "Markt"
-housenumber: 7
+street: Markt
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.brillen-rottler.de/luedinghausen"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.brillen-rottler.de/luedinghausen

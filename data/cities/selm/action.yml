@@ -4,8 +4,8 @@ latitude: 51.69259
 longitude: 7.46755
 postcode: "59379"
 city: Selm
-street: "Kreisstraße"
-housenumber: 41
+street: Kreisstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/selm-kreisstrabe/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/selm-kreisstrabe/

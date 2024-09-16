@@ -1,11 +1,11 @@
 id: 57384706
-type: way
+type: node
 latitude: 51.43453
 longitude: 6.54648
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Inneboltstraße"
-housenumber: 99
+street: Inneboltstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00"
-website: "https://toom.de/m/neukirchen-vluyn/"
+opening_hours: Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00
+website: https://toom.de/m/neukirchen-vluyn/

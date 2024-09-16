@@ -4,8 +4,8 @@ latitude: 51.48124
 longitude: 7.1352
 postcode: "44866"
 city: Bochum
-street: "Voedestraße"
-housenumber: 1
+street: Voedestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-14:00,15:00-18:00, We,Sa 09:30-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:30-14:00,15:00-18:00, We,Sa 09:30-13:00
 website: ""

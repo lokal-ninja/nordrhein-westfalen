@@ -1,11 +1,11 @@
 id: 1144774474
-type: way
+type: node
 latitude: 51.14928
 longitude: 7.02405
 postcode: "42699"
 city: Solingen
-street: "Löhdorfer Straße"
-housenumber: 195
-phone: "+49-212-62727"
-opening_hours: "24/7"
-website: "https://www.esso.de/"
+street: Löhdorfer Straße
+housenumber: "195"
+phone: +49-212-62727
+opening_hours: 24/7
+website: https://www.esso.de/

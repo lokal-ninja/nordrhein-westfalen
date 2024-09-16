@@ -4,8 +4,8 @@ latitude: 50.73969
 longitude: 7.10117
 postcode: "53111"
 city: Bonn
-street: "Theaterstraße"
-housenumber: 18
-phone: "+49 228 29975500"
+street: Theaterstraße
+housenumber: "18"
+phone: +49 228 29975500
 opening_hours: ""
-website: "https://www.compramos.de"
+website: https://www.compramos.de

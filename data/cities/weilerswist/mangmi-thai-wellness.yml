@@ -1,11 +1,11 @@
 id: 344941199
-type: way
+type: node
 latitude: 50.75945
 longitude: 6.84188
 postcode: "53919"
 city: Weilerswist
-street: "Kölner Straße"
-housenumber: 176
-phone: "+492254 3534853"
-opening_hours: "Su-Fr 10:00-19:00; Sa 10:00-16:00"
+street: Kölner Straße
+housenumber: "176"
+phone: +492254 3534853
+opening_hours: Su-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1091877649
-type: way
+type: node
 latitude: 51.96257
 longitude: 8.51827
 postcode: "33659"
 city: Bielefeld
-street: "Windelsbleicher Straße"
+street: Windelsbleicher Straße
 housenumber: 210a
-phone: "+49 521 43060450"
-opening_hours: "Mo-Sa 07:00-22:00"
+phone: +49 521 43060450
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

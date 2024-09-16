@@ -1,11 +1,11 @@
 id: 41657860
-type: way
+type: node
 latitude: 51.11681
 longitude: 6.32975
 postcode: "41844"
 city: Wegberg
-street: "August-Horch-Allee"
-housenumber: 3
+street: August-Horch-Allee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:10; Sa 09:00-13:00;Su, PH off"
+opening_hours: Mo-Fr 08:00-18:10; Sa 09:00-13:00;Su, PH off
 website: ""

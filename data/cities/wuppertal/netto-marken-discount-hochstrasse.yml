@@ -4,8 +4,8 @@ latitude: 51.26122
 longitude: 7.14026
 postcode: "42105"
 city: Wuppertal
-street: "Hochstraße"
-housenumber: 56
+street: Hochstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
 website: ""

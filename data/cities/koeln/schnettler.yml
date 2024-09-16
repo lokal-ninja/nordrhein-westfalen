@@ -1,11 +1,11 @@
 id: 155440122
-type: way
+type: node
 latitude: 50.85605
 longitude: 7.08693
 postcode: "51147"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 171
+street: Frankfurter Straße
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

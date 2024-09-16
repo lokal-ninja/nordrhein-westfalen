@@ -4,8 +4,8 @@ latitude: 51.89986
 longitude: 7.18807
 postcode: "48653"
 city: Coesfeld
-street: "Coesfelder Straße"
-housenumber: 42
-phone: "+49 2546 98000"
-opening_hours: "Mo-Fr 09:30-12:30, 14:30-18:30; Sa, Su off"
-website: "http://www.brocks-sport.de/"
+street: Coesfelder Straße
+housenumber: "42"
+phone: +49 2546 98000
+opening_hours: Mo-Fr 09:30-12:30, 14:30-18:30; Sa, Su off
+website: http://www.brocks-sport.de/

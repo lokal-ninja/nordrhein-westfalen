@@ -1,11 +1,11 @@
 id: 156709800
-type: way
+type: node
 latitude: 51.77641
 longitude: 6.12061
 postcode: "47533"
 city: Kleve
-street: "Hoffmannallee"
-housenumber: 118
+street: Hoffmannallee
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

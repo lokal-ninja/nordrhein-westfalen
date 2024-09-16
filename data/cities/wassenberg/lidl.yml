@@ -1,11 +1,11 @@
 id: 116503930
-type: way
+type: node
 latitude: 51.09147
 longitude: 6.1568
 postcode: "41849"
 city: Wassenberg
-street: "Weilerstraße"
-housenumber: 55
+street: Weilerstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

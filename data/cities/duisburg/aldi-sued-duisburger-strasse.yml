@@ -1,11 +1,11 @@
 id: 152408890
-type: way
+type: node
 latitude: 51.49575
 longitude: 6.77038
 postcode: "47166"
 city: Duisburg
-street: "Duisburger Straße"
-housenumber: 232
+street: Duisburger Straße
+housenumber: "232"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/duisburg/duisburger-strasse-232"
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/duisburg/duisburger-strasse-232

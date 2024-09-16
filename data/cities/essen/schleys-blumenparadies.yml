@@ -1,11 +1,11 @@
 id: 27213876
-type: way
+type: node
 latitude: 51.40518
 longitude: 6.95154
 postcode: "45149"
 city: Essen
-street: "Lilienthalstraße"
-housenumber: 30
-phone: "+49 201 289900"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su, PH 10:30-15:30"
-website: "https://www.schley.de/"
+street: Lilienthalstraße
+housenumber: "30"
+phone: +49 201 289900
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su, PH 10:30-15:30
+website: https://www.schley.de/

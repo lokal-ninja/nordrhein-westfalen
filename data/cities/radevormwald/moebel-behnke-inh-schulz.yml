@@ -4,8 +4,8 @@ latitude: 51.20215
 longitude: 7.36149
 postcode: "42477"
 city: Radevormwald
-street: "Kaiserstraße"
-housenumber: 130
-phone: "+49 2195 67730"
-opening_hours: "Mo-Fr 09:00-13:30,14:30-18:30, Sa 09:00-14:00"
-website: "https://www.moebel-behnke.de/"
+street: Kaiserstraße
+housenumber: "130"
+phone: +49 2195 67730
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:30, Sa 09:00-14:00
+website: https://www.moebel-behnke.de/

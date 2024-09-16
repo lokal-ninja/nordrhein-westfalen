@@ -4,8 +4,8 @@ latitude: 50.91401
 longitude: 7.19715
 postcode: "51503"
 city: Rösrath
-street: "Hauptstraße"
-housenumber: 248
-phone: "+49 2205 912114"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-11:00"
-website: "https://kamps.de/standort/kamps-baeckerei-roesrath-hoffnungsthal-hauptstrasse-248"
+street: Hauptstraße
+housenumber: "248"
+phone: +49 2205 912114
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-11:00
+website: https://kamps.de/standort/kamps-baeckerei-roesrath-hoffnungsthal-hauptstrasse-248

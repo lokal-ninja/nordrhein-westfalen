@@ -4,8 +4,8 @@ latitude: 50.77432
 longitude: 6.08359
 postcode: "52062"
 city: Aachen
-street: "Schmiedstraße"
-housenumber: 6
-phone: "+49 241 34149"
-opening_hours: "Tu, Th, Fr 10:00-13:00, 14:00-18:00; We 10:00-13:00; Sa 11:00-14:00"
-website: "https://goldschmiede-bruederlin.de"
+street: Schmiedstraße
+housenumber: "6"
+phone: +49 241 34149
+opening_hours: Tu, Th, Fr 10:00-13:00, 14:00-18:00; We 10:00-13:00; Sa 11:00-14:00
+website: https://goldschmiede-bruederlin.de

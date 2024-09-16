@@ -1,11 +1,11 @@
 id: 62171806
-type: way
+type: node
 latitude: 50.80955
 longitude: 7.14771
 postcode: "53842"
 city: Troisdorf
-street: "Hans-Böckler-Straße"
-housenumber: 51
+street: Hans-Böckler-Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

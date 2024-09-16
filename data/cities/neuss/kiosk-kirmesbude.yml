@@ -1,11 +1,11 @@
 id: 92701767
-type: way
+type: node
 latitude: 51.16548
 longitude: 6.68302
 postcode: "41466"
 city: Neuss
-street: "Finkenstraße"
-housenumber: 6
+street: Finkenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00
 website: ""

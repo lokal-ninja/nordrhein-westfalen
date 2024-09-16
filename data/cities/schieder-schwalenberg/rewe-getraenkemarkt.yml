@@ -1,11 +1,11 @@
 id: 28849491
-type: way
+type: node
 latitude: 51.91412
 longitude: 9.14945
 postcode: "32816"
 city: Schieder-Schwalenberg
-street: "Keßlerstraße"
-housenumber: 6
+street: Keßlerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

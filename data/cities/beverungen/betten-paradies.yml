@@ -4,8 +4,8 @@ latitude: 51.66432
 longitude: 9.37368
 postcode: "37688"
 city: Beverungen
-street: "Lange Straße"
-housenumber: 28
+street: Lange Straße
+housenumber: "28"
 phone: "+49527321881"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.schuebeler.de/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.schuebeler.de/

@@ -4,8 +4,8 @@ latitude: 51.24409
 longitude: 6.78042
 postcode: "40476"
 city: Düsseldorf
-street: "Roßstraße"
-housenumber: 36
+street: Roßstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:00-13:00, Su 08:00-12:00"
-website: "https://www.baeckerei-puppe.de/de/derendorf-29.html"
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:00-13:00, Su 08:00-12:00
+website: https://www.baeckerei-puppe.de/de/derendorf-29.html

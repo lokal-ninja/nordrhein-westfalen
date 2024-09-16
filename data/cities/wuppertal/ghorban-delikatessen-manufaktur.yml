@@ -4,8 +4,8 @@ latitude: 51.25084
 longitude: 7.13682
 postcode: "42103"
 city: Wuppertal
-street: "Tannenbergstraße"
-housenumber: 58
+street: Tannenbergstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 07:00-21:00; PH off"
-website: "https://www.ghorban.de/"
+opening_hours: Mo-Fr 08:00-21:00; Sa 07:00-21:00; PH off
+website: https://www.ghorban.de/

@@ -4,8 +4,8 @@ latitude: 50.93812
 longitude: 6.95811
 postcode: "50667"
 city: Köln
-street: "Unter Goldschmied"
-housenumber: 5
+street: Unter Goldschmied
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://www.sukon.de/"
+opening_hours: Mo-Su 11:00-21:00
+website: https://www.sukon.de/

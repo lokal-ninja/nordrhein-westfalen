@@ -4,8 +4,8 @@ latitude: 51.19144
 longitude: 6.67827
 postcode: "41464"
 city: Neuss
-street: "Preußenstraße"
-housenumber: 16
-phone: "+49 2131 80667"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.annas-friseursalons.de/"
+street: Preußenstraße
+housenumber: "16"
+phone: +49 2131 80667
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.annas-friseursalons.de/

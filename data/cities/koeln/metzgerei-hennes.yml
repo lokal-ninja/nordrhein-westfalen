@@ -4,8 +4,8 @@ latitude: 50.86852
 longitude: 7.04754
 postcode: "51143"
 city: Köln
-street: "Schmittgasse"
-housenumber: 30
+street: Schmittgasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:30; Sa 07:00-13:00; PH off"
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:30; Sa 07:00-13:00; PH off
 website: ""

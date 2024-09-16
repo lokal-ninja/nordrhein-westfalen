@@ -4,8 +4,8 @@ latitude: 51.21548
 longitude: 7.63157
 postcode: "58511"
 city: Lüdenscheid
-street: "Schillerstraße"
-housenumber: 2
+street: Schillerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.strodelundjaeger.de/"
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.strodelundjaeger.de/

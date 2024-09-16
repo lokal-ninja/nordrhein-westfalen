@@ -1,11 +1,11 @@
 id: 215088293
-type: way
+type: node
 latitude: 50.79873
 longitude: 6.44654
 postcode: "52355"
 city: Düren
-street: "Valencienner Straße"
-housenumber: 277
+street: Valencienner Straße
+housenumber: "277"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

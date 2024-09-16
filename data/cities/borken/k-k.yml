@@ -4,8 +4,8 @@ latitude: 51.90443
 longitude: 6.78519
 postcode: "46325"
 city: Borken
-street: "Borkener Straße"
-housenumber: 21
-phone: "+49 2862 418110"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.klaas-und-kock.de"
+street: Borkener Straße
+housenumber: "21"
+phone: +49 2862 418110
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.klaas-und-kock.de

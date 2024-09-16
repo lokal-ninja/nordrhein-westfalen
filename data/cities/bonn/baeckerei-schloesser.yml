@@ -4,8 +4,8 @@ latitude: 50.72699
 longitude: 7.14825
 postcode: "53227"
 city: Bonn
-street: "Königswinterer Straße"
-housenumber: 327
-phone: "+49 228 97685208"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "https://baeckerei-schloesser.de/"
+street: Königswinterer Straße
+housenumber: "327"
+phone: +49 228 97685208
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:30-13:00; Su 08:00-11:00
+website: https://baeckerei-schloesser.de/

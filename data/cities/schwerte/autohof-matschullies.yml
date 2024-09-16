@@ -4,8 +4,8 @@ latitude: 51.41808
 longitude: 7.52206
 postcode: "58239"
 city: Schwerte
-street: "Reichshofstraße"
-housenumber: 150
-phone: "+49 2304 64021"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 9:00-14:00"
-website: "https://www.autohof-westhofen.de/werkstatt.html"
+street: Reichshofstraße
+housenumber: "150"
+phone: +49 2304 64021
+opening_hours: Mo-Fr 08:00-17:00; Sa 9:00-14:00
+website: https://www.autohof-westhofen.de/werkstatt.html

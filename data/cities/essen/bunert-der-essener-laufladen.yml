@@ -4,8 +4,8 @@ latitude: 51.42795
 longitude: 7.00266
 postcode: "45131"
 city: Essen
-street: "Rüttenscheider Straße"
-housenumber: 184
+street: Rüttenscheider Straße
+housenumber: "184"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "https://essen.bunert.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
+website: https://essen.bunert.de/

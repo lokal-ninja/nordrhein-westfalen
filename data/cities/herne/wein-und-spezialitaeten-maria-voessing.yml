@@ -4,8 +4,8 @@ latitude: 51.53889
 longitude: 7.22255
 postcode: "44623"
 city: Herne
-street: "Behrensstraße"
-housenumber: 9
-phone: "+49 170 1515312"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
+street: Behrensstraße
+housenumber: "9"
+phone: +49 170 1515312
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
 website: ""

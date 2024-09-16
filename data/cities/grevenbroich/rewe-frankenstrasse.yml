@@ -1,11 +1,11 @@
 id: 31740646
-type: way
+type: node
 latitude: 51.04163
 longitude: 6.5838
 postcode: "41517"
 city: Grevenbroich
-street: "Frankenstraße"
-housenumber: 156
-phone: "+49 2181 1649849"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Frankenstraße
+housenumber: "156"
+phone: +49 2181 1649849
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

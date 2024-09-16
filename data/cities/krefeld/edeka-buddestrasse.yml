@@ -1,11 +1,11 @@
 id: 1125050643
-type: way
+type: node
 latitude: 51.32897
 longitude: 6.61564
 postcode: "47809"
 city: Krefeld
-street: "Buddestraße"
-housenumber: 120
+street: Buddestraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 06:30-21:00"
+opening_hours: Mo-Sa 06:30-21:00
 website: ""

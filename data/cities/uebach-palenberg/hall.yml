@@ -4,8 +4,8 @@ latitude: 50.94124
 longitude: 6.1055
 postcode: "52531"
 city: Übach-Palenberg
-street: "Geilenkirchener Straße"
-housenumber: 11
+street: Geilenkirchener Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; Su,PH off"
-website: "https://www.augenoptik-hall.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; Su,PH off
+website: https://www.augenoptik-hall.de/

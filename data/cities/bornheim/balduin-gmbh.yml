@@ -1,11 +1,11 @@
 id: 109795140
-type: way
+type: node
 latitude: 50.76533
 longitude: 6.95009
 postcode: "53332"
 city: Bornheim
-street: "Blumenstraße"
-housenumber: 97
-phone: "+492227 2283"
+street: Blumenstraße
+housenumber: "97"
+phone: +492227 2283
 opening_hours: ""
-website: "http://www.balduin-gmbh.de/"
+website: http://www.balduin-gmbh.de/

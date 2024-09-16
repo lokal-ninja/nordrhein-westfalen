@@ -4,8 +4,8 @@ latitude: 51.71562
 longitude: 8.7519
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 16
+street: Rosenstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.codebecalm.de/"
+website: https://www.codebecalm.de/

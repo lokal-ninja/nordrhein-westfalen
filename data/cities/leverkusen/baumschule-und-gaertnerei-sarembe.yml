@@ -4,8 +4,9 @@ latitude: 51.05313
 longitude: 7.02052
 postcode: "51381"
 city: Leverkusen
-street: "Daimlerstraße"
-housenumber: 1
+street: Daimlerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Nov-Feb Mo-Fr 09:00-17:00; Mar-Oct Mo-Fr 09:00-18:00; Jun-Feb Sa 09:00-12:30; Mar-May Sa 09:00-13:00; PH,Su off"
+opening_hours: Nov-Feb Mo-Fr 09:00-17:00; Mar-Oct Mo-Fr 09:00-18:00; Jun-Feb Sa 09:00-12:30;
+    Mar-May Sa 09:00-13:00; PH,Su off
 website: ""

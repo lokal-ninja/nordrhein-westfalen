@@ -4,8 +4,8 @@ latitude: 50.97165
 longitude: 7.01015
 postcode: "51063"
 city: Köln
-street: "Berliner Straße"
-housenumber: 65
-phone: "+49 157 88364864"
-opening_hours: "Tu-Fr 10:00-20:00; Sa-Su 12:00-20:00"
+street: Berliner Straße
+housenumber: "65"
+phone: +49 157 88364864
+opening_hours: Tu-Fr 10:00-20:00; Sa-Su 12:00-20:00
 website: ""

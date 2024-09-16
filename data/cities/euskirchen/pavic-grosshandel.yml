@@ -1,11 +1,11 @@
 id: 509451044
-type: way
+type: node
 latitude: 50.68422
 longitude: 6.82922
 postcode: "53881"
 city: Euskirchen
-street: "Schneppenheimer Weg"
-housenumber: 62
+street: Schneppenheimer Weg
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa,Su off"
+opening_hours: Mo-Fr 10:00-17:00; Sa,Su off
 website: ""

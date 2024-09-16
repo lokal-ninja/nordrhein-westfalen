@@ -4,8 +4,8 @@ latitude: 51.21383
 longitude: 6.7672
 postcode: "40219"
 city: Düsseldorf
-street: "Konkordiastraße"
-housenumber: 61
+street: Konkordiastraße
+housenumber: "61"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-14:00; Su-Mo off; PH off"
-website: "https://www.duesselrad.de/"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-14:00; Su-Mo off; PH off
+website: https://www.duesselrad.de/

@@ -5,7 +5,7 @@ longitude: 6.65075
 postcode: ""
 city: Zülpich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.juwelier-blumenthal.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
+website: https://www.juwelier-blumenthal.de/

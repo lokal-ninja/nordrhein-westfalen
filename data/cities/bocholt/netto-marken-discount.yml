@@ -4,8 +4,8 @@ latitude: 51.84028
 longitude: 6.61607
 postcode: "46397"
 city: Bocholt
-street: "Niederbruch"
-housenumber: 2
+street: Niederbruch
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

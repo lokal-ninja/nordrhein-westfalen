@@ -4,8 +4,9 @@ latitude: 50.84024
 longitude: 6.1156
 postcode: "52146"
 city: Würselen
-street: "Grindelstraße"
-housenumber: 7
-phone: "+49 2405 85315"
-opening_hours: "Tu-We 08:00-13:00, 14:30-18:00; Th 08:00-13:00; Fr 08:00-18:00; Sa 08:00-13:00; Su-Mo, PH off"
-website: "http://www.fleischwaren-pelzer.de/"
+street: Grindelstraße
+housenumber: "7"
+phone: +49 2405 85315
+opening_hours: Tu-We 08:00-13:00, 14:30-18:00; Th 08:00-13:00; Fr 08:00-18:00; Sa
+    08:00-13:00; Su-Mo, PH off
+website: http://www.fleischwaren-pelzer.de/

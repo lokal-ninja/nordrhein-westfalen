@@ -1,11 +1,11 @@
 id: 211317359
-type: way
+type: node
 latitude: 51.36124
 longitude: 8.29847
 postcode: "59872"
 city: Meschede
-street: "Im Schwarzen Bruch"
+street: Im Schwarzen Bruch
 housenumber: 50b
-phone: "+49 291 20252049"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00"
-website: "https://hoffmann-mes.de/"
+phone: +49 291 20252049
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-18:00
+website: https://hoffmann-mes.de/

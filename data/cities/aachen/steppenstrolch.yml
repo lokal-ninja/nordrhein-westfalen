@@ -4,8 +4,8 @@ latitude: 50.7733
 longitude: 6.08769
 postcode: "52062"
 city: Aachen
-street: "Wirichsbongardstraße"
-housenumber: 12
-phone: "+49 241 98093100"
-opening_hours: "Mo-Sa 11:30-18:30"
-website: "https://www.steppenstrolch.de/"
+street: Wirichsbongardstraße
+housenumber: "12"
+phone: +49 241 98093100
+opening_hours: Mo-Sa 11:30-18:30
+website: https://www.steppenstrolch.de/

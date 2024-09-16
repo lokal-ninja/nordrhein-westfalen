@@ -1,11 +1,11 @@
 id: 116070991
-type: way
+type: node
 latitude: 50.80517
 longitude: 6.99119
 postcode: "50389"
 city: Wesseling
-street: "Herseler Straße"
-housenumber: 33
+street: Herseler Straße
+housenumber: "33"
 phone: "+49223644414"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://reifen-christ.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://reifen-christ.de

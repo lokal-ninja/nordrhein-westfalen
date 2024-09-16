@@ -1,11 +1,11 @@
 id: 85272847
-type: way
+type: node
 latitude: 50.76542
 longitude: 6.95076
 postcode: "53332"
 city: Bornheim
-street: "Blumenstraße"
-housenumber: 93
+street: Blumenstraße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

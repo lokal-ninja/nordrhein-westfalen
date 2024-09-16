@@ -1,11 +1,11 @@
 id: 474339659
-type: way
+type: node
 latitude: 51.56395
 longitude: 7.52266
 postcode: "44329"
 city: Dortmund
-street: "Nikolaus-Groß-Straße"
-housenumber: 18
-phone: "+49 231 16717045"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00"
-website: "https://www.autofit-borrmann.de/"
+street: Nikolaus-Groß-Straße
+housenumber: "18"
+phone: +49 231 16717045
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00
+website: https://www.autofit-borrmann.de/

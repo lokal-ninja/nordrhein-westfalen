@@ -1,11 +1,11 @@
 id: 158766738
-type: way
+type: node
 latitude: 50.84546
 longitude: 7.48908
 postcode: "53809"
 city: Ruppichteroth
-street: "Herchener Straße"
-housenumber: 
+street: Herchener Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

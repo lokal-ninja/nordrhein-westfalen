@@ -1,11 +1,11 @@
 id: 273043531
-type: way
+type: node
 latitude: 51.74941
 longitude: 8.01967
 postcode: "59269"
 city: Beckum
-street: "Cheruskerstraße"
-housenumber: 14
+street: Cheruskerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

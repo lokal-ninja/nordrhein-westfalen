@@ -1,11 +1,11 @@
 id: 224927870
-type: way
+type: node
 latitude: 50.80812
 longitude: 7.59393
 postcode: "51570"
 city: Windeck
-street: "Auf der Teichhardt"
-housenumber: 1
+street: Auf der Teichhardt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 169748338
-type: way
+type: node
 latitude: 51.72908
 longitude: 8.78881
 postcode: "33100"
 city: Paderborn
-street: "Karl-Schurz-Straße"
-housenumber: 9
+street: Karl-Schurz-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:30-12:30
 website: ""

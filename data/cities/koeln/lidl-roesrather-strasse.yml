@@ -1,11 +1,11 @@
 id: 115613514
-type: way
+type: node
 latitude: 50.93013
 longitude: 7.04805
 postcode: "51107"
 city: Köln
-street: "Rösrather Straße"
-housenumber: 87
+street: Rösrather Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

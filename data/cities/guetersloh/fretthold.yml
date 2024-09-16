@@ -4,8 +4,8 @@ latitude: 51.92098
 longitude: 8.40349
 postcode: "33334"
 city: Gütersloh
-street: "Hülsbrockstraße"
-housenumber: 31
+street: Hülsbrockstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:30"
-website: "https://www.fretthold.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-12:30
+website: https://www.fretthold.de/

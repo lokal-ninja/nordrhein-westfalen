@@ -4,8 +4,8 @@ latitude: 52.14102
 longitude: 8.50898
 postcode: "32130"
 city: Enger
-street: "Spenger Straße"
-housenumber: 346
-phone: "+49 5225 1023"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-11:00"
-website: "https://www.karlchens-backstube.de/"
+street: Spenger Straße
+housenumber: "346"
+phone: +49 5225 1023
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-11:00
+website: https://www.karlchens-backstube.de/

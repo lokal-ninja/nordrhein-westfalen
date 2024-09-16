@@ -1,11 +1,11 @@
 id: 45459680
-type: way
+type: node
 latitude: 51.87026
 longitude: 9.07984
 postcode: "32839"
 city: Steinheim
-street: "Billerbecker Straße"
-housenumber: 63
+street: Billerbecker Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

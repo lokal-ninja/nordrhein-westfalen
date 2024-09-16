@@ -1,11 +1,11 @@
 id: 131643011
-type: way
+type: node
 latitude: 50.87189
 longitude: 7.01315
 postcode: "50999"
 city: Köln
-street: "Am Feldrain"
-housenumber: 38
+street: Am Feldrain
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

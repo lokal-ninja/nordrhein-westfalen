@@ -1,11 +1,11 @@
 id: 208700689
-type: way
+type: node
 latitude: 50.89795
 longitude: 7.18299
 postcode: "51503"
 city: Rösrath
-street: "Hauptstraße"
-housenumber: 61
+street: Hauptstraße
+housenumber: "61"
 phone: "+4915159089457"
-opening_hours: "We 17:00-19:00, Sa 10:30-15:30"
-website: "https://www.tattoo-art-forever.de"
+opening_hours: We 17:00-19:00, Sa 10:30-15:30
+website: https://www.tattoo-art-forever.de

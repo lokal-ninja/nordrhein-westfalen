@@ -4,8 +4,8 @@ latitude: 51.70831
 longitude: 8.79025
 postcode: "33100"
 city: Paderborn
-street: "Rimbecker Weg"
-housenumber: 9
+street: Rimbecker Weg
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-12:00;Tu,Th 15:00-18:00; Mo,Sa,Su off;PH off"
+opening_hours: Tu,We,Fr 09:00-12:00;Tu,Th 15:00-18:00; Mo,Sa,Su off;PH off
 website: ""

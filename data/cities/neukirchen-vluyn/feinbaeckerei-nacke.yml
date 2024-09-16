@@ -1,11 +1,11 @@
 id: 135632922
-type: way
+type: node
 latitude: 51.45386
 longitude: 6.58084
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Falkenstraße"
-housenumber: 2
+street: Falkenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.cafe-nacke.de/index.php"
+website: https://www.cafe-nacke.de/index.php

@@ -1,11 +1,11 @@
 id: 244851809
-type: way
+type: node
 latitude: 51.66674
 longitude: 7.75849
 postcode: "59067"
 city: Hamm
-street: "Küferstraße"
-housenumber: 20
-phone: "+49 2381 871800"
+street: Küferstraße
+housenumber: "20"
+phone: +49 2381 871800
 opening_hours: ""
-website: "https://www.buecker-handel.de/"
+website: https://www.buecker-handel.de/

@@ -4,8 +4,8 @@ latitude: 51.47589
 longitude: 7.28785
 postcode: "44894"
 city: Bochum
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 63a
-phone: "+49 234 92244-0"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.faber-datentechnik.de/"
+phone: +49 234 92244-0
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.faber-datentechnik.de/

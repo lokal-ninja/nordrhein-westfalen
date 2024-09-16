@@ -4,8 +4,8 @@ latitude: 51.49171
 longitude: 7.55583
 postcode: "44287"
 city: Dortmund
-street: "Aplerbecker Marktplatz"
-housenumber: 3
-phone: "+49 231 1333281"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://standorte.geers.de/dortmund/aplerbecker-marktplatz-3.html"
+street: Aplerbecker Marktplatz
+housenumber: "3"
+phone: +49 231 1333281
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: https://standorte.geers.de/dortmund/aplerbecker-marktplatz-3.html

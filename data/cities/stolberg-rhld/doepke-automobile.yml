@@ -1,11 +1,11 @@
 id: 265440352
-type: way
+type: node
 latitude: 50.79474
 longitude: 6.23014
 postcode: "52222"
 city: Stolberg (Rhld.)
-street: "Eschweilerstraße"
-housenumber: 237
+street: Eschweilerstraße
+housenumber: "237"
 phone: ""
 opening_hours: ""
-website: "https://www.doepke-automobile.de/automobile/index.php?page=home"
+website: https://www.doepke-automobile.de/automobile/index.php?page=home

@@ -4,8 +4,8 @@ latitude: 51.4827
 longitude: 7.21701
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 93
-phone: "+49 234 61065843"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.butlers.com/"
+street: Kortumstraße
+housenumber: "93"
+phone: +49 234 61065843
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.butlers.com/

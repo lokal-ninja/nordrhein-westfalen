@@ -4,8 +4,8 @@ latitude: 51.44182
 longitude: 6.41588
 postcode: "47647"
 city: Kerken
-street: "Umgehungsstraße"
-housenumber: 2
-phone: "+49 2833 572144"
-opening_hours: "Mo-Sa 06:00-21:00; Su,PH 07:30-11:00"
-website: "https://www.baeckerei-buesch.de/"
+street: Umgehungsstraße
+housenumber: "2"
+phone: +49 2833 572144
+opening_hours: Mo-Sa 06:00-21:00; Su,PH 07:30-11:00
+website: https://www.baeckerei-buesch.de/

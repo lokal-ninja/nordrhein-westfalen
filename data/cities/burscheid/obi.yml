@@ -1,11 +1,11 @@
 id: 158695871
-type: way
+type: node
 latitude: 51.08297
 longitude: 7.12956
 postcode: "51399"
 city: Burscheid
-street: "Höhestraße"
-housenumber: 80
-phone: "+49 2174 783900"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.obi.de/de/maerkte/Burscheid/index.html"
+street: Höhestraße
+housenumber: "80"
+phone: +49 2174 783900
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.obi.de/de/maerkte/Burscheid/index.html

@@ -1,11 +1,11 @@
 id: 85610253
-type: way
+type: node
 latitude: 50.71444
 longitude: 6.13766
 postcode: "52076"
 city: Aachen
-street: "Pontsheide"
-housenumber: 34
+street: Pontsheide
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.dell-aix.de/"
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.dell-aix.de/

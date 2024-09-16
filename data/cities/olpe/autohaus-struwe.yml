@@ -1,11 +1,11 @@
 id: 146537890
-type: way
+type: node
 latitude: 50.99986
 longitude: 7.84099
 postcode: "57462"
 city: Olpe
-street: "Am Breithammer"
-housenumber: 11
+street: Am Breithammer
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

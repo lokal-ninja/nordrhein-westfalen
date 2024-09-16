@@ -1,11 +1,11 @@
 id: 46421668
-type: way
+type: node
 latitude: 50.62083
 longitude: 6.96581
 postcode: "53359"
 city: Rheinbach
-street: "Kleinaltendorfer Weg"
-housenumber: 2
+street: Kleinaltendorfer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:30; Sa 07:30-18:00
 website: ""

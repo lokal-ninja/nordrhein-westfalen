@@ -1,11 +1,11 @@
 id: 235446262
-type: way
+type: node
 latitude: 50.82808
 longitude: 6.90536
 postcode: "50321"
 city: Brühl
-street: "Schloßstraße"
-housenumber: 9
+street: Schloßstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://eineweltladen-bruehl.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://eineweltladen-bruehl.de/

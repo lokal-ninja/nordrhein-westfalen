@@ -1,11 +1,11 @@
 id: 267671087
-type: way
+type: node
 latitude: 51.69658
 longitude: 7.96468
 postcode: "59510"
 city: Lippetal
-street: "Strängenbach"
-housenumber: 4
+street: Strängenbach
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 10:00-22:00; Fr,Sa 10:00-24:00"
+opening_hours: Mo-Th 10:00-22:00; Fr,Sa 10:00-24:00
 website: ""

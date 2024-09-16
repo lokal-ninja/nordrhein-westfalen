@@ -1,11 +1,11 @@
 id: 86302736
-type: way
+type: node
 latitude: 50.81243
 longitude: 7.12697
 postcode: "53842"
 city: Troisdorf
-street: "Mottmannstraße"
-housenumber: 11
+street: Mottmannstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

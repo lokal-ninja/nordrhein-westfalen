@@ -1,11 +1,11 @@
 id: 251548421
-type: way
+type: node
 latitude: 50.55261
 longitude: 6.24172
 postcode: "52156"
 city: Monschau
-street: "Kirchstraße"
-housenumber: 51
+street: Kirchstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Su 10:30-18:00"
+opening_hours: Mo-Su 10:30-18:00
 website: ""

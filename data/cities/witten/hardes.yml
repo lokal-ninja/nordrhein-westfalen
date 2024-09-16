@@ -1,11 +1,11 @@
 id: 77518573
-type: way
+type: node
 latitude: 51.45693
 longitude: 7.36132
 postcode: "58454"
 city: Witten
-street: "Wullener Feld"
-housenumber: 12
+street: Wullener Feld
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-13:00"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-13:00
 website: ""

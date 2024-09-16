@@ -1,11 +1,11 @@
 id: 205035711
-type: way
+type: node
 latitude: 51.30346
 longitude: 7.66589
 postcode: "58762"
 city: Altena
-street: "Bahnhofstraße"
-housenumber: 60
+street: Bahnhofstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.aldi-nord.de/filialen/58762-Altena/detail/Bahnhofstra%C3%9Fe/766537-5130353/"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.aldi-nord.de/filialen/58762-Altena/detail/Bahnhofstra%C3%9Fe/766537-5130353/

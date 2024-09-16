@@ -1,11 +1,11 @@
 id: 791106007
-type: way
+type: node
 latitude: 51.82435
 longitude: 6.63118
 postcode: "46395"
 city: Bocholt
-street: "Franzstraße"
-housenumber: 86
+street: Franzstraße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

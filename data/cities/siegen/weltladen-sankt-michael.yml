@@ -1,11 +1,11 @@
 id: 696201361
-type: way
+type: node
 latitude: 50.88014
 longitude: 8.03073
 postcode: "57072"
 city: Siegen
-street: "Kampenstraße"
-housenumber: 50
+street: Kampenstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 16:00-18:00"
+opening_hours: Mo-Fr 16:00-18:00
 website: ""

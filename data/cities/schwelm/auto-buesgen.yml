@@ -1,11 +1,11 @@
 id: 95136528
-type: way
+type: node
 latitude: 51.29175
 longitude: 7.29729
 postcode: "58332"
 city: Schwelm
-street: "Nordstraße"
-housenumber: 19
+street: Nordstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

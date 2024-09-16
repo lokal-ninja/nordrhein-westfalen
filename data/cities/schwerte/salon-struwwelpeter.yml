@@ -1,11 +1,11 @@
 id: 255587758
-type: way
+type: node
 latitude: 51.4183
 longitude: 7.57189
 postcode: "58239"
 city: Schwerte
-street: "Letmather Straße"
-housenumber: 129
+street: Letmather Straße
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

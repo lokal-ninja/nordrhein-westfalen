@@ -1,11 +1,11 @@
 id: 164820175
-type: way
+type: node
 latitude: 51.68322
 longitude: 6.87257
 postcode: "46514"
 city: Schermbeck
-street: "Im Heetwinkel"
-housenumber: 23
-phone: "+49(0)2853-882"
+street: Im Heetwinkel
+housenumber: "23"
+phone: +49(0)2853-882
 opening_hours: ""
-website: "http://wilkskamp-terhardt.efrplus.de/"
+website: http://wilkskamp-terhardt.efrplus.de/

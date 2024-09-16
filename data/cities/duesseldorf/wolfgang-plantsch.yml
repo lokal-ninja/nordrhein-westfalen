@@ -4,8 +4,8 @@ latitude: 51.22784
 longitude: 6.79212
 postcode: "40211"
 city: Düsseldorf
-street: "Kölner Straße"
-housenumber: 11
+street: Kölner Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu,We 11:00-14:00; Th,Fr 14:00-17:00"
+opening_hours: Tu,We 11:00-14:00; Th,Fr 14:00-17:00
 website: ""

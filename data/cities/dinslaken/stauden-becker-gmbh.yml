@@ -4,8 +4,8 @@ latitude: 51.55243
 longitude: 6.7816
 postcode: "46539"
 city: Dinslaken
-street: "Försterstraße"
-housenumber: 42
+street: Försterstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.stauden-becker.de/index.php"
+website: https://www.stauden-becker.de/index.php

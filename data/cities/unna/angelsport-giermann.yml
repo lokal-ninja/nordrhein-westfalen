@@ -1,11 +1,11 @@
 id: 204092146
-type: way
+type: node
 latitude: 51.55327
 longitude: 7.63507
 postcode: "59427"
 city: Unna
-street: "Lippestraße"
-housenumber: 17
-phone: "+49 23 0350906"
+street: Lippestraße
+housenumber: "17"
+phone: +49 23 0350906
 opening_hours: ""
-website: "https://www.angelsport-giermann.de"
+website: https://www.angelsport-giermann.de

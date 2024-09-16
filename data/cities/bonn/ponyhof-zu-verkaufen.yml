@@ -4,8 +4,8 @@ latitude: 50.74336
 longitude: 7.09047
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 195
+street: Kölnstraße
+housenumber: "195"
 phone: ""
-opening_hours: "Fr 16:00-20:00"
-website: "https://www.ponyhofzuverkaufen.com/"
+opening_hours: Fr 16:00-20:00
+website: https://www.ponyhofzuverkaufen.com/

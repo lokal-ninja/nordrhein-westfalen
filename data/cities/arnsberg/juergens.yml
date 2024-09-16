@@ -4,8 +4,8 @@ latitude: 51.45123
 longitude: 7.96451
 postcode: "59755"
 city: Arnsberg
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 2932 9414777"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:30; Su off"
-website: "https://www.baeckereijuergens.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 2932 9414777
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:30; Su off
+website: https://www.baeckereijuergens.de/

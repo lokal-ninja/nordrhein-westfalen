@@ -1,11 +1,11 @@
 id: 212693201
-type: way
+type: node
 latitude: 51.48786
 longitude: 6.74907
 postcode: "47166"
 city: Duisburg
-street: "Dieselstraße"
-housenumber: 122
+street: Dieselstraße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.nrw-gastro.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.nrw-gastro.de/

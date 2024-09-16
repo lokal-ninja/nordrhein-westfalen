@@ -1,11 +1,11 @@
 id: 88805557
-type: way
+type: node
 latitude: 50.81672
 longitude: 7.1259
 postcode: "53842"
 city: Troisdorf
-street: "Auf dem Schellerod"
-housenumber: 22
+street: Auf dem Schellerod
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

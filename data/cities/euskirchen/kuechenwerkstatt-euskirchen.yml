@@ -1,11 +1,11 @@
 id: 284254153
-type: way
+type: node
 latitude: 50.65004
 longitude: 6.73369
 postcode: "53881"
 city: Euskirchen
-street: "Diemstraße"
-housenumber: 6
+street: Diemstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-14:00"
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-14:00
 website: ""

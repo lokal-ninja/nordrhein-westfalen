@@ -1,11 +1,11 @@
 id: 221459325
-type: way
+type: node
 latitude: 52.2028
 longitude: 8.46119
 postcode: "32289"
 city: Rödinghausen
-street: "Bruchstraße"
-housenumber: 193
+street: Bruchstraße
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.90405
 longitude: 7.64655
 postcode: "48165"
 city: Münster
-street: "Marktallee"
-housenumber: 56
+street: Marktallee
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://www.atm-gardinen.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: https://www.atm-gardinen.de/

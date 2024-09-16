@@ -1,11 +1,11 @@
 id: 90752166
-type: way
+type: node
 latitude: 51.94463
 longitude: 8.86507
 postcode: "32756"
 city: Detmold
-street: "Arminstraße"
-housenumber: 80
+street: Arminstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-13:00
 website: ""

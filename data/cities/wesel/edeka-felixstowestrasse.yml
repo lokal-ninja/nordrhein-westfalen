@@ -1,11 +1,11 @@
 id: 310105854
-type: way
+type: node
 latitude: 51.6754
 longitude: 6.64798
 postcode: "46485"
 city: Wesel
-street: "Felixstowestraße"
-housenumber: 5
+street: Felixstowestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

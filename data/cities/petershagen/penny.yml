@@ -1,11 +1,11 @@
 id: 303208369
-type: way
+type: node
 latitude: 52.36537
 longitude: 9.01047
 postcode: "32469"
 city: Petershagen
-street: "An der Bahn"
-housenumber: 7
+street: An der Bahn
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.penny.de/

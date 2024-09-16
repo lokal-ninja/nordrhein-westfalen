@@ -4,8 +4,8 @@ latitude: 51.93566
 longitude: 8.87656
 postcode: "32756"
 city: Detmold
-street: "Bruchstraße"
-housenumber: 23
+street: Bruchstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.codebecalm.de/"
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.codebecalm.de/

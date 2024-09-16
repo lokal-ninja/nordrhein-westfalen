@@ -1,11 +1,11 @@
 id: 434945891
-type: way
+type: node
 latitude: 51.17543
 longitude: 6.73846
 postcode: "41468"
 city: Neuss
-street: "Kasterstraße"
-housenumber: 108
-phone: "+49 2131 39073"
+street: Kasterstraße
+housenumber: "108"
+phone: +49 2131 39073
 opening_hours: ""
 website: ""

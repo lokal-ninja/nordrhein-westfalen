@@ -1,11 +1,11 @@
 id: 1041497360
-type: way
+type: node
 latitude: 51.52775
 longitude: 7.44237
 postcode: "44147"
 city: Dortmund
-street: "Mathiesstraße"
-housenumber: 4
+street: Mathiesstraße
+housenumber: "4"
 phone: "+492318210650"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:30-13:00; PH off"
-website: "https://bauenundleben.de/dortmund-hafen"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:30-13:00; PH off
+website: https://bauenundleben.de/dortmund-hafen

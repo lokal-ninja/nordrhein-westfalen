@@ -4,8 +4,8 @@ latitude: 51.72067
 longitude: 8.71606
 postcode: "33106"
 city: Paderborn
-street: "Heinz-Nixdorf-Ring"
-housenumber: 1
+street: Heinz-Nixdorf-Ring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Tu, Th 9:00-16:00; We 9:00-17:00; Fr 9:00-13:00"
+opening_hours: Mo-Tu, Th 9:00-16:00; We 9:00-17:00; Fr 9:00-13:00
 website: ""

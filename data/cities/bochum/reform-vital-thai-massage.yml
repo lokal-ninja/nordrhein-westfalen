@@ -4,8 +4,8 @@ latitude: 51.43987
 longitude: 7.21547
 postcode: "44797"
 city: Bochum
-street: "Kemnader Straße"
-housenumber: 23
+street: Kemnader Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-15:00; und nach Vereinbarung"
-website: "https://www.reform-vital-thai-massage.de/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-15:00; "und nach Vereinbarung"
+website: https://www.reform-vital-thai-massage.de/

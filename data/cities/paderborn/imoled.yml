@@ -4,8 +4,8 @@ latitude: 51.71323
 longitude: 8.73856
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 40
+street: Bahnhofstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://imoled.de/"
+website: https://imoled.de/

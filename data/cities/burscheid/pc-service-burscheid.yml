@@ -4,8 +4,8 @@ latitude: 51.10378
 longitude: 7.15712
 postcode: "51399"
 city: Burscheid
-street: "Kölner Straße"
-housenumber: 81
-phone: "+49 2174 7604201"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30"
-website: "https://pc-service-burscheid.de/"
+street: Kölner Straße
+housenumber: "81"
+phone: +49 2174 7604201
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30
+website: https://pc-service-burscheid.de/

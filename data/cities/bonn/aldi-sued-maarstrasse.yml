@@ -1,11 +1,11 @@
 id: 30819504
-type: way
+type: node
 latitude: 50.73822
 longitude: 7.13121
 postcode: "53227"
 city: Bonn
-street: "Maarstraße"
-housenumber: 3
+street: Maarstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

@@ -1,11 +1,11 @@
 id: 225411327
-type: way
+type: node
 latitude: 51.84301
 longitude: 8.29619
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Hauptstraße"
-housenumber: 127
+street: Hauptstraße
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

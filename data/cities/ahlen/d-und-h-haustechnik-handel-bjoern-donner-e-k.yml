@@ -1,11 +1,11 @@
 id: 308926864
-type: way
+type: node
 latitude: 51.76303
 longitude: 7.88015
 postcode: "59227"
 city: Ahlen
-street: "Walstedder Straße"
-housenumber: 4
-phone: "+49 2382 786987-0"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00"
+street: Walstedder Straße
+housenumber: "4"
+phone: +49 2382 786987-0
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00
 website: ""

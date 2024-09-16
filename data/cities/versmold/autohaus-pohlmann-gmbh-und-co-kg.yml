@@ -1,11 +1,11 @@
 id: 130076025
-type: way
+type: node
 latitude: 52.04585
 longitude: 8.14683
 postcode: "33775"
 city: Versmold
-street: "Im Industriegelände"
-housenumber: 2
+street: Im Industriegelände
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

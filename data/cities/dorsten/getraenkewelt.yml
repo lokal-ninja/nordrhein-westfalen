@@ -1,11 +1,11 @@
 id: 258964778
-type: way
+type: node
 latitude: 51.65637
 longitude: 6.97497
 postcode: "46282"
 city: Dorsten
-street: "Bochumer Straße"
-housenumber: 54
+street: Bochumer Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

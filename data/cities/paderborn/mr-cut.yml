@@ -4,8 +4,8 @@ latitude: 51.7255
 longitude: 8.77744
 postcode: "33100"
 city: Paderborn
-street: "Arndtstraße"
-housenumber: 21
+street: Arndtstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 9:00-18:00; Sa 9:00-16:00"
+opening_hours: Mo off; Tu-Fr 9:00-18:00; Sa 9:00-16:00
 website: ""

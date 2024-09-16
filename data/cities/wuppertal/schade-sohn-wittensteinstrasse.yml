@@ -1,11 +1,11 @@
 id: 267607667
-type: way
+type: node
 latitude: 51.26258
 longitude: 7.17946
 postcode: "42285"
 city: Wuppertal
-street: "Wittensteinstraße"
-housenumber: 156
+street: Wittensteinstraße
+housenumber: "156"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30; Sa 07:30-12:00; PH off"
+opening_hours: Mo-Fr 07:30-16:30; Sa 07:30-12:00; PH off
 website: ""

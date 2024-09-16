@@ -4,8 +4,8 @@ latitude: 50.70147
 longitude: 7.28348
 postcode: "53639"
 city: Königswinter
-street: "Humboldtstraße"
-housenumber: 10
-phone: "+49 2244 9040294"
-opening_hours: "Mo-Do 09:00-17:00, Fr 09:00-15:00"
-website: "https://autoservice-gassen.de/"
+street: Humboldtstraße
+housenumber: "10"
+phone: +49 2244 9040294
+opening_hours: Mo-Do 09:00-17:00, Fr 09:00-15:00
+website: https://autoservice-gassen.de/

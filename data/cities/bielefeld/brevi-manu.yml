@@ -4,8 +4,8 @@ latitude: 52.01916
 longitude: 8.53254
 postcode: "33602"
 city: Bielefeld
-street: "Gehrenberg"
-housenumber: 18
+street: Gehrenberg
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00 || nach Vereinbarung"
-website: "https://brevimanu.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00 || "nach Vereinbarung"
+website: https://brevimanu.de

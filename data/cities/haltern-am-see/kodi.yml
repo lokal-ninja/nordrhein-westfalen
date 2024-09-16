@@ -1,11 +1,11 @@
 id: 276147119
-type: way
+type: node
 latitude: 51.74248
 longitude: 7.18522
 postcode: "45721"
 city: Haltern am See
-street: "Merschstraße"
-housenumber: 26
+street: Merschstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.kodi.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.kodi.de/

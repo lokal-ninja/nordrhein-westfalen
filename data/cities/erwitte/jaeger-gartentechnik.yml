@@ -4,8 +4,8 @@ latitude: 51.62289
 longitude: 8.30554
 postcode: "59597"
 city: Erwitte
-street: "Ringstraße"
-housenumber: 20
-phone: "+49 2943 8719590"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00 - 12:00"
-website: "https://www.gartentechnik-jaeger.de/"
+street: Ringstraße
+housenumber: "20"
+phone: +49 2943 8719590
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00 - 12:00
+website: https://www.gartentechnik-jaeger.de/

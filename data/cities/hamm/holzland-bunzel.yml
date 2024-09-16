@@ -1,11 +1,11 @@
 id: 116495983
-type: way
+type: node
 latitude: 51.66575
 longitude: 7.78622
 postcode: "59067"
 city: Hamm
-street: "Wilhelmstraße"
+street: Wilhelmstraße
 housenumber: 191a
-phone: "+49 2381 972900"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-15:00"
-website: "https://www.bunzel.de/"
+phone: +49 2381 972900
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-15:00
+website: https://www.bunzel.de/

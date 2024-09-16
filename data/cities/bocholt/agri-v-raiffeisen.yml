@@ -1,11 +1,11 @@
 id: 86354180
-type: way
+type: node
 latitude: 51.88208
 longitude: 6.67248
 postcode: "46397"
 city: Bocholt
-street: "Am Bahnhof"
-housenumber: 7
+street: Am Bahnhof
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 288429217
-type: way
+type: node
 latitude: 50.82897
 longitude: 7.02659
 postcode: "53859"
 city: Niederkassel
-street: "Feldmühlestraße"
-housenumber: 24
+street: Feldmühlestraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

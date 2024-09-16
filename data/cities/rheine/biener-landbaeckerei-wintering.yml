@@ -4,8 +4,8 @@ latitude: 52.27787
 longitude: 7.43678
 postcode: "48431"
 city: Rheine
-street: "Borneplatz"
-housenumber: 3
-phone: "+49 5971 8032585"
-opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 06:00-18:00"
-website: "https://www.wintering.de/filialen.html"
+street: Borneplatz
+housenumber: "3"
+phone: +49 5971 8032585
+opening_hours: Mo-Fr 06:00-18:30; Sa-Su 06:00-18:00
+website: https://www.wintering.de/filialen.html

@@ -1,11 +1,11 @@
 id: 331590235
-type: way
+type: node
 latitude: 51.49768
 longitude: 7.12397
 postcode: "45886"
 city: Gelsenkirchen
-street: "Zur Alten Schule"
-housenumber: 77
+street: Zur Alten Schule
+housenumber: "77"
 phone: ""
-opening_hours: "Nach Terminabsprache"
+opening_hours: '"Nach Terminabsprache"'
 website: ""

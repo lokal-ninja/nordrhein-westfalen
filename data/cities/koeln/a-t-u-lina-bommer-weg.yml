@@ -1,11 +1,11 @@
 id: 52449107
-type: way
+type: node
 latitude: 50.9177
 longitude: 7.04958
 postcode: "51149"
 city: Köln
-street: "Lina-Bommer-Weg"
-housenumber: 1
+street: Lina-Bommer-Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-14:00; PH off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-14:00; PH off
 website: ""

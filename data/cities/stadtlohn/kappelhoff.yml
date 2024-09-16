@@ -1,11 +1,11 @@
 id: 118900285
-type: way
+type: node
 latitude: 51.98928
 longitude: 6.90083
 postcode: "48703"
 city: Stadtlohn
-street: "Gutenbergstraße"
-housenumber: 2
+street: Gutenbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

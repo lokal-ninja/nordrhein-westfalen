@@ -1,11 +1,11 @@
 id: 141112754
-type: way
+type: node
 latitude: 52.22827
 longitude: 8.79449
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Stüheweg"
-housenumber: 13
+street: Stüheweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

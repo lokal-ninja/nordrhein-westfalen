@@ -4,8 +4,8 @@ latitude: 50.87545
 longitude: 8.01748
 postcode: "57072"
 city: Siegen
-street: "Bahnhofstraße"
-housenumber: 27
-phone: "+49 271 2330196"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:30-19:00; Su 08:30-13:00"
-website: "https://www.backwerk.de"
+street: Bahnhofstraße
+housenumber: "27"
+phone: +49 271 2330196
+opening_hours: Mo-Fr 06:30-19:00; Sa 07:30-19:00; Su 08:30-13:00
+website: https://www.backwerk.de

@@ -1,11 +1,11 @@
 id: 631807670
-type: way
+type: node
 latitude: 51.76067
 longitude: 8.5629
 postcode: "33129"
 city: Delbrück
-street: "Südstraße"
+street: Südstraße
 housenumber: 21a
-phone: "+495250 9159719"
-opening_hours: "Mo-Sa 06:00-18:00; Su 08:00-18:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/delbrueck.php"
+phone: +495250 9159719
+opening_hours: Mo-Sa 06:00-18:00; Su 08:00-18:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/delbrueck.php

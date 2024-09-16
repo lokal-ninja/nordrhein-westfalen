@@ -1,11 +1,11 @@
 id: 93536112
-type: way
+type: node
 latitude: 51.88155
 longitude: 8.50718
 postcode: "33415"
 city: Verl
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

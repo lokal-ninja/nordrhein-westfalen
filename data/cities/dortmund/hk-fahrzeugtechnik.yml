@@ -1,11 +1,11 @@
 id: 54184390
-type: way
+type: node
 latitude: 51.49129
 longitude: 7.52288
 postcode: "44269"
 city: Dortmund
-street: "Karl-Ernst-Straße"
-housenumber: 5
-phone: "+49 231 39503095"
+street: Karl-Ernst-Straße
+housenumber: "5"
+phone: +49 231 39503095
 opening_hours: ""
-website: "https://www.hkfahrzeugtechnik.de"
+website: https://www.hkfahrzeugtechnik.de

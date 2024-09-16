@@ -1,11 +1,11 @@
 id: 77239055
-type: way
+type: node
 latitude: 51.44452
 longitude: 7.36399
 postcode: "58453"
 city: Witten
-street: "Annenstraße"
-housenumber: 83
+street: Annenstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo,Fr 11:00-15:00"
+opening_hours: Mo,Fr 11:00-15:00
 website: ""

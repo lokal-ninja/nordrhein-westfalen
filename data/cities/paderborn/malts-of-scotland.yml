@@ -4,8 +4,8 @@ latitude: 51.73525
 longitude: 8.78656
 postcode: "33100"
 city: Paderborn
-street: "Senefelderstraße"
-housenumber: 7
-phone: "+49 5251 288159-0"
-opening_hours: "Th 16:00-21:00; Sa 11:00-16:00"
-website: "https://www.malts-of-scotland.com/"
+street: Senefelderstraße
+housenumber: "7"
+phone: +49 5251 288159-0
+opening_hours: Th 16:00-21:00; Sa 11:00-16:00
+website: https://www.malts-of-scotland.com/

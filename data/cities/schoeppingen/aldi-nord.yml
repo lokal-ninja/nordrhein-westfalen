@@ -1,11 +1,11 @@
 id: 204404728
-type: way
+type: node
 latitude: 52.09012
 longitude: 7.23299
 postcode: "48624"
 city: Schöppingen
-street: "Amtsstraße"
-housenumber: 31
+street: Amtsstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

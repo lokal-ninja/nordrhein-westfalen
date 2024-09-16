@@ -4,8 +4,8 @@ latitude: 51.2451
 longitude: 7.12994
 postcode: "42117"
 city: Wuppertal
-street: "Güterstraße"
-housenumber: 20
+street: Güterstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.firstelephant.de/wuppertal/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.firstelephant.de/wuppertal/

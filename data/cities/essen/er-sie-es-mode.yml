@@ -4,8 +4,8 @@ latitude: 51.39332
 longitude: 7.08224
 postcode: "45257"
 city: Essen
-street: "Kupferdreher Straße"
-housenumber: 132
+street: Kupferdreher Straße
+housenumber: "132"
 phone: ""
-opening_hours: "Samstags geschlossen"
+opening_hours: '"Samstags geschlossen"'
 website: ""

@@ -1,11 +1,11 @@
 id: 228721091
-type: way
+type: node
 latitude: 50.57735
 longitude: 6.26293
 postcode: "52156"
 city: Monschau
-street: "Trierer Straße"
-housenumber: 201
-phone: "+49 2472 803680"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://baumarkt-linde.de/"
+street: Trierer Straße
+housenumber: "201"
+phone: +49 2472 803680
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://baumarkt-linde.de/

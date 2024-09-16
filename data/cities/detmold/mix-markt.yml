@@ -1,11 +1,11 @@
 id: 90944828
-type: way
+type: node
 latitude: 51.9425
 longitude: 8.84201
 postcode: "32758"
 city: Detmold
-street: "Bielefelder Straße"
-housenumber: 235
-phone: "+49 5231 961919"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/24/"
+street: Bielefelder Straße
+housenumber: "235"
+phone: +49 5231 961919
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/24/

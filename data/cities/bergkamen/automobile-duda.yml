@@ -1,11 +1,11 @@
 id: 778905408
-type: way
+type: node
 latitude: 51.62825
 longitude: 7.65698
 postcode: "59192"
 city: Bergkamen
-street: "Am Schlagbaum"
-housenumber: 24
-phone: "+49 2307 2777333"
-opening_hours: "Mo-Fr 09:00-18:00; Sa nach Vereinbarung"
-website: "https://www.automobile-duda.de"
+street: Am Schlagbaum
+housenumber: "24"
+phone: +49 2307 2777333
+opening_hours: Mo-Fr 09:00-18:00; Sa "nach Vereinbarung"
+website: https://www.automobile-duda.de

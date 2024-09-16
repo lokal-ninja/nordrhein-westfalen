@@ -1,11 +1,11 @@
 id: 194779990
-type: way
+type: node
 latitude: 51.65997
 longitude: 6.95622
 postcode: "46282"
 city: Dorsten
-street: "Hafenstraße"
+street: Hafenstraße
 housenumber: 1a
 phone: "+4923629997715"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; We off; Sa 10:00-14:00"
-website: "https://radsport-bomm.com/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; We off; Sa 10:00-14:00
+website: https://radsport-bomm.com/

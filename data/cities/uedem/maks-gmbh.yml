@@ -1,11 +1,11 @@
 id: 265862435
-type: way
+type: node
 latitude: 51.65766
 longitude: 6.27398
 postcode: "47589"
 city: Uedem
-street: "Molkereistraße"
-housenumber: 61
-phone: "+49 2825 89-500"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-14:00"
-website: "https://www.maksmacht.de/"
+street: Molkereistraße
+housenumber: "61"
+phone: +49 2825 89-500
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-14:00
+website: https://www.maksmacht.de/

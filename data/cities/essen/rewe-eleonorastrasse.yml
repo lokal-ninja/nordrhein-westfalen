@@ -1,11 +1,11 @@
 id: 45731817
-type: way
+type: node
 latitude: 51.43702
 longitude: 7.02601
 postcode: "45136"
 city: Essen
-street: "Eleonorastraße"
-housenumber: 42
-phone: "+49201 8 96 56 03"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Eleonorastraße
+housenumber: "42"
+phone: +49201 8 96 56 03
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

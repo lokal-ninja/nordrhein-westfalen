@@ -1,11 +1,11 @@
 id: 94517499
-type: way
+type: node
 latitude: 50.60877
 longitude: 6.3065
 postcode: "52152"
 city: Simmerath
-street: "Humboldtstraße"
-housenumber: 25
-phone: "+49 2473 1662"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su,PH off"
-website: "https://www.fressnapf.de/maerkte/fressnapf-simmerath"
+street: Humboldtstraße
+housenumber: "25"
+phone: +49 2473 1662
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su,PH off
+website: https://www.fressnapf.de/maerkte/fressnapf-simmerath

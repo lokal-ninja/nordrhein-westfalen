@@ -1,11 +1,11 @@
 id: 104864684
-type: way
+type: node
 latitude: 52.07146
 longitude: 8.75822
 postcode: "32108"
 city: Bad Salzuflen
-street: "Schloßstraße"
-housenumber: 21
-phone: "+49 5222 6395111"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.kuechen-sudio.de"
+street: Schloßstraße
+housenumber: "21"
+phone: +49 5222 6395111
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.kuechen-sudio.de

@@ -1,11 +1,11 @@
 id: 27921927
-type: way
+type: node
 latitude: 51.54441
 longitude: 6.91855
 postcode: "46240"
 city: Bottrop
-street: "Kirchhellener Straße"
-housenumber: 265
+street: Kirchhellener Straße
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

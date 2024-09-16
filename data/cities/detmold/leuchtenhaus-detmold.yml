@@ -1,11 +1,11 @@
 id: 102862562
-type: way
+type: node
 latitude: 51.93575
 longitude: 8.8659
 postcode: "32756"
 city: Detmold
-street: "Bielefelder Straße"
-housenumber: 38
-phone: "+49 5231 300793"
-opening_hours: "Mo-Tu,Th-Fr 09:30-13:00,15:00-18:00; We,Sa 09:30-13:00; PH off"
-website: "https://www.leuchtenhaus-detmold.de/"
+street: Bielefelder Straße
+housenumber: "38"
+phone: +49 5231 300793
+opening_hours: Mo-Tu,Th-Fr 09:30-13:00,15:00-18:00; We,Sa 09:30-13:00; PH off
+website: https://www.leuchtenhaus-detmold.de/

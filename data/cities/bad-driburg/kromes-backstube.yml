@@ -1,11 +1,11 @@
 id: 250453506
-type: way
+type: node
 latitude: 51.72148
 longitude: 9.01459
 postcode: "33014"
 city: Bad Driburg
-street: "Südenfeldmark"
-housenumber: 20
+street: Südenfeldmark
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313143518
-type: way
+type: node
 latitude: 51.88226
 longitude: 9.28393
 postcode: "32676"
 city: Lügde
-street: "Klostertor"
-housenumber: 7
-phone: "+49 5283 1500"
+street: Klostertor
+housenumber: "7"
+phone: +49 5283 1500
 opening_hours: ""
-website: "https://www.kachelofen-loehr-meyer.de/"
+website: https://www.kachelofen-loehr-meyer.de/

@@ -1,11 +1,11 @@
 id: 37388779
-type: way
+type: node
 latitude: 51.30648
 longitude: 7.38978
 postcode: "58256"
 city: Ennepetal
-street: "Hagener Straße"
-housenumber: 2
+street: Hagener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 128978832
-type: way
+type: node
 latitude: 50.9265
 longitude: 6.65685
 postcode: "50127"
 city: Bergheim
-street: "In der Freiheit"
-housenumber: 4
+street: In der Freiheit
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.baecker-schneider.de/"
+website: https://www.baecker-schneider.de/

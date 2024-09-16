@@ -4,8 +4,8 @@ latitude: 52.02994
 longitude: 8.53491
 postcode: "33602"
 city: Bielefeld
-street: "Nahariyastraße"
-housenumber: 3
-phone: "+49 521 139645"
-opening_hours: "Tu-Fr 11:00-19:00; Sa auf Nachfrage"
-website: "http://www.etiennes-radladen.de/"
+street: Nahariyastraße
+housenumber: "3"
+phone: +49 521 139645
+opening_hours: Tu-Fr 11:00-19:00; Sa "auf Nachfrage"
+website: http://www.etiennes-radladen.de/

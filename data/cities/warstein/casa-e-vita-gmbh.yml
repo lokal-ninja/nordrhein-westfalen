@@ -1,11 +1,11 @@
 id: 178819529
-type: way
+type: node
 latitude: 51.49762
 longitude: 8.34554
 postcode: "59581"
 city: Warstein
-street: "Walter-Rathenau-Ring"
-housenumber: 46
+street: Walter-Rathenau-Ring
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-13:00"
-website: "https://www.casaevita.com/"
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-13:00
+website: https://www.casaevita.com/

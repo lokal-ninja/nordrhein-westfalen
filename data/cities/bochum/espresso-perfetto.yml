@@ -4,8 +4,8 @@ latitude: 51.48552
 longitude: 7.21739
 postcode: "44787"
 city: Bochum
-street: "Nordring"
-housenumber: 59
-phone: "+49 234 5864330"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://espressoperfetto.de/"
+street: Nordring
+housenumber: "59"
+phone: +49 234 5864330
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://espressoperfetto.de/

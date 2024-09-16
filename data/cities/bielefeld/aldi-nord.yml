@@ -4,8 +4,8 @@ latitude: 51.99743
 longitude: 8.48713
 postcode: "33649"
 city: Bielefeld
-street: "Carl-Severing-Straße"
-housenumber: 87
+street: Carl-Severing-Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/

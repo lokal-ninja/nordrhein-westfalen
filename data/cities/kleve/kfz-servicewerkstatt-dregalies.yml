@@ -1,11 +1,11 @@
 id: 380126517
-type: way
+type: node
 latitude: 51.7691
 longitude: 6.1176
 postcode: "47533"
 city: Kleve
-street: "Gertrud-Boss-Straße"
-housenumber: 6
+street: Gertrud-Boss-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

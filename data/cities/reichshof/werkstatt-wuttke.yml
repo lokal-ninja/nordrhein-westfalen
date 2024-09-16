@@ -1,11 +1,11 @@
 id: 390819397
-type: way
+type: node
 latitude: 50.93917
 longitude: 7.74816
 postcode: "51580"
 city: Reichshof
-street: "Crottorfer Straße"
-housenumber: 7
+street: Crottorfer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

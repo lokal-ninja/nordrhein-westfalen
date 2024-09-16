@@ -1,11 +1,11 @@
 id: 182068808
-type: way
+type: node
 latitude: 52.29808
 longitude: 7.65153
 postcode: "49479"
 city: Ibbenbüren
-street: "Am Hedwigsheim"
-housenumber: 46
+street: Am Hedwigsheim
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

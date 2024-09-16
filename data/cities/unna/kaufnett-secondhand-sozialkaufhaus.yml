@@ -1,11 +1,11 @@
 id: 97590123
-type: way
+type: node
 latitude: 51.53435
 longitude: 7.68457
 postcode: "59423"
 city: Unna
-street: "Westring"
-housenumber: 1
+street: Westring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

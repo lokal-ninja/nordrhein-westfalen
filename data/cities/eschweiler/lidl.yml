@@ -1,11 +1,11 @@
 id: 155443799
-type: way
+type: node
 latitude: 50.82337
 longitude: 6.25042
 postcode: "52249"
 city: Eschweiler
-street: "Auerbachstraße"
-housenumber: 17
+street: Auerbachstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/eschweiler/auerbachstr-17.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/eschweiler/auerbachstr-17.html

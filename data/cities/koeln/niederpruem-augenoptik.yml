@@ -4,8 +4,8 @@ latitude: 50.93609
 longitude: 6.94502
 postcode: "50667"
 city: Köln
-street: "Hahnenstraße"
-housenumber: 4
-phone: "+49 221 256858"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://niederpruem-augenoptik.de/"
+street: Hahnenstraße
+housenumber: "4"
+phone: +49 221 256858
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://niederpruem-augenoptik.de/

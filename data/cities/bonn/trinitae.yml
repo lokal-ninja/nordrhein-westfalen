@@ -4,8 +4,8 @@ latitude: 50.73703
 longitude: 7.10382
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 64
+street: Friedrichstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.trinitae.de/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.trinitae.de/

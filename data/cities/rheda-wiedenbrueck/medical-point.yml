@@ -1,11 +1,11 @@
 id: 273129671
-type: way
+type: node
 latitude: 51.85601
 longitude: 8.25906
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Röntgenstraße"
-housenumber: 2
+street: Röntgenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://shop.medicalpoint.de/"
+website: https://shop.medicalpoint.de/

@@ -4,8 +4,8 @@ latitude: 51.48529
 longitude: 7.22281
 postcode: "44791"
 city: Bochum
-street: "Bergstraße"
-housenumber: 26
+street: Bergstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-14:00; Sa 09:00-13:00"
+opening_hours: Mo off; Tu-Fr 09:00-14:00; Sa 09:00-13:00
 website: ""

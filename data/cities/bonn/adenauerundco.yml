@@ -4,8 +4,8 @@ latitude: 50.73638
 longitude: 7.10247
 postcode: "53111"
 city: Bonn
-street: "Wenzelgasse"
-housenumber: 18
-phone: "+49 228 72156401"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://adenauer.com/"
+street: Wenzelgasse
+housenumber: "18"
+phone: +49 228 72156401
+opening_hours: Mo-Sa 10:00-19:00
+website: https://adenauer.com/

@@ -1,11 +1,11 @@
 id: 133739762
-type: way
+type: node
 latitude: 51.15928
 longitude: 7.00718
 postcode: "42699"
 city: Solingen
-street: "Kamper Straße"
-housenumber: 29
+street: Kamper Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

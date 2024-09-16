@@ -1,11 +1,11 @@
 id: 25579248
-type: way
+type: node
 latitude: 51.57488
 longitude: 7.30548
 postcode: "44579"
 city: Castrop-Rauxel
-street: "Wartburgstraße"
-housenumber: 12
+street: Wartburgstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/castrop-rauxel/wartburgstr-12/6117"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/castrop-rauxel/wartburgstr-12/6117

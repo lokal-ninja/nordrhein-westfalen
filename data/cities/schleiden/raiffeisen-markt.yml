@@ -1,11 +1,11 @@
 id: 329658786
-type: way
+type: node
 latitude: 50.51795
 longitude: 6.46567
 postcode: "53937"
 city: Schleiden
-street: "An der Olef"
-housenumber: 56
+street: An der Olef
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.raiffeisenmarkt.de/raiffeisen-markt-schleiden-schleiden"
+website: https://www.raiffeisenmarkt.de/raiffeisen-markt-schleiden-schleiden

@@ -1,11 +1,11 @@
 id: 89288508
-type: way
+type: node
 latitude: 50.8177
 longitude: 7.12525
 postcode: "53842"
 city: Troisdorf
-street: "Industriestraße"
-housenumber: 18
-phone: "+49 2241 96290"
+street: Industriestraße
+housenumber: "18"
+phone: +49 2241 96290
 opening_hours: ""
-website: "https://www.kfz-dressler.de/"
+website: https://www.kfz-dressler.de/

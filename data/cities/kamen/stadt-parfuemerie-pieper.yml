@@ -1,11 +1,11 @@
 id: 129106566
-type: way
+type: node
 latitude: 51.59257
 longitude: 7.66326
 postcode: "59174"
 city: Kamen
-street: "Willy-Brandt-Platz"
-housenumber: 6
-phone: "+49 2307 15080"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-15:00"
-website: "https://www.parfuemerie-pieper.de/"
+street: Willy-Brandt-Platz
+housenumber: "6"
+phone: +49 2307 15080
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-15:00
+website: https://www.parfuemerie-pieper.de/

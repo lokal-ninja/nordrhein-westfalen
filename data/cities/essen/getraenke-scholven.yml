@@ -1,11 +1,11 @@
 id: 27616358
-type: way
+type: node
 latitude: 51.48806
 longitude: 6.95818
 postcode: "45356"
 city: Essen
-street: "Alte Bottroper Straße"
-housenumber: 93
+street: Alte Bottroper Straße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

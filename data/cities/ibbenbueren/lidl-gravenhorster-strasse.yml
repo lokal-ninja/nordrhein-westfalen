@@ -1,11 +1,11 @@
 id: 308893305
-type: way
+type: node
 latitude: 52.2743
 longitude: 7.6806
 postcode: "49477"
 city: Ibbenbüren
-street: "Gravenhorster Straße"
-housenumber: 126
+street: Gravenhorster Straße
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

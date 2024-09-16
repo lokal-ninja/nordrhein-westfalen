@@ -4,8 +4,8 @@ latitude: 50.79969
 longitude: 7.21077
 postcode: "53721"
 city: Siegburg
-street: "Grimmelsgasse"
-housenumber: 32
-phone: "+49 2241 14 67 14"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.thaimassage-siegburg.de/"
+street: Grimmelsgasse
+housenumber: "32"
+phone: +49 2241 14 67 14
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.thaimassage-siegburg.de/

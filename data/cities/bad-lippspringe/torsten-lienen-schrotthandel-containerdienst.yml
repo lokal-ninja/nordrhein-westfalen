@@ -4,8 +4,8 @@ latitude: 51.77543
 longitude: 8.8027
 postcode: "33175"
 city: Bad Lippspringe
-street: "Neuhäuser Weg"
-housenumber: 4
+street: Neuhäuser Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-14:00"
-website: "https://www.lienen-recycling.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-14:00
+website: https://www.lienen-recycling.de/

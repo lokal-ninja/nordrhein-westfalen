@@ -1,11 +1,11 @@
 id: 188178044
-type: way
+type: node
 latitude: 51.44225
 longitude: 6.75515
 postcode: "47059"
 city: Duisburg
-street: "Ruhrdeich"
-housenumber: 120
+street: Ruhrdeich
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 08:00-13:00
 website: ""

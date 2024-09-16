@@ -4,8 +4,8 @@ latitude: 51.74454
 longitude: 7.18903
 postcode: "45721"
 city: Haltern am See
-street: "Lippmauer"
-housenumber: 1
-phone: "+49 2364 5074460"
-opening_hours: "Mo-Su 10:00-23:00"
+street: Lippmauer
+housenumber: "1"
+phone: +49 2364 5074460
+opening_hours: Mo-Su 10:00-23:00
 website: ""

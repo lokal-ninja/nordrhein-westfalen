@@ -1,11 +1,11 @@
 id: 75222028
-type: way
+type: node
 latitude: 51.49054
 longitude: 6.98781
 postcode: "45356"
 city: Essen
-street: "Vogelheimer Straße"
-housenumber: 232
+street: Vogelheimer Straße
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

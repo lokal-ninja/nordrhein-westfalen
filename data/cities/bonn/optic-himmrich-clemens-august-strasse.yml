@@ -4,8 +4,8 @@ latitude: 50.72245
 longitude: 7.08894
 postcode: "53115"
 city: Bonn
-street: "Clemens-August-Straße"
-housenumber: 51
-phone: "+49 228 217388"
-opening_hours: "Tu-Fr 14:00-18:00"
-website: "https://optic-himmrich.de/"
+street: Clemens-August-Straße
+housenumber: "51"
+phone: +49 228 217388
+opening_hours: Tu-Fr 14:00-18:00
+website: https://optic-himmrich.de/

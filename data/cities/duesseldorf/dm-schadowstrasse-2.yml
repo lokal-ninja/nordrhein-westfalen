@@ -4,8 +4,8 @@ latitude: 51.22514
 longitude: 6.78194
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 11
-phone: "+49 211 15973235"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dm.de/"
+street: Schadowstraße
+housenumber: "11"
+phone: +49 211 15973235
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dm.de/

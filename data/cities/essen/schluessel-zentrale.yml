@@ -4,8 +4,8 @@ latitude: 51.44032
 longitude: 7.00668
 postcode: "45130"
 city: Essen
-street: "Witteringstraße"
-housenumber: 2
+street: Witteringstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.schluessel-zentrale-essen.de/"
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.schluessel-zentrale-essen.de/

@@ -4,8 +4,8 @@ latitude: 51.20102
 longitude: 6.68757
 postcode: "41460"
 city: Neuss
-street: "Niederstraße"
-housenumber: 4
-phone: "+49 2131 7619558"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.humana-second-hand.de/"
+street: Niederstraße
+housenumber: "4"
+phone: +49 2131 7619558
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.humana-second-hand.de/

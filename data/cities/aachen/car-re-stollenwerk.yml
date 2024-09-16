@@ -1,11 +1,11 @@
 id: 85612586
-type: way
+type: node
 latitude: 50.76686
 longitude: 6.09861
 postcode: "52066"
 city: Aachen
-street: "Warmweiherstraße"
-housenumber: 54
+street: Warmweiherstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

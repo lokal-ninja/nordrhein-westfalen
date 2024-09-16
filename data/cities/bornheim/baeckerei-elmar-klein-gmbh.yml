@@ -4,8 +4,8 @@ latitude: 50.78428
 longitude: 7.03073
 postcode: "53332"
 city: Bornheim
-street: "Parkstraße"
-housenumber: 52
-phone: "+49 2222 8764"
-opening_hours: "Mo-Sa 06:30-12:00, Su 08:00-11:00"
-website: "https://www.baeckerei-klein.de"
+street: Parkstraße
+housenumber: "52"
+phone: +49 2222 8764
+opening_hours: Mo-Sa 06:30-12:00, Su 08:00-11:00
+website: https://www.baeckerei-klein.de

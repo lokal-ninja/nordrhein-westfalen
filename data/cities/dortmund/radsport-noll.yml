@@ -4,8 +4,8 @@ latitude: 51.52219
 longitude: 7.4643
 postcode: "44145"
 city: Dortmund
-street: "Münsterstraße"
-housenumber: 52
+street: Münsterstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:30; Mo off"
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:30; Mo off
 website: ""

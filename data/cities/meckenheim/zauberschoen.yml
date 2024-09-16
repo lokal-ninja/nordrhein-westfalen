@@ -4,8 +4,8 @@ latitude: 50.62666
 longitude: 7.03801
 postcode: "53340"
 city: Meckenheim
-street: "Markeeweg"
-housenumber: 8
-phone: "+49 2225 9098900"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00"
+street: Markeeweg
+housenumber: "8"
+phone: +49 2225 9098900
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.02922
 longitude: 8.90111
 postcode: "32657"
 city: Lemgo
-street: "Echternstraße"
-housenumber: 74
-phone: "+49 5261 16757"
-opening_hours: "Mo-Fr 09:30-18:00; Sa  nur nach Vereinbarung"
+street: Echternstraße
+housenumber: "74"
+phone: +49 5261 16757
+opening_hours: Mo-Fr 09:30-18:00; Sa " nur nach Vereinbarung"
 website: ""

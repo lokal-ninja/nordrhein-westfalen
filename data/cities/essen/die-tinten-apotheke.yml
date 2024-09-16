@@ -4,8 +4,8 @@ latitude: 51.36188
 longitude: 6.94659
 postcode: "45219"
 city: Essen
-street: "Ringstraße"
-housenumber: 1
+street: Ringstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00, Mo-Fr 14:30-18:00; PH Su off"
+opening_hours: Mo-Sa 10:00-13:00, Mo-Fr 14:30-18:00; PH Su off
 website: ""

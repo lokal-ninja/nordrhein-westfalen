@@ -1,11 +1,11 @@
 id: 330200239
-type: way
+type: node
 latitude: 51.35667
 longitude: 8.16842
 postcode: "59872"
 city: Meschede
-street: "Freienohler Straße"
-housenumber: 27
+street: Freienohler Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

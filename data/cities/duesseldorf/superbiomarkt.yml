@@ -4,8 +4,8 @@ latitude: 51.16534
 longitude: 6.87401
 postcode: "40597"
 city: Düsseldorf
-street: "Hauptstraße"
-housenumber: 47
+street: Hauptstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

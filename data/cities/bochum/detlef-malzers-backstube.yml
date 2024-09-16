@@ -4,8 +4,8 @@ latitude: 51.45753
 longitude: 7.17478
 postcode: "44869"
 city: Bochum
-street: "Am Thie"
-housenumber: 9
-phone: "+49 2327 790417"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Am Thie
+housenumber: "9"
+phone: +49 2327 790417
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

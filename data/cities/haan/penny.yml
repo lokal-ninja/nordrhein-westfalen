@@ -1,11 +1,11 @@
 id: 91854827
-type: way
+type: node
 latitude: 51.1991
 longitude: 7.01496
 postcode: "42781"
 city: Haan
-street: "Alleestraße"
-housenumber: 17
+street: Alleestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.89882
 longitude: 6.96553
 postcode: "50968"
 city: Köln
-street: "Reiterstaffelplatz"
-housenumber: 2
-phone: "+49 221 56037563"
-opening_hours: "Mo-We 15:00-19:00,Th 15:00-20:00,Fr 13:00-20:00,Sa 10:00-16:00,Su closed"
+street: Reiterstaffelplatz
+housenumber: "2"
+phone: +49 221 56037563
+opening_hours: Mo-We 15:00-19:00,Th 15:00-20:00,Fr 13:00-20:00,Sa 10:00-16:00,Su closed
 website: ""

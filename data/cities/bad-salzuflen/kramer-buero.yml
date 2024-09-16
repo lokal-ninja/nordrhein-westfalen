@@ -1,11 +1,11 @@
 id: 107869290
-type: way
+type: node
 latitude: 52.07295
 longitude: 8.75604
 postcode: "32108"
 city: Bad Salzuflen
-street: "Schülerstraße"
-housenumber: 22
-phone: "+49 5222 81511"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://bestattungen-kramer.de/"
+street: Schülerstraße
+housenumber: "22"
+phone: +49 5222 81511
+opening_hours: Mo-Fr 08:00-17:00
+website: https://bestattungen-kramer.de/

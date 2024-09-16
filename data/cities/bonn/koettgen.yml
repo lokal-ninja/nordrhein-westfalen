@@ -4,8 +4,8 @@ latitude: 50.71579
 longitude: 7.0496
 postcode: "53123"
 city: Bonn
-street: "Rochusstraße"
-housenumber: 180
-phone: "+49 228 625550"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa-Su,PH off"
+street: Rochusstraße
+housenumber: "180"
+phone: +49 228 625550
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa-Su,PH off
 website: ""

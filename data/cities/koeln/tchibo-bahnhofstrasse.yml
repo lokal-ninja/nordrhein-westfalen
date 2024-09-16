@@ -4,8 +4,8 @@ latitude: 50.88366
 longitude: 7.05764
 postcode: "51143"
 city: Köln
-street: "Bahnhofstraße"
-housenumber: 28
-phone: "+49 2203 951254"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.tchibo.de/"
+street: Bahnhofstraße
+housenumber: "28"
+phone: +49 2203 951254
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.tchibo.de/

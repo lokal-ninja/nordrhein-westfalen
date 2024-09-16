@@ -1,11 +1,11 @@
 id: 135188772
-type: way
+type: node
 latitude: 51.20177
 longitude: 6.70255
 postcode: "41460"
 city: Neuss
-street: "Hammer Landstraße"
-housenumber: 45
+street: Hammer Landstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 310840950
-type: way
+type: node
 latitude: 51.97749
 longitude: 7.29047
 postcode: "48727"
 city: Billerbeck
-street: "Lange Straße"
-housenumber: 6
-phone: "+49 2543 1608"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 10:00-13:00"
-website: "http://www.raumausstattung-averstegge.de"
+street: Lange Straße
+housenumber: "6"
+phone: +49 2543 1608
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 10:00-13:00
+website: http://www.raumausstattung-averstegge.de

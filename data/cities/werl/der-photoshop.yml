@@ -4,8 +4,8 @@ latitude: 51.55627
 longitude: 7.91195
 postcode: "59457"
 city: Werl
-street: "Walburgisstraße"
-housenumber: 1
+street: Walburgisstraße
+housenumber: "1"
 phone: "+492922911717"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.der-photoshop.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.der-photoshop.de/

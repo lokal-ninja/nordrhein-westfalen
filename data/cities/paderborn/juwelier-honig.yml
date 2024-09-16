@@ -4,8 +4,8 @@ latitude: 51.71666
 longitude: 8.75504
 postcode: "33098"
 city: Paderborn
-street: "Kamp"
-housenumber: 15
+street: Kamp
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://honigjuwelen.de"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://honigjuwelen.de

@@ -4,8 +4,8 @@ latitude: 51.19259
 longitude: 6.51318
 postcode: "41352"
 city: Korschenbroich
-street: "Hindenburgstraße"
-housenumber: 23
-phone: "+49 2161 4020302"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.rottler.de/standort-waehlen/korschenbroich-akustik/"
+street: Hindenburgstraße
+housenumber: "23"
+phone: +49 2161 4020302
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.rottler.de/standort-waehlen/korschenbroich-akustik/

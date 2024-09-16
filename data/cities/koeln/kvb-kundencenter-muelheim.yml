@@ -1,11 +1,11 @@
 id: 494207157
-type: way
+type: node
 latitude: 50.96214
 longitude: 7.00411
 postcode: "51065"
 city: Köln
-street: "Wiener Platz"
-housenumber: 
+street: Wiener Platz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:30-14:00; Su,PH off"
-website: "https://www.kvb.koeln/tickets/ticketkauf/kundencenter.html"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:30-14:00; Su,PH off
+website: https://www.kvb.koeln/tickets/ticketkauf/kundencenter.html

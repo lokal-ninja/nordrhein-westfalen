@@ -1,11 +1,11 @@
 id: 376238365
-type: way
+type: node
 latitude: 51.79379
 longitude: 8.42664
 postcode: "33397"
 city: Rietberg
-street: "Industriestraße"
-housenumber: 48
+street: Industriestraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

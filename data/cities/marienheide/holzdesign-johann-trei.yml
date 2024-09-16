@@ -1,11 +1,11 @@
 id: 224302148
-type: way
+type: node
 latitude: 51.07557
 longitude: 7.55459
 postcode: "51709"
 city: Marienheide
-street: "Gummersbacher Straße"
-housenumber: 15
+street: Gummersbacher Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

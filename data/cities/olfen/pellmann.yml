@@ -1,11 +1,11 @@
 id: 272360610
-type: way
+type: node
 latitude: 51.70878
 longitude: 7.3782
 postcode: "59399"
 city: Olfen
-street: "Nordwall"
-housenumber: 11
+street: Nordwall
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

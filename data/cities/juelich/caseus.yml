@@ -4,8 +4,8 @@ latitude: 50.92233
 longitude: 6.35756
 postcode: "52428"
 city: Jülich
-street: "Düsseldorfer Straße"
-housenumber: 3
+street: Düsseldorfer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 08:00-14:00; Su,Mo,PH off"
-website: "http://www.weinundkaese.com/"
+opening_hours: Tu-Fr 09:30-18:30; Sa 08:00-14:00; Su,Mo,PH off
+website: http://www.weinundkaese.com/

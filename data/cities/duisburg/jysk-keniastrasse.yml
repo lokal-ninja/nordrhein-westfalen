@@ -1,11 +1,11 @@
 id: 287503316
-type: way
+type: node
 latitude: 51.37718
 longitude: 6.77317
 postcode: "47269"
 city: Duisburg
-street: "Keniastraße"
-housenumber: 39
+street: Keniastraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
 website: ""

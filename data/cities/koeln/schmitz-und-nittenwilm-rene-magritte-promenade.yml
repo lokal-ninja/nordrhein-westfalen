@@ -4,8 +4,8 @@ latitude: 50.92459
 longitude: 6.87298
 postcode: "50858"
 city: Köln
-street: "René-Magritte-Promenade"
-housenumber: 1
+street: René-Magritte-Promenade
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-14:00; Su 08:00-13:00"
-website: "https://schmitz-nittenwilm.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-14:00; Su 08:00-13:00
+website: https://schmitz-nittenwilm.de/

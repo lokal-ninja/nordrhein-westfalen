@@ -1,11 +1,11 @@
 id: 190302037
-type: way
+type: node
 latitude: 51.57446
 longitude: 7.21141
 postcode: "45661"
 city: Recklinghausen
-street: "Im Reitwinkel"
-housenumber: 4
+street: Im Reitwinkel
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.73586
 longitude: 7.09541
 postcode: "53111"
 city: Bonn
-street: "Thomas-Mann-Straße"
-housenumber: 17
+street: Thomas-Mann-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
 website: ""

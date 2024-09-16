@@ -1,11 +1,11 @@
 id: 41771230
-type: way
+type: node
 latitude: 50.81674
 longitude: 6.98631
 postcode: "50389"
 city: Wesseling
-street: "Kronenweg"
-housenumber: 19
+street: Kronenweg
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

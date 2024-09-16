@@ -1,11 +1,11 @@
 id: 58992863
-type: way
+type: node
 latitude: 50.73771
 longitude: 7.08349
 postcode: "53119"
 city: Bonn
-street: "Bornheimer Straße"
-housenumber: 128
+street: Bornheimer Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 555439349
-type: way
+type: node
 latitude: 50.71537
 longitude: 7.04954
 postcode: "53123"
 city: Bonn
-street: "Rochusstraße"
-housenumber: 177
+street: Rochusstraße
+housenumber: "177"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa-Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa-Su,PH off
 website: ""

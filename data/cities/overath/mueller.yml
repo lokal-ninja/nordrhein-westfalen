@@ -4,8 +4,8 @@ latitude: 50.93312
 longitude: 7.2888
 postcode: "51491"
 city: Overath
-street: "Bahnhofplatz"
-housenumber: 9
+street: Bahnhofplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.die-baeckerei-mueller.de/overath"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.die-baeckerei-mueller.de/overath

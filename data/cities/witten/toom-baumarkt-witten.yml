@@ -1,11 +1,11 @@
 id: 159656000
-type: way
+type: node
 latitude: 51.44146
 longitude: 7.34974
 postcode: "58455"
 city: Witten
-street: "Dortmunder Straße"
-housenumber: 21
+street: Dortmunder Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00; Su,PH off"
-website: "https://toom.de/m/witten/"
+opening_hours: Mo-Th,Sa 08:00-20:00; Fr 08:00-22:00; Su,PH off
+website: https://toom.de/m/witten/

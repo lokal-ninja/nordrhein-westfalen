@@ -1,11 +1,11 @@
 id: 294072762
-type: way
+type: node
 latitude: 51.78852
 longitude: 6.23355
 postcode: "47551"
 city: Bedburg-Hau
-street: "Fährstraße"
-housenumber: 3
-phone: "+49 (0)2824 7479"
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We 14:30-18:00; Sa 10:00-13:00"
-website: "http://www.van-haren.de"
+street: Fährstraße
+housenumber: "3"
+phone: +49 (0)2824 7479
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We 14:30-18:00; Sa 10:00-13:00
+website: http://www.van-haren.de

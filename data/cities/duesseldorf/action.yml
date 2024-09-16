@@ -4,8 +4,8 @@ latitude: 51.26232
 longitude: 6.81224
 postcode: "40472"
 city: Düsseldorf
-street: "Westfalenstraße"
-housenumber: 11
+street: Westfalenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 9:00-20:00"
-website: "https://www.action.com"
+opening_hours: Mo-Sa 9:00-20:00
+website: https://www.action.com

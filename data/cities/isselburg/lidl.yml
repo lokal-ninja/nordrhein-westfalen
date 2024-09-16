@@ -1,11 +1,11 @@
 id: 50660872
-type: way
+type: node
 latitude: 51.84653
 longitude: 6.43668
 postcode: "46419"
 city: Isselburg
-street: "Linders Feld"
-housenumber: 1
+street: Linders Feld
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

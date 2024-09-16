@@ -1,11 +1,11 @@
 id: 29139212
-type: way
+type: node
 latitude: 50.8055
 longitude: 6.48151
 postcode: "52349"
 city: Düren
-street: "Josef-Schregel-Straße"
-housenumber: 5
+street: Josef-Schregel-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

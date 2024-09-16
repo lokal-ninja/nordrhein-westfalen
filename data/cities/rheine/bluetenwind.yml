@@ -4,8 +4,8 @@ latitude: 52.22763
 longitude: 7.48865
 postcode: "48432"
 city: Rheine
-street: "Alte Bahnhofstraße"
-housenumber: 22
+street: Alte Bahnhofstraße
+housenumber: "22"
 phone: "+495975919973"
-opening_hours: "Tu-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30"
-website: "https://www.bluetenwind.de/"
+opening_hours: Tu-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30
+website: https://www.bluetenwind.de/

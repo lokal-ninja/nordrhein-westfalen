@@ -1,11 +1,11 @@
 id: 113859480
-type: way
+type: node
 latitude: 51.20811
 longitude: 6.68057
 postcode: "41462"
 city: Neuss
-street: "Ripuarierstraße"
+street: Ripuarierstraße
 housenumber: 2a
-phone: "+49-2131-50291"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-13:00"
-website: "https://otte-erz.de/"
+phone: +49-2131-50291
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-13:00
+website: https://otte-erz.de/

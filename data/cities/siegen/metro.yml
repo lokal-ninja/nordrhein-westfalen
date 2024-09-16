@@ -1,11 +1,11 @@
 id: 196921235
-type: way
+type: node
 latitude: 50.85641
 longitude: 8.00919
 postcode: "57072"
 city: Siegen
-street: "Eiserfelder Straße"
-housenumber: 176
+street: Eiserfelder Straße
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

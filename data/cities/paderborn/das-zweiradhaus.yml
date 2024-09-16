@@ -4,8 +4,8 @@ latitude: 51.748
 longitude: 8.71597
 postcode: "33104"
 city: Paderborn
-street: "Hatzfelder Straße"
-housenumber: 7
+street: Hatzfelder Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:00,14:00-18:00"
-website: "http://www.daszweiradhaus.com/"
+opening_hours: Mo-Fr 11:00-13:00,14:00-18:00
+website: http://www.daszweiradhaus.com/

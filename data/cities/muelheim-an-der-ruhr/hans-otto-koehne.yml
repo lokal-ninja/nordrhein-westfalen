@@ -4,8 +4,8 @@ latitude: 51.42667
 longitude: 6.86065
 postcode: "45479"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 131
-phone: "+49 208 5942894"
-opening_hours: "Mo-Fr,Sa 09:30-13:00, Mo-Fr 16:00-18:30; Th off"
-website: "http://hans-otto-koehne.de/"
+street: Duisburger Straße
+housenumber: "131"
+phone: +49 208 5942894
+opening_hours: Mo-Fr,Sa 09:30-13:00, Mo-Fr 16:00-18:30; Th off
+website: http://hans-otto-koehne.de/

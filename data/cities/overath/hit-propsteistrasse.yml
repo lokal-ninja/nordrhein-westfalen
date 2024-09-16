@@ -1,11 +1,11 @@
 id: 116220914
-type: way
+type: node
 latitude: 50.92957
 longitude: 7.28075
 postcode: "51491"
 city: Overath
-street: "Propsteistraße"
-housenumber: 20
+street: Propsteistraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90178094
-type: way
+type: node
 latitude: 50.78843
 longitude: 7.21281
 postcode: "53721"
 city: Siegburg
-street: "Händelstraße"
-housenumber: 7
+street: Händelstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

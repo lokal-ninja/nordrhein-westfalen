@@ -4,8 +4,8 @@ latitude: 51.4705
 longitude: 7.13294
 postcode: "44867"
 city: Bochum
-street: "Kantstraße"
-housenumber: 25
+street: Kantstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 13:30-17:00; Sa 09:00-12:00"
-website: "https://www.fliesen-russig.de/"
+opening_hours: Mo-Fr 08:00-12:30, 13:30-17:00; Sa 09:00-12:00
+website: https://www.fliesen-russig.de/

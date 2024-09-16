@@ -4,8 +4,8 @@ latitude: 50.9141
 longitude: 6.71006
 postcode: "50169"
 city: Kerpen
-street: "Hauptstraße"
-housenumber: 164
+street: Hauptstraße
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://www.baeckerei-heinemann.com"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 07:00-17:00
+website: https://www.baeckerei-heinemann.com

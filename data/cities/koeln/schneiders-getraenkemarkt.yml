@@ -1,11 +1,11 @@
 id: 260317490
-type: way
+type: node
 latitude: 50.98736
 longitude: 6.90999
 postcode: "50739"
 city: Köln
-street: "Robert-Perthel-Straße"
-housenumber: 51
+street: Robert-Perthel-Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-15:00; PH,Su off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-15:00; PH,Su off
 website: ""

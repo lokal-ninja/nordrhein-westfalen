@@ -1,11 +1,11 @@
 id: 280961302
-type: way
+type: node
 latitude: 51.67678
 longitude: 6.49602
 postcode: "46487"
 city: Wesel
-street: "Frankenstraße"
-housenumber: 22
+street: Frankenstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:30-12:30
 website: ""

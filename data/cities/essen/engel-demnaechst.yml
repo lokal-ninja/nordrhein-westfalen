@@ -1,11 +1,11 @@
 id: 542948940
-type: way
+type: node
 latitude: 51.47446
 longitude: 6.91485
 postcode: "45359"
 city: Essen
-street: "Frintroper Straße"
-housenumber: 414
+street: Frintroper Straße
+housenumber: "414"
 phone: ""
 opening_hours: ""
 website: ""

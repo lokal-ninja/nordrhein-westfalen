@@ -1,11 +1,11 @@
 id: 89567674
-type: way
+type: node
 latitude: 50.80121
 longitude: 6.78005
 postcode: "50374"
 city: Erftstadt
-street: "Bonner Ring"
-housenumber: 1
+street: Bonner Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

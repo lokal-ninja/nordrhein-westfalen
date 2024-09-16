@@ -4,8 +4,8 @@ latitude: 51.21494
 longitude: 6.78616
 postcode: "40215"
 city: Düsseldorf
-street: "Hüttenstraße"
-housenumber: 57
+street: Hüttenstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-We,Fr 12:30-18:30;Th 14:00-18:30;Sa 11:00-14:00"
-website: "http://www.lefreaketchic.de/"
+opening_hours: Mo-We,Fr 12:30-18:30;Th 14:00-18:30;Sa 11:00-14:00
+website: http://www.lefreaketchic.de/

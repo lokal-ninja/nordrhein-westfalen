@@ -4,8 +4,8 @@ latitude: 51.1455
 longitude: 6.21099
 postcode: "41844"
 city: Wegberg
-street: "Heiderstraße"
-housenumber: 54
-phone: "+49 2436 1487"
-opening_hours: "Tu-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su-Mo,PH off"
+street: Heiderstraße
+housenumber: "54"
+phone: +49 2436 1487
+opening_hours: Tu-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su-Mo,PH off
 website: ""

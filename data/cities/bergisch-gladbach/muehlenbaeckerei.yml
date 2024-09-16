@@ -4,8 +4,8 @@ latitude: 50.9904
 longitude: 7.10757
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Gustav-Stresemann-Straße"
-housenumber: 16
+street: Gustav-Stresemann-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00"
-website: "https://muehlenbaeckerei-scherbarth.de/"
+opening_hours: Mo-Fr 08:00-13:00, 15:00-18:00; Sa 08:00-13:00
+website: https://muehlenbaeckerei-scherbarth.de/

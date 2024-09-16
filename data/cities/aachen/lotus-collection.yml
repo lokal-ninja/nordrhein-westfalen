@@ -4,8 +4,8 @@ latitude: 50.77434
 longitude: 6.08228
 postcode: "52062"
 city: Aachen
-street: "Annastraße"
-housenumber: 7
+street: Annastraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00; PH,Su,Mo off"
-website: "http://www.lotuscollection.com/"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00; PH,Su,Mo off
+website: http://www.lotuscollection.com/

@@ -1,11 +1,11 @@
 id: 113018876
-type: way
+type: node
 latitude: 50.8826
 longitude: 7.18668
 postcode: "51503"
 city: Rösrath
-street: "Hans-Böckler-Straße"
-housenumber: 50
-phone: "+49 2205 4100"
+street: Hans-Böckler-Straße
+housenumber: "50"
+phone: +49 2205 4100
 opening_hours: ""
-website: "http://www.eifler-kfz.de/"
+website: http://www.eifler-kfz.de/

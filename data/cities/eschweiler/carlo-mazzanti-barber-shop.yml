@@ -4,8 +4,8 @@ latitude: 50.81947
 longitude: 6.26515
 postcode: "52249"
 city: Eschweiler
-street: "Englerthstraße"
-housenumber: 35
-phone: "+49 2403 519198"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-14:00"
-website: "https://www.old-school-barbershop.de/"
+street: Englerthstraße
+housenumber: "35"
+phone: +49 2403 519198
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-14:00
+website: https://www.old-school-barbershop.de/

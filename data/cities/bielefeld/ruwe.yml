@@ -4,8 +4,8 @@ latitude: 52.02662
 longitude: 8.53661
 postcode: "33602"
 city: Bielefeld
-street: "Neumarkt"
-housenumber: 13
+street: Neumarkt
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00"
-website: "https://www.baeckerei-ruwe.de/index.php/backstube-neumarkt-13"
+opening_hours: Mo-Fr 06:30-18:00
+website: https://www.baeckerei-ruwe.de/index.php/backstube-neumarkt-13

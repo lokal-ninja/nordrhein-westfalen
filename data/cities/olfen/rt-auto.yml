@@ -1,11 +1,11 @@
 id: 640049115
-type: way
+type: node
 latitude: 51.70299
 longitude: 7.39119
 postcode: "59399"
 city: Olfen
-street: "Schlosserstraße"
-housenumber: 22
+street: Schlosserstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

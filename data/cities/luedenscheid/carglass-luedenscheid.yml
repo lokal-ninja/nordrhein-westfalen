@@ -1,11 +1,11 @@
 id: 251879108
-type: way
+type: node
 latitude: 51.22648
 longitude: 7.61529
 postcode: "58509"
 city: Lüdenscheid
-street: "Heedfelder Straße"
-housenumber: 68
+street: Heedfelder Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:30; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:30; Su off
 website: ""

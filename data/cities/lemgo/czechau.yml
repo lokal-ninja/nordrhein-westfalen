@@ -4,8 +4,8 @@ latitude: 52.02728
 longitude: 8.90079
 postcode: "32657"
 city: Lemgo
-street: "Breite Straße"
-housenumber: 65
-phone: "+49 5261 3939"
-opening_hours: "Mo-Fr 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; Sa 09:30-14:00; PH off"
-website: "https://www.czechau.de/"
+street: Breite Straße
+housenumber: "65"
+phone: +49 5261 3939
+opening_hours: Mo-Fr 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; Sa 09:30-14:00; PH off
+website: https://www.czechau.de/

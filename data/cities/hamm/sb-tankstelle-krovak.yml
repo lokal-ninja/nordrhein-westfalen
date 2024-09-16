@@ -1,11 +1,11 @@
 id: 235021954
-type: way
+type: node
 latitude: 51.69438
 longitude: 7.7502
 postcode: "59075"
 city: Hamm
-street: "Hammer Straße"
+street: Hammer Straße
 housenumber: 103c
 phone: ""
-opening_hours: "Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su 08:00-21:00"
+opening_hours: Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su 08:00-21:00
 website: ""

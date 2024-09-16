@@ -4,8 +4,8 @@ latitude: 51.82106
 longitude: 8.66035
 postcode: "33161"
 city: Hövelhof
-street: "Allee"
-housenumber: 25
+street: Allee
+housenumber: "25"
 phone: ""
-opening_hours: "Mo 7:00-19:00; Tu-Fr 9:30-13:00, 14:30-19:00; Sa 9:30-14:00"
-website: "https://franks-vinothek.de"
+opening_hours: Mo 7:00-19:00; Tu-Fr 9:30-13:00, 14:30-19:00; Sa 9:30-14:00
+website: https://franks-vinothek.de

@@ -4,8 +4,8 @@ latitude: 51.11681
 longitude: 6.96655
 postcode: "40764"
 city: Langenfeld
-street: "Hardt"
-housenumber: 7
+street: Hardt
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.holzleitner.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.holzleitner.de/

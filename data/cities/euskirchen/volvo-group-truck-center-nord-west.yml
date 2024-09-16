@@ -1,11 +1,11 @@
 id: 766687212
-type: way
+type: node
 latitude: 50.68176
 longitude: 6.83165
 postcode: "53881"
 city: Euskirchen
-street: "Schneppenheimer Weg"
-housenumber: 78
+street: Schneppenheimer Weg
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-13:30"
-website: "https://www.renault-trucks.de/aktuelles/euskirchen.html"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-13:30
+website: https://www.renault-trucks.de/aktuelles/euskirchen.html

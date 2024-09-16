@@ -1,11 +1,11 @@
 id: 251803771
-type: way
+type: node
 latitude: 51.07859
 longitude: 6.317
 postcode: "41812"
 city: Erkelenz
-street: "Südpromenade"
-housenumber: 43
+street: Südpromenade
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

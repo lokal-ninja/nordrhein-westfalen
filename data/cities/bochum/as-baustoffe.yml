@@ -1,11 +1,11 @@
 id: 149256349
-type: way
+type: node
 latitude: 51.46689
 longitude: 7.13635
 postcode: "44867"
 city: Bochum
-street: "Jung-Stilling-Straße"
-housenumber: 64
+street: Jung-Stilling-Straße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

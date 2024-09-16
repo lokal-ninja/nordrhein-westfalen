@@ -1,11 +1,11 @@
 id: 211121684
-type: way
+type: node
 latitude: 52.23647
 longitude: 7.47438
 postcode: "48432"
 city: Rheine
-street: "Stiegemannstraße"
-housenumber: 40
+street: Stiegemannstraße
+housenumber: "40"
 phone: "+4959753911"
 opening_hours: ""
-website: "https://kuechen-riks.de/"
+website: https://kuechen-riks.de/

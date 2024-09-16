@@ -1,11 +1,11 @@
 id: 225997251
-type: way
+type: node
 latitude: 50.76576
 longitude: 6.12793
 postcode: "52078"
 city: Aachen
-street: "Trierer Straße"
-housenumber: 169
-phone: "+49 241 97770"
-opening_hours: "Mo-Fr 07:15-18:30, Sa 08:00-16:00, Su 10:00-16:00"
-website: "https://www.jacobs-gruppe.de"
+street: Trierer Straße
+housenumber: "169"
+phone: +49 241 97770
+opening_hours: Mo-Fr 07:15-18:30, Sa 08:00-16:00, Su 10:00-16:00
+website: https://www.jacobs-gruppe.de

@@ -1,11 +1,11 @@
 id: 1042797426
-type: way
+type: node
 latitude: 50.88027
 longitude: 7.62396
 postcode: "51545"
 city: Waldbröl
-street: "Otto-Eichhorn-Straße"
-housenumber: 6
+street: Otto-Eichhorn-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

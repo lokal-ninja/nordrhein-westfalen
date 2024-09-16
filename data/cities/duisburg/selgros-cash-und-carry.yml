@@ -1,11 +1,11 @@
 id: 24901033
-type: way
+type: node
 latitude: 51.4177
 longitude: 6.69354
 postcode: "47228"
 city: Duisburg
-street: "Schauenstraße"
-housenumber: 32
-phone: "+49 2065 69010"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00"
-website: "https://www.selgros.de/markt/duisburg"
+street: Schauenstraße
+housenumber: "32"
+phone: +49 2065 69010
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-20:00
+website: https://www.selgros.de/markt/duisburg

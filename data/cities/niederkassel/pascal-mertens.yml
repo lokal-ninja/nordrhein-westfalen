@@ -1,11 +1,11 @@
 id: 164831389
-type: way
+type: node
 latitude: 50.8362
 longitude: 7.00846
 postcode: "53859"
 city: Niederkassel
-street: "Langeler Straße"
-housenumber: 49
-phone: "+49 2208 5060421"
+street: Langeler Straße
+housenumber: "49"
+phone: +49 2208 5060421
 opening_hours: ""
 website: ""

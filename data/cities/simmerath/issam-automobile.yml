@@ -1,11 +1,11 @@
 id: 111643530
-type: way
+type: node
 latitude: 50.62236
 longitude: 6.30867
 postcode: "52152"
 city: Simmerath
-street: "Völlesbruchstraße"
-housenumber: 31
+street: Völlesbruchstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://issam-automobile.de/"
+website: https://issam-automobile.de/

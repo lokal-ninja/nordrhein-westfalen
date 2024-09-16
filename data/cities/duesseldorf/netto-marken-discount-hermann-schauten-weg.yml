@@ -4,8 +4,8 @@ latitude: 51.3189
 longitude: 6.74634
 postcode: "40489"
 city: Düsseldorf
-street: "Hermann-Schauten-Weg"
-housenumber: 22
-phone: "+49 211 405 7394"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Hermann-Schauten-Weg
+housenumber: "22"
+phone: +49 211 405 7394
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

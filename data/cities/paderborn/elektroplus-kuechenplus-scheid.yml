@@ -4,8 +4,8 @@ latitude: 51.72054
 longitude: 8.74836
 postcode: "33102"
 city: Paderborn
-street: "Friedrichstraße"
-housenumber: 57
-phone: "+49 5251 23119"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; PH,Su off"
-website: "https://www.scheid-gmbh.de"
+street: Friedrichstraße
+housenumber: "57"
+phone: +49 5251 23119
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; PH,Su off
+website: https://www.scheid-gmbh.de

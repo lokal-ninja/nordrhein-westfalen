@@ -1,11 +1,11 @@
 id: 694205589
-type: way
+type: node
 latitude: 50.79561
 longitude: 6.12727
 postcode: "52080"
 city: Aachen
-street: "Haarener Gracht"
-housenumber: 1
-phone: "+49 241 9609130"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.rossmann.de"
+street: Haarener Gracht
+housenumber: "1"
+phone: +49 241 9609130
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.rossmann.de

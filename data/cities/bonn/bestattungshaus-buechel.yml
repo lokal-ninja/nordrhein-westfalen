@@ -4,8 +4,8 @@ latitude: 50.73906
 longitude: 7.11763
 postcode: "53225"
 city: Bonn
-street: "Konrad-Adenauer-Platz"
-housenumber: 18
+street: Konrad-Adenauer-Platz
+housenumber: "18"
 phone: ""
-opening_hours: "Telefonisch immer erreichbar"
-website: "https://www.bestatter-buechel-bonn.de/"
+opening_hours: '"Telefonisch immer erreichbar"'
+website: https://www.bestatter-buechel-bonn.de/

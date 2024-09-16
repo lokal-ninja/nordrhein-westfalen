@@ -1,11 +1,11 @@
 id: 275308358
-type: way
+type: node
 latitude: 51.87814
 longitude: 8.94431
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Wilberger Straße"
-housenumber: 5
+street: Wilberger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

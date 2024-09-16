@@ -1,11 +1,11 @@
 id: 42364488
-type: way
+type: node
 latitude: 51.43832
 longitude: 6.52904
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Niederrheinallee"
-housenumber: 343
+street: Niederrheinallee
+housenumber: "343"
 phone: ""
 opening_hours: ""
 website: ""

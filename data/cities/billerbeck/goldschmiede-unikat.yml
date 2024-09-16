@@ -4,8 +4,9 @@ latitude: 51.97812
 longitude: 7.29065
 postcode: "48727"
 city: Billerbeck
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: "+4925431579"
-opening_hours: "Tu-Fr 09:00-12:30,14:30-18:00; Mo 09:00-12:30; Sa 09:00-12:30; PH,Su off"
-website: "https://goldschmiede-unikat.de/"
+opening_hours: Tu-Fr 09:00-12:30,14:30-18:00; Mo 09:00-12:30; Sa 09:00-12:30; PH,Su
+    off
+website: https://goldschmiede-unikat.de/

@@ -4,8 +4,9 @@ latitude: 50.94053
 longitude: 6.97441
 postcode: "50679"
 city: Köln
-street: "Ottoplatz"
-housenumber: 7
+street: Ottoplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 06:00-19:00; Tu-Th 07:00-19:00; Fr 07:00-20:00; Sa 09:00-17:00; Su,PH 10:00-18:00q:00"
-website: "https://www.bahnhof.de/koeln-messe-deutz"
+opening_hours: Mo 06:00-19:00; Tu-Th 07:00-19:00; Fr 07:00-20:00; Sa 09:00-17:00;
+    Su,PH 10:00-18:00q:00
+website: https://www.bahnhof.de/koeln-messe-deutz

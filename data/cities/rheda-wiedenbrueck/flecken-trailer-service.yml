@@ -1,11 +1,11 @@
 id: 154990817
-type: way
+type: node
 latitude: 51.84577
 longitude: 8.30953
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Am Sandberg"
-housenumber: 41
+street: Am Sandberg
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

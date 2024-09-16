@@ -4,8 +4,8 @@ latitude: 51.28535
 longitude: 6.28835
 postcode: "41334"
 city: Nettetal
-street: "Dyck"
-housenumber: 75
-phone: "+49 2153 3085"
-opening_hours: "Apr-Jun: Mo-Sa 08:00-19:00; Apr-Jun: Su 09:00-18:00"
-website: "https://www.spargel-erdbeer-heyman.de/"
+street: Dyck
+housenumber: "75"
+phone: +49 2153 3085
+opening_hours: 'Apr-Jun: Mo-Sa 08:00-19:00; Apr-Jun: Su 09:00-18:00'
+website: https://www.spargel-erdbeer-heyman.de/

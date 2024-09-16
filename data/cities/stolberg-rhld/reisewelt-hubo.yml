@@ -4,8 +4,8 @@ latitude: 50.7557
 longitude: 6.21659
 postcode: "52223"
 city: Stolberg (Rhld.)
-street: "Konrad-Adenauer-Straße"
-housenumber: 126
-phone: "+49 2402 85631"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://reisewelt-hubo.de/home"
+street: Konrad-Adenauer-Straße
+housenumber: "126"
+phone: +49 2402 85631
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:00; Sa 10:00-13:00
+website: https://reisewelt-hubo.de/home

@@ -1,11 +1,11 @@
 id: 125605026
-type: way
+type: node
 latitude: 51.99135
 longitude: 6.91752
 postcode: "48703"
 city: Stadtlohn
-street: "Johannesstraße"
-housenumber: 5
+street: Johannesstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

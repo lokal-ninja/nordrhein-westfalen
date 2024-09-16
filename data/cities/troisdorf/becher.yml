@@ -1,11 +1,11 @@
 id: 120496991
-type: way
+type: node
 latitude: 50.80869
 longitude: 7.09856
 postcode: "53844"
 city: Troisdorf
-street: "Reichensteinstraße"
-housenumber: 65
+street: Reichensteinstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

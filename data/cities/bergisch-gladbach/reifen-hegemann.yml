@@ -4,8 +4,8 @@ latitude: 50.98611
 longitude: 7.12242
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Hauptstraße"
-housenumber: 44
-phone: "+49 2202 955520"
+street: Hauptstraße
+housenumber: "44"
+phone: +49 2202 955520
 opening_hours: ""
-website: "https://hegemann.point-s.de/"
+website: https://hegemann.point-s.de/

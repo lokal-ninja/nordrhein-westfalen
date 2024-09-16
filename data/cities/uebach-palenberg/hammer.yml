@@ -1,11 +1,11 @@
 id: 151288940
-type: way
+type: node
 latitude: 50.92076
 longitude: 6.13485
 postcode: "52531"
 city: Übach-Palenberg
-street: "Friedrich-Ebert-Straße"
-housenumber: 6
-phone: "+49 2451 4023"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Friedrich-Ebert-Straße
+housenumber: "6"
+phone: +49 2451 4023
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

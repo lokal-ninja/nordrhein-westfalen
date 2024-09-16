@@ -1,11 +1,11 @@
 id: 139976492
-type: way
+type: node
 latitude: 51.9902
 longitude: 8.79446
 postcode: "32791"
 city: Lage
-street: "Lange Straße"
-housenumber: 87
+street: Lange Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Tu-Sa 09:00-13:00, Tu-Fr 14:00-18:00"
+opening_hours: Tu-Sa 09:00-13:00, Tu-Fr 14:00-18:00
 website: ""

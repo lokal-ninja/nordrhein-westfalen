@@ -1,11 +1,11 @@
 id: 129452955
-type: way
+type: node
 latitude: 51.69365
 longitude: 7.76253
 postcode: "59075"
 city: Hamm
-street: "Hohenhöveler Straße"
-housenumber: 40
+street: Hohenhöveler Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.1261
 longitude: 7.60057
 postcode: "58566"
 city: Kierspe
-street: "Friedrich-Ebert-Straße"
-housenumber: 186
+street: Friedrich-Ebert-Straße
+housenumber: "186"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; Tu 09:30-12:30,14:30-17:15; We 09:30-12:30; Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:00; Tu 09:30-12:30,14:30-17:15; We 09:30-12:30;
+    Sa 10:00-13:00
 website: ""

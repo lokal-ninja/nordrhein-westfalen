@@ -1,11 +1,11 @@
 id: 1170518639
-type: way
+type: node
 latitude: 51.92025
 longitude: 7.8545
 postcode: "48351"
 city: Everswinkel
-street: "Am Steinbusch"
-housenumber: 2
+street: Am Steinbusch
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

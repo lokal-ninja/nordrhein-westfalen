@@ -1,11 +1,11 @@
 id: 132076010
-type: way
+type: node
 latitude: 51.37758
 longitude: 7.45392
 postcode: "58089"
 city: Hagen
-street: "Becheltestraße"
-housenumber: 60
+street: Becheltestraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.zooundco-lehmann.de/ueber-uns/hagen"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.zooundco-lehmann.de/ueber-uns/hagen

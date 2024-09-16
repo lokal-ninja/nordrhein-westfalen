@@ -1,11 +1,11 @@
 id: 244966477
-type: way
+type: node
 latitude: 51.16186
 longitude: 7.10534
 postcode: "42651"
 city: Solingen
-street: "Stockkamp"
-housenumber: 6
+street: Stockkamp
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

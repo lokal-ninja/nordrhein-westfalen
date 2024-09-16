@@ -1,11 +1,11 @@
 id: 94413776
-type: way
+type: node
 latitude: 50.75396
 longitude: 7.14702
 postcode: "53229"
 city: Bonn
-street: "Am Herrengarten"
-housenumber: 65
-phone: "+49 228 482379"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 09:00-15:00"
-website: "https://www.blumen-richter.net/"
+street: Am Herrengarten
+housenumber: "65"
+phone: +49 228 482379
+opening_hours: Tu-Fr 10:00-18:30; Sa 09:00-15:00
+website: https://www.blumen-richter.net/

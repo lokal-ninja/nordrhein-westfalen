@@ -1,11 +1,11 @@
 id: 136483104
-type: way
+type: node
 latitude: 50.91537
 longitude: 8.05828
 postcode: "57250"
 city: Netphen
-street: "Brückenstraße"
-housenumber: 2
+street: Brückenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

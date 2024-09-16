@@ -1,11 +1,11 @@
 id: 90372657
-type: way
+type: node
 latitude: 50.62592
 longitude: 6.38288
 postcode: "52152"
 city: Simmerath
-street: "Wendelinusstraße"
-housenumber: 1
+street: Wendelinusstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.woffelsbacher-imbiss.de"
+website: http://www.woffelsbacher-imbiss.de

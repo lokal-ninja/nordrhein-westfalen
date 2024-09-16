@@ -1,11 +1,11 @@
 id: 99245455
-type: way
+type: node
 latitude: 51.47357
 longitude: 6.91302
 postcode: "45359"
 city: Essen
-street: "Himmelpforten"
-housenumber: 15
+street: Himmelpforten
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

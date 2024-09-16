@@ -1,11 +1,11 @@
 id: 39595795
-type: way
+type: node
 latitude: 51.41795
 longitude: 6.70931
 postcode: "47228"
 city: Duisburg
-street: "Asterlager Straße"
-housenumber: 53
+street: Asterlager Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
 website: ""

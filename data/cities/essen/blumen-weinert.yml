@@ -4,8 +4,8 @@ latitude: 51.43939
 longitude: 7.02448
 postcode: "45136"
 city: Essen
-street: "Rellinghauser Straße"
-housenumber: 187
-phone: "+49 201 253527"
-opening_hours: "Mo-Tu 08:30-13:00; We-Fr 08:30-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.blumenweinert.de"
+street: Rellinghauser Straße
+housenumber: "187"
+phone: +49 201 253527
+opening_hours: Mo-Tu 08:30-13:00; We-Fr 08:30-18:00; Sa 09:00-13:00; Su off
+website: https://www.blumenweinert.de

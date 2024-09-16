@@ -4,8 +4,8 @@ latitude: 52.18075
 longitude: 7.65145
 postcode: "48369"
 city: Saerbeck
-street: "Hahnstraße"
-housenumber: 9
-phone: "+49 2574 983680"
+street: Hahnstraße
+housenumber: "9"
+phone: +49 2574 983680
 opening_hours: ""
-website: "https://iso-contor.de"
+website: https://iso-contor.de

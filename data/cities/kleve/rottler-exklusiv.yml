@@ -1,11 +1,11 @@
 id: 109084175
-type: way
+type: node
 latitude: 51.78902
 longitude: 6.13894
 postcode: "47533"
 city: Kleve
-street: "Kavarinerstraße"
-housenumber: 5
-phone: "+49 2821 13747"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
+street: Kavarinerstraße
+housenumber: "5"
+phone: +49 2821 13747
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
 website: ""

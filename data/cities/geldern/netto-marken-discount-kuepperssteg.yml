@@ -1,11 +1,11 @@
 id: 392139240
-type: way
+type: node
 latitude: 51.49655
 longitude: 6.24521
 postcode: "47608"
 city: Geldern
-street: "Küpperssteg"
-housenumber: 8
+street: Küpperssteg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

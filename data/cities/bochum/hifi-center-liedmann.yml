@@ -1,11 +1,12 @@
 id: 265847138
-type: way
+type: node
 latitude: 51.49866
 longitude: 7.27
 postcode: "44805"
 city: Bochum
-street: "Harpener Hellweg"
+street: Harpener Hellweg
 housenumber: 22a
 phone: ""
-opening_hours: "Mo,We,Th,Fr 11:00-18:00; Sa 10:00-16:00, Tu Termine nach Vereinbarung; PH off"
+opening_hours: Mo,We,Th,Fr 11:00-18:00; Sa 10:00-16:00, Tu "Termine nach Vereinbarung";
+    PH off
 website: ""

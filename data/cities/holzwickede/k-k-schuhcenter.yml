@@ -4,8 +4,9 @@ latitude: 51.50639
 longitude: 7.62217
 postcode: "59439"
 city: Holzwickede
-street: "August-Borsig-Straße"
-housenumber: 8
+street: August-Borsig-Straße
+housenumber: "8"
 phone: "+4923019468756"
-opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.k-und-k-schuhcenter.de/"
+opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr
+    09:00-19:00; Sa 09:00-18:00
+website: https://www.k-und-k-schuhcenter.de/

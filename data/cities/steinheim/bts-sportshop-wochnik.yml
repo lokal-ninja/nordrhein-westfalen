@@ -1,11 +1,11 @@
 id: 203305681
-type: way
+type: node
 latitude: 51.83471
 longitude: 9.04686
 postcode: "32839"
 city: Steinheim
-street: "Sandebecker Straße"
-housenumber: 12
-phone: "+49 5233 383780"
+street: Sandebecker Straße
+housenumber: "12"
+phone: +49 5233 383780
 opening_hours: ""
-website: "https://www.bts-sportshop.com/"
+website: https://www.bts-sportshop.com/

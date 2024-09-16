@@ -4,8 +4,8 @@ latitude: 51.90048
 longitude: 8.37318
 postcode: "33330"
 city: Gütersloh
-street: "Unter den Ulmen"
-housenumber: 30
+street: Unter den Ulmen
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00"
-website: "https://www.fahrrad-rottstock.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00
+website: https://www.fahrrad-rottstock.de/

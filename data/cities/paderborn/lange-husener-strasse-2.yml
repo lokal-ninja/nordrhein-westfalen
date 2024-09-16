@@ -4,8 +4,8 @@ latitude: 51.70325
 longitude: 8.76905
 postcode: "33100"
 city: Paderborn
-street: "Husener Straße"
-housenumber: 121
-phone: "+49 5251 5480538"
-opening_hours: "Mo-Sa 8:00-20:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-im-bahnhof-Kopie.php"
+street: Husener Straße
+housenumber: "121"
+phone: +49 5251 5480538
+opening_hours: Mo-Sa 8:00-20:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-im-bahnhof-Kopie.php

@@ -1,11 +1,11 @@
 id: 149098134
-type: way
+type: node
 latitude: 52.02493
 longitude: 8.5335
 postcode: "33602"
 city: Bielefeld
-street: "Stresemannstraße"
-housenumber: 11
+street: Stresemannstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:30; Su off; PH off"
-website: "https://www.loom-bielefeld.de/"
+opening_hours: Mo-Sa 8:00-21:30; Su off; PH off
+website: https://www.loom-bielefeld.de/

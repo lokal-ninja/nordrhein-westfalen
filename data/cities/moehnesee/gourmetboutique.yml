@@ -4,8 +4,8 @@ latitude: 51.49764
 longitude: 8.12782
 postcode: "59519"
 city: Möhnesee
-street: "Am Daiwesweg"
-housenumber: 1
+street: Am Daiwesweg
+housenumber: "1"
 phone: ""
-opening_hours: "Auf Anfrage"
-website: "https://www.gourmetboutique.de"
+opening_hours: '"Auf Anfrage"'
+website: https://www.gourmetboutique.de

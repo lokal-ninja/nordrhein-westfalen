@@ -1,11 +1,11 @@
 id: 125060646
-type: way
+type: node
 latitude: 51.38875
 longitude: 7.49269
 postcode: "58093"
 city: Hagen
-street: "Weidekampstraße"
-housenumber: 48
+street: Weidekampstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

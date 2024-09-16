@@ -1,11 +1,11 @@
 id: 365464857
-type: way
+type: node
 latitude: 52.24587
 longitude: 8.6071
 postcode: "32278"
 city: Kirchlengern
-street: "Oeppings Brink"
-housenumber: 7
+street: Oeppings Brink
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.schroeder-kuechen.de/"
+website: https://www.schroeder-kuechen.de/

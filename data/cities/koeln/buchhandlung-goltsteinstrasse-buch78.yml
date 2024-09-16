@@ -4,8 +4,8 @@ latitude: 50.90964
 longitude: 6.96933
 postcode: "50968"
 city: Köln
-street: "Goltsteinstraße"
-housenumber: 78
-phone: "+49 221 3400717"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://www.buch78.de/"
+street: Goltsteinstraße
+housenumber: "78"
+phone: +49 221 3400717
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://www.buch78.de/

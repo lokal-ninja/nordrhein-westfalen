@@ -1,11 +1,11 @@
 id: 33042657
-type: way
+type: node
 latitude: 51.09331
 longitude: 6.81022
 postcode: "41540"
 city: Dormagen
-street: "Kieler Straße"
-housenumber: 34
-phone: "+49 2133 9760848"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.sonderpreis-baumarkt.de/"
+street: Kieler Straße
+housenumber: "34"
+phone: +49 2133 9760848
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.sonderpreis-baumarkt.de/

@@ -1,11 +1,11 @@
 id: 168413414
-type: way
+type: node
 latitude: 51.91692
 longitude: 7.73054
 postcode: "48167"
 city: Münster
-street: "Hofstraße"
-housenumber: 32
+street: Hofstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
-website: "https://weinamschloss.de/"
+opening_hours: Tu-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
+website: https://weinamschloss.de/

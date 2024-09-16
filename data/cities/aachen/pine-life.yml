@@ -1,11 +1,11 @@
 id: 116686214
-type: way
+type: node
 latitude: 50.78997
 longitude: 6.06616
 postcode: "52072"
 city: Aachen
-street: "Ritterstraße"
-housenumber: 12
-phone: "+49 241 886 880"
-opening_hours: "Mo-Fr 10:00-13:30,14:30-18:30; Sa 10:00-16:00"
-website: "http://pine-life.de/"
+street: Ritterstraße
+housenumber: "12"
+phone: +49 241 886 880
+opening_hours: Mo-Fr 10:00-13:30,14:30-18:30; Sa 10:00-16:00
+website: http://pine-life.de/

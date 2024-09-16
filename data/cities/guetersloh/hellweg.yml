@@ -1,11 +1,11 @@
 id: 289863380
-type: way
+type: node
 latitude: 51.90101
 longitude: 8.40407
 postcode: "33332"
 city: Gütersloh
-street: "Am Anger"
-housenumber: 43
+street: Am Anger
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; PH,Su off; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:30-19:00; PH,Su off; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.90454
 longitude: 6.6761
 postcode: "50170"
 city: Kerpen
-street: "Kerpener Straße"
-housenumber: 71
-phone: "+49 2273 599259"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.jonen.de"
+street: Kerpener Straße
+housenumber: "71"
+phone: +49 2273 599259
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.jonen.de

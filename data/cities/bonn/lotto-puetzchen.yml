@@ -1,11 +1,11 @@
 id: 150644701
-type: way
+type: node
 latitude: 50.74251
 longitude: 7.1375
 postcode: "53227"
 city: Bonn
-street: "Pützchens Chaussee"
-housenumber: 43
+street: Pützchens Chaussee
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00
 website: ""

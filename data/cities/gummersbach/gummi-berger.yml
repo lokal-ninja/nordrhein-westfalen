@@ -1,11 +1,11 @@
 id: 388689784
-type: way
+type: node
 latitude: 50.98393
 longitude: 7.51746
 postcode: "51645"
 city: Gummersbach
-street: "Dieringhauser Straße"
-housenumber: 159
-phone: "+49 2261 9904-0"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+street: Dieringhauser Straße
+housenumber: "159"
+phone: +49 2261 9904-0
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

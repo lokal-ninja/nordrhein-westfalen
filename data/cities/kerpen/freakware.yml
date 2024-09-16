@@ -1,11 +1,11 @@
 id: 93044573
-type: way
+type: node
 latitude: 50.89675
 longitude: 6.64412
 postcode: "50170"
 city: Kerpen
-street: "Karl-Ferdinand-Braun-Straße"
-housenumber: 33
+street: Karl-Ferdinand-Braun-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "http://www.freakware.de"
+website: http://www.freakware.de

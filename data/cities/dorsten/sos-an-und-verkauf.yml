@@ -1,11 +1,11 @@
 id: 199519216
-type: way
+type: node
 latitude: 51.66197
 longitude: 6.96451
 postcode: "46282"
 city: Dorsten
-street: "Wiesenstraße"
-housenumber: 20
+street: Wiesenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:30; PH off"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:30; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.9382
 longitude: 6.97781
 postcode: "50679"
 city: Köln
-street: "Justinianstraße"
-housenumber: 11
+street: Justinianstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 06:00-24:00, Su 08:00-23:00, Fr 08:00-01:00, Sa 08:00-01:00"
+opening_hours: Mo-Th 06:00-24:00, Su 08:00-23:00, Fr 08:00-01:00, Sa 08:00-01:00
 website: ""

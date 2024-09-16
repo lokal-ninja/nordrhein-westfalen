@@ -4,8 +4,8 @@ latitude: 50.76991
 longitude: 7.45024
 postcode: "53783"
 city: Eitorf
-street: "Markt"
-housenumber: 17
-phone: "+49 2243 2897"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.reformhaus-lichius.de/"
+street: Markt
+housenumber: "17"
+phone: +49 2243 2897
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.reformhaus-lichius.de/

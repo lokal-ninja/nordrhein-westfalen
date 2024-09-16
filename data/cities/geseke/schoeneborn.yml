@@ -1,11 +1,11 @@
 id: 227662731
-type: way
+type: node
 latitude: 51.64148
 longitude: 8.50929
 postcode: "59590"
 city: Geseke
-street: "Bäckstraße"
-housenumber: 1
-phone: "+49 2942 9799033"
+street: Bäckstraße
+housenumber: "1"
+phone: +49 2942 9799033
 opening_hours: ""
-website: "http://www.schoeneborn.de/telecom.htm"
+website: http://www.schoeneborn.de/telecom.htm

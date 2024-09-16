@@ -1,11 +1,11 @@
 id: 52303595
-type: way
+type: node
 latitude: 51.52305
 longitude: 7.32543
 postcode: "44577"
 city: Castrop-Rauxel
-street: "Wittener Straße"
-housenumber: 407
+street: Wittener Straße
+housenumber: "407"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00, Sa 08:00-12:00"
-website: "https://www.baustoffe-formel.de/"
+opening_hours: Mo-Fr 07:30-17:00, Sa 08:00-12:00
+website: https://www.baustoffe-formel.de/

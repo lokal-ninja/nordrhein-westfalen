@@ -1,11 +1,11 @@
 id: 300949799
-type: way
+type: node
 latitude: 50.73825
 longitude: 7.22688
 postcode: "53639"
 city: Königswinter
-street: "Rotdornstraße"
-housenumber: 6
+street: Rotdornstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

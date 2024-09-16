@@ -4,8 +4,8 @@ latitude: 50.72064
 longitude: 8.13618
 postcode: "57299"
 city: Burbach
-street: "Bahnhofsplatz"
-housenumber: 3
-phone: "+49 2736 2986888"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-12:00"
-website: "https://de-de.facebook.com/SilkeSteupLehr"
+street: Bahnhofsplatz
+housenumber: "3"
+phone: +49 2736 2986888
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-12:00
+website: https://de-de.facebook.com/SilkeSteupLehr

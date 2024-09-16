@@ -1,11 +1,11 @@
 id: 404617502
-type: way
+type: node
 latitude: 50.44189
 longitude: 6.62379
 postcode: "53945"
 city: Blankenheim
-street: "Nürburgstraße"
-housenumber: 63
+street: Nürburgstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.quattrotec.eu/"
+website: https://www.quattrotec.eu/

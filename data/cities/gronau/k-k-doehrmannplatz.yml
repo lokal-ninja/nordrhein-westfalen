@@ -1,11 +1,11 @@
 id: 90626900
-type: way
+type: node
 latitude: 52.21116
 longitude: 7.02699
 postcode: "48599"
 city: Gronau
-street: "Döhrmannplatz"
-housenumber: 3
+street: Döhrmannplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

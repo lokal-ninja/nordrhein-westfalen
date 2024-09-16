@@ -4,8 +4,8 @@ latitude: 51.53945
 longitude: 7.25982
 postcode: "44627"
 city: Herne
-street: "Mont-Cenis-Straße"
-housenumber: 299
-phone: "+48 176 83346784"
-opening_hours: "Mo-We 10:00-18:00; Th,Fr 10:00-20:00; Sa open nach Absprache"
-website: "https://beauty-expert-kosmetik.de/"
+street: Mont-Cenis-Straße
+housenumber: "299"
+phone: +48 176 83346784
+opening_hours: Mo-We 10:00-18:00; Th,Fr 10:00-20:00; Sa open "nach Absprache"
+website: https://beauty-expert-kosmetik.de/

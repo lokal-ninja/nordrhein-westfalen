@@ -4,8 +4,8 @@ latitude: 51.71856
 longitude: 8.74848
 postcode: "33098"
 city: Paderborn
-street: "Königstraße"
-housenumber: 25
+street: Königstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su,PH off
 website: ""

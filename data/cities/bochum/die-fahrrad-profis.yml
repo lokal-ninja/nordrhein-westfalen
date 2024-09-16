@@ -4,8 +4,9 @@ latitude: 51.4447
 longitude: 7.17097
 postcode: "44869"
 city: Bochum
-street: "Munscheider Straße"
-housenumber: 85
+street: Munscheider Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 10:00-12:30,13:00-18:00; Nov-Feb: Mo-Fr 14:00-18:00; PH off"
+opening_hours: 'Mar-Oct: Mo-Fr 10:00-12:30,13:00-18:00; Nov-Feb: Mo-Fr 14:00-18:00;
+    PH off'
 website: ""

@@ -1,11 +1,11 @@
 id: 60044650
-type: way
+type: node
 latitude: 50.88204
 longitude: 6.69249
 postcode: ""
 city: Kerpen
-street: "Sindorfer Straße"
-housenumber: 38
+street: Sindorfer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.vino24.de/kerpen"
+website: https://www.vino24.de/kerpen

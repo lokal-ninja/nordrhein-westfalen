@@ -4,8 +4,8 @@ latitude: 51.95228
 longitude: 7.98923
 postcode: "48231"
 city: Warendorf
-street: "Münsterstraße"
-housenumber: 2
+street: Münsterstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 06:30-18:30"
-website: "https://www.stadtbaeckerei-muenster.de/"
+opening_hours: Mo-Su 06:30-18:30
+website: https://www.stadtbaeckerei-muenster.de/

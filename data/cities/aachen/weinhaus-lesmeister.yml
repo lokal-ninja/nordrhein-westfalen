@@ -4,8 +4,8 @@ latitude: 50.77814
 longitude: 6.08238
 postcode: "52062"
 city: Aachen
-street: "Pontstraße"
-housenumber: 60
+street: Pontstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su,PH off"
-website: "https://www.weinhaus-lesmeister.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su,PH off
+website: https://www.weinhaus-lesmeister.de/

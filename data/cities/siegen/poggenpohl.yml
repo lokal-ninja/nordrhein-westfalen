@@ -4,8 +4,8 @@ latitude: 50.87255
 longitude: 8.01702
 postcode: "57072"
 city: Siegen
-street: "Koblenzer Straße"
-housenumber: 40
+street: Koblenzer Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; We 10:00-13:00;Sa 10:00-14:00"
-website: "http://www.poggenpohl-siegen.de/"
+opening_hours: Mo-Fr 10:00-18:00; We 10:00-13:00;Sa 10:00-14:00
+website: http://www.poggenpohl-siegen.de/

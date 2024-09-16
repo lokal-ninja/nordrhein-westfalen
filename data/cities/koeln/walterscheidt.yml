@@ -4,8 +4,8 @@ latitude: 50.89307
 longitude: 6.99418
 postcode: "50996"
 city: Köln
-street: "Maternusstraße"
-housenumber: 6
+street: Maternusstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:30; Fr 08:30-18:30; Sa 08:30-14:00"
-website: "https://walterscheidt.net/"
+opening_hours: Mo-Th 09:00-18:30; Fr 08:30-18:30; Sa 08:30-14:00
+website: https://walterscheidt.net/

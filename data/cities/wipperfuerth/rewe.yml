@@ -1,11 +1,11 @@
 id: 184430937
-type: way
+type: node
 latitude: 51.11645
 longitude: 7.39279
 postcode: "51688"
 city: Wipperfürth
-street: "Bahnstraße"
-housenumber: 5
+street: Bahnstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.petz.de/unsere-rewe-maerkte/wipperfuerth/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.petz.de/unsere-rewe-maerkte/wipperfuerth/

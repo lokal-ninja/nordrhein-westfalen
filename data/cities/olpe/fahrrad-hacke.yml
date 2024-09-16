@@ -1,11 +1,11 @@
 id: 325806367
-type: way
+type: node
 latitude: 51.07682
 longitude: 7.95044
 postcode: "57462"
 city: Olpe
-street: "An der Hütte"
-housenumber: 1
+street: An der Hütte
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 140488425
-type: way
+type: node
 latitude: 52.37731
 longitude: 8.99029
 postcode: "32469"
 city: Petershagen
-street: "Fährstraße"
-housenumber: 34
+street: Fährstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30; Sa 09:00-11:30"
+opening_hours: Mo-Fr 07:30-16:30; Sa 09:00-11:30
 website: ""

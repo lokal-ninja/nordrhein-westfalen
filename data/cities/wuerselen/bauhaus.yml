@@ -1,11 +1,11 @@
 id: 24393423
-type: way
+type: node
 latitude: 50.80672
 longitude: 6.15197
 postcode: "52146"
 city: Würselen
-street: "Adenauerstraße"
-housenumber: 14
-phone: "+49 2405 489370"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:30-20:00; Su,PH off"
-website: "https://www.bauhaus.info/"
+street: Adenauerstraße
+housenumber: "14"
+phone: +49 2405 489370
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:30-20:00; Su,PH off
+website: https://www.bauhaus.info/

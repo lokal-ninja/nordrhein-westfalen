@@ -4,8 +4,8 @@ latitude: 51.93544
 longitude: 8.87973
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 42
-phone: "+49 5231 9814260"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.ullapopken.de/"
+street: Lange Straße
+housenumber: "42"
+phone: +49 5231 9814260
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.ullapopken.de/

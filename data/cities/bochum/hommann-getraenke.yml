@@ -1,11 +1,11 @@
 id: 200228849
-type: way
+type: node
 latitude: 51.49591
 longitude: 7.19395
 postcode: "44809"
 city: Bochum
-street: "Berggate"
-housenumber: 28
+street: Berggate
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

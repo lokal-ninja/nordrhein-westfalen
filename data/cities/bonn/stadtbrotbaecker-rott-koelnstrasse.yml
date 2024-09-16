@@ -1,11 +1,11 @@
 id: 133399534
-type: way
+type: node
 latitude: 50.7433
 longitude: 7.09204
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 154
+street: Kölnstraße
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-12:00"
-website: "https://stadtbrotbaecker-rott.de/fachgeschaft/koelnstrasse_bonn/"
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-12:00
+website: https://stadtbrotbaecker-rott.de/fachgeschaft/koelnstrasse_bonn/

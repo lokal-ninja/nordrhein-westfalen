@@ -4,8 +4,8 @@ latitude: 51.93939
 longitude: 8.8668
 postcode: "32756"
 city: Detmold
-street: "Elisabethstraße"
-housenumber: 52
-phone: "+49 5231 306661"
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:30-11:00"
-website: "http://www.engel-baeckerei.de"
+street: Elisabethstraße
+housenumber: "52"
+phone: +49 5231 306661
+opening_hours: Mo-Sa 07:00-19:00; Su 07:30-11:00
+website: http://www.engel-baeckerei.de

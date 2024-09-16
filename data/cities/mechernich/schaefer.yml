@@ -1,11 +1,11 @@
 id: 206102126
-type: way
+type: node
 latitude: 50.58795
 longitude: 6.66464
 postcode: "53894"
 city: Mechernich
-street: "Kiefernweg"
-housenumber: 44
+street: Kiefernweg
+housenumber: "44"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.schaefer-mechernich.de/de/Tankstelle.html"
+opening_hours: 24/7
+website: https://www.schaefer-mechernich.de/de/Tankstelle.html

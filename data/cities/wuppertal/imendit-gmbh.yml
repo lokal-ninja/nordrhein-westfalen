@@ -4,8 +4,8 @@ latitude: 51.24509
 longitude: 7.13169
 postcode: "42117"
 city: Wuppertal
-street: "Viehhofstr."
-housenumber: 121
+street: Viehhofstr.
+housenumber: "121"
 phone: "+498000007600"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.imendit.de"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.imendit.de

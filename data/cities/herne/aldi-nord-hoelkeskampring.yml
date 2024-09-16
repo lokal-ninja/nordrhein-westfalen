@@ -1,11 +1,11 @@
 id: 127410478
-type: way
+type: node
 latitude: 51.54648
 longitude: 7.24025
 postcode: "44625"
 city: Herne
-street: "Hölkeskampring"
-housenumber: 213
+street: Hölkeskampring
+housenumber: "213"
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/herne/holkeskampring-213/3181580"
+opening_hours: Mo-Sa 7:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/herne/holkeskampring-213/3181580

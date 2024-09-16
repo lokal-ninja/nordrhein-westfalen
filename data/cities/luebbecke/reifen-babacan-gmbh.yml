@@ -4,8 +4,8 @@ latitude: 52.32901
 longitude: 8.6297
 postcode: "32312"
 city: Lübbecke
-street: "Daimlerstraße"
-housenumber: 38
-phone: "+49 5741 5151"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"
-website: "https://www.reifen-babacan.de/"
+street: Daimlerstraße
+housenumber: "38"
+phone: +49 5741 5151
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00
+website: https://www.reifen-babacan.de/

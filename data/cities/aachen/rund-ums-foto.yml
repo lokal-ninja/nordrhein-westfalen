@@ -4,8 +4,8 @@ latitude: 50.70599
 longitude: 6.18114
 postcode: "52076"
 city: Aachen
-street: "Prämienstraße"
-housenumber: 12
-phone: "+49 2408 984467"
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:00, 14:30-18:30; Sa 09:30-13:00"
-website: "https://www.rund-ums-foto.de/"
+street: Prämienstraße
+housenumber: "12"
+phone: +49 2408 984467
+opening_hours: Mo,Tu,Th,Fr 09:30-13:00, 14:30-18:30; Sa 09:30-13:00
+website: https://www.rund-ums-foto.de/

@@ -1,11 +1,11 @@
 id: 301681734
-type: way
+type: node
 latitude: 51.63343
 longitude: 7.26826
 postcode: "45739"
 city: Oer-Erkenschwick
-street: "Werkstraße"
-housenumber: 31
+street: Werkstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

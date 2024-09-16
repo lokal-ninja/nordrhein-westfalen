@@ -1,11 +1,11 @@
 id: 1200812502
-type: way
+type: node
 latitude: 51.53296
 longitude: 7.47502
 postcode: "44145"
 city: Dortmund
-street: "Bornstraße"
-housenumber: 245
-phone: "+49 231 98949830"
-opening_hours: "24/7"
+street: Bornstraße
+housenumber: "245"
+phone: +49 231 98949830
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 365956527
-type: way
+type: node
 latitude: 51.03185
 longitude: 6.61345
 postcode: "41517"
 city: Grevenbroich
-street: "Blesdücker Weg"
-housenumber: 6
+street: Blesdücker Weg
+housenumber: "6"
 phone: ""
-opening_hours: "We  13:00-16:00"
-website: "https://www.neurather-gaertner.de/"
+opening_hours: We  13:00-16:00
+website: https://www.neurather-gaertner.de/

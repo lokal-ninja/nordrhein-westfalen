@@ -1,11 +1,11 @@
 id: 243236443
-type: way
+type: node
 latitude: 51.22411
 longitude: 7.63278
 postcode: "58507"
 city: Lüdenscheid
-street: "Altenaer Straße"
-housenumber: 38
+street: Altenaer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-16:00
 website: ""

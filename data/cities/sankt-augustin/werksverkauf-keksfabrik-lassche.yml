@@ -4,8 +4,9 @@ latitude: 50.76493
 longitude: 7.1927
 postcode: "53757"
 city: Sankt Augustin
-street: "Waldstraße"
-housenumber: 3
-phone: "+49 2241 338051"
-opening_hours: "Jan-Sep: Mo-Th 08:00-17:00; Fr 08:00-14:30; Oct: Mo-Fr 08:00-17:00; Nov-Dec: Mo-Fr 08:00-18:30; Sa 09:00-16:00"
-website: "https://www.lassche.de/"
+street: Waldstraße
+housenumber: "3"
+phone: +49 2241 338051
+opening_hours: 'Jan-Sep: Mo-Th 08:00-17:00; Fr 08:00-14:30; Oct: Mo-Fr 08:00-17:00;
+    Nov-Dec: Mo-Fr 08:00-18:30; Sa 09:00-16:00'
+website: https://www.lassche.de/

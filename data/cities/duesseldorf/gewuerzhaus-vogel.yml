@@ -4,8 +4,8 @@ latitude: 51.22576
 longitude: 6.77393
 postcode: "40213"
 city: Düsseldorf
-street: "Kapuzinergasse"
-housenumber: 16
-phone: "+49 211 325788"
-opening_hours: "Tu-Fr 09:30-14:00,15:00-18:00; Sa 09:30-15:00"
-website: "http://www.gewuerzhaus-altstadt.de"
+street: Kapuzinergasse
+housenumber: "16"
+phone: +49 211 325788
+opening_hours: Tu-Fr 09:30-14:00,15:00-18:00; Sa 09:30-15:00
+website: http://www.gewuerzhaus-altstadt.de

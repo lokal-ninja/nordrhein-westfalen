@@ -1,11 +1,11 @@
 id: 83830782
-type: way
+type: node
 latitude: 52.22154
 longitude: 7.80449
 postcode: "49545"
 city: Tecklenburg
-street: "Ibbenbürener Straße"
-housenumber: 70
+street: Ibbenbürener Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

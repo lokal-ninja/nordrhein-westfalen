@@ -1,11 +1,11 @@
 id: 1267555238
-type: way
+type: node
 latitude: 51.56183
 longitude: 7.36984
 postcode: "44357"
 city: Dortmund
-street: "Breisenbachstraße"
-housenumber: 93
-phone: "+49 231 3347410"
+street: Breisenbachstraße
+housenumber: "93"
+phone: +49 231 3347410
 opening_hours: ""
-website: "https://www.wego-vti.de/wego-dortmund/"
+website: https://www.wego-vti.de/wego-dortmund/

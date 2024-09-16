@@ -1,11 +1,11 @@
 id: 47949136
-type: way
+type: node
 latitude: 51.42051
 longitude: 6.68977
 postcode: "47228"
 city: Duisburg
-street: "Hochstraße"
-housenumber: 174
+street: Hochstraße
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

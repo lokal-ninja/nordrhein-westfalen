@@ -1,11 +1,11 @@
 id: 239809437
-type: way
+type: node
 latitude: 51.54917
 longitude: 6.72937
 postcode: "46535"
 city: Dinslaken
-street: "Willy-Brandt-Straße"
-housenumber: 225
+street: Willy-Brandt-Straße
+housenumber: "225"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:30,13:30-17:00; Sa 08:00-12:00
 website: ""

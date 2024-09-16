@@ -1,11 +1,11 @@
 id: 42509851
-type: way
+type: node
 latitude: 50.91265
 longitude: 8.011
 postcode: "57078"
 city: Siegen
-street: "Sohlbacher Straße"
-housenumber: 16
+street: Sohlbacher Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

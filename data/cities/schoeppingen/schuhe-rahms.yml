@@ -1,11 +1,11 @@
 id: 193640902
-type: way
+type: node
 latitude: 52.09329
 longitude: 7.23593
 postcode: "48624"
 city: Schöppingen
-street: "Hauptstraße"
-housenumber: 53
+street: Hauptstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30, Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30, Sa 08:30-14:00
 website: ""

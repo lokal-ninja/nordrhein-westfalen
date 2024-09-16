@@ -4,8 +4,8 @@ latitude: 50.90952
 longitude: 6.80754
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 120
-phone: "+49 2234 13326"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.jonen.de"
+street: Hauptstraße
+housenumber: "120"
+phone: +49 2234 13326
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.jonen.de

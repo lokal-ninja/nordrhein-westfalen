@@ -1,11 +1,11 @@
 id: 58586831
-type: way
+type: node
 latitude: 51.51705
 longitude: 7.48713
 postcode: "44143"
 city: Dortmund
-street: "Heimbaustraße"
+street: Heimbaustraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

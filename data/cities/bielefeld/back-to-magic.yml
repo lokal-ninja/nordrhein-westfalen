@@ -4,8 +4,8 @@ latitude: 52.01066
 longitude: 8.54
 postcode: "33604"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 75
+street: Detmolder Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Tu-Fr 17:30-21:00; Sa 14:00-17:00"
-website: "https://discard-mtg.de/"
+opening_hours: Tu-Fr 17:30-21:00; Sa 14:00-17:00
+website: https://discard-mtg.de/

@@ -4,8 +4,8 @@ latitude: 52.03057
 longitude: 8.5586
 postcode: "33609"
 city: Bielefeld
-street: "Hakenort"
-housenumber: 45
-phone: "+49 521 3059886"
+street: Hakenort
+housenumber: "45"
+phone: +49 521 3059886
 opening_hours: ""
-website: "https://www.wohnmobile-stoermer.de/"
+website: https://www.wohnmobile-stoermer.de/

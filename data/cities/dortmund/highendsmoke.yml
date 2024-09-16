@@ -4,8 +4,8 @@ latitude: 51.52802
 longitude: 7.58649
 postcode: "44319"
 city: Dortmund
-street: "Asselner Hellweg"
-housenumber: 129
-phone: "+49 231 53499080"
-opening_hours: "Mo,Tu,We,Fr,Sa 10:00-13:30,14:00-18:00; Th,Su off"
-website: "http://www.highendsmoke.de/"
+street: Asselner Hellweg
+housenumber: "129"
+phone: +49 231 53499080
+opening_hours: Mo,Tu,We,Fr,Sa 10:00-13:30,14:00-18:00; Th,Su off
+website: http://www.highendsmoke.de/

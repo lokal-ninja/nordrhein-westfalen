@@ -1,11 +1,11 @@
 id: 991925690
-type: way
+type: node
 latitude: 51.50136
 longitude: 7.9606
 postcode: "59469"
 city: Ense
-street: "An der Windmühle"
-housenumber: 4
+street: An der Windmühle
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.rossmann.de/de/filialen/nordrhein-westfalen/ense/an-der-windmuehle-4.html"
+website: https://www.rossmann.de/de/filialen/nordrhein-westfalen/ense/an-der-windmuehle-4.html

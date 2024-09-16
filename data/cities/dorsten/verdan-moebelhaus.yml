@@ -1,11 +1,11 @@
 id: 151071930
-type: way
+type: node
 latitude: 51.67026
 longitude: 6.97829
 postcode: "46284"
 city: Dorsten
-street: "Halterner Straße"
-housenumber: 70
+street: Halterner Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

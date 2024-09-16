@@ -1,11 +1,11 @@
 id: 249813044
-type: way
+type: node
 latitude: 51.46681
 longitude: 8.85638
 postcode: "34431"
 city: Marsberg
-street: "Mönchstraße"
-housenumber: 32
+street: Mönchstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

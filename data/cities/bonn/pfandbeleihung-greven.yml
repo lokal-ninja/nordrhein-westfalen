@@ -4,8 +4,8 @@ latitude: 50.73396
 longitude: 7.09631
 postcode: "53111"
 city: Bonn
-street: "Münsterstraße"
-housenumber: 13
+street: Münsterstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-17:30; Sa-Su,PH off"
-website: "http://www.pfandbeleihung-greven.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-17:30; Sa-Su,PH off
+website: http://www.pfandbeleihung-greven.de/

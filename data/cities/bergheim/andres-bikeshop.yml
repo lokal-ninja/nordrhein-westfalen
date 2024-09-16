@@ -4,8 +4,8 @@ latitude: 50.94002
 longitude: 6.68358
 postcode: "50127"
 city: Bergheim
-street: "Köln-Aachener-Straße"
-housenumber: 124
-phone: "+49 2271 5689405"
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:30, 14:30-18:30; We off; Sa 9:00-13:00"
-website: "https://www.abs-bergheim.de/"
+street: Köln-Aachener-Straße
+housenumber: "124"
+phone: +49 2271 5689405
+opening_hours: Mo,Tu,Th,Fr 10:00-12:30, 14:30-18:30; We off; Sa 9:00-13:00
+website: https://www.abs-bergheim.de/

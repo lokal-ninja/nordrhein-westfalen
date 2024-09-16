@@ -4,8 +4,8 @@ latitude: 51.71584
 longitude: 8.74712
 postcode: ""
 city: Paderborn
-street: "Westernstraße"
-housenumber: 44
-phone: "+49 5251 1859014"
-opening_hours: "Mo-Th 10:30-19:00; Fr,Sa 10:00-19:00; PH,Su off"
-website: "https://contigo.de/contigo-fairtrade-shops/paderborn/"
+street: Westernstraße
+housenumber: "44"
+phone: +49 5251 1859014
+opening_hours: Mo-Th 10:30-19:00; Fr,Sa 10:00-19:00; PH,Su off
+website: https://contigo.de/contigo-fairtrade-shops/paderborn/

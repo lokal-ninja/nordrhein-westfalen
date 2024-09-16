@@ -1,11 +1,11 @@
 id: 96932480
-type: way
+type: node
 latitude: 51.33607
 longitude: 7.86742
 postcode: "58802"
 city: Balve
-street: "Hönnetalstraße"
-housenumber: 29
-phone: "+49 2375910223"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/balve/1762810/rewe-markt-hoennetalstrasse-29/"
+street: Hönnetalstraße
+housenumber: "29"
+phone: +49 2375910223
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/balve/1762810/rewe-markt-hoennetalstrasse-29/

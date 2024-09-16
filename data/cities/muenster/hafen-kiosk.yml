@@ -4,8 +4,8 @@ latitude: 51.95337
 longitude: 7.64175
 postcode: "48155"
 city: Münster
-street: "Hansaring"
-housenumber: 39
+street: Hansaring
+housenumber: "39"
 phone: "+4915115149979"
-opening_hours: "Mo-Th 15:00-23:00; Sa 12:00-03:00; Su 12:00-23:00; Fr 15:00-03:00"
+opening_hours: Mo-Th 15:00-23:00; Sa 12:00-03:00; Su 12:00-23:00; Fr 15:00-03:00
 website: ""

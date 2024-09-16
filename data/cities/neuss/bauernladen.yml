@@ -1,11 +1,11 @@
 id: 265324379
-type: way
+type: node
 latitude: 51.14412
 longitude: 6.72351
 postcode: "41470"
 city: Neuss
-street: "St.-Antonius-Straße"
-housenumber: 40
+street: St.-Antonius-Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

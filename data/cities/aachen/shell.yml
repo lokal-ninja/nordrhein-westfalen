@@ -1,11 +1,11 @@
 id: 373594217
-type: way
+type: node
 latitude: 50.77564
 longitude: 6.11201
 postcode: "52068"
 city: Aachen
-street: "Stolberger Straße"
-housenumber: 44
+street: Stolberger Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
 website: ""

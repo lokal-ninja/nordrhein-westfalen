@@ -1,11 +1,11 @@
 id: 217792598
-type: way
+type: node
 latitude: 52.18222
 longitude: 8.65852
 postcode: "32278"
 city: Kirchlengern
-street: "Alfred-Krupp-Straße"
-housenumber: 6
+street: Alfred-Krupp-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00
 website: ""

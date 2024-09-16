@@ -1,11 +1,11 @@
 id: 48232275
-type: way
+type: node
 latitude: 51.21652
 longitude: 6.68194
 postcode: "41462"
 city: Neuss
-street: "Normannenstraße"
-housenumber: 4
+street: Normannenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

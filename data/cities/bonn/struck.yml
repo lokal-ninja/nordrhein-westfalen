@@ -4,8 +4,8 @@ latitude: 50.73905
 longitude: 7.11944
 postcode: "53225"
 city: Bonn
-street: "Friedrich-Breuer-Straße"
-housenumber: 50
+street: Friedrich-Breuer-Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-16:00"
-website: "https://schreiben-lesen-spielen.de/"
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:30-16:00
+website: https://schreiben-lesen-spielen.de/

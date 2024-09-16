@@ -4,8 +4,8 @@ latitude: 51.71216
 longitude: 8.73389
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 76
-phone: "+49 5251 34367"
-opening_hours: "24/7"
+street: Bahnhofstraße
+housenumber: "76"
+phone: +49 5251 34367
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 147553941
-type: way
+type: node
 latitude: 51.41022
 longitude: 7.4748
 postcode: "58099"
 city: Hagen
-street: "Dortmunder Straße"
-housenumber: 88
+street: Dortmunder Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.action.com/de-de/laden/hagen-dortmunder-strabe/"
+opening_hours: Mo-Sa 09:00-20:00; Su off
+website: https://www.action.com/de-de/laden/hagen-dortmunder-strabe/

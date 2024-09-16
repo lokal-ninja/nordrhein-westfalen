@@ -1,11 +1,11 @@
 id: 258416549
-type: way
+type: node
 latitude: 51.34345
 longitude: 6.55226
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 123
+street: Hülser Straße
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "https://www.bauelemente-vallas.de/"
+website: https://www.bauelemente-vallas.de/

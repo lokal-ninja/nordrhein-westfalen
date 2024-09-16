@@ -4,8 +4,8 @@ latitude: 52.01601
 longitude: 8.53696
 postcode: "33602"
 city: Bielefeld
-street: "Rohrteichstraße"
-housenumber: 31
+street: Rohrteichstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "http://www.rohrteich31.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: http://www.rohrteich31.de

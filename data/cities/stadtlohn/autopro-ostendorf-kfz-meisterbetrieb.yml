@@ -1,11 +1,11 @@
 id: 290245553
-type: way
+type: node
 latitude: 51.98091
 longitude: 6.91157
 postcode: "48703"
 city: Stadtlohn
-street: "Thyssenstraße"
-housenumber: 14
+street: Thyssenstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

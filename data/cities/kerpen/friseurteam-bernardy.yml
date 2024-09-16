@@ -4,8 +4,9 @@ latitude: 50.91525
 longitude: 6.7126
 postcode: "50169"
 city: Kerpen
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo off; Tu,Th,Fr 09:00-13:00,14:00-18:30; We 09:30-13:00,14:00-18:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo off; Tu,Th,Fr 09:00-13:00,14:00-18:30; We 09:30-13:00,14:00-18:00;
+    Sa 08:00-13:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.7433
 longitude: 7.13625
 postcode: "53229"
 city: Bonn
-street: "Siegburger Straße"
-housenumber: 121
-phone: "+49 228 360 29729"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.andalusmarkt-bonn.de/"
+street: Siegburger Straße
+housenumber: "121"
+phone: +49 228 360 29729
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.andalusmarkt-bonn.de/

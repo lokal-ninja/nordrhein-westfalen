@@ -4,8 +4,8 @@ latitude: 51.88179
 longitude: 8.51043
 postcode: "33415"
 city: Verl
-street: "Paderborner Straße"
-housenumber: 18
+street: Paderborner Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.gerland-verl.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: https://www.gerland-verl.de/

@@ -4,8 +4,8 @@ latitude: 51.59226
 longitude: 7.65906
 postcode: "59174"
 city: Kamen
-street: "Weststraße"
-housenumber: 53
-phone: "+49 2307 24 06 60"
-opening_hours: "Tu-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-13:00; Tu,We,Fr nach Vereinbarung"
-website: "https://www.kaiserschnitt-kamen.de/"
+street: Weststraße
+housenumber: "53"
+phone: +49 2307 24 06 60
+opening_hours: Tu-Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-13:00; Tu,We,Fr "nach Vereinbarung"
+website: https://www.kaiserschnitt-kamen.de/

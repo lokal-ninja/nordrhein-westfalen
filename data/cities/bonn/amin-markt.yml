@@ -1,11 +1,11 @@
 id: 126424155
-type: way
+type: node
 latitude: 50.66687
 longitude: 7.17774
 postcode: ""
 city: Bonn
-street: "Drachenburgstraße"
-housenumber: 34
+street: Drachenburgstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

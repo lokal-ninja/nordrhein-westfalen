@@ -4,8 +4,8 @@ latitude: 51.20875
 longitude: 6.67327
 postcode: "41462"
 city: Neuss
-street: "Berliner Platz"
-housenumber: 25
-phone: "+49 2131 4083988"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "http://www.hoergeraete-mayer.de/"
+street: Berliner Platz
+housenumber: "25"
+phone: +49 2131 4083988
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: http://www.hoergeraete-mayer.de/

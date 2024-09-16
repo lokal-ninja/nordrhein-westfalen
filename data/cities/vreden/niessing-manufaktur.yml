@@ -1,11 +1,11 @@
 id: 136490708
-type: way
+type: node
 latitude: 52.0337
 longitude: 6.82627
 postcode: "48691"
 city: Vreden
-street: "Butenwall"
-housenumber: 117
+street: Butenwall
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "https://niessing.com/"
+website: https://niessing.com/

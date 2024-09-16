@@ -1,11 +1,11 @@
 id: 313270112
-type: way
+type: node
 latitude: 51.25352
 longitude: 8.16788
 postcode: "59889"
 city: Eslohe (Sauerland)
-street: "Hauptstraße"
-housenumber: 70
+street: Hauptstraße
+housenumber: "70"
 phone: "+492973908584"
 opening_hours: ""
-website: "https://s2-stinn.de/"
+website: https://s2-stinn.de/

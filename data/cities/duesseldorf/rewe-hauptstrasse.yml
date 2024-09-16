@@ -4,8 +4,8 @@ latitude: 51.1626
 longitude: 6.87426
 postcode: "40597"
 city: Düsseldorf
-street: "Hauptstraße"
-housenumber: 8
-phone: "+49 211 995172"
-opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
-website: "https://www.rewe.de/"
+street: Hauptstraße
+housenumber: "8"
+phone: +49 211 995172
+opening_hours: Mo-Sa 07:00-24:00; Su,PH off
+website: https://www.rewe.de/

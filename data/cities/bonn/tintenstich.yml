@@ -4,8 +4,8 @@ latitude: 50.73775
 longitude: 7.09566
 postcode: "53111"
 city: Bonn
-street: "Breite Straße"
-housenumber: 23
+street: Breite Straße
+housenumber: "23"
 phone: "+492289652784"
-opening_hours: "Mo-Fr 12:00-19:00"
-website: "https://tintenstich.de"
+opening_hours: Mo-Fr 12:00-19:00
+website: https://tintenstich.de

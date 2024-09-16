@@ -1,11 +1,11 @@
 id: 130180792
-type: way
+type: node
 latitude: 52.04136
 longitude: 6.80871
 postcode: "48691"
 city: Vreden
-street: "Zwillbrocker Straße"
-housenumber: 70
+street: Zwillbrocker Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-kutsche-zwillbrocker-stra%C3%9Fe-70/index.jsp"
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-kutsche-zwillbrocker-stra%C3%9Fe-70/index.jsp

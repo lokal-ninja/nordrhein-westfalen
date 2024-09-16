@@ -4,8 +4,8 @@ latitude: 51.21596
 longitude: 7.6344
 postcode: "58511"
 city: Lüdenscheid
-street: "Wilhelmstraße"
-housenumber: 45
+street: Wilhelmstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-16:00; Su off"
-website: "https://www.gardinen-rumpler.de/"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-16:00; Su off
+website: https://www.gardinen-rumpler.de/

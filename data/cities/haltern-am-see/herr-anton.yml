@@ -4,8 +4,8 @@ latitude: 51.71605
 longitude: 7.0782
 postcode: "45721"
 city: Haltern am See
-street: "Heidkantweg"
-housenumber: 90
+street: Heidkantweg
+housenumber: "90"
 phone: ""
-opening_hours: "24/7"
-website: "https://herr-anton.com/"
+opening_hours: 24/7
+website: https://herr-anton.com/

@@ -1,11 +1,11 @@
 id: 1120865277
-type: way
+type: node
 latitude: 51.53419
 longitude: 7.47357
 postcode: "44145"
 city: Dortmund
-street: "Bornstraße"
-housenumber: 230
-phone: "+49 231 98188670"
+street: Bornstraße
+housenumber: "230"
+phone: +49 231 98188670
 opening_hours: ""
-website: "https://www.i-tec24.de/"
+website: https://www.i-tec24.de/

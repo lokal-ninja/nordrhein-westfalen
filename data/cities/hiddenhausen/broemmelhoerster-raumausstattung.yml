@@ -1,11 +1,11 @@
 id: 229437826
-type: way
+type: node
 latitude: 52.16787
 longitude: 8.62836
 postcode: "32120"
 city: Hiddenhausen
-street: "Bünder Straße"
-housenumber: 397
-phone: "+49 5223 85233"
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:00-17:00, Sa 10:00-12:30"
+street: Bünder Straße
+housenumber: "397"
+phone: +49 5223 85233
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:00-17:00, Sa 10:00-12:30
 website: ""

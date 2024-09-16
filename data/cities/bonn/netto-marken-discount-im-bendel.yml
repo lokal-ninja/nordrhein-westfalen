@@ -1,11 +1,11 @@
 id: 43607912
-type: way
+type: node
 latitude: 50.69002
 longitude: 7.13705
 postcode: "53175"
 city: Bonn
-street: "Im Bendel"
-housenumber: 4
+street: Im Bendel
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

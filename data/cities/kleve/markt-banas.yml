@@ -1,11 +1,11 @@
 id: 111976174
-type: way
+type: node
 latitude: 51.784
 longitude: 6.13393
 postcode: "47533"
 city: Kleve
-street: "Hagsche Straße"
-housenumber: 76
+street: Hagsche Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

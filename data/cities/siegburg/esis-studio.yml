@@ -4,8 +4,8 @@ latitude: 50.80177
 longitude: 7.20581
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 89
-phone: "+49 2241 9570040"
+street: Kaiserstraße
+housenumber: "89"
+phone: +49 2241 9570040
 opening_hours: ""
-website: "https://www.esis-studio.de/"
+website: https://www.esis-studio.de/

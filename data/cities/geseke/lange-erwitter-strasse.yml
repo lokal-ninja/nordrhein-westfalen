@@ -1,11 +1,11 @@
 id: 229674423
-type: way
+type: node
 latitude: 51.63554
 longitude: 8.50521
 postcode: "59590"
 city: Geseke
-street: "Erwitter Straße"
-housenumber: 12
-phone: "+492942 5798362"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 08:00-18:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/geseke-drive-in.php"
+street: Erwitter Straße
+housenumber: "12"
+phone: +492942 5798362
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 08:00-18:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/geseke-drive-in.php

@@ -4,8 +4,8 @@ latitude: 50.77056
 longitude: 6.09198
 postcode: "52062"
 city: Aachen
-street: "Theaterstraße"
-housenumber: 68
+street: Theaterstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 06:20-17:00; Sa 06:00-14:00; Su off"
-website: "https://nobis-printen.de/"
+opening_hours: Mo-Fr 06:20-17:00; Sa 06:00-14:00; Su off
+website: https://nobis-printen.de/

@@ -4,8 +4,8 @@ latitude: 51.99946
 longitude: 7.94464
 postcode: "48231"
 city: Warendorf
-street: "Vinnenberger Straße"
-housenumber: 2
-phone: "+49 2584 1455"
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:30,13:30-18:00; We,Su off; Sa 09:00-12:30"
-website: "https://www.bike-milte.de/"
+street: Vinnenberger Straße
+housenumber: "2"
+phone: +49 2584 1455
+opening_hours: Mo-Tu,Th-Fr 09:00-12:30,13:30-18:00; We,Su off; Sa 09:00-12:30
+website: https://www.bike-milte.de/

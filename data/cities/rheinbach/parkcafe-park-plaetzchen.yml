@@ -1,11 +1,11 @@
 id: 360265098
-type: way
+type: node
 latitude: 50.62007
 longitude: 6.93422
 postcode: "53359"
 city: Rheinbach
-street: "Münstereifeler Straße"
-housenumber: 69
+street: Münstereifeler Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.rheinbach.de/cms121a/freizeit/freizeitpark/"
+website: https://www.rheinbach.de/cms121a/freizeit/freizeitpark/

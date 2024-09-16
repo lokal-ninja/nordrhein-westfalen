@@ -1,11 +1,11 @@
 id: 455362050
-type: way
+type: node
 latitude: 50.96806
 longitude: 6.60182
 postcode: "50126"
 city: Bergheim
-street: "Grevenbroicher Straße"
-housenumber: 116
+street: Grevenbroicher Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bergheim/glescher-strasse-116-126"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bergheim/glescher-strasse-116-126

@@ -1,11 +1,11 @@
 id: 84301503
-type: way
+type: node
 latitude: 51.43416
 longitude: 7.00564
 postcode: "45130"
 city: Essen
-street: "Brassertstraße"
-housenumber: 38
-phone: "+49 201 77 92 21"
-opening_hours: "Termine nach vorheriger Vereinbarung"
-website: "https://laser-aesthetik-institut.de/"
+street: Brassertstraße
+housenumber: "38"
+phone: +49 201 77 92 21
+opening_hours: '"Termine nach vorheriger Vereinbarung"'
+website: https://laser-aesthetik-institut.de/

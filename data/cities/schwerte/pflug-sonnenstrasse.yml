@@ -1,11 +1,11 @@
 id: 263396699
-type: way
+type: node
 latitude: 51.44768
 longitude: 7.56082
 postcode: "58239"
 city: Schwerte
-street: "Sonnenstraße"
-housenumber: 3
+street: Sonnenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

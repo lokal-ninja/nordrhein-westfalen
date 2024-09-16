@@ -4,8 +4,8 @@ latitude: 51.22607
 longitude: 6.62222
 postcode: "41564"
 city: Kaarst
-street: "Lange Hecke"
-housenumber: 7
-phone: "+49 2131 69700"
-opening_hours: "Mo-Fr 07:15-12:30, 14:00-18:30; Sa 07:15-13:00; Su 09:00-11:00, 14:00-16:00"
-website: "http://www.g-becht.de/"
+street: Lange Hecke
+housenumber: "7"
+phone: +49 2131 69700
+opening_hours: Mo-Fr 07:15-12:30, 14:00-18:30; Sa 07:15-13:00; Su 09:00-11:00, 14:00-16:00
+website: http://www.g-becht.de/

@@ -1,11 +1,11 @@
 id: 376986290
-type: way
+type: node
 latitude: 51.04325
 longitude: 7.0271
 postcode: "51377"
 city: Leverkusen
-street: "Alkenrather Straße"
-housenumber: 43
+street: Alkenrather Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

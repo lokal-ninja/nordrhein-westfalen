@@ -1,11 +1,11 @@
 id: 158290362
-type: way
+type: node
 latitude: 51.34384
 longitude: 6.55138
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
+street: Hülser Straße
 housenumber: 137-139
 phone: ""
 opening_hours: ""
-website: "http://www.todigmbh.de/"
+website: http://www.todigmbh.de/

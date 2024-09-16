@@ -1,11 +1,11 @@
 id: 43381136
-type: way
+type: node
 latitude: 51.68139
 longitude: 7.82158
 postcode: "59065"
 city: Hamm
-street: "Widumstraße"
-housenumber: 22
+street: Widumstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00; Su,PH off
 website: ""

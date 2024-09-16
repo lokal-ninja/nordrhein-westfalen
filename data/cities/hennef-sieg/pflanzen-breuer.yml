@@ -1,11 +1,11 @@
 id: 123447477
-type: way
+type: node
 latitude: 50.77338
 longitude: 7.30238
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Emil-Langen-Straße"
-housenumber: 6
-phone: "+49 2242 915540"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00"
-website: "https://www.pflanzen-breuer.de/standort/2/hennef"
+street: Emil-Langen-Straße
+housenumber: "6"
+phone: +49 2242 915540
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00
+website: https://www.pflanzen-breuer.de/standort/2/hennef

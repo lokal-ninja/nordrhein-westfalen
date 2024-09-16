@@ -1,11 +1,11 @@
 id: 955836738
-type: way
+type: node
 latitude: 50.75878
 longitude: 6.1626
 postcode: "52078"
 city: Aachen
-street: "Gewerbepark Brand"
-housenumber: 55
+street: Gewerbepark Brand
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://rf-horsemotors.de/"
+website: https://rf-horsemotors.de/

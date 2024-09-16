@@ -4,8 +4,8 @@ latitude: 51.23808
 longitude: 7.09772
 postcode: "42327"
 city: Wuppertal
-street: "Sonnborner Straße"
-housenumber: 71
+street: Sonnborner Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-17:00"
-website: "https://www.policks-backstube.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-17:00
+website: https://www.policks-backstube.de/

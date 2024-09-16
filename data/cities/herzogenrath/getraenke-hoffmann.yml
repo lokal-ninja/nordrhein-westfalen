@@ -1,11 +1,11 @@
 id: 23077786
-type: way
+type: node
 latitude: 50.83616
 longitude: 6.07772
 postcode: "52134"
 city: Herzogenrath
-street: "Feldstraße"
+street: Feldstraße
 housenumber: 2-22
-phone: "+49 2407 563 5855"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.getraenke-hoffmann.de/filiale/herzogenrath/feldstr-2-22"
+phone: +49 2407 563 5855
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.getraenke-hoffmann.de/filiale/herzogenrath/feldstr-2-22

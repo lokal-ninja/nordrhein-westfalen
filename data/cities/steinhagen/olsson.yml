@@ -1,11 +1,11 @@
 id: 202403270
-type: way
+type: node
 latitude: 52.01361
 longitude: 8.44229
 postcode: "33803"
 city: Steinhagen
-street: "Bielefelder Straße"
-housenumber: 78
+street: Bielefelder Straße
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-olsson.de/index.php?id=84"
+website: https://www.baeckerei-olsson.de/index.php?id=84

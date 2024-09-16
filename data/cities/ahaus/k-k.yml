@@ -1,11 +1,11 @@
 id: 129107014
-type: way
+type: node
 latitude: 52.13051
 longitude: 6.92027
 postcode: "48683"
 city: Ahaus
-street: "Gronauer Straße"
-housenumber: 30
+street: Gronauer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 222123169
-type: way
+type: node
 latitude: 50.83883
 longitude: 6.91008
 postcode: "50321"
 city: Brühl
-street: "Kölnstraße"
-housenumber: 183
+street: Kölnstraße
+housenumber: "183"
 phone: ""
 opening_hours: ""
 website: ""

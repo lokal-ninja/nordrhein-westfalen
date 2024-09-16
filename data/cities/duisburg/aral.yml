@@ -1,11 +1,11 @@
 id: 82541249
-type: way
+type: node
 latitude: 51.4895
 longitude: 6.78351
 postcode: "47166"
 city: Duisburg
-street: "Duisburger Straße"
-housenumber: 121
-phone: "+49 203 99480-50"
-opening_hours: "24/7"
-website: "https://www.aral.de/"
+street: Duisburger Straße
+housenumber: "121"
+phone: +49 203 99480-50
+opening_hours: 24/7
+website: https://www.aral.de/

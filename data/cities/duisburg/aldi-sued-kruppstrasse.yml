@@ -1,11 +1,11 @@
 id: 28832397
-type: way
+type: node
 latitude: 51.39713
 longitude: 6.71611
 postcode: "47229"
 city: Duisburg
-street: "Kruppstraße"
-housenumber: 51
+street: Kruppstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

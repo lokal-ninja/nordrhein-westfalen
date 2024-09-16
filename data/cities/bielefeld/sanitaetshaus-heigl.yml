@@ -4,8 +4,8 @@ latitude: 52.00739
 longitude: 8.62112
 postcode: "33719"
 city: Bielefeld
-street: "Ludwig-Erhard-Allee"
-housenumber: 24
-phone: "+49-521-557615-0"
-opening_hours: "Mo-Fr 08:30-13:00"
-website: "http://www.sanitaetshausheigl.de"
+street: Ludwig-Erhard-Allee
+housenumber: "24"
+phone: +49-521-557615-0
+opening_hours: Mo-Fr 08:30-13:00
+website: http://www.sanitaetshausheigl.de

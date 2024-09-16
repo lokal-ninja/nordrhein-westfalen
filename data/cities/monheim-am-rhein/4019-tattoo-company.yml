@@ -1,11 +1,11 @@
 id: 119500488
-type: way
+type: node
 latitude: 51.11063
 longitude: 6.89887
 postcode: "40789"
 city: Monheim am Rhein
-street: "Borsigstraße"
-housenumber: 3
+street: Borsigstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

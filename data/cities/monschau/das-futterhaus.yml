@@ -1,11 +1,11 @@
 id: 484417893
-type: way
+type: node
 latitude: 50.5788
 longitude: 6.25851
 postcode: "52156"
 city: Monschau
-street: "Auf Beuel"
-housenumber: 24
+street: Auf Beuel
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

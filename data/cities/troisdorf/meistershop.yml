@@ -1,11 +1,11 @@
 id: 81237283
-type: way
+type: node
 latitude: 50.81338
 longitude: 7.16191
 postcode: "53840"
 city: Troisdorf
-street: "Klevstraße"
-housenumber: 16
+street: Klevstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

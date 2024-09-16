@@ -1,11 +1,11 @@
 id: 259610292
-type: way
+type: node
 latitude: 51.98488
 longitude: 7.78367
 postcode: "48291"
 city: Telgte
-street: "Münsterstraße"
-housenumber: 22
-phone: "+49 2504 3231"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.hilbk-blome-augenoptik.de/"
+street: Münsterstraße
+housenumber: "22"
+phone: +49 2504 3231
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.hilbk-blome-augenoptik.de/

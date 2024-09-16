@@ -1,11 +1,11 @@
 id: 92252582
-type: way
+type: node
 latitude: 51.42834
 longitude: 7.05191
 postcode: "45134"
 city: Essen
-street: "Frankenstraße"
-housenumber: 48
-phone: "+49 201 84379104"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Frankenstraße
+housenumber: "48"
+phone: +49 201 84379104
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

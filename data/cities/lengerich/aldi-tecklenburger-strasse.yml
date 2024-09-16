@@ -1,11 +1,11 @@
 id: 480806243
-type: way
+type: node
 latitude: 52.19291
 longitude: 7.8459
 postcode: "49525"
 city: Lengerich
-street: "Tecklenburger Straße"
-housenumber: 12
+street: Tecklenburger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

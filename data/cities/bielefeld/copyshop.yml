@@ -4,8 +4,8 @@ latitude: 52.02488
 longitude: 8.54005
 postcode: "33602"
 city: Bielefeld
-street: "Werner-Bock-Straße"
-housenumber: 1
-phone: "+49-521-122511"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-13:00"
-website: "https://www.copyshop-kesselbrink.de/"
+street: Werner-Bock-Straße
+housenumber: "1"
+phone: +49-521-122511
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-13:00
+website: https://www.copyshop-kesselbrink.de/

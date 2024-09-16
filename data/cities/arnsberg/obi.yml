@@ -1,11 +1,11 @@
 id: 313253516
-type: way
+type: node
 latitude: 51.42743
 longitude: 8.00622
 postcode: "59759"
 city: Arnsberg
-street: "Arnsberger Straße"
-housenumber: 85
-phone: "+49 2932 890120"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/"
+street: Arnsberger Straße
+housenumber: "85"
+phone: +49 2932 890120
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/

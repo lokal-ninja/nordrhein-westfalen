@@ -1,11 +1,11 @@
 id: 249407709
-type: way
+type: node
 latitude: 51.98364
 longitude: 7.7843
 postcode: "48291"
 city: Telgte
-street: "Königstraße"
-housenumber: 31
+street: Königstraße
+housenumber: "31"
 phone: "+4925041672"
-opening_hours: "Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.jessica-niebruegge.de/"
+opening_hours: Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.jessica-niebruegge.de/

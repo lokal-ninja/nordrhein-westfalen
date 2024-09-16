@@ -1,11 +1,11 @@
 id: 205035715
-type: way
+type: node
 latitude: 51.30502
 longitude: 7.66414
 postcode: "58762"
 city: Altena
-street: "Bahnhofstraße"
-housenumber: 70
+street: Bahnhofstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off"
-website: "https://www.dursty.de/marktfinder/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off
+website: https://www.dursty.de/marktfinder/

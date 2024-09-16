@@ -1,11 +1,11 @@
 id: 327239427
-type: way
+type: node
 latitude: 52.12816
 longitude: 8.41496
 postcode: "32139"
 city: Spenge
-street: "Düttingdorfer Straße"
-housenumber: 342
+street: Düttingdorfer Straße
+housenumber: "342"
 phone: ""
 opening_hours: ""
-website: "http://bmw-partner.bmw.de/autohaus-hinzmann/de_DE/uebersicht.html"
+website: http://bmw-partner.bmw.de/autohaus-hinzmann/de_DE/uebersicht.html

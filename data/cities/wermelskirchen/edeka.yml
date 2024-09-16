@@ -4,8 +4,8 @@ latitude: 51.0908
 longitude: 7.18672
 postcode: "42929"
 city: Wermelskirchen
-street: "Südstraße"
-housenumber: 6
-phone: "+49 2193 4406"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Südstraße
+housenumber: "6"
+phone: +49 2193 4406
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 139369831
-type: way
+type: node
 latitude: 51.49947
 longitude: 6.52451
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Parkstraße"
-housenumber: 28
+street: Parkstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.55538
 longitude: 6.24188
 postcode: "52156"
 city: Monschau
-street: "Stehlings"
-housenumber: 16
-phone: "+49 2472 23 75"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.knusperhaus.de"
+street: Stehlings
+housenumber: "16"
+phone: +49 2472 23 75
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.knusperhaus.de

@@ -1,11 +1,11 @@
 id: 258368260
-type: way
+type: node
 latitude: 51.95881
 longitude: 7.57147
 postcode: "48161"
 city: Münster
-street: "Dieckmannstraße"
-housenumber: 203
+street: Dieckmannstraße
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.starwash-muenster.de/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.starwash-muenster.de/

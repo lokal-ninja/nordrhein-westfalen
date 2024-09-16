@@ -4,8 +4,8 @@ latitude: 50.73614
 longitude: 7.10092
 postcode: "53111"
 city: Bonn
-street: "Bonngasse"
-housenumber: 11
+street: Bonngasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; PH,Su off
 website: ""

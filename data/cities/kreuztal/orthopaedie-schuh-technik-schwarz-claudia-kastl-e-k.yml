@@ -1,11 +1,12 @@
 id: 272717813
-type: way
+type: node
 latitude: 50.96171
 longitude: 8.00076
 postcode: "57223"
 city: Kreuztal
-street: "Marburger Straße"
-housenumber: 95
+street: Marburger Straße
+housenumber: "95"
 phone: "+4927322389"
-opening_hours: "Th 09:00-12:00,14:00-18:00; Fr 09:00-15:00; Mo,Tu 09:00-12:00,14:00-17:00; We 09:00-12:00,14:00-16:30"
+opening_hours: Th 09:00-12:00,14:00-18:00; Fr 09:00-15:00; Mo,Tu 09:00-12:00,14:00-17:00;
+    We 09:00-12:00,14:00-16:30
 website: ""

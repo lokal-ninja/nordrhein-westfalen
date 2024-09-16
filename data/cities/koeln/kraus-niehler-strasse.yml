@@ -4,8 +4,8 @@ latitude: 50.97578
 longitude: 6.96021
 postcode: "50735"
 city: Köln
-street: "Niehler Straße"
-housenumber: 312
+street: Niehler Straße
+housenumber: "312"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su 08:00-12:00"
-website: "https://www.unwiderstehlich-gut.de/index.php?page=finder&id=1"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su 08:00-12:00
+website: https://www.unwiderstehlich-gut.de/index.php?page=finder&id=1

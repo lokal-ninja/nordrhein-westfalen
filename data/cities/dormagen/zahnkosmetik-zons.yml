@@ -4,8 +4,8 @@ latitude: 51.11977
 longitude: 6.84682
 postcode: "41541"
 city: Dormagen
-street: "Schloßstraße"
-housenumber: 69
-phone: "+49 2133 5337551"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.zahnkosmetik-zons.de/"
+street: Schloßstraße
+housenumber: "69"
+phone: +49 2133 5337551
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.zahnkosmetik-zons.de/

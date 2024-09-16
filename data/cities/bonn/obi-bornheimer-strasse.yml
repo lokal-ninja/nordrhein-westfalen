@@ -1,11 +1,11 @@
 id: 123649825
-type: way
+type: node
 latitude: 50.73853
 longitude: 7.08121
 postcode: "53119"
 city: Bonn
-street: "Bornheimer Straße"
-housenumber: 166
-phone: "+49 228 7637630"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/de/maerkte/Bonn-Nord"
+street: Bornheimer Straße
+housenumber: "166"
+phone: +49 228 7637630
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/de/maerkte/Bonn-Nord

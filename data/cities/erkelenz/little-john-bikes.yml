@@ -1,11 +1,11 @@
 id: 208735365
-type: way
+type: node
 latitude: 51.07624
 longitude: 6.30661
 postcode: "41812"
 city: Erkelenz
-street: "August-Horch-Straße"
-housenumber: 5
-phone: "+49 2431 6620"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.littlejohnbikes.de/"
+street: August-Horch-Straße
+housenumber: "5"
+phone: +49 2431 6620
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.littlejohnbikes.de/

@@ -4,8 +4,8 @@ latitude: 50.73673
 longitude: 7.09037
 postcode: "53111"
 city: Bonn
-street: "Bornheimer Straße"
-housenumber: 54
+street: Bornheimer Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:30"
-website: "http://www.city-cut-bonn.de"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:30
+website: http://www.city-cut-bonn.de

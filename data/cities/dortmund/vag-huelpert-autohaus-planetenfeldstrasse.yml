@@ -4,8 +4,8 @@ latitude: 51.50377
 longitude: 7.39525
 postcode: "44379"
 city: Dortmund
-street: "Planetenfeldstraße"
-housenumber: 87
-phone: "+49 231 610050"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.huelpert.de/volkswagen/standorte/huelpert-planetenfeldstrasse"
+street: Planetenfeldstraße
+housenumber: "87"
+phone: +49 231 610050
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.huelpert.de/volkswagen/standorte/huelpert-planetenfeldstrasse

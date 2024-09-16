@@ -1,11 +1,11 @@
 id: 233871445
-type: way
+type: node
 latitude: 51.6369
 longitude: 8.67159
 postcode: "33154"
 city: Salzkotten
-street: "Zum Dingfeld"
-housenumber: 3
+street: Zum Dingfeld
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00"
+opening_hours: Mo-Sa 8:00-21:00
 website: ""

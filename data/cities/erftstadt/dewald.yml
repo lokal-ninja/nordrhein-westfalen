@@ -1,11 +1,11 @@
 id: 98370434
-type: way
+type: node
 latitude: 50.79427
 longitude: 6.77467
 postcode: "50374"
 city: Erftstadt
-street: "Siemensstraße"
-housenumber: 3
+street: Siemensstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

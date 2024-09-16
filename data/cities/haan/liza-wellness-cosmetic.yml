@@ -4,8 +4,8 @@ latitude: 51.19395
 longitude: 7.01269
 postcode: "42781"
 city: Haan
-street: "Friedrichstraße"
-housenumber: 19
-phone: "+49 21 29 567 99 36"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; PH off"
-website: "http://www.lizawellnesscosmetic.de/"
+street: Friedrichstraße
+housenumber: "19"
+phone: +49 21 29 567 99 36
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; PH off
+website: http://www.lizawellnesscosmetic.de/

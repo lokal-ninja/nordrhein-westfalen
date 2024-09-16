@@ -4,8 +4,8 @@ latitude: 51.22637
 longitude: 7.10755
 postcode: "42329"
 city: Wuppertal
-street: "Buchenhofen"
-housenumber: 26
-phone: "+49 202 74 03 52"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-14:30"
-website: "https://www.laame.de/"
+street: Buchenhofen
+housenumber: "26"
+phone: +49 202 74 03 52
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-14:30
+website: https://www.laame.de/

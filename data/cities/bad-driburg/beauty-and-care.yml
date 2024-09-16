@@ -4,8 +4,8 @@ latitude: 51.73438
 longitude: 9.02249
 postcode: "33014"
 city: Bad Driburg
-street: "Lange Straße"
-housenumber: 111
+street: Lange Straße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00,14:30-18:00; Fr 09:30-18:00; Sa 10:00-13:00"
-website: "https://www.beautyandcare.com/"
+opening_hours: Mo-Th 10:00-13:00,14:30-18:00; Fr 09:30-18:00; Sa 10:00-13:00
+website: https://www.beautyandcare.com/

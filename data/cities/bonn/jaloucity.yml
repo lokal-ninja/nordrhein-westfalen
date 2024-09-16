@@ -4,8 +4,8 @@ latitude: 50.74627
 longitude: 7.09473
 postcode: "53111"
 city: Bonn
-street: "Graurheindorfer Straße"
-housenumber: 101
-phone: "+49 228 9650820"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; Su off"
-website: "https://www.jaloucity.de/filialen/bonn.html"
+street: Graurheindorfer Straße
+housenumber: "101"
+phone: +49 228 9650820
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; Su off
+website: https://www.jaloucity.de/filialen/bonn.html

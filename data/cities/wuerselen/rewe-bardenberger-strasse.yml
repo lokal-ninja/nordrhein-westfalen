@@ -1,11 +1,11 @@
 id: 237918978
-type: way
+type: node
 latitude: 50.83755
 longitude: 6.118
 postcode: "52146"
 city: Würselen
-street: "Bardenberger Straße"
-housenumber: 124
-phone: "+49 2405 897990"
-opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/wuerselen-bardenberg/1765260/rewe-markt-bardenberger-str-124/"
+street: Bardenberger Straße
+housenumber: "124"
+phone: +49 2405 897990
+opening_hours: Mo-Sa 08:00-22:00; Su,PH off
+website: https://www.rewe.de/marktseite/wuerselen-bardenberg/1765260/rewe-markt-bardenberger-str-124/

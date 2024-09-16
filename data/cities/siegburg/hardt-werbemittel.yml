@@ -4,8 +4,8 @@ latitude: 50.79861
 longitude: 7.21106
 postcode: "53721"
 city: Siegburg
-street: "Holzgasse"
-housenumber: 50
-phone: "+49 2241 51783"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-14:00"
-website: "https://www.hardt-werbemittel.de/"
+street: Holzgasse
+housenumber: "50"
+phone: +49 2241 51783
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-14:00
+website: https://www.hardt-werbemittel.de/

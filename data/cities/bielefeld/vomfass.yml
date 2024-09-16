@@ -4,8 +4,8 @@ latitude: 52.02264
 longitude: 8.53386
 postcode: "33602"
 city: Bielefeld
-street: "Niederwall"
-housenumber: 5
+street: Niederwall
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.vomfass.de/bielefeld/"
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.vomfass.de/bielefeld/

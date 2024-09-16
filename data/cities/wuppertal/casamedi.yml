@@ -4,8 +4,8 @@ latitude: 51.23307
 longitude: 7.07485
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 68
-phone: "+49 202 87000002"
+street: Kaiserstraße
+housenumber: "68"
+phone: +49 202 87000002
 opening_hours: ""
-website: "https://casamedi.de"
+website: https://casamedi.de

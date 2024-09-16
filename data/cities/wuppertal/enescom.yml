@@ -4,8 +4,8 @@ latitude: 51.25315
 longitude: 7.13227
 postcode: "42117"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 104
-phone: "+49 202 29 80 800"
-opening_hours: "Mo-Th 10:30-18:30; Fr 10:30-14:30,16:00-18:30; Sa 10:30-15:00"
-website: "https://www.enescom.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "104"
+phone: +49 202 29 80 800
+opening_hours: Mo-Th 10:30-18:30; Fr 10:30-14:30,16:00-18:30; Sa 10:30-15:00
+website: https://www.enescom.de/

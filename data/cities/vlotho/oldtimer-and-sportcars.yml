@@ -1,11 +1,11 @@
 id: 128994442
-type: way
+type: node
 latitude: 52.13799
 longitude: 8.76997
 postcode: "32602"
 city: Vlotho
-street: "Herforder Straße"
-housenumber: 453
-phone: "+49 5228-7501"
+street: Herforder Straße
+housenumber: "453"
+phone: +49 5228-7501
 opening_hours: ""
-website: "https://fiatteile.de/"
+website: https://fiatteile.de/

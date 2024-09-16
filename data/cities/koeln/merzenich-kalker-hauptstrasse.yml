@@ -4,8 +4,8 @@ latitude: 50.93807
 longitude: 7.00495
 postcode: "51103"
 city: Köln
-street: "Kalker Hauptstraße"
-housenumber: 168
+street: Kalker Hauptstraße
+housenumber: "168"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 07:00-15:00"
-website: "https://baeckerei-merzenich.de"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 07:00-15:00
+website: https://baeckerei-merzenich.de

@@ -4,8 +4,8 @@ latitude: 50.79385
 longitude: 7.20889
 postcode: "53721"
 city: Siegburg
-street: "Mühlenstraße"
-housenumber: 50
-phone: "+49 2241 9717990"
+street: Mühlenstraße
+housenumber: "50"
+phone: +49 2241 9717990
 opening_hours: ""
-website: "https://siegburg.bunert.de/"
+website: https://siegburg.bunert.de/

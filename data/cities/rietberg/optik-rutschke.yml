@@ -1,11 +1,11 @@
 id: 54842934
-type: way
+type: node
 latitude: 51.75493
 longitude: 8.38921
 postcode: "33397"
 city: Rietberg
-street: "Lippstädter Straße"
-housenumber: 26
+street: Lippstädter Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

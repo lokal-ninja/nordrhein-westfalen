@@ -4,8 +4,8 @@ latitude: 50.75081
 longitude: 6.16095
 postcode: "52078"
 city: Aachen
-street: "Trierer Straße"
-housenumber: 718
+street: Trierer Straße
+housenumber: "718"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa nach Vereinbarung; Su,PH off"
-website: "https://www.glamour-aachen.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa "nach Vereinbarung"; Su,PH off
+website: https://www.glamour-aachen.de/

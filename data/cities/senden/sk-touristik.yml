@@ -1,11 +1,11 @@
 id: 329025112
-type: way
+type: node
 latitude: 51.90795
 longitude: 7.48153
 postcode: "48308"
 city: Senden
-street: "Im Südfeld"
-housenumber: 96
+street: Im Südfeld
+housenumber: "96"
 phone: ""
 opening_hours: ""
-website: "https://www.sktouristik.de/"
+website: https://www.sktouristik.de/

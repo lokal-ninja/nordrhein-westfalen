@@ -1,11 +1,11 @@
 id: 146496986
-type: way
+type: node
 latitude: 50.57027
 longitude: 6.7631
 postcode: "53902"
 city: Bad Münstereifel
-street: "Josef-Jonas-Straße"
-housenumber: 5
+street: Josef-Jonas-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; PH, Su off"
+opening_hours: Mo-Sa 08:00-22:00; PH, Su off
 website: ""

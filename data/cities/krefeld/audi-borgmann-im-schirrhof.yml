@@ -1,11 +1,12 @@
 id: 211342019
-type: way
+type: node
 latitude: 51.34405
 longitude: 6.56018
 postcode: "47803"
 city: Krefeld
-street: "Nassauerring"
-housenumber: 45
+street: Nassauerring
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00; Mo-Th 07:00-17:00; Fr 07:00-16:00;
+    Sa 08:00-12:30
 website: ""

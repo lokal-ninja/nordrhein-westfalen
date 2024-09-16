@@ -1,11 +1,11 @@
 id: 107869284
-type: way
+type: node
 latitude: 52.07131
 longitude: 8.75594
 postcode: "32108"
 city: Bad Salzuflen
-street: "Schülerstraße"
-housenumber: 3
+street: Schülerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

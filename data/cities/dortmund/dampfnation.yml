@@ -4,8 +4,8 @@ latitude: 51.52324
 longitude: 7.54303
 postcode: "44309"
 city: Dortmund
-street: "Brackeler Hellweg"
-housenumber: 118
+street: Brackeler Hellweg
+housenumber: "118"
 phone: "+4923197765454"
 opening_hours: ""
-website: "https://www.dampfnation.de/"
+website: https://www.dampfnation.de/

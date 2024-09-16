@@ -4,8 +4,8 @@ latitude: 51.4824
 longitude: 7.21797
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 100
-phone: "+49 234 9650986"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rewe.de/marktseite/bochum/1940239/rewe-markt-kortumstrasse-100/"
+street: Kortumstraße
+housenumber: "100"
+phone: +49 234 9650986
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rewe.de/marktseite/bochum/1940239/rewe-markt-kortumstrasse-100/

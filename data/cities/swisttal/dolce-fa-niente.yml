@@ -1,11 +1,11 @@
 id: 126762095
-type: way
+type: node
 latitude: 50.68772
 longitude: 6.89455
 postcode: "53913"
 city: Swisttal
-street: "Breite Straße"
-housenumber: 14
+street: Breite Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.dolcefaniente.de/"
+website: https://www.dolcefaniente.de/

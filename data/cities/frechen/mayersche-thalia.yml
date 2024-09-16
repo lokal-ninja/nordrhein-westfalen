@@ -4,8 +4,8 @@ latitude: 50.90951
 longitude: 6.80745
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 122
-phone: "+49 2234 2191980"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5366/"
+street: Hauptstraße
+housenumber: "122"
+phone: +49 2234 2191980
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5366/

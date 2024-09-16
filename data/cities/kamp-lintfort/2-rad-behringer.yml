@@ -1,11 +1,11 @@
 id: 330230402
-type: way
+type: node
 latitude: 51.50867
 longitude: 6.55301
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Friedrichstraße"
-housenumber: 100
-phone: "+49 2842 42471"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:00"
-website: "https://www.zweirad-behringer.de/"
+street: Friedrichstraße
+housenumber: "100"
+phone: +49 2842 42471
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-13:00
+website: https://www.zweirad-behringer.de/

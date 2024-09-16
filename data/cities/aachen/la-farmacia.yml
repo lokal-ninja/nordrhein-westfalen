@@ -4,8 +4,8 @@ latitude: 50.7695
 longitude: 6.09994
 postcode: "52070"
 city: Aachen
-street: "Lothringerstraße"
-housenumber: 114
+street: Lothringerstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Sa 11:00-16:00; Su,Mo,PH off; Tu 11:00-14:00; We-Fr 11:00-13:00,15:00-18:30"
-website: "https://la-farmacia.de/"
+opening_hours: Sa 11:00-16:00; Su,Mo,PH off; Tu 11:00-14:00; We-Fr 11:00-13:00,15:00-18:30
+website: https://la-farmacia.de/

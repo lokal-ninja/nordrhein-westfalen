@@ -1,11 +1,11 @@
 id: 130409456
-type: way
+type: node
 latitude: 51.29023
 longitude: 7.28926
 postcode: "58332"
 city: Schwelm
-street: "Bahnhofplatz"
+street: Bahnhofplatz
 housenumber: 1 A
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 08:00-16:00
 website: ""

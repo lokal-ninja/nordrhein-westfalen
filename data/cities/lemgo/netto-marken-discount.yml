@@ -1,11 +1,11 @@
 id: 205686719
-type: way
+type: node
 latitude: 52.03191
 longitude: 8.90157
 postcode: "32657"
 city: Lemgo
-street: "Leopoldstraße"
-housenumber: 26
+street: Leopoldstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

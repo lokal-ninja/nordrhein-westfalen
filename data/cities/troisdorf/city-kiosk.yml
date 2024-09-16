@@ -1,11 +1,11 @@
 id: 166913470
-type: way
+type: node
 latitude: 50.81324
 longitude: 7.15817
 postcode: "53840"
 city: Troisdorf
-street: "Hippolytusstraße"
-housenumber: 38
+street: Hippolytusstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 298338590
-type: way
+type: node
 latitude: 50.93031
 longitude: 7.04071
 postcode: "51107"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 703
+street: Frankfurter Straße
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

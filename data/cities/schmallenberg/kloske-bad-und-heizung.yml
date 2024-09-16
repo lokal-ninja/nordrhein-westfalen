@@ -1,11 +1,11 @@
 id: 267656446
-type: way
+type: node
 latitude: 51.15602
 longitude: 8.25405
 postcode: "57392"
 city: Schmallenberg
-street: "Werdestraße"
-housenumber: 2
-phone: "+49 2972 975 40"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "ttps://www.kloske-bad-heizung.de"
+street: Werdestraße
+housenumber: "2"
+phone: +49 2972 975 40
+opening_hours: Mo-Fr 08:00-17:00
+website: ttps://www.kloske-bad-heizung.de

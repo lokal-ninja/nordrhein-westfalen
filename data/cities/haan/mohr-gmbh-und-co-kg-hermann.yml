@@ -1,11 +1,11 @@
 id: 166492585
-type: way
+type: node
 latitude: 51.1908
 longitude: 6.99764
 postcode: "42781"
 city: Haan
-street: "Böttingerstraße"
-housenumber: 19
+street: Böttingerstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.sperrholz-mohr.de/"
+website: https://www.sperrholz-mohr.de/

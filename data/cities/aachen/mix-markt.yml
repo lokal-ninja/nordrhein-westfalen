@@ -1,11 +1,11 @@
 id: 115827118
-type: way
+type: node
 latitude: 50.75595
 longitude: 6.13865
 postcode: "52078"
 city: Aachen
-street: "Sittarder Straße"
-housenumber: 30
+street: Sittarder Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off
 website: ""

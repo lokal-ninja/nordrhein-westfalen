@@ -4,8 +4,8 @@ latitude: 50.86783
 longitude: 7.04675
 postcode: "51143"
 city: Köln
-street: "Schmittgasse"
-housenumber: 39
-phone: "+49 2203 9095773"
+street: Schmittgasse
+housenumber: "39"
+phone: +49 2203 9095773
 opening_hours: ""
-website: "https://spielinsel.info/"
+website: https://spielinsel.info/

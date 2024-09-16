@@ -4,8 +4,8 @@ latitude: 50.87815
 longitude: 6.87589
 postcode: "50354"
 city: Hürth
-street: "Theresienhöhe"
-housenumber: 3
-phone: "+49 2233 74574"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-14:00; Su,Mo,PH off"
-website: "http://www.kraus-hairline.de"
+street: Theresienhöhe
+housenumber: "3"
+phone: +49 2233 74574
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-14:00; Su,Mo,PH off
+website: http://www.kraus-hairline.de

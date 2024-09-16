@@ -1,11 +1,11 @@
 id: 374047810
-type: way
+type: node
 latitude: 52.21769
 longitude: 8.80371
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Werrestraße"
-housenumber: 15
+street: Werrestraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

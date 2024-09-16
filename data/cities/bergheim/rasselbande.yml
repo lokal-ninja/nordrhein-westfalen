@@ -1,11 +1,11 @@
 id: 402775106
-type: way
+type: node
 latitude: 50.96651
 longitude: 6.75003
 postcode: "50129"
 city: Bergheim
-street: "Am Mühlenteich"
-housenumber: 4
-phone: "+49 2238 940310"
-opening_hours: "Mo-Fr 09:30-12:30; Tu-Fr 15:00-18:00; Sa 11:00-13:00"
-website: "https://www.rasselbande-bergheim.de/"
+street: Am Mühlenteich
+housenumber: "4"
+phone: +49 2238 940310
+opening_hours: Mo-Fr 09:30-12:30; Tu-Fr 15:00-18:00; Sa 11:00-13:00
+website: https://www.rasselbande-bergheim.de/

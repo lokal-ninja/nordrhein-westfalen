@@ -1,11 +1,11 @@
 id: 314128314
-type: way
+type: node
 latitude: 51.43641
 longitude: 7.7549
 postcode: "58708"
 city: Menden (Sauerland)
-street: "Kiebitzweg"
-housenumber: 1
+street: Kiebitzweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://auto-huchtemeier.de/"
+website: https://auto-huchtemeier.de/

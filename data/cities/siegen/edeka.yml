@@ -1,11 +1,11 @@
 id: 52928161
-type: way
+type: node
 latitude: 50.8665
 longitude: 7.99661
 postcode: "57072"
 city: Siegen
-street: "Heidenbergstraße"
+street: Heidenbergstraße
 housenumber: 1a
-phone: "+49 271 2341790"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+phone: +49 271 2341790
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

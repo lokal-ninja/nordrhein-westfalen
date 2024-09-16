@@ -1,11 +1,11 @@
 id: 65469520
-type: way
+type: node
 latitude: 50.8634
 longitude: 7.72637
 postcode: "51597"
 city: Morsbach
-street: "Zur Hoorwiss"
-housenumber: 2
+street: Zur Hoorwiss
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
+opening_hours: Mo-Sa 8:00-20:00
 website: ""

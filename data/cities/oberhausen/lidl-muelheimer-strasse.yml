@@ -1,11 +1,11 @@
 id: 389598818
-type: way
+type: node
 latitude: 51.4659
 longitude: 6.86511
 postcode: "46045"
 city: Oberhausen
-street: "Mülheimer Straße"
-housenumber: 306
+street: Mülheimer Straße
+housenumber: "306"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 180214782
-type: way
+type: node
 latitude: 51.47952
 longitude: 7.20527
 postcode: "44793"
 city: Bochum
-street: "Alleestraße"
-housenumber: 77
+street: Alleestraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "https://sanitaetshaus-moeller.de/"
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: https://sanitaetshaus-moeller.de/

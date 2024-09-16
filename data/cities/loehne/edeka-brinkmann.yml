@@ -1,11 +1,11 @@
 id: 320732700
-type: way
+type: node
 latitude: 52.19025
 longitude: 8.7129
 postcode: "32584"
 city: Löhne
-street: "Königstraße"
-housenumber: 78
+street: Königstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

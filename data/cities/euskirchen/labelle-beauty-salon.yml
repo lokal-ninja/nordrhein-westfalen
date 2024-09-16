@@ -4,8 +4,8 @@ latitude: 50.66096
 longitude: 6.78541
 postcode: "53879"
 city: Euskirchen
-street: "Bischofstraße"
-housenumber: 7
+street: Bischofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

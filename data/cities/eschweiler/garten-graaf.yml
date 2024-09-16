@@ -1,11 +1,11 @@
 id: 155437007
-type: way
+type: node
 latitude: 50.81781
 longitude: 6.2918
 postcode: "52249"
 city: Eschweiler
-street: "Königsbenden"
-housenumber: 40
+street: Königsbenden
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off"
-website: "https://www.gartengraaf.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off
+website: https://www.gartengraaf.de/

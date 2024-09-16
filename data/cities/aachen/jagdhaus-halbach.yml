@@ -4,8 +4,8 @@ latitude: 50.77265
 longitude: 6.08438
 postcode: "52062"
 city: Aachen
-street: "Kleinmarschierstraße"
-housenumber: 60
-phone: "+49 241 35506"
-opening_hours: "Tu-Fr 10:00-13:30,14:30-18:00; Sa 10:00-14:00; Su,Mo,PH off"
-website: "https://www.jagdhaus-halbach.de/"
+street: Kleinmarschierstraße
+housenumber: "60"
+phone: +49 241 35506
+opening_hours: Tu-Fr 10:00-13:30,14:30-18:00; Sa 10:00-14:00; Su,Mo,PH off
+website: https://www.jagdhaus-halbach.de/

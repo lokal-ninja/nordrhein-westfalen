@@ -1,11 +1,11 @@
 id: 536702615
-type: way
+type: node
 latitude: 51.6033
 longitude: 7.19745
 postcode: "45659"
 city: Recklinghausen
-street: "Bruchweg"
-housenumber: 56
+street: Bruchweg
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 128381470
-type: way
+type: node
 latitude: 51.2264
 longitude: 6.61003
 postcode: "41564"
 city: Kaarst
-street: "Büttgener Straße"
-housenumber: 3
+street: Büttgener Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

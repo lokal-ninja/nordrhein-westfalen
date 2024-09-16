@@ -1,11 +1,11 @@
 id: 248263378
-type: way
+type: node
 latitude: 51.44179
 longitude: 6.99856
 postcode: "45128"
 city: Essen
-street: "Kahrstraße"
-housenumber: 84
+street: Kahrstraße
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

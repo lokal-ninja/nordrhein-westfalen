@@ -4,8 +4,8 @@ latitude: 50.77475
 longitude: 6.08814
 postcode: "52062"
 city: Aachen
-street: "Friedrich-Wilhelm-Platz"
-housenumber: 1
+street: Friedrich-Wilhelm-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off
 website: ""

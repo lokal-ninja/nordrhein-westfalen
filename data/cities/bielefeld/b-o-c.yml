@@ -4,8 +4,8 @@ latitude: 52.00652
 longitude: 8.56083
 postcode: "33604"
 city: Bielefeld
-street: "Otto-Brenner-Straße"
-housenumber: 207
+street: Otto-Brenner-Straße
+housenumber: "207"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.boc24.de/fahrrad-bielefeld-boc-filiale/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.boc24.de/fahrrad-bielefeld-boc-filiale/

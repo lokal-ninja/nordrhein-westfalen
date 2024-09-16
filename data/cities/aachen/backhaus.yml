@@ -4,8 +4,8 @@ latitude: 50.77525
 longitude: 6.08135
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
-housenumber: 13
+street: Jakobstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00; Su,PH off"
-website: "https://www.backhausbuch.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00; Su,PH off
+website: https://www.backhausbuch.de/

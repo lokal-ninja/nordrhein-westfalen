@@ -4,8 +4,8 @@ latitude: 50.85954
 longitude: 8.20229
 postcode: "57250"
 city: Netphen
-street: "Vor den Kreuzen"
-housenumber: 6
-phone: "+49 2737 91089"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00"
-website: "http://jung-landmaschinen.de/"
+street: Vor den Kreuzen
+housenumber: "6"
+phone: +49 2737 91089
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00
+website: http://jung-landmaschinen.de/

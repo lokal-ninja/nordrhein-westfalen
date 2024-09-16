@@ -4,8 +4,8 @@ latitude: 51.15409
 longitude: 6.94064
 postcode: "40723"
 city: Hilden
-street: "Richrather Straße"
-housenumber: 193
+street: Richrather Straße
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30;Sa 10:00-14:00"
-website: "https://www.holzleitner.de/"
+opening_hours: Mo-Fr 10:00-18:30;Sa 10:00-14:00
+website: https://www.holzleitner.de/

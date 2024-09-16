@@ -4,8 +4,8 @@ latitude: 51.52327
 longitude: 7.46392
 postcode: "44145"
 city: Dortmund
-street: "Lambachstraße"
-housenumber: 4
+street: Lambachstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00, Tu 13:00-16:00"
-website: "http://www.dksb-do.eu/unser-laden.html"
+opening_hours: Mo-Th 10:00-13:00, Tu 13:00-16:00
+website: http://www.dksb-do.eu/unser-laden.html

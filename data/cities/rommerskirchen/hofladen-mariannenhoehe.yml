@@ -4,8 +4,8 @@ latitude: 51.0314
 longitude: 6.70864
 postcode: "41569"
 city: Rommerskirchen
-street: "Gut Mariannenhöhe"
-housenumber: 9
-phone: "+49 2183 413116"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 08:30-14:00"
-website: "https://mariannenhoehe.de/"
+street: Gut Mariannenhöhe
+housenumber: "9"
+phone: +49 2183 413116
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 08:30-14:00
+website: https://mariannenhoehe.de/

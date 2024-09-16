@@ -4,8 +4,8 @@ latitude: 52.27458
 longitude: 8.66922
 postcode: "32609"
 city: Hüllhorst
-street: "Hauptstraße"
-housenumber: 29
-phone: "+49 5744 5086611"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00"
-website: "https://www.allen-gerland.de/"
+street: Hauptstraße
+housenumber: "29"
+phone: +49 5744 5086611
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00
+website: https://www.allen-gerland.de/

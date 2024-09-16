@@ -1,11 +1,11 @@
 id: 283436899
-type: way
+type: node
 latitude: 51.88057
 longitude: 8.95188
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Kampstraße"
-housenumber: 49
+street: Kampstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.94793
 longitude: 6.95683
 postcode: "50668"
 city: Köln
-street: "Eigelstein"
-housenumber: 72
-phone: "+49 221 42365539"
-opening_hours: "Mo-Th 11:00-19:00; Fr,Sa 11:00-20:00"
-website: "https://www.reefhouse.de/"
+street: Eigelstein
+housenumber: "72"
+phone: +49 221 42365539
+opening_hours: Mo-Th 11:00-19:00; Fr,Sa 11:00-20:00
+website: https://www.reefhouse.de/

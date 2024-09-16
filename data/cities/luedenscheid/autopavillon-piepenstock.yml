@@ -4,8 +4,8 @@ latitude: 51.21635
 longitude: 7.65391
 postcode: "58511"
 city: Lüdenscheid
-street: "Nottebohmstraße"
-housenumber: 2
+street: Nottebohmstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su 11:00-16:00"
-website: "http://www.audi-partner.de/de_partner/p_21137/de.html"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su 11:00-16:00
+website: http://www.audi-partner.de/de_partner/p_21137/de.html

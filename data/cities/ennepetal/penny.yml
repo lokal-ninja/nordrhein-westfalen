@@ -1,11 +1,11 @@
 id: 108226168
-type: way
+type: node
 latitude: 51.29801
 longitude: 7.35966
 postcode: "58256"
 city: Ennepetal
-street: "Wehrstraße"
-housenumber: 6
+street: Wehrstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

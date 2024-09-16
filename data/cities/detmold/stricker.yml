@@ -1,11 +1,11 @@
 id: 282118997
-type: way
+type: node
 latitude: 51.93282
 longitude: 8.92026
 postcode: "32760"
 city: Detmold
-street: "Lise-Meitner-Straße"
-housenumber: 15
-phone: "+49 5231 30 80 89 0"
+street: Lise-Meitner-Straße
+housenumber: "15"
+phone: +49 5231 30 80 89 0
 opening_hours: ""
-website: "https://www.autohaus-stricker.de/go.to/modix/2,1427380/standorte.html"
+website: https://www.autohaus-stricker.de/go.to/modix/2,1427380/standorte.html

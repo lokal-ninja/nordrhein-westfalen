@@ -1,11 +1,11 @@
 id: 157571674
-type: way
+type: node
 latitude: 52.26144
 longitude: 7.77668
 postcode: "49479"
 city: Ibbenbüren
-street: "Ibbenbürener Straße"
-housenumber: 72
+street: Ibbenbürener Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "https://www.v-team.de/"
+website: https://www.v-team.de/

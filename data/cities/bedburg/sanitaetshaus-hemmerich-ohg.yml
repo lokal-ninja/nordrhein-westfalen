@@ -1,11 +1,11 @@
 id: 374612283
-type: way
+type: node
 latitude: 51.00707
 longitude: 6.55221
 postcode: "50181"
 city: Bedburg
-street: "Am Rathaus"
-housenumber: 22
+street: Am Rathaus
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.sanitaetshaus-hemmerich.de"
+website: http://www.sanitaetshaus-hemmerich.de

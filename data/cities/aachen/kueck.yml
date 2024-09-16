@@ -1,11 +1,11 @@
 id: 183918574
-type: way
+type: node
 latitude: 50.77494
 longitude: 6.07196
 postcode: "52064"
 city: Aachen
-street: "Junkerstraße"
-housenumber: 99
+street: Junkerstraße
+housenumber: "99"
 phone: ""
-opening_hours: "We-Fr 08:30-17:00; Sa 08:00-14:00"
+opening_hours: We-Fr 08:30-17:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 401226450
-type: way
+type: node
 latitude: 51.48233
 longitude: 7.42967
 postcode: "44225"
 city: Dortmund
-street: "Stockumer Straße"
-housenumber: 244
-phone: "+49 231 752565"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su,PH off"
-website: "https://123autoteile.de"
+street: Stockumer Straße
+housenumber: "244"
+phone: +49 231 752565
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su,PH off
+website: https://123autoteile.de

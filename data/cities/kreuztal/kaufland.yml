@@ -1,11 +1,11 @@
 id: 46950461
-type: way
+type: node
 latitude: 50.96176
 longitude: 7.9954
 postcode: "57223"
 city: Kreuztal
-street: "Marburger Straße"
-housenumber: 41
+street: Marburger Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.kaufland.de/

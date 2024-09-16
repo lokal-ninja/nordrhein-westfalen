@@ -4,8 +4,8 @@ latitude: 51.27134
 longitude: 7.20026
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 42
-phone: "+49 202 572058"
-opening_hours: "Mo,We-Sa 10:00-18:30; PH,Tu,Su off"
-website: "https://www.cinderella-brautmode.de/cinderella-wuppertal/"
+street: Werth
+housenumber: "42"
+phone: +49 202 572058
+opening_hours: Mo,We-Sa 10:00-18:30; PH,Tu,Su off
+website: https://www.cinderella-brautmode.de/cinderella-wuppertal/

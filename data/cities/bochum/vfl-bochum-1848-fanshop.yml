@@ -4,8 +4,8 @@ latitude: 51.49074
 longitude: 7.23626
 postcode: "44791"
 city: Bochum
-street: "Castroper Straße"
-housenumber: 145
-phone: "+49 234 951 848"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://shop.vfl-bochum.de/"
+street: Castroper Straße
+housenumber: "145"
+phone: +49 234 951 848
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://shop.vfl-bochum.de/

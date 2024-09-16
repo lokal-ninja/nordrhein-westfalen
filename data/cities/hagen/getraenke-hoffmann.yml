@@ -1,11 +1,11 @@
 id: 59047940
-type: way
+type: node
 latitude: 51.3842
 longitude: 7.44712
 postcode: "58089"
 city: Hagen
-street: "Becheltestraße"
-housenumber: 10
+street: Becheltestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://getraenke-hoffmann.de/filiale/hagen/becheltestr-10"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://getraenke-hoffmann.de/filiale/hagen/becheltestr-10

@@ -4,8 +4,8 @@ latitude: 51.23326
 longitude: 7.07529
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 74
-phone: "+49 202 28387985"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.kodi.de"
+street: Kaiserstraße
+housenumber: "74"
+phone: +49 202 28387985
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.kodi.de

@@ -4,8 +4,8 @@ latitude: 51.54424
 longitude: 7.73889
 postcode: "59425"
 city: Unna
-street: "Heerener Straße"
-housenumber: 54
-phone: "+49 2303 4321"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://www.milchhof-muehlhausen.de/"
+street: Heerener Straße
+housenumber: "54"
+phone: +49 2303 4321
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:00-18:00
+website: https://www.milchhof-muehlhausen.de/

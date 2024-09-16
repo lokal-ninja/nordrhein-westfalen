@@ -4,8 +4,8 @@ latitude: 51.20084
 longitude: 6.6898
 postcode: "41460"
 city: Neuss
-street: "Neumarkt"
-housenumber: 20
-phone: "+49 2131 271552"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-17:00; Sa 10:00-13:00; PH,Su off"
+street: Neumarkt
+housenumber: "20"
+phone: +49 2131 271552
+opening_hours: Mo-Fr 09:00-13:00,14:30-17:00; Sa 10:00-13:00; PH,Su off
 website: ""

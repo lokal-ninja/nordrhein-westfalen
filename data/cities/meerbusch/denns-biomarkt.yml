@@ -4,8 +4,8 @@ latitude: 51.24496
 longitude: 6.69655
 postcode: "40667"
 city: Meerbusch
-street: "Düsseldorfer Straße"
-housenumber: 77
-phone: "+49 2132 99868-84"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 19:00-16:00"
-website: "https://www.denns-biomarkt.de/"
+street: Düsseldorfer Straße
+housenumber: "77"
+phone: +49 2132 99868-84
+opening_hours: Mo-Fr 08:00-20:00; Sa 19:00-16:00
+website: https://www.denns-biomarkt.de/

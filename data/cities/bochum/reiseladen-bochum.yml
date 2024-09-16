@@ -4,8 +4,8 @@ latitude: 51.47729
 longitude: 7.22477
 postcode: "44789"
 city: Bochum
-street: "Ferdinandstraße"
-housenumber: 26
-phone: "+49 234 37 666"
-opening_hours: "Mo-Fr 10:00-17:00; Sa,PH off"
-website: "https://www.reiseladen-bochum.de/"
+street: Ferdinandstraße
+housenumber: "26"
+phone: +49 234 37 666
+opening_hours: Mo-Fr 10:00-17:00; Sa,PH off
+website: https://www.reiseladen-bochum.de/

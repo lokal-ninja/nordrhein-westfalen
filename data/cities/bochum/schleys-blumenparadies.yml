@@ -1,11 +1,11 @@
 id: 149098456
-type: way
+type: node
 latitude: 51.4571
 longitude: 7.13329
 postcode: "44867"
 city: Bochum
-street: "Wattenscheider Hellweg"
-housenumber: 314
+street: Wattenscheider Hellweg
+housenumber: "314"
 phone: ""
-opening_hours: "Sa 09:00-18:00; PH,Su 10:00-15:00; Mo-Fr 09:00-18:30"
+opening_hours: Sa 09:00-18:00; PH,Su 10:00-15:00; Mo-Fr 09:00-18:30
 website: ""

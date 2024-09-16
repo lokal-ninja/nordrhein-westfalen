@@ -4,8 +4,8 @@ latitude: 51.4513
 longitude: 7.18445
 postcode: "44795"
 city: Bochum
-street: "Rathenaustraße"
-housenumber: 8
+street: Rathenaustraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,We 15:00-18:00; Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://www.threeyearsoneday.de/"
+opening_hours: Mo,We 15:00-18:00; Fr 11:00-19:00; Sa 11:00-16:00
+website: https://www.threeyearsoneday.de/

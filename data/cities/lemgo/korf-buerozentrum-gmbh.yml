@@ -1,11 +1,11 @@
 id: 160387448
-type: way
+type: node
 latitude: 52.02612
 longitude: 8.87209
 postcode: "32657"
 city: Lemgo
-street: "Liemer Weg"
-housenumber: 47
+street: Liemer Weg
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

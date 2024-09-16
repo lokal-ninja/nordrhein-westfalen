@@ -1,11 +1,11 @@
 id: 162100023
-type: way
+type: node
 latitude: 52.03375
 longitude: 6.82291
 postcode: "48691"
 city: Vreden
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

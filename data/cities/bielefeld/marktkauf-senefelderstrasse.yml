@@ -1,11 +1,11 @@
 id: 99206710
-type: way
+type: node
 latitude: 51.95713
 longitude: 8.57915
 postcode: "33689"
 city: Bielefeld
-street: "Senefelderstraße"
-housenumber: 6
+street: Senefelderstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 28723436
-type: way
+type: node
 latitude: 51.4938
 longitude: 7.12782
 postcode: "45886"
 city: Gelsenkirchen
-street: "Am Dördelmannshof"
-housenumber: 17
+street: Am Dördelmannshof
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

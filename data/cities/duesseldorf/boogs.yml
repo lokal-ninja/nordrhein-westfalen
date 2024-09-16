@@ -4,8 +4,8 @@ latitude: 51.213
 longitude: 6.76451
 postcode: "40219"
 city: Düsseldorf
-street: "Lorettostraße"
-housenumber: 45
+street: Lorettostraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00; Su,PH off"
-website: "https://boogs-home.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00; Su,PH off
+website: https://boogs-home.com/

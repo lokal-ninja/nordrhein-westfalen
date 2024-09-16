@@ -4,8 +4,8 @@ latitude: 52.29051
 longitude: 8.53529
 postcode: "32361"
 city: Preußisch Oldendorf
-street: "Berliner Straße"
-housenumber: 21
-phone: "+49 5742 703825"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/"
+street: Berliner Straße
+housenumber: "21"
+phone: +49 5742 703825
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/

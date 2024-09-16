@@ -1,11 +1,11 @@
 id: 243036423
-type: way
+type: node
 latitude: 51.21517
 longitude: 7.62853
 postcode: "58511"
 city: Lüdenscheid
-street: "Sauerfelder Straße"
-housenumber: 4
+street: Sauerfelder Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

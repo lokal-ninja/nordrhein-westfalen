@@ -4,8 +4,8 @@ latitude: 50.9098
 longitude: 6.81275
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th 12:00-20:00; Fr,Sa 12:00-21:00"
+opening_hours: Mo-Th 12:00-20:00; Fr,Sa 12:00-21:00
 website: ""

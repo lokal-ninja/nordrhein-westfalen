@@ -1,11 +1,11 @@
 id: 402729017
-type: way
+type: node
 latitude: 52.00349
 longitude: 8.41266
 postcode: "33803"
 city: Steinhagen
-street: "Woerdener Straße"
-housenumber: 10
+street: Woerdener Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

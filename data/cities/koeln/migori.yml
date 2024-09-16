@@ -4,8 +4,8 @@ latitude: 50.91757
 longitude: 6.96046
 postcode: "50677"
 city: Köln
-street: "Bonner Straße"
-housenumber: 66
-phone: "+49 221 94246298"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"
-website: "https://migori.de/"
+street: Bonner Straße
+housenumber: "66"
+phone: +49 221 94246298
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off
+website: https://migori.de/

@@ -1,11 +1,11 @@
 id: 99197174
-type: way
+type: node
 latitude: 51.76318
 longitude: 6.15186
 postcode: "47551"
 city: Bedburg-Hau
-street: "Funkturmstraße"
-housenumber: 84
-phone: "+49 2821 769 195"
+street: Funkturmstraße
+housenumber: "84"
+phone: +49 2821 769 195
 opening_hours: ""
 website: ""

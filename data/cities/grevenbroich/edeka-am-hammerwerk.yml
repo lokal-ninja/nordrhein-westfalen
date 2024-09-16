@@ -1,11 +1,11 @@
 id: 35027892
-type: way
+type: node
 latitude: 51.08974
 longitude: 6.57794
 postcode: "41515"
 city: Grevenbroich
-street: "Am Hammerwerk"
-housenumber: 28
+street: Am Hammerwerk
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.edeka.de/

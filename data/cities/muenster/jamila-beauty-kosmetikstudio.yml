@@ -4,8 +4,8 @@ latitude: 51.90554
 longitude: 7.63579
 postcode: "48165"
 city: Münster
-street: "Westfalenstraße"
-housenumber: 143
+street: Westfalenstraße
+housenumber: "143"
 phone: ""
-opening_hours: "Termin nach Vereinbarung"
-website: "https://jamila-beauty.mytreatwell.de/"
+opening_hours: '"Termin nach Vereinbarung"'
+website: https://jamila-beauty.mytreatwell.de/

@@ -1,11 +1,11 @@
 id: 351241086
-type: way
+type: node
 latitude: 50.86159
 longitude: 6.57863
 postcode: "50170"
 city: Kerpen
-street: "Bahnstraße"
+street: Bahnstraße
 housenumber: 30-32
-phone: "+49 2275 9199551"
+phone: +49 2275 9199551
 opening_hours: ""
 website: ""

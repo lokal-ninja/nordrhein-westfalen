@@ -4,8 +4,8 @@ latitude: 51.96416
 longitude: 7.62791
 postcode: "48143"
 city: Münster
-street: "Neubrückenstraße"
-housenumber: 72
+street: Neubrückenstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://www.buchhandlung-schatzinsel.de"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://www.buchhandlung-schatzinsel.de

@@ -1,11 +1,11 @@
 id: 112610750
-type: way
+type: node
 latitude: 51.40919
 longitude: 6.66284
 postcode: "47447"
 city: Moers
-street: "Düsseldorfer Straße"
-housenumber: 491
+street: Düsseldorfer Straße
+housenumber: "491"
 phone: ""
 opening_hours: ""
 website: ""

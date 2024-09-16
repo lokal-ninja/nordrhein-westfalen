@@ -1,11 +1,11 @@
 id: 126301623
-type: way
+type: node
 latitude: 51.97756
 longitude: 8.14556
 postcode: "33428"
 city: Harsewinkel
-street: "Hauptstraße"
-housenumber: 41
+street: Hauptstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

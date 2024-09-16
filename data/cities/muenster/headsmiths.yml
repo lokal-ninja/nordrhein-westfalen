@@ -4,8 +4,8 @@ latitude: 51.95079
 longitude: 7.6314
 postcode: "48153"
 city: Münster
-street: "Theißingstraße"
-housenumber: 30
-phone: "+49 176 10 30 35 89"
-opening_hours: "12:00 - 20:00"
-website: "http://www.headsmiths.de/"
+street: Theißingstraße
+housenumber: "30"
+phone: +49 176 10 30 35 89
+opening_hours: 12:00 - 20:00
+website: http://www.headsmiths.de/

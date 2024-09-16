@@ -1,11 +1,11 @@
 id: 318272360
-type: way
+type: node
 latitude: 51.37738
 longitude: 7.71141
 postcode: "58636"
 city: Iserlohn
-street: "Mendener Straße"
-housenumber: 90
-phone: "+49 2371 62886"
-opening_hours: "Mo-Th 08:30-16:30; Fr 08:00-16:30"
-website: "http://www.autohaus-gallinat.de/"
+street: Mendener Straße
+housenumber: "90"
+phone: +49 2371 62886
+opening_hours: Mo-Th 08:30-16:30; Fr 08:00-16:30
+website: http://www.autohaus-gallinat.de/

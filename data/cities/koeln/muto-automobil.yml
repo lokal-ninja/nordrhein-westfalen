@@ -1,11 +1,11 @@
 id: 97986856
-type: way
+type: node
 latitude: 50.93129
 longitude: 6.91629
 postcode: "50931"
 city: Köln
-street: "Dürener Straße"
-housenumber: 165
+street: Dürener Straße
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

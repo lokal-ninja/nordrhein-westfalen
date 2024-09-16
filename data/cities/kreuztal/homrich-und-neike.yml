@@ -1,11 +1,11 @@
 id: 46948466
-type: way
+type: node
 latitude: 50.96619
 longitude: 8.04075
 postcode: "57223"
 city: Kreuztal
-street: "Auwiese"
-housenumber: 5
+street: Auwiese
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.homrich-neike.de/"
+website: https://www.homrich-neike.de/

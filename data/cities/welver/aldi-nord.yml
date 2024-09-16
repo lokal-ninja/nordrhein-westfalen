@@ -1,11 +1,11 @@
 id: 76789157
-type: way
+type: node
 latitude: 51.61593
 longitude: 7.96466
 postcode: "59514"
 city: Welver
-street: "Ladestraße"
-housenumber: 34
+street: Ladestraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/welver/ladestrasse-34.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/welver/ladestrasse-34.html

@@ -4,8 +4,8 @@ latitude: 51.42985
 longitude: 6.8805
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Auerstraße"
-housenumber: 8
-phone: "+49 208 69830953"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 11:00-14:00; Mo,Su,PH off"
+street: Auerstraße
+housenumber: "8"
+phone: +49 208 69830953
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 11:00-14:00; Mo,Su,PH off
 website: ""

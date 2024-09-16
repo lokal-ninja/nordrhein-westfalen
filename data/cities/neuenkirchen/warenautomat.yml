@@ -1,11 +1,11 @@
 id: 1224973292
-type: way
+type: node
 latitude: 52.20936
 longitude: 7.37551
 postcode: "48485"
 city: Neuenkirchen
-street: "Dorfbauerschaft"
-housenumber: 4
+street: Dorfbauerschaft
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://hof-fiefhaus.de/"
+opening_hours: 24/7
+website: https://hof-fiefhaus.de/

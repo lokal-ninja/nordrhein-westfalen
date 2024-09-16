@@ -4,8 +4,8 @@ latitude: 52.03288
 longitude: 8.60874
 postcode: "33719"
 city: Bielefeld
-street: "Altenhagener Straße"
-housenumber: 24
+street: Altenhagener Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://baeckerei-schmidt.de/filiale/bielefeld-combi-heepen/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://baeckerei-schmidt.de/filiale/bielefeld-combi-heepen/

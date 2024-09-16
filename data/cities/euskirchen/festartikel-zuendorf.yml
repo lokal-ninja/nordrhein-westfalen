@@ -1,11 +1,11 @@
 id: 163019855
-type: way
+type: node
 latitude: 50.68846
 longitude: 6.82506
 postcode: "53881"
 city: Euskirchen
-street: "Schneppenheimer Weg"
-housenumber: 22
+street: Schneppenheimer Weg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:30; Fr 09:00-13:00; Sa,Su off"
-website: "https://der-karnevals-shop.business.site/"
+opening_hours: Mo-Th 09:00-16:30; Fr 09:00-13:00; Sa,Su off
+website: https://der-karnevals-shop.business.site/

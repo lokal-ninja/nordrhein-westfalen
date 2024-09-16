@@ -4,8 +4,8 @@ latitude: 52.36999
 longitude: 8.99366
 postcode: "32469"
 city: Petershagen
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 5702 9441"
-opening_hours: "Su 07:45-10:30; Tu, Fr 07:00-12:00; Sa 06:30-12:00"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 5702 9441
+opening_hours: Su 07:45-10:30; Tu, Fr 07:00-12:00; Sa 06:30-12:00
 website: ""

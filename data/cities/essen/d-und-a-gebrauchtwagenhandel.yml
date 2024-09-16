@@ -1,11 +1,11 @@
 id: 257534760
-type: way
+type: node
 latitude: 51.44421
 longitude: 6.97783
 postcode: "45145"
 city: Essen
-street: "Breslauer Straße"
-housenumber: 95
+street: Breslauer Straße
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/DAAUTOMOBILEESSEN#ses"
+website: https://home.mobile.de/DAAUTOMOBILEESSEN#ses

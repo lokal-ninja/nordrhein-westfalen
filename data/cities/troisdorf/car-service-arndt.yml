@@ -1,11 +1,11 @@
 id: 129935051
-type: way
+type: node
 latitude: 50.85187
 longitude: 7.19587
 postcode: "53842"
 city: Troisdorf
-street: "Rambusch"
-housenumber: 21
+street: Rambusch
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

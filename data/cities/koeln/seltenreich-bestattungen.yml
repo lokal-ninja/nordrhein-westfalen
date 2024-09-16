@@ -4,8 +4,8 @@ latitude: 50.89485
 longitude: 7.06458
 postcode: "51149"
 city: Köln
-street: "Konrad-Adenauer-Straße"
-housenumber: 28
-phone: "+49 2203 9812422"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-14:00"
-website: "https://www.seltenreich.info"
+street: Konrad-Adenauer-Straße
+housenumber: "28"
+phone: +49 2203 9812422
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-14:00
+website: https://www.seltenreich.info

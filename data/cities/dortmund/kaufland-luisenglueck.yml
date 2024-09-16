@@ -1,11 +1,11 @@
 id: 23326868
-type: way
+type: node
 latitude: 51.47617
 longitude: 7.43244
 postcode: "44225"
 city: Dortmund
-street: "Luisenglück"
-housenumber: 43
+street: Luisenglück
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

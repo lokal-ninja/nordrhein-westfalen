@@ -1,11 +1,11 @@
 id: 129410345
-type: way
+type: node
 latitude: 50.84712
 longitude: 6.42812
 postcode: "52353"
 city: Düren
-street: "Katharinenstraße"
-housenumber: 17
+street: Katharinenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

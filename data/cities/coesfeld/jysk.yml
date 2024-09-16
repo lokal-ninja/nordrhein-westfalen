@@ -1,11 +1,11 @@
 id: 44604925
-type: way
+type: node
 latitude: 51.92915
 longitude: 7.17166
 postcode: "48653"
 city: Coesfeld
-street: "Weßlings Kamp"
-housenumber: 22
+street: Weßlings Kamp
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

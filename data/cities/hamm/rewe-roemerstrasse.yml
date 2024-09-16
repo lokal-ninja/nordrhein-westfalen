@@ -1,11 +1,11 @@
 id: 183855296
-type: way
+type: node
 latitude: 51.69786
 longitude: 7.77164
 postcode: "59075"
 city: Hamm
-street: "Römerstraße"
-housenumber: 32
-phone: "+49 2381 9430080"
-opening_hours: "Mo-Fr 06:00-22:00"
-website: "https://www.rewe.de/marktseite/hamm/260034/rewe-markt-roemerstrasse-32/"
+street: Römerstraße
+housenumber: "32"
+phone: +49 2381 9430080
+opening_hours: Mo-Fr 06:00-22:00
+website: https://www.rewe.de/marktseite/hamm/260034/rewe-markt-roemerstrasse-32/

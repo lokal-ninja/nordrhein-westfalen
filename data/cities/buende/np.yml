@@ -1,11 +1,11 @@
 id: 178955115
-type: way
+type: node
 latitude: 52.20623
 longitude: 8.52046
 postcode: "32257"
 city: Bünde
-street: "Rödinghauser Straße"
-housenumber: 97
+street: Rödinghauser Straße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

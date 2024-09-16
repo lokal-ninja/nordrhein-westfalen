@@ -1,11 +1,11 @@
 id: 243031678
-type: way
+type: node
 latitude: 51.21661
 longitude: 7.62781
 postcode: "58507"
 city: Lüdenscheid
-street: "Rathausplatz"
-housenumber: 9
+street: Rathausplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su off"
-website: "https://www.tkmaxx.de/filialen/TK_Maxx_Ludenscheid"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su off
+website: https://www.tkmaxx.de/filialen/TK_Maxx_Ludenscheid

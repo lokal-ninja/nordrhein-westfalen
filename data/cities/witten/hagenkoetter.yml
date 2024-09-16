@@ -1,11 +1,11 @@
 id: 228904075
-type: way
+type: node
 latitude: 51.45343
 longitude: 7.40467
 postcode: "58454"
 city: Witten
-street: "Auf dem Wellerskamp"
-housenumber: 1
+street: Auf dem Wellerskamp
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-12:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.61049
 longitude: 6.64255
 postcode: "53894"
 city: Mechernich
-street: "Auf dem Daniel"
-housenumber: 1
-phone: "+49 2443 98 67 391"
-opening_hours: "nach Vereinbarung"
-website: "https://www.stefanie-behling.de/"
+street: Auf dem Daniel
+housenumber: "1"
+phone: +49 2443 98 67 391
+opening_hours: '"nach Vereinbarung"'
+website: https://www.stefanie-behling.de/

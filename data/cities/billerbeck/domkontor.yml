@@ -4,8 +4,8 @@ latitude: 51.97713
 longitude: 7.29028
 postcode: "48727"
 city: Billerbeck
-street: "Lange Straße"
-housenumber: 14
+street: Lange Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Fr 14:30-18:00; Sa 10:00-16:00; Su 11:00-17:00; Mo off; PH off"
-website: "http://www.domkontor-billerbeck.de/"
+opening_hours: Tu-Fr 14:30-18:00; Sa 10:00-16:00; Su 11:00-17:00; Mo off; PH off
+website: http://www.domkontor-billerbeck.de/

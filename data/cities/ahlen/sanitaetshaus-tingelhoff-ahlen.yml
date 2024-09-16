@@ -1,11 +1,11 @@
 id: 272059028
-type: way
+type: node
 latitude: 51.76576
 longitude: 7.88842
 postcode: "59227"
 city: Ahlen
-street: "Parkstraße"
-housenumber: 2
-phone: "+49 2382  86045"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su off"
-website: "https://www.tingelhoff.de/"
+street: Parkstraße
+housenumber: "2"
+phone: +49 2382  86045
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su off
+website: https://www.tingelhoff.de/

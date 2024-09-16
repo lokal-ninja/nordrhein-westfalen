@@ -4,8 +4,8 @@ latitude: 51.98323
 longitude: 7.78454
 postcode: "48291"
 city: Telgte
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: "+49250472341"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00"
-website: "https://www.akzente-telgte.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00
+website: https://www.akzente-telgte.de/

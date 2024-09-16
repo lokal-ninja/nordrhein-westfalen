@@ -1,11 +1,11 @@
 id: 650572656
-type: way
+type: node
 latitude: 50.64824
 longitude: 6.19158
 postcode: "52159"
 city: Roetgen
-street: "Rosentalstraße"
-housenumber: 40
+street: Rosentalstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.edeka-holland.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.edeka-holland.de/

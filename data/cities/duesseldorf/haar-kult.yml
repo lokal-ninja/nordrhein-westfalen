@@ -4,8 +4,8 @@ latitude: 51.26255
 longitude: 6.80891
 postcode: "40472"
 city: Düsseldorf
-street: "Rather Kreuzweg"
-housenumber: 11
+street: Rather Kreuzweg
+housenumber: "11"
 phone: "+492116588044"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:30"
-website: "https://www.haarkult-düsseldorf.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:30
+website: https://www.haarkult-düsseldorf.de

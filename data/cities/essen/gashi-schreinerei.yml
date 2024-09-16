@@ -1,11 +1,11 @@
 id: 279993825
-type: way
+type: node
 latitude: 51.5085
 longitude: 7.00658
 postcode: "45329"
 city: Essen
-street: "Altenessener Straße"
-housenumber: 573
+street: Altenessener Straße
+housenumber: "573"
 phone: ""
 opening_hours: ""
-website: "https://www.schreinerei-gashi.de"
+website: https://www.schreinerei-gashi.de

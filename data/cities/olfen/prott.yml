@@ -1,11 +1,11 @@
 id: 253590599
-type: way
+type: node
 latitude: 51.70271
 longitude: 7.39037
 postcode: "59399"
 city: Olfen
-street: "Schlosserstraße"
-housenumber: 24
+street: Schlosserstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://prott-olfen.de/"
+website: https://prott-olfen.de/

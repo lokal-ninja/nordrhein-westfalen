@@ -4,8 +4,8 @@ latitude: 51.42607
 longitude: 7.15999
 postcode: "44879"
 city: Bochum
-street: "Keilstraße"
-housenumber: 108
+street: Keilstraße
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa10:00-16:00"
-website: "http://www.zoo-diemel.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa10:00-16:00
+website: http://www.zoo-diemel.de/

@@ -4,8 +4,8 @@ latitude: 51.5789
 longitude: 7.05243
 postcode: "45894"
 city: Gelsenkirchen
-street: "Rochusgasse"
-housenumber: 7
+street: Rochusgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:30"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:30
 website: ""

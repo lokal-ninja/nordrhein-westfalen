@@ -1,11 +1,11 @@
 id: 292078734
-type: way
+type: node
 latitude: 51.13684
 longitude: 7.20033
 postcode: "42929"
 city: Wermelskirchen
-street: "Burger Straße"
-housenumber: 58
-phone: "+49 2196 72760"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:30-12:00"
-website: "https://www.bauzentrum-toennes.de/niederlassungen/wermelskirchen.html"
+street: Burger Straße
+housenumber: "58"
+phone: +49 2196 72760
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:30-12:00
+website: https://www.bauzentrum-toennes.de/niederlassungen/wermelskirchen.html

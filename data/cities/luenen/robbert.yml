@@ -1,11 +1,11 @@
 id: 379599330
-type: way
+type: node
 latitude: 51.60745
 longitude: 7.50952
 postcode: "44532"
 city: Lünen
-street: "Kupferstraße"
-housenumber: 48
-phone: "+49 2306 928580"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-12:00"
-website: "https://www.metzgerbaustoffe.de/standorte/ferd-robbert-luenen.html"
+street: Kupferstraße
+housenumber: "48"
+phone: +49 2306 928580
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-12:00
+website: https://www.metzgerbaustoffe.de/standorte/ferd-robbert-luenen.html

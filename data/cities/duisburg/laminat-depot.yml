@@ -1,11 +1,11 @@
 id: 307742574
-type: way
+type: node
 latitude: 51.4767
 longitude: 6.80173
 postcode: "47138"
 city: Duisburg
-street: "Essen-Steeler-Straße"
-housenumber: 65
+street: Essen-Steeler-Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://laminatdepot.de/filiale/duisburg"
+website: https://laminatdepot.de/filiale/duisburg

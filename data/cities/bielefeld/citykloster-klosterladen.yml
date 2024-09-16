@@ -4,8 +4,8 @@ latitude: 52.02107
 longitude: 8.52786
 postcode: "33602"
 city: Bielefeld
-street: "Klosterplatz"
-housenumber: 10
+street: Klosterplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 15:00-18:00; Sa 11:00-14:00"
+opening_hours: Tu-Fr 15:00-18:00; Sa 11:00-14:00
 website: ""

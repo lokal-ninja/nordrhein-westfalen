@@ -4,8 +4,8 @@ latitude: 51.08836
 longitude: 6.58934
 postcode: "41515"
 city: Grevenbroich
-street: "Oelgasse"
-housenumber: 12
-phone: "+49 2181 4939570"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "http://www.bm-hoertechnik.de"
+street: Oelgasse
+housenumber: "12"
+phone: +49 2181 4939570
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: http://www.bm-hoertechnik.de

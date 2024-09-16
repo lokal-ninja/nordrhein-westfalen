@@ -1,11 +1,11 @@
 id: 863127773
-type: way
+type: node
 latitude: 50.94018
 longitude: 6.5835
 postcode: "50189"
 city: Elsdorf
-street: "Alfred-Nobel-Straße"
-housenumber: 1
-phone: "+49 2274 7041041"
+street: Alfred-Nobel-Straße
+housenumber: "1"
+phone: +49 2274 7041041
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.91554
 longitude: 6.96354
 postcode: "50678"
 city: Köln
-street: "Kyllstraße"
-housenumber: 13
+street: Kyllstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.circusevents-koeln.de/"
+website: https://www.circusevents-koeln.de/

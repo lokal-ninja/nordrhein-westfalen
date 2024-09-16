@@ -1,11 +1,11 @@
 id: 285703894
-type: way
+type: node
 latitude: 51.6676
 longitude: 7.76233
 postcode: "59067"
 city: Hamm
-street: "Schmiedestraße"
-housenumber: 8
-phone: "+49 2381 943030"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-14:00; Su,PH off"
-website: "http://www.witzler.com"
+street: Schmiedestraße
+housenumber: "8"
+phone: +49 2381 943030
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-14:00; Su,PH off
+website: http://www.witzler.com

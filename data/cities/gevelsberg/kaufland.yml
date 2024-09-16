@@ -1,11 +1,11 @@
 id: 144601654
-type: way
+type: node
 latitude: 51.32094
 longitude: 7.33831
 postcode: "58285"
 city: Gevelsberg
-street: "Wittener Straße"
-housenumber: 20
+street: Wittener Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

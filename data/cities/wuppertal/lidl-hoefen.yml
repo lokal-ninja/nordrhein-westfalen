@@ -4,8 +4,8 @@ latitude: 51.27519
 longitude: 7.22994
 postcode: "42277"
 city: Wuppertal
-street: "Höfen"
-housenumber: 52
+street: Höfen
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

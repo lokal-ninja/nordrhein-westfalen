@@ -1,11 +1,11 @@
 id: 52003951
-type: way
+type: node
 latitude: 50.98035
 longitude: 6.67997
 postcode: "50129"
 city: Bergheim
-street: "Peter-Achnitz-Straße"
-housenumber: 4
+street: Peter-Achnitz-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bergheim/peter-achnitz-strasse-4"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bergheim/peter-achnitz-strasse-4

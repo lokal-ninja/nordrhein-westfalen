@@ -1,11 +1,11 @@
 id: 39065383
-type: way
+type: node
 latitude: 50.73796
 longitude: 7.08053
 postcode: "53119"
 city: Bonn
-street: "Spessartstraße"
-housenumber: 2
+street: Spessartstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-17:00"
-website: "https://pcspezialist.de/"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-17:00
+website: https://pcspezialist.de/

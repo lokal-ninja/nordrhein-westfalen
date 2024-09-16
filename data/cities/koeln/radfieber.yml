@@ -4,8 +4,8 @@ latitude: 50.92364
 longitude: 6.95889
 postcode: "50678"
 city: Köln
-street: "Severinstraße"
-housenumber: 38
+street: Severinstraße
+housenumber: "38"
 phone: "+4922127647964"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 10:00-16:00"
-website: "https://www.radfieber.de"
+opening_hours: Mo-Fr 08:00-19:00, Sa 10:00-16:00
+website: https://www.radfieber.de

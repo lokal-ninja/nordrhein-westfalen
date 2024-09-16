@@ -1,11 +1,11 @@
 id: 769500797
-type: way
+type: node
 latitude: 51.50891
 longitude: 7.5055
 postcode: "44141"
 city: Dortmund
-street: "Prellerstraße"
-housenumber: 7
+street: Prellerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.firma-neuhaus.de/"
+website: https://www.firma-neuhaus.de/

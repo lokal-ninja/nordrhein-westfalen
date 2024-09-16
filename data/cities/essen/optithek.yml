@@ -4,8 +4,8 @@ latitude: 51.44097
 longitude: 7.02048
 postcode: "45130"
 city: Essen
-street: "Von-Einem-Straße"
-housenumber: 1
+street: Von-Einem-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00; PH Su off"
-website: "https://www.optithek.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00; PH Su off
+website: https://www.optithek.de

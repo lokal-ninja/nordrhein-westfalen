@@ -1,11 +1,11 @@
 id: 85834638
-type: way
+type: node
 latitude: 50.91975
 longitude: 8.45302
 postcode: "57334"
 city: Bad Laasphe
-street: "Marburger Straße"
-housenumber: 38
-phone: "+492752 / 78 00"
+street: Marburger Straße
+housenumber: "38"
+phone: +492752 / 78 00
 opening_hours: ""
-website: "https://www.autohaus-ising.de/"
+website: https://www.autohaus-ising.de/

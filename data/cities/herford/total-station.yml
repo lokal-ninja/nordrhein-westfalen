@@ -1,11 +1,11 @@
 id: 173107794
-type: way
+type: node
 latitude: 52.10249
 longitude: 8.68237
 postcode: "32052"
 city: Herford
-street: "Ahmser Straße"
-housenumber: 95
-phone: "+49 5221 71087"
+street: Ahmser Straße
+housenumber: "95"
+phone: +49 5221 71087
 opening_hours: ""
 website: ""

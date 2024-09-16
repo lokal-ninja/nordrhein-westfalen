@@ -4,8 +4,8 @@ latitude: 51.27684
 longitude: 6.76562
 postcode: "40474"
 city: Düsseldorf
-street: "Terminal Ring"
-housenumber: 1
-phone: "+49 211 1716 8780"
-opening_hours: "05:00-24:00"
-website: "https://www.rewe.de/"
+street: Terminal Ring
+housenumber: "1"
+phone: +49 211 1716 8780
+opening_hours: 05:00-24:00
+website: https://www.rewe.de/

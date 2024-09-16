@@ -4,8 +4,8 @@ latitude: 52.20987
 longitude: 7.0277
 postcode: "48599"
 city: Gronau
-street: "Eper Straße"
-housenumber: 4
-phone: "+49 2562 3089"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00;Sa 09:30-13:30"
-website: "https://www.autmaring.net/"
+street: Eper Straße
+housenumber: "4"
+phone: +49 2562 3089
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00;Sa 09:30-13:30
+website: https://www.autmaring.net/

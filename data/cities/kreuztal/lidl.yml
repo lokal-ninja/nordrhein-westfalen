@@ -1,11 +1,11 @@
 id: 164646957
-type: way
+type: node
 latitude: 50.98461
 longitude: 7.96267
 postcode: "57223"
 city: Kreuztal
-street: "Hagener Straße"
-housenumber: 204
+street: Hagener Straße
+housenumber: "204"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

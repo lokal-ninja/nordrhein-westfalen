@@ -4,8 +4,8 @@ latitude: 51.79033
 longitude: 7.61826
 postcode: "59387"
 city: Ascheberg
-street: "Sandstraße"
-housenumber: 15
-phone: "+49 2593 982788"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-16:00"
-website: "https://www.datuelken.de"
+street: Sandstraße
+housenumber: "15"
+phone: +49 2593 982788
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-16:00
+website: https://www.datuelken.de

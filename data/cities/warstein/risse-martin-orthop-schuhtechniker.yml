@@ -1,11 +1,11 @@
 id: 132520963
-type: way
+type: node
 latitude: 51.48515
 longitude: 8.33594
 postcode: "59581"
 city: Warstein
-street: "Wilkestraße"
-housenumber: 3
+street: Wilkestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

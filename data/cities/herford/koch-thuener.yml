@@ -1,11 +1,11 @@
 id: 178329778
-type: way
+type: node
 latitude: 52.10257
 longitude: 8.69305
 postcode: "32052"
 city: Herford
-street: "Ernstmeierstraße"
-housenumber: 18
+street: Ernstmeierstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

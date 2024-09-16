@@ -4,8 +4,8 @@ latitude: 50.9308
 longitude: 6.85285
 postcode: "50858"
 city: Köln
-street: "Jungbluthgasse"
-housenumber: 9
+street: Jungbluthgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 8:00-20:00; Sa 8:00-18:00; Su 7:00-12:00"
-website: "http://mein.edeka.de/eh/de/rhein_ruhr/1285/index.jsp"
+opening_hours: Mo-Fr 8:00-20:00; Sa 8:00-18:00; Su 7:00-12:00
+website: http://mein.edeka.de/eh/de/rhein_ruhr/1285/index.jsp

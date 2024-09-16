@@ -1,11 +1,11 @@
 id: 282509555
-type: way
+type: node
 latitude: 51.24352
 longitude: 7.60305
 postcode: "58513"
 city: Lüdenscheid
-street: "Freisenbergstraße"
-housenumber: 39
+street: Freisenbergstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.klein-uebbing.de/"
+website: https://www.klein-uebbing.de/

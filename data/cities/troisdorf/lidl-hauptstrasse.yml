@@ -1,11 +1,11 @@
 id: 37411144
-type: way
+type: node
 latitude: 50.82561
 longitude: 7.12313
 postcode: "53842"
 city: Troisdorf
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 77-79
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/troisdorf/spich-hauptstr-77+79.html"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.lidl.de/f/troisdorf/spich-hauptstr-77+79.html

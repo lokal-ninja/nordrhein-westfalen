@@ -4,8 +4,8 @@ latitude: 51.22717
 longitude: 6.78587
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 77
-phone: "+49 211 16080"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.cunda.de"
+street: Schadowstraße
+housenumber: "77"
+phone: +49 211 16080
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.cunda.de

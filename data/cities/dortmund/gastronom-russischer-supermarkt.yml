@@ -4,8 +4,8 @@ latitude: 51.48497
 longitude: 7.50255
 postcode: "44263"
 city: Dortmund
-street: "Clarenberg"
-housenumber: 2
+street: Clarenberg
+housenumber: "2"
 phone: "+492312256015"
 opening_hours: ""
-website: "http://www.gastronom-dortmund.de/"
+website: http://www.gastronom-dortmund.de/

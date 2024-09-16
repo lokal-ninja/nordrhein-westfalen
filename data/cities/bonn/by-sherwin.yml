@@ -4,8 +4,8 @@ latitude: 50.73885
 longitude: 7.10509
 postcode: "53111"
 city: Bonn
-street: "Heisterbacherhofstraße"
-housenumber: 9
+street: Heisterbacherhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

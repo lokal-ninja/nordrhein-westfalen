@@ -1,11 +1,11 @@
 id: 289467224
-type: way
+type: node
 latitude: 51.75325
 longitude: 7.19598
 postcode: "45721"
 city: Haltern am See
-street: "Münsterknapp"
-housenumber: 6
-phone: "+49 2364 3843"
-opening_hours: "Mo-Fr 08:00-16:00"
+street: Münsterknapp
+housenumber: "6"
+phone: +49 2364 3843
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

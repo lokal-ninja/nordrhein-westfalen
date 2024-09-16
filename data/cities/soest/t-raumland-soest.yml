@@ -1,11 +1,11 @@
 id: 232326134
-type: way
+type: node
 latitude: 51.56079
 longitude: 8.08387
 postcode: "59494"
 city: Soest
-street: "Senator-Schwartz-Ring"
-housenumber: 27
-phone: "+49 2921 968728"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.perthes-traumland.de/standorte/t-raumland-soest/"
+street: Senator-Schwartz-Ring
+housenumber: "27"
+phone: +49 2921 968728
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.perthes-traumland.de/standorte/t-raumland-soest/

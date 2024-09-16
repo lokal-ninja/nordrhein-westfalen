@@ -4,8 +4,8 @@ latitude: 51.28543
 longitude: 7.04778
 postcode: "42489"
 city: Wülfrath
-street: "Wilhelmstraße"
-housenumber: 22
+street: Wilhelmstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "http://www.herring.de/"
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: http://www.herring.de/

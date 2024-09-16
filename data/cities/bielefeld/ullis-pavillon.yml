@@ -1,11 +1,11 @@
 id: 26474406
-type: way
+type: node
 latitude: 52.00532
 longitude: 8.55726
 postcode: "33604"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 207
-phone: "+49 521 22188"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://ullis-pavillon.business.site/"
+street: Detmolder Straße
+housenumber: "207"
+phone: +49 521 22188
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://ullis-pavillon.business.site/

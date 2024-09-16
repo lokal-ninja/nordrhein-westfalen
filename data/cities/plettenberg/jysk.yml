@@ -4,8 +4,8 @@ latitude: 51.2251
 longitude: 7.87112
 postcode: "58840"
 city: Plettenberg
-street: "Bahnhofstraße"
-housenumber: 29
-phone: "+49 2391 9139990"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:00; Su,PH off"
+street: Bahnhofstraße
+housenumber: "29"
+phone: +49 2391 9139990
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-16:00; Su,PH off
 website: ""

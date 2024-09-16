@@ -1,11 +1,11 @@
 id: 55426572
-type: way
+type: node
 latitude: 50.90766
 longitude: 7.89055
 postcode: "57258"
 city: Freudenberg
-street: "Olper Straße"
-housenumber: 21
-phone: "+49 2734 4791611"
-opening_hours: "Mo-Fr 9:30-18:00,Sa 9:30-13:00"
-website: "https://www.sozialkaufhaeuser-siegen.de/sozialkaufhaus-büschergrund/"
+street: Olper Straße
+housenumber: "21"
+phone: +49 2734 4791611
+opening_hours: Mo-Fr 9:30-18:00,Sa 9:30-13:00
+website: https://www.sozialkaufhaeuser-siegen.de/sozialkaufhaus-büschergrund/

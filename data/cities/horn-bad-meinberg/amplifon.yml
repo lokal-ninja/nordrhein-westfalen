@@ -4,8 +4,8 @@ latitude: 51.87241
 longitude: 8.94392
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Mittelstraße"
-housenumber: 65
+street: Mittelstraße
+housenumber: "65"
 phone: ""
-opening_hours: "mo-fr 9:00-13:00,14:30-18:00"
-website: "https://www.amplifon.com/de/filiale-finden/hoergeraete-nordrhein-westfalen/amplifon-horn-bad-meinberg-s577"
+opening_hours: mo-fr 9:00-13:00,14:30-18:00
+website: https://www.amplifon.com/de/filiale-finden/hoergeraete-nordrhein-westfalen/amplifon-horn-bad-meinberg-s577

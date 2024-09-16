@@ -1,11 +1,11 @@
 id: 181927137
-type: way
+type: node
 latitude: 50.64356
 longitude: 7.02339
 postcode: "53340"
 city: Meckenheim
-street: "Feldstraße"
-housenumber: 9
+street: Feldstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

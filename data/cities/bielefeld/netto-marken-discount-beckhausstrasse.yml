@@ -4,8 +4,8 @@ latitude: 52.04646
 longitude: 8.54367
 postcode: "33611"
 city: Bielefeld
-street: "Beckhausstraße"
-housenumber: 129
+street: Beckhausstraße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/6209.ohtm/6268"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/6209.ohtm/6268

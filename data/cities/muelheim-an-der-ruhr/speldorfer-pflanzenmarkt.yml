@@ -1,11 +1,11 @@
 id: 74563613
-type: way
+type: node
 latitude: 51.42767
 longitude: 6.84952
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 199
-phone: "+49 208 427734"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:30-12:30"
-website: "https://gartenlandteiking.de/"
+street: Duisburger Straße
+housenumber: "199"
+phone: +49 208 427734
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:30-12:30
+website: https://gartenlandteiking.de/

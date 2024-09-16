@@ -4,8 +4,8 @@ latitude: 50.79017
 longitude: 6.14206
 postcode: "52068"
 city: Aachen
-street: "Charlottenburger Allee"
-housenumber: 52
+street: Charlottenburger Allee
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-16:00;Sa 08:30-12:30; Su,PH off"
-website: "https://www.otto-bollmann.de/"
+opening_hours: Mo-Th 07:00-17:00;Fr 07:00-16:00;Sa 08:30-12:30; Su,PH off
+website: https://www.otto-bollmann.de/

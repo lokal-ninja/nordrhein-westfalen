@@ -1,11 +1,11 @@
 id: 1253949647
-type: way
+type: node
 latitude: 52.33528
 longitude: 8.74686
 postcode: "32479"
 city: Hille
-street: "Mindener Straße"
+street: Mindener Straße
 housenumber: 94-96
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 50.67406
 longitude: 7.16719
 postcode: "53177"
 city: Bonn
-street: "Max-Planck-Straße"
-housenumber: 2
+street: Max-Planck-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

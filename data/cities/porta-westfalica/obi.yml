@@ -4,8 +4,8 @@ latitude: 52.26371
 longitude: 8.90121
 postcode: "32457"
 city: Porta Westfalica
-street: "Erbeweg"
-housenumber: 22
-phone: "+49 571 6456590"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/baumarkt/porta-westfalica/"
+street: Erbeweg
+housenumber: "22"
+phone: +49 571 6456590
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/baumarkt/porta-westfalica/

@@ -1,11 +1,11 @@
 id: 263806590
-type: way
+type: node
 latitude: 51.00578
 longitude: 6.05798
 postcode: "52538"
 city: Gangelt
-street: "Geilenkirchener Straße"
+street: Geilenkirchener Straße
 housenumber: 53-55
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.schramowski-getraenke.de/maerkte/birgden.html"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.schramowski-getraenke.de/maerkte/birgden.html

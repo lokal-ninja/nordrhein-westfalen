@@ -4,8 +4,8 @@ latitude: 51.52479
 longitude: 7.45673
 postcode: "44147"
 city: Dortmund
-street: "Schillerstraße"
-housenumber: 49
+street: Schillerstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 05:30-17:00; Sa 07:00-14:00; Su 08:00-16:00"
-website: "https://www.brinker.de/"
+opening_hours: Mo-Fr 05:30-17:00; Sa 07:00-14:00; Su 08:00-16:00
+website: https://www.brinker.de/

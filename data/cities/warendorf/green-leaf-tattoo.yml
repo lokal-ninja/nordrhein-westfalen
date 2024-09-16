@@ -4,8 +4,8 @@ latitude: 51.92447
 longitude: 7.95674
 postcode: "48231"
 city: Warendorf
-street: "Am Brüggenbach"
-housenumber: 5
+street: Am Brüggenbach
+housenumber: "5"
 phone: ""
-opening_hours: "Termine nur nach Vereinbarung"
+opening_hours: '"Termine nur nach Vereinbarung"'
 website: ""

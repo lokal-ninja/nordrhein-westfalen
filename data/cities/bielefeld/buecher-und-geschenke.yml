@@ -4,8 +4,8 @@ latitude: 52.02083
 longitude: 8.53161
 postcode: "33602"
 city: Bielefeld
-street: "Niedernstraße"
-housenumber: 3
+street: Niedernstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

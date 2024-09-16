@@ -1,11 +1,11 @@
 id: 136308599
-type: way
+type: node
 latitude: 51.15812
 longitude: 6.7469
 postcode: "41469"
 city: Neuss
-street: "Siemensstraße"
-housenumber: 5
+street: Siemensstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:00-18:30; Sa 09:00-13:00
 website: ""

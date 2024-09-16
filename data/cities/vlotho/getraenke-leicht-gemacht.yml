@@ -4,8 +4,8 @@ latitude: 52.1505
 longitude: 8.84561
 postcode: "32602"
 city: Vlotho
-street: "Salzuflener Straße"
-housenumber: 39
-phone: "+49 5733 963166"
-opening_hours: "Mo-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://steinar.de"
+street: Salzuflener Straße
+housenumber: "39"
+phone: +49 5733 963166
+opening_hours: Mo-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00
+website: http://steinar.de

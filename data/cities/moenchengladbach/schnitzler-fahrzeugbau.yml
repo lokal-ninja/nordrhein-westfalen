@@ -1,11 +1,11 @@
 id: 248724935
-type: way
+type: node
 latitude: 51.22939
 longitude: 6.47975
 postcode: "41066"
 city: Mönchengladbach
-street: "Meerweg"
-housenumber: 19
-phone: "+49 2161 662819"
+street: Meerweg
+housenumber: "19"
+phone: +49 2161 662819
 opening_hours: ""
-website: "https://www.schnitzler-fahrzeugbau.de/"
+website: https://www.schnitzler-fahrzeugbau.de/

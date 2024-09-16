@@ -4,8 +4,8 @@ latitude: 51.4722
 longitude: 7.32202
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 22
-phone: "+49 234 287473"
-opening_hours: "Mo-Sa 09:00-13:00,Mo-Fr 15:00-18:00"
-website: "https://optik-wallhoefer.de/"
+street: Alte Bahnhofstraße
+housenumber: "22"
+phone: +49 234 287473
+opening_hours: Mo-Sa 09:00-13:00,Mo-Fr 15:00-18:00
+website: https://optik-wallhoefer.de/

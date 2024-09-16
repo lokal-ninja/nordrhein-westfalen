@@ -4,8 +4,9 @@ latitude: 51.71602
 longitude: 8.74444
 postcode: "33102"
 city: Paderborn
-street: "Riemekestraße"
-housenumber: 12
+street: Riemekestraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Tu 08:30-17:30; We 08:30-13:00; Th-Fr 08:30-17:30; Sa 09:00-13:00; PH,Su off"
-website: "https://hoerakustik-vollbach.de/"
+opening_hours: Mo-Tu 08:30-17:30; We 08:30-13:00; Th-Fr 08:30-17:30; Sa 09:00-13:00;
+    PH,Su off
+website: https://hoerakustik-vollbach.de/

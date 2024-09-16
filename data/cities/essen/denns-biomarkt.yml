@@ -1,11 +1,11 @@
 id: 313712145
-type: way
+type: node
 latitude: 51.42112
 longitude: 6.95932
 postcode: "45149"
 city: Essen
-street: "Humboldtstraße"
-housenumber: 323
+street: Humboldtstraße
+housenumber: "323"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 132107128
-type: way
+type: node
 latitude: 51.65917
 longitude: 6.2612
 postcode: "47589"
 city: Uedem
-street: "Molkereistraße"
-housenumber: 18
+street: Molkereistraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

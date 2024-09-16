@@ -1,11 +1,11 @@
 id: 265862450
-type: way
+type: node
 latitude: 51.86537
 longitude: 9.0938
 postcode: "32839"
 city: Steinheim
-street: "Petersilienstraße"
-housenumber: 5
+street: Petersilienstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

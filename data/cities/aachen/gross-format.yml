@@ -4,8 +4,8 @@ latitude: 50.7709
 longitude: 6.08154
 postcode: "52064"
 city: Aachen
-street: "Matthiashofstraße"
-housenumber: 1
+street: Matthiashofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://grossformat-secondhand-aachen.de/"
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://grossformat-secondhand-aachen.de/

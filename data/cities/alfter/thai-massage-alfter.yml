@@ -1,11 +1,11 @@
 id: 214454127
-type: way
+type: node
 latitude: 50.73648
 longitude: 7.01131
 postcode: "53347"
 city: Alfter
-street: "Holzgasse"
-housenumber: 15
-phone: "+49 2222 9299785"
+street: Holzgasse
+housenumber: "15"
+phone: +49 2222 9299785
 opening_hours: ""
-website: "https://www.thaimassage-alfter.de/index.htm"
+website: https://www.thaimassage-alfter.de/index.htm

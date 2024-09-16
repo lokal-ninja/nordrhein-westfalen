@@ -1,11 +1,11 @@
 id: 98994616
-type: way
+type: node
 latitude: 51.52348
 longitude: 7.15719
 postcode: "44652"
 city: Herne
-street: "Eickeler Bruch"
-housenumber: 165
+street: Eickeler Bruch
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

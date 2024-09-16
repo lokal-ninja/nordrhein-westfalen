@@ -4,8 +4,8 @@ latitude: 51.47992
 longitude: 7.14305
 postcode: "44866"
 city: Bochum
-street: "Hochstraße"
-housenumber: 50
+street: Hochstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00, Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-17:00, Sa 10:00-15:00
 website: ""

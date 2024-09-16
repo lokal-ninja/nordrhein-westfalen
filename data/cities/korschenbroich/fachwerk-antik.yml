@@ -4,8 +4,8 @@ latitude: 51.18698
 longitude: 6.51936
 postcode: "41352"
 city: Korschenbroich
-street: "Pappelweg"
-housenumber: 1
-phone: "+49 172 2919511"
-opening_hours: "Mo off; Tu-Fr nach Vereinbarung; Sa 09:00-16:00"
-website: "https://www.fachwerk-antik.de"
+street: Pappelweg
+housenumber: "1"
+phone: +49 172 2919511
+opening_hours: Mo off; Tu-Fr "nach Vereinbarung"; Sa 09:00-16:00
+website: https://www.fachwerk-antik.de

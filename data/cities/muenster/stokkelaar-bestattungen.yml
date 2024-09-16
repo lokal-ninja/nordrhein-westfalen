@@ -1,11 +1,11 @@
 id: 268128119
-type: way
+type: node
 latitude: 51.92642
 longitude: 7.65284
 postcode: "48155"
 city: Münster
-street: "Höltenweg"
-housenumber: 39
-phone: "+49 251 616061"
+street: Höltenweg
+housenumber: "39"
+phone: +49 251 616061
 opening_hours: ""
-website: "https://www.stokkelaar.de/"
+website: https://www.stokkelaar.de/

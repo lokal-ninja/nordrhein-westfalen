@@ -1,11 +1,11 @@
 id: 129149419
-type: way
+type: node
 latitude: 51.20998
 longitude: 7.13843
 postcode: "42349"
 city: Wuppertal
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 97b
 phone: ""
-opening_hours: "Mo-We,Sa 09:00-13:00; Th,Fr 09:00-18:00; PH,Su off"
+opening_hours: Mo-We,Sa 09:00-13:00; Th,Fr 09:00-18:00; PH,Su off
 website: ""

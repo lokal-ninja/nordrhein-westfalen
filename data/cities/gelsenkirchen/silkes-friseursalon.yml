@@ -4,8 +4,8 @@ latitude: 51.56086
 longitude: 7.02997
 postcode: "45897"
 city: Gelsenkirchen
-street: "Nottkampstraße"
-housenumber: 5
-phone: "+49 209 591001"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 08:00-13:00"
-website: "https://www.silkes-friseursalon.de/"
+street: Nottkampstraße
+housenumber: "5"
+phone: +49 209 591001
+opening_hours: Tu-Fr 08:30-17:30; Sa 08:00-13:00
+website: https://www.silkes-friseursalon.de/

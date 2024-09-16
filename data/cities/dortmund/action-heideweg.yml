@@ -1,11 +1,11 @@
 id: 52938702
-type: way
+type: node
 latitude: 51.44615
 longitude: 7.52157
 postcode: "44267"
 city: Dortmund
-street: "Heideweg"
-housenumber: 28
+street: Heideweg
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

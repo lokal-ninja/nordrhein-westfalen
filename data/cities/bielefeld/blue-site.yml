@@ -4,8 +4,8 @@ latitude: 52.02337
 longitude: 8.52457
 postcode: "33615"
 city: Bielefeld
-street: "Stapenhorststraße"
-housenumber: 19
-phone: "+49-521-171016"
-opening_hours: "Mo,We 11:00-18:00, Tu,Th,Fr 11:00-19:30, Sa 10:30-18:00"
-website: "http://www.bluesiterecords.de/"
+street: Stapenhorststraße
+housenumber: "19"
+phone: +49-521-171016
+opening_hours: Mo,We 11:00-18:00, Tu,Th,Fr 11:00-19:30, Sa 10:30-18:00
+website: http://www.bluesiterecords.de/

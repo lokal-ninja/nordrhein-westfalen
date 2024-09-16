@@ -4,8 +4,8 @@ latitude: 51.51706
 longitude: 6.84687
 postcode: "46145"
 city: Oberhausen
-street: "Großer Markt"
-housenumber: 6
-phone: "+49 208 6358420"
-opening_hours: "Mo,We,Fr 09:00-14:00; Tu,Th 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.tintenundtoner-oberhausen.de"
+street: Großer Markt
+housenumber: "6"
+phone: +49 208 6358420
+opening_hours: Mo,We,Fr 09:00-14:00; Tu,Th 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.tintenundtoner-oberhausen.de

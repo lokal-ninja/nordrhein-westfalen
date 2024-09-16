@@ -1,11 +1,11 @@
 id: 41401131
-type: way
+type: node
 latitude: 50.78773
 longitude: 7.99703
 postcode: "57290"
 city: Neunkirchen
-street: "Wiesenstraße"
-housenumber: 9
+street: Wiesenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

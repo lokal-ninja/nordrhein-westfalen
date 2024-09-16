@@ -1,11 +1,11 @@
 id: 313001442
-type: way
+type: node
 latitude: 51.61655
 longitude: 7.19789
 postcode: "45657"
 city: Recklinghausen
-street: "Münsterstraße"
-housenumber: 1
+street: Münsterstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 11:00-14:00"
+opening_hours: Tu-Fr 12:00-18:00; Sa 11:00-14:00
 website: ""

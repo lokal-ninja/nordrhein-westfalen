@@ -1,11 +1,11 @@
 id: 38587394
-type: way
+type: node
 latitude: 51.92918
 longitude: 7.59777
 postcode: "48163"
 city: Münster
-street: "Geringhoffstraße"
-housenumber: 44
+street: Geringhoffstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

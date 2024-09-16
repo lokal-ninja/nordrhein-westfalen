@@ -4,8 +4,8 @@ latitude: 50.9592
 longitude: 6.9404
 postcode: "50739"
 city: Köln
-street: "Escher Straße"
-housenumber: 88
+street: Escher Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

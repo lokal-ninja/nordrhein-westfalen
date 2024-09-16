@@ -4,8 +4,9 @@ latitude: 51.40442
 longitude: 6.55613
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Hülser Straße"
+street: Hülser Straße
 housenumber: 1-5
-phone: "+49 2845 95910"
-opening_hours: "Mar-Sep: Mo-Fr 08:00-18:30; Mar-Sep: Sa 08:00-14:00; Oct-Feb: Mo-Fr 08:00-18:00; Oct-Feb: Sa 08:00-14:00"
+phone: +49 2845 95910
+opening_hours: 'Mar-Sep: Mo-Fr 08:00-18:30; Mar-Sep: Sa 08:00-14:00; Oct-Feb: Mo-Fr
+    08:00-18:00; Oct-Feb: Sa 08:00-14:00'
 website: ""

@@ -1,11 +1,11 @@
 id: 329135516
-type: way
+type: node
 latitude: 51.25661
 longitude: 8.17308
 postcode: "59889"
 city: Eslohe (Sauerland)
-street: "Hauptstraße"
-housenumber: 18
-phone: "+49 1523 4557754"
-opening_hours: "Sa 11:00-15:00"
-website: "https://handelsposten-hsk.de"
+street: Hauptstraße
+housenumber: "18"
+phone: +49 1523 4557754
+opening_hours: Sa 11:00-15:00
+website: https://handelsposten-hsk.de

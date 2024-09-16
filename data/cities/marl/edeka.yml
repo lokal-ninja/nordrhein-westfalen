@@ -4,8 +4,8 @@ latitude: 51.66718
 longitude: 7.10016
 postcode: "45772"
 city: Marl
-street: "Dümmerweg"
-housenumber: 242
-phone: "+49 2365 9245975"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://edeka-zutz.de/marl-duemmerweg-242/"
+street: Dümmerweg
+housenumber: "242"
+phone: +49 2365 9245975
+opening_hours: Mo-Sa 07:00-21:00
+website: https://edeka-zutz.de/marl-duemmerweg-242/

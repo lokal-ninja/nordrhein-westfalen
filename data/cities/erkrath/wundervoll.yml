@@ -4,8 +4,8 @@ latitude: 51.22095
 longitude: 6.90768
 postcode: "40699"
 city: Erkrath
-street: "Bahnstraße"
-housenumber: 26
-phone: "+49211 91598750"
-opening_hours: "Tu, Th, Fr 10:00-13:00, 15:00-18:00; We, Sa 10:00-13:00"
-website: "https://www.wundervoll-erkrath.de/"
+street: Bahnstraße
+housenumber: "26"
+phone: +49211 91598750
+opening_hours: Tu, Th, Fr 10:00-13:00, 15:00-18:00; We, Sa 10:00-13:00
+website: https://www.wundervoll-erkrath.de/

@@ -4,8 +4,8 @@ latitude: 50.93271
 longitude: 7.28824
 postcode: "51491"
 city: Overath
-street: "Bahnhofplatz"
-housenumber: 3
+street: Bahnhofplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:00; Sa 08:00-12:00; Su, PH off"
-website: "https://www.rvk.de/service/unsere-standorte"
+opening_hours: Mo-Fr 06:15-18:00; Sa 08:00-12:00; Su, PH off
+website: https://www.rvk.de/service/unsere-standorte

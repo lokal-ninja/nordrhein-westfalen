@@ -4,8 +4,8 @@ latitude: 51.68668
 longitude: 8.70002
 postcode: "33106"
 city: Paderborn
-street: "An der Alme"
-housenumber: 1
-phone: "+49 5251 1845584"
-opening_hours: "Mar-Nov Mo, Tu, Th 13:00-19:00; Fr 13:00-19:00; Sa 9:00-14:00"
-website: "https://www.zum-staudengarten.de/"
+street: An der Alme
+housenumber: "1"
+phone: +49 5251 1845584
+opening_hours: Mar-Nov Mo, Tu, Th 13:00-19:00; Fr 13:00-19:00; Sa 9:00-14:00
+website: https://www.zum-staudengarten.de/

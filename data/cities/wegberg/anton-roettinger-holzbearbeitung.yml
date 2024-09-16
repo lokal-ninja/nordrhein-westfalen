@@ -1,11 +1,12 @@
 id: 25634845
-type: way
+type: node
 latitude: 51.15001
 longitude: 6.27313
 postcode: "41844"
 city: Wegberg
-street: "Venloer Straße"
-housenumber: 131
-phone: "+49 2434 928580"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Feb-Jul: Sa 09:00-14:00; Aug-Nov: Sa 09:00-12:00; Dec-Jan: Sa off; PH off"
-website: "https://www.gartenholzprofi.de/"
+street: Venloer Straße
+housenumber: "131"
+phone: +49 2434 928580
+opening_hours: 'Mo-Fr 08:00-12:00,13:00-18:00; Feb-Jul: Sa 09:00-14:00; Aug-Nov: Sa
+    09:00-12:00; Dec-Jan: Sa off; PH off'
+website: https://www.gartenholzprofi.de/

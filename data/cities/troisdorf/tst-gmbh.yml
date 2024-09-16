@@ -1,11 +1,11 @@
 id: 447624878
-type: way
+type: node
 latitude: 50.8196
 longitude: 7.14964
 postcode: "53840"
 city: Troisdorf
-street: "Kaiserstraße"
-housenumber: 3
-phone: "+49 2241 12355 0"
-opening_hours: "08:00-17:00"
-website: "https://tstgmbh.com"
+street: Kaiserstraße
+housenumber: "3"
+phone: +49 2241 12355 0
+opening_hours: 08:00-17:00
+website: https://tstgmbh.com

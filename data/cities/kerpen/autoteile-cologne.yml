@@ -1,11 +1,11 @@
 id: 170785171
-type: way
+type: node
 latitude: 50.87934
 longitude: 6.69464
 postcode: "50171"
 city: Kerpen
 street: ""
-housenumber: 
-phone: "+49 2237 979550"
+housenumber: ""
+phone: +49 2237 979550
 opening_hours: ""
-website: "https://www.autoteile-cologne.de/"
+website: https://www.autoteile-cologne.de/

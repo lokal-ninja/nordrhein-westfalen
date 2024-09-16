@@ -1,11 +1,11 @@
 id: 112567127
-type: way
+type: node
 latitude: 51.62919
 longitude: 7.86374
 postcode: "59069"
 city: Hamm
-street: "Ostendorfstraße"
-housenumber: 6
+street: Ostendorfstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

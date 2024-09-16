@@ -1,11 +1,11 @@
 id: 114389215
-type: way
+type: node
 latitude: 51.51905
 longitude: 6.91039
 postcode: "46236"
 city: Bottrop
-street: "Heidenheck"
-housenumber: 17
+street: Heidenheck
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

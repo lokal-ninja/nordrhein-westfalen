@@ -1,11 +1,11 @@
 id: 91241757
-type: way
+type: node
 latitude: 51.43252
 longitude: 7.01183
 postcode: "45131"
 city: Essen
-street: "Paulinenstraße"
-housenumber: 109
-phone: "+49 201 778 855"
-opening_hours: "Mo,We,Th 08:00-19:00; Tu 08:00-13:00; Fr 08:00-17:00"
+street: Paulinenstraße
+housenumber: "109"
+phone: +49 201 778 855
+opening_hours: Mo,We,Th 08:00-19:00; Tu 08:00-13:00; Fr 08:00-17:00
 website: ""

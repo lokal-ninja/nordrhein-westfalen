@@ -4,8 +4,8 @@ latitude: 51.19443
 longitude: 8.53464
 postcode: "59955"
 city: Winterberg
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "http://www.liebenswert-winterberg.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: http://www.liebenswert-winterberg.de/

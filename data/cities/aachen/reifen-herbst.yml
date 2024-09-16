@@ -1,11 +1,11 @@
 id: 168959555
-type: way
+type: node
 latitude: 50.779
 longitude: 6.14131
 postcode: "52080"
 city: Aachen
-street: "Rödgener Straße"
-housenumber: 189
-phone: "+49 2141 556261"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-13:00; PH,Su off"
+street: Rödgener Straße
+housenumber: "189"
+phone: +49 2141 556261
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-13:00; PH,Su off
 website: ""

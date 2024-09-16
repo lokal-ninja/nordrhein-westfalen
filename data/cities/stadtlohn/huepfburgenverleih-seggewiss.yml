@@ -1,11 +1,11 @@
 id: 330550147
-type: way
+type: node
 latitude: 51.99397
 longitude: 6.93177
 postcode: "48703"
 city: Stadtlohn
-street: "Tillystraße"
-housenumber: 28
+street: Tillystraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "www.huepfburgenverleih-stadtlohn.de"
+website: www.huepfburgenverleih-stadtlohn.de

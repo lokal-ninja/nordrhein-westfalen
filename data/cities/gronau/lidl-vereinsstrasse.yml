@@ -1,11 +1,11 @@
 id: 564738108
-type: way
+type: node
 latitude: 52.21211
 longitude: 7.0444
 postcode: "48599"
 city: Gronau
-street: "Vereinsstraße"
-housenumber: 185
+street: Vereinsstraße
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

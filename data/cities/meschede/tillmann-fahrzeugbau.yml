@@ -1,11 +1,11 @@
 id: 303385575
-type: way
+type: node
 latitude: 51.35531
 longitude: 8.25025
 postcode: "59872"
 city: Meschede
-street: "Enster Straße"
-housenumber: 6
+street: Enster Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

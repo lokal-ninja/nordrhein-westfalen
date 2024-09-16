@@ -1,11 +1,11 @@
 id: 18778801
-type: way
+type: node
 latitude: 51.55237
 longitude: 6.59573
 postcode: "47495"
 city: Rheinberg
-street: "Xantener Straße"
-housenumber: 51
+street: Xantener Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

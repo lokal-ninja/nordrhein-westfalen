@@ -4,8 +4,8 @@ latitude: 51.71764
 longitude: 8.7559
 postcode: "33098"
 city: Paderborn
-street: "Grube"
-housenumber: 4
+street: Grube
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-18:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-18:00
 website: ""

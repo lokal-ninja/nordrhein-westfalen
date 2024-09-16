@@ -4,8 +4,8 @@ latitude: 51.25024
 longitude: 6.79132
 postcode: "40476"
 city: Düsseldorf
-street: "Hilde-und-Joseph-Neyses-Platz"
-housenumber: 5
+street: Hilde-und-Joseph-Neyses-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baecker-schneider.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baecker-schneider.de

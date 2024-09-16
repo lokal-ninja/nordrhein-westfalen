@@ -4,8 +4,8 @@ latitude: 50.70449
 longitude: 7.11279
 postcode: "53129"
 city: Bonn
-street: "Quirinusplatz"
-housenumber: 7
-phone: "+49 228 231874"
-opening_hours: "Th,Fr 15:00-18:00; We 09:00-13:00; Sa 09:00-13:00"
+street: Quirinusplatz
+housenumber: "7"
+phone: +49 228 231874
+opening_hours: Th,Fr 15:00-18:00; We 09:00-13:00; Sa 09:00-13:00
 website: ""

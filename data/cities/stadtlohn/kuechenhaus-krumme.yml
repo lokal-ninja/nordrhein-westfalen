@@ -1,11 +1,11 @@
 id: 108826473
-type: way
+type: node
 latitude: 51.98871
 longitude: 6.91701
 postcode: "48703"
 city: Stadtlohn
-street: "Südstraße"
-housenumber: 17
+street: Südstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

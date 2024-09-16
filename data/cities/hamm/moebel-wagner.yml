@@ -1,11 +1,11 @@
 id: 135290154
-type: way
+type: node
 latitude: 51.67495
 longitude: 7.86515
 postcode: "59071"
 city: Hamm
-street: "Soester Straße"
-housenumber: 264
-phone: "+49 2381 83917"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:30; Sa 10:00-14:00"
-website: "http://www.einrichtungshaus-wagner.de/"
+street: Soester Straße
+housenumber: "264"
+phone: +49 2381 83917
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:30; Sa 10:00-14:00
+website: http://www.einrichtungshaus-wagner.de/

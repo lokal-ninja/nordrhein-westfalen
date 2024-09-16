@@ -4,8 +4,8 @@ latitude: 51.24396
 longitude: 6.78258
 postcode: "40476"
 city: Düsseldorf
-street: "Collenbachstraße"
-housenumber: 60
-phone: "+49 211 48 53 73"
+street: Collenbachstraße
+housenumber: "60"
+phone: +49 211 48 53 73
 opening_hours: ""
-website: "https://gitarren-liesenfeld.de"
+website: https://gitarren-liesenfeld.de

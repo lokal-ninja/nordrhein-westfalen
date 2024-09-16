@@ -4,8 +4,8 @@ latitude: 51.61558
 longitude: 7.1966
 postcode: "45657"
 city: Recklinghausen
-street: "Münsterstraße"
-housenumber: 18
-phone: "+49 2361 23804"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-16:00"
-website: "http://goldschmiede-sojka.de/"
+street: Münsterstraße
+housenumber: "18"
+phone: +49 2361 23804
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-16:00
+website: http://goldschmiede-sojka.de/

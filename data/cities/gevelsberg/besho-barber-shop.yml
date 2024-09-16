@@ -4,8 +4,8 @@ latitude: 51.31978
 longitude: 7.3391
 postcode: "58285"
 city: Gevelsberg
-street: "Wittener Straße"
-housenumber: 2
-phone: "+49 2332 7080834"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:00-16:00"
-website: "https://www.besho-barbershop.de/"
+street: Wittener Straße
+housenumber: "2"
+phone: +49 2332 7080834
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:00-16:00
+website: https://www.besho-barbershop.de/

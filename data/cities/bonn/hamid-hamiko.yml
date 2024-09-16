@@ -4,8 +4,8 @@ latitude: 50.71558
 longitude: 7.05273
 postcode: "53123"
 city: Bonn
-street: "Villemombler Straße"
-housenumber: 21
-phone: "+49 228 88682341"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off"
+street: Villemombler Straße
+housenumber: "21"
+phone: +49 228 88682341
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off
 website: ""

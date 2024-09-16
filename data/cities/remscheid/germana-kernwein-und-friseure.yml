@@ -4,8 +4,8 @@ latitude: 51.18365
 longitude: 7.18567
 postcode: "42853"
 city: Remscheid
-street: "Hochstraße"
-housenumber: 25
-phone: "+49 2191 5645594"
-opening_hours: "Tu,We 09:00-18:30; Th 09:00-18:00; Fr 09:00-19:30; Sa 09:00-15:00"
+street: Hochstraße
+housenumber: "25"
+phone: +49 2191 5645594
+opening_hours: Tu,We 09:00-18:30; Th 09:00-18:00; Fr 09:00-19:30; Sa 09:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.78005
 longitude: 6.23836
 postcode: "52222"
 city: Stolberg
-street: "Höhenstraße"
-housenumber: 52
-phone: "+49 2402 20601"
-opening_hours: "Mo-Sa 06:30-13:00; Tu-Fr 14:30-18:00"
-website: "https://metzgerei-mones.de/"
+street: Höhenstraße
+housenumber: "52"
+phone: +49 2402 20601
+opening_hours: Mo-Sa 06:30-13:00; Tu-Fr 14:30-18:00
+website: https://metzgerei-mones.de/

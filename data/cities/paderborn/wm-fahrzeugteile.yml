@@ -4,8 +4,8 @@ latitude: 51.73154
 longitude: 8.78255
 postcode: "33100"
 city: Paderborn
-street: "Herlestraße"
-housenumber: 
+street: Herlestraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.wm.de/"
+website: https://www.wm.de/

@@ -4,8 +4,8 @@ latitude: 51.42348
 longitude: 6.43395
 postcode: "47647"
 city: Kerken
-street: "Dorfstraße"
-housenumber: 199
-phone: "+49 2833 4596"
-opening_hours: "We-Fr 08:00-18:00; Sa 07:00-14:00; Mo,Tu,Su,PH off"
-website: "https://www.bauernkaese.info/"
+street: Dorfstraße
+housenumber: "199"
+phone: +49 2833 4596
+opening_hours: We-Fr 08:00-18:00; Sa 07:00-14:00; Mo,Tu,Su,PH off
+website: https://www.bauernkaese.info/

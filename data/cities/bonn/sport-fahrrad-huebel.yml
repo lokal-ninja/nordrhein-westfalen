@@ -4,8 +4,8 @@ latitude: 50.72009
 longitude: 7.15719
 postcode: "53227"
 city: Bonn
-street: "Königswinterer Straße"
-housenumber: 491
-phone: "+49 228 442424"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00; Mo, Su off"
-website: "https://www.huebel-bonn.de/"
+street: Königswinterer Straße
+housenumber: "491"
+phone: +49 228 442424
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00; Mo, Su off
+website: https://www.huebel-bonn.de/

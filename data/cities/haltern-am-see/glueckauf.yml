@@ -1,11 +1,11 @@
 id: 280112247
-type: way
+type: node
 latitude: 51.73353
 longitude: 7.16943
 postcode: "45721"
 city: Haltern am See
-street: "Annabergstraße"
-housenumber: 114
+street: Annabergstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
 website: ""

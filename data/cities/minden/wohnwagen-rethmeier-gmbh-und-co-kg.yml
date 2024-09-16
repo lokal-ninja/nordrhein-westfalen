@@ -4,8 +4,8 @@ latitude: 52.30782
 longitude: 8.91481
 postcode: "32425"
 city: Minden
-street: "Marienstraße"
-housenumber: 123
-phone: "+49 571 44312"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00, Sa 09:00-13:00; PH off"
-website: "https://www.wohnwagenrethmeier.de/"
+street: Marienstraße
+housenumber: "123"
+phone: +49 571 44312
+opening_hours: Mo-Fr 08:00-12:30,13:30-17:00, Sa 09:00-13:00; PH off
+website: https://www.wohnwagenrethmeier.de/

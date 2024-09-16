@@ -4,8 +4,8 @@ latitude: 50.70379
 longitude: 7.17579
 postcode: "53639"
 city: Königswinter
-street: "Oberkasseler Straße"
-housenumber: 63
-phone: "+49 2223 24220"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.hoitz-kg.de"
+street: Oberkasseler Straße
+housenumber: "63"
+phone: +49 2223 24220
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.hoitz-kg.de

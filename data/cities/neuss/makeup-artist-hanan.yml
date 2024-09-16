@@ -4,8 +4,8 @@ latitude: 51.18507
 longitude: 6.6706
 postcode: "41464"
 city: Neuss
-street: "Einsteinstraße"
-housenumber: 1
+street: Einsteinstraße
+housenumber: "1"
 phone: ""
-opening_hours: "off nur nach Vereinbarung"
+opening_hours: off "nur nach Vereinbarung"
 website: ""

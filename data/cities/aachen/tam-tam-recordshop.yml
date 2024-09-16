@@ -4,8 +4,8 @@ latitude: 50.76965
 longitude: 6.08566
 postcode: "52064"
 city: Aachen
-street: "Franzstraße"
-housenumber: 50
+street: Franzstraße
+housenumber: "50"
 phone: ""
-opening_hours: "We-Fr 14:00-19:00; Sa 12:00-16:00; PH,Su,Mo off"
-website: "https://www.tamtam-recordshop.de/"
+opening_hours: We-Fr 14:00-19:00; Sa 12:00-16:00; PH,Su,Mo off
+website: https://www.tamtam-recordshop.de/

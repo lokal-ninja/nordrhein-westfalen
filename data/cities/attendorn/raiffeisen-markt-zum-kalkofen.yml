@@ -1,11 +1,11 @@
 id: 123153122
-type: way
+type: node
 latitude: 51.10753
 longitude: 7.95592
 postcode: "57439"
 city: Attendorn
-street: "Zum Kalkofen"
-housenumber: 18
+street: Zum Kalkofen
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.raiffeisen-attendorn.de/"
+website: http://www.raiffeisen-attendorn.de/

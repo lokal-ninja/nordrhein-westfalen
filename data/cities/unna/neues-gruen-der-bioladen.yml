@@ -4,8 +4,8 @@ latitude: 51.54973
 longitude: 7.6754
 postcode: "59425"
 city: Unna
-street: "Steinstraße"
-housenumber: 37
-phone: "+49 2303 60001"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-16:00"
-website: "https://www.neuesgruen.de/"
+street: Steinstraße
+housenumber: "37"
+phone: +49 2303 60001
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-16:00
+website: https://www.neuesgruen.de/

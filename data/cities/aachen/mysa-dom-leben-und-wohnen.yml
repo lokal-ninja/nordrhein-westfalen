@@ -4,8 +4,8 @@ latitude: 50.77374
 longitude: 6.08369
 postcode: "52062"
 city: Aachen
-street: "Jesuitenstraße"
-housenumber: 2
+street: Jesuitenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; PH,Su off
 website: ""

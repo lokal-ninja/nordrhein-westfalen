@@ -1,11 +1,11 @@
 id: 284812097
-type: way
+type: node
 latitude: 51.45084
 longitude: 7.03221
 postcode: "45138"
 city: Essen
-street: "Wörthstraße"
-housenumber: 27
+street: Wörthstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.egf.de/"
+website: https://www.egf.de/

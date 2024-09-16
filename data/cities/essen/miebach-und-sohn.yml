@@ -1,11 +1,11 @@
 id: 98137146
-type: way
+type: node
 latitude: 51.46692
 longitude: 7.07123
 postcode: "45307"
 city: Essen
-street: "Fischweiher"
-housenumber: 19
+street: Fischweiher
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://miebachundsohn.de/"
+website: http://miebachundsohn.de/

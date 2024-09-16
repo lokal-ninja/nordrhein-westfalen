@@ -1,11 +1,11 @@
 id: 144333935
-type: way
+type: node
 latitude: 50.77004
 longitude: 6.11753
 postcode: "52078"
 city: Aachen
-street: "Trierer Straße"
-housenumber: 6
+street: Trierer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Coronabedingt gerade geschlossen."
-website: "http://www.bad-mohr.de"
+opening_hours: '"Coronabedingt gerade geschlossen."'
+website: http://www.bad-mohr.de

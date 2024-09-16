@@ -4,8 +4,8 @@ latitude: 51.74323
 longitude: 7.18756
 postcode: "45721"
 city: Haltern am See
-street: "Markt"
-housenumber: 3
-phone: "+49 2364 12021"
-opening_hours: "Mo-Fr 09:30-13:00,14:30-18:30; Sa 09:30-14:00"
+street: Markt
+housenumber: "3"
+phone: +49 2364 12021
+opening_hours: Mo-Fr 09:30-13:00,14:30-18:30; Sa 09:30-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.69889
 longitude: 7.05719
 postcode: "53125"
 city: Bonn
-street: "Borsigallee"
-housenumber: 
+street: Borsigallee
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:30-18:00; Su,PH off
 website: ""

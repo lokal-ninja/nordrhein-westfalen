@@ -1,11 +1,11 @@
 id: 1014469390
-type: way
+type: node
 latitude: 51.44357
 longitude: 7.32135
 postcode: "58455"
 city: Witten
-street: "Cörmannstraße"
-housenumber: 24
+street: Cörmannstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

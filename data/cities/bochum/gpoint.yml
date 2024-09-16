@@ -4,8 +4,9 @@ latitude: 51.43699
 longitude: 7.18282
 postcode: "44879"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 597
-phone: "+49 1590 6326541"
-opening_hours: "Mo,We,Th,Fr 10:00-18:30, Sa 09:00-16:00; Nov-Feb Sa 10:00-16:00; PH off"
-website: "https://www.g-point-fishing.de/"
+street: Hattinger Straße
+housenumber: "597"
+phone: +49 1590 6326541
+opening_hours: Mo,We,Th,Fr 10:00-18:30, Sa 09:00-16:00; Nov-Feb Sa 10:00-16:00; PH
+    off
+website: https://www.g-point-fishing.de/

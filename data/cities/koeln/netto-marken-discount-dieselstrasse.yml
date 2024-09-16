@@ -1,11 +1,11 @@
 id: 218587073
-type: way
+type: node
 latitude: 50.94668
 longitude: 6.84661
 postcode: "50859"
 city: Köln
-street: "Dieselstraße"
-housenumber: 21
+street: Dieselstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

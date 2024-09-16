@@ -1,11 +1,11 @@
 id: 255451721
-type: way
+type: node
 latitude: 51.53656
 longitude: 7.68005
 postcode: "59423"
 city: Unna
-street: "Weberstraße"
-housenumber: 3
+street: Weberstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

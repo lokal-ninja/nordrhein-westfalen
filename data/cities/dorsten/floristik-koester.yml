@@ -1,11 +1,11 @@
 id: 205788030
-type: way
+type: node
 latitude: 51.66142
 longitude: 6.96376
 postcode: "46282"
 city: Dorsten
-street: "Lippestraße"
-housenumber: 18
+street: Lippestraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off
 website: ""

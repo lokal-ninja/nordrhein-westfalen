@@ -4,8 +4,8 @@ latitude: 50.96568
 longitude: 7.16001
 postcode: "51429"
 city: Bergisch Gladbach
-street: "Schloßstraße"
-housenumber: 42
-phone: "+49 2204 53168"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 07:30-13:30"
-website: "http://www.metzgerei-himperich.de"
+street: Schloßstraße
+housenumber: "42"
+phone: +49 2204 53168
+opening_hours: Mo-Fr 08:00-18:30; Sa 07:30-13:30
+website: http://www.metzgerei-himperich.de

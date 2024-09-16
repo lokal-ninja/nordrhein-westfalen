@@ -1,11 +1,11 @@
 id: 34631190
-type: way
+type: node
 latitude: 51.67737
 longitude: 8.32518
 postcode: "59555"
 city: Lippstadt
-street: "Am Weinberg"
-housenumber: 15
+street: Am Weinberg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

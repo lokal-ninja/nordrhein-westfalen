@@ -1,11 +1,11 @@
 id: 219951953
-type: way
+type: node
 latitude: 52.26841
 longitude: 7.78724
 postcode: "49479"
 city: Ibbenbüren
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 54
+street: Freiherr-vom-Stein-Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 80601986
-type: way
+type: node
 latitude: 50.77584
 longitude: 6.08579
 postcode: "52062"
 city: Aachen
-street: "Büchel"
+street: Büchel
 housenumber: 29,31
-phone: "+49 241 470301 0"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off"
-website: "https://www.mathes.de/"
+phone: +49 241 470301 0
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off
+website: https://www.mathes.de/

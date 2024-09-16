@@ -4,8 +4,8 @@ latitude: 51.97988
 longitude: 7.29531
 postcode: "48727"
 city: Billerbeck
-street: "Altenberger Weg"
-housenumber: 1
-phone: "+49 2543 930 65 20"
-opening_hours: "Mo 08:30-12:30; Tu-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-13:00"
-website: "https://www.vergissmeinnichtfloristik.de/"
+street: Altenberger Weg
+housenumber: "1"
+phone: +49 2543 930 65 20
+opening_hours: Mo 08:30-12:30; Tu-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-13:00
+website: https://www.vergissmeinnichtfloristik.de/

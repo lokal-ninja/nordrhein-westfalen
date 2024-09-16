@@ -1,11 +1,11 @@
 id: 56095837
-type: way
+type: node
 latitude: 51.5267
 longitude: 7.58931
 postcode: "44319"
 city: Dortmund
-street: "Webershohl"
-housenumber: 5
-phone: "+49 231 270002"
+street: Webershohl
+housenumber: "5"
+phone: +49 231 270002
 opening_hours: ""
 website: ""

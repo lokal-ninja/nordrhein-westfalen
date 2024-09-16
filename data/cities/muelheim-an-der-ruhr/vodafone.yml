@@ -1,11 +1,11 @@
 id: 917146865
-type: way
+type: node
 latitude: 51.42904
 longitude: 6.886
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 3072221"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 10:00-16:00"
-website: "https://www.vodafone.de/"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 3072221
+opening_hours: Mo-Fr 11:00-17:00; Sa 10:00-16:00
+website: https://www.vodafone.de/

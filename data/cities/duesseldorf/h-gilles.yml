@@ -4,8 +4,8 @@ latitude: 51.24529
 longitude: 6.781
 postcode: "40476"
 city: Düsseldorf
-street: "Golzheimer Straße"
-housenumber: 115
-phone: "+49 211 / 486961"
-opening_hours: "Mo-Fr 8:00-17:00, Sa 9:00-13:00"
-website: "https://www.getraenke-gilles.de/"
+street: Golzheimer Straße
+housenumber: "115"
+phone: +49 211 / 486961
+opening_hours: Mo-Fr 8:00-17:00, Sa 9:00-13:00
+website: https://www.getraenke-gilles.de/

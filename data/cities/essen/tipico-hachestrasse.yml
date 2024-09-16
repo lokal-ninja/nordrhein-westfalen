@@ -4,8 +4,8 @@ latitude: 51.45167
 longitude: 7.0117
 postcode: "45127"
 city: Essen
-street: "Hachestraße"
-housenumber: 23
+street: Hachestraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Su 10:00-23:00"
-website: "https://www.bars-concepts.com"
+opening_hours: Mo-Su 10:00-23:00
+website: https://www.bars-concepts.com

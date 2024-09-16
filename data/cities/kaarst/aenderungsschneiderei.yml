@@ -1,11 +1,11 @@
 id: 161583891
-type: way
+type: node
 latitude: 51.21541
 longitude: 6.58388
 postcode: "41564"
 city: Kaarst
-street: "Antoniusstraße"
-housenumber: 24
+street: Antoniusstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

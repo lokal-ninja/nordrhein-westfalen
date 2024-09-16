@@ -1,11 +1,11 @@
 id: 140031818
-type: way
+type: node
 latitude: 51.45443
 longitude: 8.3779
 postcode: "59581"
 city: Warstein
-street: "Nuttlarer Straße"
-housenumber: 4
+street: Nuttlarer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-We 10:00-17:00; Th 14:00-19:00"
-website: "https://dein-ebike.de/"
+opening_hours: Tu-We 10:00-17:00; Th 14:00-19:00
+website: https://dein-ebike.de/

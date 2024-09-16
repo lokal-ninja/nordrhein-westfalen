@@ -1,11 +1,11 @@
 id: 720209513
-type: way
+type: node
 latitude: 51.66035
 longitude: 8.71709
 postcode: "33178"
 city: Borchen
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
+opening_hours: Mo-Sa 7:00-21:00
 website: ""

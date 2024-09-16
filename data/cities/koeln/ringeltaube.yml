@@ -1,11 +1,11 @@
 id: 34201569
-type: way
+type: node
 latitude: 50.87951
 longitude: 7.11259
 postcode: "51147"
 city: Köln
-street: "Waldstraße"
-housenumber: 226
+street: Waldstraße
+housenumber: "226"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-16:00; PH off
 website: ""

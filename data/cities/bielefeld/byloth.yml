@@ -4,8 +4,8 @@ latitude: 52.01983
 longitude: 8.53293
 postcode: "33602"
 city: Bielefeld
-street: "Steinstraße"
-housenumber: 7
+street: Steinstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Th 19:00-22:00; Sa 09:30-16:00"
-website: "https://www.byloth.de/"
+opening_hours: Mo-Fr 09:30-19:00; Th 19:00-22:00; Sa 09:30-16:00
+website: https://www.byloth.de/

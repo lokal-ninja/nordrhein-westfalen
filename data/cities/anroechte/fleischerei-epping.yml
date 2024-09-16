@@ -1,11 +1,11 @@
 id: 243485116
-type: way
+type: node
 latitude: 51.56099
 longitude: 8.32611
 postcode: "59609"
 city: Anröchte
-street: "Goethestraße"
-housenumber: 2
+street: Goethestraße
+housenumber: "2"
 phone: "+4929473309"
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30
 website: ""

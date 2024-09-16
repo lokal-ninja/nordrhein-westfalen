@@ -1,11 +1,11 @@
 id: 187618009
-type: way
+type: node
 latitude: 51.82197
 longitude: 7.53668
 postcode: "48308"
 city: Senden
-street: "Dorfstraße"
-housenumber: 64
+street: Dorfstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

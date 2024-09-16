@@ -1,11 +1,11 @@
 id: 228376612
-type: way
+type: node
 latitude: 51.63943
 longitude: 8.50963
 postcode: "59590"
 city: Geseke
-street: "Bachstraße"
-housenumber: 29
+street: Bachstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

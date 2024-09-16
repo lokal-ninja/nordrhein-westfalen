@@ -4,8 +4,8 @@ latitude: 51.20275
 longitude: 7.35811
 postcode: "42477"
 city: Radevormwald
-street: "Kaiserstraße"
-housenumber: 79
-phone: "+49 2195 1415"
-opening_hours: "Mo-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:00, Sa 08:00-13:00"
+street: Kaiserstraße
+housenumber: "79"
+phone: +49 2195 1415
+opening_hours: Mo-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:00, Sa 08:00-13:00
 website: ""

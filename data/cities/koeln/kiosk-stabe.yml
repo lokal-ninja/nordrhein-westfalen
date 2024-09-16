@@ -1,11 +1,11 @@
 id: 316554144
-type: way
+type: node
 latitude: 50.98961
 longitude: 6.96117
 postcode: "50735"
 city: Köln
-street: "Sebastianstraße"
-housenumber: 167
+street: Sebastianstraße
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

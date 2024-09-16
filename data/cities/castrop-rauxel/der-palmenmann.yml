@@ -1,11 +1,11 @@
 id: 660002560
-type: way
+type: node
 latitude: 51.52724
 longitude: 7.34303
 postcode: "44577"
 city: Castrop-Rauxel
-street: "Merklinder Straße"
-housenumber: 148
+street: Merklinder Straße
+housenumber: "148"
 phone: ""
 opening_hours: ""
-website: "https://www.palmenmann.de/"
+website: https://www.palmenmann.de/

@@ -1,11 +1,11 @@
 id: 134009396
-type: way
+type: node
 latitude: 51.38063
 longitude: 7.51716
 postcode: "58093"
 city: Hagen
-street: "Rohrstraße"
-housenumber: 24
-phone: "+49 2331 586339"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
+street: Rohrstraße
+housenumber: "24"
+phone: +49 2331 586339
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
 website: ""

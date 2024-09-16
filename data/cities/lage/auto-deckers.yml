@@ -1,11 +1,11 @@
 id: 264954619
-type: way
+type: node
 latitude: 51.9764
 longitude: 8.82028
 postcode: "32791"
 city: Lage
-street: "Daimlerstraße"
-housenumber: 13
+street: Daimlerstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://autodeckers.de/"
+website: https://autodeckers.de/

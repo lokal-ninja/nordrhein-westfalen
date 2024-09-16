@@ -1,11 +1,11 @@
 id: 930955986
-type: way
+type: node
 latitude: 51.98721
 longitude: 6.94163
 postcode: "48703"
 city: Stadtlohn
-street: "Breul"
-housenumber: 89
+street: Breul
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:00-17:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:00-17:00
 website: ""

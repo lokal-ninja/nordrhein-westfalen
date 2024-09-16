@@ -4,8 +4,8 @@ latitude: 51.5483
 longitude: 7.31044
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Münsterstraße"
-housenumber: 4
+street: Münsterstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-17:00"
-website: "https://www.baeckerei-grobe.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-17:00
+website: https://www.baeckerei-grobe.de/

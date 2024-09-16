@@ -4,8 +4,8 @@ latitude: 51.804
 longitude: 7.05068
 postcode: "48734"
 city: Reken
-street: "Bahnhofstraße"
-housenumber: 33
+street: Bahnhofstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.rhmh.de/raiffeisen-maerkte/standard-titel-1"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.rhmh.de/raiffeisen-maerkte/standard-titel-1

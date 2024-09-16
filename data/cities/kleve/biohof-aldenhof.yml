@@ -4,8 +4,8 @@ latitude: 51.80453
 longitude: 6.17724
 postcode: "47533"
 city: Kleve
-street: "Banndeich"
-housenumber: 1
-phone: "+49 2821 9615"
-opening_hours: "Mi & Do: 15-18 Uhr"
-website: "httpd://www.aldenhof.de"
+street: Banndeich
+housenumber: "1"
+phone: +49 2821 9615
+opening_hours: 'Mi & Do: 15-18 Uhr'
+website: httpd://www.aldenhof.de

@@ -4,8 +4,8 @@ latitude: 51.29578
 longitude: 6.83915
 postcode: "40878"
 city: Ratingen
-street: "Am Stadion"
+street: Am Stadion
 housenumber: 3a
-phone: "+49 2102 28080"
-opening_hours: "Mo, Th, Fr 11:00-18:00; Sa off || nach Vereinbarung"
-website: "https://www.rahmenstudio-bös.de"
+phone: +49 2102 28080
+opening_hours: Mo, Th, Fr 11:00-18:00; Sa off || "nach Vereinbarung"
+website: https://www.rahmenstudio-bös.de

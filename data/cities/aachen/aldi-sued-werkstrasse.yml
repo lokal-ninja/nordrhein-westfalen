@@ -1,11 +1,11 @@
 id: 44311424
-type: way
+type: node
 latitude: 50.71307
 longitude: 6.13865
 postcode: "52076"
 city: Aachen
-street: "Werkstraße"
-housenumber: 21
+street: Werkstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

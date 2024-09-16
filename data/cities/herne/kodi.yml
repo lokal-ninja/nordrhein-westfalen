@@ -4,8 +4,8 @@ latitude: 51.53921
 longitude: 7.22408
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 34
-phone: "+49 2323 12446"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.kodi.de/"
+street: Bahnhofstraße
+housenumber: "34"
+phone: +49 2323 12446
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.kodi.de/

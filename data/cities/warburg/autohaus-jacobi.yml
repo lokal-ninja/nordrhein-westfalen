@@ -1,11 +1,11 @@
 id: 100866169
-type: way
+type: node
 latitude: 51.49061
 longitude: 9.13047
 postcode: "34414"
 city: Warburg
-street: "Paderborner Tor"
-housenumber: 169
+street: Paderborner Tor
+housenumber: "169"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-jacobi.de/"
+website: https://www.autohaus-jacobi.de/

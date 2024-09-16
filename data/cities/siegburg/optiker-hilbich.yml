@@ -4,8 +4,8 @@ latitude: 50.79854
 longitude: 7.20826
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 17
-phone: "+49 2241 62397"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:30"
-website: "https://www.optiker-hilbich.de/"
+street: Kaiserstraße
+housenumber: "17"
+phone: +49 2241 62397
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:30
+website: https://www.optiker-hilbich.de/

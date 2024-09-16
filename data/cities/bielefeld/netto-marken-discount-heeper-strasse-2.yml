@@ -1,11 +1,11 @@
 id: 107369111
-type: way
+type: node
 latitude: 52.02621
 longitude: 8.57143
 postcode: "33607"
 city: Bielefeld
-street: "Heeper Straße"
-housenumber: 248
+street: Heeper Straße
+housenumber: "248"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

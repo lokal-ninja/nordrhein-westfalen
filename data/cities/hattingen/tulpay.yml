@@ -4,8 +4,8 @@ latitude: 51.40008
 longitude: 7.18628
 postcode: "45525"
 city: Hattingen
-street: "Heggerstraße"
-housenumber: 38
+street: Heggerstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00, Sa 10:00-14:00"
-website: "https://www.tulpay.de"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00, Sa 10:00-14:00
+website: https://www.tulpay.de

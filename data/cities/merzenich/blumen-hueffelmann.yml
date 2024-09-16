@@ -1,11 +1,11 @@
 id: 914772853
-type: way
+type: node
 latitude: 50.8289
 longitude: 6.52391
 postcode: "52399"
 city: Merzenich
-street: "Lindenplatz"
-housenumber: 5
+street: Lindenplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.blumen-hueffelmann.de/"
+website: https://www.blumen-hueffelmann.de/

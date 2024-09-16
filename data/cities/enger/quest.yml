@@ -4,8 +4,8 @@ latitude: 52.12551
 longitude: 8.58963
 postcode: "32130"
 city: Enger
-street: "Lohkampweg"
-housenumber: 50
+street: Lohkampweg
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su,PH 09:00-12:00"
-website: "https://www.hof-quest.net/hofladen/"
+opening_hours: Mo-Sa 08:00-18:00; Su,PH 09:00-12:00
+website: https://www.hof-quest.net/hofladen/

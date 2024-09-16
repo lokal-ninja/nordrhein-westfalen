@@ -4,8 +4,8 @@ latitude: 51.22595
 longitude: 6.7822
 postcode: "40212"
 city: Düsseldorf
-street: "Berliner Allee"
-housenumber: 1
+street: Berliner Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

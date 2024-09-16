@@ -4,8 +4,8 @@ latitude: 52.2659
 longitude: 8.67724
 postcode: "32609"
 city: Hüllhorst
-street: "Lusmühlenstraße"
-housenumber: 5
-phone: "+49 5744 512858"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 7:00-16:30"
-website: "https://www.baeckerei-schmidt.de/"
+street: Lusmühlenstraße
+housenumber: "5"
+phone: +49 5744 512858
+opening_hours: Mo-Fr 07:00-19:00; Sa 7:00-16:30
+website: https://www.baeckerei-schmidt.de/

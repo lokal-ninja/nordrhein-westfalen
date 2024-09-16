@@ -1,11 +1,11 @@
 id: 133017383
-type: way
+type: node
 latitude: 51.33124
 longitude: 6.79386
 postcode: "40489"
 city: Düsseldorf
-street: "Graf-Engelbert-Straße"
-housenumber: 37
-phone: "+49 203 740154"
+street: Graf-Engelbert-Straße
+housenumber: "37"
+phone: +49 203 740154
 opening_hours: ""
 website: ""

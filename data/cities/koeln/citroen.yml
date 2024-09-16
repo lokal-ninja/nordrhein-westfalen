@@ -1,11 +1,11 @@
 id: 91065809
-type: way
+type: node
 latitude: 50.94612
 longitude: 6.89091
 postcode: "50933"
 city: Köln
-street: "Widdersdorfer Straße"
-housenumber: 345
+street: Widdersdorfer Straße
+housenumber: "345"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30, Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:30, Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.78426
 longitude: 7.19622
 postcode: "53757"
 city: Sankt Augustin
-street: "Bonner Straße"
-housenumber: 70
+street: Bonner Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 05:00-17:00; Sa 05:00-13:00; Su 07:00-16:00"
-website: "https://stadtbrotbaecker-rott.de/"
+opening_hours: Mo-Fr 05:00-17:00; Sa 05:00-13:00; Su 07:00-16:00
+website: https://stadtbrotbaecker-rott.de/

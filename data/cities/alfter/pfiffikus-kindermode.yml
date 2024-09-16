@@ -1,11 +1,11 @@
 id: 120414390
-type: way
+type: node
 latitude: 50.69986
 longitude: 7.0158
 postcode: "53347"
 city: Alfter
-street: "Raiffeisenstraße"
-housenumber: 52
-phone: "+49 228 7481583"
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-13:00"
-website: "https://www.pfiffikus-2hand.de/"
+street: Raiffeisenstraße
+housenumber: "52"
+phone: +49 228 7481583
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-13:00
+website: https://www.pfiffikus-2hand.de/

@@ -1,11 +1,11 @@
 id: 140166390
-type: way
+type: node
 latitude: 51.36105
 longitude: 8.39625
 postcode: "59909"
 city: Bestwig
-street: "Bundesstraße"
-housenumber: 135
+street: Bundesstraße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo,We,Fr 09:30 - 18:30; Th 09:30 - 20:00; Sa 09:30 - 15:30"
-website: "https://www.mmb-moebel.de/"
+opening_hours: Mo,We,Fr 09:30 - 18:30; Th 09:30 - 20:00; Sa 09:30 - 15:30
+website: https://www.mmb-moebel.de/

@@ -1,11 +1,11 @@
 id: 1061922135
-type: way
+type: node
 latitude: 51.50482
 longitude: 7.40053
 postcode: "44379"
 city: Dortmund
-street: "Martener Hellweg"
-housenumber: 46
-phone: "+49 231 617006"
+street: Martener Hellweg
+housenumber: "46"
+phone: +49 231 617006
 opening_hours: ""
-website: "https://www.boels.com/"
+website: https://www.boels.com/

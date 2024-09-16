@@ -1,11 +1,11 @@
 id: 228733623
-type: way
+type: node
 latitude: 51.4761
 longitude: 6.86224
 postcode: "46045"
 city: Oberhausen
-street: "Ebertstraße"
-housenumber: 92
+street: Ebertstraße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

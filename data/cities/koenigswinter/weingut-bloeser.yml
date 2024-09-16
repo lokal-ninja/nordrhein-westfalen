@@ -1,11 +1,11 @@
 id: 102541925
-type: way
+type: node
 latitude: 50.69944
 longitude: 7.18872
 postcode: "53639"
 city: Königswinter
-street: "Bachstraße"
-housenumber: 112
+street: Bachstraße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
-website: "https://www.weingutbloeser.de/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
+website: https://www.weingutbloeser.de/

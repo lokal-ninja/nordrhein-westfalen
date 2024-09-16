@@ -4,8 +4,8 @@ latitude: 50.73453
 longitude: 7.10337
 postcode: "53113"
 city: Bonn
-street: "Stockenstraße"
-housenumber: 10
+street: Stockenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 261841963
-type: way
+type: node
 latitude: 51.70784
 longitude: 8.72084
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 8
-phone: "+49 5251 5408795"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.hark.de/kaminausstellungen/standort/paderborn.html"
+street: Frankfurter Weg
+housenumber: "8"
+phone: +49 5251 5408795
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.hark.de/kaminausstellungen/standort/paderborn.html

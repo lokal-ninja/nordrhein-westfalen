@@ -4,8 +4,8 @@ latitude: 52.02044
 longitude: 8.53304
 postcode: "33602"
 city: Bielefeld
-street: "Rathausstraße"
-housenumber: 5
-phone: "+49 521 175676"
-opening_hours: "Tu-Fr 11:00-13:00, 14:00-18:00; Sa 11:00-16:00"
-website: "https://www.klebe-lichtideen.de/"
+street: Rathausstraße
+housenumber: "5"
+phone: +49 521 175676
+opening_hours: Tu-Fr 11:00-13:00, 14:00-18:00; Sa 11:00-16:00
+website: https://www.klebe-lichtideen.de/

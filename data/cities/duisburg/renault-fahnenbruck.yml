@@ -1,11 +1,11 @@
 id: 124873512
-type: way
+type: node
 latitude: 51.42079
 longitude: 6.69648
 postcode: "47228"
 city: Duisburg
-street: "Schauenstraße"
-housenumber: 54
+street: Schauenstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

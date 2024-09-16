@@ -1,11 +1,11 @@
 id: 83461825
-type: way
+type: node
 latitude: 50.88861
 longitude: 8.02754
 postcode: "57076"
 city: Siegen
-street: "In der Herrenwiese"
-housenumber: 1
+street: In der Herrenwiese
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-18:00
 website: ""

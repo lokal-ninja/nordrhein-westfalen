@@ -4,8 +4,8 @@ latitude: 52.21265
 longitude: 8.81255
 postcode: "32547"
 city: Bad Oeynhausen
-street: "Mindener Straße"
-housenumber: 22
-phone: "+49 5731 683201"
-opening_hours: "Mo-We,Fr,Sa 08:00-20:00; Th 08:00-22:00"
-website: "https://www.karlchens-backstube.de/"
+street: Mindener Straße
+housenumber: "22"
+phone: +49 5731 683201
+opening_hours: Mo-We,Fr,Sa 08:00-20:00; Th 08:00-22:00
+website: https://www.karlchens-backstube.de/

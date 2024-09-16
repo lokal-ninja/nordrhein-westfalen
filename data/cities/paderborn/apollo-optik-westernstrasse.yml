@@ -4,8 +4,8 @@ latitude: 51.71629
 longitude: 8.74864
 postcode: "33098"
 city: Paderborn
-street: "Westernstraße"
-housenumber: 30
-phone: "+49 5251 22912"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"
-website: "https://www.apollo.de/"
+street: Westernstraße
+housenumber: "30"
+phone: +49 5251 22912
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off
+website: https://www.apollo.de/

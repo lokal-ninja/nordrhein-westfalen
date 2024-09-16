@@ -4,8 +4,8 @@ latitude: 51.75563
 longitude: 8.04042
 postcode: "59269"
 city: Beckum
-street: "Nordstraße"
-housenumber: 7
-phone: "+49 2521 8539447"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-16:00"
+street: Nordstraße
+housenumber: "7"
+phone: +49 2521 8539447
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-16:00
 website: ""

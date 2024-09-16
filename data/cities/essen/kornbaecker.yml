@@ -4,8 +4,8 @@ latitude: 51.45898
 longitude: 7.08045
 postcode: "45307"
 city: Essen
-street: "Zur Beckhove"
-housenumber: 29
-phone: "+49 201 85766530"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-13:00; PH off"
-website: "https://www.kornbaecker.de/"
+street: Zur Beckhove
+housenumber: "29"
+phone: +49 201 85766530
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-13:00; PH off
+website: https://www.kornbaecker.de/

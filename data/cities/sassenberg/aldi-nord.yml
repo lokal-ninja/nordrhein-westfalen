@@ -1,11 +1,11 @@
 id: 51178880
-type: way
+type: node
 latitude: 51.9811
 longitude: 8.05003
 postcode: "48336"
 city: Sassenberg
-street: "Robert-Linnemann-Straße"
-housenumber: 6
+street: Robert-Linnemann-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

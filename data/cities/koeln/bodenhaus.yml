@@ -1,11 +1,11 @@
 id: 285470942
-type: way
+type: node
 latitude: 50.92255
 longitude: 6.99707
 postcode: "51105"
 city: Köln
-street: "Rolshover Straße"
-housenumber: 390
+street: Rolshover Straße
+housenumber: "390"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00; PH off
 website: ""

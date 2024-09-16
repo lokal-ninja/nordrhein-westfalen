@@ -1,11 +1,11 @@
 id: 31486863
-type: way
+type: node
 latitude: 51.6756
 longitude: 8.36991
 postcode: "59557"
 city: Lippstadt
-street: "Am Mondschein"
-housenumber: 24
-phone: "+49 2941 76 08 60"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/"
+street: Am Mondschein
+housenumber: "24"
+phone: +49 2941 76 08 60
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/

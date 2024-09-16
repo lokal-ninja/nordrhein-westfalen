@@ -4,8 +4,8 @@ latitude: 51.44943
 longitude: 6.99324
 postcode: "45145"
 city: Essen
-street: "Schederhofstraße"
-housenumber: 59
+street: Schederhofstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su off"
-website: "https://www.homebox-lager.de/lagerraum-mieten/selfstorage-essen"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su off
+website: https://www.homebox-lager.de/lagerraum-mieten/selfstorage-essen

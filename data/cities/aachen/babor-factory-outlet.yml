@@ -1,11 +1,11 @@
 id: 429871575
-type: way
+type: node
 latitude: 50.7617
 longitude: 6.15318
 postcode: "52078"
 city: Aachen
-street: "Neuenhofstraße"
-housenumber: 190
+street: Neuenhofstraße
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

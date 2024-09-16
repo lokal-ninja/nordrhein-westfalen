@@ -1,11 +1,11 @@
 id: 306356544
-type: way
+type: node
 latitude: 51.97993
 longitude: 8.71453
 postcode: "33813"
 city: Oerlinghausen
-street: "Bahnhofstraße"
-housenumber: 90
+street: Bahnhofstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

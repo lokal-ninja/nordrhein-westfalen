@@ -4,8 +4,8 @@ latitude: 51.48935
 longitude: 9.143
 postcode: "34414"
 city: Warburg
-street: "Paderborner Tor"
-housenumber: 104
-phone: "+49-5641-7488740"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.scholand-hoerakustik.de"
+street: Paderborner Tor
+housenumber: "104"
+phone: +49-5641-7488740
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.scholand-hoerakustik.de

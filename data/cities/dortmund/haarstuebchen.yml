@@ -1,11 +1,11 @@
 id: 55740973
-type: way
+type: node
 latitude: 51.50029
 longitude: 7.32834
 postcode: "44388"
 city: Dortmund
-street: "Kaubomstraße"
-housenumber: 3
+street: Kaubomstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

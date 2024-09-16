@@ -4,8 +4,8 @@ latitude: 51.12471
 longitude: 6.84553
 postcode: "41541"
 city: Dormagen
-street: "Saarwerdenstraße"
-housenumber: 14
-phone: "+49 2133 44646"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:30; We 08:00-13:00; Sa 09:00-13:00"
+street: Saarwerdenstraße
+housenumber: "14"
+phone: +49 2133 44646
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:30; We 08:00-13:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 131450079
-type: way
+type: node
 latitude: 51.38305
 longitude: 7.39257
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Friedrichstraße"
-housenumber: 24
+street: Friedrichstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

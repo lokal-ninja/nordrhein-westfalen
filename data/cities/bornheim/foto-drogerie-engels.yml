@@ -1,11 +1,11 @@
 id: 430580892
-type: way
+type: node
 latitude: 50.77444
 longitude: 6.92623
 postcode: "53332"
 city: Bornheim
-street: "Beethovenstraße"
-housenumber: 33
+street: Beethovenstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.90461
 longitude: 6.85558
 postcode: "46325"
 city: Borken
-street: "Im Thomas"
-housenumber: 7
-phone: "+49 2862 1369"
-opening_hours: "Tu,We 08:00-12:00; Th,Fr 08:00-12:00,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://bolewski.de/"
+street: Im Thomas
+housenumber: "7"
+phone: +49 2862 1369
+opening_hours: Tu,We 08:00-12:00; Th,Fr 08:00-12:00,14:00-18:00; Sa 09:00-13:00; PH
+    off
+website: https://bolewski.de/

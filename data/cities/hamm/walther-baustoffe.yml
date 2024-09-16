@@ -1,11 +1,11 @@
 id: 438777000
-type: way
+type: node
 latitude: 51.6911
 longitude: 7.94871
 postcode: "59071"
 city: Hamm
-street: "Zollstraße"
-housenumber: 6
-phone: "+49 2388 661"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off"
-website: "https://www.walther-baustoffe.de/"
+street: Zollstraße
+housenumber: "6"
+phone: +49 2388 661
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off
+website: https://www.walther-baustoffe.de/

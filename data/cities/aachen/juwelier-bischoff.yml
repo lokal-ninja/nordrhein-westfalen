@@ -4,8 +4,8 @@ latitude: 50.77624
 longitude: 6.08478
 postcode: "52062"
 city: Aachen
-street: "Büchel"
-housenumber: 4
-phone: "+49 241 402080"
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; Sa 10:00-16:00; PH,We,Su off"
-website: "https://www.juwelier-bischoff.de/"
+street: Büchel
+housenumber: "4"
+phone: +49 241 402080
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; Sa 10:00-16:00; PH,We,Su off
+website: https://www.juwelier-bischoff.de/

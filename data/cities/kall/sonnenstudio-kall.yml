@@ -1,11 +1,11 @@
 id: 936655574
-type: way
+type: node
 latitude: 50.55061
 longitude: 6.57758
 postcode: "53925"
 city: Kall
-street: "Metallhütte"
-housenumber: 2
+street: Metallhütte
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://sonnenstudio-kall.de/"
+website: https://sonnenstudio-kall.de/

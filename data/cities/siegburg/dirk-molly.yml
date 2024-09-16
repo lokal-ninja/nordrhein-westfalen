@@ -4,8 +4,8 @@ latitude: 50.80679
 longitude: 7.19731
 postcode: "53721"
 city: Siegburg
-street: "Luisenstraße"
-housenumber: 95
-phone: "+49 2241 65308"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00"
-website: "https://dirkmolly.de/"
+street: Luisenstraße
+housenumber: "95"
+phone: +49 2241 65308
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-16:00
+website: https://dirkmolly.de/

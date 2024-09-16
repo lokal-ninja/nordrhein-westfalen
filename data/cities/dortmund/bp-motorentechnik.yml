@@ -1,11 +1,11 @@
 id: 53562520
-type: way
+type: node
 latitude: 51.50738
 longitude: 7.49188
 postcode: "44141"
 city: Dortmund
-street: "Im Defdahl"
+street: Im Defdahl
 housenumber: 12b
-phone: "+49 231 2209357"
-opening_hours: "Mo-Th 08:00-13:00"
-website: "https://www.bp-motorentechnik.de/"
+phone: +49 231 2209357
+opening_hours: Mo-Th 08:00-13:00
+website: https://www.bp-motorentechnik.de/

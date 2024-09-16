@@ -1,11 +1,11 @@
 id: 284493851
-type: way
+type: node
 latitude: 51.54136
 longitude: 8.56845
 postcode: "33142"
 city: Büren
-street: "Fürstenberger Straße"
-housenumber: 33
+street: Fürstenberger Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

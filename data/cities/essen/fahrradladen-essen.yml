@@ -4,8 +4,8 @@ latitude: 51.44444
 longitude: 7.00845
 postcode: "45128"
 city: Essen
-street: "Huyssenallee"
-housenumber: 95
-phone: "+49 201 360 369 60"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
+street: Huyssenallee
+housenumber: "95"
+phone: +49 201 360 369 60
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.74094
 longitude: 7.09443
 postcode: "53111"
 city: Bonn
-street: "Heerstraße"
-housenumber: 20
-phone: "+49 228 4330420"
-opening_hours: "Mo-Th 13:00-18:00; Fr-Sa 10:00-20:00; Su,PH off"
-website: "https://www.latiendalatina.de"
+street: Heerstraße
+housenumber: "20"
+phone: +49 228 4330420
+opening_hours: Mo-Th 13:00-18:00; Fr-Sa 10:00-20:00; Su,PH off
+website: https://www.latiendalatina.de

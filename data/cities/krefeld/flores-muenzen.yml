@@ -4,8 +4,8 @@ latitude: 51.32885
 longitude: 6.56435
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 26
+street: Hochstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00"
-website: "https://www.flores-muenzen.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00
+website: https://www.flores-muenzen.de/

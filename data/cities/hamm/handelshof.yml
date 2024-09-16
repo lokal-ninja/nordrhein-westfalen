@@ -1,11 +1,11 @@
 id: 93359961
-type: way
+type: node
 latitude: 51.7145
 longitude: 7.75579
 postcode: "59075"
 city: Hamm
-street: "Römerstraße"
-housenumber: 130
-phone: "+49 2381 905990"
-opening_hours: "Mo-Sa 7:30-20:30"
-website: "https://www.handelshof.de/Maerkte/Hamm.HTML"
+street: Römerstraße
+housenumber: "130"
+phone: +49 2381 905990
+opening_hours: Mo-Sa 7:30-20:30
+website: https://www.handelshof.de/Maerkte/Hamm.HTML

@@ -4,8 +4,8 @@ latitude: 50.77841
 longitude: 6.08701
 postcode: "52062"
 city: Aachen
-street: "Seilgraben"
-housenumber: 14
-phone: "+49 241 470060"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://face-aachen.de/"
+street: Seilgraben
+housenumber: "14"
+phone: +49 241 470060
+opening_hours: Mo-Fr 10:00-16:00
+website: https://face-aachen.de/

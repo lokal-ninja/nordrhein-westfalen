@@ -1,11 +1,11 @@
 id: 113080614
-type: way
+type: node
 latitude: 50.91974
 longitude: 6.8471
 postcode: "50858"
 city: Köln
-street: "Max-Planck-Straße"
-housenumber: 24
+street: Max-Planck-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/koeln-marsdorf-474"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/koeln-marsdorf-474

@@ -1,11 +1,11 @@
 id: 125983593
-type: way
+type: node
 latitude: 50.98313
 longitude: 7.10399
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Kradepohlsmühlenweg"
-housenumber: 8
+street: Kradepohlsmühlenweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

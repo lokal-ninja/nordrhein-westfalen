@@ -4,8 +4,8 @@ latitude: 51.25715
 longitude: 7.14637
 postcode: "42103"
 city: Wuppertal
-street: "Wall"
-housenumber: 17
-phone: "+49 202 453646"
-opening_hours: "Tu,We,Fr 11:00-18:00; Th 11:00-20:00; Sa,Su 11:00-18:00; Mo off"
-website: "https://www.hausfelder.de/geschaefte/wuppertal"
+street: Wall
+housenumber: "17"
+phone: +49 202 453646
+opening_hours: Tu,We,Fr 11:00-18:00; Th 11:00-20:00; Sa,Su 11:00-18:00; Mo off
+website: https://www.hausfelder.de/geschaefte/wuppertal

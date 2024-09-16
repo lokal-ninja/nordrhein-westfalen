@@ -4,8 +4,8 @@ latitude: 51.98011
 longitude: 8.49329
 postcode: "33649"
 city: Bielefeld
-street: "Sunderweg"
-housenumber: 1
-phone: "+49 521 26090980"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.lucky-bike.de/fahrrad-bielefeld/"
+street: Sunderweg
+housenumber: "1"
+phone: +49 521 26090980
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.lucky-bike.de/fahrrad-bielefeld/

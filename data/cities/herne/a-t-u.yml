@@ -1,11 +1,11 @@
 id: 119262586
-type: way
+type: node
 latitude: 51.52641
 longitude: 7.19282
 postcode: "44625"
 city: Herne
-street: "Holsterhauser Straße"
-housenumber: 90
+street: Holsterhauser Straße
+housenumber: "90"
 phone: ""
-opening_hours: ""
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-14:00
+website: https://www.atu.de/

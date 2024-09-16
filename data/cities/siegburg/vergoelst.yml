@@ -1,11 +1,11 @@
 id: 208876281
-type: way
+type: node
 latitude: 50.80685
 longitude: 7.22689
 postcode: "53721"
 city: Siegburg
-street: "Zeithstraße"
-housenumber: 263
-phone: "+49 2241 381063"
+street: Zeithstraße
+housenumber: "263"
+phone: +49 2241 381063
 opening_hours: ""
-website: "https://vergoelst.de/"
+website: https://vergoelst.de/

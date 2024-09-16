@@ -4,8 +4,8 @@ latitude: 51.30243
 longitude: 7.66639
 postcode: "58762"
 city: Altena
-street: "Bahnhofstraße"
-housenumber: 45
-phone: "+49 235226332"
-opening_hours: "Mo-Th 08:00-13:00,14:00-16:00, Fr 08:00-14:00, Sa off"
+street: Bahnhofstraße
+housenumber: "45"
+phone: +49 235226332
+opening_hours: Mo-Th 08:00-13:00,14:00-16:00, Fr 08:00-14:00, Sa off
 website: ""

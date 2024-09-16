@@ -4,8 +4,8 @@ latitude: 51.97385
 longitude: 7.29628
 postcode: "48727"
 city: Billerbeck
-street: "Bernhardstraße"
-housenumber: 4
-phone: "+49 2543 79 19"
-opening_hours: "Terminvereinbarung"
+street: Bernhardstraße
+housenumber: "4"
+phone: +49 2543 79 19
+opening_hours: '"Terminvereinbarung"'
 website: ""

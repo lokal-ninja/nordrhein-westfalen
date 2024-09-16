@@ -4,8 +4,8 @@ latitude: 50.73623
 longitude: 7.09808
 postcode: "53111"
 city: Bonn
-street: "Friedensplatz"
-housenumber: 8
-phone: "+49 228 9652805"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:30"
-website: "http://www.theos-backstube.de/"
+street: Friedensplatz
+housenumber: "8"
+phone: +49 228 9652805
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:30
+website: http://www.theos-backstube.de/

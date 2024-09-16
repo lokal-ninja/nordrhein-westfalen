@@ -4,8 +4,8 @@ latitude: 52.01974
 longitude: 8.53356
 postcode: "33602"
 city: Bielefeld
-street: "Steinstraße"
-housenumber: 2
+street: Steinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.svenhalfter-herrenfriseur.de/"
+opening_hours: Tu-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.svenhalfter-herrenfriseur.de/

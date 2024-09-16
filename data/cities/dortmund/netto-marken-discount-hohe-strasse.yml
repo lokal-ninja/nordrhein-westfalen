@@ -1,11 +1,11 @@
 id: 38279368
-type: way
+type: node
 latitude: 51.5072
 longitude: 7.46082
 postcode: "44139"
 city: Dortmund
-street: "Hohe Straße"
+street: Hohe Straße
 housenumber: 28a
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

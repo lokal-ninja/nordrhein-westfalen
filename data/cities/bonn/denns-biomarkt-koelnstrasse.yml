@@ -4,8 +4,8 @@ latitude: 50.73838
 longitude: 7.10085
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
+street: Kölnstraße
 housenumber: 9-11
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.biomarkt.de/bonn-koelnstr-9-11/marktseite"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.biomarkt.de/bonn-koelnstr-9-11/marktseite

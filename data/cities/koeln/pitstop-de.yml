@@ -1,11 +1,11 @@
 id: 139457022
-type: way
+type: node
 latitude: 50.96797
 longitude: 7.0356
 postcode: "51067"
 city: Köln
-street: "Bergisch Gladbacher Straße"
-housenumber: 421
-phone: "+49 221 6309281"
+street: Bergisch Gladbacher Straße
+housenumber: "421"
+phone: +49 221 6309281
 opening_hours: ""
-website: "https://www.pitstop.de/"
+website: https://www.pitstop.de/

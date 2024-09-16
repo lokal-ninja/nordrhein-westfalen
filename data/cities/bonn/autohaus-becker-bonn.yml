@@ -1,11 +1,11 @@
 id: 180465911
-type: way
+type: node
 latitude: 50.71751
 longitude: 7.03948
 postcode: "53123"
 city: Bonn
-street: "Alter Heerweg"
+street: Alter Heerweg
 housenumber: 4a
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
 website: ""

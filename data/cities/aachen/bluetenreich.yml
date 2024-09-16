@@ -1,11 +1,11 @@
 id: 253509694
-type: way
+type: node
 latitude: 50.81794
 longitude: 6.07027
 postcode: ""
 city: Aachen
-street: "Küppershofweg"
-housenumber: 13
+street: Küppershofweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.bluetenreich-aachen.de/"
+website: https://www.bluetenreich-aachen.de/

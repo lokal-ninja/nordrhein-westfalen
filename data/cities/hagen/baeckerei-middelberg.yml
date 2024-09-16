@@ -4,8 +4,8 @@ latitude: 51.34732
 longitude: 7.42412
 postcode: "58135"
 city: Hagen
-street: "Berliner Straße"
-housenumber: 139
-phone: "+49 2331 4730499"
-opening_hours: "Mo-Fr 04:00-16:00,Sa 06:30-12:00,Su,PH 07:30-11:30"
-website: "https://www.baeckerei-middelberg.de/filialen/hagenwestf-berliner-strasse"
+street: Berliner Straße
+housenumber: "139"
+phone: +49 2331 4730499
+opening_hours: Mo-Fr 04:00-16:00,Sa 06:30-12:00,Su,PH 07:30-11:30
+website: https://www.baeckerei-middelberg.de/filialen/hagenwestf-berliner-strasse

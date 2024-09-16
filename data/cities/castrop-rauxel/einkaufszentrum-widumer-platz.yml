@@ -1,11 +1,11 @@
 id: 88276194
-type: way
+type: node
 latitude: 51.54861
 longitude: 7.30737
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Widumer Tor"
-housenumber: 1
+street: Widumer Tor
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:45-22:10; PH,Su off"
+opening_hours: Mo-Sa 06:45-22:10; PH,Su off
 website: ""

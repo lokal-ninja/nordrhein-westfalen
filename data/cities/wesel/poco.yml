@@ -1,11 +1,11 @@
 id: 185143722
-type: way
+type: node
 latitude: 51.66167
 longitude: 6.66642
 postcode: "46485"
 city: Wesel
-street: "RWE-Straße"
-housenumber: 2
-phone: "+49 281 206170"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-18:00"
-website: "https://www.poco.de/c/poco-einrichtungsmarkt-wesel"
+street: RWE-Straße
+housenumber: "2"
+phone: +49 281 206170
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:00-18:00
+website: https://www.poco.de/c/poco-einrichtungsmarkt-wesel

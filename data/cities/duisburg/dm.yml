@@ -4,8 +4,8 @@ latitude: 51.44159
 longitude: 6.74628
 postcode: "47059"
 city: Duisburg
-street: "Albertstraße"
-housenumber: 10
+street: Albertstraße
+housenumber: "10"
 phone: "+492032898293"
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

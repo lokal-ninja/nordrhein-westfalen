@@ -4,8 +4,8 @@ latitude: 51.25679
 longitude: 7.1498
 postcode: "42103"
 city: Wuppertal
-street: "Hofaue"
-housenumber: 87
+street: Hofaue
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

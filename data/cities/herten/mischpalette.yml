@@ -1,11 +1,11 @@
 id: 222206669
-type: way
+type: node
 latitude: 51.61311
 longitude: 7.12169
 postcode: "45701"
 city: Herten
-street: "Langenbochumer Straße"
-housenumber: 174
+street: Langenbochumer Straße
+housenumber: "174"
 phone: ""
 opening_hours: ""
-website: "https://mischpalette.blogspot.com"
+website: https://mischpalette.blogspot.com

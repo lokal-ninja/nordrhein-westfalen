@@ -1,11 +1,11 @@
 id: 119206558
-type: way
+type: node
 latitude: 51.76511
 longitude: 7.42878
 postcode: "59348"
 city: Lüdinghausen
-street: "Adam-Stegerwald-Straße"
-housenumber: 4
+street: Adam-Stegerwald-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-12:00"
-website: "https://www.elbers.de/"
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-12:00
+website: https://www.elbers.de/

@@ -4,8 +4,8 @@ latitude: 50.95226
 longitude: 6.95528
 postcode: "50670"
 city: Köln
-street: "Melchiorstraße"
-housenumber: 14
-phone: "+49 221 728144"
+street: Melchiorstraße
+housenumber: "14"
+phone: +49 221 728144
 opening_hours: ""
-website: "http://www.kontrastlab.de/"
+website: http://www.kontrastlab.de/

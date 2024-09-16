@@ -1,11 +1,11 @@
 id: 125209779
-type: way
+type: node
 latitude: 51.55004
 longitude: 7.22035
 postcode: "44629"
 city: Herne
-street: "Roonstraße"
-housenumber: 19
+street: Roonstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-15:00
 website: ""

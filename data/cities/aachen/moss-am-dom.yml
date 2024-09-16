@@ -4,8 +4,8 @@ latitude: 50.77446
 longitude: 6.08492
 postcode: "52062"
 city: Aachen
-street: "Hartmannstraße"
-housenumber: 2
+street: Hartmannstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:30; Su 08:00-18:00"
-website: "https://baeckerei-moss.de/"
+opening_hours: Mo-Sa 07:00-18:30; Su 08:00-18:00
+website: https://baeckerei-moss.de/

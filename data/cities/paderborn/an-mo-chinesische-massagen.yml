@@ -4,8 +4,8 @@ latitude: 51.71636
 longitude: 8.74379
 postcode: "33102"
 city: Paderborn
-street: "Ferdinandstraße"
-housenumber: 2
+street: Ferdinandstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su nach Vereinbarung"
+opening_hours: Mo-Sa 10:00-20:00; Su "nach Vereinbarung"
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.95447
 longitude: 7.62634
 postcode: "48153"
 city: Münster
-street: "Hammer Straße"
-housenumber: 9
+street: Hammer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:30"
-website: "https://www.waschsalon.de/"
+opening_hours: Mo-Sa 06:00-21:30
+website: https://www.waschsalon.de/

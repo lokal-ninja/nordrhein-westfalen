@@ -1,11 +1,11 @@
 id: 89567673
-type: way
+type: node
 latitude: 50.79898
 longitude: 6.7805
 postcode: "50374"
 city: Erftstadt
-street: "Zunftstraße"
-housenumber: 9
+street: Zunftstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

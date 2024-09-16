@@ -1,11 +1,11 @@
 id: 248711707
-type: way
+type: node
 latitude: 51.95283
 longitude: 8.85475
 postcode: "32758"
 city: Detmold
-street: "Klingenbergstraße"
-housenumber: 31
-phone: "+49 5231 64884"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-16:00; Mo off"
-website: "https://www.raeucher-kate.de/"
+street: Klingenbergstraße
+housenumber: "31"
+phone: +49 5231 64884
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-16:00; Mo off
+website: https://www.raeucher-kate.de/

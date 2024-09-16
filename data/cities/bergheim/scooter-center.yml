@@ -1,11 +1,11 @@
 id: 377499418
-type: way
+type: node
 latitude: 50.96949
 longitude: 6.758
 postcode: "50129"
 city: Bergheim
-street: "Kurt-Schumacher-Straße"
-housenumber: 1
+street: Kurt-Schumacher-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

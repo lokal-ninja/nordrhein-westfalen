@@ -1,11 +1,11 @@
 id: 50832019
-type: way
+type: node
 latitude: 52.4303
 longitude: 8.62196
 postcode: "32369"
 city: Rahden
-street: "Eisenbahnstraße"
-housenumber: 14
+street: Eisenbahnstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

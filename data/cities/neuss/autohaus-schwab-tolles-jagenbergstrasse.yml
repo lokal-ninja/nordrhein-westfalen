@@ -1,11 +1,11 @@
 id: 368516656
-type: way
+type: node
 latitude: 51.16315
 longitude: 6.75405
 postcode: "41468"
 city: Neuss
-street: "Jagenbergstraße"
-housenumber: 23
+street: Jagenbergstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

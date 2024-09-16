@@ -4,8 +4,9 @@ latitude: 50.81704
 longitude: 6.97285
 postcode: "50389"
 city: Wesseling
-street: "Keldenicher Straße"
-housenumber: 14
-phone: "+49 2236 842326"
-opening_hours: "Mo-Tu 09:30-13:00,14:30-18:30; Th-Fr 09:30-13:00,14:30-18:30; We,Sa 09:30-13:00"
-website: "https://www.olafs-radladen.de"
+street: Keldenicher Straße
+housenumber: "14"
+phone: +49 2236 842326
+opening_hours: Mo-Tu 09:30-13:00,14:30-18:30; Th-Fr 09:30-13:00,14:30-18:30; We,Sa
+    09:30-13:00
+website: https://www.olafs-radladen.de

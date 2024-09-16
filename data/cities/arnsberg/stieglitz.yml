@@ -1,11 +1,11 @@
 id: 118320738
-type: way
+type: node
 latitude: 51.41567
 longitude: 8.05022
 postcode: "59823"
 city: Arnsberg
-street: "Dieselstraße"
-housenumber: 6
+street: Dieselstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

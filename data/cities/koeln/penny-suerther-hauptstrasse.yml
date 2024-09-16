@@ -1,11 +1,11 @@
 id: 165832555
-type: way
+type: node
 latitude: 50.86664
 longitude: 7.01449
 postcode: "50999"
 city: Köln
-street: "Sürther Hauptstraße"
-housenumber: 161
+street: Sürther Hauptstraße
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

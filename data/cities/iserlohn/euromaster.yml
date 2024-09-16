@@ -1,11 +1,11 @@
 id: 160507227
-type: way
+type: node
 latitude: 51.38128
 longitude: 7.68149
 postcode: "58638"
 city: Iserlohn
-street: "Almeloer Straße"
-housenumber: 2
+street: Almeloer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

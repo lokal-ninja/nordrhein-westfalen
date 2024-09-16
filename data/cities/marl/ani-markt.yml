@@ -1,11 +1,11 @@
 id: 165032818
-type: way
+type: node
 latitude: 51.66783
 longitude: 7.16774
 postcode: "45770"
 city: Marl
-street: "Bahnhofstraße"
-housenumber: 133
+street: Bahnhofstraße
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

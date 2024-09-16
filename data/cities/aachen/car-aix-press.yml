@@ -4,8 +4,8 @@ latitude: 50.77499
 longitude: 6.11123
 postcode: "52068"
 city: Aachen
-street: "Eifelstraße"
-housenumber: 19
+street: Eifelstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa nach Vereinbarung; Su,PH off"
-website: "https://www.car-aix-press.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa "nach Vereinbarung"; Su,PH off
+website: https://www.car-aix-press.de/

@@ -4,8 +4,8 @@ latitude: 50.93894
 longitude: 6.99844
 postcode: "51103"
 city: Köln
-street: "Vietorstraße"
-housenumber: 7
+street: Vietorstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/koeln-kalk-257"
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/koeln-kalk-257

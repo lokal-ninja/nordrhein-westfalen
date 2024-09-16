@@ -4,8 +4,8 @@ latitude: 51.49042
 longitude: 8.43315
 postcode: "59602"
 city: Rüthen
-street: "Königstraße"
-housenumber: 5
-phone: "+49 2952 889084"
-opening_hours: "Mo,We 15:00-18:00; Tu,Th-Sa 09:00-12:00; PH off"
-website: "https://www.magrit-becker.de"
+street: Königstraße
+housenumber: "5"
+phone: +49 2952 889084
+opening_hours: Mo,We 15:00-18:00; Tu,Th-Sa 09:00-12:00; PH off
+website: https://www.magrit-becker.de

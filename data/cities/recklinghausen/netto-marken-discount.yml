@@ -4,8 +4,8 @@ latitude: 51.6073
 longitude: 7.21002
 postcode: "45657"
 city: Recklinghausen
-street: "Hubertusstraße"
-housenumber: 73
+street: Hubertusstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

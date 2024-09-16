@@ -4,8 +4,8 @@ latitude: 50.99898
 longitude: 7.13262
 postcode: "51467"
 city: Bergisch Gladbach
-street: "Odenthaler Straße"
-housenumber: 178
-phone: "+49 2202 1085727"
-opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-14:00"
+street: Odenthaler Straße
+housenumber: "178"
+phone: +49 2202 1085727
+opening_hours: Mo-Fr 09:00-13:00; Sa 09:00-14:00
 website: ""

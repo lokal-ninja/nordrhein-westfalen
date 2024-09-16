@@ -1,11 +1,11 @@
 id: 46198379
-type: way
+type: node
 latitude: 51.49428
 longitude: 6.8885
 postcode: "46047"
 city: Oberhausen
-street: "Zum Aquarium"
-housenumber: 8
+street: Zum Aquarium
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

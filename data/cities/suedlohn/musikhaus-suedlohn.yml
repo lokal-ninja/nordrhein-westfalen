@@ -4,8 +4,8 @@ latitude: 51.94496
 longitude: 6.86638
 postcode: "46354"
 city: Südlohn
-street: "Kirchstraße"
-housenumber: 12
-phone: "+49 2862 8457"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:00, 14:30-18:00; Sa 09:00-12:00; We off"
-website: "https://musikhaus-suedlohn.de/"
+street: Kirchstraße
+housenumber: "12"
+phone: +49 2862 8457
+opening_hours: Mo,Tu,Th,Fr 09:30-12:00, 14:30-18:00; Sa 09:00-12:00; We off
+website: https://musikhaus-suedlohn.de/

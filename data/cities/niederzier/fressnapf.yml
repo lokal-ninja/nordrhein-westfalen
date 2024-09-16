@@ -1,11 +1,11 @@
 id: 237155988
-type: way
+type: node
 latitude: 50.84536
 longitude: 6.45167
 postcode: "52382"
 city: Niederzier
-street: "Rurbenden"
-housenumber: 30
+street: Rurbenden
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.fressnapf.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://www.fressnapf.de/

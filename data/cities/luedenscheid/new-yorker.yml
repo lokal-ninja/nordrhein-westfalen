@@ -4,8 +4,8 @@ latitude: 51.2156
 longitude: 7.63185
 postcode: "58511"
 city: Lüdenscheid
-street: "Schillerstraße"
-housenumber: 1
+street: Schillerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su off"
-website: "http://www.newyorker.de/stores/"
+opening_hours: Mo-Sa 10:00-20:00; Su off
+website: http://www.newyorker.de/stores/

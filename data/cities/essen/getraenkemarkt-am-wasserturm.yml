@@ -1,11 +1,11 @@
 id: 51763463
-type: way
+type: node
 latitude: 51.45132
 longitude: 7.03184
 postcode: "45138"
 city: Essen
-street: "Markgrafenstraße"
-housenumber: 10
+street: Markgrafenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

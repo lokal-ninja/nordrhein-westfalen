@@ -1,11 +1,11 @@
 id: 137733166
-type: way
+type: node
 latitude: 51.85506
 longitude: 8.28701
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Bahnhofstraße"
-housenumber: 22
-phone: "+49 5242 5947866"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.schuh-okay.de/"
+street: Bahnhofstraße
+housenumber: "22"
+phone: +49 5242 5947866
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.schuh-okay.de/

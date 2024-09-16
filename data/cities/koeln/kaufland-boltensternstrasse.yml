@@ -1,11 +1,11 @@
 id: 28675415
-type: way
+type: node
 latitude: 50.97329
 longitude: 6.97747
 postcode: "50735"
 city: Köln
-street: "Boltensternstraße"
+street: Boltensternstraße
 housenumber: 104-112
 phone: "+492217787170"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/service/filiale.storeName=DE4220.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/service/filiale.storeName=DE4220.html

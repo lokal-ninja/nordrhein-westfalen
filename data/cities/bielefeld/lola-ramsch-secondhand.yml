@@ -4,8 +4,8 @@ latitude: 52.01799
 longitude: 8.53119
 postcode: "33602"
 city: Bielefeld
-street: "Breite Straße"
-housenumber: 24
+street: Breite Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Fr, Sa 11:00-18:00; We, Th 10:00-14:00"
-website: "http://lola-ramsch.de/"
+opening_hours: Fr, Sa 11:00-18:00; We, Th 10:00-14:00
+website: http://lola-ramsch.de/

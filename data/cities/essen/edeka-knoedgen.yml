@@ -1,11 +1,11 @@
 id: 93362593
-type: way
+type: node
 latitude: 51.44566
 longitude: 7.05212
 postcode: "45138"
 city: Essen
-street: "Steeler Straße"
-housenumber: 402
+street: Steeler Straße
+housenumber: "402"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.51242
 longitude: 7.42442
 postcode: "44149"
 city: Dortmund
-street: "Wilhelmplatz"
-housenumber: 
+street: Wilhelmplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
 website: ""

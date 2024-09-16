@@ -4,8 +4,8 @@ latitude: 51.40041
 longitude: 7.4331
 postcode: "58313"
 city: Herdecke
-street: "Hauptstraße"
-housenumber: 60
-phone: "+49 2330 2232"
-opening_hours: "Mo 07:00-14:00; Tu-Fr 07:00-18:00; Sa 07:30-13:00; Su off"
-website: "https://www.alwuwaschmitz.de/"
+street: Hauptstraße
+housenumber: "60"
+phone: +49 2330 2232
+opening_hours: Mo 07:00-14:00; Tu-Fr 07:00-18:00; Sa 07:30-13:00; Su off
+website: https://www.alwuwaschmitz.de/

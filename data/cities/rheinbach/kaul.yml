@@ -1,11 +1,11 @@
 id: 139860707
-type: way
+type: node
 latitude: 50.63685
 longitude: 6.95391
 postcode: "53359"
 city: Rheinbach
-street: "Industriestraße"
-housenumber: 23
+street: Industriestraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

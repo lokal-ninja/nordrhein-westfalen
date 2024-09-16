@@ -4,8 +4,8 @@ latitude: 51.02898
 longitude: 7.84778
 postcode: "57462"
 city: Olpe
-street: "Martinstraße"
-housenumber: 20
-phone: "+49 2761825939"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:00; Sa 10:00-14:00"
+street: Martinstraße
+housenumber: "20"
+phone: +49 2761825939
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:00; Sa 10:00-14:00
 website: ""

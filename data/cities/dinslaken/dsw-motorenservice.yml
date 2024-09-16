@@ -1,11 +1,11 @@
 id: 947109573
-type: way
+type: node
 latitude: 51.57293
 longitude: 6.75967
 postcode: "46539"
 city: Dinslaken
-street: "Ziegelstraße"
-housenumber: 122
+street: Ziegelstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

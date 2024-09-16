@@ -1,11 +1,11 @@
 id: 454949373
-type: way
+type: node
 latitude: 51.94489
 longitude: 8.83959
 postcode: "32758"
 city: Detmold
-street: "Bielefelder Straße"
-housenumber: 262
+street: Bielefelder Straße
+housenumber: "262"
 phone: ""
 opening_hours: ""
 website: ""

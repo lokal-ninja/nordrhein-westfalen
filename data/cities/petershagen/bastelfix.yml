@@ -4,8 +4,8 @@ latitude: 52.36984
 longitude: 8.99248
 postcode: "32469"
 city: Petershagen
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 5702 40299"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "https://www.bastelfix.de/"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 5702 40299
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: https://www.bastelfix.de/

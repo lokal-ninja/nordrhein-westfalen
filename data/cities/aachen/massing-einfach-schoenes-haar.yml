@@ -4,8 +4,8 @@ latitude: 50.77947
 longitude: 6.0814
 postcode: "52062"
 city: Aachen
-street: "Pontdriesch"
-housenumber: 9
-phone: "+49 241 408480"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:30"
+street: Pontdriesch
+housenumber: "9"
+phone: +49 241 408480
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.9069
 longitude: 8.3767
 postcode: "33330"
 city: Gütersloh
-street: "Königstraße"
-housenumber: 11
+street: Königstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-17:00"
-website: "http://www.hairfashionbylinda.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-17:00
+website: http://www.hairfashionbylinda.de

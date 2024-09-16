@@ -1,11 +1,11 @@
 id: 113273567
-type: way
+type: node
 latitude: 50.87539
 longitude: 7.19945
 postcode: "53797"
 city: Lohmar
-street: "An der Burg Sülz"
-housenumber: 9
-phone: "+49 2205 91999-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.hirsch-autoteile.de/"
+street: An der Burg Sülz
+housenumber: "9"
+phone: +49 2205 91999-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.hirsch-autoteile.de/

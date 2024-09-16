@@ -1,11 +1,11 @@
 id: 116810910
-type: way
+type: node
 latitude: 52.0559
 longitude: 8.366
 postcode: "33790"
 city: Halle (Westf.)
-street: "Berliner Straße"
-housenumber: 21
+street: Berliner Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

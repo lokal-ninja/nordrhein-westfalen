@@ -1,11 +1,11 @@
 id: 157263314
-type: way
+type: node
 latitude: 51.45003
 longitude: 7.32443
 postcode: "58455"
 city: Witten
-street: "Crengeldanzstraße"
-housenumber: 83
+street: Crengeldanzstraße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

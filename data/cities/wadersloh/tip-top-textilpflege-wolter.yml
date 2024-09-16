@@ -1,11 +1,11 @@
 id: 176759365
-type: way
+type: node
 latitude: 51.73765
 longitude: 8.1729
 postcode: "59329"
 city: Wadersloh
-street: "Lange Straße"
-housenumber: 27
-phone: "+49 160 1603608"
-opening_hours: "Mo,Tu 09:00-12:00,15:00-18:00; We 09:00-12:00; Th,Fr 09:00-12:00,15:00-18:00"
+street: Lange Straße
+housenumber: "27"
+phone: +49 160 1603608
+opening_hours: Mo,Tu 09:00-12:00,15:00-18:00; We 09:00-12:00; Th,Fr 09:00-12:00,15:00-18:00
 website: ""

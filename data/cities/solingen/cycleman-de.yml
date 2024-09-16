@@ -4,8 +4,8 @@ latitude: 51.15838
 longitude: 7.07353
 postcode: "42657"
 city: Solingen
-street: "Neuenhofer Straße"
-housenumber: 120
-phone: "+49 212 2265811"
-opening_hours: "Samstag nach Vereinbarung"
-website: "http://www.cycleman.de/"
+street: Neuenhofer Straße
+housenumber: "120"
+phone: +49 212 2265811
+opening_hours: '"Samstag nach Vereinbarung"'
+website: http://www.cycleman.de/

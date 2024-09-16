@@ -1,11 +1,11 @@
 id: 478236596
-type: way
+type: node
 latitude: 51.6127
 longitude: 7.19971
 postcode: "45657"
 city: Recklinghausen
-street: "Löhrhofstraße"
-housenumber: 1
-phone: "+49 2361 1060394"
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "https://kamps.de/standort/kamps-baeckerei-recklinghausen-loehrhofstrasse-1"
+street: Löhrhofstraße
+housenumber: "1"
+phone: +49 2361 1060394
+opening_hours: Mo-Sa 06:00-20:00
+website: https://kamps.de/standort/kamps-baeckerei-recklinghausen-loehrhofstrasse-1

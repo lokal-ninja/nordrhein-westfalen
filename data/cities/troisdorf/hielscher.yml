@@ -4,8 +4,8 @@ latitude: 50.80083
 longitude: 7.1295
 postcode: "53844"
 city: Troisdorf
-street: "Kerpstraße"
-housenumber: 18
-phone: "+49 2241 44178"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-18:00; Sa 08:00-13:00"
+street: Kerpstraße
+housenumber: "18"
+phone: +49 2241 44178
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

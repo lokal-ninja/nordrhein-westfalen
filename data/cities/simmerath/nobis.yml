@@ -1,11 +1,11 @@
 id: 405498391
-type: way
+type: node
 latitude: 50.60818
 longitude: 6.30265
 postcode: "52152"
 city: Simmerath
-street: "Am Markt"
-housenumber: 4
+street: Am Markt
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 289400883
-type: way
+type: node
 latitude: 50.93695
 longitude: 6.99835
 postcode: "51105"
 city: Köln
-street: "Trimbornstraße"
-housenumber: 8
+street: Trimbornstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

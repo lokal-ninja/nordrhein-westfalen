@@ -1,11 +1,11 @@
 id: 48794079
-type: way
+type: node
 latitude: 50.81749
 longitude: 7.11511
 postcode: "53842"
 city: Troisdorf
-street: "Echternacher Straße"
-housenumber: 12
+street: Echternacher Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

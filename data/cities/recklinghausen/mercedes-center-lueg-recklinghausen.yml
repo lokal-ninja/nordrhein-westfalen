@@ -1,11 +1,11 @@
 id: 518940798
-type: way
+type: node
 latitude: 51.60776
 longitude: 7.1796
 postcode: "45659"
 city: Recklinghausen
-street: "Westring"
-housenumber: 45
-phone: "+49 2361 18040"
-opening_hours: "Mo-Fr 07:15-18:00; Sa 08:00-16:00; Su 10:00-16:00"
-website: "https://www.lueg.de/standorte/mercedes-center-lueg-recklinghausen/"
+street: Westring
+housenumber: "45"
+phone: +49 2361 18040
+opening_hours: Mo-Fr 07:15-18:00; Sa 08:00-16:00; Su 10:00-16:00
+website: https://www.lueg.de/standorte/mercedes-center-lueg-recklinghausen/

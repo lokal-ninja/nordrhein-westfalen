@@ -4,8 +4,8 @@ latitude: 51.19085
 longitude: 8.3112
 postcode: "57392"
 city: Schmallenberg
-street: "Im Ohle"
-housenumber: 4
-phone: "+49 160 815 95 76"
-opening_hours: "Mo 10:00 - 16:00; Tu - Fr 10:00 - 18:00; Sa 10:00 - 14:00"
-website: "https://www.dasnordhaus.de/"
+street: Im Ohle
+housenumber: "4"
+phone: +49 160 815 95 76
+opening_hours: Mo 10:00 - 16:00; Tu - Fr 10:00 - 18:00; Sa 10:00 - 14:00
+website: https://www.dasnordhaus.de/

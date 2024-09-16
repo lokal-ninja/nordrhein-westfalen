@@ -1,11 +1,11 @@
 id: 132547445
-type: way
+type: node
 latitude: 51.19239
 longitude: 7.08332
 postcode: "42653"
 city: Solingen
-street: "Lützowstraße"
-housenumber: 59
-phone: "+49 212 51834"
+street: Lützowstraße
+housenumber: "59"
+phone: +49 212 51834
 opening_hours: ""
-website: "https://www.fahrkultur-werkstatt.de/"
+website: https://www.fahrkultur-werkstatt.de/

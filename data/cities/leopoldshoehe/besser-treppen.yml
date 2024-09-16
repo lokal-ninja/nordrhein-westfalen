@@ -1,11 +1,11 @@
 id: 435461664
-type: way
+type: node
 latitude: 52.00851
 longitude: 8.69803
 postcode: "33818"
 city: Leopoldshöhe
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

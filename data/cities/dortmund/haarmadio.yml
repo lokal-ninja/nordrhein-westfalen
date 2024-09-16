@@ -4,8 +4,8 @@ latitude: 51.50451
 longitude: 7.47662
 postcode: "44141"
 city: Dortmund
-street: "Märkische Straße"
-housenumber: 96
-phone: "+49 231 9098987"
+street: Märkische Straße
+housenumber: "96"
+phone: +49 231 9098987
 opening_hours: ""
-website: "https://haarmadio.de/"
+website: https://haarmadio.de/

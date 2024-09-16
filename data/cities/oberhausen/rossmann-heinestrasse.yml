@@ -4,8 +4,8 @@ latitude: 51.50159
 longitude: 6.88578
 postcode: "46117"
 city: Oberhausen
-street: "Heinestraße"
-housenumber: 5
+street: Heinestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

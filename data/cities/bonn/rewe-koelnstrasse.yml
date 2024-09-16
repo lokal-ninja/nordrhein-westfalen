@@ -1,11 +1,11 @@
 id: 133399535
-type: way
+type: node
 latitude: 50.74397
 longitude: 7.09203
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 154
+street: Kölnstraße
+housenumber: "154"
 phone: "+492289636316"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

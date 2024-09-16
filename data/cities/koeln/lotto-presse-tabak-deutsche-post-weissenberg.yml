@@ -4,8 +4,8 @@ latitude: 50.96882
 longitude: 6.93878
 postcode: "50739"
 city: Köln
-street: "Schiefersburger Weg"
-housenumber: 17
-phone: "+49 221 176770"
-opening_hours: "Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 14:00-18:00"
+street: Schiefersburger Weg
+housenumber: "17"
+phone: +49 221 176770
+opening_hours: Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 14:00-18:00
 website: ""

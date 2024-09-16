@@ -1,11 +1,11 @@
 id: 91746476
-type: way
+type: node
 latitude: 51.19503
 longitude: 7.57538
 postcode: "58553"
 city: Halver
-street: "Uferweg"
-housenumber: 4
-phone: "+49 2351 557 776 0"
+street: Uferweg
+housenumber: "4"
+phone: +49 2351 557 776 0
 opening_hours: ""
-website: "https://ra-kfztechnik.de/"
+website: https://ra-kfztechnik.de/

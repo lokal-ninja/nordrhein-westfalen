@@ -1,11 +1,11 @@
 id: 207879207
-type: way
+type: node
 latitude: 50.85157
 longitude: 8.02591
 postcode: "57074"
 city: Siegen
-street: "Leimbachstraße"
-housenumber: 266
+street: Leimbachstraße
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

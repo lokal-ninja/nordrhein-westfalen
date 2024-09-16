@@ -4,8 +4,8 @@ latitude: 50.89566
 longitude: 8.02619
 postcode: "57076"
 city: Siegen
-street: "Hauptmarkt"
-housenumber: 1
-phone: "+49 271 31797130"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
+street: Hauptmarkt
+housenumber: "1"
+phone: +49 271 31797130
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
 website: ""

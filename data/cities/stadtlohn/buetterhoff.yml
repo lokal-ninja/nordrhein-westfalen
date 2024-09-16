@@ -1,11 +1,11 @@
 id: 260690316
-type: way
+type: node
 latitude: 51.99372
 longitude: 6.91577
 postcode: "48703"
 city: Stadtlohn
-street: "Mühlenstraße"
-housenumber: 13
+street: Mühlenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.buetterhoff.de/"
+website: https://www.buetterhoff.de/

@@ -1,11 +1,11 @@
 id: 213560826
-type: way
+type: node
 latitude: 51.00362
 longitude: 7.97772
 postcode: "57223"
 city: Kreuztal
-street: "Grubenstraße"
-housenumber: 2
+street: Grubenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30,14:00-18:30; We 06:30-12:30; Sa 07:00-12:30"
-website: "https://www.metzgerei-gert-roennecke-kreuztal.de/"
+opening_hours: Mo-Fr 06:30-12:30,14:00-18:30; We 06:30-12:30; Sa 07:00-12:30
+website: https://www.metzgerei-gert-roennecke-kreuztal.de/

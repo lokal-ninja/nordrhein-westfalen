@@ -1,11 +1,11 @@
 id: 37779151
-type: way
+type: node
 latitude: 51.12107
 longitude: 6.21615
 postcode: "41844"
 city: Wegberg
-street: "Friedrich-List-Allee"
-housenumber: 30
-phone: "+49 2432 8903234"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00; Sa-Su, PH off"
-website: "https://www.russfilterreinigung.de/"
+street: Friedrich-List-Allee
+housenumber: "30"
+phone: +49 2432 8903234
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00; Sa-Su, PH off
+website: https://www.russfilterreinigung.de/

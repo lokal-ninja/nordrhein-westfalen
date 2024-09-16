@@ -4,8 +4,8 @@ latitude: 50.93569
 longitude: 6.94568
 postcode: "50667"
 city: Köln
-street: "Neumarkt"
-housenumber: 49
-phone: "+49 (0) 221 - 21 06 58"
-opening_hours: "Th-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.schiffgen-licht.de"
+street: Neumarkt
+housenumber: "49"
+phone: +49 (0) 221 - 21 06 58
+opening_hours: Th-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.schiffgen-licht.de

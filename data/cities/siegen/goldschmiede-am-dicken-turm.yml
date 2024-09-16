@@ -4,8 +4,8 @@ latitude: 50.87464
 longitude: 8.02211
 postcode: "57072"
 city: Siegen
-street: "Kölner Straße"
-housenumber: 48
-phone: "+49 271 53616"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-16:00; PH off"
-website: "https://www.goldschmiede-siegen.de/"
+street: Kölner Straße
+housenumber: "48"
+phone: +49 271 53616
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-16:00; PH off
+website: https://www.goldschmiede-siegen.de/

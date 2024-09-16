@@ -1,11 +1,11 @@
 id: 316709309
-type: way
+type: node
 latitude: 51.50435
 longitude: 7.95864
 postcode: "59469"
 city: Ense
-street: "Kirchplatz"
-housenumber: 29
+street: Kirchplatz
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

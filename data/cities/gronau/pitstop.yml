@@ -4,8 +4,8 @@ latitude: 52.20509
 longitude: 7.04922
 postcode: "48599"
 city: Gronau
-street: "Albrechtstraße"
-housenumber: 76
-phone: "+49 2562 8163604"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.pitstop.de/werkstatt/gronau/"
+street: Albrechtstraße
+housenumber: "76"
+phone: +49 2562 8163604
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.pitstop.de/werkstatt/gronau/

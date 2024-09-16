@@ -1,11 +1,11 @@
 id: 216943256
-type: way
+type: node
 latitude: 50.99295
 longitude: 6.91536
 postcode: "50739"
 city: Köln
-street: "Longericher Straße"
+street: Longericher Straße
 housenumber: 397;399
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa 08:30-14:00"
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa 08:30-14:00
 website: ""

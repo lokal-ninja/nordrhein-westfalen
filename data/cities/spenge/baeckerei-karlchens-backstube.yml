@@ -4,8 +4,8 @@ latitude: 52.14338
 longitude: 8.48315
 postcode: "32139"
 city: Spenge
-street: "Lange Straße"
-housenumber: 58
-phone: "+49 5225 872400"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
-website: "https://www.karlchens-backstube.de/"
+street: Lange Straße
+housenumber: "58"
+phone: +49 5225 872400
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00
+website: https://www.karlchens-backstube.de/

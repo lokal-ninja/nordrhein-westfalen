@@ -4,8 +4,8 @@ latitude: 51.25754
 longitude: 7.14286
 postcode: "42103"
 city: Wuppertal
-street: "Neumarktstraße"
-housenumber: 37
+street: Neumarktstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

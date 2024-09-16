@@ -1,11 +1,11 @@
 id: 260128062
-type: way
+type: node
 latitude: 52.19182
 longitude: 8.59243
 postcode: "32257"
 city: Bünde
-street: "Haßkampstraße"
-housenumber: 94
+street: Haßkampstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

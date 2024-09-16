@@ -4,8 +4,8 @@ latitude: 51.49406
 longitude: 7.25737
 postcode: "44805"
 city: Bochum
-street: "Harpener Hellweg"
-housenumber: 7
-phone: "+49 234 9509494"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.casaambiente.de/"
+street: Harpener Hellweg
+housenumber: "7"
+phone: +49 234 9509494
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.casaambiente.de/

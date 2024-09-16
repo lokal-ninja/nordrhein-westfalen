@@ -1,11 +1,11 @@
 id: 257792065
-type: way
+type: node
 latitude: 51.65288
 longitude: 8.35341
 postcode: "59557"
 city: Lippstadt
-street: "Bremer Straße"
-housenumber: 2
-phone: "+49 2941 8281764"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "http://www.hundetraum.net/"
+street: Bremer Straße
+housenumber: "2"
+phone: +49 2941 8281764
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: http://www.hundetraum.net/

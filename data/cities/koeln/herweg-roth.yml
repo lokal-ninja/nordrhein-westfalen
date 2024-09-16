@@ -4,8 +4,8 @@ latitude: 50.97955
 longitude: 7.06971
 postcode: "51069"
 city: Köln
-street: "Dellbrücker Hauptstraße"
-housenumber: 152
+street: Dellbrücker Hauptstraße
+housenumber: "152"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-12:30; Tu,Th 15:00-17:00"
-website: "https://www.bestattungshaus-herweg.de/herweg/"
+opening_hours: Mo,We,Fr 10:00-12:30; Tu,Th 15:00-17:00
+website: https://www.bestattungshaus-herweg.de/herweg/

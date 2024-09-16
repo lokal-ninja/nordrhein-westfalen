@@ -1,11 +1,11 @@
 id: 235480492
-type: way
+type: node
 latitude: 51.30529
 longitude: 6.67287
 postcode: "40668"
 city: Meerbusch
-street: "Uerdinger Straße"
-housenumber: 28
-phone: "+49 2150 70803"
+street: Uerdinger Straße
+housenumber: "28"
+phone: +49 2150 70803
 opening_hours: ""
 website: ""

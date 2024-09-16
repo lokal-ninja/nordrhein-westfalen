@@ -4,8 +4,8 @@ latitude: 50.99551
 longitude: 7.46376
 postcode: "51766"
 city: Engelskirchen
-street: "Hauptstraße"
-housenumber: 21
-phone: "+49 2263 9036940"
-opening_hours: "nach Vereinbarung"
-website: "https://swalounge.eu"
+street: Hauptstraße
+housenumber: "21"
+phone: +49 2263 9036940
+opening_hours: '"nach Vereinbarung"'
+website: https://swalounge.eu

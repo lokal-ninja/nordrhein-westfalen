@@ -1,11 +1,11 @@
 id: 875560551
-type: way
+type: node
 latitude: 52.26005
 longitude: 7.72484
 postcode: "49479"
 city: Ibbenbüren
-street: "Tecklenburger Damm"
-housenumber: 102
+street: Tecklenburger Damm
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

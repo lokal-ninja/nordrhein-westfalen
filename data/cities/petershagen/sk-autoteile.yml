@@ -1,11 +1,11 @@
 id: 142263927
-type: way
+type: node
 latitude: 52.38669
 longitude: 8.94127
 postcode: "32469"
 city: Petershagen
-street: "Eldagser Dorfstraße"
-housenumber: 42
-phone: "+49 5707 2328"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.skautoteile.de/"
+street: Eldagser Dorfstraße
+housenumber: "42"
+phone: +49 5707 2328
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.skautoteile.de/

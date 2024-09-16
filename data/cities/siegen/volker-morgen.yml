@@ -1,11 +1,11 @@
 id: 143492363
-type: way
+type: node
 latitude: 50.87146
 longitude: 8.03099
 postcode: "57074"
 city: Siegen
-street: "Hainer Hütte"
-housenumber: 9
+street: Hainer Hütte
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-morgen.de/"
+website: https://www.kfz-morgen.de/

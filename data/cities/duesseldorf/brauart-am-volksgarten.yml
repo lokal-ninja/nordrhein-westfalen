@@ -4,8 +4,8 @@ latitude: 51.20946
 longitude: 6.79921
 postcode: "40227"
 city: Düsseldorf
-street: "Emmastraße"
-housenumber: 25
+street: Emmastraße
+housenumber: "25"
 phone: "+4921188928003"
-opening_hours: "We 16:00-21:00; Th-Sa 14:00-22:00; PH,Mo,Tu,Su off"
-website: "https://brauart-duesseldorf.de/"
+opening_hours: We 16:00-21:00; Th-Sa 14:00-22:00; PH,Mo,Tu,Su off
+website: https://brauart-duesseldorf.de/

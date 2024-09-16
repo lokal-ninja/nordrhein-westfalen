@@ -1,11 +1,11 @@
 id: 73897700
-type: way
+type: node
 latitude: 51.70385
 longitude: 8.77884
 postcode: "33100"
 city: Paderborn
-street: "Warburger Straße"
-housenumber: 136
+street: Warburger Straße
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.bbs-kuechentechnik.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.bbs-kuechentechnik.de/

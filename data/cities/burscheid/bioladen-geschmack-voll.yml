@@ -4,8 +4,8 @@ latitude: 51.08482
 longitude: 7.13111
 postcode: "51399"
 city: Burscheid
-street: "Höhestraße"
-housenumber: 63
-phone: "+49 2174 749951"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00"
-website: "http://www.bioladen-burscheid.de"
+street: Höhestraße
+housenumber: "63"
+phone: +49 2174 749951
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00
+website: http://www.bioladen-burscheid.de

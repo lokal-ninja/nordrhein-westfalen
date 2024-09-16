@@ -4,8 +4,8 @@ latitude: 51.44457
 longitude: 8.35386
 postcode: "59581"
 city: Warstein
-street: "Hauptstraße"
-housenumber: 71
-phone: "+49 2902 3477"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
+street: Hauptstraße
+housenumber: "71"
+phone: +49 2902 3477
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
 website: ""

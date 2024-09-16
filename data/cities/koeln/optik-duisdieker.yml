@@ -4,8 +4,8 @@ latitude: 50.94
 longitude: 6.93862
 postcode: "50672"
 city: Köln
-street: "Limburger Straße"
-housenumber: 20
-phone: "+49 221 252128"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-13:00"
-website: "https://www.duisdieker.de/"
+street: Limburger Straße
+housenumber: "20"
+phone: +49 221 252128
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-13:00
+website: https://www.duisdieker.de/

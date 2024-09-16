@@ -4,8 +4,8 @@ latitude: 52.10583
 longitude: 9.08366
 postcode: "32699"
 city: Extertal
-street: "Fütiger Straße"
-housenumber: 28
-phone: "+49 5262 2501"
-opening_hours: "Mo-Fr 08:00-13:00, Th,Fr 15:00-18:00, Sa 07:00-12:00"
+street: Fütiger Straße
+housenumber: "28"
+phone: +49 5262 2501
+opening_hours: Mo-Fr 08:00-13:00, Th,Fr 15:00-18:00, Sa 07:00-12:00
 website: ""

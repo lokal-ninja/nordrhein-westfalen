@@ -4,8 +4,8 @@ latitude: 51.1468
 longitude: 7.23336
 postcode: "42929"
 city: Wermelskirchen
-street: "Im Belten"
-housenumber: 2
-phone: "+49 2196 90428"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.evertzberg.de/"
+street: Im Belten
+housenumber: "2"
+phone: +49 2196 90428
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.evertzberg.de/

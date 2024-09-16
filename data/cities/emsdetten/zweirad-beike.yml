@@ -1,11 +1,11 @@
 id: 262080191
-type: way
+type: node
 latitude: 52.18055
 longitude: 7.52153
 postcode: "48282"
 city: Emsdetten
-street: "Rheiner Straße"
-housenumber: 99
+street: Rheiner Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00
 website: ""

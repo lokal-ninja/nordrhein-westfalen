@@ -1,11 +1,11 @@
 id: 167198558
-type: way
+type: node
 latitude: 50.81598
 longitude: 7.15726
 postcode: "53840"
 city: Troisdorf
-street: "Annonisweg"
-housenumber: 8
+street: Annonisweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

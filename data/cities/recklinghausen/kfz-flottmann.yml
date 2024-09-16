@@ -1,11 +1,11 @@
 id: 72001291
-type: way
+type: node
 latitude: 51.60091
 longitude: 7.1808
 postcode: "45659"
 city: Recklinghausen
-street: "Holthoffstraße"
+street: Holthoffstraße
 housenumber: 128a
-phone: "+49 2361 1061666"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00"
-website: "https://www.kfz-flottmann.de/"
+phone: +49 2361 1061666
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00
+website: https://www.kfz-flottmann.de/

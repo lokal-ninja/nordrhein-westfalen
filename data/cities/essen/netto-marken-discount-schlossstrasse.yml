@@ -1,11 +1,11 @@
 id: 237470571
-type: way
+type: node
 latitude: 51.47346
 longitude: 6.91711
 postcode: "45359"
 city: Essen
-street: "Schloßstraße"
-housenumber: 357
-phone: "+49 8002000015"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/home/home.php"
+street: Schloßstraße
+housenumber: "357"
+phone: +49 8002000015
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/home/home.php

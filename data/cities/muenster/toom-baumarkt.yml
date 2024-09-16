@@ -1,11 +1,11 @@
 id: 44105189
-type: way
+type: node
 latitude: 51.92249
 longitude: 7.63138
 postcode: "48153"
 city: Münster
-street: "Hammer Straße"
+street: Hammer Straße
 housenumber: 455-459
-phone: "+49 251 9199410"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/muenster/"
+phone: +49 251 9199410
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/muenster/

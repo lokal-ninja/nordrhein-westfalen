@@ -1,11 +1,11 @@
 id: 287895404
-type: way
+type: node
 latitude: 50.91544
 longitude: 8.09621
 postcode: "57250"
 city: Netphen
-street: "Kronprinzenstraße"
-housenumber: 23
+street: Kronprinzenstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

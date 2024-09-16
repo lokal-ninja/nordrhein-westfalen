@@ -1,11 +1,11 @@
 id: 156341695
-type: way
+type: node
 latitude: 51.3162
 longitude: 7.32315
 postcode: "58285"
 city: Gevelsberg
-street: "Rosendahler Straße"
-housenumber: 57
+street: Rosendahler Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

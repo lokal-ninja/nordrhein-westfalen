@@ -4,8 +4,8 @@ latitude: 50.77739
 longitude: 6.14254
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 2
-phone: "+49 241 4006666"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.motoo-kuesters.de/"
+street: Von-Coels-Straße
+housenumber: "2"
+phone: +49 241 4006666
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off
+website: https://www.motoo-kuesters.de/

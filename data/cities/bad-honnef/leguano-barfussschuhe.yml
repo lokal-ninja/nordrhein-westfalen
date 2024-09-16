@@ -4,8 +4,8 @@ latitude: 50.64517
 longitude: 7.22609
 postcode: "53604"
 city: Bad Honnef
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:00, 13:30-18:00"
-website: "https://www.leguano.eu"
+opening_hours: Mo-Sa 09:30-13:00, 13:30-18:00
+website: https://www.leguano.eu

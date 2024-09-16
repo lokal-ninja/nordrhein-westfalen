@@ -4,8 +4,9 @@ latitude: 50.68402
 longitude: 6.81966
 postcode: "53881"
 city: Euskirchen
-street: "Großbüllesheimer Straße"
-housenumber: 23
+street: Großbüllesheimer Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-13:00,15:00-18:00; We 10:00-13:00; Sa 08:30-12:30; Su,Mo off"
+opening_hours: Tu,Th,Fr 10:00-13:00,15:00-18:00; We 10:00-13:00; Sa 08:30-12:30; Su,Mo
+    off
 website: ""

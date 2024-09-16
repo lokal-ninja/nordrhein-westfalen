@@ -1,11 +1,11 @@
 id: 46766659
-type: way
+type: node
 latitude: 51.78629
 longitude: 6.13595
 postcode: "47533"
 city: Kleve
-street: "Stechbahn"
-housenumber: 7
-phone: "+49 2821 99797 0"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"
-website: "https://www.ihre-reiseplaner.de/"
+street: Stechbahn
+housenumber: "7"
+phone: +49 2821 99797 0
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-16:00
+website: https://www.ihre-reiseplaner.de/

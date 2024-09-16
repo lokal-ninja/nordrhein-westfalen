@@ -4,8 +4,8 @@ latitude: 50.96134
 longitude: 6.78174
 postcode: "50259"
 city: Pulheim
-street: "Guidelplatz"
-housenumber: 7
-phone: "+49 221 7125701"
-opening_hours: "Mo-Fr 06:00-18:30, Sa 06:00-18:00, Su 07:00-18:00"
-website: "https://baeckerei-merzenich.de/"
+street: Guidelplatz
+housenumber: "7"
+phone: +49 221 7125701
+opening_hours: Mo-Fr 06:00-18:30, Sa 06:00-18:00, Su 07:00-18:00
+website: https://baeckerei-merzenich.de/

@@ -1,11 +1,11 @@
 id: 32091836
-type: way
+type: node
 latitude: 51.29392
 longitude: 6.82394
 postcode: "40880"
 city: Ratingen
-street: "Berliner Straße"
-housenumber: 31
+street: Berliner Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/

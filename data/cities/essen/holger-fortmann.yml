@@ -1,11 +1,11 @@
 id: 75219533
-type: way
+type: node
 latitude: 51.49059
 longitude: 6.99138
 postcode: "45329"
 city: Essen
-street: "Lütkenbrauk"
-housenumber: 84
+street: Lütkenbrauk
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.47233
 longitude: 6.94944
 postcode: "45355"
 city: Essen
-street: "Marktstraße"
-housenumber: 9
+street: Marktstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa,Su 10:00-15:00"
+opening_hours: Tu-Fr 10:00-18:00; Sa,Su 10:00-15:00
 website: ""

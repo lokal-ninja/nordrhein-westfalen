@@ -4,8 +4,8 @@ latitude: 51.22609
 longitude: 6.78138
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 24
+street: Schadowstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

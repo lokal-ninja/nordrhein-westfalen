@@ -1,11 +1,11 @@
 id: 231435552
-type: way
+type: node
 latitude: 51.68331
 longitude: 8.32676
 postcode: "59555"
 city: Lippstadt
-street: "Triftweg"
-housenumber: 11
+street: Triftweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

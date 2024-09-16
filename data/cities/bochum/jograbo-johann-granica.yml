@@ -4,8 +4,8 @@ latitude: 51.50844
 longitude: 7.27624
 postcode: "44805"
 city: Bochum
-street: "Josef-Baumann-Straße"
-housenumber: 8
+street: Josef-Baumann-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "http://www.jograbo.de"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: http://www.jograbo.de

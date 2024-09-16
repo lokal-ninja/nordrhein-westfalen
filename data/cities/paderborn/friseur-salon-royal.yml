@@ -4,8 +4,8 @@ latitude: 51.72514
 longitude: 8.76016
 postcode: "33102"
 city: Paderborn
-street: "Nordstraße"
-housenumber: 2
+street: Nordstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-16:00"
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-16:00
 website: ""

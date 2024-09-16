@@ -1,11 +1,11 @@
 id: 319044273
-type: way
+type: node
 latitude: 50.96478
 longitude: 6.81616
 postcode: "50259"
 city: Pulheim
-street: "Donatusstraße"
-housenumber: 157
+street: Donatusstraße
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

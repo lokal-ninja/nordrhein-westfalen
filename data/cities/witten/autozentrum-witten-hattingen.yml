@@ -1,11 +1,11 @@
 id: 158228017
-type: way
+type: node
 latitude: 51.45112
 longitude: 7.36616
 postcode: "58453"
 city: Witten
-street: "Dortmunder Straße"
-housenumber: 101
+street: Dortmunder Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

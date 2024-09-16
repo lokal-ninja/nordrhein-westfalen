@@ -4,8 +4,8 @@ latitude: 51.28196
 longitude: 7.23803
 postcode: "42389"
 city: Wuppertal
-street: "Bornscheuerstraße"
-housenumber: 17
-phone: "+49 202 3934486"
-opening_hours: "nach Vereinbarung"
+street: Bornscheuerstraße
+housenumber: "17"
+phone: +49 202 3934486
+opening_hours: '"nach Vereinbarung"'
 website: ""

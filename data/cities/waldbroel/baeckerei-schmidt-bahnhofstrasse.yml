@@ -1,11 +1,11 @@
 id: 337585206
-type: way
+type: node
 latitude: 50.87803
 longitude: 7.61686
 postcode: "51545"
 city: Waldbröl
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

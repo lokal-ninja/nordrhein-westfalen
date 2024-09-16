@@ -4,8 +4,8 @@ latitude: 51.54045
 longitude: 7.22293
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 52
+street: Bahnhofstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-18:00"
-website: "https://wolsdorff.shop/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-18:00
+website: https://wolsdorff.shop/

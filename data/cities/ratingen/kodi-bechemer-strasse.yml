@@ -4,8 +4,8 @@ latitude: 51.296
 longitude: 6.85174
 postcode: "40878"
 city: Ratingen
-street: "Bechemer Straße"
-housenumber: 33
-phone: "+49 2102 1016860"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.kodi.de"
+street: Bechemer Straße
+housenumber: "33"
+phone: +49 2102 1016860
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su,PH off
+website: https://www.kodi.de

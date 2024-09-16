@@ -4,8 +4,8 @@ latitude: 50.93073
 longitude: 6.35925
 postcode: "52428"
 city: Jülich
-street: "Nordstraße"
-housenumber: 7
+street: Nordstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00;Sa 08:00 -13:00"
-website: "https://www.haarstudio-heyartz.de/"
+opening_hours: Tu-Fr 08:00-18:00;Sa 08:00 -13:00
+website: https://www.haarstudio-heyartz.de/

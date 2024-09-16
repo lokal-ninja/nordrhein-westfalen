@@ -4,8 +4,8 @@ latitude: 52.27789
 longitude: 7.71148
 postcode: "49477"
 city: Ibbenbüren
-street: "Weststraße"
-housenumber: 10
-phone: "+49 5451 93493"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su 10:00-12:00"
-website: "https://www.gaertnerei-beyer.com/"
+street: Weststraße
+housenumber: "10"
+phone: +49 5451 93493
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su 10:00-12:00
+website: https://www.gaertnerei-beyer.com/

@@ -4,8 +4,8 @@ latitude: 51.47929
 longitude: 7.21877
 postcode: "44787"
 city: Bochum
-street: "Luisenstraße"
-housenumber: 12
-phone: "+49 234 799406"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00 ||nach Vereinbarung"
-website: "https://eiskirch.com/"
+street: Luisenstraße
+housenumber: "12"
+phone: +49 234 799406
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00 ||"nach Vereinbarung"
+website: https://eiskirch.com/

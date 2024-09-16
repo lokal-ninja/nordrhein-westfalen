@@ -4,8 +4,8 @@ latitude: 51.48988
 longitude: 7.22682
 postcode: "44791"
 city: Bochum
-street: "Klinikstraße"
-housenumber: 49
+street: Klinikstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Su 9:00-18:00"
+opening_hours: Mo-Su 9:00-18:00
 website: ""

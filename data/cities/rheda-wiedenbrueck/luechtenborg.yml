@@ -4,8 +4,8 @@ latitude: 51.85455
 longitude: 8.29319
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Berliner Straße"
-housenumber: 48
-phone: "+49 5242 968099"
-opening_hours: "Mo-Fr 09:30-12:30, 14:30-18:00; Sa 09:30-14:00"
-website: "https://www.luechtenborg-wohnstil.de/"
+street: Berliner Straße
+housenumber: "48"
+phone: +49 5242 968099
+opening_hours: Mo-Fr 09:30-12:30, 14:30-18:00; Sa 09:30-14:00
+website: https://www.luechtenborg-wohnstil.de/

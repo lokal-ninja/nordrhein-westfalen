@@ -4,8 +4,8 @@ latitude: 51.18994
 longitude: 6.8223
 postcode: "40591"
 city: Düsseldorf
-street: "Werstener Dorfstraße"
-housenumber: 83
+street: Werstener Dorfstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Tu,We,Fr 09:30-18:00; Th 09:30-19:30; Sa nach Vereinbarung"
+opening_hours: Tu,We,Fr 09:30-18:00; Th 09:30-19:30; Sa "nach Vereinbarung"
 website: ""

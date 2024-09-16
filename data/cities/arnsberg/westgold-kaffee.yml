@@ -4,8 +4,8 @@ latitude: 51.45383
 longitude: 7.96008
 postcode: "59755"
 city: Arnsberg
-street: "Mendener Straße"
-housenumber: 8
+street: Mendener Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-13:00,14:00-18:00; We,Sa 10:00-18:00"
-website: "https://www.westgold-kaffee.de/"
+opening_hours: Tu,Th,Fr 10:00-13:00,14:00-18:00; We,Sa 10:00-18:00
+website: https://www.westgold-kaffee.de/

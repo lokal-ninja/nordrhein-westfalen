@@ -4,8 +4,8 @@ latitude: 50.87049
 longitude: 6.99254
 postcode: "50996"
 city: Köln
-street: "Emil-Hoffmann-Straße"
-housenumber: 19
-phone: "+49 221 2227666"
+street: Emil-Hoffmann-Straße
+housenumber: "19"
+phone: +49 221 2227666
 opening_hours: ""
-website: "https://velo-group.de/"
+website: https://velo-group.de/

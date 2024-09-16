@@ -4,8 +4,8 @@ latitude: 52.25771
 longitude: 8.69443
 postcode: "32609"
 city: Hüllhorst
-street: "Löhner Straße"
-housenumber: 149
-phone: "+49 5744 3575"
-opening_hours: "Mo 10:00-18:00; Tu-Th 09:00-20:00; Fr 09:00-18:00; Sa 07:30-13:00"
-website: "https://www.haarstudio-tengern.de/"
+street: Löhner Straße
+housenumber: "149"
+phone: +49 5744 3575
+opening_hours: Mo 10:00-18:00; Tu-Th 09:00-20:00; Fr 09:00-18:00; Sa 07:30-13:00
+website: https://www.haarstudio-tengern.de/

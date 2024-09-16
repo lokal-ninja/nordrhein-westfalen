@@ -4,8 +4,8 @@ latitude: 52.26974
 longitude: 8.72198
 postcode: "32609"
 city: Hüllhorst
-street: "Up de Lüchten"
-housenumber: 26
-phone: "+49 5744 920484"
-opening_hours: "nach Vereinbarung"
-website: "http://www.mehnert-edv.de/"
+street: Up de Lüchten
+housenumber: "26"
+phone: +49 5744 920484
+opening_hours: '"nach Vereinbarung"'
+website: http://www.mehnert-edv.de/

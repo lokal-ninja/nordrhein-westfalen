@@ -1,11 +1,11 @@
 id: 169147648
-type: way
+type: node
 latitude: 51.66269
 longitude: 6.96522
 postcode: "46282"
 city: Dorsten
-street: "Ursulastraße"
-housenumber: 26
-phone: "+49 2362 24884"
+street: Ursulastraße
+housenumber: "26"
+phone: +49 2362 24884
 opening_hours: ""
-website: "https://schlagenwerth.com/"
+website: https://schlagenwerth.com/

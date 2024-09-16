@@ -1,11 +1,11 @@
 id: 301281453
-type: way
+type: node
 latitude: 51.6621
 longitude: 7.63501
 postcode: "59368"
 city: Werne
-street: "Steinstraße"
-housenumber: 9
-phone: "+49 2389 9590888"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.kramer-schuhe.de/standorte/schuh-okay/werne-schuh-okay/"
+street: Steinstraße
+housenumber: "9"
+phone: +49 2389 9590888
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off
+website: https://www.kramer-schuhe.de/standorte/schuh-okay/werne-schuh-okay/

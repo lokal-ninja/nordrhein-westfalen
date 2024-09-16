@@ -1,11 +1,11 @@
 id: 25456036
-type: way
+type: node
 latitude: 50.66021
 longitude: 6.7887
 postcode: "53879"
 city: Euskirchen
-street: "Berliner Straße"
-housenumber: 23
+street: Berliner Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

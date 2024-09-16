@@ -1,11 +1,11 @@
 id: 41899735
-type: way
+type: node
 latitude: 51.5679
 longitude: 6.74426
 postcode: ""
 city: Dinslaken
-street: "Gerhard-Malina-Straße"
-housenumber: 2
+street: Gerhard-Malina-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 7:00-20:00"
-website: "https://www.bienemann.nrw/e-center-gerhard-malina-strasse/"
+opening_hours: Mo-Fr 08:00-20:00, Sa 7:00-20:00
+website: https://www.bienemann.nrw/e-center-gerhard-malina-strasse/

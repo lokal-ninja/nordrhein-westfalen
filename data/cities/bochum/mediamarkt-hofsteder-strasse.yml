@@ -1,11 +1,11 @@
 id: 117277093
-type: way
+type: node
 latitude: 51.49992
 longitude: 7.20614
 postcode: "44809"
 city: Bochum
-street: "Hofsteder Straße"
-housenumber: 194
+street: Hofsteder Straße
+housenumber: "194"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: ""

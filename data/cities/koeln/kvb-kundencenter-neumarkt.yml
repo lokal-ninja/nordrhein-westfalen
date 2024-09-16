@@ -1,11 +1,11 @@
 id: 491587539
-type: way
+type: node
 latitude: 50.93554
 longitude: 6.94915
 postcode: "50667"
 city: Köln
-street: "Hugo-Passage"
-housenumber: 
+street: Hugo-Passage
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:30-18:00; Su,PH off"
-website: "https://www.kvb.koeln/tickets/ticketkauf/kundencenter.html"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:30-18:00; Su,PH off
+website: https://www.kvb.koeln/tickets/ticketkauf/kundencenter.html

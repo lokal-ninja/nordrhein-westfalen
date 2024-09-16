@@ -1,11 +1,11 @@
 id: 258172588
-type: way
+type: node
 latitude: 51.33556
 longitude: 6.57323
 postcode: "47799"
 city: Krefeld
-street: "Uerdinger Straße"
-housenumber: 32
+street: Uerdinger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Sa 09:00-13:00, Tu-Fr 14:30-17:30"
+opening_hours: Tu-Sa 09:00-13:00, Tu-Fr 14:30-17:30
 website: ""

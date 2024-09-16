@@ -1,11 +1,11 @@
 id: 202099248
-type: way
+type: node
 latitude: 51.73728
 longitude: 8.24584
 postcode: "59329"
 city: Wadersloh
-street: "Kirchplatz"
-housenumber: 9
+street: Kirchplatz
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

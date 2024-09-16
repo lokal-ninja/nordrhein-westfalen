@@ -4,8 +4,8 @@ latitude: 50.80036
 longitude: 6.76552
 postcode: "50374"
 city: Erftstadt
-street: "Markt"
-housenumber: 13
-phone: "+49 911 23734733"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de/de/"
+street: Markt
+housenumber: "13"
+phone: +49 911 23734733
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de/de/

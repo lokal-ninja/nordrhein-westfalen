@@ -1,11 +1,11 @@
 id: 291353159
-type: way
+type: node
 latitude: 50.65558
 longitude: 6.79876
 postcode: "53879"
 city: Euskirchen
-street: "An der Vogelrute"
-housenumber: 43
+street: An der Vogelrute
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

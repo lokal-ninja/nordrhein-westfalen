@@ -4,8 +4,8 @@ latitude: 51.21523
 longitude: 6.75578
 postcode: "40221"
 city: Düsseldorf
-street: "Zollhof"
-housenumber: 3
+street: Zollhof
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-22:00, Sa-Su 10:00-22:00"
-website: "https://www.reuter.de"
+opening_hours: Mo-Fr 07:30-22:00, Sa-Su 10:00-22:00
+website: https://www.reuter.de

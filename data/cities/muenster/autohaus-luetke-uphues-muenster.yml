@@ -1,11 +1,11 @@
 id: 141371883
-type: way
+type: node
 latitude: 51.93255
 longitude: 7.65463
 postcode: "48155"
 city: Münster
-street: "Martin-Luther-King-Weg"
-housenumber: 51
+street: Martin-Luther-King-Weg
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
 website: ""

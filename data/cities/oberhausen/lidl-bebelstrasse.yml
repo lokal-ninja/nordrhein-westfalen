@@ -1,11 +1,11 @@
 id: 232054373
-type: way
+type: node
 latitude: 51.46649
 longitude: 6.83869
 postcode: "46049"
 city: Oberhausen
-street: "Bebelstraße"
-housenumber: 102
+street: Bebelstraße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

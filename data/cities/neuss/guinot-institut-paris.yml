@@ -1,11 +1,11 @@
 id: 160708977
-type: way
+type: node
 latitude: 51.21257
 longitude: 6.66702
 postcode: "41462"
 city: Neuss
-street: "Venloer Straße"
-housenumber: 51
+street: Venloer Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-18:00"
+opening_hours: Mo,We,Fr 10:00-18:00
 website: ""

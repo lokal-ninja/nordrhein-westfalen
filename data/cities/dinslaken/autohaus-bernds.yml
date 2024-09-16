@@ -1,11 +1,11 @@
 id: 111546302
-type: way
+type: node
 latitude: 51.56817
 longitude: 6.75059
 postcode: "46539"
 city: Dinslaken
-street: "Am Pfauenzehnt"
-housenumber: 15
-phone: "+49 2064 446600"
+street: Am Pfauenzehnt
+housenumber: "15"
+phone: +49 2064 446600
 opening_hours: ""
-website: "https://www.bernds.com/hp/index.php?id=179"
+website: https://www.bernds.com/hp/index.php?id=179

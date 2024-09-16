@@ -1,11 +1,11 @@
 id: 110187355
-type: way
+type: node
 latitude: 50.8276
 longitude: 7.10936
 postcode: "53842"
 city: Troisdorf
-street: "Biberweg"
-housenumber: 3
-phone: "+49 2241 43319"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://www.trinkbar.de/"
+street: Biberweg
+housenumber: "3"
+phone: +49 2241 43319
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://www.trinkbar.de/

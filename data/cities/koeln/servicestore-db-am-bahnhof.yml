@@ -4,8 +4,8 @@ latitude: 50.85863
 longitude: 7.07921
 postcode: "51147"
 city: Köln
-street: "Am Bahnhof"
-housenumber: 51
+street: Am Bahnhof
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 09:00-19:09"
-website: "https://www.servicestoredb.de"
+opening_hours: Mo-Fr 06:00-19:00; Sa-Su 09:00-19:09
+website: https://www.servicestoredb.de

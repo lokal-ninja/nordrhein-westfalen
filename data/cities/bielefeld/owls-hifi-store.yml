@@ -4,8 +4,8 @@ latitude: 52.02836
 longitude: 8.52461
 postcode: "33615"
 city: Bielefeld
-street: "Arndtstraße"
-housenumber: 45
+street: Arndtstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-Th 17:00-22:00; Fr,Sa 17:00-24:00"
+opening_hours: Tu-Th 17:00-22:00; Fr,Sa 17:00-24:00
 website: ""

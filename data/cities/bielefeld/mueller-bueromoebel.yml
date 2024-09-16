@@ -4,8 +4,8 @@ latitude: 52.00609
 longitude: 8.61118
 postcode: "33719"
 city: Bielefeld
-street: "Potsdamer Straße"
-housenumber: 215
-phone: "+49-521-20896-11"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.bmsofort.de/"
+street: Potsdamer Straße
+housenumber: "215"
+phone: +49-521-20896-11
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.bmsofort.de/

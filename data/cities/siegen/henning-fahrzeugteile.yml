@@ -1,11 +1,11 @@
 id: 67211362
-type: way
+type: node
 latitude: 50.88515
 longitude: 8.02658
 postcode: "57072"
 city: Siegen
-street: "Sieghütter Hauptweg"
-housenumber: 78
+street: Sieghütter Hauptweg
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

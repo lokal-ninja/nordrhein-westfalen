@@ -4,8 +4,8 @@ latitude: 50.93888
 longitude: 6.9333
 postcode: "50674"
 city: Köln
-street: "Brüsseler Platz"
-housenumber: 22
+street: Brüsseler Platz
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-We 13:00-18:00, Th-Fr 13:00-19:00, Sa 12:00-18:00"
-website: "https://www.pivot-skateshop.de/"
+opening_hours: Mo-We 13:00-18:00, Th-Fr 13:00-19:00, Sa 12:00-18:00
+website: https://www.pivot-skateshop.de/

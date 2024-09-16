@@ -4,8 +4,8 @@ latitude: 51.21558
 longitude: 6.75792
 postcode: "40219"
 city: Düsseldorf
-street: "Hammer Straße"
-housenumber: 10
+street: Hammer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-18:00"
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-18:00
 website: ""

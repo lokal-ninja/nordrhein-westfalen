@@ -1,11 +1,11 @@
 id: 373836223
-type: way
+type: node
 latitude: 51.74562
 longitude: 8.13264
 postcode: "59329"
 city: Wadersloh
-street: "Altendiestedder Weg"
-housenumber: 7
+street: Altendiestedder Weg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

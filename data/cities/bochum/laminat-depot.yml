@@ -1,11 +1,11 @@
 id: 149916440
-type: way
+type: node
 latitude: 51.47216
 longitude: 7.12247
 postcode: "44867"
 city: Bochum
-street: "Im Steinhof"
+street: Im Steinhof
 housenumber: 5a
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://laminatdepot.de/filiale/bochum"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://laminatdepot.de/filiale/bochum

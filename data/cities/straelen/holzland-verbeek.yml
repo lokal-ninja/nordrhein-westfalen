@@ -1,11 +1,11 @@
 id: 1052264796
-type: way
+type: node
 latitude: 51.43324
 longitude: 6.27211
 postcode: "47638"
 city: Straelen
-street: "Wankumer Straße"
-housenumber: 3
-phone: "+49 2834 9138-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su 14:00-17:00; PH off"
-website: "https://holzland-verbeek.de/"
+street: Wankumer Straße
+housenumber: "3"
+phone: +49 2834 9138-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su 14:00-17:00; PH off
+website: https://holzland-verbeek.de/

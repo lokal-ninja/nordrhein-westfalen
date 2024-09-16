@@ -4,8 +4,8 @@ latitude: 50.73276
 longitude: 7.1007
 postcode: "53113"
 city: Bonn
-street: "Am Neutor"
-housenumber: 5
-phone: "+49 228 69 27 72"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-16:00"
-website: "https://www.abcbonn.de/"
+street: Am Neutor
+housenumber: "5"
+phone: +49 228 69 27 72
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-16:00
+website: https://www.abcbonn.de/

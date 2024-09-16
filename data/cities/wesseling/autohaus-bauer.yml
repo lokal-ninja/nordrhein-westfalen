@@ -1,11 +1,11 @@
 id: 31009720
-type: way
+type: node
 latitude: 50.82977
 longitude: 6.9755
 postcode: "50389"
 city: Wesseling
-street: "Römerstraße"
+street: Römerstraße
 housenumber: 145-147
 phone: "+49223689940"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:30; Sa 08:00-13:00"
-website: "https://www.autohausbauer.de/"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:30; Sa 08:00-13:00
+website: https://www.autohausbauer.de/

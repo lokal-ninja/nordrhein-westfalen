@@ -1,11 +1,11 @@
 id: 338694890
-type: way
+type: node
 latitude: 52.0648
 longitude: 8.34334
 postcode: "33790"
 city: Halle (Westf.)
-street: "Weststraße"
-housenumber: 15
-phone: "+49 (0)5201 189-0"
+street: Weststraße
+housenumber: "15"
+phone: +49 (0)5201 189-0
 opening_hours: ""
-website: "https://www.holz-speckmann.de/start/"
+website: https://www.holz-speckmann.de/start/

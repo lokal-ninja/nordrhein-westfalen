@@ -1,11 +1,11 @@
 id: 177962142
-type: way
+type: node
 latitude: 50.62029
 longitude: 7.0116
 postcode: "53340"
 city: Meckenheim
-street: "Wormersdorfer Straße"
-housenumber: 26
+street: Wormersdorfer Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

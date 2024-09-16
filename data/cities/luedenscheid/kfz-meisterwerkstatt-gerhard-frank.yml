@@ -1,11 +1,11 @@
 id: 284606270
-type: way
+type: node
 latitude: 51.21051
 longitude: 7.56654
 postcode: "58515"
 city: Lüdenscheid
-street: "Volmestraße"
-housenumber: 60
+street: Volmestraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su off"
-website: "https://autofit-frank.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su off
+website: https://autofit-frank.de/

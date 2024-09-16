@@ -1,11 +1,11 @@
 id: 164295391
-type: way
+type: node
 latitude: 51.05512
 longitude: 8.39466
 postcode: "57319"
 city: Bad Berleburg
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 2751 92030"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.hit.de/bad-berleburg.html"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 2751 92030
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.hit.de/bad-berleburg.html

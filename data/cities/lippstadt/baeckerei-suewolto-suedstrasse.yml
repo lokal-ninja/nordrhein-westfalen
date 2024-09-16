@@ -1,11 +1,11 @@
 id: 346322254
-type: way
+type: node
 latitude: 51.66188
 longitude: 8.35167
 postcode: "59557"
 city: Lippstadt
-street: "Südstraße"
-housenumber: 26
-phone: "+492941 2733526"
-opening_hours: "Mo-Fr 05:40-18:00; Sa 06:30-13:00; Su 08:00-11:00"
+street: Südstraße
+housenumber: "26"
+phone: +492941 2733526
+opening_hours: Mo-Fr 05:40-18:00; Sa 06:30-13:00; Su 08:00-11:00
 website: ""

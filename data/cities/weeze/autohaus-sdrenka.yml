@@ -1,11 +1,11 @@
 id: 329325382
-type: way
+type: node
 latitude: 51.61993
 longitude: 6.21119
 postcode: "47652"
 city: Weeze
-street: "Industriestraße"
-housenumber: 57
-phone: "+49-2837-961221"
+street: Industriestraße
+housenumber: "57"
+phone: +49-2837-961221
 opening_hours: ""
-website: "https://www.autohaus-sdrenka.eu/"
+website: https://www.autohaus-sdrenka.eu/

@@ -1,11 +1,11 @@
 id: 240860132
-type: way
+type: node
 latitude: 51.55377
 longitude: 8.32873
 postcode: "59609"
 city: Anröchte
-street: "Belecker Straße"
-housenumber: 4
+street: Belecker Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 248938420
-type: way
+type: node
 latitude: 50.73563
 longitude: 7.10047
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 13
+street: Sternstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

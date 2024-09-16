@@ -4,8 +4,8 @@ latitude: 51.51479
 longitude: 7.4658
 postcode: "44137"
 city: Dortmund
-street: "Kampstraße"
-housenumber: 4
+street: Kampstraße
+housenumber: "4"
 phone: "+49231527654"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "http://www.pogado.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: http://www.pogado.de/

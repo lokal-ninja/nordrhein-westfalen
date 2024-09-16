@@ -4,8 +4,9 @@ latitude: 51.41203
 longitude: 7.17559
 postcode: "45529"
 city: Hattingen
-street: "Denkmalstraße"
-housenumber: 
+street: Denkmalstraße
+housenumber: ""
 phone: ""
-opening_hours: "Dec 10-16 Sa 10:00-16:00; Dec 11-17 Su 11:30-16:00; Dec 03-09 Sa 10:00-16:00; Dec 04-10 Su 11:30-16:00"
+opening_hours: Dec 10-16 Sa 10:00-16:00; Dec 11-17 Su 11:30-16:00; Dec 03-09 Sa 10:00-16:00;
+    Dec 04-10 Su 11:30-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.53175
 longitude: 7.41623
 postcode: "44369"
 city: Dortmund
-street: "Huckarder Straße"
-housenumber: 327
-phone: "+49 231 394339"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.tetex-textilreinigung.de/"
+street: Huckarder Straße
+housenumber: "327"
+phone: +49 231 394339
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.tetex-textilreinigung.de/

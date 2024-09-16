@@ -1,11 +1,11 @@
 id: 67522980
-type: way
+type: node
 latitude: 50.97897
 longitude: 6.84494
 postcode: "50829"
 city: Köln
-street: "Venloer Straße"
-housenumber: 1435
+street: Venloer Straße
+housenumber: "1435"
 phone: "+49221484900"
 opening_hours: ""
 website: ""

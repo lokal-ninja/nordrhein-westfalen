@@ -1,11 +1,11 @@
 id: 79689673
-type: way
+type: node
 latitude: 50.77688
 longitude: 6.07767
 postcode: "52062"
 city: Aachen
-street: "Templergraben"
-housenumber: 44
+street: Templergraben
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "http://www.copy2000-ac.de/"
+opening_hours: Mo-Fr 09:30-18:00
+website: http://www.copy2000-ac.de/

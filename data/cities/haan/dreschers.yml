@@ -4,8 +4,8 @@ latitude: 51.19392
 longitude: 7.01231
 postcode: "42781"
 city: Haan
-street: "Dieker Straße"
-housenumber: 105
+street: Dieker Straße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 08:30-13:00,14:00-18:30; We 08:30-14:00"
-website: "https://www.dreschers.de/"
+opening_hours: Mo-Tu,Th-Fr 08:30-13:00,14:00-18:30; We 08:30-14:00
+website: https://www.dreschers.de/

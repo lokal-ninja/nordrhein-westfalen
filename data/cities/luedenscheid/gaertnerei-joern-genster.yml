@@ -1,11 +1,11 @@
 id: 282522241
-type: way
+type: node
 latitude: 51.24216
 longitude: 7.61802
 postcode: "58507"
 city: Lüdenscheid
-street: "Dannenbergstraße"
-housenumber: 11
+street: Dannenbergstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Th 10:00-12:00; Tu,We 16:00-18:00; Fr-Su off"
-website: "https://www.gaertnerei-genster.de/"
+opening_hours: Mo,Th 10:00-12:00; Tu,We 16:00-18:00; Fr-Su off
+website: https://www.gaertnerei-genster.de/

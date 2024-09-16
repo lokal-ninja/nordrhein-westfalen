@@ -4,8 +4,8 @@ latitude: 51.3322
 longitude: 6.56297
 postcode: "47798"
 city: Krefeld
-street: "Angerhausenstraße"
-housenumber: 18
+street: Angerhausenstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu-Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.haarzauber.de"
+opening_hours: Tu-Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.haarzauber.de

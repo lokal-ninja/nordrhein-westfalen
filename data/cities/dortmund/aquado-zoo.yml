@@ -1,11 +1,11 @@
 id: 31523430
-type: way
+type: node
 latitude: 51.48162
 longitude: 7.44039
 postcode: "44225"
 city: Dortmund
-street: "Stockumer Straße"
-housenumber: 164
-phone: "+49 231 22265-35"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.aquadozoo.de/"
+street: Stockumer Straße
+housenumber: "164"
+phone: +49 231 22265-35
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.aquadozoo.de/

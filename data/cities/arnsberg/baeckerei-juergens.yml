@@ -4,8 +4,8 @@ latitude: 51.4541
 longitude: 7.96659
 postcode: "59755"
 city: Arnsberg
-street: "Möhnestraße"
-housenumber: 40
-phone: "+49 2932 445045"
-opening_hours: "Mo-Fr 06:30-13:00; Sa 06:30-12:00; Su 08:00-11:00"
-website: "https://www.baeckereijuergens.de/index.php?neheim"
+street: Möhnestraße
+housenumber: "40"
+phone: +49 2932 445045
+opening_hours: Mo-Fr 06:30-13:00; Sa 06:30-12:00; Su 08:00-11:00
+website: https://www.baeckereijuergens.de/index.php?neheim

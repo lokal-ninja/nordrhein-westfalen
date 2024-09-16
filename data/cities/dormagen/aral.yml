@@ -1,11 +1,11 @@
 id: 96932927
-type: way
+type: node
 latitude: 51.10889
 longitude: 6.82509
 postcode: "41539"
 city: Dormagen
-street: "Krefelder Straße"
-housenumber: 101
-phone: "+49 2133 3310"
-opening_hours: "24/7"
-website: "https://www.aral.de/"
+street: Krefelder Straße
+housenumber: "101"
+phone: +49 2133 3310
+opening_hours: 24/7
+website: https://www.aral.de/

@@ -4,8 +4,8 @@ latitude: 51.45514
 longitude: 7.9604
 postcode: "59755"
 city: Arnsberg
-street: "Werler Straße"
-housenumber: 4
-phone: "+49 2932 83084"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su off"
-website: "https://www.wierleuker.de/"
+street: Werler Straße
+housenumber: "4"
+phone: +49 2932 83084
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su off
+website: https://www.wierleuker.de/

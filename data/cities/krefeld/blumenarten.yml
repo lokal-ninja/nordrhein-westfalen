@@ -4,8 +4,9 @@ latitude: 51.3699
 longitude: 6.56588
 postcode: "47802"
 city: Krefeld
-street: "Nieper Straße"
-housenumber: 91
-phone: "+49 2151 561233"
-opening_hours: "Apr-Sep Mo-Fr 09:00-18:30, Sa 09:00-17:00; Oct-Mar Mo-Fr 09:00-18:00, Sa 9:00-15:00"
+street: Nieper Straße
+housenumber: "91"
+phone: +49 2151 561233
+opening_hours: Apr-Sep Mo-Fr 09:00-18:30, Sa 09:00-17:00; Oct-Mar Mo-Fr 09:00-18:00,
+    Sa 9:00-15:00
 website: ""

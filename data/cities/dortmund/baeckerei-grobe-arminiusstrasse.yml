@@ -4,8 +4,8 @@ latitude: 51.5167
 longitude: 7.42434
 postcode: "44149"
 city: Dortmund
-street: "Arminiusstraße"
-housenumber: 51
+street: Arminiusstraße
+housenumber: "51"
 phone: "+4923117653090"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 07:30-16:00"
-website: "https://www.baeckerei-grobe.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 07:30-16:00
+website: https://www.baeckerei-grobe.de/

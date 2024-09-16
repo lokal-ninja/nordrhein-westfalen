@@ -4,8 +4,8 @@ latitude: 50.90867
 longitude: 6.3624
 postcode: "52428"
 city: Jülich
-street: "Eleonorenstraße"
-housenumber: 2
+street: Eleonorenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off"
-website: "http://www.kuesters-autoteile.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off
+website: http://www.kuesters-autoteile.de/

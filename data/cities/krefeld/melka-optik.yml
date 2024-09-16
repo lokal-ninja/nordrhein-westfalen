@@ -1,11 +1,11 @@
 id: 313059402
-type: way
+type: node
 latitude: 51.35143
 longitude: 6.53844
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 435
+street: Hülser Straße
+housenumber: "435"
 phone: ""
 opening_hours: ""
-website: "https://www.melka-optik.de/"
+website: https://www.melka-optik.de/

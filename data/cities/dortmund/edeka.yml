@@ -4,8 +4,8 @@ latitude: 51.50677
 longitude: 7.44875
 postcode: "44137"
 city: Dortmund
-street: "Sonnenplatz"
-housenumber: 11
+street: Sonnenplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00; PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 140075363
-type: way
+type: node
 latitude: 51.61261
 longitude: 7.33854
 postcode: "45731"
 city: Waltrop
-street: "In der Torfheide"
-housenumber: 7
+street: In der Torfheide
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

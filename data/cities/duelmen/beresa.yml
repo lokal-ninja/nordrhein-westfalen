@@ -1,11 +1,11 @@
 id: 296734065
-type: way
+type: node
 latitude: 51.84162
 longitude: 7.2905
 postcode: "48249"
 city: Dülmen
-street: "Auf dem Quellberg"
-housenumber: 4
+street: Auf dem Quellberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

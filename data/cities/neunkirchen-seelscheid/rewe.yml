@@ -1,11 +1,11 @@
 id: 832128843
-type: way
+type: node
 latitude: 50.84546
 longitude: 7.34406
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Eisenerzstraße"
-housenumber: 9
+street: Eisenerzstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45"
+opening_hours: Mo-Sa 07:00-21:45
 website: ""

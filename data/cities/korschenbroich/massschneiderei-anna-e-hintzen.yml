@@ -4,8 +4,8 @@ latitude: 51.19242
 longitude: 6.51356
 postcode: "41352"
 city: Korschenbroich
-street: "Hindenburgstraße"
-housenumber: 26
-phone: "+49 170 4533412"
-opening_hours: "nach Vereinbarung"
+street: Hindenburgstraße
+housenumber: "26"
+phone: +49 170 4533412
+opening_hours: '"nach Vereinbarung"'
 website: ""

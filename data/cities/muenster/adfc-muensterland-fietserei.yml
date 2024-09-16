@@ -4,8 +4,8 @@ latitude: 51.95459
 longitude: 7.64183
 postcode: "48155"
 city: Münster
-street: "Dortmunder Straße"
-housenumber: 19
-phone: "+49 251 393999"
-opening_hours: "unregelmäßig geöffnet"
-website: "https://muenster.adfc.de/"
+street: Dortmunder Straße
+housenumber: "19"
+phone: +49 251 393999
+opening_hours: '"unregelmäßig geöffnet"'
+website: https://muenster.adfc.de/

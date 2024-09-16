@@ -1,11 +1,11 @@
 id: 31771068
-type: way
+type: node
 latitude: 50.77914
 longitude: 6.11439
 postcode: "52068"
 city: Aachen
-street: "Gneisenaustraße"
-housenumber: 41
+street: Gneisenaustraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.reifen-casteel.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.reifen-casteel.de/

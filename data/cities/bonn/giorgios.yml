@@ -4,8 +4,8 @@ latitude: 50.73587
 longitude: 7.10747
 postcode: "53111"
 city: Bonn
-street: "Brassertufer"
-housenumber: 1
-phone: "+49 228 9766668"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.giorgios.de"
+street: Brassertufer
+housenumber: "1"
+phone: +49 228 9766668
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.giorgios.de

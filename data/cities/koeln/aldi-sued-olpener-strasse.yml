@@ -1,11 +1,11 @@
 id: 202858140
-type: way
+type: node
 latitude: 50.94263
 longitude: 7.04503
 postcode: "51109"
 city: Köln
-street: "Olpener Straße"
+street: Olpener Straße
 housenumber: 385 - 387
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de/

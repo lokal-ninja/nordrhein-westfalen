@@ -4,8 +4,8 @@ latitude: 52.19538
 longitude: 8.83457
 postcode: "32547"
 city: Bad Oeynhausen
-street: "Borweg"
-housenumber: 18
-phone: "+49 5731 98 02 07"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:00-13:00, Su 08:00-11:00"
-website: "https://www.feinbaecker-brante.de/"
+street: Borweg
+housenumber: "18"
+phone: +49 5731 98 02 07
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:00-13:00, Su 08:00-11:00
+website: https://www.feinbaecker-brante.de/

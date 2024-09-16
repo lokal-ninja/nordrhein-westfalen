@@ -1,11 +1,11 @@
 id: 355131305
-type: way
+type: node
 latitude: 50.8135
 longitude: 6.88842
 postcode: "50321"
 city: Brühl
-street: "Euskirchener Straße"
-housenumber: 121
+street: Euskirchener Straße
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.835
 longitude: 6.60632
 postcode: "46395"
 city: Bocholt
-street: "Bärendorfstraße"
-housenumber: 24
-phone: "+49 157 570 673 99"
-opening_hours: "Tu, Th, Fr 09:00-12:30, 14:30-18:00; We 14:30-18:00; Sa 10:00-13:00"
-website: "www.krisba.de"
+street: Bärendorfstraße
+housenumber: "24"
+phone: +49 157 570 673 99
+opening_hours: Tu, Th, Fr 09:00-12:30, 14:30-18:00; We 14:30-18:00; Sa 10:00-13:00
+website: www.krisba.de

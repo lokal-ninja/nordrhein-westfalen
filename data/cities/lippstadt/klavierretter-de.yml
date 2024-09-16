@@ -1,11 +1,11 @@
 id: 318352546
-type: way
+type: node
 latitude: 51.70857
 longitude: 8.36402
 postcode: "59558"
 city: Lippstadt
-street: "Mastholter Straße"
-housenumber: 99
+street: Mastholter Straße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

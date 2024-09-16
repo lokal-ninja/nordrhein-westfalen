@@ -1,11 +1,11 @@
 id: 249821928
-type: way
+type: node
 latitude: 51.44712
 longitude: 8.83311
 postcode: "34431"
 city: Marsberg
-street: "Rennuferstraße"
-housenumber: 3
-phone: "+49 2992 97960"
+street: Rennuferstraße
+housenumber: "3"
+phone: +49 2992 97960
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.68218
 longitude: 6.3303
 postcode: "47589"
 city: Uedem
-street: "Am Hochwald"
-housenumber: 5
-phone: "+49 2825 554"
-opening_hours: "Mo-Fr: 09:00- 18:00 Uhr, Sa & So: 08:00-17:00 Uhr"
-website: "http://www.spargelhof-poen.de/"
+street: Am Hochwald
+housenumber: "5"
+phone: +49 2825 554
+opening_hours: 'Mo-Fr: 09:00- 18:00 Uhr, Sa & So: 08:00-17:00 Uhr'
+website: http://www.spargelhof-poen.de/

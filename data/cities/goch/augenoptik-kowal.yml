@@ -4,8 +4,8 @@ latitude: 51.67596
 longitude: 6.15679
 postcode: "47574"
 city: Goch
-street: "Steinstraße"
-housenumber: 6
-phone: "+49 2823 8791801"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.augenoptik-kowal.de/"
+street: Steinstraße
+housenumber: "6"
+phone: +49 2823 8791801
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.augenoptik-kowal.de/

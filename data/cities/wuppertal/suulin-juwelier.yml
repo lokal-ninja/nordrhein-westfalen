@@ -4,8 +4,8 @@ latitude: 51.25654
 longitude: 7.14063
 postcode: "42103"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 12
-phone: "+49 202 87028405"
+street: Friedrich-Ebert-Straße
+housenumber: "12"
+phone: +49 202 87028405
 opening_hours: ""
-website: "https://www.suulin.de/"
+website: https://www.suulin.de/

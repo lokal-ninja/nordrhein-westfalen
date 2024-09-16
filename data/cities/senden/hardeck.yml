@@ -1,11 +1,11 @@
 id: 49251345
-type: way
+type: node
 latitude: 51.91183
 longitude: 7.48679
 postcode: "48308"
 city: Senden
-street: "Bahnhofstraße"
-housenumber: 75
+street: Bahnhofstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

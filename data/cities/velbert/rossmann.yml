@@ -4,8 +4,8 @@ latitude: 51.33924
 longitude: 7.04737
 postcode: "42551"
 city: Velbert
-street: "Friedrichstraße"
-housenumber: 202
+street: Friedrichstraße
+housenumber: "202"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off; PH off
 website: ""

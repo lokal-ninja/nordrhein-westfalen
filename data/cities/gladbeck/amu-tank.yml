@@ -1,11 +1,11 @@
 id: 146272780
-type: way
+type: node
 latitude: 51.56947
 longitude: 6.99039
 postcode: "45964"
 city: Gladbeck
-street: "Goethestraße"
-housenumber: 11
+street: Goethestraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

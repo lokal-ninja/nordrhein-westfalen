@@ -1,11 +1,11 @@
 id: 114133716
-type: way
+type: node
 latitude: 50.95077
 longitude: 6.9252
 postcode: "50823"
 city: Köln
-street: "Simrockstraße"
-housenumber: 81
+street: Simrockstraße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

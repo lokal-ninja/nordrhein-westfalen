@@ -4,8 +4,8 @@ latitude: 51.96404
 longitude: 7.62528
 postcode: "48143"
 city: Münster
-street: "Spiekerhof"
-housenumber: 12
+street: Spiekerhof
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://zuckersuesse-muenster.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://zuckersuesse-muenster.de/

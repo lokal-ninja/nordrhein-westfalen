@@ -4,8 +4,8 @@ latitude: 51.15593
 longitude: 8.46303
 postcode: "59955"
 city: Winterberg
-street: "Alter Weg"
-housenumber: 24
+street: Alter Weg
+housenumber: "24"
 phone: ""
-opening_hours: "online, vor Ort nach Vereinbarung"
-website: "https://asignal.de"
+opening_hours: '"online, vor Ort nach Vereinbarung"'
+website: https://asignal.de

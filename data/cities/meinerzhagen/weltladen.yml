@@ -4,8 +4,8 @@ latitude: 51.10669
 longitude: 7.63946
 postcode: "58540"
 city: Meinerzhagen
-street: "Derschlager Straße"
-housenumber: 1
+street: Derschlager Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 09:30-12:30,14:30-17:30; Sa 09:30-13:00; Fr 09:30-17:30"
-website: "http://www.weltladen-meinerzhagen.de/index.html"
+opening_hours: Mo-Th 09:30-12:30,14:30-17:30; Sa 09:30-13:00; Fr 09:30-17:30
+website: http://www.weltladen-meinerzhagen.de/index.html

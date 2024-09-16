@@ -1,11 +1,11 @@
 id: 974384191
-type: way
+type: node
 latitude: 50.80756
 longitude: 7.16748
 postcode: "53840"
 city: Troisdorf
-street: "Speestraße"
-housenumber: 25
+street: Speestraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

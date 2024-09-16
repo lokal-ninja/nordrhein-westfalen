@@ -1,11 +1,11 @@
 id: 303437803
-type: way
+type: node
 latitude: 51.45887
 longitude: 7.77685
 postcode: "58708"
 city: Menden (Sauerland)
-street: "Bösperder Weg"
-housenumber: 65
-phone: "+49 2373915388"
+street: Bösperder Weg
+housenumber: "65"
+phone: +49 2373915388
 opening_hours: ""
 website: ""

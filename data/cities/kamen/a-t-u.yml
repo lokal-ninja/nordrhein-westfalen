@@ -1,11 +1,11 @@
 id: 97252551
-type: way
+type: node
 latitude: 51.56976
 longitude: 7.67305
 postcode: "59174"
 city: Kamen
-street: "Kamen Karree"
-housenumber: 5
+street: Kamen Karree
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 711235709
-type: way
+type: node
 latitude: 50.81907
 longitude: 7.10262
 postcode: "53844"
 city: Troisdorf
-street: "Junkersring"
-housenumber: 48
-phone: "+49 2241 8963457"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "https://subi-performance.com/"
+street: Junkersring
+housenumber: "48"
+phone: +49 2241 8963457
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: https://subi-performance.com/

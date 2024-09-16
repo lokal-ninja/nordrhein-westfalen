@@ -1,11 +1,11 @@
 id: 146282082
-type: way
+type: node
 latitude: 52.08722
 longitude: 8.26586
 postcode: "33829"
 city: Borgholzhausen
-street: "Osnabrücker Straße"
-housenumber: 20
+street: Osnabrücker Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

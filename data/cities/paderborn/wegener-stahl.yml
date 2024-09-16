@@ -1,11 +1,11 @@
 id: 346906769
-type: way
+type: node
 latitude: 51.69473
 longitude: 8.73347
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 194
+street: Frankfurter Weg
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "https://www.wegener.biz/"
+website: https://www.wegener.biz/

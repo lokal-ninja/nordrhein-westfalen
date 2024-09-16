@@ -1,11 +1,11 @@
 id: 97095244
-type: way
+type: node
 latitude: 51.65572
 longitude: 7.64032
 postcode: "59368"
 city: Werne
-street: "Kamener Straße"
-housenumber: 43
-phone: "+49 2389 924190"
+street: Kamener Straße
+housenumber: "43"
+phone: +49 2389 924190
 opening_hours: ""
-website: "https://www.heinen-nrw.de/standorte/werne/"
+website: https://www.heinen-nrw.de/standorte/werne/

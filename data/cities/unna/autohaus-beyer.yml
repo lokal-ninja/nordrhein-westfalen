@@ -1,11 +1,11 @@
 id: 99898509
-type: way
+type: node
 latitude: 51.53212
 longitude: 7.70882
 postcode: "59423"
 city: Unna
-street: "Max-Planck-Straße"
-housenumber: 11
+street: Max-Planck-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

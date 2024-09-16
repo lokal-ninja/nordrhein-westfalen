@@ -1,11 +1,11 @@
 id: 372068134
-type: way
+type: node
 latitude: 51.60658
 longitude: 7.39156
 postcode: "45731"
 city: Waltrop
-street: "Zum Schacht"
-housenumber: 3
+street: Zum Schacht
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-17:00"
-website: "https://www.hohoffs.de/"
+opening_hours: Mo-Sa 06:00-19:00; Su 07:00-17:00
+website: https://www.hohoffs.de/

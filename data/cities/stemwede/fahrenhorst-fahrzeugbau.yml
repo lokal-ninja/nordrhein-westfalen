@@ -4,8 +4,8 @@ latitude: 52.36691
 longitude: 8.49698
 postcode: "32351"
 city: Stemwede
-street: "Lübbecker Straße"
-housenumber: 15
-phone: "+49 5745 2217"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://www.fahrzeugbau-fahrenhorst.de/"
+street: Lübbecker Straße
+housenumber: "15"
+phone: +49 5745 2217
+opening_hours: Mo-Fr 09:00-16:30
+website: https://www.fahrzeugbau-fahrenhorst.de/

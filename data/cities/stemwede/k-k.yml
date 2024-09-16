@@ -1,11 +1,11 @@
 id: 297065928
-type: way
+type: node
 latitude: 52.43803
 longitude: 8.46554
 postcode: "32351"
 city: Stemwede
-street: "Am Drieangel"
-housenumber: 2
+street: Am Drieangel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
+opening_hours: Mo-Sa 08:00-21:00; Su off
 website: ""

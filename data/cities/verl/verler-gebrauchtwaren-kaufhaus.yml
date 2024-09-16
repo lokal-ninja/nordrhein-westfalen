@@ -1,11 +1,11 @@
 id: 206893831
-type: way
+type: node
 latitude: 51.87985
 longitude: 8.50151
 postcode: "33415"
 city: Verl
-street: "Westfalenweg"
-housenumber: 20
+street: Westfalenweg
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 15:00-17:00; PH closed"
+opening_hours: Tu-Fr 15:00-17:00; PH closed
 website: ""

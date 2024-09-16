@@ -1,11 +1,11 @@
 id: 88028114
-type: way
+type: node
 latitude: 51.95127
 longitude: 8.87984
 postcode: "32756"
 city: Detmold
-street: "Lemgoer Straße"
-housenumber: 111
+street: Lemgoer Straße
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.47312
 longitude: 7.21584
 postcode: "44789"
 city: Bochum
-street: "Oskar-Hoffmann-Straße"
-housenumber: 19
+street: Oskar-Hoffmann-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Meistens tagsüber bis in die Abendstunden geöffnet"
+opening_hours: '"Meistens tagsüber bis in die Abendstunden geöffnet"'
 website: ""

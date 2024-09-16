@@ -1,11 +1,11 @@
 id: 154118451
-type: way
+type: node
 latitude: 51.11687
 longitude: 7.39041
 postcode: "51688"
 city: Wipperfürth
-street: "Radiumstraße"
-housenumber: 1
+street: Radiumstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

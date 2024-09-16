@@ -4,8 +4,8 @@ latitude: 51.21997
 longitude: 6.79364
 postcode: "40210"
 city: Düsseldorf
-street: "Konrad-Adenauer-Platz"
-housenumber: 14
-phone: "+49 800 9999600"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-21:00; Su 08:00-21:00"
+street: Konrad-Adenauer-Platz
+housenumber: "14"
+phone: +49 800 9999600
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-21:00; Su 08:00-21:00
 website: ""

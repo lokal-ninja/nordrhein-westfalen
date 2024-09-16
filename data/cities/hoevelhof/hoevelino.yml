@@ -4,8 +4,8 @@ latitude: 51.82233
 longitude: 8.65653
 postcode: "33161"
 city: Hövelhof
-street: "Schloßstraße"
-housenumber: 25
+street: Schloßstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:00, 14:30-18:30; Sa 9:00-14:00"
-website: "https://hoevelino.de/"
+opening_hours: Mo-Fr 9:00-12:00, 14:30-18:30; Sa 9:00-14:00
+website: https://hoevelino.de/

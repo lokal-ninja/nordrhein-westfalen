@@ -1,11 +1,11 @@
 id: 94886356
-type: way
+type: node
 latitude: 52.21729
 longitude: 7.00807
 postcode: "48599"
 city: Gronau
-street: "Königstraße"
-housenumber: 56
+street: Königstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

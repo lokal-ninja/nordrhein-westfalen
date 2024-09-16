@@ -4,8 +4,8 @@ latitude: 50.96694
 longitude: 6.89743
 postcode: "50827"
 city: Köln
-street: "Sandweg"
-housenumber: 124
-phone: "+49 221 5304499"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 09:30-12:30"
+street: Sandweg
+housenumber: "124"
+phone: +49 221 5304499
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 09:30-12:30
 website: ""

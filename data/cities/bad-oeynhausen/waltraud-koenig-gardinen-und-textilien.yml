@@ -1,11 +1,11 @@
 id: 75257741
-type: way
+type: node
 latitude: 52.22412
 longitude: 8.80537
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Blumenstraße"
-housenumber: 14
+street: Blumenstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

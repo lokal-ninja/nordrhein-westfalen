@@ -1,11 +1,11 @@
 id: 262453323
-type: way
+type: node
 latitude: 50.98585
 longitude: 7.4214
 postcode: "51766"
 city: Engelskirchen
-street: "Olpener Straße"
-housenumber: 33
+street: Olpener Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

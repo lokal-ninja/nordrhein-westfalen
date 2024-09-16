@@ -4,8 +4,8 @@ latitude: 50.8985
 longitude: 8.03078
 postcode: "57076"
 city: Siegen
-street: "Auf den Hütten"
-housenumber: 20
+street: Auf den Hütten
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-13:00; PH off"
-website: "https://www.extrarad-siegen.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-13:00; PH off
+website: https://www.extrarad-siegen.de/

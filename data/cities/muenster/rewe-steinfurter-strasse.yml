@@ -4,8 +4,8 @@ latitude: 51.96915
 longitude: 7.61226
 postcode: "48149"
 city: Münster
-street: "Steinfurter Straße"
-housenumber: 
+street: Steinfurter Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.rewe.de/

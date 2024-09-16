@@ -1,11 +1,11 @@
 id: 103437252
-type: way
+type: node
 latitude: 51.52133
 longitude: 6.98354
 postcode: "46238"
 city: Bottrop
-street: "Am Kämpchen"
+street: Am Kämpchen
 housenumber: 105;107
 phone: ""
 opening_hours: ""
-website: "https://baytemuer.de/"
+website: https://baytemuer.de/

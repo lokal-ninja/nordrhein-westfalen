@@ -1,11 +1,11 @@
 id: 259441485
-type: way
+type: node
 latitude: 52.19718
 longitude: 7.17674
 postcode: "48607"
 city: Ochtrup
-street: "Dietrich-Bonhoeffer-Straße"
-housenumber: 86
+street: Dietrich-Bonhoeffer-Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-14:00; Su 07:00-11:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-14:00; Su 07:00-11:00
 website: ""

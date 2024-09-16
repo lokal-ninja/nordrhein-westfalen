@@ -1,11 +1,11 @@
 id: 113665100
-type: way
+type: node
 latitude: 51.95401
 longitude: 8.85834
 postcode: "32758"
 city: Detmold
-street: "Klingenbergstraße"
-housenumber: 37
+street: Klingenbergstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.intersport-voswinkel.de/"
+website: https://www.intersport-voswinkel.de/

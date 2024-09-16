@@ -4,8 +4,8 @@ latitude: 51.16238
 longitude: 6.8665
 postcode: "40597"
 city: Düsseldorf
-street: "Schloßparkstraße"
-housenumber: 1
-phone: "+49 (0)211 / 716750"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"
-website: "http://www.embet.com"
+street: Schloßparkstraße
+housenumber: "1"
+phone: +49 (0)211 / 716750
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00
+website: http://www.embet.com

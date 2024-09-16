@@ -1,11 +1,11 @@
 id: 158537076
-type: way
+type: node
 latitude: 51.44395
 longitude: 6.90385
 postcode: "45473"
 city: Mülheim an der Ruhr
-street: "Aktienstraße"
-housenumber: 211
+street: Aktienstraße
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

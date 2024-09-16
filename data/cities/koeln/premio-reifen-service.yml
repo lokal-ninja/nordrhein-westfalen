@@ -1,11 +1,11 @@
 id: 156670759
-type: way
+type: node
 latitude: 50.86053
 longitude: 7.09489
 postcode: "51147"
 city: Köln
-street: "Albin-Köbis-Straße"
-housenumber: 13
+street: Albin-Köbis-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

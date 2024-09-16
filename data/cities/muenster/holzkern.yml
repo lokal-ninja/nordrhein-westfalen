@@ -4,8 +4,8 @@ latitude: 51.96232
 longitude: 7.62998
 postcode: "48143"
 city: Münster
-street: "Salzstraße"
-housenumber: 6
+street: Salzstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.holzkern.com/de/blog/post/holzkern-store-munster/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.holzkern.com/de/blog/post/holzkern-store-munster/

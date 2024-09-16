@@ -1,11 +1,11 @@
 id: 284524963
-type: way
+type: node
 latitude: 51.60332
 longitude: 6.92061
 postcode: "46244"
 city: Bottrop
-street: "Senheimer Straße"
-housenumber: 10
+street: Senheimer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://chaosdesign24.de"
+website: https://chaosdesign24.de

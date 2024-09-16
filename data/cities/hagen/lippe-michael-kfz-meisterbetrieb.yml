@@ -1,11 +1,11 @@
 id: 146868716
-type: way
+type: node
 latitude: 51.3607
 longitude: 7.50451
 postcode: "58093"
 city: Hagen
-street: "Eppenhauser Straße"
-housenumber: 120
-phone: "+49 2331 53568"
+street: Eppenhauser Straße
+housenumber: "120"
+phone: +49 2331 53568
 opening_hours: ""
 website: ""

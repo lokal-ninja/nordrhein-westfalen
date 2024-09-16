@@ -1,11 +1,11 @@
 id: 31727133
-type: way
+type: node
 latitude: 51.47322
 longitude: 6.9675
 postcode: "45356"
 city: Essen
-street: "Im Bocholdsfeld"
-housenumber: 2
+street: Im Bocholdsfeld
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

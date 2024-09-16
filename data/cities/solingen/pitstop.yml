@@ -1,11 +1,11 @@
 id: 88278396
-type: way
+type: node
 latitude: 51.19143
 longitude: 7.06823
 postcode: "42719"
 city: Solingen
-street: "Focher Straße"
-housenumber: 58
+street: Focher Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

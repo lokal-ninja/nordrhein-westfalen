@@ -4,8 +4,8 @@ latitude: 51.93863
 longitude: 8.87856
 postcode: "32756"
 city: Detmold
-street: "Wiesenstraße"
-housenumber: 11
+street: Wiesenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:00, Mo,Tu,Th,Fr 15:00-18:00; Sa 09:30-13:00"
-website: "https://www.naehzentrum-eilers.com/standorte/detmold"
+opening_hours: Mo,Tu,Th,Fr 09:30-13:00, Mo,Tu,Th,Fr 15:00-18:00; Sa 09:30-13:00
+website: https://www.naehzentrum-eilers.com/standorte/detmold

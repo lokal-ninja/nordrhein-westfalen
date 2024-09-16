@@ -4,8 +4,8 @@ latitude: 50.71351
 longitude: 7.04515
 postcode: "53123"
 city: Bonn
-street: "Rochusstraße"
-housenumber: 245
-phone: "+49 228 613974"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:00; Su,PH off"
-website: "http://www.teubert-shop.de"
+street: Rochusstraße
+housenumber: "245"
+phone: +49 228 613974
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:00; Su,PH off
+website: http://www.teubert-shop.de

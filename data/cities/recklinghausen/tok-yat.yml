@@ -4,8 +4,8 @@ latitude: 51.61535
 longitude: 7.20038
 postcode: "45657"
 city: Recklinghausen
-street: "Martinistraße"
-housenumber: 3
+street: Martinistraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:00-17:00"
+opening_hours: Mo-Sa 06:00-20:00; Su 07:00-17:00
 website: ""

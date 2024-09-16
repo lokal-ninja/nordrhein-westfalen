@@ -1,11 +1,11 @@
 id: 27557229
-type: way
+type: node
 latitude: 51.54822
 longitude: 7.07232
 postcode: "45891"
 city: Gelsenkirchen
-street: "Willy-Brandt-Allee"
-housenumber: 50
+street: Willy-Brandt-Allee
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.mohag.de/standorte/gelsenkirchen-willy-brandt-allee.html"
+website: https://www.mohag.de/standorte/gelsenkirchen-willy-brandt-allee.html

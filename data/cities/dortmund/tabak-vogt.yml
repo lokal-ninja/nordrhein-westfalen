@@ -4,8 +4,8 @@ latitude: 51.51177
 longitude: 7.46552
 postcode: "44135"
 city: Dortmund
-street: "Prinzenstraße"
-housenumber: 7
+street: Prinzenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:30-18:00
 website: ""

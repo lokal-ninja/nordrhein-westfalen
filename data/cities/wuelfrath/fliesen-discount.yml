@@ -4,8 +4,8 @@ latitude: 51.28591
 longitude: 7.05137
 postcode: "42489"
 city: Wülfrath
-street: "Wilhelmstraße"
-housenumber: 23
+street: Wilhelmstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00; PH off"
-website: "https://www.fliesendiscount.de/index.php?page=adressen&sub=wuelfrath"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00; PH off
+website: https://www.fliesendiscount.de/index.php?page=adressen&sub=wuelfrath

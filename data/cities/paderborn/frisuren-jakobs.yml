@@ -4,8 +4,8 @@ latitude: 51.71033
 longitude: 8.75286
 postcode: "33098"
 city: Paderborn
-street: "Winfriedstraße"
-housenumber: 75
+street: Winfriedstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 08:30-18:00; Sa 07:30-14:00"
-website: "https://www.frisuren-jakobs.de/"
+opening_hours: Mo off; Tu-Fr 08:30-18:00; Sa 07:30-14:00
+website: https://www.frisuren-jakobs.de/

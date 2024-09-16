@@ -1,11 +1,11 @@
 id: 178464193
-type: way
+type: node
 latitude: 51.48932
 longitude: 6.67097
 postcode: "47199"
 city: Duisburg
-street: "Grafschafter Straße"
-housenumber: 76
+street: Grafschafter Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

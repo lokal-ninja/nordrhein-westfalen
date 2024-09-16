@@ -4,8 +4,8 @@ latitude: 51.99766
 longitude: 8.48758
 postcode: "33649"
 city: Bielefeld
-street: "Carl-Severing-Straße"
-housenumber: 83
-phone: "+49 521 45 13 23"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 07:00-18:00; Su 09:00-12:00"
-website: "http://lotto-graichen.de/"
+street: Carl-Severing-Straße
+housenumber: "83"
+phone: +49 521 45 13 23
+opening_hours: Mo-Fr 09:00-16:00; Sa 07:00-18:00; Su 09:00-12:00
+website: http://lotto-graichen.de/

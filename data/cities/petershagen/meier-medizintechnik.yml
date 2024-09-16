@@ -4,8 +4,8 @@ latitude: 52.35444
 longitude: 8.85041
 postcode: "32469"
 city: Petershagen
-street: "Friedewalder Straße"
-housenumber: 22
-phone: "+49 5704 167301"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-15:00"
-website: "https://www.meier-medizintechnik.de/"
+street: Friedewalder Straße
+housenumber: "22"
+phone: +49 5704 167301
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-15:00
+website: https://www.meier-medizintechnik.de/

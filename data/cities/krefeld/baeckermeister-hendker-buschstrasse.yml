@@ -4,8 +4,8 @@ latitude: 51.35082
 longitude: 6.60252
 postcode: "47800"
 city: Krefeld
-street: "Buschstraße"
-housenumber: 122
-phone: "+49 2151 592485"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-16:30"
-website: "https://www.baeckerei-hendker.de/"
+street: Buschstraße
+housenumber: "122"
+phone: +49 2151 592485
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-16:30
+website: https://www.baeckerei-hendker.de/

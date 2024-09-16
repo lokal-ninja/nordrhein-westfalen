@@ -1,11 +1,11 @@
 id: 162743226
-type: way
+type: node
 latitude: 51.08833
 longitude: 8.10692
 postcode: "57399"
 city: Kirchhundem
-street: "Herrntroper Straße"
-housenumber: 76
+street: Herrntroper Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

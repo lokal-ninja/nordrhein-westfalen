@@ -4,8 +4,8 @@ latitude: 51.09802
 longitude: 6.81456
 postcode: "41540"
 city: Dormagen
-street: "Am Rübenweg"
-housenumber: 4
-phone: "+49 2133 3209"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "http://www.hairstyling-schmitz.de/"
+street: Am Rübenweg
+housenumber: "4"
+phone: +49 2133 3209
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: http://www.hairstyling-schmitz.de/

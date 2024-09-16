@@ -4,8 +4,8 @@ latitude: 51.06506
 longitude: 6.86526
 postcode: "50769"
 city: Köln
-street: "St.-Tönnis-Straße"
-housenumber: 26
+street: St.-Tönnis-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Mo off"
-website: "http://www.wolkesieben-koeln.de/"
+opening_hours: Tu-Fr 10:00-18:30; Mo off
+website: http://www.wolkesieben-koeln.de/

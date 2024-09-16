@@ -4,8 +4,9 @@ latitude: 50.77773
 longitude: 6.15975
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 186
-phone: "+49 241 5590982"
-opening_hours: "Mo-We,Fr 08:30-17:00; Th 08:30-12:00,14:00-19:30; Sa 08:30-13:00; PH off"
+street: Von-Coels-Straße
+housenumber: "186"
+phone: +49 241 5590982
+opening_hours: Mo-We,Fr 08:30-17:00; Th 08:30-12:00,14:00-19:30; Sa 08:30-13:00; PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 81880674
-type: way
+type: node
 latitude: 51.03159
 longitude: 7.40577
 postcode: "51789"
 city: Lindlar
-street: "Schmiedeweg"
-housenumber: 1
-phone: "+49 2266 47350"
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://www.holz-richter.de/"
+street: Schmiedeweg
+housenumber: "1"
+phone: +49 2266 47350
+opening_hours: Mo-Fr 08:00-18:30
+website: https://www.holz-richter.de/

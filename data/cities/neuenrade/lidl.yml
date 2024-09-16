@@ -1,11 +1,11 @@
 id: 246322340
-type: way
+type: node
 latitude: 51.28114
 longitude: 7.78421
 postcode: "58809"
 city: Neuenrade
-street: "Mühlendorf"
-housenumber: 12
+street: Mühlendorf
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

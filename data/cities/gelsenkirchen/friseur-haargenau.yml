@@ -4,8 +4,8 @@ latitude: 51.49698
 longitude: 7.12805
 postcode: "45886"
 city: Gelsenkirchen
-street: "Festweg"
-housenumber: 46
-phone: "+49 209 141 344"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00"
-website: "https://www.haargenau-friseurteam.de/index.html"
+street: Festweg
+housenumber: "46"
+phone: +49 209 141 344
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00
+website: https://www.haargenau-friseurteam.de/index.html

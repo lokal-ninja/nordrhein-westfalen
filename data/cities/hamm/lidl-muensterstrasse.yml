@@ -1,11 +1,11 @@
 id: 133441498
-type: way
+type: node
 latitude: 51.69367
 longitude: 7.8076
 postcode: "59065"
 city: Hamm
-street: "Münsterstraße"
-housenumber: 77
+street: Münsterstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

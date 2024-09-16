@@ -4,8 +4,8 @@ latitude: 51.93845
 longitude: 7.62869
 postcode: "48153"
 city: Münster
-street: "Scheibenstraße"
-housenumber: 121
-phone: "+49 251 52000498"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://www.titus.de/outletmuenster"
+street: Scheibenstraße
+housenumber: "121"
+phone: +49 251 52000498
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://www.titus.de/outletmuenster

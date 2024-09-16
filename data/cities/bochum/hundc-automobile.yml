@@ -1,11 +1,11 @@
 id: 150899224
-type: way
+type: node
 latitude: 51.47356
 longitude: 7.32243
 postcode: "44892"
 city: Bochum
-street: "Unterstraße"
-housenumber: 11
+street: Unterstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

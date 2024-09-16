@@ -1,11 +1,11 @@
 id: 27959478
-type: way
+type: node
 latitude: 51.58614
 longitude: 7.0489
 postcode: "45894"
 city: Gelsenkirchen
-street: "Königswiese"
-housenumber: 41
+street: Königswiese
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

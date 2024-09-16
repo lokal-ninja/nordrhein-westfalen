@@ -4,8 +4,8 @@ latitude: 52.02311
 longitude: 8.53125
 postcode: "33602"
 city: Bielefeld
-street: "Oberntorwall"
-housenumber: 22
-phone: "+49 521 94858610"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-17:00"
-website: "https://www.trekking-koenig.de/filialen/bielefeld/"
+street: Oberntorwall
+housenumber: "22"
+phone: +49 521 94858610
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-17:00
+website: https://www.trekking-koenig.de/filialen/bielefeld/

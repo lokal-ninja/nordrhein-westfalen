@@ -4,8 +4,8 @@ latitude: 51.53045
 longitude: 6.28108
 postcode: "47608"
 city: Geldern
-street: "Klever Straße"
-housenumber: 171
-phone: "+49 15117980810"
-opening_hours: "mo-fr: 9.00 - 18.00, sa: 9.00 - 13.30"
+street: Klever Straße
+housenumber: "171"
+phone: +49 15117980810
+opening_hours: 'mo-fr: 9.00 - 18.00, sa: 9.00 - 13.30'
 website: ""

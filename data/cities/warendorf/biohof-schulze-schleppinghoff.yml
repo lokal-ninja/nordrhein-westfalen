@@ -4,8 +4,8 @@ latitude: 51.90802
 longitude: 7.94019
 postcode: "48231"
 city: Warendorf
-street: "Gronhorst"
-housenumber: 6
+street: Gronhorst
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.biohof-warendorf.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.biohof-warendorf.de/

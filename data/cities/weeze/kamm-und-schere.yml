@@ -1,11 +1,11 @@
 id: 142894630
-type: way
+type: node
 latitude: 51.62654
 longitude: 6.1995
 postcode: "47652"
 city: Weeze
-street: "Kevelaerer Straße"
-housenumber: 7
-phone: "+49-2837-963646"
+street: Kevelaerer Straße
+housenumber: "7"
+phone: +49-2837-963646
 opening_hours: ""
-website: "https://www.kammundschere-weeze.de/"
+website: https://www.kammundschere-weeze.de/

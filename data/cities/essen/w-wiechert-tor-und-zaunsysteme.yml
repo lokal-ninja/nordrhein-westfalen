@@ -1,11 +1,11 @@
 id: 155440456
-type: way
+type: node
 latitude: 51.44157
 longitude: 7.0858
 postcode: "45279"
 city: Essen
-street: "Ruhrau"
-housenumber: 34
-phone: "+49 201 538451"
+street: Ruhrau
+housenumber: "34"
+phone: +49 201 538451
 opening_hours: ""
-website: "http://www.zaunsysteme-wiechert.de"
+website: http://www.zaunsysteme-wiechert.de

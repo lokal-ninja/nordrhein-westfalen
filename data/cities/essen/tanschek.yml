@@ -1,11 +1,11 @@
 id: 272918598
-type: way
+type: node
 latitude: 51.37815
 longitude: 6.9361
 postcode: "45219"
 city: Essen
-street: "Im Teelbruch"
-housenumber: 69
-phone: "+49 2054 84 119"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"
+street: Im Teelbruch
+housenumber: "69"
+phone: +49 2054 84 119
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00
 website: ""

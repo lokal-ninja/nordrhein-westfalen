@@ -4,8 +4,8 @@ latitude: 50.74444
 longitude: 7.17587
 postcode: "53229"
 city: Bonn
-street: "Paul-Langen-Straße"
-housenumber: 48
-phone: "+49 228 96109191"
-opening_hours: "Mo 08:00-18:00; Tu OFF; We-Sa 08:00-18:00"
-website: "https://bella-donna-bonn.de/"
+street: Paul-Langen-Straße
+housenumber: "48"
+phone: +49 228 96109191
+opening_hours: Mo 08:00-18:00; Tu OFF; We-Sa 08:00-18:00
+website: https://bella-donna-bonn.de/

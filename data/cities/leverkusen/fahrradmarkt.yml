@@ -4,8 +4,8 @@ latitude: 51.0309
 longitude: 7.0156
 postcode: "51377"
 city: Leverkusen
-street: "Moosweg"
-housenumber: 4
+street: Moosweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.fahrradmarkt-leverkusen.de/"
+website: https://www.fahrradmarkt-leverkusen.de/

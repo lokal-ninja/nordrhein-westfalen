@@ -4,8 +4,8 @@ latitude: 51.51409
 longitude: 7.45925
 postcode: "44137"
 city: Dortmund
-street: "Westenhellweg"
-housenumber: 98
+street: Westenhellweg
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:30; Sa 10:00-20:00"
+opening_hours: Mo-Fr 10:30-19:30; Sa 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 244221952
-type: way
+type: node
 latitude: 51.84993
 longitude: 6.8929
 postcode: "46325"
 city: Borken
-street: "Landwehr"
-housenumber: 93
-phone: "+49 2861 8922752"
+street: Landwehr
+housenumber: "93"
+phone: +49 2861 8922752
 opening_hours: ""
-website: "https://www.vmax.de/"
+website: https://www.vmax.de/

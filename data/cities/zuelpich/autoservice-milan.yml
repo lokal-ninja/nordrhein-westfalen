@@ -1,11 +1,11 @@
 id: 923718793
-type: way
+type: node
 latitude: 50.69852
 longitude: 6.6578
 postcode: "53909"
 city: Zülpich
-street: "Hertenicher Weg"
-housenumber: 1
-phone: "+49 (0)2252 9549823"
+street: Hertenicher Weg
+housenumber: "1"
+phone: +49 (0)2252 9549823
 opening_hours: ""
-website: "http://autoservice-milan.de/"
+website: http://autoservice-milan.de/

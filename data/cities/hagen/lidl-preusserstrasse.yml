@@ -1,11 +1,11 @@
 id: 129437166
-type: way
+type: node
 latitude: 51.35101
 longitude: 7.43402
 postcode: "58135"
 city: Hagen
-street: "Preußerstraße"
-housenumber: 6
+street: Preußerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

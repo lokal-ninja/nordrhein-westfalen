@@ -4,8 +4,8 @@ latitude: 52.02368
 longitude: 8.56351
 postcode: "33607"
 city: Bielefeld
-street: "Heeper Straße"
-housenumber: 183
-phone: "+49 521 5600394"
-opening_hours: "Mo-Th 10:00-13:00,14:00-18:30; Fr 10:00-12:30,14:00-18:30; Sa 11:00-15:00"
-website: "http://www.nur-computer.com/"
+street: Heeper Straße
+housenumber: "183"
+phone: +49 521 5600394
+opening_hours: Mo-Th 10:00-13:00,14:00-18:30; Fr 10:00-12:30,14:00-18:30; Sa 11:00-15:00
+website: http://www.nur-computer.com/

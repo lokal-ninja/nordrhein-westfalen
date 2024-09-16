@@ -4,8 +4,8 @@ latitude: 51.50721
 longitude: 7.09954
 postcode: "45879"
 city: Gelsenkirchen
-street: "Bahnhofstraße"
-housenumber: 64
-phone: "+49 209 923923"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5367/"
+street: Bahnhofstraße
+housenumber: "64"
+phone: +49 209 923923
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.thalia.de/shop/home/filialen/showDetails/5367/

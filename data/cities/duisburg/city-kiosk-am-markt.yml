@@ -1,11 +1,11 @@
 id: 466066817
-type: way
+type: node
 latitude: 51.43041
 longitude: 6.78022
 postcode: "47057"
 city: Duisburg
-street: "Klöcknerstraße"
-housenumber: 30
+street: Klöcknerstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00"
+opening_hours: Mo-Fr 11:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 139516636
-type: way
+type: node
 latitude: 51.22709
 longitude: 6.64884
 postcode: "41462"
 city: Neuss
-street: "Kaarster Straße"
-housenumber: 165
-phone: "+49 2131 543132"
+street: Kaarster Straße
+housenumber: "165"
+phone: +49 2131 543132
 opening_hours: ""
 website: ""

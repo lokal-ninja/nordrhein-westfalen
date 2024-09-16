@@ -4,8 +4,8 @@ latitude: 51.12457
 longitude: 6.1001
 postcode: "41849"
 city: Wassenberg
-street: "Kreuzstraße"
-housenumber: 26
-phone: "+49 2432 9338380"
-opening_hours: "Mo-Fr 6:30-12:00; Mo-Fr 15:00-19:00; Sa 7:00-12:00; Su 8:00-11:00"
-website: "http://www.dorfzentrum-effeld.de/"
+street: Kreuzstraße
+housenumber: "26"
+phone: +49 2432 9338380
+opening_hours: Mo-Fr 6:30-12:00; Mo-Fr 15:00-19:00; Sa 7:00-12:00; Su 8:00-11:00
+website: http://www.dorfzentrum-effeld.de/

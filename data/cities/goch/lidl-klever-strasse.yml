@@ -1,11 +1,11 @@
 id: 608474670
-type: way
+type: node
 latitude: 51.68664
 longitude: 6.15978
 postcode: "47574"
 city: Goch
-street: "Klever Straße"
-housenumber: 30
+street: Klever Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

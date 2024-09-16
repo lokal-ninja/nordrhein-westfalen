@@ -1,11 +1,11 @@
 id: 88561327
-type: way
+type: node
 latitude: 51.37959
 longitude: 6.7361
 postcode: "47249"
 city: Duisburg
-street: "Ehinger Straße"
-housenumber: 106
-phone: "+49 203 75853 0"
+street: Ehinger Straße
+housenumber: "106"
+phone: +49 203 75853 0
 opening_hours: ""
 website: ""

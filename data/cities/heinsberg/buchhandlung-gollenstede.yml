@@ -4,8 +4,8 @@ latitude: 51.06346
 longitude: 6.09591
 postcode: "52525"
 city: Heinsberg
-street: "Hochstraße"
-housenumber: 127
-phone: "+49 2452 23493"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.gollenstede-buch.de/"
+street: Hochstraße
+housenumber: "127"
+phone: +49 2452 23493
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.gollenstede-buch.de/

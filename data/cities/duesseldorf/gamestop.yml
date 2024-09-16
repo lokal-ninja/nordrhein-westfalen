@@ -4,8 +4,8 @@ latitude: 51.22581
 longitude: 6.77609
 postcode: "40213"
 city: Düsseldorf
-street: "Neustraße"
-housenumber: 55
+street: Neustraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: ""

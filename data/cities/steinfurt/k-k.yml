@@ -1,11 +1,11 @@
 id: 82521177
-type: way
+type: node
 latitude: 52.14568
 longitude: 7.33608
 postcode: "48565"
 city: Steinfurt
-street: "Horstmarer Straße"
-housenumber: 16
+street: Horstmarer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

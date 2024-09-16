@@ -4,8 +4,8 @@ latitude: 51.51826
 longitude: 7.21584
 postcode: "44807"
 city: Bochum
-street: "Oberscheidstraße"
-housenumber: 12
-phone: "+49 234 9536952"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 08:00-18:00; Su,PH off"
-website: "https://www.trinkgut.de/markt/knurra"
+street: Oberscheidstraße
+housenumber: "12"
+phone: +49 234 9536952
+opening_hours: Mo-Fr 09:00-19:30; Sa 08:00-18:00; Su,PH off
+website: https://www.trinkgut.de/markt/knurra

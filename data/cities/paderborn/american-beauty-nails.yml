@@ -4,8 +4,8 @@ latitude: 51.71836
 longitude: 8.74688
 postcode: "33102"
 city: Paderborn
-street: "Friedrichstraße"
-housenumber: 23
+street: Friedrichstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; PH,Su off
 website: ""

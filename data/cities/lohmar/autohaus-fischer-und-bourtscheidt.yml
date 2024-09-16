@@ -1,11 +1,11 @@
 id: 113273576
-type: way
+type: node
 latitude: 50.87431
 longitude: 7.19955
 postcode: "53797"
 city: Lohmar
-street: "An der Burg Sülz"
-housenumber: 38
-phone: "+49 2205 90108 0"
+street: An der Burg Sülz
+housenumber: "38"
+phone: +49 2205 90108 0
 opening_hours: ""
-website: "https://www.fischer-bourtscheidt.de"
+website: https://www.fischer-bourtscheidt.de

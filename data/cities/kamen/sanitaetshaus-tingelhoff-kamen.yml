@@ -4,8 +4,8 @@ latitude: 51.59479
 longitude: 7.6634
 postcode: "59174"
 city: Kamen
-street: "Nordenmauer"
-housenumber: 18
-phone: "+49 2307 240830"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
-website: "https://www.tingelhoff.de"
+street: Nordenmauer
+housenumber: "18"
+phone: +49 2307 240830
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
+website: https://www.tingelhoff.de

@@ -4,8 +4,8 @@ latitude: 51.83269
 longitude: 6.46342
 postcode: "46419"
 city: Isselburg
-street: "Minervastraße"
-housenumber: 50
-phone: "+49 2874 903 8729"
-opening_hours: "Mo-Fr 06:00-18:30; Sa,Su 07:00-18:00"
-website: "https://bors-mein-baecker.de/"
+street: Minervastraße
+housenumber: "50"
+phone: +49 2874 903 8729
+opening_hours: Mo-Fr 06:00-18:30; Sa,Su 07:00-18:00
+website: https://bors-mein-baecker.de/

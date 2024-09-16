@@ -4,8 +4,8 @@ latitude: 52.03454
 longitude: 8.82597
 postcode: "32657"
 city: Lemgo
-street: "Weststraße"
-housenumber: 51
-phone: "+49 5261 6251"
+street: Weststraße
+housenumber: "51"
+phone: +49 5261 6251
 opening_hours: ""
-website: "https://atemreglerservice-owl.de"
+website: https://atemreglerservice-owl.de

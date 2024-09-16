@@ -1,11 +1,11 @@
 id: 81467995
-type: way
+type: node
 latitude: 51.47277
 longitude: 6.95102
 postcode: "45355"
 city: Essen
-street: "Wüstenhöferstraße"
-housenumber: 228
+street: Wüstenhöferstraße
+housenumber: "228"
 phone: ""
 opening_hours: ""
 website: ""

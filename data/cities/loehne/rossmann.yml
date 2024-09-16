@@ -1,11 +1,11 @@
 id: 123124265
-type: way
+type: node
 latitude: 52.19779
 longitude: 8.71525
 postcode: "32584"
 city: Löhne
-street: "Alte Bünder Straße"
-housenumber: 9
+street: Alte Bünder Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

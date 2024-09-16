@@ -4,8 +4,8 @@ latitude: 50.73919
 longitude: 7.11922
 postcode: "53225"
 city: Bonn
-street: "Friedrich-Breuer-Straße"
-housenumber: 55
-phone: "+49 228 94730492"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://no5-studio.de/no-5-studio-bonn-beuel/"
+street: Friedrich-Breuer-Straße
+housenumber: "55"
+phone: +49 228 94730492
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://no5-studio.de/no-5-studio-bonn-beuel/

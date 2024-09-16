@@ -1,11 +1,11 @@
 id: 45594629
-type: way
+type: node
 latitude: 52.20545
 longitude: 8.58064
 postcode: "32257"
 city: Bünde
-street: "Borriesstraße"
-housenumber: 100
-phone: "+49 5223 - 480 60"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-13:00"
-website: "https://www.fretthold.de/"
+street: Borriesstraße
+housenumber: "100"
+phone: +49 5223 - 480 60
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-13:00
+website: https://www.fretthold.de/

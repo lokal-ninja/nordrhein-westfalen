@@ -1,11 +1,11 @@
 id: 252020197
-type: way
+type: node
 latitude: 51.22233
 longitude: 7.64463
 postcode: "58511"
 city: Lüdenscheid
-street: "Worthstraße"
-housenumber: 20
+street: Worthstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:00-13:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.20313
 longitude: 6.83601
 postcode: "40229"
 city: Düsseldorf
-street: "Gumbertstraße"
-housenumber: 85
-phone: "+49 211 56679484"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:30"
-website: "https://www.duesseldorf-reinigung.de/"
+street: Gumbertstraße
+housenumber: "85"
+phone: +49 211 56679484
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:30
+website: https://www.duesseldorf-reinigung.de/

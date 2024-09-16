@@ -1,11 +1,11 @@
 id: 1275034792
-type: way
+type: node
 latitude: 50.60706
 longitude: 6.74641
 postcode: "53894"
 city: Mechernich
-street: "Graf-Schall-Straße"
-housenumber: 
+street: Graf-Schall-Straße
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

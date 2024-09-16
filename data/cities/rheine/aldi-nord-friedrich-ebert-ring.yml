@@ -1,11 +1,11 @@
 id: 154937344
-type: way
+type: node
 latitude: 52.29531
 longitude: 7.45027
 postcode: "48429"
 city: Rheine
-street: "Friedrich-Ebert-Ring"
-housenumber: 184
+street: Friedrich-Ebert-Ring
+housenumber: "184"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

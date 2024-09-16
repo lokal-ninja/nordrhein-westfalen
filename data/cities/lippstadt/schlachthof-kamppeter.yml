@@ -1,11 +1,11 @@
 id: 346322128
-type: way
+type: node
 latitude: 51.6522
 longitude: 8.36606
 postcode: "59557"
 city: Lippstadt
-street: "Welserstraße"
-housenumber: 25
+street: Welserstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://kamppeter-fleischmarkt.de/"
+website: https://kamppeter-fleischmarkt.de/

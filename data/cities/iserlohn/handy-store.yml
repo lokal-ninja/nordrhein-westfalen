@@ -4,8 +4,8 @@ latitude: 51.37383
 longitude: 7.70148
 postcode: "58636"
 city: Iserlohn
-street: "Wermingser Straße"
-housenumber: 40
-phone: "+49 2371 2196943"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:30; Su, PH off"
-website: "https://www.handystore-iserlohn.de"
+street: Wermingser Straße
+housenumber: "40"
+phone: +49 2371 2196943
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-16:30; Su, PH off
+website: https://www.handystore-iserlohn.de

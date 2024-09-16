@@ -4,8 +4,8 @@ latitude: 51.47879
 longitude: 7.21854
 postcode: "44787"
 city: Bochum
-street: "Südring"
-housenumber: 10
+street: Südring
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-13:00,14:00-18:00; We 09:00-14:00; Fr 09:00-16:00"
+opening_hours: Mo,Tu,Th 09:00-13:00,14:00-18:00; We 09:00-14:00; Fr 09:00-16:00
 website: ""

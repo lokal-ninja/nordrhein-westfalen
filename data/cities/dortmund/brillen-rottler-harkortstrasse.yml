@@ -4,8 +4,8 @@ latitude: 51.47568
 longitude: 7.43839
 postcode: "44225"
 city: Dortmund
-street: "Harkortstraße"
-housenumber: 59
+street: Harkortstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.brillen-rottler.de/dortmund-hombruch/start/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.brillen-rottler.de/dortmund-hombruch/start/

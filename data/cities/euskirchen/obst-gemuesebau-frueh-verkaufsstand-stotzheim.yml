@@ -4,8 +4,9 @@ latitude: 50.63173
 longitude: 6.8123
 postcode: "53881"
 city: Euskirchen
-street: "Im Krautgarten"
-housenumber: 3
+street: Im Krautgarten
+housenumber: "3"
 phone: ""
-opening_hours: "May-Sep: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-14:00 nur in der Erdbeersaison"
+opening_hours: 'May-Sep: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-14:00 "nur in
+    der Erdbeersaison"'
 website: ""

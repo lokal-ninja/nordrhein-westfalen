@@ -1,11 +1,11 @@
 id: 34157378
-type: way
+type: node
 latitude: 52.21754
 longitude: 8.80537
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Werrestraße"
-housenumber: 17
-phone: "+49 5731 8668890"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "https://www.daenischesbettenlager.de/"
+street: Werrestraße
+housenumber: "17"
+phone: +49 5731 8668890
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
+website: https://www.daenischesbettenlager.de/

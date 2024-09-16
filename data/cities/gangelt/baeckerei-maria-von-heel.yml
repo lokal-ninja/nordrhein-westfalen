@@ -1,11 +1,11 @@
 id: 111793482
-type: way
+type: node
 latitude: 51.01033
 longitude: 6.06016
 postcode: "52538"
 city: Gangelt
-street: "Bahnhofstraße"
-housenumber: 147
-phone: "+49 2454 8272"
-opening_hours: "Mo,Sa 05:30-12:30; Tu-Fr 05:30-18:00; Su 07:30-11:00"
-website: "https://maria-von-heel.de/"
+street: Bahnhofstraße
+housenumber: "147"
+phone: +49 2454 8272
+opening_hours: Mo,Sa 05:30-12:30; Tu-Fr 05:30-18:00; Su 07:30-11:00
+website: https://maria-von-heel.de/

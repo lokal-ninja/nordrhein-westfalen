@@ -4,8 +4,9 @@ latitude: 50.78256
 longitude: 6.07728
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
+street: Roermonder Straße
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00 || und auf Vereinbarung; Su,PH off"
-website: "https://blumen-am-ponttor.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00 || "und auf Vereinbarung"; Su,PH
+    off
+website: https://blumen-am-ponttor.de/

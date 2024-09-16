@@ -4,8 +4,8 @@ latitude: 51.19802
 longitude: 6.69071
 postcode: "41460"
 city: Neuss
-street: "Neustraße"
-housenumber: 15
-phone: "+49 2131 278620"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://hoergeraete-gellen.de/"
+street: Neustraße
+housenumber: "15"
+phone: +49 2131 278620
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://hoergeraete-gellen.de/

@@ -1,11 +1,11 @@
 id: 82456316
-type: way
+type: node
 latitude: 52.14093
 longitude: 7.09686
 postcode: "48619"
 city: Heek
-street: "Weberstraße"
-housenumber: 8
+street: Weberstraße
+housenumber: "8"
 phone: "+49256896255"
 opening_hours: ""
 website: ""

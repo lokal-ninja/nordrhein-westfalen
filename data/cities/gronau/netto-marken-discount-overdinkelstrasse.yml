@@ -1,11 +1,11 @@
 id: 452818182
-type: way
+type: node
 latitude: 52.22508
 longitude: 7.04049
 postcode: "48599"
 city: Gronau
-street: "Overdinkelstraße"
-housenumber: 2
+street: Overdinkelstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

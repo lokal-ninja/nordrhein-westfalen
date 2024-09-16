@@ -1,11 +1,11 @@
 id: 75462195
-type: way
+type: node
 latitude: 51.4386
 longitude: 7.35056
 postcode: "58453"
 city: Witten
-street: "Arthur-Imhausen-Straße"
-housenumber: 17
+street: Arthur-Imhausen-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:45; Fr 07:30-13:45; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Th 07:30-16:45; Fr 07:30-13:45; Sa 09:00-13:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 92737308
-type: way
+type: node
 latitude: 51.38164
 longitude: 6.98167
 postcode: "45239"
 city: Essen
-street: "Ruhrtalstraße"
-housenumber: 101
+street: Ruhrtalstraße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

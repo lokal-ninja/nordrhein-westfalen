@@ -1,11 +1,11 @@
 id: 140833917
-type: way
+type: node
 latitude: 51.02694
 longitude: 7.56329
 postcode: "51643"
 city: Gummersbach
-street: "Brückenstraße"
-housenumber: 
+street: Brückenstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

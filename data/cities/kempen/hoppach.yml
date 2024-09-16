@@ -4,8 +4,8 @@ latitude: 51.38336
 longitude: 6.45007
 postcode: "47906"
 city: Kempen
-street: "Breite Straße"
-housenumber: 2
+street: Breite Straße
+housenumber: "2"
 phone: "+492152967877"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://www.optik-hoppach-kempen.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
+website: https://www.optik-hoppach-kempen.de/

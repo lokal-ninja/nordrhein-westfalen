@@ -1,11 +1,11 @@
 id: 162264221
-type: way
+type: node
 latitude: 50.69737
 longitude: 7.12688
 postcode: "53175"
 city: Bonn
-street: "Annaberger Straße"
-housenumber: 161
+street: Annaberger Straße
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:00, Mo,Tu,Th 14:30-18:00, Fr 14:30-17:00"
+opening_hours: Mo-Sa 09:30-13:00, Mo,Tu,Th 14:30-18:00, Fr 14:30-17:00
 website: ""

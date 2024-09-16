@@ -1,11 +1,11 @@
 id: 1247086783
-type: way
+type: node
 latitude: 50.79411
 longitude: 7.16714
 postcode: "53757"
 city: Sankt Augustin
-street: "Siegstraße"
-housenumber: 2
+street: Siegstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

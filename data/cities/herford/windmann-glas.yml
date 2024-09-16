@@ -1,11 +1,11 @@
 id: 178329750
-type: way
+type: node
 latitude: 52.10341
 longitude: 8.69407
 postcode: "32052"
 city: Herford
-street: "Brunnenstraße"
-housenumber: 6
+street: Brunnenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

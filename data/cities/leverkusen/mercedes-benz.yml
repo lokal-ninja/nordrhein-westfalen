@@ -1,11 +1,11 @@
 id: 93257531
-type: way
+type: node
 latitude: 51.04045
 longitude: 6.98749
 postcode: "51371"
 city: Leverkusen
-street: "Overfeldweg"
-housenumber: 67
+street: Overfeldweg
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

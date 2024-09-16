@@ -4,8 +4,8 @@ latitude: 51.36117
 longitude: 6.94306
 postcode: "45219"
 city: Essen
-street: "Ringstraße"
-housenumber: 30
+street: Ringstraße
+housenumber: "30"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.clever-tanken.de/tankstelle_details/3473"
+opening_hours: 24/7
+website: https://www.clever-tanken.de/tankstelle_details/3473

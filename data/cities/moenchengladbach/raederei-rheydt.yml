@@ -4,8 +4,8 @@ latitude: 51.1658
 longitude: 6.44003
 postcode: "41239"
 city: Mönchengladbach
-street: "Dahlener Straße"
-housenumber: 22
-phone: "+49 2166 40447"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su, PH off"
-website: "http://raederei-rapid.de"
+street: Dahlener Straße
+housenumber: "22"
+phone: +49 2166 40447
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su, PH off
+website: http://raederei-rapid.de

@@ -1,11 +1,11 @@
 id: 255572423
-type: way
+type: node
 latitude: 51.47664
 longitude: 7.70393
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

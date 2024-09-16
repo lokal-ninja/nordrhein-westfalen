@@ -1,11 +1,11 @@
 id: 328178621
-type: way
+type: node
 latitude: 51.45105
 longitude: 6.60727
 postcode: "47441"
 city: Moers
-street: "Hülsdonker Straße"
-housenumber: 130
+street: Hülsdonker Straße
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

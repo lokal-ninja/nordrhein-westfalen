@@ -4,8 +4,8 @@ latitude: 51.41166
 longitude: 7.33502
 postcode: "58452"
 city: Witten
-street: "Siepenstraße"
-housenumber: 25
+street: Siepenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, 14:30-18:30; Sa 08:00-13:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 08:00-13:00, 14:30-18:30; Sa 08:00-13:00; Su 10:00-12:00
 website: ""

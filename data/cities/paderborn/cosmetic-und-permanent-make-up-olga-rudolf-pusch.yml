@@ -4,8 +4,8 @@ latitude: 51.72386
 longitude: 8.75917
 postcode: "33102"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 9
+street: Detmolder Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 9:30-12:00, 14:00-18:00; Sa nach Vereinbarung"
+opening_hours: Mo-Fr 9:30-12:00, 14:00-18:00; Sa "nach Vereinbarung"
 website: ""

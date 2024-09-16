@@ -4,8 +4,9 @@ latitude: 52.38394
 longitude: 9.00503
 postcode: "32469"
 city: Petershagen
-street: "Dingbreite"
-housenumber: 27
-phone: "+49 5702 85765"
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-17:30; Sa 09:00-12:30 || Weitere Termine nach Vereinbarung"
-website: "https://www.dammann-fliesen.de"
+street: Dingbreite
+housenumber: "27"
+phone: +49 5702 85765
+opening_hours: Mo-Fr 08:00-13:00, 14:00-17:30; Sa 09:00-12:30 || "Weitere Termine
+    nach Vereinbarung"
+website: https://www.dammann-fliesen.de

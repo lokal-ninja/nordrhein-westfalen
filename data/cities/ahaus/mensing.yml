@@ -4,8 +4,8 @@ latitude: 52.06816
 longitude: 7.00964
 postcode: "48683"
 city: Ahaus
-street: "Coesfelder Straße"
-housenumber: 68
-phone: "+49 2561 4480419"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "https://www.baeckerei-mensing.de"
+street: Coesfelder Straße
+housenumber: "68"
+phone: +49 2561 4480419
+opening_hours: Mo-Fr 05:00-18:00; Sa 06:30-13:00; Su 08:00-11:00
+website: https://www.baeckerei-mensing.de

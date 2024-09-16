@@ -4,8 +4,8 @@ latitude: 51.52323
 longitude: 7.0084
 postcode: "45329"
 city: Essen
-street: "Ahnewinkelstraße"
-housenumber: 1
+street: Ahnewinkelstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su, PH off"
+opening_hours: Mo-Su, PH off
 website: ""

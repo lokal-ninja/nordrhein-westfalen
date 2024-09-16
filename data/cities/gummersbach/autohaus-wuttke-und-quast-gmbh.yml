@@ -1,11 +1,11 @@
 id: 251750770
-type: way
+type: node
 latitude: 51.01389
 longitude: 7.57249
 postcode: "51645"
 city: Gummersbach
-street: "Gummersbacher Straße"
-housenumber: 92
-phone: "+49 2261 290490"
+street: Gummersbacher Straße
+housenumber: "92"
+phone: +49 2261 290490
 opening_hours: ""
-website: "https://www.ford-wuttke-gummersbach.de/"
+website: https://www.ford-wuttke-gummersbach.de/

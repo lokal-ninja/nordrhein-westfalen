@@ -4,8 +4,8 @@ latitude: 50.80207
 longitude: 6.48239
 postcode: "52349"
 city: Düren
-street: "Wilhelmstraße"
-housenumber: 9
-phone: "+49 2421 6944509"
-opening_hours: "Tu-Fr 10:00-19:00, Sa 10:00-14:00"
-website: "https://www.nexthair.de/"
+street: Wilhelmstraße
+housenumber: "9"
+phone: +49 2421 6944509
+opening_hours: Tu-Fr 10:00-19:00, Sa 10:00-14:00
+website: https://www.nexthair.de/

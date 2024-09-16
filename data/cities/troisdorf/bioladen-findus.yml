@@ -1,11 +1,11 @@
 id: 85274041
-type: way
+type: node
 latitude: 50.77926
 longitude: 7.09306
 postcode: "53844"
 city: Troisdorf
-street: "Zum Kalkofen"
-housenumber: 72
+street: Zum Kalkofen
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-14:00
 website: ""

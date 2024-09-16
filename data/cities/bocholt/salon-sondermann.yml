@@ -1,11 +1,11 @@
 id: 203413668
-type: way
+type: node
 latitude: 51.81541
 longitude: 6.60488
 postcode: "46395"
 city: Bocholt
-street: "Bömkesweg"
-housenumber: 44
-phone: "+49 2871 12352"
-opening_hours: "Tu-Fr 08:30-18:00;Sa 07:00-13:00"
+street: Bömkesweg
+housenumber: "44"
+phone: +49 2871 12352
+opening_hours: Tu-Fr 08:30-18:00;Sa 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 143265022
-type: way
+type: node
 latitude: 50.62566
 longitude: 6.95534
 postcode: "53359"
 city: Rheinbach
-street: "Koblenzer Straße"
-housenumber: 7
+street: Koblenzer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-11:30,15:00-18:30; Sa 10:00-13:00"
-website: "https://www.radsport-botz.de/"
+opening_hours: Mo-Fr 09:00-11:30,15:00-18:30; Sa 10:00-13:00
+website: https://www.radsport-botz.de/

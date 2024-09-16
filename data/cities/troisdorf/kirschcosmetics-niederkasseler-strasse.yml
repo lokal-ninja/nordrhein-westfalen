@@ -1,11 +1,11 @@
 id: 99022341
-type: way
+type: node
 latitude: 50.82731
 longitude: 7.11746
 postcode: "53842"
 city: Troisdorf
-street: "Niederkasseler Straße"
-housenumber: 11
+street: Niederkasseler Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

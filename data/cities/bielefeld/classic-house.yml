@@ -4,8 +4,8 @@ latitude: 52.01971
 longitude: 8.53279
 postcode: "33602"
 city: Bielefeld
-street: "Gehrenberg"
-housenumber: 15
-phone: "+49-521-1646780"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.classic-house.de/"
+street: Gehrenberg
+housenumber: "15"
+phone: +49-521-1646780
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.classic-house.de/

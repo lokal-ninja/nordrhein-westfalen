@@ -4,8 +4,8 @@ latitude: 52.00215
 longitude: 8.55812
 postcode: "33605"
 city: Bielefeld
-street: "Osningstraße"
-housenumber: 30
-phone: "+49-521-26344"
-opening_hours: "Mo,We,Fr 09:00-18:00; Sa 08:00-14:00"
+street: Osningstraße
+housenumber: "30"
+phone: +49-521-26344
+opening_hours: Mo,We,Fr 09:00-18:00; Sa 08:00-14:00
 website: ""

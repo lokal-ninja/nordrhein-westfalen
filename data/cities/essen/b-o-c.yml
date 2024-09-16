@@ -1,11 +1,11 @@
 id: 57688227
-type: way
+type: node
 latitude: 51.45857
 longitude: 6.99954
 postcode: "45127"
 city: Essen
-street: "Altendorfer Straße"
-housenumber: 11
+street: Altendorfer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-18:00; Su off"
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-18:00; Su off
 website: ""

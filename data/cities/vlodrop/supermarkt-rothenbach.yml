@@ -1,11 +1,11 @@
 id: 50025003
-type: way
+type: node
 latitude: 51.14075
 longitude: 6.11746
-postcode: "6063NJ"
+postcode: 6063NJ
 city: Vlodrop
-street: "Rothenbacherweg"
-housenumber: 12
-phone: "+31 475 533 039"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-17:00"
-website: "https://www.rothenbach.nl"
+street: Rothenbacherweg
+housenumber: "12"
+phone: +31 475 533 039
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-17:00
+website: https://www.rothenbach.nl

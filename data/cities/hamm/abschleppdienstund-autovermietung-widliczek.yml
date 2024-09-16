@@ -1,11 +1,11 @@
 id: 121297984
-type: way
+type: node
 latitude: 51.6235
 longitude: 7.85255
 postcode: "59069"
 city: Hamm
-street: "Heinrich-Welken-Straße"
-housenumber: 3
+street: Heinrich-Welken-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.widliczek.de/niederlassungen/hamm/"
+website: https://www.widliczek.de/niederlassungen/hamm/

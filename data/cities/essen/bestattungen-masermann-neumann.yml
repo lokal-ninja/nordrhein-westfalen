@@ -1,11 +1,11 @@
 id: 308210717
-type: way
+type: node
 latitude: 51.46085
 longitude: 7.05043
 postcode: "45139"
 city: Essen
-street: "Auf dem Bretzberg"
-housenumber: 28
-phone: "+49 201 210271"
+street: Auf dem Bretzberg
+housenumber: "28"
+phone: +49 201 210271
 opening_hours: ""
-website: "https://www.masermann-neumann.de/"
+website: https://www.masermann-neumann.de/

@@ -1,11 +1,11 @@
 id: 134565063
-type: way
+type: node
 latitude: 50.62909
 longitude: 6.94272
 postcode: "53359"
 city: Rheinbach
-street: "Raiffeisenweg"
-housenumber: 6
-phone: "+49 2226 9098075"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.raiffeisenmarkt.de/standorte/4295160217/www.raiffeisenservice.de"
+street: Raiffeisenweg
+housenumber: "6"
+phone: +49 2226 9098075
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.raiffeisenmarkt.de/standorte/4295160217/www.raiffeisenservice.de

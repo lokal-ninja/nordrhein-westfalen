@@ -4,8 +4,8 @@ latitude: 51.24331
 longitude: 6.80107
 postcode: "40239"
 city: Düsseldorf
-street: "Grunerstraße"
-housenumber: 41
-phone: "+49 211 21099-0"
+street: Grunerstraße
+housenumber: "41"
+phone: +49 211 21099-0
 opening_hours: ""
-website: "https://www.msdnet.de/"
+website: https://www.msdnet.de/

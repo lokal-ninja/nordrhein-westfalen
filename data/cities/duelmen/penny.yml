@@ -1,11 +1,11 @@
 id: 154856906
-type: way
+type: node
 latitude: 51.82397
 longitude: 7.29005
 postcode: "48249"
 city: Dülmen
-street: "Baumschulenweg"
-housenumber: 6
+street: Baumschulenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

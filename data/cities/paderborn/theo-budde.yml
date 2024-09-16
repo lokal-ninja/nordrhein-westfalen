@@ -4,8 +4,8 @@ latitude: 51.72075
 longitude: 8.7565
 postcode: "33098"
 city: Paderborn
-street: "Thisaut"
-housenumber: 6
+street: Thisaut
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 14:30-18:30; Sa 09:30-13:00; We, Su,PH off"
-website: "http://www.theo-budde.de/"
+opening_hours: Mo-Fr 14:30-18:30; Sa 09:30-13:00; We, Su,PH off
+website: http://www.theo-budde.de/

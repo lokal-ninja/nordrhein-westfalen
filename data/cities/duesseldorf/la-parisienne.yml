@@ -4,8 +4,8 @@ latitude: 51.24118
 longitude: 6.78209
 postcode: "40476"
 city: Düsseldorf
-street: "Collenbachstraße"
-housenumber: 1
+street: Collenbachstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:30, Sa 11:00-18:00"
-website: "http://www.kfashionclothing.blogspot.de/"
+opening_hours: Mo-Fr 11:00-19:30, Sa 11:00-18:00
+website: http://www.kfashionclothing.blogspot.de/

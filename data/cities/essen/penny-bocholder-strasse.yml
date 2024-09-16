@@ -1,11 +1,11 @@
 id: 31311320
-type: way
+type: node
 latitude: 51.47518
 longitude: 6.97287
 postcode: "45356"
 city: Essen
-street: "Bocholder Straße"
-housenumber: 276
+street: Bocholder Straße
+housenumber: "276"
 phone: ""
-opening_hours: "Mo-Sa 7:00 - 22:00"
+opening_hours: Mo-Sa 7:00 - 22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 45331544
-type: way
+type: node
 latitude: 52.08639
 longitude: 8.42627
 postcode: "33824"
 city: Werther (Westf.)
-street: "Engerstraße"
-housenumber: 84
+street: Engerstraße
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

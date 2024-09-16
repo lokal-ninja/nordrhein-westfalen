@@ -1,11 +1,11 @@
 id: 90781138
-type: way
+type: node
 latitude: 51.19704
 longitude: 6.61232
 postcode: "41564"
 city: Kaarst
-street: "Gutenbergstraße"
-housenumber: 3
-phone: "+49 2131 1336354"
+street: Gutenbergstraße
+housenumber: "3"
+phone: +49 2131 1336354
 opening_hours: ""
-website: "https://buettgener-raederwerk.de/"
+website: https://buettgener-raederwerk.de/

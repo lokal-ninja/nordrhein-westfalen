@@ -1,11 +1,11 @@
 id: 244852787
-type: way
+type: node
 latitude: 51.6638
 longitude: 7.76126
 postcode: "59067"
 city: Hamm
-street: "Dortmunder Straße"
-housenumber: 104
+street: Dortmunder Straße
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

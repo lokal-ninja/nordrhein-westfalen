@@ -4,8 +4,8 @@ latitude: 51.70897
 longitude: 8.76237
 postcode: "33098"
 city: Paderborn
-street: "Husener Straße"
-housenumber: 79
-phone: "+49 5251 2842848"
-opening_hours: "Mo,We 09:00-13:00; Tu,Th,Fr 09:00-18:00; Sa 09:00-14:00; Su, PH off"
+street: Husener Straße
+housenumber: "79"
+phone: +49 5251 2842848
+opening_hours: Mo,We 09:00-13:00; Tu,Th,Fr 09:00-18:00; Sa 09:00-14:00; Su, PH off
 website: ""

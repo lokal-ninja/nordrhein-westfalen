@@ -1,11 +1,11 @@
 id: 156249198
-type: way
+type: node
 latitude: 51.50317
 longitude: 8.28053
 postcode: "59581"
 city: Warstein
-street: "Taubeneiche"
-housenumber: 24
-phone: "+49 2925 4694"
-opening_hours: "Tu,Th 10:00-12:00,15:00-18:00"
+street: Taubeneiche
+housenumber: "24"
+phone: +49 2925 4694
+opening_hours: Tu,Th 10:00-12:00,15:00-18:00
 website: ""

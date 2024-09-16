@@ -4,8 +4,8 @@ latitude: 51.19974
 longitude: 6.39602
 postcode: "41068"
 city: Mönchengladbach
-street: "Stationsweg"
-housenumber: 40
-phone: "+49 2161 835812"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:30; Sa 10:00-13:00"
-website: "https://www.fahrrad-michels.de/"
+street: Stationsweg
+housenumber: "40"
+phone: +49 2161 835812
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:30; Sa 10:00-13:00
+website: https://www.fahrrad-michels.de/

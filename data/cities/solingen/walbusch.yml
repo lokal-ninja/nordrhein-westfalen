@@ -4,8 +4,8 @@ latitude: 51.17179
 longitude: 7.04992
 postcode: "42655"
 city: Solingen
-street: "Martinstraße"
-housenumber: 18
+street: Martinstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, 09:00-14:00"
-website: "https://www.walbusch.de/"
+opening_hours: Mo-Fr 08:00-17:00, 09:00-14:00
+website: https://www.walbusch.de/

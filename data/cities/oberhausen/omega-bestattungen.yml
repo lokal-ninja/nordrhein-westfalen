@@ -4,8 +4,8 @@ latitude: 51.5045
 longitude: 6.88534
 postcode: "46117"
 city: Oberhausen
-street: "Bergstraße"
-housenumber: 30
-phone: "+49 208  62 008 303"
-opening_hours: "Mo-Fr 09:30-12:30"
-website: "https://omega-best.de/"
+street: Bergstraße
+housenumber: "30"
+phone: +49 208  62 008 303
+opening_hours: Mo-Fr 09:30-12:30
+website: https://omega-best.de/

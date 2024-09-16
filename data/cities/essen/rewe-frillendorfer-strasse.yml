@@ -1,11 +1,11 @@
 id: 60151118
-type: way
+type: node
 latitude: 51.4592
 longitude: 7.04681
 postcode: "45139"
 city: Essen
-street: "Frillendorfer Straße"
-housenumber: 242
+street: Frillendorfer Straße
+housenumber: "242"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.25691
 longitude: 7.13829
 postcode: "42103"
 city: Wuppertal
-street: "Luisenstraße"
-housenumber: 88
-phone: "+49 202 97349618"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo,Su,PH off"
-website: "https://www.salondebeaute-wuppertal.de/"
+street: Luisenstraße
+housenumber: "88"
+phone: +49 202 97349618
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo,Su,PH off
+website: https://www.salondebeaute-wuppertal.de/

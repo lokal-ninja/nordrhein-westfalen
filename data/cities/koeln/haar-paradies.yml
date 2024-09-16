@@ -1,11 +1,11 @@
 id: 524284300
-type: way
+type: node
 latitude: 51.01078
 longitude: 6.90551
 postcode: "50767"
 city: Köln
-street: "Haselnußweg"
-housenumber: 17
+street: Haselnußweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

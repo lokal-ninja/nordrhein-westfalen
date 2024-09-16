@@ -1,11 +1,11 @@
 id: 205320861
-type: way
+type: node
 latitude: 51.60313
 longitude: 6.92233
 postcode: "46244"
 city: Bottrop
-street: "Schulze-Delitzsch-Straße"
-housenumber: 3
+street: Schulze-Delitzsch-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

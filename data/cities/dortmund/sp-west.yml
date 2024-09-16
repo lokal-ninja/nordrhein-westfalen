@@ -1,11 +1,11 @@
 id: 52812011
-type: way
+type: node
 latitude: 51.49678
 longitude: 7.40292
 postcode: "44149"
 city: Dortmund
-street: "Wittener Straße"
-housenumber: 360
-phone: "+49 231 9170750"
+street: Wittener Straße
+housenumber: "360"
+phone: +49 231 9170750
 opening_hours: ""
-website: "https://sp-west.de/"
+website: https://sp-west.de/

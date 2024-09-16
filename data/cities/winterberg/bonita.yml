@@ -4,8 +4,9 @@ latitude: 51.19404
 longitude: 8.53232
 postcode: "59955"
 city: Winterberg
-street: "Am Waltenberg"
-housenumber: 4
+street: Am Waltenberg
+housenumber: "4"
 phone: ""
-opening_hours: "Tu, Th, Fr 10:00-18:00; Mo 10:15-18:00; We 09:45-18:00; Sa 10:00-16:00; Su 11:00-17:00"
-website: "https://www.bonita.de/"
+opening_hours: Tu, Th, Fr 10:00-18:00; Mo 10:15-18:00; We 09:45-18:00; Sa 10:00-16:00;
+    Su 11:00-17:00
+website: https://www.bonita.de/

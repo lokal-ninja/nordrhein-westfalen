@@ -4,8 +4,8 @@ latitude: 51.0666
 longitude: 7.00419
 postcode: "51379"
 city: Leverkusen
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.tedi.com/

@@ -1,11 +1,11 @@
 id: 164668531
-type: way
+type: node
 latitude: 52.03044
 longitude: 6.82319
 postcode: "48691"
 city: Vreden
-street: "Bahnhofstraße"
-housenumber: 35
+street: Bahnhofstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://www.blumen-schwering.de/"
+website: http://www.blumen-schwering.de/

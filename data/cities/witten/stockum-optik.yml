@@ -4,8 +4,9 @@ latitude: 51.46741
 longitude: 7.36713
 postcode: "58454"
 city: Witten
-street: "Pferdebachstraße"
-housenumber: 249
+street: Pferdebachstraße
+housenumber: "249"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Sa 10:00-14:00; Su,PH off"
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Sa 10:00-14:00;
+    Su,PH off
 website: ""

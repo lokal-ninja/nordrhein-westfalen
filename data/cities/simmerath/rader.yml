@@ -4,8 +4,8 @@ latitude: 50.60321
 longitude: 6.29722
 postcode: "52152"
 city: Simmerath
-street: "Hauptstraße"
-housenumber: 17
-phone: "+49 2473 938825"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-13:00; Su,PH off"
-website: "https://www.rader-computer.de/"
+street: Hauptstraße
+housenumber: "17"
+phone: +49 2473 938825
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:30-13:00; Su,PH off
+website: https://www.rader-computer.de/

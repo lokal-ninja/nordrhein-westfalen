@@ -4,8 +4,8 @@ latitude: 50.99042
 longitude: 7.12478
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Hauptstraße"
-housenumber: 131
+street: Hauptstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

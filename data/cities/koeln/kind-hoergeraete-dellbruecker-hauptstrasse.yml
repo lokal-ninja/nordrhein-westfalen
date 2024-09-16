@@ -1,11 +1,11 @@
 id: 150375873
-type: way
+type: node
 latitude: 50.97526
 longitude: 7.0741
 postcode: "51069"
 city: Köln
-street: "Dellbrücker Hauptstraße"
-housenumber: 74
+street: Dellbrücker Hauptstraße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

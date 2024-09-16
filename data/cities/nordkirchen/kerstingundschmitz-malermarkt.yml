@@ -1,11 +1,11 @@
 id: 277615688
-type: way
+type: node
 latitude: 51.7407
 longitude: 7.51671
 postcode: "59394"
 city: Nordkirchen
-street: "Aspastraße"
-housenumber: 12
-phone: "+49 2596 97210"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:30-12:30"
-website: "https://www.kersting-schmitz.de/"
+street: Aspastraße
+housenumber: "12"
+phone: +49 2596 97210
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:30-12:30
+website: https://www.kersting-schmitz.de/

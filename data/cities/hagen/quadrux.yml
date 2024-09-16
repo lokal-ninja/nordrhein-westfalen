@@ -4,8 +4,8 @@ latitude: 51.35635
 longitude: 7.46157
 postcode: "58089"
 city: Hagen
-street: "Lange Straße"
-housenumber: 21
-phone: "+49 2331 33 40 58"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; We,Sa 10:00-13:00"
+street: Lange Straße
+housenumber: "21"
+phone: +49 2331 33 40 58
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; We,Sa 10:00-13:00
 website: ""

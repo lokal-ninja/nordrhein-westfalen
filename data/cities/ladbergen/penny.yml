@@ -1,11 +1,11 @@
 id: 275280548
-type: way
+type: node
 latitude: 52.13674
 longitude: 7.73665
 postcode: "49549"
 city: Ladbergen
-street: "Tecklenburger Straße"
-housenumber: 3
+street: Tecklenburger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

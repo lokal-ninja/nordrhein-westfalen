@@ -1,11 +1,11 @@
 id: 300113343
-type: way
+type: node
 latitude: 51.68156
 longitude: 7.12605
 postcode: "45772"
 city: Marl
-street: "Bachackerweg"
-housenumber: 187
+street: Bachackerweg
+housenumber: "187"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

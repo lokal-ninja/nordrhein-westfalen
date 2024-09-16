@@ -1,11 +1,11 @@
 id: 298503049
-type: way
+type: node
 latitude: 52.37962
 longitude: 7.60243
 postcode: "48496"
 city: Hopsten
-street: "Bunte Straße"
-housenumber: 30
+street: Bunte Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

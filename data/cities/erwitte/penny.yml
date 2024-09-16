@@ -1,11 +1,11 @@
 id: 678823930
-type: way
+type: node
 latitude: 51.61103
 longitude: 8.34251
 postcode: "59597"
 city: Erwitte
-street: "Berger Straße"
-housenumber: 16
+street: Berger Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de"
+website: https://www.penny.de

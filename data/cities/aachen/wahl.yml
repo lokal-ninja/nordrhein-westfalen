@@ -1,11 +1,11 @@
 id: 37101235
-type: way
+type: node
 latitude: 50.7778
 longitude: 6.12535
 postcode: "52068"
 city: Aachen
-street: "Dresdener Straße"
-housenumber: 20
+street: Dresdener Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.renault-wahl-aachen.de/"
+website: https://www.renault-wahl-aachen.de/

@@ -1,11 +1,11 @@
 id: 297065781
-type: way
+type: node
 latitude: 52.43699
 longitude: 8.462
 postcode: "32351"
 city: Stemwede
-street: "Stemwederberg-Straße"
-housenumber: 74
+street: Stemwederberg-Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

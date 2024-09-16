@@ -1,11 +1,11 @@
 id: 232434539
-type: way
+type: node
 latitude: 50.37196
 longitude: 6.50211
 postcode: "53949"
 city: Dahlem
-street: "Hüttenstraße"
-housenumber: 51
+street: Hüttenstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.raiffeisenservice.de/nextshopcms/show.asp?lang=de&docid=-1&e1=137&ssid=1&kat_id=0&artikel_id=1"
+website: https://www.raiffeisenservice.de/nextshopcms/show.asp?lang=de&docid=-1&e1=137&ssid=1&kat_id=0&artikel_id=1

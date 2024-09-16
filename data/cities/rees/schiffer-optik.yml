@@ -4,8 +4,8 @@ latitude: 51.76078
 longitude: 6.39595
 postcode: "46459"
 city: Rees
-street: "Vor dem Delltor"
-housenumber: 9
-phone: "+49 2851 1414"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
+street: Vor dem Delltor
+housenumber: "9"
+phone: +49 2851 1414
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
 website: ""

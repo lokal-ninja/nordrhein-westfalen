@@ -4,8 +4,8 @@ latitude: 51.9721
 longitude: 7.61149
 postcode: "48149"
 city: Münster
-street: "Catharina-Müller-Straße"
-housenumber: 5
-phone: "+49 251 39632132"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.dein-style-friseursalon.com/"
+street: Catharina-Müller-Straße
+housenumber: "5"
+phone: +49 251 39632132
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.dein-style-friseursalon.com/

@@ -4,8 +4,8 @@ latitude: 51.50806
 longitude: 7.27839
 postcode: "44805"
 city: Bochum
-street: "Josef-Baumann-Straße"
-housenumber: 14
+street: Josef-Baumann-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
-website: "https://www.getraenke-muth.de"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00
+website: https://www.getraenke-muth.de

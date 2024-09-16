@@ -4,8 +4,8 @@ latitude: 50.98641
 longitude: 7.12124
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-We,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-14:00"
-website: "http://www.mcdampfer.de/index.html"
+opening_hours: Mo-We,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-14:00
+website: http://www.mcdampfer.de/index.html

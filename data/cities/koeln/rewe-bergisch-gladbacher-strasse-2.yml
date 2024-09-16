@@ -1,11 +1,11 @@
 id: 170377808
-type: way
+type: node
 latitude: 50.98051
 longitude: 7.07178
 postcode: "51069"
 city: Köln
-street: "Bergisch Gladbacher Straße"
-housenumber: 1007
-phone: "+49 221 687778"
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.rewe.de/marktseite/koeln/321032/rewe-markt-bergisch-gladbacher-str-1007/"
+street: Bergisch Gladbacher Straße
+housenumber: "1007"
+phone: +49 221 687778
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.rewe.de/marktseite/koeln/321032/rewe-markt-bergisch-gladbacher-str-1007/

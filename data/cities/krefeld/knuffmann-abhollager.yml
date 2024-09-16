@@ -4,8 +4,8 @@ latitude: 51.32514
 longitude: 6.5235
 postcode: "47804"
 city: Krefeld
-street: "Krützpoort"
-housenumber: 29
-phone: "+49 2151 9270"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 10:00-14:00"
-website: "https://www.knuffmann.de"
+street: Krützpoort
+housenumber: "29"
+phone: +49 2151 9270
+opening_hours: Mo-Fr 13:00-18:00; Sa 10:00-14:00
+website: https://www.knuffmann.de

@@ -1,11 +1,11 @@
 id: 263806757
-type: way
+type: node
 latitude: 51.00533
 longitude: 6.06289
 postcode: "52538"
 city: Gangelt
-street: "Hoferweg"
-housenumber: 5
-phone: "+49 2454 8304"
+street: Hoferweg
+housenumber: "5"
+phone: +49 2454 8304
 opening_hours: ""
-website: "https://www.autohaus-gradissen.de/"
+website: https://www.autohaus-gradissen.de/

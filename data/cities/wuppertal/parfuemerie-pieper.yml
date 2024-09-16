@@ -4,8 +4,8 @@ latitude: 51.25731
 longitude: 7.14764
 postcode: "42103"
 city: Wuppertal
-street: "Poststraße"
-housenumber: 20
+street: Poststraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

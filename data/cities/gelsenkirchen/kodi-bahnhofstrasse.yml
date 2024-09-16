@@ -1,11 +1,11 @@
 id: 263647414
-type: way
+type: node
 latitude: 51.50794
 longitude: 7.09895
 postcode: "45879"
 city: Gelsenkirchen
-street: "Bahnhofstraße"
-housenumber: 53
+street: Bahnhofstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 116350199
-type: way
+type: node
 latitude: 51.67488
 longitude: 7.87252
 postcode: "59071"
 city: Hamm
-street: "Kirchweg"
-housenumber: 58
+street: Kirchweg
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.4895
 longitude: 6.23427
 postcode: "47608"
 city: Geldern
-street: "Maasstraße"
-housenumber: 83
-phone: "+49 2834 9425500"
-opening_hours: "mo-sa: 7.00 - 17.30 Uhr"
-website: "https://www.a-bp.de"
+street: Maasstraße
+housenumber: "83"
+phone: +49 2834 9425500
+opening_hours: 'mo-sa: 7.00 - 17.30 Uhr'
+website: https://www.a-bp.de

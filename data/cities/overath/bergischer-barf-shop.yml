@@ -1,11 +1,11 @@
 id: 345743840
-type: way
+type: node
 latitude: 50.9184
 longitude: 7.32522
 postcode: "51491"
 city: Overath
-street: "Blindenaafermühle"
-housenumber: 3
+street: Blindenaafermühle
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.bergischer-barfshop.de"
+website: http://www.bergischer-barfshop.de

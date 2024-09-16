@@ -1,11 +1,11 @@
 id: 265832353
-type: way
+type: node
 latitude: 51.65688
 longitude: 7.101
 postcode: "45770"
 city: Marl
-street: "Bergstraße"
+street: Bergstraße
 housenumber: 223/225
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/marl/bergstr-223-225.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/filialen/marl/bergstr-223-225.html

@@ -1,11 +1,11 @@
 id: 83834322
-type: way
+type: node
 latitude: 50.77858
 longitude: 6.08421
 postcode: "52062"
 city: Aachen
-street: "Hirschgraben"
-housenumber: 1
-phone: "+49 241 27994"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-14:00; Su, Mo, PH off"
+street: Hirschgraben
+housenumber: "1"
+phone: +49 241 27994
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-14:00; Su, Mo, PH off
 website: ""

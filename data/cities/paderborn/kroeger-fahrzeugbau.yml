@@ -1,11 +1,11 @@
 id: 243337795
-type: way
+type: node
 latitude: 51.70248
 longitude: 8.71572
 postcode: "33106"
 city: Paderborn
-street: "Oberes Feld"
-housenumber: 15
+street: Oberes Feld
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.79521
 longitude: 7.20822
 postcode: "53721"
 city: Siegburg
-street: "Mühlenstraße"
-housenumber: 24
-phone: "+49 157 32425016"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-16:00; Sa 11:00-15:00"
-website: "https://charlycouture.de/"
+street: Mühlenstraße
+housenumber: "24"
+phone: +49 157 32425016
+opening_hours: Mo-Fr 10:00-13:00,14:00-16:00; Sa 11:00-15:00
+website: https://charlycouture.de/

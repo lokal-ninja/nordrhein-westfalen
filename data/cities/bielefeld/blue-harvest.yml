@@ -4,8 +4,8 @@ latitude: 52.02878
 longitude: 8.5268
 postcode: "33615"
 city: Bielefeld
-street: "Friedrichstraße"
-housenumber: 49
-phone: "+49 521 5605990"
-opening_hours: "Nur nach Vereinbarung"
-website: "http://www.blue-harvest-tattoo.de/"
+street: Friedrichstraße
+housenumber: "49"
+phone: +49 521 5605990
+opening_hours: '"Nur nach Vereinbarung"'
+website: http://www.blue-harvest-tattoo.de/

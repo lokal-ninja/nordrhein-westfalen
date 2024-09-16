@@ -1,11 +1,11 @@
 id: 30622711
-type: way
+type: node
 latitude: 52.14111
 longitude: 8.48601
 postcode: "32139"
 city: Spenge
-street: "Lönsweg"
+street: Lönsweg
 housenumber: 5-11
-phone: "+49 5225 859545"
+phone: +49 5225 859545
 opening_hours: ""
-website: "http://www.wilkenhoener.de/"
+website: http://www.wilkenhoener.de/

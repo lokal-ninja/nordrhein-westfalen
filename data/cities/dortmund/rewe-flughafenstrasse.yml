@@ -1,11 +1,11 @@
 id: 52251948
-type: way
+type: node
 latitude: 51.53372
 longitude: 7.54467
 postcode: "44309"
 city: Dortmund
-street: "Flughafenstraße"
-housenumber: 147
+street: Flughafenstraße
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

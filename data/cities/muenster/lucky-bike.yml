@@ -4,8 +4,8 @@ latitude: 51.99349
 longitude: 7.6645
 postcode: "48157"
 city: Münster
-street: "Königsberger Straße"
-housenumber: 262
-phone: "+49 251 1446630"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.lucky-bike.de/fahrraeder-muenster/"
+street: Königsberger Straße
+housenumber: "262"
+phone: +49 251 1446630
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.lucky-bike.de/fahrraeder-muenster/

@@ -1,11 +1,11 @@
 id: 284083395
-type: way
+type: node
 latitude: 50.96355
 longitude: 6.88661
 postcode: "50829"
 city: Köln
-street: "Biesterfeldstraße"
-housenumber: 3
+street: Biesterfeldstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://www.erpelding-gmbh.de"
+opening_hours: Mo-Fr 07:30-17:00
+website: http://www.erpelding-gmbh.de

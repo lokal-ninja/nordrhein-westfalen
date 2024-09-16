@@ -1,11 +1,11 @@
 id: 150594020
-type: way
+type: node
 latitude: 50.92742
 longitude: 6.94063
 postcode: "50674"
 city: Köln
-street: "Trierer Straße"
-housenumber: 53
-phone: "+49 221 29240296"
+street: Trierer Straße
+housenumber: "53"
+phone: +49 221 29240296
 opening_hours: ""
-website: "https://home.romoto.de/LoGo-US-Exclusivfahrzeuge/Zuelpich/de/1883/Fahrzeuge.html"
+website: https://home.romoto.de/LoGo-US-Exclusivfahrzeuge/Zuelpich/de/1883/Fahrzeuge.html

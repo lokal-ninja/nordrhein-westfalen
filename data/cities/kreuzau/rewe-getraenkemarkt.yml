@@ -1,11 +1,11 @@
 id: 120680923
-type: way
+type: node
 latitude: 50.74517
 longitude: 6.48713
 postcode: "52372"
 city: Kreuzau
-street: "Teichstraße"
-housenumber: 22
+street: Teichstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

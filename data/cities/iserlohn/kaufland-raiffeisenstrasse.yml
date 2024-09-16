@@ -1,11 +1,11 @@
 id: 77885384
-type: way
+type: node
 latitude: 51.38386
 longitude: 7.67435
 postcode: "58638"
 city: Iserlohn
-street: "Raiffeisenstraße"
-housenumber: 5
+street: Raiffeisenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

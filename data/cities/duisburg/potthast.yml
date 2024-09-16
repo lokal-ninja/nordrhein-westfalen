@@ -4,8 +4,8 @@ latitude: 51.38394
 longitude: 6.76149
 postcode: "47249"
 city: Duisburg
-street: "Münchener Straße"
-housenumber: 23
-phone: "+49 203 701385"
-opening_hours: "Mo-Fr 05:15-18:30; Sa 05:15-14:00"
+street: Münchener Straße
+housenumber: "23"
+phone: +49 203 701385
+opening_hours: Mo-Fr 05:15-18:30; Sa 05:15-14:00
 website: ""

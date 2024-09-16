@@ -4,8 +4,8 @@ latitude: 50.73359
 longitude: 7.09709
 postcode: "53111"
 city: Bonn
-street: "Münsterstraße"
-housenumber: 20
-phone: "+49 228 635628"
-opening_hours: "Tu,We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-15:30; PH,Su,Mo off"
-website: "https://www.slamanig.de/"
+street: Münsterstraße
+housenumber: "20"
+phone: +49 228 635628
+opening_hours: Tu,We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-15:30; PH,Su,Mo off
+website: https://www.slamanig.de/

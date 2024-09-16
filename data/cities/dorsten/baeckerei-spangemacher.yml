@@ -4,8 +4,8 @@ latitude: 51.75923
 longitude: 6.99904
 postcode: "46286"
 city: Dorsten
-street: "Wulfener Straße"
-housenumber: 12
-phone: "+49 2369 77908"
-opening_hours: "Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 08:00-11:00"
-website: "https://www.baeckerei-spangemacher.de/filialen/lembeck/"
+street: Wulfener Straße
+housenumber: "12"
+phone: +49 2369 77908
+opening_hours: Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 08:00-11:00
+website: https://www.baeckerei-spangemacher.de/filialen/lembeck/

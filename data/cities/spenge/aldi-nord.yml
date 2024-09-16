@@ -1,11 +1,11 @@
 id: 460635695
-type: way
+type: node
 latitude: 52.13875
 longitude: 8.48112
 postcode: "32139"
 city: Spenge
-street: "Mühlenburger Straße"
-housenumber: 5
+street: Mühlenburger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1301333261
-type: way
+type: node
 latitude: 51.11182
 longitude: 6.95051
 postcode: "40764"
 city: Langenfeld (Rheinland)
 street: ""
-housenumber: 1
-phone: "+49 2173 9607551"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off"
+housenumber: "1"
+phone: +49 2173 9607551
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off
 website: ""

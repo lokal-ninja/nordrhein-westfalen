@@ -1,11 +1,11 @@
 id: 150350642
-type: way
+type: node
 latitude: 51.1709
 longitude: 6.94436
 postcode: "40724"
 city: Hilden
-street: "Mühle"
-housenumber: 62
+street: Mühle
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

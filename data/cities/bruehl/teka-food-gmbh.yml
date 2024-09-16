@@ -1,11 +1,11 @@
 id: 40888889
-type: way
+type: node
 latitude: 50.83749
 longitude: 6.91978
 postcode: "50321"
 city: Brühl
-street: "Berzdorfer Straße"
-housenumber: 5
-phone: "+49 2232 94864"
+street: Berzdorfer Straße
+housenumber: "5"
+phone: +49 2232 94864
 opening_hours: ""
-website: "https://teka-food.de/"
+website: https://teka-food.de/

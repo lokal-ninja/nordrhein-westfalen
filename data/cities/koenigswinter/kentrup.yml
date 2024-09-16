@@ -1,11 +1,11 @@
 id: 208384481
-type: way
+type: node
 latitude: 50.701
 longitude: 7.18656
 postcode: "53639"
 city: Königswinter
-street: "Römlinghovener Straße"
-housenumber: 2
-phone: "+49 2223  911 970"
+street: Römlinghovener Straße
+housenumber: "2"
+phone: +49 2223  911 970
 opening_hours: ""
-website: "https://kentrup-bestattungshaus.de/"
+website: https://kentrup-bestattungshaus.de/

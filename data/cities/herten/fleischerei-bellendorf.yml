@@ -4,8 +4,9 @@ latitude: 51.61236
 longitude: 7.11808
 postcode: "45701"
 city: Herten
-street: "Feldstraße"
-housenumber: 263
-phone: "+49 2366 55562"
-opening_hours: "Tu,We,Th 08:00-13:00,15:00-18:00; Mo,Sa 08:00-13:00; Fr 08:00-18:00; Su off; PH off"
+street: Feldstraße
+housenumber: "263"
+phone: +49 2366 55562
+opening_hours: Tu,We,Th 08:00-13:00,15:00-18:00; Mo,Sa 08:00-13:00; Fr 08:00-18:00;
+    Su off; PH off
 website: ""

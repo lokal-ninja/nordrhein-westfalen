@@ -4,8 +4,8 @@ latitude: 51.52065
 longitude: 7.25048
 postcode: "44805"
 city: Bochum
-street: "Wiescherstraße"
-housenumber: 84
-phone: "+49 234 452700"
-opening_hours: "Mo-Fr 10:00-18:00; PH off"
-website: "https://www.hess-autoteile.de/unternehmen/standorte/niederlassung-bochum"
+street: Wiescherstraße
+housenumber: "84"
+phone: +49 234 452700
+opening_hours: Mo-Fr 10:00-18:00; PH off
+website: https://www.hess-autoteile.de/unternehmen/standorte/niederlassung-bochum

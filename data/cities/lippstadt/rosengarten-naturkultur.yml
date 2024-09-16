@@ -1,11 +1,11 @@
 id: 168700064
-type: way
+type: node
 latitude: 51.63439
 longitude: 8.39349
 postcode: "59558"
 city: Lippstadt
-street: "Rüthener Straße"
-housenumber: 46
+street: Rüthener Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.rosengarten-naturkultur.de/"
+website: https://www.rosengarten-naturkultur.de/

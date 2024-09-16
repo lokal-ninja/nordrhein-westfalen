@@ -4,8 +4,8 @@ latitude: 51.68912
 longitude: 7.88509
 postcode: "59071"
 city: Hamm
-street: "Moritz-Bacharach-Straße"
-housenumber: 5
+street: Moritz-Bacharach-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"
-website: "https://www.sport-deppenkemper.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:00
+website: https://www.sport-deppenkemper.de/

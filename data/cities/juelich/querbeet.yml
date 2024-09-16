@@ -4,8 +4,9 @@ latitude: 50.93042
 longitude: 6.35945
 postcode: "52428"
 city: Jülich
-street: "Nordstraße"
-housenumber: 
+street: Nordstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo 08:00-13:00; Tu 08:00-13:00,13:30-18:30; We 08:00-13:00; Th-Fr 08:00-13:00,13:30-18:30; Sa 07:30-13:00"
+opening_hours: Mo 08:00-13:00; Tu 08:00-13:00,13:30-18:30; We 08:00-13:00; Th-Fr 08:00-13:00,13:30-18:30;
+    Sa 07:30-13:00
 website: ""

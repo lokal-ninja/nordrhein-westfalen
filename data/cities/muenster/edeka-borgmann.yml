@@ -4,8 +4,8 @@ latitude: 51.93125
 longitude: 7.57988
 postcode: "48163"
 city: Münster
-street: "Dingbängerweg"
-housenumber: 69
+street: Dingbängerweg
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-borgmann-dingb%C3%A4ngerweg-69/index.jsp"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-borgmann-dingb%C3%A4ngerweg-69/index.jsp

@@ -1,11 +1,11 @@
 id: 1125863408
-type: way
+type: node
 latitude: 52.19358
 longitude: 7.16185
 postcode: "48607"
 city: Ochtrup
-street: "Weinerpark"
-housenumber: 6
-phone: "+49 2553 726800"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00;Su 10:00-13:00"
-website: "https://www.rsf.de/"
+street: Weinerpark
+housenumber: "6"
+phone: +49 2553 726800
+opening_hours: Mo-Fr 08:00-18:00;Sa 09:00-13:00;Su 10:00-13:00
+website: https://www.rsf.de/

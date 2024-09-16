@@ -1,11 +1,11 @@
 id: 52673731
-type: way
+type: node
 latitude: 50.91136
 longitude: 7.88989
 postcode: "57258"
 city: Freudenberg
-street: "Triftstraße"
-housenumber: 41
+street: Triftstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

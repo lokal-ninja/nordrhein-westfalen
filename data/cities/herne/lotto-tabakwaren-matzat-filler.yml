@@ -1,11 +1,11 @@
 id: 990491169
-type: way
+type: node
 latitude: 51.53737
 longitude: 7.22474
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
 website: ""

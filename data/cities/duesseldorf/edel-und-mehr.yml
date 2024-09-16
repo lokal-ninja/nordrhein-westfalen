@@ -4,8 +4,8 @@ latitude: 51.23576
 longitude: 6.86159
 postcode: "40625"
 city: Düsseldorf
-street: "Kölner Tor"
-housenumber: 20
-phone: "+49 211 30147090"
+street: Kölner Tor
+housenumber: "20"
+phone: +49 211 30147090
 opening_hours: ""
-website: "https://edelundmehr.de"
+website: https://edelundmehr.de

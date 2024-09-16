@@ -1,11 +1,11 @@
 id: 83460288
-type: way
+type: node
 latitude: 50.88798
 longitude: 8.02565
 postcode: "57072"
 city: Siegen
-street: "Bismarckstraße"
+street: Bismarckstraße
 housenumber: 95a
-phone: "+49 271 489890"
-opening_hours: "Mo-Fr 09:00-19:00,Sa 09:00-15:00; PH off"
-website: "https://www.elektro-goettert.de"
+phone: +49 271 489890
+opening_hours: Mo-Fr 09:00-19:00,Sa 09:00-15:00; PH off
+website: https://www.elektro-goettert.de

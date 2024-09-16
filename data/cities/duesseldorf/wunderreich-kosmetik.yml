@@ -4,8 +4,8 @@ latitude: 51.23906
 longitude: 6.77707
 postcode: "40477"
 city: Düsseldorf
-street: "Cordobastraße"
-housenumber: 15
+street: Cordobastraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo off; Tu-Sa nach Vereinbarung; Su off"
+opening_hours: Mo off; Tu-Sa "nach Vereinbarung"; Su off
 website: ""

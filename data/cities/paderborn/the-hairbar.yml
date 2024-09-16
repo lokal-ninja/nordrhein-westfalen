@@ -4,8 +4,8 @@ latitude: 51.71288
 longitude: 8.7501
 postcode: "33098"
 city: Paderborn
-street: "Widukindstraße"
-housenumber: 2
+street: Widukindstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.the-hairbar.de"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.the-hairbar.de

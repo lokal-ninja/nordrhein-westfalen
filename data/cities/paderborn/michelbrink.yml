@@ -4,8 +4,8 @@ latitude: 51.73444
 longitude: 8.78825
 postcode: "33100"
 city: Paderborn
-street: "Senefelderstraße"
-housenumber: 13
+street: Senefelderstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 9:30-19:00"
-website: "https://www.michelbrink24.de"
+opening_hours: Mo-Sa 9:30-19:00
+website: https://www.michelbrink24.de

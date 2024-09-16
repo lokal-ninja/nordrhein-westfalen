@@ -4,8 +4,8 @@ latitude: 50.60717
 longitude: 6.30093
 postcode: "52152"
 city: Simmerath
-street: "Hauptstraße"
-housenumber: 57
-phone: "+49 2473 1222"
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:30; Sa 09:30-14:00"
-website: "https://www.elektro-leister.de/"
+street: Hauptstraße
+housenumber: "57"
+phone: +49 2473 1222
+opening_hours: Mo-Fr 09:30-13:00, 14:00-18:30; Sa 09:30-14:00
+website: https://www.elektro-leister.de/

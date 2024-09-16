@@ -1,11 +1,11 @@
 id: 115544365
-type: way
+type: node
 latitude: 51.1161
 longitude: 6.83444
 postcode: "41541"
 city: Dormagen
-street: "Aldenhovenstraße"
-housenumber: 90
-phone: "+49 2133 42742"
+street: Aldenhovenstraße
+housenumber: "90"
+phone: +49 2133 42742
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.77742
 longitude: 6.09172
 postcode: "52062"
 city: Aachen
-street: "Schumacherstraße"
-housenumber: 14
-phone: "+49 241 1688285"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-14:00; Su,PH off"
-website: "https://www.aseag.de/"
+street: Schumacherstraße
+housenumber: "14"
+phone: +49 241 1688285
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-14:00; Su,PH off
+website: https://www.aseag.de/

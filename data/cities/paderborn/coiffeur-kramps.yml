@@ -4,8 +4,8 @@ latitude: 51.70788
 longitude: 8.74629
 postcode: "33098"
 city: Paderborn
-street: "Borchener Straße"
-housenumber: 82
+street: Borchener Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:30-18:00;We 11:00-15:00;Sa 08:30-13:30;Su,PH off"
-website: "http://www.kramps-biosthetik.de/"
+opening_hours: Tu,Th,Fr 09:30-18:00;We 11:00-15:00;Sa 08:30-13:30;Su,PH off
+website: http://www.kramps-biosthetik.de/

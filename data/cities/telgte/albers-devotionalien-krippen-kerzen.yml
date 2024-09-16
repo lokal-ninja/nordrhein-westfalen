@@ -1,11 +1,11 @@
 id: 259609781
-type: way
+type: node
 latitude: 51.98501
 longitude: 7.78563
 postcode: "48291"
 city: Telgte
-street: "Kardinal-von-Galen-Platz"
-housenumber: 7
+street: Kardinal-von-Galen-Platz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH,Su 10:30-16:30"
-website: "https://albers-devotionalien.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH,Su 10:30-16:30
+website: https://albers-devotionalien.de/

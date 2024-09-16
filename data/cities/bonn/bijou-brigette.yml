@@ -4,8 +4,8 @@ latitude: 50.73564
 longitude: 7.10037
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 17
+street: Sternstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.bijou-brigitte.com/"
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.bijou-brigitte.com/

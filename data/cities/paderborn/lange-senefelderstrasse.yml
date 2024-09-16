@@ -4,8 +4,8 @@ latitude: 51.73439
 longitude: 8.78833
 postcode: "33100"
 city: Paderborn
-street: "Senefelderstraße"
-housenumber: 13
+street: Senefelderstraße
+housenumber: "13"
 phone: "+49525159123"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-senefelderstrasse.php"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-senefelderstrasse.php

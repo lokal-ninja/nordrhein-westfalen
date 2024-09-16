@@ -1,11 +1,11 @@
 id: 25009209
-type: way
+type: node
 latitude: 50.79189
 longitude: 7.22143
 postcode: "53721"
 city: Siegburg
-street: "Wilhelm-Ostwald-Straße"
+street: Wilhelm-Ostwald-Straße
 housenumber: 1b
-phone: "+49 2241 57313"
+phone: +49 2241 57313
 opening_hours: ""
-website: "https://www.pitstop.de/"
+website: https://www.pitstop.de/

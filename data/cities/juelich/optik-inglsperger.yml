@@ -4,8 +4,8 @@ latitude: 50.92218
 longitude: 6.35913
 postcode: "52428"
 city: Jülich
-street: "Kölnstraße"
-housenumber: 4
+street: Kölnstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://optik-inglsperger.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://optik-inglsperger.de/

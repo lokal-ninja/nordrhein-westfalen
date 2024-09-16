@@ -1,11 +1,11 @@
 id: 101534712
-type: way
+type: node
 latitude: 51.67057
 longitude: 7.6246
 postcode: "59368"
 city: Werne
-street: "Capeller Straße"
-housenumber: 41
-phone: "+49 2389 2528"
+street: Capeller Straße
+housenumber: "41"
+phone: +49 2389 2528
 opening_hours: ""
-website: "https://autohausgronau.skoda-auto.de/"
+website: https://autohausgronau.skoda-auto.de/

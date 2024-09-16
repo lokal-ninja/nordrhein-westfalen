@@ -1,11 +1,11 @@
 id: 458455269
-type: way
+type: node
 latitude: 51.65141
 longitude: 7.33144
 postcode: "45711"
 city: Datteln
-street: "Friedrich-Ebert-Straße"
-housenumber: 58
+street: Friedrich-Ebert-Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, Fr 13:30-14:30, Mo-Th 13:30-17:30"
+opening_hours: Mo-Fr 08:00-12:30, Fr 13:30-14:30, Mo-Th 13:30-17:30
 website: ""

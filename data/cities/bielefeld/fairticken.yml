@@ -4,8 +4,8 @@ latitude: 52.02415
 longitude: 8.536
 postcode: "33602"
 city: Bielefeld
-street: "Wilhelmstraße"
-housenumber: 9
-phone: "+49-521-5574577"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; Dec Sa 11:00-18:00"
-website: "https://www.fairticken-shop.de/"
+street: Wilhelmstraße
+housenumber: "9"
+phone: +49-521-5574577
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00; Dec Sa 11:00-18:00
+website: https://www.fairticken-shop.de/

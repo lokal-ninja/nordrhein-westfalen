@@ -1,11 +1,11 @@
 id: 146869761
-type: way
+type: node
 latitude: 50.69439
 longitude: 7.14099
 postcode: "53175"
 city: Bonn
-street: "Godesberger Straße"
-housenumber: 59
+street: Godesberger Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

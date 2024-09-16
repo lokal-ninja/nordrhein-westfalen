@@ -4,8 +4,9 @@ latitude: 51.71701
 longitude: 8.75633
 postcode: ""
 city: Paderborn
-street: "Grube"
+street: Grube
 housenumber: 13-15
 phone: ""
-opening_hours: "Montag - Donnerstag 9 - 13 und 14 - 17 Uhr. Freitag, Samstag oder später nach Vereinbarung"
-website: "http://www.paramente-cassau.de"
+opening_hours: '"Montag - Donnerstag 9 - 13 und 14 - 17 Uhr. Freitag, Samstag oder
+    später nach Vereinbarung"'
+website: http://www.paramente-cassau.de

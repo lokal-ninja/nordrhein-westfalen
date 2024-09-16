@@ -1,11 +1,11 @@
 id: 374749452
-type: way
+type: node
 latitude: 51.00443
 longitude: 6.5602
 postcode: "50181"
 city: Bedburg
-street: "Albert-Schweitzer-Straße"
-housenumber: 25
+street: Albert-Schweitzer-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
 website: ""

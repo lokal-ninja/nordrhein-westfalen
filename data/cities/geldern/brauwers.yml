@@ -1,11 +1,11 @@
 id: 255765629
-type: way
+type: node
 latitude: 51.4987
 longitude: 6.24397
 postcode: "47608"
 city: Geldern
-street: "Kevelaerer Straße"
-housenumber: 4
+street: Kevelaerer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Sa 07:30-13:00; Tu-Fr 07:30-18:30; PH off"
-website: "http://www.fleischerei-brauwers.de/"
+opening_hours: Mo,Sa 07:30-13:00; Tu-Fr 07:30-18:30; PH off
+website: http://www.fleischerei-brauwers.de/

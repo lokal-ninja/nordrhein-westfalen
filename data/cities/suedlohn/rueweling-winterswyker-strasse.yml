@@ -4,8 +4,8 @@ latitude: 51.93583
 longitude: 6.80498
 postcode: "46354"
 city: Südlohn
-street: "Winterswyker Straße"
-housenumber: 30
-phone: "+49 2862 6004"
-opening_hours: "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-12:30; Sa 07:00-13:00"
-website: "https://www.rueweling-meisterfleisch.de"
+street: Winterswyker Straße
+housenumber: "30"
+phone: +49 2862 6004
+opening_hours: Mo,Tu,Th,Fr 07:30-18:00; We 07:30-12:30; Sa 07:00-13:00
+website: https://www.rueweling-meisterfleisch.de

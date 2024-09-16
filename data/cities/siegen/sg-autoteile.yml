@@ -4,8 +4,8 @@ latitude: 50.88035
 longitude: 8.02608
 postcode: "57072"
 city: Siegen
-street: "Sandstraße"
-housenumber: 121
-phone: "+49 271 7734 4770"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.sg-autoteile.de/"
+street: Sandstraße
+housenumber: "121"
+phone: +49 271 7734 4770
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.sg-autoteile.de/

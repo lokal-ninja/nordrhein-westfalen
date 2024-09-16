@@ -1,11 +1,11 @@
 id: 236845063
-type: way
+type: node
 latitude: 51.60702
 longitude: 8.33692
 postcode: "59597"
 city: Erwitte
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://edeka-windmann.de"
+website: https://edeka-windmann.de

@@ -4,8 +4,8 @@ latitude: 51.85079
 longitude: 6.8641
 postcode: "46325"
 city: Borken
-street: "Ahauser Straße"
-housenumber: 6
-phone: "+49 2861 896625"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; PH,Su off"
-website: "https://www.audio-destination.de/index.htm"
+street: Ahauser Straße
+housenumber: "6"
+phone: +49 2861 896625
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; PH,Su off
+website: https://www.audio-destination.de/index.htm

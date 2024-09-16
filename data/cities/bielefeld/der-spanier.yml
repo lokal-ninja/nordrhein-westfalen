@@ -4,8 +4,8 @@ latitude: 52.03142
 longitude: 8.52721
 postcode: "33613"
 city: Bielefeld
-street: "Jöllenbecker Straße"
-housenumber: 57
+street: Jöllenbecker Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-14:30"
-website: "http://www.derspanier-bielefeld.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-14:30
+website: http://www.derspanier-bielefeld.de/

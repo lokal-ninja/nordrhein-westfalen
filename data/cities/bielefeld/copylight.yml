@@ -4,8 +4,8 @@ latitude: 52.02347
 longitude: 8.5248
 postcode: "33615"
 city: Bielefeld
-street: "Stapenhorststraße"
-housenumber: 12
-phone: "+49-521-123714"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "https://copylight-bielefeld.de/"
+street: Stapenhorststraße
+housenumber: "12"
+phone: +49-521-123714
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
+website: https://copylight-bielefeld.de/

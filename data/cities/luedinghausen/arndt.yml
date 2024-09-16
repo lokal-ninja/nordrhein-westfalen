@@ -4,8 +4,8 @@ latitude: 51.7704
 longitude: 7.44371
 postcode: "59348"
 city: Lüdinghausen
-street: "Mühlenstraße"
-housenumber: 5
+street: Mühlenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00; Th,Sa 09:00-14:00"
-website: "https://www.reformhaus-arndt.de/standorte/luedinghausen"
+opening_hours: Tu,We,Fr 09:00-18:00; Th,Sa 09:00-14:00
+website: https://www.reformhaus-arndt.de/standorte/luedinghausen

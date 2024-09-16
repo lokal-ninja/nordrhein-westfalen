@@ -1,11 +1,11 @@
 id: 332840850
-type: way
+type: node
 latitude: 51.86988
 longitude: 9.195
 postcode: "32816"
 city: Schieder-Schwalenberg
-street: "Ruensieker Straße"
-housenumber: 21
+street: Ruensieker Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

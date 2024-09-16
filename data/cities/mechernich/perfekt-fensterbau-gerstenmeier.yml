@@ -1,11 +1,11 @@
 id: 709016082
-type: way
+type: node
 latitude: 50.64206
 longitude: 6.69474
 postcode: "53894"
 city: Mechernich
-street: "Ziegelfeld"
-housenumber: 6
+street: Ziegelfeld
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

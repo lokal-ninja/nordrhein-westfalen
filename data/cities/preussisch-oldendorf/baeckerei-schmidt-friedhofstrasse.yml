@@ -4,8 +4,8 @@ latitude: 52.30683
 longitude: 8.4913
 postcode: "32361"
 city: Preußisch Oldendorf
-street: "Friedhofstraße"
-housenumber: 1
-phone: "+49 5742 920376"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-19:00"
-website: "https://www.baeckerei-schmidt.de/"
+street: Friedhofstraße
+housenumber: "1"
+phone: +49 5742 920376
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-19:00
+website: https://www.baeckerei-schmidt.de/

@@ -1,11 +1,11 @@
 id: 182068807
-type: way
+type: node
 latitude: 52.2973
 longitude: 7.64582
 postcode: "49479"
 city: Ibbenbüren
-street: "Birkenallee"
-housenumber: 8
+street: Birkenallee
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

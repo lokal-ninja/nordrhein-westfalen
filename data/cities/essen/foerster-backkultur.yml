@@ -4,8 +4,8 @@ latitude: 51.40227
 longitude: 7.06773
 postcode: "45259"
 city: Essen
-street: "Schangstraße"
-housenumber: 2
+street: Schangstraße
+housenumber: "2"
 phone: "+4920145037718"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 07:30-11:00"
-website: "https://baecker-foerster.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 07:30-11:00
+website: https://baecker-foerster.de/

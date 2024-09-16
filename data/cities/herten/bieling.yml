@@ -4,8 +4,8 @@ latitude: 51.60319
 longitude: 7.15999
 postcode: "45699"
 city: Herten
-street: "Kaiserstraße"
-housenumber: 251
-phone: "+49 2366 8880"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.bieling.de/"
+street: Kaiserstraße
+housenumber: "251"
+phone: +49 2366 8880
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.bieling.de/

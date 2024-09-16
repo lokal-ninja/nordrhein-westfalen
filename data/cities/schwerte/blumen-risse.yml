@@ -4,8 +4,8 @@ latitude: 51.44197
 longitude: 7.56325
 postcode: "58239"
 city: Schwerte
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-15:00"
-website: "http://www.blumenrisse.de"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-15:00
+website: http://www.blumenrisse.de

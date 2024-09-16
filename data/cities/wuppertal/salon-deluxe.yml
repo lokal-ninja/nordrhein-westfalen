@@ -1,11 +1,11 @@
 id: 289064776
-type: way
+type: node
 latitude: 51.26747
 longitude: 7.18105
 postcode: "42283"
 city: Wuppertal
-street: "Loher Straße"
-housenumber: 32
+street: Loher Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

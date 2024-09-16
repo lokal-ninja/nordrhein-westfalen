@@ -4,8 +4,8 @@ latitude: 52.01702
 longitude: 8.5205
 postcode: "33615"
 city: Bielefeld
-street: "Hochstraße"
-housenumber: 15
+street: Hochstraße
+housenumber: "15"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.hey-dress.de/"
+opening_hours: '"by appointment"'
+website: https://www.hey-dress.de/

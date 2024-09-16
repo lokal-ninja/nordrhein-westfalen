@@ -1,11 +1,11 @@
 id: 251876790
-type: way
+type: node
 latitude: 51.22169
 longitude: 7.6251
 postcode: "58507"
 city: Lüdenscheid
-street: "Karolinenstraße"
+street: Karolinenstraße
 housenumber: 11a
-phone: "+49 2351 23509"
-opening_hours: "Mo-Su 07:30-20:00"
+phone: +49 2351 23509
+opening_hours: Mo-Su 07:30-20:00
 website: ""

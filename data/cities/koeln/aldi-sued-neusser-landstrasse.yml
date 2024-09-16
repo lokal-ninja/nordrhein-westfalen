@@ -1,11 +1,11 @@
 id: 119325914
-type: way
+type: node
 latitude: 51.0708
 longitude: 6.85912
 postcode: "50769"
 city: Köln
-street: "Neusser Landstraße"
-housenumber: 378
+street: Neusser Landstraße
+housenumber: "378"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de/

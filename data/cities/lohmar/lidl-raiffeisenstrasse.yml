@@ -1,11 +1,11 @@
 id: 131903719
-type: way
+type: node
 latitude: 50.84006
 longitude: 7.2071
 postcode: "53797"
 city: Lohmar
-street: "Raiffeisenstraße"
-housenumber: 15
+street: Raiffeisenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

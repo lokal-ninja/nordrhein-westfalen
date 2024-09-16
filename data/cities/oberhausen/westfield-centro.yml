@@ -1,11 +1,11 @@
 id: 148517419
-type: way
+type: node
 latitude: 51.48951
 longitude: 6.87536
 postcode: "46047"
 city: Oberhausen
-street: "Centroallee"
-housenumber: 1000
-phone: "+49 208 8280"
+street: Centroallee
+housenumber: "1000"
+phone: +49 208 8280
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 800457458
-type: way
+type: node
 latitude: 51.05113
 longitude: 7.00163
 postcode: "51373"
 city: Leverkusen
-street: "Julius-Doms-Straße"
-housenumber: 6
-phone: "+49 214 868570"
+street: Julius-Doms-Straße
+housenumber: "6"
+phone: +49 214 868570
 opening_hours: ""
-website: "https://www.bob-automobile.de/standort-leverkusen/"
+website: https://www.bob-automobile.de/standort-leverkusen/

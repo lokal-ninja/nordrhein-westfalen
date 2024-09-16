@@ -1,11 +1,11 @@
 id: 32482227
-type: way
+type: node
 latitude: 51.56872
 longitude: 6.75137
 postcode: "46539"
 city: Dinslaken
-street: "Otto-Lilienthal-Straße"
-housenumber: 54
-phone: "+49 2064 82 90 0"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.maibom-gruppe.de/go.to/modix/1/standorte.html?standortAktiv=1496594"
+street: Otto-Lilienthal-Straße
+housenumber: "54"
+phone: +49 2064 82 90 0
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.maibom-gruppe.de/go.to/modix/1/standorte.html?standortAktiv=1496594

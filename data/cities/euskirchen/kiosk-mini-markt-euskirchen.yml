@@ -4,8 +4,9 @@ latitude: 50.65992
 longitude: 6.79107
 postcode: "53879"
 city: Euskirchen
-street: "Wilhelmstraße"
-housenumber: 5
+street: Wilhelmstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 10:00-23:30; Tu 09:00-23:30; We 09:30-23:30; Th 09:00-01:00; Fr 09:30-01:00; Sa 10:00-01:00; Su 10:00-22:45"
+opening_hours: Mo 10:00-23:30; Tu 09:00-23:30; We 09:30-23:30; Th 09:00-01:00; Fr
+    09:30-01:00; Sa 10:00-01:00; Su 10:00-22:45
 website: ""

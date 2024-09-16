@@ -1,11 +1,11 @@
 id: 210624808
-type: way
+type: node
 latitude: 52.22499
 longitude: 7.48333
 postcode: "48432"
 city: Rheine
-street: "Bürgerstraße"
-housenumber: 8
+street: Bürgerstraße
+housenumber: "8"
 phone: "+4959759191923"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "http://auto-mesum.de/"
+opening_hours: Mo-Fr 08:00-17:30
+website: http://auto-mesum.de/

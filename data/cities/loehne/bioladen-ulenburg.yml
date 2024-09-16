@@ -1,11 +1,11 @@
 id: 510199849
-type: way
+type: node
 latitude: 52.21525
 longitude: 8.69391
 postcode: "32584"
 city: Löhne
-street: "Ulenburger Allee"
-housenumber: 70
-phone: "+49 5732 51 47"
-opening_hours: "Mo-Fr 07:30-19:30, Sa 07:30-14:00"
-website: "https://bioladen-ulenburg.de/"
+street: Ulenburger Allee
+housenumber: "70"
+phone: +49 5732 51 47
+opening_hours: Mo-Fr 07:30-19:30, Sa 07:30-14:00
+website: https://bioladen-ulenburg.de/

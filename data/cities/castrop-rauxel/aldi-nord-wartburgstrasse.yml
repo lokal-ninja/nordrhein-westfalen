@@ -1,11 +1,11 @@
 id: 300237422
-type: way
+type: node
 latitude: 51.57944
 longitude: 7.30247
 postcode: "44579"
 city: Castrop-Rauxel
-street: "Wartburgstraße"
+street: Wartburgstraße
 housenumber: 69a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

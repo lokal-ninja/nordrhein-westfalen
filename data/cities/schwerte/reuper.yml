@@ -1,11 +1,11 @@
 id: 255567744
-type: way
+type: node
 latitude: 51.45986
 longitude: 7.61699
 postcode: "58239"
 city: Schwerte
-street: "An der Silberkuhle"
-housenumber: 2
+street: An der Silberkuhle
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

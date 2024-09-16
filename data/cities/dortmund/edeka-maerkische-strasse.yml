@@ -1,11 +1,11 @@
 id: 56985901
-type: way
+type: node
 latitude: 51.50648
 longitude: 7.4762
 postcode: "44141"
 city: Dortmund
-street: "Märkische Straße"
-housenumber: 82
+street: Märkische Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

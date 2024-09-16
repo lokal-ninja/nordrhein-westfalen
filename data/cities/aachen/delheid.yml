@@ -4,8 +4,8 @@ latitude: 50.77433
 longitude: 6.08288
 postcode: "52062"
 city: Aachen
-street: "Schmiedstraße"
-housenumber: 7
-phone: "+49 241 22293"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00; Su,PH off"
-website: "https://www.leder-delheid.de/"
+street: Schmiedstraße
+housenumber: "7"
+phone: +49 241 22293
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-16:00; Su,PH off
+website: https://www.leder-delheid.de/

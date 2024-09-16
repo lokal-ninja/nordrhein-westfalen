@@ -1,11 +1,11 @@
 id: 271851004
-type: way
+type: node
 latitude: 51.70408
 longitude: 7.38545
 postcode: "59399"
 city: Olfen
-street: "Robert-Bosch-Straße"
-housenumber: 26
+street: Robert-Bosch-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.gartenbau-maxhome.de/"
+website: https://www.gartenbau-maxhome.de/

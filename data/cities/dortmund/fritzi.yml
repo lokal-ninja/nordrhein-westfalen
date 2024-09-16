@@ -4,8 +4,8 @@ latitude: 51.50348
 longitude: 7.45501
 postcode: "44139"
 city: Dortmund
-street: "Liebigstraße"
-housenumber: 46
-phone: "+49 231 95091548"
-opening_hours: "Mo-Th 10:30-18:30; Fr 10:30-19:00; Sa 10:00-16:00"
+street: Liebigstraße
+housenumber: "46"
+phone: +49 231 95091548
+opening_hours: Mo-Th 10:30-18:30; Fr 10:30-19:00; Sa 10:00-16:00
 website: ""

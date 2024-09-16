@@ -4,8 +4,8 @@ latitude: 50.73625
 longitude: 7.10289
 postcode: "53111"
 city: Bonn
-street: "Brüdergasse"
-housenumber: 11
+street: Brüdergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 13:00-18:00; Sa 11:00-15:00"
+opening_hours: Mo-Fr 13:00-18:00; Sa 11:00-15:00
 website: ""

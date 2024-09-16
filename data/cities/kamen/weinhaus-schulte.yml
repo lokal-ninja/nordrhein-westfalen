@@ -1,11 +1,11 @@
 id: 197235377
-type: way
+type: node
 latitude: 51.59087
 longitude: 7.66393
 postcode: "59174"
 city: Kamen
-street: "Bahnhofstraße"
-housenumber: 7
-phone: "+49 2307 22708"
-opening_hours: "Mo-Th 10:00-13:00,15:00-18:30, Fr 09:30-13:00,15:00-18:30, Sa 09:30-13:30"
-website: "https://weinhaus-schulte.de/"
+street: Bahnhofstraße
+housenumber: "7"
+phone: +49 2307 22708
+opening_hours: Mo-Th 10:00-13:00,15:00-18:30, Fr 09:30-13:00,15:00-18:30, Sa 09:30-13:30
+website: https://weinhaus-schulte.de/

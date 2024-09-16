@@ -1,11 +1,11 @@
 id: 151353702
-type: way
+type: node
 latitude: 51.44983
 longitude: 7.26378
 postcode: "44801"
 city: Bochum
-street: "Overbergstraße"
-housenumber: 4
+street: Overbergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

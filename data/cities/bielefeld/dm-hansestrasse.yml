@@ -4,8 +4,8 @@ latitude: 51.95184
 longitude: 8.56991
 postcode: "33689"
 city: Bielefeld
-street: "Hansestraße"
-housenumber: 1
-phone: "+49-5205-2369309"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Hansestraße
+housenumber: "1"
+phone: +49-5205-2369309
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

@@ -4,8 +4,8 @@ latitude: 51.93529
 longitude: 8.87991
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 53
+street: Lange Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-20:00"
-website: "http://www.mcpaper.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-20:00
+website: http://www.mcpaper.de

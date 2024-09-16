@@ -4,8 +4,8 @@ latitude: 51.43608
 longitude: 7.22386
 postcode: "44797"
 city: Bochum
-street: "Kemnader Straße"
-housenumber: 104
-phone: "+49 234 472152"
-opening_hours: "Mo 08:00-13:00; Tu 08:00-13:00,15:00-19:00; We-Fr 08:00-13:00,15:00-18:00"
-website: "https://www.ansorge-orthopaedie.de"
+street: Kemnader Straße
+housenumber: "104"
+phone: +49 234 472152
+opening_hours: Mo 08:00-13:00; Tu 08:00-13:00,15:00-19:00; We-Fr 08:00-13:00,15:00-18:00
+website: https://www.ansorge-orthopaedie.de

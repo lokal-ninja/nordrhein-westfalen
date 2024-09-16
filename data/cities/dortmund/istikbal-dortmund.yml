@@ -4,8 +4,8 @@ latitude: 51.49393
 longitude: 7.37949
 postcode: "44149"
 city: Dortmund
-street: "Brennaborstraße"
-housenumber: 12
+street: Brennaborstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su off"
-website: "http://www.istikbal-koeln-moebel.de/"
+opening_hours: Mo-Sa 10:00-20:00; Su off
+website: http://www.istikbal-koeln-moebel.de/

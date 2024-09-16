@@ -4,8 +4,8 @@ latitude: 51.23135
 longitude: 6.75524
 postcode: "40545"
 city: Düsseldorf
-street: "Luegallee"
-housenumber: 55
-phone: "+49 211 551649"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Luegallee
+housenumber: "55"
+phone: +49 211 551649
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

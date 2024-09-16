@@ -1,11 +1,11 @@
 id: 87296167
-type: way
+type: node
 latitude: 51.19479
 longitude: 6.64186
 postcode: "41464"
 city: Neuss
-street: "Bauerbahn"
-housenumber: 5
-phone: "+49 2131 84668"
-opening_hours: "Mo-Th 15:00-18:30; Fr 13:00-18:30; Sa 10:00-15:00"
-website: "http://www.weinhaus-online.de/"
+street: Bauerbahn
+housenumber: "5"
+phone: +49 2131 84668
+opening_hours: Mo-Th 15:00-18:30; Fr 13:00-18:30; Sa 10:00-15:00
+website: http://www.weinhaus-online.de/

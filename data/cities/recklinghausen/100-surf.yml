@@ -4,8 +4,8 @@ latitude: 51.60859
 longitude: 7.19139
 postcode: "45659"
 city: Recklinghausen
-street: "Hohenzollernstraße"
-housenumber: 15
-phone: "+49 2361 24818"
-opening_hours: "Tu-Fr 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.100-surf.de/"
+street: Hohenzollernstraße
+housenumber: "15"
+phone: +49 2361 24818
+opening_hours: Tu-Fr 15:00-18:00; Sa 10:00-13:00
+website: https://www.100-surf.de/

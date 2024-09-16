@@ -1,11 +1,11 @@
 id: 135168125
-type: way
+type: node
 latitude: 50.74167
 longitude: 7.07977
 postcode: "53119"
 city: Bonn
-street: "Vorgebirgsstraße"
-housenumber: 100
+street: Vorgebirgsstraße
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.ccc-mobile.com/"
+website: https://www.ccc-mobile.com/

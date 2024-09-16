@@ -4,8 +4,8 @@ latitude: 51.21926
 longitude: 6.7716
 postcode: "40213"
 city: Düsseldorf
-street: "Haroldstraße"
-housenumber: 14
-phone: "+49 211 21070437"
-opening_hours: "Tu-Fr 12:00-14:00,16:00-18:00; Sa 12:00-14:00"
-website: "https://www.jasper-kuechen.de/"
+street: Haroldstraße
+housenumber: "14"
+phone: +49 211 21070437
+opening_hours: Tu-Fr 12:00-14:00,16:00-18:00; Sa 12:00-14:00
+website: https://www.jasper-kuechen.de/

@@ -4,8 +4,8 @@ latitude: 51.5207
 longitude: 7.09001
 postcode: "45881"
 city: Gelsenkirchen
-street: "Kurt-Schumacher-Straße"
-housenumber: 61
-phone: "+49 209 957 178 61"
+street: Kurt-Schumacher-Straße
+housenumber: "61"
+phone: +49 209 957 178 61
 opening_hours: ""
-website: "https://bis-tuning.de/"
+website: https://bis-tuning.de/

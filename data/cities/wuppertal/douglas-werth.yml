@@ -4,8 +4,8 @@ latitude: 51.27138
 longitude: 7.20038
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 42
+street: Werth
+housenumber: "42"
 phone: "+49202559925"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00; Su,PH off"
-website: "https://www.douglas.de/de/l/wuppertal/werth/00020578"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00; Su,PH off
+website: https://www.douglas.de/de/l/wuppertal/werth/00020578

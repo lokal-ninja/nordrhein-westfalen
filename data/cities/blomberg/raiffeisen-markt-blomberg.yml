@@ -1,11 +1,11 @@
 id: 32718428
-type: way
+type: node
 latitude: 51.93801
 longitude: 9.09773
 postcode: "32825"
 city: Blomberg
-street: "Lehmbrink"
-housenumber: 21
+street: Lehmbrink
+housenumber: "21"
 phone: "+4952357378"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
-website: "https://www.rlw-ag.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
+website: https://www.rlw-ag.de/

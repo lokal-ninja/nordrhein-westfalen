@@ -4,8 +4,8 @@ latitude: 51.19325
 longitude: 7.01156
 postcode: "42781"
 city: Haan
-street: "Neuer Markt"
-housenumber: 16
-phone: "+49 2129 8051"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:30-12:30; PH off"
-website: "http://www.jet-set-tours.de/"
+street: Neuer Markt
+housenumber: "16"
+phone: +49 2129 8051
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:30-12:30; PH off
+website: http://www.jet-set-tours.de/

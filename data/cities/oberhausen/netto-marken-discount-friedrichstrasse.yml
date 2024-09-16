@@ -1,11 +1,11 @@
 id: 761212710
-type: way
+type: node
 latitude: 51.51127
 longitude: 6.84515
 postcode: "46145"
 city: Oberhausen
-street: "Friedrichstraße"
-housenumber: 47
+street: Friedrichstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH Su off"
+opening_hours: Mo-Sa 07:00-22:00; PH Su off
 website: ""

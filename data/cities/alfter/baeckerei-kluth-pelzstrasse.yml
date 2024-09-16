@@ -4,8 +4,8 @@ latitude: 50.73698
 longitude: 7.01343
 postcode: "53347"
 city: Alfter
-street: "Pelzstraße"
-housenumber: 7
-phone: "+49 2222 2501"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 08:00-16:00"
-website: "https://www.bäckerei-kluth.de"
+street: Pelzstraße
+housenumber: "7"
+phone: +49 2222 2501
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 08:00-16:00
+website: https://www.bäckerei-kluth.de

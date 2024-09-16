@@ -1,11 +1,11 @@
 id: 762172558
-type: way
+type: node
 latitude: 50.83558
 longitude: 7.10113
 postcode: "53842"
 city: Troisdorf
-street: "Zündorfer Weg"
-housenumber: 5
+street: Zündorfer Weg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

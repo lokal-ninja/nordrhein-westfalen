@@ -1,11 +1,11 @@
 id: 93121189
-type: way
+type: node
 latitude: 52.29604
 longitude: 8.90333
 postcode: ""
 city: Minden
-street: "Ringstraße"
-housenumber: 90
+street: Ringstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

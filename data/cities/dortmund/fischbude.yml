@@ -1,11 +1,11 @@
 id: 54367776
-type: way
+type: node
 latitude: 51.48284
 longitude: 7.55239
 postcode: "44287"
 city: Dortmund
-street: "Apolloweg"
-housenumber: 3
+street: Apolloweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

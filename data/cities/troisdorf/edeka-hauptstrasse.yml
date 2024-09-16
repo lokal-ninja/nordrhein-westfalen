@@ -1,11 +1,11 @@
 id: 96550952
-type: way
+type: node
 latitude: 50.82728
 longitude: 7.12064
 postcode: "53842"
 city: Troisdorf
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 138-142
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://edeka-engels.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://edeka-engels.de/

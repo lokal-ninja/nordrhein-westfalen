@@ -4,8 +4,8 @@ latitude: 51.71687
 longitude: 8.75646
 postcode: "33098"
 city: Paderborn
-street: "Kamp"
-housenumber: 27
+street: Kamp
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.noi-uomo.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.noi-uomo.de/

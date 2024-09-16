@@ -1,11 +1,11 @@
 id: 28809512
-type: way
+type: node
 latitude: 51.47307
 longitude: 6.92299
 postcode: "45359"
 city: Essen
-street: "Schloßstraße"
-housenumber: 292
+street: Schloßstraße
+housenumber: "292"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-13:00,15:00-18:00; We,Sa 08:30-13:00"
+opening_hours: Mo,Tu,Th,Fr 08:30-13:00,15:00-18:00; We,Sa 08:30-13:00
 website: ""

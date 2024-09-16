@@ -1,11 +1,11 @@
 id: 283465489
-type: way
+type: node
 latitude: 52.13829
 longitude: 7.73489
 postcode: "49549"
 city: Ladbergen
-street: "Waldseestraße"
-housenumber: 7
+street: Waldseestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

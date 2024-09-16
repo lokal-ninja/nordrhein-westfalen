@@ -4,8 +4,8 @@ latitude: 50.77434
 longitude: 6.08207
 postcode: "52062"
 city: Aachen
-street: "Annastraße"
-housenumber: 10
+street: Annastraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-15:00; Mo,Su,PH off"
-website: "http://dagiorgio-aachen.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-15:00; Mo,Su,PH off
+website: http://dagiorgio-aachen.de/

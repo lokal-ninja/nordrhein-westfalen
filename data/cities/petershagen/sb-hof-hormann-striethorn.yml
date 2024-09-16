@@ -4,8 +4,8 @@ latitude: 52.39498
 longitude: 8.90204
 postcode: "32469"
 city: Petershagen
-street: "Striethorn"
-housenumber: 13
-phone: "+49 5707 1594"
-opening_hours: "Mo-So 06:00-22:00"
-website: "https://www.brueder-hormann.de/"
+street: Striethorn
+housenumber: "13"
+phone: +49 5707 1594
+opening_hours: Mo-So 06:00-22:00
+website: https://www.brueder-hormann.de/

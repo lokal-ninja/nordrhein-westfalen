@@ -4,8 +4,8 @@ latitude: 51.21012
 longitude: 7.13653
 postcode: "42349"
 city: Wuppertal
-street: "Händelerstraße"
-housenumber: 47
-phone: "+49 202 471881"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-13:00"
-website: "https://www.autohauskoellner.de/"
+street: Händelerstraße
+housenumber: "47"
+phone: +49 202 471881
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-13:00
+website: https://www.autohauskoellner.de/

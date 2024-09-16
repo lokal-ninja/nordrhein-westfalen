@@ -1,11 +1,11 @@
 id: 311775344
-type: way
+type: node
 latitude: 52.09051
 longitude: 8.72052
 postcode: "32105"
 city: Bad Salzuflen
-street: "Siemensstraße"
-housenumber: 113
+street: Siemensstraße
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://www.sandmueller.eu/"
+website: https://www.sandmueller.eu/

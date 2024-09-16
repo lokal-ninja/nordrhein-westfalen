@@ -4,8 +4,8 @@ latitude: 50.66178
 longitude: 6.7892
 postcode: "53879"
 city: Euskirchen
-street: "Mittelstraße"
-housenumber: 12
+street: Mittelstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-13:00; Tu,Th 13:00-16:00"
+opening_hours: Mo,We,Fr 09:00-13:00; Tu,Th 13:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.7979
 longitude: 6.46764
 postcode: "52349"
 city: Düren
-street: "Tivolistraße"
-housenumber: 120
+street: Tivolistraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
-website: "https://www.atu.de/filialen/72-dueren/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
+website: https://www.atu.de/filialen/72-dueren/

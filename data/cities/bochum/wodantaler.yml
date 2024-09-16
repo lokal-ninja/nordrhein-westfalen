@@ -4,8 +4,8 @@ latitude: 51.42899
 longitude: 7.24519
 postcode: "44797"
 city: Bochum
-street: "Kemnader Straße"
-housenumber: 333
+street: Kemnader Straße
+housenumber: "333"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-16:00"
-website: "https://www.wodantaler-landbrot.de"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-16:00
+website: https://www.wodantaler-landbrot.de

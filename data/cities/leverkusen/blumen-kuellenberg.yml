@@ -4,8 +4,8 @@ latitude: 51.06029
 longitude: 6.99705
 postcode: "51379"
 city: Leverkusen
-street: "Friesenweg"
-housenumber: 1
+street: Friesenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su 10:00-12:00"
-website: "https://www.blumenkuellenberg.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su 10:00-12:00
+website: https://www.blumenkuellenberg.de/

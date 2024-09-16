@@ -1,11 +1,11 @@
 id: 124228578
-type: way
+type: node
 latitude: 51.99223
 longitude: 6.91608
 postcode: "48703"
 city: Stadtlohn
-street: "Neustraße"
-housenumber: 11
+street: Neustraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

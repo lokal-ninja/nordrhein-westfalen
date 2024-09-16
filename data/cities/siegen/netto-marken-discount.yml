@@ -1,11 +1,11 @@
 id: 24297370
-type: way
+type: node
 latitude: 50.87725
 longitude: 8.02355
 postcode: "57072"
 city: Siegen
-street: "Sandstraße"
-housenumber: 46
+street: Sandstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.netto-online.de/filialen/siegen/sandstr-46/6989"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.netto-online.de/filialen/siegen/sandstr-46/6989

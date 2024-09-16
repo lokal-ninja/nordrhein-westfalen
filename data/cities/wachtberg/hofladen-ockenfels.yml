@@ -1,11 +1,11 @@
 id: 267952388
-type: way
+type: node
 latitude: 50.61042
 longitude: 7.13976
 postcode: "53343"
 city: Wachtberg
-street: "Weißer Weg"
-housenumber: 4
+street: Weißer Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

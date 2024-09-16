@@ -4,8 +4,8 @@ latitude: 51.25681
 longitude: 7.16452
 postcode: "42285"
 city: Wuppertal
-street: "Bendahler Straße"
-housenumber: 27
-phone: "+49 202 2802731"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.baeckerei-horsthemke.de/shops-wuppertal.html"
+street: Bendahler Straße
+housenumber: "27"
+phone: +49 202 2802731
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.baeckerei-horsthemke.de/shops-wuppertal.html

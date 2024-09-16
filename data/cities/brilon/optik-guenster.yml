@@ -1,11 +1,11 @@
 id: 185873975
-type: way
+type: node
 latitude: 51.39694
 longitude: 8.57149
 postcode: "59929"
 city: Brilon
-street: "Friedrichstraße"
-housenumber: 26
-phone: "+49 2961 51063"
+street: Friedrichstraße
+housenumber: "26"
+phone: +49 2961 51063
 opening_hours: ""
-website: "https://www.optik-guenster.de/"
+website: https://www.optik-guenster.de/

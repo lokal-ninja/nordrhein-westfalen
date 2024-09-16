@@ -1,11 +1,11 @@
 id: 207708911
-type: way
+type: node
 latitude: 51.76766
 longitude: 8.79363
 postcode: "33104"
 city: Paderborn
-street: "Im Lipphorn"
-housenumber: 5
+street: Im Lipphorn
+housenumber: "5"
 phone: "+49525250203"
 opening_hours: ""
-website: "https://www.hofladen-rudolphi.de"
+website: https://www.hofladen-rudolphi.de

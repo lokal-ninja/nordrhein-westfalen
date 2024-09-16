@@ -1,11 +1,11 @@
 id: 518373199
-type: way
+type: node
 latitude: 51.7345
 longitude: 9.02134
 postcode: "33014"
 city: Bad Driburg
-street: "Lange Straße"
-housenumber: 104
+street: Lange Straße
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.maas-hat-mode.de/"
+website: https://www.maas-hat-mode.de/

@@ -4,8 +4,8 @@ latitude: 51.47817
 longitude: 7.22384
 postcode: "44789"
 city: Bochum
-street: "Buddenbergplatz"
-housenumber: 1
+street: Buddenbergplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-16:00; Su 10:00-15:00"
-website: "https://www.pressbooks.de/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-16:00; Su 10:00-15:00
+website: https://www.pressbooks.de/

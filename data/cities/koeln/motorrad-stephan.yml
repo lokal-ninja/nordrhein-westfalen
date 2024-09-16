@@ -1,11 +1,11 @@
 id: 91026703
-type: way
+type: node
 latitude: 50.85939
 longitude: 7.1047
 postcode: "51147"
 city: Köln
-street: "Magazinstraße"
-housenumber: 2
+street: Magazinstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

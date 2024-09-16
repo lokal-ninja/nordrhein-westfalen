@@ -1,11 +1,11 @@
 id: 147206258
-type: way
+type: node
 latitude: 52.30398
 longitude: 8.61935
 postcode: "32312"
 city: Lübbecke
-street: "Bäckerstraße"
-housenumber: 21
+street: Bäckerstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

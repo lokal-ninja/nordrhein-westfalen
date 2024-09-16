@@ -4,8 +4,8 @@ latitude: 50.77839
 longitude: 6.08844
 postcode: "52062"
 city: Aachen
-street: "Alexanderstraße"
+street: Alexanderstraße
 housenumber: 11-15
-phone: "+49 241 40107081"
-opening_hours: "am 2. und 3. Samstag im Monat von 10-14 Uhr"
-website: "http://www.medy-beauty.de"
+phone: +49 241 40107081
+opening_hours: '"am 2. und 3. Samstag im Monat von 10-14 Uhr"'
+website: http://www.medy-beauty.de

@@ -1,11 +1,11 @@
 id: 169148112
-type: way
+type: node
 latitude: 51.66033
 longitude: 6.96364
 postcode: "46282"
 city: Dorsten
-street: "Markt"
-housenumber: 10
-phone: "+49 2362 9952430"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00; PH off"
-website: "https://www.nanu-nana.de"
+street: Markt
+housenumber: "10"
+phone: +49 2362 9952430
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00; PH off
+website: https://www.nanu-nana.de

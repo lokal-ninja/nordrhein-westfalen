@@ -1,11 +1,11 @@
 id: 250505595
-type: way
+type: node
 latitude: 51.6805
 longitude: 7.81458
 postcode: "59065"
 city: Hamm
-street: "Weststraße"
-housenumber: 47
-phone: "+49 2381 25234"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://www.dellwig.assima.de/"
+street: Weststraße
+housenumber: "47"
+phone: +49 2381 25234
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://www.dellwig.assima.de/

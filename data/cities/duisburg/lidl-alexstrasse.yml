@@ -1,11 +1,11 @@
 id: 151800936
-type: way
+type: node
 latitude: 51.49704
 longitude: 6.80199
 postcode: "47167"
 city: Duisburg
-street: "Alexstraße"
-housenumber: 89
+street: Alexstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164430897
-type: way
+type: node
 latitude: 51.50295
 longitude: 7.61563
 postcode: "59439"
 city: Holzwickede
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su closed"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su closed
+website: https://www.netto-online.de

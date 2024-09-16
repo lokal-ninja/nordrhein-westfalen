@@ -4,8 +4,8 @@ latitude: 51.51274
 longitude: 7.4835
 postcode: "44135"
 city: Dortmund
-street: "Bismarckstraße"
-housenumber: 6
-phone: "+49 231 58440808"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-16:00, Su 11:00-14:00"
+street: Bismarckstraße
+housenumber: "6"
+phone: +49 231 58440808
+opening_hours: Mo-Fr 09:00-19:00, Sa 10:00-16:00, Su 11:00-14:00
 website: ""

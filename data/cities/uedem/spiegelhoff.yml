@@ -4,8 +4,8 @@ latitude: 51.66757
 longitude: 6.27149
 postcode: "47589"
 city: Uedem
-street: "Weberplatz"
-housenumber: 1
+street: Weberplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Su-Mo off; Tu-Th 07:00-13:00,15:00-18:30; Fr 12:00-18:30; Sa 07:00-12:30"
-website: "https://www.baeckerei-spiegelhoff.de/"
+opening_hours: Su-Mo off; Tu-Th 07:00-13:00,15:00-18:30; Fr 12:00-18:30; Sa 07:00-12:30
+website: https://www.baeckerei-spiegelhoff.de/

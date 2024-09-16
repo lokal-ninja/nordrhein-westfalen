@@ -1,11 +1,11 @@
 id: 181295299
-type: way
+type: node
 latitude: 51.56291
 longitude: 6.74079
 postcode: "46535"
 city: Dinslaken
-street: "Am Neutor"
-housenumber: 22
+street: Am Neutor
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.kodi.de/Filialfinder/Kodi-Dinslaken/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.kodi.de/Filialfinder/Kodi-Dinslaken/

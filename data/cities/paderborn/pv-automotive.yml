@@ -4,8 +4,8 @@ latitude: 51.73506
 longitude: 8.77763
 postcode: "33100"
 city: Paderborn
-street: "Steubenstraße"
-housenumber: 47
-phone: "+49 201 201710"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 8:00-12:00; PH off"
-website: "https://www.pvautomotive.de/"
+street: Steubenstraße
+housenumber: "47"
+phone: +49 201 201710
+opening_hours: Mo-Fr 08:00-17:00; Sa 8:00-12:00; PH off
+website: https://www.pvautomotive.de/

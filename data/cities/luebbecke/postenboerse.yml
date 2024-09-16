@@ -1,11 +1,11 @@
 id: 51812814
-type: way
+type: node
 latitude: 52.30334
 longitude: 8.69353
 postcode: "32312"
 city: Lübbecke
-street: "Ravensberger Straße"
-housenumber: 20
-phone: "+49 5741 2389638"
+street: Ravensberger Straße
+housenumber: "20"
+phone: +49 5741 2389638
 opening_hours: ""
-website: "https://shop.posten-boerse.de/"
+website: https://shop.posten-boerse.de/

@@ -1,11 +1,11 @@
 id: 28869377
-type: way
+type: node
 latitude: 50.75279
 longitude: 7.04613
 postcode: "53119"
 city: Bonn
-street: "Agnetendorfer Straße"
-housenumber: 6
+street: Agnetendorfer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bonn-tannenbusch/agnetendorfer-strasse-6"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bonn-tannenbusch/agnetendorfer-strasse-6

@@ -4,8 +4,8 @@ latitude: 51.98077
 longitude: 7.55537
 postcode: "48161"
 city: Münster
-street: "Am Gievenbach"
-housenumber: 21
+street: Am Gievenbach
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://www.reifenhandel-inkmann.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://www.reifenhandel-inkmann.de/

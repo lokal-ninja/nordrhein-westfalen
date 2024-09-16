@@ -4,8 +4,8 @@ latitude: 51.17245
 longitude: 6.68699
 postcode: "41466"
 city: Neuss
-street: "Lupinenstraße"
-housenumber: 1
-phone: "+49 2131 465852"
-opening_hours: "Mo off; Tu-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.nagelstudiourlaub.de/"
+street: Lupinenstraße
+housenumber: "1"
+phone: +49 2131 465852
+opening_hours: Mo off; Tu-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.nagelstudiourlaub.de/

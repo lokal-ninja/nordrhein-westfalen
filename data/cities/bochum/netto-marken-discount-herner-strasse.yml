@@ -1,11 +1,11 @@
 id: 762856883
-type: way
+type: node
 latitude: 51.51317
 longitude: 7.21143
 postcode: "44807"
 city: Bochum
-street: "Herner Straße"
-housenumber: 406
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+street: Herner Straße
+housenumber: "406"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

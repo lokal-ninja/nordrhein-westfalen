@@ -4,8 +4,8 @@ latitude: 50.77188
 longitude: 7.44994
 postcode: "53783"
 city: Eitorf
-street: "Brückenstraße"
-housenumber: 13
-phone: "+49 2243 2786"
+street: Brückenstraße
+housenumber: "13"
+phone: +49 2243 2786
 opening_hours: ""
-website: "https://baeckerei-konditorei-auth.eatbu.com/?lang=de"
+website: https://baeckerei-konditorei-auth.eatbu.com/?lang=de

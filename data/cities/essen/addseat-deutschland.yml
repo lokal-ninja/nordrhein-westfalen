@@ -1,11 +1,11 @@
 id: 279309591
-type: way
+type: node
 latitude: 51.48265
 longitude: 6.99757
 postcode: "45326"
 city: Essen
-street: "Weigelwerkstraße"
+street: Weigelwerkstraße
 housenumber: 5-7
 phone: "+49201344670"
 opening_hours: ""
-website: "https://www.addseat.de"
+website: https://www.addseat.de

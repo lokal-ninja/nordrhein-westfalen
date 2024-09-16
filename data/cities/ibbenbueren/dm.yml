@@ -4,8 +4,8 @@ latitude: 52.27823
 longitude: 7.71633
 postcode: "49477"
 city: Ibbenbüren
-street: "Große Straße"
-housenumber: 
+street: Große Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.dm.de/

@@ -4,8 +4,8 @@ latitude: 50.73831
 longitude: 7.09121
 postcode: "53111"
 city: Bonn
-street: "Franzstraße"
-housenumber: 1
+street: Franzstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 06:00-22:00; PH,Su off
 website: ""

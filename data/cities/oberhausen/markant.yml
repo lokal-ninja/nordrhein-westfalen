@@ -1,11 +1,11 @@
 id: 226838522
-type: way
+type: node
 latitude: 51.49131
 longitude: 6.91193
 postcode: "46117"
 city: Oberhausen
-street: "Einbleckstraße"
-housenumber: 40
+street: Einbleckstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

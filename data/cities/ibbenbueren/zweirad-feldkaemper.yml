@@ -1,11 +1,11 @@
 id: 197059373
-type: way
+type: node
 latitude: 52.26019
 longitude: 7.70811
 postcode: "49479"
 city: Ibbenbüren
-street: "Maybachstraße"
-housenumber: 30
+street: Maybachstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

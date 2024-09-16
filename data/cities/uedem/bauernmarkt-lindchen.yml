@@ -4,8 +4,8 @@ latitude: 51.7034
 longitude: 6.23116
 postcode: "47589"
 city: Uedem
-street: "Am Lindchen"
-housenumber: 3
-phone: "+49 2825 535260"
-opening_hours: "Mo-Fr: 07:30- 18:30 Uhr, Sa: 07:30-16:00 Uhr"
-website: "https://lindchen.de"
+street: Am Lindchen
+housenumber: "3"
+phone: +49 2825 535260
+opening_hours: 'Mo-Fr: 07:30- 18:30 Uhr, Sa: 07:30-16:00 Uhr'
+website: https://lindchen.de

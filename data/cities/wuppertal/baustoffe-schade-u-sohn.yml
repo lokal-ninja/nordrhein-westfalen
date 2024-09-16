@@ -4,8 +4,8 @@ latitude: 51.24434
 longitude: 7.08962
 postcode: "42327"
 city: Wuppertal
-street: "Industriestraße"
-housenumber: 27
-phone: "+49 202 27430-0"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-12:00; PH off"
-website: "https://www.schadeundsohn.de/"
+street: Industriestraße
+housenumber: "27"
+phone: +49 202 27430-0
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-12:00; PH off
+website: https://www.schadeundsohn.de/

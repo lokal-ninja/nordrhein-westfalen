@@ -1,11 +1,11 @@
 id: 290976511
-type: way
+type: node
 latitude: 51.40645
 longitude: 8.57497
 postcode: "59929"
 city: Brilon
-street: "Möhnestraße"
-housenumber: 50
+street: Möhnestraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

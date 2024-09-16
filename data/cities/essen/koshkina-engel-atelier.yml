@@ -4,8 +4,8 @@ latitude: 51.45219
 longitude: 7.0341
 postcode: "45138"
 city: Essen
-street: "Wörthstraße"
-housenumber: 56
-phone: "+49 201 254031"
-opening_hours: "Tu 10:00-16:00"
-website: "https://www.olga-engel.de"
+street: Wörthstraße
+housenumber: "56"
+phone: +49 201 254031
+opening_hours: Tu 10:00-16:00
+website: https://www.olga-engel.de

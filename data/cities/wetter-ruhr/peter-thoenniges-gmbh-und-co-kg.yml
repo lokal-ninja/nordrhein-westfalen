@@ -1,11 +1,11 @@
 id: 143736470
-type: way
+type: node
 latitude: 51.35931
 longitude: 7.37484
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Schöllinger Feld"
-housenumber: 3
+street: Schöllinger Feld
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.thoenniges.de/"
+website: https://www.thoenniges.de/

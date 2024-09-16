@@ -4,8 +4,8 @@ latitude: 52.01956
 longitude: 8.52816
 postcode: "33602"
 city: Bielefeld
-street: "Obernstraße"
-housenumber: 49
+street: Obernstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bielefeld-girlsclub.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bielefeld-girlsclub.de/

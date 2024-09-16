@@ -4,8 +4,8 @@ latitude: 51.42235
 longitude: 6.85306
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Ulmenallee"
-housenumber: 50
+street: Ulmenallee
+housenumber: "50"
 phone: ""
-opening_hours: "Tu,We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00"
+opening_hours: Tu,We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00
 website: ""

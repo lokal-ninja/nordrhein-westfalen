@@ -4,8 +4,8 @@ latitude: 51.43875
 longitude: 7.00817
 postcode: "45130"
 city: Essen
-street: "Dohmanns Kamp"
-housenumber: 14
+street: Dohmanns Kamp
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We,Sa 10:00-14:00"
-website: "https://atelier-yvonnepeters.de/"
+opening_hours: Mo-We,Sa 10:00-14:00
+website: https://atelier-yvonnepeters.de/

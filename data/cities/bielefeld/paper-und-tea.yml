@@ -4,8 +4,8 @@ latitude: 52.02069
 longitude: 8.53162
 postcode: "33602"
 city: Bielefeld
-street: "Niedernstraße"
-housenumber: 1
+street: Niedernstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.paperandtea.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.paperandtea.de/

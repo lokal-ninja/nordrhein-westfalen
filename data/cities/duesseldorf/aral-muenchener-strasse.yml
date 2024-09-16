@@ -4,8 +4,8 @@ latitude: 51.16937
 longitude: 6.82318
 postcode: "40589"
 city: Düsseldorf
-street: "Münchener Straße"
-housenumber: 300
-phone: "+49 211 70089-550"
-opening_hours: "24/7"
-website: "https://www.aral.de/"
+street: Münchener Straße
+housenumber: "300"
+phone: +49 211 70089-550
+opening_hours: 24/7
+website: https://www.aral.de/

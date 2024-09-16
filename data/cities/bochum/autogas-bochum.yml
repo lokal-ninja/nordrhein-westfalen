@@ -4,8 +4,8 @@ latitude: 51.51128
 longitude: 7.19834
 postcode: "44807"
 city: Bochum
-street: "Herzogstraße"
-housenumber: 30
+street: Herzogstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://autogasbochum.de"
+website: https://autogasbochum.de

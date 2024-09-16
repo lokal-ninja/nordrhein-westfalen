@@ -4,8 +4,8 @@ latitude: 51.42707
 longitude: 6.8515
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 187
-phone: "+49 208 7404868"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/muelheim-an-der-ruhr/"
+street: Duisburger Straße
+housenumber: "187"
+phone: +49 208 7404868
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.futterhaus.de/mein-futterhaus/filialen/muelheim-an-der-ruhr/

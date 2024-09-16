@@ -1,11 +1,11 @@
 id: 318430343
-type: way
+type: node
 latitude: 51.38914
 longitude: 7.76304
 postcode: "58675"
 city: Hemer
-street: "Hauptstraße"
-housenumber: 257
+street: Hauptstraße
+housenumber: "257"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00, Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00, Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.51517
 longitude: 7.46359
 postcode: "44137"
 city: Dortmund
-street: "Kampstraße"
-housenumber: 35
+street: Kampstraße
+housenumber: "35"
 phone: "+4923113793616"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-19:00; Sa 09:00-15:00; Su,PH off"
-website: "https://schneiderei-dian.de/"
+opening_hours: Mo-Fr 08:30-13:00,14:00-19:00; Sa 09:00-15:00; Su,PH off
+website: https://schneiderei-dian.de/

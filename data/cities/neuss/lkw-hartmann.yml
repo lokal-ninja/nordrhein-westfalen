@@ -1,11 +1,11 @@
 id: 147865725
-type: way
+type: node
 latitude: 51.16278
 longitude: 6.66017
 postcode: "41472"
 city: Neuss
-street: "Ziegeleistraße"
-housenumber: 5
+street: Ziegeleistraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

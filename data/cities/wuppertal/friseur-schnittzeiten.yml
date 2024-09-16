@@ -4,8 +4,8 @@ latitude: 51.23199
 longitude: 7.07179
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 19
-phone: "+49 202 47 853"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00"
-website: "http://www.friseur-schnittzeiten.de/"
+street: Kaiserstraße
+housenumber: "19"
+phone: +49 202 47 853
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00
+website: http://www.friseur-schnittzeiten.de/

@@ -4,8 +4,8 @@ latitude: 51.48017
 longitude: 7.14624
 postcode: "44866"
 city: Bochum
-street: "Hochstraße"
-housenumber: 73
-phone: "+49 2327 567781"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://www.waschsalonxxl.de/"
+street: Hochstraße
+housenumber: "73"
+phone: +49 2327 567781
+opening_hours: Mo-Sa 07:00-22:00
+website: http://www.waschsalonxxl.de/

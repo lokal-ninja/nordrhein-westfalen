@@ -4,8 +4,10 @@ latitude: 50.6069
 longitude: 6.30251
 postcode: "52152"
 city: Simmerath
-street: "Fuggerstraße"
+street: Fuggerstraße
 housenumber: 29 - 31
-phone: "+49 2473 9274990"
-opening_hours: "Mar-Dec: Mo,We-Fr 10:00-12:30,14:30-18:00; Mar-Dec: Sa 10:00-13:00; Mar-Dec: Tu,Su,PH off; Jan,Feb: Mo,Fr 10:00-12:30,14:30-18:00; Jan,Feb: Sa 10:00-13:00; Jan,Feb: Tu-Th,Su,PH off"
-website: "https://www.bike-treff-simmerath.de/"
+phone: +49 2473 9274990
+opening_hours: 'Mar-Dec: Mo,We-Fr 10:00-12:30,14:30-18:00; Mar-Dec: Sa 10:00-13:00;
+    Mar-Dec: Tu,Su,PH off; Jan,Feb: Mo,Fr 10:00-12:30,14:30-18:00; Jan,Feb: Sa 10:00-13:00;
+    Jan,Feb: Tu-Th,Su,PH off'
+website: https://www.bike-treff-simmerath.de/

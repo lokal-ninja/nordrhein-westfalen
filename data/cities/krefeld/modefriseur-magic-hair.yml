@@ -4,8 +4,8 @@ latitude: 51.32807
 longitude: 6.56726
 postcode: "47798"
 city: Krefeld
-street: "Südwall"
-housenumber: 10
-phone: "+49 2151 934 001 0"
-opening_hours: "Tu 09:00-12:00; We-Fr 09:00-18:30; Sa 09:00-15:00"
+street: Südwall
+housenumber: "10"
+phone: +49 2151 934 001 0
+opening_hours: Tu 09:00-12:00; We-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

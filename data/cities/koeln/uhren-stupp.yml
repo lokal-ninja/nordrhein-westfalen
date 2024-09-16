@@ -4,8 +4,8 @@ latitude: 50.93174
 longitude: 6.85353
 postcode: "50858"
 city: Köln
-street: "Langgasse"
-housenumber: 15
+street: Langgasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 9:30-18:30; Sa 9:30-13:00"
-website: "http://www.antik-uhren.info/"
+opening_hours: Mo-Fr 9:30-18:30; Sa 9:30-13:00
+website: http://www.antik-uhren.info/

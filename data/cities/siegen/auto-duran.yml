@@ -1,11 +1,11 @@
 id: 47258231
-type: way
+type: node
 latitude: 50.91256
 longitude: 8.00507
 postcode: "57078"
 city: Siegen
-street: "Wenschtstraße"
-housenumber: 14
-phone: "+49 271 8707354"
-opening_hours: "Tu-Fr 09:00-17:30; Mo 13:00-17:30; Sa 09:00-13:00"
+street: Wenschtstraße
+housenumber: "14"
+phone: +49 271 8707354
+opening_hours: Tu-Fr 09:00-17:30; Mo 13:00-17:30; Sa 09:00-13:00
 website: ""

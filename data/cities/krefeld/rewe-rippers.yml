@@ -1,11 +1,11 @@
 id: 158487208
-type: way
+type: node
 latitude: 51.32945
 longitude: 6.66974
 postcode: "47809"
 city: Krefeld
-street: "Düsseldorfer Straße"
-housenumber: 304
+street: Düsseldorfer Straße
+housenumber: "304"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

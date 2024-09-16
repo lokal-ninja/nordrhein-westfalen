@@ -4,8 +4,8 @@ latitude: 52.13252
 longitude: 8.63942
 postcode: "32051"
 city: Herford
-street: "Füllenbruchstraße"
-housenumber: 179
-phone: "+49 5221 93430"
-opening_hours: "Mo,Tu,We,Sa 07:00-13:00, Th,Fr 07:00-15:00; PH off"
-website: "https://www.gocksch.de/"
+street: Füllenbruchstraße
+housenumber: "179"
+phone: +49 5221 93430
+opening_hours: Mo,Tu,We,Sa 07:00-13:00, Th,Fr 07:00-15:00; PH off
+website: https://www.gocksch.de/

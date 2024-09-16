@@ -4,8 +4,8 @@ latitude: 50.73615
 longitude: 7.1022
 postcode: "53111"
 city: Bonn
-street: "Wenzelgasse"
-housenumber: 9
+street: Wenzelgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.eyesandmore.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.eyesandmore.de

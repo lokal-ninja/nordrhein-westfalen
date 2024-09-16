@@ -1,11 +1,11 @@
 id: 1028636660
-type: way
+type: node
 latitude: 50.6448
 longitude: 7.22493
 postcode: "53604"
 city: Bad Honnef
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

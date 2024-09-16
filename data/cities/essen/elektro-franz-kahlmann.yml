@@ -1,11 +1,11 @@
 id: 83402085
-type: way
+type: node
 latitude: 51.43363
 longitude: 7.01018
 postcode: "45131"
 city: Essen
-street: "Franziskastraße"
-housenumber: 53
+street: Franziskastraße
+housenumber: "53"
 phone: ""
-opening_hours: "Der Betrieb bleibt ab 28.12.15 geschlossen"
+opening_hours: '"Der Betrieb bleibt ab 28.12.15 geschlossen"'
 website: ""

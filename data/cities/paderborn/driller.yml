@@ -1,11 +1,11 @@
 id: 152541220
-type: way
+type: node
 latitude: 51.72482
 longitude: 8.79566
 postcode: "33100"
 city: Paderborn
-street: "Karl-Schurz-Straße"
-housenumber: 
+street: Karl-Schurz-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

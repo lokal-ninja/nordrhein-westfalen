@@ -1,11 +1,11 @@
 id: 24589737
-type: way
+type: node
 latitude: 50.94406
 longitude: 7.44973
 postcode: "51674"
 city: Wiehl
-street: "Zeitstraße"
+street: Zeitstraße
 housenumber: 16-18
-phone: "+49 2262 69910"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.rwg-r.de/standorte/drabenderhoehe"
+phone: +49 2262 69910
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.rwg-r.de/standorte/drabenderhoehe

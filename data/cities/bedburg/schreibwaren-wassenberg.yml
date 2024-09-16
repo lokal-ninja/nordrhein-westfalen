@@ -1,11 +1,11 @@
 id: 374612444
-type: way
+type: node
 latitude: 51.00682
 longitude: 6.55173
 postcode: "50181"
 city: Bedburg
-street: "Am Rathaus"
-housenumber: 28
+street: Am Rathaus
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

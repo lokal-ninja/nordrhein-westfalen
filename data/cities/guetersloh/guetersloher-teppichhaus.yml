@@ -4,8 +4,8 @@ latitude: 51.90685
 longitude: 8.38038
 postcode: "33330"
 city: Gütersloh
-street: "Kolbeplatz"
-housenumber: 3
+street: Kolbeplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-16:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-16:00; Sa 10:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.03597
 longitude: 7.83967
 postcode: "48346"
 city: Ostbevern
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

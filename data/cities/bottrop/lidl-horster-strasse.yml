@@ -1,11 +1,11 @@
 id: 290439159
-type: way
+type: node
 latitude: 51.53384
 longitude: 6.95369
 postcode: "46238"
 city: Bottrop
-street: "Horster Straße"
-housenumber: 262
+street: Horster Straße
+housenumber: "262"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

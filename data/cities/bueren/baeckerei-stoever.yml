@@ -4,8 +4,8 @@ latitude: 51.54993
 longitude: 8.55993
 postcode: "33142"
 city: Büren
-street: "Neustraße"
-housenumber: 9
+street: Neustraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00,14:00-18:15; Sa 06:00-14:30; Su 11:00-13:00"
+opening_hours: Mo-Fr 06:00-13:00,14:00-18:15; Sa 06:00-14:30; Su 11:00-13:00
 website: ""

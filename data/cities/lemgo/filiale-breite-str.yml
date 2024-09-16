@@ -4,8 +4,8 @@ latitude: 52.02599
 longitude: 8.90008
 postcode: "32657"
 city: Lemgo
-street: "Breite Straße"
-housenumber: 35
-phone: "+49 5261 2886451"
-opening_hours: "Mo-Fr 06:45-18:00, Sa 06:45-13:00; Su,PH off"
-website: "https://guettge.de/"
+street: Breite Straße
+housenumber: "35"
+phone: +49 5261 2886451
+opening_hours: Mo-Fr 06:45-18:00, Sa 06:45-13:00; Su,PH off
+website: https://guettge.de/

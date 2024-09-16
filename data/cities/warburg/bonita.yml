@@ -4,8 +4,8 @@ latitude: 51.48894
 longitude: 9.14709
 postcode: "34414"
 city: Warburg
-street: "Hauptstraße"
-housenumber: 63
-phone: "+49 5641 7432687"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "http://www.bonita.eu/"
+street: Hauptstraße
+housenumber: "63"
+phone: +49 5641 7432687
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: http://www.bonita.eu/

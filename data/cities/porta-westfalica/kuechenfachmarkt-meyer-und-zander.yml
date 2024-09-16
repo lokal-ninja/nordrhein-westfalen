@@ -4,8 +4,8 @@ latitude: 52.20918
 longitude: 8.87921
 postcode: "32457"
 city: Porta Westfalica
-street: "Osterkamp"
-housenumber: 1
-phone: "+49 5731 1534742"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.kuechenfachmarkt.de/ueber-uns/filiale-porta-westfalica/filiale-porta-westfalica.jsp"
+street: Osterkamp
+housenumber: "1"
+phone: +49 5731 1534742
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.kuechenfachmarkt.de/ueber-uns/filiale-porta-westfalica/filiale-porta-westfalica.jsp

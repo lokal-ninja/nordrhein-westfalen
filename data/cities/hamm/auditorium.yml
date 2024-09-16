@@ -4,8 +4,8 @@ latitude: 51.67571
 longitude: 7.81109
 postcode: "59065"
 city: Hamm
-street: "Feidikstraße"
-housenumber: 93
-phone: "+49 2381 93390"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off"
-website: "https://auditorium.de/"
+street: Feidikstraße
+housenumber: "93"
+phone: +49 2381 93390
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off
+website: https://auditorium.de/

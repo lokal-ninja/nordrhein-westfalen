@@ -4,8 +4,8 @@ latitude: 51.1944
 longitude: 8.53512
 postcode: "59955"
 city: Winterberg
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.pfiffikus-winterberg.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.pfiffikus-winterberg.de/

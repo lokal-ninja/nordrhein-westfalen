@@ -1,11 +1,11 @@
 id: 320086118
-type: way
+type: node
 latitude: 51.55261
 longitude: 7.29494
 postcode: "44579"
 city: Castrop-Rauxel
-street: "Westring"
+street: Westring
 housenumber: 212c
-phone: "+49 2305 923360"
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://www.procar-automobile.de/standorte/castrop-rauxel"
+phone: +49 2305 923360
+opening_hours: Mo-Fr 08:00-18:30
+website: https://www.procar-automobile.de/standorte/castrop-rauxel

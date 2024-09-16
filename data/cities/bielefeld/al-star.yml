@@ -4,8 +4,8 @@ latitude: 51.99476
 longitude: 8.50552
 postcode: "33647"
 city: Bielefeld
-street: "Hauptstraße"
-housenumber: 161
-phone: "+49 521 44 30 70"
+street: Hauptstraße
+housenumber: "161"
+phone: +49 521 44 30 70
 opening_hours: ""
-website: "https://reisebuero-alstar.de/"
+website: https://reisebuero-alstar.de/

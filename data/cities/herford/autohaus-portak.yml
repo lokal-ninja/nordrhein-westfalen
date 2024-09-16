@@ -4,8 +4,8 @@ latitude: 52.12993
 longitude: 8.6691
 postcode: "32051"
 city: Herford
-street: "Goebenstraße"
-housenumber: 90
-phone: "+49 5221 99 44 80"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://portak.seat.de/"
+street: Goebenstraße
+housenumber: "90"
+phone: +49 5221 99 44 80
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00; PH off
+website: https://portak.seat.de/

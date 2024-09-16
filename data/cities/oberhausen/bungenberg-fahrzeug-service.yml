@@ -4,8 +4,8 @@ latitude: 51.47786
 longitude: 6.87925
 postcode: "46047"
 city: Oberhausen
-street: "Pothmannsweg"
-housenumber: 53
+street: Pothmannsweg
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
-website: "http://www.4tm.eu"
+opening_hours: Mo-Su 09:00-17:00
+website: http://www.4tm.eu

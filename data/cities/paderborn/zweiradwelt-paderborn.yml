@@ -4,8 +4,9 @@ latitude: 51.71447
 longitude: 8.74391
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 13
-phone: "+49 5251 8729288"
-opening_hours: "Mar-Nov Mo-Fr 09:00-19:00; Mar-Nov Sa 09:00-16:00; Dec-Feb Mo-Fr 09:30-13:00,14:00-18:00; Dec-Feb Sa 09:30-13:00; Dec-Feb PH,Su off"
-website: "http://www.zweiradwelt-paderborn.de"
+street: Bahnhofstraße
+housenumber: "13"
+phone: +49 5251 8729288
+opening_hours: Mar-Nov Mo-Fr 09:00-19:00; Mar-Nov Sa 09:00-16:00; Dec-Feb Mo-Fr 09:30-13:00,14:00-18:00;
+    Dec-Feb Sa 09:30-13:00; Dec-Feb PH,Su off
+website: http://www.zweiradwelt-paderborn.de

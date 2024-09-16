@@ -4,8 +4,8 @@ latitude: 51.26413
 longitude: 7.46356
 postcode: "58339"
 city: Breckerfeld
-street: "Windmühlenstraße"
-housenumber: 20
-phone: "+49 2338 4889837"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-preller-windm%C3%BChlenstra%C3%9Fe-18-28/index.jsp"
+street: Windmühlenstraße
+housenumber: "20"
+phone: +49 2338 4889837
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-preller-windm%C3%BChlenstra%C3%9Fe-18-28/index.jsp

@@ -1,11 +1,11 @@
 id: 261690385
-type: way
+type: node
 latitude: 51.08885
 longitude: 6.58829
 postcode: "41515"
 city: Grevenbroich
-street: "Breite Straße"
-housenumber: 14
+street: Breite Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-11:00
 website: ""

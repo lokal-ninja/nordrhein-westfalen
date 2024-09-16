@@ -1,11 +1,11 @@
 id: 24829608
-type: way
+type: node
 latitude: 50.87198
 longitude: 8.02472
 postcode: "57074"
 city: Siegen
-street: "Frankfurter Straße"
-housenumber: 25
+street: Frankfurter Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/siegen/frankfurter-str-25.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/siegen/frankfurter-str-25.html

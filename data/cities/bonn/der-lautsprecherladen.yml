@@ -1,11 +1,11 @@
 id: 143008996
-type: way
+type: node
 latitude: 50.72119
 longitude: 7.09035
 postcode: "53115"
 city: Bonn
-street: "Sternenburgstraße"
-housenumber: 30
+street: Sternenburgstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo,Tu,Th,Fr 15:00-18:00
 website: ""

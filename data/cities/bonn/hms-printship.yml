@@ -4,8 +4,8 @@ latitude: 50.75124
 longitude: 7.07565
 postcode: "53117"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 429
+street: Kölnstraße
+housenumber: "429"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:30, Sa 11:00-14:00"
+opening_hours: '"Mo-Fr 11:00-18:30, Sa 11:00-14:00"'
 website: ""

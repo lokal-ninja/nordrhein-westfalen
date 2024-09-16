@@ -4,8 +4,8 @@ latitude: 51.50853
 longitude: 7.45263
 postcode: "44137"
 city: Dortmund
-street: "Kleine Beurhausstraße"
-housenumber: 3
+street: Kleine Beurhausstraße
+housenumber: "3"
 phone: "+4923155744074"
-opening_hours: "Tu-Fr 10:00-14:00, 15:00-18:00; Sa 10:00-15:00"
-website: "https://www.u-nikat.de/"
+opening_hours: Tu-Fr 10:00-14:00, 15:00-18:00; Sa 10:00-15:00
+website: https://www.u-nikat.de/

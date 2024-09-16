@@ -1,11 +1,11 @@
 id: 168019737
-type: way
+type: node
 latitude: 51.70302
 longitude: 8.7242
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 32
-phone: "+49-5251-76421"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00"
-website: "https://www.hammer-heimtex.de/"
+street: Frankfurter Weg
+housenumber: "32"
+phone: +49-5251-76421
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00
+website: https://www.hammer-heimtex.de/

@@ -1,11 +1,11 @@
 id: 333355578
-type: way
+type: node
 latitude: 52.1447
 longitude: 8.49212
 postcode: "32139"
 city: Spenge
-street: "Industriestraße"
-housenumber: 14
+street: Industriestraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

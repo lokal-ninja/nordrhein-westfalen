@@ -4,8 +4,8 @@ latitude: 51.3468
 longitude: 8.28308
 postcode: "59872"
 city: Meschede
-street: "Ruhrstraße"
-housenumber: 6
-phone: "+49 291 9080493"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-15:00; Su 08:00-17:00"
-website: "https://www.landbaeckerei-sommer.de"
+street: Ruhrstraße
+housenumber: "6"
+phone: +49 291 9080493
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-15:00; Su 08:00-17:00
+website: https://www.landbaeckerei-sommer.de

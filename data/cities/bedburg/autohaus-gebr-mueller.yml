@@ -4,8 +4,8 @@ latitude: 50.99838
 longitude: 6.57102
 postcode: "50181"
 city: Bedburg
-street: "Otto-Hahn-Straße"
-housenumber: 2
+street: Otto-Hahn-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00;PH off"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00;PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.28028
 longitude: 7.03512
 postcode: "42489"
 city: Wülfrath
-street: "Parkstraße"
-housenumber: 4
+street: Parkstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

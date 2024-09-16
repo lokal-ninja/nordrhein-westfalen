@@ -1,11 +1,11 @@
 id: 284078767
-type: way
+type: node
 latitude: 51.45153
 longitude: 7.07005
 postcode: "45276"
 city: Essen
-street: "Aronweg"
-housenumber: 21
+street: Aronweg
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.md-wohnwagen.de/ueber_md.html"
+website: https://www.md-wohnwagen.de/ueber_md.html

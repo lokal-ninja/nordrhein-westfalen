@@ -1,11 +1,11 @@
 id: 280229159
-type: way
+type: node
 latitude: 51.67931
 longitude: 6.49386
 postcode: "46487"
 city: Wesel
-street: "Mühlenfeldstraße"
-housenumber: 20
+street: Mühlenfeldstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

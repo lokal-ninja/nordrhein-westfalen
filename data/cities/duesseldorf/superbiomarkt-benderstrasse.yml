@@ -4,8 +4,8 @@ latitude: 51.23739
 longitude: 6.85568
 postcode: "40625"
 city: Düsseldorf
-street: "Benderstraße"
-housenumber: 43
-phone: "+49 211 287250"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
-website: "https://www.superbiomarkt.de/duesseldorf-gerresheim/"
+street: Benderstraße
+housenumber: "43"
+phone: +49 211 287250
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00
+website: https://www.superbiomarkt.de/duesseldorf-gerresheim/

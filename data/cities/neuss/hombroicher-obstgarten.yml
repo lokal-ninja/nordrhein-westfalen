@@ -5,7 +5,7 @@ longitude: 6.65602
 postcode: "41472"
 city: Neuss
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://hombroicher-obstgarten.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://hombroicher-obstgarten.de/

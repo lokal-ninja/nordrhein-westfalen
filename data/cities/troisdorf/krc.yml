@@ -1,11 +1,11 @@
 id: 110862822
-type: way
+type: node
 latitude: 50.82968
 longitude: 7.10809
 postcode: "53842"
 city: Troisdorf
-street: "Biberweg"
-housenumber: 13
+street: Biberweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

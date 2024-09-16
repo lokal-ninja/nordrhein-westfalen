@@ -1,11 +1,11 @@
 id: 197825555
-type: way
+type: node
 latitude: 52.1385
 longitude: 8.65044
 postcode: "32120"
 city: Hiddenhausen
-street: "Alter Kamp"
-housenumber: 8
+street: Alter Kamp
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
+website: https://www.aldi-nord.de/

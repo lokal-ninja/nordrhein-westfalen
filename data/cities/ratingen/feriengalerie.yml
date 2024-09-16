@@ -4,8 +4,8 @@ latitude: 51.29597
 longitude: 6.8515
 postcode: "40878"
 city: Ratingen
-street: "Bechemer Straße"
-housenumber: 36
+street: Bechemer Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 10:00-13:00,14:00-18:00; We,Sa 10:00-13:00; Su,PH off"
-website: "https://feriengalerie.de/"
+opening_hours: Mo-Tu,Th-Fr 10:00-13:00,14:00-18:00; We,Sa 10:00-13:00; Su,PH off
+website: https://feriengalerie.de/

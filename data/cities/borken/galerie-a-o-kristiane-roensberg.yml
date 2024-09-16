@@ -4,8 +4,8 @@ latitude: 51.84438
 longitude: 6.85901
 postcode: "46325"
 city: Borken
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49 2861 894 333"
-opening_hours: "Tu-Fr 10:30-13:30,15:00-18:30, Sa 10:30-15:30"
-website: "https://www.galerie-aundo.de/"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49 2861 894 333
+opening_hours: Tu-Fr 10:30-13:30,15:00-18:30, Sa 10:30-15:30
+website: https://www.galerie-aundo.de/

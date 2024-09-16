@@ -4,8 +4,8 @@ latitude: 52.05429
 longitude: 8.55006
 postcode: "33611"
 city: Bielefeld
-street: "Huchzermeierstraße"
-housenumber: 23
-phone: "+49 521 82566"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
+street: Huchzermeierstraße
+housenumber: "23"
+phone: +49 521 82566
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:00
 website: ""

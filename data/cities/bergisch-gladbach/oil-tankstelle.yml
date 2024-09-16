@@ -1,11 +1,11 @@
 id: 87376302
-type: way
+type: node
 latitude: 51.0184
 longitude: 7.07483
 postcode: "51467"
 city: Bergisch Gladbach
-street: "Leverkusener Straße"
-housenumber: 41
+street: Leverkusener Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

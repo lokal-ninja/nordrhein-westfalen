@@ -1,11 +1,11 @@
 id: 282386267
-type: way
+type: node
 latitude: 50.87945
 longitude: 7.62335
 postcode: "51545"
 city: Waldbröl
-street: "Kaiserstraße"
-housenumber: 90
+street: Kaiserstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

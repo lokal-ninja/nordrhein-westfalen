@@ -1,11 +1,11 @@
 id: 95534564
-type: way
+type: node
 latitude: 50.82482
 longitude: 7.12633
 postcode: "53842"
 city: Troisdorf
-street: "Hauptstraße"
-housenumber: 78
-phone: "+49 2241 42724"
+street: Hauptstraße
+housenumber: "78"
+phone: +49 2241 42724
 opening_hours: ""
-website: "https://friseureberger.de/info/salons/fuer-haare.html"
+website: https://friseureberger.de/info/salons/fuer-haare.html

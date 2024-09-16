@@ -1,11 +1,11 @@
 id: 141333484
-type: way
+type: node
 latitude: 51.92974
 longitude: 7.64292
 postcode: "48155"
 city: Münster
-street: "Dornierweg"
+street: Dornierweg
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00; Sa,Su off"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00; Sa,Su off
 website: ""

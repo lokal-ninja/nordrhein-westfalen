@@ -1,11 +1,11 @@
 id: 283411161
-type: way
+type: node
 latitude: 51.59706
 longitude: 6.68291
 postcode: "46562"
 city: Voerde (Niederrhein)
-street: "Bahnhofstraße"
-housenumber: 71
-phone: "+49 2855 96330"
+street: Bahnhofstraße
+housenumber: "71"
+phone: +49 2855 96330
 opening_hours: ""
 website: ""

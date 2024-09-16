@@ -1,11 +1,11 @@
 id: 124385330
-type: way
+type: node
 latitude: 51.41036
 longitude: 6.6941
 postcode: "47228"
 city: Duisburg
-street: "Flutweg"
-housenumber: 83
+street: Flutweg
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

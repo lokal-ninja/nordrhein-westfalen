@@ -1,11 +1,11 @@
 id: 433640002
-type: way
+type: node
 latitude: 50.97411
 longitude: 7.10011
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Gierather Straße"
-housenumber: 247
+street: Gierather Straße
+housenumber: "247"
 phone: ""
 opening_hours: ""
 website: ""

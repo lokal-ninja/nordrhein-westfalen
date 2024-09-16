@@ -4,8 +4,8 @@ latitude: 51.23662
 longitude: 6.80026
 postcode: "40237"
 city: Düsseldorf
-street: "Achenbachstraße"
-housenumber: 136
-phone: "+49 211 67 12 73"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://horst-coiffeur.de/"
+street: Achenbachstraße
+housenumber: "136"
+phone: +49 211 67 12 73
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://horst-coiffeur.de/

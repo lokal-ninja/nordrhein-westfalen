@@ -1,11 +1,11 @@
 id: 497863158
-type: way
+type: node
 latitude: 50.65451
 longitude: 6.77191
 postcode: "53879"
 city: Euskirchen
-street: "Georgstraße"
-housenumber: 22
+street: Georgstraße
+housenumber: "22"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.10366
 longitude: 7.0128
 postcode: "42799"
 city: Leichlingen (Rheinland)
-street: "Im Brückerfeld"
-housenumber: 9
+street: Im Brückerfeld
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Tu 09:00-19:00;We 08:00-19:00;Th-Fr 09:00-19:00;Sa 09:00-15:00"
-website: "https://www.dm-drogeriemarkt.de"
+opening_hours: Mo-Tu 09:00-19:00;We 08:00-19:00;Th-Fr 09:00-19:00;Sa 09:00-15:00
+website: https://www.dm-drogeriemarkt.de

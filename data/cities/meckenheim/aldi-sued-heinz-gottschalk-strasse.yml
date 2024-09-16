@@ -1,11 +1,11 @@
 id: 238273217
-type: way
+type: node
 latitude: 50.6332
 longitude: 7.0506
 postcode: "53340"
 city: Meckenheim
-street: "Heinz-Gottschalk-Straße"
-housenumber: 3
+street: Heinz-Gottschalk-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

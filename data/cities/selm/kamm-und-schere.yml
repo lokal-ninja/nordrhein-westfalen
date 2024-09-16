@@ -4,8 +4,8 @@ latitude: 51.69543
 longitude: 7.46671
 postcode: "59379"
 city: Selm
-street: "Kreisstraße"
-housenumber: 13
-phone: "+49 2592 23131"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 10:00-19:00; Sa 07:00-13:00"
-website: "https://www.kammundschere-selm.de/"
+street: Kreisstraße
+housenumber: "13"
+phone: +49 2592 23131
+opening_hours: Tu,Th,Fr 09:00-18:00; We 10:00-19:00; Sa 07:00-13:00
+website: https://www.kammundschere-selm.de/

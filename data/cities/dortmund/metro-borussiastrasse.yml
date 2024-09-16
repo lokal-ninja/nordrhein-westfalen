@@ -1,11 +1,11 @@
 id: 52786083
-type: way
+type: node
 latitude: 51.49204
 longitude: 7.37189
 postcode: "44149"
 city: Dortmund
-street: "Borussiastraße"
-housenumber: 101
+street: Borussiastraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

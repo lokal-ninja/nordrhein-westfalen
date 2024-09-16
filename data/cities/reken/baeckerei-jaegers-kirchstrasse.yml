@@ -4,8 +4,8 @@ latitude: 51.82937
 longitude: 7.04137
 postcode: "48734"
 city: Reken
-street: "Kirchstraße"
-housenumber: 6
-phone: "+49 2864 9507077"
-opening_hours: "Mo-Fr 06:30-19:00;Sa 06:30-18:00"
-website: "https://baeckerei-jaegers.de/reken-edeka/"
+street: Kirchstraße
+housenumber: "6"
+phone: +49 2864 9507077
+opening_hours: Mo-Fr 06:30-19:00;Sa 06:30-18:00
+website: https://baeckerei-jaegers.de/reken-edeka/

@@ -1,11 +1,11 @@
 id: 52606992
-type: way
+type: node
 latitude: 51.53666
 longitude: 7.41753
 postcode: "44369"
 city: Dortmund
-street: "Hülshof"
-housenumber: 33
+street: Hülshof
+housenumber: "33"
 phone: "+492319311010"
 opening_hours: ""
-website: "https://www.partyrent.com/de/dortmund"
+website: https://www.partyrent.com/de/dortmund

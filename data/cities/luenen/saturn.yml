@@ -4,8 +4,8 @@ latitude: 51.61453
 longitude: 7.5219
 postcode: "44532"
 city: Lünen
-street: "Willy-Brandt-Platz"
-housenumber: 6
+street: Willy-Brandt-Platz
+housenumber: "6"
 phone: "+49230691020"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.saturn.de/de/store/luenen-56"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.saturn.de/de/store/luenen-56

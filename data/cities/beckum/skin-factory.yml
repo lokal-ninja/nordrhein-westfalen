@@ -1,11 +1,11 @@
 id: 259818404
-type: way
+type: node
 latitude: 51.76246
 longitude: 8.04543
 postcode: "59269"
 city: Beckum
-street: "Oelder Straße"
-housenumber: 43
+street: Oelder Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

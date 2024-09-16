@@ -1,11 +1,11 @@
 id: 127669178
-type: way
+type: node
 latitude: 51.22718
 longitude: 6.60281
 postcode: "41564"
 city: Kaarst
-street: "Industriestraße"
-housenumber: 23
+street: Industriestraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

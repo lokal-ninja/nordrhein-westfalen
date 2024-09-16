@@ -1,11 +1,11 @@
 id: 254656372
-type: way
+type: node
 latitude: 51.97695
 longitude: 8.51869
 postcode: "33647"
 city: Bielefeld
-street: "Windelsbleicher Straße"
-housenumber: 101
+street: Windelsbleicher Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

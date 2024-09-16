@@ -4,8 +4,8 @@ latitude: 50.90507
 longitude: 6.67408
 postcode: "50170"
 city: Kerpen
-street: "Fuchsiusstraße"
-housenumber: 7
+street: Fuchsiusstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa nach Absprache"
+opening_hours: Mo-Fr 11:00-18:00; Sa "nach Absprache"
 website: ""

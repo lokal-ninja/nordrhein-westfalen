@@ -1,11 +1,11 @@
 id: 155443797
-type: way
+type: node
 latitude: 50.82306
 longitude: 6.24894
 postcode: "52249"
 city: Eschweiler
-street: "Aachener Straße"
-housenumber: 70
+street: Aachener Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

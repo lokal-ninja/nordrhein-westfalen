@@ -1,11 +1,11 @@
 id: 227673820
-type: way
+type: node
 latitude: 51.64087
 longitude: 8.50891
 postcode: "59590"
 city: Geseke
-street: "Bäckstraße"
-housenumber: 11
-phone: "+49 2942 4524"
+street: Bäckstraße
+housenumber: "11"
+phone: +49 2942 4524
 opening_hours: ""
-website: "https://www.juwelier-brexel.de/index.htm"
+website: https://www.juwelier-brexel.de/index.htm

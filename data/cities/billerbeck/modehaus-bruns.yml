@@ -4,8 +4,8 @@ latitude: 51.9733
 longitude: 7.28401
 postcode: "48727"
 city: Billerbeck
-street: "Kapellenweg"
-housenumber: 2
-phone: "+49 2543 1072"
-opening_hours: "Mo-We 09:00-18:30;Th-Fr 09:00-19:00;Sa 09:00-16:00;PH Su off"
-website: "https://modehaus-bruns.de/"
+street: Kapellenweg
+housenumber: "2"
+phone: +49 2543 1072
+opening_hours: Mo-We 09:00-18:30;Th-Fr 09:00-19:00;Sa 09:00-16:00;PH Su off
+website: https://modehaus-bruns.de/

@@ -1,11 +1,11 @@
 id: 315028084
-type: way
+type: node
 latitude: 52.31947
 longitude: 7.77739
 postcode: "49497"
 city: Mettingen
-street: "Recker Straße"
-housenumber: 2
-phone: "+49 5452 2330"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH off"
-website: "https://www.moebel-agternkamp.de/"
+street: Recker Straße
+housenumber: "2"
+phone: +49 5452 2330
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH off
+website: https://www.moebel-agternkamp.de/

@@ -4,8 +4,8 @@ latitude: 51.95199
 longitude: 7.61996
 postcode: "48151"
 city: Münster
-street: "Geiststraße"
-housenumber: 2
-phone: "+49 251 527511"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://krimphove.de/"
+street: Geiststraße
+housenumber: "2"
+phone: +49 251 527511
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://krimphove.de/

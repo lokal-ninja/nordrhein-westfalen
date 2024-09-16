@@ -1,11 +1,11 @@
 id: 344274976
-type: way
+type: node
 latitude: 50.76821
 longitude: 6.09099
 postcode: "52064"
 city: Aachen
-street: "Bahnhofplatz"
+street: Bahnhofplatz
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su,PH 08:00-20:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su,PH 08:00-20:00
 website: ""

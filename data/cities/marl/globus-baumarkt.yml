@@ -1,11 +1,11 @@
 id: 119684576
-type: way
+type: node
 latitude: 51.64041
 longitude: 7.10304
 postcode: "45770"
 city: Marl
-street: "Karl-Breuing-Straße"
-housenumber: 15
+street: Karl-Breuing-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

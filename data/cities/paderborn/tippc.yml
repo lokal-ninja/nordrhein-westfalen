@@ -4,8 +4,8 @@ latitude: 51.72611
 longitude: 8.75912
 postcode: "33102"
 city: Paderborn
-street: "Nordstraße"
-housenumber: 15
+street: Nordstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.tippc.de"
+website: http://www.tippc.de

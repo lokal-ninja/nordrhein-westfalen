@@ -1,11 +1,11 @@
 id: 171113950
-type: way
+type: node
 latitude: 51.87419
 longitude: 8.28911
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Nordrheda"
-housenumber: 17
+street: Nordrheda
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

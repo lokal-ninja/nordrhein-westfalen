@@ -1,11 +1,11 @@
 id: 28482425
-type: way
+type: node
 latitude: 51.74308
 longitude: 7.18747
 postcode: "45721"
 city: Haltern am See
-street: "Lippstraße"
-housenumber: 2
+street: Lippstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

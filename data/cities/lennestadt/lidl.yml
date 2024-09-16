@@ -1,11 +1,11 @@
 id: 117449494
-type: way
+type: node
 latitude: 51.10542
 longitude: 8.08081
 postcode: "57368"
 city: Lennestadt
-street: "Lennewiesen"
-housenumber: 2
+street: Lennewiesen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

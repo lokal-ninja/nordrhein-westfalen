@@ -4,8 +4,8 @@ latitude: 50.7295
 longitude: 7.08322
 postcode: "53115"
 city: Bonn
-street: "Kaufmannstraße"
-housenumber: 56
-phone: "+49 228 690565"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00"
-website: "http://abikopiebonn.de/"
+street: Kaufmannstraße
+housenumber: "56"
+phone: +49 228 690565
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-14:00
+website: http://abikopiebonn.de/

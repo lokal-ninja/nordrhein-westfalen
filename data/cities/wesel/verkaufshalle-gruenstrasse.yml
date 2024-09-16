@@ -1,11 +1,11 @@
 id: 248992485
-type: way
+type: node
 latitude: 51.66485
 longitude: 6.61837
 postcode: "46483"
 city: Wesel
-street: "Grünstraße"
-housenumber: 2
+street: Grünstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

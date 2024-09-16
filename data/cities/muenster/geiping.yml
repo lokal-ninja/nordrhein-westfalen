@@ -4,8 +4,8 @@ latitude: 51.95641
 longitude: 7.64257
 postcode: "48155"
 city: Münster
-street: "Wolbecker Straße"
-housenumber: 66
-phone: "+49 251 67764"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-17:00; Su 07:00-17:00"
-website: "https://www.geiping.de/de/filialen/muenster/wolbecker-str-66"
+street: Wolbecker Straße
+housenumber: "66"
+phone: +49 251 67764
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-17:00; Su 07:00-17:00
+website: https://www.geiping.de/de/filialen/muenster/wolbecker-str-66

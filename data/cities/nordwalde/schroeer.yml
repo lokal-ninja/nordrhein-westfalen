@@ -1,11 +1,11 @@
 id: 266186512
-type: way
+type: node
 latitude: 52.09007
 longitude: 7.48059
 postcode: "48356"
 city: Nordwalde
-street: "Emsdettener Straße"
-housenumber: 61
+street: Emsdettener Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

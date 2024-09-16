@@ -4,8 +4,8 @@ latitude: 52.00103
 longitude: 7.61357
 postcode: "48159"
 city: Münster
-street: "Kinderhaus"
-housenumber: 25
-phone: "+49 251 31704"
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-16:00"
-website: "https://www.profiaquaristik.de/"
+street: Kinderhaus
+housenumber: "25"
+phone: +49 251 31704
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-16:00
+website: https://www.profiaquaristik.de/

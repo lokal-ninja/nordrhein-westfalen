@@ -4,8 +4,8 @@ latitude: 52.25984
 longitude: 8.90062
 postcode: "32457"
 city: Porta Westfalica
-street: "Feldstraße"
-housenumber: 20
-phone: "+49 571 95530"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://porta.de/porta/einrichtungshaeuser/porta-westfalica-barkhausen"
+street: Feldstraße
+housenumber: "20"
+phone: +49 571 95530
+opening_hours: Mo-Sa 10:00-19:00
+website: https://porta.de/porta/einrichtungshaeuser/porta-westfalica-barkhausen

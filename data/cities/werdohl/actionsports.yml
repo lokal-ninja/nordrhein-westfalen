@@ -1,11 +1,11 @@
 id: 306439118
-type: way
+type: node
 latitude: 51.263
 longitude: 7.77991
 postcode: "58791"
 city: Werdohl
-street: "Gildestraße"
-housenumber: 6
-phone: "+49 2392 960933"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-13:00"
-website: "https://www.actionsports.de/"
+street: Gildestraße
+housenumber: "6"
+phone: +49 2392 960933
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-13:00
+website: https://www.actionsports.de/

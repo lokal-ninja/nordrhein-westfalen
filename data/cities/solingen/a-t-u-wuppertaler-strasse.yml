@@ -1,11 +1,11 @@
 id: 87312304
-type: way
+type: node
 latitude: 51.19973
 longitude: 7.07529
 postcode: "42653"
 city: Solingen
-street: "Wuppertaler Straße"
-housenumber: 112
+street: Wuppertaler Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

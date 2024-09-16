@@ -4,8 +4,8 @@ latitude: 51.72883
 longitude: 6.59072
 postcode: "46499"
 city: Hamminkeln
-street: "Raiffeisenstraße"
-housenumber: 4
-phone: "+49 2852 3200"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Raiffeisenstraße
+housenumber: "4"
+phone: +49 2852 3200
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

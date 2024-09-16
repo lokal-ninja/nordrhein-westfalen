@@ -4,8 +4,8 @@ latitude: 51.47936
 longitude: 7.21878
 postcode: "44787"
 city: Bochum
-street: "Luisenstraße"
-housenumber: 10
-phone: "+49 234 6408489"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.vinery-arndt.de/"
+street: Luisenstraße
+housenumber: "10"
+phone: +49 234 6408489
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.vinery-arndt.de/

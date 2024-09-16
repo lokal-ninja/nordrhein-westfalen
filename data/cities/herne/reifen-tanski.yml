@@ -1,11 +1,11 @@
 id: 127082414
-type: way
+type: node
 latitude: 51.5362
 longitude: 7.23087
 postcode: "44623"
 city: Herne
-street: "Wiescherstraße"
-housenumber: 11
+street: Wiescherstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-tanski.de/filialen/12-filiale-in-44623-herne.html"
+website: https://www.reifen-tanski.de/filialen/12-filiale-in-44623-herne.html

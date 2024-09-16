@@ -4,8 +4,8 @@ latitude: 51.22431
 longitude: 6.77326
 postcode: "40213"
 city: Düsseldorf
-street: "Wallstraße"
-housenumber: 15
+street: Wallstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.24colours.de"
+website: https://www.24colours.de

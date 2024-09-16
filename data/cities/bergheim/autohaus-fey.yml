@@ -1,11 +1,11 @@
 id: 256482606
-type: way
+type: node
 latitude: 50.93677
 longitude: 6.69332
 postcode: "50127"
 city: Bergheim
-street: "Köln-Aachener-Straße"
-housenumber: 270
+street: Köln-Aachener-Straße
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

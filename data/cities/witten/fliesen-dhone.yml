@@ -1,11 +1,11 @@
 id: 77591948
-type: way
+type: node
 latitude: 51.45589
 longitude: 7.38186
 postcode: "58454"
 city: Witten
-street: "Salinger Feld"
-housenumber: 26
+street: Salinger Feld
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Tu,Th 09:00-12:00,15:00-17:00; We,Sa 09:00-12:00; PH off"
+opening_hours: Mo-Tu,Th 09:00-12:00,15:00-17:00; We,Sa 09:00-12:00; PH off
 website: ""

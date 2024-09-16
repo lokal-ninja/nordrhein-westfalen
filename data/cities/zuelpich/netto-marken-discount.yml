@@ -1,11 +1,11 @@
 id: 250384453
-type: way
+type: node
 latitude: 50.69856
 longitude: 6.6606
 postcode: "53909"
 city: Zülpich
-street: "Römerallee"
-housenumber: 50
+street: Römerallee
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

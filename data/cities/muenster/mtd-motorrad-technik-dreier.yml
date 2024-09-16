@@ -1,11 +1,11 @@
 id: 380448591
-type: way
+type: node
 latitude: 51.92106
 longitude: 7.67619
 postcode: "48167"
 city: Münster
-street: "Albersloher Weg"
-housenumber: 591
-phone: "+49 251 26538104"
-opening_hours: "Mo - Th 09:00 - 13:00, 14:00 - 17:30"
-website: "https://www.motorrad-dreier.de/"
+street: Albersloher Weg
+housenumber: "591"
+phone: +49 251 26538104
+opening_hours: Mo - Th 09:00 - 13:00, 14:00 - 17:30
+website: https://www.motorrad-dreier.de/

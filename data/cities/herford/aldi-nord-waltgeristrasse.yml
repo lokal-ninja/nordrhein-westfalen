@@ -1,11 +1,11 @@
 id: 171925337
-type: way
+type: node
 latitude: 52.12703
 longitude: 8.68357
 postcode: "32049"
 city: Herford
-street: "Waltgeristraße"
-housenumber: 93
+street: Waltgeristraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

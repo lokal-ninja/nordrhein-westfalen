@@ -1,11 +1,11 @@
 id: 281274551
-type: way
+type: node
 latitude: 51.49768
 longitude: 6.95819
 postcode: "45356"
 city: Essen
-street: "Zur Halbinsel"
-housenumber: 6
+street: Zur Halbinsel
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

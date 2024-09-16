@@ -1,11 +1,11 @@
 id: 139783836
-type: way
+type: node
 latitude: 51.48151
 longitude: 6.74517
 postcode: "47139"
 city: Duisburg
-street: "Ostackerweg"
-housenumber: 26
+street: Ostackerweg
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

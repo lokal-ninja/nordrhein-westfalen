@@ -4,8 +4,8 @@ latitude: 51.52833
 longitude: 9.03725
 postcode: "34414"
 city: Warburg
-street: "Kasseler Tor"
-housenumber: 40
+street: Kasseler Tor
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.fleischerei-bartoldus.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.fleischerei-bartoldus.de/

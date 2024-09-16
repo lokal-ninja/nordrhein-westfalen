@@ -1,11 +1,11 @@
 id: 210377126
-type: way
+type: node
 latitude: 52.23183
 longitude: 7.48668
 postcode: "48432"
 city: Rheine
-street: "Rheiner Straße"
-housenumber: 46
+street: Rheiner Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 299458781
-type: way
+type: node
 latitude: 51.67118
 longitude: 8.58338
 postcode: "33154"
 city: Salzkotten
-street: "Kugelbreite"
-housenumber: 16
+street: Kugelbreite
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

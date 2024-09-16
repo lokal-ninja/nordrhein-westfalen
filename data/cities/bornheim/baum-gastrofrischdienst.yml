@@ -1,11 +1,11 @@
 id: 135595326
-type: way
+type: node
 latitude: 50.75778
 longitude: 7.03123
 postcode: "53332"
 city: Bornheim
-street: "Alexander-Bell-Straße"
-housenumber: 23
-phone: "+492222 92 92 70"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-13:00"
-website: "https://www.frischdienst-baum.de//"
+street: Alexander-Bell-Straße
+housenumber: "23"
+phone: +492222 92 92 70
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-13:00
+website: https://www.frischdienst-baum.de//

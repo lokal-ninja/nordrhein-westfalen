@@ -4,8 +4,8 @@ latitude: 51.53523
 longitude: 7.67643
 postcode: "59423"
 city: Unna
-street: "Mühlenstraße"
+street: Mühlenstraße
 housenumber: 6a
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-nach Vereinbarung; Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa "10:00-nach Vereinbarung"; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 83918655
-type: way
+type: node
 latitude: 52.22275
 longitude: 7.80513
 postcode: "49545"
 city: Tecklenburg
-street: "Pottlehmplatz"
-housenumber: 5
+street: Pottlehmplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 154289004
-type: way
+type: node
 latitude: 51.51305
 longitude: 7.47976
 postcode: "44135"
 city: Dortmund
-street: "Kaiserstraße"
-housenumber: 59
+street: Kaiserstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.sw-do.de"
+opening_hours: Mo 09:00-18:30; Sa 09:00-14:00
+website: http://www.sw-do.de

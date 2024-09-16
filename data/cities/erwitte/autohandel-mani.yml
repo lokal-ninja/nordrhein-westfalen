@@ -1,11 +1,11 @@
 id: 693499748
-type: way
+type: node
 latitude: 51.61108
 longitude: 8.33069
 postcode: "59597"
 city: Erwitte
-street: "Soester Straße"
-housenumber: 20
+street: Soester Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 300395665
-type: way
+type: node
 latitude: 50.9975
 longitude: 7.83886
 postcode: "57462"
 city: Olpe
-street: "Raiffeisenstraße"
-housenumber: 2
+street: Raiffeisenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

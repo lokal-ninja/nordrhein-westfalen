@@ -1,11 +1,11 @@
 id: 347317174
-type: way
+type: node
 latitude: 52.10479
 longitude: 7.61071
 postcode: "48268"
 city: Greven
-street: "Saerbecker Straße"
-housenumber: 83
+street: Saerbecker Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.89991
 longitude: 8.03488
 postcode: "57076"
 city: Siegen
-street: "Schlosserstraße"
-housenumber: 10
-phone: "+49 271 7412931"
-opening_hours: "Mo,Sa 09:30-13:00, Tu-Fr 09:30-13:00,14:30-18:00"
+street: Schlosserstraße
+housenumber: "10"
+phone: +49 271 7412931
+opening_hours: Mo,Sa 09:30-13:00, Tu-Fr 09:30-13:00,14:30-18:00
 website: ""

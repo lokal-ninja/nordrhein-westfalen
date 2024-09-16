@@ -1,11 +1,11 @@
 id: 83274336
-type: way
+type: node
 latitude: 50.77345
 longitude: 6.07773
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
+street: Jakobstraße
 housenumber: 100-102
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.drossard.de/"
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.drossard.de/

@@ -1,11 +1,11 @@
 id: 815660927
-type: way
+type: node
 latitude: 50.90583
 longitude: 8.02131
 postcode: "57076"
 city: Siegen
-street: "Grube Neue Haardt"
+street: Grube Neue Haardt
 housenumber: 8a
-phone: "+49 271 74114211"
-opening_hours: "Sa 08:30-12:30; Mo-Fr 08:00-17:00"
+phone: +49 271 74114211
+opening_hours: Sa 08:30-12:30; Mo-Fr 08:00-17:00
 website: ""

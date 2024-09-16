@@ -1,11 +1,11 @@
 id: 1068858412
-type: way
+type: node
 latitude: 50.88426
 longitude: 7.97436
 postcode: "57072"
 city: Siegen
-street: "Freudenberger Straße"
-housenumber: 404
+street: Freudenberger Straße
+housenumber: "404"
 phone: ""
 opening_hours: ""
-website: "https://www.schindler-ot.de"
+website: https://www.schindler-ot.de

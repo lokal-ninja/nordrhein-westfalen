@@ -4,8 +4,8 @@ latitude: 51.18216
 longitude: 7.18711
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 74
-phone: "+49 2191 927440"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://www.dertour-reisebuero.de/"
+street: Alleestraße
+housenumber: "74"
+phone: +49 2191 927440
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
+website: https://www.dertour-reisebuero.de/

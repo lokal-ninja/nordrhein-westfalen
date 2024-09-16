@@ -4,8 +4,8 @@ latitude: 51.24352
 longitude: 6.78243
 postcode: "40476"
 city: Düsseldorf
-street: "Collenbachstraße"
-housenumber: 20
-phone: "+49 211 446069"
-opening_hours: "Tu-Th 09:00-20:00;Fr 09:00-21:00;Sa 09:00-16:00"
-website: "https://www.friseur-tausendschoen.de/"
+street: Collenbachstraße
+housenumber: "20"
+phone: +49 211 446069
+opening_hours: Tu-Th 09:00-20:00;Fr 09:00-21:00;Sa 09:00-16:00
+website: https://www.friseur-tausendschoen.de/

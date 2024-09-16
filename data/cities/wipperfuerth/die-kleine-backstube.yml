@@ -4,8 +4,9 @@ latitude: 51.08956
 longitude: 7.32484
 postcode: "51688"
 city: Wipperfürth
-street: "Dorfstraße"
-housenumber: 12
-phone: "+49 2268 7569"
-opening_hours: "Mo-Di 06:30-12:00,15:00-17:00; Mi 06:30-12:00; Do-Fr 06:30-12:00,15:00-18:00; Sa 06:00-12:00; Su 07:30-10:30"
+street: Dorfstraße
+housenumber: "12"
+phone: +49 2268 7569
+opening_hours: Mo-Di 06:30-12:00,15:00-17:00; Mi 06:30-12:00; Do-Fr 06:30-12:00,15:00-18:00;
+    Sa 06:00-12:00; Su 07:30-10:30
 website: ""

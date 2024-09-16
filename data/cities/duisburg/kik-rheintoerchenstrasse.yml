@@ -1,11 +1,11 @@
 id: 31341645
-type: way
+type: node
 latitude: 51.39776
 longitude: 6.75246
 postcode: "47055"
 city: Duisburg
-street: "Rheintörchenstraße"
-housenumber: 14
+street: Rheintörchenstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

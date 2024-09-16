@@ -4,8 +4,8 @@ latitude: 50.73236
 longitude: 7.07527
 postcode: "53121"
 city: Bonn
-street: "Immenburgstraße"
-housenumber: 42
-phone: "+49 228 96214997"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00"
-website: "https://www.baecker-schneider.de"
+street: Immenburgstraße
+housenumber: "42"
+phone: +49 228 96214997
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00
+website: https://www.baecker-schneider.de

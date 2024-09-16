@@ -1,11 +1,11 @@
 id: 27206775
-type: way
+type: node
 latitude: 50.71451
 longitude: 7.04477
 postcode: "53123"
 city: Bonn
-street: "Am Schickshof"
-housenumber: 6
-phone: "+49 228 91256398"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/bonn-duisdorf/1763567/rewe-markt-am-schickshof-6/"
+street: Am Schickshof
+housenumber: "6"
+phone: +49 228 91256398
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.rewe.de/marktseite/bonn-duisdorf/1763567/rewe-markt-am-schickshof-6/

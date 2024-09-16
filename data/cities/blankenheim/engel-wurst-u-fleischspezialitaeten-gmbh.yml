@@ -4,8 +4,8 @@ latitude: 50.43845
 longitude: 6.64855
 postcode: "53945"
 city: Blankenheim
-street: "Ahrstraße"
-housenumber: 32
+street: Ahrstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.metzgerei-engel-gmbh.de/"
+website: https://www.metzgerei-engel-gmbh.de/

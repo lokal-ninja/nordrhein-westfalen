@@ -4,8 +4,8 @@ latitude: 52.42456
 longitude: 8.40326
 postcode: "32351"
 city: Stemwede
-street: "Sunderort"
-housenumber: 3
-phone: "+49 5474 769"
-opening_hours: "Tu,Fr 09:00-19:00; Sa 09:00-12:00"
-website: "https://www.dreyers-hof.de/"
+street: Sunderort
+housenumber: "3"
+phone: +49 5474 769
+opening_hours: Tu,Fr 09:00-19:00; Sa 09:00-12:00
+website: https://www.dreyers-hof.de/

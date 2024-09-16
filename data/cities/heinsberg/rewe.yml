@@ -1,11 +1,11 @@
 id: 183113396
-type: way
+type: node
 latitude: 51.06549
 longitude: 6.1046
 postcode: "52525"
 city: Heinsberg
-street: "Industriestraße"
-housenumber: 14
-phone: "+49 2452 98872 0"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Industriestraße
+housenumber: "14"
+phone: +49 2452 98872 0
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

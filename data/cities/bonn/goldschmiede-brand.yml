@@ -4,8 +4,8 @@ latitude: 50.73653
 longitude: 7.10051
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 36
-phone: "+49 228 63 07 37"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00"
-website: "http://www.brand-design.de/"
+street: Friedrichstraße
+housenumber: "36"
+phone: +49 228 63 07 37
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00
+website: http://www.brand-design.de/

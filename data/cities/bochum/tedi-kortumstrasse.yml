@@ -4,8 +4,8 @@ latitude: 51.47951
 longitude: 7.21686
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 51
+street: Kortumstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.tedi.com/de/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.tedi.com/de/

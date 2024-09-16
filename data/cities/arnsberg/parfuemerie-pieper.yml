@@ -4,8 +4,8 @@ latitude: 51.45143
 longitude: 7.96347
 postcode: "59755"
 city: Arnsberg
-street: "Hauptstraße"
-housenumber: 38
-phone: "+49 2932 22178"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00"
+street: Hauptstraße
+housenumber: "38"
+phone: +49 2932 22178
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-17:00
 website: ""

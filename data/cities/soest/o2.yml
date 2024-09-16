@@ -4,8 +4,8 @@ latitude: 51.57386
 longitude: 8.10594
 postcode: "59494"
 city: Soest
-street: "Brüderstraße"
-housenumber: 18
-phone: "+49 2921 6606635"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.power-phone.de"
+street: Brüderstraße
+housenumber: "18"
+phone: +49 2921 6606635
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.power-phone.de

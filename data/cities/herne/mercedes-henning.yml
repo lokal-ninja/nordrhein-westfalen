@@ -1,11 +1,11 @@
 id: 288303160
-type: way
+type: node
 latitude: 51.53815
 longitude: 7.17908
 postcode: "44653"
 city: Herne
-street: "Dorstener Straße"
-housenumber: 329
+street: Dorstener Straße
+housenumber: "329"
 phone: ""
 opening_hours: ""
 website: ""

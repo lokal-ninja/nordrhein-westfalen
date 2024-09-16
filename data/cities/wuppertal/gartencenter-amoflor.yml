@@ -1,11 +1,11 @@
 id: 54435742
-type: way
+type: node
 latitude: 51.25221
 longitude: 7.07728
 postcode: "42327"
 city: Wuppertal
-street: "Düsseldorfer Straße"
-housenumber: 255
+street: Düsseldorfer Straße
+housenumber: "255"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00, Su 11:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00, Su 11:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 259223911
-type: way
+type: node
 latitude: 51.96043
 longitude: 7.99761
 postcode: "48231"
 city: Warendorf
-street: "Grabbehof"
-housenumber: 1
-phone: "+49 2581 7637"
-opening_hours: "24/7"
-website: "https://www.hankemann.eu/"
+street: Grabbehof
+housenumber: "1"
+phone: +49 2581 7637
+opening_hours: 24/7
+website: https://www.hankemann.eu/

@@ -4,8 +4,8 @@ latitude: 50.62315
 longitude: 7.02153
 postcode: "53340"
 city: Meckenheim
-street: "Hauptstraße"
-housenumber: 50
-phone: "+49 2225 2272"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:30, Sa 10:00-14:00; PH off"
-website: "https://www.2rad-leuer.de/"
+street: Hauptstraße
+housenumber: "50"
+phone: +49 2225 2272
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:30, Sa 10:00-14:00; PH off
+website: https://www.2rad-leuer.de/

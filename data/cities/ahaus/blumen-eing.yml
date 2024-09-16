@@ -1,11 +1,11 @@
 id: 191554883
-type: way
+type: node
 latitude: 52.12666
 longitude: 6.91477
 postcode: "48683"
 city: Ahaus
-street: "Eschstraße"
-housenumber: 25
+street: Eschstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

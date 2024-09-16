@@ -4,8 +4,8 @@ latitude: 51.45648
 longitude: 7.00767
 postcode: "45127"
 city: Essen
-street: "Lindenallee"
-housenumber: 80
+street: Lindenallee
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Su 10:00-23:00"
-website: "https://www.bars-concepts.com"
+opening_hours: Mo-Su 10:00-23:00
+website: https://www.bars-concepts.com

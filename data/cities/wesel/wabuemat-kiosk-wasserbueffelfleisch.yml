@@ -4,8 +4,8 @@ latitude: 51.64293
 longitude: 6.53651
 postcode: "46487"
 city: Wesel
-street: "Kuhport"
-housenumber: 9
-phone: "+49 173 7287302"
-opening_hours: "24/7"
-website: "http://auenbueffel.de/"
+street: Kuhport
+housenumber: "9"
+phone: +49 173 7287302
+opening_hours: 24/7
+website: http://auenbueffel.de/

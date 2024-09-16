@@ -1,11 +1,11 @@
 id: 111984346
-type: way
+type: node
 latitude: 51.60739
 longitude: 7.39215
 postcode: "45731"
 city: Waltrop
-street: "Zum Schacht"
-housenumber: 1
+street: Zum Schacht
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi.de/

@@ -4,8 +4,8 @@ latitude: 50.78037
 longitude: 6.07981
 postcode: "52062"
 city: Aachen
-street: "Pontstraße"
-housenumber: 133
+street: Pontstraße
+housenumber: "133"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.hipshop24.de/"
+opening_hours: 24/7
+website: https://www.hipshop24.de/

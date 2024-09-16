@@ -1,11 +1,11 @@
 id: 110695597
-type: way
+type: node
 latitude: 51.92373
 longitude: 7.65386
 postcode: "48155"
 city: Münster
-street: "Höltenweg"
-housenumber: 50
-phone: "+49 251 61820"
-opening_hours: "Mo-Fr 07:45-18:00; Sa 08:00-13:00"
-website: "https://www.wm.de/de/unternehmen/standorte/details/muenster.html"
+street: Höltenweg
+housenumber: "50"
+phone: +49 251 61820
+opening_hours: Mo-Fr 07:45-18:00; Sa 08:00-13:00
+website: https://www.wm.de/de/unternehmen/standorte/details/muenster.html

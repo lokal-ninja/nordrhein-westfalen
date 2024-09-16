@@ -1,11 +1,11 @@
 id: 51789046
-type: way
+type: node
 latitude: 52.28803
 longitude: 8.79684
 postcode: "32479"
 city: Hille
-street: "Lübbecker Straße"
-housenumber: 94
+street: Lübbecker Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

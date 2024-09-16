@@ -4,8 +4,8 @@ latitude: 51.18087
 longitude: 7.19351
 postcode: "42853"
 city: Remscheid
-street: "Elberfelder Straße"
-housenumber: 11
-phone: "+49 21919333210"
-opening_hours: "Mo-Fr 09:00-13:00; Mo, Tu, Th 14:00-17:00; Fr 14:00-16:00"
+street: Elberfelder Straße
+housenumber: "11"
+phone: +49 21919333210
+opening_hours: Mo-Fr 09:00-13:00; Mo, Tu, Th 14:00-17:00; Fr 14:00-16:00
 website: ""

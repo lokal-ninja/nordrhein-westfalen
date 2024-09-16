@@ -1,11 +1,11 @@
 id: 30023324
-type: way
+type: node
 latitude: 51.7432
 longitude: 7.18636
 postcode: "45721"
 city: Haltern am See
-street: "Rekumer Straße"
-housenumber: 7
+street: Rekumer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su[1] 14:00-18:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su[1] 14:00-18:00
 website: ""

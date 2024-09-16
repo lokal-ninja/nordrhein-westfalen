@@ -1,11 +1,11 @@
 id: 494518156
-type: way
+type: node
 latitude: 50.91564
 longitude: 8.05038
 postcode: "57250"
 city: Netphen
-street: "Siegstraße"
-housenumber: 67
+street: Siegstraße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

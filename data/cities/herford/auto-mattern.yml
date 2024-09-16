@@ -4,8 +4,8 @@ latitude: 52.12057
 longitude: 8.68328
 postcode: "32049"
 city: Herford
-street: "Bismarckstraße"
-housenumber: 19
-phone: "+49 5221 98260"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:30-13:30; PH off"
-website: "https://www.auto-mattern.de/herford_bismarckstrasse/"
+street: Bismarckstraße
+housenumber: "19"
+phone: +49 5221 98260
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:30-13:30; PH off
+website: https://www.auto-mattern.de/herford_bismarckstrasse/

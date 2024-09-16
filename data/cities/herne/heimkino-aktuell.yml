@@ -4,8 +4,8 @@ latitude: 51.52509
 longitude: 7.20397
 postcode: "44625"
 city: Herne
-street: "Hülsstraße"
-housenumber: 9
-phone: "+49 2325 940049"
-opening_hours: "Mo, We 10:00-15:00; Sa 10:00-14:00"
-website: "https://www.heimkino-aktuell-shop.de/"
+street: Hülsstraße
+housenumber: "9"
+phone: +49 2325 940049
+opening_hours: Mo, We 10:00-15:00; Sa 10:00-14:00
+website: https://www.heimkino-aktuell-shop.de/

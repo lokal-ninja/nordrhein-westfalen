@@ -1,11 +1,11 @@
 id: 221859805
-type: way
+type: node
 latitude: 50.9147
 longitude: 7.1989
 postcode: "51503"
 city: Rösrath
-street: "Hofferhofer Straße"
-housenumber: 7
+street: Hofferhofer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

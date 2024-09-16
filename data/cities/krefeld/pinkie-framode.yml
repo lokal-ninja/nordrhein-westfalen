@@ -4,8 +4,8 @@ latitude: 51.33238
 longitude: 6.56253
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 113
+street: Hochstraße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-19:30; Sa 10:00-18:00"
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-19:30; Sa 10:00-18:00
 website: ""

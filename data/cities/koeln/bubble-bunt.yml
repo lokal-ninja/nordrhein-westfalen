@@ -4,8 +4,8 @@ latitude: 50.96314
 longitude: 6.94817
 postcode: "50733"
 city: Köln
-street: "Merheimer Straße"
-housenumber: 154
-phone: "+49 221 294 363 51"
-opening_hours: "Tu,We 10:00-16:00; Th,Fr 15:00-19:00; Sa 11:00-15:00"
-website: "https://bubblebunt.de/"
+street: Merheimer Straße
+housenumber: "154"
+phone: +49 221 294 363 51
+opening_hours: Tu,We 10:00-16:00; Th,Fr 15:00-19:00; Sa 11:00-15:00
+website: https://bubblebunt.de/

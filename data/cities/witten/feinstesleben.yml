@@ -4,8 +4,8 @@ latitude: 51.42427
 longitude: 7.33713
 postcode: "58452"
 city: Witten
-street: "Bodenborn"
-housenumber: 20
+street: Bodenborn
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su-Mo,PH off"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su-Mo,PH off
 website: ""

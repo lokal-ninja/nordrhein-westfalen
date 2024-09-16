@@ -1,11 +1,11 @@
 id: 74127270
-type: way
+type: node
 latitude: 51.43952
 longitude: 7.32172
 postcode: "58455"
 city: Witten
-street: "Sprockhöveler Straße"
-housenumber: 122
+street: Sprockhöveler Straße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 114576928
-type: way
+type: node
 latitude: 51.47705
 longitude: 7.21584
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 17
+street: Kortumstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-22:00"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-22:00
 website: ""

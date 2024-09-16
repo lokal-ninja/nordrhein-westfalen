@@ -1,11 +1,11 @@
 id: 571070026
-type: way
+type: node
 latitude: 50.85173
 longitude: 8.03073
 postcode: "57074"
 city: Siegen
-street: "Martinshardt"
-housenumber: 15
-phone: "+49 271 77016432"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "http://www.lueck-dellentechnik.de"
+street: Martinshardt
+housenumber: "15"
+phone: +49 271 77016432
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: http://www.lueck-dellentechnik.de

@@ -1,11 +1,11 @@
 id: 303159661
-type: way
+type: node
 latitude: 50.99548
 longitude: 7.12467
 postcode: "51465"
 city: Bergisch Gladbach
-street: "Reuterstraße"
-housenumber: 8
+street: Reuterstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:45-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 07:45-18:00; Sa 09:00-13:00; PH off
 website: ""

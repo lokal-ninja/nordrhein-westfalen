@@ -1,11 +1,11 @@
 id: 286232848
-type: way
+type: node
 latitude: 51.88053
 longitude: 8.50884
 postcode: "33415"
 city: Verl
-street: "Uhlandstraße"
-housenumber: 2
+street: Uhlandstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00; PH,Mo,Su off"
-website: "http://www.beckhoff-verl.de/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00; PH,Mo,Su off
+website: http://www.beckhoff-verl.de/

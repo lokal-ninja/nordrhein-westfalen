@@ -4,8 +4,8 @@ latitude: 51.53409
 longitude: 7.69025
 postcode: "59423"
 city: Unna
-street: "Wasserstraße"
-housenumber: 5
+street: Wasserstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

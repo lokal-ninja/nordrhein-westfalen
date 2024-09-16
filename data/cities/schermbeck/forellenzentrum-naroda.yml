@@ -4,8 +4,8 @@ latitude: 51.67319
 longitude: 6.86828
 postcode: "46514"
 city: Schermbeck
-street: "Zum Gahlener Grind"
-housenumber: 2
+street: Zum Gahlener Grind
+housenumber: "2"
 phone: ""
-opening_hours: "Nov-Feb: Mo-Su 07:00-17:30; Mar-Oct: Mo-Su 07:00-18:00"
+opening_hours: 'Nov-Feb: Mo-Su 07:00-17:30; Mar-Oct: Mo-Su 07:00-18:00'
 website: ""

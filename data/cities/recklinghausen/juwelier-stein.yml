@@ -4,8 +4,8 @@ latitude: 51.61318
 longitude: 7.19776
 postcode: "45657"
 city: Recklinghausen
-street: "Breite Straße"
-housenumber: 13
-phone: "+49 2361 22365"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-16:00"
-website: "https://juwelier-stein.de/"
+street: Breite Straße
+housenumber: "13"
+phone: +49 2361 22365
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-16:00
+website: https://juwelier-stein.de/

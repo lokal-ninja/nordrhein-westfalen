@@ -1,11 +1,11 @@
 id: 42028231
-type: way
+type: node
 latitude: 51.76024
 longitude: 6.15096
 postcode: "47551"
 city: Bedburg-Hau
-street: "Baumannshof"
-housenumber: 1
+street: Baumannshof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

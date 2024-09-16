@@ -4,8 +4,8 @@ latitude: 51.39948
 longitude: 7.43068
 postcode: "58313"
 city: Herdecke
-street: "Stiftsstraße"
-housenumber: 1
-phone: "+49 2330 9268520"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-14:00"
-website: "https://www.kodi.de"
+street: Stiftsstraße
+housenumber: "1"
+phone: +49 2330 9268520
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-14:00
+website: https://www.kodi.de

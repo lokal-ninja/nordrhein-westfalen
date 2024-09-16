@@ -4,8 +4,8 @@ latitude: 51.73424
 longitude: 8.78276
 postcode: "33100"
 city: Paderborn
-street: "Im Dörener Feld"
-housenumber: 4
+street: Im Dörener Feld
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 8:00-19:00; Sa 8:00-18:00; Su, PH off"
-website: "https://www.goeken-backen.de/"
+opening_hours: Mo-Fr 8:00-19:00; Sa 8:00-18:00; Su, PH off
+website: https://www.goeken-backen.de/

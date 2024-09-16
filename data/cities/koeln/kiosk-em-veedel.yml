@@ -1,11 +1,11 @@
 id: 330712636
-type: way
+type: node
 latitude: 51.00078
 longitude: 7.0394
 postcode: "51069"
 city: Köln
-street: "Berliner Straße"
-housenumber: 945
+street: Berliner Straße
+housenumber: "945"
 phone: ""
 opening_hours: ""
 website: ""

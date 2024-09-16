@@ -1,11 +1,11 @@
 id: 917146866
-type: way
+type: node
 latitude: 51.42888
 longitude: 6.88574
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 9413730"
-opening_hours: "Mo-Sa 10:00-16:00"
-website: "https://www.medimax.de/"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 9413730
+opening_hours: Mo-Sa 10:00-16:00
+website: https://www.medimax.de/

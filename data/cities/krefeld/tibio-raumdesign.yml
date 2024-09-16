@@ -1,11 +1,11 @@
 id: 258417343
-type: way
+type: node
 latitude: 51.34344
 longitude: 6.5517
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 130
+street: Hülser Straße
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "http://www.tibio-raumdesign.de/"
+website: http://www.tibio-raumdesign.de/

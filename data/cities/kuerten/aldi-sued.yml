@@ -1,11 +1,11 @@
 id: 255423281
-type: way
+type: node
 latitude: 51.03972
 longitude: 7.21122
 postcode: "51515"
 city: Kürten
-street: "Kölner Straße"
-housenumber: 371
+street: Kölner Straße
+housenumber: "371"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

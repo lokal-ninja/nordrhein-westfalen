@@ -1,11 +1,11 @@
 id: 320196661
-type: way
+type: node
 latitude: 51.66564
 longitude: 7.16181
 postcode: "45770"
 city: Marl
-street: "Nonnenbusch"
-housenumber: 132
-phone: "+49 2365 2011553"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
-website: "https://www.kulling-getraenke.de/"
+street: Nonnenbusch
+housenumber: "132"
+phone: +49 2365 2011553
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
+website: https://www.kulling-getraenke.de/

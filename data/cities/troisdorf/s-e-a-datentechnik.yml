@@ -1,11 +1,11 @@
 id: 110659881
-type: way
+type: node
 latitude: 50.81817
 longitude: 7.14546
 postcode: "53840"
 city: Troisdorf
-street: "Mülheimer Straße"
-housenumber: 7
+street: Mülheimer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

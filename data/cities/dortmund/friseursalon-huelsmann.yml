@@ -4,8 +4,8 @@ latitude: 51.52033
 longitude: 7.51966
 postcode: "44143"
 city: Dortmund
-street: "Nußbaumweg"
-housenumber: 5
+street: Nußbaumweg
+housenumber: "5"
 phone: "+49231515060"
 opening_hours: ""
-website: "https://www.friseur-huelsmann.de/"
+website: https://www.friseur-huelsmann.de/

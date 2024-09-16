@@ -1,11 +1,11 @@
 id: 280446607
-type: way
+type: node
 latitude: 51.48887
 longitude: 6.883
 postcode: "46047"
 city: Oberhausen
-street: "Centroallee"
-housenumber: 264
+street: Centroallee
+housenumber: "264"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

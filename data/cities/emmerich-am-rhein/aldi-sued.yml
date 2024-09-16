@@ -1,11 +1,11 @@
 id: 142706543
-type: way
+type: node
 latitude: 51.83326
 longitude: 6.25166
 postcode: "46446"
 city: Emmerich am Rhein
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

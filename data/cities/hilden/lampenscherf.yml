@@ -4,8 +4,9 @@ latitude: 51.16651
 longitude: 6.92698
 postcode: "40721"
 city: Hilden
-street: "Wehrstraße"
+street: Wehrstraße
 housenumber: 3-5
-phone: "+49 2103 54809"
-opening_hours: "Mo-Fr 09:30-18:30; Mar-Sep Sa 09:30-14:00; Oct-Feb Sa 09:30-13:00; PH off"
-website: "https://www.lampenscherf-zweirad.de/"
+phone: +49 2103 54809
+opening_hours: Mo-Fr 09:30-18:30; Mar-Sep Sa 09:30-14:00; Oct-Feb Sa 09:30-13:00;
+    PH off
+website: https://www.lampenscherf-zweirad.de/

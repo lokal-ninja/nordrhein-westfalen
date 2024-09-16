@@ -4,8 +4,8 @@ latitude: 50.87817
 longitude: 6.87558
 postcode: "50354"
 city: Hürth
-street: "Theresienhöhe"
-housenumber: 5
-phone: "+49 2233 9289810"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.rahm.de"
+street: Theresienhöhe
+housenumber: "5"
+phone: +49 2233 9289810
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: https://www.rahm.de

@@ -4,8 +4,8 @@ latitude: 51.76081
 longitude: 7.00172
 postcode: "46286"
 city: Dorsten
-street: "Lippramsdorfer Straße"
-housenumber: 9
+street: Lippramsdorfer Straße
+housenumber: "9"
 phone: "+4923697117"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.getraenke-possemeyer.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.getraenke-possemeyer.de/

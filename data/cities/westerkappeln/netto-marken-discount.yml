@@ -1,11 +1,11 @@
 id: 895656400
-type: way
+type: node
 latitude: 52.3127
 longitude: 7.88318
 postcode: "49492"
 city: Westerkappeln
-street: "Osnabrücker Straße"
-housenumber: 20
+street: Osnabrücker Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

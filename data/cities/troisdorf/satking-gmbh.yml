@@ -4,8 +4,8 @@ latitude: 50.81717
 longitude: 7.10512
 postcode: "53844"
 city: Troisdorf
-street: "Junkersring"
-housenumber: 18
-phone: "+49 2241 881090"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
-website: "https://www.satking.de"
+street: Junkersring
+housenumber: "18"
+phone: +49 2241 881090
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00
+website: https://www.satking.de

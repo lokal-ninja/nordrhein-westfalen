@@ -4,8 +4,8 @@ latitude: 51.30925
 longitude: 6.59
 postcode: "47807"
 city: Krefeld
-street: "Hafelsstraße"
-housenumber: 61
-phone: "+49 (0) 2151 303816"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: Hafelsstraße
+housenumber: "61"
+phone: +49 (0) 2151 303816
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

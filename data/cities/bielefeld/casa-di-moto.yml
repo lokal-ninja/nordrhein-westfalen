@@ -4,8 +4,8 @@ latitude: 51.96673
 longitude: 8.45978
 postcode: "33649"
 city: Bielefeld
-street: "Gütersloher Straße"
-housenumber: 339
-phone: "+49 521 402030"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.casadimoto.com"
+street: Gütersloher Straße
+housenumber: "339"
+phone: +49 521 402030
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.casadimoto.com

@@ -4,8 +4,8 @@ latitude: 52.2061
 longitude: 8.58383
 postcode: "32257"
 city: Bünde
-street: "Borriesstraße"
-housenumber: 130
-phone: "+49 5223 820 239150"
-opening_hours: "Mo-Th 07:45-18:00; Fr 07:45-17:00; Sa 08:00-13:00"
-website: "https://www.wm.de/de/"
+street: Borriesstraße
+housenumber: "130"
+phone: +49 5223 820 239150
+opening_hours: Mo-Th 07:45-18:00; Fr 07:45-17:00; Sa 08:00-13:00
+website: https://www.wm.de/de/

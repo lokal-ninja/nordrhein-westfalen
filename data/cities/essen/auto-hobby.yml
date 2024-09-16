@@ -1,11 +1,11 @@
 id: 113802458
-type: way
+type: node
 latitude: 51.44878
 longitude: 6.99733
 postcode: "45145"
 city: Essen
-street: "Münchener Straße"
-housenumber: 44
+street: Münchener Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

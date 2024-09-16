@@ -1,11 +1,11 @@
 id: 303635334
-type: way
+type: node
 latitude: 51.02675
 longitude: 7.56875
 postcode: "51643"
 city: Gummersbach
-street: "Am Wehrenbeul"
-housenumber: 7
+street: Am Wehrenbeul
+housenumber: "7"
 phone: "+49226167030"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30"
-website: "https://sk-2.de"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:30
+website: https://sk-2.de

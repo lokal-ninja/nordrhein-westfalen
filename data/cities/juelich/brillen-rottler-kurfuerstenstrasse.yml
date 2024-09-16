@@ -4,8 +4,8 @@ latitude: 50.92767
 longitude: 6.36335
 postcode: "52428"
 city: Jülich
-street: "Kurfürstenstraße"
-housenumber: 15
+street: Kurfürstenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.pleines.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.pleines.de/

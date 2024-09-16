@@ -4,8 +4,9 @@ latitude: 50.93915
 longitude: 6.68641
 postcode: "50127"
 city: Bergheim
-street: "Köln-Aachener-Straße"
-housenumber: 186
+street: Köln-Aachener-Straße
+housenumber: "186"
 phone: ""
-opening_hours: "Tu-We 08:00-12:30; Th 08:00-12:30,14:30-18:00;Fr 08:00-18:00; Sa 08:00-13:00; Mo,Su off"
+opening_hours: Tu-We 08:00-12:30; Th 08:00-12:30,14:30-18:00;Fr 08:00-18:00; Sa 08:00-13:00;
+    Mo,Su off
 website: ""

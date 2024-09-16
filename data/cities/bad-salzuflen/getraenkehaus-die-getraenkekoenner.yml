@@ -4,8 +4,8 @@ latitude: 52.08418
 longitude: 8.73566
 postcode: "32105"
 city: Bad Salzuflen
-street: "Werler Straße"
-housenumber: 13
+street: Werler Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-16:00"
-website: "https://www.getraenkehaus.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-16:00
+website: https://www.getraenkehaus.de/

@@ -4,8 +4,8 @@ latitude: 51.34589
 longitude: 6.54565
 postcode: "47803"
 city: Krefeld
-street: "Weyerhofstraße"
-housenumber: 28
-phone: "+49 2151 4149315"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-13:00"
+street: Weyerhofstraße
+housenumber: "28"
+phone: +49 2151 4149315
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-13:00
 website: ""

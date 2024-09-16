@@ -1,11 +1,11 @@
 id: 234868654
-type: way
+type: node
 latitude: 51.56292
 longitude: 8.12589
 postcode: "59494"
 city: Soest
-street: "Elfser Weg"
+street: Elfser Weg
 housenumber: 16a
-phone: "+49 2921 9818488"
+phone: +49 2921 9818488
 opening_hours: ""
-website: "https://www.alex-kamine.de"
+website: https://www.alex-kamine.de

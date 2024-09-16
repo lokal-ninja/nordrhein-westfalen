@@ -4,8 +4,8 @@ latitude: 51.35886
 longitude: 7.4675
 postcode: "58095"
 city: Hagen
-street: "Elberfelder Straße"
-housenumber: 59
+street: Elberfelder Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Sa 10:00-18:00; Tu-Fr 10:00-19:00"
-website: "https://www.soeren-fashion.de/"
+opening_hours: Sa 10:00-18:00; Tu-Fr 10:00-19:00
+website: https://www.soeren-fashion.de/

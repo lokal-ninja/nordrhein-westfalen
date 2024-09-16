@@ -1,11 +1,11 @@
 id: 318623419
-type: way
+type: node
 latitude: 50.99795
 longitude: 6.80821
 postcode: "50259"
 city: Pulheim
-street: "Orrer Straße"
-housenumber: 20
+street: Orrer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa10:00-14:00"
-website: "http://www.machbar-pulheim.de"
+opening_hours: Mo-Fr 09:30-18:30, Sa10:00-14:00
+website: http://www.machbar-pulheim.de

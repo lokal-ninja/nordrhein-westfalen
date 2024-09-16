@@ -4,8 +4,8 @@ latitude: 52.03823
 longitude: 8.89465
 postcode: "32657"
 city: Lemgo
-street: "Johann-Sebastian-Bach-Straße"
-housenumber: 14
-phone: "+49 5261 4827"
-opening_hours: "Termine nach Vereinbarung"
-website: "http://Elke-Saada.de"
+street: Johann-Sebastian-Bach-Straße
+housenumber: "14"
+phone: +49 5261 4827
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://Elke-Saada.de

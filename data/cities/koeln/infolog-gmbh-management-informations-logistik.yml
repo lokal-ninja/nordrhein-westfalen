@@ -1,11 +1,11 @@
 id: 150209226
-type: way
+type: node
 latitude: 50.85215
 longitude: 7.09475
 postcode: "51147"
 city: Köln
-street: "Nibelungenstraße"
-housenumber: 56
+street: Nibelungenstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

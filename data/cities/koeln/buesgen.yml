@@ -1,11 +1,11 @@
 id: 330840783
-type: way
+type: node
 latitude: 50.98543
 longitude: 6.99996
 postcode: "51061"
 city: Köln
-street: "Buchholzstraße"
-housenumber: 13
+street: Buchholzstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

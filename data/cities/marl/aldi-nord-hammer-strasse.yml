@@ -1,11 +1,11 @@
 id: 105480635
-type: way
+type: node
 latitude: 51.69405
 longitude: 7.12048
 postcode: "45772"
 city: Marl
-street: "Hammer Straße"
-housenumber: 109
+street: Hammer Straße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

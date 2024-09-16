@@ -4,8 +4,8 @@ latitude: 51.72112
 longitude: 8.7571
 postcode: "33098"
 city: Paderborn
-street: "Heiersstraße"
-housenumber: 24
+street: Heiersstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00; Mo off"
-website: "https://paderborn.feineraeder.de/"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-15:00; Mo off
+website: https://paderborn.feineraeder.de/

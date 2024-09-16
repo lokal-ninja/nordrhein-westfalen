@@ -1,11 +1,11 @@
 id: 231327537
-type: way
+type: node
 latitude: 51.53579
 longitude: 6.97195
 postcode: "46240"
 city: Bottrop
-street: "Johannesstraße"
+street: Johannesstraße
 housenumber: 14a
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"
-website: "https://radsport-bomm.com/"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00
+website: https://radsport-bomm.com/

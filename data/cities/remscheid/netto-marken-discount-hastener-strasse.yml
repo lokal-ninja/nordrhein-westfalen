@@ -1,11 +1,11 @@
 id: 753681698
-type: way
+type: node
 latitude: 51.1902
 longitude: 7.17249
 postcode: "42855"
 city: Remscheid
-street: "Hastener Straße"
-housenumber: 26
+street: Hastener Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

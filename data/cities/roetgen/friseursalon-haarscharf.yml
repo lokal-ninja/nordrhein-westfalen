@@ -4,8 +4,8 @@ latitude: 50.64293
 longitude: 6.18854
 postcode: "52159"
 city: Roetgen
-street: "Bundesstraße"
-housenumber: 56
-phone: "+49 2471 1311"
-opening_hours: "Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-14:00"
+street: Bundesstraße
+housenumber: "56"
+phone: +49 2471 1311
+opening_hours: Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 322137106
-type: way
+type: node
 latitude: 51.55589
 longitude: 7.00243
 postcode: "45968"
 city: Gladbeck
-street: "Horster Straße"
-housenumber: 195
+street: Horster Straße
+housenumber: "195"
 phone: "+492043374425"
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

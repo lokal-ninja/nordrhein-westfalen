@@ -1,11 +1,11 @@
 id: 39322323
-type: way
+type: node
 latitude: 50.66801
 longitude: 7.17725
 postcode: "53179"
 city: Bonn
-street: "Drachenburgstraße"
-housenumber: 18
+street: Drachenburgstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.rkg.de/"
+website: https://www.rkg.de/

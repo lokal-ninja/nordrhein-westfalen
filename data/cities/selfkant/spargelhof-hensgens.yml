@@ -4,8 +4,9 @@ latitude: 51.03891
 longitude: 5.91168
 postcode: "52538"
 city: Selfkant
-street: "Am Kreuzberg"
-housenumber: 
-phone: "+49 (0) 2456 3672"
-opening_hours: "Mo-Fr 09:00-18:30 Saison, Sa 08:00-17:00 Saison, Su 09:00-12:00 Saison"
+street: Am Kreuzberg
+housenumber: ""
+phone: +49 (0) 2456 3672
+opening_hours: Mo-Fr 09:00-18:30 "Saison", Sa 08:00-17:00 "Saison", Su 09:00-12:00
+    "Saison"
 website: ""

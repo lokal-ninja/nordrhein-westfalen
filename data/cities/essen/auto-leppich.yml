@@ -1,11 +1,11 @@
 id: 114666156
-type: way
+type: node
 latitude: 51.4405
 longitude: 7.01231
 postcode: "45130"
 city: Essen
-street: "Annastraße"
-housenumber: 78
+street: Annastraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

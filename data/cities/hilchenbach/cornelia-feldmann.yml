@@ -1,11 +1,11 @@
 id: 162427247
-type: way
+type: node
 latitude: 50.98693
 longitude: 8.10225
 postcode: "57271"
 city: Hilchenbach
-street: "Wittgensteiner Straße"
-housenumber: 8
+street: Wittgensteiner Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00
 website: ""

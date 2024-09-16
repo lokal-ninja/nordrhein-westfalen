@@ -1,11 +1,11 @@
 id: 133751405
-type: way
+type: node
 latitude: 51.36746
 longitude: 7.59202
 postcode: "58642"
 city: Iserlohn
-street: "Liegnitzer Straße"
-housenumber: 8
+street: Liegnitzer Straße
+housenumber: "8"
 phone: "+491797443165"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

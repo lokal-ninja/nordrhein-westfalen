@@ -1,11 +1,11 @@
 id: 30022166
-type: way
+type: node
 latitude: 51.73535
 longitude: 7.18809
 postcode: ""
 city: Haltern am See
-street: "Recklinghäuser Straße"
-housenumber: 93
+street: Recklinghäuser Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-17:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-17:00; Sa 10:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.72341
 longitude: 8.75648
 postcode: "33102"
 city: Paderborn
-street: "Hillebrandstraße"
-housenumber: 2
+street: Hillebrandstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.massagestudio-eckert.de/"
+website: https://www.massagestudio-eckert.de/

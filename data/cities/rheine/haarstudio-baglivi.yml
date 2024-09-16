@@ -4,8 +4,8 @@ latitude: 52.22818
 longitude: 7.48862
 postcode: "48432"
 city: Rheine
-street: "Gröningstraße"
-housenumber: 3
+street: Gröningstraße
+housenumber: "3"
 phone: "+4959758436"
-opening_hours: "Mo 14:00-20:00; Tu-Fr 08:00-19:00; Sa 08:00-13:00"
-website: "https://www.haarstudio-baglivi.de/"
+opening_hours: Mo 14:00-20:00; Tu-Fr 08:00-19:00; Sa 08:00-13:00
+website: https://www.haarstudio-baglivi.de/

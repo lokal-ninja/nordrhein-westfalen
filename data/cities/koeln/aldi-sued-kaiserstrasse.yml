@@ -1,11 +1,11 @@
 id: 43387980
-type: way
+type: node
 latitude: 50.88157
 longitude: 7.06941
 postcode: "51145"
 city: Köln
-street: "Kaiserstraße"
-housenumber: 95
+street: Kaiserstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

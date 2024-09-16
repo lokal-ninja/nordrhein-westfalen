@@ -4,8 +4,8 @@ latitude: 51.46357
 longitude: 7.153
 postcode: "44869"
 city: Bochum
-street: "Höntroper Straße"
-housenumber: 3
+street: Höntroper Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30, Mo-Fr 14:30-18:30, Sa 09:30-13:30"
-website: "https://www.buxa.de/"
+opening_hours: Mo-Fr 09:00-13:30, Mo-Fr 14:30-18:30, Sa 09:30-13:30
+website: https://www.buxa.de/

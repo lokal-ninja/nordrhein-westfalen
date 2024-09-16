@@ -4,8 +4,8 @@ latitude: 52.35192
 longitude: 8.80433
 postcode: "32479"
 city: Hille
-street: "Detzkamp"
-housenumber: 8
-phone: "+49 5703 1498"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.gefluegel-schmitz.de/"
+street: Detzkamp
+housenumber: "8"
+phone: +49 5703 1498
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.gefluegel-schmitz.de/

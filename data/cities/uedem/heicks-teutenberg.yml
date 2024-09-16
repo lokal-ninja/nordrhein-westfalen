@@ -4,8 +4,8 @@ latitude: 51.66846
 longitude: 6.27247
 postcode: "47589"
 city: Uedem
-street: "Mühlenstraße"
-housenumber: 4
-phone: "+49 2825 9387893"
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-13:00; Su 07:00-17:00"
-website: "https://heicks-teutenberg.de"
+street: Mühlenstraße
+housenumber: "4"
+phone: +49 2825 9387893
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-13:00; Su 07:00-17:00
+website: https://heicks-teutenberg.de

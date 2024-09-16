@@ -1,11 +1,11 @@
 id: 110873298
-type: way
+type: node
 latitude: 50.52961
 longitude: 6.26274
 postcode: "52156"
 city: Monschau
-street: "Hauptstraße"
-housenumber: 144
-phone: "+49 2472 3401"
+street: Hauptstraße
+housenumber: "144"
+phone: +49 2472 3401
 opening_hours: ""
-website: "https://www.autohaus-kirch.de/"
+website: https://www.autohaus-kirch.de/

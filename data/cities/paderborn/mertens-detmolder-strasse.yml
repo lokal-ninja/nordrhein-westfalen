@@ -1,11 +1,11 @@
 id: 34820915
-type: way
+type: node
 latitude: 51.74524
 longitude: 8.77421
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 210
+street: Detmolder Straße
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Fr 6:00-19:00; Sa 6:00-18:00; Su 8:00-18:00"
-website: "https://www.baeckerei-mertens.de/"
+opening_hours: Mo-Fr 6:00-19:00; Sa 6:00-18:00; Su 8:00-18:00
+website: https://www.baeckerei-mertens.de/

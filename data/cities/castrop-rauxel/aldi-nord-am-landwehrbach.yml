@@ -1,11 +1,11 @@
 id: 627146635
-type: way
+type: node
 latitude: 51.5553
 longitude: 7.29229
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Am Landwehrbach"
-housenumber: 7
+street: Am Landwehrbach
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/castrop-rauxel/am-landwehrbach-7.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/castrop-rauxel/am-landwehrbach-7.html

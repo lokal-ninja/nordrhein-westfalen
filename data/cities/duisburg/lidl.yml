@@ -1,11 +1,11 @@
 id: 26627086
-type: way
+type: node
 latitude: 51.5294
 longitude: 6.75508
 postcode: "47179"
 city: Duisburg
-street: "Holtener Straße"
-housenumber: 203
+street: Holtener Straße
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

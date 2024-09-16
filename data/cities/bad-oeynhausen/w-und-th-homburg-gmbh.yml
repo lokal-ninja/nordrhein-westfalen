@@ -1,11 +1,11 @@
 id: 67646630
-type: way
+type: node
 latitude: 52.21788
 longitude: 8.75718
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Frankenweg"
-housenumber: 99
+street: Frankenweg
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

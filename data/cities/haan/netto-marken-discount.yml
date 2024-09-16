@@ -1,11 +1,11 @@
 id: 25507608
-type: way
+type: node
 latitude: 51.21709
 longitude: 7.01029
 postcode: "42781"
 city: Haan
-street: "Thunbuschstraße"
-housenumber: 1
+street: Thunbuschstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

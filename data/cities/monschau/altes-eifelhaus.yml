@@ -1,11 +1,11 @@
 id: 110908902
-type: way
+type: node
 latitude: 50.53181
 longitude: 6.25493
 postcode: "52156"
 city: Monschau
-street: "Hauptstraße"
-housenumber: 96
+street: Hauptstraße
+housenumber: "96"
 phone: ""
-opening_hours: "Th-Su 09:30-12:00+"
-website: "http://www.altes-eifelhaus.de/"
+opening_hours: Th-Su 09:30-12:00+
+website: http://www.altes-eifelhaus.de/

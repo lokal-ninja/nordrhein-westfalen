@@ -4,8 +4,8 @@ latitude: 51.23462
 longitude: 7.08101
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 124
-phone: "+49 (0)202-27 02 63 83"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00"
-website: "http://www.amico-lichtdesign.de"
+street: Kaiserstraße
+housenumber: "124"
+phone: +49 (0)202-27 02 63 83
+opening_hours: Mo-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00
+website: http://www.amico-lichtdesign.de

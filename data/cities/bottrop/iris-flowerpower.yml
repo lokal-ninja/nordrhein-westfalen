@@ -1,11 +1,11 @@
 id: 297232474
-type: way
+type: node
 latitude: 51.54085
 longitude: 6.93181
 postcode: "46240"
 city: Bottrop
-street: "Nordring"
-housenumber: 80
+street: Nordring
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00
 website: ""

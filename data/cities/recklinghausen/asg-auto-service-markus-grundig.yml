@@ -1,11 +1,11 @@
 id: 229775546
-type: way
+type: node
 latitude: 51.60406
 longitude: 7.27257
 postcode: "45665"
 city: Recklinghausen
-street: "Sachsenstraße"
-housenumber: 150
+street: Sachsenstraße
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.62027
 longitude: 7.19752
 postcode: "45657"
 city: Recklinghausen
-street: "Halterner Straße"
-housenumber: 28
-phone: "+49 2361 22633"
-opening_hours: "Mo, Sa 06:45-13:00; Tu-Fr 06:45-18:00"
-website: "http://www.fleischerei-breukmann.de"
+street: Halterner Straße
+housenumber: "28"
+phone: +49 2361 22633
+opening_hours: Mo, Sa 06:45-13:00; Tu-Fr 06:45-18:00
+website: http://www.fleischerei-breukmann.de

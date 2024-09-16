@@ -1,11 +1,11 @@
 id: 98356254
-type: way
+type: node
 latitude: 51.09788
 longitude: 6.83747
 postcode: "41539"
 city: Dormagen
-street: "Krefelder Straße"
-housenumber: 42
+street: Krefelder Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00; Mo,Su off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00; Mo,Su off
 website: ""

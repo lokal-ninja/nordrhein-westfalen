@@ -1,11 +1,11 @@
 id: 16768318
-type: way
+type: node
 latitude: 51.70345
 longitude: 8.76924
 postcode: "33100"
 city: Paderborn
-street: "Pohlweg"
-housenumber: 110
+street: Pohlweg
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 9:00-20:00; Su,PH off"
-website: "https://www.suedring-paderborn.de/"
+opening_hours: Mo-Sa 9:00-20:00; Su,PH off
+website: https://www.suedring-paderborn.de/

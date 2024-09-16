@@ -1,11 +1,11 @@
 id: 1236133586
-type: way
+type: node
 latitude: 51.41583
 longitude: 7.19997
 postcode: "45527"
 city: Hattingen
-street: "Am Walzwerk"
-housenumber: 47
+street: Am Walzwerk
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://heroh.de"
+website: https://heroh.de

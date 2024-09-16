@@ -4,8 +4,8 @@ latitude: 51.47822
 longitude: 7.22379
 postcode: "44789"
 city: Bochum
-street: "Buddenbergplatz"
-housenumber: 1
-phone: "+49 234 2878816"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-16:00; Su,PH off"
-website: "https://www.lecrobag.de"
+street: Buddenbergplatz
+housenumber: "1"
+phone: +49 234 2878816
+opening_hours: Mo-Fr 06:00-20:00; Sa 06:00-16:00; Su,PH off
+website: https://www.lecrobag.de

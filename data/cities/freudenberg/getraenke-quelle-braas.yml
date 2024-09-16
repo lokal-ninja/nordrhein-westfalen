@@ -1,11 +1,11 @@
 id: 294379600
-type: way
+type: node
 latitude: 50.86776
 longitude: 7.9087
 postcode: "57258"
 city: Freudenberg
-street: "Niederndorfer Straße"
-housenumber: 110
+street: Niederndorfer Straße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

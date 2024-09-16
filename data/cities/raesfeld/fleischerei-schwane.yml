@@ -1,11 +1,11 @@
 id: 260528262
-type: way
+type: node
 latitude: 51.76957
 longitude: 6.84226
 postcode: "46348"
 city: Raesfeld
-street: "Brökerstegge"
-housenumber: 6
+street: Brökerstegge
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
 website: ""

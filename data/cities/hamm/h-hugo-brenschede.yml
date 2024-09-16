@@ -1,11 +1,11 @@
 id: 244702470
-type: way
+type: node
 latitude: 51.67391
 longitude: 7.77782
 postcode: "59067"
 city: Hamm
-street: "Teutonenstraße"
-housenumber: 4
-phone: "+49 2381 940420"
+street: Teutonenstraße
+housenumber: "4"
+phone: +49 2381 940420
 opening_hours: ""
-website: "https://www.brenschede.de"
+website: https://www.brenschede.de

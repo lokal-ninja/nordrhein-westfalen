@@ -1,11 +1,11 @@
 id: 92870301
-type: way
+type: node
 latitude: 51.35446
 longitude: 8.25112
 postcode: "59872"
 city: Meschede
-street: "Enster Straße"
-housenumber: 2
-phone: "+49 291 82200"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "http://www.sport-pilz.de/"
+street: Enster Straße
+housenumber: "2"
+phone: +49 291 82200
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: http://www.sport-pilz.de/

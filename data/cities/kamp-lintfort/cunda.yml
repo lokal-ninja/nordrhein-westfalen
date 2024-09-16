@@ -1,11 +1,11 @@
 id: 130176687
-type: way
+type: node
 latitude: 51.50237
 longitude: 6.54734
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Moerser Straße"
-housenumber: 240
+street: Moerser Straße
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

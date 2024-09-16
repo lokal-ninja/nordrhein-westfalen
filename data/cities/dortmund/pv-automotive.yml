@@ -1,11 +1,11 @@
 id: 52915766
-type: way
+type: node
 latitude: 51.53141
 longitude: 7.53346
 postcode: "44309"
 city: Dortmund
-street: "Oberste-Wilms-Straße"
-housenumber: 22
+street: Oberste-Wilms-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 77859461
-type: way
+type: node
 latitude: 50.76458
 longitude: 6.08187
 postcode: "52064"
 city: Aachen
-street: "Kamper Straße"
-housenumber: 22
+street: Kamper Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.awd-aachen.de/"
+website: https://www.awd-aachen.de/

@@ -4,8 +4,8 @@ latitude: 50.72507
 longitude: 7.10875
 postcode: "53113"
 city: Bonn
-street: "Arndtstraße"
-housenumber: 38
-phone: "+49 228 38763568"
-opening_hours: "Tu 13:00-19:00; Th-Sa 10:00-19:00; Su,Mo off"
-website: "https://www.wein-vierteles-laedle.de/"
+street: Arndtstraße
+housenumber: "38"
+phone: +49 228 38763568
+opening_hours: Tu 13:00-19:00; Th-Sa 10:00-19:00; Su,Mo off
+website: https://www.wein-vierteles-laedle.de/

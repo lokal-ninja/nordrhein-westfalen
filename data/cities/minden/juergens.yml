@@ -1,11 +1,11 @@
 id: 60974798
-type: way
+type: node
 latitude: 52.28743
 longitude: 8.89692
 postcode: "32427"
 city: Minden
-street: "Hedwigstraße"
-housenumber: 2
+street: Hedwigstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

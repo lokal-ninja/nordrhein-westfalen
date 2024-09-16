@@ -4,8 +4,8 @@ latitude: 50.9558
 longitude: 6.89329
 postcode: "50827"
 city: Köln
-street: "Wilhelm-Mauser-Straße"
-housenumber: 47
-phone: "+49 221 79005001"
-opening_hours: "Mo-Tu 10:30-18:30; We 10:30-17:30; Th 10:30-18:30; Fr 10:30-19:30"
+street: Wilhelm-Mauser-Straße
+housenumber: "47"
+phone: +49 221 79005001
+opening_hours: Mo-Tu 10:30-18:30; We 10:30-17:30; Th 10:30-18:30; Fr 10:30-19:30
 website: ""

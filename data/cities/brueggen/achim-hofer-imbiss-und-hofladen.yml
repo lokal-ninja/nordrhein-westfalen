@@ -4,8 +4,8 @@ latitude: 51.29401
 longitude: 6.19705
 postcode: "41379"
 city: Brüggen
-street: "Hülst"
-housenumber: 18
-phone: "+49 2157 9246"
-opening_hours: "Mo-Th 11:15-14:15; Fr 11:15-14:15,17:15-20:30; Sa 17:15-20:30"
-website: "https://imbiss-hofer-und-bauernmarkt.business.site/"
+street: Hülst
+housenumber: "18"
+phone: +49 2157 9246
+opening_hours: Mo-Th 11:15-14:15; Fr 11:15-14:15,17:15-20:30; Sa 17:15-20:30
+website: https://imbiss-hofer-und-bauernmarkt.business.site/

@@ -4,8 +4,8 @@ latitude: 51.11282
 longitude: 7.10033
 postcode: "42799"
 city: Leichlingen
-street: "Krähwinkel"
-housenumber: 9
-phone: "+49 2174 748677"
-opening_hours: "Mo-Sa 09:00-18:30, Su 10:00-18:30"
-website: "https://rusticus.net/hofladen/"
+street: Krähwinkel
+housenumber: "9"
+phone: +49 2174 748677
+opening_hours: Mo-Sa 09:00-18:30, Su 10:00-18:30
+website: https://rusticus.net/hofladen/

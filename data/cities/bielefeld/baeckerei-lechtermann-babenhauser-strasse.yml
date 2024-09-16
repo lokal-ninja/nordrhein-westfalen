@@ -4,8 +4,8 @@ latitude: 52.05929
 longitude: 8.51553
 postcode: "33613"
 city: Bielefeld
-street: "Babenhauser Straße"
-housenumber: 20
-phone: "+49 521 98 75 31 91"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:00"
-website: "https://www.baeckerei-lechtermann.de"
+street: Babenhauser Straße
+housenumber: "20"
+phone: +49 521 98 75 31 91
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-12:00
+website: https://www.baeckerei-lechtermann.de

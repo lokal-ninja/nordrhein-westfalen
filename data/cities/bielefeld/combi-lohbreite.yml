@@ -1,11 +1,11 @@
 id: 234764831
-type: way
+type: node
 latitude: 52.02511
 longitude: 8.56482
 postcode: "33607"
 city: Bielefeld
-street: "Lohbreite"
-housenumber: 7
+street: Lohbreite
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

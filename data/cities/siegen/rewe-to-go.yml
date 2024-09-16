@@ -4,8 +4,8 @@ latitude: 50.8755
 longitude: 8.01628
 postcode: "57072"
 city: Siegen
-street: "Am Bahnhof"
-housenumber: 18
-phone: "+49 271 386 813 00"
-opening_hours: "Mo-Th 05:00-23:00, Fr-Sa 05:00-01:00, Su 05:00-23:00"
-website: "https://togo.rewe.de/index.html"
+street: Am Bahnhof
+housenumber: "18"
+phone: +49 271 386 813 00
+opening_hours: Mo-Th 05:00-23:00, Fr-Sa 05:00-01:00, Su 05:00-23:00
+website: https://togo.rewe.de/index.html

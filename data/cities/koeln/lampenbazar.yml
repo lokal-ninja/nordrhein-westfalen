@@ -1,11 +1,11 @@
 id: 207896277
-type: way
+type: node
 latitude: 50.92177
 longitude: 6.86603
 postcode: "50858"
 city: Köln
-street: "Dürener Straße"
-housenumber: 430
+street: Dürener Straße
+housenumber: "430"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "http://www.lampenbazar.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: http://www.lampenbazar.de/

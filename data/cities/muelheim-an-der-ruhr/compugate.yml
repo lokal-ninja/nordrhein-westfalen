@@ -4,8 +4,8 @@ latitude: 51.42791
 longitude: 6.8498
 postcode: "45478"
 city: Mülheim an der Ruhr
-street: "Duisburger Straße"
-housenumber: 204
-phone: "+49 208 5942828"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "http://www.compugate.de"
+street: Duisburger Straße
+housenumber: "204"
+phone: +49 208 5942828
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: http://www.compugate.de

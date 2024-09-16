@@ -4,8 +4,8 @@ latitude: 51.60315
 longitude: 7.18388
 postcode: "45659"
 city: Recklinghausen
-street: "Westring"
-housenumber: 2
+street: Westring
+housenumber: "2"
 phone: "+49236123231"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
-website: "https://www.pauls-muehle.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00
+website: https://www.pauls-muehle.de/

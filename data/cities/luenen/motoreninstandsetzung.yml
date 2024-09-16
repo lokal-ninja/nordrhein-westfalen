@@ -1,11 +1,11 @@
 id: 170562925
-type: way
+type: node
 latitude: 51.60452
 longitude: 7.45648
 postcode: "44536"
 city: Lünen
-street: "Stellenbachstraße"
-housenumber: 40
+street: Stellenbachstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

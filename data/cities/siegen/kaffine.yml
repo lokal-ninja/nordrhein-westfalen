@@ -1,11 +1,11 @@
 id: 142703771
-type: way
+type: node
 latitude: 50.87438
 longitude: 8.02437
 postcode: "57072"
 city: Siegen
-street: "Löhrstraße"
-housenumber: 2
+street: Löhrstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
 website: ""

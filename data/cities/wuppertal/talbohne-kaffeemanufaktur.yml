@@ -4,8 +4,8 @@ latitude: 51.26701
 longitude: 7.14548
 postcode: "42105"
 city: Wuppertal
-street: "Mirker Straße"
-housenumber: 48
+street: Mirker Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "https://www.talbohne.com/about/"
+website: https://www.talbohne.com/about/

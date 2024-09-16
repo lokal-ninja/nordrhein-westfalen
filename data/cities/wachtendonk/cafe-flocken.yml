@@ -1,11 +1,11 @@
 id: 144563590
-type: way
+type: node
 latitude: 51.39933
 longitude: 6.30721
 postcode: "47669"
 city: Wachtendonk
-street: "Landfriedensstraße"
-housenumber: 29
-phone: "+49 2836 366"
+street: Landfriedensstraße
+housenumber: "29"
+phone: +49 2836 366
 opening_hours: ""
 website: ""

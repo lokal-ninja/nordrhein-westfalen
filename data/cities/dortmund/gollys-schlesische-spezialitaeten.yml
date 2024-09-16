@@ -4,8 +4,8 @@ latitude: 51.53237
 longitude: 7.6107
 postcode: "44319"
 city: Dortmund
-street: "Wickeder Hellweg"
-housenumber: 90
+street: Wickeder Hellweg
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH,Su,Mo off"
-website: "https://www.gollys.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH,Su,Mo off
+website: https://www.gollys.de/

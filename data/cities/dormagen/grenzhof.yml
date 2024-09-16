@@ -4,8 +4,8 @@ latitude: 51.13461
 longitude: 6.83964
 postcode: "41541"
 city: Dormagen
-street: "Oberstraße"
-housenumber: 200
-phone: "+49 2133 42003"
+street: Oberstraße
+housenumber: "200"
+phone: +49 2133 42003
 opening_hours: ""
-website: "https://grenzhof-dormagen.de/"
+website: https://grenzhof-dormagen.de/

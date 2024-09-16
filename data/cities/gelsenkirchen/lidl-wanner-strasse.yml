@@ -1,11 +1,11 @@
 id: 266921006
-type: way
+type: node
 latitude: 51.51553
 longitude: 7.12016
 postcode: "45888"
 city: Gelsenkirchen
-street: "Wanner Straße"
-housenumber: 155
+street: Wanner Straße
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

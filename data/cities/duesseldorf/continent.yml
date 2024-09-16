@@ -4,8 +4,8 @@ latitude: 51.26089
 longitude: 6.81151
 postcode: "40472"
 city: Düsseldorf
-street: "Münsterstraße"
-housenumber: 497
+street: Münsterstraße
+housenumber: "497"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.continent-duesseldorf.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.continent-duesseldorf.de/

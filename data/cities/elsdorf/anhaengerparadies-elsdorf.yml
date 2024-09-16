@@ -4,8 +4,8 @@ latitude: 50.94275
 longitude: 6.57974
 postcode: "50189"
 city: Elsdorf
-street: "Daimlerstraße"
-housenumber: 4
+street: Daimlerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off"
+opening_hours: Mo,Tu,We,Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off
 website: ""

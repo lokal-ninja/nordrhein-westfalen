@@ -1,11 +1,11 @@
 id: 220534861
-type: way
+type: node
 latitude: 51.48562
 longitude: 6.85661
 postcode: "46049"
 city: Oberhausen
-street: "Max-Planck-Ring"
-housenumber: 4
-phone: "+49 20846840950"
-opening_hours: "Mo-Fr 07:00-17:00"
+street: Max-Planck-Ring
+housenumber: "4"
+phone: +49 20846840950
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

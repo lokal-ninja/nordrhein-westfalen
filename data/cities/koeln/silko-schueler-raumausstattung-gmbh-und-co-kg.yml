@@ -4,8 +4,8 @@ latitude: 50.96119
 longitude: 6.95345
 postcode: "50733"
 city: Köln
-street: "Cranachstraße"
-housenumber: 10
-phone: "+49 221 736 066"
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-18:00; Sa nach Vereinbarung; PH off"
-website: "https://raumausstattung-schueler.de/"
+street: Cranachstraße
+housenumber: "10"
+phone: +49 221 736 066
+opening_hours: Mo-Fr 08:00-13:00, 14:00-18:00; Sa "nach Vereinbarung"; PH off
+website: https://raumausstattung-schueler.de/

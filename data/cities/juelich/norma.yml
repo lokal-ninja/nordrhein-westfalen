@@ -1,11 +1,11 @@
 id: 224959035
-type: way
+type: node
 latitude: 50.92445
 longitude: 6.35383
 postcode: "52428"
 city: Jülich
-street: "Aachener Straße"
-housenumber: 13
+street: Aachener Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://norma-online.de/

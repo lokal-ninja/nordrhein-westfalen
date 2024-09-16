@@ -4,8 +4,8 @@ latitude: 51.51035
 longitude: 7.444
 postcode: "44137"
 city: Dortmund
-street: "Lange Straße"
-housenumber: 79
+street: Lange Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:30,13:30-16:30; Fr 08:00-16:30"
+opening_hours: Mo-Th 08:00-12:30,13:30-16:30; Fr 08:00-16:30
 website: ""

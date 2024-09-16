@@ -4,8 +4,8 @@ latitude: 51.20764
 longitude: 7.6122
 postcode: "58515"
 city: Lüdenscheid
-street: "Talstraße"
-housenumber: 93
+street: Talstraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-16:00; Su off"
-website: "http://www.tableau-gg.de/"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-16:00; Su off
+website: http://www.tableau-gg.de/

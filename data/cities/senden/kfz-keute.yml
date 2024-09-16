@@ -1,11 +1,11 @@
 id: 140680027
-type: way
+type: node
 latitude: 51.82064
 longitude: 7.5477
 postcode: "48308"
 city: Senden
-street: "An der Windmühle"
-housenumber: 2
+street: An der Windmühle
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

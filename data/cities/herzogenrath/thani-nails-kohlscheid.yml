@@ -4,8 +4,8 @@ latitude: 50.83457
 longitude: 6.08683
 postcode: "52134"
 city: Herzogenrath
-street: "Weststraße"
-housenumber: 19
-phone: "+49 2407 5579691"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off"
+street: Weststraße
+housenumber: "19"
+phone: +49 2407 5579691
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off
 website: ""

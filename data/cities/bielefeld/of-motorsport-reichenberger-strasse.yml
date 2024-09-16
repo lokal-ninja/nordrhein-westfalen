@@ -4,8 +4,8 @@ latitude: 52.00721
 longitude: 8.59242
 postcode: "33605"
 city: Bielefeld
-street: "Reichenberger Straße"
-housenumber: 42
+street: Reichenberger Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00"
-website: "https://ofmotorsport.de/"
+opening_hours: Mo-Sa 08:30-18:00
+website: https://ofmotorsport.de/

@@ -1,11 +1,11 @@
 id: 251876543
-type: way
+type: node
 latitude: 51.21457
 longitude: 7.61634
 postcode: "58509"
 city: Lüdenscheid
-street: "Kölner Straße"
-housenumber: 111
-phone: "+49 2351 6760965"
-opening_hours: "Mo-Sa 07:00-21:30; Su off"
-website: "https://www.rewe.de/marktseite/luedenscheid/320545/rewe-markt-koelner-strasse-111/"
+street: Kölner Straße
+housenumber: "111"
+phone: +49 2351 6760965
+opening_hours: Mo-Sa 07:00-21:30; Su off
+website: https://www.rewe.de/marktseite/luedenscheid/320545/rewe-markt-koelner-strasse-111/

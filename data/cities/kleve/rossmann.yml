@@ -1,11 +1,11 @@
 id: 683544581
-type: way
+type: node
 latitude: 51.78954
 longitude: 6.14029
 postcode: "47533"
 city: Kleve
-street: "Herzogstraße"
-housenumber: 36
+street: Herzogstraße
+housenumber: "36"
 phone: "+4928217908710"
-opening_hours: "Mo-Sa 08:30-20:00; PH off"
-website: "https://www.rossmann.de/de/"
+opening_hours: Mo-Sa 08:30-20:00; PH off
+website: https://www.rossmann.de/de/

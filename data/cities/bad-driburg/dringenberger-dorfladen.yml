@@ -4,8 +4,9 @@ latitude: 51.67013
 longitude: 9.05606
 postcode: "33014"
 city: Bad Driburg
-street: "Burgstraße"
-housenumber: 13
+street: Burgstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 6:00-13:00; Tu-Th 6:00-13:00, 14:30-18:00; Fr 6:00-13:00, 14:30-19:00; Sa 6:00-13:00; Su 7:30-10:30"
-website: "https://www.dringenberger-dorfladen.de/"
+opening_hours: Mo 6:00-13:00; Tu-Th 6:00-13:00, 14:30-18:00; Fr 6:00-13:00, 14:30-19:00;
+    Sa 6:00-13:00; Su 7:30-10:30
+website: https://www.dringenberger-dorfladen.de/

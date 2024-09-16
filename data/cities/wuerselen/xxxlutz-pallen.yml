@@ -1,11 +1,11 @@
 id: 24393668
-type: way
+type: node
 latitude: 50.80889
 longitude: 6.14531
 postcode: "52146"
 city: Würselen
-street: "De-Gasperi-Straße"
-housenumber: 18
+street: De-Gasperi-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.xxxlutz.de/c/xxxlutz-pallen"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.xxxlutz.de/c/xxxlutz-pallen

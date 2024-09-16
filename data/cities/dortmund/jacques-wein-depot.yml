@@ -4,8 +4,8 @@ latitude: 51.46295
 longitude: 7.52356
 postcode: "44267"
 city: Dortmund
-street: "Wittbräucker Straße"
-housenumber: 405
-phone: "+49 231 3 95 12 09"
-opening_hours: "Mo-Th 15:00-19:00; Fr 14:00-19:30; Sa 10:00-15:00"
-website: "https://www.jacques.de/depot/259/dortmund-hoechsten/"
+street: Wittbräucker Straße
+housenumber: "405"
+phone: +49 231 3 95 12 09
+opening_hours: Mo-Th 15:00-19:00; Fr 14:00-19:30; Sa 10:00-15:00
+website: https://www.jacques.de/depot/259/dortmund-hoechsten/

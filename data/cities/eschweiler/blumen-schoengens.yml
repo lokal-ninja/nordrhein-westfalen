@@ -1,11 +1,11 @@
 id: 222701051
-type: way
+type: node
 latitude: 50.84188
 longitude: 6.27735
 postcode: "52249"
 city: Eschweiler
-street: "Fronhovener Straße"
-housenumber: 1
+street: Fronhovener Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

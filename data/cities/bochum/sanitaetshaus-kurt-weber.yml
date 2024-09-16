@@ -4,8 +4,8 @@ latitude: 51.48414
 longitude: 7.21742
 postcode: "44787"
 city: Bochum
-street: "Brückstraße"
-housenumber: 34
-phone: "+49 234 66057"
-opening_hours: "Mo-Fr 09:00-18:00,Sa 10:00-14:00"
+street: Brückstraße
+housenumber: "34"
+phone: +49 234 66057
+opening_hours: Mo-Fr 09:00-18:00,Sa 10:00-14:00
 website: ""

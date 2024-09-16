@@ -1,11 +1,11 @@
 id: 118294304
-type: way
+type: node
 latitude: 51.62932
 longitude: 7.85257
 postcode: "59069"
 city: Hamm
-street: "Unnaer Straße"
-housenumber: 17
+street: Unnaer Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

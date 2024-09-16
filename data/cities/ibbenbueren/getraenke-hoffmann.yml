@@ -1,11 +1,11 @@
 id: 203258018
-type: way
+type: node
 latitude: 52.26838
 longitude: 7.71533
 postcode: "49477"
 city: Ibbenbüren
-street: "Werthmühlenstraße"
-housenumber: 49
+street: Werthmühlenstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hoffmann.de/"
+website: https://www.getraenke-hoffmann.de/

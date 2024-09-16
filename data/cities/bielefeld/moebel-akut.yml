@@ -4,8 +4,8 @@ latitude: 52.03837
 longitude: 8.57789
 postcode: "33609"
 city: Bielefeld
-street: "Eckendorfer Straße"
-housenumber: 100
-phone: "+49-180-5-8605757"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+street: Eckendorfer Straße
+housenumber: "100"
+phone: +49-180-5-8605757
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 290061984
-type: way
+type: node
 latitude: 50.8758
 longitude: 6.69439
 postcode: "50171"
 city: Kerpen
-street: "Friedensring"
-housenumber: 10
-phone: "+49 2237 560386"
+street: Friedensring
+housenumber: "10"
+phone: +49 2237 560386
 opening_hours: ""
-website: "https://www.hahnen-pc.de/"
+website: https://www.hahnen-pc.de/

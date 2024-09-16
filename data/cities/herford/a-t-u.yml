@@ -1,11 +1,11 @@
 id: 172421114
-type: way
+type: node
 latitude: 52.13696
 longitude: 8.69332
 postcode: "32049"
 city: Herford
-street: "Mindener Straße"
-housenumber: 187
+street: Mindener Straße
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

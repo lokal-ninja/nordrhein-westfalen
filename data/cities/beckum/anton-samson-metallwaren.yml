@@ -4,8 +4,8 @@ latitude: 51.75508
 longitude: 8.04209
 postcode: "59269"
 city: Beckum
-street: "Oststraße"
-housenumber: 7
-phone: "+49 2521 3138"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "http://samson-beckum.de/"
+street: Oststraße
+housenumber: "7"
+phone: +49 2521 3138
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 09:00-13:00
+website: http://samson-beckum.de/

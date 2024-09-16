@@ -1,11 +1,11 @@
 id: 142706546
-type: way
+type: node
 latitude: 51.83963
 longitude: 6.23961
 postcode: "46446"
 city: Emmerich am Rhein
-street: "'s-Heerenberger Straße"
-housenumber: 51
-phone: "+49 2822 92 977"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: '''s-Heerenberger Straße'
+housenumber: "51"
+phone: +49 2822 92 977
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

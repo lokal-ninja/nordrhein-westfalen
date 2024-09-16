@@ -4,8 +4,8 @@ latitude: 51.2251
 longitude: 6.7817
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 11
-phone: "+49 211 86936666"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.fiori-blumenstylisten.de/"
+street: Schadowstraße
+housenumber: "11"
+phone: +49 211 86936666
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.fiori-blumenstylisten.de/

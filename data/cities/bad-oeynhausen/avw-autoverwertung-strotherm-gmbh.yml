@@ -1,11 +1,11 @@
 id: 67646624
-type: way
+type: node
 latitude: 52.21716
 longitude: 8.75923
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Brückenstraße"
-housenumber: 4
+street: Brückenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

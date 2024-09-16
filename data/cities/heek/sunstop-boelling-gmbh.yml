@@ -1,11 +1,11 @@
 id: 181484562
-type: way
+type: node
 latitude: 52.11762
 longitude: 7.09322
 postcode: "48619"
 city: Heek
-street: "Leuskesweg"
-housenumber: 94
+street: Leuskesweg
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

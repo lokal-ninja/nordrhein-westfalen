@@ -1,11 +1,11 @@
 id: 251875766
-type: way
+type: node
 latitude: 51.21468
 longitude: 7.60143
 postcode: "58509"
 city: Lüdenscheid
-street: "Parkstraße"
-housenumber: 128
-phone: "+49-2351 4330255"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 08:00-15:00; Su off"
-website: "https://murat-karadavut.de/"
+street: Parkstraße
+housenumber: "128"
+phone: +49-2351 4330255
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 08:00-15:00; Su off
+website: https://murat-karadavut.de/

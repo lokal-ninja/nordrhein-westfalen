@@ -4,8 +4,8 @@ latitude: 51.47143
 longitude: 7.31427
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 84
-phone: "+49 234 289450"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.friseur-schossow.de/"
+street: Alte Bahnhofstraße
+housenumber: "84"
+phone: +49 234 289450
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://www.friseur-schossow.de/

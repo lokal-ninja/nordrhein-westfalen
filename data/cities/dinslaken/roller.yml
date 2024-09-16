@@ -1,11 +1,11 @@
 id: 181023840
-type: way
+type: node
 latitude: 51.55886
 longitude: 6.74082
 postcode: "46535"
 city: Dinslaken
-street: "Hans-Böckler-Straße"
-housenumber: 27
-phone: "+49 2064 970840"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.roller.de/dinslaken/markt/0750c/"
+street: Hans-Böckler-Straße
+housenumber: "27"
+phone: +49 2064 970840
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.roller.de/dinslaken/markt/0750c/

@@ -1,11 +1,11 @@
 id: 316809580
-type: way
+type: node
 latitude: 50.98962
 longitude: 7.55594
 postcode: "51645"
 city: Gummersbach
-street: "Vollmerhauser Straße"
+street: Vollmerhauser Straße
 housenumber: 45c
-phone: "+49 2261 8159526"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-23:00"
-website: "https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05725/"
+phone: +49 2261 8159526
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-23:00
+website: https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05725/

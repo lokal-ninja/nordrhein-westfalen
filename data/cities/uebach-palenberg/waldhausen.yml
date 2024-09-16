@@ -1,11 +1,11 @@
 id: 151288228
-type: way
+type: node
 latitude: 50.92006
 longitude: 6.13564
 postcode: "52531"
 city: Übach-Palenberg
-street: "Friedrich-Ebert-Straße"
-housenumber: 
-phone: "+49 2451 4832 0"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"
-website: "https://www.waldhausen-uebach.de/"
+street: Friedrich-Ebert-Straße
+housenumber: ""
+phone: +49 2451 4832 0
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00
+website: https://www.waldhausen-uebach.de/

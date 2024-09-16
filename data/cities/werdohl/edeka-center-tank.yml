@@ -1,11 +1,11 @@
 id: 306539338
-type: way
+type: node
 latitude: 51.25807
 longitude: 7.75805
 postcode: "58791"
 city: Werdohl
-street: "Inselstraße"
-housenumber: 1
+street: Inselstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

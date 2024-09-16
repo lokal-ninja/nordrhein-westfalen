@@ -4,8 +4,8 @@ latitude: 50.7757
 longitude: 6.08781
 postcode: "52062"
 city: Aachen
-street: "Holzgraben"
-housenumber: 17
-phone: "+49 241 16035530"
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 10:00-19:00; Sa 09:00-16:00; PH,Su,Mo off"
-website: "https://senzera.com/studios-preise/aachen-innenstadt/"
+street: Holzgraben
+housenumber: "17"
+phone: +49 241 16035530
+opening_hours: Tu,We,Fr 09:00-18:00; Th 10:00-19:00; Sa 09:00-16:00; PH,Su,Mo off
+website: https://senzera.com/studios-preise/aachen-innenstadt/

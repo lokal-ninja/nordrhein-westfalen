@@ -4,8 +4,8 @@ latitude: 50.78701
 longitude: 7.21416
 postcode: "53721"
 city: Siegburg
-street: "Händelstraße"
-housenumber: 14
-phone: "+49 2241 1275888"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su,PH off"
+street: Händelstraße
+housenumber: "14"
+phone: +49 2241 1275888
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su,PH off
 website: ""

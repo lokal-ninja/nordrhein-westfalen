@@ -1,11 +1,11 @@
 id: 118222670
-type: way
+type: node
 latitude: 50.94547
 longitude: 6.62718
 postcode: "50126"
 city: Bergheim
-street: "Humboldtstraße"
-housenumber: 5
+street: Humboldtstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bergheim/humboldtstrasse-5"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bergheim/humboldtstrasse-5

@@ -1,11 +1,11 @@
 id: 282509625
-type: way
+type: node
 latitude: 51.24391
 longitude: 7.59737
 postcode: "58513"
 city: Lüdenscheid
-street: "Kerkhagen"
-housenumber: 25
+street: Kerkhagen
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://wurth.nissan-haendler.de/"
+website: http://wurth.nissan-haendler.de/

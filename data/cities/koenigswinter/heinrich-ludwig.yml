@@ -4,8 +4,8 @@ latitude: 50.69993
 longitude: 7.27336
 postcode: "53639"
 city: Königswinter
-street: "Eduard-Rhein-Straße"
-housenumber: 24
-phone: "+49 2244 87 86 70"
-opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-16:00; Sa 10:30-12:20"
-website: "https://www.heinrichludwig-energie.de/"
+street: Eduard-Rhein-Straße
+housenumber: "24"
+phone: +49 2244 87 86 70
+opening_hours: Mo-Th 08:00-15:00; Fr 08:00-16:00; Sa 10:30-12:20
+website: https://www.heinrichludwig-energie.de/

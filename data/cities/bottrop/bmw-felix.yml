@@ -1,11 +1,11 @@
 id: 27462287
-type: way
+type: node
 latitude: 51.53284
 longitude: 6.93071
 postcode: "46236"
 city: Bottrop
-street: "Gladbecker Straße"
-housenumber: 120
+street: Gladbecker Straße
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.4923
 longitude: 7.20927
 postcode: "44809"
 city: Bochum
-street: "Hofsteder Straße"
-housenumber: 60
+street: Hofsteder Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-16:00, We 08:00-13:00, Sa 09:00-13:00; PH off"
+opening_hours: Mo,Tu,Th,Fr 08:00-16:00, We 08:00-13:00, Sa 09:00-13:00; PH off
 website: ""

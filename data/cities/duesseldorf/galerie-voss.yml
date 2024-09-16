@@ -4,8 +4,8 @@ latitude: 51.22989
 longitude: 6.77541
 postcode: "40213"
 city: Düsseldorf
-street: "Mühlengasse"
-housenumber: 3
-phone: "+49 211 134982"
+street: Mühlengasse
+housenumber: "3"
+phone: +49 211 134982
 opening_hours: ""
-website: "https://galerievoss.de/"
+website: https://galerievoss.de/

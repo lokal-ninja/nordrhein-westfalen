@@ -1,11 +1,11 @@
 id: 309964198
-type: way
+type: node
 latitude: 51.9148
 longitude: 9.28202
 postcode: "32676"
 city: Lügde
-street: "Wörmkestraße"
-housenumber: 9
+street: Wörmkestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

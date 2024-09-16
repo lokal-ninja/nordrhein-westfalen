@@ -1,11 +1,11 @@
 id: 252609758
-type: way
+type: node
 latitude: 51.47916
 longitude: 7.96808
 postcode: "59469"
 city: Ense
-street: "Zum Redde"
-housenumber: 19
+street: Zum Redde
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.kopfsache-friseur.de/"
+website: https://www.kopfsache-friseur.de/

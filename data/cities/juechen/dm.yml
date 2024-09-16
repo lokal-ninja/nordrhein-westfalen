@@ -1,11 +1,11 @@
 id: 805426758
-type: way
+type: node
 latitude: 51.09962
 longitude: 6.50884
 postcode: "41363"
 city: Jüchen
-street: "Kölner Straße"
-housenumber: 29
+street: Kölner Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

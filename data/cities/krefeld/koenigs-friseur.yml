@@ -4,8 +4,8 @@ latitude: 51.32631
 longitude: 6.56634
 postcode: "47798"
 city: Krefeld
-street: "Neusser Straße"
-housenumber: 28
-phone: "+49 2151 446 664 0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "http://www.koenigsfriseur.de"
+street: Neusser Straße
+housenumber: "28"
+phone: +49 2151 446 664 0
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: http://www.koenigsfriseur.de

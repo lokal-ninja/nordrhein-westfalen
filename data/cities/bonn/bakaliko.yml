@@ -4,8 +4,8 @@ latitude: 50.72524
 longitude: 7.15579
 postcode: "53227"
 city: Bonn
-street: "Lindenstraße"
-housenumber: 17
+street: Lindenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-14:00; Su, PH off"
-website: "https://bakaliko.de/"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-14:00; Su, PH off
+website: https://bakaliko.de/

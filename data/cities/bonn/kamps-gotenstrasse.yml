@@ -1,11 +1,11 @@
 id: 48616039
-type: way
+type: node
 latitude: 50.69701
 longitude: 7.14257
 postcode: "53175"
 city: Bonn
-street: "Gotenstraße"
-housenumber: 163
+street: Gotenstraße
+housenumber: "163"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-12:00
 website: ""

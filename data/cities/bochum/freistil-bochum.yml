@@ -4,8 +4,8 @@ latitude: 51.44164
 longitude: 7.21364
 postcode: "44795"
 city: Bochum
-street: "Markstraße"
-housenumber: 408
-phone: "+49 234 5169377"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:30; PH off"
-website: "https://freistil-bochum.de/"
+street: Markstraße
+housenumber: "408"
+phone: +49 234 5169377
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:30; PH off
+website: https://freistil-bochum.de/

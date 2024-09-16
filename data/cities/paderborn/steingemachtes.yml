@@ -4,8 +4,8 @@ latitude: 51.74302
 longitude: 8.77259
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 190
+street: Detmolder Straße
+housenumber: "190"
 phone: ""
-opening_hours: "Th,Fr 12:00-18:00; Sa 10:00-16:00"
-website: "https://steingemachtes.de/"
+opening_hours: Th,Fr 12:00-18:00; Sa 10:00-16:00
+website: https://steingemachtes.de/

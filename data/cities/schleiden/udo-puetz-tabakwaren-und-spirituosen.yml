@@ -4,8 +4,8 @@ latitude: 50.52812
 longitude: 6.47443
 postcode: "53937"
 city: Schleiden
-street: "Am Markt"
-housenumber: 4
-phone: "+49 2445 53 14"
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,15:00-17:00; Sa 10:00-12:00; PH,We,Su off"
+street: Am Markt
+housenumber: "4"
+phone: +49 2445 53 14
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,15:00-17:00; Sa 10:00-12:00; PH,We,Su off
 website: ""

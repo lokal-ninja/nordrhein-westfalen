@@ -4,8 +4,8 @@ latitude: 51.71584
 longitude: 8.74425
 postcode: "33102"
 city: Paderborn
-street: "Riemekestraße"
-housenumber: 5
+street: Riemekestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:30; Sa 06:00-12:30; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-17:30; Sa 06:00-12:30; Su 08:00-11:00
 website: ""

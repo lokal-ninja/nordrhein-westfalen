@@ -1,11 +1,11 @@
 id: 84684022
-type: way
+type: node
 latitude: 50.7842
 longitude: 6.07486
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 58
+street: Roermonder Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
 website: ""

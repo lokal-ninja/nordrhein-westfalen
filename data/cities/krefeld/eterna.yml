@@ -4,8 +4,8 @@ latitude: 51.33154
 longitude: 6.56421
 postcode: "47798"
 city: Krefeld
-street: "Königstraße"
-housenumber: 90
+street: Königstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 10:30-18:00; Sa 10:30-17:00"
-website: "https://www.eterna.de/"
+opening_hours: Tu-Fr 10:30-18:00; Sa 10:30-17:00
+website: https://www.eterna.de/

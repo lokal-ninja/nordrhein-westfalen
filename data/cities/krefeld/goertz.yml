@@ -4,8 +4,8 @@ latitude: 51.33151
 longitude: 6.56278
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 86
+street: Hochstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.goertz.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.goertz.de/

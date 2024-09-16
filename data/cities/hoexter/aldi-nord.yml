@@ -1,11 +1,11 @@
 id: 38732767
-type: way
+type: node
 latitude: 51.77497
 longitude: 9.35924
 postcode: "37671"
 city: Höxter
-street: "Pfennigbreite"
-housenumber: 38
+street: Pfennigbreite
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

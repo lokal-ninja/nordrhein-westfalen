@@ -4,8 +4,8 @@ latitude: 51.7567
 longitude: 8.72126
 postcode: "33104"
 city: Paderborn
-street: "Husarenstraße"
-housenumber: 12
+street: Husarenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Su-Mo off; Tu-Fr 9:00-19:00; Sa 9:00-17:00"
+opening_hours: Su-Mo off; Tu-Fr 9:00-19:00; Sa 9:00-17:00
 website: ""

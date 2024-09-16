@@ -1,11 +1,11 @@
 id: 156235269
-type: way
+type: node
 latitude: 51.56358
 longitude: 8.08239
 postcode: "59494"
 city: Soest
-street: "Senator-Schwartz-Ring"
-housenumber: 11
+street: Senator-Schwartz-Ring
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

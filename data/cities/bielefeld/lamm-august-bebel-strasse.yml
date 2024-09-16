@@ -4,8 +4,8 @@ latitude: 52.0184
 longitude: 8.53882
 postcode: "33602"
 city: Bielefeld
-street: "August-Bebel-Straße"
-housenumber: 116
+street: August-Bebel-Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lamm-mein-baecker.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lamm-mein-baecker.de

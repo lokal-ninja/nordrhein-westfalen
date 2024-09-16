@@ -1,11 +1,11 @@
 id: 156998938
-type: way
+type: node
 latitude: 52.17245
 longitude: 7.53561
 postcode: "48282"
 city: Emsdetten
-street: "Marienstraße"
-housenumber: 18
+street: Marienstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

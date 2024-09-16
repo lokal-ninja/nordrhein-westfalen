@@ -1,11 +1,11 @@
 id: 29286054
-type: way
+type: node
 latitude: 51.87812
 longitude: 9.08814
 postcode: "32839"
 city: Steinheim
-street: "Lipper Tor"
-housenumber: 6
+street: Lipper Tor
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

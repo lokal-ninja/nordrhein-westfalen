@@ -4,8 +4,8 @@ latitude: 51.43833
 longitude: 7.00587
 postcode: "45130"
 city: Essen
-street: "Rüttenscheider Straße"
-housenumber: 87
-phone: "+49 201 61 53 66 8"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, 14:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.sanitaetshaus-puettmann.de/sanitaetshaeuser/essen-ruettenscheid/"
+street: Rüttenscheider Straße
+housenumber: "87"
+phone: +49 201 61 53 66 8
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, 14:00-18:00; We,Sa 09:00-13:00
+website: https://www.sanitaetshaus-puettmann.de/sanitaetshaeuser/essen-ruettenscheid/

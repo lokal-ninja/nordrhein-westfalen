@@ -1,11 +1,11 @@
 id: 98005974
-type: way
+type: node
 latitude: 51.17046
 longitude: 7.17247
 postcode: "42857"
 city: Remscheid
-street: "Walterstraße"
-housenumber: 26
+street: Walterstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

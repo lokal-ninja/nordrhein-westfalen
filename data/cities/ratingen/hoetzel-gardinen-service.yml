@@ -4,8 +4,8 @@ latitude: 51.30023
 longitude: 6.87202
 postcode: "40882"
 city: Ratingen
-street: "Feldstraße"
-housenumber: 53
-phone: "+49 2102 1482171"
-opening_hours: "nach Vereinbarung"
-website: "https://www.hoetzel-design.de/"
+street: Feldstraße
+housenumber: "53"
+phone: +49 2102 1482171
+opening_hours: '"nach Vereinbarung"'
+website: https://www.hoetzel-design.de/

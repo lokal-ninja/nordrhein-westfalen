@@ -1,11 +1,11 @@
 id: 127791346
-type: way
+type: node
 latitude: 51.92555
 longitude: 7.58135
 postcode: "48163"
 city: Münster
-street: "Weseler Straße"
-housenumber: 599
+street: Weseler Straße
+housenumber: "599"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:00-19:00, Sa 08:00-13:00
 website: ""

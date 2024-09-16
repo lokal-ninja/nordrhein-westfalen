@@ -1,11 +1,11 @@
 id: 386997744
-type: way
+type: node
 latitude: 50.79034
 longitude: 6.22287
 postcode: "52222"
 city: Stolberg (Rhld.)
-street: "Eschweilerstraße"
-housenumber: 191
+street: Eschweilerstraße
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

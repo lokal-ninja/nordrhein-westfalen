@@ -4,8 +4,8 @@ latitude: 51.57801
 longitude: 6.99223
 postcode: "45964"
 city: Gladbeck
-street: "Holunderweg"
-housenumber: 10
+street: Holunderweg
+housenumber: "10"
 phone: "+49204362327"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-16:00, Su 10:00-15:00"
-website: "https://www.gartenmarkt-schellewald.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-16:00, Su 10:00-15:00
+website: https://www.gartenmarkt-schellewald.de/

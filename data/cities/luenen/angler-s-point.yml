@@ -1,11 +1,11 @@
 id: 447866197
-type: way
+type: node
 latitude: 51.58175
 longitude: 7.52997
 postcode: "44532"
 city: Lünen
-street: "Derner Straße"
-housenumber: 84
-phone: "+49 2306 9408199"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "https://www.anglerspoint.de/"
+street: Derner Straße
+housenumber: "84"
+phone: +49 2306 9408199
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
+website: https://www.anglerspoint.de/

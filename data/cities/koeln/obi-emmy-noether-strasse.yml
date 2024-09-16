@@ -1,11 +1,11 @@
 id: 62886085
-type: way
+type: node
 latitude: 50.91672
 longitude: 6.84982
 postcode: "50858"
 city: Köln
-street: "Emmy-Noether-Straße"
-housenumber: 12
+street: Emmy-Noether-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/

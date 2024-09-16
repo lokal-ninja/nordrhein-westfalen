@@ -1,11 +1,11 @@
 id: 269394097
-type: way
+type: node
 latitude: 51.09191
 longitude: 6.5798
 postcode: "41515"
 city: Grevenbroich
-street: "Rheydter Straße"
-housenumber: 37
+street: Rheydter Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

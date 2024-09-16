@@ -5,7 +5,7 @@ longitude: 7.07754
 postcode: "53115"
 city: Bonn
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.biohof-bursch.de/feinkostmeile/"
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.biohof-bursch.de/feinkostmeile/

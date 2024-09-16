@@ -1,11 +1,11 @@
 id: 136910359
-type: way
+type: node
 latitude: 50.82142
 longitude: 6.81079
 postcode: "50374"
 city: Erftstadt
-street: "Klosengartenstraße"
-housenumber: 78
+street: Klosengartenstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

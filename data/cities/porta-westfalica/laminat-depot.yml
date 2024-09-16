@@ -4,8 +4,8 @@ latitude: 52.25691
 longitude: 8.89799
 postcode: "32457"
 city: Porta Westfalica
-street: "Erbeweg"
-housenumber: 3
-phone: "+49 571 82946898"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-18:00"
-website: "https://laminatdepot.de/filiale/porta-westfalica"
+street: Erbeweg
+housenumber: "3"
+phone: +49 571 82946898
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:00-18:00
+website: https://laminatdepot.de/filiale/porta-westfalica

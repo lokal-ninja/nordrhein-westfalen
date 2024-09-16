@@ -1,11 +1,11 @@
 id: 114558714
-type: way
+type: node
 latitude: 50.80294
 longitude: 7.12836
 postcode: "53844"
 city: Troisdorf
-street: "Leostraße"
-housenumber: 22
-phone: "+49 2241 45034"
+street: Leostraße
+housenumber: "22"
+phone: +49 2241 45034
 opening_hours: ""
 website: ""

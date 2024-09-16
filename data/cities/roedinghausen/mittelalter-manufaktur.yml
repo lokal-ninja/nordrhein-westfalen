@@ -1,11 +1,11 @@
 id: 215065190
-type: way
+type: node
 latitude: 52.25933
 longitude: 8.51421
 postcode: "32289"
 city: Rödinghausen
-street: "Auf dem Hafk"
-housenumber: 18
+street: Auf dem Hafk
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.mittelalter-manufaktur.de"
+website: http://www.mittelalter-manufaktur.de

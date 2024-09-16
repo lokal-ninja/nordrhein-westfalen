@@ -4,8 +4,8 @@ latitude: 51.61483
 longitude: 7.19639
 postcode: "45657"
 city: Recklinghausen
-street: "Holzmarkt"
-housenumber: 13
-phone: "+49 2361 3880959"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; PH closed"
-website: "https://hoerakustik-senft.de"
+street: Holzmarkt
+housenumber: "13"
+phone: +49 2361 3880959
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; PH closed
+website: https://hoerakustik-senft.de

@@ -1,11 +1,11 @@
 id: 250495455
-type: way
+type: node
 latitude: 51.62977
 longitude: 7.04909
 postcode: "45768"
 city: Marl
-street: "Buerer Straße"
-housenumber: 42
+street: Buerer Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off
 website: ""

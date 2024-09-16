@@ -4,8 +4,8 @@ latitude: 50.73503
 longitude: 7.0953
 postcode: "53111"
 city: Bonn
-street: "Thomas-Mann-Straße"
-housenumber: 39
-phone: "+49 228 653376"
-opening_hours: "Tu-Fr 09:30-18:00, Sa 09:00-14:00"
-website: "https://www.hair-art-bonn.de/"
+street: Thomas-Mann-Straße
+housenumber: "39"
+phone: +49 228 653376
+opening_hours: Tu-Fr 09:30-18:00, Sa 09:00-14:00
+website: https://www.hair-art-bonn.de/

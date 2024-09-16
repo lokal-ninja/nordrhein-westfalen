@@ -1,11 +1,11 @@
 id: 138567108
-type: way
+type: node
 latitude: 51.93334
 longitude: 8.87849
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 13
+street: Lange Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-16:00
 website: ""

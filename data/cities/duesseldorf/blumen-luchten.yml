@@ -4,8 +4,9 @@ latitude: 51.19998
 longitude: 6.75481
 postcode: "40221"
 city: Düsseldorf
-street: "Am Südfriedhof"
-housenumber: 18
+street: Am Südfriedhof
+housenumber: "18"
 phone: ""
-opening_hours: "Jun-Aug: Mo off; Jun-Aug: Tu-Fr 09:00-16:00; Jun-Aug: Sa 09:00-14:00; Jun-Aug: Su 10:00-14:00"
-website: "https://www.friedhofsgaertnerei-luchten.de/"
+opening_hours: 'Jun-Aug: Mo off; Jun-Aug: Tu-Fr 09:00-16:00; Jun-Aug: Sa 09:00-14:00;
+    Jun-Aug: Su 10:00-14:00'
+website: https://www.friedhofsgaertnerei-luchten.de/

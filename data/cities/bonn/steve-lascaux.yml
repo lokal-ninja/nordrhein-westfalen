@@ -4,8 +4,8 @@ latitude: 50.73574
 longitude: 7.10141
 postcode: "53111"
 city: Bonn
-street: "Markt"
-housenumber: 36
+street: Markt
+housenumber: "36"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su,Mo off"
-website: "http://www.stevelascaux.de/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su,Mo off
+website: http://www.stevelascaux.de/

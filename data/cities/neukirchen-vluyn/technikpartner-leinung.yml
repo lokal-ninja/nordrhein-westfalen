@@ -1,11 +1,11 @@
 id: 423931452
-type: way
+type: node
 latitude: 51.45127
 longitude: 6.57764
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Lindenstraße"
-housenumber: 10
+street: Lindenstraße
+housenumber: "10"
 phone: "+4928454422"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.euronics.de/krefeld-rinsch/anfahrt/"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
+website: https://www.euronics.de/krefeld-rinsch/anfahrt/

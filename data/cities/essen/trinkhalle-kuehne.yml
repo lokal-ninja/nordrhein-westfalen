@@ -1,11 +1,11 @@
 id: 167841719
-type: way
+type: node
 latitude: 51.47329
 longitude: 7.06271
 postcode: "45309"
 city: Essen
-street: "Bonifaciusstraße"
-housenumber: 65
+street: Bonifaciusstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "http://www.trinkhalle-kuehne.de/"
+website: http://www.trinkhalle-kuehne.de/

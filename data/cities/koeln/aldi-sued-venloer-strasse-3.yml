@@ -1,11 +1,11 @@
 id: 326956391
-type: way
+type: node
 latitude: 50.96279
 longitude: 6.89105
 postcode: "50827"
 city: Köln
-street: "Venloer Straße"
-housenumber: 760
+street: Venloer Straße
+housenumber: "760"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

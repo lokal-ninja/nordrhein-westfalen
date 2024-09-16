@@ -1,11 +1,11 @@
 id: 31562793
-type: way
+type: node
 latitude: 51.05619
 longitude: 6.21888
 postcode: "41836"
 city: Hückelhoven
-street: "Am Landabsatz"
-housenumber: 5
+street: Am Landabsatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/hueckelhoven-595"
+website: https://www.mediamarkt.de/de/store/hueckelhoven-595

@@ -4,8 +4,8 @@ latitude: 51.18409
 longitude: 7.04072
 postcode: "42719"
 city: Solingen
-street: "Pützgasse"
-housenumber: 8
+street: Pützgasse
+housenumber: "8"
 phone: ""
-opening_hours: "10:00-13:00,15:00-18:00"
-website: "http://www.flo-fine.de/"
+opening_hours: 10:00-13:00,15:00-18:00
+website: http://www.flo-fine.de/

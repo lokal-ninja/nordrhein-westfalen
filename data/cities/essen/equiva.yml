@@ -1,11 +1,11 @@
 id: 90464887
-type: way
+type: node
 latitude: 51.43299
 longitude: 7.03563
 postcode: "45136"
 city: Essen
-street: "Rellinghauser Straße"
+street: Rellinghauser Straße
 housenumber: 334g
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH Su off"
-website: "https://www.equiva.com/stores/essen"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH Su off
+website: https://www.equiva.com/stores/essen

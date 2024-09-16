@@ -4,8 +4,8 @@ latitude: 51.5553
 longitude: 7.5191
 postcode: "44329"
 city: Dortmund
-street: "Baukamp"
-housenumber: 68
+street: Baukamp
+housenumber: "68"
 phone: ""
-opening_hours: "Sa 10:00-16:00"
-website: "https://www.hof-kuse.de/"
+opening_hours: Sa 10:00-16:00
+website: https://www.hof-kuse.de/

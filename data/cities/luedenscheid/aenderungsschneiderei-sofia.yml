@@ -1,11 +1,11 @@
 id: 251874819
-type: way
+type: node
 latitude: 51.22548
 longitude: 7.62278
 postcode: "58507"
 city: Lüdenscheid
-street: "Wehberger Straße"
-housenumber: 46
+street: Wehberger Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

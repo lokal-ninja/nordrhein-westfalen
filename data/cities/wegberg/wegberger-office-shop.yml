@@ -4,8 +4,8 @@ latitude: 51.14642
 longitude: 6.27267
 postcode: "41844"
 city: Wegberg
-street: "Venloer Straße"
-housenumber: 83
-phone: "+49 2434 9938902"
-opening_hours: "Mo-Fr 07:30-12:30, 14:30-18:30; Sa 09:00-13:00; Su, PH off"
-website: "https://www.woffice-shop.de/"
+street: Venloer Straße
+housenumber: "83"
+phone: +49 2434 9938902
+opening_hours: Mo-Fr 07:30-12:30, 14:30-18:30; Sa 09:00-13:00; Su, PH off
+website: https://www.woffice-shop.de/

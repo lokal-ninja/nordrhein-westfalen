@@ -1,11 +1,11 @@
 id: 92876293
-type: way
+type: node
 latitude: 51.31094
 longitude: 6.83201
 postcode: "40880"
 city: Ratingen
-street: "Harkortstraße"
-housenumber: 60
+street: Harkortstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

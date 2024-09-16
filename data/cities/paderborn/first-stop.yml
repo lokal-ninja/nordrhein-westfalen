@@ -4,8 +4,8 @@ latitude: 51.69588
 longitude: 8.7349
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 196
+street: Frankfurter Weg
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.firststop.de/pointOfSales#/posUrlCode/paderborn-reifen-auto-service-kaup"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.firststop.de/pointOfSales#/posUrlCode/paderborn-reifen-auto-service-kaup

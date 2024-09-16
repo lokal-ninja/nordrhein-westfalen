@@ -4,8 +4,8 @@ latitude: 50.7367
 longitude: 7.09983
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 21
+street: Friedrichstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:00"
-website: "https://www.fuernkranz-bonn.de/"
+opening_hours: Mo-Sa 10:30-19:00
+website: https://www.fuernkranz-bonn.de/

@@ -4,8 +4,8 @@ latitude: 52.26162
 longitude: 8.9
 postcode: "32457"
 city: Porta Westfalica
-street: "Flurweg"
-housenumber: 11
-phone: "+49 571 57691"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.schaefers-brot.de/"
+street: Flurweg
+housenumber: "11"
+phone: +49 571 57691
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.schaefers-brot.de/

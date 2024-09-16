@@ -4,8 +4,8 @@ latitude: 50.67436
 longitude: 7.19387
 postcode: "53639"
 city: Königswinter
-street: "Hauptstraße"
-housenumber: 400
+street: Hauptstraße
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00; Su,PH 08:00-18:00"
-website: "https://stadtbrotbaecker-rott.de/"
+opening_hours: Mo-Sa 06:00-18:00; Su,PH 08:00-18:00
+website: https://stadtbrotbaecker-rott.de/

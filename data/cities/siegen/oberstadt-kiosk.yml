@@ -4,8 +4,8 @@ latitude: 50.87531
 longitude: 8.02571
 postcode: "57072"
 city: Siegen
-street: "Markt"
-housenumber: 47
+street: Markt
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; We 08:00-18:00; Sa 08:30-14:00"
-website: "http://www.oberstadt-kiosk-siegen.de"
+opening_hours: Mo-Fr 08:30-18:00; We 08:00-18:00; Sa 08:30-14:00
+website: http://www.oberstadt-kiosk-siegen.de

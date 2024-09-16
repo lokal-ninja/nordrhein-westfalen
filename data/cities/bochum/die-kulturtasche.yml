@@ -4,8 +4,8 @@ latitude: 51.47436
 longitude: 7.21546
 postcode: "44789"
 city: Bochum
-street: "Alte Hattinger Straße"
-housenumber: 11
-phone: "+49 234 54468470"
-opening_hours: "Mo-Fr 11:00-14:30,15:00-18:30; Sa 11:00-15:00; PH off"
-website: "https://die-kulturtasche.de/"
+street: Alte Hattinger Straße
+housenumber: "11"
+phone: +49 234 54468470
+opening_hours: Mo-Fr 11:00-14:30,15:00-18:30; Sa 11:00-15:00; PH off
+website: https://die-kulturtasche.de/

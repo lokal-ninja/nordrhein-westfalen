@@ -1,11 +1,11 @@
 id: 24394616
-type: way
+type: node
 latitude: 50.8088
 longitude: 6.14948
 postcode: "52146"
 city: Würselen
-street: "Adenauerstraße"
-housenumber: 8
-phone: "+49 2405 455310"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://m.moemax.de/"
+street: Adenauerstraße
+housenumber: "8"
+phone: +49 2405 455310
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://m.moemax.de/

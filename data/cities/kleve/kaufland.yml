@@ -1,11 +1,11 @@
 id: 39490867
-type: way
+type: node
 latitude: 51.80287
 longitude: 6.16821
 postcode: "47533"
 city: Kleve
-street: "Olmerstraße"
-housenumber: 6
+street: Olmerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

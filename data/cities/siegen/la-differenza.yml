@@ -1,11 +1,11 @@
 id: 47144174
-type: way
+type: node
 latitude: 50.87489
 longitude: 8.01909
 postcode: "57072"
 city: Siegen
-street: "Brüder-Busch-Straße"
-housenumber: 3
+street: Brüder-Busch-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

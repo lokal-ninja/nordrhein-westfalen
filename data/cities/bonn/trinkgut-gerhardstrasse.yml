@@ -1,11 +1,11 @@
 id: 50855045
-type: way
+type: node
 latitude: 50.74648
 longitude: 7.13034
 postcode: "53229"
 city: Bonn
-street: "Gerhardstraße"
+street: Gerhardstraße
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

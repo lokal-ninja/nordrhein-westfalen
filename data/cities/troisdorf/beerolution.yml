@@ -4,8 +4,8 @@ latitude: 50.81688
 longitude: 7.12259
 postcode: "53842"
 city: Troisdorf
-street: "Bonner Straße"
-housenumber: 46
-phone: "+49 2241 45454"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
+street: Bonner Straße
+housenumber: "46"
+phone: +49 2241 45454
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
 website: ""

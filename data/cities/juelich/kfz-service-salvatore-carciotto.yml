@@ -1,11 +1,11 @@
 id: 227546246
-type: way
+type: node
 latitude: 50.91267
 longitude: 6.3811
 postcode: "52428"
 city: Jülich
-street: "Rudolf-Schulten-Straße"
-housenumber: 2
+street: Rudolf-Schulten-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

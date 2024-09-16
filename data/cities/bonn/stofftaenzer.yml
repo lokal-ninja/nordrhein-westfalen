@@ -4,8 +4,8 @@ latitude: 50.73941
 longitude: 7.10017
 postcode: "53111"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 28
-phone: "+49 228 32301360"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH,Su off"
-website: "https://www.stofftaenzer.de/"
+street: Kölnstraße
+housenumber: "28"
+phone: +49 228 32301360
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH,Su off
+website: https://www.stofftaenzer.de/

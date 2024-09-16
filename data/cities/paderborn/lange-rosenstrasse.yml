@@ -4,8 +4,8 @@ latitude: 51.71643
 longitude: 8.75155
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 4
+street: Rosenstraße
+housenumber: "4"
 phone: "+495251280230"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-rosenstrasse.php"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-rosenstrasse.php

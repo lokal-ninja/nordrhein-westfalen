@@ -1,11 +1,11 @@
 id: 106463266
-type: way
+type: node
 latitude: 51.59427
 longitude: 7.1263
 postcode: "45699"
 city: Herten
-street: "Resser Weg"
-housenumber: 30
-phone: "+49 2366 10990"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.wohnwelt-feldhege.de/"
+street: Resser Weg
+housenumber: "30"
+phone: +49 2366 10990
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.wohnwelt-feldhege.de/

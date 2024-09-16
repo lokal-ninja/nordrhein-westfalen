@@ -4,8 +4,8 @@ latitude: 51.48172
 longitude: 7.21928
 postcode: "44787"
 city: Bochum
-street: "Bongardstraße"
-housenumber: 40
+street: Bongardstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 246492887
-type: way
+type: node
 latitude: 50.79136
 longitude: 6.2313
 postcode: "52222"
 city: Stolberg (Rhld.)
-street: "Steinfurt"
-housenumber: 21
+street: Steinfurt
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:30-13:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:30-13:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 255584843
-type: way
+type: node
 latitude: 51.92628
 longitude: 7.84897
 postcode: "48351"
 city: Everswinkel
-street: "Warendorfer Straße"
-housenumber: 12
+street: Warendorfer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, Sa 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo-Fr 10:00-12:00, Sa 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 133333273
-type: way
+type: node
 latitude: 51.36472
 longitude: 7.59964
 postcode: "58642"
 city: Iserlohn
-street: "Hagener Straße"
-housenumber: 
+street: Hagener Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

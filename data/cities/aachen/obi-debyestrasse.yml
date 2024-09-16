@@ -1,11 +1,11 @@
 id: 164609434
-type: way
+type: node
 latitude: 50.75685
 longitude: 6.15146
 postcode: "52078"
 city: Aachen
-street: "Debyestraße"
-housenumber: 20
+street: Debyestraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.obi.de/de/maerkte/Aachen_neu/index.html"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.obi.de/de/maerkte/Aachen_neu/index.html

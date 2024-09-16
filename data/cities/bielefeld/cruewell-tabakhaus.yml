@@ -4,8 +4,8 @@ latitude: 52.01952
 longitude: 8.53131
 postcode: "33602"
 city: Bielefeld
-street: "Welle"
-housenumber: 10
+street: Welle
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 10:00-14:00,14:45-18:30; Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.cruewell-tabakhaus.de/"
+opening_hours: Mo-Th 10:00-14:00,14:45-18:30; Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.cruewell-tabakhaus.de/

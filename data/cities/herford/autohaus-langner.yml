@@ -1,11 +1,11 @@
 id: 173597347
-type: way
+type: node
 latitude: 52.10951
 longitude: 8.68728
 postcode: "32052"
 city: Herford
-street: "Salzufler Straße"
-housenumber: 66
+street: Salzufler Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.langner-herford.de/"
+website: https://www.langner-herford.de/

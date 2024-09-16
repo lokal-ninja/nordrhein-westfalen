@@ -1,11 +1,11 @@
 id: 129723938
-type: way
+type: node
 latitude: 50.72609
 longitude: 7.10201
 postcode: "53113"
 city: Bonn
-street: "Weberstraße"
-housenumber: 112
+street: Weberstraße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

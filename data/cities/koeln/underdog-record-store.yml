@@ -4,8 +4,8 @@ latitude: 50.9483
 longitude: 6.95132
 postcode: "50668"
 city: Köln
-street: "Ritterstraße"
-housenumber: 52
-phone: "+49 221 131343"
-opening_hours: "Mo-Fr 11:30-19:00; Sa 12:00-18:00"
-website: "https://www.underdogrecordstore.de/"
+street: Ritterstraße
+housenumber: "52"
+phone: +49 221 131343
+opening_hours: Mo-Fr 11:30-19:00; Sa 12:00-18:00
+website: https://www.underdogrecordstore.de/

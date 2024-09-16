@@ -4,8 +4,8 @@ latitude: 51.87308
 longitude: 8.94797
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Mittelstraße"
-housenumber: 78
-phone: "+49 172 3467173"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-17:00; Sa 09:00-12:00"
-website: "https://mf-elektro.de"
+street: Mittelstraße
+housenumber: "78"
+phone: +49 172 3467173
+opening_hours: Mo-Fr 09:00-12:00,14:30-17:00; Sa 09:00-12:00
+website: https://mf-elektro.de

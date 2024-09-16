@@ -1,11 +1,11 @@
 id: 252411249
-type: way
+type: node
 latitude: 51.43673
 longitude: 7.9773
 postcode: "59759"
 city: Arnsberg
-street: "Bahnhofstraße"
-housenumber: 177
+street: Bahnhofstraße
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

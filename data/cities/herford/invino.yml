@@ -1,11 +1,11 @@
 id: 174456349
-type: way
+type: node
 latitude: 52.09453
 longitude: 8.67206
 postcode: "32052"
 city: Herford
-street: "Lockhauser Straße"
-housenumber: 145
+street: Lockhauser Straße
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

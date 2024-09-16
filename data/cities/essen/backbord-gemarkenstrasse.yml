@@ -4,8 +4,8 @@ latitude: 51.44184
 longitude: 6.99618
 postcode: "45147"
 city: Essen
-street: "Gemarkenstraße"
-housenumber: 48
-phone: "+49 201 786 033"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:30; PH Su off"
-website: "https://www.backbord.de"
+street: Gemarkenstraße
+housenumber: "48"
+phone: +49 201 786 033
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-14:30; PH Su off
+website: https://www.backbord.de

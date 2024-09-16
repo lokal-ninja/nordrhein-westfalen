@@ -1,11 +1,11 @@
 id: 252813154
-type: way
+type: node
 latitude: 50.92797
 longitude: 6.95742
 postcode: "50678"
 city: Köln
-street: "Severinstraße"
+street: Severinstraße
 housenumber: 161-163
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-17:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-17:00
 website: ""

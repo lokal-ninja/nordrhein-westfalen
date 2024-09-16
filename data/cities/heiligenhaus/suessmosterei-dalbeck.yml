@@ -4,8 +4,8 @@ latitude: 51.33848
 longitude: 6.97454
 postcode: "42579"
 city: Heiligenhaus
-street: "Mühlenweg"
-housenumber: 18
-phone: "+49 2056 69219"
-opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-13:00; Su off"
-website: "https://dalbeck-fruchtsaft.de"
+street: Mühlenweg
+housenumber: "18"
+phone: +49 2056 69219
+opening_hours: Mo-Fr 8:00-18:00; Sa 8:00-13:00; Su off
+website: https://dalbeck-fruchtsaft.de

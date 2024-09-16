@@ -1,11 +1,11 @@
 id: 93053949
-type: way
+type: node
 latitude: 51.71016
 longitude: 8.33798
 postcode: "59556"
 city: Lippstadt
-street: "Quellenstraße"
-housenumber: 38
+street: Quellenstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

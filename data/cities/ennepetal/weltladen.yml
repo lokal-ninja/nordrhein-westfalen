@@ -4,8 +4,8 @@ latitude: 51.29914
 longitude: 7.34814
 postcode: "58256"
 city: Ennepetal
-street: "Voerder Straße"
-housenumber: 48
+street: Voerder Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.weltladen.de/ennepetal"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://www.weltladen.de/ennepetal

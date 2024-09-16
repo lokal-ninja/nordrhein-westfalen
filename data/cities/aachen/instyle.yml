@@ -4,8 +4,8 @@ latitude: 50.77654
 longitude: 6.08801
 postcode: "52062"
 city: Aachen
-street: "Dahmengraben"
-housenumber: 19
-phone: "+49 241 5600 5668"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://instyle.ac"
+street: Dahmengraben
+housenumber: "19"
+phone: +49 241 5600 5668
+opening_hours: Mo-Sa 09:00-19:00
+website: http://instyle.ac

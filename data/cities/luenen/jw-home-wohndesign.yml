@@ -4,8 +4,8 @@ latitude: 51.6139
 longitude: 7.52294
 postcode: "44532"
 city: Lünen
-street: "Marktstraße"
-housenumber: 10
-phone: "+49 2306 9284021"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://jw-home-wohndesign.de/"
+street: Marktstraße
+housenumber: "10"
+phone: +49 2306 9284021
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://jw-home-wohndesign.de/

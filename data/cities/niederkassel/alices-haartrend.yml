@@ -1,11 +1,11 @@
 id: 199003937
-type: way
+type: node
 latitude: 50.82956
 longitude: 7.00268
 postcode: "53859"
 city: Niederkassel
-street: "Stahlenstraße"
-housenumber: 21
-phone: "+49 2208 3591"
+street: Stahlenstraße
+housenumber: "21"
+phone: +49 2208 3591
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.22054
 longitude: 6.79891
 postcode: "40227"
 city: Düsseldorf
-street: "Kölner Straße"
-housenumber: 145
+street: Kölner Straße
+housenumber: "145"
 phone: "+492112907471"
-opening_hours: "11:00-18:00"
-website: "https://booxycle.de/"
+opening_hours: 11:00-18:00
+website: https://booxycle.de/

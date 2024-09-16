@@ -4,8 +4,8 @@ latitude: 50.93281
 longitude: 7.28641
 postcode: "51491"
 city: Overath
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00; Su off"
-website: "https://www.parfuemerie-gottmann.de/in-ihrer-naehe/overath/"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00; Su off
+website: https://www.parfuemerie-gottmann.de/in-ihrer-naehe/overath/

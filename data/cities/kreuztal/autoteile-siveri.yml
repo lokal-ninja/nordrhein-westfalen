@@ -1,11 +1,11 @@
 id: 275001772
-type: way
+type: node
 latitude: 50.97116
 longitude: 7.9815
 postcode: "57223"
 city: Kreuztal
-street: "Eichener Straße"
-housenumber: 2
+street: Eichener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
 website: ""

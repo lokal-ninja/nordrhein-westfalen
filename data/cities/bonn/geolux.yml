@@ -4,8 +4,8 @@ latitude: 50.73398
 longitude: 7.09474
 postcode: "53111"
 city: Bonn
-street: "Thomas-Mann-Straße"
-housenumber: 56
-phone: "+49 228 9087190"
-opening_hours: "Tu-Fr 10:30-18:30; Sa 10:30-15:30"
-website: "https://geolux-mineralien.de/"
+street: Thomas-Mann-Straße
+housenumber: "56"
+phone: +49 228 9087190
+opening_hours: Tu-Fr 10:30-18:30; Sa 10:30-15:30
+website: https://geolux-mineralien.de/

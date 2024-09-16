@@ -4,8 +4,9 @@ latitude: 51.47839
 longitude: 6.73372
 postcode: "47139"
 city: Duisburg
-street: "Friedrich-Ebert-Straße"
-housenumber: 348
+street: Friedrich-Ebert-Straße
+housenumber: "348"
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu 08:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr 09:00-19:00; Sa 08:00-14:00; PH off"
+opening_hours: Mo 09:00-19:00; Tu 08:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr
+    09:00-19:00; Sa 08:00-14:00; PH off
 website: ""

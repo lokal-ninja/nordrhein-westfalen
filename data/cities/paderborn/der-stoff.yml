@@ -4,8 +4,8 @@ latitude: 51.71808
 longitude: 8.74908
 postcode: "33098"
 city: Paderborn
-street: "Marienstraße"
-housenumber: 26
+street: Marienstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 9:30-18:30; Sa 9:30-16:00; PH off"
-website: "http://www.stoff-zentrale.de"
+opening_hours: Mo-Fr 9:30-18:30; Sa 9:30-16:00; PH off
+website: http://www.stoff-zentrale.de

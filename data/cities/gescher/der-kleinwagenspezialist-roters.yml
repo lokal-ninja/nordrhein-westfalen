@@ -1,11 +1,11 @@
 id: 101188613
-type: way
+type: node
 latitude: 51.94292
 longitude: 7.00638
 postcode: "48712"
 city: Gescher
-street: "Schildarpstraße"
-housenumber: 62
+street: Schildarpstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

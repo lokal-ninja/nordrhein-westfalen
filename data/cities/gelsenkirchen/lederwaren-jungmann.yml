@@ -4,8 +4,8 @@ latitude: 51.51123
 longitude: 7.09535
 postcode: "45879"
 city: Gelsenkirchen
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.lederwarenjungmann.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.lederwarenjungmann.de/

@@ -4,8 +4,8 @@ latitude: 51.4027
 longitude: 7.06675
 postcode: "45259"
 city: Essen
-street: "Heisinger Straße"
-housenumber: 496
+street: Heisinger Straße
+housenumber: "496"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 07:00-12:00"
-website: "https://www.baeckerei-buesch.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 07:00-12:00
+website: https://www.baeckerei-buesch.de/

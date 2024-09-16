@@ -1,11 +1,11 @@
 id: 272385683
-type: way
+type: node
 latitude: 51.76726
 longitude: 7.44949
 postcode: "59348"
 city: Lüdinghausen
-street: "Auf der Geest"
-housenumber: 5
+street: Auf der Geest
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

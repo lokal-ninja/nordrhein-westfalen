@@ -4,8 +4,8 @@ latitude: 51.23136
 longitude: 6.75065
 postcode: "40545"
 city: Düsseldorf
-street: "Luegallee"
-housenumber: 91
-phone: "+49 211 86810446"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de/duesseldorf-luegallee-91/marktseite"
+street: Luegallee
+housenumber: "91"
+phone: +49 211 86810446
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de/duesseldorf-luegallee-91/marktseite

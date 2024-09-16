@@ -4,8 +4,8 @@ latitude: 51.71705
 longitude: 8.75458
 postcode: "33098"
 city: Paderborn
-street: "Neuer Platz"
-housenumber: 4
-phone: "+49 521 9710795"
-opening_hours: "Mo-Sa 8:00-19:00; Su 11:00-19:00"
-website: "https://www.deppeundco.de/"
+street: Neuer Platz
+housenumber: "4"
+phone: +49 521 9710795
+opening_hours: Mo-Sa 8:00-19:00; Su 11:00-19:00
+website: https://www.deppeundco.de/

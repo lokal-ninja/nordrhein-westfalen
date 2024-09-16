@@ -1,11 +1,11 @@
 id: 451931930
-type: way
+type: node
 latitude: 51.80038
 longitude: 8.61463
 postcode: "33129"
 city: Delbrück
-street: "Schubertstraße"
-housenumber: 1
+street: Schubertstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

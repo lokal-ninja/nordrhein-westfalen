@@ -4,8 +4,8 @@ latitude: 50.7366
 longitude: 7.09879
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 6
+street: Friedrichstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
-website: "https://www.hielscher-fleischwaren.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00
+website: https://www.hielscher-fleischwaren.de/

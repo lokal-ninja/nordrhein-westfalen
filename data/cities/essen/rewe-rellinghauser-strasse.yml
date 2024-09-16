@@ -1,11 +1,11 @@
 id: 29102751
-type: way
+type: node
 latitude: 51.43799
 longitude: 7.02963
 postcode: "45136"
 city: Essen
-street: "Rellinghauser Straße"
-housenumber: 245
+street: Rellinghauser Straße
+housenumber: "245"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

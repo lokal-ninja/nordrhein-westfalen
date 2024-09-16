@@ -1,11 +1,11 @@
 id: 109261499
-type: way
+type: node
 latitude: 50.8224
 longitude: 7.10913
 postcode: "53842"
 city: Troisdorf
-street: "Langbaurghstraße"
-housenumber: 17
+street: Langbaurghstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.campusnet.de"
+website: https://www.campusnet.de

@@ -4,8 +4,8 @@ latitude: 51.47307
 longitude: 6.94977
 postcode: "45355"
 city: Essen
-street: "Weidkamp"
-housenumber: 1
-phone: "+49 201 8606469"
-opening_hours: "Mo-Fr 06:00-18:00, 06:00-13:30; Sa 06:00-13:30; Su 09:00-06:00"
+street: Weidkamp
+housenumber: "1"
+phone: +49 201 8606469
+opening_hours: Mo-Fr 06:00-18:00, 06:00-13:30; Sa 06:00-13:30; Su 09:00-06:00
 website: ""

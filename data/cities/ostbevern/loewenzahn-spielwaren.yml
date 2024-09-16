@@ -4,8 +4,8 @@ latitude: 52.036
 longitude: 7.83981
 postcode: "48346"
 city: Ostbevern
-street: "Hauptstraße"
-housenumber: 30
-phone: "+49 2532 9576397"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "http://www.loewenzahn-spielwaren.de/"
+street: Hauptstraße
+housenumber: "30"
+phone: +49 2532 9576397
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
+website: http://www.loewenzahn-spielwaren.de/

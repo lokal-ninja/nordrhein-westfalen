@@ -1,11 +1,11 @@
 id: 281977353
-type: way
+type: node
 latitude: 51.57446
 longitude: 7.0486
 postcode: "45897"
 city: Gelsenkirchen
-street: "Horster Straße"
-housenumber: 61
-phone: "+49 209 30574"
-opening_hours: "24/7"
-website: "https://bestattungen-werdelmann.de/"
+street: Horster Straße
+housenumber: "61"
+phone: +49 209 30574
+opening_hours: 24/7
+website: https://bestattungen-werdelmann.de/

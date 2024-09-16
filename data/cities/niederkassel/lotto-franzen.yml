@@ -1,11 +1,11 @@
 id: 248347970
-type: way
+type: node
 latitude: 50.81277
 longitude: 7.03679
 postcode: "53859"
 city: Niederkassel
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 07:30-13:00,15:00-18:30; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-13:00,15:00-18:30; Sa 07:30-13:00
 website: ""

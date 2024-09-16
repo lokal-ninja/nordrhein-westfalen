@@ -1,11 +1,11 @@
 id: 109179096
-type: way
+type: node
 latitude: 51.44632
 longitude: 7.76169
 postcode: "58708"
 city: Menden (Sauerland)
-street: "Stuckenacker"
-housenumber: 5
+street: Stuckenacker
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 320778454
-type: way
+type: node
 latitude: 51.95485
 longitude: 7.01065
 postcode: "48712"
 city: Gescher
-street: "Hauskampstraße"
-housenumber: 9
+street: Hauskampstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:30-12:30,14:30-18:30; Sa 09:30-13:00"
+opening_hours: Mo off; Tu-Fr 09:30-12:30,14:30-18:30; Sa 09:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.68167
 longitude: 7.81664
 postcode: "59065"
 city: Hamm
-street: "Ritterstraße"
-housenumber: 2
+street: Ritterstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.unterwegs.biz/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.unterwegs.biz/

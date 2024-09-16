@@ -1,11 +1,11 @@
 id: 91208506
-type: way
+type: node
 latitude: 51.6963
 longitude: 7.76374
 postcode: "59075"
 city: Hamm
-street: "Oswaldstraße"
-housenumber: 32
-phone: "+49 2381 76052"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.klaas-und-kock.de/"
+street: Oswaldstraße
+housenumber: "32"
+phone: +49 2381 76052
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.klaas-und-kock.de/

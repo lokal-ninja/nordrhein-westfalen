@@ -4,8 +4,8 @@ latitude: 51.10782
 longitude: 8.07436
 postcode: "57368"
 city: Lennestadt
-street: "Wigeystraße"
-housenumber: 12
-phone: "+49 2723 95440"
-opening_hours: "Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00"
-website: "http://www.schuh-eberts.de/"
+street: Wigeystraße
+housenumber: "12"
+phone: +49 2723 95440
+opening_hours: Mo-Fr 9:00 - 18:00; Sa 9:00 - 13:00
+website: http://www.schuh-eberts.de/

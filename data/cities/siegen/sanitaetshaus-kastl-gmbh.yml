@@ -4,8 +4,8 @@ latitude: 50.88003
 longitude: 8.03007
 postcode: "57072"
 city: Siegen
-street: "Kampenstraße"
-housenumber: 61
+street: Kampenstraße
+housenumber: "61"
 phone: "+4927140570030"
-opening_hours: "Mo-Th 08:30-17:00,Fr 08:30-13:00"
-website: "https://www.sanitaetshaus-kastl.de/"
+opening_hours: Mo-Th 08:30-17:00,Fr 08:30-13:00
+website: https://www.sanitaetshaus-kastl.de/

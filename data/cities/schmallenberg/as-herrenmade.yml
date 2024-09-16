@@ -1,11 +1,11 @@
 id: 250661803
-type: way
+type: node
 latitude: 51.15041
 longitude: 8.28367
 postcode: "57392"
 city: Schmallenberg
-street: "Weststraße"
-housenumber: 13
+street: Weststraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

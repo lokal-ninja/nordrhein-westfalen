@@ -4,8 +4,8 @@ latitude: 50.77916
 longitude: 6.15594
 postcode: "52080"
 city: Aachen
-street: "Steinstraße"
-housenumber: 53
-phone: "+49 241 551465"
-opening_hours: "Mo-Th 08:00-12:30,13:30-17:00; Fr 08:00-12:30"
-website: "https://eisenwaren-jungen.de/"
+street: Steinstraße
+housenumber: "53"
+phone: +49 241 551465
+opening_hours: Mo-Th 08:00-12:30,13:30-17:00; Fr 08:00-12:30; PH off
+website: https://eisenwaren-jungen.de/

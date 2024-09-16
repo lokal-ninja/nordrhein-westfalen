@@ -1,11 +1,11 @@
 id: 195269269
-type: way
+type: node
 latitude: 52.18984
 longitude: 7.85556
 postcode: "49525"
 city: Lengerich
-street: "Bergstraße"
-housenumber: 20
+street: Bergstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

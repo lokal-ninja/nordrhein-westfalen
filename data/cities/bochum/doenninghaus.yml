@@ -4,8 +4,8 @@ latitude: 51.48489
 longitude: 7.21528
 postcode: "44787"
 city: Bochum
-street: "Brückstraße"
-housenumber: 49
-phone: "+49 234 12697"
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-18:30; Sa 07:30-14:00; Su,PH off"
-website: "https://www.dieechte.de/"
+street: Brückstraße
+housenumber: "49"
+phone: +49 234 12697
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-18:30; Sa 07:30-14:00; Su,PH off
+website: https://www.dieechte.de/

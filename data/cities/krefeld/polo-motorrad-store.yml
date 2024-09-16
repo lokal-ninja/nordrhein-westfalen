@@ -1,11 +1,11 @@
 id: 116297529
-type: way
+type: node
 latitude: 51.35809
 longitude: 6.64523
 postcode: "47829"
 city: Krefeld
-street: "Lange Straße"
-housenumber: 45
+street: Lange Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

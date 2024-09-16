@@ -4,8 +4,8 @@ latitude: 50.53842
 longitude: 6.55667
 postcode: "53925"
 city: Kall
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 08:00-13:00; Su, PH off"
-website: "https://www.rvk.de/service/unsere-standorte"
+opening_hours: Mo-Fr 06:00-18:00; Sa 08:00-13:00; Su, PH off
+website: https://www.rvk.de/service/unsere-standorte

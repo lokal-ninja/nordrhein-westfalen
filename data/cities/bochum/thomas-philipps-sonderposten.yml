@@ -1,11 +1,11 @@
 id: 101294030
-type: way
+type: node
 latitude: 51.50808
 longitude: 7.28084
 postcode: "44805"
 city: Bochum
-street: "Josef-Baumann-Straße"
-housenumber: 22
+street: Josef-Baumann-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.thomas-philipps.de/de/Stores/Details/bochum"
+website: https://www.thomas-philipps.de/de/Stores/Details/bochum

@@ -1,11 +1,11 @@
 id: 337339295
-type: way
+type: node
 latitude: 51.61555
 longitude: 7.96723
 postcode: "59514"
 city: Welver
-street: "Ladestraße"
-housenumber: 40
+street: Ladestraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

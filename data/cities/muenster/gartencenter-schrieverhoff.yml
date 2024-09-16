@@ -1,11 +1,11 @@
 id: 143520261
-type: way
+type: node
 latitude: 51.9361
 longitude: 7.60758
 postcode: "48151"
 city: Münster
-street: "Kappenberger Damm"
-housenumber: 86
-phone: "+49 251972130"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 10:30-15:30"
-website: "https://www.gartencenter-schrieverhoff.de"
+street: Kappenberger Damm
+housenumber: "86"
+phone: +49 251972130
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 10:30-15:30
+website: https://www.gartencenter-schrieverhoff.de

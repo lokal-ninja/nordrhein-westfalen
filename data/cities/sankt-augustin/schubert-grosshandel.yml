@@ -4,8 +4,9 @@ latitude: 50.75663
 longitude: 7.16892
 postcode: "53757"
 city: Sankt Augustin
-street: "Eifelstraße"
-housenumber: 8
-phone: "+49 2241 34770"
-opening_hours: "Mo,Th 07:45-17:00; Tu-We 07:45-20:00; Fr 07:45-14:00; Sa 09:00-13:00; PH off"
-website: "http://www.schubert-grosshandel.de/"
+street: Eifelstraße
+housenumber: "8"
+phone: +49 2241 34770
+opening_hours: Mo,Th 07:45-17:00; Tu-We 07:45-20:00; Fr 07:45-14:00; Sa 09:00-13:00;
+    PH off
+website: http://www.schubert-grosshandel.de/

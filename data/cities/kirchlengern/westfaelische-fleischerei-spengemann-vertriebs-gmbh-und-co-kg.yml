@@ -1,11 +1,11 @@
 id: 297005721
-type: way
+type: node
 latitude: 52.23921
 longitude: 8.6195
 postcode: "32278"
 city: Kirchlengern
-street: "Stiftstraße"
+street: Stiftstraße
 housenumber: 127-131
-phone: "+49 5223 75270"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-13:00"
-website: "https://www.fleischerei-spengemann.com/"
+phone: +49 5223 75270
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-13:00
+website: https://www.fleischerei-spengemann.com/

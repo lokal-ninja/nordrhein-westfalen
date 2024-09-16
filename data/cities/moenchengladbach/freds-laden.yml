@@ -4,8 +4,8 @@ latitude: 51.20141
 longitude: 6.42472
 postcode: "41063"
 city: Mönchengladbach
-street: "Lindenstraße"
-housenumber: 40
-phone: "+49 2161 895242"
-opening_hours: "Mo 13:00-18:30, Tu-Fr 09:00-13:00, 14:30-18:30, Th 14:30-20:00"
-website: "http://freds-laden.de"
+street: Lindenstraße
+housenumber: "40"
+phone: +49 2161 895242
+opening_hours: Mo 13:00-18:30, Tu-Fr 09:00-13:00, 14:30-18:30, Th 14:30-20:00
+website: http://freds-laden.de

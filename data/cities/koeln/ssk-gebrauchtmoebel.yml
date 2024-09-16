@@ -1,11 +1,11 @@
 id: 346970808
-type: way
+type: node
 latitude: 50.95357
 longitude: 6.92635
 postcode: "50823"
 city: Köln
-street: "Liebigstraße"
-housenumber: 25
-phone: "+49 221 556189"
+street: Liebigstraße
+housenumber: "25"
+phone: +49 221 556189
 opening_hours: ""
-website: "https://www.sozialistischeselbsthilfekoeln.de/"
+website: https://www.sozialistischeselbsthilfekoeln.de/

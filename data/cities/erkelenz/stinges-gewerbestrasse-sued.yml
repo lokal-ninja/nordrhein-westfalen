@@ -1,11 +1,11 @@
 id: 152310101
-type: way
+type: node
 latitude: 51.06897
 longitude: 6.30807
 postcode: "41812"
 city: Erkelenz
-street: "Gewerbestraße Süd"
+street: Gewerbestraße Süd
 housenumber: 39A
-phone: "+49 2431 9739426"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-15:00; Su 07:30-11:00"
-website: "https://www.stinges.de/"
+phone: +49 2431 9739426
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-15:00; Su 07:30-11:00
+website: https://www.stinges.de/

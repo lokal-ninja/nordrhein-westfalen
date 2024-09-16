@@ -1,11 +1,11 @@
 id: 84042983
-type: way
+type: node
 latitude: 51.73888
 longitude: 8.24745
 postcode: "59329"
 city: Wadersloh
-street: "Poßkamp"
-housenumber: 23
+street: Poßkamp
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

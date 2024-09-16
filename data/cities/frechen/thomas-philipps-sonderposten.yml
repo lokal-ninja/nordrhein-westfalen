@@ -4,8 +4,8 @@ latitude: 50.90639
 longitude: 6.80098
 postcode: "50226"
 city: Frechen
-street: "Dürener Straße"
-housenumber: 52
-phone: "+49 2234 9599993"
-opening_hours: "Mo-Fr 09:00-19:00; Jan-Feb: Sa 09:00-16:00; Mar-Dec: Sa 09:00-18:00"
-website: "https://www.thomas-philipps.de/"
+street: Dürener Straße
+housenumber: "52"
+phone: +49 2234 9599993
+opening_hours: 'Mo-Fr 09:00-19:00; Jan-Feb: Sa 09:00-16:00; Mar-Dec: Sa 09:00-18:00'
+website: https://www.thomas-philipps.de/

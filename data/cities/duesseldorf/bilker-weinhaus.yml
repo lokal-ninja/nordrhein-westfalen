@@ -4,8 +4,8 @@ latitude: 51.21363
 longitude: 6.7653
 postcode: "40219"
 city: Düsseldorf
-street: "Lorettostraße"
-housenumber: 29
-phone: "+49 211 306 934"
-opening_hours: "Mo-Fr 11:00-14:00, 15:00-19:00; Sa 10:00-14:00; PH off"
-website: "https://www.bilker-weinhaus.de/"
+street: Lorettostraße
+housenumber: "29"
+phone: +49 211 306 934
+opening_hours: Mo-Fr 11:00-14:00, 15:00-19:00; Sa 10:00-14:00; PH off
+website: https://www.bilker-weinhaus.de/

@@ -1,11 +1,11 @@
 id: 131608222
-type: way
+type: node
 latitude: 51.48147
 longitude: 8.32881
 postcode: "59581"
 city: Warstein
-street: "Pankratiusstraße"
-housenumber: 6
+street: Pankratiusstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-13:30"
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:00-13:30
 website: ""

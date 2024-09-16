@@ -4,8 +4,8 @@ latitude: 51.53107
 longitude: 6.89161
 postcode: "46242"
 city: Bottrop
-street: "Im Fuhlenbrock"
-housenumber: 137
-phone: "+49 2041 51526"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-21:00"
-website: "https://pfennings.net"
+street: Im Fuhlenbrock
+housenumber: "137"
+phone: +49 2041 51526
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-21:00
+website: https://pfennings.net

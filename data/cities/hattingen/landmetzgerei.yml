@@ -4,8 +4,8 @@ latitude: 51.34494
 longitude: 7.19295
 postcode: "45527"
 city: Hattingen
-street: "Berger Weg"
-housenumber: 8
-phone: "+49 2324 72478"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "http://www.bergerhof.de/www.bergerhof.de/unser-angebot/landmetzgerei.html"
+street: Berger Weg
+housenumber: "8"
+phone: +49 2324 72478
+opening_hours: Mo-Su 09:00-18:00
+website: http://www.bergerhof.de/www.bergerhof.de/unser-angebot/landmetzgerei.html

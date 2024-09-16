@@ -1,11 +1,11 @@
 id: 266179874
-type: way
+type: node
 latitude: 51.50448
 longitude: 7.11196
 postcode: "45886"
 city: Gelsenkirchen
-street: "Dessauerstraße"
-housenumber: 61
+street: Dessauerstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

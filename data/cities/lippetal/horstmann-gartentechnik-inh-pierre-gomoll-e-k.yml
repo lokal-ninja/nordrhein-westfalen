@@ -1,11 +1,11 @@
 id: 1093761899
-type: way
+type: node
 latitude: 51.67321
 longitude: 8.15212
 postcode: "59510"
 city: Lippetal
-street: "Kossberg"
-housenumber: 25
+street: Kossberg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

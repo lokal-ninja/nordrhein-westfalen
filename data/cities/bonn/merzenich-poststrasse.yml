@@ -4,8 +4,8 @@ latitude: 50.73285
 longitude: 7.09752
 postcode: "53111"
 city: Bonn
-street: "Poststraße"
-housenumber: 4
+street: Poststraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; PH,Su 07:00-18:00"
+opening_hours: Mo-Sa 06:30-18:00; PH,Su 07:00-18:00
 website: ""

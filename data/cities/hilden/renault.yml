@@ -1,11 +1,11 @@
 id: 133824162
-type: way
+type: node
 latitude: 51.17556
 longitude: 6.92169
 postcode: "40721"
 city: Hilden
-street: "Herderstraße"
-housenumber: 27
+street: Herderstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

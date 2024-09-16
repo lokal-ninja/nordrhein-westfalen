@@ -1,11 +1,11 @@
 id: 303647676
-type: way
+type: node
 latitude: 51.44074
 longitude: 6.99214
 postcode: "45147"
 city: Essen
-street: "Ladenspelderstraße"
-housenumber: 11
+street: Ladenspelderstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

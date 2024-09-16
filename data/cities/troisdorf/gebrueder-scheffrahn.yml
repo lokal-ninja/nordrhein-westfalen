@@ -1,11 +1,11 @@
 id: 128795906
-type: way
+type: node
 latitude: 50.78105
 longitude: 7.08759
 postcode: "53844"
 city: Troisdorf
-street: "Ampèrestraße"
-housenumber: 24
-phone: "+49 228 4 44 71 18"
+street: Ampèrestraße
+housenumber: "24"
+phone: +49 228 4 44 71 18
 opening_hours: ""
-website: "https://www.scheffrahn-gmbh.de/"
+website: https://www.scheffrahn-gmbh.de/

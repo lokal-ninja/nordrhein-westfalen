@@ -1,11 +1,11 @@
 id: 92914982
-type: way
+type: node
 latitude: 51.27942
 longitude: 7.27539
 postcode: "58332"
 city: Schwelm
-street: "Barmer Straße"
-housenumber: 61
+street: Barmer Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

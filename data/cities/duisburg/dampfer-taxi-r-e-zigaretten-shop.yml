@@ -4,8 +4,8 @@ latitude: 51.46751
 longitude: 6.77521
 postcode: "47137"
 city: Duisburg
-street: "Von-der-Mark-Straße"
-housenumber: 60
+street: Von-der-Mark-Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-15:30"
-website: "https://www.dampfer-taxi.de"
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-15:30
+website: https://www.dampfer-taxi.de

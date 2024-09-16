@@ -4,8 +4,8 @@ latitude: 51.09192
 longitude: 6.88742
 postcode: "40789"
 city: Monheim am Rhein
-street: "Alte Schulstraße"
-housenumber: 25
-phone: "+49 2173 31646"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-19:00; PH off"
-website: "https://www.ryf.de"
+street: Alte Schulstraße
+housenumber: "25"
+phone: +49 2173 31646
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-19:00; PH off
+website: https://www.ryf.de

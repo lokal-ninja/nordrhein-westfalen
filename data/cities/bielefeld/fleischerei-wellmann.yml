@@ -4,8 +4,8 @@ latitude: 52.02641
 longitude: 8.52164
 postcode: "33615"
 city: Bielefeld
-street: "Stapenhorststraße"
-housenumber: 48
-phone: "+49 521  131823"
-opening_hours: "Mo,Sa 07:00-13:00; Tu-Fr 07:00-18:30"
-website: "https://fleischerei-wellmann.com/"
+street: Stapenhorststraße
+housenumber: "48"
+phone: +49 521  131823
+opening_hours: Mo,Sa 07:00-13:00; Tu-Fr 07:00-18:30
+website: https://fleischerei-wellmann.com/

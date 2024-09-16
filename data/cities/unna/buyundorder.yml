@@ -1,11 +1,11 @@
 id: 373909470
-type: way
+type: node
 latitude: 51.5394
 longitude: 7.64917
 postcode: "59427"
 city: Unna
-street: "Bismarckstraße"
-housenumber: 10
+street: Bismarckstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://buyandorder.de"
+website: https://buyandorder.de

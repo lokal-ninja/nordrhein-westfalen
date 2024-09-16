@@ -4,8 +4,8 @@ latitude: 51.45708
 longitude: 7.45663
 postcode: "44229"
 city: Dortmund
-street: "Hagener Straße"
-housenumber: 266
-phone: "+49 231 9500 4755"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.kirstens.shop"
+street: Hagener Straße
+housenumber: "266"
+phone: +49 231 9500 4755
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
+website: https://www.kirstens.shop

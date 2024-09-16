@@ -1,11 +1,11 @@
 id: 229084191
-type: way
+type: node
 latitude: 52.0688
 longitude: 8.75259
 postcode: "32108"
 city: Bad Salzuflen
-street: "Uferstraße"
-housenumber: 18
+street: Uferstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

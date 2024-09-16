@@ -4,8 +4,8 @@ latitude: 52.2053
 longitude: 8.78152
 postcode: "32584"
 city: Löhne
-street: "Ringstraße"
-housenumber: 18
-phone: "+49 5731 4 98 96 20"
-opening_hours: "Mo-Fr 10:00-19:30, Sa 09:00-18:00"
-website: "https://www.poco.de/"
+street: Ringstraße
+housenumber: "18"
+phone: +49 5731 4 98 96 20
+opening_hours: Mo-Fr 10:00-19:30, Sa 09:00-18:00
+website: https://www.poco.de/

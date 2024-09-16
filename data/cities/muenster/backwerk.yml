@@ -4,8 +4,8 @@ latitude: 51.95703
 longitude: 7.63356
 postcode: "48143"
 city: Münster
-street: "Berliner Platz"
-housenumber: 2
+street: Berliner Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-19:00; Sa 07:30-19:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 05:30-19:00; Sa 07:30-19:00; Su 09:00-17:00
 website: ""

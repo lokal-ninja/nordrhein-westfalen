@@ -1,11 +1,11 @@
 id: 365965484
-type: way
+type: node
 latitude: 51.67845
 longitude: 7.85336
 postcode: "59071"
 city: Hamm
-street: "Herbert-Rust-Weg"
-housenumber: 27
+street: Herbert-Rust-Weg
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

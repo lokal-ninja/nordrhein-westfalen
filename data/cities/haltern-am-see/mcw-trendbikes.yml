@@ -1,11 +1,11 @@
 id: 289461412
-type: way
+type: node
 latitude: 51.75499
 longitude: 7.19923
 postcode: "45721"
 city: Haltern am See
-street: "An der Ziegelei"
-housenumber: 22
+street: An der Ziegelei
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:30; Sa 9:00-13:00"
-website: "https://www.mcw-trendbikes.de/"
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:30; Sa 9:00-13:00
+website: https://www.mcw-trendbikes.de/

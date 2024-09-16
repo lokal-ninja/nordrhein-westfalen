@@ -4,8 +4,8 @@ latitude: 51.03205
 longitude: 7.11487
 postcode: "51519"
 city: Odenthal
-street: "Altenberger-Dom-Straße"
-housenumber: 20
+street: Altenberger-Dom-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe-odenthal.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe-odenthal.de/

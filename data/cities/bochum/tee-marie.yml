@@ -4,8 +4,8 @@ latitude: 51.47307
 longitude: 7.21457
 postcode: "44789"
 city: Bochum
-street: "Alte Hattinger Straße"
-housenumber: 31
-phone: "+49 157 74166499"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 11:00-16:00; PH,Su,Mo off"
-website: "http://tee-station.de/"
+street: Alte Hattinger Straße
+housenumber: "31"
+phone: +49 157 74166499
+opening_hours: Tu-Fr 13:00-18:00; Sa 11:00-16:00; PH,Su,Mo off
+website: http://tee-station.de/

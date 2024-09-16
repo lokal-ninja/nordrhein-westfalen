@@ -1,11 +1,11 @@
 id: 94939846
-type: way
+type: node
 latitude: 52.27503
 longitude: 8.76604
 postcode: "32479"
 city: Hille
-street: "Am Buchenberg"
-housenumber: 35
-phone: "+49 5737 3939"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://bier-meyer-online.de/"
+street: Am Buchenberg
+housenumber: "35"
+phone: +49 5737 3939
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://bier-meyer-online.de/

@@ -1,11 +1,11 @@
 id: 90019863
-type: way
+type: node
 latitude: 51.65461
 longitude: 6.44131
 postcode: "46509"
 city: Xanten
-street: "Sonsbecker Straße"
+street: Sonsbecker Straße
 housenumber: 21a
-phone: "+49 2801 900763"
-opening_hours: "Mo-Fr 09:00-20:20; Sa 09:00-18:00"
-website: "https://stores.deichmann.com/nordrhein-westfalen/xanten/sonsbecker-str--21.html"
+phone: +49 2801 900763
+opening_hours: Mo-Fr 09:00-20:20; Sa 09:00-18:00
+website: https://stores.deichmann.com/nordrhein-westfalen/xanten/sonsbecker-str--21.html

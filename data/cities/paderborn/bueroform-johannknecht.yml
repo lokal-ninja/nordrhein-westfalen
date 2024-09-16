@@ -1,11 +1,11 @@
 id: 261841968
-type: way
+type: node
 latitude: 51.70729
 longitude: 8.71979
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
+street: Frankfurter Weg
 housenumber: 10a
 phone: ""
 opening_hours: ""
-website: "https://www.bueroform-moebel.de/"
+website: https://www.bueroform-moebel.de/

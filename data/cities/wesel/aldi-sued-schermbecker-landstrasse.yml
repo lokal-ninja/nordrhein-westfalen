@@ -1,11 +1,11 @@
 id: 258146583
-type: way
+type: node
 latitude: 51.66005
 longitude: 6.63453
 postcode: "46485"
 city: Wesel
-street: "Schermbecker Landstraße"
-housenumber: 11
+street: Schermbecker Landstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

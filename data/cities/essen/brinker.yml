@@ -4,8 +4,8 @@ latitude: 51.44757
 longitude: 7.04315
 postcode: "45138"
 city: Essen
-street: "Knaudtstraße"
-housenumber: 1
+street: Knaudtstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa,Su 06:00-16:00"
-website: "https://www.brinker.de/"
+opening_hours: Mo-Fr 06:00-17:00; Sa,Su 06:00-16:00
+website: https://www.brinker.de/

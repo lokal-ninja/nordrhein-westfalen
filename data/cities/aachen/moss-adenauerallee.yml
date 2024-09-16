@@ -4,8 +4,8 @@ latitude: 50.75683
 longitude: 6.10656
 postcode: "52066"
 city: Aachen
-street: "Adenauerallee"
-housenumber: 173
+street: Adenauerallee
+housenumber: "173"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 08:00-11:00"
-website: "https://www.baeckerei-moss.de/"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 08:00-11:00
+website: https://www.baeckerei-moss.de/

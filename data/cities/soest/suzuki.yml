@@ -1,11 +1,11 @@
 id: 231733270
-type: way
+type: node
 latitude: 51.58241
 longitude: 8.09838
 postcode: "59494"
 city: Soest
-street: "Teinenkamp"
-housenumber: 40
+street: Teinenkamp
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

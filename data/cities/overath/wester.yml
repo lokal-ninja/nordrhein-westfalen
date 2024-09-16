@@ -4,8 +4,8 @@ latitude: 50.93301
 longitude: 7.28646
 postcode: "51491"
 city: Overath
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su off"
-website: "https://wester-mode.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su off
+website: https://wester-mode.de/

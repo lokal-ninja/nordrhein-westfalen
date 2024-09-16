@@ -4,8 +4,8 @@ latitude: 52.30238
 longitude: 8.89391
 postcode: "32425"
 city: Minden
-street: "Sandtrift"
-housenumber: 45
-phone: "+49 571 26153"
-opening_hours: "Mo-Th 09:00-12:30,14:30-17:00; Fr 09:00-12:30"
+street: Sandtrift
+housenumber: "45"
+phone: +49 571 26153
+opening_hours: Mo-Th 09:00-12:30,14:30-17:00; Fr 09:00-12:30
 website: ""

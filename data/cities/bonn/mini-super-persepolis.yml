@@ -4,8 +4,8 @@ latitude: 50.74217
 longitude: 7.09879
 postcode: "53111"
 city: Bonn
-street: "Rosental"
-housenumber: 20
-phone: "+49 228 1807034"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "http://persepolis-bonn.de"
+street: Rosental
+housenumber: "20"
+phone: +49 228 1807034
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: http://persepolis-bonn.de

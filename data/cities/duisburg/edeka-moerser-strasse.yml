@@ -1,11 +1,11 @@
 id: 676111172
-type: way
+type: node
 latitude: 51.44899
 longitude: 6.6893
 postcode: "47198"
 city: Duisburg
-street: "Moerser Straße"
-housenumber: 227
+street: Moerser Straße
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

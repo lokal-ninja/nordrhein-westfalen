@@ -1,11 +1,11 @@
 id: 37650682
-type: way
+type: node
 latitude: 51.33568
 longitude: 7.38241
 postcode: "58285"
 city: Gevelsberg
-street: "Hagener Straße"
-housenumber: 360
+street: Hagener Straße
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

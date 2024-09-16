@@ -1,11 +1,11 @@
 id: 128379774
-type: way
+type: node
 latitude: 50.79651
 longitude: 6.06189
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 321
+street: Roermonder Straße
+housenumber: "321"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.ledermoden-aachen.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.ledermoden-aachen.de/

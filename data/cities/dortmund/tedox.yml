@@ -1,11 +1,11 @@
 id: 53899032
-type: way
+type: node
 latitude: 51.52614
 longitude: 7.47397
 postcode: "44145"
 city: Dortmund
-street: "Borsigstraße"
-housenumber: 4
+street: Borsigstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

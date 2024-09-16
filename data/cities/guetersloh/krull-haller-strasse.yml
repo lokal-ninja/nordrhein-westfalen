@@ -1,11 +1,11 @@
 id: 282862446
-type: way
+type: node
 latitude: 51.94847
 longitude: 8.4061
 postcode: "33334"
 city: Gütersloh
-street: "Haller Straße"
-housenumber: 150
+street: Haller Straße
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://www.krull-pflanzen.de/"
+website: https://www.krull-pflanzen.de/

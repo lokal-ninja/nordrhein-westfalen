@@ -4,8 +4,8 @@ latitude: 51.68538
 longitude: 8.69165
 postcode: "33106"
 city: Paderborn
-street: "Melkweg"
-housenumber: 19
+street: Melkweg
+housenumber: "19"
 phone: ""
-opening_hours: "Tu, Th 18:30-20:30"
-website: "http://www.sammys-fahrschule.de"
+opening_hours: Tu, Th 18:30-20:30
+website: http://www.sammys-fahrschule.de

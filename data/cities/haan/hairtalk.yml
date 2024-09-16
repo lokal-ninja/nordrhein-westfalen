@@ -4,8 +4,8 @@ latitude: 51.19231
 longitude: 7.00984
 postcode: "42781"
 city: Haan
-street: "Kaiserstraße"
-housenumber: 27
-phone: "+49 2129 1060"
-opening_hours: "Mo-We 09:00-18:30; Th-Fr 09:00-20:00"
+street: Kaiserstraße
+housenumber: "27"
+phone: +49 2129 1060
+opening_hours: Mo-We 09:00-18:30; Th-Fr 09:00-20:00
 website: ""

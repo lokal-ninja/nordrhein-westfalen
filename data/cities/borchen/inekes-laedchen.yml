@@ -4,8 +4,9 @@ latitude: 51.66378
 longitude: 8.76957
 postcode: "33178"
 city: Borchen
-street: "Schloß Hamborn"
+street: Schloß Hamborn
 housenumber: 93a
 phone: ""
-opening_hours: "Mo-Tu 9:00-12:00, 15:00-18:00; We 9:00-12:00; Th 15:00-18:00; Fr 9:00-12:00, 15:00-18:00"
+opening_hours: Mo-Tu 9:00-12:00, 15:00-18:00; We 9:00-12:00; Th 15:00-18:00; Fr 9:00-12:00,
+    15:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 252596584
-type: way
+type: node
 latitude: 50.76111
 longitude: 6.99442
 postcode: "53332"
 city: Bornheim
-street: "Königstraße"
-housenumber: 27
+street: Königstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

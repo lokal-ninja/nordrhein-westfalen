@@ -4,8 +4,8 @@ latitude: 52.28049
 longitude: 8.7994
 postcode: "32479"
 city: Hille
-street: "Bäckerstraße"
-housenumber: 44
-phone: "+49 5734 7002"
-opening_hours: "Mo-Th 08:00-13:00; Fr 08:00-18:00; Sa 06:00-13:00"
-website: "https://www.meyer-hille.com/"
+street: Bäckerstraße
+housenumber: "44"
+phone: +49 5734 7002
+opening_hours: Mo-Th 08:00-13:00; Fr 08:00-18:00; Sa 06:00-13:00
+website: https://www.meyer-hille.com/

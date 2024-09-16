@@ -4,8 +4,8 @@ latitude: 51.3356
 longitude: 6.56504
 postcode: "47798"
 city: Krefeld
-street: "Ostwall"
-housenumber: 203
+street: Ostwall
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "https://www.sanitaetshaus-kanters.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: https://www.sanitaetshaus-kanters.de/

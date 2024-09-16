@@ -1,11 +1,11 @@
 id: 116119667
-type: way
+type: node
 latitude: 51.2188
 longitude: 6.62621
 postcode: "41564"
 city: Kaarst
-street: "Düsselstraße"
-housenumber: 10
-phone: "+49 2131 1762828"
+street: Düsselstraße
+housenumber: "10"
+phone: +49 2131 1762828
 opening_hours: ""
-website: "http://www.automobile-bas.de/"
+website: http://www.automobile-bas.de/

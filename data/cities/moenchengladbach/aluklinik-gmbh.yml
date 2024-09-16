@@ -4,8 +4,8 @@ latitude: 51.15079
 longitude: 6.46996
 postcode: "41238"
 city: Mönchengladbach
-street: "Giesenkirchener Straße"
-housenumber: 256
-phone: "+49 2166 146100"
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-18:00; Sa 08:30-12:30; Su, PH off"
-website: "https://www.aluklinik.de/"
+street: Giesenkirchener Straße
+housenumber: "256"
+phone: +49 2166 146100
+opening_hours: Mo-Fr 08:30-12:30, 13:30-18:00; Sa 08:30-12:30; Su, PH off
+website: https://www.aluklinik.de/

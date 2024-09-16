@@ -1,11 +1,11 @@
 id: 700728064
-type: way
+type: node
 latitude: 50.81689
 longitude: 6.37438
 postcode: "52379"
 city: Langerwehe
-street: "Am vorderen Steinchen"
-housenumber: 2
+street: Am vorderen Steinchen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://edeka-kusnezow-lewandowski.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://edeka-kusnezow-lewandowski.de/

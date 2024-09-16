@@ -1,11 +1,11 @@
 id: 781794045
-type: way
+type: node
 latitude: 52.16826
 longitude: 8.63362
 postcode: "32120"
 city: Hiddenhausen
-street: "Löhner Straße"
-housenumber: 315
-phone: "+49 5223 877 0307"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-wehrmann-l%C3%B6hner-str.-315/index.jsp"
+street: Löhner Straße
+housenumber: "315"
+phone: +49 5223 877 0307
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-wehrmann-l%C3%B6hner-str.-315/index.jsp

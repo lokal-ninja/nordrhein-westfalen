@@ -4,8 +4,9 @@ latitude: 50.83173
 longitude: 6.08745
 postcode: "52134"
 city: Herzogenrath
-street: "Am Ehrenmal"
-housenumber: 8
+street: Am Ehrenmal
+housenumber: "8"
 phone: ""
-opening_hours: "Tu - We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:30-15:00; PH off"
-website: "https://gm-haarkonzepte.de/"
+opening_hours: Tu - We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:30-15:00;
+    PH off
+website: https://gm-haarkonzepte.de/

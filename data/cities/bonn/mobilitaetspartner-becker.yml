@@ -1,11 +1,11 @@
 id: 576921508
-type: way
+type: node
 latitude: 50.73912
 longitude: 7.07319
 postcode: "53119"
 city: Bonn
-street: "Lambareneweg"
-housenumber: 1
+street: Lambareneweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

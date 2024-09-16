@@ -4,8 +4,8 @@ latitude: 50.77898
 longitude: 6.09738
 postcode: "52070"
 city: Aachen
-street: "Jülicher Straße"
-housenumber: 29
-phone: "+49 241 463 752 40"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "http://www.con-tex.de/"
+street: Jülicher Straße
+housenumber: "29"
+phone: +49 241 463 752 40
+opening_hours: Mo-Sa 08:00-18:00
+website: http://www.con-tex.de/

@@ -4,8 +4,8 @@ latitude: 50.64599
 longitude: 7.23005
 postcode: "53604"
 city: Bad Honnef
-street: "Bergstraße"
-housenumber: 29
+street: Bergstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 15:00-20:00; Sa 09:00-13:00; Su,We off"
-website: "https://www.ildiavolo.de/"
+opening_hours: Mo,Tu,Th,Fr 15:00-20:00; Sa 09:00-13:00; Su,We off
+website: https://www.ildiavolo.de/

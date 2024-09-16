@@ -4,8 +4,8 @@ latitude: 50.87172
 longitude: 8.16531
 postcode: "57250"
 city: Netphen
-street: "Albert-Klenner-Straße"
-housenumber: 11
+street: Albert-Klenner-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-21:00"
-website: "https://schneiders-hof.de"
+opening_hours: Mo-Su,PH 07:00-21:00
+website: https://schneiders-hof.de

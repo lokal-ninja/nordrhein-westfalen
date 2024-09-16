@@ -4,8 +4,8 @@ latitude: 52.05883
 longitude: 8.49891
 postcode: "33619"
 city: Bielefeld
-street: "Babenhauser Straße"
-housenumber: 112
-phone: "+49-521-885100"
-opening_hours: "Mo-Th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-16:15"
-website: "https://www.jacques.de/depot/25/bielefeld-babenhausen/"
+street: Babenhauser Straße
+housenumber: "112"
+phone: +49-521-885100
+opening_hours: Mo-Th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-16:15
+website: https://www.jacques.de/depot/25/bielefeld-babenhausen/

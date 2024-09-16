@@ -1,11 +1,11 @@
 id: 118528797
-type: way
+type: node
 latitude: 50.93065
 longitude: 6.91546
 postcode: "50931"
 city: Köln
-street: "Dürener Straße"
-housenumber: 175
+street: Dürener Straße
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224649802
-type: way
+type: node
 latitude: 51.1838
 longitude: 8.32001
 postcode: "57392"
 city: Schmallenberg
-street: "Wehrscheid"
-housenumber: 25
+street: Wehrscheid
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

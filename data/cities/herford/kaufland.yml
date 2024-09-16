@@ -1,11 +1,11 @@
 id: 170331543
-type: way
+type: node
 latitude: 52.12484
 longitude: 8.67444
 postcode: "32049"
 city: Herford
-street: "Werrestraße"
-housenumber: 69
+street: Werrestraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

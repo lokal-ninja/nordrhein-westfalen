@@ -4,8 +4,8 @@ latitude: 50.73098
 longitude: 6.21407
 postcode: "52223"
 city: Stolberg (Rhld.)
-street: "Kastanienweg"
-housenumber: 2
+street: Kastanienweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Su,PH off"
-website: "https://www.ursula-prick.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Su,PH off
+website: https://www.ursula-prick.de/

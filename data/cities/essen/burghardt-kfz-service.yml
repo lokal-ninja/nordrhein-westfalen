@@ -1,11 +1,11 @@
 id: 80365243
-type: way
+type: node
 latitude: 51.50862
 longitude: 7.01264
 postcode: "45329"
 city: Essen
-street: "Heßlerstraße"
-housenumber: 52
+street: Heßlerstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

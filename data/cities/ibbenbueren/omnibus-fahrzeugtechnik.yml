@@ -1,11 +1,11 @@
 id: 219638185
-type: way
+type: node
 latitude: 52.26281
 longitude: 7.7751
 postcode: "49479"
 city: Ibbenbüren
-street: "Fuggerstraße"
-housenumber: 12
-phone: "+49 5451 99910"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://ah-busservice.de"
+street: Fuggerstraße
+housenumber: "12"
+phone: +49 5451 99910
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://ah-busservice.de

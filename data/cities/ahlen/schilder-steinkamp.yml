@@ -1,11 +1,11 @@
 id: 303588518
-type: way
+type: node
 latitude: 51.80332
 longitude: 7.93197
 postcode: "59227"
 city: Ahlen
-street: "Alter Münsterweg"
-housenumber: 4
+street: Alter Münsterweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

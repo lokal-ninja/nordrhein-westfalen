@@ -4,8 +4,8 @@ latitude: 52.25093
 longitude: 8.69893
 postcode: "32609"
 city: Hüllhorst
-street: "Weidehorst"
-housenumber: 120
-phone: "+49 5744 50660"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.computercentrum.de/"
+street: Weidehorst
+housenumber: "120"
+phone: +49 5744 50660
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.computercentrum.de/

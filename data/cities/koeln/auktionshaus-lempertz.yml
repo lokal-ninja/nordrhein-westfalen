@@ -4,8 +4,8 @@ latitude: 50.93571
 longitude: 6.94953
 postcode: "50667"
 city: Köln
-street: "Neumarkt"
-housenumber: 3
-phone: "+49 221 925729 0"
+street: Neumarkt
+housenumber: "3"
+phone: +49 221 925729 0
 opening_hours: ""
-website: "https://www.lempertz.com/"
+website: https://www.lempertz.com/

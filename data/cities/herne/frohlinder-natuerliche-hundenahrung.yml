@@ -4,8 +4,8 @@ latitude: 51.54003
 longitude: 7.26255
 postcode: "44627"
 city: Herne
-street: "Mont-Cenis-Straße"
-housenumber: 312
+street: Mont-Cenis-Straße
+housenumber: "312"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://frohlinder.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: https://frohlinder.de/

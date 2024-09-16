@@ -1,11 +1,11 @@
 id: 125935485
-type: way
+type: node
 latitude: 50.99647
 longitude: 6.56978
 postcode: "50181"
 city: Bedburg
-street: "Wiesenstraße"
-housenumber: 21
+street: Wiesenstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/bedburg/wiesenstrasse-21"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/bedburg/wiesenstrasse-21

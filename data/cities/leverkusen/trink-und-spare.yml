@@ -4,8 +4,8 @@ latitude: 51.02626
 longitude: 7.0154
 postcode: "51377"
 city: Leverkusen
-street: "Stixchesstraße"
-housenumber: 131
+street: Stixchesstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.trink-und-spare.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.trink-und-spare.de/

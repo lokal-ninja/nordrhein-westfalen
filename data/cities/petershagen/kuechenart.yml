@@ -4,8 +4,8 @@ latitude: 52.3681
 longitude: 9.00395
 postcode: "32469"
 city: Petershagen
-street: "Bahnhofstraße"
-housenumber: 61
-phone: "+49 5702 8511925"
-opening_hours: "Tu-Fr 10:00-17:00"
-website: "https://www.kuechenart-lahde.de/"
+street: Bahnhofstraße
+housenumber: "61"
+phone: +49 5702 8511925
+opening_hours: Tu-Fr 10:00-17:00
+website: https://www.kuechenart-lahde.de/

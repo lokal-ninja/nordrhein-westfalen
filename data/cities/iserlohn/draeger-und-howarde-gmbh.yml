@@ -4,8 +4,8 @@ latitude: 51.37473
 longitude: 7.68744
 postcode: "58638"
 city: Iserlohn
-street: "Hans-Böckler-Straße"
-housenumber: 72
-phone: "+49 2371 547050"
-opening_hours: "Mo-Fr 08:00-16:15"
-website: "https://www.draeger-howarde.de/"
+street: Hans-Böckler-Straße
+housenumber: "72"
+phone: +49 2371 547050
+opening_hours: Mo-Fr 08:00-16:15
+website: https://www.draeger-howarde.de/

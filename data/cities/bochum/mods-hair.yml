@@ -4,8 +4,8 @@ latitude: 51.47944
 longitude: 7.22049
 postcode: "44787"
 city: Bochum
-street: "Hellweg"
-housenumber: 9
-phone: "+49 234 3387225"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
-website: "https://www.modshair-bochum.de/"
+street: Hellweg
+housenumber: "9"
+phone: +49 234 3387225
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off
+website: https://www.modshair-bochum.de/

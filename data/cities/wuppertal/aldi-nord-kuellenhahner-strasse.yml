@@ -1,11 +1,11 @@
 id: 712696255
-type: way
+type: node
 latitude: 51.229
 longitude: 7.14566
 postcode: "42349"
 city: Wuppertal
-street: "Küllenhahner Straße"
-housenumber: 67
+street: Küllenhahner Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

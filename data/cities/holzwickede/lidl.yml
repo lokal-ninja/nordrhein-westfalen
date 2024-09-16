@@ -1,11 +1,11 @@
 id: 56225292
-type: way
+type: node
 latitude: 51.51347
 longitude: 7.61803
 postcode: "59439"
 city: Holzwickede
-street: "Wilhelmstraße"
+street: Wilhelmstraße
 housenumber: 2c
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

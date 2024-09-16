@@ -4,8 +4,8 @@ latitude: 51.43764
 longitude: 7.00465
 postcode: "45130"
 city: Essen
-street: "Zweigertstraße"
-housenumber: 8
+street: Zweigertstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:00; We,Sa 09:30-13:00; PH off"
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:00; We,Sa 09:30-13:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.4588
 longitude: 7.22372
 postcode: "44799"
 city: Bochum
-street: "Königsallee"
-housenumber: 167
-phone: "+49 234 772255"
-opening_hours: "Fr 14:30-18:00, Sa 10:30-13:00; oder nach Vereinbarung"
+street: Königsallee
+housenumber: "167"
+phone: +49 234 772255
+opening_hours: Fr 14:30-18:00, Sa 10:30-13:00; "oder nach Vereinbarung"
 website: ""

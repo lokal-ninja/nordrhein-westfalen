@@ -4,8 +4,8 @@ latitude: 51.9076
 longitude: 6.86043
 postcode: "46325"
 city: Borken
-street: "Benningsweg"
-housenumber: 15
+street: Benningsweg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 09:30-12:00, 14:00-17:00; Fr 09:30-12:00"
-website: "https://www.weberei-benning.de"
+opening_hours: Mo-Th 09:30-12:00, 14:00-17:00; Fr 09:30-12:00
+website: https://www.weberei-benning.de

@@ -4,8 +4,8 @@ latitude: 51.83177
 longitude: 6.61515
 postcode: "46395"
 city: Bocholt
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 34
-phone: "+49 2871 261342"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.bocholterbiomarkt.de/"
+street: Kaiser-Wilhelm-Straße
+housenumber: "34"
+phone: +49 2871 261342
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.bocholterbiomarkt.de/

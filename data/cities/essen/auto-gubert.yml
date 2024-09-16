@@ -1,11 +1,11 @@
 id: 89683527
-type: way
+type: node
 latitude: 51.47194
 longitude: 7.04521
 postcode: "45141"
 city: Essen
-street: "Ernestinenstraße"
-housenumber: 77
+street: Ernestinenstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

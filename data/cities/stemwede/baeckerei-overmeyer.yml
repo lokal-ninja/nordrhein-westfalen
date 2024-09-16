@@ -1,11 +1,11 @@
 id: 467754099
-type: way
+type: node
 latitude: 52.44334
 longitude: 8.3454
 postcode: "32351"
 city: Stemwede
-street: "Am Thie"
-housenumber: 3
+street: Am Thie
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

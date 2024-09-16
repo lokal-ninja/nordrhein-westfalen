@@ -4,8 +4,8 @@ latitude: 50.91708
 longitude: 6.92566
 postcode: "50937"
 city: Köln
-street: "Sülzburgstraße"
-housenumber: 27
-phone: "+49 221-2614860"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.monx-mode.de/"
+street: Sülzburgstraße
+housenumber: "27"
+phone: +49 221-2614860
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.monx-mode.de/

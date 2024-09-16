@@ -1,11 +1,11 @@
 id: 252906852
-type: way
+type: node
 latitude: 50.76252
 longitude: 6.99071
 postcode: "53332"
 city: Bornheim
-street: "Königstraße"
-housenumber: 76
+street: Königstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

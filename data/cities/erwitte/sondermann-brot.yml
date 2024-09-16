@@ -4,8 +4,8 @@ latitude: 51.61178
 longitude: 8.33361
 postcode: "59597"
 city: Erwitte
-street: "Soester Straße"
-housenumber: 11
-phone: "+49 2943871242"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.sondermann-brot.de"
+street: Soester Straße
+housenumber: "11"
+phone: +49 2943871242
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.sondermann-brot.de

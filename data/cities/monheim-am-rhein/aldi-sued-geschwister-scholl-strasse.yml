@@ -1,11 +1,11 @@
 id: 104051219
-type: way
+type: node
 latitude: 51.1247
 longitude: 6.8939
 postcode: "40789"
 city: Monheim am Rhein
-street: "Geschwister-Scholl-Straße"
+street: Geschwister-Scholl-Straße
 housenumber: 69c
-phone: "+49 800 2534"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/monheim/geschwister-scholl-str-69c"
+phone: +49 800 2534
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/monheim/geschwister-scholl-str-69c

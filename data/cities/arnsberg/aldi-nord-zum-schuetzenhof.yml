@@ -1,11 +1,11 @@
 id: 155568723
-type: way
+type: node
 latitude: 51.39611
 longitude: 8.07647
 postcode: "59821"
 city: Arnsberg
-street: "Zum Schützenhof"
-housenumber: 51
+street: Zum Schützenhof
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

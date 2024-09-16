@@ -1,11 +1,11 @@
 id: 94872722
-type: way
+type: node
 latitude: 51.16651
 longitude: 6.73443
 postcode: "41469"
 city: Neuss
-street: "An der Norf"
-housenumber: 76
-phone: "+49 2131 177444"
-opening_hours: "Mo-Sa 06:00-22:00; Su 09:00-22:00"
-website: "https://www.esso.de/"
+street: An der Norf
+housenumber: "76"
+phone: +49 2131 177444
+opening_hours: Mo-Sa 06:00-22:00; Su 09:00-22:00
+website: https://www.esso.de/

@@ -4,8 +4,8 @@ latitude: 51.4326
 longitude: 6.7833
 postcode: "47058"
 city: Duisburg
-street: "Mülheimer Straße"
-housenumber: 63
+street: Mülheimer Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-16:00; We 08:00-14:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-16:00; We 08:00-14:00; Sa 09:00-13:00
 website: ""

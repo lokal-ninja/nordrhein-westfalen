@@ -1,11 +1,11 @@
 id: 313206641
-type: way
+type: node
 latitude: 51.76081
 longitude: 8.08019
 postcode: "59269"
 city: Beckum
-street: "Auf dem Tigge"
-housenumber: 39
+street: Auf dem Tigge
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

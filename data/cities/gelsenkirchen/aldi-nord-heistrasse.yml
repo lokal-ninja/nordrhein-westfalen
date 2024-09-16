@@ -1,11 +1,11 @@
 id: 28222085
-type: way
+type: node
 latitude: 51.56354
 longitude: 7.07466
 postcode: "45891"
 city: Gelsenkirchen
-street: "Heistraße"
-housenumber: 109
+street: Heistraße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

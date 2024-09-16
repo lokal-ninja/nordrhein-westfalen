@@ -1,11 +1,11 @@
 id: 682206094
-type: way
+type: node
 latitude: 50.9677
 longitude: 6.87848
 postcode: "50829"
 city: Köln
-street: "Venloer Straße"
-housenumber: 1130
+street: Venloer Straße
+housenumber: "1130"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su,PH 10:00-18:00"
-website: "https://www.pflanzenmarkt-hollaender.de"
+opening_hours: Mo-Sa 09:00-18:00; Su,PH 10:00-18:00
+website: https://www.pflanzenmarkt-hollaender.de

@@ -1,11 +1,11 @@
 id: 32478403
-type: way
+type: node
 latitude: 51.56513
 longitude: 6.74655
 postcode: "46539"
 city: Dinslaken
-street: "Max-Eyth-Straße"
-housenumber: 6
+street: Max-Eyth-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

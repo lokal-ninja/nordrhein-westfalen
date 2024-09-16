@@ -1,11 +1,11 @@
 id: 124868258
-type: way
+type: node
 latitude: 51.0001
 longitude: 7.13234
 postcode: "51467"
 city: Bergisch Gladbach
-street: "Odenthaler Straße"
-housenumber: 196
+street: Odenthaler Straße
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de

@@ -4,8 +4,8 @@ latitude: 50.99725
 longitude: 6.57021
 postcode: "50181"
 city: Bedburg
-street: "Wiesenstraße"
-housenumber: 16
+street: Wiesenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00; PH 10:00-18:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00; PH 10:00-18:00
 website: ""

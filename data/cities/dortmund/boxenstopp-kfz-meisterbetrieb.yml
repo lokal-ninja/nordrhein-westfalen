@@ -1,11 +1,11 @@
 id: 53018522
-type: way
+type: node
 latitude: 51.5379
 longitude: 7.54099
 postcode: "44309"
 city: Dortmund
-street: "Flughafenstraße"
-housenumber: 237
+street: Flughafenstraße
+housenumber: "237"
 phone: "+492311882477"
 opening_hours: ""
-website: "https://www.boxenstopp-dortmund.de/"
+website: https://www.boxenstopp-dortmund.de/

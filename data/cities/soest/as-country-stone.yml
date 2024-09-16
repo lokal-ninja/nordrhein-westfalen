@@ -1,11 +1,11 @@
 id: 234868643
-type: way
+type: node
 latitude: 51.55668
 longitude: 8.13753
 postcode: "59494"
 city: Soest
-street: "Overweg"
-housenumber: 1
-phone: "+49 2921 7692525"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://ascountrystone.de/"
+street: Overweg
+housenumber: "1"
+phone: +49 2921 7692525
+opening_hours: Mo-Fr 09:00-18:00
+website: https://ascountrystone.de/

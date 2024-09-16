@@ -1,11 +1,11 @@
 id: 131512509
-type: way
+type: node
 latitude: 51.21014
 longitude: 6.67162
 postcode: "41462"
 city: Neuss
-street: "Further Straße"
-housenumber: 174
+street: Further Straße
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313627393
-type: way
+type: node
 latitude: 51.67551
 longitude: 6.61044
 postcode: "46483"
 city: Wesel
-street: "Marktplatz Feldmark"
-housenumber: 45
+street: Marktplatz Feldmark
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

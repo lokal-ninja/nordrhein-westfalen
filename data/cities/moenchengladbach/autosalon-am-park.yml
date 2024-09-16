@@ -4,8 +4,9 @@ latitude: 51.21071
 longitude: 6.46642
 postcode: "41066"
 city: Mönchengladbach
-street: "Krefelder Straße"
-housenumber: 240
+street: Krefelder Straße
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00; Su 11:00-17:00 open freie Autoschau: keine Beratung, kein Verkauf; PH off"
+opening_hours: 'Mo-Fr 08:00-18:30; Sa 09:00-14:00; Su 11:00-17:00 open "freie Autoschau:
+    keine Beratung, kein Verkauf"; PH off'
 website: ""

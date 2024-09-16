@@ -4,8 +4,8 @@ latitude: 52.01147
 longitude: 8.5964
 postcode: "33719"
 city: Bielefeld
-street: "Oldentruper Straße"
-housenumber: 252
-phone: "+49-521-9248717"
-opening_hours: "Mo-We 09:30-19:00; Th, Fr 09:30-20:00; Sa 09:30-18:00"
-website: "https://schuhpark.de/"
+street: Oldentruper Straße
+housenumber: "252"
+phone: +49-521-9248717
+opening_hours: Mo-We 09:30-19:00; Th, Fr 09:30-20:00; Sa 09:30-18:00
+website: https://schuhpark.de/

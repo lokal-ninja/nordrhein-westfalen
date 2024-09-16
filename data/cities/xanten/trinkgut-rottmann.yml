@@ -1,11 +1,11 @@
 id: 107159765
-type: way
+type: node
 latitude: 51.65575
 longitude: 6.4347
 postcode: "46509"
 city: Xanten
-street: "Boxtelstraße"
-housenumber: 2
-phone: "+49 2801 982463"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
-website: "https://www.trinkgut.de/markt/rottmann"
+street: Boxtelstraße
+housenumber: "2"
+phone: +49 2801 982463
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-20:00
+website: https://www.trinkgut.de/markt/rottmann

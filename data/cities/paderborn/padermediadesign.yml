@@ -4,8 +4,8 @@ latitude: 51.71544
 longitude: 8.75217
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 29
+street: Rosenstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:30, 13:30-18:00"
-website: "https://www.pbmediadesign.de"
+opening_hours: Mo-Fr 9:00-12:30, 13:30-18:00
+website: https://www.pbmediadesign.de

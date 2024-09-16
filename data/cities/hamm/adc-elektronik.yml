@@ -1,11 +1,11 @@
 id: 217628430
-type: way
+type: node
 latitude: 51.66619
 longitude: 7.80906
 postcode: "59063"
 city: Hamm
-street: "Östingstraße"
+street: Östingstraße
 housenumber: 13b
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-14:00"
-website: "http://www.adc-computer.de"
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-14:00
+website: http://www.adc-computer.de

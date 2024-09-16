@@ -4,8 +4,8 @@ latitude: 51.23083
 longitude: 7.14656
 postcode: "42349"
 city: Wuppertal
-street: "Cronenberger Straße"
-housenumber: 334
+street: Cronenberger Straße
+housenumber: "334"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://netto-online.de/

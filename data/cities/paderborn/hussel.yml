@@ -4,8 +4,8 @@ latitude: 51.7172
 longitude: 8.75301
 postcode: "33098"
 city: Paderborn
-street: "Rathausplatz"
-housenumber: 15
-phone: "+49 5251 8729739"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.hussel.de/"
+street: Rathausplatz
+housenumber: "15"
+phone: +49 5251 8729739
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.hussel.de/

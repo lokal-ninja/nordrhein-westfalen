@@ -1,11 +1,11 @@
 id: 42493147
-type: way
+type: node
 latitude: 50.99108
 longitude: 7.55604
 postcode: "51645"
 city: Gummersbach
-street: "Vollmerhauser Straße"
-housenumber: 36
-phone: "+49 2261 9118010"
-opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-22:00, Sa 08:00-20:00"
-website: "https://www.toom.de"
+street: Vollmerhauser Straße
+housenumber: "36"
+phone: +49 2261 9118010
+opening_hours: Mo-Th 08:00-20:00, Fr 08:00-22:00, Sa 08:00-20:00
+website: https://www.toom.de

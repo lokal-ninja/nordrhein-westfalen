@@ -1,11 +1,11 @@
 id: 148614432
-type: way
+type: node
 latitude: 51.5083
 longitude: 6.54328
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Prinzenstraße"
-housenumber: 80
+street: Prinzenstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

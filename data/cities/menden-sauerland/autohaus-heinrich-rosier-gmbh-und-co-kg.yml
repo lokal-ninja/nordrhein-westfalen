@@ -1,11 +1,11 @@
 id: 352827714
-type: way
+type: node
 latitude: 51.45651
 longitude: 7.77728
 postcode: "58706"
 city: Menden (Sauerland)
-street: "Fröndenberger Straße"
-housenumber: 144
+street: Fröndenberger Straße
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

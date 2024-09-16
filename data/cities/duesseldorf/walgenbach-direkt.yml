@@ -4,8 +4,8 @@ latitude: 51.18645
 longitude: 6.86906
 postcode: "40599"
 city: Düsseldorf
-street: "In der Steele"
-housenumber: 16
-phone: "+49 211 99 88 0 60"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-14:00"
-website: "https://www.walgenbach-direkt.de/home.aspx"
+street: In der Steele
+housenumber: "16"
+phone: +49 211 99 88 0 60
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-14:00
+website: https://www.walgenbach-direkt.de/home.aspx

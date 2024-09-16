@@ -1,11 +1,11 @@
 id: 390819198
-type: way
+type: node
 latitude: 50.94052
 longitude: 7.74722
 postcode: "51580"
 city: Reichshof
-street: "Siegener Straße"
-housenumber: 39
+street: Siegener Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

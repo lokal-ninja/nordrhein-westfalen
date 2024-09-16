@@ -4,8 +4,8 @@ latitude: 50.94634
 longitude: 7.07209
 postcode: "51109"
 city: Köln
-street: "Olpener Straße"
-housenumber: 
+street: Olpener Straße
+housenumber: ""
 phone: ""
-opening_hours: "nach Vereinbahrung"
+opening_hours: '"nach Vereinbahrung"'
 website: ""

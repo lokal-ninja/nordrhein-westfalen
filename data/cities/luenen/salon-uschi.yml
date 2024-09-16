@@ -1,11 +1,11 @@
 id: 183561224
-type: way
+type: node
 latitude: 51.61387
 longitude: 7.52291
 postcode: "44532"
 city: Lünen
-street: "Marktstraße"
-housenumber: 12
+street: Marktstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 08:30-16:00; Sa 09:00-13:00"
+opening_hours: Tu-Fr 08:30-16:00; Sa 09:00-13:00
 website: ""

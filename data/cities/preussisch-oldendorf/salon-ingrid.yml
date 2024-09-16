@@ -4,8 +4,9 @@ latitude: 52.28711
 longitude: 8.5407
 postcode: "32361"
 city: Preußisch Oldendorf
-street: "Sonnenweg"
-housenumber: 34
-phone: "+49 5742703030"
-opening_hours: "Mo-Tu 09:00-12:00, 15:00-18:00; We 09:00-12:00; Th 15:00-18:00; Fr 09:00-12:00, 15:00-18:00"
+street: Sonnenweg
+housenumber: "34"
+phone: +49 5742703030
+opening_hours: Mo-Tu 09:00-12:00, 15:00-18:00; We 09:00-12:00; Th 15:00-18:00; Fr
+    09:00-12:00, 15:00-18:00
 website: ""

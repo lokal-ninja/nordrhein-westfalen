@@ -1,11 +1,11 @@
 id: 368133753
-type: way
+type: node
 latitude: 50.7751
 longitude: 6.93079
 postcode: "53332"
 city: Bornheim
-street: "Bonn-Brühler-Straße"
-housenumber: 12
+street: Bonn-Brühler-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

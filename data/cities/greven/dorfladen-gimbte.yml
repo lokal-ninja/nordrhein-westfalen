@@ -4,8 +4,8 @@ latitude: 52.0608
 longitude: 7.64211
 postcode: "48268"
 city: Greven
-street: "Dorfstraße"
-housenumber: 31
+street: Dorfstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00"
-website: "https://www.dorfladen-gimbte.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00
+website: https://www.dorfladen-gimbte.de/

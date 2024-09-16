@@ -1,11 +1,11 @@
 id: 34852480
-type: way
+type: node
 latitude: 50.92058
 longitude: 6.99834
 postcode: "51105"
 city: Köln
-street: "Rolshover Straße"
-housenumber: 420
+street: Rolshover Straße
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

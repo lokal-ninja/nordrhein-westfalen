@@ -4,8 +4,8 @@ latitude: 52.03201
 longitude: 8.5384
 postcode: "33602"
 city: Bielefeld
-street: "Herforder Straße"
-housenumber: 84
-phone: "+49 521 96798600"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-14:00"
-website: "https://www.opel-as-automobile-bielefeld.de/"
+street: Herforder Straße
+housenumber: "84"
+phone: +49 521 96798600
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-14:00
+website: https://www.opel-as-automobile-bielefeld.de/

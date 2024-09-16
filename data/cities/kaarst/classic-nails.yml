@@ -1,11 +1,11 @@
 id: 88704109
-type: way
+type: node
 latitude: 51.19376
 longitude: 6.60256
 postcode: "41564"
 city: Kaarst
-street: "Lichtenvoorder Straße"
-housenumber: 14
+street: Lichtenvoorder Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.49889
 longitude: 7.22412
 postcode: "44807"
 city: Bochum
-street: "Vierhausstraße"
-housenumber: 112
+street: Vierhausstraße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Sa 07:00-17:00; Su off"
-website: "https://www.baeckerei-horsthemke.de/"
+opening_hours: Mo-Sa 07:00-17:00; Su off
+website: https://www.baeckerei-horsthemke.de/

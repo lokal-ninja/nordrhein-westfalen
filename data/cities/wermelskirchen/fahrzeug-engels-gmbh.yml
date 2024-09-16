@@ -1,11 +1,11 @@
 id: 117569708
-type: way
+type: node
 latitude: 51.14685
 longitude: 7.23947
 postcode: "42929"
 city: Wermelskirchen
-street: "Neuenhöhe"
-housenumber: 33
+street: Neuenhöhe
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

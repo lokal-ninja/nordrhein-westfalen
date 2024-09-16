@@ -4,8 +4,8 @@ latitude: 50.69614
 longitude: 7.12452
 postcode: "53175"
 city: Bonn
-street: "Annaberger Straße"
-housenumber: 188
-phone: "+49 228 92961005"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.thongthip.de/"
+street: Annaberger Straße
+housenumber: "188"
+phone: +49 228 92961005
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.thongthip.de/

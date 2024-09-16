@@ -1,11 +1,11 @@
 id: 263953232
-type: way
+type: node
 latitude: 52.16747
 longitude: 7.54111
 postcode: "48282"
 city: Emsdetten
-street: "Grevener Damm"
-housenumber: 73
+street: Grevener Damm
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.3044
 longitude: 8.61935
 postcode: "32312"
 city: Lübbecke
-street: "Bäckerstraße"
-housenumber: 33
-phone: "+49 5741 296133"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-16:00"
-website: "https://www.schmidt-schuhhaus.de/"
+street: Bäckerstraße
+housenumber: "33"
+phone: +49 5741 296133
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-16:00
+website: https://www.schmidt-schuhhaus.de/

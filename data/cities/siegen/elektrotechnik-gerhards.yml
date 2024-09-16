@@ -1,11 +1,11 @@
 id: 571070095
-type: way
+type: node
 latitude: 50.8507
 longitude: 8.03424
 postcode: "57074"
 city: Siegen
-street: "Obere Leimbach"
-housenumber: 2
-phone: "+49 271 6767"
-opening_hours: "Mo-Sa 08:00-17:00; PH off"
-website: "https://gerhards-elektro.de/"
+street: Obere Leimbach
+housenumber: "2"
+phone: +49 271 6767
+opening_hours: Mo-Sa 08:00-17:00; PH off
+website: https://gerhards-elektro.de/

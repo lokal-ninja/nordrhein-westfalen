@@ -4,8 +4,8 @@ latitude: 50.62591
 longitude: 6.94786
 postcode: "53359"
 city: Rheinbach
-street: "Hauptstraße"
-housenumber: 45
-phone: "+49 2226 9001196"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.schmuckgalerie-brandt.de"
+street: Hauptstraße
+housenumber: "45"
+phone: +49 2226 9001196
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.schmuckgalerie-brandt.de

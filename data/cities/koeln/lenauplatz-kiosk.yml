@@ -1,11 +1,11 @@
 id: 29111104
-type: way
+type: node
 latitude: 50.95699
 longitude: 6.91917
 postcode: "50825"
 city: Köln
-street: "Lenauplatz"
-housenumber: 
+street: Lenauplatz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

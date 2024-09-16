@@ -4,8 +4,8 @@ latitude: 51.53252
 longitude: 7.2277
 postcode: "44623"
 city: Herne
-street: "Altenhöfener Straße"
-housenumber: 34
+street: Altenhöfener Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Vereinbarung"
+opening_hours: '"Vereinbarung"'
 website: ""

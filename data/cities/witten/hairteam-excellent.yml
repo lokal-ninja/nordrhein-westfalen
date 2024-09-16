@@ -1,11 +1,11 @@
 id: 111266805
-type: way
+type: node
 latitude: 51.44383
 longitude: 7.3416
 postcode: "58455"
 city: Witten
-street: "Pferdebachstraße"
-housenumber: 11
+street: Pferdebachstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-15:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-15:00; PH off
 website: ""

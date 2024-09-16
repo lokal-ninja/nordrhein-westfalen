@@ -1,11 +1,11 @@
 id: 112048241
-type: way
+type: node
 latitude: 51.93183
 longitude: 8.9518
 postcode: "32760"
 city: Detmold
-street: "In der Twete"
-housenumber: 1
+street: In der Twete
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 7:30-19:00"
+opening_hours: Mo-Sa 7:30-19:00
 website: ""

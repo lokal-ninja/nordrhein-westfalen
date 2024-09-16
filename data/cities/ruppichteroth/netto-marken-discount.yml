@@ -1,11 +1,11 @@
 id: 186264050
-type: way
+type: node
 latitude: 50.84661
 longitude: 7.49309
 postcode: "53809"
 city: Ruppichteroth
-street: "Im Bruch"
-housenumber: 2
+street: Im Bruch
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

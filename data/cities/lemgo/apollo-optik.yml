@@ -4,8 +4,8 @@ latitude: 52.02845
 longitude: 8.90139
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 56
-phone: "+49 5261 770068"
-opening_hours: "PH,Su off; Mo-Fr 10:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://apollo.de/store-6536/lemgo"
+street: Mittelstraße
+housenumber: "56"
+phone: +49 5261 770068
+opening_hours: PH,Su off; Mo-Fr 10:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://apollo.de/store-6536/lemgo

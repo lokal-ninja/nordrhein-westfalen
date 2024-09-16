@@ -4,8 +4,8 @@ latitude: 51.8777
 longitude: 8.48186
 postcode: "33415"
 city: Verl
-street: "Westweg"
-housenumber: 1
+street: Westweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.reifenpott.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off
+website: https://www.reifenpott.de/

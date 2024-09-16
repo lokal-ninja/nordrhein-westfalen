@@ -1,11 +1,11 @@
 id: 25354229
-type: way
+type: node
 latitude: 52.00403
 longitude: 8.5603
 postcode: "33605"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 246
+street: Detmolder Straße
+housenumber: "246"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
-website: "https://www.hornbach.de/mein-markt/baumarkt-hornbach-bielefeld/"
+opening_hours: Mo-Sa 07:00-20:00; PH closed
+website: https://www.hornbach.de/mein-markt/baumarkt-hornbach-bielefeld/

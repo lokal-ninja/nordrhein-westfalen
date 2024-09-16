@@ -4,8 +4,8 @@ latitude: 51.99373
 longitude: 7.64788
 postcode: "48157"
 city: Münster
-street: "Hamannplatz"
-housenumber: 21
-phone: "+49 251 247424"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00"
-website: "https://friseur-wieners.de/"
+street: Hamannplatz
+housenumber: "21"
+phone: +49 251 247424
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-13:00
+website: https://friseur-wieners.de/

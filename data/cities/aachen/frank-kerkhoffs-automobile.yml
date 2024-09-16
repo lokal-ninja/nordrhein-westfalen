@@ -1,11 +1,11 @@
 id: 97693770
-type: way
+type: node
 latitude: 50.7979
 longitude: 6.1079
 postcode: "52070"
 city: Aachen
-street: "Feldchen"
-housenumber: 2
+street: Feldchen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.frankkerkhoffs.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.frankkerkhoffs.de/

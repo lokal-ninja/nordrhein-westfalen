@@ -4,8 +4,8 @@ latitude: 50.9509
 longitude: 7.21846
 postcode: "51491"
 city: Overath
-street: "Bahnhofstraße"
-housenumber: 39
-phone: "+49 2204 9844413"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"
-website: "https://schulranzenfachcenter.de/"
+street: Bahnhofstraße
+housenumber: "39"
+phone: +49 2204 9844413
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30
+website: https://schulranzenfachcenter.de/

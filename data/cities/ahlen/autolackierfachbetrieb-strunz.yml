@@ -1,11 +1,11 @@
 id: 349252890
-type: way
+type: node
 latitude: 51.7488
 longitude: 7.90146
 postcode: "59229"
 city: Ahlen
-street: "Am Vatheuershof"
-housenumber: 13
+street: Am Vatheuershof
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

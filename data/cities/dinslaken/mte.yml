@@ -1,11 +1,11 @@
 id: 424983024
-type: way
+type: node
 latitude: 51.56906
 longitude: 6.75034
 postcode: "46539"
 city: Dinslaken
-street: "Hanielstraße"
-housenumber: 8
-phone: "+49 2064 43370"
+street: Hanielstraße
+housenumber: "8"
+phone: +49 2064 43370
 opening_hours: ""
 website: ""

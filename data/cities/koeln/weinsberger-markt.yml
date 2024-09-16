@@ -1,11 +1,11 @@
 id: 253785085
-type: way
+type: node
 latitude: 50.94422
 longitude: 6.9142
 postcode: "50823"
 city: Köln
-street: "Weinsbergstraße"
-housenumber: 181
+street: Weinsbergstraße
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

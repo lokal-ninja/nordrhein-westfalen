@@ -4,8 +4,9 @@ latitude: 51.21633
 longitude: 7.63207
 postcode: "58511"
 city: Lüdenscheid
-street: "Corneliusstraße"
-housenumber: 6
+street: Corneliusstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tu 09:00-12:30, 15:00-17:00; We 09:00-12:30; Th-Fr 09:00-12:30, 15:00-17:00; Sa 10:00-13:00; Su off"
+opening_hours: Mo-Tu 09:00-12:30, 15:00-17:00; We 09:00-12:30; Th-Fr 09:00-12:30,
+    15:00-17:00; Sa 10:00-13:00; Su off
 website: ""

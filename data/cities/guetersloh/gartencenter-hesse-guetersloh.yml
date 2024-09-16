@@ -1,11 +1,11 @@
 id: 88716006
-type: way
+type: node
 latitude: 51.87964
 longitude: 8.45015
 postcode: "33334"
 city: Gütersloh
-street: "Lupinenweg"
-housenumber: 35
-phone: "+49 5241-40397-0"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH 10:00-15:00"
-website: "http://hesse-owl.de/unser-gartencenter-in-guetersloh/"
+street: Lupinenweg
+housenumber: "35"
+phone: +49 5241-40397-0
+opening_hours: Mo-Sa 09:00-19:00; Su,PH 10:00-15:00
+website: http://hesse-owl.de/unser-gartencenter-in-guetersloh/

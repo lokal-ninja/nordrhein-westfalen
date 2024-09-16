@@ -1,11 +1,11 @@
 id: 126895228
-type: way
+type: node
 latitude: 51.57382
 longitude: 7.23576
 postcode: "45663"
 city: Recklinghausen
-street: "Marienstraße"
-housenumber: 173
+street: Marienstraße
+housenumber: "173"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

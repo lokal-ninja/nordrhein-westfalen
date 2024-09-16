@@ -4,8 +4,8 @@ latitude: 51.52116
 longitude: 7.45348
 postcode: "44147"
 city: Dortmund
-street: "Schützenstraße"
-housenumber: 45
-phone: "+49 231 53093694"
-opening_hours: "Mo-We 10:00-18:00; Th 10:00-15:00; Fr 10:00-18:00"
-website: "https://www.2wheelgarage.de/"
+street: Schützenstraße
+housenumber: "45"
+phone: +49 231 53093694
+opening_hours: Mo-We 10:00-18:00; Th 10:00-15:00; Fr 10:00-18:00
+website: https://www.2wheelgarage.de/

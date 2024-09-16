@@ -1,11 +1,11 @@
 id: 237863029
-type: way
+type: node
 latitude: 51.72143
 longitude: 8.75579
 postcode: "33098"
 city: Paderborn
-street: "Mühlenstraße"
-housenumber: 32
-phone: "+49 5251 5431513"
-opening_hours: "Tu,Th 13:00-18:00 || oder nach Vereinbarung"
-website: "https://www.kunsthandel-hagedorn.de"
+street: Mühlenstraße
+housenumber: "32"
+phone: +49 5251 5431513
+opening_hours: Tu,Th 13:00-18:00 || "oder nach Vereinbarung"
+website: https://www.kunsthandel-hagedorn.de

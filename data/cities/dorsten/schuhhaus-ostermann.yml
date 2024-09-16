@@ -1,11 +1,11 @@
 id: 200270520
-type: way
+type: node
 latitude: 51.66031
 longitude: 6.96588
 postcode: "46282"
 city: Dorsten
-street: "Recklinghäuser Straße"
-housenumber: 10
-phone: "+49 2362 913110"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"
-website: "https://www.ostermann-schuhe.de"
+street: Recklinghäuser Straße
+housenumber: "10"
+phone: +49 2362 913110
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off
+website: https://www.ostermann-schuhe.de

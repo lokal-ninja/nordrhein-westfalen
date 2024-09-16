@@ -4,8 +4,8 @@ latitude: 52.25154
 longitude: 8.9299
 postcode: "32457"
 city: Porta Westfalica
-street: "Zur Porta"
-housenumber: 1
+street: Zur Porta
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

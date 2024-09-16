@@ -1,11 +1,11 @@
 id: 318055507
-type: way
+type: node
 latitude: 50.98354
 longitude: 6.11973
 postcode: "52511"
 city: Geilenkirchen
-street: "Landstraße"
-housenumber: 50
-phone: "+49 2451 98700"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su, PH off"
-website: "https://www.volkswagen.de/de/haendler-werkstatt/jacobs-automobile-geilenkirchen.html"
+street: Landstraße
+housenumber: "50"
+phone: +49 2451 98700
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su, PH off
+website: https://www.volkswagen.de/de/haendler-werkstatt/jacobs-automobile-geilenkirchen.html

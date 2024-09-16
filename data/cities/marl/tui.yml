@@ -4,8 +4,8 @@ latitude: 51.6551
 longitude: 7.0963
 postcode: "45768"
 city: Marl
-street: "Marler Stern"
-housenumber: 35
+street: Marler Stern
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.sternreise-service.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.sternreise-service.de/

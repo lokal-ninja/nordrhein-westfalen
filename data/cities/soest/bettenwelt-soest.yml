@@ -1,11 +1,11 @@
 id: 231555897
-type: way
+type: node
 latitude: 51.56936
 longitude: 8.12781
 postcode: "59494"
 city: Soest
-street: "Rigaring"
-housenumber: 12
-phone: "+49 2921 / 6608940"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+street: Rigaring
+housenumber: "12"
+phone: +49 2921 / 6608940
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 271193948
-type: way
+type: node
 latitude: 51.12061
 longitude: 7.37813
 postcode: "51688"
 city: Wipperfürth
-street: "Lenneper Straße"
-housenumber: 61
+street: Lenneper Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

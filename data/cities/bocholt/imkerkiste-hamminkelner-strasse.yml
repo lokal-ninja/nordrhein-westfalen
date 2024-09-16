@@ -1,11 +1,11 @@
 id: 253999069
-type: way
+type: node
 latitude: 51.83721
 longitude: 6.59225
 postcode: "46395"
 city: Bocholt
-street: "Hamminkelner Straße"
-housenumber: 9
-phone: "+49 2871 1872350"
+street: Hamminkelner Straße
+housenumber: "9"
+phone: +49 2871 1872350
 opening_hours: ""
-website: "https://www.imkerkiste.de/"
+website: https://www.imkerkiste.de/

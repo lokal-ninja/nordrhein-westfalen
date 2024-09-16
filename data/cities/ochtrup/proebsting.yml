@@ -1,11 +1,11 @@
 id: 81756527
-type: way
+type: node
 latitude: 52.20333
 longitude: 7.17864
 postcode: "48607"
 city: Ochtrup
-street: "Gausebrink"
-housenumber: 41
+street: Gausebrink
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

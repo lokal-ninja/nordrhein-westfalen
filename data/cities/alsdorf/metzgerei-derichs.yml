@@ -4,8 +4,9 @@ latitude: 50.87471
 longitude: 6.16083
 postcode: "52477"
 city: Alsdorf
-street: "Annastraße"
-housenumber: 3
+street: Annastraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-13:00,14:30-18:30; Fr 07:00-13:00,14:30-18:30; Sa 07:00-14:00; Su,PH off"
+opening_hours: Mo-Th 07:30-13:00,14:30-18:30; Fr 07:00-13:00,14:30-18:30; Sa 07:00-14:00;
+    Su,PH off
 website: ""

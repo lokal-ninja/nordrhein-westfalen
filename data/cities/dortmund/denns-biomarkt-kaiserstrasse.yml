@@ -1,11 +1,11 @@
 id: 54109690
-type: way
+type: node
 latitude: 51.51293
 longitude: 7.48455
 postcode: "44135"
 city: Dortmund
-street: "Kaiserstraße"
-housenumber: 93
-phone: "+49 231 20639875"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.denns-biomarkt.de/dortmund-kaiserstr-93/marktseite/"
+street: Kaiserstraße
+housenumber: "93"
+phone: +49 231 20639875
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.denns-biomarkt.de/dortmund-kaiserstr-93/marktseite/

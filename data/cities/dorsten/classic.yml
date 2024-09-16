@@ -1,11 +1,11 @@
 id: 162259618
-type: way
+type: node
 latitude: 51.67181
 longitude: 7.00076
 postcode: "46284"
 city: Dorsten
-street: "Glück-Auf-Straße"
-housenumber: 201
+street: Glück-Auf-Straße
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 08:00-22:00
 website: ""

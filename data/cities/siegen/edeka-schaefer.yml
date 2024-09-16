@@ -1,11 +1,11 @@
 id: 234847813
-type: way
+type: node
 latitude: 50.8374
 longitude: 7.98648
 postcode: "57080"
 city: Siegen
-street: "Eiserfelder Straße"
-housenumber: 426
-phone: "+49 271 359300"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: Eiserfelder Straße
+housenumber: "426"
+phone: +49 271 359300
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

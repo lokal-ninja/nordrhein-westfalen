@@ -4,8 +4,8 @@ latitude: 51.29665
 longitude: 6.86716
 postcode: "40882"
 city: Ratingen
-street: "Eisenhüttenstraße"
-housenumber: 6
+street: Eisenhüttenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:30"
-website: "https://www.textilpflege-kokkinos.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:30
+website: https://www.textilpflege-kokkinos.de/

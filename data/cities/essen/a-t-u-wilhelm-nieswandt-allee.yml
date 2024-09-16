@@ -1,11 +1,11 @@
 id: 79418695
-type: way
+type: node
 latitude: 51.5036
 longitude: 7.00877
 postcode: "45326"
 city: Essen
-street: "Wilhelm-Nieswandt-Allee"
-housenumber: 200
+street: Wilhelm-Nieswandt-Allee
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

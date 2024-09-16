@@ -1,11 +1,11 @@
 id: 313455718
-type: way
+type: node
 latitude: 51.8783
 longitude: 9.28324
 postcode: "32676"
 city: Lügde
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

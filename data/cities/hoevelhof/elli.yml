@@ -4,8 +4,8 @@ latitude: 51.82458
 longitude: 8.65578
 postcode: "33161"
 city: Hövelhof
-street: "Bielefelder Straße"
-housenumber: 19
+street: Bielefelder Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 6:00-21:00"
-website: "https://www.luening.de"
+opening_hours: Mo-Sa 6:00-21:00
+website: https://www.luening.de

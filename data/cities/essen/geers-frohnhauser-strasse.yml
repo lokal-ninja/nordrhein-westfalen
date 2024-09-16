@@ -4,8 +4,8 @@ latitude: 51.4496
 longitude: 6.97552
 postcode: "45144"
 city: Essen
-street: "Frohnhauser Straße"
-housenumber: 235
+street: Frohnhauser Straße
+housenumber: "235"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "https://www.geers.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: https://www.geers.de/

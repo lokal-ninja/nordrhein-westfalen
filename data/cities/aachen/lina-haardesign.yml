@@ -4,8 +4,8 @@ latitude: 50.77245
 longitude: 6.08473
 postcode: "52062"
 city: Aachen
-street: "Kleinmarschierstraße"
-housenumber: 57
-phone: "+49 241 870089"
-opening_hours: "Mo off; Tu-Fr 09:00-18:30; Sa 08:30-15:00"
+street: Kleinmarschierstraße
+housenumber: "57"
+phone: +49 241 870089
+opening_hours: Mo off; Tu-Fr 09:00-18:30; Sa 08:30-15:00
 website: ""

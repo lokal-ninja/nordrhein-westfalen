@@ -1,11 +1,11 @@
 id: 55280751
-type: way
+type: node
 latitude: 51.7234
 longitude: 8.79613
 postcode: "33100"
 city: Paderborn
-street: "Eggertstraße"
-housenumber: 3
+street: Eggertstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

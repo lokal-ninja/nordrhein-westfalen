@@ -1,11 +1,11 @@
 id: 122667385
-type: way
+type: node
 latitude: 50.91084
 longitude: 8.10299
 postcode: "57250"
 city: Netphen
-street: "Talstraße"
-housenumber: 22
+street: Talstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

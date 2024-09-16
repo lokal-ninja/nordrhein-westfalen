@@ -1,11 +1,11 @@
 id: 254892214
-type: way
+type: node
 latitude: 51.65669
 longitude: 6.62866
 postcode: "46485"
 city: Wesel
-street: "Friedenstraße"
-housenumber: 28
+street: Friedenstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.71602
 longitude: 8.75196
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 17
+street: Rosenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Sa 10:00-17:00"
-website: "https://www.jpdesign.store"
+opening_hours: Sa 10:00-17:00
+website: https://www.jpdesign.store

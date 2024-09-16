@@ -4,8 +4,8 @@ latitude: 50.92738
 longitude: 6.9402
 postcode: "50674"
 city: Köln
-street: "Pfälzer Straße"
-housenumber: 65
+street: Pfälzer Straße
+housenumber: "65"
 phone: ""
-opening_hours: "PH,Mo-Su 11:00-01:00"
+opening_hours: PH,Mo-Su 11:00-01:00
 website: ""

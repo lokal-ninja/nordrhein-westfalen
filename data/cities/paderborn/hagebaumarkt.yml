@@ -1,11 +1,11 @@
 id: 121614924
-type: way
+type: node
 latitude: 51.70525
 longitude: 8.72219
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
+street: Frankfurter Weg
 housenumber: 20b
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

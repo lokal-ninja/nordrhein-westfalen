@@ -1,11 +1,11 @@
 id: 208858419
-type: way
+type: node
 latitude: 51.65632
 longitude: 7.09965
 postcode: "45768"
 city: Marl
-street: "Bergstraße"
+street: Bergstraße
 housenumber: 218-222
-phone: "+49 2365 69800"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/marl-136"
+phone: +49 2365 69800
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/marl-136

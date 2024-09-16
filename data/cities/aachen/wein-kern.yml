@@ -1,11 +1,11 @@
 id: 130643605
-type: way
+type: node
 latitude: 50.79615
 longitude: 6.06075
 postcode: "52074"
 city: Aachen
-street: "Walkmühlenstraße"
-housenumber: 16
-phone: "+49 241 955 9110"
-opening_hours: "Tu-Fr 14:00-19:00; Sa 10:00-14:00"
-website: "https://wein-kern.de/"
+street: Walkmühlenstraße
+housenumber: "16"
+phone: +49 241 955 9110
+opening_hours: Tu-Fr 14:00-19:00; Sa 10:00-14:00
+website: https://wein-kern.de/

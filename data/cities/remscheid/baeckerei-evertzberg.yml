@@ -4,8 +4,8 @@ latitude: 51.19451
 longitude: 7.27073
 postcode: "42897"
 city: Remscheid
-street: "Fritz-Reuter-Straße"
-housenumber: 17
-phone: "+49 2191 5981000"
-opening_hours: "Mo 06:00-14:00; Tu-Fr 06:00-18:00; Sa 06:00-16:00; Su 07:00-14:00"
+street: Fritz-Reuter-Straße
+housenumber: "17"
+phone: +49 2191 5981000
+opening_hours: Mo 06:00-14:00; Tu-Fr 06:00-18:00; Sa 06:00-16:00; Su 07:00-14:00
 website: ""

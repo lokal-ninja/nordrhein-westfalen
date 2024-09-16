@@ -1,11 +1,11 @@
 id: 250296606
-type: way
+type: node
 latitude: 51.661
 longitude: 7.0813
 postcode: "45768"
 city: Marl
-street: "Brassertstraße"
-housenumber: 123
-phone: "+49 2365 66967"
-opening_hours: "Mo, We-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-18:00"
+street: Brassertstraße
+housenumber: "123"
+phone: +49 2365 66967
+opening_hours: Mo, We-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-18:00
 website: ""

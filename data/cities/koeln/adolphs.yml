@@ -4,8 +4,8 @@ latitude: 50.99358
 longitude: 6.93408
 postcode: "50737"
 city: Köln
-street: "Rüdellstraße"
-housenumber: 1
-phone: "+49 221 743 871"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su 08:00-16:00"
-website: "https://www.adolphs.koeln/baeckerei"
+street: Rüdellstraße
+housenumber: "1"
+phone: +49 221 743 871
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su 08:00-16:00
+website: https://www.adolphs.koeln/baeckerei

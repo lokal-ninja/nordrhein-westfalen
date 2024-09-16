@@ -1,11 +1,12 @@
 id: 175513934
-type: way
+type: node
 latitude: 51.43666
 longitude: 7.01002
 postcode: "45130"
 city: Essen
-street: "Rosastraße"
-housenumber: 38
+street: Rosastraße
+housenumber: "38"
 phone: ""
-opening_hours: "Tu 10:00-18:00; We 10:00-19:00,Fr 10:00-18:00; Th 11:00-18:00; Sa 10:00-16:00; PH off"
+opening_hours: Tu 10:00-18:00; We 10:00-19:00,Fr 10:00-18:00; Th 11:00-18:00; Sa 10:00-16:00;
+    PH off
 website: ""

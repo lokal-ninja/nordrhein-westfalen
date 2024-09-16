@@ -1,11 +1,11 @@
 id: 227981057
-type: way
+type: node
 latitude: 50.9026
 longitude: 7.15464
 postcode: "51503"
 city: Rösrath
-street: "Birkenweg"
-housenumber: 26
-phone: "+49 2205 9189860"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su, PH off"
-website: "https://www.autozentrum-matthes.de"
+street: Birkenweg
+housenumber: "26"
+phone: +49 2205 9189860
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su, PH off
+website: https://www.autozentrum-matthes.de

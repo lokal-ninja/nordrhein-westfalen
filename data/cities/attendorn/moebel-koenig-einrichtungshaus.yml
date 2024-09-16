@@ -1,11 +1,11 @@
 id: 123266997
-type: way
+type: node
 latitude: 51.13602
 longitude: 7.98578
 postcode: "57439"
 city: Attendorn
-street: "Repetalstraße"
-housenumber: 329
+street: Repetalstraße
+housenumber: "329"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00"
-website: "https://moebelkoenig.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-14:00
+website: https://moebelkoenig.de/

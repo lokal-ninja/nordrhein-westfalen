@@ -1,11 +1,11 @@
 id: 816414111
-type: way
+type: node
 latitude: 50.64132
 longitude: 6.69333
 postcode: "53894"
 city: Mechernich
-street: "Ziegelfeld"
-housenumber: 7
-phone: "+49 2256 95730"
+street: Ziegelfeld
+housenumber: "7"
+phone: +49 2256 95730
 opening_hours: ""
-website: "https://www.bns-nutzfahrzeuge.de/"
+website: https://www.bns-nutzfahrzeuge.de/

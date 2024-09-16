@@ -1,11 +1,11 @@
 id: 108469949
-type: way
+type: node
 latitude: 51.37443
 longitude: 7.69919
 postcode: "58636"
 city: Iserlohn
-street: "Wermingser Straße"
-housenumber: 11
-phone: "+49 2371 158480"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; PH,Su off"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5526/"
+street: Wermingser Straße
+housenumber: "11"
+phone: +49 2371 158480
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00; PH,Su off
+website: https://www.thalia.de/shop/home/filialen/showDetails/5526/

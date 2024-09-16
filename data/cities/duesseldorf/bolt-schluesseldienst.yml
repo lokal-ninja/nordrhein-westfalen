@@ -4,8 +4,8 @@ latitude: 51.21576
 longitude: 6.78488
 postcode: "40215"
 city: Düsseldorf
-street: "Herzogstraße"
-housenumber: 102
-phone: "+49 1579 2362400"
-opening_hours: "24/7"
-website: "https://bolt-schluesseldienst.de/duesseldorf"
+street: Herzogstraße
+housenumber: "102"
+phone: +49 1579 2362400
+opening_hours: 24/7
+website: https://bolt-schluesseldienst.de/duesseldorf

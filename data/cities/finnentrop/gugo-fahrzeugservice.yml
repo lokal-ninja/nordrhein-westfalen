@@ -1,11 +1,11 @@
 id: 274316620
-type: way
+type: node
 latitude: 51.19541
 longitude: 7.96126
 postcode: "57413"
 city: Finnentrop
-street: "Industriestraße"
-housenumber: 46
+street: Industriestraße
+housenumber: "46"
 phone: "+4927219839088"
-opening_hours: "Mo-Fr 08:15-18:00,09:00-14:00"
+opening_hours: Mo-Fr 08:15-18:00,09:00-14:00
 website: ""

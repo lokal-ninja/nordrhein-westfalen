@@ -1,11 +1,11 @@
 id: 94517530
-type: way
+type: node
 latitude: 50.60915
 longitude: 6.30863
 postcode: "52152"
 city: Simmerath
-street: "Matthias-Zimmermann-Straße"
-housenumber: 14
-phone: "+49 2473 5849204"
+street: Matthias-Zimmermann-Straße
+housenumber: "14"
+phone: +49 2473 5849204
 opening_hours: ""
-website: "https://heup-motorsport.de/"
+website: https://heup-motorsport.de/

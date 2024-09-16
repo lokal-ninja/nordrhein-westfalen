@@ -4,8 +4,8 @@ latitude: 51.236
 longitude: 6.77848
 postcode: "40477"
 city: Düsseldorf
-street: "Nordstraße"
-housenumber: 10
+street: Nordstraße
+housenumber: "10"
 phone: "+492119132190"
-opening_hours: "Mo,Tu,Fr 08:00-17:00; We,Th 09:00-18:00"
+opening_hours: Mo,Tu,Fr 08:00-17:00; We,Th 09:00-18:00
 website: ""

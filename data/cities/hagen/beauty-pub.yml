@@ -4,8 +4,8 @@ latitude: 51.34668
 longitude: 7.49406
 postcode: "58091"
 city: Hagen
-street: "Riegestraße"
-housenumber: 4
-phone: "+49 2331 9711005"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-13:00"
+street: Riegestraße
+housenumber: "4"
+phone: +49 2331 9711005
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-13:00
 website: ""

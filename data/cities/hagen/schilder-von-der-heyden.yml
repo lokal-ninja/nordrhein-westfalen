@@ -1,11 +1,11 @@
 id: 111749234
-type: way
+type: node
 latitude: 51.35078
 longitude: 7.56639
 postcode: "58119"
 city: Hagen
-street: "Preinstraße"
-housenumber: 6
+street: Preinstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

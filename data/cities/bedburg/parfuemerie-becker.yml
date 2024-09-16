@@ -1,11 +1,11 @@
 id: 316116025
-type: way
+type: node
 latitude: 50.9961
 longitude: 6.57534
 postcode: "50181"
 city: Bedburg
-street: "Graf-Salm-Straße"
-housenumber: 18
+street: Graf-Salm-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30, 14:15-18:00; Sa 10:00-14:00; PH off"
+opening_hours: Mo-Fr 10:00-13:30, 14:15-18:00; Sa 10:00-14:00; PH off
 website: ""

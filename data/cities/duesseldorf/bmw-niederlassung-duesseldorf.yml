@@ -4,8 +4,8 @@ latitude: 51.27378
 longitude: 6.80809
 postcode: "40472"
 city: Düsseldorf
-street: "Theodorstraße"
-housenumber: 279
+street: Theodorstraße
+housenumber: "279"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-duesseldorf.de/"
+website: https://www.bmw-duesseldorf.de/

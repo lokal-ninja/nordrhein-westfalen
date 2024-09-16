@@ -1,11 +1,11 @@
 id: 176492976
-type: way
+type: node
 latitude: 52.01541
 longitude: 7.20787
 postcode: "48720"
 city: Rosendahl
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

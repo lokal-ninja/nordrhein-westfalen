@@ -4,8 +4,9 @@ latitude: 51.25776
 longitude: 7.14374
 postcode: "42103"
 city: Wuppertal
-street: "Erholungstraße"
-housenumber: 9
-phone: "+49 202 283 66 85"
-opening_hours: "Mo 14:00-19:00; Tu 14:00-18:00; Sa 12:00-18:00; We-Fr 11:00-19:00; PH,Su off"
-website: "http://www.wbt-bulgrin.de"
+street: Erholungstraße
+housenumber: "9"
+phone: +49 202 283 66 85
+opening_hours: Mo 14:00-19:00; Tu 14:00-18:00; Sa 12:00-18:00; We-Fr 11:00-19:00;
+    PH,Su off
+website: http://www.wbt-bulgrin.de

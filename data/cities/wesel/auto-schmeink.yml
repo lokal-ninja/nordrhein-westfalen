@@ -1,11 +1,11 @@
 id: 254892469
-type: way
+type: node
 latitude: 51.65015
 longitude: 6.62699
 postcode: "46483"
 city: Wesel
-street: "Oberndorfstraße"
-housenumber: 1
+street: Oberndorfstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-schmeink-wesel.de/de.html"
+website: https://www.auto-schmeink-wesel.de/de.html

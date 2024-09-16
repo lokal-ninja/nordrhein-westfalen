@@ -1,11 +1,11 @@
 id: 62103552
-type: way
+type: node
 latitude: 50.92748
 longitude: 6.90933
 postcode: "50931"
 city: Köln
-street: "Dürener Straße"
+street: Dürener Straße
 housenumber: 246-248
-phone: "+49 221 9402006"
-opening_hours: "Mo-Sa 07:00-24:00; PH closed"
-website: "https://www.rewe.de/marktseite/koeln-lindenthal/1940034/rewe-markt-duerener-str-246-248?ecid=seo_localseo_1940034_g_nn_nn_nn_nn_nn"
+phone: +49 221 9402006
+opening_hours: Mo-Sa 07:00-24:00; PH closed
+website: https://www.rewe.de/marktseite/koeln-lindenthal/1940034/rewe-markt-duerener-str-246-248?ecid=seo_localseo_1940034_g_nn_nn_nn_nn_nn

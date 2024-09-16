@@ -1,11 +1,11 @@
 id: 330689646
-type: way
+type: node
 latitude: 52.12092
 longitude: 7.39292
 postcode: "48565"
 city: Steinfurt
-street: "Gantenstraße"
+street: Gantenstraße
 housenumber: 4-6
-phone: "+49 2552 637824"
-opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-15:00"
-website: "https://www.schuh-okay.de/"
+phone: +49 2552 637824
+opening_hours: Mo-Fr 9:00-18:30; Sa 9:00-15:00
+website: https://www.schuh-okay.de/

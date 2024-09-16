@@ -1,11 +1,11 @@
 id: 279162926
-type: way
+type: node
 latitude: 51.75629
 longitude: 7.42912
 postcode: "59348"
 city: Lüdinghausen
-street: "Hans-Böckler-Straße"
-housenumber: 48
+street: Hans-Böckler-Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "http://www.a1-autoglas-luedinghausen.de"
+website: http://www.a1-autoglas-luedinghausen.de

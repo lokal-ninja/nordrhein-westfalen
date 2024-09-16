@@ -1,11 +1,11 @@
 id: 58573054
-type: way
+type: node
 latitude: 51.51724
 longitude: 7.62496
 postcode: "59439"
 city: Holzwickede
-street: "Sachsenstraße"
-housenumber: 12
+street: Sachsenstraße
+housenumber: "12"
 phone: "+49230112670"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
-website: "https://www.getraenke-hoffmann.de/filiale/holzwickede/sachsenstrasse"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00
+website: https://www.getraenke-hoffmann.de/filiale/holzwickede/sachsenstrasse

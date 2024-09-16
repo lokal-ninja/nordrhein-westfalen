@@ -1,11 +1,11 @@
 id: 93262427
-type: way
+type: node
 latitude: 51.39124
 longitude: 7.08258
 postcode: "45257"
 city: Essen
-street: "Kupferdreher Straße"
-housenumber: 160
+street: Kupferdreher Straße
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

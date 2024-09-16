@@ -4,8 +4,8 @@ latitude: 50.76522
 longitude: 6.04834
 postcode: "52074"
 city: Aachen
-street: "Gemmenicher Weg"
-housenumber: 45
-phone: "+49 241 4770116045"
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.vianobis-chancengeber.de/hofladen-aachen"
+street: Gemmenicher Weg
+housenumber: "45"
+phone: +49 241 4770116045
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-14:00; Su,PH off
+website: https://www.vianobis-chancengeber.de/hofladen-aachen

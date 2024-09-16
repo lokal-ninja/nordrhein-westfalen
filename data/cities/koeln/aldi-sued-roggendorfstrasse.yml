@@ -1,11 +1,11 @@
 id: 32343354
-type: way
+type: node
 latitude: 51.00157
 longitude: 6.9874
 postcode: "51061"
 city: Köln
-street: "Roggendorfstraße"
-housenumber: 76
+street: Roggendorfstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

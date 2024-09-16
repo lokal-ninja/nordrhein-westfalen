@@ -4,8 +4,8 @@ latitude: 51.95613
 longitude: 7.0104
 postcode: "48712"
 city: Gescher
-street: "Hauskampstraße"
-housenumber: 25
-phone: "+49 2542 7766"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-14:00"
-website: "https://www.schuh-okay.de/"
+street: Hauskampstraße
+housenumber: "25"
+phone: +49 2542 7766
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-14:00
+website: https://www.schuh-okay.de/

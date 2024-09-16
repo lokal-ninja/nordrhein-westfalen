@@ -1,11 +1,11 @@
 id: 595910833
-type: way
+type: node
 latitude: 50.64323
 longitude: 6.79776
 postcode: "53879"
 city: Euskirchen
-street: "Otto-Lilienthal-Straße"
-housenumber: 27
+street: Otto-Lilienthal-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

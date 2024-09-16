@@ -1,11 +1,11 @@
 id: 110211853
-type: way
+type: node
 latitude: 51.92593
 longitude: 8.85086
 postcode: "32760"
 city: Detmold
-street: "Erbhofstraße"
-housenumber: 30
+street: Erbhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00
 website: ""

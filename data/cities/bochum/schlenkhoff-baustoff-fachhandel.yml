@@ -4,8 +4,8 @@ latitude: 51.49517
 longitude: 7.26675
 postcode: "44791"
 city: Bochum
-street: "Kornharpener Straße"
-housenumber: 113
-phone: "+49 234 516840"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00"
-website: "https://schlenkhoff.de"
+street: Kornharpener Straße
+housenumber: "113"
+phone: +49 234 516840
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00
+website: https://schlenkhoff.de

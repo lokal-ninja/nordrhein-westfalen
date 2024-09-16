@@ -4,8 +4,8 @@ latitude: 51.87272
 longitude: 8.94501
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Mittelstraße"
-housenumber: 73
-phone: "+49 52 34 24 87"
-opening_hours: "We 09:00-12:30, Th 14:30-17:00"
-website: "https://fm-fotomomente.de"
+street: Mittelstraße
+housenumber: "73"
+phone: +49 52 34 24 87
+opening_hours: We 09:00-12:30, Th 14:30-17:00
+website: https://fm-fotomomente.de

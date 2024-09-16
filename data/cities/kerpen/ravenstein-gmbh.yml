@@ -1,11 +1,11 @@
 id: 289175297
-type: way
+type: node
 latitude: 50.86877
 longitude: 6.69326
 postcode: "50171"
 city: Kerpen
-street: "Stiftsstraße"
-housenumber: 21
+street: Stiftsstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.ravenstein-kerpen.de"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.ravenstein-kerpen.de

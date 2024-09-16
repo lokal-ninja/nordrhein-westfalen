@@ -1,11 +1,11 @@
 id: 275311395
-type: way
+type: node
 latitude: 50.81047
 longitude: 6.6592
 postcode: "52388"
 city: Nörvenich
-street: "Gewerbepark"
-housenumber: 67
-phone: "+49 2426 903062"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-12:00"
-website: "https://www.tp-kfz.de/"
+street: Gewerbepark
+housenumber: "67"
+phone: +49 2426 903062
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-12:00
+website: https://www.tp-kfz.de/

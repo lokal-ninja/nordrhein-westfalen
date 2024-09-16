@@ -1,11 +1,11 @@
 id: 174897675
-type: way
+type: node
 latitude: 52.38561
 longitude: 9.02582
 postcode: "32469"
 city: Petershagen
-street: "Gorsper Straße"
-housenumber: 10
+street: Gorsper Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

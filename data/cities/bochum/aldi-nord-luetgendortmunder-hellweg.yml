@@ -1,11 +1,11 @@
 id: 525560011
-type: way
+type: node
 latitude: 51.49498
 longitude: 7.33412
 postcode: "44894"
 city: Bochum
-street: "Lütgendortmunder Hellweg"
-housenumber: 206
+street: Lütgendortmunder Hellweg
+housenumber: "206"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

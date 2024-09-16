@@ -1,11 +1,11 @@
 id: 279162958
-type: way
+type: node
 latitude: 51.75496
 longitude: 7.42883
 postcode: "59348"
 city: Lüdinghausen
-street: "Hans-Böckler-Straße"
-housenumber: 55
+street: Hans-Böckler-Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

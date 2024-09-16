@@ -1,11 +1,11 @@
 id: 257429256
-type: way
+type: node
 latitude: 51.71282
 longitude: 8.7333
 postcode: "33102"
 city: Paderborn
-street: "Balhornstraße"
-housenumber: 9
+street: Balhornstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 9:00-20:00; Sa 9:00-19:00; PH off"
-website: "https://www.dm.de"
+opening_hours: Mo-Fr 9:00-20:00; Sa 9:00-19:00; PH off
+website: https://www.dm.de

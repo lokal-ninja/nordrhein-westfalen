@@ -4,8 +4,8 @@ latitude: 51.32982
 longitude: 6.56718
 postcode: "47798"
 city: Krefeld
-street: "Ostwall"
-housenumber: 82
+street: Ostwall
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-15:00"
-website: "https://www.sportdirekt-krefeld.de/"
+opening_hours: Mo-Fr 11:00-18:30; Sa 11:00-15:00
+website: https://www.sportdirekt-krefeld.de/

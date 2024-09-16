@@ -1,11 +1,11 @@
 id: 95506631
-type: way
+type: node
 latitude: 50.89327
 longitude: 7.87327
 postcode: "57258"
 city: Freudenberg
-street: "Asdorfer Straße"
-housenumber: 11
+street: Asdorfer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

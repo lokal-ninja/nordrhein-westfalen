@@ -1,11 +1,11 @@
 id: 704873263
-type: way
+type: node
 latitude: 51.69649
 longitude: 7.76058
 postcode: "59075"
 city: Hamm
-street: "Marinestraße"
-housenumber: 67
+street: Marinestraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
 website: ""

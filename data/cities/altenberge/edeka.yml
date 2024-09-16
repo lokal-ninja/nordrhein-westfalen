@@ -1,11 +1,11 @@
 id: 48855323
-type: way
+type: node
 latitude: 52.04227
 longitude: 7.46883
 postcode: "48341"
 city: Altenberge
-street: "Münsterstraße"
-housenumber: 23
+street: Münsterstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

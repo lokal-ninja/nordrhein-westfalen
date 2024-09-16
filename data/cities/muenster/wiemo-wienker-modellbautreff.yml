@@ -4,8 +4,8 @@ latitude: 51.96186
 longitude: 7.63988
 postcode: "48145"
 city: Münster
-street: "Warendorfer Straße"
-housenumber: 21
+street: Warendorfer Straße
+housenumber: "21"
 phone: "+49251135767"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
-website: "https://wiemo.com/"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
+website: https://wiemo.com/

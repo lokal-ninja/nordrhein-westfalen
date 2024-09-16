@@ -4,8 +4,8 @@ latitude: 51.14016
 longitude: 7.2155
 postcode: "42929"
 city: Wermelskirchen
-street: "Kölner Straße"
-housenumber: 8
-phone: "+49 2196 7060705"
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th 14:00-18:00; PH off"
-website: "https://standorte.geers.de/wermelskirchen/koelner-strasse-8.html"
+street: Kölner Straße
+housenumber: "8"
+phone: +49 2196 7060705
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th 14:00-18:00; PH off
+website: https://standorte.geers.de/wermelskirchen/koelner-strasse-8.html

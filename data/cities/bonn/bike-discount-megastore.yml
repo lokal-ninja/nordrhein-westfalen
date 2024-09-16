@@ -1,11 +1,11 @@
 id: 227009769
-type: way
+type: node
 latitude: 50.70854
 longitude: 7.06249
 postcode: "53127"
 city: Bonn
-street: "Auf dem Kirchbüchel"
-housenumber: 6
-phone: "+49 2225 8888-0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.megastore.bike/megastore/"
+street: Auf dem Kirchbüchel
+housenumber: "6"
+phone: +49 2225 8888-0
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.megastore.bike/megastore/

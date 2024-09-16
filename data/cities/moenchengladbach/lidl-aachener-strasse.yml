@@ -1,11 +1,11 @@
 id: 30859055
-type: way
+type: node
 latitude: 51.17327
 longitude: 6.39811
 postcode: "41069"
 city: Mönchengladbach
-street: "Aachener Straße"
-housenumber: 699
+street: Aachener Straße
+housenumber: "699"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
+website: https://www.lidl.de/

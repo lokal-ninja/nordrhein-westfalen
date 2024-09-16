@@ -4,8 +4,8 @@ latitude: 50.68399
 longitude: 7.15406
 postcode: "53177"
 city: Bonn
-street: "Theaterplatz"
-housenumber: 10
-phone: "+49 228 18458816"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.ledertrend.de"
+street: Theaterplatz
+housenumber: "10"
+phone: +49 228 18458816
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.ledertrend.de

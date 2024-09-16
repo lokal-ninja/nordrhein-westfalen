@@ -1,11 +1,11 @@
 id: 78453616
-type: way
+type: node
 latitude: 52.04457
 longitude: 8.15235
 postcode: "33775"
 city: Versmold
-street: "Rothenfelder Straße"
-housenumber: 14
+street: Rothenfelder Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

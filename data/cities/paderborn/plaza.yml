@@ -4,8 +4,8 @@ latitude: 51.72034
 longitude: 8.75236
 postcode: "33098"
 city: Paderborn
-street: "Mühlenstraße"
-housenumber: 2
+street: Mühlenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo off; Tu-Su 12:00-20:00"
-website: "https://www.plazapaderborn.de/"
+opening_hours: Mo off; Tu-Su 12:00-20:00
+website: https://www.plazapaderborn.de/

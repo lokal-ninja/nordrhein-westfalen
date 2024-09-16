@@ -4,8 +4,8 @@ latitude: 50.92451
 longitude: 6.97993
 postcode: "50679"
 city: Köln
-street: "Siegburger Straße"
-housenumber: 227
+street: Siegburger Straße
+housenumber: "227"
 phone: ""
-opening_hours: "Mo,Tu 11:00-19:00; We 13:00-19:00; Th,Fr 11:00-19:00; Sa 10:00-16:00"
-website: "http://www.cyclewerx.de"
+opening_hours: Mo,Tu 11:00-19:00; We 13:00-19:00; Th,Fr 11:00-19:00; Sa 10:00-16:00
+website: http://www.cyclewerx.de

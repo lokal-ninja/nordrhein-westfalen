@@ -1,11 +1,11 @@
 id: 121515987
-type: way
+type: node
 latitude: 51.68081
 longitude: 7.81653
 postcode: "59065"
 city: Hamm
-street: "Weststraße"
-housenumber: 25
-phone: "+49 2381 25870"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.grueter-schimpff.de/"
+street: Weststraße
+housenumber: "25"
+phone: +49 2381 25870
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.grueter-schimpff.de/

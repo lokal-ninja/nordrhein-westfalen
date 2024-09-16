@@ -1,11 +1,11 @@
 id: 490712923
-type: way
+type: node
 latitude: 51.35867
 longitude: 6.86686
 postcode: "40885"
 city: Ratingen
-street: "An der Hoffnung"
-housenumber: 119
-phone: "+49 2102 5799073"
-opening_hours: "Mo-Fr 8:30-19:00; Sa 8:30-18:00; Su,PH 10:00-13:00"
-website: "http://blumenundgarten.com"
+street: An der Hoffnung
+housenumber: "119"
+phone: +49 2102 5799073
+opening_hours: Mo-Fr 8:30-19:00; Sa 8:30-18:00; Su,PH 10:00-13:00
+website: http://blumenundgarten.com

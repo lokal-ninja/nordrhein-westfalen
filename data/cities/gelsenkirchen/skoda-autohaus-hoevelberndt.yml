@@ -1,11 +1,11 @@
 id: 27860831
-type: way
+type: node
 latitude: 51.54846
 longitude: 7.08871
 postcode: "45891"
 city: Gelsenkirchen
-street: "Emschermulde"
-housenumber: 1
+street: Emschermulde
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

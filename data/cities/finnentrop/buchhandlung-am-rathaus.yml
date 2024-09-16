@@ -4,8 +4,8 @@ latitude: 51.17277
 longitude: 7.97217
 postcode: "57413"
 city: Finnentrop
-street: "Am Markt"
-housenumber: 4
-phone: "+49 2721 6789"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00"
-website: "http://www.buchhandlungamrathaus.de"
+street: Am Markt
+housenumber: "4"
+phone: +49 2721 6789
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00
+website: http://www.buchhandlungamrathaus.de

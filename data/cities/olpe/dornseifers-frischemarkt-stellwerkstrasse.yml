@@ -1,11 +1,11 @@
 id: 208095192
-type: way
+type: node
 latitude: 51.02399
 longitude: 7.84293
 postcode: "57462"
 city: Olpe
-street: "Stellwerkstraße"
-housenumber: 4
+street: Stellwerkstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.17943
 longitude: 6.85863
 postcode: "40599"
 city: Düsseldorf
-street: "Henkelstraße"
-housenumber: 295
-phone: "+49 211 2397733"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://c-m-markt.com/"
+street: Henkelstraße
+housenumber: "295"
+phone: +49 211 2397733
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://c-m-markt.com/

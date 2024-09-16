@@ -1,11 +1,11 @@
 id: 133399998
-type: way
+type: node
 latitude: 51.68967
 longitude: 7.80963
 postcode: "59065"
 city: Hamm
-street: "Münsterstraße"
-housenumber: 24
-phone: "+49 2381 995420"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
-website: "https://www.polsteraktuell.de/unternehmen/verkaufshaeuser/hamm/"
+street: Münsterstraße
+housenumber: "24"
+phone: +49 2381 995420
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
+website: https://www.polsteraktuell.de/unternehmen/verkaufshaeuser/hamm/

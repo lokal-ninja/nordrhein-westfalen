@@ -1,11 +1,11 @@
 id: 152471471
-type: way
+type: node
 latitude: 52.20895
 longitude: 7.18809
 postcode: "48607"
 city: Ochtrup
-street: "Weinerstraße"
-housenumber: 22
+street: Weinerstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

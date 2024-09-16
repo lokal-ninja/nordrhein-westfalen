@@ -1,11 +1,11 @@
 id: 26378156
-type: way
+type: node
 latitude: 51.18313
 longitude: 6.68132
 postcode: "41464"
 city: Neuss
-street: "Moselstraße"
-housenumber: 6
-phone: "+49 2131 9428-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "http://www.kniest.mercedes-benz.de/"
+street: Moselstraße
+housenumber: "6"
+phone: +49 2131 9428-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: http://www.kniest.mercedes-benz.de/

@@ -1,11 +1,11 @@
 id: 35302943
-type: way
+type: node
 latitude: 51.73714
 longitude: 8.78702
 postcode: "33100"
 city: Paderborn
-street: "Senefelderstraße"
-housenumber: 24
+street: Senefelderstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.xara-kuechen.de/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.xara-kuechen.de/

@@ -4,8 +4,8 @@ latitude: 51.9943
 longitude: 8.79976
 postcode: "32791"
 city: Lage
-street: "Hermannstraße"
-housenumber: 1
+street: Hermannstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH,Su off
 website: ""

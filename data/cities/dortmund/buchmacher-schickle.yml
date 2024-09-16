@@ -4,8 +4,8 @@ latitude: 51.50853
 longitude: 7.46145
 postcode: "44139"
 city: Dortmund
-street: "Hohe Straße"
-housenumber: 16
-phone: "+49 231 9142586"
-opening_hours: "Mo-Su 11:00-23:00"
+street: Hohe Straße
+housenumber: "16"
+phone: +49 231 9142586
+opening_hours: Mo-Su 11:00-23:00
 website: ""

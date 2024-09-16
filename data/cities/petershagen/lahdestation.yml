@@ -4,8 +4,8 @@ latitude: 52.36807
 longitude: 9.00416
 postcode: "32469"
 city: Petershagen
-street: "Bahnhofstraße"
-housenumber: 61
-phone: "+49 5702 839151"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://lahde-station.de"
+street: Bahnhofstraße
+housenumber: "61"
+phone: +49 5702 839151
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: https://lahde-station.de

@@ -4,8 +4,8 @@ latitude: 51.25433
 longitude: 7.13543
 postcode: "42103"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 71
+street: Friedrich-Ebert-Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00; Sa 12:00-18:00; PH,Su,Mo off"
-website: "https://boda-weinshop.de/"
+opening_hours: Tu-Fr 14:00-19:00; Sa 12:00-18:00; PH,Su,Mo off
+website: https://boda-weinshop.de/

@@ -1,11 +1,11 @@
 id: 319261840
-type: way
+type: node
 latitude: 51.49093
 longitude: 9.13226
 postcode: "34414"
 city: Warburg
-street: "Paderborner Tor"
-housenumber: 167
+street: Paderborner Tor
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/

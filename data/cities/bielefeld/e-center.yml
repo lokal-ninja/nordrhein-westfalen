@@ -4,8 +4,8 @@ latitude: 52.0214
 longitude: 8.55208
 postcode: "33607"
 city: Bielefeld
-street: "Huberstraße"
-housenumber: 25
-phone: "+49 521 966890"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/;https://schenke.de/"
+street: Huberstraße
+housenumber: "25"
+phone: +49 521 966890
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/;https://schenke.de/

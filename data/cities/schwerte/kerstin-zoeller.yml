@@ -4,8 +4,8 @@ latitude: 51.43943
 longitude: 7.54139
 postcode: "58239"
 city: Schwerte
-street: "Rosenweg"
-housenumber: 128
-phone: "+49 2304 83906"
-opening_hours: "Nach Vereinbarung"
+street: Rosenweg
+housenumber: "128"
+phone: +49 2304 83906
+opening_hours: '"Nach Vereinbarung"'
 website: ""

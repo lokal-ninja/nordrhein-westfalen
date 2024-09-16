@@ -4,8 +4,8 @@ latitude: 51.24131
 longitude: 6.82706
 postcode: "40235"
 city: Düsseldorf
-street: "Grafenberger Allee"
-housenumber: 411
-phone: "+49 211 17098998"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
+street: Grafenberger Allee
+housenumber: "411"
+phone: +49 211 17098998
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
 website: ""

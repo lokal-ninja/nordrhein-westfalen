@@ -1,11 +1,11 @@
 id: 364191974
-type: way
+type: node
 latitude: 50.51797
 longitude: 6.46669
 postcode: "53937"
 city: Schleiden
-street: "An der Olef"
-housenumber: 58
+street: An der Olef
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

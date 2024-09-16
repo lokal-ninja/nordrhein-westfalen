@@ -4,8 +4,8 @@ latitude: 50.80788
 longitude: 6.14964
 postcode: "52146"
 city: Würselen
-street: "Adenauerstraße"
-housenumber: 10
-phone: "+49 2405 42730"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.euromaster.de/"
+street: Adenauerstraße
+housenumber: "10"
+phone: +49 2405 42730
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.euromaster.de/

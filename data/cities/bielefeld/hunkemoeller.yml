@@ -4,8 +4,8 @@ latitude: 52.02484
 longitude: 8.53166
 postcode: "33602"
 city: Bielefeld
-street: "Arndtstraße"
-housenumber: 2
+street: Arndtstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hunkemoller.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hunkemoller.de/

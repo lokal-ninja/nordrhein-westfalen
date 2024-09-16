@@ -1,11 +1,11 @@
 id: 220793818
-type: way
+type: node
 latitude: 50.73589
 longitude: 7.01437
 postcode: "53347"
 city: Alfter
-street: "Landgraben"
-housenumber: 43
-phone: "+49 2222 2604"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00"
-website: "https://www.moebel-kurth.de/"
+street: Landgraben
+housenumber: "43"
+phone: +49 2222 2604
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00
+website: https://www.moebel-kurth.de/

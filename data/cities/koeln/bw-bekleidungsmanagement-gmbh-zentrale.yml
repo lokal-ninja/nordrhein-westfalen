@@ -1,11 +1,11 @@
 id: 207902102
-type: way
+type: node
 latitude: 50.91518
 longitude: 7.05262
 postcode: "51149"
 city: Köln
-street: "Edmund-Rumpler-Straße"
+street: Edmund-Rumpler-Straße
 housenumber: 8-10
-phone: "+49 2203 91280"
-opening_hours: "Mo-Th 07:30-16:00; Fr 07:00-15:30"
+phone: +49 2203 91280
+opening_hours: Mo-Th 07:30-16:00; Fr 07:00-15:30
 website: ""

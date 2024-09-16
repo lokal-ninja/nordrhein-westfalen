@@ -1,11 +1,11 @@
 id: 50659880
-type: way
+type: node
 latitude: 51.82985
 longitude: 6.41462
 postcode: "46419"
 city: Isselburg
-street: "Sternenbuschstraße"
-housenumber: 11
+street: Sternenbuschstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00,13:30-15:00"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-12:00,13:30-15:00
 website: ""

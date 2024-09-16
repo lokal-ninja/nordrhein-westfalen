@@ -4,8 +4,8 @@ latitude: 51.81374
 longitude: 6.30237
 postcode: "46446"
 city: Emmerich am Rhein
-street: "Dorfstraße"
-housenumber: 59
-phone: "+49 2822 46 27"
-opening_hours: "Th-Sa 10:00-18:00"
-website: "https://www.niederrhein-destille.de"
+street: Dorfstraße
+housenumber: "59"
+phone: +49 2822 46 27
+opening_hours: Th-Sa 10:00-18:00
+website: https://www.niederrhein-destille.de

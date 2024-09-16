@@ -1,11 +1,11 @@
 id: 101983693
-type: way
+type: node
 latitude: 51.02196
 longitude: 7.66026
 postcode: "51702"
 city: Bergneustadt
-street: "Kölner Straße"
-housenumber: 304
+street: Kölner Straße
+housenumber: "304"
 phone: "+4922619243999"
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

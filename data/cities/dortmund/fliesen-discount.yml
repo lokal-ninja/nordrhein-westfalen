@@ -4,8 +4,8 @@ latitude: 51.49322
 longitude: 7.37873
 postcode: "44149"
 city: Dortmund
-street: "Brennaborstraße"
-housenumber: 15
+street: Brennaborstraße
+housenumber: "15"
 phone: "+4923153223027"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-15:00; Su off"
-website: "https://www.fliesendiscount.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-15:00; Su off
+website: https://www.fliesendiscount.de/

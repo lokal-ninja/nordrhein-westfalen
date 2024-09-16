@@ -1,11 +1,11 @@
 id: 80730516
-type: way
+type: node
 latitude: 50.77183
 longitude: 6.10629
 postcode: "52070"
 city: Aachen
-street: "Charlottenstraße"
+street: Charlottenstraße
 housenumber: 10-12
-phone: "+49 241 51920"
+phone: +49 241 51920
 opening_hours: ""
-website: "https://www.otto-geilenkirchen.com/"
+website: https://www.otto-geilenkirchen.com/

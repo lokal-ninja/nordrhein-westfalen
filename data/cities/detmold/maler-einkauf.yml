@@ -4,8 +4,8 @@ latitude: 51.94132
 longitude: 8.87254
 postcode: "32756"
 city: Detmold
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-15:00; Sa 08:00-11:00"
-website: "https://www.maler-einkauf.com/"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-15:00; Sa 08:00-11:00
+website: https://www.maler-einkauf.com/

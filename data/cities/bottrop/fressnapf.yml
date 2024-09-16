@@ -4,8 +4,8 @@ latitude: 51.51145
 longitude: 6.92478
 postcode: "46242"
 city: Bottrop
-street: "Südring"
-housenumber: 79
-phone: "+49 2041 771891"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Südring
+housenumber: "79"
+phone: +49 2041 771891
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

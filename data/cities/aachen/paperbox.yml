@@ -1,11 +1,11 @@
 id: 218212214
-type: way
+type: node
 latitude: 50.776
 longitude: 6.08622
 postcode: "52062"
 city: Aachen
-street: "Nikolausstraße"
-housenumber: 17
-phone: "+49 241 402727"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-16:00"
+street: Nikolausstraße
+housenumber: "17"
+phone: +49 241 402727
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-16:00
 website: ""

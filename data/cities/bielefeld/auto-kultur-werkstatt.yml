@@ -4,8 +4,8 @@ latitude: 52.02918
 longitude: 8.52678
 postcode: "33615"
 city: Bielefeld
-street: "Teichstraße"
-housenumber: 32
-phone: "+49 521 5214528"
-opening_hours: "see programme"
-website: "https://www.auto-kultur-werkstatt.de/"
+street: Teichstraße
+housenumber: "32"
+phone: +49 521 5214528
+opening_hours: '"see programme"'
+website: https://www.auto-kultur-werkstatt.de/

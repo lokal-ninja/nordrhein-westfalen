@@ -4,8 +4,8 @@ latitude: 51.19361
 longitude: 6.69226
 postcode: "41460"
 city: Neuss
-street: "Friedrichstraße"
-housenumber: 37
-phone: "+49 2131 41141"
+street: Friedrichstraße
+housenumber: "37"
+phone: +49 2131 41141
 opening_hours: ""
-website: "https://kamps.de/"
+website: https://kamps.de/

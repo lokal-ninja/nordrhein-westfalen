@@ -1,11 +1,11 @@
 id: 316132029
-type: way
+type: node
 latitude: 51.60623
 longitude: 7.16948
 postcode: "45659"
 city: Recklinghausen
-street: "Hertener Straße"
-housenumber: 203
-phone: "+49 2361 9092402"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "https://haifas.de/"
+street: Hertener Straße
+housenumber: "203"
+phone: +49 2361 9092402
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00
+website: https://haifas.de/

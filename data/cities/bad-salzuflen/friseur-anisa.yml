@@ -1,11 +1,11 @@
 id: 374283022
-type: way
+type: node
 latitude: 52.086
 longitude: 8.74086
 postcode: "32105"
 city: Bad Salzuflen
-street: "Herforder Straße"
-housenumber: 12
+street: Herforder Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

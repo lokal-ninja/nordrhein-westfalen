@@ -1,11 +1,11 @@
 id: 261942943
-type: way
+type: node
 latitude: 50.90991
 longitude: 6.96947
 postcode: "50968"
 city: Köln
-street: "Goltsteinstraße"
-housenumber: 77
+street: Goltsteinstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

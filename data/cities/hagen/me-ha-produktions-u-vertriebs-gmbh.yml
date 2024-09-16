@@ -4,8 +4,8 @@ latitude: 51.37741
 longitude: 7.46077
 postcode: "58097"
 city: Hagen
-street: "Alexanderstraße"
-housenumber: 6
-phone: "+49 2331 77397"
+street: Alexanderstraße
+housenumber: "6"
+phone: +49 2331 77397
 opening_hours: ""
-website: "https://me-ha-suppen.de/"
+website: https://me-ha-suppen.de/

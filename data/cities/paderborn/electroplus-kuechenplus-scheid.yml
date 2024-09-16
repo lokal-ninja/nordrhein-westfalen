@@ -1,11 +1,11 @@
 id: 176307235
-type: way
+type: node
 latitude: 51.72059
 longitude: 8.74828
 postcode: "33102"
 city: Paderborn
-street: "Friedrichstraße"
-housenumber: 57
+street: Friedrichstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-We 09:30-18:30; Th-Fr 09:30-19:00; Sa 09:30-16:00"
+opening_hours: Mo-We 09:30-18:30; Th-Fr 09:30-19:00; Sa 09:30-16:00
 website: ""

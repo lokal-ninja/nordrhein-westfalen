@@ -1,11 +1,11 @@
 id: 288434479
-type: way
+type: node
 latitude: 51.90495
 longitude: 8.55219
 postcode: "33415"
 city: Verl
-street: "Sender Straße"
-housenumber: 356
+street: Sender Straße
+housenumber: "356"
 phone: ""
 opening_hours: ""
 website: ""

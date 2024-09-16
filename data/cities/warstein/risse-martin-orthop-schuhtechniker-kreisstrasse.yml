@@ -1,11 +1,11 @@
 id: 138408944
-type: way
+type: node
 latitude: 51.45453
 longitude: 8.37671
 postcode: "59581"
 city: Warstein
-street: "Kreisstraße"
-housenumber: 93
+street: Kreisstraße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

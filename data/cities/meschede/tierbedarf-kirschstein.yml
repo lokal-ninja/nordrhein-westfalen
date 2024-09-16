@@ -1,11 +1,11 @@
 id: 92870300
-type: way
+type: node
 latitude: 51.35703
 longitude: 8.25459
 postcode: "59872"
 city: Meschede
-street: "Auf'm Brinke"
-housenumber: 8
-phone: "+49 291 51587"
-opening_hours: "Mo-Fr 08:00-18:30;Sa 08:00-14:00"
-website: "http://www.kirschstein-meschede.de/index.php?content=start"
+street: Auf'm Brinke
+housenumber: "8"
+phone: +49 291 51587
+opening_hours: Mo-Fr 08:00-18:30;Sa 08:00-14:00
+website: http://www.kirschstein-meschede.de/index.php?content=start

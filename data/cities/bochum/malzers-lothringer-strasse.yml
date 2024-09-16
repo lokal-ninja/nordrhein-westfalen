@@ -4,8 +4,8 @@ latitude: 51.51911
 longitude: 7.28095
 postcode: "44805"
 city: Bochum
-street: "Lothringer Straße"
-housenumber: 32
-phone: "+49 234 4174546"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:30-12:00"
-website: "https://www.malzers.de/filialen/filialfinder/detail/96-Im-REWE-Markt-Kaeseler"
+street: Lothringer Straße
+housenumber: "32"
+phone: +49 234 4174546
+opening_hours: Mo-Sa 07:00-21:00; Su 07:30-12:00
+website: https://www.malzers.de/filialen/filialfinder/detail/96-Im-REWE-Markt-Kaeseler

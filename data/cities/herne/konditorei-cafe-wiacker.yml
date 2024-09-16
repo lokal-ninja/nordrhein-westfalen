@@ -4,8 +4,8 @@ latitude: 51.54026
 longitude: 7.22228
 postcode: "44623"
 city: Herne
-street: "Neustraße"
-housenumber: 1
-phone: "+49 2323 51109"
-opening_hours: "Tu-Sa 09:00-17:00; Su 12:00-17:00"
-website: "https://www.wiacker.de/"
+street: Neustraße
+housenumber: "1"
+phone: +49 2323 51109
+opening_hours: Tu-Sa 09:00-17:00; Su 12:00-17:00
+website: https://www.wiacker.de/

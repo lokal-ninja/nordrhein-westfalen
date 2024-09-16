@@ -1,11 +1,11 @@
 id: 72901669
-type: way
+type: node
 latitude: 51.44299
 longitude: 7.30973
 postcode: "58455"
 city: Witten
-street: "Hellweg"
+street: Hellweg
 housenumber: 46a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

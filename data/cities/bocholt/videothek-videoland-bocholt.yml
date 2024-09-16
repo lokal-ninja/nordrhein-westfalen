@@ -1,11 +1,11 @@
 id: 253981000
-type: way
+type: node
 latitude: 51.8356
 longitude: 6.60764
 postcode: "46395"
 city: Bocholt
-street: "Gotenstraße"
-housenumber: 1
+street: Gotenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 17:15-21:00, Sa 15:00-20:00"
-website: "https://46399.videotheken-online.com"
+opening_hours: Mo-Fr 17:15-21:00, Sa 15:00-20:00
+website: https://46399.videotheken-online.com

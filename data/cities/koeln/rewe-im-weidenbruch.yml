@@ -1,11 +1,11 @@
 id: 29158086
-type: way
+type: node
 latitude: 50.98159
 longitude: 7.03554
 postcode: "51061"
 city: Köln
-street: "Im Weidenbruch"
-housenumber: 136
+street: Im Weidenbruch
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

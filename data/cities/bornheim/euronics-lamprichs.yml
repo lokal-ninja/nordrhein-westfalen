@@ -1,11 +1,11 @@
 id: 51599095
-type: way
+type: node
 latitude: 50.75206
 longitude: 7.01325
 postcode: "53332"
 city: Bornheim
-street: "Brunnenallee"
-housenumber: 31
+street: Brunnenallee
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

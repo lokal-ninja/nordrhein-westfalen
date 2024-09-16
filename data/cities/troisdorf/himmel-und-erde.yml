@@ -1,11 +1,13 @@
 id: 117370860
-type: way
+type: node
 latitude: 50.78915
 longitude: 7.1072
 postcode: "53844"
 city: Troisdorf
-street: "Rheinstraße"
-housenumber: 79
-phone: "+49 2241 – 44668"
-opening_hours: "Mar Su[-1] - Oct Su[-1] - 1 day Mo-Fr 09:00-18:00, Oct Su[-1] - Mar Su[-1] - 1 day Mo-Su Mar Su[-1] - Oct Su[-1] - 1 day Mo-Su 14:00-17:00, Oct Su[-1] - Mar Su[-1] - 1 day Mo-Fr 08:30-18:00; Sa 08:00-13:00; PH off"
+street: Rheinstraße
+housenumber: "79"
+phone: +49 2241 – 44668
+opening_hours: Mar Su[-1] - Oct Su[-1] - 1 day Mo-Fr 09:00-18:00, Oct Su[-1] - Mar
+    Su[-1] - 1 day Mo-Su Mar Su[-1] - Oct Su[-1] - 1 day Mo-Su 14:00-17:00, Oct Su[-1]
+    - Mar Su[-1] - 1 day Mo-Fr 08:30-18:00; Sa 08:00-13:00; PH off
 website: ""

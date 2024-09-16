@@ -4,8 +4,8 @@ latitude: 51.71428
 longitude: 8.74514
 postcode: "33098"
 city: Paderborn
-street: "Borchener Straße"
-housenumber: 2
+street: Borchener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

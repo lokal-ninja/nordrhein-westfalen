@@ -4,8 +4,8 @@ latitude: 50.9376
 longitude: 6.95952
 postcode: "50667"
 city: Köln
-street: "Marsplatz"
-housenumber: 11
-phone: "+49 221 2576958"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Marsplatz
+housenumber: "11"
+phone: +49 221 2576958
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

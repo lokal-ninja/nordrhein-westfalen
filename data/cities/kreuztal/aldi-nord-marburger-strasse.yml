@@ -1,11 +1,11 @@
 id: 341815301
-type: way
+type: node
 latitude: 50.971
 longitude: 8.04819
 postcode: "57223"
 city: Kreuztal
-street: "Marburger Straße"
-housenumber: 388
+street: Marburger Straße
+housenumber: "388"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/

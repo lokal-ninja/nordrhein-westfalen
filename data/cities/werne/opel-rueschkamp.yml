@@ -1,11 +1,11 @@
 id: 96968407
-type: way
+type: node
 latitude: 51.65621
 longitude: 7.62766
 postcode: "59368"
 city: Werne
-street: "Lünener Straße"
-housenumber: 41
-phone: "+49 2389 98400"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
-website: "https://www.autohaus-rueschkamp.de/standorte/werne.html"
+street: Lünener Straße
+housenumber: "41"
+phone: +49 2389 98400
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
+website: https://www.autohaus-rueschkamp.de/standorte/werne.html

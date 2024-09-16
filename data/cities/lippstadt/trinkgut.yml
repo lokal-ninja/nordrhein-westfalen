@@ -1,11 +1,11 @@
 id: 100543261
-type: way
+type: node
 latitude: 51.66022
 longitude: 8.36303
 postcode: "59557"
 city: Lippstadt
-street: "Windmüllerstraße"
+street: Windmüllerstraße
 housenumber: 6a
-phone: "+49 2941 2025407"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 2941 2025407
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

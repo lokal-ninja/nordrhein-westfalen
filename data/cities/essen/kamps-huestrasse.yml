@@ -4,8 +4,8 @@ latitude: 51.48492
 longitude: 7.06364
 postcode: "45309"
 city: Essen
-street: "Huestraße"
-housenumber: 111
+street: Huestraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-13:30; Su 07:00-12:00"
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-13:30; Su 07:00-12:00
 website: ""

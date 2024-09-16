@@ -1,11 +1,11 @@
 id: 592070506
-type: way
+type: node
 latitude: 50.7363
 longitude: 7.08405
 postcode: "53119"
 city: Bonn
-street: "Thomastraße"
-housenumber: 38
+street: Thomastraße
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

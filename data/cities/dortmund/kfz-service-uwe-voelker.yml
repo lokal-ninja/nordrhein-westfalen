@@ -1,11 +1,11 @@
 id: 55647722
-type: way
+type: node
 latitude: 51.53193
 longitude: 7.47236
 postcode: "44145"
 city: Dortmund
-street: "Glückaufstraße"
-housenumber: 52
+street: Glückaufstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00; Sa 11:00-14:00"
+opening_hours: Mo-Fr 14:00-18:00; Sa 11:00-14:00
 website: ""

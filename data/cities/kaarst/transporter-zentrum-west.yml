@@ -1,11 +1,11 @@
 id: 1050321860
-type: way
+type: node
 latitude: 51.21864
 longitude: 6.63056
 postcode: "41564"
 city: Kaarst
-street: "Düsselstraße"
-housenumber: 1
-phone: "+49 2131 5322015"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "http://www.tz-west.de/"
+street: Düsselstraße
+housenumber: "1"
+phone: +49 2131 5322015
+opening_hours: Mo-Sa 08:00-19:00
+website: http://www.tz-west.de/

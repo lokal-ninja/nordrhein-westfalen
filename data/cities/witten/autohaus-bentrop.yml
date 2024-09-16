@@ -1,11 +1,11 @@
 id: 78176348
-type: way
+type: node
 latitude: 51.41364
 longitude: 7.26629
 postcode: "58456"
 city: Witten
-street: "Wittener Straße"
-housenumber: 140
+street: Wittener Straße
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

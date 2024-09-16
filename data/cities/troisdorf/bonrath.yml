@@ -1,11 +1,11 @@
 id: 99700740
-type: way
+type: node
 latitude: 50.82818
 longitude: 7.1168
 postcode: "53842"
 city: Troisdorf
-street: "Kochenholzstraße"
-housenumber: 29
+street: Kochenholzstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

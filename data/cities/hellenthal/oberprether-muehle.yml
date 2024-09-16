@@ -4,8 +4,9 @@ latitude: 50.44588
 longitude: 6.41378
 postcode: "53940"
 city: Hellenthal
-street: "Oberpreth"
-housenumber: 1
-phone: "+49 2448 9197803"
-opening_hours: "Mar-Jun, Sep-Oct: fr 14:00-20:00; Mar-Jun, Sep-Oct: Sa, Su, PH 08:00-20:00; Jul-Aug: 08:00-20:00"
-website: "https://www.oberprether-muehle.de/"
+street: Oberpreth
+housenumber: "1"
+phone: +49 2448 9197803
+opening_hours: 'Mar-Jun, Sep-Oct: fr 14:00-20:00; Mar-Jun, Sep-Oct: Sa, Su, PH 08:00-20:00;
+    Jul-Aug: 08:00-20:00'
+website: https://www.oberprether-muehle.de/

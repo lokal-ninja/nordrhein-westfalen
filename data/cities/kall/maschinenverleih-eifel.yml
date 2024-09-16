@@ -1,11 +1,11 @@
 id: 936655576
-type: way
+type: node
 latitude: 50.54971
 longitude: 6.57763
 postcode: "53925"
 city: Kall
-street: "Metallhütte"
-housenumber: 10
+street: Metallhütte
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://maschinenverleih-eifel.de/"
+website: https://maschinenverleih-eifel.de/

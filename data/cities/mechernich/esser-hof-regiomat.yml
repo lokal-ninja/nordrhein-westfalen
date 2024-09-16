@@ -4,8 +4,8 @@ latitude: 50.59339
 longitude: 6.71509
 postcode: "53894"
 city: Mechernich
-street: "Rochusstraße"
-housenumber: 2
+street: Rochusstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00-00:00"
-website: "https://esser-hof.de/?"
+opening_hours: Mo-Su,PH 00:00-00:00
+website: https://esser-hof.de/?

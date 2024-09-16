@@ -1,11 +1,11 @@
 id: 323824978
-type: way
+type: node
 latitude: 50.8725
 longitude: 7.60619
 postcode: "51545"
 city: Waldbröl
-street: "Raabeweg"
-housenumber: 2
-phone: "+49 2291 9263425"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.kuechenhaus-waldbroel.de"
+street: Raabeweg
+housenumber: "2"
+phone: +49 2291 9263425
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.kuechenhaus-waldbroel.de

@@ -4,8 +4,8 @@ latitude: 51.48922
 longitude: 7.50154
 postcode: "44263"
 city: Dortmund
-street: "Hermannstraße"
-housenumber: 44
-phone: "+49 231 69683690"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.fielmann.de/niederlassungen/dortmund/44263-hermannstrasse-44/"
+street: Hermannstraße
+housenumber: "44"
+phone: +49 231 69683690
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.fielmann.de/niederlassungen/dortmund/44263-hermannstrasse-44/

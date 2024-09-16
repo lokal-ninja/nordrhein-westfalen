@@ -1,11 +1,11 @@
 id: 155568791
-type: way
+type: node
 latitude: 51.41936
 longitude: 7.57136
 postcode: "58239"
 city: Schwerte
-street: "Letmather Straße"
-housenumber: 110
-phone: "+49 2304 973100"
-opening_hours: "Mo-Sa 07:30-22:00"
-website: "https://www.rewe-ihr-kaufpark.de/markt/schwerte-ergste/"
+street: Letmather Straße
+housenumber: "110"
+phone: +49 2304 973100
+opening_hours: Mo-Sa 07:30-22:00
+website: https://www.rewe-ihr-kaufpark.de/markt/schwerte-ergste/

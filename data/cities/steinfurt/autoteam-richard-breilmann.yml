@@ -1,11 +1,11 @@
 id: 138017993
-type: way
+type: node
 latitude: 52.15123
 longitude: 7.31373
 postcode: "48565"
 city: Steinfurt
-street: "Sonnenschein"
-housenumber: 67
+street: Sonnenschein
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

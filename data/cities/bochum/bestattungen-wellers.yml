@@ -4,8 +4,8 @@ latitude: 51.46974
 longitude: 7.31581
 postcode: "44892"
 city: Bochum
-street: "Stiftstraße"
-housenumber: 11
-phone: "+49 234 879000"
-opening_hours: "Mo-Fr 10:00-15:00"
-website: "https://www.wellers-bestattungen.de/"
+street: Stiftstraße
+housenumber: "11"
+phone: +49 234 879000
+opening_hours: Mo-Fr 10:00-15:00
+website: https://www.wellers-bestattungen.de/

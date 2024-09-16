@@ -1,11 +1,11 @@
 id: 32672506
-type: way
+type: node
 latitude: 51.56343
 longitude: 7.37738
 postcode: "44357"
 city: Dortmund
-street: "Hansemannstraße"
-housenumber: 85
-phone: "+49 231 3955580"
+street: Hansemannstraße
+housenumber: "85"
+phone: +49 231 3955580
 opening_hours: ""
-website: "http://tutak.metro.biz/"
+website: http://tutak.metro.biz/

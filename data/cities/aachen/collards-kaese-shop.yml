@@ -4,8 +4,8 @@ latitude: 50.76131
 longitude: 6.09268
 postcode: "52066"
 city: Aachen
-street: "Kapellenstraße"
-housenumber: 20
+street: Kapellenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.kaese-collard.de/"
+opening_hours: Mo-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.kaese-collard.de/

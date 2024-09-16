@@ -1,11 +1,11 @@
 id: 8112413
-type: way
+type: node
 latitude: 50.76992
 longitude: 6.05759
 postcode: "52074"
 city: Aachen
-street: "Vaalser Straße"
+street: Vaalser Straße
 housenumber: 242-246
-phone: "+49 241 43504610"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+phone: +49 241 43504610
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

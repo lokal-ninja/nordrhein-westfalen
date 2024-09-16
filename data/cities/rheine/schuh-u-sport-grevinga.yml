@@ -1,11 +1,11 @@
 id: 204474334
-type: way
+type: node
 latitude: 52.28585
 longitude: 7.46939
 postcode: "48429"
 city: Rheine
-street: "Osnabrücker Straße"
-housenumber: 276
+street: Osnabrücker Straße
+housenumber: "276"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-14:00
 website: ""

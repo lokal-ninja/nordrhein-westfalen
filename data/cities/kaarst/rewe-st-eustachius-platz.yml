@@ -1,11 +1,11 @@
 id: 69223594
-type: way
+type: node
 latitude: 51.21469
 longitude: 6.58095
 postcode: "41564"
 city: Kaarst
-street: "St.-Eustachius-Platz"
-housenumber: 12
-phone: "+49 2131 514503"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: St.-Eustachius-Platz
+housenumber: "12"
+phone: +49 2131 514503
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

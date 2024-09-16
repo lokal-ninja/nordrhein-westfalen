@@ -4,8 +4,8 @@ latitude: 50.68277
 longitude: 6.20984
 postcode: "52159"
 city: Roetgen
-street: "Quirinusstraße"
-housenumber: 19
-phone: "+49 2471 135886"
-opening_hours: "Mo-Fr 06:00-13:00,15:00-18:00; Sa 06:00-13:00; Su 08:00-10:30"
-website: "https://konsum-eicherscheid.de/"
+street: Quirinusstraße
+housenumber: "19"
+phone: +49 2471 135886
+opening_hours: Mo-Fr 06:00-13:00,15:00-18:00; Sa 06:00-13:00; Su 08:00-10:30
+website: https://konsum-eicherscheid.de/

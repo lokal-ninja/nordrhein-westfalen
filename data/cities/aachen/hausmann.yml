@@ -4,8 +4,8 @@ latitude: 50.77262
 longitude: 6.07991
 postcode: "52064"
 city: Aachen
-street: "Löhergraben"
-housenumber: 8
+street: Löhergraben
+housenumber: "8"
 phone: ""
-opening_hours: "jederzeit nach Absprache"
-website: "https://www.goldschmiede-hausmann.de/"
+opening_hours: '"jederzeit nach Absprache"'
+website: https://www.goldschmiede-hausmann.de/

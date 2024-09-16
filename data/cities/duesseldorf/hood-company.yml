@@ -4,8 +4,8 @@ latitude: 51.21118
 longitude: 6.79305
 postcode: "40227"
 city: Düsseldorf
-street: "Oberbilker Allee"
-housenumber: 101
-phone: "+49 211 8793284"
-opening_hours: "Mo-Fr 13:00-19:00; Sa 13:00-16:00"
-website: "https://hood-company.com/"
+street: Oberbilker Allee
+housenumber: "101"
+phone: +49 211 8793284
+opening_hours: Mo-Fr 13:00-19:00; Sa 13:00-16:00
+website: https://hood-company.com/

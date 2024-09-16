@@ -1,11 +1,11 @@
 id: 70142710
-type: way
+type: node
 latitude: 51.53724
 longitude: 7.7095
 postcode: "59423"
 city: Unna
-street: "Schachtkuhle"
-housenumber: 1
+street: Schachtkuhle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

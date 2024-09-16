@@ -4,8 +4,8 @@ latitude: 52.2391
 longitude: 8.92171
 postcode: "32457"
 city: Porta Westfalica
-street: "Schalksburgstraße"
-housenumber: 1
-phone: "0571 50921701"
-opening_hours: "Mo-Fr 07:30-13:00, 14:00-18:00; Sa 07:30-13:00"
-website: "https://www.skribo.de/haendler/vonkoelln"
+street: Schalksburgstraße
+housenumber: "1"
+phone: 0571 50921701
+opening_hours: Mo-Fr 07:30-13:00, 14:00-18:00; Sa 07:30-13:00
+website: https://www.skribo.de/haendler/vonkoelln

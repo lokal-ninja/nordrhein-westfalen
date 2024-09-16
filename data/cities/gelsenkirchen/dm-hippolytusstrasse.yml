@@ -1,11 +1,11 @@
 id: 175584689
-type: way
+type: node
 latitude: 51.53849
 longitude: 7.02412
 postcode: "45899"
 city: Gelsenkirchen
-street: "Hippolytusstraße"
-housenumber: 1
+street: Hippolytusstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

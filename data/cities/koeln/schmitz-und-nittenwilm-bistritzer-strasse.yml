@@ -4,8 +4,8 @@ latitude: 50.93239
 longitude: 6.84258
 postcode: "50858"
 city: Köln
-street: "Bistritzer Straße"
-housenumber: 94
+street: Bistritzer Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 6:00-13:00; Sa 6:00-13:00; Su 8:00-12:00"
-website: "https://schmitz-nittenwilm.de/"
+opening_hours: Mo-Fr 6:00-13:00; Sa 6:00-13:00; Su 8:00-12:00
+website: https://schmitz-nittenwilm.de/

@@ -4,8 +4,8 @@ latitude: 51.93518
 longitude: 8.87974
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 49
-phone: "+49 5231 3021450"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://smileoptic.de/"
+street: Lange Straße
+housenumber: "49"
+phone: +49 5231 3021450
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://smileoptic.de/

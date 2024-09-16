@@ -4,8 +4,8 @@ latitude: 50.77818
 longitude: 6.16008
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 173
-phone: "+49 241 554844"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Su,PH off"
-website: "https://www.optikhermanns.de/"
+street: Von-Coels-Straße
+housenumber: "173"
+phone: +49 241 554844
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Su,PH off
+website: https://www.optikhermanns.de/

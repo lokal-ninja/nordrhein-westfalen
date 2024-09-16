@@ -1,11 +1,11 @@
 id: 125791743
-type: way
+type: node
 latitude: 51.21795
 longitude: 6.63465
 postcode: "41564"
 city: Kaarst
-street: "Weckenhofstraße"
-housenumber: 9
-phone: "+49-2131-795750"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
-website: "https://www.opel-dresen-kaarst.de/"
+street: Weckenhofstraße
+housenumber: "9"
+phone: +49-2131-795750
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
+website: https://www.opel-dresen-kaarst.de/

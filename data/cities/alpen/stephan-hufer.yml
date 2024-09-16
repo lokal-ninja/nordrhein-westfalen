@@ -4,8 +4,8 @@ latitude: 51.58429
 longitude: 6.46964
 postcode: "46519"
 city: Alpen
-street: "Haagscher Weg"
-housenumber: 1
-phone: "+49 2802 4686"
-opening_hours: "keine festen Öffnungszeiten"
-website: "https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=5"
+street: Haagscher Weg
+housenumber: "1"
+phone: +49 2802 4686
+opening_hours: '"keine festen Öffnungszeiten"'
+website: https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=5

@@ -1,11 +1,11 @@
 id: 129806776
-type: way
+type: node
 latitude: 50.94303
 longitude: 7.22642
 postcode: "51491"
 city: Overath
-street: "Olper Straße"
-housenumber: 119
+street: Olper Straße
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

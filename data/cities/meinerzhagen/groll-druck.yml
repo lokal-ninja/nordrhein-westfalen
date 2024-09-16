@@ -1,11 +1,11 @@
 id: 321891458
-type: way
+type: node
 latitude: 51.09681
 longitude: 7.6812
 postcode: "58540"
 city: Meinerzhagen
-street: "Darmcher Grund"
-housenumber: 14
+street: Darmcher Grund
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 169747528
-type: way
+type: node
 latitude: 50.97569
 longitude: 6.78203
 postcode: "50259"
 city: Pulheim
-street: "Brauweilerstraße"
-housenumber: 54
+street: Brauweilerstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

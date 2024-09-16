@@ -1,11 +1,11 @@
 id: 373558673
-type: way
+type: node
 latitude: 51.80925
 longitude: 6.56473
 postcode: "46395"
 city: Bocholt
-street: "Telingskamp"
-housenumber: 18
+street: Telingskamp
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.massive-eichenmoebel.de/"
+website: https://www.massive-eichenmoebel.de/

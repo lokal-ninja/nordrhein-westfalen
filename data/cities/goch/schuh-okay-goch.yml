@@ -1,11 +1,11 @@
 id: 163416421
-type: way
+type: node
 latitude: 51.67466
 longitude: 6.15891
 postcode: "47574"
 city: Goch
-street: "Voßstraße"
-housenumber: 56
-phone: "+49 2823 9294284"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.schuh-okay.de/"
+street: Voßstraße
+housenumber: "56"
+phone: +49 2823 9294284
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.schuh-okay.de/

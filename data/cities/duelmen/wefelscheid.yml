@@ -1,11 +1,11 @@
 id: 297490148
-type: way
+type: node
 latitude: 51.83027
 longitude: 7.27669
 postcode: "48249"
 city: Dülmen
-street: "Marktgasse"
-housenumber: 7
+street: Marktgasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

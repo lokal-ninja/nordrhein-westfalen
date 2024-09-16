@@ -4,8 +4,8 @@ latitude: 51.29702
 longitude: 6.84961
 postcode: "40878"
 city: Ratingen
-street: "Marktplatz"
-housenumber: 21
-phone: "+49 2102 8838603"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off"
+street: Marktplatz
+housenumber: "21"
+phone: +49 2102 8838603
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off
 website: ""

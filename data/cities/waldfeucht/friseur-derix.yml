@@ -1,11 +1,11 @@
 id: 50671006
-type: way
+type: node
 latitude: 51.08903
 longitude: 6.02852
 postcode: "52525"
 city: Waldfeucht
-street: "Sopericher Straße"
-housenumber: 22
-phone: "+49 2452 7412"
+street: Sopericher Straße
+housenumber: "22"
+phone: +49 2452 7412
 opening_hours: ""
 website: ""

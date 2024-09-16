@@ -4,8 +4,8 @@ latitude: 51.38632
 longitude: 7.05292
 postcode: "45239"
 city: Essen
-street: "Margrefstraße"
-housenumber: 18
-phone: "+49 201 409319"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://mittelhammshof.de/"
+street: Margrefstraße
+housenumber: "18"
+phone: +49 201 409319
+opening_hours: Mo-Sa 08:00-18:00
+website: https://mittelhammshof.de/

@@ -1,11 +1,11 @@
 id: 700303348
-type: way
+type: node
 latitude: 51.67142
 longitude: 8.57955
 postcode: "33154"
 city: Salzkotten
-street: "Wilhelm-Schierenberg-Straße"
-housenumber: 2
+street: Wilhelm-Schierenberg-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.parkandgarden.info/"
+website: https://www.parkandgarden.info/

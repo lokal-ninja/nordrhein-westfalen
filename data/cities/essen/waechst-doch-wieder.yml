@@ -4,8 +4,8 @@ latitude: 51.43618
 longitude: 7.00756
 postcode: "45130"
 city: Essen
-street: "Dorotheenstraße"
-housenumber: 20
+street: Dorotheenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.waechstdochwieder.de/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.waechstdochwieder.de/

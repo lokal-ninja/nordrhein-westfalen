@@ -1,11 +1,11 @@
 id: 316791453
-type: way
+type: node
 latitude: 51.43091
 longitude: 6.88631
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Dieter-aus-dem-Siepen-Platz"
-housenumber: 3
-phone: "+49 208 4511420"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://ruhrbahn.de/"
+street: Dieter-aus-dem-Siepen-Platz
+housenumber: "3"
+phone: +49 208 4511420
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://ruhrbahn.de/

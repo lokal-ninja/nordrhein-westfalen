@@ -1,11 +1,11 @@
 id: 98941339
-type: way
+type: node
 latitude: 50.91097
 longitude: 6.80439
 postcode: "50226"
 city: Frechen
-street: "Dr.-Tusch-Straße"
+street: Dr.-Tusch-Straße
 housenumber: 26-32
-phone: "+49 2234 957460"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://marktkauf-frechen.de/"
+phone: +49 2234 957460
+opening_hours: Mo-Sa 08:00-21:00
+website: https://marktkauf-frechen.de/

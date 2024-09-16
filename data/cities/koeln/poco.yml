@@ -4,8 +4,8 @@ latitude: 50.98374
 longitude: 6.90025
 postcode: "50829"
 city: Köln
-street: "Butzweilerstraße"
-housenumber: 49
+street: Butzweilerstraße
+housenumber: "49"
 phone: "+4922184644020"
-opening_hours: "Mo-Sa 10:00-20:00; Su, PH off"
-website: "https://www.poco.de/"
+opening_hours: Mo-Sa 10:00-20:00; Su, PH off
+website: https://www.poco.de/

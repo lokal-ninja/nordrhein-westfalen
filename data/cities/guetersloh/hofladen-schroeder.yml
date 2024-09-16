@@ -4,8 +4,8 @@ latitude: 51.88243
 longitude: 8.35296
 postcode: "33334"
 city: Gütersloh
-street: "Kiebitzstraße"
-housenumber: 15
-phone: "+49 5241 51637"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://hof-schroeder.com"
+street: Kiebitzstraße
+housenumber: "15"
+phone: +49 5241 51637
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://hof-schroeder.com

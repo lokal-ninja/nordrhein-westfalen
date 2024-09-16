@@ -1,11 +1,11 @@
 id: 104282015
-type: way
+type: node
 latitude: 51.66138
 longitude: 7.64454
 postcode: "59368"
 city: Werne
-street: "Lippestraße"
-housenumber: 17
-phone: "+49 2389 9600"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.ford-wenner-werne.de/"
+street: Lippestraße
+housenumber: "17"
+phone: +49 2389 9600
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.ford-wenner-werne.de/

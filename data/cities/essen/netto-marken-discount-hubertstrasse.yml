@@ -1,11 +1,11 @@
 id: 1244558702
-type: way
+type: node
 latitude: 51.46626
 longitude: 7.04889
 postcode: "45139"
 city: Essen
-street: "Hubertstraße"
-housenumber: 40
+street: Hubertstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/

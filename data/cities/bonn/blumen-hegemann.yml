@@ -4,8 +4,8 @@ latitude: 50.74665
 longitude: 7.1251
 postcode: "53225"
 city: Bonn
-street: "Platanenweg"
-housenumber: 75
-phone: "+49 228 6209388"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00; Su 09:00-13:00"
-website: "https://blumen-hegemann.de/"
+street: Platanenweg
+housenumber: "75"
+phone: +49 228 6209388
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00; Su 09:00-13:00
+website: https://blumen-hegemann.de/

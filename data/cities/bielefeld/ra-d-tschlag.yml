@@ -4,8 +4,8 @@ latitude: 52.03822
 longitude: 8.49471
 postcode: "33615"
 city: Bielefeld
-street: "Universitätsstraße"
-housenumber: 23
-phone: "+49-521-106-2884"
-opening_hours: "Mo-Fr 11:00-13:00, 14:00-18:00"
-website: "https://asta-bielefeld.de/asta/service/radtschlag/"
+street: Universitätsstraße
+housenumber: "23"
+phone: +49-521-106-2884
+opening_hours: Mo-Fr 11:00-13:00, 14:00-18:00
+website: https://asta-bielefeld.de/asta/service/radtschlag/

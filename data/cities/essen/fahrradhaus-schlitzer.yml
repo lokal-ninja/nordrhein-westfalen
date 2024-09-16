@@ -4,8 +4,8 @@ latitude: 51.42276
 longitude: 7.00766
 postcode: "45133"
 city: Essen
-street: "Heinrich-Held-Straße"
-housenumber: 52
+street: Heinrich-Held-Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://schlitzer.com"
+website: https://schlitzer.com

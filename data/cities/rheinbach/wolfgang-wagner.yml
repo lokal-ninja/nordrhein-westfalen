@@ -4,8 +4,8 @@ latitude: 50.626
 longitude: 6.95231
 postcode: "53359"
 city: Rheinbach
-street: "Vor dem Voigtstor"
-housenumber: 3
-phone: "+49 2226 16449"
-opening_hours: "Mo-Th 08:00-12:00,14:00-19:30; Fr 08:00-12:00"
-website: "https://www.massagepraxiswagner.de/"
+street: Vor dem Voigtstor
+housenumber: "3"
+phone: +49 2226 16449
+opening_hours: Mo-Th 08:00-12:00,14:00-19:30; Fr 08:00-12:00
+website: https://www.massagepraxiswagner.de/

@@ -1,11 +1,11 @@
 id: 305616689
-type: way
+type: node
 latitude: 50.77521
 longitude: 6.21842
 postcode: "52223"
 city: Stolberg (Rhld.)
-street: "Schellerweg"
-housenumber: 130
-phone: "+49  2402 9730216"
-opening_hours: "Mo-Fr 09:00-12:30, 13:00-17:00; Sa 09:00-12:00"
+street: Schellerweg
+housenumber: "130"
+phone: +49  2402 9730216
+opening_hours: Mo-Fr 09:00-12:30, 13:00-17:00; Sa 09:00-12:00
 website: ""

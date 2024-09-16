@@ -1,11 +1,11 @@
 id: 257781211
-type: way
+type: node
 latitude: 51.65257
 longitude: 8.35462
 postcode: "59557"
 city: Lippstadt
-street: "Hansastraße"
-housenumber: 25
-phone: "+49 2941 94805-22"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.psautomobile.de/"
+street: Hansastraße
+housenumber: "25"
+phone: +49 2941 94805-22
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.psautomobile.de/

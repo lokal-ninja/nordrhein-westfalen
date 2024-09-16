@@ -1,11 +1,11 @@
 id: 305139220
-type: way
+type: node
 latitude: 51.26156
 longitude: 7.18138
 postcode: "42285"
 city: Wuppertal
-street: "Fingscheid"
-housenumber: 20
+street: Fingscheid
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 08:00-13:00; PH,Su off; Mo 13:00-18:30"
+opening_hours: Tu-Fr 09:30-18:30; Sa 08:00-13:00; PH,Su off; Mo 13:00-18:30
 website: ""

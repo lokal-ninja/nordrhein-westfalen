@@ -4,8 +4,8 @@ latitude: 51.43228
 longitude: 6.76362
 postcode: "47051"
 city: Duisburg
-street: "Wallstraße"
-housenumber: 3
-phone: "+49 1575 8344256"
-opening_hours: "Tu-Fr 11:00-19:00, Sa 11:00-17:00"
-website: "https://bierbude-duisburg.de/"
+street: Wallstraße
+housenumber: "3"
+phone: +49 1575 8344256
+opening_hours: Tu-Fr 11:00-19:00, Sa 11:00-17:00
+website: https://bierbude-duisburg.de/

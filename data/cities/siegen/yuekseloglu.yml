@@ -1,11 +1,11 @@
 id: 168427732
-type: way
+type: node
 latitude: 50.86875
 longitude: 8.00568
 postcode: "57072"
 city: Siegen
-street: "Schlachthausstraße"
-housenumber: 12
+street: Schlachthausstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://yuekseloglu-fleischhandel.de/"
+website: https://yuekseloglu-fleischhandel.de/

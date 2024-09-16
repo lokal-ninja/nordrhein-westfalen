@@ -4,8 +4,8 @@ latitude: 51.23114
 longitude: 7.19139
 postcode: "42369"
 city: Wuppertal
-street: "Monschaustraße"
-housenumber: 76
+street: Monschaustraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.anja-maubach.de/"
+website: https://www.anja-maubach.de/

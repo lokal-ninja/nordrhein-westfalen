@@ -1,11 +1,11 @@
 id: 735297027
-type: way
+type: node
 latitude: 50.6887
 longitude: 7.14412
 postcode: "53175"
 city: Bonn
-street: "Friesdorfer Straße"
-housenumber: 125
-phone: "+49 228 9092930"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.haribo.com/deDE/world/startseite.html"
+street: Friesdorfer Straße
+housenumber: "125"
+phone: +49 228 9092930
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.haribo.com/deDE/world/startseite.html

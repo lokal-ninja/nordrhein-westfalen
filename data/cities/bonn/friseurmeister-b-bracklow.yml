@@ -4,8 +4,8 @@ latitude: 50.74082
 longitude: 7.09427
 postcode: "53111"
 city: Bonn
-street: "Heerstraße"
-housenumber: 13
+street: Heerstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

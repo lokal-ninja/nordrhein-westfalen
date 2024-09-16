@@ -1,11 +1,11 @@
 id: 222324424
-type: way
+type: node
 latitude: 51.61349
 longitude: 7.52393
 postcode: "44532"
 city: Lünen
-street: "Lange Straße"
-housenumber: 36
+street: Lange Straße
+housenumber: "36"
 phone: "+49230618142"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.parfuemerie-pieper.de/filialfinder/parfuemerie-pieper-luenen-lange-strasse.html"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.parfuemerie-pieper.de/filialfinder/parfuemerie-pieper-luenen-lange-strasse.html

@@ -1,11 +1,11 @@
 id: 28025994
-type: way
+type: node
 latitude: 50.91287
 longitude: 8.05609
 postcode: "57250"
 city: Netphen
-street: "Im Grunde"
-housenumber: 5
+street: Im Grunde
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.aldi-nord.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.aldi-nord.de

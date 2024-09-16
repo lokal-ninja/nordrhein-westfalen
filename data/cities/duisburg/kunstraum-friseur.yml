@@ -4,8 +4,8 @@ latitude: 51.43126
 longitude: 6.76816
 postcode: "47051"
 city: Duisburg
-street: "Lenzmannstraße"
-housenumber: 12
+street: Lenzmannstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.kunstraum-friseure.de/"
+opening_hours: Tu-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.kunstraum-friseure.de/

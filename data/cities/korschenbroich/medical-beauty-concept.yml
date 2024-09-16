@@ -4,8 +4,9 @@ latitude: 51.192
 longitude: 6.51291
 postcode: "41352"
 city: Korschenbroich
-street: "Am Brauhaus"
-housenumber: 30
-phone: "+49 21 61 9990075"
-opening_hours: "Mo,Th 08:00-13:00; Tu,We 15:00-20:00; Fr 12:00-18:00; Sa alle 14 Tage || nach Vereinbarung"
-website: "http://www.medical-beauty-concept.de"
+street: Am Brauhaus
+housenumber: "30"
+phone: +49 21 61 9990075
+opening_hours: Mo,Th 08:00-13:00; Tu,We 15:00-20:00; Fr 12:00-18:00; Sa "alle 14 Tage"
+    || "nach Vereinbarung"
+website: http://www.medical-beauty-concept.de

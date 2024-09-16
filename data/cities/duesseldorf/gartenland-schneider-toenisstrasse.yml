@@ -4,8 +4,8 @@ latitude: 51.17901
 longitude: 6.87101
 postcode: "40599"
 city: Düsseldorf
-street: "Tönisstraße"
-housenumber: 27
-phone: "+49 211 74 29 94"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su 10:00-12:00"
-website: "https://www.gartenlandschneider.de/"
+street: Tönisstraße
+housenumber: "27"
+phone: +49 211 74 29 94
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su 10:00-12:00
+website: https://www.gartenlandschneider.de/

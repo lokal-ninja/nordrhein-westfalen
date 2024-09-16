@@ -1,11 +1,11 @@
 id: 31021404
-type: way
+type: node
 latitude: 51.1437
 longitude: 6.42355
 postcode: "41199"
 city: Mönchengladbach
-street: "Reststrauch"
-housenumber: 305
+street: Reststrauch
+housenumber: "305"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 149016015
-type: way
+type: node
 latitude: 51.39501
 longitude: 7.76952
 postcode: "58675"
 city: Hemer
-street: "Mendener Straße"
-housenumber: 46
+street: Mendener Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

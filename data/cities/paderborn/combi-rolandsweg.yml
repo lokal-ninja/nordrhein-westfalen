@@ -1,11 +1,11 @@
 id: 232254233
-type: way
+type: node
 latitude: 51.72838
 longitude: 8.75714
 postcode: "33102"
 city: Paderborn
-street: "Rolandsweg"
-housenumber: 111
-phone: "+49 5251 1809556"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.combi.de/"
+street: Rolandsweg
+housenumber: "111"
+phone: +49 5251 1809556
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.combi.de/

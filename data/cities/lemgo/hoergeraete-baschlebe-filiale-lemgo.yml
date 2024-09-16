@@ -4,8 +4,8 @@ latitude: 52.02823
 longitude: 8.9042
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 22
-phone: "+49 5261 4384"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; Su,PH off"
-website: "https://baschlebe.de"
+street: Mittelstraße
+housenumber: "22"
+phone: +49 5261 4384
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00; Su,PH off
+website: https://baschlebe.de

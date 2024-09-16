@@ -4,8 +4,8 @@ latitude: 50.92232
 longitude: 6.92824
 postcode: "50937"
 city: Köln
-street: "Weyertal"
-housenumber: 17
+street: Weyertal
+housenumber: "17"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 12:00-15:00; Mo 14:00-18:00"
-website: "http://www.ulrich-doege.de/"
+opening_hours: Tu-Fr 12:00-18:00; Sa 12:00-15:00; Mo 14:00-18:00
+website: http://www.ulrich-doege.de/

@@ -1,11 +1,11 @@
 id: 303635321
-type: way
+type: node
 latitude: 51.02495
 longitude: 7.56756
 postcode: "51643"
 city: Gummersbach
-street: "Hindenburgstraße"
-housenumber: 20
-phone: "+49 22619118070"
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:30-19:30; Su 07:00-18:00"
+street: Hindenburgstraße
+housenumber: "20"
+phone: +49 22619118070
+opening_hours: Mo-Fr 06:00-19:30; Sa 06:30-19:30; Su 07:00-18:00
 website: ""

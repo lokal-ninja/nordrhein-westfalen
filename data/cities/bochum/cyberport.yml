@@ -4,8 +4,8 @@ latitude: 51.48218
 longitude: 7.21804
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 100
-phone: "+49 351 3395-60"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.cyberport.de/service/cyberport-stores/bochum.html"
+street: Kortumstraße
+housenumber: "100"
+phone: +49 351 3395-60
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.cyberport.de/service/cyberport-stores/bochum.html

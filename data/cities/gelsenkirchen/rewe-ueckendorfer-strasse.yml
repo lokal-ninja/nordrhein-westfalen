@@ -1,11 +1,11 @@
 id: 266898810
-type: way
+type: node
 latitude: 51.50487
 longitude: 7.11591
 postcode: "45886"
 city: Gelsenkirchen
-street: "Ückendorfer Straße"
-housenumber: 37
+street: Ückendorfer Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH off"
-website: "https://www.rewe-dortmund.de/"
+opening_hours: Mo-Sa 06:00-22:00; Su,PH off
+website: https://www.rewe-dortmund.de/

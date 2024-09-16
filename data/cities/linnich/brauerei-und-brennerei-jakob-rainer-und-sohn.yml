@@ -4,8 +4,8 @@ latitude: 50.95933
 longitude: 6.2593
 postcode: "52441"
 city: Linnich
-street: "Kreisstraße"
-housenumber: 33
+street: Kreisstraße
+housenumber: "33"
 phone: ""
-opening_hours: "We-Fr 09:00-18:00; Sa 08:30-12:00; PH,Su,Mo,Tu off"
-website: "http://www.brauerei-rainer.de"
+opening_hours: We-Fr 09:00-18:00; Sa 08:30-12:00; PH,Su,Mo,Tu off
+website: http://www.brauerei-rainer.de

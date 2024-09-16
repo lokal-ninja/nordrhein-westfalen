@@ -4,8 +4,8 @@ latitude: 50.88477
 longitude: 6.11779
 postcode: "52134"
 city: Herzogenrath
-street: "Geilenkirchener Straße"
-housenumber: 381
-phone: "+49 2406 9237211"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-15:00; Su 07:00-13:00"
-website: "https://www.baecker-schneider.de/"
+street: Geilenkirchener Straße
+housenumber: "381"
+phone: +49 2406 9237211
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-15:00; Su 07:00-13:00
+website: https://www.baecker-schneider.de/

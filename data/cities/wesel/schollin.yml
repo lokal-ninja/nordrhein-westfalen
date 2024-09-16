@@ -1,11 +1,11 @@
 id: 311822744
-type: way
+type: node
 latitude: 51.66704
 longitude: 6.63242
 postcode: "46485"
 city: Wesel
-street: "Kraftstraße"
-housenumber: 15
+street: Kraftstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-15:00; Su 06:30-15:00"
-website: "https://www.schollin.de/kraftstrase/"
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-15:00; Su 06:30-15:00
+website: https://www.schollin.de/kraftstrase/

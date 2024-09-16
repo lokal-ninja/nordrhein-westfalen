@@ -4,8 +4,8 @@ latitude: 51.49148
 longitude: 7.30524
 postcode: "44894"
 city: Bochum
-street: "Nörenbergstraße"
-housenumber: 25
-phone: "+49 234 92780300"
-opening_hours: "Mo-Sa 06:15-18:30; Su 07:30-16:00"
-website: "https://www.baeckerei-grobe.de/"
+street: Nörenbergstraße
+housenumber: "25"
+phone: +49 234 92780300
+opening_hours: Mo-Sa 06:15-18:30; Su 07:30-16:00
+website: https://www.baeckerei-grobe.de/

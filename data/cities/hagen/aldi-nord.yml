@@ -4,8 +4,8 @@ latitude: 51.34955
 longitude: 7.57208
 postcode: "58119"
 city: Hagen
-street: "Bahnstraße"
-housenumber: 11
+street: Bahnstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.aldi-nord.de/

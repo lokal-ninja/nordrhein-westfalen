@@ -1,11 +1,11 @@
 id: 227407444
-type: way
+type: node
 latitude: 51.59392
 longitude: 7.22032
 postcode: "45659"
 city: Recklinghausen
-street: "Blitzkuhlenstraße"
-housenumber: 97
+street: Blitzkuhlenstraße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

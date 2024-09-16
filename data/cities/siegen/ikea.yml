@@ -1,11 +1,11 @@
 id: 41229973
-type: way
+type: node
 latitude: 50.86226
 longitude: 8.00272
 postcode: "57072"
 city: Siegen
-street: "Wallhausenstraße"
-housenumber: 60
+street: Wallhausenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Th 09:30-20:00,Fr 09:30-21:00,Sa 09:30-20:00"
-website: "https://www.ikea.com/de/de/store/siegen"
+opening_hours: Mo-Th 09:30-20:00,Fr 09:30-21:00,Sa 09:30-20:00
+website: https://www.ikea.com/de/de/store/siegen

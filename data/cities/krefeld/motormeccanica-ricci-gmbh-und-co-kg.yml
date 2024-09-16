@@ -4,8 +4,8 @@ latitude: 51.33713
 longitude: 6.63247
 postcode: "47809"
 city: Krefeld
-street: "Bruchhecke"
-housenumber: 36
-phone: "+49 2151 521134"
-opening_hours: "Mo-Th 08:30-18:00, Fr 08:30-17:00, Sa 10:00-13:00"
-website: "https://www.motormeccanica-ricci.de/"
+street: Bruchhecke
+housenumber: "36"
+phone: +49 2151 521134
+opening_hours: Mo-Th 08:30-18:00, Fr 08:30-17:00, Sa 10:00-13:00
+website: https://www.motormeccanica-ricci.de/

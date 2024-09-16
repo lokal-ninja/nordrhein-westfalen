@@ -1,11 +1,11 @@
 id: 274764793
-type: way
+type: node
 latitude: 51.06087
 longitude: 6.09032
 postcode: "52525"
 city: Heinsberg
-street: "Westpromenade"
-housenumber: 15
-phone: "+49 2452 977 085 0"
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:30; Sa 09:00-13:00"
-website: "https://www.es-hs.de/"
+street: Westpromenade
+housenumber: "15"
+phone: +49 2452 977 085 0
+opening_hours: Mo-Fr 08:00-12:30, 14:00-18:30; Sa 09:00-13:00
+website: https://www.es-hs.de/

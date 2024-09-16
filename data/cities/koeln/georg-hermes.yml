@@ -1,11 +1,11 @@
 id: 251903742
-type: way
+type: node
 latitude: 50.84758
 longitude: 7.00797
 postcode: "51143"
 city: Köln
-street: "Sandbergstraße"
-housenumber: 28
-phone: "+49 2203 81809"
+street: Sandbergstraße
+housenumber: "28"
+phone: +49 2203 81809
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.49843
 longitude: 8.13638
 postcode: "59519"
 city: Möhnesee
-street: "Echtroper Weg"
-housenumber: 10
-phone: "+49 2924 5277"
-opening_hours: "10:00-22:00"
-website: "http://www.der-computer-doc.net/"
+street: Echtroper Weg
+housenumber: "10"
+phone: +49 2924 5277
+opening_hours: 10:00-22:00
+website: http://www.der-computer-doc.net/

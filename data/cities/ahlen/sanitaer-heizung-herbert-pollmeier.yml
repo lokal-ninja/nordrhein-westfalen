@@ -1,11 +1,11 @@
 id: 305901297
-type: way
+type: node
 latitude: 51.77242
 longitude: 7.91477
 postcode: "59227"
 city: Ahlen
-street: "Schinkelstraße"
-housenumber: 76
+street: Schinkelstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

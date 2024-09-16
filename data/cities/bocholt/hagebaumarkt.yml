@@ -1,11 +1,11 @@
 id: 91900817
-type: way
+type: node
 latitude: 51.83822
 longitude: 6.59514
 postcode: "46395"
 city: Bocholt
-street: "Werther Straße"
-housenumber: 50
+street: Werther Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
 website: ""

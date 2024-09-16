@@ -1,11 +1,11 @@
 id: 202993056
-type: way
+type: node
 latitude: 51.1719
 longitude: 6.91994
 postcode: "40721"
 city: Hilden
-street: "Ellerstraße"
-housenumber: 100
+street: Ellerstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

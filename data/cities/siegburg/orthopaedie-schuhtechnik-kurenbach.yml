@@ -4,8 +4,8 @@ latitude: 50.7985
 longitude: 7.20592
 postcode: "53721"
 city: Siegburg
-street: "Ringstraße"
-housenumber: 42
-phone: "+49 2241 57878"
+street: Ringstraße
+housenumber: "42"
+phone: +49 2241 57878
 opening_hours: ""
-website: "https://www.ot-kurenbach.de/"
+website: https://www.ot-kurenbach.de/

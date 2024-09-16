@@ -4,8 +4,8 @@ latitude: 51.49163
 longitude: 7.37275
 postcode: "44149"
 city: Dortmund
-street: "Brennaborstraße"
-housenumber: 1
+street: Brennaborstraße
+housenumber: "1"
 phone: "+4923169696269"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
+opening_hours: Mo-Sa 10:00-19:00; Su off
 website: ""

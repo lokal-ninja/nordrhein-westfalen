@@ -1,11 +1,11 @@
 id: 1029998573
-type: way
+type: node
 latitude: 51.50626
 longitude: 6.8845
 postcode: "46117"
 city: Oberhausen
-street: "Bergstraße"
-housenumber: 39
+street: Bergstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

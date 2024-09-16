@@ -4,8 +4,8 @@ latitude: 51.90708
 longitude: 8.3793
 postcode: "33330"
 city: Gütersloh
-street: "Berliner Straße"
-housenumber: 35
-phone: "+49 5241 9954596"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.smileoptic.de/filialen/guetersloh.html"
+street: Berliner Straße
+housenumber: "35"
+phone: +49 5241 9954596
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.smileoptic.de/filialen/guetersloh.html

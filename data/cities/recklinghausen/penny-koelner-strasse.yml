@@ -1,11 +1,11 @@
 id: 190454933
-type: way
+type: node
 latitude: 51.58136
 longitude: 7.20802
 postcode: "45661"
 city: Recklinghausen
-street: "Kölner Straße"
-housenumber: 12
+street: Kölner Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

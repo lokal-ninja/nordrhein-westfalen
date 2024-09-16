@@ -1,11 +1,11 @@
 id: 246492844
-type: way
+type: node
 latitude: 50.78794
 longitude: 6.22312
 postcode: "52222"
 city: Stolberg (Rhld.)
-street: "Eschweilerstraße"
-housenumber: 157
-phone: "+49 2402 8641515"
+street: Eschweilerstraße
+housenumber: "157"
+phone: +49 2402 8641515
 opening_hours: ""
-website: "https://www.sonderpreis-baumarkt.de/markt/stolberg"
+website: https://www.sonderpreis-baumarkt.de/markt/stolberg

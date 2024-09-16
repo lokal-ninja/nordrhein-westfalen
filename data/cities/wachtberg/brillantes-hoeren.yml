@@ -5,7 +5,7 @@ longitude: 7.13775
 postcode: "53343"
 city: Wachtberg
 street: ""
-housenumber: 1
-phone: "+49 228 32406040"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; We, Fr 09:00-13:00"
-website: "https://www.brillantes-hoeren.de/"
+housenumber: "1"
+phone: +49 228 32406040
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; We, Fr 09:00-13:00
+website: https://www.brillantes-hoeren.de/

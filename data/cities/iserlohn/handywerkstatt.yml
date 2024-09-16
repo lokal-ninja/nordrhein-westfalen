@@ -4,8 +4,8 @@ latitude: 51.37557
 longitude: 7.69337
 postcode: "58638"
 city: Iserlohn
-street: "Hans-Böckler-Straße"
-housenumber: 32
-phone: "+49 2371 770644"
-opening_hours: "Mo-Fr 9:00-13:00,14:30-18:00; Sa 11:00-14:00"
-website: "http://handy21.de/"
+street: Hans-Böckler-Straße
+housenumber: "32"
+phone: +49 2371 770644
+opening_hours: Mo-Fr 9:00-13:00,14:30-18:00; Sa 11:00-14:00
+website: http://handy21.de/

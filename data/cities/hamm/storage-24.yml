@@ -1,11 +1,11 @@
 id: 791670868
-type: way
+type: node
 latitude: 51.65849
 longitude: 7.83749
 postcode: "59063"
 city: Hamm
-street: "Werler Straße"
-housenumber: 287
-phone: "+49 2381 9084687"
+street: Werler Straße
+housenumber: "287"
+phone: +49 2381 9084687
 opening_hours: ""
-website: "https://www.storage24.com/de/listing/hamm/"
+website: https://www.storage24.com/de/listing/hamm/

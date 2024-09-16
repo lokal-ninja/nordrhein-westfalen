@@ -4,8 +4,8 @@ latitude: 51.259
 longitude: 7.76314
 postcode: "58791"
 city: Werdohl
-street: "Freiheitstraße"
-housenumber: 5
+street: Freiheitstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su off"
-website: "https://www.schuh-brockhaus.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; Su off
+website: https://www.schuh-brockhaus.de/

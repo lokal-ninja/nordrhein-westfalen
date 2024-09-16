@@ -4,8 +4,8 @@ latitude: 50.92907
 longitude: 7.0001
 postcode: "51105"
 city: Köln
-street: "Rolshover Straße"
-housenumber: 159
+street: Rolshover Straße
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Fr 05:00-17:00; Sa 05:00-13:00"
-website: "http://www.partyservice-mueller-koeln.de/"
+opening_hours: Mo-Fr 05:00-17:00; Sa 05:00-13:00
+website: http://www.partyservice-mueller-koeln.de/

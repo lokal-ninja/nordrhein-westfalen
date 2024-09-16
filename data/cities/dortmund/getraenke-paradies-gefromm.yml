@@ -1,11 +1,11 @@
 id: 31980769
-type: way
+type: node
 latitude: 51.50654
 longitude: 7.43949
 postcode: "44137"
 city: Dortmund
-street: "Tremoniastraße"
-housenumber: 26
-phone: "+49 231 16 55 103"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"
-website: "https://getraenke-paradies.com/"
+street: Tremoniastraße
+housenumber: "26"
+phone: +49 231 16 55 103
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-18:00
+website: https://getraenke-paradies.com/

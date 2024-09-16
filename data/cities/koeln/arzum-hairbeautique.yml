@@ -4,8 +4,8 @@ latitude: 50.85995
 longitude: 7.10444
 postcode: "51147"
 city: Köln
-street: "Magazinstraße"
-housenumber: 3
+street: Magazinstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-14:00; PH off"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-14:00; PH off
 website: ""

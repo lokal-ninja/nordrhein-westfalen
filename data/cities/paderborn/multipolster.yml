@@ -1,11 +1,11 @@
 id: 29227837
-type: way
+type: node
 latitude: 51.73286
 longitude: 8.78546
 postcode: "33100"
 city: Paderborn
-street: "Senefelderstraße"
+street: Senefelderstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; PH off"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; PH off
 website: ""

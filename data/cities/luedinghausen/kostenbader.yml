@@ -1,11 +1,11 @@
 id: 280809012
-type: way
+type: node
 latitude: 51.77175
 longitude: 7.44401
 postcode: "59348"
 city: Lüdinghausen
-street: "Markt"
-housenumber: 4
+street: Markt
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

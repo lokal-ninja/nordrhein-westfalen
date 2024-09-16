@@ -1,11 +1,11 @@
 id: 440208764
-type: way
+type: node
 latitude: 50.75544
 longitude: 7.02832
 postcode: "53347"
 city: Alfter
-street: "Alexander-Bell-Straße"
-housenumber: 22
-phone: "+49 228 554 0"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.pvautomotive.de/"
+street: Alexander-Bell-Straße
+housenumber: "22"
+phone: +49 228 554 0
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.pvautomotive.de/

@@ -4,8 +4,8 @@ latitude: 51.69126
 longitude: 7.46678
 postcode: "59379"
 city: Selm
-street: "Teichstraße"
-housenumber: 54
-phone: "+49 2592 9190877"
-opening_hours: "Mo-Sa 07:00-13:00; Su 07:00-12:00"
-website: "https://www.bertholds-dernaturbaecker.de/"
+street: Teichstraße
+housenumber: "54"
+phone: +49 2592 9190877
+opening_hours: Mo-Sa 07:00-13:00; Su 07:00-12:00
+website: https://www.bertholds-dernaturbaecker.de/

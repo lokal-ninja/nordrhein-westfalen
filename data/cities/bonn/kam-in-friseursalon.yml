@@ -4,8 +4,8 @@ latitude: 50.72448
 longitude: 7.13524
 postcode: "53227"
 city: Bonn
-street: "Landgrabenweg"
-housenumber: 40
-phone: "+49 228 6296209"
+street: Landgrabenweg
+housenumber: "40"
+phone: +49 228 6296209
 opening_hours: ""
-website: "http://kam-in.eu/"
+website: http://kam-in.eu/

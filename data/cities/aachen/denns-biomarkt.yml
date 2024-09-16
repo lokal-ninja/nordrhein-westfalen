@@ -4,8 +4,8 @@ latitude: 50.77193
 longitude: 6.08375
 postcode: "52064"
 city: Aachen
-street: "Franzstraße"
-housenumber: 2
-phone: "+49 241 91285873"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.denns-biomarkt.de/"
+street: Franzstraße
+housenumber: "2"
+phone: +49 241 91285873
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.denns-biomarkt.de/

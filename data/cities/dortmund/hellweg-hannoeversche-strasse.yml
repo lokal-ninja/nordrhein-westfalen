@@ -1,11 +1,11 @@
 id: 32140648
-type: way
+type: node
 latitude: 51.52456
 longitude: 7.5079
 postcode: "44143"
 city: Dortmund
-street: "Hannöversche Straße"
-housenumber: 56
+street: Hannöversche Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

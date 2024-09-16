@@ -4,8 +4,9 @@ latitude: 51.50648
 longitude: 7.62244
 postcode: "59439"
 city: Holzwickede
-street: "August-Borsig-Straße"
-housenumber: 10
+street: August-Borsig-Straße
+housenumber: "10"
 phone: "+4923019450940"
-opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.takko.com/de-de/"
+opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr
+    09:00-19:00; Sa 09:00-18:00
+website: https://www.takko.com/de-de/

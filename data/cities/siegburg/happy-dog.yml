@@ -4,8 +4,8 @@ latitude: 50.79536
 longitude: 7.19402
 postcode: "53721"
 city: Siegburg
-street: "Katharinenstraße"
-housenumber: 104
-phone: "+49 2241 60152"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.happy-dog-reifenberg.de/"
+street: Katharinenstraße
+housenumber: "104"
+phone: +49 2241 60152
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.happy-dog-reifenberg.de/

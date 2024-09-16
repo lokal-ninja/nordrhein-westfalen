@@ -1,11 +1,11 @@
 id: 381202144
-type: way
+type: node
 latitude: 51.47561
 longitude: 7.27171
 postcode: "44803"
 city: Bochum
-street: "Sudbeckenpfad"
-housenumber: 1
+street: Sudbeckenpfad
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

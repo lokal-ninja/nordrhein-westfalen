@@ -4,8 +4,8 @@ latitude: 51.36631
 longitude: 7.61727
 postcode: "58642"
 city: Iserlohn
-street: "Neumarkt"
-housenumber: 1
+street: Neumarkt
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://projects.gmbh"
+website: https://projects.gmbh

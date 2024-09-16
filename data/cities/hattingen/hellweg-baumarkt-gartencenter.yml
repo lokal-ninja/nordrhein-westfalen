@@ -1,11 +1,11 @@
 id: 38575098
-type: way
+type: node
 latitude: 51.40794
 longitude: 7.19575
 postcode: "45527"
 city: Hattingen
-street: "Am Büchsenschütz"
-housenumber: 10
-phone: "+49 2324 56680"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de/cms/de/Filialen/Hattingen/Hattingen.htm"
+street: Am Büchsenschütz
+housenumber: "10"
+phone: +49 2324 56680
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hellweg.de/cms/de/Filialen/Hattingen/Hattingen.htm

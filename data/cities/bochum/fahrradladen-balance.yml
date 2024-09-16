@@ -4,8 +4,8 @@ latitude: 51.47635
 longitude: 7.21613
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 5
-phone: "+49 234 12051"
-opening_hours: "Sa 10:00-18:00; Mo-Fr 10:00-19:00; Su, PH off"
-website: "https://www.balance-fahrradladen.de/"
+street: Kortumstraße
+housenumber: "5"
+phone: +49 234 12051
+opening_hours: Sa 10:00-18:00; Mo-Fr 10:00-19:00; Su, PH off
+website: https://www.balance-fahrradladen.de/

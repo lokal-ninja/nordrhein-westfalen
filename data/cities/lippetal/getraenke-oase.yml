@@ -1,11 +1,11 @@
 id: 227139549
-type: way
+type: node
 latitude: 51.66362
 longitude: 8.04301
 postcode: "59510"
 city: Lippetal
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:30,14:00-18:30; Fr 08:30-18:30; Sa 08:00-14:00"
+opening_hours: Mo-Th 08:30-12:30,14:00-18:30; Fr 08:30-18:30; Sa 08:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.72977
 longitude: 7.16319
 postcode: "45721"
 city: Haltern am See
-street: "Annabergstraße"
-housenumber: 166
-phone: "+49 2364 2370"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.moebel-doebber.de/"
+street: Annabergstraße
+housenumber: "166"
+phone: +49 2364 2370
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.moebel-doebber.de/

@@ -4,8 +4,8 @@ latitude: 50.92179
 longitude: 6.3562
 postcode: "52428"
 city: Jülich
-street: "Grünstraße"
-housenumber: 5
+street: Grünstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30;Sa 09:00-13:00"
-website: "http://www.juelich-city.de/backhausen-buero/front_content.php"
+opening_hours: Mo-Fr 08:00-18:30;Sa 09:00-13:00
+website: http://www.juelich-city.de/backhausen-buero/front_content.php

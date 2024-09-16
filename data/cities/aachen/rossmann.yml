@@ -4,8 +4,8 @@ latitude: 50.77156
 longitude: 6.08374
 postcode: "52064"
 city: Aachen
-street: "Franzstraße"
-housenumber: 2
+street: Franzstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-21:00; PH off"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-21:00; PH off
 website: ""

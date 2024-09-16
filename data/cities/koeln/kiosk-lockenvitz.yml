@@ -4,8 +4,8 @@ latitude: 50.88486
 longitude: 7.05871
 postcode: "51143"
 city: Köln
-street: "Hermannstraße"
-housenumber: 2
+street: Hermannstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off
 website: ""

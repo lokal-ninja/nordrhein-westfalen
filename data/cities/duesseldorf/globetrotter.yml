@@ -4,8 +4,8 @@ latitude: 51.22525
 longitude: 6.77456
 postcode: "40213"
 city: Düsseldorf
-street: "Flinger Straße"
-housenumber: 27
-phone: "+49 211 13062220"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.globetrotter.de/"
+street: Flinger Straße
+housenumber: "27"
+phone: +49 211 13062220
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.globetrotter.de/

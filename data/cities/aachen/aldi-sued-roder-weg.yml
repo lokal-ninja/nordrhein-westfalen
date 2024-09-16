@@ -1,11 +1,11 @@
 id: 165766102
-type: way
+type: node
 latitude: 50.81695
 longitude: 6.06533
 postcode: "52072"
 city: Aachen
-street: "Roder Weg"
-housenumber: 4
+street: Roder Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de/

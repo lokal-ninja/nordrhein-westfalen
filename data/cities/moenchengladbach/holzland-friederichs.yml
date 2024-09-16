@@ -4,8 +4,8 @@ latitude: 51.16725
 longitude: 6.45791
 postcode: "41236"
 city: Mönchengladbach
-street: "Bendhecker Straße"
-housenumber: 77
+street: Bendhecker Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30;Sa 09:00-14:00"
-website: "https://www.holzland-friederichs.de/"
+opening_hours: Mo-Fr 08:00-17:30;Sa 09:00-14:00
+website: https://www.holzland-friederichs.de/

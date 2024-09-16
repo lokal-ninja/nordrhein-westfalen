@@ -1,11 +1,11 @@
 id: 128774657
-type: way
+type: node
 latitude: 50.73965
 longitude: 7.12127
 postcode: "53225"
 city: Bonn
-street: "Friedrich-Breuer-Straße"
-housenumber: 77
+street: Friedrich-Breuer-Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-18:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 193679635
-type: way
+type: node
 latitude: 52.09272
 longitude: 7.23975
 postcode: "48624"
 city: Schöppingen
-street: "Wallstraße"
-housenumber: 10
+street: Wallstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

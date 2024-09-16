@@ -1,11 +1,11 @@
 id: 125483281
-type: way
+type: node
 latitude: 51.46665
 longitude: 7.05058
 postcode: "45139"
 city: Essen
-street: "Hubertstraße"
-housenumber: 68
+street: Hubertstraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

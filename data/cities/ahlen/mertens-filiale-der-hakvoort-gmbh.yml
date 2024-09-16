@@ -1,11 +1,11 @@
 id: 246356369
-type: way
+type: node
 latitude: 51.76936
 longitude: 7.93121
 postcode: "59227"
 city: Ahlen
-street: "Kruppstraße"
+street: Kruppstraße
 housenumber: 2b
-phone: "+49 2382 98350"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.hakvoort.de/go.to/modix/now/hakvoort-ahlen-startseite.html"
+phone: +49 2382 98350
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.hakvoort.de/go.to/modix/now/hakvoort-ahlen-startseite.html

@@ -4,8 +4,8 @@ latitude: 50.77349
 longitude: 7.44709
 postcode: "53783"
 city: Eitorf
-street: "Bahnhofstraße"
-housenumber: 32
-phone: "+49 2243 8473190"
-opening_hours: "Mo-Fr 05:00-17:00"
-website: "https://kamps.de/standort/kamps-baeckerei-bahnhof-eitorf-bahnhofstrasse-32"
+street: Bahnhofstraße
+housenumber: "32"
+phone: +49 2243 8473190
+opening_hours: Mo-Fr 05:00-17:00
+website: https://kamps.de/standort/kamps-baeckerei-bahnhof-eitorf-bahnhofstrasse-32

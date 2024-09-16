@@ -1,11 +1,11 @@
 id: 132663144
-type: way
+type: node
 latitude: 50.75956
 longitude: 7.02499
 postcode: "53332"
 city: Bornheim
-street: "Alexander-Bell-Straße"
-housenumber: 2
-phone: "+49 2222 64990"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://porta.de/einrichtungshaeuser/bornheim"
+street: Alexander-Bell-Straße
+housenumber: "2"
+phone: +49 2222 64990
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://porta.de/einrichtungshaeuser/bornheim

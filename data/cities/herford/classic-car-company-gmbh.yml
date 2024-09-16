@@ -1,11 +1,11 @@
 id: 169657983
-type: way
+type: node
 latitude: 52.1132
 longitude: 8.60403
 postcode: "32051"
 city: Herford
-street: "Diebrocker Straße"
-housenumber: 334
-phone: "+49-5221-1747944"
+street: Diebrocker Straße
+housenumber: "334"
+phone: +49-5221-1747944
 opening_hours: ""
-website: "http://www.classicmustangparts.de/"
+website: http://www.classicmustangparts.de/

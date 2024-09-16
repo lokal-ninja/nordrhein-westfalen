@@ -4,8 +4,8 @@ latitude: 51.5397
 longitude: 7.22316
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 37
-phone: "+49 2323 1465017"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:30"
-website: "https://www.c-and-a.com/"
+street: Bahnhofstraße
+housenumber: "37"
+phone: +49 2323 1465017
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-18:30
+website: https://www.c-and-a.com/

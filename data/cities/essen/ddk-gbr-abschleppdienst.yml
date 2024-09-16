@@ -1,11 +1,11 @@
 id: 444754380
-type: way
+type: node
 latitude: 51.45797
 longitude: 7.02587
 postcode: "45139"
 city: Essen
-street: "Ziegelstraße"
+street: Ziegelstraße
 housenumber: 6a
-phone: "+49 201 234 253"
+phone: +49 201 234 253
 opening_hours: ""
 website: ""

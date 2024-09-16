@@ -1,11 +1,11 @@
 id: 28708471
-type: way
+type: node
 latitude: 51.48709
 longitude: 7.08702
 postcode: "45884"
 city: Gelsenkirchen
-street: "Achternbergstraße"
-housenumber: 7
+street: Achternbergstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

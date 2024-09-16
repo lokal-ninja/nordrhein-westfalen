@@ -4,8 +4,8 @@ latitude: 51.77657
 longitude: 9.38138
 postcode: "37671"
 city: Höxter
-street: "Grubenstraße"
-housenumber: 2
-phone: "+49 5271 1204"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.kromes-backstube.de/"
+street: Grubenstraße
+housenumber: "2"
+phone: +49 5271 1204
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.kromes-backstube.de/

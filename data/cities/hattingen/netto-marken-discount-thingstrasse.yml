@@ -1,11 +1,11 @@
 id: 90862056
-type: way
+type: node
 latitude: 51.41118
 longitude: 7.20369
 postcode: "45527"
 city: Hattingen
-street: "Thingstraße"
-housenumber: 30
+street: Thingstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

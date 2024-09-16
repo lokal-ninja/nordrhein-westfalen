@@ -1,11 +1,11 @@
 id: 104132220
-type: way
+type: node
 latitude: 52.22642
 longitude: 7.48809
 postcode: "48432"
 city: Rheine
-street: "Dechant-Römer-Straße"
-housenumber: 19
+street: Dechant-Römer-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

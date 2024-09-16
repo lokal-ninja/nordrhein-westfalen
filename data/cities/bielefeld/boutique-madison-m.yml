@@ -4,8 +4,8 @@ latitude: 52.05686
 longitude: 8.54895
 postcode: "33611"
 city: Bielefeld
-street: "Johannisstraße"
-housenumber: 35
-phone: "+49-521-871130"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00"
+street: Johannisstraße
+housenumber: "35"
+phone: +49-521-871130
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00
 website: ""

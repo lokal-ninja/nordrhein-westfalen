@@ -1,11 +1,11 @@
 id: 124220102
-type: way
+type: node
 latitude: 51.54918
 longitude: 7.21885
 postcode: "44629"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 152
+street: Bahnhofstraße
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.rewe.de/marktseite/herne/1940303/rewe-center-bahnhofstrasse-152-roonstr-6/"
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.rewe.de/marktseite/herne/1940303/rewe-center-bahnhofstrasse-152-roonstr-6/

@@ -4,8 +4,8 @@ latitude: 51.80713
 longitude: 6.0706
 postcode: "47559"
 city: Kranenburg
-street: "Wibbeltstraße"
-housenumber: 120
-phone: "+49 2826 8109"
-opening_hours: "Mo.-Sa. 8:00-19:00 Uhr"
-website: "https://www.speetenhof.de"
+street: Wibbeltstraße
+housenumber: "120"
+phone: +49 2826 8109
+opening_hours: Mo.-Sa. 8:00-19:00 Uhr
+website: https://www.speetenhof.de

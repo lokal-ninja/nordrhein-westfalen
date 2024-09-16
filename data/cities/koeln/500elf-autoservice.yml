@@ -4,8 +4,8 @@ latitude: 50.89685
 longitude: 6.96672
 postcode: "50968"
 city: Köln
-street: "Bonner Straße"
-housenumber: 511
+street: Bonner Straße
+housenumber: "511"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.500elf-autoservice.de/index.php"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.500elf-autoservice.de/index.php

@@ -4,8 +4,8 @@ latitude: 51.23135
 longitude: 6.75051
 postcode: "40545"
 city: Düsseldorf
-street: "Luegallee"
-housenumber: 93
-phone: "+49 211 50679051"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-15:00; Su 08:30-11:30"
-website: "http://www.ihr-baecker-schueren.de/"
+street: Luegallee
+housenumber: "93"
+phone: +49 211 50679051
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-15:00; Su 08:30-11:30
+website: http://www.ihr-baecker-schueren.de/

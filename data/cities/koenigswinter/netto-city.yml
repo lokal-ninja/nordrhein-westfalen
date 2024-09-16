@@ -4,8 +4,8 @@ latitude: 50.67492
 longitude: 7.19355
 postcode: "53639"
 city: Königswinter
-street: "Hauptstraße"
-housenumber: 403
+street: Hauptstraße
+housenumber: "403"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

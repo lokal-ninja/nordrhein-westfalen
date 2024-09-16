@@ -4,8 +4,8 @@ latitude: 51.67266
 longitude: 8.60632
 postcode: "33154"
 city: Salzkotten
-street: "Lange Straße"
-housenumber: 38
-phone: "+49 5258 974890"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:30; Sa 09:30-13:00"
-website: "https://www.eine-welt-laden-salzkotten.de/"
+street: Lange Straße
+housenumber: "38"
+phone: +49 5258 974890
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:30; Sa 09:30-13:00
+website: https://www.eine-welt-laden-salzkotten.de/

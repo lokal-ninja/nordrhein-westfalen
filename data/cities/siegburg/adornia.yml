@@ -4,8 +4,8 @@ latitude: 50.79849
 longitude: 7.21085
 postcode: "53721"
 city: Siegburg
-street: "Holzgasse"
-housenumber: 48
-phone: "+49 2241 1275456"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00"
-website: "https://brautmoden-siegburg.de/"
+street: Holzgasse
+housenumber: "48"
+phone: +49 2241 1275456
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00
+website: https://brautmoden-siegburg.de/

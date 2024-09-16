@@ -4,8 +4,8 @@ latitude: 51.93772
 longitude: 8.8828
 postcode: "32756"
 city: Detmold
-street: "Lange Straße"
-housenumber: 84
+street: Lange Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-15:00"
-website: "https://www.zugvogel-detmold.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-15:00
+website: https://www.zugvogel-detmold.de/

@@ -1,11 +1,11 @@
 id: 182650555
-type: way
+type: node
 latitude: 50.77149
 longitude: 7.45044
 postcode: "53783"
 city: Eitorf
-street: "Poststraße"
-housenumber: 3
+street: Poststraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

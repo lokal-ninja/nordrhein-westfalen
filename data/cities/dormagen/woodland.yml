@@ -1,11 +1,11 @@
 id: 147379310
-type: way
+type: node
 latitude: 51.09387
 longitude: 6.81573
 postcode: "41540"
 city: Dormagen
-street: "Kieler Straße"
-housenumber: 11
-phone: "+49 2133 248210"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-17:00; Sa 11:00-14:00; Su 14:00-17:00"
-website: "https://www.woodland.de/"
+street: Kieler Straße
+housenumber: "11"
+phone: +49 2133 248210
+opening_hours: Mo-Fr 09:30-13:00,14:00-17:00; Sa 11:00-14:00; Su 14:00-17:00
+website: https://www.woodland.de/

@@ -1,11 +1,11 @@
 id: 90778603
-type: way
+type: node
 latitude: 51.17955
 longitude: 6.68251
 postcode: "41464"
 city: Neuss
-street: "Moselstraße"
-housenumber: 11
+street: Moselstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00; Su,PH off
 website: ""

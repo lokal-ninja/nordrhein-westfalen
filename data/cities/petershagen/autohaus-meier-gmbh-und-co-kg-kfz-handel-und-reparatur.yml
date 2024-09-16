@@ -4,8 +4,8 @@ latitude: 52.35494
 longitude: 8.84956
 postcode: "32469"
 city: Petershagen
-street: "Friedewalder Straße"
-housenumber: 25
-phone: "+49 5704 17900"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.autohaus-meier.de/"
+street: Friedewalder Straße
+housenumber: "25"
+phone: +49 5704 17900
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.autohaus-meier.de/

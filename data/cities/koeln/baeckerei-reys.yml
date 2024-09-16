@@ -4,8 +4,8 @@ latitude: 50.92005
 longitude: 6.91412
 postcode: "50935"
 city: Köln
-street: "Zülpicher Straße"
-housenumber: 359
-phone: "+49 15901888286"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-15:30; Su 08:30-13:00"
-website: "https://www.reys.cafe"
+street: Zülpicher Straße
+housenumber: "359"
+phone: +49 15901888286
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-15:30; Su 08:30-13:00
+website: https://www.reys.cafe

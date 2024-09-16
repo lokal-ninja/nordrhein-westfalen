@@ -4,8 +4,8 @@ latitude: 51.45183
 longitude: 7.19293
 postcode: "44795"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 375
-phone: "+49 234 57957100"
-opening_hours: "nach Terminvereinbarung"
+street: Hattinger Straße
+housenumber: "375"
+phone: +49 234 57957100
+opening_hours: '"nach Terminvereinbarung"'
 website: ""

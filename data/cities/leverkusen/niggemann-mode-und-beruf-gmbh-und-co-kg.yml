@@ -4,8 +4,8 @@ latitude: 51.03138
 longitude: 6.98094
 postcode: "51373"
 city: Leverkusen
-street: "Hauptstraße"
-housenumber: 80
-phone: "+49 214 41151"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Su 10:00-15:00"
-website: "https://www.niggemann-berufsbekleidung.de/"
+street: Hauptstraße
+housenumber: "80"
+phone: +49 214 41151
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Su 10:00-15:00
+website: https://www.niggemann-berufsbekleidung.de/

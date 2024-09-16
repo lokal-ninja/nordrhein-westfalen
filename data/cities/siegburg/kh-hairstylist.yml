@@ -4,8 +4,8 @@ latitude: 50.807
 longitude: 7.23259
 postcode: "53721"
 city: Siegburg
-street: "Kaldauer Straße"
-housenumber: 24
-phone: "+49 2241 8949939"
-opening_hours: "Sa 09:00-18:00; Mo-Th 09:00-19:00; Fr 09:00-20:00"
-website: "http://kh-hairstylist.de/"
+street: Kaldauer Straße
+housenumber: "24"
+phone: +49 2241 8949939
+opening_hours: Sa 09:00-18:00; Mo-Th 09:00-19:00; Fr 09:00-20:00
+website: http://kh-hairstylist.de/

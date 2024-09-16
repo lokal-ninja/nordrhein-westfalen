@@ -4,8 +4,8 @@ latitude: 52.03587
 longitude: 8.50639
 postcode: "33615"
 city: Bielefeld
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 5
-phone: "+49 521 444785"
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00"
+street: Carl-von-Ossietzky-Straße
+housenumber: "5"
+phone: +49 521 444785
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 384168269
-type: way
+type: node
 latitude: 51.64613
 longitude: 7.88377
 postcode: "59069"
 city: Hamm
-street: "Davidisstraße"
-housenumber: 5
+street: Davidisstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.22551
 longitude: 6.7753
 postcode: "40213"
 city: Düsseldorf
-street: "Flinger Straße"
-housenumber: 54
-phone: "+49 211-87592239"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.monki.com/"
+street: Flinger Straße
+housenumber: "54"
+phone: +49 211-87592239
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.monki.com/

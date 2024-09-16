@@ -4,8 +4,8 @@ latitude: 51.47406
 longitude: 7.2301
 postcode: "44789"
 city: Bochum
-street: "Oskar-Hoffmann-Straße"
-housenumber: 134
-phone: "+49 152 028 203 85"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; oder nach Vereinbarung; PH off"
+street: Oskar-Hoffmann-Straße
+housenumber: "134"
+phone: +49 152 028 203 85
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; "oder nach Vereinbarung"; PH off
 website: ""

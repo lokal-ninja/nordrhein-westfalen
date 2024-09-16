@@ -4,8 +4,8 @@ latitude: 51.2267
 longitude: 6.78011
 postcode: "40212"
 city: Düsseldorf
-street: "Königsallee"
-housenumber: 2
-phone: "+49 211 42470600"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.apple.com/de/retail/duesseldorf/"
+street: Königsallee
+housenumber: "2"
+phone: +49 211 42470600
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.apple.com/de/retail/duesseldorf/

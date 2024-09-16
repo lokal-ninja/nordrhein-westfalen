@@ -4,8 +4,9 @@ latitude: 50.88089
 longitude: 7.11894
 postcode: "51147"
 city: Köln
-street: "Terminal 2"
-housenumber: 
+street: Terminal 2
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 13:00-18:00; Sa 09:00-13:00, 13:30-16:00; Su,PH 12:00-15:30, 16:00-20:00"
-website: "https://www.bahnhof.de/koeln-bonn-flughafen"
+opening_hours: Mo-Fr 09:00-12:30, 13:00-18:00; Sa 09:00-13:00, 13:30-16:00; Su,PH
+    12:00-15:30, 16:00-20:00
+website: https://www.bahnhof.de/koeln-bonn-flughafen

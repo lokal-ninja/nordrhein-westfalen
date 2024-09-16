@@ -1,11 +1,12 @@
 id: 168413802
-type: way
+type: node
 latitude: 51.91675
 longitude: 7.72841
 postcode: "48167"
 city: Münster
-street: "Drostenhofstraße"
-housenumber: 3
+street: Drostenhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:00, 15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00, 15:00-18:00; Sa 07:00-13:00"
+opening_hours: Mo-Tu 09:00-13:00, 15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,
+    15:00-18:00; Sa 07:00-13:00
 website: ""

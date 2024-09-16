@@ -1,11 +1,11 @@
 id: 58886512
-type: way
+type: node
 latitude: 51.52015
 longitude: 7.5143
 postcode: "44143"
 city: Dortmund
-street: "Wambeler Hellweg"
+street: Wambeler Hellweg
 housenumber: 32a
-phone: "+49 231 595374"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:30; Sa,Su,PH off"
-website: "https://www.kfzweiss.de"
+phone: +49 231 595374
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:30; Sa,Su,PH off
+website: https://www.kfzweiss.de

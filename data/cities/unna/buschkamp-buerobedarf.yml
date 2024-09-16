@@ -1,11 +1,11 @@
 id: 100724018
-type: way
+type: node
 latitude: 51.53132
 longitude: 7.66182
 postcode: "59423"
 city: Unna
-street: "Massener Straße"
-housenumber: 147
+street: Massener Straße
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

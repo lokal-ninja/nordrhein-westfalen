@@ -1,11 +1,11 @@
 id: 53293001
-type: way
+type: node
 latitude: 51.51355
 longitude: 7.46408
 postcode: ""
 city: Dortmund
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

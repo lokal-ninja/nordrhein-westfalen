@@ -4,8 +4,8 @@ latitude: 51.43761
 longitude: 7.3381
 postcode: "58452"
 city: Witten
-street: "Oststraße"
-housenumber: 5
+street: Oststraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu 15:00-20:00; Th 15:00-19:00; Fr-Mo,We,PH off"
+opening_hours: Tu 15:00-20:00; Th 15:00-19:00; Fr-Mo,We,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 1196303318
-type: way
+type: node
 latitude: 50.95786
 longitude: 7.97772
 postcode: "57223"
 city: Kreuztal
-street: "Heesstraße"
-housenumber: 91
+street: Heesstraße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

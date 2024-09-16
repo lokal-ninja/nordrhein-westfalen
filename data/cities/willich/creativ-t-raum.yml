@@ -4,8 +4,8 @@ latitude: 51.24228
 longitude: 6.53572
 postcode: "47877"
 city: Willich
-street: "Hochstraße"
-housenumber: 43
-phone: "+49-2154-8111630"
-opening_hours: "Th,Sa 10:00-13:00; Fr 10:00-13:00,15:00-18:00"
-website: "https://creativtraum.de/"
+street: Hochstraße
+housenumber: "43"
+phone: +49-2154-8111630
+opening_hours: Th,Sa 10:00-13:00; Fr 10:00-13:00,15:00-18:00
+website: https://creativtraum.de/

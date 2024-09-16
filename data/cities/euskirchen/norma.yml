@@ -1,11 +1,11 @@
 id: 262248925
-type: way
+type: node
 latitude: 50.62428
 longitude: 6.8451
 postcode: "53881"
 city: Euskirchen
-street: "Christian-Schäfer-Straße"
-housenumber: 22
+street: Christian-Schäfer-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.54189
 longitude: 7.22108
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 67
+street: Bahnhofstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.nkd.com/filialen/herne/44623/nkd-bahnhofstr-67"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.nkd.com/filialen/herne/44623/nkd-bahnhofstr-67

@@ -1,11 +1,11 @@
 id: 48871943
-type: way
+type: node
 latitude: 52.00695
 longitude: 8.56577
 postcode: "33605"
 city: Bielefeld
-street: "Schweriner Straße"
-housenumber: 6
+street: Schweriner Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

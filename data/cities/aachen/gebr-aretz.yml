@@ -1,11 +1,11 @@
 id: 167000365
-type: way
+type: node
 latitude: 50.77657
 longitude: 6.14914
 postcode: "52080"
 city: Aachen
-street: "Von-Coels-Straße"
-housenumber: 61
-phone: "+49 241 552429"
+street: Von-Coels-Straße
+housenumber: "61"
+phone: +49 241 552429
 opening_hours: ""
 website: ""

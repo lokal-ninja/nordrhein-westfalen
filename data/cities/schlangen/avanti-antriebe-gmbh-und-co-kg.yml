@@ -1,11 +1,11 @@
 id: 217847997
-type: way
+type: node
 latitude: 51.80176
 longitude: 8.82074
 postcode: "33189"
 city: Schlangen
-street: "Gewerbepark"
-housenumber: 26
-phone: "+49 5252 936229"
-opening_hours: "Mo off; Tu 14:00-18:00; We 10:00-13:00; Th-Fr 14:00-18:00; Sa 10:00-13:00"
+street: Gewerbepark
+housenumber: "26"
+phone: +49 5252 936229
+opening_hours: Mo off; Tu 14:00-18:00; We 10:00-13:00; Th-Fr 14:00-18:00; Sa 10:00-13:00
 website: ""

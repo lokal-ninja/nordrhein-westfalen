@@ -1,11 +1,11 @@
 id: 25943120
-type: way
+type: node
 latitude: 51.29699
 longitude: 6.83066
 postcode: "40878"
 city: Ratingen
-street: "Am Sandbach"
-housenumber: 30
+street: Am Sandbach
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://marktkauf-ratingen.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://marktkauf-ratingen.de/

@@ -1,11 +1,11 @@
 id: 48361596
-type: way
+type: node
 latitude: 51.32276
 longitude: 6.59795
 postcode: "47809"
 city: Krefeld
-street: "Hafelsstraße"
-housenumber: 200
+street: Hafelsstraße
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.globus.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.globus.de

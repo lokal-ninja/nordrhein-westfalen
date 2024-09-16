@@ -1,11 +1,11 @@
 id: 77813157
-type: way
+type: node
 latitude: 52.19806
 longitude: 8.81725
 postcode: "32547"
 city: Bad Oeynhausen
-street: "Weserstraße"
-housenumber: 73
-phone: "+49 5731 29070"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://wez.de/"
+street: Weserstraße
+housenumber: "73"
+phone: +49 5731 29070
+opening_hours: Mo-Sa 07:00-22:00
+website: https://wez.de/

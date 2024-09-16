@@ -1,11 +1,11 @@
 id: 136281088
-type: way
+type: node
 latitude: 50.97063
 longitude: 7.26014
 postcode: "51491"
 city: Overath
-street: "Melessen"
-housenumber: 5
+street: Melessen
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

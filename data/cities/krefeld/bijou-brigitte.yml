@@ -4,8 +4,8 @@ latitude: 51.33128
 longitude: 6.56329
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 79
+street: Hochstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.bijou-brigitte.com/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.bijou-brigitte.com/

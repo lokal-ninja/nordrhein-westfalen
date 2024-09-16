@@ -4,8 +4,8 @@ latitude: 51.11528
 longitude: 7.39081
 postcode: "51688"
 city: Wipperfürth
-street: "Kölner-Tor-Platz"
-housenumber: 6
-phone: "+49 2267 82500"
-opening_hours: "Mo-Sa 08:30-13:00; Mo-Fr14:30-18:00"
-website: "https://www.artflor-online.de/"
+street: Kölner-Tor-Platz
+housenumber: "6"
+phone: +49 2267 82500
+opening_hours: Mo-Sa 08:30-13:00; Mo-Fr14:30-18:00
+website: https://www.artflor-online.de/

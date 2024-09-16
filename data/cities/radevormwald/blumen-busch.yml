@@ -1,11 +1,11 @@
 id: 262527548
-type: way
+type: node
 latitude: 51.2031
 longitude: 7.34908
 postcode: "42477"
 city: Radevormwald
-street: "Kaiserstraße"
-housenumber: 11
+street: Kaiserstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
 website: ""

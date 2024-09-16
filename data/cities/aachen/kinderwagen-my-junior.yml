@@ -4,8 +4,8 @@ latitude: 50.77542
 longitude: 6.08587
 postcode: "52062"
 city: Aachen
-street: "Buchkremerstraße"
-housenumber: 2
-phone: "+49 (0) 241 901 017 80"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off"
-website: "https://my-junior.com/de/"
+street: Buchkremerstraße
+housenumber: "2"
+phone: +49 (0) 241 901 017 80
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off
+website: https://my-junior.com/de/

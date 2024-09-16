@@ -1,11 +1,11 @@
 id: 282359224
-type: way
+type: node
 latitude: 50.59155
 longitude: 6.65281
 postcode: "53894"
 city: Mechernich
-street: "Bahnstraße"
-housenumber: 16
+street: Bahnstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

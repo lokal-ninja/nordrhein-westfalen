@@ -1,11 +1,11 @@
 id: 265035934
-type: way
+type: node
 latitude: 51.97986
 longitude: 8.65575
 postcode: "33818"
 city: Leopoldshöhe
-street: "Westring"
-housenumber: 3
-phone: "+49 5202 9837-00"
-opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-18:00; Sa 10:00-13:00"
-website: "https://www.opel-freitag-leopoldshoehe.de/"
+street: Westring
+housenumber: "3"
+phone: +49 5202 9837-00
+opening_hours: Mo-Th 08:00-18:30; Fr 08:00-18:00; Sa 10:00-13:00
+website: https://www.opel-freitag-leopoldshoehe.de/

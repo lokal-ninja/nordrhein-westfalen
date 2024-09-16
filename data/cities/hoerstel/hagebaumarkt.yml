@@ -1,11 +1,11 @@
 id: 269061703
-type: way
+type: node
 latitude: 52.301
 longitude: 7.58469
 postcode: "48477"
 city: Hörstel
-street: "Josefstraße"
-housenumber: 10
+street: Josefstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

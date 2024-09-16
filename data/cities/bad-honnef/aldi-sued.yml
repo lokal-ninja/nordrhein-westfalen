@@ -1,11 +1,11 @@
 id: 163420194
-type: way
+type: node
 latitude: 50.63154
 longitude: 7.2252
 postcode: "53604"
 city: Bad Honnef
-street: "Berck-sur-Mer Straße"
-housenumber: 16
+street: Berck-sur-Mer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

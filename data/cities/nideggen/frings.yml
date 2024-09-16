@@ -1,11 +1,11 @@
 id: 188957713
-type: way
+type: node
 latitude: 50.66281
 longitude: 6.39901
 postcode: "52385"
 city: Nideggen
-street: "Am Weiher"
-housenumber: 15
-phone: "+49 2474 6234"
+street: Am Weiher
+housenumber: "15"
+phone: +49 2474 6234
 opening_hours: ""
 website: ""

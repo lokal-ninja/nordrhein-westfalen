@@ -1,11 +1,11 @@
 id: 163690492
-type: way
+type: node
 latitude: 52.02759
 longitude: 8.90379
 postcode: "32657"
 city: Lemgo
-street: "Papenstraße"
-housenumber: 29
-phone: "+49 5261 5583"
+street: Papenstraße
+housenumber: "29"
+phone: +49 5261 5583
 opening_hours: ""
 website: ""

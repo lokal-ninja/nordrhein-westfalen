@@ -4,8 +4,8 @@ latitude: 51.32594
 longitude: 7.05755
 postcode: "42551"
 city: Velbert
-street: "Nevigeser Straße"
-housenumber: 68
+street: Nevigeser Straße
+housenumber: "68"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.celos-online.de/velbert.html"
+opening_hours: 24/7
+website: http://www.celos-online.de/velbert.html

@@ -1,11 +1,11 @@
 id: 1263065387
-type: way
+type: node
 latitude: 50.6996
 longitude: 7.01504
 postcode: "53347"
 city: Alfter
-street: "Raiffeisenstraße"
-housenumber: 51
-phone: "+49 228 96499450"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off"
-website: "https://www.naturhof-wolfsberg.de/"
+street: Raiffeisenstraße
+housenumber: "51"
+phone: +49 228 96499450
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su off
+website: https://www.naturhof-wolfsberg.de/

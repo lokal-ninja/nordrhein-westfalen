@@ -1,11 +1,11 @@
 id: 98036199
-type: way
+type: node
 latitude: 51.47831
 longitude: 7.2033
 postcode: "44793"
 city: Bochum
-street: "Bessemerstraße"
+street: Bessemerstraße
 housenumber: 10-14
-phone: "+49 234 911711"
-opening_hours: "Mo-Fr8:00-18:00, Sa 9:00-12:00; PH off"
-website: "https://www.verwechseln-sie-uns-nicht.de"
+phone: +49 234 911711
+opening_hours: Mo-Fr8:00-18:00, Sa 9:00-12:00; PH off
+website: https://www.verwechseln-sie-uns-nicht.de

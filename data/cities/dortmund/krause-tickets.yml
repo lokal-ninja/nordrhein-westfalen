@@ -1,11 +1,11 @@
 id: 43684837
-type: way
+type: node
 latitude: 51.48255
 longitude: 7.43283
 postcode: "44225"
 city: Dortmund
-street: "Stockumer Straße"
-housenumber: 245
-phone: "+49 231 71 22 25"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.kartenvorverkauf-krause.de/"
+street: Stockumer Straße
+housenumber: "245"
+phone: +49 231 71 22 25
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.kartenvorverkauf-krause.de/

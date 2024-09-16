@@ -1,11 +1,11 @@
 id: 95949016
-type: way
+type: node
 latitude: 51.16343
 longitude: 6.91147
 postcode: "40721"
 city: Hilden
-street: "Düsseldorfer Straße"
-housenumber: 116
+street: Düsseldorfer Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

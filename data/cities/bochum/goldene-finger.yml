@@ -4,8 +4,8 @@ latitude: 51.4843
 longitude: 7.21822
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 123
+street: Kortumstraße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00, Sa 09:00-18:00"
+opening_hours: Mo-Fr 9:00-19:00, Sa 09:00-18:00
 website: ""

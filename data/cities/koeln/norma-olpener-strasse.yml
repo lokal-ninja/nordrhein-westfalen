@@ -1,11 +1,11 @@
 id: 29188588
-type: way
+type: node
 latitude: 50.9402
 longitude: 7.0212
 postcode: "51103"
 city: Köln
-street: "Olpener Straße"
-housenumber: 114
-phone: "+49 911 23734733"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.norma-online.de/"
+street: Olpener Straße
+housenumber: "114"
+phone: +49 911 23734733
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.norma-online.de/

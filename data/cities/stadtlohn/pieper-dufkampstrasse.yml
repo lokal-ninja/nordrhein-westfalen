@@ -1,11 +1,11 @@
 id: 248699737
-type: way
+type: node
 latitude: 51.99355
 longitude: 6.91809
 postcode: "48703"
 city: Stadtlohn
-street: "Dufkampstraße"
-housenumber: 9
+street: Dufkampstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

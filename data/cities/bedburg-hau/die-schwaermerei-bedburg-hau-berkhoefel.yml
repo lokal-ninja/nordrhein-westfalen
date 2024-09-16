@@ -1,11 +1,11 @@
 id: 250048654
-type: way
+type: node
 latitude: 51.73017
 longitude: 6.20489
 postcode: "47551"
 city: Bedburg-Hau
-street: "Uedemer Straße"
-housenumber: 196
+street: Uedemer Straße
+housenumber: "196"
 phone: ""
-opening_hours: "Di.: 16:30 - 18:00"
-website: "https://www.berkhoefel-naturkultur.de/"
+opening_hours: 'Di.: 16:30 - 18:00'
+website: https://www.berkhoefel-naturkultur.de/

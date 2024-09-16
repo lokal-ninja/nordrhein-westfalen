@@ -1,11 +1,11 @@
 id: 148971630
-type: way
+type: node
 latitude: 51.21414
 longitude: 6.78206
 postcode: "40215"
 city: Düsseldorf
-street: "Fürstenwall"
-housenumber: 212
-phone: "+49 211 3857075"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.tats-asiamarkt.de/"
+street: Fürstenwall
+housenumber: "212"
+phone: +49 211 3857075
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.tats-asiamarkt.de/

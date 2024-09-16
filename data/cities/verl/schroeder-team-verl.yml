@@ -4,8 +4,8 @@ latitude: 51.87523
 longitude: 8.45742
 postcode: "33415"
 city: Verl
-street: "Nickelstraße"
-housenumber: 6
-phone: "+49 5246 92880"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:30; PH,Su off"
-website: "http://www.schroeder-team-verl.de/"
+street: Nickelstraße
+housenumber: "6"
+phone: +49 5246 92880
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:30; PH,Su off
+website: http://www.schroeder-team-verl.de/

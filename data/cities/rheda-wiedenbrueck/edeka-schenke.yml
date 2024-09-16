@@ -4,8 +4,8 @@ latitude: 51.83622
 longitude: 8.30188
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://schenke.de/markt/rheda-wiedenbrueck/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://schenke.de/markt/rheda-wiedenbrueck/

@@ -1,11 +1,11 @@
 id: 113896707
-type: way
+type: node
 latitude: 50.89614
 longitude: 7.17126
 postcode: "51503"
 city: Rösrath
-street: "Kölner Straße"
-housenumber: 43
+street: Kölner Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 50.71508
 longitude: 7.04859
 postcode: "53123"
 city: Bonn
-street: "Rochusstraße"
-housenumber: 206
-phone: "+49 228 96218590"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
+street: Rochusstraße
+housenumber: "206"
+phone: +49 228 96218590
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

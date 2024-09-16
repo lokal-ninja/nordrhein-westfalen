@@ -4,8 +4,8 @@ latitude: 52.36704
 longitude: 9.00436
 postcode: "32469"
 city: Petershagen
-street: "Bückeburger Straße"
-housenumber: 5
-phone: "+49 5702 9108"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
-website: "https://www.niederbracht-lahde.de/"
+street: Bückeburger Straße
+housenumber: "5"
+phone: +49 5702 9108
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00
+website: https://www.niederbracht-lahde.de/

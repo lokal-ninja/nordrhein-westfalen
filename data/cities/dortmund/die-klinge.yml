@@ -4,8 +4,8 @@ latitude: 51.50248
 longitude: 7.45374
 postcode: "44139"
 city: Dortmund
-street: "Kreuzstraße"
-housenumber: 44
-phone: "+49 231 100997"
-opening_hours: "Öffnung nach tel. Vereinbarung"
-website: "https://www.dieklinge.de/"
+street: Kreuzstraße
+housenumber: "44"
+phone: +49 231 100997
+opening_hours: '"Öffnung nach tel. Vereinbarung"'
+website: https://www.dieklinge.de/

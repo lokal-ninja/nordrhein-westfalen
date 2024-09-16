@@ -1,11 +1,11 @@
 id: 277396799
-type: way
+type: node
 latitude: 51.37192
 longitude: 6.51079
 postcode: "47839"
 city: Krefeld
-street: "Krefelder Straße"
-housenumber: 21
-phone: "+49 2151 3699298"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-11:00"
+street: Krefelder Straße
+housenumber: "21"
+phone: +49 2151 3699298
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-11:00
 website: ""

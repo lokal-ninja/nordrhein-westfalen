@@ -4,8 +4,8 @@ latitude: 51.50517
 longitude: 7.57013
 postcode: "44287"
 city: Dortmund
-street: "Schleefstraße"
-housenumber: 15
+street: Schleefstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://marktkauf.grubendorfer.eu/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://marktkauf.grubendorfer.eu/

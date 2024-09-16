@@ -4,8 +4,8 @@ latitude: 51.61313
 longitude: 7.52377
 postcode: "44532"
 city: Lünen
-street: "Lange Straße"
-housenumber: 44
+street: Lange Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.thalia.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.thalia.de/

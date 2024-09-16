@@ -1,11 +1,11 @@
 id: 328012776
-type: way
+type: node
 latitude: 51.69407
 longitude: 8.42913
 postcode: "59558"
 city: Lippstadt
-street: "Am Sandberg"
-housenumber: 9
+street: Am Sandberg
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.kennedy-computer.de/"
+website: https://www.kennedy-computer.de/

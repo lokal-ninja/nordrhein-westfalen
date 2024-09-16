@@ -4,8 +4,8 @@ latitude: 51.28057
 longitude: 7.03573
 postcode: "42489"
 city: Wülfrath
-street: "Parkstraße"
-housenumber: 2
+street: Parkstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.aldi-nord.de/

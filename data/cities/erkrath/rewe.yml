@@ -1,11 +1,11 @@
 id: 23893073
-type: way
+type: node
 latitude: 51.20129
 longitude: 6.91184
 postcode: "40699"
 city: Erkrath
-street: "Neuenhausplatz"
-housenumber: 74
-phone: "+49 211 253727"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Neuenhausplatz
+housenumber: "74"
+phone: +49 211 253727
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

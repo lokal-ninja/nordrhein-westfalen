@@ -4,8 +4,8 @@ latitude: 51.43225
 longitude: 6.76339
 postcode: "47051"
 city: Duisburg
-street: "Wallstraße"
-housenumber: 6
-phone: "+49 203 39853443"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "http://www.onkelstereo.de/"
+street: Wallstraße
+housenumber: "6"
+phone: +49 203 39853443
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-15:00
+website: http://www.onkelstereo.de/

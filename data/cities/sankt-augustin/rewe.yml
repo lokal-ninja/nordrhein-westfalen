@@ -4,8 +4,8 @@ latitude: 50.77237
 longitude: 7.21222
 postcode: "53757"
 city: Sankt Augustin
-street: "Schulstraße"
-housenumber: 5
+street: Schulstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.rewe.de/

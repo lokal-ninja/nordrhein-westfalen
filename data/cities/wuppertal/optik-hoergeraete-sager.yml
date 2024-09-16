@@ -4,8 +4,8 @@ latitude: 51.2574
 longitude: 7.14804
 postcode: "42103"
 city: Wuppertal
-street: "Schöne Gasse"
-housenumber: 3
-phone: "+49 202 446409"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://optik-sager.de/"
+street: Schöne Gasse
+housenumber: "3"
+phone: +49 202 446409
+opening_hours: Mo-Fr 09:00-18:30
+website: https://optik-sager.de/

@@ -4,8 +4,8 @@ latitude: 51.92614
 longitude: 7.60139
 postcode: "48163"
 city: Münster
-street: "Buldernweg"
-housenumber: 33
+street: Buldernweg
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.melados.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.melados.de/

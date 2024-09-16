@@ -1,11 +1,11 @@
 id: 30890497
-type: way
+type: node
 latitude: 50.8922
 longitude: 6.84134
 postcode: "50354"
 city: Hürth
-street: "Innungstraße"
-housenumber: 7
+street: Innungstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

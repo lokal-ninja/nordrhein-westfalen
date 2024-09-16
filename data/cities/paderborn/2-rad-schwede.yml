@@ -1,11 +1,11 @@
 id: 173245218
-type: way
+type: node
 latitude: 51.70298
 longitude: 8.72496
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
+street: Frankfurter Weg
 housenumber: 32a
-phone: "+49-5251-75370"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.2-rad-schwede.de/"
+phone: +49-5251-75370
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.2-rad-schwede.de/

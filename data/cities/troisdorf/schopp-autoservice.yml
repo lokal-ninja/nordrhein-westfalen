@@ -1,11 +1,11 @@
 id: 130106515
-type: way
+type: node
 latitude: 50.84779
 longitude: 7.1996
 postcode: "53842"
 city: Troisdorf
-street: "Waldsiedlung"
-housenumber: 7
+street: Waldsiedlung
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

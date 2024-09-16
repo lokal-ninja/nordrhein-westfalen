@@ -1,11 +1,11 @@
 id: 151542608
-type: way
+type: node
 latitude: 52.2097
 longitude: 7.18513
 postcode: "48607"
 city: Ochtrup
-street: "Mühlenstraße"
-housenumber: 20
+street: Mühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

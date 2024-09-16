@@ -1,11 +1,11 @@
 id: 106221869
-type: way
+type: node
 latitude: 50.83877
 longitude: 7.12483
 postcode: "53842"
 city: Troisdorf
-street: "Camp-Spich-Straße"
-housenumber: 8
+street: Camp-Spich-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

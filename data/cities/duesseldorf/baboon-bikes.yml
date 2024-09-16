@@ -4,8 +4,8 @@ latitude: 51.21496
 longitude: 6.75721
 postcode: "40219"
 city: Düsseldorf
-street: "Hammer Straße"
-housenumber: 20
-phone: "+49 211 54137666"
-opening_hours: "Tu-Fr 11:00-14:00, 15:00-18:30; Sa 11:00-14:00"
-website: "https://www.baboon-bikes.com/"
+street: Hammer Straße
+housenumber: "20"
+phone: +49 211 54137666
+opening_hours: Tu-Fr 11:00-14:00, 15:00-18:30; Sa 11:00-14:00
+website: https://www.baboon-bikes.com/

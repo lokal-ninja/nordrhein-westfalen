@@ -1,11 +1,11 @@
 id: 51825588
-type: way
+type: node
 latitude: 51.67649
 longitude: 8.34519
 postcode: "59555"
 city: Lippstadt
-street: "Marktstraße"
-housenumber: 5
+street: Marktstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

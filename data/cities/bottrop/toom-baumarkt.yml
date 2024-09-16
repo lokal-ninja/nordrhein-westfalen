@@ -1,11 +1,11 @@
 id: 205503888
-type: way
+type: node
 latitude: 51.53576
 longitude: 6.98109
 postcode: "46240"
 city: Bottrop
-street: "Ruhrölstraße"
-housenumber: 2
+street: Ruhrölstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

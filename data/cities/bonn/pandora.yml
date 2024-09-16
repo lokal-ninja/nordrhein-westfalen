@@ -4,8 +4,8 @@ latitude: 50.73567
 longitude: 7.1002
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 23
-phone: "+49 228 55523833"
-opening_hours: "Mo-Sa 12:00-18:00; PH,Su off"
-website: "https://www.pandora.net/"
+street: Sternstraße
+housenumber: "23"
+phone: +49 228 55523833
+opening_hours: Mo-Sa 12:00-18:00; PH,Su off
+website: https://www.pandora.net/

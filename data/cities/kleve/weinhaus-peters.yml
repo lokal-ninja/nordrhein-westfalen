@@ -1,11 +1,11 @@
 id: 89428319
-type: way
+type: node
 latitude: 51.78767
 longitude: 6.13972
 postcode: "47533"
 city: Kleve
-street: "Wasserstraße"
-housenumber: 12
-phone: "+49 2821 2 47 93"
-opening_hours: "Mo-Fr 09:30-18:30;Sa 09:30-16:00"
-website: "https://www.wein-peters.de/"
+street: Wasserstraße
+housenumber: "12"
+phone: +49 2821 2 47 93
+opening_hours: Mo-Fr 09:30-18:30;Sa 09:30-16:00
+website: https://www.wein-peters.de/

@@ -4,8 +4,8 @@ latitude: 51.2057
 longitude: 6.41385
 postcode: "41063"
 city: Mönchengladbach
-street: "Annakirchstraße"
-housenumber: 101
-phone: "+49 2161 6607776"
-opening_hours: "Tu-Sa 10:00-13:00, Tu-Fr 15:00-18:00"
-website: "http://munichdogs.de"
+street: Annakirchstraße
+housenumber: "101"
+phone: +49 2161 6607776
+opening_hours: Tu-Sa 10:00-13:00, Tu-Fr 15:00-18:00
+website: http://munichdogs.de

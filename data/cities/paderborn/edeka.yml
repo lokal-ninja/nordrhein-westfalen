@@ -4,8 +4,8 @@ latitude: 51.71236
 longitude: 8.74648
 postcode: "33098"
 city: Paderborn
-street: "Borchener Straße"
-housenumber: 25
+street: Borchener Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "http://www.edeka-rumpsmueller.de"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: http://www.edeka-rumpsmueller.de

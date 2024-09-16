@@ -4,8 +4,8 @@ latitude: 51.21103
 longitude: 6.76757
 postcode: "40219"
 city: Düsseldorf
-street: "Bilker Allee"
-housenumber: 52
+street: Bilker Allee
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.michels-blumen.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.michels-blumen.de/

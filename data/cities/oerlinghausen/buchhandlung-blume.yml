@@ -4,8 +4,8 @@ latitude: 51.95952
 longitude: 8.6635
 postcode: "33813"
 city: Oerlinghausen
-street: "Hauptstraße"
-housenumber: 18
-phone: "+49 5202 3646"
-opening_hours: "Mo-Sa 09:00-13:00; Mo-Fr 15:00-18:00"
-website: "https://www.blume-buch.de/"
+street: Hauptstraße
+housenumber: "18"
+phone: +49 5202 3646
+opening_hours: Mo-Sa 09:00-13:00; Mo-Fr 15:00-18:00
+website: https://www.blume-buch.de/

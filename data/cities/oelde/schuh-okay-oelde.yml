@@ -4,8 +4,8 @@ latitude: 51.83245
 longitude: 8.15232
 postcode: "59302"
 city: Oelde
-street: "Tom-Rinck-Straße"
-housenumber: 6
-phone: "+49 2522 8307118"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.schuh-okay.de/"
+street: Tom-Rinck-Straße
+housenumber: "6"
+phone: +49 2522 8307118
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.schuh-okay.de/

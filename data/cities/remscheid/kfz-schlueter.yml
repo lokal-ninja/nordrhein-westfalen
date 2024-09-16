@@ -1,11 +1,11 @@
 id: 1089316082
-type: way
+type: node
 latitude: 51.20221
 longitude: 7.24942
 postcode: "42897"
 city: Remscheid
-street: "Lüttringhauser Straße"
-housenumber: 103
-phone: "+49 2191 65474"
-opening_hours: "Mo-Fr 08:15-16:30"
-website: "https://www.kfz-schlueter.com/"
+street: Lüttringhauser Straße
+housenumber: "103"
+phone: +49 2191 65474
+opening_hours: Mo-Fr 08:15-16:30
+website: https://www.kfz-schlueter.com/

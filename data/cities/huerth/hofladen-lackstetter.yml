@@ -1,11 +1,11 @@
 id: 147014412
-type: way
+type: node
 latitude: 50.90183
 longitude: 6.88954
 postcode: "50354"
 city: Hürth
-street: "Bellerstraße"
-housenumber: 92
+street: Bellerstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa-Su 09:30-16:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa-Su 09:30-16:00
 website: ""

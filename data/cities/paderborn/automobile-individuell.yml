@@ -1,11 +1,11 @@
 id: 139226960
-type: way
+type: node
 latitude: 51.71568
 longitude: 8.7789
 postcode: "33100"
 city: Paderborn
-street: "Schulze-Delitzsch-Straße"
-housenumber: 30
+street: Schulze-Delitzsch-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "http://www.automobile-individuell.eu/"
+website: http://www.automobile-individuell.eu/

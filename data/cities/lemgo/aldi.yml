@@ -1,11 +1,11 @@
 id: 205842106
-type: way
+type: node
 latitude: 52.02041
 longitude: 8.91184
 postcode: "32657"
 city: Lemgo
-street: "Lemgoer Straße"
-housenumber: 94
+street: Lemgoer Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

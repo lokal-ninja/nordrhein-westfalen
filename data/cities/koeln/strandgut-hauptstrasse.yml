@@ -4,8 +4,8 @@ latitude: 50.89354
 longitude: 6.99429
 postcode: "50996"
 city: Köln
-street: "Hauptstraße"
-housenumber: 90
+street: Hauptstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "http://www.strandgut-shop.de/"
+website: http://www.strandgut-shop.de/

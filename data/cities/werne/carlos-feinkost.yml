@@ -4,8 +4,8 @@ latitude: 51.66336
 longitude: 7.63517
 postcode: "59368"
 city: Werne
-street: "Kirchhof"
-housenumber: 16
-phone: "+49 2389 9906484"
-opening_hours: "Mo 14:00-20:00; Tu-Sa 10:00-20:00; Su off; PH off"
-website: "http://www.crispoweine.de/"
+street: Kirchhof
+housenumber: "16"
+phone: +49 2389 9906484
+opening_hours: Mo 14:00-20:00; Tu-Sa 10:00-20:00; Su off; PH off
+website: http://www.crispoweine.de/

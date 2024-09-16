@@ -1,11 +1,11 @@
 id: 255093499
-type: way
+type: node
 latitude: 51.75585
 longitude: 6.99271
 postcode: "46286"
 city: Dorsten
-street: "Am Krusenhof"
-housenumber: 61
+street: Am Krusenhof
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-lehmbrock.de/"
+website: https://www.autohaus-lehmbrock.de/

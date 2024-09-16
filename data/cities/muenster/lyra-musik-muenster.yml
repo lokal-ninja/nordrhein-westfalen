@@ -4,8 +4,8 @@ latitude: 51.98749
 longitude: 7.61076
 postcode: "48159"
 city: Münster
-street: "Kerstingskamp"
-housenumber: 10
+street: Kerstingskamp
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00"
-website: "http://www.lyra-musik.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00
+website: http://www.lyra-musik.de/

@@ -4,8 +4,8 @@ latitude: 51.90556
 longitude: 8.37794
 postcode: "33330"
 city: Gütersloh
-street: "Berliner Straße"
-housenumber: 8
+street: Berliner Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

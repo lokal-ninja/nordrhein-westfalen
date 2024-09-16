@@ -4,8 +4,9 @@ latitude: 51.47958
 longitude: 7.22145
 postcode: "44787"
 city: Bochum
-street: "Huestraße"
-housenumber: 3
-phone: "+49 234 12080"
-opening_hours: "Jan-Aug: Mo-Fr 09:30-18:00; Jan-Aug: Sa 09:30-16:00; Sep-Dec: Mo-Sa 09:30-18:00"
-website: "https://www.teegschwendner.de/Fachgeschaefte/#!/l/bochum/huestrasse-3/2135649"
+street: Huestraße
+housenumber: "3"
+phone: +49 234 12080
+opening_hours: 'Jan-Aug: Mo-Fr 09:30-18:00; Jan-Aug: Sa 09:30-16:00; Sep-Dec: Mo-Sa
+    09:30-18:00'
+website: https://www.teegschwendner.de/Fachgeschaefte/#!/l/bochum/huestrasse-3/2135649

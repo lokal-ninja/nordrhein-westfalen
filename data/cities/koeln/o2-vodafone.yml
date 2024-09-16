@@ -4,8 +4,8 @@ latitude: 50.91613
 longitude: 6.92656
 postcode: "50937"
 city: Köln
-street: "Sülzburgstraße"
-housenumber: 42
+street: Sülzburgstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 452858827
-type: way
+type: node
 latitude: 50.73232
 longitude: 7.09713
 postcode: "53111"
 city: Bonn
-street: "Am Hauptbahnhof"
-housenumber: 1
+street: Am Hauptbahnhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 05:30-22:00; Su,PH 06:30-22:00"
+opening_hours: Mo-Sa 05:30-22:00; Su,PH 06:30-22:00
 website: ""

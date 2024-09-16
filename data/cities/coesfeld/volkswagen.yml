@@ -4,8 +4,8 @@ latitude: 51.93194
 longitude: 7.17109
 postcode: "48653"
 city: Coesfeld
-street: "Dülmener Straße"
-housenumber: 91
+street: Dülmener Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://knubel.de/de/coesfeld.htm"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://knubel.de/de/coesfeld.htm

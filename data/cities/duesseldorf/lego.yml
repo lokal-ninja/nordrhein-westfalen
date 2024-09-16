@@ -4,8 +4,8 @@ latitude: 51.22548
 longitude: 6.77509
 postcode: "40213"
 city: Düsseldorf
-street: "Flinger Straße"
-housenumber: 50
-phone: "+49 211 86392290"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.lego.com/de-de/stores/store/?store=dusseldorf"
+street: Flinger Straße
+housenumber: "50"
+phone: +49 211 86392290
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.lego.com/de-de/stores/store/?store=dusseldorf

@@ -1,11 +1,11 @@
 id: 29019467
-type: way
+type: node
 latitude: 51.95769
 longitude: 9.24528
 postcode: "32676"
 city: Lügde
-street: "Mittlere Straße"
-housenumber: 34
+street: Mittlere Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

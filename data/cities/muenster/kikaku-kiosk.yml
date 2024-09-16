@@ -1,11 +1,11 @@
 id: 138389912
-type: way
+type: node
 latitude: 51.95346
 longitude: 7.62291
 postcode: "48151"
 city: Münster
-street: "Norbertstraße"
-housenumber: 24
+street: Norbertstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Nov-Apr Mo-Fr 16:00-21:00; Sa 17:00-21:00; Su 17:00-21:00"
+opening_hours: Nov-Apr Mo-Fr 16:00-21:00; Sa 17:00-21:00; Su 17:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 321898573
-type: way
+type: node
 latitude: 51.113
 longitude: 7.63837
 postcode: "58540"
 city: Meinerzhagen
-street: "Am Bücking"
-housenumber: 2
+street: Am Bücking
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

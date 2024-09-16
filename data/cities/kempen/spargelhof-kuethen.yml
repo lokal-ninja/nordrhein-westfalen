@@ -4,8 +4,8 @@ latitude: 51.34864
 longitude: 6.46898
 postcode: "47906"
 city: Kempen
-street: "Krefelder Weg"
-housenumber: 100
-phone: "+49 2152 912450"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su 10:00-13:00"
-website: "https://www.spargelhof-kuethen.de/"
+street: Krefelder Weg
+housenumber: "100"
+phone: +49 2152 912450
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su 10:00-13:00
+website: https://www.spargelhof-kuethen.de/

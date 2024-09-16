@@ -1,11 +1,11 @@
 id: 107040402
-type: way
+type: node
 latitude: 51.02174
 longitude: 7.64921
 postcode: "51702"
 city: Bergneustadt
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

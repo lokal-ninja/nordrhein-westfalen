@@ -1,11 +1,11 @@
 id: 103952485
-type: way
+type: node
 latitude: 50.83434
 longitude: 7.10859
 postcode: "53842"
 city: Troisdorf
-street: "Urbacher Straße"
-housenumber: 7
-phone: "+49 2241 493973"
+street: Urbacher Straße
+housenumber: "7"
+phone: +49 2241 493973
 opening_hours: ""
-website: "http://richardsautolackiererei.de/"
+website: http://richardsautolackiererei.de/

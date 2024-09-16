@@ -4,8 +4,8 @@ latitude: 52.02124
 longitude: 8.52891
 postcode: "33602"
 city: Bielefeld
-street: "Ritterstraße"
+street: Ritterstraße
 housenumber: 4a
-phone: "+49 521 92373575"
-opening_hours: "Tu-We 10:00-18:30;Th 10:00-20:00;Fr 10:00-18:30;Sa 10:00-14:00"
-website: "https://www.teeraum-bielefeld.de/"
+phone: +49 521 92373575
+opening_hours: Tu-We 10:00-18:30;Th 10:00-20:00;Fr 10:00-18:30;Sa 10:00-14:00
+website: https://www.teeraum-bielefeld.de/

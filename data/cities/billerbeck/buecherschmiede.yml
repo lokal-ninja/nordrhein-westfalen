@@ -4,8 +4,8 @@ latitude: 51.97799
 longitude: 7.29256
 postcode: "48727"
 city: Billerbeck
-street: "Schmiedestraße"
-housenumber: 14
+street: Schmiedestraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00; PH,Su off"
-website: "http://buecherschmiede-gessmann.de"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00; PH,Su off
+website: http://buecherschmiede-gessmann.de

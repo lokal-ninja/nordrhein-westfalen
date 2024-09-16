@@ -1,11 +1,11 @@
 id: 464808369
-type: way
+type: node
 latitude: 50.99656
 longitude: 8.30993
 postcode: "57339"
 city: Erndtebrück
-street: "Rohrbacher Weg"
-housenumber: 1
+street: Rohrbacher Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

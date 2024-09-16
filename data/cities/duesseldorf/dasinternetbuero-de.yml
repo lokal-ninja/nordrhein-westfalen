@@ -4,8 +4,8 @@ latitude: 51.22059
 longitude: 6.79887
 postcode: "40227"
 city: Düsseldorf
-street: "Kölner Straße"
-housenumber: 145
+street: Kölner Straße
+housenumber: "145"
 phone: "+49211310545300"
-opening_hours: "Mo-Th 10:15-18:00; Fr 10:15-17:30; Sa 10:00-13:00"
-website: "https://www.dasinternetbuero.de/"
+opening_hours: Mo-Th 10:15-18:00; Fr 10:15-17:30; Sa 10:00-13:00
+website: https://www.dasinternetbuero.de/

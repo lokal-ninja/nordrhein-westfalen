@@ -1,11 +1,11 @@
 id: 427691167
-type: way
+type: node
 latitude: 51.35825
 longitude: 8.47897
 postcode: "59939"
 city: Olsberg
-street: "Fruges Straße"
-housenumber: 2
+street: Fruges Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

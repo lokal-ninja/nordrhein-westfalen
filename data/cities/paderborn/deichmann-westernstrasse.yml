@@ -4,8 +4,8 @@ latitude: 51.71676
 longitude: 8.75058
 postcode: "33098"
 city: Paderborn
-street: "Westernstraße"
-housenumber: 10
+street: Westernstraße
+housenumber: "10"
 phone: ""
-opening_hours: "PH,Su off; Mo-Sa 10:00-19:00"
+opening_hours: PH,Su off; Mo-Sa 10:00-19:00
 website: ""

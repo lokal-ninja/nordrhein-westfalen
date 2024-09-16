@@ -4,8 +4,8 @@ latitude: 50.69192
 longitude: 7.15766
 postcode: "53173"
 city: Bonn
-street: "Plittersdorfer Straße"
-housenumber: 84
-phone: "+49 228 39154855"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00"
-website: "http://www.zisch-godesberg.de"
+street: Plittersdorfer Straße
+housenumber: "84"
+phone: +49 228 39154855
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-14:00
+website: http://www.zisch-godesberg.de

@@ -1,11 +1,11 @@
 id: 928765865
-type: way
+type: node
 latitude: 51.73885
 longitude: 7.87135
 postcode: "59229"
 city: Ahlen
-street: "Bunsenstraße"
-housenumber: 28
+street: Bunsenstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

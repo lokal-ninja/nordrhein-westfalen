@@ -1,11 +1,11 @@
 id: 303391277
-type: way
+type: node
 latitude: 51.35955
 longitude: 8.28588
 postcode: "59872"
 city: Meschede
-street: "Dünnefeldweg"
-housenumber: 1
-phone: "+49 291 9933-0"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bechtle.com/ueber-bechtle/unternehmen/standorte/bechtle-it-systemhaus-dortmund-niederlassung-meschede"
+street: Dünnefeldweg
+housenumber: "1"
+phone: +49 291 9933-0
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bechtle.com/ueber-bechtle/unternehmen/standorte/bechtle-it-systemhaus-dortmund-niederlassung-meschede

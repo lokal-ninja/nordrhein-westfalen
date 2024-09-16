@@ -4,8 +4,8 @@ latitude: 51.49561
 longitude: 7.28395
 postcode: "44791"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 10
-phone: "+49 234 89068803"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Am Einkaufszentrum
+housenumber: "10"
+phone: +49 234 89068803
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

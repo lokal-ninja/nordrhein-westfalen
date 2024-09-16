@@ -1,11 +1,11 @@
 id: 114345541
-type: way
+type: node
 latitude: 51.68117
 longitude: 7.81532
 postcode: ""
 city: Hamm
-street: "Ritterstraße"
-housenumber: 21
-phone: "+49 2381 161292"
+street: Ritterstraße
+housenumber: "21"
+phone: +49 2381 161292
 opening_hours: ""
 website: ""

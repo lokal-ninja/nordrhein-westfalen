@@ -1,11 +1,11 @@
 id: 191962681
-type: way
+type: node
 latitude: 50.84034
 longitude: 7.21058
 postcode: "53797"
 city: Lohmar
-street: "Hauptstraße"
-housenumber: 65
-phone: "+49 2246 9259600"
+street: Hauptstraße
+housenumber: "65"
+phone: +49 2246 9259600
 opening_hours: ""
-website: "https://www.das-goldhaus.de/"
+website: https://www.das-goldhaus.de/

@@ -1,11 +1,11 @@
 id: 370561517
-type: way
+type: node
 latitude: 52.03298
 longitude: 9.00464
 postcode: "32694"
 city: Dörentrup
-street: "Lemgoer Straße"
-housenumber: 1
+street: Lemgoer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

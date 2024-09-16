@@ -1,11 +1,11 @@
 id: 115701392
-type: way
+type: node
 latitude: 50.71472
 longitude: 6.13713
 postcode: "52076"
 city: Aachen
-street: "Nerscheider Weg"
-housenumber: 20
+street: Nerscheider Weg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"
-website: "http://www.mazda-autohaus-neuner.de"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00
+website: http://www.mazda-autohaus-neuner.de

@@ -4,8 +4,8 @@ latitude: 52.02644
 longitude: 8.52741
 postcode: "33615"
 city: Bielefeld
-street: "Große-Kurfürsten-Straße"
-housenumber: 66
-phone: "+49-521-3054823"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-niehoff.de/"
+street: Große-Kurfürsten-Straße
+housenumber: "66"
+phone: +49-521-3054823
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-niehoff.de/

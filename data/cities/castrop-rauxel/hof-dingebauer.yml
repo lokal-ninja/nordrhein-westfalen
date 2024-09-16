@@ -4,8 +4,8 @@ latitude: 51.56814
 longitude: 7.33962
 postcode: "44577"
 city: Castrop-Rauxel
-street: "Oststraße"
-housenumber: 141
-phone: "+49 2305 31216"
-opening_hours: "Th-Fr  09:00-13:00, 15:00-18:30; Sa 09:00-13:00"
-website: "http://www.hof-dingebauer.de/"
+street: Oststraße
+housenumber: "141"
+phone: +49 2305 31216
+opening_hours: Th-Fr  09:00-13:00, 15:00-18:30; Sa 09:00-13:00
+website: http://www.hof-dingebauer.de/

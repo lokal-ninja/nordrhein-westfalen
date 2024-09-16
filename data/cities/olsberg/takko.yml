@@ -4,8 +4,8 @@ latitude: 51.35844
 longitude: 8.47996
 postcode: "59939"
 city: Olsberg
-street: "Ruhrufer"
-housenumber: 23
+street: Ruhrufer
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.takko-fashion.com/de/index.php"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.takko-fashion.com/de/index.php

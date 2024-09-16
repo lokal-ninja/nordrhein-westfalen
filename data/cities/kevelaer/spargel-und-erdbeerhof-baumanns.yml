@@ -4,8 +4,10 @@ latitude: 51.58549
 longitude: 6.22512
 postcode: "47623"
 city: Kevelaer
-street: "Keylaer"
-housenumber: 56
-phone: "+49 2832 6580"
-opening_hours: "April - Juni, Montag - Freitag         09.00 - 18.00 Uhr, Samstag & Sonntag   09.00 - 13.00 Uhr, Juli Montag - Samstag     09.00 - 13.00 Uhr, August - März Freitag & Samstag     09:00 - 13:00 Uhr"
-website: "https://erdkampshof.de/"
+street: Keylaer
+housenumber: "56"
+phone: +49 2832 6580
+opening_hours: April - Juni, Montag - Freitag         09.00 - 18.00 Uhr, Samstag &
+    Sonntag   09.00 - 13.00 Uhr, Juli Montag - Samstag     09.00 - 13.00 Uhr, August
+    - März Freitag & Samstag     09:00 - 13:00 Uhr
+website: https://erdkampshof.de/

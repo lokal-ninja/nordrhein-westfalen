@@ -1,11 +1,11 @@
 id: 156179554
-type: way
+type: node
 latitude: 52.02945
 longitude: 8.56806
 postcode: "33607"
 city: Bielefeld
-street: "Bleichstraße"
-housenumber: 126
+street: Bleichstraße
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Fr 06:00-09:00"
-website: "https://www.vhs-bildungswerk.de/downloads/pdf/Aehrensache.pdf"
+opening_hours: Mo-Fr 06:00-09:00
+website: https://www.vhs-bildungswerk.de/downloads/pdf/Aehrensache.pdf

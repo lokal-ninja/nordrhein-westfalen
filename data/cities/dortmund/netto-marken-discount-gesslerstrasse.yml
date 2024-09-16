@@ -1,11 +1,11 @@
 id: 24152560
-type: way
+type: node
 latitude: 51.51107
 longitude: 7.51868
 postcode: "44141"
 city: Dortmund
-street: "Geßlerstraße"
-housenumber: 9
+street: Geßlerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

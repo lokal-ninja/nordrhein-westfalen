@@ -1,11 +1,11 @@
 id: 256781132
-type: way
+type: node
 latitude: 52.22469
 longitude: 7.48329
 postcode: "48432"
 city: Rheine
-street: "Bürgerstraße"
-housenumber: 2
+street: Bürgerstraße
+housenumber: "2"
 phone: "+495975300066"
-opening_hours: "Mo-Th 08:00-12:15, 13:00-18:00; Fr 08:00-12:15, 13:00-17:00"
-website: "http://www.kl-autotechnik.de/"
+opening_hours: Mo-Th 08:00-12:15, 13:00-18:00; Fr 08:00-12:15, 13:00-17:00
+website: http://www.kl-autotechnik.de/

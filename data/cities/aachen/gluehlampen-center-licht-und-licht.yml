@@ -1,11 +1,11 @@
 id: 83274324
-type: way
+type: node
 latitude: 50.7741
 longitude: 6.07841
 postcode: "52064"
 city: Aachen
-street: "Jakobstraße"
-housenumber: 78
-phone: "+49 241 3 55 25"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-15:30; Su,PH off"
-website: "http://www.licht-und-licht.de/"
+street: Jakobstraße
+housenumber: "78"
+phone: +49 241 3 55 25
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-15:30; Su,PH off
+website: http://www.licht-und-licht.de/

@@ -1,11 +1,11 @@
 id: 133339715
-type: way
+type: node
 latitude: 51.69147
 longitude: 7.81082
 postcode: "59065"
 city: Hamm
-street: "Heessener Straße"
-housenumber: 9
+street: Heessener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

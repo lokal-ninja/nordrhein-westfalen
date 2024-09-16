@@ -4,8 +4,8 @@ latitude: 51.61268
 longitude: 7.19312
 postcode: "45657"
 city: Recklinghausen
-street: "Hertener Straße"
-housenumber: 4
-phone: "+49 2361 9794380"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.kuechentreff-gallasch.de/"
+street: Hertener Straße
+housenumber: "4"
+phone: +49 2361 9794380
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00
+website: https://www.kuechentreff-gallasch.de/

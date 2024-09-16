@@ -1,11 +1,11 @@
 id: 142293157
-type: way
+type: node
 latitude: 50.78789
 longitude: 7.18256
 postcode: "53757"
 city: Sankt Augustin
-street: "Einsteinstraße"
-housenumber: 1
-phone: "+49 2241 252090"
+street: Einsteinstraße
+housenumber: "1"
+phone: +49 2241 252090
 opening_hours: ""
-website: "https://www.opel-3h-automobile-sankt-augustin.de/"
+website: https://www.opel-3h-automobile-sankt-augustin.de/

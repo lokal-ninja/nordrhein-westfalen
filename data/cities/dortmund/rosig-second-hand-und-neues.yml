@@ -4,8 +4,8 @@ latitude: 51.51232
 longitude: 7.46941
 postcode: "44135"
 city: Dortmund
-street: "Rosental"
-housenumber: 19
-phone: "+49 231 58 44 561"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-17:00"
+street: Rosental
+housenumber: "19"
+phone: +49 231 58 44 561
+opening_hours: Mo-Fr 11:00-18:30; Sa 11:00-17:00
 website: ""

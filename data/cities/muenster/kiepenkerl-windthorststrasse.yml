@@ -4,8 +4,8 @@ latitude: 51.95889
 longitude: 7.62913
 postcode: "48143"
 city: Münster
-street: "Windthorststraße"
-housenumber: 47
-phone: "+49 251 44718"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-18:30; Su 08:30-16:00"
-website: "https://baeckerei-kiepenkerl.de/"
+street: Windthorststraße
+housenumber: "47"
+phone: +49 251 44718
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-18:30; Su 08:30-16:00
+website: https://baeckerei-kiepenkerl.de/

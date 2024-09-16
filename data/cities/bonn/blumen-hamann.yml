@@ -4,8 +4,8 @@ latitude: 50.67735
 longitude: 7.06986
 postcode: "53125"
 city: Bonn
-street: "Reichsstraße"
-housenumber: 68
-phone: "+49 228 252025"
-opening_hours: "Mo-Fr 08:30-12:30, 15:00-18:30; Sa 08:30-13:00; Su 10:30-12:00"
-website: "https://www.blumen-hamann.de/"
+street: Reichsstraße
+housenumber: "68"
+phone: +49 228 252025
+opening_hours: Mo-Fr 08:30-12:30, 15:00-18:30; Sa 08:30-13:00; Su 10:30-12:00
+website: https://www.blumen-hamann.de/

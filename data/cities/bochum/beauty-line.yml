@@ -4,8 +4,8 @@ latitude: 51.47438
 longitude: 7.23886
 postcode: "44803"
 city: Bochum
-street: "Wittener Straße"
-housenumber: 137
-phone: "+49 234 67 220"
-opening_hours: "Mo-Fr 10:00-20:00; PH off"
-website: "https://beautyline-bochum.de/"
+street: Wittener Straße
+housenumber: "137"
+phone: +49 234 67 220
+opening_hours: Mo-Fr 10:00-20:00; PH off
+website: https://beautyline-bochum.de/

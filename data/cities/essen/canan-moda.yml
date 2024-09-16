@@ -1,11 +1,11 @@
 id: 81349775
-type: way
+type: node
 latitude: 51.46026
 longitude: 6.9821
 postcode: "45143"
 city: Essen
-street: "Altendorfer Straße"
-housenumber: 268
+street: Altendorfer Straße
+housenumber: "268"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 844588937
-type: way
+type: node
 latitude: 51.77084
 longitude: 8.03428
 postcode: "59269"
 city: Beckum
-street: "Zünftestraße"
-housenumber: 2
+street: Zünftestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://bmw-service-hackelboerger.de"
+website: https://bmw-service-hackelboerger.de

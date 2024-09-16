@@ -4,8 +4,8 @@ latitude: 52.02046
 longitude: 8.53262
 postcode: "33602"
 city: Bielefeld
-street: "Rathausstraße"
-housenumber: 1
+street: Rathausstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://switch-fashion.de/"
+website: https://switch-fashion.de/

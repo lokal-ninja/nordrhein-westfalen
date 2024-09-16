@@ -1,11 +1,11 @@
 id: 107732594
-type: way
+type: node
 latitude: 50.80697
 longitude: 6.89918
 postcode: "50321"
 city: Brühl
-street: "Steingasse"
-housenumber: 4
+street: Steingasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 51.67488
 longitude: 8.34728
 postcode: "59555"
 city: Lippstadt
-street: "Lange Straße"
-housenumber: 33
+street: Lange Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.dm.de"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.dm.de

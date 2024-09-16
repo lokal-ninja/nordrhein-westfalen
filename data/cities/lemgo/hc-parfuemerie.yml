@@ -4,8 +4,8 @@ latitude: 52.02835
 longitude: 8.90252
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 40
-phone: "+49 5261 15220"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "https://parfuemerie-hc.de/"
+street: Mittelstraße
+housenumber: "40"
+phone: +49 5261 15220
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
+website: https://parfuemerie-hc.de/

@@ -4,8 +4,8 @@ latitude: 50.67407
 longitude: 6.69569
 postcode: "53909"
 city: Zülpich
-street: "Ringstraße"
-housenumber: 30
-phone: "+49 (0)2252-3375"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-17:00; Sa 08:00-12:00"
-website: "https://www.woga-gmbh.de/index.html"
+street: Ringstraße
+housenumber: "30"
+phone: +49 (0)2252-3375
+opening_hours: Mo-Fr 08:00-12:00, 13:30-17:00; Sa 08:00-12:00
+website: https://www.woga-gmbh.de/index.html

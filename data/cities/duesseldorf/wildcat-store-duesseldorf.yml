@@ -4,8 +4,8 @@ latitude: 51.21224
 longitude: 6.78244
 postcode: "40215"
 city: Düsseldorf
-street: "Corneliusstraße"
-housenumber: 85
-phone: "+49 211 319121"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-18:00"
-website: "https://www.wildcat.de/"
+street: Corneliusstraße
+housenumber: "85"
+phone: +49 211 319121
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-18:00
+website: https://www.wildcat.de/

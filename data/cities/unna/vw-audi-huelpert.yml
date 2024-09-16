@@ -1,11 +1,11 @@
 id: 99333559
-type: way
+type: node
 latitude: 51.52936
 longitude: 7.6778
 postcode: "59423"
 city: Unna
-street: "Ziegelstraße"
-housenumber: 25
+street: Ziegelstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.6295
 longitude: 7.85915
 postcode: "59069"
 city: Hamm
-street: "Reginenstraße"
-housenumber: 16
+street: Reginenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00"
-website: "https://www.baeckerei-doerdelmann.de"
+opening_hours: Mo-Sa 06:30-18:00
+website: https://www.baeckerei-doerdelmann.de

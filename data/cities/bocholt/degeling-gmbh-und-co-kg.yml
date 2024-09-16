@@ -4,8 +4,8 @@ latitude: 51.84089
 longitude: 6.62408
 postcode: "46397"
 city: Bocholt
-street: "Schwartzstraße"
-housenumber: 40
-phone: "+49 2871 21320"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00; "
-website: "https://www.degeling.gmbh"
+street: Schwartzstraße
+housenumber: "40"
+phone: +49 2871 21320
+opening_hours: 'Mo-Fr 08:00-12:30,13:30-17:00; '
+website: https://www.degeling.gmbh

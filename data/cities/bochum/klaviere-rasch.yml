@@ -4,8 +4,8 @@ latitude: 51.46271
 longitude: 7.2005
 postcode: "44795"
 city: Bochum
-street: "Kohlenstraße"
-housenumber: 12
-phone: "+49 234 451874"
-opening_hours: "Th 15:00-19:00, Sa 10:00-13:00; oder nach Vereinbarung"
-website: "https://www.klaviere-rasch.de/"
+street: Kohlenstraße
+housenumber: "12"
+phone: +49 234 451874
+opening_hours: Th 15:00-19:00, Sa 10:00-13:00; "oder nach Vereinbarung"
+website: https://www.klaviere-rasch.de/

@@ -1,11 +1,11 @@
 id: 162364959
-type: way
+type: node
 latitude: 51.36889
 longitude: 8.41691
 postcode: "59909"
 city: Bestwig
-street: "Briloner Straße"
-housenumber: 13
-phone: "+49 2904 2339"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00, Sa 09:00-12:30"
-website: "https://www.hilgenhaus.de/"
+street: Briloner Straße
+housenumber: "13"
+phone: +49 2904 2339
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00, Sa 09:00-12:30
+website: https://www.hilgenhaus.de/

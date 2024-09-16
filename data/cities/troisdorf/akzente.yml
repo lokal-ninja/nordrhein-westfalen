@@ -4,8 +4,8 @@ latitude: 50.81396
 longitude: 7.16103
 postcode: "53840"
 city: Troisdorf
-street: "Kölner Straße"
-housenumber: 28
+street: Kölner Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.akzente-genuss.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://www.akzente-genuss.de

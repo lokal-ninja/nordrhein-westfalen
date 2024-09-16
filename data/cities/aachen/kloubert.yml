@@ -1,11 +1,11 @@
 id: 36930879
-type: way
+type: node
 latitude: 50.7835
 longitude: 6.13196
 postcode: ""
 city: Aachen
-street: "Tempelhofer Straße"
-housenumber: 10
+street: Tempelhofer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo- Fr 07:00-19:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.guenter-kloubert.de/"
+opening_hours: Mo- Fr 07:00-19:00; Sa 09:00-14:00; Su,PH off
+website: https://www.guenter-kloubert.de/

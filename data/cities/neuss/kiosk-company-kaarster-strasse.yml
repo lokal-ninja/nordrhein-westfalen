@@ -1,11 +1,11 @@
 id: 219423272
-type: way
+type: node
 latitude: 51.22007
 longitude: 6.65712
 postcode: "41462"
 city: Neuss
-street: "Kaarster Straße"
-housenumber: 98
+street: Kaarster Straße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 05:30-22:30, Su 07:00-23:00"
+opening_hours: Mo-Sa 05:30-22:30, Su 07:00-23:00
 website: ""

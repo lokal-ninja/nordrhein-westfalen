@@ -4,8 +4,8 @@ latitude: 50.78198
 longitude: 6.15315
 postcode: "52080"
 city: Aachen
-street: "Karlstraße"
-housenumber: 94
+street: Karlstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-14:00; We,Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-14:00; We,Su,PH off
 website: ""

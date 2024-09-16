@@ -1,11 +1,11 @@
 id: 255030163
-type: way
+type: node
 latitude: 50.76432
 longitude: 6.99016
 postcode: "53332"
 city: Bornheim
-street: "Diergardtstraße"
-housenumber: 17
+street: Diergardtstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

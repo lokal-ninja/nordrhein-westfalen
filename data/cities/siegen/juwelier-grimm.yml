@@ -1,11 +1,11 @@
 id: 76073768
-type: way
+type: node
 latitude: 50.89599
 longitude: 8.0259
 postcode: "57076"
 city: Siegen
-street: "Hauptmarkt"
-housenumber: 9
+street: Hauptmarkt
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30, Sa 10:00-15:00, Mo-Fr 14:30-18:00"
+opening_hours: Mo-Fr 10:00-13:30, Sa 10:00-15:00, Mo-Fr 14:30-18:00
 website: ""

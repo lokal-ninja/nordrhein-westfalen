@@ -1,11 +1,11 @@
 id: 474439344
-type: way
+type: node
 latitude: 50.91469
 longitude: 8.35283
 postcode: "57334"
 city: Bad Laasphe
-street: "Banfetalstraße"
-housenumber: 83
-phone: "+49 2752 9422"
+street: Banfetalstraße
+housenumber: "83"
+phone: +49 2752 9422
 opening_hours: ""
 website: ""

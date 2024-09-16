@@ -4,8 +4,8 @@ latitude: 51.95666
 longitude: 7.59351
 postcode: "48149"
 city: Münster
-street: "Waldeyerstraße"
-housenumber: 72
-phone: "+49 251 7036796"
-opening_hours: "Mo-Fr 09:30-13:00, 15:00-18:00; Sa 10:00-12:00"
+street: Waldeyerstraße
+housenumber: "72"
+phone: +49 251 7036796
+opening_hours: Mo-Fr 09:30-13:00, 15:00-18:00; Sa 10:00-12:00
 website: ""

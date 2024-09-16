@@ -1,11 +1,11 @@
 id: 55342206
-type: way
+type: node
 latitude: 50.91031
 longitude: 7.89012
 postcode: "57258"
 city: Freudenberg
-street: "Triftstraße"
-housenumber: 54
-phone: "+49 2734 1520"
+street: Triftstraße
+housenumber: "54"
+phone: +49 2734 1520
 opening_hours: ""
-website: "https://www.pal-fahrzeugtechnik.de/"
+website: https://www.pal-fahrzeugtechnik.de/

@@ -1,11 +1,11 @@
 id: 98979709
-type: way
+type: node
 latitude: 51.35907
 longitude: 7.46995
 postcode: "58095"
 city: Hagen
-street: "Elberfelder Straße"
-housenumber: 38
+street: Elberfelder Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

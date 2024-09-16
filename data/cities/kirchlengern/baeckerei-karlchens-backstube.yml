@@ -4,8 +4,8 @@ latitude: 52.24124
 longitude: 8.62734
 postcode: "32278"
 city: Kirchlengern
-street: "Stiftstraße"
-housenumber: 81
-phone: "+49 5223 71196"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-12:00"
-website: "https://www.karlchens-backstube.de/"
+street: Stiftstraße
+housenumber: "81"
+phone: +49 5223 71196
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-12:00
+website: https://www.karlchens-backstube.de/

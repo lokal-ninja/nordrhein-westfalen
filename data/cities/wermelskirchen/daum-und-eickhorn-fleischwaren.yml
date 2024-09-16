@@ -4,8 +4,9 @@ latitude: 51.13669
 longitude: 7.2098
 postcode: "42929"
 city: Wermelskirchen
-street: "Eich"
-housenumber: 46
+street: Eich
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:30, Mo-We 14:30-18:00, Th 14:30-18:30, Fr 06:30-18:30, Sa 06:30-13:00"
+opening_hours: Mo-Th 07:30-12:30, Mo-We 14:30-18:00, Th 14:30-18:30, Fr 06:30-18:30,
+    Sa 06:30-13:00
 website: ""

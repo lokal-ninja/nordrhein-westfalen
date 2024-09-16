@@ -1,11 +1,11 @@
 id: 202309815
-type: way
+type: node
 latitude: 50.82531
 longitude: 6.45804
 postcode: ""
 city: Düren
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/

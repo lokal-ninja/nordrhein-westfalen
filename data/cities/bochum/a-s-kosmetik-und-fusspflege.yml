@@ -4,8 +4,8 @@ latitude: 51.43383
 longitude: 7.18328
 postcode: "44879"
 city: Bochum
-street: "Im Ostholz"
-housenumber: 134
+street: Im Ostholz
+housenumber: "134"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.16214
 longitude: 6.73011
 postcode: "41469"
 city: Neuss
-street: "An der Norf"
-housenumber: 7
-phone: "+49 2137 3154"
-opening_hours: "Tu-Fr 09:00-18:00; Th 08:00-13:00,16:30-20:00"
-website: "http://www.annekamper.de"
+street: An der Norf
+housenumber: "7"
+phone: +49 2137 3154
+opening_hours: Tu-Fr 09:00-18:00; Th 08:00-13:00,16:30-20:00
+website: http://www.annekamper.de

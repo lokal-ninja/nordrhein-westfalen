@@ -1,11 +1,11 @@
 id: 217385932
-type: way
+type: node
 latitude: 51.27648
 longitude: 7.20167
 postcode: "42275"
 city: Wuppertal
-street: "Wuppermannstraße"
-housenumber: 25
+street: Wuppermannstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

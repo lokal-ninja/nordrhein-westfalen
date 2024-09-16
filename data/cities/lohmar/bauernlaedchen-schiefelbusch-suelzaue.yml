@@ -1,11 +1,11 @@
 id: 552212634
-type: way
+type: node
 latitude: 50.87424
 longitude: 7.19655
 postcode: "53797"
 city: Lohmar
-street: "Sülzaue"
-housenumber: 1
+street: Sülzaue
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 08:30-19:00, Sa 08:30-14:00; PH off"
+opening_hours: Tu-Fr 08:30-19:00, Sa 08:30-14:00; PH off
 website: ""

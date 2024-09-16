@@ -4,8 +4,8 @@ latitude: 51.4931
 longitude: 9.15705
 postcode: "34414"
 city: Warburg
-street: "Landfurt"
-housenumber: 67
+street: Landfurt
+housenumber: "67"
 phone: ""
-opening_hours: "Mo,We 15:00-17:00"
-website: "https://www.drk-warburg.de/angebote/existenzsichernde-hilfe/kleiderladen-in-warburg.html"
+opening_hours: Mo,We 15:00-17:00
+website: https://www.drk-warburg.de/angebote/existenzsichernde-hilfe/kleiderladen-in-warburg.html

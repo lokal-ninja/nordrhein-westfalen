@@ -1,11 +1,11 @@
 id: 455688176
-type: way
+type: node
 latitude: 50.63613
 longitude: 6.61257
 postcode: "53894"
 city: Mechernich
-street: "Vogteistraße"
-housenumber: 43
-phone: "+49 2443 5491"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-13:00; Su,PH 08:00-17:30"
-website: "https://www.cafe-habrich.de/"
+street: Vogteistraße
+housenumber: "43"
+phone: +49 2443 5491
+opening_hours: Tu-Fr 06:30-18:00; Sa 06:30-13:00; Su,PH 08:00-17:30
+website: https://www.cafe-habrich.de/

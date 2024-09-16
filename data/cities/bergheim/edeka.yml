@@ -1,11 +1,11 @@
 id: 183115957
-type: way
+type: node
 latitude: 50.96659
 longitude: 6.75632
 postcode: "50129"
 city: Bergheim
-street: "Dansweilerstraße"
-housenumber: 3
+street: Dansweilerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

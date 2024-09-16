@@ -4,8 +4,8 @@ latitude: 50.91415
 longitude: 8.01195
 postcode: "57078"
 city: Siegen
-street: "Rathausstraße"
-housenumber: 4
+street: Rathausstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-12:30,14:00-18:00"
+opening_hours: Tu,Th,Fr 09:00-12:30,14:00-18:00
 website: ""

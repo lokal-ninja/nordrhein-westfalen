@@ -4,8 +4,8 @@ latitude: 51.2265
 longitude: 6.77236
 postcode: "40213"
 city: Düsseldorf
-street: "Burgplatz"
-housenumber: 12
+street: Burgplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.klipp-art.de"
+website: https://www.klipp-art.de

@@ -1,11 +1,11 @@
 id: 324744632
-type: way
+type: node
 latitude: 51.41293
 longitude: 7.43192
 postcode: "58313"
 city: Herdecke
-street: "Herdecker Bach"
-housenumber: 8
+street: Herdecker Bach
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00"
-website: "https://www.kfz-gwose.de/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00
+website: https://www.kfz-gwose.de/

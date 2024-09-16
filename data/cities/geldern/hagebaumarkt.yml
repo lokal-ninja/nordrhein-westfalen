@@ -1,11 +1,11 @@
 id: 97782573
-type: way
+type: node
 latitude: 51.52222
 longitude: 6.292
 postcode: "47608"
 city: Geldern
-street: "Martinistraße"
-housenumber: 48
-phone: "+49 2831 7097"
+street: Martinistraße
+housenumber: "48"
+phone: +49 2831 7097
 opening_hours: ""
-website: "https://www.hagebau.de/"
+website: https://www.hagebau.de/

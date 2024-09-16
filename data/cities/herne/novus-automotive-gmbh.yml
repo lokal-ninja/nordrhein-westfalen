@@ -4,8 +4,8 @@ latitude: 51.52425
 longitude: 7.20304
 postcode: "44625"
 city: Herne
-street: "Südstraße"
-housenumber: 51
-phone: "+49 2325 375881"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.novus-automotive.de/"
+street: Südstraße
+housenumber: "51"
+phone: +49 2325 375881
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.novus-automotive.de/

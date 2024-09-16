@@ -1,11 +1,11 @@
 id: 289588329
-type: way
+type: node
 latitude: 51.96133
 longitude: 8.84173
 postcode: "32758"
 city: Detmold
-street: "Windmeierweg"
-housenumber: 12
-phone: "+49 5231 7005-0"
+street: Windmeierweg
+housenumber: "12"
+phone: +49 5231 7005-0
 opening_hours: ""
-website: "https://www.bundk.de/detmold"
+website: https://www.bundk.de/detmold

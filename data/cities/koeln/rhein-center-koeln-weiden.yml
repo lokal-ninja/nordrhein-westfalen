@@ -1,11 +1,11 @@
 id: 26687336
-type: way
+type: node
 latitude: 50.93803
 longitude: 6.83458
 postcode: "50858"
 city: Köln
-street: "Bunzlauer Straße"
+street: Bunzlauer Straße
 housenumber: 2-6
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.rhein-center-koeln.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.rhein-center-koeln.de/

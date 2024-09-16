@@ -4,8 +4,8 @@ latitude: 51.50528
 longitude: 7.57176
 postcode: "44287"
 city: Dortmund
-street: "Schleefstraße"
-housenumber: 15
-phone: "+49 231 4420240"
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
+street: Schleefstraße
+housenumber: "15"
+phone: +49 231 4420240
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
 website: ""

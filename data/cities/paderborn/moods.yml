@@ -4,8 +4,8 @@ latitude: 51.717
 longitude: 8.75483
 postcode: "33098"
 city: Paderborn
-street: "Neuer Platz"
-housenumber: 4
+street: Neuer Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "http://www.moods-paderborn.de"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: http://www.moods-paderborn.de

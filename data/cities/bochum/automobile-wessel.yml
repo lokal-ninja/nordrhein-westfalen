@@ -1,11 +1,11 @@
 id: 404609163
-type: way
+type: node
 latitude: 51.48564
 longitude: 7.12324
 postcode: "44866"
 city: Bochum
-street: "Lohrheidestraße"
-housenumber: 60
+street: Lohrheidestraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

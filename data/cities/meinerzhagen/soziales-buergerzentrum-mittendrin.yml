@@ -1,11 +1,11 @@
 id: 1311348798
-type: way
+type: node
 latitude: 51.10734
 longitude: 7.64052
 postcode: "58540"
 city: Meinerzhagen
-street: "Prumbomweg"
-housenumber: 3
+street: Prumbomweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa-Su off"
+opening_hours: Mo-Fr 10:00-17:00; Sa-Su off
 website: ""

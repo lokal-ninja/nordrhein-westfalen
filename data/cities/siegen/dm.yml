@@ -4,8 +4,8 @@ latitude: 50.89562
 longitude: 8.02699
 postcode: "57076"
 city: Siegen
-street: "Hauptmarkt"
-housenumber: 1
-phone: "+49 271 25077944"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.dm.de"
+street: Hauptmarkt
+housenumber: "1"
+phone: +49 271 25077944
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.dm.de

@@ -4,8 +4,8 @@ latitude: 50.68399
 longitude: 7.15558
 postcode: "53173"
 city: Bonn
-street: "Koblenzer Straße"
-housenumber: 53
+street: Koblenzer Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo 09:00-18:30; Tu,Th 09:00-18:00; We,Fr 09:00-14:00; Sa 09:30-13:30"
-website: "https://www.inovamed.org/"
+opening_hours: Mo 09:00-18:30; Tu,Th 09:00-18:00; We,Fr 09:00-14:00; Sa 09:30-13:30
+website: https://www.inovamed.org/

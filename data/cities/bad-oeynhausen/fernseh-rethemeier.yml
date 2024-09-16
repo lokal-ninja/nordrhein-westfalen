@@ -1,11 +1,11 @@
 id: 34184691
-type: way
+type: node
 latitude: 52.22152
 longitude: 8.79855
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Eidinghausener Straße"
-housenumber: 124
+street: Eidinghausener Straße
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

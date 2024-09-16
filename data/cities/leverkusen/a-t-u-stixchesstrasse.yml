@@ -1,11 +1,11 @@
 id: 134939262
-type: way
+type: node
 latitude: 51.02444
 longitude: 7.01565
 postcode: "51377"
 city: Leverkusen
-street: "Stixchesstraße"
-housenumber: 137
+street: Stixchesstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/pages/service/filialen/f_detail.html?nr=524&lkz=DE&gebiet=5"
+website: https://www.atu.de/pages/service/filialen/f_detail.html?nr=524&lkz=DE&gebiet=5

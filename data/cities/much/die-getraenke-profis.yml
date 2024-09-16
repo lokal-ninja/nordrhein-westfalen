@@ -4,8 +4,8 @@ latitude: 50.90863
 longitude: 7.40656
 postcode: "53804"
 city: Much
-street: "Dr.-Wirtz-Straße"
-housenumber: 27
-phone: "+49 2245 9115052"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00,13:30-16:00"
-website: "https://www.appelmann.de/maerkte/standorte/"
+street: Dr.-Wirtz-Straße
+housenumber: "27"
+phone: +49 2245 9115052
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00,13:30-16:00
+website: https://www.appelmann.de/maerkte/standorte/

@@ -1,11 +1,11 @@
 id: 81632552
-type: way
+type: node
 latitude: 51.48605
 longitude: 7.00859
 postcode: "45326"
 city: Essen
-street: "Altenessener Straße"
-housenumber: 259
+street: Altenessener Straße
+housenumber: "259"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

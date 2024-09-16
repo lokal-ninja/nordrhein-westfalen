@@ -1,11 +1,11 @@
 id: 225023844
-type: way
+type: node
 latitude: 50.66181
 longitude: 6.79422
 postcode: "53879"
 city: Euskirchen
-street: "Dominikanerinnenplatz"
-housenumber: 9
+street: Dominikanerinnenplatz
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

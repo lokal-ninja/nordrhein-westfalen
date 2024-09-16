@@ -1,11 +1,11 @@
 id: 90534122
-type: way
+type: node
 latitude: 51.94892
 longitude: 8.8853
 postcode: "32756"
 city: Detmold
-street: "Sylbeckestraße"
-housenumber: 20
+street: Sylbeckestraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

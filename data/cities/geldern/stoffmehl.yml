@@ -4,8 +4,8 @@ latitude: 51.52334
 longitude: 6.34981
 postcode: "47608"
 city: Geldern
-street: "Dieselstraße"
-housenumber: 1
-phone: "+49 2831 7077"
-opening_hours: "Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su,PH 08:00-23:00"
-website: "https://www.stoffmehl-gmbh.de/tankstelle"
+street: Dieselstraße
+housenumber: "1"
+phone: +49 2831 7077
+opening_hours: Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su,PH 08:00-23:00
+website: https://www.stoffmehl-gmbh.de/tankstelle

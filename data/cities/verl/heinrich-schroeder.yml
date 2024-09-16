@@ -4,8 +4,8 @@ latitude: 51.88464
 longitude: 8.50922
 postcode: "33415"
 city: Verl
-street: "Kirchplatz"
-housenumber: 4
+street: Kirchplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH,Su off"
-website: "http://likör-manufaktur.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH,Su off
+website: http://likör-manufaktur.de/

@@ -1,11 +1,11 @@
 id: 138629318
-type: way
+type: node
 latitude: 51.12819
 longitude: 6.78423
 postcode: "41542"
 city: Dormagen
-street: "Gabrielstraße"
+street: Gabrielstraße
 housenumber: 8;10
-phone: "+49 2133 72794"
+phone: +49 2133 72794
 opening_hours: ""
-website: "https://www.grossauer-pianos.de/"
+website: https://www.grossauer-pianos.de/

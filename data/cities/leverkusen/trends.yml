@@ -1,11 +1,11 @@
 id: 30642561
-type: way
+type: node
 latitude: 51.02324
 longitude: 6.99231
 postcode: "51373"
 city: Leverkusen
-street: "Carl-Duisberg-Straße"
-housenumber: 155
+street: Carl-Duisberg-Straße
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

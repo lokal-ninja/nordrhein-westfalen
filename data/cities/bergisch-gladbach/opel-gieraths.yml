@@ -1,11 +1,11 @@
 id: 254770314
-type: way
+type: node
 latitude: 50.9946
 longitude: 7.11058
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Paffrather Straße"
-housenumber: 195
+street: Paffrather Straße
+housenumber: "195"
 phone: ""
 opening_hours: ""
-website: "https://www.gieraths.de/"
+website: https://www.gieraths.de/

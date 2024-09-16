@@ -1,11 +1,11 @@
 id: 129115545
-type: way
+type: node
 latitude: 50.85643
 longitude: 7.19686
 postcode: "53842"
 city: Troisdorf
-street: "Längsbroich"
-housenumber: 6
+street: Längsbroich
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

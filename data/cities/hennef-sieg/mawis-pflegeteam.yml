@@ -1,11 +1,11 @@
 id: 249516063
-type: way
+type: node
 latitude: 50.77553
 longitude: 7.26141
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Schützenstraße"
-housenumber: 5
-phone: "+49 2242 9180080"
+street: Schützenstraße
+housenumber: "5"
+phone: +49 2242 9180080
 opening_hours: ""
-website: "https://www.mawis-pflege.de/"
+website: https://www.mawis-pflege.de/

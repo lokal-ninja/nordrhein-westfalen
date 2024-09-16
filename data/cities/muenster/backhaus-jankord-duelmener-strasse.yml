@@ -4,8 +4,8 @@ latitude: 51.92479
 longitude: 7.52398
 postcode: "48163"
 city: Münster
-street: "Dülmener Straße"
-housenumber: 21
-phone: "+49 2536 344452"
-opening_hours: "Mo-Fr 06:00-12:30; Sa 06:00-12:30; Su 07:30-12:30"
-website: "https://www.backhaus-jankord.de/"
+street: Dülmener Straße
+housenumber: "21"
+phone: +49 2536 344452
+opening_hours: Mo-Fr 06:00-12:30; Sa 06:00-12:30; Su 07:30-12:30
+website: https://www.backhaus-jankord.de/

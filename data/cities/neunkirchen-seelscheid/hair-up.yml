@@ -1,11 +1,11 @@
 id: 246133018
-type: way
+type: node
 latitude: 50.86973
 longitude: 7.32277
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Zeithstraße"
-housenumber: 113
-phone: "+49 2247 979 65 75"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00; Mo off"
+street: Zeithstraße
+housenumber: "113"
+phone: +49 2247 979 65 75
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00; Mo off
 website: ""

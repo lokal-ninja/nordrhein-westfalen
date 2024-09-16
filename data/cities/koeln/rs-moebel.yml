@@ -4,8 +4,8 @@ latitude: 50.95047
 longitude: 6.91442
 postcode: "50825"
 city: Köln
-street: "Venloer Straße"
-housenumber: 389
-phone: "+49 221 427777"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.rs-moebel.de/cms/index.php?id=2"
+street: Venloer Straße
+housenumber: "389"
+phone: +49 221 427777
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.rs-moebel.de/cms/index.php?id=2

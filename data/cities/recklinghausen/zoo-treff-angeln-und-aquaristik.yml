@@ -4,8 +4,8 @@ latitude: 51.61812
 longitude: 7.20159
 postcode: "45657"
 city: Recklinghausen
-street: "Oerweg"
-housenumber: 4
-phone: "+49 2361 59580"
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00"
-website: "https://www.friseur-recklinghausen.com/"
+street: Oerweg
+housenumber: "4"
+phone: +49 2361 59580
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-14:00
+website: https://www.friseur-recklinghausen.com/

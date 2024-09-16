@@ -1,11 +1,11 @@
 id: 951694367
-type: way
+type: node
 latitude: 51.52347
 longitude: 7.15369
 postcode: "44649"
 city: Herne
-street: "Berliner Straße"
-housenumber: 12
+street: Berliner Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/herne/berliner-strasse-12/3180566"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/herne/berliner-strasse-12/3180566

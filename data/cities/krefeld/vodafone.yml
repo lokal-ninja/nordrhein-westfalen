@@ -4,8 +4,8 @@ latitude: 51.37239
 longitude: 6.50929
 postcode: "47839"
 city: Krefeld
-street: "Schulstraße"
-housenumber: 11
+street: Schulstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; PH,Sa,Su off
 website: ""

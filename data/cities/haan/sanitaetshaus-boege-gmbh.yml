@@ -4,8 +4,8 @@ latitude: 51.20419
 longitude: 7.04169
 postcode: "42781"
 city: Haan
-street: "Landstraße"
-housenumber: 66
+street: Landstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.boege-online.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.boege-online.de/

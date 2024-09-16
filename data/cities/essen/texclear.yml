@@ -4,8 +4,8 @@ latitude: 51.44794
 longitude: 7.07678
 postcode: "45276"
 city: Essen
-street: "Humannstraße"
-housenumber: 3
+street: Humannstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-13:00
 website: ""

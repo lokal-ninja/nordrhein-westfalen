@@ -4,8 +4,8 @@ latitude: 50.87825
 longitude: 7.08245
 postcode: "51145"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 488
-phone: "+49 2203 9242826"
-opening_hours: "Mo-Fr 09:00-18:45; Sa 09:00-14:45"
-website: "https://www.levent-haircut.de/"
+street: Frankfurter Straße
+housenumber: "488"
+phone: +49 2203 9242826
+opening_hours: Mo-Fr 09:00-18:45; Sa 09:00-14:45
+website: https://www.levent-haircut.de/

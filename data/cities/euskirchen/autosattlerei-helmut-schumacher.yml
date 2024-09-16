@@ -1,11 +1,11 @@
 id: 92334585
-type: way
+type: node
 latitude: 50.65385
 longitude: 6.80142
 postcode: "53879"
 city: Euskirchen
-street: "An der Vogelrute"
-housenumber: 48
+street: An der Vogelrute
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

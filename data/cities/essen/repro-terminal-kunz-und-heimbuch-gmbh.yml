@@ -4,8 +4,8 @@ latitude: 51.45658
 longitude: 7.01806
 postcode: "45127"
 city: Essen
-street: "Alfredistraße"
-housenumber: 30
+street: Alfredistraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.repro-terminal-heimbuch.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.repro-terminal-heimbuch.de/

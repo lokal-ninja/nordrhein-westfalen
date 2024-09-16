@@ -4,8 +4,8 @@ latitude: 51.47128
 longitude: 7.32031
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 39
+street: Alte Bahnhofstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
-website: "https://gimmerthal.buchhandlung.de/shop/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
+website: https://gimmerthal.buchhandlung.de/shop/

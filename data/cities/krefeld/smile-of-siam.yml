@@ -1,11 +1,11 @@
 id: 258219305
-type: way
+type: node
 latitude: 51.32864
 longitude: 6.5684
 postcode: "47798"
 city: Krefeld
-street: "Ostwall"
-housenumber: 53
+street: Ostwall
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "http://www.smile-of-siam.de/"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: http://www.smile-of-siam.de/

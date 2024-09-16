@@ -4,8 +4,8 @@ latitude: 52.02858
 longitude: 8.52205
 postcode: "33615"
 city: Bielefeld
-street: "Rolandstraße"
-housenumber: 20
+street: Rolandstraße
+housenumber: "20"
 phone: ""
-opening_hours: "We,Fr 11:00-14:00,17:00-18:00+"
+opening_hours: We,Fr 11:00-14:00,17:00-18:00+
 website: ""

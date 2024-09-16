@@ -1,11 +1,11 @@
 id: 477937714
-type: way
+type: node
 latitude: 50.82737
 longitude: 6.98039
 postcode: "50389"
 city: Wesseling
-street: "Am Markt"
-housenumber: 20
-phone: "+49 2236 42791"
-opening_hours: "Mo-Fr 08:00-13:00; 14:30-18:30; Sa 09:00-14:00"
-website: "https://engels-meisen.de/home/floristik"
+street: Am Markt
+housenumber: "20"
+phone: +49 2236 42791
+opening_hours: Mo-Fr 08:00-13:00; 14:30-18:30; Sa 09:00-14:00
+website: https://engels-meisen.de/home/floristik

@@ -1,11 +1,11 @@
 id: 163687449
-type: way
+type: node
 latitude: 51.14449
 longitude: 8.01879
 postcode: "57368"
 city: Lennestadt
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

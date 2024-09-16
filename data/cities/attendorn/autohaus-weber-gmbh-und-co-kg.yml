@@ -1,11 +1,11 @@
 id: 243496365
-type: way
+type: node
 latitude: 51.12475
 longitude: 7.91081
 postcode: "57439"
 city: Attendorn
-street: "Am Zollstock"
-housenumber: 9
+street: Am Zollstock
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-weber-attendorn.de/"
+website: https://autohaus-weber-attendorn.de/

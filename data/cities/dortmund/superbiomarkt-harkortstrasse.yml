@@ -4,8 +4,8 @@ latitude: 51.47564
 longitude: 7.44322
 postcode: "44225"
 city: Dortmund
-street: "Harkortstraße"
-housenumber: 18
-phone: "+49 231 7770995"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.superbiomarkt.com/"
+street: Harkortstraße
+housenumber: "18"
+phone: +49 231 7770995
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.superbiomarkt.com/

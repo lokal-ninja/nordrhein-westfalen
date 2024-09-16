@@ -1,11 +1,11 @@
 id: 306857003
-type: way
+type: node
 latitude: 52.19313
 longitude: 8.53581
 postcode: "32257"
 city: Bünde
-street: "Osnabrücker Straße"
-housenumber: 211
+street: Osnabrücker Straße
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.73483
 longitude: 7.10229
 postcode: "53111"
 city: Bonn
-street: "Bischofsplatz"
-housenumber: 2
+street: Bischofsplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 08:00-23:00; PH 10:00-22:00"
+opening_hours: Mo-Su 08:00-23:00; PH 10:00-22:00
 website: ""

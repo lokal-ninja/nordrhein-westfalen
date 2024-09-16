@@ -1,11 +1,11 @@
 id: 143917206
-type: way
+type: node
 latitude: 51.35835
 longitude: 7.38536
 postcode: "58300"
 city: Wetter (Ruhr)
-street: "Altenhofer Weg"
-housenumber: 37
-phone: "+49 2335 60320"
+street: Altenhofer Weg
+housenumber: "37"
+phone: +49 2335 60320
 opening_hours: ""
-website: "http://www.garthe-stoltenhoff.de/"
+website: http://www.garthe-stoltenhoff.de/

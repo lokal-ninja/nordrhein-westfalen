@@ -4,8 +4,8 @@ latitude: 51.49551
 longitude: 7.28198
 postcode: "44791"
 city: Bochum
-street: "Am Einkaufszentrum"
-housenumber: 12
-phone: "+49 234 9266484"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://www.hunkemoller.de/de_de/"
+street: Am Einkaufszentrum
+housenumber: "12"
+phone: +49 234 9266484
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00
+website: https://www.hunkemoller.de/de_de/

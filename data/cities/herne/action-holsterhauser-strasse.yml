@@ -1,11 +1,11 @@
 id: 87686752
-type: way
+type: node
 latitude: 51.52728
 longitude: 7.19189
 postcode: "44625"
 city: Herne
-street: "Holsterhauser Straße"
-housenumber: 91
+street: Holsterhauser Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

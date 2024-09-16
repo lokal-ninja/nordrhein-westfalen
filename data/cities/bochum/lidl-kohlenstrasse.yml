@@ -1,11 +1,11 @@
 id: 204713795
-type: way
+type: node
 latitude: 51.47498
 longitude: 7.19309
 postcode: "44793"
 city: Bochum
-street: "Kohlenstraße"
-housenumber: 190
+street: Kohlenstraße
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.lidl.de/filialen/bochum/stahlhausen-kohlenstr-190.html"
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.lidl.de/filialen/bochum/stahlhausen-kohlenstr-190.html

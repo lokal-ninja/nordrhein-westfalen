@@ -4,8 +4,8 @@ latitude: 51.36423
 longitude: 6.42123
 postcode: "47906"
 city: Kempen
-street: "Engerstraße"
-housenumber: 50
-phone: "+49 2152 2167"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:00; Sa 10:00-14:00"
+street: Engerstraße
+housenumber: "50"
+phone: +49 2152 2167
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:00; Sa 10:00-14:00
 website: ""

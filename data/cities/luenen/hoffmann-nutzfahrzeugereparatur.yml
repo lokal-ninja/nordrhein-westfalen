@@ -1,11 +1,11 @@
 id: 170562917
-type: way
+type: node
 latitude: 51.60483
 longitude: 7.45684
 postcode: "44536"
 city: Lünen
-street: "Auf der Höhe"
-housenumber: 4
+street: Auf der Höhe
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

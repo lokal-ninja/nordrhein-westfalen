@@ -4,8 +4,8 @@ latitude: 51.77142
 longitude: 7.44605
 postcode: "59348"
 city: Lüdinghausen
-street: "Hermannstraße"
-housenumber: 17
+street: Hermannstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00"
-website: "https://www.lucies-laden.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00
+website: https://www.lucies-laden.de/

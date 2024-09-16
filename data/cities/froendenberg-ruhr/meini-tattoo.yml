@@ -4,8 +4,8 @@ latitude: 51.47456
 longitude: 7.76706
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Eulenstraße"
-housenumber: 3
-phone: "+49 2373 3957777"
-opening_hours: "Mo-Fr 12:00-18:00"
+street: Eulenstraße
+housenumber: "3"
+phone: +49 2373 3957777
+opening_hours: Mo-Fr 12:00-18:00
 website: ""

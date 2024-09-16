@@ -4,8 +4,8 @@ latitude: 50.83092
 longitude: 6.07614
 postcode: "52134"
 city: Herzogenrath
-street: "Banker Straße"
-housenumber: 27
+street: Banker Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, Mo,Tu,Fr 14:00-17:00"
-website: "https://www.stickyfoil.de/"
+opening_hours: Mo-Fr 09:00-12:00, Mo,Tu,Fr 14:00-17:00
+website: https://www.stickyfoil.de/

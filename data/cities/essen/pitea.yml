@@ -4,8 +4,8 @@ latitude: 51.44096
 longitude: 6.99109
 postcode: "45147"
 city: Essen
-street: "Gemarkenstraße"
-housenumber: 87
-phone: "+49 201 75925700"
-opening_hours: "Mo-Fr 10:00-13:30, Mo-Fr 14:30-18:30, Sa 10:00-13:30"
-website: "https://www.pitea.de/"
+street: Gemarkenstraße
+housenumber: "87"
+phone: +49 201 75925700
+opening_hours: Mo-Fr 10:00-13:30, Mo-Fr 14:30-18:30, Sa 10:00-13:30
+website: https://www.pitea.de/

@@ -1,11 +1,11 @@
 id: 211439349
-type: way
+type: node
 latitude: 50.63929
 longitude: 7.02044
 postcode: "53340"
 city: Meckenheim
-street: "Bergerwiesenstraße"
-housenumber: 14
+street: Bergerwiesenstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

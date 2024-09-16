@@ -1,11 +1,11 @@
 id: 302702288
-type: way
+type: node
 latitude: 51.32374
 longitude: 7.33787
 postcode: "58285"
 city: Gevelsberg
-street: "Wittener Straße"
-housenumber: 42
+street: Wittener Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 62485975
-type: way
+type: node
 latitude: 50.91905
 longitude: 6.83586
 postcode: "50226"
 city: Frechen
-street: "Europaallee"
+street: Europaallee
 housenumber: 12-14
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 13:00-17:00 open kein Verkauf, keine Beratung"
-website: "http://www.fliesen-outlet-koeln.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 13:00-17:00 open "kein Verkauf,
+    keine Beratung"
+website: http://www.fliesen-outlet-koeln.de/

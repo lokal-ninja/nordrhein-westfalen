@@ -1,11 +1,11 @@
 id: 89074586
-type: way
+type: node
 latitude: 51.18192
 longitude: 6.68371
 postcode: "41464"
 city: Neuss
-street: "Konrad-Adenauer-Ring"
-housenumber: 95
-phone: "+49 2131 40680"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/neuss-376"
+street: Konrad-Adenauer-Ring
+housenumber: "95"
+phone: +49 2131 40680
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/neuss-376

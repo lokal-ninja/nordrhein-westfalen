@@ -1,11 +1,11 @@
 id: 239862443
-type: way
+type: node
 latitude: 51.08871
 longitude: 8.11577
 postcode: "57399"
 city: Kirchhundem
-street: "Würdinghauser Straße"
-housenumber: 2
+street: Würdinghauser Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

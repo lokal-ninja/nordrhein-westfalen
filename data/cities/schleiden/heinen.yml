@@ -1,11 +1,11 @@
 id: 118540720
-type: way
+type: node
 latitude: 50.54068
 longitude: 6.40263
 postcode: "53937"
 city: Schleiden
-street: "Oberstraße"
-housenumber: 77
+street: Oberstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

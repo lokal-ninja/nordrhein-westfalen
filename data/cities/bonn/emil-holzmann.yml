@@ -1,11 +1,11 @@
 id: 215120144
-type: way
+type: node
 latitude: 50.73709
 longitude: 7.06962
 postcode: "53121"
 city: Bonn
-street: "Siemensstraße"
-housenumber: 17
-phone: "+49 228526550"
+street: Siemensstraße
+housenumber: "17"
+phone: +49 228526550
 opening_hours: ""
-website: "https://ehra.elektro-online.de/home/unsere_standorte/bonn.html"
+website: https://ehra.elektro-online.de/home/unsere_standorte/bonn.html

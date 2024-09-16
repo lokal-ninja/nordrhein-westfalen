@@ -1,11 +1,11 @@
 id: 1042138569
-type: way
+type: node
 latitude: 51.20037
 longitude: 8.53091
 postcode: "59955"
 city: Winterberg
-street: "Am Hagenblech"
-housenumber: 38
+street: Am Hagenblech
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.has-antriebstechnik.de/"
+website: https://www.has-antriebstechnik.de/

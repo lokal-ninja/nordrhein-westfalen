@@ -1,11 +1,11 @@
 id: 689063579
-type: way
+type: node
 latitude: 50.94866
 longitude: 6.84766
 postcode: "50859"
 city: Köln
-street: "Zusestraße"
-housenumber: 2
+street: Zusestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

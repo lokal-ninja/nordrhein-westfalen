@@ -1,11 +1,11 @@
 id: 319640098
-type: way
+type: node
 latitude: 50.94873
 longitude: 6.61954
 postcode: "50126"
 city: Bergheim
-street: "Heisenbergstraße"
-housenumber: 1
+street: Heisenbergstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-12:00"
-website: "https://www.ford-nagel.com/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-12:00
+website: https://www.ford-nagel.com/

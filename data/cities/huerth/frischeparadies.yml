@@ -1,11 +1,11 @@
 id: 141185527
-type: way
+type: node
 latitude: 50.88629
 longitude: 6.91441
 postcode: "50354"
 city: Hürth
-street: "Max-Planck-Straße"
-housenumber: 44
-phone: "+49 2233 69960"
+street: Max-Planck-Straße
+housenumber: "44"
+phone: +49 2233 69960
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 263616656
-type: way
+type: node
 latitude: 50.96361
 longitude: 7.14264
 postcode: "51429"
 city: Bergisch Gladbach
-street: "Neuenweg"
-housenumber: 22
+street: Neuenweg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:30, Sa 05:00-21:00, Su 08:00-19:00"
+opening_hours: Mo-Fr 05:00-21:30, Sa 05:00-21:00, Su 08:00-19:00
 website: ""

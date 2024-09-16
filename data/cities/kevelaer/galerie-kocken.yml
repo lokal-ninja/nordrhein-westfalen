@@ -1,11 +1,11 @@
 id: 254943004
-type: way
+type: node
 latitude: 51.5835
 longitude: 6.24577
 postcode: "47623"
 city: Kevelaer
-street: "Hauptstraße"
-housenumber: 21
+street: Hauptstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

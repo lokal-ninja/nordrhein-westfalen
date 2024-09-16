@@ -1,11 +1,11 @@
 id: 195294376
-type: way
+type: node
 latitude: 50.85924
 longitude: 7.10603
 postcode: "51147"
 city: Köln
-street: "Heidestraße"
-housenumber: 241
+street: Heidestraße
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

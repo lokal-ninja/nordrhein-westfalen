@@ -4,8 +4,8 @@ latitude: 51.59213
 longitude: 7.34275
 postcode: "44581"
 city: Castrop-Rauxel
-street: "Vinckestraße"
-housenumber: 143
-phone: "+49 2305 73668"
-opening_hours: "Mo-Sa 06:30-13:00"
+street: Vinckestraße
+housenumber: "143"
+phone: +49 2305 73668
+opening_hours: Mo-Sa 06:30-13:00
 website: ""

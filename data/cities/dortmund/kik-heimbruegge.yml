@@ -4,8 +4,8 @@ latitude: 51.56944
 longitude: 7.3814
 postcode: "44359"
 city: Dortmund
-street: "Heimbrügge"
-housenumber: 10
+street: Heimbrügge
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

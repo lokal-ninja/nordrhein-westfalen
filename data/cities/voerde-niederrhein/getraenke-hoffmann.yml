@@ -1,11 +1,11 @@
 id: 36951419
-type: way
+type: node
 latitude: 51.60206
 longitude: 6.69817
 postcode: "46562"
 city: Voerde (Niederrhein)
-street: "Bahnhofstraße"
-housenumber: 145
-phone: "+49 2855 3086274"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.getraenke-hoffmann.de/filiale/voerde/bahnhofstr-145"
+street: Bahnhofstraße
+housenumber: "145"
+phone: +49 2855 3086274
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.getraenke-hoffmann.de/filiale/voerde/bahnhofstr-145

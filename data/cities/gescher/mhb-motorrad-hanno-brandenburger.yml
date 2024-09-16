@@ -1,11 +1,11 @@
 id: 330447695
-type: way
+type: node
 latitude: 51.9422
 longitude: 7.02583
 postcode: "48712"
 city: Gescher
-street: "Schüringsweg"
-housenumber: 5
-phone: "+49 2542 7008970"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://www.mhb-gescher.de/"
+street: Schüringsweg
+housenumber: "5"
+phone: +49 2542 7008970
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://www.mhb-gescher.de/

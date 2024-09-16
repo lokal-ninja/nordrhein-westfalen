@@ -4,8 +4,8 @@ latitude: 51.50497
 longitude: 7.45572
 postcode: "44139"
 city: Dortmund
-street: "Redtenbacherstraße"
-housenumber: 9
+street: Redtenbacherstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.hejorganic.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.hejorganic.com/

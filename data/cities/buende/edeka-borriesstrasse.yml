@@ -1,11 +1,11 @@
 id: 43502837
-type: way
+type: node
 latitude: 52.20635
 longitude: 8.58511
 postcode: "32257"
 city: Bünde
-street: "Borriesstraße"
-housenumber: 134
-phone: "+49 5223 429 70"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/"
+street: Borriesstraße
+housenumber: "134"
+phone: +49 5223 429 70
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/

@@ -1,11 +1,11 @@
 id: 319039888
-type: way
+type: node
 latitude: 50.99024
 longitude: 6.81841
 postcode: "50259"
 city: Pulheim
-street: "Boschstraße"
-housenumber: 12
+street: Boschstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota.de/dealer/Pulheim/50259/OTS"
+website: https://www.toyota.de/dealer/Pulheim/50259/OTS

@@ -4,8 +4,8 @@ latitude: 51.21264
 longitude: 6.74701
 postcode: "40221"
 city: Düsseldorf
-street: "Holzstraße"
-housenumber: 8
-phone: "+49 211 306371"
+street: Holzstraße
+housenumber: "8"
+phone: +49 211 306371
 opening_hours: ""
-website: "https://www.lenz-rega-port.de/"
+website: https://www.lenz-rega-port.de/

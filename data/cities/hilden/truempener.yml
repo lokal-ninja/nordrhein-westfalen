@@ -4,8 +4,8 @@ latitude: 51.16891
 longitude: 6.93603
 postcode: "40721"
 city: Hilden
-street: "Mittelstraße"
-housenumber: 47
-phone: "+49 2103 54208"
-opening_hours: "Mo-We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-15:00; PH,Su off"
-website: "https://www.truempener.com/juwelier/"
+street: Mittelstraße
+housenumber: "47"
+phone: +49 2103 54208
+opening_hours: Mo-We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-15:00; PH,Su off
+website: https://www.truempener.com/juwelier/

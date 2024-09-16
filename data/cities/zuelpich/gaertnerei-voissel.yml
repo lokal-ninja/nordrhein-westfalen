@@ -1,11 +1,11 @@
 id: 860943727
-type: way
+type: node
 latitude: 50.66523
 longitude: 6.63137
 postcode: "53909"
 city: Zülpich
-street: "Severinusstraße"
-housenumber: 75
-phone: "+49 2252 69 21"
+street: Severinusstraße
+housenumber: "75"
+phone: +49 2252 69 21
 opening_hours: ""
 website: ""

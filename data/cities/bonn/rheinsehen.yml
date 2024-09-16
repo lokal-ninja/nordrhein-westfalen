@@ -4,8 +4,8 @@ latitude: 50.68442
 longitude: 7.16974
 postcode: "53179"
 city: Bonn
-street: "Rheinstraße"
-housenumber: 3
+street: Rheinstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, 14:30-18:00; Sa 10:00-14:00"
+opening_hours: Tu-Fr 10:00-13:00, 14:30-18:00; Sa 10:00-14:00
 website: ""

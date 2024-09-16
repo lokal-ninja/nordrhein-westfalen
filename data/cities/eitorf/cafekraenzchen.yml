@@ -4,8 +4,8 @@ latitude: 50.76931
 longitude: 7.44935
 postcode: "53783"
 city: Eitorf
-street: "Asbacher Straße"
-housenumber: 9
-phone: "+49 2243 2517"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:00-17:00"
-website: "https://www.cafekraenzchen.de"
+street: Asbacher Straße
+housenumber: "9"
+phone: +49 2243 2517
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:00-17:00
+website: https://www.cafekraenzchen.de

@@ -1,11 +1,11 @@
 id: 122155087
-type: way
+type: node
 latitude: 51.45497
 longitude: 6.666
 postcode: "47443"
 city: Moers
-street: "Franz-Haniel-Straße"
-housenumber: 24
+street: Franz-Haniel-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

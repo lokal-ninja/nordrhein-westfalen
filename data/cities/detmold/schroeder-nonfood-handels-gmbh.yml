@@ -1,11 +1,11 @@
 id: 111429216
-type: way
+type: node
 latitude: 51.92927
 longitude: 8.90924
 postcode: "32760"
 city: Detmold
-street: "Van-Melle-Straße"
-housenumber: 1
-phone: "+49 5231 957040"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00"
-website: "https://www.nonfood.com/"
+street: Van-Melle-Straße
+housenumber: "1"
+phone: +49 5231 957040
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00
+website: https://www.nonfood.com/

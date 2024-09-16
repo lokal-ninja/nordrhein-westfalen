@@ -1,11 +1,11 @@
 id: 243705869
-type: way
+type: node
 latitude: 51.56643
 longitude: 6.96569
 postcode: "45964"
 city: Gladbeck
-street: "Bottroper Straße"
-housenumber: 246
+street: Bottroper Straße
+housenumber: "246"
 phone: ""
 opening_hours: ""
 website: ""

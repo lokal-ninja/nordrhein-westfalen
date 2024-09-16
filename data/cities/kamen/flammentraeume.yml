@@ -1,11 +1,11 @@
 id: 97252525
-type: way
+type: node
 latitude: 51.56896
 longitude: 7.67185
 postcode: "59174"
 city: Kamen
-street: "Kamen Karree"
-housenumber: 8
-phone: "+49 2307 92480"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-15:00; Su,Mo off"
-website: "https://www.flammentraeume.de/"
+street: Kamen Karree
+housenumber: "8"
+phone: +49 2307 92480
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-15:00; Su,Mo off
+website: https://www.flammentraeume.de/

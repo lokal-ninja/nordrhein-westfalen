@@ -4,8 +4,8 @@ latitude: 51.54052
 longitude: 7.22078
 postcode: "44623"
 city: Herne
-street: "Bebelstraße"
-housenumber: 10
-phone: "+49 2323 2291050"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://dieler.de"
+street: Bebelstraße
+housenumber: "10"
+phone: +49 2323 2291050
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://dieler.de

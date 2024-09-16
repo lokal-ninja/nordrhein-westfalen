@@ -1,11 +1,11 @@
 id: 250000371
-type: way
+type: node
 latitude: 51.10021
 longitude: 7.01287
 postcode: "42799"
 city: Leichlingen (Rheinland)
-street: "Am Wallgraben"
-housenumber: 2
+street: Am Wallgraben
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.aldi-sued.de/

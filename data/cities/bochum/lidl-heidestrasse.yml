@@ -1,11 +1,11 @@
 id: 171272256
-type: way
+type: node
 latitude: 51.47964
 longitude: 7.16575
 postcode: "44866"
 city: Bochum
-street: "Heidestraße"
-housenumber: 99
+street: Heidestraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

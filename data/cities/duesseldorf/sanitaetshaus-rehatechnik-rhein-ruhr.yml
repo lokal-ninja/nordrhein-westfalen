@@ -4,8 +4,8 @@ latitude: 51.14295
 longitude: 6.89563
 postcode: "40595"
 city: Düsseldorf
-street: "Kurt-Schumacher-Straße"
-housenumber: 2
-phone: "+49 211-94194251"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.sanitätshaus-rheinruhr.de/kontakt"
+street: Kurt-Schumacher-Straße
+housenumber: "2"
+phone: +49 211-94194251
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.sanitätshaus-rheinruhr.de/kontakt

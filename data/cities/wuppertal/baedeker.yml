@@ -4,8 +4,8 @@ latitude: 51.25553
 longitude: 7.13836
 postcode: "42103"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 31
-phone: "+49 202 305011"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00; PH,Su off"
-website: "https://www.baedeker-buecher.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "31"
+phone: +49 202 305011
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00; PH,Su off
+website: https://www.baedeker-buecher.de/

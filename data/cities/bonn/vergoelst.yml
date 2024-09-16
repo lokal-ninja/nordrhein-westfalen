@@ -1,11 +1,11 @@
 id: 43738219
-type: way
+type: node
 latitude: 50.74196
 longitude: 7.08148
 postcode: "53119"
 city: Bonn
-street: "Vorgebirgsstraße"
-housenumber: 96
-phone: "+49 228 985680"
+street: Vorgebirgsstraße
+housenumber: "96"
+phone: +49 228 985680
 opening_hours: ""
-website: "https://vergoelst.de/"
+website: https://vergoelst.de/

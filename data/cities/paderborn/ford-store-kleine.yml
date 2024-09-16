@@ -1,11 +1,11 @@
 id: 195553511
-type: way
+type: node
 latitude: 51.7143
 longitude: 8.73847
 postcode: "33102"
 city: Paderborn
-street: "Rathenaustraße"
-housenumber: 79
+street: Rathenaustraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "http://www.auto-kleine.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: http://www.auto-kleine.de/

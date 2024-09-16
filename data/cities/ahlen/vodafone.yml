@@ -4,8 +4,8 @@ latitude: 51.76324
 longitude: 7.8923
 postcode: "59227"
 city: Ahlen
-street: "Oststraße"
-housenumber: 46
+street: Oststraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 351868474
-type: way
+type: node
 latitude: 51.66352
 longitude: 6.61025
 postcode: "46483"
 city: Wesel
-street: "Reeser Landstraße"
-housenumber: 16
+street: Reeser Landstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

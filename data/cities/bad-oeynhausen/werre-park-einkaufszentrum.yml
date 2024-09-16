@@ -1,11 +1,11 @@
 id: 14327431
-type: way
+type: node
 latitude: 52.21147
 longitude: 8.81227
 postcode: "32547"
 city: Bad Oeynhausen
-street: "Mindener Straße"
-housenumber: 22
-phone: "+49 5731 17720"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.werre-park.de/"
+street: Mindener Straße
+housenumber: "22"
+phone: +49 5731 17720
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.werre-park.de/

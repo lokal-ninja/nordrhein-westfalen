@@ -4,8 +4,8 @@ latitude: 51.43345
 longitude: 6.76482
 postcode: "47051"
 city: Duisburg
-street: "Königstraße"
-housenumber: 4
-phone: "+49 203 25673"
-opening_hours: "Mo-Sa 9:30-19:00"
-website: "https://www.fielmann.de/duisburg"
+street: Königstraße
+housenumber: "4"
+phone: +49 203 25673
+opening_hours: Mo-Sa 9:30-19:00
+website: https://www.fielmann.de/duisburg

@@ -1,11 +1,11 @@
 id: 148245450
-type: way
+type: node
 latitude: 51.33549
 longitude: 7.39365
 postcode: "58135"
 city: Hagen
-street: "Neue Straße"
-housenumber: 39
-phone: "+49 2331 400752"
+street: Neue Straße
+housenumber: "39"
+phone: +49 2331 400752
 opening_hours: ""
 website: ""

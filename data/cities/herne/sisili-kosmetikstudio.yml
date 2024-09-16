@@ -4,8 +4,8 @@ latitude: 51.5376
 longitude: 7.22882
 postcode: "44623"
 city: Herne
-street: "Hermann-Löns-Straße"
-housenumber: 3
+street: Hermann-Löns-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://www.kosmetikstudioherne.de/"
+opening_hours: '"nach Vereinbarung"'
+website: http://www.kosmetikstudioherne.de/

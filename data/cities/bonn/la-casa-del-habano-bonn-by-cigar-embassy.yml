@@ -4,8 +4,8 @@ latitude: 50.73263
 longitude: 7.10054
 postcode: "53113"
 city: Bonn
-street: "Am Neutor"
-housenumber: 5
-phone: "+49 228 92985599"
-opening_hours: "Mo-We 12:00-18:00; Th-Fr 12:00-19:00; Sa 11:00-16:00"
-website: "https://www.lcdh-bonn.de"
+street: Am Neutor
+housenumber: "5"
+phone: +49 228 92985599
+opening_hours: Mo-We 12:00-18:00; Th-Fr 12:00-19:00; Sa 11:00-16:00
+website: https://www.lcdh-bonn.de

@@ -1,11 +1,11 @@
 id: 213058779
-type: way
+type: node
 latitude: 51.43682
 longitude: 6.78038
 postcode: "47051"
 city: Duisburg
-street: "Oranienstraße"
-housenumber: 30
+street: Oranienstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.79836
 longitude: 7.20937
 postcode: "53721"
 city: Siegburg
-street: "Scheerengasse"
-housenumber: 4
+street: Scheerengasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://catya-finearts.de/"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://catya-finearts.de/

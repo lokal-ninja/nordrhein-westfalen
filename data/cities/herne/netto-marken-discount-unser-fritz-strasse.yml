@@ -1,11 +1,11 @@
 id: 114664659
-type: way
+type: node
 latitude: 51.54042
 longitude: 7.15604
 postcode: "44649"
 city: Herne
-street: "Unser-Fritz-Straße"
-housenumber: 4
+street: Unser-Fritz-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

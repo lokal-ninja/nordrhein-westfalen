@@ -1,11 +1,11 @@
 id: 122500156
-type: way
+type: node
 latitude: 51.34725
 longitude: 7.43687
 postcode: "58135"
 city: Hagen
-street: "Schlackenmühle"
-housenumber: 12
-phone: "+49 2331 41233"
-opening_hours: "Mo-Th 08:00-13:00,13:30-16:30; Fr 08:00-14:00"
-website: "https://www.kfz-sechtin.de"
+street: Schlackenmühle
+housenumber: "12"
+phone: +49 2331 41233
+opening_hours: Mo-Th 08:00-13:00,13:30-16:30; Fr 08:00-14:00
+website: https://www.kfz-sechtin.de

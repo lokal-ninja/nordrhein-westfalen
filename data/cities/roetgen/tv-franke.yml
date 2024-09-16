@@ -4,8 +4,8 @@ latitude: 50.64895
 longitude: 6.19651
 postcode: "52159"
 city: Roetgen
-street: "Hauptstraße"
-housenumber: 67
-phone: "+49 2471 2168"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-13:00"
-website: "http://www.tv-franke-fernsehtechnik.de/"
+street: Hauptstraße
+housenumber: "67"
+phone: +49 2471 2168
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-13:00
+website: http://www.tv-franke-fernsehtechnik.de/

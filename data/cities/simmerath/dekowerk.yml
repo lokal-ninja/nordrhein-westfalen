@@ -1,11 +1,11 @@
 id: 97549810
-type: way
+type: node
 latitude: 50.58129
 longitude: 6.30404
 postcode: "52152"
 city: Simmerath
-street: "Eicherscheid"
-housenumber: 11
-phone: "+49 2473 9271982"
+street: Eicherscheid
+housenumber: "11"
+phone: +49 2473 9271982
 opening_hours: ""
-website: "https://www.dekowerk-lennartz.de/"
+website: https://www.dekowerk-lennartz.de/

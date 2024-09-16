@@ -1,11 +1,11 @@
 id: 52796103
-type: way
+type: node
 latitude: 51.49301
 longitude: 7.37803
 postcode: "44149"
 city: Dortmund
-street: "Brennaborstraße"
-housenumber: 13
+street: Brennaborstraße
+housenumber: "13"
 phone: "+492319976960"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.lagerbox.com/lagerraum-mieten-dortmund/oespel"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.lagerbox.com/lagerraum-mieten-dortmund/oespel

@@ -4,8 +4,8 @@ latitude: 51.61689
 longitude: 8.89522
 postcode: "33165"
 city: Lichtenau
-street: "Lange Straße"
-housenumber: 26
+street: Lange Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 10:15-12:00,15:00-17:30; Sa 10:00-12:00; Mo off"
-website: "https://www.basler-web.de/"
+opening_hours: Tu-Fr 10:15-12:00,15:00-17:30; Sa 10:00-12:00; Mo off
+website: https://www.basler-web.de/

@@ -4,8 +4,8 @@ latitude: 51.5234
 longitude: 7.46319
 postcode: "44145"
 city: Dortmund
-street: "Münsterstraße"
-housenumber: 72
+street: Münsterstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00"
-website: "https://www.radsport-noll.de"
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00
+website: https://www.radsport-noll.de

@@ -4,8 +4,8 @@ latitude: 51.47721
 longitude: 7.21735
 postcode: "44787"
 city: Bochum
-street: "Kreuzstraße"
-housenumber: 4
+street: Kreuzstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
 website: ""

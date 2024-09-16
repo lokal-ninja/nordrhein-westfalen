@@ -1,11 +1,11 @@
 id: 192267198
-type: way
+type: node
 latitude: 52.08649
 longitude: 7.01971
 postcode: "48683"
 city: Ahaus
-street: "Heeker Straße"
-housenumber: 45
+street: Heeker Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

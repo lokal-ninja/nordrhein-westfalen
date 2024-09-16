@@ -4,8 +4,8 @@ latitude: 51.22654
 longitude: 6.781
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowplatz"
-housenumber: 12
+street: Schadowplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.swatch.com/de_de/"
+website: https://www.swatch.com/de_de/

@@ -1,11 +1,11 @@
 id: 36935201
-type: way
+type: node
 latitude: 50.75103
 longitude: 7.07606
 postcode: "53117"
 city: Bonn
-street: "Kölnstraße"
-housenumber: 421
-phone: "+49 228 18437959"
-opening_hours: "Mo-Fr 07:00-18:30; Sa-Su 07:00-18:00"
-website: "https://www.gilgens.de/"
+street: Kölnstraße
+housenumber: "421"
+phone: +49 228 18437959
+opening_hours: Mo-Fr 07:00-18:30; Sa-Su 07:00-18:00
+website: https://www.gilgens.de/

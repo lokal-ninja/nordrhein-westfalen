@@ -4,8 +4,8 @@ latitude: 52.02879
 longitude: 8.52679
 postcode: "33615"
 city: Bielefeld
-street: "Friedrichstraße"
-housenumber: 49
-phone: "+49 521 137711"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-14:00"
-website: "http://www.piercing-bielefeld.de/"
+street: Friedrichstraße
+housenumber: "49"
+phone: +49 521 137711
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-14:00
+website: http://www.piercing-bielefeld.de/

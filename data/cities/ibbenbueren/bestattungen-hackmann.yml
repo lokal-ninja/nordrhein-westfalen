@@ -1,11 +1,11 @@
 id: 314797853
-type: way
+type: node
 latitude: 52.28733
 longitude: 7.73241
 postcode: "49477"
 city: Ibbenbüren
-street: "Bergeshöhe"
-housenumber: 113
+street: Bergeshöhe
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

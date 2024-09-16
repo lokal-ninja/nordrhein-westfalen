@@ -4,8 +4,8 @@ latitude: 50.9292
 longitude: 6.91292
 postcode: "50931"
 city: Köln
-street: "Dürener Straße"
-housenumber: 202
+street: Dürener Straße
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://buchhandlung-kaiser.de/"
+website: https://buchhandlung-kaiser.de/

@@ -4,8 +4,8 @@ latitude: 50.93669
 longitude: 6.97377
 postcode: "50679"
 city: Köln
-street: "Deutzer Freiheit"
-housenumber: 70
-phone: "+49 221 9226041"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://deutzer-optiker.de/"
+street: Deutzer Freiheit
+housenumber: "70"
+phone: +49 221 9226041
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://deutzer-optiker.de/

@@ -4,8 +4,8 @@ latitude: 51.3571
 longitude: 7.47481
 postcode: "58095"
 city: Hagen
-street: "Mittelstraße"
-housenumber: 20
-phone: "+49 2331 2042370"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.rewe-ihr-kaufpark.de/markt/hagen/"
+street: Mittelstraße
+housenumber: "20"
+phone: +49 2331 2042370
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.rewe-ihr-kaufpark.de/markt/hagen/

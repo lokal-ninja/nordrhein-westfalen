@@ -1,11 +1,11 @@
 id: 132921834
-type: way
+type: node
 latitude: 51.8841
 longitude: 8.35835
 postcode: "33334"
 city: Gütersloh
-street: "Auf'm Kampe"
-housenumber: 6
+street: Auf'm Kampe
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

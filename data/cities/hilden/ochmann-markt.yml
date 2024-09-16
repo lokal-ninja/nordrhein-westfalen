@@ -4,8 +4,8 @@ latitude: 51.18075
 longitude: 6.92068
 postcode: "40721"
 city: Hilden
-street: "Herderstraße"
-housenumber: 94
-phone: "+49 210 39782014"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.ochmann-markt.de"
+street: Herderstraße
+housenumber: "94"
+phone: +49 210 39782014
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.ochmann-markt.de

@@ -4,8 +4,8 @@ latitude: 51.44341
 longitude: 7.1422
 postcode: "44869"
 city: Bochum
-street: "Varenholzstraße"
-housenumber: 105
-phone: "+49 2327 73865"
-opening_hours: "Mo off; Tu-Th 15:00-19:00; Th 09:00-14:00; Fr 09:00-18:00; Nach Vereinbarung"
+street: Varenholzstraße
+housenumber: "105"
+phone: +49 2327 73865
+opening_hours: Mo off; Tu-Th 15:00-19:00; Th 09:00-14:00; Fr 09:00-18:00; "Nach Vereinbarung"
 website: ""

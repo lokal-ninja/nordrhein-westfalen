@@ -1,11 +1,11 @@
 id: 232220553
-type: way
+type: node
 latitude: 51.45775
 longitude: 7.00872
 postcode: "45127"
 city: Essen
-street: "Limbecker Straße"
-housenumber: 56
+street: Limbecker Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

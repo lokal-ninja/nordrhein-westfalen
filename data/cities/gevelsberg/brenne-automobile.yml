@@ -1,11 +1,11 @@
 id: 225442582
-type: way
+type: node
 latitude: 51.31624
 longitude: 7.32416
 postcode: "58285"
 city: Gevelsberg
-street: "Rosendahler Straße"
-housenumber: 43
-phone: "+49 2332 1719272"
+street: Rosendahler Straße
+housenumber: "43"
+phone: +49 2332 1719272
 opening_hours: ""
 website: ""

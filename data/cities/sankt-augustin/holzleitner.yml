@@ -4,8 +4,8 @@ latitude: 50.79362
 longitude: 7.17761
 postcode: "53757"
 city: Sankt Augustin
-street: "Marie-Curie-Straße"
-housenumber: 8
-phone: "+49 2241 3967970"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.holzleitner.de/"
+street: Marie-Curie-Straße
+housenumber: "8"
+phone: +49 2241 3967970
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.holzleitner.de/

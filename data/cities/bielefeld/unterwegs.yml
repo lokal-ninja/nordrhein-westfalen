@@ -4,8 +4,8 @@ latitude: 52.01989
 longitude: 8.52861
 postcode: "33602"
 city: Bielefeld
-street: "Obernstraße"
-housenumber: 38
-phone: "+49 521 52201914"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 9:30-18:00"
-website: "https://www.unterwegs-bielefeld.de"
+street: Obernstraße
+housenumber: "38"
+phone: +49 521 52201914
+opening_hours: Mo-Fr 10:00-19:00; Sa 9:30-18:00
+website: https://www.unterwegs-bielefeld.de

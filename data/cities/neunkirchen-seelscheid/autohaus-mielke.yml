@@ -1,11 +1,11 @@
 id: 131623518
-type: way
+type: node
 latitude: 50.84449
 longitude: 7.34171
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Ohlenhohnstraße"
-housenumber: 18
-phone: "+49 2247 2314"
+street: Ohlenhohnstraße
+housenumber: "18"
+phone: +49 2247 2314
 opening_hours: ""
-website: "http://www.jwz-mielke.de/"
+website: http://www.jwz-mielke.de/

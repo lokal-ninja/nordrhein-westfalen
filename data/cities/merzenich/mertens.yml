@@ -4,8 +4,8 @@ latitude: 50.82831
 longitude: 6.52454
 postcode: "52399"
 city: Merzenich
-street: "Lindenstraße"
-housenumber: 2
+street: Lindenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-13:00; Mo,Su,PH off"
-website: "https://www.metzgerei-mertens.de/"
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:00-13:00; Mo,Su,PH off
+website: https://www.metzgerei-mertens.de/

@@ -1,11 +1,11 @@
 id: 712296217
-type: way
+type: node
 latitude: 51.4492
 longitude: 6.99746
 postcode: "45145"
 city: Essen
-street: "Münchener Straße"
+street: Münchener Straße
 housenumber: 42a
 phone: ""
 opening_hours: ""
-website: "https://die-autowerkstatt.net/essen"
+website: https://die-autowerkstatt.net/essen

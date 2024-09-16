@@ -1,11 +1,11 @@
 id: 245956242
-type: way
+type: node
 latitude: 50.7177
 longitude: 7.27479
 postcode: "53639"
 city: Königswinter
-street: "Auf der Alten Burg"
-housenumber: 1
+street: Auf der Alten Burg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

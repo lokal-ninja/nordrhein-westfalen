@@ -4,8 +4,8 @@ latitude: 51.27286
 longitude: 7.20626
 postcode: "42275"
 city: Wuppertal
-street: "Werth"
-housenumber: 109
+street: Werth
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-15:30; Su,PH off"
-website: "https://www.straeter-wuppertal.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-15:30; Su,PH off
+website: https://www.straeter-wuppertal.de/

@@ -4,8 +4,8 @@ latitude: 51.51377
 longitude: 7.46848
 postcode: "44135"
 city: Dortmund
-street: "Kleppingstraße"
-housenumber: 6
-phone: "+49 231 571771"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.rottler.de/dortmund-kleppingstrasse/start"
+street: Kleppingstraße
+housenumber: "6"
+phone: +49 231 571771
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.rottler.de/dortmund-kleppingstrasse/start

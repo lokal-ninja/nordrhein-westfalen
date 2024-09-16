@@ -1,11 +1,11 @@
 id: 319947043
-type: way
+type: node
 latitude: 51.65014
 longitude: 7.32668
 postcode: "45711"
 city: Datteln
-street: "Rudolf-Diesel-Straße"
-housenumber: 3
+street: Rudolf-Diesel-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

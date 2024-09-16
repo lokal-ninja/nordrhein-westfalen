@@ -1,11 +1,11 @@
 id: 113488839
-type: way
+type: node
 latitude: 51.29891
 longitude: 6.83045
 postcode: "40878"
 city: Ratingen
-street: "Kaiserswerther Straße"
-housenumber: 82
-phone: "+49 (0) 2102 942670"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.meda-kuechen.de/ratingen/"
+street: Kaiserswerther Straße
+housenumber: "82"
+phone: +49 (0) 2102 942670
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.meda-kuechen.de/ratingen/

@@ -1,11 +1,11 @@
 id: 50855009
-type: way
+type: node
 latitude: 50.74717
 longitude: 7.12381
 postcode: "53225"
 city: Bonn
-street: "Clemensstraße"
-housenumber: 96
+street: Clemensstraße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-16:00
 website: ""

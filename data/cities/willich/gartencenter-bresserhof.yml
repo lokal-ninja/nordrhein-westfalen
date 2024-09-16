@@ -4,8 +4,8 @@ latitude: 51.23024
 longitude: 6.54924
 postcode: "47877"
 city: Willich
-street: "Büttgener Straße"
-housenumber: 50
-phone: "+49 2154 955730"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-16:00"
-website: "https://www.gartencenter-willich.de/"
+street: Büttgener Straße
+housenumber: "50"
+phone: +49 2154 955730
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-16:00
+website: https://www.gartencenter-willich.de/

@@ -1,11 +1,11 @@
 id: 250084975
-type: way
+type: node
 latitude: 51.66807
 longitude: 7.09197
 postcode: "45772"
 city: Marl
-street: "Dümmerweg"
-housenumber: 201
+street: Dümmerweg
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/marl/brassert-duemmer-weg-201.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/marl/brassert-duemmer-weg-201.html

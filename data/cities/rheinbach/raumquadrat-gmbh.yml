@@ -1,11 +1,11 @@
 id: 139860736
-type: way
+type: node
 latitude: 50.62642
 longitude: 6.96494
 postcode: "53359"
 city: Rheinbach
-street: "Kleine Heeg"
-housenumber: 42
+street: Kleine Heeg
+housenumber: "42"
 phone: "+4922265130"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://www.raumquadrat.shop/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
+website: https://www.raumquadrat.shop/

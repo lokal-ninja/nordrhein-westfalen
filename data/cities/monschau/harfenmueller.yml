@@ -1,11 +1,11 @@
 id: 90819404
-type: way
+type: node
 latitude: 50.51221
 longitude: 6.22997
 postcode: "52156"
 city: Monschau
-street: "Theißbaumweg"
+street: Theißbaumweg
 housenumber: 23a
-phone: "+49 2472 9702091"
+phone: +49 2472 9702091
 opening_hours: ""
-website: "https://www.harfenmueller.de/"
+website: https://www.harfenmueller.de/

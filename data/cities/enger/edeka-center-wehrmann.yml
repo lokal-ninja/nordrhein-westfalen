@@ -4,8 +4,8 @@ latitude: 52.13736
 longitude: 8.55198
 postcode: "32130"
 city: Enger
-street: "Ringstraße"
-housenumber: 33
-phone: "+49 5224 - 97 96 16"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-wehrmann.de/"
+street: Ringstraße
+housenumber: "33"
+phone: +49 5224 - 97 96 16
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka-wehrmann.de/

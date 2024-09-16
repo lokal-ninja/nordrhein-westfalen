@@ -1,11 +1,11 @@
 id: 307832229
-type: way
+type: node
 latitude: 51.2597
 longitude: 7.76123
 postcode: "58791"
 city: Werdohl
-street: "Fritz-Thomée-Platz"
-housenumber: 1
+street: Fritz-Thomée-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.lidl.de/

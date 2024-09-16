@@ -4,8 +4,8 @@ latitude: 51.18238
 longitude: 7.18766
 postcode: "42853"
 city: Remscheid
-street: "Theodor-Heuss-Platz"
-housenumber: 7
-phone: "+49 2191 3765480"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-19:00; PH off"
-website: "https://www.hunkemoller.de/"
+street: Theodor-Heuss-Platz
+housenumber: "7"
+phone: +49 2191 3765480
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-19:00; PH off
+website: https://www.hunkemoller.de/

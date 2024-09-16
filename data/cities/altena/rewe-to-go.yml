@@ -1,11 +1,11 @@
 id: 305372008
-type: way
+type: node
 latitude: 51.30249
 longitude: 7.66677
 postcode: "58762"
 city: Altena
-street: "Bahnhofstraße"
-housenumber: 32
-phone: "+49 2352 25355"
-opening_hours: "24/7"
-website: "https://tankstelle.aral.de/tankstelle/altena/bahnhofstrasse-32/28614700/"
+street: Bahnhofstraße
+housenumber: "32"
+phone: +49 2352 25355
+opening_hours: 24/7
+website: https://tankstelle.aral.de/tankstelle/altena/bahnhofstrasse-32/28614700/

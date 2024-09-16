@@ -1,11 +1,11 @@
 id: 135180736
-type: way
+type: node
 latitude: 50.74696
 longitude: 7.24161
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Pleistalstraße"
-housenumber: 29
-phone: "+49 2242 5415"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 07:00-13:00"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-thomas-pleistalstr.-29/"
+street: Pleistalstraße
+housenumber: "29"
+phone: +49 2242 5415
+opening_hours: Mo-Fr 08:00-18:30; Sa 07:00-13:00
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-thomas-pleistalstr.-29/

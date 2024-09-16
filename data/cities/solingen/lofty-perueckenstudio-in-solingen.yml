@@ -4,8 +4,8 @@ latitude: 51.17144
 longitude: 7.08424
 postcode: "42651"
 city: Solingen
-street: "Küstergasse"
-housenumber: 3
+street: Küstergasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.peruecken-lofty.de/lofty-vor-ort/lofty-peruecken-solingen/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.peruecken-lofty.de/lofty-vor-ort/lofty-peruecken-solingen/

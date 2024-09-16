@@ -4,8 +4,8 @@ latitude: 51.20101
 longitude: 6.68677
 postcode: "41460"
 city: Neuss
-street: "Erftstraße"
-housenumber: 4
-phone: "+49 2131 7391822"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 08:30-16:00"
-website: "https://www.friseur-hair-city.de/"
+street: Erftstraße
+housenumber: "4"
+phone: +49 2131 7391822
+opening_hours: Tu-Fr 10:00-19:00; Sa 08:30-16:00
+website: https://www.friseur-hair-city.de/

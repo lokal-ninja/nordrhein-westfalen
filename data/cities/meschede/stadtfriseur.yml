@@ -4,8 +4,8 @@ latitude: 51.34682
 longitude: 8.28305
 postcode: "59872"
 city: Meschede
-street: "Ruhrstraße"
-housenumber: 6
-phone: "+49 291 82838"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.hairxpress.de/"
+street: Ruhrstraße
+housenumber: "6"
+phone: +49 291 82838
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.hairxpress.de/

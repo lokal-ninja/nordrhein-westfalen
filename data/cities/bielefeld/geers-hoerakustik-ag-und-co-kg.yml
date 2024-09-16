@@ -4,8 +4,8 @@ latitude: 52.03212
 longitude: 8.60417
 postcode: "33719"
 city: Bielefeld
-street: "Hillegosser Straße"
-housenumber: 2
-phone: "+49-521-3368700"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.geers.de/fachgeschaefte/geers-fachgeschaft-bielefeld-hillegosser-stra-e-2"
+street: Hillegosser Straße
+housenumber: "2"
+phone: +49-521-3368700
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.geers.de/fachgeschaefte/geers-fachgeschaft-bielefeld-hillegosser-stra-e-2

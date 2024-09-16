@@ -4,8 +4,8 @@ latitude: 51.33123
 longitude: 6.56331
 postcode: "47798"
 city: Krefeld
-street: "Hochstraße"
-housenumber: 77
+street: Hochstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.snipes.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.snipes.com/

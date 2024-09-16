@@ -4,8 +4,8 @@ latitude: 51.43257
 longitude: 6.76785
 postcode: "47051"
 city: Duisburg
-street: "Claubergstraße"
-housenumber: 4
-phone: "+49 174 9637496"
-opening_hours: "Mo-Su 11:00-20:00"
+street: Claubergstraße
+housenumber: "4"
+phone: +49 174 9637496
+opening_hours: Mo-Su 11:00-20:00
 website: ""

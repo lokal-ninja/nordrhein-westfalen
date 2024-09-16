@@ -1,11 +1,11 @@
 id: 264757820
-type: way
+type: node
 latitude: 52.00831
 longitude: 8.51777
 postcode: "33617"
 city: Bielefeld
-street: "Artur-Ladebeck-Straße"
-housenumber: 81
+street: Artur-Ladebeck-Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

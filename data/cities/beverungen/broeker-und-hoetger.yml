@@ -1,11 +1,11 @@
 id: 250482766
-type: way
+type: node
 latitude: 51.67731
 longitude: 9.37556
 postcode: "37688"
 city: Beverungen
-street: "Blankenauer Straße"
-housenumber: 21
+street: Blankenauer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:15, 14:15-18:00; Sa 09:00-13:00; Su, PH off"
+opening_hours: Mo-Fr 09:00-13:15, 14:15-18:00; Sa 09:00-13:00; Su, PH off
 website: ""

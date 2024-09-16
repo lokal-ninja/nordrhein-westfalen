@@ -4,8 +4,8 @@ latitude: 51.54983
 longitude: 6.74941
 postcode: "46535"
 city: Dinslaken
-street: "Buchenstraße"
-housenumber: 147
-phone: "+49 2064 40400"
-opening_hours: "nach Absprache"
-website: "https://www.hifi-wegner.de"
+street: Buchenstraße
+housenumber: "147"
+phone: +49 2064 40400
+opening_hours: '"nach Absprache"'
+website: https://www.hifi-wegner.de

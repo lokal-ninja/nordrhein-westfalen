@@ -4,8 +4,8 @@ latitude: 52.14217
 longitude: 8.48324
 postcode: "32139"
 city: Spenge
-street: "Lange Straße"
-housenumber: 44
-phone: "+49 5225 859869"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00; PH off"
-website: "https://hermes-optik-akustik.de/index.php/home/hermes-spenge"
+street: Lange Straße
+housenumber: "44"
+phone: +49 5225 859869
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00; PH off
+website: https://hermes-optik-akustik.de/index.php/home/hermes-spenge

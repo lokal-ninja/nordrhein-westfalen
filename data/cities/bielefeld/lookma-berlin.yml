@@ -4,8 +4,8 @@ latitude: 52.02468
 longitude: 8.53486
 postcode: "33602"
 city: Bielefeld
-street: "Herforder Straße"
-housenumber: 12
+street: Herforder Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo off;Tu-Th 17:00-22:00;Fr 16:00-24:00;Sa 16:00-01:00;Su 16:00-22:00"
+opening_hours: Mo off;Tu-Th 17:00-22:00;Fr 16:00-24:00;Sa 16:00-01:00;Su 16:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 53051450
-type: way
+type: node
 latitude: 51.52877
 longitude: 7.47273
 postcode: "44145"
 city: Dortmund
-street: "Bornstraße"
-housenumber: 181
+street: Bornstraße
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

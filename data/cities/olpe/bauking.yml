@@ -1,11 +1,11 @@
 id: 1298670807
-type: way
+type: node
 latitude: 51.00548
 longitude: 7.84044
 postcode: "57462"
 city: Olpe
-street: "Friedrichsthaler Straße"
-housenumber: 4
+street: Friedrichsthaler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

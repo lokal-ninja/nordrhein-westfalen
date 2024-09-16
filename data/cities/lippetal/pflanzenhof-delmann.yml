@@ -1,11 +1,11 @@
 id: 264581054
-type: way
+type: node
 latitude: 51.66826
 longitude: 8.02679
 postcode: "59510"
 city: Lippetal
-street: "Dolberger Straße"
-housenumber: 50
+street: Dolberger Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "http://www.pflanzenhof-delmann.de/index.html"
+website: http://www.pflanzenhof-delmann.de/index.html

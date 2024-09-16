@@ -1,11 +1,11 @@
 id: 95909127
-type: way
+type: node
 latitude: 50.67662
 longitude: 7.17046
 postcode: "53177"
 city: Bonn
-street: "Koblenzer Straße"
-housenumber: 195
+street: Koblenzer Straße
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

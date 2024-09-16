@@ -1,11 +1,11 @@
 id: 863892082
-type: way
+type: node
 latitude: 50.78392
 longitude: 8.01344
 postcode: "57290"
 city: Neunkirchen
-street: "In der Au"
-housenumber: 15
+street: In der Au
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

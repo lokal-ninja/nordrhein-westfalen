@@ -1,11 +1,11 @@
 id: 254546210
-type: way
+type: node
 latitude: 51.826
 longitude: 6.46589
 postcode: "46419"
 city: Isselburg
-street: "Werther Straße"
-housenumber: 52
+street: Werther Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-kempkes.de/"
+website: https://www.autohaus-kempkes.de/

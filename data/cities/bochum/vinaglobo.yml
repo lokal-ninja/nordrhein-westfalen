@@ -4,8 +4,8 @@ latitude: 51.46332
 longitude: 7.32273
 postcode: "44892"
 city: Bochum
-street: "Langendreerstraße"
-housenumber: 26
-phone: "+49 234 3245986"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://www.vinaglobo.de/shop/"
+street: Langendreerstraße
+housenumber: "26"
+phone: +49 234 3245986
+opening_hours: Tu-Fr 12:00-19:00; Sa 10:00-16:00
+website: https://www.vinaglobo.de/shop/

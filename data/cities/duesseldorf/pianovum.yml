@@ -4,8 +4,8 @@ latitude: 51.21803
 longitude: 6.7859
 postcode: "40215"
 city: Düsseldorf
-street: "Pionierstraße"
-housenumber: 12
-phone: "+49 211 911 851 50"
-opening_hours: "Sa 10:00-18:00"
-website: "https://www.pianovum.de/"
+street: Pionierstraße
+housenumber: "12"
+phone: +49 211 911 851 50
+opening_hours: Sa 10:00-18:00
+website: https://www.pianovum.de/

@@ -1,11 +1,11 @@
 id: 105781018
-type: way
+type: node
 latitude: 51.66288
 longitude: 7.63619
 postcode: "59368"
 city: Werne
-street: "Markt"
-housenumber: 22
+street: Markt
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Sa 07:30-13:30; Su 08:00-12:00; Mo off"
+opening_hours: Tu-Sa 07:30-13:30; Su 08:00-12:00; Mo off
 website: ""

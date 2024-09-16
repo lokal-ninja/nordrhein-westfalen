@@ -4,8 +4,8 @@ latitude: 52.27328
 longitude: 8.88806
 postcode: "32429"
 city: Minden
-street: "Lübbecker Straße"
-housenumber: 73
+street: Lübbecker Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:30-17:00"
-website: "https://www.baeckerei-schmidt.de/"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00; Su 07:30-17:00
+website: https://www.baeckerei-schmidt.de/

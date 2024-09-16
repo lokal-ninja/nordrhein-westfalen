@@ -1,11 +1,11 @@
 id: 184158361
-type: way
+type: node
 latitude: 51.50118
 longitude: 6.54962
 postcode: "47475"
 city: Kamp-Lintfort
-street: "Moerser Straße"
-housenumber: 279
-phone: "+49- 2842-10031"
-opening_hours: "Mo-Tu 10:00-18:30, We 10:00-13:00, Th-Fr 10:00-18:30, Sa 10:00-14:00"
-website: "https://porst-kali.rf-webworld.de/"
+street: Moerser Straße
+housenumber: "279"
+phone: +49- 2842-10031
+opening_hours: Mo-Tu 10:00-18:30, We 10:00-13:00, Th-Fr 10:00-18:30, Sa 10:00-14:00
+website: https://porst-kali.rf-webworld.de/

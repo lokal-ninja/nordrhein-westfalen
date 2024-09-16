@@ -4,8 +4,8 @@ latitude: 50.94104
 longitude: 6.93819
 postcode: "50672"
 city: Köln
-street: "Friesenplatz"
-housenumber: 16
+street: Friesenplatz
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00;Sa 09:00-12:00"
-website: "https://www.weingarten-koeln.de/"
+opening_hours: Mo-Fr 09:30-20:00;Sa 09:00-12:00
+website: https://www.weingarten-koeln.de/

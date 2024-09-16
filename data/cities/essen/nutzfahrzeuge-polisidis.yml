@@ -1,11 +1,11 @@
 id: 27566929
-type: way
+type: node
 latitude: 51.4837
 longitude: 6.95636
 postcode: "45355"
 city: Essen
-street: "Schacht Neu-Cöln"
-housenumber: 28
+street: Schacht Neu-Cöln
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

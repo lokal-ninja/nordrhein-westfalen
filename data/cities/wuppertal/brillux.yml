@@ -4,8 +4,9 @@ latitude: 51.28052
 longitude: 7.24375
 postcode: "42389"
 city: Wuppertal
-street: "Kohlenstraße"
-housenumber: 61
+street: Kohlenstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Nov-Apr: Mo-Tu 07:00-16:30; May-Oct: Mo-Tu 07:00-16:30; Fr 07:00-15:00; Sa 07:30-11:00"
+opening_hours: 'Nov-Apr: Mo-Tu 07:00-16:30; May-Oct: Mo-Tu 07:00-16:30; Fr 07:00-15:00;
+    Sa 07:30-11:00'
 website: ""

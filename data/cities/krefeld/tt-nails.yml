@@ -4,8 +4,8 @@ latitude: 51.33391
 longitude: 6.566
 postcode: "47798"
 city: Krefeld
-street: "Ostwall"
-housenumber: 169
+street: Ostwall
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.61422
 longitude: 7.20048
 postcode: "45657"
 city: Recklinghausen
-street: "Schaumburgstraße"
-housenumber: 13
-phone: "+49 2361 9086515"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "http://schuhhaus-gahlen.de/"
+street: Schaumburgstraße
+housenumber: "13"
+phone: +49 2361 9086515
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: http://schuhhaus-gahlen.de/

@@ -1,11 +1,12 @@
 id: 149394609
-type: way
+type: node
 latitude: 51.79736
 longitude: 7.74022
 postcode: "48317"
 city: Drensteinfurt
-street: "Wagenfeldstraße"
-housenumber: 35
-phone: "+49 2508 487"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00 || und Termine nach Vereinbarung"
-website: "https://www.babor-beautyspa-lenz.de/"
+street: Wagenfeldstraße
+housenumber: "35"
+phone: +49 2508 487
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00 || "und Termine nach
+    Vereinbarung"
+website: https://www.babor-beautyspa-lenz.de/

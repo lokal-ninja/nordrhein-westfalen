@@ -1,11 +1,11 @@
 id: 1250029466
-type: way
+type: node
 latitude: 51.3928
 longitude: 7.03376
 postcode: "45239"
 city: Essen
-street: "Maasstraße"
-housenumber: 12
+street: Maasstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

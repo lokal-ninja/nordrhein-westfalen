@@ -1,11 +1,11 @@
 id: 101547165
-type: way
+type: node
 latitude: 51.42711
 longitude: 6.88092
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Leineweberstraße"
-housenumber: 33
+street: Leineweberstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

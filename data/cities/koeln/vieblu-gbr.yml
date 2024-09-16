@@ -4,8 +4,8 @@ latitude: 50.95805
 longitude: 6.93824
 postcode: "50739"
 city: Köln
-street: "Osterather Straße"
-housenumber: 7
-phone: "+49 221 7190030"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://vieblu.de/"
+street: Osterather Straße
+housenumber: "7"
+phone: +49 221 7190030
+opening_hours: Mo-Fr 07:00-17:00
+website: https://vieblu.de/

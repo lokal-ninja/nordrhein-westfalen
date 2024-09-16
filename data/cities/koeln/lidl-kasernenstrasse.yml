@@ -1,11 +1,11 @@
 id: 43760855
-type: way
+type: node
 latitude: 50.94053
 longitude: 7.01338
 postcode: "51103"
 city: Köln
-street: "Kasernenstraße"
-housenumber: 2
+street: Kasernenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

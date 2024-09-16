@@ -1,11 +1,11 @@
 id: 294020370
-type: way
+type: node
 latitude: 50.98103
 longitude: 7.0225
 postcode: "51061"
 city: Köln
-street: "Bodestraße"
-housenumber: 1
+street: Bodestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 08:00-13:00,15:00-18:30; Sa 07:30-13:00"
+opening_hours: Tu-Fr 08:00-13:00,15:00-18:30; Sa 07:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 81839588
-type: way
+type: node
 latitude: 51.39149
 longitude: 7.08648
 postcode: "45257"
 city: Essen
-street: "Heidbergweg"
-housenumber: 37
+street: Heidbergweg
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

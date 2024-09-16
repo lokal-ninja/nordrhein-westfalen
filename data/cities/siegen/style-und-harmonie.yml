@@ -4,8 +4,8 @@ latitude: 50.87632
 longitude: 8.01892
 postcode: "57072"
 city: Siegen
-street: "Europastraße"
-housenumber: 6
+street: Europastraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

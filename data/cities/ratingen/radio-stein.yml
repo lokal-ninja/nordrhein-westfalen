@@ -1,11 +1,11 @@
 id: 261902087
-type: way
+type: node
 latitude: 51.32954
 longitude: 6.90859
 postcode: "40883"
 city: Ratingen
-street: "Eggerscheidter Straße"
-housenumber: 9
+street: Eggerscheidter Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 10:00-13:00; PH off"
-website: "https://www.radiostein.de/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 10:00-13:00; PH off
+website: https://www.radiostein.de/

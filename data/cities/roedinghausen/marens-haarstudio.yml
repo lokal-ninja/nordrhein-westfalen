@@ -1,11 +1,11 @@
 id: 220099849
-type: way
+type: node
 latitude: 52.24761
 longitude: 8.49387
 postcode: "32289"
 city: Rödinghausen
-street: "Bünder Straße"
-housenumber: 63
+street: Bünder Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

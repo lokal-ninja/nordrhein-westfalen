@@ -1,11 +1,11 @@
 id: 137012444
-type: way
+type: node
 latitude: 51.09636
 longitude: 6.83504
 postcode: "41539"
 city: Dormagen
-street: "Florastraße"
-housenumber: 25
+street: Florastraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:30-15:00"
+opening_hours: Mo-Th 08:00-18:30; Fr 08:00-19:00; Sa 08:30-15:00
 website: ""

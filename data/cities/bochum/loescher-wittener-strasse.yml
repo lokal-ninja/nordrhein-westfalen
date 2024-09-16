@@ -4,8 +4,8 @@ latitude: 51.4721
 longitude: 7.25076
 postcode: "44803"
 city: Bochum
-street: "Wittener Straße"
-housenumber: 248
-phone: "+49 234 355828"
-opening_hours: "Mo-Sa 06:30-20:00; Su,PH 07:00-12:00"
-website: "https://www.baeckerei-loescher.de"
+street: Wittener Straße
+housenumber: "248"
+phone: +49 234 355828
+opening_hours: Mo-Sa 06:30-20:00; Su,PH 07:00-12:00
+website: https://www.baeckerei-loescher.de

@@ -1,11 +1,11 @@
 id: 30622523
-type: way
+type: node
 latitude: 52.14437
 longitude: 8.49625
 postcode: "32139"
 city: Spenge
-street: "Industriestraße"
-housenumber: 28
+street: Industriestraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-kronsbein.de/"
+website: https://www.getraenke-kronsbein.de/

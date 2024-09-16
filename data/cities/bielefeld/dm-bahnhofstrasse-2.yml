@@ -4,8 +4,8 @@ latitude: 52.02384
 longitude: 8.53269
 postcode: "33602"
 city: Bielefeld
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: "+4952152191876"
-opening_hours: "Tu-Sa 09:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Tu-Sa 09:00-20:00
+website: https://www.dm.de/

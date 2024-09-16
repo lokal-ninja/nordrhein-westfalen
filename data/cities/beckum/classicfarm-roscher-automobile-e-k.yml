@@ -1,11 +1,11 @@
 id: 343944593
-type: way
+type: node
 latitude: 51.75954
 longitude: 8.08658
 postcode: "59269"
 city: Beckum
-street: "Auf dem Tigge"
-housenumber: 12
+street: Auf dem Tigge
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.classicfarm.de"
+website: https://www.classicfarm.de

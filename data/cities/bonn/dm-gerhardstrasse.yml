@@ -4,8 +4,8 @@ latitude: 50.75042
 longitude: 7.13052
 postcode: "53225"
 city: Bonn
-street: "Gerhardstraße"
-housenumber: 1
-phone: "+49 228 62091980"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/d2h2/bonn/gerhardstrasse-1"
+street: Gerhardstraße
+housenumber: "1"
+phone: +49 228 62091980
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/d2h2/bonn/gerhardstrasse-1

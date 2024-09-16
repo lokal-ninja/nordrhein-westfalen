@@ -1,11 +1,11 @@
 id: 36930882
-type: way
+type: node
 latitude: 50.78395
 longitude: 6.13378
 postcode: "52068"
 city: Aachen
-street: "Auf der Hüls"
-housenumber: 171
+street: Auf der Hüls
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-We 07:30-17:00;Th 07:30-19:00; Fr 07:30-16:00; Su,PH off"
-website: "https://www.kfz-schiffers.de/"
+opening_hours: Mo-We 07:30-17:00;Th 07:30-19:00; Fr 07:30-16:00; Su,PH off
+website: https://www.kfz-schiffers.de/

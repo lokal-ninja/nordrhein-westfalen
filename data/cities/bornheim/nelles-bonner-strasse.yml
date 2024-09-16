@@ -1,11 +1,11 @@
 id: 1210217339
-type: way
+type: node
 latitude: 50.75331
 longitude: 7.01508
 postcode: "53332"
 city: Bornheim
-street: "Bonner Straße"
-housenumber: 22
-phone: "+49 2222 931320"
-opening_hours: "Mo-Sa 05:30-14:00; Su 08:00-11:00"
-website: "https://www.die-backmanufaktur.de"
+street: Bonner Straße
+housenumber: "22"
+phone: +49 2222 931320
+opening_hours: Mo-Sa 05:30-14:00; Su 08:00-11:00
+website: https://www.die-backmanufaktur.de

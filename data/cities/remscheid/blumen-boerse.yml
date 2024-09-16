@@ -4,8 +4,8 @@ latitude: 51.18246
 longitude: 7.1872
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 74
-phone: "+49 2191 6908373"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.blumen-boerse.com/"
+street: Alleestraße
+housenumber: "74"
+phone: +49 2191 6908373
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.blumen-boerse.com/

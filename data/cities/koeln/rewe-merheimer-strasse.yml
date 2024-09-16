@@ -1,11 +1,11 @@
 id: 258092650
-type: way
+type: node
 latitude: 50.97518
 longitude: 6.9472
 postcode: "50739"
 city: Köln
-street: "Merheimer Straße"
-housenumber: 432
+street: Merheimer Straße
+housenumber: "432"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

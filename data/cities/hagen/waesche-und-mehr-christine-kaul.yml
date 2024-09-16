@@ -4,8 +4,9 @@ latitude: 51.34628
 longitude: 7.49514
 postcode: "58091"
 city: Hagen
-street: "Selbecker Straße"
-housenumber: 2
-phone: "+49 2331 79459"
-opening_hours: "Mo,Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th,Fr 09:00-13:00,15:00-18:00; Sa 09:30-14:00; Su,PH off"
-website: "https://www.waesche-und-mehr-kaul.de/"
+street: Selbecker Straße
+housenumber: "2"
+phone: +49 2331 79459
+opening_hours: Mo,Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th,Fr 09:00-13:00,15:00-18:00;
+    Sa 09:30-14:00; Su,PH off
+website: https://www.waesche-und-mehr-kaul.de/

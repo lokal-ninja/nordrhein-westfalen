@@ -4,8 +4,8 @@ latitude: 51.6625
 longitude: 9.37333
 postcode: "37688"
 city: Beverungen
-street: "Burgstraße"
-housenumber: 12
+street: Burgstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH off"
-website: "https://www.moebel-gausmann.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH off
+website: https://www.moebel-gausmann.de/

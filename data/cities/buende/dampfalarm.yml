@@ -1,11 +1,11 @@
 id: 335589641
-type: way
+type: node
 latitude: 52.19638
 longitude: 8.57322
 postcode: "32257"
 city: Bünde
-street: "Engelstraße"
-housenumber: 12
-phone: "+49 5223 9941758"
+street: Engelstraße
+housenumber: "12"
+phone: +49 5223 9941758
 opening_hours: ""
-website: "https://dampfalarm.de/"
+website: https://dampfalarm.de/

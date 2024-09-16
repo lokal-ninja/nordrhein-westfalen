@@ -4,8 +4,8 @@ latitude: 52.07009
 longitude: 8.60449
 postcode: "33729"
 city: Bielefeld
-street: "Braker Straße"
-housenumber: 53
+street: Braker Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 10:00-13:00"
-website: "http://reisebuero-brake.de/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 10:00-13:00
+website: http://reisebuero-brake.de/

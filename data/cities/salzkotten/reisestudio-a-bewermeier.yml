@@ -4,8 +4,8 @@ latitude: 51.70911
 longitude: 8.58425
 postcode: "33154"
 city: Salzkotten
-street: "Westernstraße"
-housenumber: 9
-phone: "+49 5258 938370"
-opening_hours: "Mo-Fr 8:30-13:00, 14:00-18:00; Sa 9:00-12:00"
-website: "https://reisestudio-bewermeier.de/"
+street: Westernstraße
+housenumber: "9"
+phone: +49 5258 938370
+opening_hours: Mo-Fr 8:30-13:00, 14:00-18:00; Sa 9:00-12:00
+website: https://reisestudio-bewermeier.de/

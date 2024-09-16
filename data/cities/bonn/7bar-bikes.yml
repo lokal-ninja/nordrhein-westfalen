@@ -4,8 +4,8 @@ latitude: 50.67697
 longitude: 7.06869
 postcode: "53125"
 city: Bonn
-street: "Herzogsfreudenweg"
-housenumber: 3
-phone: "+49 (0) 228 53 44 58 20"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-17:00"
-website: "https://www.7bar-bikes.com/"
+street: Herzogsfreudenweg
+housenumber: "3"
+phone: +49 (0) 228 53 44 58 20
+opening_hours: Tu-Fr 09:00-13:00,14:00-17:00
+website: https://www.7bar-bikes.com/

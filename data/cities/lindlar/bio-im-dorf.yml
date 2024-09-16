@@ -4,8 +4,9 @@ latitude: 51.0195
 longitude: 7.37495
 postcode: "51789"
 city: Lindlar
-street: "Pollerhofstraße"
-housenumber: 2
+street: Pollerhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "We 09:00-13:00,14:30-18:30; Th,Fr 09:00-18:30; Sa 09:00-13:00; Mo,Tu off"
+opening_hours: We 09:00-13:00,14:30-18:30; Th,Fr 09:00-18:30; Sa 09:00-13:00; Mo,Tu
+    off
 website: ""

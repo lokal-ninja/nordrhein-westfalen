@@ -1,11 +1,11 @@
 id: 276756271
-type: way
+type: node
 latitude: 51.74685
 longitude: 8.75849
 postcode: "33102"
 city: Paderborn
-street: "Hohenloher Weg"
-housenumber: 6
+street: Hohenloher Weg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-13:00
 website: ""

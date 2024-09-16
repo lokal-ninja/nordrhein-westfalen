@@ -4,8 +4,8 @@ latitude: 51.79291
 longitude: 6.34314
 postcode: "46459"
 city: Rees
-street: "Grietherbusch"
-housenumber: 7
-phone: "+49 2851 986111"
-opening_hours: "Th-Sa 9:00-12:30, 14:00-18:00, Su 11:00-12:30"
-website: "https://vriendshof.de/"
+street: Grietherbusch
+housenumber: "7"
+phone: +49 2851 986111
+opening_hours: Th-Sa 9:00-12:30, 14:00-18:00, Su 11:00-12:30
+website: https://vriendshof.de/

@@ -1,11 +1,11 @@
 id: 73833210
-type: way
+type: node
 latitude: 52.14638
 longitude: 7.97835
 postcode: "49536"
 city: Lienen
-street: "Iburger Straße"
-housenumber: 9
+street: Iburger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

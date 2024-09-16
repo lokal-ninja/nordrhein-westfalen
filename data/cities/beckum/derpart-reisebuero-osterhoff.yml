@@ -4,8 +4,8 @@ latitude: 51.75886
 longitude: 8.04199
 postcode: "59269"
 city: Beckum
-street: "Nordstraße"
-housenumber: 60
+street: Nordstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00, Sa 09:30-12:30"
-website: "https://www.derpart.com/osterhoff"
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00, Sa 09:30-12:30
+website: https://www.derpart.com/osterhoff

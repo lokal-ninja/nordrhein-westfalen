@@ -1,11 +1,11 @@
 id: 131346802
-type: way
+type: node
 latitude: 51.1804
 longitude: 7.24025
 postcode: "42897"
 city: Remscheid
-street: "Lenneper Straße"
+street: Lenneper Straße
 housenumber: 250-260
 phone: "+492191564710"
-opening_hours: "Mo-Fr 10:00-18:30;Sa 10:00-18:00"
-website: "https://www.moebelwelt-remscheid.de/"
+opening_hours: Mo-Fr 10:00-18:30;Sa 10:00-18:00
+website: https://www.moebelwelt-remscheid.de/

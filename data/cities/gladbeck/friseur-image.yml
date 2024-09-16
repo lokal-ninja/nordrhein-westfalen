@@ -4,8 +4,8 @@ latitude: 51.57343
 longitude: 6.98782
 postcode: "45964"
 city: Gladbeck
-street: "Rentforter Straße"
-housenumber: 3
+street: Rentforter Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 08:00-16:00"
-website: "https://www.friseur-image.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 08:00-16:00
+website: https://www.friseur-image.de/

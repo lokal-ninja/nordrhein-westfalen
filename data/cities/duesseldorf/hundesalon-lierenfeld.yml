@@ -4,8 +4,8 @@ latitude: 51.15459
 longitude: 6.87577
 postcode: "40593"
 city: Düsseldorf
-street: "Koblenzer Straße"
-housenumber: 25
-phone: "+49 172 7986414"
-opening_hours: "by appointment"
+street: Koblenzer Straße
+housenumber: "25"
+phone: +49 172 7986414
+opening_hours: '"by appointment"'
 website: ""

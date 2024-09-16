@@ -4,8 +4,8 @@ latitude: 51.24382
 longitude: 6.71352
 postcode: "40549"
 city: Düsseldorf
-street: "Hansaallee"
-housenumber: 321
+street: Hansaallee
+housenumber: "321"
 phone: "+49211557360"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://autowerk-duesseldorf.de"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://autowerk-duesseldorf.de

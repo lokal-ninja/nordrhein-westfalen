@@ -4,8 +4,8 @@ latitude: 51.47161
 longitude: 7.25556
 postcode: "44803"
 city: Bochum
-street: "Wittener Straße"
-housenumber: 270
+street: Wittener Straße
+housenumber: "270"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://www.ford-ebbinghaus.de/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://www.ford-ebbinghaus.de/

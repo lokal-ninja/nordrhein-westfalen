@@ -1,11 +1,11 @@
 id: 796918833
-type: way
+type: node
 latitude: 51.67954
 longitude: 7.79473
 postcode: "59067"
 city: Hamm
-street: "Hafenstraße"
-housenumber: 25
-phone: "+49 2381 5445972"
+street: Hafenstraße
+housenumber: "25"
+phone: +49 2381 5445972
 opening_hours: ""
 website: ""

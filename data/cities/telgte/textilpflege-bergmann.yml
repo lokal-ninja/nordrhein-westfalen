@@ -4,8 +4,8 @@ latitude: 51.9838
 longitude: 7.78523
 postcode: "48291"
 city: Telgte
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Fr 09:00-12:30,15:00-18:00; Tu-Sa 09:00-12:30"
+opening_hours: Mo,Fr 09:00-12:30,15:00-18:00; Tu-Sa 09:00-12:30
 website: ""

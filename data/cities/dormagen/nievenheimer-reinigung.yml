@@ -1,11 +1,11 @@
 id: 266936713
-type: way
+type: node
 latitude: 51.11278
 longitude: 6.76405
 postcode: "41542"
 city: Dormagen
-street: "Hindenburgstraße"
-housenumber: 51
+street: Hindenburgstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 388588852
-type: way
+type: node
 latitude: 51.6791
 longitude: 7.8544
 postcode: "59071"
 city: Hamm
-street: "Herbert-Rust-Weg"
-housenumber: 32
-phone: "+49 2381 924180"
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-15:00"
-website: "https://www.brillux.de/"
+street: Herbert-Rust-Weg
+housenumber: "32"
+phone: +49 2381 924180
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-15:00
+website: https://www.brillux.de/

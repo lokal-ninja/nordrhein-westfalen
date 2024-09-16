@@ -1,11 +1,11 @@
 id: 279309624
-type: way
+type: node
 latitude: 51.48251
 longitude: 6.99713
 postcode: "45326"
 city: Essen
-street: "Weigelwerkstraße"
+street: Weigelwerkstraße
 housenumber: 5-7
 phone: "+49201344670"
 opening_hours: ""
-website: "https://www.kluck-electronic.de/"
+website: https://www.kluck-electronic.de/

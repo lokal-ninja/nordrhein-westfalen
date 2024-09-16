@@ -1,11 +1,11 @@
 id: 104742811
-type: way
+type: node
 latitude: 51.44741
 longitude: 6.86442
 postcode: "45476"
 city: Mülheim an der Ruhr
-street: "Oberhausener Straße"
-housenumber: 92
-phone: "+49208 3758835"
-opening_hours: "Mo-Fr 07:00-22:00, Sa 07:00-22:00"
+street: Oberhausener Straße
+housenumber: "92"
+phone: +49208 3758835
+opening_hours: Mo-Fr 07:00-22:00, Sa 07:00-22:00
 website: ""

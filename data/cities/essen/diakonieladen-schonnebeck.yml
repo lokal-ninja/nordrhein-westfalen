@@ -1,11 +1,11 @@
 id: 150122581
-type: way
+type: node
 latitude: 51.48386
 longitude: 7.06326
 postcode: "45309"
 city: Essen
-street: "Huestraße"
-housenumber: 89
+street: Huestraße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00, Su off"
-website: "https://neue-arbeit-essen.de/neuer-diakonieladen-oeffnet-in-essen%E2%80%90schonnebeck/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00, Su off
+website: https://neue-arbeit-essen.de/neuer-diakonieladen-oeffnet-in-essen%E2%80%90schonnebeck/

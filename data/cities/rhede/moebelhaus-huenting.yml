@@ -1,11 +1,11 @@
 id: 260219346
-type: way
+type: node
 latitude: 51.83764
 longitude: 6.68962
 postcode: "46414"
 city: Rhede
-street: "Hardtstraße"
-housenumber: 47
+street: Hardtstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.76777
 longitude: 6.09861
 postcode: "52066"
 city: Aachen
-street: "Bismarckstraße"
-housenumber: 1
+street: Bismarckstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

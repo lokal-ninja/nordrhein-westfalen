@@ -4,8 +4,8 @@ latitude: 52.33728
 longitude: 8.74515
 postcode: "32479"
 city: Hille
-street: "Brennhorster Straße"
-housenumber: 12
-phone: "+49 5703 5155620"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.hairfashion-friseur.de/"
+street: Brennhorster Straße
+housenumber: "12"
+phone: +49 5703 5155620
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.hairfashion-friseur.de/

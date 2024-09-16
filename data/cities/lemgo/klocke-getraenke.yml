@@ -1,11 +1,11 @@
 id: 251820895
-type: way
+type: node
 latitude: 52.02556
 longitude: 8.88022
 postcode: "32657"
 city: Lemgo
-street: "Grevenmarschstraße"
-housenumber: 62
+street: Grevenmarschstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00, Sa 08:00-16:00; PH off
 website: ""

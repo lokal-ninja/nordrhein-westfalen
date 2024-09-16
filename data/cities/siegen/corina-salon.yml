@@ -4,8 +4,8 @@ latitude: 50.89839
 longitude: 8.02683
 postcode: "57076"
 city: Siegen
-street: "Weidenauer Straße"
-housenumber: 144
-phone: "+49 271 73000"
-opening_hours: "Tu-Th 09:00-17:00, Fr 08:00-17:00, Sa 08:00-13:00; PH off"
-website: "http://www.salon-corina.de/"
+street: Weidenauer Straße
+housenumber: "144"
+phone: +49 271 73000
+opening_hours: Tu-Th 09:00-17:00, Fr 08:00-17:00, Sa 08:00-13:00; PH off
+website: http://www.salon-corina.de/

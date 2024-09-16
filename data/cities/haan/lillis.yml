@@ -4,8 +4,8 @@ latitude: 51.19398
 longitude: 7.01291
 postcode: "42781"
 city: Haan
-street: "Friedrichstraße"
-housenumber: 12
+street: Friedrichstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-13:00; PH off"
-website: "http://www.lillis-haan.com/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-13:00; PH off
+website: http://www.lillis-haan.com/

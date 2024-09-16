@@ -4,8 +4,8 @@ latitude: 51.27787
 longitude: 6.7652
 postcode: "40474"
 city: Düsseldorf
-street: "Flughafenstraße"
-housenumber: 120
+street: Flughafenstraße
+housenumber: "120"
 phone: "+4921197267611"
-opening_hours: "Mo-Su 10:00-18:30"
-website: "https://www.holidaydus.de"
+opening_hours: Mo-Su 10:00-18:30
+website: https://www.holidaydus.de

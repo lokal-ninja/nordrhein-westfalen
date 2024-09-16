@@ -4,8 +4,8 @@ latitude: 51.93602
 longitude: 8.8746
 postcode: "32756"
 city: Detmold
-street: "Bruchstraße"
-housenumber: 40
+street: Bruchstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Tu,Th 10:00-13:00,14:00-16:00"
+opening_hours: Tu,Th 10:00-13:00,14:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.62869
 longitude: 7.66093
 postcode: "59192"
 city: Bergkamen
-street: "Erlentiefenstraße"
-housenumber: 31
+street: Erlentiefenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00"
-website: "https://www.gartencenter-roettger.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-16:00
+website: https://www.gartencenter-roettger.de

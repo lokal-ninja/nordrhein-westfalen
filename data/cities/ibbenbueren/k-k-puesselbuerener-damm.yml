@@ -1,11 +1,11 @@
 id: 198183998
-type: way
+type: node
 latitude: 52.28222
 longitude: 7.70675
 postcode: "49477"
 city: Ibbenbüren
-street: "Püsselbürener Damm"
-housenumber: 22
+street: Püsselbürener Damm
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
-website: "https://www.klaas-und-kock.de/"
+opening_hours: Mo-Sa 07:00-24:00; Su,PH off
+website: https://www.klaas-und-kock.de/

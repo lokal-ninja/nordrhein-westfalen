@@ -4,8 +4,8 @@ latitude: 51.232
 longitude: 7.07235
 postcode: "42329"
 city: Wuppertal
-street: "Kaiserstraße"
-housenumber: 28
-phone: "+49 202 7691958"
-opening_hours: "Mo-Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-15:00"
-website: "http://www.modacapelli.de"
+street: Kaiserstraße
+housenumber: "28"
+phone: +49 202 7691958
+opening_hours: Mo-Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-15:00
+website: http://www.modacapelli.de

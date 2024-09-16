@@ -1,11 +1,11 @@
 id: 288016356
-type: way
+type: node
 latitude: 51.65785
 longitude: 7.74406
 postcode: "59077"
 city: Hamm
-street: "Fangstraße"
-housenumber: 30
-phone: "+49 2381 901070"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.vw-franken.de/"
+street: Fangstraße
+housenumber: "30"
+phone: +49 2381 901070
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.vw-franken.de/

@@ -1,11 +1,11 @@
 id: 206518556
-type: way
+type: node
 latitude: 51.55462
 longitude: 7.30268
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Gaswerkstraße"
-housenumber: 11
+street: Gaswerkstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.expert.de/castroprauxel"
+website: https://www.expert.de/castroprauxel

@@ -4,8 +4,8 @@ latitude: 51.48882
 longitude: 7.25641
 postcode: "44791"
 city: Bochum
-street: "Grüner Weg"
-housenumber: 68
-phone: "+49 234 57947888"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Grüner Weg
+housenumber: "68"
+phone: +49 234 57947888
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

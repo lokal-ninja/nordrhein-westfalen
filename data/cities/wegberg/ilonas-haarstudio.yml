@@ -4,8 +4,8 @@ latitude: 51.14023
 longitude: 6.27993
 postcode: "41844"
 city: Wegberg
-street: "Beecker Straße"
-housenumber: 30
-phone: "+49 2434 20131"
-opening_hours: "Tu-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 08:30-13:00; Su-Mo, PH off"
-website: "https://www.ilonashaarstudio.de/"
+street: Beecker Straße
+housenumber: "30"
+phone: +49 2434 20131
+opening_hours: Tu-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 08:30-13:00; Su-Mo, PH off
+website: https://www.ilonashaarstudio.de/

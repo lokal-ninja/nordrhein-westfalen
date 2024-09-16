@@ -4,8 +4,8 @@ latitude: 50.77364
 longitude: 6.16864
 postcode: ""
 city: Aachen
-street: "Schlackstraße"
-housenumber: 3
+street: Schlackstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.erlich-autotechnik.de/"
+website: http://www.erlich-autotechnik.de/

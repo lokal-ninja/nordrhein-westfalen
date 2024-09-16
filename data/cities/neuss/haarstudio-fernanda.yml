@@ -1,11 +1,11 @@
 id: 133620099
-type: way
+type: node
 latitude: 51.1919
 longitude: 6.69177
 postcode: "41464"
 city: Neuss
-street: "Bergheimer Straße"
-housenumber: 9
+street: Bergheimer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-14:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:30-14:00
 website: ""

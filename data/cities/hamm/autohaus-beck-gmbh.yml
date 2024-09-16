@@ -1,11 +1,11 @@
 id: 349921159
-type: way
+type: node
 latitude: 51.66598
 longitude: 7.76274
 postcode: "59067"
 city: Hamm
-street: "Schmiedestraße"
+street: Schmiedestraße
 housenumber: 4-6
-phone: "+49 2381 940050"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.beck-hamm.de/"
+phone: +49 2381 940050
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.beck-hamm.de/

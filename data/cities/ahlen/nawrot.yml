@@ -1,11 +1,11 @@
 id: 281376017
-type: way
+type: node
 latitude: 51.76508
 longitude: 7.91496
 postcode: "59229"
 city: Ahlen
-street: "Beckumer Straße"
+street: Beckumer Straße
 housenumber: 127-133
-phone: "+49 2382 6936"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00"
+phone: +49 2382 6936
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00
 website: ""

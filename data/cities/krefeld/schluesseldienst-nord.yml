@@ -4,8 +4,8 @@ latitude: 51.33959
 longitude: 6.55883
 postcode: "47798"
 city: Krefeld
-street: "Sternstraße"
-housenumber: 58
+street: Sternstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:30"
-website: "http://www.kr-schluessel.de/"
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 15:00-18:30
+website: http://www.kr-schluessel.de/

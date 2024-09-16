@@ -4,8 +4,8 @@ latitude: 51.42737
 longitude: 7.04754
 postcode: "45134"
 city: Essen
-street: "Frankenstraße"
-housenumber: 72
-phone: "+49 201 / 596922"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://www.pro-audio-gmbh.com/"
+street: Frankenstraße
+housenumber: "72"
+phone: +49 201 / 596922
+opening_hours: Mo-Fr 14:00-18:00
+website: https://www.pro-audio-gmbh.com/

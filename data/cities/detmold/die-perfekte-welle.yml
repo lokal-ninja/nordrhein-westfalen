@@ -1,11 +1,11 @@
 id: 119031388
-type: way
+type: node
 latitude: 51.9568
 longitude: 8.94108
 postcode: "32758"
 city: Detmold
-street: "Barntruper Straße"
-housenumber: 118
+street: Barntruper Straße
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://www.salon-die-perfekte-welle.de/"
+website: https://www.salon-die-perfekte-welle.de/

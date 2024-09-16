@@ -4,8 +4,8 @@ latitude: 51.759
 longitude: 8.66984
 postcode: "33106"
 city: Paderborn
-street: "Sennelagerstraße"
-housenumber: 35
+street: Sennelagerstraße
+housenumber: "35"
 phone: "+49525464617"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.combi.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.combi.de/

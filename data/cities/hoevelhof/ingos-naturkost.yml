@@ -4,8 +4,8 @@ latitude: 51.82021
 longitude: 8.65971
 postcode: "33161"
 city: Hövelhof
-street: "Kurze Straße"
-housenumber: 3
+street: Kurze Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "http://www.ingos-naturkost.de"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
+website: http://www.ingos-naturkost.de

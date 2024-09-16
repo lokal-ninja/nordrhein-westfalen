@@ -4,8 +4,8 @@ latitude: 51.36374
 longitude: 6.41929
 postcode: "47906"
 city: Kempen
-street: "Peterstraße"
-housenumber: 5
-phone: "+49 2152 54544"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00"
+street: Peterstraße
+housenumber: "5"
+phone: +49 2152 54544
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00
 website: ""

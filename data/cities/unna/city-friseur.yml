@@ -4,8 +4,8 @@ latitude: 51.53677
 longitude: 7.69092
 postcode: "59423"
 city: Unna
-street: "Bahnhofstraße"
-housenumber: 30
-phone: "+49 2303258787"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
+street: Bahnhofstraße
+housenumber: "30"
+phone: +49 2303258787
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
 website: ""

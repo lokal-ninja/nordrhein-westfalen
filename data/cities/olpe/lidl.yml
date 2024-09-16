@@ -1,11 +1,11 @@
 id: 152845622
-type: way
+type: node
 latitude: 51.03772
 longitude: 7.86015
 postcode: "57462"
 city: Olpe
-street: "Ziegeleistraße"
-housenumber: 1
+street: Ziegeleistraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

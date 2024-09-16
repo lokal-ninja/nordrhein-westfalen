@@ -1,11 +1,11 @@
 id: 377499401
-type: way
+type: node
 latitude: 50.96882
 longitude: 6.7571
 postcode: "50129"
 city: Bergheim
-street: "Von-Nell-Breuning-Straße"
-housenumber: 5
+street: Von-Nell-Breuning-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

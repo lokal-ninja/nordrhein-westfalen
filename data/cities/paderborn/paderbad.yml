@@ -4,8 +4,8 @@ latitude: 51.74355
 longitude: 8.77373
 postcode: "33100"
 city: Paderborn
-street: "Heidturmweg"
-housenumber: 31
+street: Heidturmweg
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 8:00-14:00"
-website: "https://www.paderbad.com/"
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; Sa 8:00-14:00
+website: https://www.paderbad.com/

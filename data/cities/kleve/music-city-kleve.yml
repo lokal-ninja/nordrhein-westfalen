@@ -1,11 +1,11 @@
 id: 113694723
-type: way
+type: node
 latitude: 51.78077
 longitude: 6.12797
 postcode: "47533"
 city: Kleve
-street: "Hoffmannallee"
-housenumber: 32
-phone: "+49 (0)2821-6699435"
+street: Hoffmannallee
+housenumber: "32"
+phone: +49 (0)2821-6699435
 opening_hours: ""
-website: "http://musiccitykleve.com/"
+website: http://musiccitykleve.com/

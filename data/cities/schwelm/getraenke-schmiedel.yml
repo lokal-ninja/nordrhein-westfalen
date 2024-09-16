@@ -1,11 +1,11 @@
 id: 321284152
-type: way
+type: node
 latitude: 51.29245
 longitude: 7.27749
 postcode: "58332"
 city: Schwelm
-street: "Ruhrstraße"
-housenumber: 24
+street: Ruhrstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

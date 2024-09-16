@@ -4,8 +4,8 @@ latitude: 51.20102
 longitude: 6.84117
 postcode: "40229"
 city: Düsseldorf
-street: "Auf'm Großenfeld"
-housenumber: 7
-phone: "+49 176 25575244"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-16:00 || Nach Vereinbarung"
+street: Auf'm Großenfeld
+housenumber: "7"
+phone: +49 176 25575244
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-16:00 || "Nach Vereinbarung"
 website: ""

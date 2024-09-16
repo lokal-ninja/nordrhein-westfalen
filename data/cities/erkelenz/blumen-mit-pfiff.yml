@@ -1,11 +1,11 @@
 id: 168573272
-type: way
+type: node
 latitude: 51.08493
 longitude: 6.31009
 postcode: "41812"
 city: Erkelenz
-street: "Roermonder Straße"
-housenumber: 32
+street: Roermonder Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

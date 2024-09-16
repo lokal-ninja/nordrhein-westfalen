@@ -1,11 +1,11 @@
 id: 101738491
-type: way
+type: node
 latitude: 50.93069
 longitude: 7.55462
 postcode: "51588"
 city: Nümbrecht
-street: "Wiehler Straße"
-housenumber: 51
-phone: "+49 2293 7654"
+street: Wiehler Straße
+housenumber: "51"
+phone: +49 2293 7654
 opening_hours: ""
 website: ""

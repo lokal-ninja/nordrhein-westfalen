@@ -4,8 +4,9 @@ latitude: 51.2868
 longitude: 7.98915
 postcode: "59846"
 city: Sundern (Sauerland)
-street: "Stockumer Straße"
-housenumber: 40
+street: Stockumer Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Th 08:00-12:30; Fr 08:00-12:30,14:30-18:00; Sa 07:30-12:00; Mo,Su,PH off Sa"
+opening_hours: Tu-Th 08:00-12:30; Fr 08:00-12:30,14:30-18:00; Sa 07:30-12:00; Mo,Su,PH
+    off Sa
 website: ""

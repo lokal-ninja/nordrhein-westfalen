@@ -4,8 +4,8 @@ latitude: 51.95243
 longitude: 7.63264
 postcode: "48153"
 city: Münster
-street: "Friedrich-Ebert-Straße"
-housenumber: 15
-phone: "+49 (251) 62088-10"
-opening_hours: "Mo-Fr 09:30-19:00"
-website: "https://www.chance-muenster.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "15"
+phone: +49 (251) 62088-10
+opening_hours: Mo-Fr 09:30-19:00
+website: https://www.chance-muenster.de/

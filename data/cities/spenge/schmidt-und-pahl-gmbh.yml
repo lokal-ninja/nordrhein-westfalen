@@ -1,11 +1,11 @@
 id: 89553015
-type: way
+type: node
 latitude: 52.15025
 longitude: 8.45712
 postcode: "32139"
 city: Spenge
-street: "Neuenkirchener Straße"
-housenumber: 175
+street: Neuenkirchener Straße
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

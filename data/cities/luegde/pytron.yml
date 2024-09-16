@@ -1,11 +1,11 @@
 id: 30012396
-type: way
+type: node
 latitude: 51.95772
 longitude: 9.24629
 postcode: "32676"
 city: Lügde
-street: "Am Markt"
-housenumber: 4
-phone: "+49 5281 98180"
+street: Am Markt
+housenumber: "4"
+phone: +49 5281 98180
 opening_hours: ""
-website: "https://www.pytron.de/"
+website: https://www.pytron.de/

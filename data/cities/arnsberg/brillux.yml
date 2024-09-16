@@ -1,11 +1,11 @@
 id: 98628660
-type: way
+type: node
 latitude: 51.4612
 longitude: 7.97734
 postcode: "59755"
 city: Arnsberg
-street: "Zum Möhnewehr"
-housenumber: 24
-phone: "+49 2932 97340"
-opening_hours: "Mo-Th 06:30-16:30, Fr 06:30-15:30, Sa"
-website: "https://www.brillux.de/"
+street: Zum Möhnewehr
+housenumber: "24"
+phone: +49 2932 97340
+opening_hours: Mo-Th 06:30-16:30, Fr 06:30-15:30, Sa
+website: https://www.brillux.de/

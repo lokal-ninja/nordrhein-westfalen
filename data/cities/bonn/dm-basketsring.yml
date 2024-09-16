@@ -1,11 +1,11 @@
 id: 32568781
-type: way
+type: node
 latitude: 50.70706
 longitude: 7.05861
 postcode: "53123"
 city: Bonn
-street: "Basketsring"
-housenumber: 5
-phone: "+49 228 92599193"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-1335/bonn/basketsring-5"
+street: Basketsring
+housenumber: "5"
+phone: +49 228 92599193
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-1335/bonn/basketsring-5

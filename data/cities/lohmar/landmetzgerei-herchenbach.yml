@@ -4,8 +4,8 @@ latitude: 50.84761
 longitude: 7.26348
 postcode: "53797"
 city: Lohmar
-street: "Geberstraße"
-housenumber: 24
-phone: "+49 2246 16691"
-opening_hours: "Mo off; Tu-Fr 07:00-12:30,14:00-18:00; Sa 07;00-14:00"
-website: "https://www.landmetzgerei-herchenbach.de"
+street: Geberstraße
+housenumber: "24"
+phone: +49 2246 16691
+opening_hours: Mo off; Tu-Fr 07:00-12:30,14:00-18:00; Sa 07;00-14:00
+website: https://www.landmetzgerei-herchenbach.de

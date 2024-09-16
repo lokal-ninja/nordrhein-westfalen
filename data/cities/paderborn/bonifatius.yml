@@ -4,8 +4,8 @@ latitude: 51.71662
 longitude: 8.75649
 postcode: "33098"
 city: Paderborn
-street: "Liboristraße"
-housenumber: 1
+street: Liboristraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.bonifatius.de/buchhandlung"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.bonifatius.de/buchhandlung

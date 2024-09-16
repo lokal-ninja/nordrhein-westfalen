@@ -1,11 +1,11 @@
 id: 1298678806
-type: way
+type: node
 latitude: 51.02907
 longitude: 7.85016
 postcode: "57462"
 city: Olpe
-street: "Martinstraße"
+street: Martinstraße
 housenumber: 36-38
-phone: "+49 2761 941 279-0"
-opening_hours: "Mo-Sa 07:00-22:00"
+phone: +49 2761 941 279-0
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

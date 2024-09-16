@@ -1,11 +1,11 @@
 id: 260690364
-type: way
+type: node
 latitude: 51.99266
 longitude: 6.9153
 postcode: "48703"
 city: Stadtlohn
-street: "Alte Poststraße"
-housenumber: 10
+street: Alte Poststraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

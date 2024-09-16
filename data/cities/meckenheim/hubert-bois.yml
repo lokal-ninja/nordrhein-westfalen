@@ -1,11 +1,11 @@
 id: 177962145
-type: way
+type: node
 latitude: 50.62007
 longitude: 7.01262
 postcode: "53340"
 city: Meckenheim
-street: "Wormersdorfer Straße"
-housenumber: 47
+street: Wormersdorfer Straße
+housenumber: "47"
 phone: "+492225"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.bois.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.bois.de/

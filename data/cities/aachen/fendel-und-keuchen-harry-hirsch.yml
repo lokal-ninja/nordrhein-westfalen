@@ -4,8 +4,8 @@ latitude: 50.79663
 longitude: 6.06378
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 326
-phone: "+49 241 9463752"
-opening_hours: "Mo,Tu,Th 08:00-13:30,14:30-18:00; We,Fr 08:00-14:30"
-website: "https://www.keuchen.com"
+street: Roermonder Straße
+housenumber: "326"
+phone: +49 241 9463752
+opening_hours: Mo,Tu,Th 08:00-13:30,14:30-18:00; We,Fr 08:00-14:30
+website: https://www.keuchen.com

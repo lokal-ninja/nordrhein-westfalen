@@ -4,8 +4,8 @@ latitude: 51.32078
 longitude: 6.19684
 postcode: "41334"
 city: Nettetal
-street: "Kehrstraße"
-housenumber: 74
+street: Kehrstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00,15:00-18:00; Sa 09:30-14:00"
-website: "https://www.kindertraum-nettetal.de/kindertraum-laden/"
+opening_hours: Tu-Fr 09:30-13:00,15:00-18:00; Sa 09:30-14:00
+website: https://www.kindertraum-nettetal.de/kindertraum-laden/

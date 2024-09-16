@@ -4,8 +4,8 @@ latitude: 50.92714
 longitude: 6.95795
 postcode: "50678"
 city: Köln
-street: "Severinstraße"
-housenumber: 136
-phone: "+49 221 45347387"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Severinstraße
+housenumber: "136"
+phone: +49 221 45347387
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

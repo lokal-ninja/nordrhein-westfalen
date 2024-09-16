@@ -1,11 +1,11 @@
 id: 146718129
-type: way
+type: node
 latitude: 50.56345
 longitude: 6.76261
 postcode: "53902"
 city: Bad Münstereifel
-street: "Kölner Straße"
-housenumber: 39
+street: Kölner Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

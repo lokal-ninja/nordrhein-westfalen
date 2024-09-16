@@ -4,8 +4,8 @@ latitude: 51.05364
 longitude: 7.26871
 postcode: "51515"
 city: Kürten
-street: "Wipperfürther Straße"
-housenumber: 389
-phone: "+49 2269 6331"
-opening_hours: "Mo,Tu,Th,Fr 06:30-18:30; We,Sa 06:30-13:00; Su 07:30-10:30, 14:00-16:00"
+street: Wipperfürther Straße
+housenumber: "389"
+phone: +49 2269 6331
+opening_hours: Mo,Tu,Th,Fr 06:30-18:30; We,Sa 06:30-13:00; Su 07:30-10:30, 14:00-16:00
 website: ""

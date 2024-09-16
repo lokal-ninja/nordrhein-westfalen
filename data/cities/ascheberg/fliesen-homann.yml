@@ -1,11 +1,11 @@
 id: 299682009
-type: way
+type: node
 latitude: 51.78665
 longitude: 7.60321
 postcode: "59387"
 city: Ascheberg
-street: "Raiffeisenstraße"
-housenumber: 27
+street: Raiffeisenstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesen-homann.de/"
+website: https://www.fliesen-homann.de/

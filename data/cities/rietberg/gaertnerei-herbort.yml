@@ -1,11 +1,11 @@
 id: 41273468
-type: way
+type: node
 latitude: 51.75542
 longitude: 8.38802
 postcode: "33397"
 city: Rietberg
-street: "Katthagenstraße"
-housenumber: 9
+street: Katthagenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

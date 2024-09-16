@@ -4,8 +4,9 @@ latitude: 51.78276
 longitude: 8.81609
 postcode: "33175"
 city: Bad Lippspringe
-street: "Bielefelder Straße"
-housenumber: 15
+street: Bielefelder Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Tu 08:30-12:30,14:30-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,14:30-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Tu 08:30-12:30,14:30-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,14:30-18:00;
+    Sa 08:30-13:00
 website: ""

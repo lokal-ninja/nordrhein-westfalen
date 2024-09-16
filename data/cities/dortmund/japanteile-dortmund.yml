@@ -1,11 +1,11 @@
 id: 1263547862
-type: way
+type: node
 latitude: 51.50661
 longitude: 7.39457
 postcode: "44379"
 city: Dortmund
-street: "Kressenweg"
-housenumber: 4
-phone: "+49 177 8585779"
+street: Kressenweg
+housenumber: "4"
+phone: +49 177 8585779
 opening_hours: ""
-website: "https://japanteile-dortmund.de/"
+website: https://japanteile-dortmund.de/

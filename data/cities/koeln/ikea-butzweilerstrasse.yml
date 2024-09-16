@@ -1,11 +1,11 @@
 id: 156371365
-type: way
+type: node
 latitude: 50.98564
 longitude: 6.89776
 postcode: "50829"
 city: Köln
-street: "Butzweilerstraße"
-housenumber: 51
+street: Butzweilerstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-22:00; Sa 10:00-21:00; Su,PH off"
-website: "https://www.ikea.com/de/de/stores/koeln-am-butzweilerhof/"
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-22:00; Sa 10:00-21:00; Su,PH off
+website: https://www.ikea.com/de/de/stores/koeln-am-butzweilerhof/

@@ -4,8 +4,8 @@ latitude: 51.29802
 longitude: 6.85192
 postcode: "40878"
 city: Ratingen
-street: "Oberstraße"
-housenumber: 30
+street: Oberstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.fielmann.de/niederlassungen/ratingen/40878-oberstrasse-30/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.fielmann.de/niederlassungen/ratingen/40878-oberstrasse-30/

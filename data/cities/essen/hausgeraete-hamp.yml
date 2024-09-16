@@ -4,8 +4,8 @@ latitude: 51.44045
 longitude: 7.02216
 postcode: "45128"
 city: Essen
-street: "Rellinghauser Straße"
-housenumber: 173
-phone: "+49 201 784440"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.hamp-hausgeraete.de/"
+street: Rellinghauser Straße
+housenumber: "173"
+phone: +49 201 784440
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.hamp-hausgeraete.de/

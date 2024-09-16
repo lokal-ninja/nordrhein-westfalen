@@ -1,11 +1,11 @@
 id: 1253867775
-type: way
+type: node
 latitude: 51.67538
 longitude: 8.34657
 postcode: "59555"
 city: Lippstadt
-street: "Rathausstraße"
-housenumber: 1
-phone: "+49 2941 2840750"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+street: Rathausstraße
+housenumber: "1"
+phone: +49 2941 2840750
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.46188
 longitude: 7.00806
 postcode: "45127"
 city: Essen
-street: "Meyer-Schwickerath-Straße"
-housenumber: 61
+street: Meyer-Schwickerath-Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Su,Mo,Tu off; We-Fr 13:00-18:00; Sa 10:00-15:00"
+opening_hours: Su,Mo,Tu off; We-Fr 13:00-18:00; Sa 10:00-15:00
 website: ""

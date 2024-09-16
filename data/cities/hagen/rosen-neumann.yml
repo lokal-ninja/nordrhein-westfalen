@@ -1,11 +1,11 @@
 id: 128943536
-type: way
+type: node
 latitude: 51.38386
 longitude: 7.47165
 postcode: "58099"
 city: Hagen
-street: "Kapellenstraße"
-housenumber: 41
-phone: "+49 2331 61416"
+street: Kapellenstraße
+housenumber: "41"
+phone: +49 2331 61416
 opening_hours: ""
 website: ""

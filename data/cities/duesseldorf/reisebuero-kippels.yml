@@ -4,8 +4,8 @@ latitude: 51.24374
 longitude: 6.78118
 postcode: "40476"
 city: Düsseldorf
-street: "Roßstraße"
-housenumber: 31
+street: Roßstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 10:00-14:00, 15:00-18:30; We,Sa 10:00-13:00"
+opening_hours: Mo,Tu,We,Fr 10:00-14:00, 15:00-18:30; We,Sa 10:00-13:00
 website: ""

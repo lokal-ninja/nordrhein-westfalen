@@ -4,8 +4,8 @@ latitude: 52.30413
 longitude: 7.44577
 postcode: "48432"
 city: Rheine
-street: "Birkenallee"
-housenumber: 177
-phone: "+49 5971 8680"
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-13:00"
-website: "https://www.novaline.de"
+street: Birkenallee
+housenumber: "177"
+phone: +49 5971 8680
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-13:00
+website: https://www.novaline.de

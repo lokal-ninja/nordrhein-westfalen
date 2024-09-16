@@ -1,11 +1,11 @@
 id: 912198900
-type: way
+type: node
 latitude: 51.73284
 longitude: 8.71832
 postcode: "33104"
 city: Paderborn
-street: "Wilfried-Finke-Allee"
-housenumber: 5
+street: Wilfried-Finke-Allee
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.hornbach.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.hornbach.de/

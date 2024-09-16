@@ -1,11 +1,11 @@
 id: 47975537
-type: way
+type: node
 latitude: 51.60809
 longitude: 7.66076
 postcode: "59192"
 city: Bergkamen
-street: "Werner Straße"
-housenumber: 38
+street: Werner Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-22:00"
+opening_hours: Mo-Fr 10:00-22:00
 website: ""

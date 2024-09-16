@@ -4,8 +4,8 @@ latitude: 51.55176
 longitude: 7.2841
 postcode: "44627"
 city: Herne
-street: "Bruchstraße"
-housenumber: 128
+street: Bruchstraße
+housenumber: "128"
 phone: ""
 opening_hours: ""
-website: "https://skoda-service-herne.de/"
+website: https://skoda-service-herne.de/

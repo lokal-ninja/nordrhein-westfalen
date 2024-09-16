@@ -1,11 +1,11 @@
 id: 216994522
-type: way
+type: node
 latitude: 50.91087
 longitude: 6.8281
 postcode: "50226"
 city: Frechen
-street: "Bonnstraße"
-housenumber: 12
-phone: "+49 2234 94674 - 0"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:00-14:00; PH, Su, off"
-website: "https://www.mobau-erft.de/standorte/standort-frechen"
+street: Bonnstraße
+housenumber: "12"
+phone: +49 2234 94674 - 0
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:00-14:00; PH, Su, off
+website: https://www.mobau-erft.de/standorte/standort-frechen

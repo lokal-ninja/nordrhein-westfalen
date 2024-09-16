@@ -1,11 +1,11 @@
 id: 73876374
-type: way
+type: node
 latitude: 50.82822
 longitude: 7.11912
 postcode: "53842"
 city: Troisdorf
-street: "Waldstraße"
-housenumber: 2
+street: Waldstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

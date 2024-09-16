@@ -1,11 +1,11 @@
 id: 75599263
-type: way
+type: node
 latitude: 50.82225
 longitude: 6.89798
 postcode: "50321"
 city: Brühl
-street: "Pingsdorfer Straße"
-housenumber: 51
-phone: "+49 2232 9399454"
-opening_hours: "24/7"
-website: "https://www.pfennings.net/node/62&a=privat"
+street: Pingsdorfer Straße
+housenumber: "51"
+phone: +49 2232 9399454
+opening_hours: 24/7
+website: https://www.pfennings.net/node/62&a=privat

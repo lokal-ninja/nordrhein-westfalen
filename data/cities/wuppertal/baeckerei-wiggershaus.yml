@@ -4,8 +4,8 @@ latitude: 51.29694
 longitude: 7.24465
 postcode: "42279"
 city: Wuppertal
-street: "Wittener Straße"
-housenumber: 166
-phone: "+49202 660052"
-opening_hours: "Tu-Fr 06:00-17:00; Su,PH off"
-website: "http://baeckerei-wiggershaus.de/"
+street: Wittener Straße
+housenumber: "166"
+phone: +49202 660052
+opening_hours: Tu-Fr 06:00-17:00; Su,PH off
+website: http://baeckerei-wiggershaus.de/

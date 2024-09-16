@@ -4,8 +4,8 @@ latitude: 51.55153
 longitude: 8.55986
 postcode: "33142"
 city: Büren
-street: "Mittelstraße"
-housenumber: 1
+street: Mittelstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-12:30
 website: ""

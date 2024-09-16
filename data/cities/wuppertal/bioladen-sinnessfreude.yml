@@ -4,8 +4,8 @@ latitude: 51.22711
 longitude: 7.19848
 postcode: "42369"
 city: Wuppertal
-street: "Staasstraße"
-housenumber: 35
-phone: "+49 202 25318516"
-opening_hours: "Tu 08:00-18:00; We 08:00-13:00; Th-Fr 08:00-18:00; Sa 08:00-13:00"
+street: Staasstraße
+housenumber: "35"
+phone: +49 202 25318516
+opening_hours: Tu 08:00-18:00; We 08:00-13:00; Th-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

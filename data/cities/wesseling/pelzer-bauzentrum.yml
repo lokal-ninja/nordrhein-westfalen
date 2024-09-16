@@ -1,11 +1,11 @@
 id: 53677119
-type: way
+type: node
 latitude: 50.82852
 longitude: 6.9603
 postcode: "50389"
 city: Wesseling
-street: "Rodenkirchener Straße"
-housenumber: 198
+street: Rodenkirchener Straße
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

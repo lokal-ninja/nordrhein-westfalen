@@ -1,11 +1,11 @@
 id: 155829284
-type: way
+type: node
 latitude: 51.82419
 longitude: 8.27905
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Kleestraße"
-housenumber: 13
+street: Kleestraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.88474
 longitude: 8.51122
 postcode: "33415"
 city: Verl
-street: "Sender Straße"
-housenumber: 28
+street: Sender Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; Su,PH off"
-website: "https://www.oleastrum.eu/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; Su,PH off
+website: https://www.oleastrum.eu/

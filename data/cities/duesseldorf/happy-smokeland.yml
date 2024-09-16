@@ -4,8 +4,8 @@ latitude: 51.2123
 longitude: 6.78244
 postcode: "40215"
 city: Düsseldorf
-street: "Corneliusstraße"
-housenumber: 85
-phone: "+49 211 56649700"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-14:00"
-website: "https://www.happysmokeland.de/"
+street: Corneliusstraße
+housenumber: "85"
+phone: +49 211 56649700
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-14:00
+website: https://www.happysmokeland.de/

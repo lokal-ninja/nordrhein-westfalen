@@ -4,8 +4,8 @@ latitude: 51.30102
 longitude: 6.74042
 postcode: "40489"
 city: Düsseldorf
-street: "Am Kreuzberg"
-housenumber: 3
-phone: "+49 211 940283"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 08:00-17:00"
-website: "https://www.baeckerei-bolten.de/filialen/klemensplatz"
+street: Am Kreuzberg
+housenumber: "3"
+phone: +49 211 940283
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 08:00-17:00
+website: https://www.baeckerei-bolten.de/filialen/klemensplatz

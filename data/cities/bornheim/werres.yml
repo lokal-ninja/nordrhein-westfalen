@@ -1,11 +1,11 @@
 id: 204422790
-type: way
+type: node
 latitude: 50.79188
 longitude: 7.02786
 postcode: "53332"
 city: Bornheim
-street: "Römerstraße"
-housenumber: 85
+street: Römerstraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

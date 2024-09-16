@@ -4,8 +4,8 @@ latitude: 50.87461
 longitude: 8.02439
 postcode: "57072"
 city: Siegen
-street: "Markt"
-housenumber: 1
-phone: "+49 271 38778695"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00"
-website: "https://www.farbenrausch.biz/"
+street: Markt
+housenumber: "1"
+phone: +49 271 38778695
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00
+website: https://www.farbenrausch.biz/

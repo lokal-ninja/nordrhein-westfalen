@@ -1,11 +1,11 @@
 id: 513349392
-type: way
+type: node
 latitude: 51.18006
 longitude: 7.1712
 postcode: "42857"
 city: Remscheid
-street: "Schüttendelle"
-housenumber: 49
+street: Schüttendelle
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

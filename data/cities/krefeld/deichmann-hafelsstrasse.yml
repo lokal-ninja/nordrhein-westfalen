@@ -1,11 +1,11 @@
 id: 96240526
-type: way
+type: node
 latitude: 51.32215
 longitude: 6.60541
 postcode: "47809"
 city: Krefeld
-street: "Hafelsstraße"
-housenumber: 241
+street: Hafelsstraße
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

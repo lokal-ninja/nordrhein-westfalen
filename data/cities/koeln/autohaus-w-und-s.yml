@@ -1,11 +1,11 @@
 id: 279690891
-type: way
+type: node
 latitude: 50.88184
 longitude: 7.095
 postcode: "51147"
 city: Köln
-street: "Waldstraße"
-housenumber: 155
+street: Waldstraße
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

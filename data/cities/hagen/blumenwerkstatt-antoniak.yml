@@ -4,8 +4,8 @@ latitude: 51.36145
 longitude: 7.49559
 postcode: "58093"
 city: Hagen
-street: "Eppenhauser Straße"
-housenumber: 50
-phone: "+49 2331 89321"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:30-14:00; PH,Su off"
-website: "https://www.blumenwerkstatt-antoniak.de/"
+street: Eppenhauser Straße
+housenumber: "50"
+phone: +49 2331 89321
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:30-14:00; PH,Su off
+website: https://www.blumenwerkstatt-antoniak.de/

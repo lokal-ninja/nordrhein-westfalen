@@ -4,8 +4,8 @@ latitude: 51.36265
 longitude: 6.94058
 postcode: "45219"
 city: Essen
-street: "Hauptstraße"
-housenumber: 54
-phone: "+49 2054 871567"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 06:00-16:00"
-website: "https://doebbe.de/store/kettwig/"
+street: Hauptstraße
+housenumber: "54"
+phone: +49 2054 871567
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 06:00-16:00
+website: https://doebbe.de/store/kettwig/

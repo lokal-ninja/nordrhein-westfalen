@@ -1,11 +1,11 @@
 id: 45340103
-type: way
+type: node
 latitude: 50.91203
 longitude: 7.91323
 postcode: "57258"
 city: Freudenberg
-street: "Gewerbestraße"
-housenumber: 1
-phone: "02734-27510"
+street: Gewerbestraße
+housenumber: "1"
+phone: 02734-27510
 opening_hours: ""
-website: "https://www.flick-fashiongroup.de/"
+website: https://www.flick-fashiongroup.de/

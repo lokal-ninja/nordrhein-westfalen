@@ -4,8 +4,8 @@ latitude: 52.3098
 longitude: 8.66973
 postcode: "32312"
 city: Lübbecke
-street: "Nettelstedter Straße"
-housenumber: 26
-phone: "+49 5741 6707"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30, Sa 09:00-14:00, Su 10:00-12:00"
-website: "https://www.blumen-coors.de/"
+street: Nettelstedter Straße
+housenumber: "26"
+phone: +49 5741 6707
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30, Sa 09:00-14:00, Su 10:00-12:00
+website: https://www.blumen-coors.de/

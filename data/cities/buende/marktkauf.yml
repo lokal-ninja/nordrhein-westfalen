@@ -1,11 +1,11 @@
 id: 136074235
-type: way
+type: node
 latitude: 52.20059
 longitude: 8.56943
 postcode: "32257"
 city: Bünde
-street: "Wilhelmstraße"
+street: Wilhelmstraße
 housenumber: 10-28
-phone: "+49 5223 9230"
-opening_hours: "Mo-Sa 08:00-21:30"
-website: "https://www.marktkauf.de/buende"
+phone: +49 5223 9230
+opening_hours: Mo-Sa 08:00-21:30
+website: https://www.marktkauf.de/buende

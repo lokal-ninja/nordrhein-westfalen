@@ -4,8 +4,8 @@ latitude: 51.16727
 longitude: 6.73448
 postcode: "41469"
 city: Neuss
-street: "Schellbergstraße"
-housenumber: 9
-phone: "+49 2131 150084"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/"
+street: Schellbergstraße
+housenumber: "9"
+phone: +49 2131 150084
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/

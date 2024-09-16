@@ -1,11 +1,11 @@
 id: 312541138
-type: way
+type: node
 latitude: 50.83172
 longitude: 6.47124
 postcode: "52353"
 city: Düren
-street: "Willi-Bleicher-Straße"
-housenumber: 1
+street: Willi-Bleicher-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
-website: "https://renault-wahl-dueren.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00
+website: https://renault-wahl-dueren.de/

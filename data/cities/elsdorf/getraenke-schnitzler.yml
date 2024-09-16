@@ -1,11 +1,11 @@
 id: 419547487
-type: way
+type: node
 latitude: 50.9335
 longitude: 6.55797
 postcode: "50189"
 city: Elsdorf
-street: "Birkenweg"
-housenumber: 47
-phone: "+49 2274 92550"
+street: Birkenweg
+housenumber: "47"
+phone: +49 2274 92550
 opening_hours: ""
-website: "https://getraenke-schnitzler.de/"
+website: https://getraenke-schnitzler.de/

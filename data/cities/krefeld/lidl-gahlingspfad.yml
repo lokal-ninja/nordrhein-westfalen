@@ -1,11 +1,11 @@
 id: 1173907793
-type: way
+type: node
 latitude: 51.34218
 longitude: 6.56461
 postcode: "47803"
 city: Krefeld
-street: "Gahlingspfad"
-housenumber: 25
+street: Gahlingspfad
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su off
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 275280539
-type: way
+type: node
 latitude: 52.13533
 longitude: 7.73519
 postcode: "49549"
 city: Ladbergen
-street: "Grevener Straße"
-housenumber: 9
+street: Grevener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

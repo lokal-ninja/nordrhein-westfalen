@@ -4,8 +4,8 @@ latitude: 51.2994
 longitude: 6.85657
 postcode: "40878"
 city: Ratingen
-street: "Hochstraße"
-housenumber: 26
-phone: "+49 2102 24709"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
-website: "http://www.heissmangel-schramm.de"
+street: Hochstraße
+housenumber: "26"
+phone: +49 2102 24709
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
+website: http://www.heissmangel-schramm.de

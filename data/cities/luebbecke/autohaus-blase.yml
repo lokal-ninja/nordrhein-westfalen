@@ -4,8 +4,8 @@ latitude: 52.32726
 longitude: 8.62418
 postcode: "32312"
 city: Lübbecke
-street: "Zeiss-Straße"
-housenumber: 7
-phone: "+49 5741 40627"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.opel-blase.de"
+street: Zeiss-Straße
+housenumber: "7"
+phone: +49 5741 40627
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.opel-blase.de

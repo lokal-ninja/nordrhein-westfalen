@@ -1,11 +1,11 @@
 id: 195414001
-type: way
+type: node
 latitude: 52.03117
 longitude: 8.76388
 postcode: "32107"
 city: Bad Salzuflen
-street: "Max-Planck-Straße"
-housenumber: 
+street: Max-Planck-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://fette-bs.de/"
+website: https://fette-bs.de/

@@ -1,11 +1,11 @@
 id: 1213519222
-type: way
+type: node
 latitude: 51.99704
 longitude: 9.1213
 postcode: "32683"
 city: Barntrup
-street: "Alverdisser Straße"
-housenumber: 30
+street: Alverdisser Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

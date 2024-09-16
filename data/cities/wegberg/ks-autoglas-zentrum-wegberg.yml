@@ -1,11 +1,11 @@
 id: 25624526
-type: way
+type: node
 latitude: 51.13772
 longitude: 6.29097
 postcode: "41844"
 city: Wegberg
-street: "Beecker Straße"
-housenumber: 97
-phone: "+49 2434 9930310"
+street: Beecker Straße
+housenumber: "97"
+phone: +49 2434 9930310
 opening_hours: ""
 website: ""

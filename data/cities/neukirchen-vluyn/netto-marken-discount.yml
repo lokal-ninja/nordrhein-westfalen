@@ -1,11 +1,11 @@
 id: 102338793
-type: way
+type: node
 latitude: 51.43924
 longitude: 6.56877
 postcode: "47506"
 city: Neukirchen-Vluyn
-street: "Max-von-Schenkendorf-Straße"
-housenumber: 41
+street: Max-von-Schenkendorf-Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

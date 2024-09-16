@@ -1,11 +1,11 @@
 id: 77993270
-type: way
+type: node
 latitude: 50.81702
 longitude: 7.15094
 postcode: "53840"
 city: Troisdorf
-street: "Kölner Straße"
-housenumber: 145
-phone: "+49 2241 803603"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Kölner Straße
+housenumber: "145"
+phone: +49 2241 803603
+opening_hours: Mo-Su 07:00-22:00
 website: ""

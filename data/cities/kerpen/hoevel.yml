@@ -1,11 +1,11 @@
 id: 288918002
-type: way
+type: node
 latitude: 50.87016
 longitude: 6.69468
 postcode: "50171"
 city: Kerpen
-street: "Hahnenstraße"
-housenumber: 36
-phone: "+49 2237 59050"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.modehaus-hoevel.de/"
+street: Hahnenstraße
+housenumber: "36"
+phone: +49 2237 59050
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.modehaus-hoevel.de/

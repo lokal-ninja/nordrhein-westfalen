@@ -1,11 +1,11 @@
 id: 299458813
-type: way
+type: node
 latitude: 51.67202
 longitude: 8.58941
 postcode: "33154"
 city: Salzkotten
-street: "Johann-Reineke-Straße"
-housenumber: 5
+street: Johann-Reineke-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Th-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.weilandts-erdbeer-plantagen.de/"
+opening_hours: Th-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.weilandts-erdbeer-plantagen.de/

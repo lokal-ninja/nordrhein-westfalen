@@ -4,8 +4,8 @@ latitude: 50.92989
 longitude: 8.41903
 postcode: "57334"
 city: Bad Laasphe
-street: "Bahnhofstraße"
-housenumber: 71
+street: Bahnhofstraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.k-und-k-schuhcenter.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.k-und-k-schuhcenter.de/

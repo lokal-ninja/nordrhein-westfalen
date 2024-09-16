@@ -1,11 +1,11 @@
 id: 328408305
-type: way
+type: node
 latitude: 51.82301
 longitude: 8.43847
 postcode: "33397"
 city: Rietberg
-street: "Konrad-Adenauer-Straße"
-housenumber: 29
+street: Konrad-Adenauer-Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-freitaeger.de/"
+website: https://www.autohaus-freitaeger.de/

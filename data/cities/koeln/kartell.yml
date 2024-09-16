@@ -1,11 +1,11 @@
 id: 329583709
-type: way
+type: node
 latitude: 50.9357
 longitude: 6.94523
 postcode: "50667"
 city: Köln
-street: "Hahnenstraße"
-housenumber: 11
+street: Hahnenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

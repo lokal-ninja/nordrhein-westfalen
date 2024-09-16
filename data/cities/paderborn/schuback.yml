@@ -4,8 +4,8 @@ latitude: 51.7172
 longitude: 8.7529
 postcode: "33098"
 city: Paderborn
-street: "Rathausplatz"
-housenumber: 17
+street: Rathausplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.schuback-parfuemerien.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.schuback-parfuemerien.de

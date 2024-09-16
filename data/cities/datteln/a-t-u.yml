@@ -1,11 +1,11 @@
 id: 300194462
-type: way
+type: node
 latitude: 51.66894
 longitude: 7.34739
 postcode: "45711"
 city: Datteln
-street: "In den Hofwiesen"
-housenumber: 26
+street: In den Hofwiesen
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

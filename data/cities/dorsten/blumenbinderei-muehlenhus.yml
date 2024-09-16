@@ -1,11 +1,11 @@
 id: 165222193
-type: way
+type: node
 latitude: 51.67802
 longitude: 7.01827
 postcode: "46284"
 city: Dorsten
-street: "Dorfstraße"
-housenumber: 31
+street: Dorfstraße
+housenumber: "31"
 phone: "+492362952523"
-opening_hours: "We-Fr 11:00-17:00; Sa 11:00-14:00; Jun 28-Jul 29 off"
-website: "https://muehlenhus.eu/"
+opening_hours: We-Fr 11:00-17:00; Sa 11:00-14:00; Jun 28-Jul 29 off
+website: https://muehlenhus.eu/

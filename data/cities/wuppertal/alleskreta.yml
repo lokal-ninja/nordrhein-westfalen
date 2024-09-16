@@ -4,8 +4,8 @@ latitude: 51.25084
 longitude: 7.13764
 postcode: "42103"
 city: Wuppertal
-street: "Tannenbergstraße"
-housenumber: 57
-phone: "+49 157 8182 7881"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 12:00-19:00"
-website: "https://alleskreta.de/"
+street: Tannenbergstraße
+housenumber: "57"
+phone: +49 157 8182 7881
+opening_hours: Mo-Fr 11:00-19:00; Sa 12:00-19:00
+website: https://alleskreta.de/

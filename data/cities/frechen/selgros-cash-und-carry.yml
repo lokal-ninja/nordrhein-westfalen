@@ -1,11 +1,11 @@
 id: 35285033
-type: way
+type: node
 latitude: 50.92407
 longitude: 6.83722
 postcode: "50226"
 city: Frechen
-street: "Europaallee"
-housenumber: 35
+street: Europaallee
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.selgros.de/markt/frechen"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.selgros.de/markt/frechen

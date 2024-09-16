@@ -1,11 +1,11 @@
 id: 251395790
-type: way
+type: node
 latitude: 51.95823
 longitude: 9.24512
 postcode: "32676"
 city: Lügde
-street: "Brückenstraße"
-housenumber: 6
+street: Brückenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 28492292
-type: way
+type: node
 latitude: 51.54654
 longitude: 7.47384
 postcode: "44339"
 city: Dortmund
-street: "Osterfeldstraße"
-housenumber: 45
-phone: "+49 231 9880551"
+street: Osterfeldstraße
+housenumber: "45"
+phone: +49 231 9880551
 opening_hours: ""
-website: "https://www.wuetec.de/"
+website: https://www.wuetec.de/

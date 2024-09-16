@@ -4,8 +4,8 @@ latitude: 51.16033
 longitude: 7.0012
 postcode: "42697"
 city: Solingen
-street: "Keldersstraße"
-housenumber: 11
-phone: "+49 212 22581660"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://unverpackt-solingen.de"
+street: Keldersstraße
+housenumber: "11"
+phone: +49 212 22581660
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://unverpackt-solingen.de

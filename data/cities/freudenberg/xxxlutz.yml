@@ -1,11 +1,11 @@
 id: 71356196
-type: way
+type: node
 latitude: 50.91041
 longitude: 7.90928
 postcode: "57258"
 city: Freudenberg
-street: "Kreuztaler Straße"
-housenumber: 2
+street: Kreuztaler Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

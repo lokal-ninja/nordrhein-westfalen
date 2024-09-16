@@ -1,11 +1,11 @@
 id: 151868286
-type: way
+type: node
 latitude: 51.60884
 longitude: 7.50889
 postcode: "44532"
 city: Lünen
-street: "Viktoriastraße"
-housenumber: 63
+street: Viktoriastraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.68843
 longitude: 7.14701
 postcode: "53173"
 city: Bonn
-street: "Friesdorfer Straße"
-housenumber: 93
+street: Friesdorfer Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Tu-Th 07:30-13:00,14:30-18:00; Fr 07:30-18:00; Sa 07:30-13:00"
-website: "http://www.metzgerei-voigt.de/"
+opening_hours: Tu-Th 07:30-13:00,14:30-18:00; Fr 07:30-18:00; Sa 07:30-13:00
+website: http://www.metzgerei-voigt.de/

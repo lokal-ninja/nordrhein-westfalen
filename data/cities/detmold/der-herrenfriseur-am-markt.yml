@@ -4,8 +4,8 @@ latitude: 51.9347
 longitude: 8.87965
 postcode: "32756"
 city: Detmold
-street: "Schülerstraße"
-housenumber: 1
+street: Schülerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"
+opening_hours: Tu,Th,Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00
 website: ""

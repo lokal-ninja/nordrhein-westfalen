@@ -4,8 +4,8 @@ latitude: 51.50351
 longitude: 7.51244
 postcode: "44141"
 city: Dortmund
-street: "Westfalendamm"
-housenumber: 285
-phone: "+49 231 94144324"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.superbiomarkt.de/dortmund-gartenstadt/"
+street: Westfalendamm
+housenumber: "285"
+phone: +49 231 94144324
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.superbiomarkt.de/dortmund-gartenstadt/

@@ -1,11 +1,11 @@
 id: 53436147
-type: way
+type: node
 latitude: 51.53345
 longitude: 7.60864
 postcode: "44319"
 city: Dortmund
-street: "Eichwaldstraße"
-housenumber: 9
-phone: "+49 231 5339691"
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+street: Eichwaldstraße
+housenumber: "9"
+phone: +49 231 5339691
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

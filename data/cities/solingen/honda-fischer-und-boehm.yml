@@ -4,8 +4,8 @@ latitude: 51.15191
 longitude: 7.01851
 postcode: "42699"
 city: Solingen
-street: "Uhlandstraße"
-housenumber: 2
-phone: "+49 212 62058"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-14:00; Su 11:00-17:00 (nur Ausstellung)"
-website: "https://www.honda-motorrad-solingen.de/de/home"
+street: Uhlandstraße
+housenumber: "2"
+phone: +49 212 62058
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-14:00; Su 11:00-17:00 "(nur Ausstellung)"
+website: https://www.honda-motorrad-solingen.de/de/home

@@ -1,11 +1,11 @@
 id: 120512262
-type: way
+type: node
 latitude: 51.11726
 longitude: 7.41365
 postcode: "51688"
 city: Wipperfürth
-street: "Am Stauweiher"
-housenumber: 19
-phone: "+49 2267 880604"
+street: Am Stauweiher
+housenumber: "19"
+phone: +49 2267 880604
 opening_hours: ""
-website: "https://hungenberg-automobile.de/"
+website: https://hungenberg-automobile.de/

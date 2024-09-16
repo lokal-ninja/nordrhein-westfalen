@@ -4,8 +4,8 @@ latitude: 51.48605
 longitude: 7.48188
 postcode: "44263"
 city: Dortmund
-street: "Konrad-Adenauer-Allee"
-housenumber: 10
+street: Konrad-Adenauer-Allee
+housenumber: "10"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.michaelarndt-systemintegration.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.michaelarndt-systemintegration.de/

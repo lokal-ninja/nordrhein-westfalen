@@ -4,8 +4,8 @@ latitude: 51.77944
 longitude: 8.8218
 postcode: "33175"
 city: Bad Lippspringe
-street: "Martinstraße"
-housenumber: 32
+street: Martinstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00"
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00
 website: ""

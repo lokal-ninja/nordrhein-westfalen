@@ -1,11 +1,11 @@
 id: 30842380
-type: way
+type: node
 latitude: 50.81448
 longitude: 6.26416
 postcode: "52249"
 city: Eschweiler
-street: "Talstraße"
-housenumber: 57
+street: Talstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.centershop.de/index.php/startseite.html"
+website: https://www.centershop.de/index.php/startseite.html

@@ -1,11 +1,11 @@
 id: 113550232
-type: way
+type: node
 latitude: 51.52
 longitude: 6.31616
 postcode: "47608"
 city: Geldern
-street: "Harttor"
-housenumber: 25
+street: Harttor
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 338159447
-type: way
+type: node
 latitude: 51.76096
 longitude: 8.05382
 postcode: "59269"
 city: Beckum
-street: "Zementstraße"
-housenumber: 100
+street: Zementstraße
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota-grabenmeier-beckum.de/"
+website: https://www.toyota-grabenmeier-beckum.de/

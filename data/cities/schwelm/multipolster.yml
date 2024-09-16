@@ -4,8 +4,8 @@ latitude: 51.29289
 longitude: 7.28563
 postcode: "58332"
 city: Schwelm
-street: "Talstraße"
-housenumber: 16
+street: Talstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.multipolster.de/filialen/nordrhein-westfalen/wuppertal-schwelm"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.multipolster.de/filialen/nordrhein-westfalen/wuppertal-schwelm

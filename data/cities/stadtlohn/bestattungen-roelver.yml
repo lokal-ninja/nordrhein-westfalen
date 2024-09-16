@@ -1,11 +1,11 @@
 id: 121796319
-type: way
+type: node
 latitude: 51.99164
 longitude: 6.92125
 postcode: "48703"
 city: Stadtlohn
-street: "Brakstraße"
-housenumber: 1
+street: Brakstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

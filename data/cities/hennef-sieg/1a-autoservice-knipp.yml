@@ -1,11 +1,11 @@
 id: 125831250
-type: way
+type: node
 latitude: 50.77938
 longitude: 7.25813
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Meysstraße"
-housenumber: 8
-phone: "+49 2242 2412"
+street: Meysstraße
+housenumber: "8"
+phone: +49 2242 2412
 opening_hours: ""
-website: "https://knipp.go1a.de/"
+website: https://knipp.go1a.de/

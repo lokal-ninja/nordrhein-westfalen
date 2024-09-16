@@ -1,11 +1,11 @@
 id: 250805950
-type: way
+type: node
 latitude: 51.9883
 longitude: 8.99321
 postcode: ""
 city: Blomberg
 street: ""
-housenumber: 
-phone: "+49 5236 535"
+housenumber: ""
+phone: +49 5236 535
 opening_hours: ""
-website: "http://www.kuhlmann-blomberg.de/"
+website: http://www.kuhlmann-blomberg.de/

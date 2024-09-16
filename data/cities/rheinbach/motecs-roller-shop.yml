@@ -1,11 +1,11 @@
 id: 139860811
-type: way
+type: node
 latitude: 50.62813
 longitude: 6.9632
 postcode: "53359"
 city: Rheinbach
-street: "Römerkanal"
-housenumber: 72
-phone: "+49 2226 10057"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00"
-website: "https://www.motecs.de/"
+street: Römerkanal
+housenumber: "72"
+phone: +49 2226 10057
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00
+website: https://www.motecs.de/

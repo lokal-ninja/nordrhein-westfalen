@@ -1,11 +1,11 @@
 id: 108329116
-type: way
+type: node
 latitude: 52.01065
 longitude: 8.56067
 postcode: "33604"
 city: Bielefeld
-street: "Otto-Brenner-Straße"
-housenumber: 170
+street: Otto-Brenner-Straße
+housenumber: "170"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Su,Mo,PH off; Sa 10:00-18:00"
-website: "https://www.rs-moebel.de/"
+opening_hours: Tu-Fr 10:00-19:00; Su,Mo,PH off; Sa 10:00-18:00
+website: https://www.rs-moebel.de/

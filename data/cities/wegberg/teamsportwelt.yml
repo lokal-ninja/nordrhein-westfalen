@@ -4,8 +4,8 @@ latitude: 51.1388
 longitude: 6.28288
 postcode: "41844"
 city: Wegberg
-street: "Beecker Straße"
-housenumber: 62
-phone: "+49 2434 800579"
-opening_hours: "Mo-Fr 10:00-15:00; Sa 10:00-13:00; Su,PH off"
+street: Beecker Straße
+housenumber: "62"
+phone: +49 2434 800579
+opening_hours: Mo-Fr 10:00-15:00; Sa 10:00-13:00; Su,PH off
 website: ""

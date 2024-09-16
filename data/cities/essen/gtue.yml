@@ -1,11 +1,11 @@
 id: 77339988
-type: way
+type: node
 latitude: 51.47876
 longitude: 6.98956
 postcode: "45326"
 city: Essen
-street: "Hövelstraße"
-housenumber: 185
+street: Hövelstraße
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

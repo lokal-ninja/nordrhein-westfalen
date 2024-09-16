@@ -4,8 +4,9 @@ latitude: 51.59238
 longitude: 7.21158
 postcode: "45659"
 city: Recklinghausen
-street: "Heidestraße"
+street: Heidestraße
 housenumber: 6A
-phone: "+49 2361 996999"
-opening_hours: "Mo-We, Fr 07:30-13:00, 15:00-18:00; Th 7:30-13:00; Sa 06:00-13:00; Su, PH off"
-website: "https://www.fleischerei-baecker.de/"
+phone: +49 2361 996999
+opening_hours: Mo-We, Fr 07:30-13:00, 15:00-18:00; Th 7:30-13:00; Sa 06:00-13:00;
+    Su, PH off
+website: https://www.fleischerei-baecker.de/

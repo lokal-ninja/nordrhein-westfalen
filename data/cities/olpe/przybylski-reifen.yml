@@ -1,11 +1,11 @@
 id: 252744619
-type: way
+type: node
 latitude: 51.02331
 longitude: 7.84247
 postcode: "57462"
 city: Olpe
-street: "In der Trift"
-housenumber: 8
+street: In der Trift
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

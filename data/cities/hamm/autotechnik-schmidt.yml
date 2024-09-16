@@ -1,11 +1,11 @@
 id: 133470489
-type: way
+type: node
 latitude: 51.68811
 longitude: 7.78287
 postcode: "59065"
 city: Hamm
-street: "Bockumer Weg"
-housenumber: 235
-phone: "+49 2381 9877417"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.autotechnik-schmidt.de"
+street: Bockumer Weg
+housenumber: "235"
+phone: +49 2381 9877417
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.autotechnik-schmidt.de

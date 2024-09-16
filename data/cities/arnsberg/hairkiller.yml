@@ -4,8 +4,8 @@ latitude: 51.45288
 longitude: 7.96252
 postcode: "59755"
 city: Arnsberg
-street: "Neheimer Markt"
-housenumber: 15
-phone: "+49 2932 9318303"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.hairkiller.com"
+street: Neheimer Markt
+housenumber: "15"
+phone: +49 2932 9318303
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.hairkiller.com

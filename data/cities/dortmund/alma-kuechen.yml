@@ -1,11 +1,11 @@
 id: 53275874
-type: way
+type: node
 latitude: 51.50614
 longitude: 7.40757
 postcode: "44149"
 city: Dortmund
-street: "Kortental"
-housenumber: 71
+street: Kortental
+housenumber: "71"
 phone: "+49231171931"
 opening_hours: ""
-website: "https://www.alma-kuechen.de/kuechenstudios/dortmund"
+website: https://www.alma-kuechen.de/kuechenstudios/dortmund

@@ -1,11 +1,11 @@
 id: 261059888
-type: way
+type: node
 latitude: 51.45112
 longitude: 7.19145
 postcode: "44795"
 city: Bochum
-street: "Hattinger Straße"
+street: Hattinger Straße
 housenumber: 338a
-phone: "+49 234 9430290"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe-feiertag.de/"
+phone: +49 234 9430290
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe-feiertag.de/

@@ -4,8 +4,9 @@ latitude: 51.10087
 longitude: 6.19582
 postcode: "41849"
 city: Wassenberg
-street: "St.-Johannes-Straße"
-housenumber: 91
-phone: "+49 2432 80624"
-opening_hours: "Tu-Fr 09:00-13:00; Tu,We,Fr 15:00-18:00; Sa 09:00-14:00; Su-Mo, PH off"
-website: "https://www.hofladen-clahsen.de/"
+street: St.-Johannes-Straße
+housenumber: "91"
+phone: +49 2432 80624
+opening_hours: Tu-Fr 09:00-13:00; Tu,We,Fr 15:00-18:00; Sa 09:00-14:00; Su-Mo, PH
+    off
+website: https://www.hofladen-clahsen.de/

@@ -4,8 +4,8 @@ latitude: 51.47724
 longitude: 7.30215
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 211
-phone: "+49 234 3882429"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-16:00"
-website: "https://www.schmidtmeier.de"
+street: Alte Bahnhofstraße
+housenumber: "211"
+phone: +49 234 3882429
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-16:00
+website: https://www.schmidtmeier.de

@@ -4,8 +4,8 @@ latitude: 51.71558
 longitude: 8.75176
 postcode: "33098"
 city: Paderborn
-street: "Rosenstraße"
-housenumber: 16
+street: Rosenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 12:00-16:00"
-website: "https://www.ewigvintage.de/"
+opening_hours: Tu-Fr 12:00-18:00; Sa 12:00-16:00
+website: https://www.ewigvintage.de/

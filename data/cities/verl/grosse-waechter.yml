@@ -4,8 +4,9 @@ latitude: 51.90747
 longitude: 8.5508
 postcode: "33415"
 city: Verl
-street: "Eckardtsheimer Straße"
-housenumber: 27
+street: Eckardtsheimer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo 09:00-12:00; Th 09:00-12:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off; Apr-Jul 08:00-19:00"
-website: "http://www.spargelhof-grossewaechter.de/"
+opening_hours: Mo 09:00-12:00; Th 09:00-12:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00;
+    Su,PH off; Apr-Jul 08:00-19:00
+website: http://www.spargelhof-grossewaechter.de/

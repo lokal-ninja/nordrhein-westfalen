@@ -1,11 +1,11 @@
 id: 322466467
-type: way
+type: node
 latitude: 51.53831
 longitude: 7.02226
 postcode: "45899"
 city: Gelsenkirchen
-street: "Essener Straße"
-housenumber: 17
+street: Essener Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 537836699
-type: way
+type: node
 latitude: 51.5553
 longitude: 7.29192
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Am Landwehrbach"
-housenumber: 5
+street: Am Landwehrbach
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

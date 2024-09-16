@@ -4,8 +4,8 @@ latitude: 51.84334
 longitude: 7.83145
 postcode: "48324"
 city: Sendenhorst
-street: "Oststraße"
-housenumber: 28
+street: Oststraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://radhausmerker.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://radhausmerker.de/

@@ -4,8 +4,8 @@ latitude: 51.46946
 longitude: 7.24414
 postcode: "44803"
 city: Bochum
-street: "Wasserstraße"
-housenumber: 28
+street: Wasserstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 51.23056
 longitude: 6.74559
 postcode: "40545"
 city: Düsseldorf
-street: "Belsenstraße"
-housenumber: 16
-phone: "+49 211 574460"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Belsenstraße
+housenumber: "16"
+phone: +49 211 574460
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

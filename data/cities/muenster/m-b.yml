@@ -1,11 +1,11 @@
 id: 162223946
-type: way
+type: node
 latitude: 52.00038
 longitude: 7.55276
 postcode: "48161"
 city: Münster
-street: "Sessendrupweg"
+street: Sessendrupweg
 housenumber: 44-46
 phone: ""
 opening_hours: ""
-website: "https://www.m-und-b.de/"
+website: https://www.m-und-b.de/

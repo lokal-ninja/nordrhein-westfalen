@@ -1,11 +1,11 @@
 id: 35544876
-type: way
+type: node
 latitude: 52.18004
 longitude: 8.79886
 postcode: "32545"
 city: Bad Oeynhausen
-street: "Loher Straße"
-housenumber: 9
+street: Loher Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

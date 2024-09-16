@@ -4,8 +4,8 @@ latitude: 51.25099
 longitude: 6.97788
 postcode: "40822"
 city: Mettmann
-street: "Mühlenstraße"
-housenumber: 9
+street: Mühlenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.tui-reisecenter.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.tui-reisecenter.de/

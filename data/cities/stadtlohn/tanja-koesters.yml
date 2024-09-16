@@ -1,11 +1,11 @@
 id: 260690319
-type: way
+type: node
 latitude: 51.99264
 longitude: 6.917
 postcode: "48703"
 city: Stadtlohn
-street: "Markt"
-housenumber: 5
+street: Markt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

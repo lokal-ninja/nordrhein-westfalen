@@ -4,8 +4,8 @@ latitude: 50.76233
 longitude: 6.09609
 postcode: "52066"
 city: Aachen
-street: "Viehhofstraße"
-housenumber: 43
-phone: "+49 241 94637810"
-opening_hours: "Mo,Tu,Th 08:00-13:30,14:30-18:00; We,Fr 08:00-14:00"
+street: Viehhofstraße
+housenumber: "43"
+phone: +49 241 94637810
+opening_hours: Mo,Tu,Th 08:00-13:30,14:30-18:00; We,Fr 08:00-14:00
 website: ""

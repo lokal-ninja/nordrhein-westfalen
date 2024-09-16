@@ -4,8 +4,8 @@ latitude: 50.73569
 longitude: 7.10009
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 27
+street: Sternstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:30, Sa 10:30-19:30"
-website: "https://cinnamood.de/"
+opening_hours: Mo-Fr 09:30-20:30, Sa 10:30-19:30
+website: https://cinnamood.de/

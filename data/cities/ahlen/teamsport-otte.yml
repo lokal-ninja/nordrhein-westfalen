@@ -1,11 +1,11 @@
 id: 272056697
-type: way
+type: node
 latitude: 51.76496
 longitude: 7.88826
 postcode: "59227"
 city: Ahlen
-street: "Kampstraße"
-housenumber: 20
+street: Kampstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:30; Sa 10:00-12:00"
+opening_hours: Mo-Fr 10:00-16:30; Sa 10:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 129319479
-type: way
+type: node
 latitude: 50.77216
 longitude: 7.6541
 postcode: "51570"
 city: Windeck
-street: "Hammer Straße"
-housenumber: 6
+street: Hammer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

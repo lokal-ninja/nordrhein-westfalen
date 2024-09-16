@@ -1,11 +1,11 @@
 id: 94427891
-type: way
+type: node
 latitude: 51.38999
 longitude: 7.17404
 postcode: "45525"
 city: Hattingen
-street: "Nierenhofer Straße"
-housenumber: 37
+street: Nierenhofer Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00-24:00"
+opening_hours: Mo-Su,PH 00:00-24:00
 website: ""

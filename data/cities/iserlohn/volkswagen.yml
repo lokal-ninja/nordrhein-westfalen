@@ -1,11 +1,11 @@
 id: 304943449
-type: way
+type: node
 latitude: 51.38269
 longitude: 7.71509
 postcode: "58636"
 city: Iserlohn
-street: "Seeuferstraße"
-housenumber: 7
+street: Seeuferstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

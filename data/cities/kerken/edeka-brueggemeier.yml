@@ -4,8 +4,8 @@ latitude: 51.45676
 longitude: 6.37938
 postcode: "47647"
 city: Kerken
-street: "Otto-Hahn-Straße"
-housenumber: 9
-phone: "+49 2833 3301"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "http://www.edeka-brüggemeier.de/"
+street: Otto-Hahn-Straße
+housenumber: "9"
+phone: +49 2833 3301
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: http://www.edeka-brüggemeier.de/

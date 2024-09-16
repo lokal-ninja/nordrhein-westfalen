@@ -1,11 +1,11 @@
 id: 204810458
-type: way
+type: node
 latitude: 50.76328
 longitude: 6.28545
 postcode: "52224"
 city: Stolberg (Rhld.)
-street: "Gressenicher Straße"
-housenumber: 111
+street: Gressenicher Straße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

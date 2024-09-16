@@ -4,8 +4,8 @@ latitude: 51.20788
 longitude: 6.78298
 postcode: "40223"
 city: Düsseldorf
-street: "Erasmusstraße"
-housenumber: 14
-phone: "+49 211 74956956"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
+street: Erasmusstraße
+housenumber: "14"
+phone: +49 211 74956956
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

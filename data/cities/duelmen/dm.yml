@@ -4,8 +4,8 @@ latitude: 51.8255
 longitude: 7.27095
 postcode: "48249"
 city: Dülmen
-street: "Hüttenweg"
-housenumber: 7
+street: Hüttenweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-546/duelmen/huettenweg-7"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-546/duelmen/huettenweg-7

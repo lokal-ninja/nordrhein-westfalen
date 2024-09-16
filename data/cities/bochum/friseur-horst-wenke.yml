@@ -4,8 +4,8 @@ latitude: 51.46923
 longitude: 7.27637
 postcode: "44803"
 city: Bochum
-street: "Laerfeldstraße"
-housenumber: 12
-phone: "+49 234 354539"
-opening_hours: "Nur mit Terminvereinbarung"
+street: Laerfeldstraße
+housenumber: "12"
+phone: +49 234 354539
+opening_hours: '"Nur mit Terminvereinbarung"'
 website: ""

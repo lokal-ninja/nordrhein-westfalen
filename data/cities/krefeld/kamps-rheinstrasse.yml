@@ -4,8 +4,8 @@ latitude: 51.33332
 longitude: 6.56457
 postcode: "47798"
 city: Krefeld
-street: "Rheinstraße"
-housenumber: 92
+street: Rheinstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-18:00; Su 08:00-12:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-18:00; Su 08:00-12:00
 website: ""

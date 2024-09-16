@@ -1,11 +1,11 @@
 id: 381965233
-type: way
+type: node
 latitude: 51.666
 longitude: 7.7704
 postcode: "59067"
 city: Hamm
-street: "Kissinger Weg"
-housenumber: 1
-phone: "+49 2381 441453"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-14:00"
-website: "https://www.moebel-wachter.de/"
+street: Kissinger Weg
+housenumber: "1"
+phone: +49 2381 441453
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-14:00
+website: https://www.moebel-wachter.de/

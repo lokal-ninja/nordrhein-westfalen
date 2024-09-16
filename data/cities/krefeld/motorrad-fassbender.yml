@@ -1,11 +1,11 @@
 id: 138755466
-type: way
+type: node
 latitude: 51.32382
 longitude: 6.60265
 postcode: "47809"
 city: Krefeld
-street: "Hafelsstraße"
-housenumber: 246
-phone: "+49 2151 159870"
+street: Hafelsstraße
+housenumber: "246"
+phone: +49 2151 159870
 opening_hours: ""
 website: ""

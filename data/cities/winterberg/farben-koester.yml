@@ -4,8 +4,8 @@ latitude: 51.24688
 longitude: 8.48211
 postcode: "59955"
 city: Winterberg
-street: "Hochsauerlandstraße"
-housenumber: 78
-phone: "+49 2983 348"
-opening_hours: "Mo-Sa 08:00-12:30; Mo-Fr 14:00-18:00"
-website: "http://www.farbenköster.de/"
+street: Hochsauerlandstraße
+housenumber: "78"
+phone: +49 2983 348
+opening_hours: Mo-Sa 08:00-12:30; Mo-Fr 14:00-18:00
+website: http://www.farbenköster.de/

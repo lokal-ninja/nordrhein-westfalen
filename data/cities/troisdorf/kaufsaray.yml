@@ -1,11 +1,11 @@
 id: 82436747
-type: way
+type: node
 latitude: 50.80305
 longitude: 7.15888
 postcode: "53840"
 city: Troisdorf
-street: "Mendener Straße"
-housenumber: 54
+street: Mendener Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.25013
 longitude: 7.12941
 postcode: "42117"
 city: Wuppertal
-street: "Friedrich-Ebert-Straße"
-housenumber: 131
+street: Friedrich-Ebert-Straße
+housenumber: "131"
 phone: "+4920242997490"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"
-website: "https://www.veloland-wuppertal.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:00
+website: https://www.veloland-wuppertal.de

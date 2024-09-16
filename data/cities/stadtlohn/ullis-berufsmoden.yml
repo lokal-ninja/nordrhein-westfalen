@@ -1,11 +1,11 @@
 id: 122926135
-type: way
+type: node
 latitude: 51.98893
 longitude: 6.92336
 postcode: "48703"
 city: Stadtlohn
-street: "Kreuzstraße"
-housenumber: 31
+street: Kreuzstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

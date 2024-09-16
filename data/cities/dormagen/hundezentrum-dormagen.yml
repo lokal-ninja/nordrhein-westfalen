@@ -4,8 +4,8 @@ latitude: 51.12947
 longitude: 6.78548
 postcode: "41542"
 city: Dormagen
-street: "Hüttenstraße"
-housenumber: 12
+street: Hüttenstraße
+housenumber: "12"
 phone: "+49213372962"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-19:00"
-website: "https://www.my-hzd.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-19:00
+website: https://www.my-hzd.de/

@@ -4,8 +4,8 @@ latitude: 51.49816
 longitude: 7.49817
 postcode: "44263"
 city: Dortmund
-street: "Rathenaustraße"
-housenumber: 25
+street: Rathenaustraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:30-12:00"
-website: "https://baeckerei-grobe.de/"
+opening_hours: Mo-Sa 07:00-19:00; Su 07:30-12:00
+website: https://baeckerei-grobe.de/

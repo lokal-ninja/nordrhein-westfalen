@@ -1,11 +1,11 @@
 id: 23010059
-type: way
+type: node
 latitude: 51.81028
 longitude: 8.84522
 postcode: "33189"
 city: Schlangen
-street: "Kohlstädter Straße"
-housenumber: 6
+street: Kohlstädter Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00"
+opening_hours: Mo-Sa 7:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.87634
 longitude: 6.95837
 postcode: "50997"
 city: Köln
-street: "Rodenkirchener Straße"
-housenumber: 150
-phone: "+49 2233 9856505"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://kleinsbackstube.de/"
+street: Rodenkirchener Straße
+housenumber: "150"
+phone: +49 2233 9856505
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00
+website: https://kleinsbackstube.de/

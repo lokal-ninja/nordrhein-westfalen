@@ -4,8 +4,8 @@ latitude: 51.1866
 longitude: 6.81955
 postcode: "40591"
 city: Düsseldorf
-street: "Kölner Landstraße"
-housenumber: 208
-phone: "+49 211 15816345"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Kölner Landstraße
+housenumber: "208"
+phone: +49 211 15816345
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

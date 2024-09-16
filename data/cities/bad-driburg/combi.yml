@@ -1,11 +1,11 @@
 id: 206336028
-type: way
+type: node
 latitude: 51.72585
 longitude: 9.01833
 postcode: "33014"
 city: Bad Driburg
-street: "Erich-Klausener-Straße"
-housenumber: 1
+street: Erich-Klausener-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

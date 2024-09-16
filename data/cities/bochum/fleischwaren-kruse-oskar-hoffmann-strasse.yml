@@ -4,8 +4,9 @@ latitude: 51.47311
 longitude: 7.21774
 postcode: "44789"
 city: Bochum
-street: "Oskar-Hoffmann-Straße"
-housenumber: 32
-phone: "+49 234 311235"
-opening_hours: "Mo 08:00-14:00; Tu,Th-Fr 07:00-18:00; We 07:00-14:00; Sa 07:00-13:00; PH off"
-website: "https://www.fleischwaren-kruse.de/"
+street: Oskar-Hoffmann-Straße
+housenumber: "32"
+phone: +49 234 311235
+opening_hours: Mo 08:00-14:00; Tu,Th-Fr 07:00-18:00; We 07:00-14:00; Sa 07:00-13:00;
+    PH off
+website: https://www.fleischwaren-kruse.de/

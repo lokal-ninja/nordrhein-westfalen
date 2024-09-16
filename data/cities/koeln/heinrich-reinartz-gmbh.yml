@@ -4,8 +4,8 @@ latitude: 50.94524
 longitude: 6.92011
 postcode: "50823"
 city: Köln
-street: "Thebäerstraße"
-housenumber: 64
+street: Thebäerstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://www.kfz-reinartz.de/"
+opening_hours: Mo-Fr 07:30-17:00
+website: http://www.kfz-reinartz.de/

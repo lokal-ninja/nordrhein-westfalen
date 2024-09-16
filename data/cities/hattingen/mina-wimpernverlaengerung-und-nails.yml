@@ -4,8 +4,8 @@ latitude: 51.40043
 longitude: 7.18636
 postcode: "45525"
 city: Hattingen
-street: "Heggerstraße"
-housenumber: 39
-phone: "+49 2324 921 64 67"
-opening_hours: "Mo-Sa 09:30-18:00; Su,PH off"
+street: Heggerstraße
+housenumber: "39"
+phone: +49 2324 921 64 67
+opening_hours: Mo-Sa 09:30-18:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 252051418
-type: way
+type: node
 latitude: 50.92563
 longitude: 6.83262
 postcode: "50226"
 city: Frechen
-street: "Europaallee"
-housenumber: 54
+street: Europaallee
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

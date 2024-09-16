@@ -1,11 +1,11 @@
 id: 343461327
-type: way
+type: node
 latitude: 51.81077
 longitude: 8.67242
 postcode: "33161"
 city: Hövelhof
-street: "Erlenweg"
-housenumber: 15
+street: Erlenweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

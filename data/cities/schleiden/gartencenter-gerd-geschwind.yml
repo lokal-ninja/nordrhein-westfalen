@@ -1,11 +1,12 @@
 id: 329656459
-type: way
+type: node
 latitude: 50.52044
 longitude: 6.46625
 postcode: "53937"
 city: Schleiden
-street: "An der Olef"
-housenumber: 64
+street: An der Olef
+housenumber: "64"
 phone: ""
-opening_hours: "Nov-Mar Mo,Tu,Th,Fr 09:00-18:00; Nov-Mar Sa 09:00-16:00; Apr-Oct Mo-Fr 09:00-18:00; Apr-Oct Sa 09:00-16:00"
-website: "https://blumenzentrum.com/"
+opening_hours: Nov-Mar Mo,Tu,Th,Fr 09:00-18:00; Nov-Mar Sa 09:00-16:00; Apr-Oct Mo-Fr
+    09:00-18:00; Apr-Oct Sa 09:00-16:00
+website: https://blumenzentrum.com/

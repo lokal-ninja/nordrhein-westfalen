@@ -1,11 +1,11 @@
 id: 278773486
-type: way
+type: node
 latitude: 51.7917
 longitude: 8.50778
 postcode: "33129"
 city: Delbrück
-street: "Am Sporckhof"
-housenumber: 57
+street: Am Sporckhof
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

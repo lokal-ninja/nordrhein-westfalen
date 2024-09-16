@@ -1,11 +1,11 @@
 id: 145484112
-type: way
+type: node
 latitude: 51.85663
 longitude: 8.28551
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Bahnhofsplatz"
-housenumber: 20
-phone: "+49 5242 406984"
-opening_hours: "Mo-Tu,Th-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00"
-website: "http://www.kosmetikstudio-visage-rheda.de/"
+street: Bahnhofsplatz
+housenumber: "20"
+phone: +49 5242 406984
+opening_hours: Mo-Tu,Th-Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00
+website: http://www.kosmetikstudio-visage-rheda.de/

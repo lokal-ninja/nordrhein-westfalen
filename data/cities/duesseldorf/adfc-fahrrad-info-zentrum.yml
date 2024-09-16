@@ -4,8 +4,8 @@ latitude: 51.21428
 longitude: 6.7955
 postcode: "40227"
 city: Düsseldorf
-street: "Siemensstraße"
-housenumber: 46
-phone: "+49-211-992255"
-opening_hours: "Tu,Th 17:30-19:00"
-website: "https://www.duesseldorf.adfc.de/"
+street: Siemensstraße
+housenumber: "46"
+phone: +49-211-992255
+opening_hours: Tu,Th 17:30-19:00
+website: https://www.duesseldorf.adfc.de/

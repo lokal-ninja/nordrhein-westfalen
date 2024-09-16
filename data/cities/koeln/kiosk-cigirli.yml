@@ -1,11 +1,11 @@
 id: 166002378
-type: way
+type: node
 latitude: 50.97299
 longitude: 7.01214
 postcode: "51063"
 city: Köln
-street: "Berliner Straße"
-housenumber: 104
+street: Berliner Straße
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

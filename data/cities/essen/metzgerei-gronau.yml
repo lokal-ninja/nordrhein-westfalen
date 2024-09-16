@@ -4,8 +4,8 @@ latitude: 51.44977
 longitude: 6.97274
 postcode: "45144"
 city: Essen
-street: "Gervinusstraße"
-housenumber: 2
+street: Gervinusstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:30, Fr 08:00-18:30, Sa 07:30-13:00"
-website: "https://www.metzger-gronau.de/"
+opening_hours: Mo-Th 08:30-18:30, Fr 08:00-18:30, Sa 07:30-13:00
+website: https://www.metzger-gronau.de/

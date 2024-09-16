@@ -1,11 +1,11 @@
 id: 291353155
-type: way
+type: node
 latitude: 50.65571
 longitude: 6.79933
 postcode: "53879"
 city: Euskirchen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 6
+street: Gottlieb-Daimler-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

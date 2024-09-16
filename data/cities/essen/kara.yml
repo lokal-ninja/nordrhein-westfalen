@@ -4,8 +4,8 @@ latitude: 51.43814
 longitude: 6.982
 postcode: "45147"
 city: Essen
-street: "Kaulbachstraße"
-housenumber: 64
+street: Kaulbachstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00; Sa 06:00-12:00; PH,Su 08:00-12:00"
+opening_hours: Mo-Fr 06:00-12:00; Sa 06:00-12:00; PH,Su 08:00-12:00
 website: ""

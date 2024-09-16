@@ -4,8 +4,8 @@ latitude: 50.73665
 longitude: 7.09722
 postcode: "53111"
 city: Bonn
-street: "Sterntorbrücke"
-housenumber: 3
+street: Sterntorbrücke
+housenumber: "3"
 phone: "+49228604360"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; Sa 10:00-14:00; We 09:00-14:00"
-website: "https://www.sanitaetshaus-hohn.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:30; Sa 10:00-14:00; We 09:00-14:00
+website: https://www.sanitaetshaus-hohn.de/

@@ -1,11 +1,11 @@
 id: 164946903
-type: way
+type: node
 latitude: 51.73446
 longitude: 8.17251
 postcode: "59329"
 city: Wadersloh
-street: "Lange Straße"
-housenumber: 58
+street: Lange Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

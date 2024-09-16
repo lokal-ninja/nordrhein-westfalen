@@ -4,8 +4,9 @@ latitude: 51.66397
 longitude: 9.37295
 postcode: "37688"
 city: Beverungen
-street: "Lange Straße"
+street: Lange Straße
 housenumber: 21-23
 phone: ""
-opening_hours: "Mo,Tu,Fr 10:00-13:00, We,Th 10:00-13:00, Sa 10:00-13:00; Su,PH off, Mo,Tu,Fr 15:00-17:00"
-website: "https://www.weser-gebrauchtmoebel.de/"
+opening_hours: Mo,Tu,Fr 10:00-13:00, We,Th 10:00-13:00, Sa 10:00-13:00; Su,PH off,
+    Mo,Tu,Fr 15:00-17:00
+website: https://www.weser-gebrauchtmoebel.de/

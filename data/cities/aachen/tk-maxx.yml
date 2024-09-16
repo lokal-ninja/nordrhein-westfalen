@@ -1,11 +1,11 @@
 id: 238201163
-type: way
+type: node
 latitude: 50.7747
 longitude: 6.09147
 postcode: "52062"
 city: Aachen
-street: "Adalbertstraße"
-housenumber: 74
-phone: "+49 241 9006820"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.tkmaxx.de/filialen/Aachen"
+street: Adalbertstraße
+housenumber: "74"
+phone: +49 241 9006820
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.tkmaxx.de/filialen/Aachen

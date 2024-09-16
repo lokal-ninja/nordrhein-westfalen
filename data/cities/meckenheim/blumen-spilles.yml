@@ -4,8 +4,8 @@ latitude: 50.62576
 longitude: 7.01793
 postcode: "53340"
 city: Meckenheim
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

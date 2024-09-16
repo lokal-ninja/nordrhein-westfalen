@@ -1,11 +1,11 @@
 id: 191256017
-type: way
+type: node
 latitude: 51.66055
 longitude: 6.96666
 postcode: "46282"
 city: Dorsten
-street: "Recklinghäuser Straße"
-housenumber: 9
+street: Recklinghäuser Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00; PH off"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:00; PH off
 website: ""

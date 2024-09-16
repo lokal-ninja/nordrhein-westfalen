@@ -4,8 +4,8 @@ latitude: 51.43982
 longitude: 7.33788
 postcode: "58452"
 city: Witten
-street: "Johannisstraße"
-housenumber: 11
+street: Johannisstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su-Mo,PH off"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su-Mo,PH off
 website: ""

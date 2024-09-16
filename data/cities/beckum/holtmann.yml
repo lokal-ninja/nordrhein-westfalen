@@ -4,8 +4,8 @@ latitude: 51.75503
 longitude: 8.03703
 postcode: "59269"
 city: Beckum
-street: "Weststraße"
-housenumber: 38
+street: Weststraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00, Sa 09:00-13:30"
-website: "https://www.holtmann-beckum.de/"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00, Sa 09:00-13:30
+website: https://www.holtmann-beckum.de/

@@ -4,8 +4,8 @@ latitude: 50.92894
 longitude: 6.94279
 postcode: "50674"
 city: Köln
-street: "Barbarossaplatz"
-housenumber: 4
+street: Barbarossaplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa,Su,PH 07:00-16:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa,Su,PH 07:00-16:00
 website: ""

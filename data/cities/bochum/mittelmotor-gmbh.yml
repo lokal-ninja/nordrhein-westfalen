@@ -4,8 +4,8 @@ latitude: 51.47249
 longitude: 7.26569
 postcode: "44803"
 city: Bochum
-street: "Werner Hellweg"
-housenumber: 27
-phone: "+49 234 9351414"
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
-website: "https://www.mittelmotor.de/"
+street: Werner Hellweg
+housenumber: "27"
+phone: +49 234 9351414
+opening_hours: Mo-Fr 08:00-18:00; PH off
+website: https://www.mittelmotor.de/

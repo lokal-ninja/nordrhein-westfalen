@@ -1,11 +1,11 @@
 id: 345887543
-type: way
+type: node
 latitude: 52.38854
 longitude: 8.62552
 postcode: "32339"
 city: Espelkamp
-street: "General-Bishop-Straße"
-housenumber: 10
-phone: "+49 5772 979810"
-opening_hours: "Mo-Sa 9:00-20:00"
-website: "https://www.daenischesbettenlager.de/"
+street: General-Bishop-Straße
+housenumber: "10"
+phone: +49 5772 979810
+opening_hours: Mo-Sa 9:00-20:00
+website: https://www.daenischesbettenlager.de/

@@ -4,8 +4,8 @@ latitude: 52.02838
 longitude: 8.90208
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 48
-phone: "+49 5261 188685"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:00-16:00; Su,PH off"
-website: "http://TWISTY.de"
+street: Mittelstraße
+housenumber: "48"
+phone: +49 5261 188685
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:00-16:00; Su,PH off
+website: http://TWISTY.de

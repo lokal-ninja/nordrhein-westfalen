@@ -1,11 +1,11 @@
 id: 317630278
-type: way
+type: node
 latitude: 52.27233
 longitude: 7.9158
 postcode: "49504"
 city: Lotte
-street: "Jahnstraße"
-housenumber: 2
+street: Jahnstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/lotte/jahnstrasse-2.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/lotte/jahnstrasse-2.html

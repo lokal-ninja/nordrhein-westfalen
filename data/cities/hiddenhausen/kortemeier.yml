@@ -1,11 +1,11 @@
 id: 265243402
-type: way
+type: node
 latitude: 52.14428
 longitude: 8.63257
 postcode: "32120"
 city: Hiddenhausen
-street: "Taxusweg"
-housenumber: 3
+street: Taxusweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

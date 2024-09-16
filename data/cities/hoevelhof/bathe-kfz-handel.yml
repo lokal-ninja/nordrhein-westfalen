@@ -1,11 +1,11 @@
 id: 341780247
-type: way
+type: node
 latitude: 51.81307
 longitude: 8.67765
 postcode: "33161"
 city: Hövelhof
-street: "Bentlakestraße"
-housenumber: 33
+street: Bentlakestraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

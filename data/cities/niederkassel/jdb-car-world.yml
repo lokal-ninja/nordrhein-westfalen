@@ -1,11 +1,11 @@
 id: 566139515
-type: way
+type: node
 latitude: 50.81264
 longitude: 7.04852
 postcode: "53859"
 city: Niederkassel
-street: "Heinrich-von-Stephan-Straße"
-housenumber: 3
+street: Heinrich-von-Stephan-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

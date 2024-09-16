@@ -1,11 +1,11 @@
 id: 1268439457
-type: way
+type: node
 latitude: 51.55891
 longitude: 7.36951
 postcode: "44357"
 city: Dortmund
-street: "Strümpenbusch"
+street: Strümpenbusch
 housenumber: 13a
-phone: "+49 231 357070"
+phone: +49 231 357070
 opening_hours: ""
-website: "http://www.auto-babiel.de/"
+website: http://www.auto-babiel.de/

@@ -1,11 +1,11 @@
 id: 250772942
-type: way
+type: node
 latitude: 50.71326
 longitude: 7.06739
 postcode: "53127"
 city: Bonn
-street: "Provinzialstraße"
-housenumber: 75
+street: Provinzialstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00
 website: ""

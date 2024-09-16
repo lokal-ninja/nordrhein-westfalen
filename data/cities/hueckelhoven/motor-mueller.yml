@@ -1,11 +1,11 @@
 id: 208689587
-type: way
+type: node
 latitude: 51.0515
 longitude: 6.21869
 postcode: "41836"
 city: Hückelhoven
-street: "Neckarstraße"
-housenumber: 2
-phone: "+49 2433 41011"
+street: Neckarstraße
+housenumber: "2"
+phone: +49 2433 41011
 opening_hours: ""
-website: "https://www.motor-mueller.de/"
+website: https://www.motor-mueller.de/

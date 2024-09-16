@@ -1,11 +1,11 @@
 id: 276598561
-type: way
+type: node
 latitude: 51.1232
 longitude: 6.59111
 postcode: "41516"
 city: Grevenbroich
-street: "Landstraße"
-housenumber: 15
+street: Landstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:30; Sa 08:00-13:00; PH off"
+opening_hours: Tu-Fr 08:00-18:30; Sa 08:00-13:00; PH off
 website: ""

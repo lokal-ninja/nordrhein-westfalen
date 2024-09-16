@@ -1,11 +1,11 @@
 id: 237769221
-type: way
+type: node
 latitude: 50.70809
 longitude: 7.06423
 postcode: "53127"
 city: Bonn
-street: "Auf dem Kirchbüchel"
-housenumber: 3
+street: Auf dem Kirchbüchel
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

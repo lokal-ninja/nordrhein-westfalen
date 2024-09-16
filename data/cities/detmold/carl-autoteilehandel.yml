@@ -4,8 +4,8 @@ latitude: 51.94197
 longitude: 8.872
 postcode: "32756"
 city: Detmold
-street: "Industriestraße"
-housenumber: 11
+street: Industriestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.autoteile-carl.de/home"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.autoteile-carl.de/home

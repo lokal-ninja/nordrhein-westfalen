@@ -1,11 +1,11 @@
 id: 50666800
-type: way
+type: node
 latitude: 51.8738
 longitude: 6.16168
 postcode: "46446"
 city: Emmerich am Rhein
-street: "Wasserstraße"
-housenumber: 11
-phone: "+49 2828 903505"
-opening_hours: "Tu-Fr 9:00-18:00; Sa 9:00-16:00; Su, Mo off"
+street: Wasserstraße
+housenumber: "11"
+phone: +49 2828 903505
+opening_hours: Tu-Fr 9:00-18:00; Sa 9:00-16:00; Su, Mo off
 website: ""

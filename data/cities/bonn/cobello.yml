@@ -4,8 +4,8 @@ latitude: 50.73531
 longitude: 7.10416
 postcode: "53111"
 city: Bonn
-street: "Rathausgasse"
-housenumber: 20
+street: Rathausgasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.cobello.de/"
+website: https://www.cobello.de/

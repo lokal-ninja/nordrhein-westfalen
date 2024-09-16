@@ -1,11 +1,11 @@
 id: 124228586
-type: way
+type: node
 latitude: 51.99104
 longitude: 6.91613
 postcode: "48703"
 city: Stadtlohn
-street: "Eschstraße"
-housenumber: 21
+street: Eschstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

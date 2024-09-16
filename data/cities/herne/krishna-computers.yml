@@ -4,8 +4,8 @@ latitude: 51.54668
 longitude: 7.26129
 postcode: "44627"
 city: Herne
-street: "Kirchstraße"
-housenumber: 107
-phone: "+49 23231377818"
-opening_hours: "Mo,We,Fr 10:00-13:00,14:00-18:00"
-website: "https://www.krishnacomputers.de"
+street: Kirchstraße
+housenumber: "107"
+phone: +49 23231377818
+opening_hours: Mo,We,Fr 10:00-13:00,14:00-18:00
+website: https://www.krishnacomputers.de

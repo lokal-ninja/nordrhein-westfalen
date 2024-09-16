@@ -4,8 +4,8 @@ latitude: 51.80976
 longitude: 6.1772
 postcode: "47533"
 city: Kleve
-street: "Banndeich"
-housenumber: 8
-phone: "+49 2064 15270"
-opening_hours: "Do: 14-18 Uhr Fr: 10-18 Uhr Sa: 10-14 Uhr"
-website: "https://www.die-am-deich.de/"
+street: Banndeich
+housenumber: "8"
+phone: +49 2064 15270
+opening_hours: 'Do: 14-18 Uhr Fr: 10-18 Uhr Sa: 10-14 Uhr'
+website: https://www.die-am-deich.de/

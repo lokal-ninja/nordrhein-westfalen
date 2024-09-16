@@ -4,8 +4,8 @@ latitude: 50.95664
 longitude: 6.91338
 postcode: "50825"
 city: Köln
-street: "Halmstraße"
-housenumber: 2
+street: Halmstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-24:00, Fr,Sa 08:00-01:00, Su,PH 09:00-24:00"
+opening_hours: Mo-Th 08:00-24:00, Fr,Sa 08:00-01:00, Su,PH 09:00-24:00
 website: ""

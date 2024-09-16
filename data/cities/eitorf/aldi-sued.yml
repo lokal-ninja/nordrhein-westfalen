@@ -1,11 +1,11 @@
 id: 39091501
-type: way
+type: node
 latitude: 50.76695
 longitude: 7.4467
 postcode: "53783"
 city: Eitorf
-street: "Asbacher Straße"
-housenumber: 46
+street: Asbacher Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

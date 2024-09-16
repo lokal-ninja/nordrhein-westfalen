@@ -4,8 +4,8 @@ latitude: 51.6799
 longitude: 9.37961
 postcode: "37688"
 city: Beverungen
-street: "Industriestraße"
-housenumber: 15
-phone: "+49 (0) 5273 3652789"
-opening_hours: "Mo-Sa 08:00-13:00; Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://www.frischemeyer.de/"
+street: Industriestraße
+housenumber: "15"
+phone: +49 (0) 5273 3652789
+opening_hours: Mo-Sa 08:00-13:00; Mo,Tu,Th,Fr 14:30-18:00
+website: https://www.frischemeyer.de/

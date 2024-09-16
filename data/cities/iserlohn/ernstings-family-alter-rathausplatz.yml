@@ -1,11 +1,11 @@
 id: 402130143
-type: way
+type: node
 latitude: 51.3746
 longitude: 7.69683
 postcode: "58636"
 city: Iserlohn
-street: "Alter Rathausplatz"
-housenumber: 6
+street: Alter Rathausplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-17:00
 website: ""

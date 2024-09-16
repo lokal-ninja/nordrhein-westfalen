@@ -4,8 +4,8 @@ latitude: 50.79542
 longitude: 6.44801
 postcode: "52355"
 city: Düren
-street: "Schillingsstraße"
-housenumber: 73
+street: Schillingsstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Tu-We 08:30-13:00,14:30-17:00; Th-Fr 08:30-13:00,14:30-18:00; Sa 07:00-12:30"
-website: "https://www.fleischerei-dueren.de/"
+opening_hours: Tu-We 08:30-13:00,14:30-17:00; Th-Fr 08:30-13:00,14:30-18:00; Sa 07:00-12:30
+website: https://www.fleischerei-dueren.de/

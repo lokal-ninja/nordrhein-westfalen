@@ -1,11 +1,11 @@
 id: 56122510
-type: way
+type: node
 latitude: 51.5184
 longitude: 7.35193
 postcode: "44388"
 city: Dortmund
-street: "Bockenfelder Straße"
-housenumber: 116
+street: Bockenfelder Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-21:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-21:00
 website: ""

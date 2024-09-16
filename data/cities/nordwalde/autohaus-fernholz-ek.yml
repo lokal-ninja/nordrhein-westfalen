@@ -1,11 +1,11 @@
 id: 35202075
-type: way
+type: node
 latitude: 52.07693
 longitude: 7.45759
 postcode: "48356"
 city: Nordwalde
-street: "Westring"
-housenumber: 16
+street: Westring
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-fernholz.de/"
+website: http://www.autohaus-fernholz.de/

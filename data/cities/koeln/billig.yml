@@ -4,8 +4,8 @@ latitude: 50.98687
 longitude: 7.00047
 postcode: "51061"
 city: Köln
-street: "Buchholzstraße"
-housenumber: 46
-phone: "+49 221 641732"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.abschleppdienst-billig.de"
+street: Buchholzstraße
+housenumber: "46"
+phone: +49 221 641732
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.abschleppdienst-billig.de

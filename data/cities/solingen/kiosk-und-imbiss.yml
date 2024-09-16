@@ -1,11 +1,11 @@
 id: 145619505
-type: way
+type: node
 latitude: 51.21321
 longitude: 7.0837
 postcode: "42653"
 city: Solingen
-street: "Lützowstraße"
-housenumber: 347
+street: Lützowstraße
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

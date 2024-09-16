@@ -4,8 +4,8 @@ latitude: 51.97434
 longitude: 7.63654
 postcode: "48147"
 city: Münster
-street: "Gartenstraße"
-housenumber: 140
+street: Gartenstraße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Th 11:00-18:00; Fr 10:00-17:00 || nach Vereinbarung"
+opening_hours: Mo-Th 11:00-18:00; Fr 10:00-17:00 || "nach Vereinbarung"
 website: ""

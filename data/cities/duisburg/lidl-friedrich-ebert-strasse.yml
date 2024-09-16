@@ -1,11 +1,11 @@
 id: 1028786843
-type: way
+type: node
 latitude: 51.47132
 longitude: 6.7323
 postcode: "47139"
 city: Duisburg
-street: "Friedrich-Ebert-Straße"
-housenumber: 207
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Friedrich-Ebert-Straße
+housenumber: "207"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

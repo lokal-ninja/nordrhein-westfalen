@@ -1,11 +1,11 @@
 id: 203120015
-type: way
+type: node
 latitude: 51.5947
 longitude: 7.34337
 postcode: "44581"
 city: Castrop-Rauxel
-street: "Uferstraße"
-housenumber: 6
+street: Uferstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

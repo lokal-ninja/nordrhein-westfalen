@@ -4,8 +4,8 @@ latitude: 51.61337
 longitude: 7.19886
 postcode: "45657"
 city: Recklinghausen
-street: "Herrenstraße"
-housenumber: 11
+street: Herrenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://balance-kosmetikstudio.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://balance-kosmetikstudio.de/

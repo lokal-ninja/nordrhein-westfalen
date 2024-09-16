@@ -1,11 +1,11 @@
 id: 192233341
-type: way
+type: node
 latitude: 50.69549
 longitude: 6.48939
 postcode: "52385"
 city: Nideggen
-street: "Thumer Linde"
-housenumber: 16
+street: Thumer Linde
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

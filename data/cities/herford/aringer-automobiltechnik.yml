@@ -1,11 +1,11 @@
 id: 177971728
-type: way
+type: node
 latitude: 52.13283
 longitude: 8.63537
 postcode: "32051"
 city: Herford
-street: "Füllenbruchstraße"
-housenumber: 209
+street: Füllenbruchstraße
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.20825
 longitude: 6.7744
 postcode: "40217"
 city: Düsseldorf
-street: "Friedrichstraße"
-housenumber: 133
+street: Friedrichstraße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:30; Su,PH off"
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:30; Su,PH off
 website: ""

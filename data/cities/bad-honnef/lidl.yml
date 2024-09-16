@@ -1,11 +1,11 @@
 id: 207625798
-type: way
+type: node
 latitude: 50.64671
 longitude: 7.3149
 postcode: "53604"
 city: Bad Honnef
-street: "Rottbitzer Straße"
-housenumber: 36
+street: Rottbitzer Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.73544
 longitude: 7.10122
 postcode: ""
 city: Bonn
-street: "Markt"
-housenumber: 33
+street: Markt
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.cecil.de/shopfinder/Deutschland/Bonn/52045-CECIL-Bonn/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.cecil.de/shopfinder/Deutschland/Bonn/52045-CECIL-Bonn/

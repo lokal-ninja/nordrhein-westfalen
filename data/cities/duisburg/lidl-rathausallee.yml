@@ -1,11 +1,11 @@
 id: 38829663
-type: way
+type: node
 latitude: 51.39758
 longitude: 6.66477
 postcode: "47239"
 city: Duisburg
-street: "Rathausallee"
-housenumber: 37
+street: Rathausallee
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/duisburg/rumeln-kaldenhausen-rathausallee-37.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/duisburg/rumeln-kaldenhausen-rathausallee-37.html

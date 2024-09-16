@@ -1,11 +1,11 @@
 id: 168207016
-type: way
+type: node
 latitude: 51.48959
 longitude: 8.27788
 postcode: "59581"
 city: Warstein
-street: "Möhnestraße"
-housenumber: 98
-phone: "+49 2925 2420"
+street: Möhnestraße
+housenumber: "98"
+phone: +49 2925 2420
 opening_hours: ""
-website: "http://www.bio-muehle-eiling.de/"
+website: http://www.bio-muehle-eiling.de/

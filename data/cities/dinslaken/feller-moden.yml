@@ -4,8 +4,8 @@ latitude: 51.56129
 longitude: 6.73289
 postcode: "46535"
 city: Dinslaken
-street: "Altmarkt"
-housenumber: 1
+street: Altmarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We,Th 10:00-18:00; Tu,Fr 09:30-18:00; Sa 10:00-14:00"
+opening_hours: Mo,We,Th 10:00-18:00; Tu,Fr 09:30-18:00; Sa 10:00-14:00
 website: ""

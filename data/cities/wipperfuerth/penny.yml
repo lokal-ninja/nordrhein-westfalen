@@ -1,11 +1,11 @@
 id: 204399898
-type: way
+type: node
 latitude: 51.12047
 longitude: 7.38576
 postcode: "51688"
 city: Wipperfürth
-street: "Bahnstraße"
-housenumber: 30
+street: Bahnstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

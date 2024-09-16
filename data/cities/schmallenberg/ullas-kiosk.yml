@@ -1,11 +1,11 @@
 id: 392965715
-type: way
+type: node
 latitude: 51.18953
 longitude: 8.31109
 postcode: "57392"
 city: Schmallenberg
-street: "Im Ohle"
-housenumber: 11
+street: Im Ohle
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

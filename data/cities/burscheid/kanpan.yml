@@ -1,11 +1,11 @@
 id: 300073497
-type: way
+type: node
 latitude: 51.08248
 longitude: 7.11875
 postcode: "51399"
 city: Burscheid
-street: "Höhestraße"
-housenumber: 3
+street: Höhestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

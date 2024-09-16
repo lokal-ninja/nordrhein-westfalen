@@ -1,11 +1,11 @@
 id: 343312252
-type: way
+type: node
 latitude: 50.89138
 longitude: 6.2763
 postcode: "52457"
 city: Aldenhoven
-street: "Matthäusstraße"
-housenumber: 5
+street: Matthäusstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

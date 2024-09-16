@@ -4,8 +4,8 @@ latitude: 50.79596
 longitude: 7.20315
 postcode: "53721"
 city: Siegburg
-street: "Bahnhofstraße"
-housenumber: 23
-phone: "+49 2241 8981445"
+street: Bahnhofstraße
+housenumber: "23"
+phone: +49 2241 8981445
 opening_hours: ""
-website: "https://glorious-art.de/"
+website: https://glorious-art.de/

@@ -4,8 +4,8 @@ latitude: 51.47962
 longitude: 7.20569
 postcode: "44793"
 city: Bochum
-street: "Metzstraße"
-housenumber: 2
+street: Metzstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 12:00-22:00"
+opening_hours: Mo-Su 12:00-22:00
 website: ""

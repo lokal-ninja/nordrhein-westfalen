@@ -4,8 +4,8 @@ latitude: 51.48
 longitude: 7.21741
 postcode: "44787"
 city: Bochum
-street: "Huestraße"
-housenumber: 34
+street: Huestraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.walbusch.de/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.walbusch.de/

@@ -1,11 +1,11 @@
 id: 318236623
-type: way
+type: node
 latitude: 52.04814
 longitude: 7.46634
 postcode: "48341"
 city: Altenberge
-street: "Königstraße"
-housenumber: 5
+street: Königstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

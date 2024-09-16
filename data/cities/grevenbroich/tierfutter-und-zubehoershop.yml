@@ -1,11 +1,11 @@
 id: 267827954
-type: way
+type: node
 latitude: 51.1076
 longitude: 6.62193
 postcode: "41516"
 city: Grevenbroich
-street: "Poststraße"
-housenumber: 62
+street: Poststraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

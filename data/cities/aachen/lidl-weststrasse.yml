@@ -1,11 +1,11 @@
 id: 233943610
-type: way
+type: node
 latitude: 50.77076
 longitude: 6.05855
 postcode: "52074"
 city: Aachen
-street: "Weststraße"
-housenumber: 50
+street: Weststraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

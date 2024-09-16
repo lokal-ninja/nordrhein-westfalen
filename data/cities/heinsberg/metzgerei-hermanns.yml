@@ -1,11 +1,11 @@
 id: 274766207
-type: way
+type: node
 latitude: 51.06318
 longitude: 6.09221
 postcode: "52525"
 city: Heinsberg
-street: "Kirchhovener Straße"
-housenumber: 20
-phone: "+49 2452 22080"
-opening_hours: "Mo 07:00-14:00; Tu-Fr 07:00-18:30; Sa 07:00-13:00"
-website: "https://metzgerei-hermanns.de/"
+street: Kirchhovener Straße
+housenumber: "20"
+phone: +49 2452 22080
+opening_hours: Mo 07:00-14:00; Tu-Fr 07:00-18:30; Sa 07:00-13:00
+website: https://metzgerei-hermanns.de/

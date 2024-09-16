@@ -4,8 +4,8 @@ latitude: 52.303
 longitude: 8.61624
 postcode: "32312"
 city: Lübbecke
-street: "Tonstraße"
-housenumber: 7
-phone: "+49 174 7213058"
-opening_hours: "Mo-Sa 11:00-19:00"
+street: Tonstraße
+housenumber: "7"
+phone: +49 174 7213058
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

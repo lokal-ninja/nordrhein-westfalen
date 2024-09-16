@@ -1,11 +1,11 @@
 id: 279171690
-type: way
+type: node
 latitude: 51.97855
 longitude: 7.29579
 postcode: "48727"
 city: Billerbeck
-street: "Holthauser Straße"
-housenumber: 3
-phone: "+49 2543 930360"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-13:00; PH,Su off"
-website: "http://2rad-bergmann.de"
+street: Holthauser Straße
+housenumber: "3"
+phone: +49 2543 930360
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-13:00; PH,Su off
+website: http://2rad-bergmann.de

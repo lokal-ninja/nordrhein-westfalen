@@ -4,8 +4,8 @@ latitude: 52.0187
 longitude: 8.53144
 postcode: "33602"
 city: Bielefeld
-street: "Am Bach"
-housenumber: 11
-phone: "+49-521-52058-0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.prooffice.de/bueromoebel/bielefeld"
+street: Am Bach
+housenumber: "11"
+phone: +49-521-52058-0
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.prooffice.de/bueromoebel/bielefeld

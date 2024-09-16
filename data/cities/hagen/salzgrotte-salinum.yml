@@ -4,8 +4,9 @@ latitude: 51.38691
 longitude: 7.49761
 postcode: "58093"
 city: Hagen
-street: "Sauerlandstraße"
-housenumber: 1
+street: Sauerlandstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu 10:45-20:00; We 09:45-20:00; Th 09:45-18:30; Fr 09:45-19:00; Sa 11:00-16:00"
-website: "https://www.salzgrotte-hagen.de/salinum-hagen/"
+opening_hours: Mo,Tu 10:45-20:00; We 09:45-20:00; Th 09:45-18:30; Fr 09:45-19:00;
+    Sa 11:00-16:00
+website: https://www.salzgrotte-hagen.de/salinum-hagen/

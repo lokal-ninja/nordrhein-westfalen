@@ -1,11 +1,11 @@
 id: 402254650
-type: way
+type: node
 latitude: 51.45941
 longitude: 7.57635
 postcode: "58239"
 city: Schwerte
-street: "Binnerheide"
-housenumber: 9
+street: Binnerheide
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 777328783
-type: way
+type: node
 latitude: 51.47362
 longitude: 7.12705
 postcode: "44867"
 city: Bochum
-street: "Ottostraße"
-housenumber: 27
+street: Ottostraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

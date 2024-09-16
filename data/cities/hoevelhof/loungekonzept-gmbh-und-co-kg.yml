@@ -1,11 +1,11 @@
 id: 246603695
-type: way
+type: node
 latitude: 51.83469
 longitude: 8.65036
 postcode: "33161"
 city: Hövelhof
-street: "Otto-Hahn-Straße"
-housenumber: 10
+street: Otto-Hahn-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.loungekonzept.de/"
+website: https://www.loungekonzept.de/

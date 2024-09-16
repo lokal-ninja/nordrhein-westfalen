@@ -4,8 +4,8 @@ latitude: 51.51335
 longitude: 7.45265
 postcode: "44137"
 city: Dortmund
-street: "Rheinische Straße"
-housenumber: 24
+street: Rheinische Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00; Sa 10:00-15:00"
-website: "https://frau-lose.de"
+opening_hours: Tu-Fr 14:00-19:00; Sa 10:00-15:00
+website: https://frau-lose.de

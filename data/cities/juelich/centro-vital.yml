@@ -4,8 +4,8 @@ latitude: 50.92116
 longitude: 6.36093
 postcode: "52428"
 city: Jülich
-street: "Poststraße"
-housenumber: 18
+street: Poststraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa,Su,PH off"
-website: "https://www.koczyba.de/standorte/sanitaetshaus-juelich/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00; Sa,Su,PH off
+website: https://www.koczyba.de/standorte/sanitaetshaus-juelich/

@@ -1,11 +1,11 @@
 id: 77527094
-type: way
+type: node
 latitude: 51.49959
 longitude: 7.03045
 postcode: "45327"
 city: Essen
-street: "Stauderstraße"
-housenumber: 221
+street: Stauderstraße
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

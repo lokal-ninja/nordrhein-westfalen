@@ -1,11 +1,11 @@
 id: 62112996
-type: way
+type: node
 latitude: 51.17447
 longitude: 6.73824
 postcode: "41468"
 city: Neuss
-street: "Norfer Straße"
-housenumber: 54
-phone: "+49 2131 36494-7"
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"
-website: "https://www.aral.de/"
+street: Norfer Straße
+housenumber: "54"
+phone: +49 2131 36494-7
+opening_hours: Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00
+website: https://www.aral.de/

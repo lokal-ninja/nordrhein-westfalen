@@ -4,8 +4,8 @@ latitude: 51.25753
 longitude: 7.14635
 postcode: "42103"
 city: Wuppertal
-street: "Wall"
-housenumber: 11
-phone: "+49 202 2 44 22 80"
-opening_hours: "Mo-Sa 09:30-19:30"
+street: Wall
+housenumber: "11"
+phone: +49 202 2 44 22 80
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

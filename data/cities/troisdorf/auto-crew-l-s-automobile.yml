@@ -1,11 +1,11 @@
 id: 85071897
-type: way
+type: node
 latitude: 50.78055
 longitude: 7.08406
 postcode: "53844"
 city: Troisdorf
-street: "Glockenstraße"
-housenumber: 89
-phone: "+49 228 97 11 833"
+street: Glockenstraße
+housenumber: "89"
+phone: +49 228 97 11 833
 opening_hours: ""
 website: ""

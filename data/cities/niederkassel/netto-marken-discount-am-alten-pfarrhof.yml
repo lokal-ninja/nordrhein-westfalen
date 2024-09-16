@@ -1,11 +1,11 @@
 id: 503104727
-type: way
+type: node
 latitude: 50.79232
 longitude: 7.04246
 postcode: "53859"
 city: Niederkassel
-street: "Am alten Pfarrhof"
-housenumber: 5
+street: Am alten Pfarrhof
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

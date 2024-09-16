@@ -5,7 +5,7 @@ longitude: 8.10385
 postcode: "57250"
 city: Netphen
 street: ""
-housenumber: 14
-phone: "+49 2738 688726"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 07:00-11:00; PH off"
-website: "https://www.hafer-back.de"
+housenumber: "14"
+phone: +49 2738 688726
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-15:00; Su 07:00-11:00; PH off
+website: https://www.hafer-back.de

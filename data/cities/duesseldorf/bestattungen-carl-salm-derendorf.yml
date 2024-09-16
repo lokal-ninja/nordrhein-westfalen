@@ -4,8 +4,8 @@ latitude: 51.23855
 longitude: 6.77936
 postcode: "40477"
 city: Düsseldorf
-street: "Schwerinstraße"
-housenumber: 4
+street: Schwerinstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.salm-duesseldorf.de/bestattungsinstitut/salm-filiale-derendorf.html"
+website: https://www.salm-duesseldorf.de/bestattungsinstitut/salm-filiale-derendorf.html

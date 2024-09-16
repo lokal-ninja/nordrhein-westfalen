@@ -4,8 +4,8 @@ latitude: 51.70492
 longitude: 8.72373
 postcode: "33106"
 city: Paderborn
-street: "Frankfurter Weg"
-housenumber: 24
+street: Frankfurter Weg
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00; PH off"
-website: "https://www.thiel-gruppe.de/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-13:00; PH off
+website: https://www.thiel-gruppe.de/

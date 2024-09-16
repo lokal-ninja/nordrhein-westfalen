@@ -1,11 +1,11 @@
 id: 311775230
-type: way
+type: node
 latitude: 52.09201
 longitude: 8.72192
 postcode: "32105"
 city: Bad Salzuflen
-street: "Herforder Straße"
-housenumber: 175
-phone: "+49 5222 983720"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30; Su off"
-website: "https://dbautohaus.de/kontakt/bad-salzuflen"
+street: Herforder Straße
+housenumber: "175"
+phone: +49 5222 983720
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:30; Su off
+website: https://dbautohaus.de/kontakt/bad-salzuflen

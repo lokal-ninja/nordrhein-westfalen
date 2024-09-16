@@ -4,8 +4,8 @@ latitude: 50.7358
 longitude: 7.09867
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 70
-phone: "+49 228 97686820"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.weisleben.de/"
+street: Sternstraße
+housenumber: "70"
+phone: +49 228 97686820
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.weisleben.de/

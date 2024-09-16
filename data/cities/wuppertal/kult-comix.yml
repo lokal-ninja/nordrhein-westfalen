@@ -4,8 +4,8 @@ latitude: 51.25836
 longitude: 7.14286
 postcode: "42103"
 city: Wuppertal
-street: "Luisenstraße"
-housenumber: 18
+street: Luisenstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 12:00-18:00; Sa 11:00-16:00; PH,We,Su off"
-website: "https://www.kultwuppertal.de/"
+opening_hours: Mo,Tu,Th,Fr 12:00-18:00; Sa 11:00-16:00; PH,We,Su off
+website: https://www.kultwuppertal.de/

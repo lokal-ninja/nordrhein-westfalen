@@ -1,11 +1,11 @@
 id: 292900533
-type: way
+type: node
 latitude: 51.7692
 longitude: 7.89522
 postcode: "59227"
 city: Ahlen
-street: "Warendorfer Straße"
-housenumber: 38
+street: Warendorfer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

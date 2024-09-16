@@ -1,11 +1,11 @@
 id: 280483987
-type: way
+type: node
 latitude: 51.13597
 longitude: 7.34133
 postcode: "42499"
 city: Hückeswagen
-street: "Stahlschmidtsbrücke"
-housenumber: 15
+street: Stahlschmidtsbrücke
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/filialen/42499-H%C3%BCckeswagen-Kobeshofen/detail/Stahlschmidtsbr%C3%BCcke/734076-5113560/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/filialen/42499-H%C3%BCckeswagen-Kobeshofen/detail/Stahlschmidtsbr%C3%BCcke/734076-5113560/

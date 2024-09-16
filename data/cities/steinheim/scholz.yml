@@ -1,11 +1,11 @@
 id: 265862448
-type: way
+type: node
 latitude: 51.86563
 longitude: 9.09399
 postcode: "32839"
 city: Steinheim
-street: "Marktstraße"
-housenumber: 5
+street: Marktstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 102584492
-type: way
+type: node
 latitude: 51.6693
 longitude: 7.63482
 postcode: "59368"
 city: Werne
-street: "Fürstenhof"
-housenumber: 50
+street: Fürstenhof
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-13:00
 website: ""

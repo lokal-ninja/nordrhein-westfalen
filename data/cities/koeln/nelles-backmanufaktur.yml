@@ -4,8 +4,8 @@ latitude: 50.9664
 longitude: 7.03299
 postcode: "51067"
 city: Köln
-street: "Bergisch Gladbacher Straße"
-housenumber: 380
+street: Bergisch Gladbacher Straße
+housenumber: "380"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.nelles-backmanufaktur.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.nelles-backmanufaktur.de

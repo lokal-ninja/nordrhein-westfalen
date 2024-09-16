@@ -1,11 +1,11 @@
 id: 28482503
-type: way
+type: node
 latitude: 51.7431
 longitude: 7.18774
 postcode: "45721"
 city: Haltern am See
-street: "Lippstraße"
-housenumber: 4
-phone: "+49 2364 3126"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:30-13:00"
-website: "https://www.winkels-haltern.de/"
+street: Lippstraße
+housenumber: "4"
+phone: +49 2364 3126
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:30-13:00
+website: https://www.winkels-haltern.de/

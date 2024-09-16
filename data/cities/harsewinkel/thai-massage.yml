@@ -1,11 +1,11 @@
 id: 81288226
-type: way
+type: node
 latitude: 51.96069
 longitude: 8.22359
 postcode: "33428"
 city: Harsewinkel
-street: "Münsterstraße"
-housenumber: 21
+street: Münsterstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

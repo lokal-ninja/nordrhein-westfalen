@@ -1,11 +1,11 @@
 id: 330712297
-type: way
+type: node
 latitude: 51.00019
 longitude: 7.0387
 postcode: "51069"
 city: Köln
-street: "Berliner Straße"
-housenumber: 923
+street: Berliner Straße
+housenumber: "923"
 phone: ""
-opening_hours: "We 14:00-18:00"
-website: "https://www.onderdelinden.de"
+opening_hours: We 14:00-18:00
+website: https://www.onderdelinden.de

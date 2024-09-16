@@ -1,11 +1,11 @@
 id: 58929019
-type: way
+type: node
 latitude: 51.7488
 longitude: 8.01961
 postcode: "59269"
 city: Beckum
-street: "Cheruskerstraße"
-housenumber: 11
+street: Cheruskerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.tedox.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.tedox.de/

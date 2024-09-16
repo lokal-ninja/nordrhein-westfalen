@@ -4,8 +4,8 @@ latitude: 51.99024
 longitude: 8.51124
 postcode: "33647"
 city: Bielefeld
-street: "Hauptstraße"
-housenumber: 83
+street: Hauptstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 08:30-13:00"
+opening_hours: Tu-Fr 12:00-18:00; Sa 08:30-13:00
 website: ""

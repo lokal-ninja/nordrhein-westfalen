@@ -1,11 +1,11 @@
 id: 260844846
-type: way
+type: node
 latitude: 52.16738
 longitude: 7.52676
 postcode: "48282"
 city: Emsdetten
-street: "Nordwalder Straße"
-housenumber: 66
+street: Nordwalder Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

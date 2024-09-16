@@ -1,11 +1,11 @@
 id: 1308930945
-type: way
+type: node
 latitude: 51.83737
 longitude: 6.25145
 postcode: "46446"
 city: Emmerich am Rhein
-street: "Am Portenhövel"
-housenumber: 2
+street: Am Portenhövel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

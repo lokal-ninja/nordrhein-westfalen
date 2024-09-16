@@ -1,11 +1,11 @@
 id: 149238586
-type: way
+type: node
 latitude: 50.81309
 longitude: 7.20876
 postcode: "53721"
 city: Siegburg
-street: "Jean-Dohle-Straße"
-housenumber: 1
-phone: "+49 2241 122-0"
+street: Jean-Dohle-Straße
+housenumber: "1"
+phone: +49 2241 122-0
 opening_hours: ""
-website: "https://www.dohle-gruppe.com/"
+website: https://www.dohle-gruppe.com/

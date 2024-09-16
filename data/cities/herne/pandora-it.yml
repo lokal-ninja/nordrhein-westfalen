@@ -4,8 +4,8 @@ latitude: 51.54153
 longitude: 7.22288
 postcode: "44623"
 city: Herne
-street: "Viktor-Reuter-Straße"
-housenumber: 4
-phone: "+49-2323-12652"
-opening_hours: "Mo-Fr 09:30-13:30,14:30-18:00; Sa 10:00-14:00"
-website: "https://pandora.biz/"
+street: Viktor-Reuter-Straße
+housenumber: "4"
+phone: +49-2323-12652
+opening_hours: Mo-Fr 09:30-13:30,14:30-18:00; Sa 10:00-14:00
+website: https://pandora.biz/

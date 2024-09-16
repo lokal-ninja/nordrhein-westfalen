@@ -1,11 +1,11 @@
 id: 116717648
-type: way
+type: node
 latitude: 51.42278
 longitude: 7.28154
 postcode: "58456"
 city: Witten
-street: "Meesmannstraße"
-housenumber: 43
+street: Meesmannstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; PH off; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-14:00; PH off; Su 08:00-11:00
 website: ""

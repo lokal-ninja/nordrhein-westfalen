@@ -4,8 +4,8 @@ latitude: 50.80619
 longitude: 7.20833
 postcode: "53721"
 city: Siegburg
-street: "Aulgasse"
-housenumber: 89
-phone: "+49 2241 68168"
+street: Aulgasse
+housenumber: "89"
+phone: +49 2241 68168
 opening_hours: ""
-website: "https://es-autoservice.de/"
+website: https://es-autoservice.de/

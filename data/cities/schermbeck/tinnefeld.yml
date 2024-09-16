@@ -4,8 +4,8 @@ latitude: 51.69287
 longitude: 6.87112
 postcode: "46514"
 city: Schermbeck
-street: "Mittelstraße"
-housenumber: 40
-phone: "+49 2853 4487969"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; PH off"
-website: "https://tinnefeld-hoeren-sehen.de"
+street: Mittelstraße
+housenumber: "40"
+phone: +49 2853 4487969
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; PH off
+website: https://tinnefeld-hoeren-sehen.de

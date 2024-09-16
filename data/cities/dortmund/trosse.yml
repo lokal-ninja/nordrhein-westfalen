@@ -1,11 +1,11 @@
 id: 34506876
-type: way
+type: node
 latitude: 51.55036
 longitude: 7.46275
 postcode: "44339"
 city: Dortmund
-street: "Evinger Straße"
-housenumber: 212
+street: Evinger Straße
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

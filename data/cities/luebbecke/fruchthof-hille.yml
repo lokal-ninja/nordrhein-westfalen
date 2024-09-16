@@ -4,8 +4,8 @@ latitude: 52.32539
 longitude: 8.62256
 postcode: "32312"
 city: Lübbecke
-street: "Zeiss-Straße"
-housenumber: 4
-phone: "+49 5741 34640"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-13:00"
-website: "http://www.fruchthof-hille.de/"
+street: Zeiss-Straße
+housenumber: "4"
+phone: +49 5741 34640
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-13:00
+website: http://www.fruchthof-hille.de/

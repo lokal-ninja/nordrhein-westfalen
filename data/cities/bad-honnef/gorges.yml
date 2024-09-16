@@ -1,11 +1,11 @@
 id: 160254215
-type: way
+type: node
 latitude: 50.64176
 longitude: 7.23563
 postcode: "53604"
 city: Bad Honnef
-street: "Hauptstraße"
-housenumber: 110
+street: Hauptstraße
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://gorges.seat.de/"
+website: https://gorges.seat.de/

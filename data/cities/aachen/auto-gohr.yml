@@ -1,11 +1,11 @@
 id: 87499377
-type: way
+type: node
 latitude: 50.78872
 longitude: 6.06639
 postcode: "52072"
 city: Aachen
-street: "Henricistraße"
-housenumber: 29
+street: Henricistraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.autogohr.de/"
+website: https://www.autogohr.de/

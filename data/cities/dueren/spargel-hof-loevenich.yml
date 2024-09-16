@@ -4,8 +4,8 @@ latitude: 50.79547
 longitude: 6.44739
 postcode: "52355"
 city: Düren
-street: "Schillingsstraße"
-housenumber: 72
+street: Schillingsstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 08:00-14:00"
-website: "https://www.spargel-hof.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 08:00-14:00
+website: https://www.spargel-hof.de/

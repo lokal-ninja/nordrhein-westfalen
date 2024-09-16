@@ -1,11 +1,11 @@
 id: 536285309
-type: way
+type: node
 latitude: 51.0529
 longitude: 6.9982
 postcode: "51373"
 city: Leverkusen
-street: "Hardenbergstraße"
-housenumber: 10
+street: Hardenbergstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

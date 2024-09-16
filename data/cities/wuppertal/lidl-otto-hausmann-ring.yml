@@ -1,11 +1,11 @@
 id: 991328812
-type: way
+type: node
 latitude: 51.2581
 longitude: 7.1082
 postcode: ""
 city: Wuppertal
-street: "Otto-Hausmann-Ring"
-housenumber: 116
+street: Otto-Hausmann-Ring
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

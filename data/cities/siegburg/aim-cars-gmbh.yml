@@ -1,11 +1,11 @@
 id: 148418780
-type: way
+type: node
 latitude: 50.80169
 longitude: 7.19173
 postcode: "53721"
 city: Siegburg
-street: "Industriestraße"
-housenumber: 59
+street: Industriestraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

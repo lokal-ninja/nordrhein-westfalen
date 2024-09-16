@@ -4,8 +4,8 @@ latitude: 51.23603
 longitude: 6.71287
 postcode: "40549"
 city: Düsseldorf
-street: "Krefelder Straße"
-housenumber: 117
-phone: "+49 211 9446 2834"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.moll.de/standorte/#duesseldorf-krefelderstrasse"
+street: Krefelder Straße
+housenumber: "117"
+phone: +49 211 9446 2834
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.moll.de/standorte/#duesseldorf-krefelderstrasse

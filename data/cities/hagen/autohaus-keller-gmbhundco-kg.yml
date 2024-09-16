@@ -1,11 +1,11 @@
 id: 200974948
-type: way
+type: node
 latitude: 51.3995
 longitude: 7.48879
 postcode: "58099"
 city: Hagen
-street: "Feldmühlenstraße"
-housenumber: 12
-phone: "+40 2331 9666444"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.toyota-keller.de/"
+street: Feldmühlenstraße
+housenumber: "12"
+phone: +40 2331 9666444
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.toyota-keller.de/

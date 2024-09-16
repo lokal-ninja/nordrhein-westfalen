@@ -1,11 +1,11 @@
 id: 51401458
-type: way
+type: node
 latitude: 51.67513
 longitude: 8.34494
 postcode: "59555"
 city: Lippstadt
-street: "Helle Halle"
-housenumber: 5
+street: Helle Halle
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00; Mo off"
+opening_hours: Tu-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00; Mo off
 website: ""

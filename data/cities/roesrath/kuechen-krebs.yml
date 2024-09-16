@@ -1,11 +1,11 @@
 id: 219353436
-type: way
+type: node
 latitude: 50.9056
 longitude: 7.18588
 postcode: "51503"
 city: Rösrath
-street: "Hauptstraße"
-housenumber: 135
+street: Hauptstraße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00
 website: ""

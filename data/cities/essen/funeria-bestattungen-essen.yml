@@ -4,8 +4,8 @@ latitude: 51.44494
 longitude: 7.00491
 postcode: "45128"
 city: Essen
-street: "Goethestraße"
-housenumber: 1
-phone: "+49 201 87049660"
+street: Goethestraße
+housenumber: "1"
+phone: +49 201 87049660
 opening_hours: ""
-website: "https://funeria.de/standorte/essen"
+website: https://funeria.de/standorte/essen

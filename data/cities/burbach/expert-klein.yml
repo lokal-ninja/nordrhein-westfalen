@@ -1,11 +1,11 @@
 id: 33754699
-type: way
+type: node
 latitude: 50.74825
 longitude: 8.08706
 postcode: "57299"
 city: Burbach
-street: "Jägerstraße"
-housenumber: 32
+street: Jägerstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

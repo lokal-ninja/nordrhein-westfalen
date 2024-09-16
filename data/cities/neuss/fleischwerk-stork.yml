@@ -1,11 +1,11 @@
 id: 121154489
-type: way
+type: node
 latitude: 51.21952
 longitude: 6.65776
 postcode: "41462"
 city: Neuss
-street: "Kaarster Straße"
-housenumber: 84
-phone: "+49 2131 541820"
+street: Kaarster Straße
+housenumber: "84"
+phone: +49 2131 541820
 opening_hours: ""
-website: "https://www.fleischwerk.com/"
+website: https://www.fleischwerk.com/

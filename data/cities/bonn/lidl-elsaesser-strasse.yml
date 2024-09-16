@@ -1,11 +1,11 @@
 id: 43607910
-type: way
+type: node
 latitude: 50.69107
 longitude: 7.14517
 postcode: "53175"
 city: Bonn
-street: "Elsässer Straße"
-housenumber: 20
+street: Elsässer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

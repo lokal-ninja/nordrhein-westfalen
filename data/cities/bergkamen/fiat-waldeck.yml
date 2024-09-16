@@ -1,11 +1,11 @@
 id: 48546073
-type: way
+type: node
 latitude: 51.61722
 longitude: 7.61526
 postcode: "59192"
 city: Bergkamen
-street: "Erich-Ollenhauer-Straße"
-housenumber: 79
+street: Erich-Ollenhauer-Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

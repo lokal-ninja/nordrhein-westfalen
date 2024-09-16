@@ -4,8 +4,8 @@ latitude: 50.73205
 longitude: 7.09466
 postcode: "53115"
 city: Bonn
-street: "Colmantstraße"
-housenumber: 2
+street: Colmantstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-16:00; Su 07:30-16:00"
-website: "https://www.baeckerei-voigt.de/filialen/bonn/zentrum-colmantstrasse-2.html"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-16:00; Su 07:30-16:00
+website: https://www.baeckerei-voigt.de/filialen/bonn/zentrum-colmantstrasse-2.html

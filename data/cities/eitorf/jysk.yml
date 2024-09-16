@@ -1,11 +1,11 @@
 id: 112689555
-type: way
+type: node
 latitude: 50.77011
 longitude: 7.4734
 postcode: "53783"
 city: Eitorf
-street: "Im Auel"
-housenumber: 69
+street: Im Auel
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-17:00
 website: ""

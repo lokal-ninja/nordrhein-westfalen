@@ -1,11 +1,11 @@
 id: 100621497
-type: way
+type: node
 latitude: 51.42871
 longitude: 8.00871
 postcode: "59759"
 city: Arnsberg
-street: "Westring"
-housenumber: 1
+street: Westring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.21778
 longitude: 6.81266
 postcode: "40233"
 city: Düsseldorf
-street: "Pinienstraße"
-housenumber: 21
-phone: "+49 211 7705790"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:30"
-website: "https://www.thedens-gmbh.de/"
+street: Pinienstraße
+housenumber: "21"
+phone: +49 211 7705790
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:30
+website: https://www.thedens-gmbh.de/

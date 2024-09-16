@@ -1,11 +1,11 @@
 id: 304424136
-type: way
+type: node
 latitude: 51.76161
 longitude: 8.56292
 postcode: "33129"
 city: Delbrück
-street: "Boker Straße"
-housenumber: 8
-phone: "+49 5250 98298-2"
+street: Boker Straße
+housenumber: "8"
+phone: +49 5250 98298-2
 opening_hours: ""
-website: "https://www.thiel-gruppe.de/"
+website: https://www.thiel-gruppe.de/

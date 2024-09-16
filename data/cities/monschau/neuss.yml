@@ -1,11 +1,11 @@
 id: 103388534
-type: way
+type: node
 latitude: 50.57237
 longitude: 6.26603
 postcode: "52156"
 city: Monschau
-street: "Heidbüchel"
-housenumber: 17
-phone: "+49 2472 5039"
-opening_hours: "Mo-Fr 05:00-13:00,14:00-18:00; Sa 05:00-13:00; Su 08:00-10:30"
+street: Heidbüchel
+housenumber: "17"
+phone: +49 2472 5039
+opening_hours: Mo-Fr 05:00-13:00,14:00-18:00; Sa 05:00-13:00; Su 08:00-10:30
 website: ""

@@ -1,11 +1,11 @@
 id: 148998266
-type: way
+type: node
 latitude: 51.43266
 longitude: 6.75998
 postcode: "47051"
 city: Duisburg
-street: "Kasinostraße"
+street: Kasinostraße
 housenumber: 13-15
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.unterwegs-duisburg.de/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.unterwegs-duisburg.de/

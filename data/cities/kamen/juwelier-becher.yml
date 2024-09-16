@@ -1,11 +1,11 @@
 id: 197451435
-type: way
+type: node
 latitude: 51.5923
 longitude: 7.66252
 postcode: "59174"
 city: Kamen
-street: "Weststraße"
-housenumber: 72
-phone: "+49 2307 9833989"
-opening_hours: "Mo-Fr 09:15-13:00,15:00-18:30, Sa 09:30-13:30"
-website: "https://www.juwelier-becher.com/"
+street: Weststraße
+housenumber: "72"
+phone: +49 2307 9833989
+opening_hours: Mo-Fr 09:15-13:00,15:00-18:30, Sa 09:30-13:30
+website: https://www.juwelier-becher.com/

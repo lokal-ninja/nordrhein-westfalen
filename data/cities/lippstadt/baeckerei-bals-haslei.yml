@@ -1,11 +1,11 @@
 id: 272813858
-type: way
+type: node
 latitude: 51.66948
 longitude: 8.40585
 postcode: "59558"
 city: Lippstadt
-street: "Haslei"
-housenumber: 1
+street: Haslei
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

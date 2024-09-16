@@ -4,8 +4,8 @@ latitude: 51.88416
 longitude: 8.50746
 postcode: "33415"
 city: Verl
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; PH,Su off"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-13:00; PH,Su off
 website: ""

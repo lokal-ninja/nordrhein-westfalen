@@ -4,8 +4,8 @@ latitude: 52.02308
 longitude: 8.5306
 postcode: "33602"
 city: Bielefeld
-street: "Oberntorwall"
-housenumber: 21
+street: Oberntorwall
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su,PH off"
-website: "https://www.naehzentrum-eilers.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su,PH off
+website: https://www.naehzentrum-eilers.com/

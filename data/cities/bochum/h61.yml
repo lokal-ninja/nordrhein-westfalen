@@ -4,8 +4,8 @@ latitude: 51.46543
 longitude: 7.21262
 postcode: "44789"
 city: Bochum
-street: "Hunscheidtstraße"
-housenumber: 61
-phone: "+49 157 72526708"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 12:00-15:00"
-website: "http://www.h61.tv/"
+street: Hunscheidtstraße
+housenumber: "61"
+phone: +49 157 72526708
+opening_hours: Tu-Fr 12:00-18:00; Sa 12:00-15:00
+website: http://www.h61.tv/

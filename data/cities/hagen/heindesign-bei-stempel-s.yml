@@ -1,11 +1,11 @@
 id: 204890407
-type: way
+type: node
 latitude: 51.34773
 longitude: 7.49133
 postcode: "58091"
 city: Hagen
-street: "Eilper Straße"
-housenumber: 76
-phone: "+49 2331 72211"
+street: Eilper Straße
+housenumber: "76"
+phone: +49 2331 72211
 opening_hours: ""
-website: "http://shop.heindesign.de/"
+website: http://shop.heindesign.de/

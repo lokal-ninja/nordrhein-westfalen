@@ -1,11 +1,11 @@
 id: 60961627
-type: way
+type: node
 latitude: 50.81103
 longitude: 7.1706
 postcode: "53840"
 city: Troisdorf
-street: "Siebengebirgsallee"
-housenumber: 54
+street: Siebengebirgsallee
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

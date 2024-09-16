@@ -4,8 +4,8 @@ latitude: 50.92325
 longitude: 6.95998
 postcode: "50678"
 city: Köln
-street: "Severinskirchplatz"
-housenumber: 12
-phone: "+49 221 812064"
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:30; Sa 10:00-14:00; We 14:30-18:30"
+street: Severinskirchplatz
+housenumber: "12"
+phone: +49 221 812064
+opening_hours: Mo,Tu,Th,Fr 09:30-18:30; Sa 10:00-14:00; We 14:30-18:30
 website: ""

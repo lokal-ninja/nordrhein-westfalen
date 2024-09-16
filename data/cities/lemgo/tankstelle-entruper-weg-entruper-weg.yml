@@ -4,8 +4,8 @@ latitude: 52.03508
 longitude: 8.89358
 postcode: "32657"
 city: Lemgo
-street: "Entruper Weg"
-housenumber: 48
-phone: "+49 5261 3497"
-opening_hours: "Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 08:00-22:00; PH 08:00-22:00"
-website: "http://store.total.de/de_DE/ND038075"
+street: Entruper Weg
+housenumber: "48"
+phone: +49 5261 3497
+opening_hours: Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 08:00-22:00; PH 08:00-22:00
+website: http://store.total.de/de_DE/ND038075

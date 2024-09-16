@@ -4,8 +4,8 @@ latitude: 52.03201
 longitude: 8.5734
 postcode: "33609"
 city: Bielefeld
-street: "Ziegelstraße"
-housenumber: 25
+street: Ziegelstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-24:00; Sa-Su 09:00-24:00"
+opening_hours: Mo-Fr 08:00-24:00; Sa-Su 09:00-24:00
 website: ""

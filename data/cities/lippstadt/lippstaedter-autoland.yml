@@ -1,11 +1,11 @@
 id: 175042593
-type: way
+type: node
 latitude: 51.65201
 longitude: 8.35414
 postcode: "59557"
 city: Lippstadt
-street: "Hansastraße"
-housenumber: 27
-phone: "+49 2941 13666"
+street: Hansastraße
+housenumber: "27"
+phone: +49 2941 13666
 opening_hours: ""
-website: "https://mobile.de/"
+website: https://mobile.de/

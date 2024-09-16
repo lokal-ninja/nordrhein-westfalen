@@ -1,11 +1,11 @@
 id: 358935764
-type: way
+type: node
 latitude: 51.19727
 longitude: 8.51093
 postcode: "59955"
 city: Winterberg
-street: "In der Büre"
-housenumber: 32
-phone: "+49 2981 4259008"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://www.poppenberg-winterberg.de/"
+street: In der Büre
+housenumber: "32"
+phone: +49 2981 4259008
+opening_hours: Mo-Su 08:00-17:00
+website: https://www.poppenberg-winterberg.de/

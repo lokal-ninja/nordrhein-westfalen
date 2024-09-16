@@ -4,8 +4,8 @@ latitude: 52.02528
 longitude: 8.53035
 postcode: "33602"
 city: Bielefeld
-street: "Karl-Eilers-Straße"
-housenumber: 9
+street: Karl-Eilers-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

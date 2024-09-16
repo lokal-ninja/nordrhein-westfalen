@@ -1,11 +1,11 @@
 id: 46964856
-type: way
+type: node
 latitude: 50.88707
 longitude: 8.02853
 postcode: "57072"
 city: Siegen
-street: "Hagener Straße"
-housenumber: 117
+street: Hagener Straße
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "http://haarfrei-zentrum-siegen.de"
+website: http://haarfrei-zentrum-siegen.de

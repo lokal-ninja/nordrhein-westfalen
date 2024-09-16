@@ -4,8 +4,8 @@ latitude: 51.90577
 longitude: 7.66675
 postcode: "48165"
 city: Münster
-street: "Osttor"
-housenumber: 76
+street: Osttor
+housenumber: "76"
 phone: "+49250128052"
-opening_hours: "Mo-Fr 06:30-18:00 Sa 06:30-13:00 Su 07:30-16:30"
-website: "https://www.krimphove.de/"
+opening_hours: Mo-Fr 06:30-18:00 Sa 06:30-13:00 Su 07:30-16:30
+website: https://www.krimphove.de/

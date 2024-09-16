@@ -1,11 +1,11 @@
 id: 242994463
-type: way
+type: node
 latitude: 50.94827
 longitude: 7.10312
 postcode: "51427"
 city: Bergisch Gladbach
-street: "Lustheide"
-housenumber: 111
+street: Lustheide
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

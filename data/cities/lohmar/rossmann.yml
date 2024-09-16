@@ -4,8 +4,8 @@ latitude: 50.84007
 longitude: 7.20957
 postcode: "53797"
 city: Lohmar
-street: "Hauptstraße"
-housenumber: 58
-phone: "+49 2246 3034910"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off; PH off"
-website: "https://www.rossmann.de"
+street: Hauptstraße
+housenumber: "58"
+phone: +49 2246 3034910
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off; PH off
+website: https://www.rossmann.de

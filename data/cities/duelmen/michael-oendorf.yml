@@ -1,11 +1,11 @@
 id: 1241056884
-type: way
+type: node
 latitude: 51.81223
 longitude: 7.25834
 postcode: "48249"
 city: Dülmen
-street: "Gausepatt"
-housenumber: 33
+street: Gausepatt
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

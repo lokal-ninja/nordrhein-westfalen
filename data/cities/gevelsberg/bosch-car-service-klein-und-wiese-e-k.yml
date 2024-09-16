@@ -1,11 +1,11 @@
 id: 119666075
-type: way
+type: node
 latitude: 51.31665
 longitude: 7.31389
 postcode: "58285"
 city: Gevelsberg
-street: "Am Westbahnhof"
-housenumber: 5
+street: Am Westbahnhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00; PH closed"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00; PH closed
 website: ""

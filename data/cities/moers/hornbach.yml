@@ -1,11 +1,11 @@
 id: 24929295
-type: way
+type: node
 latitude: 51.45492
 longitude: 6.6606
 postcode: "47443"
 city: Moers
-street: "Franz-Haniel-Straße"
-housenumber: 71
-phone: "+49 2841 9580-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hornbach.de/"
+street: Franz-Haniel-Straße
+housenumber: "71"
+phone: +49 2841 9580-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hornbach.de/

@@ -1,11 +1,11 @@
 id: 42742867
-type: way
+type: node
 latitude: 50.76854
 longitude: 7.04015
 postcode: "53332"
 city: Bornheim
-street: "Roisdorfer Straße"
-housenumber: 3
+street: Roisdorfer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

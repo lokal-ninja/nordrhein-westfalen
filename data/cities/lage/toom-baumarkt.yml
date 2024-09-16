@@ -1,11 +1,11 @@
 id: 857461187
-type: way
+type: node
 latitude: 51.986
 longitude: 8.80523
 postcode: "32791"
 city: Lage
-street: "Detmolder Straße"
+street: Detmolder Straße
 housenumber: 29 - 37
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/lage/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/lage/

@@ -1,11 +1,11 @@
 id: 113802507
-type: way
+type: node
 latitude: 51.44924
 longitude: 7.00112
 postcode: "45145"
 city: Essen
-street: "Schederhofstraße"
-housenumber: 2
-phone: "+49 201 8 485 840"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:30-16:00"
-website: "http://www.mtw-automobile.com/index.php?content=6"
+street: Schederhofstraße
+housenumber: "2"
+phone: +49 201 8 485 840
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:30-16:00
+website: http://www.mtw-automobile.com/index.php?content=6

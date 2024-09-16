@@ -4,8 +4,8 @@ latitude: 51.23734
 longitude: 6.85836
 postcode: "40625"
 city: Düsseldorf
-street: "Benderstraße"
-housenumber: 15
-phone: "+49 211 2926463"
+street: Benderstraße
+housenumber: "15"
+phone: +49 211 2926463
 opening_hours: ""
-website: "https://giovannak.com/"
+website: https://giovannak.com/

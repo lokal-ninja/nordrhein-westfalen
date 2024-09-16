@@ -4,8 +4,8 @@ latitude: 51.29839
 longitude: 6.84815
 postcode: "40878"
 city: Ratingen
-street: "Lintorfer Straße"
-housenumber: 25
-phone: "+49 2161 65338775"
-opening_hours: "nach Vereinbarung"
-website: "https://sannalindstroem.de"
+street: Lintorfer Straße
+housenumber: "25"
+phone: +49 2161 65338775
+opening_hours: '"nach Vereinbarung"'
+website: https://sannalindstroem.de

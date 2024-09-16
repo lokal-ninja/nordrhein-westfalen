@@ -4,8 +4,8 @@ latitude: 51.33107
 longitude: 7.05827
 postcode: "42551"
 city: Velbert
-street: "Sontumer Straße"
-housenumber: 73
+street: Sontumer Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; PH off"
-website: "https://www.dm.de/store/de-2301/velbert/sontumer-strasse-73"
+opening_hours: Mo-Sa 08:00-20:30; PH off
+website: https://www.dm.de/store/de-2301/velbert/sontumer-strasse-73

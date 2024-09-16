@@ -4,8 +4,8 @@ latitude: 50.87817
 longitude: 7.08247
 postcode: "51145"
 city: Köln
-street: "Frankfurter Straße"
-housenumber: 488
-phone: "+49 2203 294461"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; We,Sa 10:00-14:00; PH off"
-website: "https://www.jwf-fahrradhandel.de/"
+street: Frankfurter Straße
+housenumber: "488"
+phone: +49 2203 294461
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; We,Sa 10:00-14:00; PH off
+website: https://www.jwf-fahrradhandel.de/

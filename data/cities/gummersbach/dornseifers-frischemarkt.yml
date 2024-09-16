@@ -1,11 +1,11 @@
 id: 654717841
-type: way
+type: node
 latitude: 51.02404
 longitude: 7.5654
 postcode: "51643"
 city: Gummersbach
-street: "Steinmüllerallee"
-housenumber: 5
+street: Steinmüllerallee
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

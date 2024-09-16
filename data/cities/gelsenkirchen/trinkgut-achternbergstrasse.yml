@@ -1,11 +1,11 @@
 id: 28708473
-type: way
+type: node
 latitude: 51.48784
 longitude: 7.08727
 postcode: "45884"
 city: Gelsenkirchen
-street: "Achternbergstraße"
-housenumber: 3
-phone: "+49 209 1209225"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.trinkgut.de"
+street: Achternbergstraße
+housenumber: "3"
+phone: +49 209 1209225
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.trinkgut.de

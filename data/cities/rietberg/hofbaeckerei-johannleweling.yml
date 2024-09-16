@@ -1,11 +1,11 @@
 id: 848414661
-type: way
+type: node
 latitude: 51.81607
 longitude: 8.49803
 postcode: "33397"
 city: Rietberg
-street: "Lipplinger Straße"
-housenumber: 5
+street: Lipplinger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 12:00-20:00, Fr 07:00-20:00"
+opening_hours: Mo 12:00-20:00, Fr 07:00-20:00
 website: ""

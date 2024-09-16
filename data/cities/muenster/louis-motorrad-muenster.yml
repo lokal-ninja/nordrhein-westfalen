@@ -4,8 +4,8 @@ latitude: 51.92618
 longitude: 7.6283
 postcode: "48153"
 city: Münster
-street: "Hammer Straße"
-housenumber: 350
-phone: "+49 251 770 33"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-muenster"
+street: Hammer Straße
+housenumber: "350"
+phone: +49 251 770 33
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-muenster

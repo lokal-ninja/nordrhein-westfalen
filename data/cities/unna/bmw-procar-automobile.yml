@@ -1,11 +1,11 @@
 id: 180995138
-type: way
+type: node
 latitude: 51.542
 longitude: 7.66668
 postcode: "59425"
 city: Unna
-street: "Hansastraße"
-housenumber: 101
+street: Hansastraße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

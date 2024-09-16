@@ -1,11 +1,11 @@
 id: 93420863
-type: way
+type: node
 latitude: 51.41867
 longitude: 7.08022
 postcode: "45277"
 city: Essen
-street: "Schaffelhofer Weg"
-housenumber: 17
+street: Schaffelhofer Weg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

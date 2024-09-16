@@ -4,8 +4,8 @@ latitude: 51.34148
 longitude: 7.04548
 postcode: "42551"
 city: Velbert
-street: "Oststraße"
-housenumber: 1
+street: Oststraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 15-18 Uhr Di-Do 10-13 Uhr Fr 17-20 Uhr"
-website: "https://stiftung-leuchtturm.de/jacke-wie-hose/"
+opening_hours: Mo 15-18 Uhr Di-Do 10-13 Uhr Fr 17-20 Uhr
+website: https://stiftung-leuchtturm.de/jacke-wie-hose/

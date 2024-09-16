@@ -1,11 +1,11 @@
 id: 92403168
-type: way
+type: node
 latitude: 50.65288
 longitude: 6.79204
 postcode: "53879"
 city: Euskirchen
-street: "Eifelring"
+street: Eifelring
 housenumber: 38-42
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

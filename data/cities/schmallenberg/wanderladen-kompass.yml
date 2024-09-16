@@ -1,11 +1,11 @@
 id: 93763537
-type: way
+type: node
 latitude: 51.18441
 longitude: 8.31234
 postcode: "57392"
 city: Schmallenberg
-street: "Am Radring"
-housenumber: 1
-phone: "+49 2974 83727"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-13:00"
-website: "https://www.wanderladen.de/"
+street: Am Radring
+housenumber: "1"
+phone: +49 2974 83727
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-13:00
+website: https://www.wanderladen.de/

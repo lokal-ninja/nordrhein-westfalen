@@ -4,8 +4,8 @@ latitude: 51.46901
 longitude: 6.85124
 postcode: "46045"
 city: Oberhausen
-street: "Marktstraße"
-housenumber: 41
+street: Marktstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; PH off"
-website: "https://kamps.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00; PH off
+website: https://kamps.de/

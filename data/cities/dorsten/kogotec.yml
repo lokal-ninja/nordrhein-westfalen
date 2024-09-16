@@ -4,8 +4,9 @@ latitude: 51.71411
 longitude: 7.01246
 postcode: "46286"
 city: Dorsten
-street: "Hervester Straße"
+street: Hervester Straße
 housenumber: 43-49
-phone: "+49 2369 984640"
-opening_hours: "Mar-Oct: Mo-Fr 08:30-12:30,13:00-17:30; Nov-Feb: Mo-Fr 08:00-12:30,13:30-17:00; Sa,Su,PH off"
-website: "https://www.kogotec.de/"
+phone: +49 2369 984640
+opening_hours: 'Mar-Oct: Mo-Fr 08:30-12:30,13:00-17:30; Nov-Feb: Mo-Fr 08:00-12:30,13:30-17:00;
+    Sa,Su,PH off'
+website: https://www.kogotec.de/

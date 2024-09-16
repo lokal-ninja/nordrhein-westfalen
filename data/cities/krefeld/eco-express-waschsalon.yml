@@ -4,8 +4,8 @@ latitude: 51.3416
 longitude: 6.55628
 postcode: "47798"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 45
+street: Hülser Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.waschsalon.de/waschsalons/shop/location/Krefeld"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.waschsalon.de/waschsalons/shop/location/Krefeld

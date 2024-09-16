@@ -1,11 +1,11 @@
 id: 227766317
-type: way
+type: node
 latitude: 51.68958
 longitude: 6.14207
 postcode: "47574"
 city: Goch
-street: "Jurgensstraße"
-housenumber: 4
+street: Jurgensstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

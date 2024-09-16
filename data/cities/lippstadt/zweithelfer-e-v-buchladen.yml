@@ -4,8 +4,8 @@ latitude: 51.67427
 longitude: 8.34355
 postcode: "59555"
 city: Lippstadt
-street: "Fleischhauerstraße"
-housenumber: 27
+street: Fleischhauerstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00, 15:00-18:00; Mo 15:00-18:00; Sa 10:00-13:00"
-website: "www.zweithelfer.de"
+opening_hours: Tu-Sa 10:00-13:00, 15:00-18:00; Mo 15:00-18:00; Sa 10:00-13:00
+website: www.zweithelfer.de

@@ -4,8 +4,8 @@ latitude: 50.90976
 longitude: 6.81092
 postcode: "50226"
 city: Frechen
-street: "Hauptstraße"
-housenumber: 72
-phone: "+49 2234 58298"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://www.metzgerei-dohle.de/"
+street: Hauptstraße
+housenumber: "72"
+phone: +49 2234 58298
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://www.metzgerei-dohle.de/

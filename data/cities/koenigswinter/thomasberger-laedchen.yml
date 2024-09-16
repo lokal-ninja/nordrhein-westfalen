@@ -1,11 +1,11 @@
 id: 91302184
-type: way
+type: node
 latitude: 50.69733
 longitude: 7.24502
 postcode: "53639"
 city: Königswinter
-street: "Siebengebirgsstraße"
-housenumber: 63
+street: Siebengebirgsstraße
+housenumber: "63"
 phone: ""
-opening_hours: "07:00-13:00,14:00-18:00"
+opening_hours: 07:00-13:00,14:00-18:00
 website: ""

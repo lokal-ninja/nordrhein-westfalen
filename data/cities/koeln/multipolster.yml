@@ -1,11 +1,11 @@
 id: 35284988
-type: way
+type: node
 latitude: 50.91868
 longitude: 6.84593
 postcode: "50858"
 city: Köln
-street: "Max-Planck-Straße"
-housenumber: 26
+street: Max-Planck-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.multipolster.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.multipolster.de/

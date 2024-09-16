@@ -4,8 +4,8 @@ latitude: 51.51258
 longitude: 7.18223
 postcode: "44651"
 city: Herne
-street: "Eickeler Straße"
-housenumber: 25
+street: Eickeler Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://edeka-gronemann.de/markt/herne-eickel-edeka-markt/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://edeka-gronemann.de/markt/herne-eickel-edeka-markt/

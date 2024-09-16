@@ -1,11 +1,11 @@
 id: 103774535
-type: way
+type: node
 latitude: 50.76733
 longitude: 7.44824
 postcode: "53783"
 city: Eitorf
-street: "Asbacher Straße"
-housenumber: 49
-phone: "+49 2243 81814"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://getraenkesiebigteroth.de/"
+street: Asbacher Straße
+housenumber: "49"
+phone: +49 2243 81814
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://getraenkesiebigteroth.de/

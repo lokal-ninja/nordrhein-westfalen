@@ -1,11 +1,11 @@
 id: 155143659
-type: way
+type: node
 latitude: 51.53938
 longitude: 6.85303
 postcode: ""
 city: Oberhausen
-street: "Erzbergerstraße"
-housenumber: 136
+street: Erzbergerstraße
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

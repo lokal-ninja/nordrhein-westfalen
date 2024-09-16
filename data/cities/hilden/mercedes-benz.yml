@@ -1,11 +1,11 @@
 id: 92125947
-type: way
+type: node
 latitude: 51.17165
 longitude: 6.90891
 postcode: "40721"
 city: Hilden
-street: "Im Hülsenfeld"
-housenumber: 1
+street: Im Hülsenfeld
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-16:00; PH off
 website: ""

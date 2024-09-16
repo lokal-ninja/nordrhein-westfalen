@@ -4,8 +4,8 @@ latitude: 51.64343
 longitude: 6.73434
 postcode: "46569"
 city: Hünxe
-street: "Weseler Straße"
-housenumber: 102
-phone: "+49 2858 577"
-opening_hours: "vorher anrufen"
-website: "http://www.einfach-anne.de/"
+street: Weseler Straße
+housenumber: "102"
+phone: +49 2858 577
+opening_hours: '"vorher anrufen"'
+website: http://www.einfach-anne.de/

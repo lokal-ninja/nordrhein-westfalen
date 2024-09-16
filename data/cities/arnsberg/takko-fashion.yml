@@ -4,8 +4,8 @@ latitude: 51.39538
 longitude: 8.13312
 postcode: "59823"
 city: Arnsberg
-street: "Widayweg"
-housenumber: 2
+street: Widayweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

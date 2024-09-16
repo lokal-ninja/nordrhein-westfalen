@@ -4,8 +4,8 @@ latitude: 51.74362
 longitude: 8.728
 postcode: "33104"
 city: Paderborn
-street: "Marienloher Straße"
-housenumber: 45
+street: Marienloher Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.tij-power.com/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.tij-power.com/

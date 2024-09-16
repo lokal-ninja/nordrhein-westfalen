@@ -1,11 +1,11 @@
 id: 210837282
-type: way
+type: node
 latitude: 51.45802
 longitude: 6.62954
 postcode: "47441"
 city: Moers
-street: "Rheinberger Straße"
-housenumber: 46
+street: Rheinberger Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

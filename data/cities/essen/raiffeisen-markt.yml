@@ -1,11 +1,11 @@
 id: 103682054
-type: way
+type: node
 latitude: 51.38979
 longitude: 6.94416
 postcode: "45133"
 city: Essen
-street: "Meisenburgstraße"
-housenumber: 245
+street: Meisenburgstraße
+housenumber: "245"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
 website: ""

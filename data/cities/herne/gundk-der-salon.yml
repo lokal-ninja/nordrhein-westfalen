@@ -4,8 +4,8 @@ latitude: 51.51435
 longitude: 7.18007
 postcode: "44651"
 city: Herne
-street: "Herzogstraße"
-housenumber: 2
+street: Herzogstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.gkdersalon.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.gkdersalon.de/

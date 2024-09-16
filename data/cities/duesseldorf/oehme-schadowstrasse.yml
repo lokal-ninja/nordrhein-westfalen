@@ -4,8 +4,8 @@ latitude: 51.2252
 longitude: 6.78168
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 11
-phone: "+49 211 323317"
-opening_hours: "Mo-Sa 07:45-20:00"
-website: "https://www.oehme24.de/"
+street: Schadowstraße
+housenumber: "11"
+phone: +49 211 323317
+opening_hours: Mo-Sa 07:45-20:00
+website: https://www.oehme24.de/

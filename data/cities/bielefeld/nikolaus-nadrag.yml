@@ -4,8 +4,8 @@ latitude: 52.0191
 longitude: 8.52938
 postcode: "33602"
 city: Bielefeld
-street: "Waldhof"
-housenumber: 13
+street: Waldhof
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 15:00-18:00; Sa 11:00-16:00
 website: ""

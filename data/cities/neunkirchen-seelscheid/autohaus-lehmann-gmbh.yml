@@ -1,11 +1,11 @@
 id: 256432733
-type: way
+type: node
 latitude: 50.82436
 longitude: 7.32501
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Hennefer Straße"
-housenumber: 73
-phone: "+49 2247 4757"
+street: Hennefer Straße
+housenumber: "73"
+phone: +49 2247 4757
 opening_hours: ""
-website: "https://www.nissan-lehmann-neunkirchen.de/de/startseite"
+website: https://www.nissan-lehmann-neunkirchen.de/de/startseite

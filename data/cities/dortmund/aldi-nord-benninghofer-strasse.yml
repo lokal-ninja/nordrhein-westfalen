@@ -1,11 +1,11 @@
 id: 32795720
-type: way
+type: node
 latitude: 51.47994
 longitude: 7.50578
 postcode: "44269"
 city: Dortmund
-street: "Benninghofer Straße"
-housenumber: 99
+street: Benninghofer Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

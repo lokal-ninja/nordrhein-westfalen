@@ -1,11 +1,11 @@
 id: 30175807
-type: way
+type: node
 latitude: 52.20264
 longitude: 8.58155
 postcode: "32257"
 city: Bünde
-street: "Wasserbreite"
-housenumber: 40
-phone: "+49 5223 - 904 920"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:00"
+street: Wasserbreite
+housenumber: "40"
+phone: +49 5223 - 904 920
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-16:00
 website: ""

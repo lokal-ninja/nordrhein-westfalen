@@ -4,8 +4,8 @@ latitude: 52.03004
 longitude: 8.60491
 postcode: "33719"
 city: Bielefeld
-street: "Am Teigelhof"
-housenumber: 2
-phone: "+49 521 3044058"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00, Sa 09:00-13:00"
-website: "https://buchhandlung-heepen.de/"
+street: Am Teigelhof
+housenumber: "2"
+phone: +49 521 3044058
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00, Sa 09:00-13:00
+website: https://buchhandlung-heepen.de/

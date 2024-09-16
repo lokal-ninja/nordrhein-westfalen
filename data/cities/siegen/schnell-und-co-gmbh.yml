@@ -1,11 +1,11 @@
 id: 45504626
-type: way
+type: node
 latitude: 50.90828
 longitude: 8.01058
 postcode: "57078"
 city: Siegen
-street: "Birlenbacher Straße"
-housenumber: 10
+street: Birlenbacher Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

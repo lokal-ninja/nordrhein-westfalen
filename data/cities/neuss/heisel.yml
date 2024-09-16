@@ -1,11 +1,11 @@
 id: 87556299
-type: way
+type: node
 latitude: 51.18636
 longitude: 6.67944
 postcode: "41464"
 city: Neuss
-street: "Grefrather Weg"
+street: Grefrather Weg
 housenumber: 39-41
-phone: "+49 2131 740410"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.heisel-baubedarf.de/"
+phone: +49 2131 740410
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.heisel-baubedarf.de/

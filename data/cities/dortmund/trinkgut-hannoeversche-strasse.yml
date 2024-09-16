@@ -1,11 +1,11 @@
 id: 34590764
-type: way
+type: node
 latitude: 51.5241
 longitude: 7.50877
 postcode: "44143"
 city: Dortmund
-street: "Hannöversche Straße"
-housenumber: 54
-phone: "+49 231 5310629"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-19:00; PH,Su off"
+street: Hannöversche Straße
+housenumber: "54"
+phone: +49 231 5310629
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-19:00; PH,Su off
 website: ""

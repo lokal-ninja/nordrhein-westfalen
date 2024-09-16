@@ -4,8 +4,8 @@ latitude: 51.49089
 longitude: 7.55562
 postcode: "44287"
 city: Dortmund
-street: "Wittbräucker Straße"
-housenumber: 2
-phone: "+49 231 5676071"
-opening_hours: "Mo,Th 09:00-13:00,15:00-18:00; Tu,We,Fr 09:00-13:00; Sa,Su,PH off"
-website: "https://www.lebenswert-do.de/"
+street: Wittbräucker Straße
+housenumber: "2"
+phone: +49 231 5676071
+opening_hours: Mo,Th 09:00-13:00,15:00-18:00; Tu,We,Fr 09:00-13:00; Sa,Su,PH off
+website: https://www.lebenswert-do.de/

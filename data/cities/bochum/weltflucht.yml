@@ -4,8 +4,8 @@ latitude: 51.48033
 longitude: 7.22036
 postcode: "44787"
 city: Bochum
-street: "Hellweg"
-housenumber: 2
-phone: "+49 234 54620780"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://weltfluchtbochum.de/"
+street: Hellweg
+housenumber: "2"
+phone: +49 234 54620780
+opening_hours: Mo-Sa 10:00-20:00
+website: https://weltfluchtbochum.de/

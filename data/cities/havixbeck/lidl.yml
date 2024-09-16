@@ -1,11 +1,11 @@
 id: 267475009
-type: way
+type: node
 latitude: 51.97759
 longitude: 7.40484
 postcode: "48329"
 city: Havixbeck
-street: "An der Feuerwache"
-housenumber: 35
+street: An der Feuerwache
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

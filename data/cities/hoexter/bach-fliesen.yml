@@ -1,11 +1,11 @@
 id: 251105512
-type: way
+type: node
 latitude: 51.78301
 longitude: 9.39243
 postcode: "37671"
 city: Höxter
-street: "Zur Lüre"
-housenumber: 43
+street: Zur Lüre
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.92
 longitude: 6.9692
 postcode: "50678"
 city: Köln
-street: "Agrippinawerft"
-housenumber: 24
-phone: "+49 221 2773680"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.vitra-studio.de/"
+street: Agrippinawerft
+housenumber: "24"
+phone: +49 221 2773680
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.vitra-studio.de/

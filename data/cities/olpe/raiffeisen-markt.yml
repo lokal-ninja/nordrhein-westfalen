@@ -1,11 +1,11 @@
 id: 244949866
-type: way
+type: node
 latitude: 51.03022
 longitude: 7.8397
 postcode: "57462"
 city: Olpe
-street: "Hugo-Ruegenberg-Straße"
-housenumber: 3
+street: Hugo-Ruegenberg-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

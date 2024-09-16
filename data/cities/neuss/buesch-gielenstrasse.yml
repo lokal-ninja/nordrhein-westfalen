@@ -4,8 +4,8 @@ latitude: 51.19654
 longitude: 6.68043
 postcode: "41460"
 city: Neuss
-street: "Gielenstraße"
-housenumber: 73
-phone: "+49 2131 1782193"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.baeckerei-buesch.de/"
+street: Gielenstraße
+housenumber: "73"
+phone: +49 2131 1782193
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.baeckerei-buesch.de/

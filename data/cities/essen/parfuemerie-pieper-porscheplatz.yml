@@ -1,11 +1,11 @@
 id: 442585233
-type: way
+type: node
 latitude: 51.45708
 longitude: 7.01428
 postcode: "45127"
 city: Essen
-street: "Porscheplatz"
-housenumber: 2
+street: Porscheplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

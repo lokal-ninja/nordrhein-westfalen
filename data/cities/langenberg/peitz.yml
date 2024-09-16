@@ -1,11 +1,11 @@
 id: 107178738
-type: way
+type: node
 latitude: 51.75805
 longitude: 8.3276
 postcode: "33449"
 city: Langenberg
-street: "Grüner Weg"
-housenumber: 1
+street: Grüner Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

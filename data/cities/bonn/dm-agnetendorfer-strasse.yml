@@ -1,11 +1,11 @@
 id: 28797467
-type: way
+type: node
 latitude: 50.75278
 longitude: 7.04536
 postcode: "53119"
 city: Bonn
-street: "Agnetendorfer Straße"
-housenumber: 4
-phone: "+49 228 92894599"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-1522/bonn/agnetendorfer-strasse-4"
+street: Agnetendorfer Straße
+housenumber: "4"
+phone: +49 228 92894599
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-1522/bonn/agnetendorfer-strasse-4

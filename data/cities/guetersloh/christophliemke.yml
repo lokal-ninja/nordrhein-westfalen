@@ -4,8 +4,8 @@ latitude: 51.91384
 longitude: 8.45685
 postcode: "33335"
 city: Gütersloh
-street: "Sürenheider Straße"
-housenumber: 58
-phone: "+49 5241 77324"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:30; PH,Mo,Su off"
-website: "https://www.christophliemke.de/"
+street: Sürenheider Straße
+housenumber: "58"
+phone: +49 5241 77324
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:30; PH,Mo,Su off
+website: https://www.christophliemke.de/

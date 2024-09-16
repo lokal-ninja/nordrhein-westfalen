@@ -4,8 +4,8 @@ latitude: 51.35651
 longitude: 7.47407
 postcode: "58095"
 city: Hagen
-street: "Marienstraße"
-housenumber: 7
-phone: "+49 2331 32689"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.rathaus-buchhandlung.de"
+street: Marienstraße
+housenumber: "7"
+phone: +49 2331 32689
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.rathaus-buchhandlung.de

@@ -1,11 +1,11 @@
 id: 129765221
-type: way
+type: node
 latitude: 52.26421
 longitude: 8.90639
 postcode: "32457"
 city: Porta Westfalica
-street: "Portastraße"
-housenumber: 119
+street: Portastraße
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

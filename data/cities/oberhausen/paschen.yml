@@ -1,11 +1,11 @@
 id: 225880228
-type: way
+type: node
 latitude: 51.46377
 longitude: 6.85264
 postcode: "46045"
 city: Oberhausen
-street: "Lothringer Straße"
-housenumber: 118
+street: Lothringer Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; PH off"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00; PH off
 website: ""

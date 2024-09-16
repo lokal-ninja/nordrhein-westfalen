@@ -1,11 +1,11 @@
 id: 451785295
-type: way
+type: node
 latitude: 51.47021
 longitude: 6.82237
 postcode: "46049"
 city: Oberhausen
-street: "Duisburger Straße"
-housenumber: 533
+street: Duisburger Straße
+housenumber: "533"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

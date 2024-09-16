@@ -1,11 +1,11 @@
 id: 300556397
-type: way
+type: node
 latitude: 51.66081
 longitude: 7.11206
 postcode: "45770"
 city: Marl
-street: "Bergstraße"
-housenumber: 160
+street: Bergstraße
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

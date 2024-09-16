@@ -4,8 +4,8 @@ latitude: 51.57178
 longitude: 7.382
 postcode: "44359"
 city: Dortmund
-street: "Mengeder Straße"
-housenumber: 724
-phone: "+49 231 39648114"
-opening_hours: "Mo-Sa 09:00-12:00, Tu,Th 16:00-18:30"
-website: "https://www.tauchcenter-dortmund.de/"
+street: Mengeder Straße
+housenumber: "724"
+phone: +49 231 39648114
+opening_hours: Mo-Sa 09:00-12:00, Tu,Th 16:00-18:30
+website: https://www.tauchcenter-dortmund.de/

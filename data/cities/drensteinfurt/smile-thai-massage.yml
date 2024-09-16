@@ -1,11 +1,11 @@
 id: 54509708
-type: way
+type: node
 latitude: 51.79754
 longitude: 7.74034
 postcode: "48317"
 city: Drensteinfurt
-street: "Wagenfeldstraße"
-housenumber: 18
+street: Wagenfeldstraße
+housenumber: "18"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

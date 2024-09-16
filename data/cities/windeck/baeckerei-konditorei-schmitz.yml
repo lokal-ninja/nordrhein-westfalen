@@ -1,11 +1,11 @@
 id: 266631836
-type: way
+type: node
 latitude: 50.78067
 longitude: 7.51055
 postcode: "51570"
 city: Windeck
-street: "Siegtalstraße"
-housenumber: 31
+street: Siegtalstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 06:30-12:30; Su 07:00-11:15"
+opening_hours: Mo-Sa 06:30-12:30; Su 07:00-11:15
 website: ""

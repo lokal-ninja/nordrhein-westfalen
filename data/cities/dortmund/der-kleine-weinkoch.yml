@@ -4,8 +4,8 @@ latitude: 51.51289
 longitude: 7.49604
 postcode: "44143"
 city: Dortmund
-street: "Davidisstraße"
-housenumber: 39
-phone: "+49 177 7272062"
-opening_hours: "Th-Sa 10:00-13:00; Th-Fr 15:00-20:00"
-website: "http://kochwein.info/"
+street: Davidisstraße
+housenumber: "39"
+phone: +49 177 7272062
+opening_hours: Th-Sa 10:00-13:00; Th-Fr 15:00-20:00
+website: http://kochwein.info/

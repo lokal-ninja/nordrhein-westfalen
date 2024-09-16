@@ -4,8 +4,8 @@ latitude: 50.72314
 longitude: 7.0657
 postcode: "53121"
 city: Bonn
-street: "Euskirchener Straße"
-housenumber: 69
+street: Euskirchener Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Di, Mi, Fr, Da nach Vereinbarung"
-website: "https://www.zimmermann-friseure.de/"
+opening_hours: '"Di, Mi, Fr, Da nach Vereinbarung"'
+website: https://www.zimmermann-friseure.de/

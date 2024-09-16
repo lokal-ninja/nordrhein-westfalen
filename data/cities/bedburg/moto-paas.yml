@@ -1,11 +1,12 @@
 id: 468715832
-type: way
+type: node
 latitude: 50.99594
 longitude: 6.57481
 postcode: "50181"
 city: Bedburg
-street: "Arnold-Freund-Straße"
-housenumber: 14
+street: Arnold-Freund-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mar-Sep: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Oct-Feb: Mo-Fr 09:00-17:30; PH off"
+opening_hours: 'Mar-Sep: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Oct-Feb: Mo-Fr 09:00-17:30;
+    PH off'
 website: ""

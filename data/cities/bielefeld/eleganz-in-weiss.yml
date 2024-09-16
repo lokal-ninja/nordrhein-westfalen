@@ -4,8 +4,8 @@ latitude: 52.02486
 longitude: 8.52339
 postcode: "33615"
 city: Bielefeld
-street: "Stapenhorststraße"
-housenumber: 32
-phone: "+49 521 32723833"
-opening_hours: "appointment only"
-website: "https://eleganz-in-weiss.de/"
+street: Stapenhorststraße
+housenumber: "32"
+phone: +49 521 32723833
+opening_hours: '"appointment only"'
+website: https://eleganz-in-weiss.de/

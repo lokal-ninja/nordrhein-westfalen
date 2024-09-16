@@ -1,11 +1,11 @@
 id: 42707946
-type: way
+type: node
 latitude: 51.35589
 longitude: 7.51325
 postcode: "58093"
 city: Hagen
-street: "Karl-Ernst-Osthaus-Straße"
-housenumber: 90
-phone: "+49 2331 953417"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe-ihr-kaufpark.de/markt/hagen-emsterfeld/"
+street: Karl-Ernst-Osthaus-Straße
+housenumber: "90"
+phone: +49 2331 953417
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe-ihr-kaufpark.de/markt/hagen-emsterfeld/

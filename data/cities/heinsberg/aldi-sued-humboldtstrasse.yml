@@ -1,11 +1,11 @@
 id: 227300916
-type: way
+type: node
 latitude: 51.06811
 longitude: 6.10906
 postcode: "52525"
 city: Heinsberg
-street: "Humboldtstraße"
-housenumber: 22
+street: Humboldtstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

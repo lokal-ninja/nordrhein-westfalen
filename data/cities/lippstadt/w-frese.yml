@@ -1,11 +1,11 @@
 id: 259346859
-type: way
+type: node
 latitude: 51.69328
 longitude: 8.38129
 postcode: "59558"
 city: Lippstadt
-street: "Sandstraße"
-housenumber: 34
+street: Sandstraße
+housenumber: "34"
 phone: "+49294165358"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

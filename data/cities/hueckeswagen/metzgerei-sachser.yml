@@ -1,11 +1,11 @@
 id: 315611248
-type: way
+type: node
 latitude: 51.11768
 longitude: 7.2871
 postcode: "42499"
 city: Hückeswagen
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:30, 14:30-18:15"
+opening_hours: Tu-Fr 08:30-12:30, 14:30-18:15
 website: ""

@@ -1,11 +1,11 @@
 id: 275312338
-type: way
+type: node
 latitude: 51.87978
 longitude: 8.94609
 postcode: "32805"
 city: Horn-Bad Meinberg
-street: "Stahler Weg"
-housenumber: 3
+street: Stahler Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.anhaenger-rosemeier.de/"
+website: https://www.anhaenger-rosemeier.de/

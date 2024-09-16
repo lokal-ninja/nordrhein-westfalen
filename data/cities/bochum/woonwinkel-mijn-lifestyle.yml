@@ -4,8 +4,8 @@ latitude: 51.45467
 longitude: 7.20051
 postcode: "44795"
 city: Bochum
-street: "Wasserstraße"
-housenumber: 432
-phone: "+49 234 5472905"
-opening_hours: "We-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.woonwinkel-bochum.de/"
+street: Wasserstraße
+housenumber: "432"
+phone: +49 234 5472905
+opening_hours: We-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.woonwinkel-bochum.de/

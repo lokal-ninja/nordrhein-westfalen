@@ -1,11 +1,11 @@
 id: 135700656
-type: way
+type: node
 latitude: 50.7765
 longitude: 7.07345
 postcode: "53859"
 city: Niederkassel
-street: "Provinzialstraße"
-housenumber: 63
+street: Provinzialstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

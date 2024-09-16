@@ -4,8 +4,9 @@ latitude: 51.44172
 longitude: 7.21348
 postcode: "44795"
 city: Bochum
-street: "Markstraße"
-housenumber: 408
+street: Markstraße
+housenumber: "408"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-13:00; und nach terminlicher Vereinbarung"
-website: "https://www.alexoptik.de"
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-13:00; "und nach terminlicher
+    Vereinbarung"
+website: https://www.alexoptik.de

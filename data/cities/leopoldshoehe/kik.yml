@@ -1,11 +1,11 @@
 id: 435459027
-type: way
+type: node
 latitude: 52.01161
 longitude: 8.70112
 postcode: "33818"
 city: Leopoldshöhe
-street: "Kentruper Straße"
-housenumber: 24
+street: Kentruper Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

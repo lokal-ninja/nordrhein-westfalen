@@ -4,8 +4,8 @@ latitude: 52.02856
 longitude: 8.89997
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 74
-phone: "+49 5261 667788"
-opening_hours: "Mo off, Tu 10:00-13:00,14:30-18:00, Sa 10:00-14:00; Su,PH off"
-website: "https://dieschmiede-lemgo.de/"
+street: Mittelstraße
+housenumber: "74"
+phone: +49 5261 667788
+opening_hours: Mo off, Tu 10:00-13:00,14:30-18:00, Sa 10:00-14:00; Su,PH off
+website: https://dieschmiede-lemgo.de/

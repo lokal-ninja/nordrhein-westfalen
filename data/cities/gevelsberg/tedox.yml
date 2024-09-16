@@ -1,11 +1,11 @@
 id: 144635295
-type: way
+type: node
 latitude: 51.32632
 longitude: 7.35332
 postcode: "58285"
 city: Gevelsberg
-street: "An der Drehbank"
-housenumber: 4
-phone: "+49 2332 509420"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.tedox.de"
+street: An der Drehbank
+housenumber: "4"
+phone: +49 2332 509420
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.tedox.de

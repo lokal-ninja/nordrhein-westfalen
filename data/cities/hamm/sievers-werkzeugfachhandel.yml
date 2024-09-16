@@ -1,11 +1,11 @@
 id: 374711810
-type: way
+type: node
 latitude: 51.69312
 longitude: 7.73894
 postcode: "59075"
 city: Hamm
-street: "Hammer Straße"
-housenumber: 44
+street: Hammer Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-15:00; Sa,Su,PH off"
-website: "https://www.sieversgmbh.com/kontakt/hamm"
+opening_hours: Mo-Th 07:00-17:00;Fr 07:00-15:00; Sa,Su,PH off
+website: https://www.sieversgmbh.com/kontakt/hamm

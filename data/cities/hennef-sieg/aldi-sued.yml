@@ -1,11 +1,11 @@
 id: 112161336
-type: way
+type: node
 latitude: 50.78323
 longitude: 7.25596
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Löhestraße"
-housenumber: 1
+street: Löhestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de/

@@ -1,11 +1,11 @@
 id: 33341671
-type: way
+type: node
 latitude: 51.57676
 longitude: 6.75136
 postcode: "46537"
 city: Dinslaken
-street: "Augustastraße"
-housenumber: 229
+street: Augustastraße
+housenumber: "229"
 phone: ""
 opening_hours: ""
-website: "https://www.lackas.de/"
+website: https://www.lackas.de/

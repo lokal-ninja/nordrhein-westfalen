@@ -1,11 +1,11 @@
 id: 214789147
-type: way
+type: node
 latitude: 50.89002
 longitude: 7.64877
 postcode: "51545"
 city: Waldbröl
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.teileland.de/"
+website: https://www.teileland.de/

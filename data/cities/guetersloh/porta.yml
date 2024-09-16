@@ -1,11 +1,11 @@
 id: 277801092
-type: way
+type: node
 latitude: 51.90829
 longitude: 8.3907
 postcode: "33332"
 city: Gütersloh
-street: "Friedrich-Ebert-Straße"
-housenumber: 101
+street: Friedrich-Ebert-Straße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00;PH,Su off"
-website: "https://porta.de/"
+opening_hours: Mo-Sa 10:00-20:00;PH,Su off
+website: https://porta.de/

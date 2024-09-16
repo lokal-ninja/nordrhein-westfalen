@@ -1,11 +1,11 @@
 id: 280443231
-type: way
+type: node
 latitude: 51.83543
 longitude: 8.31316
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Marienstraße"
-housenumber: 24
+street: Marienstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

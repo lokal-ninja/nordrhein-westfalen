@@ -1,11 +1,11 @@
 id: 394343167
-type: way
+type: node
 latitude: 51.16589
 longitude: 7.08401
 postcode: "42651"
 city: Solingen
-street: "Am Südpark"
-housenumber: 2
+street: Am Südpark
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-14:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-14:00
 website: ""

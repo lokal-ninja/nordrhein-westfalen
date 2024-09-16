@@ -4,8 +4,8 @@ latitude: 50.74427
 longitude: 7.11712
 postcode: "53225"
 city: Bonn
-street: "Jahnstraße"
-housenumber: 20
+street: Jahnstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 09:30-14:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 09:30-14:00
 website: ""

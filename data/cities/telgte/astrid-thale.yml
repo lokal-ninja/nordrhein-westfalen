@@ -4,8 +4,8 @@ latitude: 51.98521
 longitude: 7.78262
 postcode: "48291"
 city: Telgte
-street: "Münsterstraße"
-housenumber: 31
-phone: "+49 159 5239181"
-opening_hours: "Termine nach Vereinbarung"
+street: Münsterstraße
+housenumber: "31"
+phone: +49 159 5239181
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

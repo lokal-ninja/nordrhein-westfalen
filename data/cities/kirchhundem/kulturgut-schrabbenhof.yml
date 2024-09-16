@@ -1,11 +1,11 @@
 id: 282094791
-type: way
+type: node
 latitude: 51.03178
 longitude: 8.03728
 postcode: "57399"
 city: Kirchhundem
-street: "Silberger Straße"
-housenumber: 32
+street: Silberger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mi 14:30-17:00 Uhr"
-website: "https://www.kulturgut-schrabbenhof.de/"
+opening_hours: Mi 14:30-17:00 Uhr
+website: https://www.kulturgut-schrabbenhof.de/

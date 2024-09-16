@@ -4,8 +4,8 @@ latitude: 52.06274
 longitude: 8.42362
 postcode: "33824"
 city: Werther (Westf.)
-street: "Wellenstraße"
-housenumber: 11
+street: Wellenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "We-Fr 15:00-18:00; Sa 10:00-13:00"
-website: "https://www.apfelgarten-linhorst.de/"
+opening_hours: We-Fr 15:00-18:00; Sa 10:00-13:00
+website: https://www.apfelgarten-linhorst.de/

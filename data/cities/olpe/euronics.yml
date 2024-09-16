@@ -4,8 +4,8 @@ latitude: 51.02577
 longitude: 7.84372
 postcode: "57462"
 city: Olpe
-street: "Bruchstraße"
-housenumber: 18
+street: Bruchstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.euronics.de/olpe-huepper/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.euronics.de/olpe-huepper/

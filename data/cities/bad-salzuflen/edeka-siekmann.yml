@@ -1,11 +1,11 @@
 id: 30001629
-type: way
+type: node
 latitude: 52.06611
 longitude: 8.76688
 postcode: "32108"
 city: Bad Salzuflen
-street: "Lemgoer Straße"
-housenumber: 22
-phone: "+49 5222 921157"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-siekmann-lemgoer-str.-20/index.jsp"
+street: Lemgoer Straße
+housenumber: "22"
+phone: +49 5222 921157
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-siekmann-lemgoer-str.-20/index.jsp

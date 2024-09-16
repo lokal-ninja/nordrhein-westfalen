@@ -1,11 +1,11 @@
 id: 271032452
-type: way
+type: node
 latitude: 51.6085
 longitude: 8.66097
 postcode: "33142"
 city: Büren
-street: "Ahornstraße"
-housenumber: 7
+street: Ahornstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

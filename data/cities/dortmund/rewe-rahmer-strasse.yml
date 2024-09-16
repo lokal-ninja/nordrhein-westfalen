@@ -1,11 +1,11 @@
 id: 53155065
-type: way
+type: node
 latitude: 51.52445
 longitude: 7.38693
 postcode: "44369"
 city: Dortmund
-street: "Rahmer Straße"
-housenumber: 262
+street: Rahmer Straße
+housenumber: "262"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

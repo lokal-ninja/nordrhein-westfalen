@@ -4,8 +4,8 @@ latitude: 51.14088
 longitude: 7.21417
 postcode: "42929"
 city: Wermelskirchen
-street: "Telegrafenstraße"
-housenumber: 42
+street: Telegrafenstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:30; Fr 06:30-18:30; Sa 06:30-13:00; PH off"
-website: "https://www.daum-eickhorn.de/"
+opening_hours: Mo-Th 07:00-18:30; Fr 06:30-18:30; Sa 06:30-13:00; PH off
+website: https://www.daum-eickhorn.de/

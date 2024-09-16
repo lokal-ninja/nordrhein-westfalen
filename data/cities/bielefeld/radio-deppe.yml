@@ -4,8 +4,9 @@ latitude: 51.99324
 longitude: 8.60551
 postcode: "33699"
 city: Bielefeld
-street: "Detmolder Straße"
-housenumber: 562
+street: Detmolder Straße
+housenumber: "562"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Sa 09:00-13:00; Su,PH off"
-website: "https://radiodeppe.de/"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Sa 09:00-13:00; Su,PH
+    off
+website: https://radiodeppe.de/

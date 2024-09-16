@@ -1,11 +1,11 @@
 id: 34568690
-type: way
+type: node
 latitude: 51.68753
 longitude: 8.34138
 postcode: "59555"
 city: Lippstadt
-street: "Bastertweg"
-housenumber: 8
+street: Bastertweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

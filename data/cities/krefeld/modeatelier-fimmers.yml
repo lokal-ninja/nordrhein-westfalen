@@ -1,11 +1,11 @@
 id: 277390506
-type: way
+type: node
 latitude: 51.37055
 longitude: 6.51176
 postcode: "47839"
 city: Krefeld
-street: "Krefelder Straße"
-housenumber: 60
+street: Krefelder Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

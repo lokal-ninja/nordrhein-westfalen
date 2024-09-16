@@ -1,11 +1,11 @@
 id: 134272981
-type: way
+type: node
 latitude: 51.4864
 longitude: 8.33669
 postcode: "59581"
 city: Warstein
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: "+49290271628"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.03236
 longitude: 8.60428
 postcode: "33719"
 city: Bielefeld
-street: "Salzufler Straße"
-housenumber: 5
-phone: "+49-521-335826"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00"
+street: Salzufler Straße
+housenumber: "5"
+phone: +49-521-335826
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00
 website: ""

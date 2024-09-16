@@ -4,8 +4,8 @@ latitude: 51.27167
 longitude: 7.21294
 postcode: "42289"
 city: Wuppertal
-street: "Brändströmstraße"
-housenumber: 21
-phone: "+49 202 44889885"
-opening_hours: "Mo-Fr 10:00-17:00; Sa,Su,PH off"
-website: "https://wupper-elektromobile.de/"
+street: Brändströmstraße
+housenumber: "21"
+phone: +49 202 44889885
+opening_hours: Mo-Fr 10:00-17:00; Sa,Su,PH off
+website: https://wupper-elektromobile.de/

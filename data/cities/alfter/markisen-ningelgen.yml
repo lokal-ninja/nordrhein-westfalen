@@ -4,8 +4,8 @@ latitude: 50.72665
 longitude: 7.02366
 postcode: "53347"
 city: Alfter
-street: "Alfterer Straße"
-housenumber: 128
-phone: "+49 2222 2239"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-17:00; Sa 09:00-12:30"
-website: "http://ningelgen-markisen.de"
+street: Alfterer Straße
+housenumber: "128"
+phone: +49 2222 2239
+opening_hours: Mo-Fr 09:00-12:30, 14:00-17:00; Sa 09:00-12:30
+website: http://ningelgen-markisen.de

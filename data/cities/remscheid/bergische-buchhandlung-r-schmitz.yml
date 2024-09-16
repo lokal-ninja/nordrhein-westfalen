@@ -4,8 +4,8 @@ latitude: 51.19171
 longitude: 7.25728
 postcode: "42897"
 city: Remscheid
-street: "Wetterauer Straße"
-housenumber: 6
+street: Wetterauer Straße
+housenumber: "6"
 phone: "+492191668255"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.bergischebuchhandlung.de/index.php?id=14"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.bergischebuchhandlung.de/index.php?id=14

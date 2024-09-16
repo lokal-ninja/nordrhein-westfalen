@@ -4,8 +4,8 @@ latitude: 50.73964
 longitude: 7.09439
 postcode: "53111"
 city: Bonn
-street: "Wolfstraße"
-housenumber: 22
-phone: "+49 172 4374957"
-opening_hours: "We-Sa 12:30-16:00,16:45-19:30"
-website: "https://www.nippon4u.com/"
+street: Wolfstraße
+housenumber: "22"
+phone: +49 172 4374957
+opening_hours: We-Sa 12:30-16:00,16:45-19:30
+website: https://www.nippon4u.com/

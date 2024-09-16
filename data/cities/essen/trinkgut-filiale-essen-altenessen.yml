@@ -1,11 +1,11 @@
 id: 81632551
-type: way
+type: node
 latitude: 51.48929
 longitude: 7.00846
 postcode: "45326"
 city: Essen
-street: "Altenessener Straße"
-housenumber: 295
+street: Altenessener Straße
+housenumber: "295"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH Su off"
-website: "https://www.trinkgut.de/markt/filiale-essen-altenessen"
+opening_hours: Mo-Sa 08:00-20:00; PH Su off
+website: https://www.trinkgut.de/markt/filiale-essen-altenessen

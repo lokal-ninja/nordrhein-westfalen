@@ -4,8 +4,8 @@ latitude: 50.77184
 longitude: 7.2125
 postcode: "53757"
 city: Sankt Augustin
-street: "Schulstraße"
-housenumber: 3
+street: Schulstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://takko.com/"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://takko.com/

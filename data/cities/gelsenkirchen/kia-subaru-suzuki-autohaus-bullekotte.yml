@@ -1,11 +1,11 @@
 id: 27934305
-type: way
+type: node
 latitude: 51.55478
 longitude: 7.03112
 postcode: "45899"
 city: Gelsenkirchen
-street: "Braukämperstraße"
-housenumber: 111
+street: Braukämperstraße
+housenumber: "111"
 phone: ""
-opening_hours: "Werkstatt abweichend"
+opening_hours: '"Werkstatt abweichend"'
 website: ""

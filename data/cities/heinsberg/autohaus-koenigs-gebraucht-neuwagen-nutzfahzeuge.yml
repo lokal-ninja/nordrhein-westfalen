@@ -1,11 +1,11 @@
 id: 801295632
-type: way
+type: node
 latitude: 51.0615
 longitude: 6.1137
 postcode: "52525"
 city: Heinsberg
-street: "Industriestraße"
-housenumber: 45
-phone: "+49 2452 91880"
-opening_hours: "07:00-18:30"
-website: "http://www.koenigs.de"
+street: Industriestraße
+housenumber: "45"
+phone: +49 2452 91880
+opening_hours: 07:00-18:30
+website: http://www.koenigs.de

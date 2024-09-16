@@ -1,11 +1,11 @@
 id: 102347243
-type: way
+type: node
 latitude: 51.67067
 longitude: 6.17057
 postcode: "47574"
 city: Goch
-street: "Höster Weg"
-housenumber: 3
+street: Höster Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

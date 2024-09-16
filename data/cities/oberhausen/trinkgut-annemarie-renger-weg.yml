@@ -1,11 +1,11 @@
 id: 227821119
-type: way
+type: node
 latitude: 51.48249
 longitude: 6.88385
 postcode: "46047"
 city: Oberhausen
-street: "Annemarie-Renger-Weg"
-housenumber: 8
+street: Annemarie-Renger-Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

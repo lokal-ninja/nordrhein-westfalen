@@ -4,8 +4,8 @@ latitude: 51.45293
 longitude: 7.96236
 postcode: "59755"
 city: Arnsberg
-street: "Neheimer Markt"
-housenumber: 15
-phone: "+49 2932 26018"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-13:00"
-website: "https://www.reisemarkt-ad.de/"
+street: Neheimer Markt
+housenumber: "15"
+phone: +49 2932 26018
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:30; Sa 09:00-13:00
+website: https://www.reisemarkt-ad.de/

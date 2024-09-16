@@ -1,11 +1,11 @@
 id: 223399245
-type: way
+type: node
 latitude: 52.0727
 longitude: 8.51519
 postcode: "33739"
 city: Bielefeld
-street: "Jöllenbecker Straße"
-housenumber: 409
+street: Jöllenbecker Straße
+housenumber: "409"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.02483
 longitude: 8.53196
 postcode: "33602"
 city: Bielefeld
-street: "Stresemannstraße"
-housenumber: 1
+street: Stresemannstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
 website: ""

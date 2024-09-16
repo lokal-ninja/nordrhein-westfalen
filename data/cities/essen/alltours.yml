@@ -1,11 +1,11 @@
 id: 84451229
-type: way
+type: node
 latitude: 51.47663
 longitude: 7.02944
 postcode: "45141"
 city: Essen
-street: "Tuttmannstraße"
-housenumber: 46
+street: Tuttmannstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.19839
 longitude: 6.69214
 postcode: "41460"
 city: Neuss
-street: "Büchel"
-housenumber: 3
-phone: "+49 2131 178671"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.apollo.de/"
+street: Büchel
+housenumber: "3"
+phone: +49 2131 178671
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.apollo.de/

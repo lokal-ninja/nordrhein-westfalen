@@ -4,8 +4,8 @@ latitude: 52.42782
 longitude: 9.0382
 postcode: "32469"
 city: Petershagen
-street: "Döhrener Straße"
-housenumber: 17
+street: Döhrener Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 05:30-12:00"
-website: "https://www.baeckerei-schwerdtfeger.de/"
+opening_hours: Mo-Sa 05:30-12:00
+website: https://www.baeckerei-schwerdtfeger.de/

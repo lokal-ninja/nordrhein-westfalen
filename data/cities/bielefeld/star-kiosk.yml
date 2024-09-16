@@ -4,8 +4,8 @@ latitude: 52.02374
 longitude: 8.53532
 postcode: "33602"
 city: Bielefeld
-street: "Wilhelmstraße"
-housenumber: 2
+street: Wilhelmstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-24:00, Sa 10:00-02:00, Su,PH 11:00-24:00"
+opening_hours: Mo-Fr 09:00-24:00, Sa 10:00-02:00, Su,PH 11:00-24:00
 website: ""

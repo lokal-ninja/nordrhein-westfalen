@@ -1,11 +1,11 @@
 id: 286374913
-type: way
+type: node
 latitude: 50.77277
 longitude: 6.21466
 postcode: "52223"
 city: Stolberg (Rhld.)
-street: "Mauerstraße"
-housenumber: 44
+street: Mauerstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

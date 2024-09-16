@@ -1,11 +1,11 @@
 id: 31728049
-type: way
+type: node
 latitude: 51.47356
 longitude: 6.96509
 postcode: "45355"
 city: Essen
-street: "Keunefeld"
-housenumber: 4
+street: Keunefeld
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

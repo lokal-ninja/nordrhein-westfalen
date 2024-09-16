@@ -1,11 +1,11 @@
 id: 68751567
-type: way
+type: node
 latitude: 52.24922
 longitude: 8.73255
 postcode: "32549"
 city: Bad Oeynhausen
-street: "Bollweg"
-housenumber: 7
+street: Bollweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

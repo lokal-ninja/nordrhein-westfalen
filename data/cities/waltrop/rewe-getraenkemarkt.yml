@@ -1,11 +1,11 @@
 id: 197396598
-type: way
+type: node
 latitude: 51.62263
 longitude: 7.3934
 postcode: "45731"
 city: Waltrop
-street: "Hilberstraße"
-housenumber: 22
-phone: "+49 2309 409294"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Hilberstraße
+housenumber: "22"
+phone: +49 2309 409294
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

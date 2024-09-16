@@ -1,11 +1,11 @@
 id: 131743727
-type: way
+type: node
 latitude: 51.39654
 longitude: 7.4701
 postcode: "58099"
 city: Hagen
-street: "Schwerter Straße"
-housenumber: 143
+street: Schwerter Straße
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

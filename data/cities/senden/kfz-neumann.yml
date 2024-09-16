@@ -1,11 +1,11 @@
 id: 675413888
-type: way
+type: node
 latitude: 51.90635
 longitude: 7.48102
 postcode: "48308"
 city: Senden
-street: "Im Südfeld"
-housenumber: 80
+street: Im Südfeld
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://autoteam-neumann.de"
+website: https://autoteam-neumann.de

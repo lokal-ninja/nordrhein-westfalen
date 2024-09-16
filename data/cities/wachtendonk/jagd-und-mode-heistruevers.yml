@@ -1,11 +1,11 @@
 id: 123270187
-type: way
+type: node
 latitude: 51.41033
 longitude: 6.3476
 postcode: "47669"
 city: Wachtendonk
-street: "Auf dem Bock"
-housenumber: 30
-phone: "+49 2836 206"
-opening_hours: "Mo 10:00-12:30; Tu-Fr 10:00-12:30,14:30-18:30; Sa 10:00-13:00"
-website: "https://www.heistruevers.de/"
+street: Auf dem Bock
+housenumber: "30"
+phone: +49 2836 206
+opening_hours: Mo 10:00-12:30; Tu-Fr 10:00-12:30,14:30-18:30; Sa 10:00-13:00
+website: https://www.heistruevers.de/

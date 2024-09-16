@@ -4,8 +4,8 @@ latitude: 51.07458
 longitude: 6.59138
 postcode: "41517"
 city: Grevenbroich
-street: "Wupperstraße"
-housenumber: 7
-phone: "+49 21814717225"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:30-16:00"
-website: "https://www.baecker-schneider.de/"
+street: Wupperstraße
+housenumber: "7"
+phone: +49 21814717225
+opening_hours: Mo-Sa 06:00-19:00; Su 07:30-16:00
+website: https://www.baecker-schneider.de/

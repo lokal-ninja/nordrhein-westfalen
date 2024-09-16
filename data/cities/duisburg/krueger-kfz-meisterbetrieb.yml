@@ -4,8 +4,8 @@ latitude: 51.45082
 longitude: 6.70466
 postcode: "47198"
 city: Duisburg
-street: "Schillerstraße"
-housenumber: 13
-phone: "+49 2066 42 06 965"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa-Su closed"
+street: Schillerstraße
+housenumber: "13"
+phone: +49 2066 42 06 965
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa-Su closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.48246
 longitude: 7.21812
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 100
+street: Kortumstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.reformhaus-bacher.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.reformhaus-bacher.de/

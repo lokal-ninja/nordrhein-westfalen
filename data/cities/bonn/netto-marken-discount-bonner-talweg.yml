@@ -4,8 +4,8 @@ latitude: 50.72281
 longitude: 7.10446
 postcode: "53113"
 city: Bonn
-street: "Bonner Talweg"
-housenumber: 83
+street: Bonner Talweg
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.netto-online.de

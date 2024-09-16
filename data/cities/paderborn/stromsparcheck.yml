@@ -4,8 +4,8 @@ latitude: 51.71432
 longitude: 8.74349
 postcode: "33102"
 city: Paderborn
-street: "Bahnhofstraße"
-housenumber: 17
+street: Bahnhofstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.stromsparcheck.de"
+website: https://www.stromsparcheck.de

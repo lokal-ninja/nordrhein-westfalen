@@ -4,8 +4,8 @@ latitude: 51.48438
 longitude: 7.21878
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 134
-phone: "+49 157 86459531"
-opening_hours: "Mo,Th,Fr 10:00-12:00,15:00-17:00; Tu,PH off; We 10:00-12:00; Sa 10:00-13:00"
-website: "https://www.kokido-schuhe.de/"
+street: Kortumstraße
+housenumber: "134"
+phone: +49 157 86459531
+opening_hours: Mo,Th,Fr 10:00-12:00,15:00-17:00; Tu,PH off; We 10:00-12:00; Sa 10:00-13:00
+website: https://www.kokido-schuhe.de/

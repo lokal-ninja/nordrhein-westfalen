@@ -4,8 +4,8 @@ latitude: 51.0405
 longitude: 7.03267
 postcode: "51377"
 city: Leverkusen
-street: "Nikolaus-Groß-Straße"
-housenumber: 24
-phone: "+ 491514 0737004"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://gio-casa.de"
+street: Nikolaus-Groß-Straße
+housenumber: "24"
+phone: + 491514 0737004
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://gio-casa.de

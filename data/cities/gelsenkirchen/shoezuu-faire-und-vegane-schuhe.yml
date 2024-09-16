@@ -4,8 +4,8 @@ latitude: 51.49485
 longitude: 7.08994
 postcode: "45884"
 city: Gelsenkirchen
-street: "Memeler Straße"
-housenumber: 19
+street: Memeler Straße
+housenumber: "19"
 phone: "+491701415719"
-opening_hours: "nach Vereinbarung"
-website: "https://www.shoezuu.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.shoezuu.de/

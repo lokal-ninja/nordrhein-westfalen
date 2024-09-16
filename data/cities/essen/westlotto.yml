@@ -4,8 +4,8 @@ latitude: 51.52187
 longitude: 7.00904
 postcode: "45329"
 city: Essen
-street: "Sigambrerweg"
-housenumber: 4
+street: Sigambrerweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH Su off"
-website: "https://www.westlotto.de/service/landingpage/landingpage-google-ast.html#"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH Su off
+website: https://www.westlotto.de/service/landingpage/landingpage-google-ast.html#

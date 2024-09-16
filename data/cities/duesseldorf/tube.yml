@@ -4,8 +4,8 @@ latitude: 51.22993
 longitude: 6.77539
 postcode: "40213"
 city: Düsseldorf
-street: "Mühlengasse"
-housenumber: 3
-phone: "+49 211 320027"
-opening_hours: "Mo-Fr 09:30-19:00;Sa 10:00-16:00"
-website: "https://www.artservice-tube.de/"
+street: Mühlengasse
+housenumber: "3"
+phone: +49 211 320027
+opening_hours: Mo-Fr 09:30-19:00;Sa 10:00-16:00
+website: https://www.artservice-tube.de/

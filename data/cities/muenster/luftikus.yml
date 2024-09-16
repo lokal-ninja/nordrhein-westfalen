@@ -4,8 +4,8 @@ latitude: 51.95902
 longitude: 7.62194
 postcode: "48143"
 city: Münster
-street: "Aegidiistraße"
-housenumber: 54
+street: Aegidiistraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://www.luftikus.de/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
+website: https://www.luftikus.de/

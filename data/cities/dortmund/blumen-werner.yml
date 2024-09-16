@@ -1,11 +1,11 @@
 id: 55678741
-type: way
+type: node
 latitude: 51.50979
 longitude: 7.53425
 postcode: "44143"
 city: Dortmund
-street: "Am Gottesacker"
-housenumber: 42
-phone: "+49 231 590192"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+street: Am Gottesacker
+housenumber: "42"
+phone: +49 231 590192
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

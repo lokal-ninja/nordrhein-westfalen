@@ -1,11 +1,11 @@
 id: 233091638
-type: way
+type: node
 latitude: 51.21816
 longitude: 7.07102
 postcode: "42329"
 city: Wuppertal
-street: "Gräfrather Straße"
-housenumber: 188
+street: Gräfrather Straße
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.02843
 longitude: 8.89833
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 91
-phone: "+49 5261 93600"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5515/"
+street: Mittelstraße
+housenumber: "91"
+phone: +49 5261 93600
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5515/

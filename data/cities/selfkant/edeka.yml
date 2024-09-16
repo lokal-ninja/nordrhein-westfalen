@@ -1,11 +1,11 @@
 id: 47236237
-type: way
+type: node
 latitude: 50.99821
 longitude: 5.9297
 postcode: "52538"
 city: Selfkant
-street: "Höngener Weg"
-housenumber: 1
+street: Höngener Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

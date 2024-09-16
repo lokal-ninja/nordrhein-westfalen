@@ -4,8 +4,8 @@ latitude: 51.61559
 longitude: 6.49948
 postcode: "46519"
 city: Alpen
-street: "Jägerruh"
-housenumber: 26
-phone: "+49 2802 6369"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.spargelhof-hussmann.de/"
+street: Jägerruh
+housenumber: "26"
+phone: +49 2802 6369
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.spargelhof-hussmann.de/

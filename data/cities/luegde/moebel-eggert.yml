@@ -1,11 +1,11 @@
 id: 312484652
-type: way
+type: node
 latitude: 51.8576
 longitude: 9.29576
 postcode: "32676"
 city: Lügde
-street: "Köterbergstraße"
-housenumber: 21
+street: Köterbergstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

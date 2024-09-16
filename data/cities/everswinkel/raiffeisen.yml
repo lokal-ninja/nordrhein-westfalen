@@ -1,11 +1,11 @@
 id: 1237317015
-type: way
+type: node
 latitude: 51.92692
 longitude: 7.86215
 postcode: "48351"
 city: Everswinkel
-street: "Boschweg"
-housenumber: 41
+street: Boschweg
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

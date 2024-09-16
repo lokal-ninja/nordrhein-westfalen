@@ -4,8 +4,8 @@ latitude: 51.71766
 longitude: 8.75051
 postcode: "33098"
 city: Paderborn
-street: "Marienstraße"
-housenumber: 7
+street: Marienstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-15:00"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-15:00
 website: ""

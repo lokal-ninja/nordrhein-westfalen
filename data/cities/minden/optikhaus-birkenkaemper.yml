@@ -4,8 +4,8 @@ latitude: 52.2901
 longitude: 8.91962
 postcode: "32423"
 city: Minden
-street: "Bäckerstraße"
-housenumber: 42
+street: Bäckerstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.optik-birkenkaemper.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.optik-birkenkaemper.de

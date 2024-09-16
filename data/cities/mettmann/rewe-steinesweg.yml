@@ -1,11 +1,11 @@
 id: 30709243
-type: way
+type: node
 latitude: 51.2579
 longitude: 6.95141
 postcode: "40822"
 city: Mettmann
-street: "Steinesweg"
+street: Steinesweg
 housenumber: 2,4
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.rewe.de/

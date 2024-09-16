@@ -4,8 +4,8 @@ latitude: 51.42329
 longitude: 6.85988
 postcode: "45479"
 city: Mülheim an der Ruhr
-street: "Kriegerstraße"
-housenumber: 32
-phone: "+49 208 422239"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-18:30; Sa 07:00-13:00"
+street: Kriegerstraße
+housenumber: "32"
+phone: +49 208 422239
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-18:30; Sa 07:00-13:00
 website: ""

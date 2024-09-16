@@ -4,8 +4,9 @@ latitude: 51.88187
 longitude: 8.50889
 postcode: "33415"
 city: Verl
-street: "Paderborner Straße"
-housenumber: 4
-phone: "+49 5246 2997"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30; We 08:30-12:30; Sa 08:30-14:00; Su,PH off"
+street: Paderborner Straße
+housenumber: "4"
+phone: +49 5246 2997
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30; We 08:30-12:30; Sa 08:30-14:00; Su,PH
+    off
 website: ""

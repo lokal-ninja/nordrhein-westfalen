@@ -1,11 +1,11 @@
 id: 264469991
-type: way
+type: node
 latitude: 51.23039
 longitude: 6.63356
 postcode: "41564"
 city: Kaarst
-street: "Neusser Straße"
+street: Neusser Straße
 housenumber: 89d
-phone: "+49-2131-1767176"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de/stores/fressnapf-kaarst/"
+phone: +49-2131-1767176
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.fressnapf.de/stores/fressnapf-kaarst/

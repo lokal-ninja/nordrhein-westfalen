@@ -4,8 +4,8 @@ latitude: 51.90546
 longitude: 8.37694
 postcode: "33330"
 city: Gütersloh
-street: "Münsterstraße"
-housenumber: 4
+street: Münsterstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://haarteam.de/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://haarteam.de/

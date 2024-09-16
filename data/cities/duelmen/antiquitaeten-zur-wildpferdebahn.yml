@@ -1,11 +1,11 @@
 id: 270736232
-type: way
+type: node
 latitude: 51.8451
 longitude: 7.19798
 postcode: "48249"
 city: Dülmen
-street: "Bauerschaft"
-housenumber: 130
+street: Bauerschaft
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "http://www.antiquitaetenzurwildpferdebahn.de/"
+website: http://www.antiquitaetenzurwildpferdebahn.de/

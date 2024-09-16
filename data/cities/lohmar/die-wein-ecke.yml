@@ -4,8 +4,8 @@ latitude: 50.88519
 longitude: 7.25134
 postcode: "53797"
 city: Lohmar
-street: "Wahlscheider Straße"
-housenumber: 77
-phone: "+49 163 4824737"
-opening_hours: "Th,Fr 16:00-20:00; Sa 11:00-14:00"
-website: "https://die-wein-ecke.de/#startseite"
+street: Wahlscheider Straße
+housenumber: "77"
+phone: +49 163 4824737
+opening_hours: Th,Fr 16:00-20:00; Sa 11:00-14:00
+website: https://die-wein-ecke.de/#startseite

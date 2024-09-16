@@ -1,11 +1,11 @@
 id: 96593449
-type: way
+type: node
 latitude: 51.47417
 longitude: 7.13554
 postcode: "44867"
 city: Bochum
-street: "Fritz-Reuter-Straße"
-housenumber: 38
-phone: "+49 2327 94750"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-bochum-wattenscheid/fc/535"
+street: Fritz-Reuter-Straße
+housenumber: "38"
+phone: +49 2327 94750
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-bochum-wattenscheid/fc/535

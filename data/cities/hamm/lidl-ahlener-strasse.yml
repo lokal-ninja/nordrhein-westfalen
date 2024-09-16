@@ -1,11 +1,11 @@
 id: 133188901
-type: way
+type: node
 latitude: 51.70376
 longitude: 7.82945
 postcode: "59073"
 city: Hamm
-street: "Ahlener Straße"
-housenumber: 75
+street: Ahlener Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

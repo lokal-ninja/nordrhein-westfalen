@@ -4,8 +4,8 @@ latitude: 50.8281
 longitude: 6.90446
 postcode: "50321"
 city: Brühl
-street: "Markt"
-housenumber: 1
-phone: "+49 2232 9694070"
-opening_hours: "Mo-Fr 07:00-18:00; Sa,Su 07:00-17:00"
+street: Markt
+housenumber: "1"
+phone: +49 2232 9694070
+opening_hours: Mo-Fr 07:00-18:00; Sa,Su 07:00-17:00
 website: ""

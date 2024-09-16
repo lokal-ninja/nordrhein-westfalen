@@ -1,11 +1,11 @@
 id: 315789937
-type: way
+type: node
 latitude: 50.88458
 longitude: 6.16983
 postcode: "52477"
 city: Alsdorf
-street: "Im Brühl"
+street: Im Brühl
 housenumber: 92a
-phone: "+49 2404 1315"
+phone: +49 2404 1315
 opening_hours: ""
-website: "https://www.lenzen-gmbh.de/"
+website: https://www.lenzen-gmbh.de/

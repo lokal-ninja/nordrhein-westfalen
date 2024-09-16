@@ -4,8 +4,8 @@ latitude: 50.87458
 longitude: 8.01518
 postcode: "57072"
 city: Siegen
-street: "Am Bahnhof"
-housenumber: 40
-phone: "+49 271 571 71"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.ullapopken.de/"
+street: Am Bahnhof
+housenumber: "40"
+phone: +49 271 571 71
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.ullapopken.de/

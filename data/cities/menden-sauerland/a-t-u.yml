@@ -1,11 +1,11 @@
 id: 314648007
-type: way
+type: node
 latitude: 51.44195
 longitude: 7.7853
 postcode: "58706"
 city: Menden (Sauerland)
-street: "Hönnenwerth"
-housenumber: 5
+street: Hönnenwerth
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

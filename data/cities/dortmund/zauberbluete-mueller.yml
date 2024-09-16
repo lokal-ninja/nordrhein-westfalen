@@ -4,8 +4,8 @@ latitude: 51.47498
 longitude: 7.43566
 postcode: "44225"
 city: Dortmund
-street: "Deutsch-Luxemburger Straße"
-housenumber: 30
-phone: "+49 (0) 231 712271"
-opening_hours: "Tu-Fr 15:00-18:30,09:00-14:00; Mo 09:00-14:00; Sa 09:00-14:00"
+street: Deutsch-Luxemburger Straße
+housenumber: "30"
+phone: +49 (0) 231 712271
+opening_hours: Tu-Fr 15:00-18:30,09:00-14:00; Mo 09:00-14:00; Sa 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 137145592
-type: way
+type: node
 latitude: 50.83707
 longitude: 6.94542
 postcode: "50389"
 city: Wesseling
-street: "Industriestraße"
-housenumber: 89
+street: Industriestraße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-16:00; PH closed"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00; PH closed
 website: ""

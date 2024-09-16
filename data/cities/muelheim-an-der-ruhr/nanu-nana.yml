@@ -1,11 +1,11 @@
 id: 916736310
-type: way
+type: node
 latitude: 51.42931
 longitude: 6.88638
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Hans-Böckler-Platz"
-housenumber: 
-phone: "+49 208 3019571"
-opening_hours: "Mo-Sa 11:00-17:00"
-website: "https://www.nanu-nana.de"
+street: Hans-Böckler-Platz
+housenumber: ""
+phone: +49 208 3019571
+opening_hours: Mo-Sa 11:00-17:00
+website: https://www.nanu-nana.de

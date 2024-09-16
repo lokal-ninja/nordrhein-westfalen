@@ -1,11 +1,11 @@
 id: 64963411
-type: way
+type: node
 latitude: 50.90611
 longitude: 6.93463
 postcode: "50969"
 city: Köln
-street: "Neuer Weyerstraßerweg"
-housenumber: 2
+street: Neuer Weyerstraßerweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Fr 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00, Fr 08:00-20:00
 website: ""

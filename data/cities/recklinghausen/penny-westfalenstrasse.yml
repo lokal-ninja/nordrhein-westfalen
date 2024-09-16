@@ -1,11 +1,11 @@
 id: 195393523
-type: way
+type: node
 latitude: 51.57484
 longitude: 7.18449
 postcode: "45661"
 city: Recklinghausen
-street: "Westfalenstraße"
-housenumber: 64
+street: Westfalenstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

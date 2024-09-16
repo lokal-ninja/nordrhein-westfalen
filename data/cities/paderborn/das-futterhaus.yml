@@ -1,11 +1,11 @@
 id: 89976298
-type: way
+type: node
 latitude: 51.72948
 longitude: 8.76294
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 55
+street: Detmolder Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.futterhaus.de/"
+website: https://www.futterhaus.de/

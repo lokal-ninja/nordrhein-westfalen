@@ -1,11 +1,11 @@
 id: 284275367
-type: way
+type: node
 latitude: 51.49452
 longitude: 8.90805
 postcode: "34431"
 city: Marsberg
-street: "Kasseler Straße"
-housenumber: 38
+street: Kasseler Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

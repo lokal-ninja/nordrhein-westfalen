@@ -1,11 +1,11 @@
 id: 254246981
-type: way
+type: node
 latitude: 51.83312
 longitude: 6.62698
 postcode: "46395"
 city: Bocholt
-street: "Industriestraße"
-housenumber: 40
+street: Industriestraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 314656382
-type: way
+type: node
 latitude: 52.02521
 longitude: 7.27736
 postcode: "48720"
 city: Rosendahl
-street: "Höpinger Straße"
-housenumber: 16
-phone: "+49 2545 504"
-opening_hours: "Mo, We 08:30-12:00; Mo-Fr 14:00-18:00; Sa 08:30-17:00"
-website: "https://www.getraenke-kreuziger.de/"
+street: Höpinger Straße
+housenumber: "16"
+phone: +49 2545 504
+opening_hours: Mo, We 08:30-12:00; Mo-Fr 14:00-18:00; Sa 08:30-17:00
+website: https://www.getraenke-kreuziger.de/

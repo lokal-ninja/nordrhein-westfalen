@@ -1,11 +1,11 @@
 id: 286609196
-type: way
+type: node
 latitude: 52.1878
 longitude: 7.85481
 postcode: "49525"
 city: Lengerich
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 177753967
-type: way
+type: node
 latitude: 52.02727
 longitude: 7.28283
 postcode: "48720"
 city: Rosendahl
-street: "Breikamp"
-housenumber: 2
+street: Breikamp
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 53275833
-type: way
+type: node
 latitude: 51.50588
 longitude: 7.40173
 postcode: "44379"
 city: Dortmund
-street: "Meinhardstraße"
-housenumber: 3
+street: Meinhardstraße
+housenumber: "3"
 phone: "+498007233974"
 opening_hours: ""
-website: "https://www.moevenpick-wein.de/"
+website: https://www.moevenpick-wein.de/

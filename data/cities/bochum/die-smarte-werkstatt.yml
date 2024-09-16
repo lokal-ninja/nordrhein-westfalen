@@ -4,8 +4,8 @@ latitude: 51.47262
 longitude: 7.25191
 postcode: "44803"
 city: Bochum
-street: "Wittener Straße"
-housenumber: 281
-phone: "+49 234 352814"
-opening_hours: "Mo-Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00,13:00-17:30; PH off"
-website: "https://www.die-smarte-werkstatt.de/"
+street: Wittener Straße
+housenumber: "281"
+phone: +49 234 352814
+opening_hours: Mo-Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00,13:00-17:30; PH off
+website: https://www.die-smarte-werkstatt.de/

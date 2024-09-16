@@ -4,8 +4,8 @@ latitude: 51.54723
 longitude: 7.31806
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Dortmunder Straße"
-housenumber: 32
-phone: "+49 2305 941 591"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-gronemann.de/"
+street: Dortmunder Straße
+housenumber: "32"
+phone: +49 2305 941 591
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-gronemann.de/

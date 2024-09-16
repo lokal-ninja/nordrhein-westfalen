@@ -1,11 +1,11 @@
 id: 105576022
-type: way
+type: node
 latitude: 50.76628
 longitude: 6.1556
 postcode: ""
 city: Aachen
-street: "Kaubendenstraße"
-housenumber: 15
+street: Kaubendenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Su,PH off"
-website: "https://www.hess-autoteile.de/"
+opening_hours: Mo-Fr 08:00-17:00; Su,PH off
+website: https://www.hess-autoteile.de/

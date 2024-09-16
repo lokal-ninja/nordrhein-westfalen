@@ -1,11 +1,11 @@
 id: 171933000
-type: way
+type: node
 latitude: 51.47695
 longitude: 7.22124
 postcode: "44789"
 city: Bochum
-street: "Klever Weg"
-housenumber: 1
+street: Klever Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

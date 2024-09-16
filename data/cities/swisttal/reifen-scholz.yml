@@ -1,11 +1,11 @@
 id: 136284770
-type: way
+type: node
 latitude: 50.72371
 longitude: 6.91712
 postcode: "53913"
 city: Swisttal
-street: "Dützhofer Straße"
-housenumber: 14
+street: Dützhofer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

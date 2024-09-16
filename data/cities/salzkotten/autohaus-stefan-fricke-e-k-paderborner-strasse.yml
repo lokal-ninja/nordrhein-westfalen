@@ -1,11 +1,11 @@
 id: 238909273
-type: way
+type: node
 latitude: 51.67623
 longitude: 8.6181
 postcode: "33154"
 city: Salzkotten
-street: "Paderborner Straße"
-housenumber: 49
+street: Paderborner Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

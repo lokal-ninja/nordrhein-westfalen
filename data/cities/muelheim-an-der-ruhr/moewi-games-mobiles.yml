@@ -4,8 +4,8 @@ latitude: 51.42784
 longitude: 6.88302
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Löhberg"
-housenumber: 2
-phone: "+49 208 30994865"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; Su,PH off"
-website: "https://www.moewi24.de/"
+street: Löhberg
+housenumber: "2"
+phone: +49 208 30994865
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00; Su,PH off
+website: https://www.moewi24.de/

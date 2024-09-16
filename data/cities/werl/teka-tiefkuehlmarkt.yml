@@ -1,11 +1,11 @@
 id: 302414038
-type: way
+type: node
 latitude: 51.55022
 longitude: 7.91882
 postcode: "59457"
 city: Werl
-street: "Hedwig-Dransfeld-Straße"
-housenumber: 49
+street: Hedwig-Dransfeld-Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

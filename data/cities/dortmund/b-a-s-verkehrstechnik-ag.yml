@@ -1,11 +1,11 @@
 id: 62051221
-type: way
+type: node
 latitude: 51.50546
 longitude: 7.39534
 postcode: "44379"
 city: Dortmund
-street: "Planetenfeldstraße"
-housenumber: 95
-phone: "+49 231 9253930"
+street: Planetenfeldstraße
+housenumber: "95"
+phone: +49 231 9253930
 opening_hours: ""
-website: "https://www.bas.de/"
+website: https://www.bas.de/

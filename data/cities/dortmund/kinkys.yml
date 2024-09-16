@@ -1,11 +1,11 @@
 id: 41113403
-type: way
+type: node
 latitude: 51.50963
 longitude: 7.44696
 postcode: "44137"
 city: Dortmund
-street: "Rittershausstraße"
-housenumber: 32
-phone: "+49 231 149239"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
+street: Rittershausstraße
+housenumber: "32"
+phone: +49 231 149239
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

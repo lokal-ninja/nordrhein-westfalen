@@ -4,8 +4,8 @@ latitude: 51.24968
 longitude: 7.14986
 postcode: "42119"
 city: Wuppertal
-street: "Blankstraße"
-housenumber: 48
+street: Blankstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

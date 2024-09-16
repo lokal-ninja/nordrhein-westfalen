@@ -1,11 +1,11 @@
 id: 88302899
-type: way
+type: node
 latitude: 51.89883
 longitude: 7.42573
 postcode: "48301"
 city: Nottuln
-street: "Münsterstraße"
-housenumber: 19
+street: Münsterstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

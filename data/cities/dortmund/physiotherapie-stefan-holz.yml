@@ -4,8 +4,8 @@ latitude: 51.48957
 longitude: 7.42177
 postcode: "44227"
 city: Dortmund
-street: "Baroper Kirchweg"
-housenumber: 34
+street: Baroper Kirchweg
+housenumber: "34"
 phone: ""
-opening_hours: "Sa. nach Vereinbarung"
+opening_hours: '"Sa. nach Vereinbarung"'
 website: ""

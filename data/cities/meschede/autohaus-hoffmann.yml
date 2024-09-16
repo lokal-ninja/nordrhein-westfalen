@@ -1,11 +1,11 @@
 id: 123315589
-type: way
+type: node
 latitude: 51.35338
 longitude: 8.28209
 postcode: "59872"
 city: Meschede
-street: "Warsteiner Straße"
-housenumber: 50
+street: Warsteiner Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

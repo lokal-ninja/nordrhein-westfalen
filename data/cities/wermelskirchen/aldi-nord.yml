@@ -1,11 +1,11 @@
 id: 148537750
-type: way
+type: node
 latitude: 51.14431
 longitude: 7.22019
 postcode: "42929"
 city: Wermelskirchen
-street: "Thomas-Mann-Straße"
-housenumber: 39
+street: Thomas-Mann-Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

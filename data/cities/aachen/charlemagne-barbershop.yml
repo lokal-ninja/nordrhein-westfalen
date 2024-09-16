@@ -4,8 +4,8 @@ latitude: 50.77648
 longitude: 6.08114
 postcode: "52062"
 city: Aachen
-street: "Kockerellstraße"
-housenumber: 19
-phone: "+49 241 95180263"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00; Su off"
-website: "https://charlemagne-barbershop.de/"
+street: Kockerellstraße
+housenumber: "19"
+phone: +49 241 95180263
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00; Su off
+website: https://charlemagne-barbershop.de/

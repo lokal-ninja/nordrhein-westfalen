@@ -1,11 +1,11 @@
 id: 777171772
-type: way
+type: node
 latitude: 50.77417
 longitude: 6.21129
 postcode: "52223"
 city: Stolberg (Rhld.)
-street: "Mauerstraße"
-housenumber: 70
+street: Mauerstraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.ford-sieberichs-stolberg.de/"
+website: https://www.ford-sieberichs-stolberg.de/

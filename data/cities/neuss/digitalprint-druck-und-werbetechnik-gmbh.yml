@@ -4,8 +4,8 @@ latitude: 51.18023
 longitude: 6.68157
 postcode: "41464"
 city: Neuss
-street: "Moselstraße"
-housenumber: 18
-phone: "+49 2131 73965-60"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-15:00"
-website: "https://www.digitalprint-online.de/"
+street: Moselstraße
+housenumber: "18"
+phone: +49 2131 73965-60
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-15:00
+website: https://www.digitalprint-online.de/

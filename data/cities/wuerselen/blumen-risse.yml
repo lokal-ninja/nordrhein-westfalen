@@ -1,11 +1,11 @@
 id: 442487927
-type: way
+type: node
 latitude: 50.81088
 longitude: 6.1545
 postcode: "52146"
 city: Würselen
-street: "Batzkuhler Weg"
-housenumber: 20
+street: Batzkuhler Weg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.blumen-risse.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://www.blumen-risse.de/

@@ -1,11 +1,11 @@
 id: 313270110
-type: way
+type: node
 latitude: 51.25419
 longitude: 8.16878
 postcode: "59889"
 city: Eslohe (Sauerland)
-street: "Hauptstraße"
-housenumber: 60
-phone: "+49 2973 2021"
-opening_hours: "Mo-Th 08:15-13:00,14:00-18:00; Fr 08:15-18:00; Sa 08:30-13:00; Su 10:00-12:00"
-website: "https://weber-garten-floristik.de"
+street: Hauptstraße
+housenumber: "60"
+phone: +49 2973 2021
+opening_hours: Mo-Th 08:15-13:00,14:00-18:00; Fr 08:15-18:00; Sa 08:30-13:00; Su 10:00-12:00
+website: https://weber-garten-floristik.de

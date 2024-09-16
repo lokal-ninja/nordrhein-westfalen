@@ -1,11 +1,11 @@
 id: 125488952
-type: way
+type: node
 latitude: 51.54319
 longitude: 7.20324
 postcode: "44629"
 city: Herne
-street: "Bismarckstraße"
-housenumber: 122
+street: Bismarckstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

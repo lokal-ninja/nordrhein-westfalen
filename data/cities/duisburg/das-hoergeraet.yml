@@ -4,8 +4,8 @@ latitude: 51.38409
 longitude: 6.76487
 postcode: "47249"
 city: Duisburg
-street: "Münchener Straße"
-housenumber: 55
-phone: "+49 203 8050016"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.dashoergeraet.de/"
+street: Münchener Straße
+housenumber: "55"
+phone: +49 203 8050016
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.dashoergeraet.de/

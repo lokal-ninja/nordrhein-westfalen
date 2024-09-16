@@ -4,8 +4,8 @@ latitude: 50.73492
 longitude: 7.0997
 postcode: "53111"
 city: Bonn
-street: "Münsterplatz"
-housenumber: 26
-phone: "+49 228 85077880"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.schmuckkollektiv.com/"
+street: Münsterplatz
+housenumber: "26"
+phone: +49 228 85077880
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.schmuckkollektiv.com/

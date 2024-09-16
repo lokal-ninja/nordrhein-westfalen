@@ -1,11 +1,11 @@
 id: 235726391
-type: way
+type: node
 latitude: 51.44103
 longitude: 7.55956
 postcode: "58239"
 city: Schwerte
-street: "Margot-Röttger-Rath-Straße"
-housenumber: 1
+street: Margot-Röttger-Rath-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/

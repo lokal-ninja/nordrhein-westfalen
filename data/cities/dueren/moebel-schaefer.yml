@@ -1,11 +1,11 @@
 id: 117626988
-type: way
+type: node
 latitude: 50.77147
 longitude: 6.49112
 postcode: "52355"
 city: Düren
-street: "Kreuzauer Straße"
-housenumber: 62
+street: Kreuzauer Straße
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.moebel-schaefer.de/"
+website: https://www.moebel-schaefer.de/

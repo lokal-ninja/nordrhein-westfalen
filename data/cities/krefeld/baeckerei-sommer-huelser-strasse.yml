@@ -1,11 +1,11 @@
 id: 258417392
-type: way
+type: node
 latitude: 51.34346
 longitude: 6.55141
 postcode: "47803"
 city: Krefeld
-street: "Hülser Straße"
-housenumber: 134
+street: Hülser Straße
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-12:00"
-website: "https://www.baeckerei-sommer.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-12:00
+website: https://www.baeckerei-sommer.de/

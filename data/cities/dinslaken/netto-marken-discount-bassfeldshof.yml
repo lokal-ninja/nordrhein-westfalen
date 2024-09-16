@@ -1,11 +1,11 @@
 id: 329428928
-type: way
+type: node
 latitude: 51.57971
 longitude: 6.73618
 postcode: "46537"
 city: Dinslaken
-street: "Baßfeldshof"
-housenumber: 2
+street: Baßfeldshof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

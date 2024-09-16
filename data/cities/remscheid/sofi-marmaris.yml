@@ -4,8 +4,8 @@ latitude: 51.18028
 longitude: 7.19139
 postcode: "42853"
 city: Remscheid
-street: "Alleestraße"
-housenumber: 31
-phone: "+49 21919712671"
-opening_hours: "Mo 09:00-18:00; Di-Fr 08:30-18:30; Sa 08:30-16:00"
+street: Alleestraße
+housenumber: "31"
+phone: +49 21919712671
+opening_hours: Mo 09:00-18:00; Di-Fr 08:30-18:30; Sa 08:30-16:00
 website: ""

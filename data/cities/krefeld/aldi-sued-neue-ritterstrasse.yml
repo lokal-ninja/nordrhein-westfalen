@@ -1,11 +1,11 @@
 id: 96069599
-type: way
+type: node
 latitude: 51.32855
 longitude: 6.58554
 postcode: "47805"
 city: Krefeld
-street: "Neue Ritterstraße"
-housenumber: 33
+street: Neue Ritterstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

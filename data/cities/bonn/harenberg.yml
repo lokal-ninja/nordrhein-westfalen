@@ -4,8 +4,8 @@ latitude: 50.73552
 longitude: 7.10092
 postcode: "53111"
 city: Bonn
-street: "Sternstraße"
-housenumber: 1
-phone: "+49 228 90 82 70"
-opening_hours: "Mo-Fr 10:30-19:00; Sa 10:00-18:00"
-website: "https://www.harenberg-bonn.de/"
+street: Sternstraße
+housenumber: "1"
+phone: +49 228 90 82 70
+opening_hours: Mo-Fr 10:30-19:00; Sa 10:00-18:00
+website: https://www.harenberg-bonn.de/

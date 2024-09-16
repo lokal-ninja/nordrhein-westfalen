@@ -1,11 +1,11 @@
 id: 254944929
-type: way
+type: node
 latitude: 51.58342
 longitude: 6.24121
 postcode: "47623"
 city: Kevelaer
-street: "Neustraße"
-housenumber: 28
-phone: "+49 2832 9718540"
-opening_hours: "Mo-Fr 08:00-12:00,14:30-17:00"
-website: "https://www.hostie.de"
+street: Neustraße
+housenumber: "28"
+phone: +49 2832 9718540
+opening_hours: Mo-Fr 08:00-12:00,14:30-17:00
+website: https://www.hostie.de

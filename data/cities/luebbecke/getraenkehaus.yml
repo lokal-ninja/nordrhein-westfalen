@@ -4,8 +4,8 @@ latitude: 52.32521
 longitude: 8.62353
 postcode: "32312"
 city: Lübbecke
-street: "Zeiss-Straße"
-housenumber: 1
-phone: "+49 5741 2352843"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"
-website: "https://www.getraenkehaus.de/"
+street: Zeiss-Straße
+housenumber: "1"
+phone: +49 5741 2352843
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-14:00
+website: https://www.getraenkehaus.de/

@@ -1,11 +1,11 @@
 id: 1239990561
-type: way
+type: node
 latitude: 50.55469
 longitude: 6.46635
 postcode: "53937"
 city: Schleiden
-street: "Auf dem Stock"
+street: Auf dem Stock
 housenumber: 16a
 phone: ""
 opening_hours: ""
-website: "https://fahrzeugtechnik-miano.de/"
+website: https://fahrzeugtechnik-miano.de/

@@ -1,11 +1,11 @@
 id: 330795685
-type: way
+type: node
 latitude: 50.97162
 longitude: 7.8647
 postcode: "57482"
 city: Wenden
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

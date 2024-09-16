@@ -4,8 +4,8 @@ latitude: 51.48339
 longitude: 7.21716
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 103
-phone: "+49 234 51658532"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://www.juwelier-fineart.com"
+street: Kortumstraße
+housenumber: "103"
+phone: +49 234 51658532
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
+website: https://www.juwelier-fineart.com

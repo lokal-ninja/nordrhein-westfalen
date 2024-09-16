@@ -1,11 +1,11 @@
 id: 141974302
-type: way
+type: node
 latitude: 51.43535
 longitude: 6.92066
 postcode: "45472"
 city: Mülheim an der Ruhr
-street: "Wiescher Weg"
-housenumber: 98
+street: Wiescher Weg
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

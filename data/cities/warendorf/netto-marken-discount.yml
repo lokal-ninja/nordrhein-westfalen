@@ -1,11 +1,11 @@
 id: 169672060
-type: way
+type: node
 latitude: 51.95035
 longitude: 8.00171
 postcode: "48231"
 city: Warendorf
-street: "Beelener Straße"
-housenumber: 19
+street: Beelener Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

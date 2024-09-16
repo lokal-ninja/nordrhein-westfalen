@@ -4,8 +4,8 @@ latitude: 51.35508
 longitude: 6.57351
 postcode: "47803"
 city: Krefeld
-street: "Moerser Straße"
-housenumber: 490
-phone: "+49 2151 501102;+49 2151 501103"
-opening_hours: "Mo-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-15:00"
-website: "https://coiffeurteam-munz.de/"
+street: Moerser Straße
+housenumber: "490"
+phone: +49 2151 501102;+49 2151 501103
+opening_hours: Mo-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-15:00
+website: https://coiffeurteam-munz.de/

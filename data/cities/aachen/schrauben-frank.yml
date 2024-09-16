@@ -1,11 +1,11 @@
 id: 107293255
-type: way
+type: node
 latitude: 50.76227
 longitude: 6.16905
 postcode: "52078"
 city: Aachen
-street: "Eilendorfer Straße"
-housenumber: 218
+street: Eilendorfer Straße
+housenumber: "218"
 phone: ""
 opening_hours: ""
-website: "https://www.schrauben-frank.de/"
+website: https://www.schrauben-frank.de/

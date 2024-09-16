@@ -4,8 +4,8 @@ latitude: 50.87081
 longitude: 8.01114
 postcode: "57072"
 city: Siegen
-street: "Hammerstraße"
-housenumber: 10
+street: Hammerstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu,We,Fr 10:00-14:00,Th 10:00-16:00; PH off"
+opening_hours: Tu,We,Fr 10:00-14:00,Th 10:00-16:00; PH off
 website: ""

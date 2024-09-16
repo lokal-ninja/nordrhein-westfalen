@@ -4,8 +4,8 @@ latitude: 51.97906
 longitude: 7.29462
 postcode: "48727"
 city: Billerbeck
-street: "Beerlager Straße"
-housenumber: 1
-phone: "+49 2543 6298"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00;Sa 09:00-13:00;PH, Su, We off"
-website: "https://www.rudolf-dirks.de/"
+street: Beerlager Straße
+housenumber: "1"
+phone: +49 2543 6298
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00;Sa 09:00-13:00;PH, Su, We off
+website: https://www.rudolf-dirks.de/

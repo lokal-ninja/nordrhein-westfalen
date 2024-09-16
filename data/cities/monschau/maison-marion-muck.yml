@@ -4,8 +4,8 @@ latitude: 50.55489
 longitude: 6.24163
 postcode: "52156"
 city: Monschau
-street: "Rurstraße"
-housenumber: 12
-phone: "+49 2472 6084935"
-opening_hours: "Fr-Su 11:00-18:00; PH 11:00-18:00"
-website: "https://maison-marion-muck.de/"
+street: Rurstraße
+housenumber: "12"
+phone: +49 2472 6084935
+opening_hours: Fr-Su 11:00-18:00; PH 11:00-18:00
+website: https://maison-marion-muck.de/

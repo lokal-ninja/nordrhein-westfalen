@@ -4,8 +4,8 @@ latitude: 52.04083
 longitude: 8.3862
 postcode: "33790"
 city: Halle (Westf.)
-street: "Mühlenhof"
-housenumber: 1
-phone: "+49 (0)5201 7600"
-opening_hours: "Tu , Fr 10:00-18:00; Sa 10:00-13:00"
+street: Mühlenhof
+housenumber: "1"
+phone: +49 (0)5201 7600
+opening_hours: Tu , Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

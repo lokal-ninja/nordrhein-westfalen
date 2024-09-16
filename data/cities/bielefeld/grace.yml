@@ -4,8 +4,8 @@ latitude: 52.02042
 longitude: 8.54501
 postcode: "33607"
 city: Bielefeld
-street: "Webereistraße"
-housenumber: 26
+street: Webereistraße
+housenumber: "26"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

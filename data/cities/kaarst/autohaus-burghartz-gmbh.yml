@@ -1,11 +1,11 @@
 id: 792638560
-type: way
+type: node
 latitude: 51.21462
 longitude: 6.63736
 postcode: "41564"
 city: Kaarst
-street: "Hanns-Martin-Schleyer-Straße"
-housenumber: 2
-phone: "+49 2131 796407"
+street: Hanns-Martin-Schleyer-Straße
+housenumber: "2"
+phone: +49 2131 796407
 opening_hours: ""
-website: "https://www.autohaus-burghartz.de"
+website: https://www.autohaus-burghartz.de

@@ -1,11 +1,11 @@
 id: 382879496
-type: way
+type: node
 latitude: 50.97549
 longitude: 7.35223
 postcode: "51766"
 city: Engelskirchen
-street: "Im Auel"
-housenumber: 50
-phone: "+49 2263 4909"
-opening_hours: "Mo-Th 07:45-12:00,12:30-17:30; Fr 07:45-13:00; PH off"
-website: "https://www.autoeimermacher.de/"
+street: Im Auel
+housenumber: "50"
+phone: +49 2263 4909
+opening_hours: Mo-Th 07:45-12:00,12:30-17:30; Fr 07:45-13:00; PH off
+website: https://www.autoeimermacher.de/

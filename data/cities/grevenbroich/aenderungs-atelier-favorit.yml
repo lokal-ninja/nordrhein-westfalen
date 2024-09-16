@@ -1,11 +1,11 @@
 id: 261690390
-type: way
+type: node
 latitude: 51.08807
 longitude: 6.58958
 postcode: "41515"
 city: Grevenbroich
-street: "Steinweg"
-housenumber: 3
+street: Steinweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00
 website: ""

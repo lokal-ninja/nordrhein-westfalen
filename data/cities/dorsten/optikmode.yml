@@ -4,8 +4,8 @@ latitude: 51.75247
 longitude: 6.94483
 postcode: "46286"
 city: Dorsten
-street: "Lembecker Straße"
-housenumber: 109
-phone: "+49 2866 189018"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00; PH off"
-website: "https://www.optikmode.de/"
+street: Lembecker Straße
+housenumber: "109"
+phone: +49 2866 189018
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00; PH off
+website: https://www.optikmode.de/

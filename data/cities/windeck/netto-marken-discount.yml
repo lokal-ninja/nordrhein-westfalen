@@ -1,11 +1,11 @@
 id: 370530752
-type: way
+type: node
 latitude: 50.80387
 longitude: 7.56327
 postcode: "51570"
 city: Windeck
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 79595099
-type: way
+type: node
 latitude: 50.77311
 longitude: 6.08796
 postcode: "52062"
 city: Aachen
-street: "Wirichsbongardstraße"
+street: Wirichsbongardstraße
 housenumber: 18,22
 phone: ""
-opening_hours: "Sa 10:00-16:00; Mo-Fr 10:00-18:00"
-website: "https://www.medormabettenhaus.de/"
+opening_hours: Sa 10:00-16:00; Mo-Fr 10:00-18:00
+website: https://www.medormabettenhaus.de/

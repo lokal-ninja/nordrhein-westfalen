@@ -4,8 +4,8 @@ latitude: 51.399
 longitude: 7.18202
 postcode: "45525"
 city: Hattingen
-street: "Kleine Weilstraße"
-housenumber: 2
-phone: "+49 2324 22686"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-14:00"
-website: "http://www.zum-wolltor.de"
+street: Kleine Weilstraße
+housenumber: "2"
+phone: +49 2324 22686
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-14:00
+website: http://www.zum-wolltor.de

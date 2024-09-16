@@ -1,11 +1,11 @@
 id: 89063972
-type: way
+type: node
 latitude: 51.78927
 longitude: 6.13986
 postcode: "47533"
 city: Kleve
-street: "Große Straße"
-housenumber: 8
+street: Große Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
-website: "https://www.reffeling.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00
+website: https://www.reffeling.de/

@@ -4,8 +4,8 @@ latitude: 50.64476
 longitude: 7.22692
 postcode: "53604"
 city: Bad Honnef
-street: "Hauptstraße"
-housenumber: 60
-phone: "+49 2224 9602739"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 08:00-18:00"
-website: "https://www.gilgens.de/"
+street: Hauptstraße
+housenumber: "60"
+phone: +49 2224 9602739
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 08:00-18:00
+website: https://www.gilgens.de/

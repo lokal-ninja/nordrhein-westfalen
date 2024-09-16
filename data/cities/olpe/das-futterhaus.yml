@@ -1,11 +1,11 @@
 id: 208719925
-type: way
+type: node
 latitude: 51.02327
 longitude: 7.84394
 postcode: "57462"
 city: Olpe
-street: "Bruchstraße"
-housenumber: 46
+street: Bruchstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/olpe/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.futterhaus.de/mein-futterhaus/filialen/olpe/

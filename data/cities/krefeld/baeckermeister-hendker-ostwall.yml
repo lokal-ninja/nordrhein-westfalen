@@ -4,8 +4,8 @@ latitude: 51.3333
 longitude: 6.56619
 postcode: "47798"
 city: Krefeld
-street: "Ostwall"
-housenumber: 157
+street: Ostwall
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30"
-website: "https://www.baeckerei-hendker.de/"
+opening_hours: Mo-Fr 06:00-18:30
+website: https://www.baeckerei-hendker.de/

@@ -1,11 +1,11 @@
 id: 249604030
-type: way
+type: node
 latitude: 50.94925
 longitude: 6.95545
 postcode: "50668"
 city: Köln
-street: "Gereonswall"
-housenumber: 10
+street: Gereonswall
+housenumber: "10"
 phone: ""
-opening_hours: "Sa,Su 10:00-23:00; Mo-Fr 11:00-23:00"
+opening_hours: Sa,Su 10:00-23:00; Mo-Fr 11:00-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.14262
 longitude: 6.89589
 postcode: "40595"
 city: Düsseldorf
-street: "Kurt-Schumacher-Straße"
-housenumber: 1
-phone: "+49 211 83025180"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.qvc.de/"
+street: Kurt-Schumacher-Straße
+housenumber: "1"
+phone: +49 211 83025180
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.qvc.de/

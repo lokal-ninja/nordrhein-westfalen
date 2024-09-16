@@ -4,8 +4,8 @@ latitude: 52.20156
 longitude: 7.81601
 postcode: "49525"
 city: Lengerich
-street: "Teutopark"
-housenumber: 4
+street: Teutopark
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.kraemer.de/MEGA-STORES/Lengerich-Osnabrueck"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00
+website: https://www.kraemer.de/MEGA-STORES/Lengerich-Osnabrueck

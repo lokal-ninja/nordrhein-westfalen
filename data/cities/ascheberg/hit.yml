@@ -1,11 +1,11 @@
 id: 1087163685
-type: way
+type: node
 latitude: 51.79011
 longitude: 7.61675
 postcode: "59387"
 city: Ascheberg
-street: "Lüdinghauser Straße"
+street: Lüdinghauser Straße
 housenumber: 9-11
-phone: "+49 2593 999390"
-opening_hours: "Mo-Sa 07:00-21:00"
+phone: +49 2593 999390
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

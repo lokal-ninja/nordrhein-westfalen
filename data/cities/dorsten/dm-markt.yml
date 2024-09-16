@@ -1,11 +1,11 @@
 id: 169148117
-type: way
+type: node
 latitude: 51.66045
 longitude: 6.96351
 postcode: "46282"
 city: Dorsten
-street: "Markt"
-housenumber: 11
+street: Markt
+housenumber: "11"
 phone: ""
-opening_hours: "Sa 08:30-18:00; Mo-We 08:30-19:00; Th,Fr 08:30-19:30; PH off"
+opening_hours: Sa 08:30-18:00; Mo-We 08:30-19:00; Th,Fr 08:30-19:30; PH off
 website: ""

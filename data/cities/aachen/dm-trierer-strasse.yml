@@ -1,11 +1,11 @@
 id: 607733904
-type: way
+type: node
 latitude: 50.75151
 longitude: 6.15835
 postcode: "52078"
 city: Aachen
-street: "Trierer Straße"
-housenumber: 690
+street: Trierer Straße
+housenumber: "690"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
 website: ""

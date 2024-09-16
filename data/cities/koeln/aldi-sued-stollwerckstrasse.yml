@@ -1,11 +1,11 @@
 id: 69575803
-type: way
+type: node
 latitude: 50.90379
 longitude: 7.02584
 postcode: "51149"
 city: Köln
-street: "Stollwerckstraße"
-housenumber: 6
+street: Stollwerckstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

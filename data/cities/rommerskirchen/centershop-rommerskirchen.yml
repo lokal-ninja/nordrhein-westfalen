@@ -1,11 +1,11 @@
 id: 294593877
-type: way
+type: node
 latitude: 51.03345
 longitude: 6.69299
 postcode: "41569"
 city: Rommerskirchen
-street: "Bahnstraße"
-housenumber: 75
+street: Bahnstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

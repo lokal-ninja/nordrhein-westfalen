@@ -1,11 +1,11 @@
 id: 315168919
-type: way
+type: node
 latitude: 51.94549
 longitude: 8.85453
 postcode: "32758"
 city: Detmold
-street: "Klingenbergstraße"
-housenumber: 8
-phone: "+49 5231 605-4470"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+street: Klingenbergstraße
+housenumber: "8"
+phone: +49 5231 605-4470
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

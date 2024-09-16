@@ -4,8 +4,8 @@ latitude: 51.49422
 longitude: 7.3753
 postcode: "44149"
 city: Dortmund
-street: "Wulfshofstraße"
-housenumber: 1
+street: Wulfshofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH,Su off
 website: ""

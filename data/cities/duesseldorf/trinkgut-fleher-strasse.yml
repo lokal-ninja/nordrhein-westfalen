@@ -4,8 +4,8 @@ latitude: 51.20526
 longitude: 6.766
 postcode: "40223"
 city: Düsseldorf
-street: "Fleher Straße"
-housenumber: 32
+street: Fleher Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.trinkgut.de/markt/cichy"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.trinkgut.de/markt/cichy

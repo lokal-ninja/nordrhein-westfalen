@@ -1,11 +1,11 @@
 id: 110574827
-type: way
+type: node
 latitude: 50.94996
 longitude: 7.22013
 postcode: "51491"
 city: Overath
-street: "Schulstraße"
-housenumber: 23
-phone: "+49 2204 2019-0"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-15:00"
-website: "https://www.bosch24.de/"
+street: Schulstraße
+housenumber: "23"
+phone: +49 2204 2019-0
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-15:00
+website: https://www.bosch24.de/

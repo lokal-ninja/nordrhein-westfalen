@@ -1,11 +1,11 @@
 id: 152899546
-type: way
+type: node
 latitude: 50.88663
 longitude: 8.02726
 postcode: "57072"
 city: Siegen
-street: "In der Hüttenwiese"
-housenumber: 11
+street: In der Hüttenwiese
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00,Sa 08:00-18:00; PH off"
-website: "https://www.dursty.de/"
+opening_hours: Mo-Fr 08:30-20:00,Sa 08:00-18:00; PH off
+website: https://www.dursty.de/

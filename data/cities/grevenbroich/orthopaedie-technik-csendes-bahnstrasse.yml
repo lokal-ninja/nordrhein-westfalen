@@ -1,11 +1,11 @@
 id: 270188540
-type: way
+type: node
 latitude: 51.08928
 longitude: 6.58649
 postcode: "41515"
 city: Grevenbroich
-street: "Bahnstraße"
-housenumber: 11
+street: Bahnstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:30-12:30"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:30-12:30
 website: ""

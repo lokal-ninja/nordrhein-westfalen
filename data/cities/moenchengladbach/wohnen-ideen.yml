@@ -4,8 +4,8 @@ latitude: 51.2027
 longitude: 6.41645
 postcode: "41063"
 city: Mönchengladbach
-street: "Lindenstraße"
-housenumber: 157
-phone: "+49 2161 208166"
-opening_hours: "call us"
-website: "https://www.wohnenundideen.com"
+street: Lindenstraße
+housenumber: "157"
+phone: +49 2161 208166
+opening_hours: '"call us"'
+website: https://www.wohnenundideen.com

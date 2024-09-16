@@ -1,11 +1,11 @@
 id: 1071847414
-type: way
+type: node
 latitude: 51.078
 longitude: 6.06273
 postcode: "52525"
 city: Heinsberg
-street: "Zur Kornmühle"
-housenumber: 4
+street: Zur Kornmühle
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

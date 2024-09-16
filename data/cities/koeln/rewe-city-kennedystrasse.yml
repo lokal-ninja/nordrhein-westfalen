@@ -4,8 +4,8 @@ latitude: 50.87903
 longitude: 7.12254
 postcode: "51147"
 city: Köln
-street: "Kennedystraße"
-housenumber: 1
+street: Kennedystraße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.rewe.de/marktseite/koeln-flughafen/1940212/rewe-markt-kennedystr-1"
+opening_hours: 24/7
+website: https://www.rewe.de/marktseite/koeln-flughafen/1940212/rewe-markt-kennedystr-1

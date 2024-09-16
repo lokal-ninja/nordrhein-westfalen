@@ -4,8 +4,8 @@ latitude: 51.6124
 longitude: 7.19697
 postcode: "45657"
 city: Recklinghausen
-street: "Breite Straße"
-housenumber: 24
+street: Breite Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.skf-recklinghausen.de/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.skf-recklinghausen.de/

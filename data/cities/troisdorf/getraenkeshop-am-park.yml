@@ -1,11 +1,11 @@
 id: 104845546
-type: way
+type: node
 latitude: 50.83257
 longitude: 7.11867
 postcode: "53842"
 city: Troisdorf
-street: "Brückenstraße"
-housenumber: 44
+street: Brückenstraße
+housenumber: "44"
 phone: ""
-opening_hours: "We-Mo 06:00-20:00; Tu 06:00-14:00"
+opening_hours: We-Mo 06:00-20:00; Tu 06:00-14:00
 website: ""

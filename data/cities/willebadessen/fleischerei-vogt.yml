@@ -4,8 +4,9 @@ latitude: 51.62627
 longitude: 9.03611
 postcode: "34439"
 city: Willebadessen
-street: "Schäferstraße"
-housenumber: 2
-phone: "+49 5646 607"
-opening_hours: "Mo-Tu 7:30-12:30, 15:00-18:00; We 7:30-12:30; Th 7:30-12:30, 15:00-18:00; Fr 7:30-13:00, 15:00-18:00; Sa 7:00-12:30"
+street: Schäferstraße
+housenumber: "2"
+phone: +49 5646 607
+opening_hours: Mo-Tu 7:30-12:30, 15:00-18:00; We 7:30-12:30; Th 7:30-12:30, 15:00-18:00;
+    Fr 7:30-13:00, 15:00-18:00; Sa 7:00-12:30
 website: ""

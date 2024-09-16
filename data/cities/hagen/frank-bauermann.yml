@@ -4,8 +4,8 @@ latitude: 51.34552
 longitude: 7.42576
 postcode: "58135"
 city: Hagen
-street: "Voerder Straße"
-housenumber: 23
+street: Voerder Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:15-17:00; We 09:15-13:00; Sa 09:15-13:00"
-website: "https://bauermann-friseure.de/"
+opening_hours: Tu,Th,Fr 09:15-17:00; We 09:15-13:00; Sa 09:15-13:00
+website: https://bauermann-friseure.de/

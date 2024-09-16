@@ -1,11 +1,11 @@
 id: 87433625
-type: way
+type: node
 latitude: 52.03967
 longitude: 8.14547
 postcode: "33775"
 city: Versmold
-street: "Münsterstraße"
-housenumber: 42
+street: Münsterstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

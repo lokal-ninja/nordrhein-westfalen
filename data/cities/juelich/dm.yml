@@ -4,8 +4,8 @@ latitude: 50.92274
 longitude: 6.36246
 postcode: "52428"
 city: Jülich
-street: "Kölnstraße"
-housenumber: 40
+street: Kölnstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "http://www.dm-drogeriemarkt.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: http://www.dm-drogeriemarkt.de/

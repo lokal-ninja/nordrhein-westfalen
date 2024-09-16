@@ -1,11 +1,11 @@
 id: 23353514
-type: way
+type: node
 latitude: 51.51315
 longitude: 7.4433
 postcode: "44137"
 city: Dortmund
-street: "Rheinische Straße"
-housenumber: 93
-phone: "+49 231 1 85 90 68"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00"
-website: "https://www.atu.de/filialen/470-dortmund-dorstfeld/"
+street: Rheinische Straße
+housenumber: "93"
+phone: +49 231 1 85 90 68
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00
+website: https://www.atu.de/filialen/470-dortmund-dorstfeld/

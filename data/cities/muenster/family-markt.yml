@@ -1,11 +1,11 @@
 id: 255924478
-type: way
+type: node
 latitude: 51.96821
 longitude: 7.61318
 postcode: "48149"
 city: Münster
-street: "Steinfurter Straße"
-housenumber: 11
+street: Steinfurter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

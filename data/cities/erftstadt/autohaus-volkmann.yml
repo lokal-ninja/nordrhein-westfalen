@@ -1,11 +1,11 @@
 id: 99030425
-type: way
+type: node
 latitude: 50.79632
 longitude: 6.77816
 postcode: "50374"
 city: Erftstadt
-street: "Bonner Ring"
-housenumber: 31
-phone: "+49 2235 982 930"
-opening_hours: "Mo-Th 8:00-17:00; Fr 9:00-17:00; Sa 9:00-12:00"
-website: "https://autohaus-volkmann.de/"
+street: Bonner Ring
+housenumber: "31"
+phone: +49 2235 982 930
+opening_hours: Mo-Th 8:00-17:00; Fr 9:00-17:00; Sa 9:00-12:00
+website: https://autohaus-volkmann.de/

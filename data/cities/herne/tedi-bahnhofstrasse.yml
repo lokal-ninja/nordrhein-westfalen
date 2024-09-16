@@ -4,8 +4,8 @@ latitude: 51.53898
 longitude: 7.22431
 postcode: "44623"
 city: Herne
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00
 website: ""

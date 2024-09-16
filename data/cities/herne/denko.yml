@@ -4,8 +4,8 @@ latitude: 51.53807
 longitude: 7.22723
 postcode: "44623"
 city: Herne
-street: "Mont-Cenis-Straße"
-housenumber: 13
+street: Mont-Cenis-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 13:00-18:00, Fr 13:00-17:00"
-website: "https://www.denkobadmobel.de/"
+opening_hours: Mo-Fr 13:00-18:00, Fr 13:00-17:00
+website: https://www.denkobadmobel.de/

@@ -1,11 +1,11 @@
 id: 129296350
-type: way
+type: node
 latitude: 50.85504
 longitude: 7.19884
 postcode: "53842"
 city: Troisdorf
-street: "Brandstraße"
-housenumber: 29
+street: Brandstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1197708302
-type: way
+type: node
 latitude: 51.45073
 longitude: 7.03377
 postcode: "45138"
 city: Essen
-street: "Spichernstraße"
-housenumber: 33
+street: Spichernstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu, We, Th 16:00-18:00; Fr 15:00-18:00; Sa 10:00-15:00"
-website: "https://ruhrpott-bbq.com/"
+opening_hours: Tu, We, Th 16:00-18:00; Fr 15:00-18:00; Sa 10:00-15:00
+website: https://ruhrpott-bbq.com/

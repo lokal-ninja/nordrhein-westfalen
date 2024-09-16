@@ -1,11 +1,11 @@
 id: 79512593
-type: way
+type: node
 latitude: 50.77533
 longitude: 6.09252
 postcode: "52062"
 city: Aachen
-street: "Adalbertstraße"
-housenumber: 67
+street: Adalbertstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:00"
+opening_hours: Mo-Sa 10:30-19:00
 website: ""

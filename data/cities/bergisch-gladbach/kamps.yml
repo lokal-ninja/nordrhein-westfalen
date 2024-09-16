@@ -4,8 +4,8 @@ latitude: 50.98942
 longitude: 7.08824
 postcode: "51469"
 city: Bergisch Gladbach
-street: "Eschenbroichstraße"
-housenumber: 5
-phone: "+49 2202 920118"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "https://kamps.de/standort/kamps-baeckerei-bergisch-gladbach-eschenbroichstrasse-5"
+street: Eschenbroichstraße
+housenumber: "5"
+phone: +49 2202 920118
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00
+website: https://kamps.de/standort/kamps-baeckerei-bergisch-gladbach-eschenbroichstrasse-5

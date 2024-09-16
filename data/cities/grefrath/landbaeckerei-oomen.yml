@@ -4,8 +4,8 @@ latitude: 51.33709
 longitude: 6.34214
 postcode: "47929"
 city: Grefrath
-street: "Deversdonk"
-housenumber: 3
-phone: "+49 2158 8218"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-14:00; Su 07:00-17:00"
-website: "https://www.oomen.de"
+street: Deversdonk
+housenumber: "3"
+phone: +49 2158 8218
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-14:00; Su 07:00-17:00
+website: https://www.oomen.de

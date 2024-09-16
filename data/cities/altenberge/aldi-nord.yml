@@ -1,11 +1,11 @@
 id: 223515388
-type: way
+type: node
 latitude: 52.04093
 longitude: 7.46945
 postcode: "48341"
 city: Altenberge
-street: "Lütke Berg"
-housenumber: 3
+street: Lütke Berg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

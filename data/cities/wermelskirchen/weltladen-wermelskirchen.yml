@@ -4,8 +4,9 @@ latitude: 51.14014
 longitude: 7.21685
 postcode: "42929"
 city: Wermelskirchen
-street: "Markt"
-housenumber: 6
-phone: "+49 2196 7290080"
-opening_hours: "Mo-Th 09:00-12:30, Tu,Th 14:30-18:00, Fr 09:00-18:00, Sa 10:00-13:00; PH off"
-website: "https://weltladen-wermelskirchen.de/"
+street: Markt
+housenumber: "6"
+phone: +49 2196 7290080
+opening_hours: Mo-Th 09:00-12:30, Tu,Th 14:30-18:00, Fr 09:00-18:00, Sa 10:00-13:00;
+    PH off
+website: https://weltladen-wermelskirchen.de/

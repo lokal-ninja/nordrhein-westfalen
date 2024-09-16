@@ -1,11 +1,11 @@
 id: 226588163
-type: way
+type: node
 latitude: 51.61309
 longitude: 8.35169
 postcode: "59597"
 city: Erwitte
-street: "Wemberweg"
-housenumber: 4
-phone: "+49 2943 870585"
+street: Wemberweg
+housenumber: "4"
+phone: +49 2943 870585
 opening_hours: ""
-website: "https://www.thomas-philipps.de/de/"
+website: https://www.thomas-philipps.de/de/

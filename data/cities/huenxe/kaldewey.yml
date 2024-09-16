@@ -4,8 +4,8 @@ latitude: 51.6265
 longitude: 6.77436
 postcode: "46569"
 city: Hünxe
-street: "Wilhelmstraße"
-housenumber: 62
-phone: "+49 2858 2334"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=46"
+street: Wilhelmstraße
+housenumber: "62"
+phone: +49 2858 2334
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
+website: https://www.gutes-vom-niederrhein.de/hoflaeden/detailansicht.html?liste_id=46

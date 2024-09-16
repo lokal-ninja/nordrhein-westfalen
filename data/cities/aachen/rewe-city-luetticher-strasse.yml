@@ -1,11 +1,11 @@
 id: 154099790
-type: way
+type: node
 latitude: 50.7675
 longitude: 6.07381
 postcode: "52064"
 city: Aachen
-street: "Lütticher Straße"
-housenumber: 19
+street: Lütticher Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://rewe-reinartz.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: http://rewe-reinartz.de/

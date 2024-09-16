@@ -4,8 +4,8 @@ latitude: 52.05805
 longitude: 8.55335
 postcode: "33611"
 city: Bielefeld
-street: "Engersche Straße"
-housenumber: 175
-phone: "+49 521 84142"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Tu 15:00-18:00, Th-Fr 15:00-18:00"
-website: "https://www.sanitaetshaus-hoelker.de/"
+street: Engersche Straße
+housenumber: "175"
+phone: +49 521 84142
+opening_hours: Mo-Fr 09:00-13:00, Mo-Tu 15:00-18:00, Th-Fr 15:00-18:00
+website: https://www.sanitaetshaus-hoelker.de/

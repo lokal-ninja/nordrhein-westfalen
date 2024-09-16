@@ -1,11 +1,11 @@
 id: 231755552
-type: way
+type: node
 latitude: 51.56906
 longitude: 8.12944
 postcode: "59494"
 city: Soest
-street: "Warsteiner Weg"
-housenumber: 2
+street: Warsteiner Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

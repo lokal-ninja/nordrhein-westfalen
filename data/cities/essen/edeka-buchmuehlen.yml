@@ -4,8 +4,8 @@ latitude: 51.35812
 longitude: 6.93274
 postcode: "45219"
 city: Essen
-street: "Werdener Straße"
-housenumber: 4
-phone: "+49 2054 4587"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-15:00; Su off"
-website: "http://edeka-buchmuehlen.de/"
+street: Werdener Straße
+housenumber: "4"
+phone: +49 2054 4587
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-15:00; Su off
+website: http://edeka-buchmuehlen.de/

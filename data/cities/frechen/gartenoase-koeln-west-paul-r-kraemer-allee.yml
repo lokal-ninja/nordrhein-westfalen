@@ -1,11 +1,11 @@
 id: 808879848
-type: way
+type: node
 latitude: 50.93331
 longitude: 6.797
 postcode: "50226"
 city: Frechen
-street: "Paul-R.-Kraemer-Allee"
-housenumber: 103
+street: Paul-R.-Kraemer-Allee
+housenumber: "103"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-14:00, PH off"
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-14:00, PH off
 website: ""

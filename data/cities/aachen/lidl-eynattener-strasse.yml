@@ -1,11 +1,11 @@
 id: 90034837
-type: way
+type: node
 latitude: 50.76293
 longitude: 6.08379
 postcode: "52064"
 city: Aachen
-street: "Eynattener Straße"
-housenumber: 26
+street: Eynattener Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
 website: ""

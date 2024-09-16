@@ -1,11 +1,11 @@
 id: 640915309
-type: way
+type: node
 latitude: 51.38816
 longitude: 6.75774
 postcode: "47249"
 city: Duisburg
-street: "Düsseldorfer Landstraße"
-housenumber: 28
+street: Düsseldorfer Landstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

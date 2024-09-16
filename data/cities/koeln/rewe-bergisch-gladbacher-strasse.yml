@@ -1,11 +1,11 @@
 id: 26803305
-type: way
+type: node
 latitude: 50.96637
 longitude: 7.03263
 postcode: "51067"
 city: Köln
-street: "Bergisch Gladbacher Straße"
-housenumber: 380
+street: Bergisch Gladbacher Straße
+housenumber: "380"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 121154019
-type: way
+type: node
 latitude: 51.21467
 longitude: 6.66458
 postcode: "41462"
 city: Neuss
-street: "Venloer Straße"
+street: Venloer Straße
 housenumber: 103a
-phone: "+49 2131 2784-00"
-opening_hours: "Sa 10:00-14:00, Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:30"
-website: "https://www.fahrrad-franssen.de/"
+phone: +49 2131 2784-00
+opening_hours: Sa 10:00-14:00, Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:30
+website: https://www.fahrrad-franssen.de/

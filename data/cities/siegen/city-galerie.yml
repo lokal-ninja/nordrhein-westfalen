@@ -1,11 +1,11 @@
 id: 24218598
-type: way
+type: node
 latitude: 50.87402
 longitude: 8.01561
 postcode: "57072"
 city: Siegen
-street: "Am Bahnhof"
-housenumber: 40
+street: Am Bahnhof
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

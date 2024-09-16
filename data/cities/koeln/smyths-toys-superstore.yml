@@ -1,11 +1,11 @@
 id: 35285027
-type: way
+type: node
 latitude: 50.9187
 longitude: 6.85096
 postcode: "50858"
 city: Köln
-street: "Dürener Straße"
-housenumber: 460
-phone: "+49 2234 59086"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.toysrus.de/"
+street: Dürener Straße
+housenumber: "460"
+phone: +49 2234 59086
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.toysrus.de/

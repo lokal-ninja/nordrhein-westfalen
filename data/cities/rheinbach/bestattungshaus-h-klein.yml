@@ -1,11 +1,11 @@
 id: 252974520
-type: way
+type: node
 latitude: 50.63328
 longitude: 6.93883
 postcode: "53359"
 city: Rheinbach
-street: "Am Blümlingspfad"
+street: Am Blümlingspfad
 housenumber: 1-3
-phone: "+49 2226 4747"
-opening_hours: "Mo-Fr 09:00-17:00; PH off"
-website: "http://www.bestattungshausrheinbach.de/"
+phone: +49 2226 4747
+opening_hours: Mo-Fr 09:00-17:00; PH off
+website: http://www.bestattungshausrheinbach.de/

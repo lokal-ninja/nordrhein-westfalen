@@ -4,8 +4,8 @@ latitude: 51.71945
 longitude: 8.75884
 postcode: "33098"
 city: Paderborn
-street: "Giersstraße"
-housenumber: 2
+street: Giersstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-15:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-15:00; Sa 10:00-14:00
 website: ""

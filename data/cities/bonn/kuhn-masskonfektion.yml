@@ -4,8 +4,8 @@ latitude: 50.7362
 longitude: 7.09566
 postcode: "53111"
 city: Bonn
-street: "Thomas-Mann-Straße"
-housenumber: 11
-phone: "+49 228 692589"
-opening_hours: "Mo off; Tu-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.kuhn-masskonfektion.com/Filialen/Filiale-Bonn/"
+street: Thomas-Mann-Straße
+housenumber: "11"
+phone: +49 228 692589
+opening_hours: Mo off; Tu-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.kuhn-masskonfektion.com/Filialen/Filiale-Bonn/

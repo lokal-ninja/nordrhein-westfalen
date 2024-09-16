@@ -4,8 +4,8 @@ latitude: 52.30766
 longitude: 8.91628
 postcode: "32425"
 city: Minden
-street: "Marienstraße"
-housenumber: 128
-phone: "+49 571 4049265"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://wez.de/"
+street: Marienstraße
+housenumber: "128"
+phone: +49 571 4049265
+opening_hours: Mo-Sa 07:00-20:00
+website: https://wez.de/

@@ -4,8 +4,8 @@ latitude: 50.92159
 longitude: 6.36101
 postcode: "52428"
 city: Jülich
-street: "Poststraße"
-housenumber: 3
+street: Poststraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:30"
-website: "http://www.cunda.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:30
+website: http://www.cunda.de/

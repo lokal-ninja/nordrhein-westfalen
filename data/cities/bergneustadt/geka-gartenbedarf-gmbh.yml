@@ -1,11 +1,11 @@
 id: 99856923
-type: way
+type: node
 latitude: 51.01853
 longitude: 7.64331
 postcode: "51702"
 city: Bergneustadt
-street: "Stadionstraße"
-housenumber: 3
+street: Stadionstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

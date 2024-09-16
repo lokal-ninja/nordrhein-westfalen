@@ -4,8 +4,8 @@ latitude: 52.01929
 longitude: 8.53094
 postcode: "33602"
 city: Bielefeld
-street: "Welle"
-housenumber: 15
-phone: "+49-521-171075"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "http://www.loewenzahn-bio.de/"
+street: Welle
+housenumber: "15"
+phone: +49-521-171075
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: http://www.loewenzahn-bio.de/

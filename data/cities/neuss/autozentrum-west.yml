@@ -1,11 +1,11 @@
 id: 87409854
-type: way
+type: node
 latitude: 51.18185
 longitude: 6.68053
 postcode: "41464"
 city: Neuss
-street: "Moselstraße"
+street: Moselstraße
 housenumber: 31a
-phone: "+49-2131-4030490"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "http://az-west.de/"
+phone: +49-2131-4030490
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: http://az-west.de/

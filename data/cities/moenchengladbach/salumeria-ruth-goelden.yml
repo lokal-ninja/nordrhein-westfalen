@@ -4,8 +4,8 @@ latitude: 51.20363
 longitude: 6.41191
 postcode: "41063"
 city: Mönchengladbach
-street: "Anton-Heinen-Straße"
-housenumber: 9
-phone: "+49 2161 830338"
-opening_hours: "Tu-Fr 10:00-12:00,15:00-18:00; Sa 09:30-13:30"
-website: "http://salumeria-online.de"
+street: Anton-Heinen-Straße
+housenumber: "9"
+phone: +49 2161 830338
+opening_hours: Tu-Fr 10:00-12:00,15:00-18:00; Sa 09:30-13:30
+website: http://salumeria-online.de

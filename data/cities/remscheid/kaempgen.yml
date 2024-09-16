@@ -4,8 +4,8 @@ latitude: 51.18181
 longitude: 7.1868
 postcode: "42853"
 city: Remscheid
-street: "Theodor-Heuss-Platz"
-housenumber: 7
-phone: "+49 2191 4628495"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.kaempgen.de/"
+street: Theodor-Heuss-Platz
+housenumber: "7"
+phone: +49 2191 4628495
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.kaempgen.de/

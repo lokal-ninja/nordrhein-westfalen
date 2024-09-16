@@ -1,11 +1,11 @@
 id: 232658466
-type: way
+type: node
 latitude: 50.77602
 longitude: 6.92703
 postcode: "53332"
 city: Bornheim
-street: "Am Roten Boskoop"
-housenumber: 2
+street: Am Roten Boskoop
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

@@ -1,11 +1,11 @@
 id: 155361363
-type: way
+type: node
 latitude: 51.1038
 longitude: 6.71747
 postcode: "41542"
 city: Dormagen
-street: "Bergheimer Straße"
-housenumber: 67
-phone: "+49 2182 6335"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-14:00,17:00-18:00"
-website: "https://www.getraenke-clemens.de/"
+street: Bergheimer Straße
+housenumber: "67"
+phone: +49 2182 6335
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-14:00,17:00-18:00
+website: https://www.getraenke-clemens.de/

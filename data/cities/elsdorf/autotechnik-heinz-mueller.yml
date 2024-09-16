@@ -1,11 +1,11 @@
 id: 242514472
-type: way
+type: node
 latitude: 50.94395
 longitude: 6.58282
 postcode: "50189"
 city: Elsdorf
-street: "Max-Planck-Straße"
-housenumber: 5
+street: Max-Planck-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autotechnik-mueller.de/"
+website: https://www.autotechnik-mueller.de/

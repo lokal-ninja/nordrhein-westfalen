@@ -1,11 +1,11 @@
 id: 143604566
-type: way
+type: node
 latitude: 51.19663
 longitude: 6.69312
 postcode: "41460"
 city: Neuss
-street: "Michaelstraße"
-housenumber: 66
+street: Michaelstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:30; Su,PH off"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:30; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.02838
 longitude: 8.86651
 postcode: "32657"
 city: Lemgo
-street: "Am Bauhof"
-housenumber: 32
-phone: "+49 5261 4043"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-14:00, Su 08:00-12:00"
-website: "https://www.baeckerei-meffert.de/"
+street: Am Bauhof
+housenumber: "32"
+phone: +49 5261 4043
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-14:00, Su 08:00-12:00
+website: https://www.baeckerei-meffert.de/

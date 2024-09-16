@@ -1,11 +1,11 @@
 id: 1267560158
-type: way
+type: node
 latitude: 51.56257
 longitude: 7.36904
 postcode: "44357"
 city: Dortmund
-street: "Breisenbachstraße"
-housenumber: 106
-phone: "+49 231 93610"
+street: Breisenbachstraße
+housenumber: "106"
+phone: +49 231 93610
 opening_hours: ""
-website: "https://www.still.de/unternehmen/niederlassungen/dortmund.html"
+website: https://www.still.de/unternehmen/niederlassungen/dortmund.html

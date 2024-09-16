@@ -1,11 +1,11 @@
 id: 32029379
-type: way
+type: node
 latitude: 51.45464
 longitude: 6.94262
 postcode: "45359"
 city: Essen
-street: "Kaldenhoverbaum"
-housenumber: 8
+street: Kaldenhoverbaum
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

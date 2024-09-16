@@ -4,8 +4,8 @@ latitude: 50.77719
 longitude: 6.08568
 postcode: "52062"
 city: Aachen
-street: "Großkölnstraße"
-housenumber: 42
+street: Großkölnstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-18:00
 website: ""

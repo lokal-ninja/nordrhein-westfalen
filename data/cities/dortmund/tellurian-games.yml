@@ -4,8 +4,8 @@ latitude: 51.48187
 longitude: 7.40341
 postcode: "44227"
 city: Dortmund
-street: "Stockumer Straße"
-housenumber: 442
+street: Stockumer Straße
+housenumber: "442"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-16:00; PH off"
-website: "https://www.tellurian-games.de/"
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-16:00; PH off
+website: https://www.tellurian-games.de/

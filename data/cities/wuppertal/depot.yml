@@ -4,8 +4,8 @@ latitude: 51.25751
 longitude: 7.14509
 postcode: "42103"
 city: Wuppertal
-street: "Schlössersgasse"
-housenumber: 1
-phone: "+49 202 74700258"
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su off"
-website: "https://www.depot-online.com/home"
+street: Schlössersgasse
+housenumber: "1"
+phone: +49 202 74700258
+opening_hours: Mo-Sa 10:00-19:00; PH,Su off
+website: https://www.depot-online.com/home

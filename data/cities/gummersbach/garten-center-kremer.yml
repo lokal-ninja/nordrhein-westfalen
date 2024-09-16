@@ -1,11 +1,11 @@
 id: 388482687
-type: way
+type: node
 latitude: 50.99375
 longitude: 7.56696
 postcode: "51645"
 city: Gummersbach
-street: "Friedrichstaler Straße"
-housenumber: 43
-phone: "+49 2261 78970"
-opening_hours: "Mo-Sa 09:00-19:00, Su 11:00-16:00"
-website: "https://www.kremer-naturtalente.de"
+street: Friedrichstaler Straße
+housenumber: "43"
+phone: +49 2261 78970
+opening_hours: Mo-Sa 09:00-19:00, Su 11:00-16:00
+website: https://www.kremer-naturtalente.de

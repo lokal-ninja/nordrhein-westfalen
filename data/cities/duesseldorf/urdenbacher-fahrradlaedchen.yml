@@ -4,8 +4,8 @@ latitude: 51.14646
 longitude: 6.86485
 postcode: "40593"
 city: Düsseldorf
-street: "Gänsestraße"
-housenumber: 2
-phone: "+49 162 8755223"
-opening_hours: "Mo-Fr 15:30-18:30; Sa off"
-website: "http://www.fahrradladen-urdenbach.de/"
+street: Gänsestraße
+housenumber: "2"
+phone: +49 162 8755223
+opening_hours: Mo-Fr 15:30-18:30; Sa off
+website: http://www.fahrradladen-urdenbach.de/

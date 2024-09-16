@@ -1,11 +1,11 @@
 id: 49990097
-type: way
+type: node
 latitude: 51.20959
 longitude: 6.67268
 postcode: "41462"
 city: Neuss
-street: "Further Straße"
-housenumber: 160
+street: Further Straße
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

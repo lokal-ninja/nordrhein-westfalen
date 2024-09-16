@@ -4,8 +4,8 @@ latitude: 51.45351
 longitude: 7.96071
 postcode: "59755"
 city: Arnsberg
-street: "Mendener Straße"
-housenumber: 2
+street: Mendener Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 08:30-16:00"
-website: "https://www.reformhaus-mommertz.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 08:30-16:00
+website: https://www.reformhaus-mommertz.de/

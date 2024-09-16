@@ -4,8 +4,8 @@ latitude: 51.70399
 longitude: 8.7377
 postcode: "33098"
 city: Paderborn
-street: "Benediktinerstraße"
-housenumber: 63
-phone: "+49 5251 75668"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 09:00-14:00"
-website: "https://www.cmb-kfz.de/"
+street: Benediktinerstraße
+housenumber: "63"
+phone: +49 5251 75668
+opening_hours: Mo-Fr 08:30-18:00, Sa 09:00-14:00
+website: https://www.cmb-kfz.de/

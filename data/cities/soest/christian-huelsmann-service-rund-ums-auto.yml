@@ -1,11 +1,11 @@
 id: 234868686
-type: way
+type: node
 latitude: 51.55658
 longitude: 8.13686
 postcode: "59494"
 city: Soest
-street: "Lange Wende"
-housenumber: 35
-phone: "+49 2921 768668"
+street: Lange Wende
+housenumber: "35"
+phone: +49 2921 768668
 opening_hours: ""
 website: ""

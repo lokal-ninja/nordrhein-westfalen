@@ -1,11 +1,11 @@
 id: 499495487
-type: way
+type: node
 latitude: 52.22373
 longitude: 8.91046
 postcode: "32457"
 city: Porta Westfalica
-street: "Wiesenaue"
-housenumber: 24
+street: Wiesenaue
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.57038
 longitude: 9.16475
 postcode: "34439"
 city: Willebadessen
-street: "Zum Südholz"
-housenumber: 11
-phone: "+49 56 44 98 111 0"
-opening_hours: "Mo-Tu 09:00-12:00,15:00-18:00; Th-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://www.engemann-bio.de/"
+street: Zum Südholz
+housenumber: "11"
+phone: +49 56 44 98 111 0
+opening_hours: Mo-Tu 09:00-12:00,15:00-18:00; Th-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00
+website: https://www.engemann-bio.de/

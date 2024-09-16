@@ -4,8 +4,8 @@ latitude: 52.02799
 longitude: 8.90561
 postcode: "32657"
 city: Lemgo
-street: "Mittelstraße"
-housenumber: 7
-phone: "+49 5261 4026"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "http://schuh-kuhlmann.de"
+street: Mittelstraße
+housenumber: "7"
+phone: +49 5261 4026
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off
+website: http://schuh-kuhlmann.de

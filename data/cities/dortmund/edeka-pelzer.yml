@@ -1,11 +1,11 @@
 id: 52717395
-type: way
+type: node
 latitude: 51.48702
 longitude: 7.38059
 postcode: "44149"
 city: Dortmund
-street: "Steinsweg"
-housenumber: 14
-phone: "+49 231 9652097"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/rhein-ruhr/edeka-pelzer-steinsweg-14/index.jsp"
+street: Steinsweg
+housenumber: "14"
+phone: +49 231 9652097
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/rhein-ruhr/edeka-pelzer-steinsweg-14/index.jsp

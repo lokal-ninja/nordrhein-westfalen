@@ -1,11 +1,11 @@
 id: 816184071
-type: way
+type: node
 latitude: 51.29064
 longitude: 6.80448
 postcode: "40880"
 city: Ratingen
-street: "Broichhofstraße"
-housenumber: 8
-phone: "+49 179 5447505"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://rosis-autohof.de/standorte/"
+street: Broichhofstraße
+housenumber: "8"
+phone: +49 179 5447505
+opening_hours: Mo-Su 05:00-22:00
+website: https://rosis-autohof.de/standorte/

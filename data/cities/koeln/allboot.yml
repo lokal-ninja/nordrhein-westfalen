@@ -4,8 +4,8 @@ latitude: 50.95061
 longitude: 6.98257
 postcode: "51063"
 city: Köln
-street: "Auenweg"
-housenumber: 173
-phone: "+49 221 314511"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.allboot.de"
+street: Auenweg
+housenumber: "173"
+phone: +49 221 314511
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.allboot.de

@@ -1,11 +1,11 @@
 id: 511546169
-type: way
+type: node
 latitude: 51.62098
 longitude: 6.21069
 postcode: "47652"
 city: Weeze
-street: "Industriestraße"
-housenumber: 45
-phone: "+49-2837-664427"
+street: Industriestraße
+housenumber: "45"
+phone: +49-2837-664427
 opening_hours: ""
 website: ""

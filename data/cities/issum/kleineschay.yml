@@ -4,8 +4,8 @@ latitude: 51.53024
 longitude: 6.46866
 postcode: "47661"
 city: Issum
-street: "Braustraße"
-housenumber: 24
+street: Braustraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Mi n. Vereinbarung Do-Sa. 9-19 Uhr, So: 9-14 Uhr"
+opening_hours: 'Mo-Mi n. Vereinbarung Do-Sa. 9-19 Uhr, So: 9-14 Uhr'
 website: ""

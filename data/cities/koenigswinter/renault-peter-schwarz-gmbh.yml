@@ -1,11 +1,11 @@
 id: 168532713
-type: way
+type: node
 latitude: 50.71908
 longitude: 7.27696
 postcode: "53639"
 city: Königswinter
-street: "In der Brückenwiese"
-housenumber: 3
-phone: "+49 2244 92460"
+street: In der Brückenwiese
+housenumber: "3"
+phone: +49 2244 92460
 opening_hours: ""
 website: ""

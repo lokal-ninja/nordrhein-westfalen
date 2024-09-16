@@ -1,11 +1,11 @@
 id: 280594263
-type: way
+type: node
 latitude: 51.53099
 longitude: 6.97551
 postcode: "46240"
 city: Bottrop
-street: "Gungstraße"
-housenumber: 16
+street: Gungstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

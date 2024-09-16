@@ -1,11 +1,11 @@
 id: 227549860
-type: way
+type: node
 latitude: 50.91068
 longitude: 6.37784
 postcode: "52428"
 city: Jülich
-street: "Am Mühlenteich"
-housenumber: 4
+street: Am Mühlenteich
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.fiat.de/"
+website: https://www.fiat.de/

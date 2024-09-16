@@ -1,11 +1,11 @@
 id: 131554160
-type: way
+type: node
 latitude: 50.71294
 longitude: 6.18584
 postcode: "52076"
 city: Aachen
-street: "Schleidener Straße"
-housenumber: 51
+street: Schleidener Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

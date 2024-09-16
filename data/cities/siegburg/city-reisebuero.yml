@@ -4,8 +4,8 @@ latitude: 50.79663
 longitude: 7.2079
 postcode: "53721"
 city: Siegburg
-street: "Mühlenstraße"
-housenumber: 1
-phone: "+49-2241-65063"
-opening_hours: "Mo-Fr 11:00-17:00"
-website: "https://www.cityreisebuerosiegburg.de/"
+street: Mühlenstraße
+housenumber: "1"
+phone: +49-2241-65063
+opening_hours: Mo-Fr 11:00-17:00
+website: https://www.cityreisebuerosiegburg.de/

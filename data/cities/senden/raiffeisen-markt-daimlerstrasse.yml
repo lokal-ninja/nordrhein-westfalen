@@ -1,11 +1,11 @@
 id: 322327884
-type: way
+type: node
 latitude: 51.84697
 longitude: 7.48442
 postcode: "48308"
 city: Senden
-street: "Daimlerstraße"
-housenumber: 2
+street: Daimlerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

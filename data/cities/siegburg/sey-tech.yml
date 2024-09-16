@@ -4,8 +4,8 @@ latitude: 50.80163
 longitude: 7.20562
 postcode: "53721"
 city: Siegburg
-street: "Kaiserstraße"
-housenumber: 100
-phone: "+49 2241 145 29 79"
+street: Kaiserstraße
+housenumber: "100"
+phone: +49 2241 145 29 79
 opening_hours: ""
-website: "https://sey-tech.de/"
+website: https://sey-tech.de/

@@ -4,8 +4,8 @@ latitude: 51.72038
 longitude: 8.75763
 postcode: "33098"
 city: Paderborn
-street: "Heiersstraße"
-housenumber: 12
+street: Heiersstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://www.haarwerk-paderborn.de/"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://www.haarwerk-paderborn.de/

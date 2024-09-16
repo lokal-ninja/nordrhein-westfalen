@@ -4,8 +4,8 @@ latitude: 51.20373
 longitude: 6.71937
 postcode: "41460"
 city: Neuss
-street: "An der Hammer Brücke"
-housenumber: 2
-phone: "+49 2131 120708"
-opening_hours: "Mo-Fr 07:00-18:00; Sa,Su off"
-website: "https://www.mcgas-tankstellen.de"
+street: An der Hammer Brücke
+housenumber: "2"
+phone: +49 2131 120708
+opening_hours: Mo-Fr 07:00-18:00; Sa,Su off
+website: https://www.mcgas-tankstellen.de

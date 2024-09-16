@@ -4,8 +4,8 @@ latitude: 51.95518
 longitude: 7.0095
 postcode: "48712"
 city: Gescher
-street: "Hofstraße"
-housenumber: 5
+street: Hofstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,We,Fr 08:30-18:00; Th 08:30-21:00; Sa 08:00-13:00"
+opening_hours: Tu,We,Fr 08:30-18:00; Th 08:30-21:00; Sa 08:00-13:00
 website: ""

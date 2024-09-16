@@ -1,11 +1,11 @@
 id: 585243478
-type: way
+type: node
 latitude: 51.51587
 longitude: 7.50028
 postcode: "44143"
 city: Dortmund
-street: "Körner Hellweg"
-housenumber: 20
+street: Körner Hellweg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/dortmund/koerner-hellweg-20.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/dortmund/koerner-hellweg-20.html

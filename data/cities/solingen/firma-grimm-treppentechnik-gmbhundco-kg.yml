@@ -1,11 +1,11 @@
 id: 130549939
-type: way
+type: node
 latitude: 51.14746
 longitude: 7.01662
 postcode: "42699"
 city: Solingen
-street: "Friedenstraße"
-housenumber: 143
+street: Friedenstraße
+housenumber: "143"
 phone: ""
 opening_hours: ""
-website: "https://www.treppen-grimm.de"
+website: https://www.treppen-grimm.de

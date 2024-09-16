@@ -4,8 +4,8 @@ latitude: 51.6125
 longitude: 7.19703
 postcode: "45657"
 city: Recklinghausen
-street: "Breite Straße"
-housenumber: 24
-phone: "+49 2361 183137"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"
-website: "http://haarstudio-side-gmbh.de/"
+street: Breite Straße
+housenumber: "24"
+phone: +49 2361 183137
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00
+website: http://haarstudio-side-gmbh.de/

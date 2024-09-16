@@ -4,8 +4,9 @@ latitude: 51.42404
 longitude: 7.52994
 postcode: "58239"
 city: Schwerte
-street: "Alter Hellweg"
-housenumber: 4
+street: Alter Hellweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu 08:30-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo 10:00-18:00; Tu 08:30-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa
+    08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 263778177
-type: way
+type: node
 latitude: 51.59833
 longitude: 7.24626
 postcode: "45665"
 city: Recklinghausen
-street: "Schmalkalder Straße"
-housenumber: 17
+street: Schmalkalder Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

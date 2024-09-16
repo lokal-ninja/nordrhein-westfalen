@@ -4,8 +4,8 @@ latitude: 51.73554
 longitude: 8.68181
 postcode: "33106"
 city: Paderborn
-street: "Gesselner Straße"
-housenumber: 1
+street: Gesselner Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00, 15:00-18:00; Sa 09:30-13:00; PH off"
+opening_hours: Mo-Fr 09:30-13:00, 15:00-18:00; Sa 09:30-13:00; PH off
 website: ""

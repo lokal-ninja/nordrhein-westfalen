@@ -4,8 +4,8 @@ latitude: 51.70467
 longitude: 8.76982
 postcode: ""
 city: Paderborn
-street: "Pohlweg"
-housenumber: 110
+street: Pohlweg
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
-website: "https://www.biomarkt.de/"
+opening_hours: Mo-Sa 8:00-20:00
+website: https://www.biomarkt.de/

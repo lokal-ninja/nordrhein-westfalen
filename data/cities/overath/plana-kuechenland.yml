@@ -1,11 +1,11 @@
 id: 156787315
-type: way
+type: node
 latitude: 50.94006
 longitude: 7.29355
 postcode: "51491"
 city: Overath
-street: "Großbernsau"
-housenumber: 4
+street: Großbernsau
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

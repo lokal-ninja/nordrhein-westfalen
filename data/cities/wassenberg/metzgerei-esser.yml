@@ -4,8 +4,8 @@ latitude: 51.09206
 longitude: 6.15787
 postcode: "41849"
 city: Wassenberg
-street: "Weilerstraße"
-housenumber: 55
-phone: "+49 2432 892282"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "https://www.wurst-esser.de/"
+street: Weilerstraße
+housenumber: "55"
+phone: +49 2432 892282
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: https://www.wurst-esser.de/

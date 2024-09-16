@@ -1,11 +1,11 @@
 id: 76206861
-type: way
+type: node
 latitude: 51.59687
 longitude: 7.18888
 postcode: "45659"
 city: Recklinghausen
-street: "Am Stadion"
-housenumber: 89
+street: Am Stadion
+housenumber: "89"
 phone: "+49236112087"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00; Su 14:00-17:00"
-website: "https://www.alma-kuechen.de/recklinghausen/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00; Su 14:00-17:00
+website: https://www.alma-kuechen.de/recklinghausen/

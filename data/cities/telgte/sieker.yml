@@ -1,11 +1,11 @@
 id: 259608161
-type: way
+type: node
 latitude: 51.98392
 longitude: 7.7859
 postcode: "48291"
 city: Telgte
-street: "Steinstraße"
-housenumber: 2
+street: Steinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://sieker-modefuersie.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://sieker-modefuersie.de/

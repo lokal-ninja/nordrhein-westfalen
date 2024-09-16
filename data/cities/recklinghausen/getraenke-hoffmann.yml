@@ -1,11 +1,11 @@
 id: 212731307
-type: way
+type: node
 latitude: 51.60282
 longitude: 7.21688
 postcode: "45665"
 city: Recklinghausen
-street: "Castroper Straße"
-housenumber: 187
+street: Castroper Straße
+housenumber: "187"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

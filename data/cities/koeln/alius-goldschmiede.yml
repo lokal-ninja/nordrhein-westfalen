@@ -4,8 +4,8 @@ latitude: 50.89454
 longitude: 6.9938
 postcode: "50996"
 city: Köln
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-14:00; PH,Su,Mo off"
-website: "https://www.goldschmiede-alius.de/"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-14:00; PH,Su,Mo off
+website: https://www.goldschmiede-alius.de/

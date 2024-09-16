@@ -1,11 +1,11 @@
 id: 165096518
-type: way
+type: node
 latitude: 51.66959
 longitude: 7.1694
 postcode: "45770"
 city: Marl
-street: "Ottostraße"
-housenumber: 1
+street: Ottostraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00
 website: ""

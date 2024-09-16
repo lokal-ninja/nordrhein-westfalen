@@ -1,11 +1,11 @@
 id: 108539400
-type: way
+type: node
 latitude: 51.22785
 longitude: 7.20391
 postcode: "42369"
 city: Wuppertal
-street: "In der Krim"
-housenumber: 4
+street: In der Krim
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

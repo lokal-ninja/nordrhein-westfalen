@@ -1,11 +1,11 @@
 id: 53188077
-type: way
+type: node
 latitude: 50.72877
 longitude: 7.04753
 postcode: "53123"
 city: Bonn
-street: "Burgweg"
-housenumber: 19
+street: Burgweg
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.gutostler.de/"
+website: http://www.gutostler.de/

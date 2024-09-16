@@ -4,8 +4,8 @@ latitude: 51.21411
 longitude: 6.77607
 postcode: "40217"
 city: Düsseldorf
-street: "Fürstenwall"
-housenumber: 146
-phone: "+49 211 3850653"
-opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
-website: "https://www.rewe.de/"
+street: Fürstenwall
+housenumber: "146"
+phone: +49 211 3850653
+opening_hours: Mo-Sa 07:00-24:00; Su,PH off
+website: https://www.rewe.de/

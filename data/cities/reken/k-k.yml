@@ -1,11 +1,11 @@
 id: 97210359
-type: way
+type: node
 latitude: 51.8271
 longitude: 7.04842
 postcode: "48734"
 city: Reken
-street: "Kardinal-von-Galen-Straße"
-housenumber: 4
-phone: "+49 2864 5005"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Kardinal-von-Galen-Straße
+housenumber: "4"
+phone: +49 2864 5005
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

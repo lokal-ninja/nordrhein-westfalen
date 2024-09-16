@@ -4,8 +4,8 @@ latitude: 51.57835
 longitude: 6.74196
 postcode: "46537"
 city: Dinslaken
-street: "Augustastraße"
-housenumber: 149
+street: Augustastraße
+housenumber: "149"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.bienemann.nrw/e-markt-augustastrasse/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.bienemann.nrw/e-markt-augustastrasse/

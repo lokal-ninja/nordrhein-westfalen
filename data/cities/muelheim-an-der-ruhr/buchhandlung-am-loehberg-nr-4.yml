@@ -4,8 +4,8 @@ latitude: 51.42796
 longitude: 6.88272
 postcode: "45468"
 city: Mülheim an der Ruhr
-street: "Löhberg"
-housenumber: 4
-phone: "+49 208 74049380"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Dec 24,31 09:00-14:00"
-website: "http://www.buchamloehberg.de"
+street: Löhberg
+housenumber: "4"
+phone: +49 208 74049380
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Dec 24,31 09:00-14:00
+website: http://www.buchamloehberg.de

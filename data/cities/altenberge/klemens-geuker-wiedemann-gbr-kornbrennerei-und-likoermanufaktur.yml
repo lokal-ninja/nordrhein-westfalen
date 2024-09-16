@@ -1,11 +1,11 @@
 id: 73850069
-type: way
+type: node
 latitude: 52.01623
 longitude: 7.462
 postcode: "48341"
 city: Altenberge
-street: "Kümper"
-housenumber: 7
+street: Kümper
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

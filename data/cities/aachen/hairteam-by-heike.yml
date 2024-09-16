@@ -1,11 +1,11 @@
 id: 186735959
-type: way
+type: node
 latitude: 50.76919
 longitude: 6.02454
 postcode: "52074"
 city: Aachen
-street: "Alte Vaalser Straße"
-housenumber: 90
+street: Alte Vaalser Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.49613
 longitude: 7.49915
 postcode: "44263"
 city: Dortmund
-street: "Hochfelder Straße"
-housenumber: 49
-phone: "+49 231 5605989"
-opening_hours: ""
-website: "https://www.canis-hundepflege.de/"
+street: Hochfelder Straße
+housenumber: "49"
+phone: +49 231 5605989
+opening_hours: Mo-Tu,Th-Fr 09:00-16:00
+website: https://www.canis-hundepflege.de/

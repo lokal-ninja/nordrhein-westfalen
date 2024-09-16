@@ -1,11 +1,11 @@
 id: 146507381
-type: way
+type: node
 latitude: 51.61255
 longitude: 7.52358
 postcode: "44532"
 city: Lünen
-street: "Lange Straße"
-housenumber: 51
+street: Lange Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

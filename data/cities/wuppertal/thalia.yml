@@ -4,8 +4,8 @@ latitude: 51.25698
 longitude: 7.14917
 postcode: "42103"
 city: Wuppertal
-street: "Alte Freiheit"
-housenumber: 9
+street: Alte Freiheit
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.thalia.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.thalia.de/

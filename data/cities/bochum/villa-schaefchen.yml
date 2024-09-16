@@ -4,8 +4,8 @@ latitude: 51.47936
 longitude: 7.14227
 postcode: "44866"
 city: Bochum
-street: "Otto-Brenner-Straße"
-housenumber: 7
-phone: "+49 2327 5692312"
-opening_hours: "Mo-Th 09:00-15:00; Fr 09:00-17:30"
+street: Otto-Brenner-Straße
+housenumber: "7"
+phone: +49 2327 5692312
+opening_hours: Mo-Th 09:00-15:00; Fr 09:00-17:30
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.88334
 longitude: 8.50776
 postcode: "33415"
 city: Verl
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:30-18:30; Th 10:00-12:30; Sa 10:00-13:00; Su,PH off"
-website: "http://www.stil-verl.de/"
+opening_hours: Mo-Fr 10:00-12:30,14:30-18:30; Th 10:00-12:30; Sa 10:00-13:00; Su,PH
+    off
+website: http://www.stil-verl.de/

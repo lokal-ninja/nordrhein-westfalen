@@ -1,11 +1,11 @@
 id: 133000246
-type: way
+type: node
 latitude: 51.99977
 longitude: 7.5587
 postcode: "48161"
 city: Münster
-street: "Altenberger Straße"
-housenumber: 32
+street: Altenberger Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

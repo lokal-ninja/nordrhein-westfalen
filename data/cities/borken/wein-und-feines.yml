@@ -4,8 +4,8 @@ latitude: 51.85116
 longitude: 6.8847
 postcode: "46325"
 city: Borken
-street: "Hansestraße"
-housenumber: 40
-phone: "+49 2861 5548"
-opening_hours: "Mo-We,Fr 13:00-18:30; Sa 09:00-14:00; Th,Su off"
+street: Hansestraße
+housenumber: "40"
+phone: +49 2861 5548
+opening_hours: Mo-We,Fr 13:00-18:30; Sa 09:00-14:00; Th,Su off
 website: ""

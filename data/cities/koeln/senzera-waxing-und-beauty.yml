@@ -4,8 +4,8 @@ latitude: 50.91732
 longitude: 6.92374
 postcode: "50937"
 city: Köln
-street: "Berrenrather Straße"
-housenumber: 280
-phone: "+49 221 46007804"
-opening_hours: "We-Fr 11:00-20:00; Tu 10:00-19:00; Sa 09:00-16:00"
-website: "https://senzera.com"
+street: Berrenrather Straße
+housenumber: "280"
+phone: +49 221 46007804
+opening_hours: We-Fr 11:00-20:00; Tu 10:00-19:00; Sa 09:00-16:00
+website: https://senzera.com

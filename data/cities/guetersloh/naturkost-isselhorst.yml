@@ -1,11 +1,11 @@
 id: 282862878
-type: way
+type: node
 latitude: 51.94699
 longitude: 8.40855
 postcode: "33334"
 city: Gütersloh
-street: "Haller Straße"
-housenumber: 128
+street: Haller Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

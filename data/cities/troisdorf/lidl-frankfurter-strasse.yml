@@ -1,11 +1,11 @@
 id: 43025383
-type: way
+type: node
 latitude: 50.8139
 longitude: 7.17542
 postcode: "53840"
 city: Troisdorf
-street: "Frankfurter Straße"
-housenumber: 93
+street: Frankfurter Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

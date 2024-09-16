@@ -4,8 +4,8 @@ latitude: 51.19061
 longitude: 6.51487
 postcode: "41352"
 city: Korschenbroich
-street: "Steinstraße"
-housenumber: 10
+street: Steinstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Th 15:00-19:00; Sa 10:00-14:00; Fr 15:00-19:00"
-website: "https://welt-der-lebenswasser.de"
+opening_hours: Th 15:00-19:00; Sa 10:00-14:00; Fr 15:00-19:00
+website: https://welt-der-lebenswasser.de

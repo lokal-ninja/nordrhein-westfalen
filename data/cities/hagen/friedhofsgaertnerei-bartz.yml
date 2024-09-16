@@ -1,11 +1,11 @@
 id: 52253261
-type: way
+type: node
 latitude: 51.34573
 longitude: 7.50862
 postcode: "58093"
 city: Hagen
-street: "Am Berghang"
-housenumber: 9
+street: Am Berghang
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

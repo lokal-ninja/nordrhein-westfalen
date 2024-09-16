@@ -1,11 +1,11 @@
 id: 116577293
-type: way
+type: node
 latitude: 51.41802
 longitude: 7.10731
 postcode: "45289"
 city: Essen
-street: "Worringstraße"
+street: Worringstraße
 housenumber: 23-25
-phone: "+49 201 570882"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:30; Sa 09:00-14:00"
-website: "http://www.wohnstudio-neuhaus.de/"
+phone: +49 201 570882
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:30; Sa 09:00-14:00
+website: http://www.wohnstudio-neuhaus.de/

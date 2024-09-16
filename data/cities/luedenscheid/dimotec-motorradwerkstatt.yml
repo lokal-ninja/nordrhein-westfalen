@@ -1,11 +1,11 @@
 id: 252042968
-type: way
+type: node
 latitude: 51.2344
 longitude: 7.6329
 postcode: "58513"
 city: Lüdenscheid
-street: "Altenaer Straße"
+street: Altenaer Straße
 housenumber: 120a
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00, 13:30-17:00; Sa-Su off"
-website: "http://www.dimotec-suzuki.de/"
+opening_hours: Mo-Fr 09:30-12:00, 13:30-17:00; Sa-Su off
+website: http://www.dimotec-suzuki.de/

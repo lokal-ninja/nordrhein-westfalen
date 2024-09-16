@@ -4,8 +4,8 @@ latitude: 51.48391
 longitude: 7.00987
 postcode: "45326"
 city: Essen
-street: "Lierfeldstraße"
-housenumber: 3
+street: Lierfeldstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/essen-stadt/1762857/rewe-markt-lierfeldstrasse-3/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/essen-stadt/1762857/rewe-markt-lierfeldstrasse-3/

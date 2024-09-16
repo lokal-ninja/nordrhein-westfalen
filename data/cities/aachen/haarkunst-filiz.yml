@@ -1,11 +1,11 @@
 id: 84145280
-type: way
+type: node
 latitude: 50.77088
 longitude: 6.08281
 postcode: "52064"
 city: Aachen
-street: "Matthiashofstraße"
-housenumber: 33
+street: Matthiashofstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-15:00"
-website: "https://www.haarkunst-filiz.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-15:00
+website: https://www.haarkunst-filiz.de/

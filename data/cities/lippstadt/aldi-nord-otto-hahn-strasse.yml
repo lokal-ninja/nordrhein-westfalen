@@ -1,11 +1,11 @@
 id: 27499909
-type: way
+type: node
 latitude: 51.65712
 longitude: 8.33046
 postcode: "59557"
 city: Lippstadt
-street: "Otto-Hahn-Straße"
-housenumber: 17
+street: Otto-Hahn-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

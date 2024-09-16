@@ -1,11 +1,11 @@
 id: 319085808
-type: way
+type: node
 latitude: 50.89224
 longitude: 6.67935
 postcode: "50170"
 city: Kerpen
-street: "Marie-Curie-Straße"
-housenumber: 2
+street: Marie-Curie-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

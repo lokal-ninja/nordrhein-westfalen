@@ -1,11 +1,11 @@
 id: 144719960
-type: way
+type: node
 latitude: 50.92555
 longitude: 6.79842
 postcode: "50226"
 city: Frechen
-street: "Ulrichstraße"
-housenumber: 62
+street: Ulrichstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

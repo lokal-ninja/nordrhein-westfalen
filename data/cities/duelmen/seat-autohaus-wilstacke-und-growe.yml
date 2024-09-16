@@ -1,11 +1,11 @@
 id: 372378989
-type: way
+type: node
 latitude: 51.89626
 longitude: 7.2758
 postcode: "48249"
 city: Dülmen
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

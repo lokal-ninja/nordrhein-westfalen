@@ -1,11 +1,11 @@
-id: 76029928
-type: way
-latitude: 51.44635
-longitude: 7.36895
-postcode: "58453"
+id: 71454682
+type: node
+latitude: 51.43964
+longitude: 7.32918
+postcode: "58452"
 city: Witten
-street: "Annenstraße"
-housenumber: 133
+street: Breite Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

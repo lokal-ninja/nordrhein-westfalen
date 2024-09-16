@@ -1,11 +1,11 @@
 id: 30846827
-type: way
+type: node
 latitude: 51.19315
 longitude: 6.41035
 postcode: "41068"
 city: Mönchengladbach
-street: "Monschauer Straße"
-housenumber: 31
+street: Monschauer Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

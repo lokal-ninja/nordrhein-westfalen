@@ -1,11 +1,11 @@
 id: 33757039
-type: way
+type: node
 latitude: 50.78696
 longitude: 7.99394
 postcode: "57290"
 city: Neunkirchen
-street: "Hohenseelbachstraße"
-housenumber: 5
+street: Hohenseelbachstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

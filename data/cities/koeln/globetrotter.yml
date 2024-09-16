@@ -4,8 +4,8 @@ latitude: 50.93786
 longitude: 6.94803
 postcode: "50667"
 city: Köln
-street: "Richmodstraße"
-housenumber: 10
+street: Richmodstraße
+housenumber: "10"
 phone: "+492212772880"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.globetrotter.de/de/filialen/koeln/index.php"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.globetrotter.de/de/filialen/koeln/index.php

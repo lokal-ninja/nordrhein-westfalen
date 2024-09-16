@@ -1,11 +1,11 @@
 id: 741592100
-type: way
+type: node
 latitude: 51.4447
 longitude: 7.96695
 postcode: "59755"
 city: Arnsberg
-street: "Stembergstraße"
-housenumber: 60
+street: Stembergstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
 website: ""

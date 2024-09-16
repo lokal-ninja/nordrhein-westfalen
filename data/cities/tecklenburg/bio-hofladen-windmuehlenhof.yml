@@ -1,11 +1,11 @@
 id: 470546749
-type: way
+type: node
 latitude: 52.24485
 longitude: 7.82858
 postcode: "49545"
 city: Tecklenburg
-street: "Windmühlenstraße"
-housenumber: 42
+street: Windmühlenstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

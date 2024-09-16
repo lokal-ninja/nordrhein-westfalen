@@ -4,8 +4,8 @@ latitude: 50.96858
 longitude: 7.00707
 postcode: "51063"
 city: Köln
-street: "Clevischer Ring"
-housenumber: 104
+street: Clevischer Ring
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.harbeke.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.harbeke.de/

@@ -1,11 +1,11 @@
 id: 162854007
-type: way
+type: node
 latitude: 50.77124
 longitude: 6.0599
 postcode: "52074"
 city: Aachen
-street: "Weststraße"
+street: Weststraße
 housenumber: 38a
 phone: ""
 opening_hours: ""
-website: "http://www.kennedy-ac.de/blumen.htm"
+website: http://www.kennedy-ac.de/blumen.htm

@@ -4,8 +4,8 @@ latitude: 51.8208
 longitude: 8.65977
 postcode: "33161"
 city: Hövelhof
-street: "Allee"
-housenumber: 29
-phone: "+495257 5049360"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-17:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/hoevelhof.php"
+street: Allee
+housenumber: "29"
+phone: +495257 5049360
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-17:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/hoevelhof.php

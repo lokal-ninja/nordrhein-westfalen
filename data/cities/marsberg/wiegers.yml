@@ -1,11 +1,11 @@
 id: 284275388
-type: way
+type: node
 latitude: 51.49687
 longitude: 8.91318
 postcode: "34431"
 city: Marsberg
-street: "Kasseler Straße"
-housenumber: 69
+street: Kasseler Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.wiegers-autoservice.de/"
+website: https://www.wiegers-autoservice.de/

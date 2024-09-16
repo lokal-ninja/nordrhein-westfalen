@@ -1,11 +1,11 @@
 id: 261690421
-type: way
+type: node
 latitude: 51.08757
 longitude: 6.59067
 postcode: "41515"
 city: Grevenbroich
-street: "Südwall"
-housenumber: 14
+street: Südwall
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

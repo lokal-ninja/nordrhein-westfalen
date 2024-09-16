@@ -4,8 +4,8 @@ latitude: 51.06948
 longitude: 6.09732
 postcode: "52525"
 city: Heinsberg
-street: "Kolpingstraße"
-housenumber: 5
-phone: "+49 2452 5152"
-opening_hours: "Mo 10:00-16:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.siemeskauhl.de/"
+street: Kolpingstraße
+housenumber: "5"
+phone: +49 2452 5152
+opening_hours: Mo 10:00-16:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.siemeskauhl.de/

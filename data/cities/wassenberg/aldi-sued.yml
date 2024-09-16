@@ -1,11 +1,11 @@
 id: 116503935
-type: way
+type: node
 latitude: 51.09228
 longitude: 6.15891
 postcode: "41849"
 city: Wassenberg
-street: "Weilerstraße"
+street: Weilerstraße
 housenumber: 61-65
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off; PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su off; PH off
+website: https://www.aldi-sued.de/

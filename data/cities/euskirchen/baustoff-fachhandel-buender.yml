@@ -1,11 +1,11 @@
 id: 161958033
-type: way
+type: node
 latitude: 50.65355
 longitude: 6.80646
 postcode: "53879"
 city: Euskirchen
-street: "Carl-Benz-Straße"
-housenumber: 9
+street: Carl-Benz-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:30-12:00
 website: ""

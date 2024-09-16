@@ -1,11 +1,11 @@
 id: 114454986
-type: way
+type: node
 latitude: 51.69236
 longitude: 7.94682
 postcode: "59071"
 city: Hamm
-street: "Uentroper Dorfstraße"
-housenumber: 17
-phone: "+49 2388 800804"
+street: Uentroper Dorfstraße
+housenumber: "17"
+phone: +49 2388 800804
 opening_hours: ""
 website: ""

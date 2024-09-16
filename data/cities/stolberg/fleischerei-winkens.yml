@@ -4,8 +4,8 @@ latitude: 50.7998
 longitude: 6.20813
 postcode: "52222"
 city: Stolberg
-street: "Wallonischer Ring"
-housenumber: 1
+street: Wallonischer Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://wurst-winkens.de/index.html"
+website: https://wurst-winkens.de/index.html

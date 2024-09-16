@@ -1,11 +1,11 @@
 id: 208689423
-type: way
+type: node
 latitude: 50.92646
 longitude: 6.10057
 postcode: "52531"
 city: Übach-Palenberg
-street: "Alte Poststraße"
-housenumber: 17
-phone: "+49 2451 41482"
+street: Alte Poststraße
+housenumber: "17"
+phone: +49 2451 41482
 opening_hours: ""
 website: ""

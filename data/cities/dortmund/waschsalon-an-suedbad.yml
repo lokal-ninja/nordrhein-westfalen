@@ -4,8 +4,8 @@ latitude: 51.50496
 longitude: 7.46834
 postcode: "44139"
 city: Dortmund
-street: "Meißener Straße"
-housenumber: 1
-phone: "+49 231 3358934"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: Meißener Straße
+housenumber: "1"
+phone: +49 231 3358934
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

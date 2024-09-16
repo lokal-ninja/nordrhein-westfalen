@@ -4,8 +4,8 @@ latitude: 50.73468
 longitude: 7.10307
 postcode: "53113"
 city: Bonn
-street: "Stockenstraße"
-housenumber: 2
+street: Stockenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "http://www.bonnerbriefmarkenundmuenzkontor.de/"
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:30-16:00
+website: http://www.bonnerbriefmarkenundmuenzkontor.de/

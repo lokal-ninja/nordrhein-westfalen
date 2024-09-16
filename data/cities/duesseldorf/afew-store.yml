@@ -4,8 +4,8 @@ latitude: 51.2261
 longitude: 6.78886
 postcode: "40211"
 city: Düsseldorf
-street: "Oststraße"
-housenumber: 36
-phone: "+49 211 22960866"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-19:00"
-website: "https://www.afew-store.com"
+street: Oststraße
+housenumber: "36"
+phone: +49 211 22960866
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-19:00
+website: https://www.afew-store.com

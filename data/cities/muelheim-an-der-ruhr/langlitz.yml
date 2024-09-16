@@ -1,11 +1,11 @@
 id: 64288628
-type: way
+type: node
 latitude: 51.44078
 longitude: 6.86937
 postcode: "45473"
 city: Mülheim an der Ruhr
-street: "Friedrich-Ebert-Straße"
-housenumber: 230
+street: Friedrich-Ebert-Straße
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

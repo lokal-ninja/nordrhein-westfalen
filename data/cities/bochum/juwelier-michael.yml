@@ -4,8 +4,8 @@ latitude: 51.48056
 longitude: 7.22019
 postcode: "44787"
 city: Bochum
-street: "Massenbergstraße"
-housenumber: 6
-phone: "+49 234 9129880"
+street: Massenbergstraße
+housenumber: "6"
+phone: +49 234 9129880
 opening_hours: ""
-website: "https://juweliermichael.de/"
+website: https://juweliermichael.de/

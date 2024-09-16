@@ -1,11 +1,11 @@
 id: 317079691
-type: way
+type: node
 latitude: 51.23809
 longitude: 7.09834
 postcode: "42327"
 city: Wuppertal
-street: "Rutenbecker Weg"
-housenumber: 3
+street: Rutenbecker Weg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

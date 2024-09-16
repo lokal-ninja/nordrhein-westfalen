@@ -4,8 +4,8 @@ latitude: 51.50449
 longitude: 7.46043
 postcode: "44139"
 city: Dortmund
-street: "Saarlandstraße"
-housenumber: 118
-phone: "+49 231 58070066"
-opening_hours: "Tu-Sa 10:30-18:30"
-website: "https://pur-bio.de"
+street: Saarlandstraße
+housenumber: "118"
+phone: +49 231 58070066
+opening_hours: Tu-Sa 10:30-18:30
+website: https://pur-bio.de

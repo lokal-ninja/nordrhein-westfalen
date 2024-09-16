@@ -4,8 +4,8 @@ latitude: 51.38433
 longitude: 6.45402
 postcode: "47906"
 city: Kempen
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-13:00,14:30-18:30; Tu,Th,Sa 08:00-13:00"
+opening_hours: Mo,We,Fr 08:00-13:00,14:30-18:30; Tu,Th,Sa 08:00-13:00
 website: ""

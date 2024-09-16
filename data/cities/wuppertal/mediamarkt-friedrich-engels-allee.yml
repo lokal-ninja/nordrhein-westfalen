@@ -4,8 +4,8 @@ latitude: 51.25647
 longitude: 7.1633
 postcode: "42103"
 city: Wuppertal
-street: "Friedrich-Engels-Allee"
-housenumber: 34
+street: Friedrich-Engels-Allee
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.mediamarkt.de/de/store/wuppertal-568"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.mediamarkt.de/de/store/wuppertal-568

@@ -4,8 +4,8 @@ latitude: 51.39164
 longitude: 7.08014
 postcode: "45257"
 city: Essen
-street: "Bahnstraße"
-housenumber: 20
-phone: "+49 201 17132460"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 10:00-18:00"
-website: "https://neue-arbeit-essen.de/dienstleistungen/fahrradstationen/"
+street: Bahnstraße
+housenumber: "20"
+phone: +49 201 17132460
+opening_hours: Mo-Fr 07:00-19:00; Sa 10:00-18:00
+website: https://neue-arbeit-essen.de/dienstleistungen/fahrradstationen/

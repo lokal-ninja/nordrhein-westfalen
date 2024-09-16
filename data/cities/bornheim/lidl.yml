@@ -1,11 +1,11 @@
 id: 28698727
-type: way
+type: node
 latitude: 50.76888
 longitude: 6.94438
 postcode: "53332"
 city: Bornheim
-street: "Auf dem Knickert"
-housenumber: 2
+street: Auf dem Knickert
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/bornheim/kardorf-auf-dem-knickert-2.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/bornheim/kardorf-auf-dem-knickert-2.html

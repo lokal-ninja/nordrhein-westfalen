@@ -1,11 +1,11 @@
 id: 230039896
-type: way
+type: node
 latitude: 51.81963
 longitude: 8.65816
 postcode: "33161"
 city: Hövelhof
-street: "Paderborner Straße"
-housenumber: 8
+street: Paderborner Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 9:00-13:00, 14:00-18:30; Sa 9:00-13:00, 14:00-13:00"
+opening_hours: Mo-Fr 9:00-13:00, 14:00-18:30; Sa 9:00-13:00, 14:00-13:00
 website: ""

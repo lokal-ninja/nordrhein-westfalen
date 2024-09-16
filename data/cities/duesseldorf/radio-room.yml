@@ -4,8 +4,8 @@ latitude: 51.21689
 longitude: 6.76485
 postcode: "40219"
 city: Düsseldorf
-street: "Neusser Straße"
-housenumber: 41
+street: Neusser Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Tu,Th,Fr 11:00-13:00,14:00-18:00 || nach Vereinbarung"
-website: "https://www.radiomuseum.org/museum/d/radio-room-duesseldorf/.html"
+opening_hours: Tu,Th,Fr 11:00-13:00,14:00-18:00 || "nach Vereinbarung"
+website: https://www.radiomuseum.org/museum/d/radio-room-duesseldorf/.html

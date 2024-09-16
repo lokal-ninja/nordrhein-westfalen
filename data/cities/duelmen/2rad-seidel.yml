@@ -4,8 +4,8 @@ latitude: 51.81814
 longitude: 7.26177
 postcode: "48249"
 city: Dülmen
-street: "Telgenkamp"
-housenumber: 8
-phone: "+49 2594 3687"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-16:00"
-website: "https://www.zweirad-duelmen.de/"
+street: Telgenkamp
+housenumber: "8"
+phone: +49 2594 3687
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-16:00
+website: https://www.zweirad-duelmen.de/

@@ -1,11 +1,11 @@
 id: 333355426
-type: way
+type: node
 latitude: 52.14417
 longitude: 8.49043
 postcode: "32139"
 city: Spenge
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 6-8
-phone: "+49 5225 863690"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-center-wehrmann-industriestr.-6-8/index.jsp"
+phone: +49 5225 863690
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-center-wehrmann-industriestr.-6-8/index.jsp

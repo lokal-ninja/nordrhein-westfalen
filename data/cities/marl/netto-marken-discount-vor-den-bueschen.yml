@@ -1,11 +1,11 @@
 id: 284962966
-type: way
+type: node
 latitude: 51.66724
 longitude: 7.16392
 postcode: "45770"
 city: Marl
-street: "Vor den Büschen"
-housenumber: 33
+street: Vor den Büschen
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 141371927
-type: way
+type: node
 latitude: 51.93461
 longitude: 7.65633
 postcode: "48155"
 city: Münster
-street: "Fridtjof-Nansen-Weg"
-housenumber: 4
+street: Fridtjof-Nansen-Weg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
 website: ""

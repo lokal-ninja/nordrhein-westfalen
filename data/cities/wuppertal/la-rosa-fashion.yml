@@ -4,8 +4,8 @@ latitude: 51.25714
 longitude: 7.14756
 postcode: "42103"
 city: Wuppertal
-street: "Turmhof"
-housenumber: 5
+street: Turmhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

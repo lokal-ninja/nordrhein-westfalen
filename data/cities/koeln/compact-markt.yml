@@ -1,11 +1,11 @@
 id: 688411606
-type: way
+type: node
 latitude: 50.94813
 longitude: 6.84846
 postcode: "50859"
 city: Köln
-street: "Kölner Straße"
-housenumber: 111
+street: Kölner Straße
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.94051
 longitude: 8.88884
 postcode: "32756"
 city: Detmold
-street: "Richthofenstraße"
-housenumber: 41
-phone: "+49 5231 359692"
-opening_hours: "Mo-Th 12:00-19:00; Sa 10:00-15:00; Fr 12:00-19:00"
-website: "https://www.jacques.de/depot/129/detmold-innenstadt/"
+street: Richthofenstraße
+housenumber: "41"
+phone: +49 5231 359692
+opening_hours: Mo-Th 12:00-19:00; Sa 10:00-15:00; Fr 12:00-19:00
+website: https://www.jacques.de/depot/129/detmold-innenstadt/

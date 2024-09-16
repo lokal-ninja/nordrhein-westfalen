@@ -1,11 +1,11 @@
 id: 87409881
-type: way
+type: node
 latitude: 51.18131
 longitude: 6.68191
 postcode: "41464"
 city: Neuss
-street: "Moselstraße"
+street: Moselstraße
 housenumber: 5;5b
-phone: "+49 2131 344873"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-12:00"
-website: "https://www.point-s.de/"
+phone: +49 2131 344873
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-12:00
+website: https://www.point-s.de/

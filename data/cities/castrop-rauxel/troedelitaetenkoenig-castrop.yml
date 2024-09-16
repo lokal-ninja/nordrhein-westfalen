@@ -4,8 +4,8 @@ latitude: 51.55101
 longitude: 7.3102
 postcode: "44575"
 city: Castrop-Rauxel
-street: "Obere Münsterstraße"
-housenumber: 8
-phone: "+49 2305 549 080"
-opening_hours: "Mo-Sa 10:00-13:00, Mo-Fr 16:00-18:30"
+street: Obere Münsterstraße
+housenumber: "8"
+phone: +49 2305 549 080
+opening_hours: Mo-Sa 10:00-13:00, Mo-Fr 16:00-18:30
 website: ""

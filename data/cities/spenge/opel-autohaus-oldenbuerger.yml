@@ -1,11 +1,11 @@
 id: 170847664
-type: way
+type: node
 latitude: 52.14833
 longitude: 8.48592
 postcode: "32139"
 city: Spenge
-street: "Lange Straße"
-housenumber: 100
-phone: "+49 5225 87720"
+street: Lange Straße
+housenumber: "100"
+phone: +49 5225 87720
 opening_hours: ""
-website: "http://www.opel-oldenbuerger.de/"
+website: http://www.opel-oldenbuerger.de/

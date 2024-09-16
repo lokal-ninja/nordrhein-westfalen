@@ -4,8 +4,8 @@ latitude: 51.60407
 longitude: 7.18549
 postcode: "45659"
 city: Recklinghausen
-street: "Westring"
-housenumber: 1
-phone: "+49 2361 1061854"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe-engelhardt.de/"
+street: Westring
+housenumber: "1"
+phone: +49 2361 1061854
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe-engelhardt.de/

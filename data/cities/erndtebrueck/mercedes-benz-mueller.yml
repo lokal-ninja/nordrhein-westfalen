@@ -1,11 +1,11 @@
 id: 1226644386
-type: way
+type: node
 latitude: 50.9967
 longitude: 8.31646
 postcode: "57339"
 city: Erndtebrück
-street: "Am Gäuseberg"
-housenumber: 2
+street: Am Gäuseberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.72724
 longitude: 8.76912
 postcode: "33100"
 city: Paderborn
-street: "Arminiusstraße"
-housenumber: 60
+street: Arminiusstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:30-17:30; We 08:30-13:30; Sa 08:00-13:00"
+opening_hours: Tu,Th,Fr 08:30-17:30; We 08:30-13:30; Sa 08:00-13:00
 website: ""

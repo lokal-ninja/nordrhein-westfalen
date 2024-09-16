@@ -4,8 +4,8 @@ latitude: 52.11368
 longitude: 8.67283
 postcode: "32052"
 city: Herford
-street: "Tribenstraße"
-housenumber: 24
-phone: "+49 5221 54403"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-16:00; PH off"
+street: Tribenstraße
+housenumber: "24"
+phone: +49 5221 54403
+opening_hours: Tu-Fr 09:00-18:00, Sa 08:00-16:00; PH off
 website: ""

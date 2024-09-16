@@ -4,8 +4,8 @@ latitude: 52.04544
 longitude: 8.50563
 postcode: "33613"
 city: Bielefeld
-street: "Voltmannstraße"
-housenumber: 153
-phone: "+49 521 884142"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00; Mo off"
-website: "https://www.spiegelschnitt.de/"
+street: Voltmannstraße
+housenumber: "153"
+phone: +49 521 884142
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-13:00; Mo off
+website: https://www.spiegelschnitt.de/

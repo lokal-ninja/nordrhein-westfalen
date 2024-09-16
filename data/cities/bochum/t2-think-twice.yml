@@ -1,11 +1,11 @@
 id: 119836992
-type: way
+type: node
 latitude: 51.48362
 longitude: 7.21804
 postcode: "44787"
 city: Bochum
-street: "Kortumstraße"
-housenumber: 120
+street: Kortumstraße
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

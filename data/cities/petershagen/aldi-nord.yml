@@ -4,8 +4,8 @@ latitude: 52.38269
 longitude: 9.00299
 postcode: "32469"
 city: Petershagen
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/petershagen/industriestrasse-1.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/nordrhein-westfalen/petershagen/industriestrasse-1.html

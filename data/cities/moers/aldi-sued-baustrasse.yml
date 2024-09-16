@@ -1,11 +1,11 @@
 id: 159312825
-type: way
+type: node
 latitude: 51.45612
 longitude: 6.6357
 postcode: "47441"
 city: Moers
-street: "Baustraße"
-housenumber: 27
+street: Baustraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/baustrasse-27"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/moers/baustrasse-27

@@ -1,11 +1,11 @@
 id: 57838046
-type: way
+type: node
 latitude: 50.73721
 longitude: 7.08563
 postcode: "53119"
 city: Bonn
-street: "Taunusstraße"
-housenumber: 1
+street: Taunusstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

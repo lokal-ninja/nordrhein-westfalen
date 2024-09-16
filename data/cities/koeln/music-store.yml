@@ -1,11 +1,11 @@
 id: 138363976
-type: way
+type: node
 latitude: 50.94622
 longitude: 6.99765
 postcode: "51103"
 city: Köln
-street: "Istanbulstraße"
+street: Istanbulstraße
 housenumber: 22-26
-phone: "+49 (0)221 8884-0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"
-website: "https://www.musicstore.de/"
+phone: +49 (0)221 8884-0
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off
+website: https://www.musicstore.de/

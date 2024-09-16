@@ -4,8 +4,8 @@ latitude: 51.2197
 longitude: 6.77159
 postcode: "40213"
 city: Düsseldorf
-street: "Poststraße"
-housenumber: 28
+street: Poststraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://otto-seiffert.de/"
+website: https://otto-seiffert.de/

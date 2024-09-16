@@ -4,8 +4,8 @@ latitude: 51.57476
 longitude: 9.24385
 postcode: "34434"
 city: Borgentreich
-street: "Emmerkertorstraße"
-housenumber: 25
-phone: "+49-5643-947214"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-19:00; Su,PH 07:30-16:00"
-website: "https://www.goeken-backen.de/"
+street: Emmerkertorstraße
+housenumber: "25"
+phone: +49-5643-947214
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-19:00; Su,PH 07:30-16:00
+website: https://www.goeken-backen.de/

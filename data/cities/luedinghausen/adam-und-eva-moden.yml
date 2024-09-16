@@ -4,8 +4,8 @@ latitude: 51.77159
 longitude: 7.44547
 postcode: "59348"
 city: Lüdinghausen
-street: "Wilhelmstraße"
-housenumber: 3
+street: Wilhelmstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.adameva.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.adameva.de/

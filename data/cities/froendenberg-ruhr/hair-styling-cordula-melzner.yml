@@ -1,11 +1,11 @@
 id: 255572371
-type: way
+type: node
 latitude: 51.47442
 longitude: 7.71118
 postcode: "58730"
 city: Fröndenberg/Ruhr
-street: "Ardeyer Straße"
-housenumber: 109
+street: Ardeyer Straße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

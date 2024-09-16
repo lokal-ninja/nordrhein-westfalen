@@ -1,11 +1,11 @@
 id: 440208774
-type: way
+type: node
 latitude: 50.76083
 longitude: 7.03172
 postcode: "53332"
 city: Bornheim
-street: "Mary-Anderson-Straße"
-housenumber: 1
+street: Mary-Anderson-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

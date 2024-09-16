@@ -4,8 +4,8 @@ latitude: 51.29677
 longitude: 7.31611
 postcode: "58256"
 city: Ennepetal
-street: "Wuppermannshof"
-housenumber: 7
+street: Wuppermannshof
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 08:00-15:30; Fr 08:00-13:15"
-website: "https://www.ver-kehr.de"
+opening_hours: Mo-Th 08:00-15:30; Fr 08:00-13:15
+website: https://www.ver-kehr.de

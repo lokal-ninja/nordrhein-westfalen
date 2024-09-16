@@ -1,11 +1,11 @@
 id: 93111648
-type: way
+type: node
 latitude: 50.87381
 longitude: 8.05214
 postcode: "57074"
 city: Siegen
-street: "Hauptstraße"
-housenumber: 48
+street: Hauptstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

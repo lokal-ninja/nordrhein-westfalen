@@ -4,8 +4,8 @@ latitude: 50.77719
 longitude: 6.08601
 postcode: "52062"
 city: Aachen
-street: "Großkölnstraße"
-housenumber: 48
-phone: "+49 241 943 169 70"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://www.trauringschmiede.de/trauringe-aachen"
+street: Großkölnstraße
+housenumber: "48"
+phone: +49 241 943 169 70
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://www.trauringschmiede.de/trauringe-aachen

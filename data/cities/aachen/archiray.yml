@@ -1,11 +1,11 @@
 id: 84030139
-type: way
+type: node
 latitude: 50.77638
 longitude: 6.07661
 postcode: "52062"
 city: Aachen
-street: "Templergraben"
-housenumber: 24
+street: Templergraben
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://www.archiray.de/"
+website: http://www.archiray.de/

@@ -1,11 +1,11 @@
 id: 315067315
-type: way
+type: node
 latitude: 51.39805
 longitude: 8.58349
 postcode: "59929"
 city: Brilon
-street: "Keffelker Straße"
-housenumber: 39
+street: Keffelker Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 127253712
-type: way
+type: node
 latitude: 51.42967
 longitude: 7.16664
 postcode: "44879"
 city: Bochum
-street: "Hattinger Straße"
-housenumber: 765
-phone: "+49 234 941930"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.moebel-rodemann.de/"
+street: Hattinger Straße
+housenumber: "765"
+phone: +49 234 941930
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.moebel-rodemann.de/

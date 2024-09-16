@@ -4,8 +4,8 @@ latitude: 52.20693
 longitude: 8.58284
 postcode: "32257"
 city: Bünde
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 22
-phone: "+49 5223 180 7140"
-opening_hours: "Mo-Fr 05:30-22:00; Sa 07:00-22:00; Su 09:00-19:00"
+street: Gerhart-Hauptmann-Straße
+housenumber: "22"
+phone: +49 5223 180 7140
+opening_hours: Mo-Fr 05:30-22:00; Sa 07:00-22:00; Su 09:00-19:00
 website: ""

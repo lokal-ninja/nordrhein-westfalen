@@ -1,11 +1,11 @@
 id: 251530060
-type: way
+type: node
 latitude: 51.44775
 longitude: 7.9645
 postcode: "59755"
 city: Arnsberg
-street: "Lange Wende"
-housenumber: 45
+street: Lange Wende
+housenumber: "45"
 phone: "+492932429270"
-opening_hours: "07:00-20:00"
-website: "https://www.gerke-grueger.de/"
+opening_hours: 07:00-20:00
+website: https://www.gerke-grueger.de/

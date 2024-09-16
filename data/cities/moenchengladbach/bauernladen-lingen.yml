@@ -1,11 +1,11 @@
 id: 283572297
-type: way
+type: node
 latitude: 51.20597
 longitude: 6.37329
 postcode: "41068"
 city: Mönchengladbach
-street: "Winkeln"
+street: Winkeln
 housenumber: 80a
-phone: "+49 2161 952096"
-opening_hours: "Mo-Th 09:00-12:30, 15:00-18:00, Fr 09:00-18:00, Sa 09:00-12:30"
-website: "https://www.bauernladen-lingen.de/"
+phone: +49 2161 952096
+opening_hours: Mo-Th 09:00-12:30, 15:00-18:00, Fr 09:00-18:00, Sa 09:00-12:30
+website: https://www.bauernladen-lingen.de/

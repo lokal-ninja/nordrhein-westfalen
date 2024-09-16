@@ -1,11 +1,11 @@
 id: 310362475
-type: way
+type: node
 latitude: 51.97838
 longitude: 7.28998
 postcode: "48727"
 city: Billerbeck
-street: "Ludgeristraße"
-housenumber: 10
+street: Ludgeristraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 05:00-13:00; Sa 05:00-12:00; Su 06:00-11:00"
+opening_hours: Mo-Fr 05:00-13:00; Sa 05:00-12:00; Su 06:00-11:00
 website: ""

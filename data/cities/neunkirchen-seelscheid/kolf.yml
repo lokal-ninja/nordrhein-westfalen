@@ -1,11 +1,11 @@
 id: 802722450
-type: way
+type: node
 latitude: 50.82053
 longitude: 7.32862
 postcode: "53819"
 city: Neunkirchen-Seelscheid
-street: "Zu den Birken"
-housenumber: 10
+street: Zu den Birken
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.kolf.de/"
+website: https://www.kolf.de/

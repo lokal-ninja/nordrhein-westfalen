@@ -1,11 +1,11 @@
 id: 80338878
-type: way
+type: node
 latitude: 50.81405
 longitude: 7.15934
 postcode: "53840"
 city: Troisdorf
-street: "Alte Poststraße"
-housenumber: 16
+street: Alte Poststraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Tu 09:00-18:00, We 09:00-13:00; Th 09:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Tu 09:00-18:00, We 09:00-13:00; Th 09:00-18:30; Sa 09:00-13:00
 website: ""

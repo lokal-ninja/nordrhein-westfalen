@@ -1,11 +1,11 @@
 id: 258616901
-type: way
+type: node
 latitude: 51.43138
 longitude: 7.55838
 postcode: "58239"
 city: Schwerte
-street: "Wandhofener Straße"
-housenumber: 25
+street: Wandhofener Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

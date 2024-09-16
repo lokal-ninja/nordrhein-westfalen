@@ -4,8 +4,10 @@ latitude: 52.03311
 longitude: 8.54133
 postcode: "33602"
 city: Bielefeld
-street: "Herforder Straße"
-housenumber: 103
+street: Herforder Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30 open, Sa 09:00-13:00 open; PH off Werkstatt/Teiledienst || Mo-Fr 09:00-18:30 open, Sa 09:00-14:00 open; PH off Verkauf || Su 11:00-16:00 Schautag"
+opening_hours: Mo-Fr 07:30-17:30 open, Sa 09:00-13:00 open; PH off "Werkstatt/Teiledienst"
+    || Mo-Fr 09:00-18:30 open, Sa 09:00-14:00 open; PH off "Verkauf" || Su 11:00-16:00
+    "Schautag"
 website: ""

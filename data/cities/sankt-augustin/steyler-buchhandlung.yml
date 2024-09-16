@@ -1,11 +1,11 @@
 id: 108968261
-type: way
+type: node
 latitude: 50.77458
 longitude: 7.17947
 postcode: "53757"
 city: Sankt Augustin
-street: "Arnold-Janssen-Straße"
-housenumber: 28
+street: Arnold-Janssen-Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

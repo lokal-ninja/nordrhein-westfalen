@@ -1,11 +1,11 @@
 id: 51363239
-type: way
+type: node
 latitude: 51.03927
 longitude: 8.38558
 postcode: "57319"
 city: Bad Berleburg
-street: "Limburgstraße"
-housenumber: 31
+street: Limburgstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

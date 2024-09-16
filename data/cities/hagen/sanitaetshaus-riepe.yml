@@ -4,8 +4,8 @@ latitude: 51.35966
 longitude: 7.46479
 postcode: "58095"
 city: Hagen
-street: "Elberfelder Straße"
-housenumber: 74
+street: Elberfelder Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.riepe-hagen.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.riepe-hagen.de/

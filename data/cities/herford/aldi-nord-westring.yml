@@ -1,11 +1,11 @@
 id: 171888434
-type: way
+type: node
 latitude: 52.11838
 longitude: 8.65381
 postcode: "32051"
 city: Herford
-street: "Westring"
-housenumber: 64
+street: Westring
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

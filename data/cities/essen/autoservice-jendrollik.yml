@@ -1,11 +1,11 @@
 id: 155275058
-type: way
+type: node
 latitude: 51.43698
 longitude: 7.02477
 postcode: "45136"
 city: Essen
-street: "Eleonorastraße"
-housenumber: 20
+street: Eleonorastraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00; PH,Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00; PH,Su off
 website: ""

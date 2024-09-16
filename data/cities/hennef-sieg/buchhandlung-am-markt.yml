@@ -1,11 +1,11 @@
 id: 93486930
-type: way
+type: node
 latitude: 50.77462
 longitude: 7.2849
 postcode: "53773"
 city: Hennef (Sieg)
-street: "Adenauerplatz"
-housenumber: 22
-phone: "+49 2242 81630"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.bam-hennef.de/"
+street: Adenauerplatz
+housenumber: "22"
+phone: +49 2242 81630
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.bam-hennef.de/

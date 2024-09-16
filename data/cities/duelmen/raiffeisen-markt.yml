@@ -1,11 +1,11 @@
 id: 154856929
-type: way
+type: node
 latitude: 51.82446
 longitude: 7.29069
 postcode: "48249"
 city: Dülmen
-street: "Baumschulenweg"
-housenumber: 6
+street: Baumschulenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.steverland.de/"
+website: https://www.steverland.de/

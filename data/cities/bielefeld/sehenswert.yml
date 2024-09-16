@@ -4,8 +4,8 @@ latitude: 52.02108
 longitude: 8.53419
 postcode: "33602"
 city: Bielefeld
-street: "Niederwall"
-housenumber: 14
-phone: "+49-521-174020"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.sehenswert.eu/"
+street: Niederwall
+housenumber: "14"
+phone: +49-521-174020
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.sehenswert.eu/

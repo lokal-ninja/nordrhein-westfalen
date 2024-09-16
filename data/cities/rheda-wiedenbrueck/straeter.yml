@@ -1,11 +1,11 @@
 id: 280432405
-type: way
+type: node
 latitude: 51.83376
 longitude: 8.31136
 postcode: "33378"
 city: Rheda-Wiedenbrück
-street: "Wichernstraße"
-housenumber: 13
+street: Wichernstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

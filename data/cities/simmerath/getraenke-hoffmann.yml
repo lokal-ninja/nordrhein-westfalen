@@ -4,8 +4,8 @@ latitude: 50.60903
 longitude: 6.30832
 postcode: "52152"
 city: Simmerath
-street: "Matthias-Zimmermann-Straße"
-housenumber: 12
-phone: "+49 2473 928049"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.getraenke-hoffmann.de/node/5267"
+street: Matthias-Zimmermann-Straße
+housenumber: "12"
+phone: +49 2473 928049
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su,PH off
+website: https://www.getraenke-hoffmann.de/node/5267

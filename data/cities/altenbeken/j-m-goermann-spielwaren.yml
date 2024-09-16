@@ -4,8 +4,8 @@ latitude: 51.7632
 longitude: 8.94428
 postcode: "33184"
 city: Altenbeken
-street: "Adenauerstraße"
-housenumber: 72
+street: Adenauerstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-We 09:00-12:30; Th 09:00-12:30,14:30-18:00; Fr-Sa 09:00-12:30"
-website: "https://www.spielwarenangebote.de/"
+opening_hours: Mo-We 09:00-12:30; Th 09:00-12:30,14:30-18:00; Fr-Sa 09:00-12:30
+website: https://www.spielwarenangebote.de/

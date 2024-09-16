@@ -4,8 +4,8 @@ latitude: 50.93746
 longitude: 6.78121
 postcode: "50226"
 city: Frechen
-street: "Aachener Straße"
-housenumber: 537
-phone: "+49 2234 6901917"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-12:00"
-website: "https://www.baeckerei-buesch.de/"
+street: Aachener Straße
+housenumber: "537"
+phone: +49 2234 6901917
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-12:00
+website: https://www.baeckerei-buesch.de/

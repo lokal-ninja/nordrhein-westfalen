@@ -4,8 +4,8 @@ latitude: 51.7847
 longitude: 8.81588
 postcode: "33175"
 city: Bad Lippspringe
-street: "Arminiusstraße"
-housenumber: 28
+street: Arminiusstraße
+housenumber: "28"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.90452
 longitude: 7.6485
 postcode: "48165"
 city: Münster
-street: "Marktallee"
-housenumber: 70
+street: Marktallee
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
 website: ""

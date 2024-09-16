@@ -1,11 +1,11 @@
 id: 307686438
-type: way
+type: node
 latitude: 51.33065
 longitude: 6.8325
 postcode: "40885"
 city: Ratingen
-street: "Hülsenbergweg"
-housenumber: 13
+street: Hülsenbergweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

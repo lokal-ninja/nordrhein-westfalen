@@ -1,11 +1,11 @@
 id: 602105854
-type: way
+type: node
 latitude: 51.77417
 longitude: 7.44938
 postcode: "59348"
 city: Lüdinghausen
-street: "Konrad-Adenauer-Straße"
-housenumber: 6
+street: Konrad-Adenauer-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/luedinghausen/250345/rewe-dortmund-konrad-adenauer-str-6/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/luedinghausen/250345/rewe-dortmund-konrad-adenauer-str-6/

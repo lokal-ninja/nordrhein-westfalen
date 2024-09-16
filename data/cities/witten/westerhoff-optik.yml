@@ -4,8 +4,8 @@ latitude: 51.44703
 longitude: 7.37222
 postcode: "58453"
 city: Witten
-street: "Westfalenstraße"
-housenumber: 118
+street: Westfalenstraße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00; PH off"
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00; PH off
 website: ""

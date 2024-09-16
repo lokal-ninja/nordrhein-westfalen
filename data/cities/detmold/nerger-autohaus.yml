@@ -1,11 +1,11 @@
 id: 114421366
-type: way
+type: node
 latitude: 51.95486
 longitude: 8.84769
 postcode: "32758"
 city: Detmold
-street: "Niemeierstraße"
-housenumber: 15
+street: Niemeierstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

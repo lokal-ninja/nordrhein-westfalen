@@ -1,11 +1,11 @@
 id: 337438796
-type: way
+type: node
 latitude: 51.59793
 longitude: 7.74025
 postcode: "59199"
 city: Bönen
-street: "Heinrich-Wieschhoff-Straße"
-housenumber: 1
+street: Heinrich-Wieschhoff-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

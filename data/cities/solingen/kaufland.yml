@@ -1,11 +1,11 @@
 id: 130549033
-type: way
+type: node
 latitude: 51.15269
 longitude: 7.02242
 postcode: "42699"
 city: Solingen
-street: "Friedenstraße"
-housenumber: 64
+street: Friedenstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

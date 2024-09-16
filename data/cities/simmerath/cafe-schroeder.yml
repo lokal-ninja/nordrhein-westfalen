@@ -1,11 +1,11 @@
 id: 90372492
-type: way
+type: node
 latitude: 50.62566
 longitude: 6.38389
 postcode: "52152"
 city: Simmerath
-street: "Hövelchesweg"
-housenumber: 4
-phone: "+49 2473 2309"
-opening_hours: "Fr-We 14:00-18:00"
+street: Hövelchesweg
+housenumber: "4"
+phone: +49 2473 2309
+opening_hours: Fr-We 14:00-18:00
 website: ""

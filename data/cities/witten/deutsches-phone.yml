@@ -4,8 +4,8 @@ latitude: 51.44194
 longitude: 7.33575
 postcode: "58452"
 city: Witten
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

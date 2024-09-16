@@ -1,11 +1,11 @@
 id: 249351054
-type: way
+type: node
 latitude: 50.88419
 longitude: 8.03001
 postcode: "57072"
 city: Siegen
-street: "Hagener Straße"
-housenumber: 42
+street: Hagener Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

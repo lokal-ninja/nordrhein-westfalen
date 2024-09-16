@@ -1,11 +1,11 @@
 id: 137964317
-type: way
+type: node
 latitude: 50.93553
 longitude: 6.76829
 postcode: "50226"
 city: Frechen
-street: "Aachener Straße"
-housenumber: 641
+street: Aachener Straße
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

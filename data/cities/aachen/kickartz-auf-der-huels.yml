@@ -1,11 +1,11 @@
 id: 36931151
-type: way
+type: node
 latitude: 50.78932
 longitude: 6.13342
 postcode: "52068"
 city: Aachen
-street: "Auf der Hüls"
-housenumber: 114
+street: Auf der Hüls
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 05:45-18:00; Sa 06:00-13:00"
+opening_hours: Mo-Fr 05:45-18:00; Sa 06:00-13:00
 website: ""

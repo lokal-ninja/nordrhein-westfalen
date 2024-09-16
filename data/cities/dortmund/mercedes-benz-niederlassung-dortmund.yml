@@ -1,11 +1,11 @@
 id: 26706097
-type: way
+type: node
 latitude: 51.49601
 longitude: 7.44345
 postcode: "44139"
 city: Dortmund
-street: "Wittekindstraße"
-housenumber: 99
+street: Wittekindstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://www.mercedes-benz-dortmund.de/de/desktop/home.html"
+website: https://www.mercedes-benz-dortmund.de/de/desktop/home.html

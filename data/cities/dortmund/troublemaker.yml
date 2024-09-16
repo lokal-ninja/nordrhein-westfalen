@@ -4,8 +4,8 @@ latitude: 51.47551
 longitude: 7.4348
 postcode: "44225"
 city: Dortmund
-street: "Harkortstraße"
-housenumber: 93
+street: Harkortstraße
+housenumber: "93"
 phone: ""
-opening_hours: "Tu-Th 12:00-17:00; Fr 12:00-15:00; Sa 11:00-14:00; Su,Mo,PH off"
+opening_hours: Tu-Th 12:00-17:00; Fr 12:00-15:00; Sa 11:00-14:00; Su,Mo,PH off
 website: ""

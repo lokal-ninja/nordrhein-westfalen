@@ -1,11 +1,11 @@
 id: 114655225
-type: way
+type: node
 latitude: 51.43925
 longitude: 7.00443
 postcode: "45130"
 city: Essen
-street: "Rüttenscheider Straße"
-housenumber: 54
+street: Rüttenscheider Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 60044651
-type: way
+type: node
 latitude: 50.88176
 longitude: 6.69347
 postcode: "50171"
 city: Kerpen
-street: "Sindorfer Straße"
-housenumber: 32
-phone: "+49 2237 56170"
+street: Sindorfer Straße
+housenumber: "32"
+phone: +49 2237 56170
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/kerpen-783"
+website: https://www.mediamarkt.de/de/store/kerpen-783

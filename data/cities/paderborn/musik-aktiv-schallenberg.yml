@@ -4,8 +4,8 @@ latitude: 51.72599
 longitude: 8.75905
 postcode: "33102"
 city: Paderborn
-street: "Nordstraße"
-housenumber: 15
+street: Nordstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 13:00-17:30; Fr 12:00-16:30"
-website: "http://www.musik-aktiv.de/"
+opening_hours: Mo-Th 13:00-17:30; Fr 12:00-16:30
+website: http://www.musik-aktiv.de/

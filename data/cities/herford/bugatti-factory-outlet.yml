@@ -1,11 +1,11 @@
 id: 173210324
-type: way
+type: node
 latitude: 52.12383
 longitude: 8.67491
 postcode: "32049"
 city: Herford
-street: "Wehmühlenstraße"
-housenumber: 9
+street: Wehmühlenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-18:00, Sa 09:00-16:00; PH off
 website: ""

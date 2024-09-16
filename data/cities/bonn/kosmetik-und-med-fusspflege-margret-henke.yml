@@ -4,8 +4,8 @@ latitude: 50.72684
 longitude: 7.07248
 postcode: "53121"
 city: Bonn
-street: "Endenicher Straße"
-housenumber: 323
+street: Endenicher Straße
+housenumber: "323"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,14:30-18:30; Sa open by appointment; Su,PH off"
+opening_hours: Mo-Fr 09:30-13:30,14:30-18:30; Sa open "by appointment"; Su,PH off
 website: ""

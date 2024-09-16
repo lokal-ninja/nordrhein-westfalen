@@ -1,11 +1,11 @@
 id: 49782050
-type: way
+type: node
 latitude: 51.1956
 longitude: 6.61304
 postcode: "41564"
 city: Kaarst
-street: "Bonner Straße"
-housenumber: 5
-phone: "+49 2131 7722303"
+street: Bonner Straße
+housenumber: "5"
+phone: +49 2131 7722303
 opening_hours: ""
 website: ""

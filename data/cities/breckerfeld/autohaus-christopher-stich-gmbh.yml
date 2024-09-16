@@ -1,11 +1,11 @@
 id: 184168652
-type: way
+type: node
 latitude: 51.26346
 longitude: 7.46151
 postcode: "58339"
 city: Breckerfeld
-street: "Frankfurter Straße"
-housenumber: 119
-phone: "+49 2338 1537"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Frankfurter Straße
+housenumber: "119"
+phone: +49 2338 1537
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

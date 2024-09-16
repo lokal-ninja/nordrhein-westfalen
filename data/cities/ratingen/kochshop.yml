@@ -4,8 +4,8 @@ latitude: 51.29832
 longitude: 6.85248
 postcode: "40878"
 city: Ratingen
-street: "Oberstraße"
-housenumber: 35
-phone: "+49 2102 1337839"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://kochshop.eu/filialen/#tab-1-8"
+street: Oberstraße
+housenumber: "35"
+phone: +49 2102 1337839
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://kochshop.eu/filialen/#tab-1-8

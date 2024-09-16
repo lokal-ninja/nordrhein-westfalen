@@ -1,11 +1,11 @@
 id: 881069477
-type: way
+type: node
 latitude: 51.36109
 longitude: 8.2509
 postcode: "59872"
 city: Meschede
-street: "Auf dem Bruch"
-housenumber: 6
+street: Auf dem Bruch
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

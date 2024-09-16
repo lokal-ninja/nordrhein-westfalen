@@ -1,11 +1,11 @@
 id: 98619701
-type: way
+type: node
 latitude: 51.46106
 longitude: 7.34956
 postcode: "58454"
 city: Witten
-street: "Bebbelsdorf"
-housenumber: 82
+street: Bebbelsdorf
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 286004004
-type: way
+type: node
 latitude: 51.99083
 longitude: 9.11086
 postcode: "32683"
 city: Barntrup
-street: "Mittelstraße"
-housenumber: 34
+street: Mittelstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

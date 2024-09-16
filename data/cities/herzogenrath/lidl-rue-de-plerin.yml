@@ -1,11 +1,11 @@
 id: 95795634
-type: way
+type: node
 latitude: 50.87167
 longitude: 6.1029
 postcode: "52134"
 city: Herzogenrath
-street: "Rue de Plérin"
-housenumber: 1
+street: Rue de Plérin
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.94591
 longitude: 7.08069
 postcode: "51109"
 city: Köln
-street: "Olpener Straße"
-housenumber: 960
-phone: "+49 221 843406"
-opening_hours: "Mo 10:00-15:00; Tu-Th 09:00-15:00; Fr 09:00-14:00"
+street: Olpener Straße
+housenumber: "960"
+phone: +49 221 843406
+opening_hours: Mo 10:00-15:00; Tu-Th 09:00-15:00; Fr 09:00-14:00
 website: ""

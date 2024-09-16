@@ -4,8 +4,8 @@ latitude: 50.93548
 longitude: 6.97559
 postcode: "50679"
 city: Köln
-street: "Helenenwallstraße"
-housenumber: 4
-phone: "+49 221 810750"
-opening_hours: "Tu,Th 09:00-13:00,14:30-18:30; We 09:00-15:00; Sa 09:00-13:00; Fr 09:00-17:00"
+street: Helenenwallstraße
+housenumber: "4"
+phone: +49 221 810750
+opening_hours: Tu,Th 09:00-13:00,14:30-18:30; We 09:00-15:00; Sa 09:00-13:00; Fr 09:00-17:00
 website: ""

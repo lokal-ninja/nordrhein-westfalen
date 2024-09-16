@@ -1,11 +1,11 @@
 id: 259652231
-type: way
+type: node
 latitude: 51.98083
 longitude: 7.79266
 postcode: "48291"
 city: Telgte
-street: "Warendorfer Straße"
-housenumber: 27
+street: Warendorfer Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

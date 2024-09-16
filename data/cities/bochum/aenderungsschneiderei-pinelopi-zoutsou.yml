@@ -4,8 +4,8 @@ latitude: 51.47176
 longitude: 7.24676
 postcode: "44803"
 city: Bochum
-street: "Wittener Straße"
-housenumber: 222
+street: Wittener Straße
+housenumber: "222"
 phone: ""
-opening_hours: "Mo-Fr 9:00-13:00,15:00-18:00, Sa 9:00-13:00; PH off"
+opening_hours: Mo-Fr 9:00-13:00,15:00-18:00, Sa 9:00-13:00; PH off
 website: ""

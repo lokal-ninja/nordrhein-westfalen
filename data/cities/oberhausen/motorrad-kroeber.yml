@@ -1,11 +1,11 @@
 id: 519016585
-type: way
+type: node
 latitude: 51.50286
 longitude: 6.87117
 postcode: "46117"
 city: Oberhausen
-street: "Fahnhorststraße"
+street: Fahnhorststraße
 housenumber: 42-44
 phone: ""
 opening_hours: ""
-website: "https://www.motorrad-kroeber.de/"
+website: https://www.motorrad-kroeber.de/

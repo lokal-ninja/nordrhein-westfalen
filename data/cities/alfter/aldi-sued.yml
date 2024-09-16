@@ -1,11 +1,11 @@
 id: 24871932
-type: way
+type: node
 latitude: 50.71697
 longitude: 7.0267
 postcode: "53347"
 city: Alfter
-street: "Im Klostergarten"
-housenumber: 50
+street: Im Klostergarten
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/nordrhein-westfalen/alfter/im-klostergarten-50"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/nordrhein-westfalen/alfter/im-klostergarten-50

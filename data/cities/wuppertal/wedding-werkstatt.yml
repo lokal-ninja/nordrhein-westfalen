@@ -4,8 +4,8 @@ latitude: 51.26661
 longitude: 7.12843
 postcode: "42113"
 city: Wuppertal
-street: "Mannesmannstraße"
-housenumber: 11
-phone: "+49 1788133219"
-opening_hours: "Tu-Sa nach Vereinbarung; PH off"
-website: "https://wedding-werkstatt.de"
+street: Mannesmannstraße
+housenumber: "11"
+phone: +49 1788133219
+opening_hours: Tu-Sa "nach Vereinbarung"; PH off
+website: https://wedding-werkstatt.de

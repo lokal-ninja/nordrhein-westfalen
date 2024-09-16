@@ -1,11 +1,11 @@
 id: 144126356
-type: way
+type: node
 latitude: 51.25191
 longitude: 7.81027
 postcode: "58840"
 city: Plettenberg
-street: "Teindeln"
-housenumber: 22
+street: Teindeln
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.opti-megastore.de/moebelhaus/moebeldiscount-plettenberg.html"
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.opti-megastore.de/moebelhaus/moebeldiscount-plettenberg.html

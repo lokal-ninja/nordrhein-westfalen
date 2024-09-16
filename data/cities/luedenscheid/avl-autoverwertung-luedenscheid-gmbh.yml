@@ -1,11 +1,11 @@
 id: 252042908
-type: way
+type: node
 latitude: 51.2269
 longitude: 7.62595
 postcode: "58507"
 city: Lüdenscheid
-street: "Dammstraße"
-housenumber: 3
+street: Dammstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off
 website: ""

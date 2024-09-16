@@ -1,11 +1,11 @@
 id: 252018777
-type: way
+type: node
 latitude: 51.2277
 longitude: 7.61468
 postcode: "58507"
 city: Lüdenscheid
-street: "Am Wendelpfad"
-housenumber: 6
+street: Am Wendelpfad
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Fr,Sa,Su off; Tu-Th 10:00-12:00, 14:00-18:00"
+opening_hours: Mo,Fr,Sa,Su off; Tu-Th 10:00-12:00, 14:00-18:00
 website: ""

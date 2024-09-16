@@ -4,8 +4,8 @@ latitude: 50.80701
 longitude: 7.23238
 postcode: "53721"
 city: Siegburg
-street: "Kaldauer Straße"
-housenumber: 14
-phone: "+49 2241 9559325"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://rheinland-coffee.de"
+street: Kaldauer Straße
+housenumber: "14"
+phone: +49 2241 9559325
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://rheinland-coffee.de

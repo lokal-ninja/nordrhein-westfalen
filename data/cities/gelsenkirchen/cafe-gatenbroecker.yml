@@ -4,8 +4,8 @@ latitude: 51.5145
 longitude: 7.11027
 postcode: "45888"
 city: Gelsenkirchen
-street: "Hohenzollernstraße"
-housenumber: 74
-phone: "+49 209 270995"
-opening_hours: "closed"
-website: "https://stadtbaeckerei-gatenbroecker.de/"
+street: Hohenzollernstraße
+housenumber: "74"
+phone: +49 209 270995
+opening_hours: closed
+website: https://stadtbaeckerei-gatenbroecker.de/

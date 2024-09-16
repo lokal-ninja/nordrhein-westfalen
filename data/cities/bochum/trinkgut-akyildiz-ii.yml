@@ -1,11 +1,11 @@
 id: 1036390692
-type: way
+type: node
 latitude: 51.47483
 longitude: 7.28953
 postcode: "44894"
 city: Bochum
-street: "Industriestraße"
-housenumber: 42
-phone: "+49 234 5889871"
-opening_hours: "Mo-Fr 08:00-20:00 , Sa 08:00-18:00"
-website: "https://www.trinkgut.de/markt/akyildiz-ii"
+street: Industriestraße
+housenumber: "42"
+phone: +49 234 5889871
+opening_hours: Mo-Fr 08:00-20:00 , Sa 08:00-18:00
+website: https://www.trinkgut.de/markt/akyildiz-ii

@@ -4,8 +4,8 @@ latitude: 50.73655
 longitude: 7.09963
 postcode: "53111"
 city: Bonn
-street: "Friedrichstraße"
-housenumber: 20
+street: Friedrichstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,We-Sa 09:00-18:00"
+opening_hours: Mo,We-Sa 09:00-18:00
 website: ""

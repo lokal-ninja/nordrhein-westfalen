@@ -1,11 +1,11 @@
 id: 382065706
-type: way
+type: node
 latitude: 51.57882
 longitude: 7.6703
 postcode: "59174"
 city: Kamen
-street: "Zollpost"
-housenumber: 2
+street: Zollpost
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
 website: ""

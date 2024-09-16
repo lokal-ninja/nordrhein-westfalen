@@ -4,8 +4,8 @@ latitude: 51.18945
 longitude: 6.50903
 postcode: "41352"
 city: Korschenbroich
-street: "Matthias-Hoeren-Platz"
-housenumber: 2
-phone: "+49 2161 643950"
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; We 09:00-20:00; Sa 08:00-14:00"
+street: Matthias-Hoeren-Platz
+housenumber: "2"
+phone: +49 2161 643950
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; We 09:00-20:00; Sa 08:00-14:00
 website: ""

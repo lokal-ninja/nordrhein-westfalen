@@ -1,11 +1,11 @@
 id: 235462023
-type: way
+type: node
 latitude: 51.68945
 longitude: 7.77541
 postcode: "59075"
 city: Hamm
-street: "Hüserstraße"
-housenumber: 3
-phone: "+49 2381 3044 294"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://www.atf-tuning.de/"
+street: Hüserstraße
+housenumber: "3"
+phone: +49 2381 3044 294
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://www.atf-tuning.de/

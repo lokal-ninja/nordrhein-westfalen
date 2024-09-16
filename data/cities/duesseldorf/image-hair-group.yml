@@ -4,8 +4,8 @@ latitude: 51.2252
 longitude: 6.78164
 postcode: "40212"
 city: Düsseldorf
-street: "Schadowstraße"
-housenumber: 11
-phone: "+49 211 864760"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.imagehairgroup.de/"
+street: Schadowstraße
+housenumber: "11"
+phone: +49 211 864760
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.imagehairgroup.de/

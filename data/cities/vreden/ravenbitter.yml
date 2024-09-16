@@ -4,8 +4,8 @@ latitude: 52.0345
 longitude: 6.82348
 postcode: "48691"
 city: Vreden
-street: "Wassermühlenstraße"
-housenumber: 3
+street: Wassermühlenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://ravenbitter.de/impressum/"
+website: https://ravenbitter.de/impressum/

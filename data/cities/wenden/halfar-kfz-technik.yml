@@ -1,11 +1,11 @@
 id: 272849482
-type: way
+type: node
 latitude: 50.98376
 longitude: 7.83333
 postcode: "57482"
 city: Wenden
-street: "Im Herkesseifen"
-housenumber: 3
+street: Im Herkesseifen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

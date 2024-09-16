@@ -4,8 +4,8 @@ latitude: 51.39446
 longitude: 7.08339
 postcode: "45257"
 city: Essen
-street: "Kupferdreher Straße"
-housenumber: 112
+street: Kupferdreher Straße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Sa; Su off"
-website: "https://www.bergetappe.de/"
+opening_hours: Mo-Sa; Su off
+website: https://www.bergetappe.de/

@@ -1,11 +1,11 @@
 id: 119963877
-type: way
+type: node
 latitude: 50.94561
 longitude: 7.45369
 postcode: "51674"
 city: Wiehl
-street: "Am Höher Berg"
-housenumber: 1
-phone: "+49 2234 379410"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
-website: "https://www.centershop.de/detail/centershop-wiehl-wiehl/"
+street: Am Höher Berg
+housenumber: "1"
+phone: +49 2234 379410
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off
+website: https://www.centershop.de/detail/centershop-wiehl-wiehl/

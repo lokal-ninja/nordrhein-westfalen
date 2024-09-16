@@ -4,8 +4,8 @@ latitude: 51.45711
 longitude: 6.37268
 postcode: "47647"
 city: Kerken
-street: "Krefelder Straße"
-housenumber: 26
-phone: "+49 2833 575721"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,15:00-18:30; We 09:00-12:30; Sa 09:00-13:00"
-website: "https://der-strumpf-und-waescheladen.de/"
+street: Krefelder Straße
+housenumber: "26"
+phone: +49 2833 575721
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,15:00-18:30; We 09:00-12:30; Sa 09:00-13:00
+website: https://der-strumpf-und-waescheladen.de/

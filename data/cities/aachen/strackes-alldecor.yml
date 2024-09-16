@@ -4,8 +4,8 @@ latitude: 50.79599
 longitude: 6.10619
 postcode: "52070"
 city: Aachen
-street: "Grüner Weg"
-housenumber: 125
+street: Grüner Weg
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "http://www.stracke-alldecor.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
+website: http://www.stracke-alldecor.de/

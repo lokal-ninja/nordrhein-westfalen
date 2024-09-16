@@ -4,8 +4,8 @@ latitude: 52.01908
 longitude: 8.56651
 postcode: "33607"
 city: Bielefeld
-street: "Otto-Brenner-Straße"
-housenumber: 60
+street: Otto-Brenner-Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00; Sa 06:00-12:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-12:00; Sa 06:00-12:00; Su 08:00-11:00
 website: ""

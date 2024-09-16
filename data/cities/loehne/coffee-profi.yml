@@ -1,11 +1,11 @@
 id: 333887507
-type: way
+type: node
 latitude: 52.1905
 longitude: 8.72298
 postcode: "32584"
 city: Löhne
-street: "Schierhof"
-housenumber: 4
+street: Schierhof
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.coffee-profi.de/"
+website: https://www.coffee-profi.de/

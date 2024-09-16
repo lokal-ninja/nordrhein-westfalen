@@ -1,11 +1,11 @@
 id: 307860283
-type: way
+type: node
 latitude: 51.46622
 longitude: 6.76223
 postcode: "47137"
 city: Duisburg
-street: "Hoher Weg"
-housenumber: 21
+street: Hoher Weg
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241579148
-type: way
+type: node
 latitude: 51.66895
 longitude: 6.96535
 postcode: "46284"
 city: Dorsten
-street: "Borkener Straße"
-housenumber: 43
+street: Borkener Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

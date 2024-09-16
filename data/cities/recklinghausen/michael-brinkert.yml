@@ -1,11 +1,11 @@
 id: 72001300
-type: way
+type: node
 latitude: 51.60073
 longitude: 7.18058
 postcode: "45659"
 city: Recklinghausen
-street: "Holthoffstraße"
-housenumber: 128
-phone: "+49 2361 186586"
+street: Holthoffstraße
+housenumber: "128"
+phone: +49 2361 186586
 opening_hours: ""
-website: "http://www.michaelbrinkert.com"
+website: http://www.michaelbrinkert.com

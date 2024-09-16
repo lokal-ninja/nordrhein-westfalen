@@ -1,11 +1,11 @@
 id: 131512412
-type: way
+type: node
 latitude: 51.4445
 longitude: 6.63654
 postcode: "47441"
 city: Moers
-street: "Uerdinger Straße"
-housenumber: 83
+street: Uerdinger Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

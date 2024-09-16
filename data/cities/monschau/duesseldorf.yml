@@ -1,11 +1,11 @@
 id: 116361207
-type: way
+type: node
 latitude: 50.56578
 longitude: 6.25351
 postcode: "52156"
 city: Monschau
-street: "Hargard"
-housenumber: 58
+street: Hargard
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

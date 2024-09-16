@@ -1,11 +1,11 @@
 id: 222270058
-type: way
+type: node
 latitude: 50.7758
 longitude: 6.08569
 postcode: "52062"
 city: Aachen
-street: "Büchel"
-housenumber: 22
+street: Büchel
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 13:00-17:00; Sa 13:00-17:00"
+opening_hours: Mo-Fr 13:00-17:00; Sa 13:00-17:00
 website: ""

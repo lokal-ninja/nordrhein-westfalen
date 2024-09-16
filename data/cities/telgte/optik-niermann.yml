@@ -4,8 +4,8 @@ latitude: 51.98333
 longitude: 7.78646
 postcode: "48291"
 city: Telgte
-street: "Steinstraße"
-housenumber: 14
-phone: "+49 25042901"
-opening_hours: "Mo-Fr 08:30-13:00, 14:30-18:30; Sa 08:30-13:00"
-website: "https://www.optik-niermann.de/home/"
+street: Steinstraße
+housenumber: "14"
+phone: +49 25042901
+opening_hours: Mo-Fr 08:30-13:00, 14:30-18:30; Sa 08:30-13:00
+website: https://www.optik-niermann.de/home/

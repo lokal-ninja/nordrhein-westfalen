@@ -1,11 +1,11 @@
 id: 315236140
-type: way
+type: node
 latitude: 51.09407
 longitude: 6.81564
 postcode: "41540"
 city: Dormagen
-street: "Kieler Straße"
-housenumber: 13
+street: Kieler Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

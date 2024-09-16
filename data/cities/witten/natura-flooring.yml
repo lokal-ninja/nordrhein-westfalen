@@ -1,11 +1,11 @@
 id: 345756945
-type: way
+type: node
 latitude: 51.45801
 longitude: 7.39308
 postcode: "58454"
 city: Witten
-street: "Brauckstraße"
-housenumber: 38
+street: Brauckstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; Sa,Su off"
+opening_hours: Mo-Fr 07:00-16:00; Sa,Su off
 website: ""

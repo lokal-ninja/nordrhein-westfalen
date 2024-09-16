@@ -1,11 +1,11 @@
 id: 211265839
-type: way
+type: node
 latitude: 50.78538
 longitude: 6.07199
 postcode: "52072"
 city: Aachen
-street: "Roermonder Straße"
-housenumber: 81
+street: Roermonder Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

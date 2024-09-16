@@ -1,11 +1,11 @@
 id: 27616106
-type: way
+type: node
 latitude: 51.48766
 longitude: 6.95993
 postcode: "45356"
 city: Essen
-street: "Alte Bottroper Straße"
-housenumber: 46
+street: Alte Bottroper Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://franz-maag.de/"
+website: https://franz-maag.de/

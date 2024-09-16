@@ -4,8 +4,9 @@ latitude: 51.40059
 longitude: 7.2111
 postcode: "45527"
 city: Hattingen
-street: "Zum Ludwigstal"
+street: Zum Ludwigstal
 housenumber: 31-33
-phone: "+49 2324 687908"
-opening_hours: "Tu 09:00-14:00; We 09:00-18:30; Th 09:00-19:00; Fr 09:00-18:30; Sa 08:00-14:00"
-website: "https://haar-beauty.de/"
+phone: +49 2324 687908
+opening_hours: Tu 09:00-14:00; We 09:00-18:30; Th 09:00-19:00; Fr 09:00-18:30; Sa
+    08:00-14:00
+website: https://haar-beauty.de/

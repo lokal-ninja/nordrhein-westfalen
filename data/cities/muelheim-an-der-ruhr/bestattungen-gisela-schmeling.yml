@@ -1,11 +1,11 @@
 id: 105679401
-type: way
+type: node
 latitude: 51.39579
 longitude: 6.86303
 postcode: "45481"
 city: Mülheim an der Ruhr
-street: "Weißdornbogen"
-housenumber: 8
-phone: "+49 208 480882"
+street: Weißdornbogen
+housenumber: "8"
+phone: +49 208 480882
 opening_hours: ""
-website: "https://www.schmeling-bestattungen.com/"
+website: https://www.schmeling-bestattungen.com/

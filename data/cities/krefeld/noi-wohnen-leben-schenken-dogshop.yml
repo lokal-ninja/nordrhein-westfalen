@@ -4,8 +4,8 @@ latitude: 51.35614
 longitude: 6.5974
 postcode: "47800"
 city: Krefeld
-street: "Hüttenallee"
-housenumber: 237
+street: Hüttenallee
+housenumber: "237"
 phone: ""
-opening_hours: "9:00-18:00;Sa 14:00-18:00 off;Su off"
+opening_hours: 9:00-18:00;Sa 14:00-18:00 off;Su off
 website: ""

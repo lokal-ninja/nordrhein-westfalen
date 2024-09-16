@@ -1,11 +1,11 @@
 id: 108144703
-type: way
+type: node
 latitude: 51.98378
 longitude: 6.89808
 postcode: "48703"
 city: Stadtlohn
-street: "Boschstraße"
-housenumber: 19
+street: Boschstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

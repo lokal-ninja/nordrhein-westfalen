@@ -1,11 +1,11 @@
 id: 128734633
-type: way
+type: node
 latitude: 51.44478
 longitude: 8.35506
 postcode: "59581"
 city: Warstein
-street: "Am Salzbörnchen"
-housenumber: 1
+street: Am Salzbörnchen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

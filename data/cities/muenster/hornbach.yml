@@ -4,8 +4,8 @@ latitude: 51.99748
 longitude: 7.6667
 postcode: "48157"
 city: Münster
-street: "An der Alten Ziegelei"
-housenumber: 33
-phone: "+49 251 143370"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: An der Alten Ziegelei
+housenumber: "33"
+phone: +49 251 143370
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

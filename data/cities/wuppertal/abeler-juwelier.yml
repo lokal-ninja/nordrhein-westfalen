@@ -4,8 +4,8 @@ latitude: 51.25961
 longitude: 7.1464
 postcode: "42105"
 city: Wuppertal
-street: "Willy-Brandt-Platz"
-housenumber: 20
-phone: "+49 202 479629 0"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:30; Sa 10:00-16:00"
-website: "https://abeler.de/"
+street: Willy-Brandt-Platz
+housenumber: "20"
+phone: +49 202 479629 0
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:30; Sa 10:00-16:00
+website: https://abeler.de/

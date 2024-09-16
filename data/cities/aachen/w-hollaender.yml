@@ -1,11 +1,11 @@
 id: 36903744
-type: way
+type: node
 latitude: 50.7802
 longitude: 6.12883
 postcode: "52068"
 city: Aachen
-street: "Rotter Bruch"
-housenumber: 18
+street: Rotter Bruch
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30; Sa nach Vereinbarung; Su,PH off"
-website: "https://www.motoren-hollaender.de/"
+opening_hours: Mo-Fr 08:00-16:30; Sa "nach Vereinbarung"; Su,PH off
+website: https://www.motoren-hollaender.de/

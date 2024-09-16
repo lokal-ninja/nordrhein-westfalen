@@ -1,11 +1,11 @@
 id: 567784198
-type: way
+type: node
 latitude: 51.73872
 longitude: 8.76975
 postcode: "33100"
 city: Paderborn
-street: "Detmolder Straße"
-housenumber: 156
+street: Detmolder Straße
+housenumber: "156"
 phone: "+4952515067799"
-opening_hours: "Mo-Fr 6:00-18:00; Sa 6:00-17:00; Su 8:00-17:00"
-website: "https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-detmolder-strasse.php"
+opening_hours: Mo-Fr 6:00-18:00; Sa 6:00-17:00; Su 8:00-17:00
+website: https://www.baeckerei-lange.de/de/filialen/standorte/paderborn-detmolder-strasse.php

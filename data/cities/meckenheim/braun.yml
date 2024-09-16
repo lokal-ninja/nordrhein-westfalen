@@ -4,8 +4,8 @@ latitude: 50.62356
 longitude: 7.02137
 postcode: "53340"
 city: Meckenheim
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30, 14:30-18:30, Sa 09:30-13:00; PH off"
+opening_hours: Mo-Fr 09:30-12:30, 14:30-18:30, Sa 09:30-13:00; PH off
 website: ""

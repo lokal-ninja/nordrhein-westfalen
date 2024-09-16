@@ -4,8 +4,8 @@ latitude: 51.44397
 longitude: 7.33881
 postcode: "58455"
 city: Witten
-street: "Schlachthofstraße"
-housenumber: 3
+street: Schlachthofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Tu, Th-Fr 10:00-18:00; We, Sa 10:00-13:00; PH off"
+opening_hours: Mo-Tu, Th-Fr 10:00-18:00; We, Sa 10:00-13:00; PH off
 website: ""

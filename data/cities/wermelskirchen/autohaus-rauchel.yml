@@ -1,11 +1,11 @@
 id: 138280997
-type: way
+type: node
 latitude: 51.12361
 longitude: 7.19173
 postcode: "42929"
 city: Wermelskirchen
-street: "Tente"
-housenumber: 74
+street: Tente
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 52.01223
 longitude: 8.56811
 postcode: "33604"
 city: Bielefeld
-street: "Oldentruper Straße"
-housenumber: 111
-phone: "+49 521 78598770"
-opening_hours: "Su 08:00-17:00, Mo-Fr 06:00-18:00, Sa 06:00-17:00; easter -2 days off; easter +1 day off"
-website: "https://www.baeckerei-pollmeier.de"
+street: Oldentruper Straße
+housenumber: "111"
+phone: +49 521 78598770
+opening_hours: Su 08:00-17:00, Mo-Fr 06:00-18:00, Sa 06:00-17:00; easter -2 days off;
+    easter +1 day off
+website: https://www.baeckerei-pollmeier.de

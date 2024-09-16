@@ -4,8 +4,8 @@ latitude: 51.47158
 longitude: 7.32113
 postcode: "44892"
 city: Bochum
-street: "Alte Bahnhofstraße"
-housenumber: 31
+street: Alte Bahnhofstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.blattwerk-bochum.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.blattwerk-bochum.de/

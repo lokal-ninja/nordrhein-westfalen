@@ -1,11 +1,11 @@
 id: 345872362
-type: way
+type: node
 latitude: 51.66504
 longitude: 8.3439
 postcode: "59557"
 city: Lippstadt
-street: "Erwitter Straße"
-housenumber: 42
-phone: "+49 2941 15987"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.blumen-bunsmann.de/"
+street: Erwitter Straße
+housenumber: "42"
+phone: +49 2941 15987
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.blumen-bunsmann.de/

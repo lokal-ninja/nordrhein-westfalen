@@ -4,8 +4,8 @@ latitude: 51.66205
 longitude: 6.96363
 postcode: "46282"
 city: Dorsten
-street: "Lippestraße"
-housenumber: 23
-phone: "+49 2362 44002"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"
-website: "https://www.seahoi.com"
+street: Lippestraße
+housenumber: "23"
+phone: +49 2362 44002
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off
+website: https://www.seahoi.com

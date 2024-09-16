@@ -4,8 +4,9 @@ latitude: 51.43218
 longitude: 7.01457
 postcode: "45131"
 city: Essen
-street: "Wittenbergstraße"
+street: Wittenbergstraße
 housenumber: 2 - 4
-phone: "+49 201 85466400"
-opening_hours: "Mo, We 10:00-12:30, 13:00-16:00; Tu, Th 10:00-12:30, 13:00-18:00; Fr 10:00-12:00, 12:30-14:30; Sa 09:00-13:00"
-website: "https://www.gse-essen.de/menschen-mit-behinderungen/werkstatt-ruettenscheid/"
+phone: +49 201 85466400
+opening_hours: Mo, We 10:00-12:30, 13:00-16:00; Tu, Th 10:00-12:30, 13:00-18:00; Fr
+    10:00-12:00, 12:30-14:30; Sa 09:00-13:00
+website: https://www.gse-essen.de/menschen-mit-behinderungen/werkstatt-ruettenscheid/

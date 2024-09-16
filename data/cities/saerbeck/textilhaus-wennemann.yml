@@ -4,8 +4,8 @@ latitude: 52.17329
 longitude: 7.63388
 postcode: "48369"
 city: Saerbeck
-street: "Marktstraße"
-housenumber: 25
-phone: "+49 2574 419"
-opening_hours: "Mo-Fr 09:00-12:30; Tu-Fr 14:30-18:00; Sa 09:00-12:00"
-website: "https://textilhauswennemann.de/"
+street: Marktstraße
+housenumber: "25"
+phone: +49 2574 419
+opening_hours: Mo-Fr 09:00-12:30; Tu-Fr 14:30-18:00; Sa 09:00-12:00
+website: https://textilhauswennemann.de/

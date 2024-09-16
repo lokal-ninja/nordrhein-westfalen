@@ -4,8 +4,8 @@ latitude: 51.13106
 longitude: 6.99708
 postcode: "42697"
 city: Solingen
-street: "Landwehr"
-housenumber: 7
-phone: "+49 212 60000"
+street: Landwehr
+housenumber: "7"
+phone: +49 212 60000
 opening_hours: ""
-website: "https://www.fangmann-gmbh.de"
+website: https://www.fangmann-gmbh.de

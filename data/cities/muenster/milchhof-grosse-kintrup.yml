@@ -4,8 +4,8 @@ latitude: 51.97121
 longitude: 7.71119
 postcode: "48157"
 city: Münster
-street: "Kasewinkel"
-housenumber: 7
-phone: "+49 251 327933"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00"
-website: "https://www.milch-vom-hof.de/"
+street: Kasewinkel
+housenumber: "7"
+phone: +49 251 327933
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00
+website: https://www.milch-vom-hof.de/

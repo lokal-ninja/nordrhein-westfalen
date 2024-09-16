@@ -4,8 +4,8 @@ latitude: 51.62413
 longitude: 7.5136
 postcode: "44534"
 city: Lünen
-street: "Borker Straße"
-housenumber: 88
-phone: "+49 2306 9598526"
-opening_hours: "Mo-Sa 06:00-13:00; Su 07:30-12:00"
-website: "https://citybaecker.de/"
+street: Borker Straße
+housenumber: "88"
+phone: +49 2306 9598526
+opening_hours: Mo-Sa 06:00-13:00; Su 07:30-12:00
+website: https://citybaecker.de/

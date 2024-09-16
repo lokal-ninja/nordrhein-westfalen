@@ -1,11 +1,11 @@
 id: 51333881
-type: way
+type: node
 latitude: 51.19652
 longitude: 6.60668
 postcode: "41564"
 city: Kaarst
-street: "Robert-Grootens-Platz"
-housenumber: 3
-phone: "+49 2131 408313"
+street: Robert-Grootens-Platz
+housenumber: "3"
+phone: +49 2131 408313
 opening_hours: ""
-website: "http://cutcolor.de/"
+website: http://cutcolor.de/

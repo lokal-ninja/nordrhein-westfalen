@@ -4,8 +4,8 @@ latitude: 51.74783
 longitude: 8.71608
 postcode: "33104"
 city: Paderborn
-street: "Hatzfelder Straße"
-housenumber: 8
+street: Hatzfelder Straße
+housenumber: "8"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

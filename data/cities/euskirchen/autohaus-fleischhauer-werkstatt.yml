@@ -1,11 +1,12 @@
 id: 254559155
-type: way
+type: node
 latitude: 50.64359
 longitude: 6.79367
 postcode: "53879"
 city: Euskirchen
-street: "Münstereifeler Straße"
-housenumber: 157
+street: Münstereifeler Straße
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00 Werkstatt, Karosseriefachbetrieb/ Unfallspezialist; Mo-Fr 07:30-17:00; Sa 08:00-13:00 Teiledienst"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00 "Werkstatt, Karosseriefachbetrieb/
+    Unfallspezialist"; Mo-Fr 07:30-17:00; Sa 08:00-13:00 "Teiledienst"
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.78322
 longitude: 7.19519
 postcode: "53757"
 city: Sankt Augustin
-street: "Bonner Straße"
-housenumber: 80
-phone: "+49 2241 230 660"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-19:00; Sa 09:00-14:00"
-website: "https://www.wiehlpuetz.de"
+street: Bonner Straße
+housenumber: "80"
+phone: +49 2241 230 660
+opening_hours: Mo-Fr 09:00-13:00, 14:00-19:00; Sa 09:00-14:00
+website: https://www.wiehlpuetz.de

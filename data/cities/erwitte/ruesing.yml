@@ -1,11 +1,11 @@
 id: 225804089
-type: way
+type: node
 latitude: 51.63276
 longitude: 8.36108
 postcode: "59597"
 city: Erwitte
-street: "Salzstraße"
-housenumber: 10
+street: Salzstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

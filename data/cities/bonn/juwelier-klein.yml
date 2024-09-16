@@ -4,8 +4,8 @@ latitude: 50.73917
 longitude: 7.11999
 postcode: "53225"
 city: Bonn
-street: "Friedrich-Breuer-Straße"
-housenumber: 60
+street: Friedrich-Breuer-Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:30; We,Su off; Sa 10:00-14:00"
-website: "https://www.juwelier-klein-bonn.de/"
+opening_hours: Mo-Tu,Th-Fr 09:00-18:30; We,Su off; Sa 10:00-14:00
+website: https://www.juwelier-klein-bonn.de/

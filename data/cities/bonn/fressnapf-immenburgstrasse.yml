@@ -1,11 +1,11 @@
 id: 39229240
-type: way
+type: node
 latitude: 50.73324
 longitude: 7.0757
 postcode: "53121"
 city: Bonn
-street: "Immenburgstraße"
-housenumber: 38
+street: Immenburgstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 50772841
-type: way
+type: node
 latitude: 50.74615
 longitude: 7.16262
 postcode: "53229"
 city: Bonn
-street: "Müldorfer Straße"
-housenumber: 160
+street: Müldorfer Straße
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off; Mar-May Su,PH 10:00-14:00; easter -2 days,easter +1 day,easter +49 days off"
-website: "https://www.die-pflanzenwelt.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off; Mar-May Su,PH 10:00-14:00;
+    easter -2 days,easter +1 day,easter +49 days off
+website: https://www.die-pflanzenwelt.de/

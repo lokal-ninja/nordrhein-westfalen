@@ -1,11 +1,11 @@
 id: 227303331
-type: way
+type: node
 latitude: 51.06554
 longitude: 6.11276
 postcode: "52525"
 city: Heinsberg
-street: "Siemensstraße"
-housenumber: 11
+street: Siemensstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.20814
 longitude: 6.77286
 postcode: "40217"
 city: Düsseldorf
-street: "Friedrichstraße"
-housenumber: 133
+street: Friedrichstraße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/duesseldorf-bilk-377"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/duesseldorf-bilk-377

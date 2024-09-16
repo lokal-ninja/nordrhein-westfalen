@@ -1,11 +1,11 @@
 id: 465407692
-type: way
+type: node
 latitude: 50.63612
 longitude: 7.1026
 postcode: "53343"
 city: Wachtberg
-street: "Alter Schützenstand"
-housenumber: 14
+street: Alter Schützenstand
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 596922124
-type: way
+type: node
 latitude: 50.72549
 longitude: 8.13818
 postcode: "57299"
 city: Burbach
-street: "Westerwaldstraße"
-housenumber: 3
+street: Westerwaldstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00
 website: ""

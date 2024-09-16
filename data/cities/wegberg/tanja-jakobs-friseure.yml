@@ -4,8 +4,9 @@ latitude: 51.14025
 longitude: 6.20733
 postcode: "41844"
 city: Wegberg
-street: "Helpensteinstraße"
-housenumber: 31
-phone: "+49 2436 1485"
-opening_hours: "Tu-We 09:00-18:00; Th 09:00-21:00; Fr 08:30-19:00; Sa 08:00-13:00; Su, PH off"
-website: "https://www.tanja-jakobs.de/"
+street: Helpensteinstraße
+housenumber: "31"
+phone: +49 2436 1485
+opening_hours: Tu-We 09:00-18:00; Th 09:00-21:00; Fr 08:30-19:00; Sa 08:00-13:00;
+    Su, PH off
+website: https://www.tanja-jakobs.de/

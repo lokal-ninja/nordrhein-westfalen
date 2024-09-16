@@ -1,11 +1,11 @@
 id: 291664937
-type: way
+type: node
 latitude: 50.9631
 longitude: 7.00342
 postcode: "51063"
 city: Köln
-street: "Adamsstraße"
-housenumber: 5
+street: Adamsstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

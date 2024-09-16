@@ -1,11 +1,11 @@
 id: 158247904
-type: way
+type: node
 latitude: 51.77006
 longitude: 6.13159
 postcode: "47533"
 city: Kleve
-street: "Triftstraße"
-housenumber: 158
+street: Triftstraße
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

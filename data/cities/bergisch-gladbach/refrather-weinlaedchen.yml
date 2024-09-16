@@ -4,8 +4,8 @@ latitude: 50.95045
 longitude: 7.11087
 postcode: "51427"
 city: Bergisch Gladbach
-street: "Im Hilgersfeld"
-housenumber: 44
-phone: "+49 2204 23947"
-opening_hours: "Mo off; Tu-Fr 15:00-19:00; Sa 10:00-15:00; Su,PH off"
-website: "https://www.bensberger-weinlaedchen.de/"
+street: Im Hilgersfeld
+housenumber: "44"
+phone: +49 2204 23947
+opening_hours: Mo off; Tu-Fr 15:00-19:00; Sa 10:00-15:00; Su,PH off
+website: https://www.bensberger-weinlaedchen.de/

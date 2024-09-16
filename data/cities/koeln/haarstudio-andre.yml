@@ -4,8 +4,8 @@ latitude: 50.92568
 longitude: 6.95839
 postcode: "50678"
 city: Köln
-street: "Severinstraße"
-housenumber: 82
-phone: "+49 221 316200"
-opening_hours: "Tu-Fr 9:00-18:30, Sa 9:00-15:00"
-website: "https://andre-haarstudio.de/"
+street: Severinstraße
+housenumber: "82"
+phone: +49 221 316200
+opening_hours: Tu-Fr 9:00-18:30, Sa 9:00-15:00
+website: https://andre-haarstudio.de/

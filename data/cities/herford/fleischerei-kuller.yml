@@ -1,11 +1,11 @@
 id: 190469505
-type: way
+type: node
 latitude: 52.12973
 longitude: 8.69131
 postcode: "32049"
 city: Herford
-street: "Lübberlindenweg"
-housenumber: 20
-phone: "+49 5221 21501"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00, Sa 08:00-13:00; PH off"
+street: Lübberlindenweg
+housenumber: "20"
+phone: +49 5221 21501
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00, Sa 08:00-13:00; PH off
 website: ""

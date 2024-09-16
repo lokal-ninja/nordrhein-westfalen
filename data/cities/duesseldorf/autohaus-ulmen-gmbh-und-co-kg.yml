@@ -1,11 +1,11 @@
 id: 118072542
-type: way
+type: node
 latitude: 51.168
 longitude: 6.84853
 postcode: "40589"
 city: Düsseldorf
-street: "Prof.-Oehler-Straße"
-housenumber: 3
-phone: "+49 211 77 92 72 30"
+street: Prof.-Oehler-Straße
+housenumber: "3"
+phone: +49 211 77 92 72 30
 opening_hours: ""
-website: "https://www.ulmen.com/"
+website: https://www.ulmen.com/

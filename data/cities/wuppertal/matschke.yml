@@ -4,8 +4,8 @@ latitude: 51.28002
 longitude: 7.19288
 postcode: "42281"
 city: Wuppertal
-street: "Schützenstraße"
-housenumber: 90
-phone: "+49 202 500007"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-14:00; PH off"
-website: "https://www.matschke.org/"
+street: Schützenstraße
+housenumber: "90"
+phone: +49 202 500007
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-14:00; PH off
+website: https://www.matschke.org/

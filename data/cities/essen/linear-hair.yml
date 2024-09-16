@@ -4,8 +4,8 @@ latitude: 51.43547
 longitude: 7.00477
 postcode: "45130"
 city: Essen
-street: "Rüttenscheider Straße"
-housenumber: 92
-phone: "+49 201 72 20 29 0"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-16:00"
+street: Rüttenscheider Straße
+housenumber: "92"
+phone: +49 201 72 20 29 0
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-16:00
 website: ""

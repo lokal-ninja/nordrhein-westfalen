@@ -4,8 +4,8 @@ latitude: 50.80057
 longitude: 6.76346
 postcode: "50374"
 city: Erftstadt
-street: "Herriger Straße"
-housenumber: 16
+street: Herriger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, We 13:00-18:00, Sa 09:30-13:00"
-website: "https://www.abus.com/ger/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, We 13:00-18:00, Sa 09:30-13:00
+website: https://www.abus.com/ger/

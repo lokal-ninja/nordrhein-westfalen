@@ -4,8 +4,8 @@ latitude: 50.99835
 longitude: 6.80132
 postcode: "50259"
 city: Pulheim
-street: "Venloer Straße"
-housenumber: 124
-phone: "+49 2238 956589"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.printmaster-pulheim.de/"
+street: Venloer Straße
+housenumber: "124"
+phone: +49 2238 956589
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:00; Sa 09:00-13:00
+website: https://www.printmaster-pulheim.de/

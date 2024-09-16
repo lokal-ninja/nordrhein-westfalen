@@ -4,8 +4,9 @@ latitude: 51.7998
 longitude: 8.02483
 postcode: "59269"
 city: Beckum
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 1
+street: Kaiser-Wilhelm-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 18:00-20:00; Tu 15:00-18:00; We 10:30-12:30; Fr 14:00-18:00; Sa 10:00-12:00; Th,Su,PH off"
+opening_hours: Mo 18:00-20:00; Tu 15:00-18:00; We 10:30-12:30; Fr 14:00-18:00; Sa
+    10:00-12:00; Th,Su,PH off
 website: ""

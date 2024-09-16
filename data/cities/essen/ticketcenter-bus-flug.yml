@@ -1,11 +1,11 @@
 id: 212872831
-type: way
+type: node
 latitude: 51.45169
 longitude: 7.01158
 postcode: "45127"
 city: Essen
-street: "Hachestraße"
-housenumber: 25
+street: Hachestraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:30-18:00, Sa 10:00-13:00
 website: ""

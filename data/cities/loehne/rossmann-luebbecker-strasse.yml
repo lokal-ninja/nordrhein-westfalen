@@ -1,11 +1,11 @@
 id: 655046022
-type: way
+type: node
 latitude: 52.22045
 longitude: 8.70442
 postcode: "32584"
 city: Löhne
-street: "Lübbecker Straße"
-housenumber: 159
+street: Lübbecker Straße
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00; Su off; PH off
 website: ""

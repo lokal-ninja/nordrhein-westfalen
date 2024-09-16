@@ -1,11 +1,11 @@
 id: 283214759
-type: way
+type: node
 latitude: 51.58664
 longitude: 7.10379
 postcode: "45892"
 city: Gelsenkirchen
-street: "Böningstraße"
-housenumber: 70
-phone: "+49 209 788451"
+street: Böningstraße
+housenumber: "70"
+phone: +49 209 788451
 opening_hours: ""
-website: "https://eckermannshof.de/"
+website: https://eckermannshof.de/
