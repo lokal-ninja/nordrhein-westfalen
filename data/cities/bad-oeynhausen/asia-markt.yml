@@ -7,6 +7,6 @@ city: Bad Oeynhausen
 street: Viktoriastraße
 housenumber: ""
 phone: ""
-opening_hours: 'Mar-Sep: Mo-Fr 10:00-19:00; Sa 10:00-18:00  Oct-Feb: Mo-Fr 10:30-13:00;
-    Sa 10:30-17:00'
+opening_hours: Mar-Sep Mo-Fr 10:00-19:00, Mar-Sep Sa 10:00-18:00, Oct-Feb Mo-Fr 10:30-13:00,
+    Oct-Feb Sa 10:30-17:00; PH off
 website: ""

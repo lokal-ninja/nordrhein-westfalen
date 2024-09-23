@@ -1,5 +1,5 @@
 ---
-title: "Reformhaus GOLL"
+title: "Reformhaus Goll"
 url: /siegburg/reformhaus-goll/
 shop: Bioladen
 ---

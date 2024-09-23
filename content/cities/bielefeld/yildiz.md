@@ -1,5 +1,5 @@
 ---
 title: "Yildiz"
 url: /bielefeld/yildiz/
-shop: Autohaus
+shop: Bäckerei
 ---
