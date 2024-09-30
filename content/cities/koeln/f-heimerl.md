@@ -1,5 +1,5 @@
 ---
-title: "F.  Heimerl"
+title: "F. Heimerl"
 url: /koeln/f-heimerl/
 shop: Autowerkstatt
 ---
