@@ -1,5 +1,5 @@
 ---
-title: "Zurbrüggen"
+title: "zurbrüggen"
 url: /bielefeld/zurbrueggen/
 shop: Möbel
 ---

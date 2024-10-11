@@ -7,5 +7,5 @@ city: Düsseldorf
 street: Kölner Landstraße
 housenumber: "198"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-18:30; We,Sa 09:00-13:00
 website: ""

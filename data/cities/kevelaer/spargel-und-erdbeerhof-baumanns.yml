@@ -7,7 +7,6 @@ city: Kevelaer
 street: Keylaer
 housenumber: "56"
 phone: +49 2832 6580
-opening_hours: April - Juni, Montag - Freitag         09.00 - 18.00 Uhr, Samstag &
-    Sonntag   09.00 - 13.00 Uhr, Juli Montag - Samstag     09.00 - 13.00 Uhr, August
-    - März Freitag & Samstag     09:00 - 13:00 Uhr
+opening_hours: Apr-Jun Mo-Fr 09:00-18:00; Apr-Jun Sa,Su 09:00-13:00; Jul Mo-Sa 09:00-13:00;
+    Aug-Mar Fr,Sa 09:00-13:00
 website: https://erdkampshof.de/

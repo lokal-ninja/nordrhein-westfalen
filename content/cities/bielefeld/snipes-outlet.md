@@ -1,5 +1,5 @@
 ---
 title: "snipes Outlet"
 url: /bielefeld/snipes-outlet/
-shop: Kleidung
+shop: Schuhe
 ---
