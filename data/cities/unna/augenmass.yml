@@ -7,5 +7,5 @@ city: Unna
 street: Klosterstraße
 housenumber: "87"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:15-18:15; We,Sa 09:00-13:00
 website: ""

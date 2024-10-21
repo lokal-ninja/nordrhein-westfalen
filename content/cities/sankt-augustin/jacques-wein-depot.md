@@ -1,5 +1,5 @@
 ---
-title: "Jacques’ Wein-Depot"
+title: "Jacques' Wein-Depot"
 url: /sankt-augustin/jacques-wein-depot/
 shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TUI Reisecenter"
+title: "TUI ReiseCenter"
 url: /lemgo/tui-reisecenter/
 shop: Reisebüro
 ---

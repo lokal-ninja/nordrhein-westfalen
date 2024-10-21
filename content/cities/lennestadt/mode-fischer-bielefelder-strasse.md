@@ -1,5 +1,5 @@
 ---
 title: "Mode Fischer"
 url: /lennestadt/mode-fischer-bielefelder-strasse/
-shop: Modehaus
+shop: Kleidung
 ---
