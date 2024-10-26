@@ -7,5 +7,5 @@ city: Bonn
 street: Endenicher Straße
 housenumber: "305"
 phone: ""
-opening_hours: PH,Sa,Su off; We,Th 15:00-18:30; Tu 10:00-13:00
+opening_hours: Sa,Su,PH off; We,Th 15:00-18:30; Tu 10:00-13:00
 website: ""

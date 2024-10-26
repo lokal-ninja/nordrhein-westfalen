@@ -7,5 +7,5 @@ city: Wuppertal
 street: Berliner Straße
 housenumber: "158"
 phone: ""
-opening_hours: Mo-Tu 09:00-18:00, Th-Fr 09:00-18:00, We 09:00-13:00, Sa 09:00-13:00
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; Su,PH off
 website: ""

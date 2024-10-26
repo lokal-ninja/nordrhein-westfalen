@@ -1,5 +1,5 @@
 ---
-title: "Gaensebluemchen"
+title: "Gänseblümchen"
 url: /koeln/gaensebluemchen/
 shop: Blumen
 ---
