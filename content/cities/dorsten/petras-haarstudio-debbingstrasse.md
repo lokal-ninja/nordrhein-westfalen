@@ -1,5 +1,5 @@
 ---
-title: "Petra's Haarstudio"
+title: "Petras Haarstudio"
 url: /dorsten/petras-haarstudio-debbingstrasse/
 shop: Friseur
 ---

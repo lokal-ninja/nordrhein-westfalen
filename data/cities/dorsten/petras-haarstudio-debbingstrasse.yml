@@ -7,6 +7,6 @@ city: Dorsten
 street: Debbingstraße
 housenumber: "10"
 phone: +49 2866 189118
-opening_hours: Tu,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-19:00; Sa 08:00-13:00;
-    We off
+opening_hours: Tu,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00,14:00-17:00; Th 09:00-13:00,14:00-19:00;
+    Sa 08:00-13:00; PH off
 website: https://www.petras-haarstudios.de/
