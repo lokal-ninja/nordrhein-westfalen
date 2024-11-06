@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /koeln/shell/
-shop: Kiosk
+shop: Lebensmittel
 ---

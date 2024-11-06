@@ -1,5 +1,5 @@
 ---
-title: "Alma Küchen"
+title: "alma Küchen"
 url: /sankt-augustin/alma-kuechen/
-shop: Möbel
+shop: Küchen
 ---

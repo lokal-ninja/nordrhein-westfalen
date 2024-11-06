@@ -2,5 +2,5 @@
 title: Ennigerloh
 url: /ennigerloh/
 latitude: 51.835
-longitude: 8.027
+longitude: 8.026
 ---

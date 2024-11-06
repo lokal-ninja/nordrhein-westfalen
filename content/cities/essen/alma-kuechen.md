@@ -1,5 +1,5 @@
 ---
-title: "Alma Küchen"
+title: "alma Küchen"
 url: /essen/alma-kuechen/
-shop: Möbel
+shop: Küchen
 ---
