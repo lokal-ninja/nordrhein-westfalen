@@ -1,6 +1,6 @@
 ---
 title: Kranenburg
 url: /kranenburg/
-latitude: 51.79
-longitude: 6.006
+latitude: 51.784
+longitude: 6.02
 ---
