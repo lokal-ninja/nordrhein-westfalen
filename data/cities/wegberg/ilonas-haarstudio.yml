@@ -7,5 +7,6 @@ city: Wegberg
 street: Beecker Straße
 housenumber: "30"
 phone: +49 2434 20131
-opening_hours: Tu-We, Fr 09:00-18:30; Th 09:00-20:00; Sa 08:30-13:00; Su-Mo, PH off
+opening_hours: Su-Mo, PH off; Tu 08:30-18:00; We 08:30-14:00; Th 08:30-19:00; Fr 08:30-18:00;
+    Sa 08:30-13:00
 website: https://www.ilonashaarstudio.de/

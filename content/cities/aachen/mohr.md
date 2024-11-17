@@ -1,5 +1,5 @@
 ---
 title: "Mohr"
 url: /aachen/mohr/
-shop: Allgemein
+shop: Badezimmer
 ---

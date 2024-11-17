@@ -7,5 +7,6 @@ city: Wuppertal
 street: Wülfingstraße
 housenumber: "23"
 phone: +49 202 44 76 06
-opening_hours: Tu,We,Fr 09:00-18:00; Th 10:00-19:30; Sa 08:00-14:00
+opening_hours: Th 10:00-19:30; Sa 08:00-13:00; Tu,We 10:00-18:00; Fr 09:00-18:00;
+    Su,Mo,PH off
 website: ""
