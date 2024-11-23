@@ -1,12 +1,11 @@
 id: 12090005310
 type: node
-latitude: 51.59954
-longitude: 7.51538
+latitude: 51.59953
+longitude: 7.5154
 postcode: "44532"
 city: Lünen
 street: Gahmener Kamp
 housenumber: "105"
-phone: +492306 2 43 57
-opening_hours: Mittwochs 14.00 bis 17.00 Uhr Donnerstags 09.00 bis 19.00 Uhr Freitags
-    09.00 bis 17.00 Uhr Samstags 09.00 bis 14.00 Uhr
-website: ""
+phone: +49 2306 2 43 57
+opening_hours: We 14:00-17:00; Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-14:00
+website: https://gahmener-hof.de/
