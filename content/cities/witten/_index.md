@@ -1,6 +1,6 @@
 ---
 title: Witten
 url: /witten/
-latitude: 51.416
-longitude: 7.338
+latitude: 51.453
+longitude: 7.39
 ---
