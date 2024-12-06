@@ -7,5 +7,5 @@ city: Bonn
 street: Maxstraße
 housenumber: "6"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Th 08:00-18:00; Tu,We,Fr 08:00-13:00
 website: ""

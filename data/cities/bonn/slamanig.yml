@@ -7,5 +7,5 @@ city: Bonn
 street: Münsterstraße
 housenumber: "20"
 phone: +49 228 635628
-opening_hours: Tu,We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-15:30; PH,Su,Mo off
+opening_hours: Tu,We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:30-15:30; Su,Mo,PH off
 website: https://www.slamanig.de/

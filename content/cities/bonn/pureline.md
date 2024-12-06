@@ -1,5 +1,5 @@
 ---
-title: "pureline"
+title: "Pureline"
 url: /bonn/pureline/
-shop: Friseur
+shop: Kosmetik
 ---

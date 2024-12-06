@@ -7,5 +7,5 @@ city: Bonn
 street: Heerstraße
 housenumber: "20"
 phone: +49 228 4330420
-opening_hours: Mo-Th 13:00-18:00; Fr-Sa 10:00-20:00; Su,PH off
+opening_hours: Su,PH off; Tu-Th 13:00-18:00; Fr 13:00-20:00; Sa 10:00-20:00; Mo off
 website: https://www.latiendalatina.de
