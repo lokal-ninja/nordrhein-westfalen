@@ -7,6 +7,6 @@ city: Hagen
 street: Möllerstraße
 housenumber: 20-22
 phone: +49 2334 3309
-opening_hours: Mo,Tu,Th,Fr 09:00-12:30, 14:30-18:00; We 09:00-12:30; Sa 09:00-13:00;
-    Su,ph off
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 09:00-13:00;
+    Su,PH off
 website: ""

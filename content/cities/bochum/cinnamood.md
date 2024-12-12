@@ -1,5 +1,5 @@
 ---
 title: "Cinnamood"
 url: /bochum/cinnamood/
-shop: Feinkost
+shop: Konditorei
 ---
