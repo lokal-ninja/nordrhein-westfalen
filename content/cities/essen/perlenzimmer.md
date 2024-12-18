@@ -1,5 +1,5 @@
 ---
 title: "Perlenzimmer"
 url: /essen/perlenzimmer/
-shop: Kleidung
+shop: Schmuck
 ---
