@@ -6,6 +6,6 @@ postcode: "45525"
 city: Hattingen
 street: Haldenplatz
 housenumber: "7"
-phone: +49 1722653074
-opening_hours: ""
-website: https://www.mixwerk-hattingen.de
+phone: ""
+opening_hours: Mo-Sa ||"nur nach Vereinbarung"; Su, PH off
+website: ""

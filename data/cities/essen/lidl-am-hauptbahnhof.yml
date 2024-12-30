@@ -7,5 +7,6 @@ city: Essen
 street: Am Hauptbahnhof
 housenumber: "5"
 phone: ""
-opening_hours: Mo-Sa 06:00-22:00; Su,PH 09:00-20:00
+opening_hours: Mo-Sa 06:00-22:00; Su,PH 09:00-20:00; Dec 24 06:00-14:00; Dec 25-26
+    09:00-20:00; Dec 31 06:00-16:00;Jan 01 09:00-20:00
 website: https://www.lidl.de/f/essen-mitte/am-hauptbahnhof-5.html

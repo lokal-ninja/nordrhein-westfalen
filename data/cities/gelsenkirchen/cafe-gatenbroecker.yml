@@ -7,5 +7,6 @@ city: Gelsenkirchen
 street: Hohenzollernstraße
 housenumber: "74"
 phone: +49 209 270995
-opening_hours: closed
+opening_hours: Mo-Fr 6:00-15:30; Sa 6:30-14:00; Su,PH 8:00-13:00; Dec 24,Dec 31 6:00-14:00
+    "Siehe Aushang"
 website: https://stadtbaeckerei-gatenbroecker.de/
