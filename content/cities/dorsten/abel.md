@@ -1,5 +1,5 @@
 ---
 title: "Abel"
 url: /dorsten/abel/
-shop: Spirituosen
+shop: Getränke
 ---
