@@ -1,5 +1,5 @@
 ---
 title: "Geco"
 url: /paderborn/geco/
-shop: Lotterie
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Klabo"
+title: "KlaBo"
 url: /bochum/klabo/
 shop: Schlüsseldienst
 ---

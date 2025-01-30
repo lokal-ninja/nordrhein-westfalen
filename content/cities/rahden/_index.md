@@ -1,6 +1,6 @@
 ---
 title: Rahden
 url: /rahden/
-latitude: 52.434
-longitude: 8.623
+latitude: 52.435
+longitude: 8.622
 ---

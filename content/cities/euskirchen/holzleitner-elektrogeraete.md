@@ -1,5 +1,5 @@
 ---
-title: "Holzleitner Elektrogeräte"
+title: "holzleitner Elektrogeräte"
 url: /euskirchen/holzleitner-elektrogeraete/
 shop: Elektronik
 ---
