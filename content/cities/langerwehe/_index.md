@@ -1,6 +1,6 @@
 ---
 title: Langerwehe
 url: /langerwehe/
-latitude: 50.817
-longitude: 6.371
+latitude: 50.798
+longitude: 6.397
 ---

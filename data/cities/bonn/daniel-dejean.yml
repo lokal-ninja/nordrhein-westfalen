@@ -7,5 +7,5 @@ city: Bonn
 street: Dreieck
 housenumber: "16"
 phone: ""
-opening_hours: Mo-Sa 11:00-18:00; PH,Su off
+opening_hours: Su,PH off; Tu-Sa 11:00-18:00; Mo off
 website: ""

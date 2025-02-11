@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /duesseldorf/sephora/
-shop: Parfümerie
+shop: Kosmetik
 ---

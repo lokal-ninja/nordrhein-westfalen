@@ -1,5 +1,5 @@
 ---
-title: "Rewe to go"
+title: "REWE To Go"
 url: /duisburg/rewe-to-go/
 shop: Lebensmittel
 ---
