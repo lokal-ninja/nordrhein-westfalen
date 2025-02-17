@@ -1,6 +1,6 @@
 ---
 title: Harsewinkel
 url: /harsewinkel/
-latitude: 51.956
-longitude: 8.238
+latitude: 51.962
+longitude: 8.227
 ---

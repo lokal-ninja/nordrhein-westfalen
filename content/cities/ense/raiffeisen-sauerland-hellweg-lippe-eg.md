@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen Sauerland Hellweg Lippe eG"
 url: /ense/raiffeisen-sauerland-hellweg-lippe-eg/
-shop: Allgemein
+shop: Garten-Center
 ---

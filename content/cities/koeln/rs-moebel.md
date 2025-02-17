@@ -1,5 +1,5 @@
 ---
-title: "RS-Möbel"
+title: "rs Möbel"
 url: /koeln/rs-moebel/
 shop: Möbel
 ---

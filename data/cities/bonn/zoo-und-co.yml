@@ -7,5 +7,5 @@ city: Bonn
 street: Bornheimer Straße
 housenumber: "164"
 phone: ""
-opening_hours: PH,Su off; Mo-Sa 09:00-20:00
+opening_hours: Su,PH off; Mo-Sa 09:00-20:00
 website: ""
