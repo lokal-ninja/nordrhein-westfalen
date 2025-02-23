@@ -1,5 +1,5 @@
 ---
 title: "Bijou Brigitte"
 url: /frechen/bijou-brigitte/
-shop: Modehaus
+shop: Schmuck
 ---

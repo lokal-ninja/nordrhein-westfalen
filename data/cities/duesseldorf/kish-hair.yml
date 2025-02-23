@@ -7,6 +7,6 @@ city: Düsseldorf
 street: Roßstraße
 housenumber: 47a
 phone: ""
-opening_hours: Mo off; Tu,Fr 10:00-19:00; We,Th 11:00-19:00; Sa 09:00-15:00; Su off
-    || "sowie donnerstags nach Vereinbarung bis 21:00"
+opening_hours: Mo off; Tu-Fr 12:00-19:00; Sa 09:00-15:00; Su off || "sowie donnerstags
+    nach Vereinbarung bis 21:00"
 website: ""

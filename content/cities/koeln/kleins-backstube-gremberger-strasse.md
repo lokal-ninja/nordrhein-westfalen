@@ -1,5 +1,5 @@
 ---
-title: "Klein’s Backstube"
+title: "Klein's Backstube"
 url: /koeln/kleins-backstube-gremberger-strasse/
 shop: Bäckerei
 ---
