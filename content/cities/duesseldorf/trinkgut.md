@@ -1,5 +1,5 @@
 ---
-title: "trinkgut"
+title: "Trinkgut"
 url: /duesseldorf/trinkgut/
 shop: Getränke
 ---

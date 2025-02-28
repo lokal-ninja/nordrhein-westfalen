@@ -1,6 +1,6 @@
 ---
 title: Herford
 url: /herford/
-latitude: 52.135
-longitude: 8.678
+latitude: 52.113
+longitude: 8.673
 ---
