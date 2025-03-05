@@ -6,7 +6,6 @@ postcode: "48167"
 city: Münster
 street: Albersloher Weg
 housenumber: "439"
-phone: 0251-615075
-opening_hours: Mo-Sa 09:00-12:00, Mo 15:00-18:00 Di 15:00-18:00 Do 15:00-18:00 Fr
-    15:00-18:00
-website: ""
+phone: +49 251 615075
+opening_hours: Mo-Sa 09:00-12:00, Mo,Tu,Th,Fr 15:00-18:00
+website: https://pinguin-textilpflege.de/filialen/albersloher-weg/

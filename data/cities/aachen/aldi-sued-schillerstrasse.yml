@@ -7,5 +7,5 @@ city: Aachen
 street: Schillerstraße
 housenumber: "20"
 phone: ""
-opening_hours: Mo-Sa 08:00-21:00
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

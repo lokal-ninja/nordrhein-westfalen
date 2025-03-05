@@ -7,5 +7,5 @@ city: Köln
 street: Kaiser-Wilhelm-Ring
 housenumber: "34"
 phone: +49 151 431 507 35
-opening_hours: Tu-Sa 10:00-19:00
+opening_hours: Tu-Sa 10:00-19:00;Su,PH off
 website: https://www.rosebikes.de/%C3%BCber-rose/rose-stores/rose_bikes_k%C3%B6ln

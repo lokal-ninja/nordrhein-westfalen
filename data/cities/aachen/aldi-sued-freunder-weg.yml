@@ -7,5 +7,5 @@ city: Aachen
 street: Freunder Weg
 housenumber: "23"
 phone: ""
-opening_hours: Mo-Sa 08:00-21:00
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: https://filialen.aldi-sued.de/nordrhein-westfalen/aachen/freunder-weg-23
