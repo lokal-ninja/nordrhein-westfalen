@@ -7,5 +7,5 @@ city: Hattingen
 street: Thingstraße
 housenumber: "48"
 phone: "+4915141372024"
-opening_hours: ""
-website: ""
+opening_hours: Mo,We,Th off; Tu,Fr 07:30-16:30; Sa 07:30-14:00; Su,PH 07:30-12:00
+website: https://pottbakery.de
