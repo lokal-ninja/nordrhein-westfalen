@@ -1,6 +1,6 @@
 ---
 title: Bad Pyrmont
 url: /bad-pyrmont/
-latitude: 51.972
-longitude: 9.266
+latitude: 51.975
+longitude: 9.273
 ---

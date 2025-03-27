@@ -1,6 +1,6 @@
 ---
 title: Düsseldorf
 url: /duesseldorf/
-latitude: 51.22
-longitude: 6.786
+latitude: 51.215
+longitude: 6.777
 ---

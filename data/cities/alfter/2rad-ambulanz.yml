@@ -7,5 +7,5 @@ city: Alfter
 street: Hauptstraße
 housenumber: "232"
 phone: +49 228 36936101
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; Sa 09:00-14:00; We,Su,PH off
 website: https://www.2radambulanz.de/

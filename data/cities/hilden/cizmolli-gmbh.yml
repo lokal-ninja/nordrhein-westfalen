@@ -7,5 +7,5 @@ city: Hilden
 street: Telleringstraße
 housenumber: 9;9a
 phone: ""
-opening_hours: Mo-Sa 08:00-19:00
+opening_hours: Tu-Th 08:00-18:00; Fr 07:00-19:00; Sa 07:00-19:00; Mo off
 website: ""

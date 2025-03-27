@@ -1,5 +1,5 @@
 ---
-title: "Handtverlesen"
+title: "handtverlesen"
 url: /koeln/handtverlesen/
 shop: Bücher
 ---
