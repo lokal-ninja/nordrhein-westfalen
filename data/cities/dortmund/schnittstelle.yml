@@ -7,5 +7,5 @@ city: Dortmund
 street: Westfalendamm
 housenumber: "291"
 phone: +49 231 424466
-opening_hours: Mo,Tu,Th 09:00-18:00; We,Fr 09:00-19:00; Sa 09:00-13:00; PH off
+opening_hours: We,Fr 09:00-19:00; Sa 09:00-13:00; PH off; Tu,Th 09:00-18:00
 website: https://www.schnittstelle-dortmund.de/

@@ -1,6 +1,6 @@
 ---
 title: Senden
 url: /senden/
-latitude: 51.854
-longitude: 7.488
+latitude: 51.86
+longitude: 7.492
 ---

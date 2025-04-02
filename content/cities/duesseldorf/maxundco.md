@@ -1,5 +1,5 @@
 ---
-title: "Max&Co."
+title: "MAX&Co."
 url: /duesseldorf/maxundco/
 shop: Kleidung
 ---

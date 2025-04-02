@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /neuss/aldi-sued-wolberostrasse/
 shop: Supermarkt
 ---

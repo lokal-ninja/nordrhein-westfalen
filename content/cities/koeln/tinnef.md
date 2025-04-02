@@ -1,5 +1,5 @@
 ---
 title: "Tinnef"
 url: /koeln/tinnef/
-shop: Modehaus
+shop: Kleidung
 ---

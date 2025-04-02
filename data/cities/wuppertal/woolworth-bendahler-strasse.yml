@@ -7,5 +7,5 @@ city: Wuppertal
 street: Bendahler Straße
 housenumber: "27"
 phone: ""
-opening_hours: Mo-Sa 09:00-20:00
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""
