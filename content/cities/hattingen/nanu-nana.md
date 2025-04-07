@@ -1,5 +1,5 @@
 ---
-title: "NANU-NANA"
+title: "Nanu-Nana"
 url: /hattingen/nanu-nana/
-shop: Lebensmittel
+shop: Andenken
 ---

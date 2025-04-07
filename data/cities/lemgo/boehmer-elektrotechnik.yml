@@ -7,6 +7,5 @@ city: Lemgo
 street: Mittelstraße
 housenumber: "111"
 phone: +49 5261 4609
-opening_hours: Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-19:00;
-    Sa 09:00-13:00; PH off
+opening_hours: We 09:00-13:00; Sa 10:00-13:00; PH off
 website: ""

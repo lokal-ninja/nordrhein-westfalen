@@ -7,5 +7,5 @@ city: Bochum
 street: Kortumstraße
 housenumber: "54"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th 11:00-13:30,14:30-17:00; We,Sa 11:00-14:00; Fr 11:00-17:00
 website: ""
