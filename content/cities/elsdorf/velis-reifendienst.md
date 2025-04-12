@@ -1,5 +1,5 @@
 ---
-title: "Velis Reifendienst"
+title: "Veli's Reifendienst"
 url: /elsdorf/velis-reifendienst/
 shop: Reifen
 ---

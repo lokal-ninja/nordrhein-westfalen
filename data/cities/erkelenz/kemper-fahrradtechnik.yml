@@ -7,5 +7,5 @@ city: Erkelenz
 street: Rheinweg
 housenumber: "70"
 phone: +49 2431 77017
-opening_hours: 'Mo-Fr 09:00-18:00; Apr-Oct: Sa 10:00-14:00'
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We,Sa off
 website: https://www.kemper-velo.de/
