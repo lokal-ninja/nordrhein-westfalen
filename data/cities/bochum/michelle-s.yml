@@ -7,5 +7,5 @@ city: Bochum
 street: Claudius-Höfe
 housenumber: "4"
 phone: +49 234 978 3417
-opening_hours: Tu-Fr 9:00-18:00; "Termine nach Vereinbarung"; PH off
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

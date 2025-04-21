@@ -1,5 +1,5 @@
 ---
-title: "nicolibri"
+title: "Nicolibri"
 url: /schlangen/nicolibri/
 shop: Bücher
 ---

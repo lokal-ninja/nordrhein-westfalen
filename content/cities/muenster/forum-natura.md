@@ -1,5 +1,5 @@
 ---
-title: "Forum Natura"
+title: "forum natura"
 url: /muenster/forum-natura/
-shop: Farben
+shop: Baustoffe
 ---
