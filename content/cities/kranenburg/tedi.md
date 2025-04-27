@@ -1,5 +1,5 @@
 ---
-title: "TEDI"
+title: "TEDi"
 url: /kranenburg/tedi/
-shop: Dorfladen
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Schloßhof Second Hand Bike's & more"
+title: "Schloßhof Second Hand Bikes & more"
 url: /bielefeld/schlosshof-second-hand-bikes-und-more/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GreenSpaceManufaktur"
 url: /dortmund/greenspacemanufaktur/
-shop: Hofladen
+shop: Gemüse & Obst
 ---

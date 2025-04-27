@@ -1,5 +1,5 @@
 ---
-title: "cigo"
+title: "Cigo"
 url: /siegen/cigo/
-shop: Kiosk
+shop: Zeitungen
 ---

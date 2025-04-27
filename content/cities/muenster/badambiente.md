@@ -1,5 +1,5 @@
 ---
-title: "badambiente"
+title: "Badambiente"
 url: /muenster/badambiente/
-shop: Möbel
+shop: Badezimmer
 ---

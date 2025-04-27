@@ -1,5 +1,5 @@
 ---
 title: "Fahrzeug-Service Wibbe"
 url: /salzkotten/fahrzeug-service-wibbe-lippestrasse/
-shop: Autowerkstatt
+shop: Kiosk
 ---
