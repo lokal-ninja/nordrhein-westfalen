@@ -1,11 +1,12 @@
 id: 154940675
 type: node
-latitude: 52.20605
-longitude: 7.21155
+latitude: 52.20607
+longitude: 7.21154
 postcode: "48607"
 city: Ochtrup
 street: Buschlandweg
 housenumber: 1b
-phone: ""
-opening_hours: ""
-website: ""
+phone: +49 2553 2031
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; Sa[Advent] 09:00-14:00;
+    Dec 24,Dec 31 09:00-12:00; Su off
+website: https://www.tovar.de/

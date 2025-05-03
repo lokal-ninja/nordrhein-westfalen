@@ -7,5 +7,6 @@ city: Sankt Augustin
 street: Sandstraße
 housenumber: "3"
 phone: +49 2241 21245
-opening_hours: Mo,Tu,Th 7:30-12:30, 14:30-18:30; We 7:30-14:00; Fr 7:30-17:00
+opening_hours: Mo 07:30-12:30,14:30-18:30; Tu 07:30-12:30,14:30-17:00; Th 07:30-12:30,14:30-17:00;
+    We,Fr 07:30-14:00; Sa,Su,PH off
 website: https://waescherei-reinigung-sanktaugustin.de/
