@@ -1,5 +1,5 @@
 ---
-title: "Schulze"
+title: "Schulze:"
 url: /siegen/schulze/
 shop: Kleidung
 ---

@@ -7,6 +7,6 @@ city: Hattingen
 street: Heggerstraße
 housenumber: "47"
 phone: +49 2324 5699400
-opening_hours: Mo, Tu, Th 08:30-13:00, 14:00-18:00; We, Fr 08:30-13:00; Su, PH off;
-    | "zusätzlich auch nach Vereinbarung"
+opening_hours: Mo, Tu, Th 08:30-13:00, 14:00-18:00; We, Fr 08:30-13:00 || "zusätzlich
+    auch nach Vereinbarung"; Su, PH off
 website: https://hörzeche.ruhr

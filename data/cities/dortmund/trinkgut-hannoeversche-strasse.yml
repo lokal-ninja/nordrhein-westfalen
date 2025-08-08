@@ -7,5 +7,5 @@ city: Dortmund
 street: Hannöversche Straße
 housenumber: "54"
 phone: +49 231 5310629
-opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-19:00; PH,Su off
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-19:00; Su,PH off
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Lengerich
 url: /lengerich/
-latitude: 52.202
-longitude: 7.814
+latitude: 52.203
+longitude: 7.816
 ---

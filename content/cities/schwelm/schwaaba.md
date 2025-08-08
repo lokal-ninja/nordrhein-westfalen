@@ -1,5 +1,5 @@
 ---
 title: "SchwaaBa"
 url: /schwelm/schwaaba/
-shop: Allgemein
+shop: Nähzubehör
 ---

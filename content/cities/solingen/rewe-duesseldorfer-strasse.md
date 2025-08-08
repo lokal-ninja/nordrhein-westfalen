@@ -1,5 +1,5 @@
 ---
-title: "REWE"
+title: "Rewe"
 url: /solingen/rewe-duesseldorfer-strasse/
 shop: Supermarkt
 ---

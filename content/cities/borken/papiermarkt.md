@@ -1,5 +1,5 @@
 ---
 title: "Papiermarkt"
 url: /borken/papiermarkt/
-shop: Allgemein
+shop: Schreibwaren
 ---

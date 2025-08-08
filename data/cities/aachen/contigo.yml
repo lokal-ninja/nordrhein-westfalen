@@ -7,5 +7,5 @@ city: Aachen
 street: Krämerstraße
 housenumber: 20-34
 phone: +49 241 46360096
-opening_hours: PH,Su off; Mo-Sa 10:00-19:00
+opening_hours: Su,PH off; Mo-Sa 10:00-19:00
 website: https://aachen.contigo.de/

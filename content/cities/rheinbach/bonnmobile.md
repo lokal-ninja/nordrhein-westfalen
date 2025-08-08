@@ -1,5 +1,5 @@
 ---
 title: "BonnMobile"
 url: /rheinbach/bonnmobile/
-shop: Autohaus
+shop: Allgemein
 ---

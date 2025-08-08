@@ -1,6 +1,6 @@
 ---
 title: Beverungen
 url: /beverungen/
-latitude: 51.665
-longitude: 9.377
+latitude: 51.666
+longitude: 9.373
 ---

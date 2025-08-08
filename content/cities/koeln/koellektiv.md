@@ -1,5 +1,5 @@
 ---
 title: "Köllektiv"
 url: /koeln/koellektiv/
-shop: Lebensmittel
+shop: Supermarkt
 ---

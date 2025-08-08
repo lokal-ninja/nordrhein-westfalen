@@ -1,5 +1,5 @@
 ---
 title: "Beckeramik"
 url: /marienheide/beckeramik/
-shop: Küchen
+shop: Töpferei
 ---

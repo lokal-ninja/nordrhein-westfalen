@@ -1,5 +1,5 @@
 ---
 title: "Gustare"
 url: /krefeld/gustare/
-shop: Spirituosen
+shop: Feinkost
 ---

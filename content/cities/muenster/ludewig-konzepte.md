@@ -1,5 +1,5 @@
 ---
-title: "Ludewig-Konzepte"
+title: "Ludewig Konzepte"
 url: /muenster/ludewig-konzepte/
 shop: Lampen
 ---

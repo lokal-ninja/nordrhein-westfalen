@@ -7,5 +7,6 @@ city: Dortmund
 street: Im Karrenberg
 housenumber: 2-8
 phone: "+4923198970"
-opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00; PH off
+opening_hours: 'Mar-Oct: Mo-Fr 07:00-17:00; Mar-Oct: Sa 08:00-12:00; Nov-Feb: Mo-Fr
+    07:00-17:00; Mar-Oct: PH off'
 website: https://www.metzgerbaustoffe.de/standorte/arnold-jessen-dortmund.html

@@ -1,5 +1,5 @@
 ---
-title: "Autowerk Dirks"
+title: "AutoWerk Dirks"
 url: /bornheim/autowerk-dirks/
 shop: Autowerkstatt
 ---

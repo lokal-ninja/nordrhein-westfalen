@@ -7,5 +7,6 @@ city: Essen
 street: Ringstraße
 housenumber: "157"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We 09:00-18:30; Th 10:30-20:00; Fr 09:00-18:30; Sa 08:00-14:00;
+    Su,Mo,PH off
 website: ""

@@ -1,11 +1,11 @@
-id: 4436127310
+id: 345304729
 type: node
-latitude: 51.4378
-longitude: 6.53118
+latitude: 51.43769
+longitude: 6.53119
 postcode: "47506"
 city: Neukirchen-Vluyn
 street: Vluyner Platz
-housenumber: "4"
+housenumber: "6"
 phone: ""
-opening_hours: Tu,Th-Sa 10:00-13:00, Tu,Th,Fr 15:00-18:00
-website: ""
+opening_hours: 'Mo,Di,Do,Fr: 10-13 Uhr, 15-18 Uhr; Sa: 10–13 Uhr'
+website: https://littlefred.de

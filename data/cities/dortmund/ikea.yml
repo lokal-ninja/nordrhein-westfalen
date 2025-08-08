@@ -7,5 +7,5 @@ city: Dortmund
 street: Borussiastraße
 housenumber: "120"
 phone: +49 61 92 93 999 99
-opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-21:00
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00; PH off
 website: https://www.ikea.com/de/de/store/dortmund

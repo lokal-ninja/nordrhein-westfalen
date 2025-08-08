@@ -1,5 +1,5 @@
 ---
-title: "Nasza Pszczolka"
+title: "Nasza Pszczółka"
 url: /gelsenkirchen/nasza-pszczolka/
 shop: Supermarkt
 ---

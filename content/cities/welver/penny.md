@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /welver/penny/
 shop: Supermarkt
 ---

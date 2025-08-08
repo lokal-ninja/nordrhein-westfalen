@@ -1,5 +1,5 @@
 ---
 title: "blandine.FASHION"
 url: /euskirchen/blandine-fashion/
-shop: Modehaus
+shop: Kleidung
 ---

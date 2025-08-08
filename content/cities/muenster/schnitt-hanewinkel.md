@@ -1,5 +1,5 @@
 ---
-title: "schnitt Hanewinkel"
+title: "Schnitt Hanewinkel"
 url: /muenster/schnitt-hanewinkel/
 shop: Friseur
 ---

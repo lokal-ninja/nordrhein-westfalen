@@ -7,5 +7,6 @@ city: Hattingen
 street: Heggerstraße
 housenumber: "34"
 phone: ""
-opening_hours: Mo-Fr 10:00-13:00, Tu-Fr 14:30-18:30, Sa 10:00-15:00; Su, PH off
-website: ""
+opening_hours: Mo 15:00-18:30; Tu-Fr 10:00-13:30, 14:30-18:30; Sa 10:00-15:00; Su,PH
+    off
+website: https://der-ausstatter.com/

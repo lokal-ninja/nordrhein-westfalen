@@ -1,5 +1,5 @@
 ---
-title: "DUETT Juwelier"
+title: "Duett Juwelier"
 url: /grevenbroich/duett-juwelier/
 shop: Schmuck
 ---

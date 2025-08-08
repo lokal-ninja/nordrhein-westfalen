@@ -7,5 +7,5 @@ city: Verl
 street: Weberstraße
 housenumber: "13"
 phone: ""
-opening_hours: Mo-Fr 08:30-12:00,12:00-18:30; Sa 08:30-12:00,12:00-13:00; Su,PH off
+opening_hours: Mo-Fr 08:30-12:00,13:00-18:30; Sa 08:30-13:00; Su,PH off
 website: ""

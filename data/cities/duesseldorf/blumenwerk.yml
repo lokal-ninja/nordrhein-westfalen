@@ -7,5 +7,5 @@ city: Düsseldorf
 street: Benderstraße
 housenumber: "56"
 phone: +49 211 4910105
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Su,PH off; Sa 09:00-14:00
 website: https://www.blumenwerk.dewaard.de/

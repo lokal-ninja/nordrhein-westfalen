@@ -1,6 +1,6 @@
 ---
 title: Laer
 url: /laer/
-latitude: 52.054
-longitude: 7.358
+latitude: 52.034
+longitude: 7.376
 ---
