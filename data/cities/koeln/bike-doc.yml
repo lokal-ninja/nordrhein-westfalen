@@ -7,5 +7,5 @@ city: Köln
 street: Aachener Straße
 housenumber: "458"
 phone: +49 15730048089
-opening_hours: Mo-Fr 10:00-13:30; Mo-Fr 14:00-19:00; Sa 10:00-13:30; Sa 14:00-16:00
+opening_hours: Mo-Fr 10:00-13:30,14:00-19:00; Sa 10:00-13:30,14:00-16:00
 website: ""

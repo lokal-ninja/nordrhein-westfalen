@@ -7,5 +7,6 @@ city: Wipperfürth
 street: Untere Straße
 housenumber: "8"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00; Sa 09:00-13:00;
+    PH off
 website: https://goll-schracke.de/

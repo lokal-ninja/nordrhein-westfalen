@@ -1,5 +1,5 @@
 ---
 title: "KODi"
 url: /bruehl/kodi/
-shop: Andenken
+shop: Haushaltsartikel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gummersbach
 url: /gummersbach/
-latitude: 51.018
-longitude: 7.624
+latitude: 51.027
+longitude: 7.566
 ---

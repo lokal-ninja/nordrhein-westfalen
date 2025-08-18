@@ -7,5 +7,5 @@ city: Köln
 street: Neusser Straße
 housenumber: "216"
 phone: ""
-opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH,Su off
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su,PH off
 website: ""
