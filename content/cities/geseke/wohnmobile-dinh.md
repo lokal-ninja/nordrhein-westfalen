@@ -1,5 +1,5 @@
 ---
 title: "Wohnmobile Dinh"
 url: /geseke/wohnmobile-dinh/
-shop: Autohaus
+shop: Wohnwagen
 ---
