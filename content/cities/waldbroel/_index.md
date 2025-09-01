@@ -1,6 +1,6 @@
 ---
 title: Waldbröl
 url: /waldbroel/
-latitude: 50.887
-longitude: 7.635
+latitude: 50.873
+longitude: 7.608
 ---

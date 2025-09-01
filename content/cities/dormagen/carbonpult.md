@@ -1,5 +1,5 @@
 ---
-title: "CARBONPULT"
+title: "Carbonpult"
 url: /dormagen/carbonpult/
 shop: Sport
 ---

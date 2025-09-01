@@ -1,11 +1,12 @@
-id: 208597027
+id: 13098436728
 type: node
-latitude: 51.82443
-longitude: 8.14373
+latitude: 51.82437
+longitude: 8.14387
 postcode: "59302"
 city: Oelde
 street: Lange Straße
-housenumber: "22"
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: "24"
+phone: +49 2522 921660
+opening_hours: Mo,We,Th 09:00-13:00, 14:30-18:00; Tu,Fr 08:30-13:00, 14:30-18:00;
+    Sa 09:00-13:00; Su off
+website: https://klecks-oelde.de/
