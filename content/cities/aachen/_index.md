@@ -1,6 +1,6 @@
 ---
 title: Aachen
 url: /aachen/
-latitude: 50.79
-longitude: 6.088
+latitude: 50.784
+longitude: 6.125
 ---
