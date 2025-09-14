@@ -7,6 +7,5 @@ city: Münster
 street: Domplatz
 housenumber: "10"
 phone: +49 251 9811 7384
-opening_hours: '"Dienstag bis Sonntag: 10-18 Uhr, jeden 2. Freitag im Monat 10-24
-    Uhr"'
+opening_hours: Tu-Su 10:00-18:00; Fr[2] 10:00-24:00
 website: ""
