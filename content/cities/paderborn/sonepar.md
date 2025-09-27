@@ -1,5 +1,5 @@
 ---
 title: "Sonepar"
 url: /paderborn/sonepar/
-shop: Allgemein
+shop: Elektrisch
 ---

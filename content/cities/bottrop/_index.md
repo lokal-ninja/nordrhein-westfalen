@@ -1,6 +1,6 @@
 ---
 title: Bottrop
 url: /bottrop/
-latitude: 51.51
-longitude: 6.936
+latitude: 51.539
+longitude: 6.933
 ---

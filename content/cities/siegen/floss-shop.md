@@ -1,5 +1,5 @@
 ---
 title: "FLOSS-Shop"
 url: /siegen/floss-shop/
-shop: Allgemein
+shop: Eisenwaren
 ---
