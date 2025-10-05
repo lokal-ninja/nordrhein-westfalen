@@ -7,5 +7,6 @@ city: Hattingen
 street: Felderbachstraße
 housenumber: "32"
 phone: +49 2052 8395601
-opening_hours: Th 14:30-18:00; Sa 11:00-15:00; Su-We, Fr off; PH off
+opening_hours: 'Apr-Oct: Th-Fr 14:30-18:00; Nov-Mar: Th-Fr 14:30-17:00; Sa 11:00-15:00;
+    Su-We off; PH off'
 website: https://wuennerhof-marienhof.de

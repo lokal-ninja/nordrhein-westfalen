@@ -7,5 +7,5 @@ city: Mönchengladbach
 street: Vorster Straße
 housenumber: "540"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30
 website: ""
