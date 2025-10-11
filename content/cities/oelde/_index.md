@@ -1,6 +1,6 @@
 ---
 title: Oelde
 url: /oelde/
-latitude: 51.842
-longitude: 8.142
+latitude: 51.833
+longitude: 8.152
 ---

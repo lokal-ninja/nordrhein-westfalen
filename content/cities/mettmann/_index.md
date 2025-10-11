@@ -1,6 +1,6 @@
 ---
 title: Mettmann
 url: /mettmann/
-latitude: 51.268
-longitude: 6.957
+latitude: 51.252
+longitude: 6.979
 ---

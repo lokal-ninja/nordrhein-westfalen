@@ -1,5 +1,5 @@
 ---
 title: "Kinderleicht"
 url: /mettmann/kinderleicht/
-shop: Allgemein
+shop: Kleidung
 ---
