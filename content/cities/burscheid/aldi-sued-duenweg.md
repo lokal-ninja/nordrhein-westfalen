@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /burscheid/aldi-sued-duenweg/
 shop: Supermarkt
 ---

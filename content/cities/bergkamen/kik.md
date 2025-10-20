@@ -1,5 +1,5 @@
 ---
-title: "KiK"
+title: "Kik"
 url: /bergkamen/kik/
 shop: Kleidung
 ---

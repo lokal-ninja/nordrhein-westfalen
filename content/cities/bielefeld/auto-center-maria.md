@@ -1,5 +1,5 @@
 ---
-title: "Auto-Center-Maria"
+title: "Auto Center Maria"
 url: /bielefeld/auto-center-maria/
-shop: Autowerkstatt
+shop: Autohaus
 ---

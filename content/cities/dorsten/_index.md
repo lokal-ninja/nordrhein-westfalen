@@ -1,6 +1,6 @@
 ---
 title: Dorsten
 url: /dorsten/
-latitude: 51.675
-longitude: 6.942
+latitude: 51.679
+longitude: 6.943
 ---
