@@ -1,6 +1,6 @@
 ---
 title: Hamm
 url: /hamm/
-latitude: 51.659
-longitude: 7.781
+latitude: 51.708
+longitude: 7.835
 ---
