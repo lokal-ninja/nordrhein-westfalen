@@ -1,6 +1,6 @@
 ---
 title: Medebach
 url: /medebach/
-latitude: 51.201
-longitude: 8.7
+latitude: 51.196
+longitude: 8.707
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosenhase"
 url: /paderborn/rosenhase/
-shop: Leerstehend
+shop: Raumausstattung
 ---

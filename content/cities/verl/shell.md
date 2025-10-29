@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /verl/shell/
-shop: Kiosk
+shop: Lebensmittel
 ---
