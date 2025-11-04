@@ -7,5 +7,5 @@ city: Aachen
 street: Templergraben
 housenumber: "27"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th 00:00-00:00; Fr,Sa 00:00-01:00; Su,PH off
 website: ""
