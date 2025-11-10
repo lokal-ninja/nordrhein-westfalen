@@ -1,5 +1,5 @@
 ---
-title: "HÖTZEL gardinen service"
+title: "Hötzel gardinen service"
 url: /ratingen/hoetzel-gardinen-service/
 shop: Raumausstattung
 ---
