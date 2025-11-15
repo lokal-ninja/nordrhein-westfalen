@@ -7,5 +7,5 @@ city: Wuppertal
 street: Turmhof
 housenumber: "15"
 phone: +49 202 454321
-opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+opening_hours: Mo,Tu,Th,Fr 09:30-19:00; Sa 09:30-16:00; We,Su,PH off
 website: https://www.brillen-arlt.de/

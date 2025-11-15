@@ -1,5 +1,5 @@
 ---
-title: "dieWohnplaner"
+title: "diewohnplaner"
 url: /duesseldorf/diewohnplaner/
 shop: Möbel
 ---

@@ -7,5 +7,5 @@ city: Wuppertal
 street: Schlössersgasse
 housenumber: "8"
 phone: ""
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: ""
