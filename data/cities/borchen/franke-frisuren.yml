@@ -7,5 +7,5 @@ city: Borchen
 street: Drostenstraße
 housenumber: "4"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We,Sa 09:00-13:00; Th 14:00-18:00; Fr 09:00-18:00; Su,Mo off
 website: ""

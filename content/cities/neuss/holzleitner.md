@@ -1,5 +1,5 @@
 ---
 title: "Holzleitner"
 url: /neuss/holzleitner/
-shop: Elektrisch
+shop: Elektronik
 ---

@@ -7,5 +7,5 @@ city: Oberhausen
 street: Forststraße
 housenumber: "256"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Th,Th-Sa 10:00-13:00, We 15:00-17:00; PH off
 website: https://www.gruenlandstaudenhof.de

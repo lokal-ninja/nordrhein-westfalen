@@ -1,5 +1,5 @@
 ---
 title: "Cosmo"
 url: /grevenbroich/cosmo/
-shop: Kosmetik
+shop: Friseurbedarf
 ---
