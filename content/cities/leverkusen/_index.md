@@ -1,6 +1,6 @@
 ---
 title: Leverkusen
 url: /leverkusen/
-latitude: 51.036
-longitude: 7.051
+latitude: 51.061
+longitude: 6.917
 ---

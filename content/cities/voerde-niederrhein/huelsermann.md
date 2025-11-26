@@ -1,5 +1,5 @@
 ---
 title: "Hülsermann"
 url: /voerde-niederrhein/huelsermann/
-shop: Schreibwaren
+shop: Haushaltsartikel
 ---

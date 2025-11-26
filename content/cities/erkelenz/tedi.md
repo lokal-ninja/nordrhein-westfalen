@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /erkelenz/tedi/
-shop: Raumausstattung
+shop: Kramladen
 ---

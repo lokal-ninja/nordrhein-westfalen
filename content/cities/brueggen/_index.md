@@ -1,6 +1,6 @@
 ---
 title: Brüggen
 url: /brueggen/
-latitude: 51.275
-longitude: 6.212
+latitude: 51.285
+longitude: 6.199
 ---

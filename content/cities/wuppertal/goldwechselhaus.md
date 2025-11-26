@@ -1,5 +1,5 @@
 ---
-title: "goldwechselhaus"
+title: "Goldwechselhaus"
 url: /wuppertal/goldwechselhaus/
 shop: Leiher
 ---

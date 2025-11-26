@@ -7,5 +7,5 @@ city: Ahaus
 street: Eschweg
 housenumber: "1"
 phone: ""
-opening_hours: ""
-website: http://www.behrendt-frischemarkt.de
+opening_hours: Mo,Tu,Th,Fr 9:00-12:30,14:30-18:00, We,Sa 9:00-12:30; PH off
+website: ""
