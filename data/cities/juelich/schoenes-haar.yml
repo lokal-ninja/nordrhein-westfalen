@@ -7,5 +7,5 @@ city: Jülich
 street: Kölnstraße
 housenumber: "23"
 phone: ""
-opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-15:00; Su,PH off
+opening_hours: Tu,We,Fr 09:00-18:00; Sa 08:00-15:00; Th 09:00-14:30; Su,PH off
 website: ""
