@@ -7,5 +7,6 @@ city: Geseke
 street: Lindenweg
 housenumber: "1"
 phone: +49 2942 4046
-opening_hours: Mo-Fr 05:30-17:30; Sa-Su 14:00-17:00
-website: http://www.bahnhof-geseke.de/
+opening_hours: Mo, Tu 08:30-12:30; 13:00-17:00, We 08:30-12:30; 13:00-18:00; Tu, Fr
+    08:30-12:30; 13:00-17:00; Sa, PH off
+website: ""
