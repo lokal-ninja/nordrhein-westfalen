@@ -1,5 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /lennestadt/edeka/
 shop: Supermarkt
 ---

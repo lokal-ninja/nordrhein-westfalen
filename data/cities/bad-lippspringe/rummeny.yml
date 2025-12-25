@@ -1,11 +1,12 @@
 id: 950045790
 type: node
 latitude: 51.78306
-longitude: 8.81565
+longitude: 8.81569
 postcode: "33175"
 city: Bad Lippspringe
 street: Bielefelder Straße
 housenumber: "18"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo off; Tu, We 7:30-13:00; Th 7:30-13:00, 15:00-18:00; Fr 7:30-18:00;
+    Sa 7:00-13:00
+website: https://rummeny.com/

@@ -7,5 +7,5 @@ city: Medebach
 street: Industriestraße
 housenumber: "8"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 08:00-17:00; We 08:00-14:00
 website: ""
