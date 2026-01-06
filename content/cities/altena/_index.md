@@ -1,6 +1,6 @@
 ---
 title: Altena
 url: /altena/
-latitude: 51.289
-longitude: 7.68
+latitude: 51.255
+longitude: 7.649
 ---
