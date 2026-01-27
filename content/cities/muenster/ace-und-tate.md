@@ -1,5 +1,5 @@
 ---
-title: "ace & tate"
+title: "Ace & Tate"
 url: /muenster/ace-und-tate/
-shop: Kleidung
+shop: Optiker
 ---

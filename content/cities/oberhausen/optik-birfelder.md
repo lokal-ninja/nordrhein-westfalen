@@ -1,5 +1,5 @@
 ---
-title: "optik birfelder"
+title: "Optik Birfelder"
 url: /oberhausen/optik-birfelder/
 shop: Optiker
 ---

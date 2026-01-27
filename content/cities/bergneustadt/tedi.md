@@ -1,5 +1,5 @@
 ---
-title: "TEDI"
+title: "TEDi"
 url: /bergneustadt/tedi/
-shop: Lebensmittel
+shop: Kramladen
 ---

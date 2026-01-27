@@ -1,5 +1,5 @@
 ---
 title: "TEDI"
 url: /radevormwald/tedi/
-shop: Allgemein
+shop: Kramladen
 ---

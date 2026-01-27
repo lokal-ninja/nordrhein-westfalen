@@ -7,5 +7,6 @@ city: Duisburg
 street: Saarstraße
 housenumber: "120"
 phone: +49 2066 5024080
-opening_hours: ""
+opening_hours: Tu-Fr 07:15-14:00, Sa,Su 08:00-14:00, PH 09:00-14:00, Tu-Fr 15:00-19:00,
+    Su 15:00-17:00
 website: ""

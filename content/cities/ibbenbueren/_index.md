@@ -1,6 +1,6 @@
 ---
 title: Ibbenbüren
 url: /ibbenbueren/
-latitude: 52.269
-longitude: 7.717
+latitude: 52.29
+longitude: 7.72
 ---

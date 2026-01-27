@@ -7,5 +7,5 @@ city: Bochum
 street: Hattinger Straße
 housenumber: "453"
 phone: +49 234 9471864
-opening_hours: Mo-Sa 07:00-21:00
+opening_hours: Mo-Sa 07:00-21:00; Su,PH 07:30-12:00
 website: ""

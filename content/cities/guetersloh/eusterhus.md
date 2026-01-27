@@ -1,5 +1,5 @@
 ---
 title: "Eusterhus"
 url: /guetersloh/eusterhus/
-shop: Modehaus
+shop: Kleidung
 ---
