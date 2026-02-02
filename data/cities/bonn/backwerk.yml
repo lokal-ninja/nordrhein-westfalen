@@ -7,5 +7,5 @@ city: Bonn
 street: Poststraße
 housenumber: "21"
 phone: ""
-opening_hours: Mo-Su,PH 06:30-20:00
+opening_hours: Mo-Fr 06:30-20:00; Sa 08:00-21:00; Su,PH 08:00-18:00
 website: ""
