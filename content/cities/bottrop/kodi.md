@@ -1,5 +1,5 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /bottrop/kodi/
-shop: Kramladen
+shop: Haushaltsartikel
 ---

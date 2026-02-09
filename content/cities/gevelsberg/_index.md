@@ -1,6 +1,6 @@
 ---
 title: Gevelsberg
 url: /gevelsberg/
-latitude: 51.323
-longitude: 7.348
+latitude: 51.321
+longitude: 7.344
 ---

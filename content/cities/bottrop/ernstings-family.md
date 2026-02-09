@@ -1,5 +1,5 @@
 ---
-title: "Ernstings Family"
+title: "Ernsting's family"
 url: /bottrop/ernstings-family/
-shop: Drogerie
+shop: Kleidung
 ---
