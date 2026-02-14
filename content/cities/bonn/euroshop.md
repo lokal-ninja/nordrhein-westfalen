@@ -1,5 +1,5 @@
 ---
-title: "Euroshop"
+title: "EuroShop"
 url: /bonn/euroshop/
-shop: Andenken
+shop: Kramladen
 ---

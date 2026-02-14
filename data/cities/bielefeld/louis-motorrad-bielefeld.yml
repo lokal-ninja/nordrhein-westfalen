@@ -7,5 +7,5 @@ city: Bielefeld
 street: Herforder Straße
 housenumber: "195"
 phone: +49 521 17 49 57
-opening_hours: Mar-Sep Mo-Sa 09:00-20:00, Oct-Feb Mo-Sa 09:00-19:00; Su,PH off
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00, Oct-Feb: Mo-Sa 09:00-19:00; Su,PH off'
 website: https://www.louis.de/filialen/louis-bielefeld
