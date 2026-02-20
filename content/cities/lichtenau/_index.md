@@ -1,6 +1,6 @@
 ---
 title: Lichtenau
 url: /lichtenau/
-latitude: 51.584
-longitude: 8.981
+latitude: 51.616
+longitude: 8.907
 ---

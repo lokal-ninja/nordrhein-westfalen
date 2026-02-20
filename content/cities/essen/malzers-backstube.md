@@ -1,5 +1,5 @@
 ---
-title: "Malzer's Backstube"
+title: "MALZERS Backstube"
 url: /essen/malzers-backstube/
 shop: Bäckerei
 ---
