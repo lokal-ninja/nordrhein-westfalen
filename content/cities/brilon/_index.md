@@ -2,5 +2,5 @@
 title: Brilon
 url: /brilon/
 latitude: 51.431
-longitude: 8.722
+longitude: 8.723
 ---

@@ -7,6 +7,5 @@ city: Bochum
 street: Am Ruhrpark
 housenumber: "7"
 phone: ""
-opening_hours: 'Sep-Feb: Mo-Fr 09:00-19:00; Sep-Feb: Sa 09:00-18:00; Sep-Feb: Su 12:00-17:00;
-    Mar-Aug: Mo-Fr 09:00-20:00; Mar-Aug: Sa 09:00-18:00; Mar-Aug: Su 12:00-17:00'
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-18:00, Su 11:00-16:00; PH off
 website: ""

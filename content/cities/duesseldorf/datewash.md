@@ -1,5 +1,5 @@
 ---
 title: "Datewash"
 url: /duesseldorf/datewash/
-shop: Kleidung
+shop: Wäscherei
 ---

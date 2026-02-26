@@ -1,6 +1,6 @@
 ---
 title: Wermelskirchen
 url: /wermelskirchen/
-latitude: 51.138
-longitude: 7.212
+latitude: 51.103
+longitude: 7.218
 ---
