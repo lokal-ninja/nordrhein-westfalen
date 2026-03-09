@@ -7,5 +7,5 @@ city: Siegburg
 street: Wilhelmstraße
 housenumber: "124"
 phone: +49 2241 1693017
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,14:30-18:00; We 14:30-18:00; Sa 10:00-16:00
 website: ""

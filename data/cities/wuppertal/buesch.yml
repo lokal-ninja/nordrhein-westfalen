@@ -1,11 +1,12 @@
 id: 5929454107
 type: node
-latitude: 51.25474
-longitude: 7.1497
+latitude: 51.25473
+longitude: 7.14967
 postcode: "42103"
 city: Wuppertal
 street: Döppersberg
 housenumber: "37"
 phone: ""
-opening_hours: Mo-Fr 05:00-19:00; PH,Su 07:00-17:00; Sa 05:00-17:00
+opening_hours: Mo-Fr 05:00-19:00; PH,Su 07:00-17:00; Sa 05:00-17:00; Feb 06-Jun 12
+    Mo-Sa 05:00-14:00; Su 07:00-14:00
 website: ""

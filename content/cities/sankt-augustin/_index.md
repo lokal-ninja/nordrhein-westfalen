@@ -1,6 +1,6 @@
 ---
 title: Sankt Augustin
 url: /sankt-augustin/
-latitude: 50.78
-longitude: 7.187
+latitude: 50.784
+longitude: 7.196
 ---
