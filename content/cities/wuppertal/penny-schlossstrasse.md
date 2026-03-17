@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "PENNY Schloßstraße"
 url: /wuppertal/penny-schlossstrasse/
 shop: Supermarkt
 ---

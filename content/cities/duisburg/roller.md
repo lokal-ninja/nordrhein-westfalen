@@ -1,5 +1,5 @@
 ---
 title: "Roller"
 url: /duisburg/roller/
-shop: Möbel
+shop: Leerstehend
 ---
