@@ -7,6 +7,6 @@ city: Aachen
 street: Harscampstraße
 housenumber: "81"
 phone: ""
-opening_hours: Mo 08:30-13:00,13:30-17:00; Tu 08:30-13:00,13:30-18:00; We,Fr 08:30-13:00;
-    Th 07:30-15:00; Su,PH off
+opening_hours: Mo 08:00-13:00,15:00-17:00, Tu 08:00-12:30,16:00-19:00, We,Fr 08:00-13:00,
+    Th 07:00-10:00, Th 11:00-15:00
 website: https://www.dreschers.de/
