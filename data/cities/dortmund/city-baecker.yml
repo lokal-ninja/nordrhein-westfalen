@@ -1,11 +1,11 @@
 id: 4838995243
 type: node
-latitude: 51.49008
-longitude: 7.50719
+latitude: 51.49015
+longitude: 7.50723
 postcode: "44263"
 city: Dortmund
 street: Am Kai
-housenumber: ""
+housenumber: "16"
 phone: ""
-opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 07:00-18:00
+opening_hours: Mo-Su,PH 07:00-18:00
 website: ""

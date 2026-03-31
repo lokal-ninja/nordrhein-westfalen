@@ -7,5 +7,6 @@ city: Horn-Bad Meinberg
 street: Mittelstraße
 housenumber: "65"
 phone: ""
-opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; PH off
+opening_hours: Mo,We,Fr 08:00-12:00,13:00-17:00; Tu,Th 09:00-13:00,14:00-18:00; PH
+    off
 website: https://www.amplifon.com/de/filiale-finden/hoergeraete-nordrhein-westfalen/amplifon-horn-bad-meinberg-s577
