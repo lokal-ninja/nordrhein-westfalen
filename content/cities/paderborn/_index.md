@@ -1,6 +1,6 @@
 ---
 title: Paderborn
 url: /paderborn/
-latitude: 51.732
-longitude: 8.765
+latitude: 51.712
+longitude: 8.734
 ---

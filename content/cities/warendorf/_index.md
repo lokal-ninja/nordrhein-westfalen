@@ -1,6 +1,6 @@
 ---
 title: Warendorf
 url: /warendorf/
-latitude: 51.943
-longitude: 7.987
+latitude: 51.953
+longitude: 7.989
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lemgo
 url: /lemgo/
-latitude: 52.084
-longitude: 8.867
+latitude: 52.028
+longitude: 8.883
 ---
