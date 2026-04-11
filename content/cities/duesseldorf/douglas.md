@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
 url: /duesseldorf/douglas/
-shop: Parfümerie
+shop: Kosmetik
 ---

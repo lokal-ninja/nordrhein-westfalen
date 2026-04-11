@@ -7,5 +7,6 @@ city: Gütersloh
 street: Steinhagener Straße
 housenumber: "16"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Tu-We 07:30-13:00; Th-Fr 07:30-13:00,15:00-18:00; Sa 07:00-13:00; PH,
+    Su, Mo off
+website: https://www.landfleischerei-rau.de/
