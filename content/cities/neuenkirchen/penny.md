@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /neuenkirchen/penny/
 shop: Supermarkt
 ---

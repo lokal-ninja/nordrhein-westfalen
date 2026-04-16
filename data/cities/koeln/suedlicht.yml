@@ -7,5 +7,5 @@ city: Köln
 street: Eifelwall
 housenumber: "56"
 phone: ""
-opening_hours: Mo, We-Sa 08:30-19:00
+opening_hours: Mo,We-Fr 08:30-18:00; Tu,Sa off; Su 12:00-18:00
 website: ""

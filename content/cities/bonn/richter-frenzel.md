@@ -1,5 +1,5 @@
 ---
 title: "Richter+Frenzel"
 url: /bonn/richter-frenzel/
-shop: Großhandel
+shop: Baustoffe
 ---
