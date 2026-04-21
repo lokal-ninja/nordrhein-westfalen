@@ -7,6 +7,7 @@ city: Wuppertal
 street: Döppersberg
 housenumber: "37"
 phone: ""
-opening_hours: Mo-Fr 05:00-19:00; PH,Su 07:00-17:00; Sa 05:00-17:00; Feb 06-Jun 12
-    Mo-Sa 05:00-14:00; Su 07:00-14:00
+opening_hours: Mo-Su off "Wegen Wasserschaden bis auf weiteres geschlossen / Closed
+    until further notice due to water damage"; PH off "Wegen Wasserschaden bis auf
+    weiteres geschlossen / Closed until further notice due to water damage"
 website: ""
