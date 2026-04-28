@@ -1,5 +1,5 @@
 ---
-title: "KODI"
+title: "KODi"
 url: /zuelpich/kodi/
-shop: Kramladen
+shop: Haushaltsartikel
 ---

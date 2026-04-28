@@ -1,5 +1,5 @@
 ---
 title: "Magnolia"
 url: /goch/magnolia/
-shop: Modehaus
+shop: Kleidung
 ---

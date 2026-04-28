@@ -1,5 +1,5 @@
 ---
 title: "Holz Mehring"
 url: /lichtenau/holz-mehring/
-shop: Holz
+shop: Baustoffe
 ---

@@ -6,6 +6,7 @@ postcode: "33184"
 city: Altenbeken
 street: Adenauerstraße
 housenumber: "58"
-phone: ""
-opening_hours: Mo-Fr 09:00-12:00,15:00-18:00; Sa 08:30-12:30
+phone: +49 5255 6232
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,15:00-18:00; Sa 08:30-12:30; We 09:00-12:00;
+    Su,PH off
 website: ""
