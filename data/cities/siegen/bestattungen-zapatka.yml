@@ -7,6 +7,5 @@ city: Siegen
 street: Eiserfelder Straße
 housenumber: "453"
 phone: +49 271 353400
-opening_hours: Tu 09:00-12:00, TH 16:00-18:00 || "nach Vereinbarung, 24/7 telefonisch
-    erreichbar"
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: https://www.bestattungen-zapatka.de

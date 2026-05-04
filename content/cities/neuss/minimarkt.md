@@ -1,5 +1,5 @@
 ---
-title: "minimarkt"
+title: "Minimarkt"
 url: /neuss/minimarkt/
 shop: Kiosk
 ---

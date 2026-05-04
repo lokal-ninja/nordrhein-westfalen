@@ -1,6 +1,6 @@
 ---
 title: Velbert
 url: /velbert/
-latitude: 51.339
-longitude: 7.02
+latitude: 51.333
+longitude: 7.022
 ---

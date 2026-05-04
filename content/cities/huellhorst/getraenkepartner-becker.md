@@ -1,5 +1,5 @@
 ---
-title: "GetränkePartner Becker"
+title: "Getränkepartner Becker"
 url: /huellhorst/getraenkepartner-becker/
 shop: Getränke
 ---
