@@ -1,5 +1,5 @@
 ---
-title: "cibaria"
+title: "Cibaria"
 url: /muenster/cibaria/
 shop: Bäckerei
 ---

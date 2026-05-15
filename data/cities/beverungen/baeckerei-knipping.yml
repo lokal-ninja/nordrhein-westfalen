@@ -7,5 +7,5 @@ city: Beverungen
 street: Amalungstraße
 housenumber: "27"
 phone: "+495275377"
-opening_hours: ""
+opening_hours: Mo,Su,PH off; Tu-Fr 06:00-12:00,15:00-18:00; Sa 06:00-12:30
 website: ""

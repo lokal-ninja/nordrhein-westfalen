@@ -1,6 +1,6 @@
 ---
 title: Löhne
 url: /loehne/
-latitude: 52.19
-longitude: 8.69
+latitude: 52.198
+longitude: 8.718
 ---
