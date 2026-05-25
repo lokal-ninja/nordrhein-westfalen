@@ -1,11 +1,12 @@
-id: 1352310020
+id: 331533103
 type: node
-latitude: 51.44192
-longitude: 7.00007
-postcode: "45128"
+latitude: 51.44538
+longitude: 7.05781
+postcode: "45138"
 city: Essen
-street: Kahrstraße
-housenumber: "62"
-phone: ""
-opening_hours: Mo-Fr 06:00-18:00, Sa 06:00-13:00, Su 08:00-11:00
-website: ""
+street: Steeler Straße
+housenumber: "470"
+phone: +49 201 61 61 79 97
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-16:00; PH unknown "siehe
+    Aushang"
+website: https://baeckereiholtkamp.de/

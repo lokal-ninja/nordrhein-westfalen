@@ -1,5 +1,5 @@
 ---
 title: "Spätkauf"
 url: /bonn/spaetkauf/
-shop: Kiosk
+shop: Allgemein
 ---
