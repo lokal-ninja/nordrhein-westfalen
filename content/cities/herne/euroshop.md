@@ -1,5 +1,5 @@
 ---
-title: "Euroshop"
+title: "EuroShop"
 url: /herne/euroshop/
-shop: Warenhaus
+shop: Kramladen
 ---

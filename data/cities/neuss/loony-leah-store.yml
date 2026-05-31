@@ -7,5 +7,5 @@ city: Neuss
 street: Eichendorffstraße
 housenumber: "42"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th,Fr 10:00-18:00; Sa 10:00-16:00; Su,Mo,We,PH off
 website: https://loonyleah.de/
