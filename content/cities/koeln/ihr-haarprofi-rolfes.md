@@ -1,5 +1,5 @@
 ---
-title: "„Ihr Haarprofi„ ROLFES"
+title: "„Ihr Haarprofi“ ROLFES"
 url: /koeln/ihr-haarprofi-rolfes/
 shop: Friseur
 ---
