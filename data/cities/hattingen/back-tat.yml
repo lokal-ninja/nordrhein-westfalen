@@ -7,5 +7,5 @@ city: Hattingen
 street: Heggerstraße
 housenumber: "65"
 phone: ""
-opening_hours: ""
+opening_hours: '"Mo-Su,PH 00:00-24:00'
 website: ""
