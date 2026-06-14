@@ -1,5 +1,5 @@
 ---
 title: "Aral"
 url: /marl/aral/
-shop: Allgemein
+shop: Lebensmittel
 ---

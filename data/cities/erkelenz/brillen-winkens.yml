@@ -7,5 +7,6 @@ city: Erkelenz
 street: Ostpromenade
 housenumber: "29"
 phone: ""
-opening_hours: Su-Mo,PH off; Tu-Sa 10:00-12:30
+opening_hours: Tu,Th,Fr 10:00-12:30,15:00-18:00; We 10:00-12:30; Sa 10:00-12:00; Mo
+    off
 website: ""
