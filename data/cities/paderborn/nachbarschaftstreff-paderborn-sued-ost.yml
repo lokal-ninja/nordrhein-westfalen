@@ -7,5 +7,8 @@ city: Paderborn
 street: Peckelsheimer Weg
 housenumber: "26"
 phone: ""
-opening_hours: ""
+opening_hours: |-
+    "Skat: Mo 15:00-17:30
+    Café: Mi, Do 14:30-17:00
+    Karten-, Brett- & Würfelspiele: Mi 17:00-20:00"
 website: https://www.nachbarschaftstreff-pb.de/

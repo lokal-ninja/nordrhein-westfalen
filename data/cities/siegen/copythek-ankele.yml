@@ -7,6 +7,5 @@ city: Siegen
 street: Glückaufstraße
 housenumber: "23"
 phone: +49 271 71613
-opening_hours: Mo-Th 09:00-18:00; Fr 09:00-15:00; Mo-Fr 12:30-13:00 off "Mittagspause";
-    Sa-Su off; PH off
+opening_hours: Mo-Th 09:00-12:30, 13:00-18:00; Fr 09:00-14:00
 website: https://www.copythek-ankele.de/

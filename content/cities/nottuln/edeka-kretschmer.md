@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Kretschmer"
+title: "Edeka Kretschmer"
 url: /nottuln/edeka-kretschmer/
 shop: Supermarkt
 ---

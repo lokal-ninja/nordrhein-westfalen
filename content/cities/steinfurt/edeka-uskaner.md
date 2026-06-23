@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Uskaner"
+title: "Edeka Uskaner"
 url: /steinfurt/edeka-uskaner/
 shop: Supermarkt
 ---

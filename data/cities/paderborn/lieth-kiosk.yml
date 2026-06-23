@@ -7,6 +7,5 @@ city: Paderborn
 street: Auenhauser Weg
 housenumber: "9"
 phone: ""
-opening_hours: Mo-Th 10:00-00:00; Fr 10:00-00:00; Sa 00:00-1:00, 10:00-00:00; Su 00:00-1:00,
-    10:00-00:00
+opening_hours: Tu-Sa 10:00-00:00
 website: ""

@@ -7,5 +7,5 @@ city: Aachen
 street: Seilgraben
 housenumber: "33"
 phone: +49 241 99030973
-opening_hours: Mo-Fr 10:00-12:00
+opening_hours: Mo,Tu,Th 10:00-15:00; We,Fr-Su,PH off
 website: https://www.funk24.net/

@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Neuhäuser"
+title: "Edeka Neuhäuser"
 url: /billerbeck/edeka-neuhaeuser/
 shop: Supermarkt
 ---
