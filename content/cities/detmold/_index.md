@@ -1,6 +1,6 @@
 ---
 title: Detmold
 url: /detmold/
-latitude: 51.941
-longitude: 8.857
+latitude: 51.938
+longitude: 8.883
 ---

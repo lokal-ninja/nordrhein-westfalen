@@ -1,5 +1,5 @@
 ---
-title: "Avia"
+title: "AVIA"
 url: /paderborn/avia/
-shop: Allgemein
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Recke
 url: /recke/
-latitude: 52.348
-longitude: 7.695
+latitude: 52.377
+longitude: 7.716
 ---

@@ -1,6 +1,6 @@
 ---
 title: Essen
 url: /essen/
-latitude: 51.447
-longitude: 7.046
+latitude: 51.44
+longitude: 7.12
 ---
