@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen"
 url: /kuerten/raiffeisen/
-shop: Baumarkt
+shop: Baustoffe
 ---

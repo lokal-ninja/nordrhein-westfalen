@@ -1,5 +1,5 @@
 ---
-title: "Raiffeisen Markt"
+title: "Raiffeisen-Markt"
 url: /borken/raiffeisen-markt/
-shop: Garten-Center
+shop: Baumarkt
 ---
