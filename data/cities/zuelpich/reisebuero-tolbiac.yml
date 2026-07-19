@@ -7,6 +7,6 @@ city: Zülpich
 street: Normannengasse
 housenumber: "26"
 phone: +49 2252 1067
-opening_hours: Mo und Di 10:00-13:00 und 14:30-18:00, Mi 10:00-13:00, Do und Fr 10:00-13:00
-    und 14:30-18:00, Sa 10:00-13:00
+opening_hours: Mo,Tu 10:00-13:00,14:30-18:00, We 10:00-13:00, Th,Fr 10:00-13:00,14:30-18:00,
+    Sa 10:00-13:00
 website: https://reisebuero-tolbiac.de/

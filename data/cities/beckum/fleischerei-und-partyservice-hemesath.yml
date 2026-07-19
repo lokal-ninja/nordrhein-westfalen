@@ -7,5 +7,5 @@ city: Beckum
 street: Hauptstraße
 housenumber: "44"
 phone: +49 2525 3539
-opening_hours: Mo,Tu,Th,Fr 07:30-13:00,14:30-18:00; Sa 07:00-12:00
+opening_hours: Mo,Th,Fr 07:30-13:00,14:30-18:00; Tu 07:30-13:00; Sa 07:00-12:00
 website: https://www.fleischerei-hemesath.de

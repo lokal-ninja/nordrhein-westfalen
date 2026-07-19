@@ -1,6 +1,6 @@
 ---
 title: Freudenberg
 url: /freudenberg/
-latitude: 50.9
-longitude: 7.88
+latitude: 50.905
+longitude: 7.888
 ---

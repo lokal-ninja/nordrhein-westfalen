@@ -8,6 +8,6 @@ street: Herforder Straße
 housenumber: "103"
 phone: ""
 opening_hours: Mo-Fr 07:30-17:30 open, Sa 09:00-13:00 open; PH off "Werkstatt/Teiledienst"
-    || Mo-Fr 09:00-18:30 open, Sa 09:00-14:00 open; PH off "Verkauf" || Su 11:00-16:00
+    || Mo-Fr 09:00-18:30 open || Sa 09:00-14:00 open; PH off "Verkauf" || Su 11:00-16:00
     "Schautag"
 website: ""

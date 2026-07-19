@@ -1,5 +1,5 @@
 ---
 title: "Gellermann"
 url: /paderborn/gellermann/
-shop: Autohaus
+shop: Autowerkstatt
 ---

@@ -7,5 +7,5 @@ city: Mönchengladbach
 street: Zur Burgmühle
 housenumber: "11"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:30-13:30,14:00-18:00; We 09:30-15:00
 website: https://www.traveltime-reisen.de/

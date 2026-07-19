@@ -1,5 +1,5 @@
 ---
-title: "KFZ SCHWEDENELCH GMBH"
+title: "Kfz Schwedenelch GmbH"
 url: /dortmund/kfz-schwedenelch-gmbh/
 shop: Autowerkstatt
 ---

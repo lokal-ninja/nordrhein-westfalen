@@ -1,6 +1,6 @@
 ---
 title: Coesfeld
 url: /coesfeld/
-latitude: 51.928
-longitude: 7.171
+latitude: 51.924
+longitude: 7.173
 ---

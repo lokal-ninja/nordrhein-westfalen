@@ -1,6 +1,6 @@
 ---
 title: Hellenthal
 url: /hellenthal/
-latitude: 50.49
-longitude: 6.443
+latitude: 50.476
+longitude: 6.467
 ---

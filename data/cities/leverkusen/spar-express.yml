@@ -7,5 +7,6 @@ city: Leverkusen
 street: Heinrich-von-Stephan-Straße
 housenumber: "2"
 phone: +49 214 4047027
-opening_hours: Mo-Th 05:00-21:00; Fr 05:00-23:00; Sa 07:00-23:00; Su,PH 09:00-21:00
+opening_hours: Mo-Th 05:00-21:00; May 01-Nov 30 Mo-Th 05:00-22:00; Fr 05:00-23:00;
+    Sa 07:00-23:00; Su,PH 09:00-21:00; May 01-Nov 30 Su,PH 09:00-22:00
 website: ""

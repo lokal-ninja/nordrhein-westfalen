@@ -7,6 +7,6 @@ city: Zülpich
 street: Nideggener Straße
 housenumber: "17"
 phone: +49 2252 2329
-opening_hours: Mo und Di 9:30-13:00 und 14:30-18:00, Mi 9:30-13:00, Do und Fr 9:30-13:00
-    und 14:30-18:00, Sa 8:30-13:00
+opening_hours: Mo,Tu 09:30-13:00,14:30-18:00, We 09:30-13:00, Th,Fr 09:30-13:00,14:30-18:00,
+    Sa 08:30-13:00
 website: ""

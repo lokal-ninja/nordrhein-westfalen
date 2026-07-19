@@ -7,6 +7,6 @@ city: Willebadessen
 street: Lange Straße
 housenumber: "19"
 phone: +49 5646 242
-opening_hours: Mo 13:30-18:00; Tu 8:30-12:30, 13:30-18:00; We 8:30-12:30; Th-Fr 8:30-12:30,
-    13:30-18:00; Sa 8:00-13:00
+opening_hours: Mo 13:30-18:00; Tu 08:30-12:30,13:30-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,13:30-18:00;
+    Sa 08:00-13:00
 website: ""
