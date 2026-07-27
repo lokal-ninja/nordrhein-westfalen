@@ -1,6 +1,6 @@
 ---
 title: Overath
 url: /overath/
-latitude: 50.958
-longitude: 7.315
+latitude: 50.933
+longitude: 7.283
 ---
