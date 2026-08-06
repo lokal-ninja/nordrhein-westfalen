@@ -7,5 +7,5 @@ city: Aachen
 street: Bismarckstraße
 housenumber: "125"
 phone: ""
-opening_hours: Mo-Sa 09:00-21:00
+opening_hours: Mo-Su,PH off
 website: ""

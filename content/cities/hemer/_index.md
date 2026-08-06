@@ -1,6 +1,6 @@
 ---
 title: Hemer
 url: /hemer/
-latitude: 51.384
-longitude: 7.769
+latitude: 51.383
+longitude: 7.768
 ---

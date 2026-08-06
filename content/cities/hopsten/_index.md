@@ -1,6 +1,6 @@
 ---
 title: Hopsten
 url: /hopsten/
-latitude: 52.38
-longitude: 7.602
+latitude: 52.368
+longitude: 7.621
 ---

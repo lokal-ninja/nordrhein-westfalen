@@ -1,6 +1,6 @@
 ---
 title: Hückelhoven
 url: /hueckelhoven/
-latitude: 51.055
-longitude: 6.223
+latitude: 51.053
+longitude: 6.209
 ---

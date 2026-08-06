@@ -1,6 +1,6 @@
 ---
 title: Heiligenhaus
 url: /heiligenhaus/
-latitude: 51.329
-longitude: 7.01
+latitude: 51.321
+longitude: 6.953
 ---
