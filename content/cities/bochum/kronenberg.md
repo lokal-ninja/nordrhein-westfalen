@@ -1,5 +1,5 @@
 ---
 title: "Kronenberg"
 url: /bochum/kronenberg/
-shop: Tabak
+shop: Schmuck
 ---

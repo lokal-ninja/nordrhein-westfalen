@@ -1,5 +1,5 @@
 ---
 title: "Gebr.Krause"
 url: /grevenbroich/gebr-krause/
-shop: Leerstehend
+shop: Fahrrad
 ---
