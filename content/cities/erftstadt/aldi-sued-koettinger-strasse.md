@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /erftstadt/aldi-sued-koettinger-strasse/
 shop: Supermarkt
 ---

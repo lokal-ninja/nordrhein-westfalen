@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /euskirchen/aldi-sued-stresemannstrasse/
 shop: Supermarkt
 ---

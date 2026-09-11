@@ -1,5 +1,5 @@
 ---
-title: "INSIDER"
+title: "Insider"
 url: /marl/insider/
 shop: Kleidung
 ---

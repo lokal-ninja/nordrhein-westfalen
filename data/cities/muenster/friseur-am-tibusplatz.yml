@@ -8,5 +8,5 @@ street: Tibusplatz
 housenumber: "5"
 phone: ""
 opening_hours: Tu,Th-Fr 09:00-16:00; We 09:00-14:00; Sa 10:00-14:00; Mo,Su,PH off;
-    "nach Vereinbarung" appointment_only
+    "nach Vereinbarung, appointment_only"
 website: ""

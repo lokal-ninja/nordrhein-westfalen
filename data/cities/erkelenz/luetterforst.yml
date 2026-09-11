@@ -7,5 +7,5 @@ city: Erkelenz
 street: Schwanenberger Platz
 housenumber: "25"
 phone: +49 2431 806136
-opening_hours: Mo-Fr 07:00-16:00; Sa 07:00-12:00
+opening_hours: Mo,Th-Sa 06:30-11:00; Su 07:30-11:00; Tu,We off
 website: ""

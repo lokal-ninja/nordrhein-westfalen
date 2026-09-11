@@ -1,5 +1,5 @@
 ---
-title: "Trinkgut"
+title: "trinkgut"
 url: /velbert/trinkgut/
 shop: Getränke
 ---

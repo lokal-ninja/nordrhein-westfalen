@@ -1,5 +1,5 @@
 ---
-title: "ELITE Hairstyle"
+title: "Elite Hairstyle"
 url: /marl/elite-hairstyle/
 shop: Friseur
 ---

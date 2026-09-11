@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Koehne"
+title: "Edeka Koehne"
 url: /marl/edeka-koehne-ovelheider-weg/
 shop: Supermarkt
 ---

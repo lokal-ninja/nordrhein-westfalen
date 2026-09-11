@@ -7,6 +7,6 @@ city: Dormagen
 street: Kieler Straße
 housenumber: "5"
 phone: +49 2133 210257
-opening_hours: 'Mar-Aug: Mo-Fr 09:00-19:00; Sa 09:00-15:00; Sep-Feb: Mo-Fr 10:00-18:30;
-    Sa 10:00-14:00'
+opening_hours: 'Mar-Aug: Tu-Fr 09:00-19:00, Sa 09:00-15:00; Sep-Feb: Tu-Fr 10:00-18:30,
+    Sa 10:00-14:00; Mo,Su,PH off'
 website: https://www.fahrrad-rufa.de/

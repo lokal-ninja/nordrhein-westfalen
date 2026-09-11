@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Köhne"
+title: "Edeka Koehne"
 url: /marl/edeka-koehne/
 shop: Supermarkt
 ---

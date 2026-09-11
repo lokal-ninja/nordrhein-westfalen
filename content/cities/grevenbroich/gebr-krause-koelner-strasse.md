@@ -1,5 +1,5 @@
 ---
 title: "Gebr.Krause"
 url: /grevenbroich/gebr-krause-koelner-strasse/
-shop: Leerstehend
+shop: Fahrrad
 ---
