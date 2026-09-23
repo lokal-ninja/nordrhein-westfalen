@@ -1,6 +1,6 @@
 ---
 title: Finnentrop
 url: /finnentrop/
-latitude: 51.168
-longitude: 7.978
+latitude: 51.164
+longitude: 7.988
 ---

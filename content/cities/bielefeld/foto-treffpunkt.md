@@ -1,5 +1,5 @@
 ---
 title: "Foto-Treffpunkt"
 url: /bielefeld/foto-treffpunkt/
-shop: Foto
+shop: Kamera
 ---

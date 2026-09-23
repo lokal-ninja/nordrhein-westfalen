@@ -1,5 +1,5 @@
 ---
 title: "Budenzauber"
 url: /herne/budenzauber/
-shop: Möbel
+shop: Antiquitäten
 ---

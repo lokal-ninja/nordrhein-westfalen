@@ -7,5 +7,5 @@ city: Swisttal
 street: Kölner Straße
 housenumber: "30"
 phone: ""
-opening_hours: Mo-Fr 13:00-18:00; Sa 10:00-14:00
+opening_hours: Mo,We,Fr 09:00-12:30,14:30-18:00; Tu,Th 14:30-18:00; Sa 10:00-14:00
 website: ""

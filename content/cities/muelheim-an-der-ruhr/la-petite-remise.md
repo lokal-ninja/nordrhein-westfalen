@@ -1,5 +1,5 @@
 ---
-title: "La petite remise"
+title: "la.petite.remise"
 url: /muelheim-an-der-ruhr/la-petite-remise/
-shop: Raumausstattung
+shop: Kleidung
 ---

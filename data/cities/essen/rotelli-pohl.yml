@@ -7,5 +7,5 @@ city: Essen
 street: Kirchfeldstraße
 housenumber: 2-4
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; We,Sa 11:00-13:00
 website: ""

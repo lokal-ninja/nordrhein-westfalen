@@ -1,5 +1,5 @@
 ---
-title: "Kodi"
+title: "KODi"
 url: /essen/kodi/
-shop: Lebensmittel
+shop: Haushaltsartikel
 ---

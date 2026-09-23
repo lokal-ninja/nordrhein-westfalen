@@ -7,6 +7,5 @@ city: Verl
 street: Gütersloher Straße
 housenumber: "9"
 phone: ""
-opening_hours: Mo,We,Fr 09:30-13:00,14:00-18:30; Tu,Th 09:30-13:00; Sa 09:30-13:00;
-    Su,PH off
+opening_hours: Mo-We,Fr 09:30-13:00,14:00-18:30; Th 09:30-13:00; Sa 09:30-12:00
 website: https://www.rf-reisen.de/

@@ -1,5 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /schwerte/edeka/
 shop: Supermarkt
 ---
