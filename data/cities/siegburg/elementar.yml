@@ -7,5 +7,5 @@ city: Siegburg
 street: Kaiserstraße
 housenumber: "101"
 phone: +49 2241 2000123
-opening_hours: ""
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-21:00
 website: https://www.elementar-friseur.de/

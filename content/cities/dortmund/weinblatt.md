@@ -1,5 +1,5 @@
 ---
 title: "Weinblatt"
 url: /dortmund/weinblatt/
-shop: Wein
+shop: Spirituosen
 ---

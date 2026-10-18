@@ -1,5 +1,5 @@
 ---
-title: "Späti 585"
+title: "SPÄTI 585"
 url: /luedenscheid/spaeti-585/
 shop: Kiosk
 ---

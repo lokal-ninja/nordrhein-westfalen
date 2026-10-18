@@ -1,5 +1,5 @@
 ---
-title: "Faßbender Tenten"
+title: "Fassbender Tenten"
 url: /duesseldorf/fassbender-tenten/
-shop: Baumarkt
+shop: Baustoffe
 ---

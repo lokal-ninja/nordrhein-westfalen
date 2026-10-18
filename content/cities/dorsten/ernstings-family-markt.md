@@ -1,0 +1,5 @@
+---
+title: "Ernsting's family"
+url: /dorsten/ernstings-family-markt/
+shop: Kleidung
+---

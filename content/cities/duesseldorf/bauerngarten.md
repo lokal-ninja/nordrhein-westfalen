@@ -1,5 +1,5 @@
 ---
-title: "Bauerngarten"
+title: "BauernGarten"
 url: /duesseldorf/bauerngarten/
-shop: Gemüse & Obst
+shop: Supermarkt
 ---

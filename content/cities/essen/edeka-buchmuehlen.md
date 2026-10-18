@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Buchmühlen"
+title: "Edeka Buchmühlen"
 url: /essen/edeka-buchmuehlen/
 shop: Supermarkt
 ---

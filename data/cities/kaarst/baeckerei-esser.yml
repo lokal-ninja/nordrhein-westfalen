@@ -7,5 +7,5 @@ city: Kaarst
 street: Neusser Straße
 housenumber: "19"
 phone: +49 2131 666362
-opening_hours: Mo-Sa 05:30-11:30
+opening_hours: Mo,We,Su off; Tu,Th-Sa 05:30-11:30
 website: https://www.baeckerei-esser.de/

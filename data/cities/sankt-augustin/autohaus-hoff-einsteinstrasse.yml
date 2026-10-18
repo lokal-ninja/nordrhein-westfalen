@@ -7,5 +7,13 @@ city: Sankt Augustin
 street: Einsteinstraße
 housenumber: "17"
 phone: +49 2241 1200 0
-opening_hours: ""
+opening_hours: |-
+    "Öffnungszeiten Verkauf:
+    Mo.-Fr. 8:00-18:30, Sa 9:00-14:00
+
+    Öffnungszeiten Service:
+    Mo.-Do. 7:30-17:30, Fr 7:30-17:00
+
+    Sonntags-Besichtigung:
+    11:00-16:00"
 website: https://www.autohaus-hoff.de/standorte/menden/

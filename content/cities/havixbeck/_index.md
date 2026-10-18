@@ -1,6 +1,6 @@
 ---
 title: Havixbeck
 url: /havixbeck/
-latitude: 51.976
-longitude: 7.412
+latitude: 51.975
+longitude: 7.411
 ---

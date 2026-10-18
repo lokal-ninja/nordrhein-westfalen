@@ -1,5 +1,5 @@
 ---
-title: "REWE Stenten"
+title: "Rewe Stenten"
 url: /aachen/rewe-stenten/
 shop: Supermarkt
 ---
