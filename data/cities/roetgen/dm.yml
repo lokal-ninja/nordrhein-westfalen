@@ -1,11 +1,11 @@
 id: 244387908
 type: node
 latitude: 50.64544
-longitude: 6.18611
+longitude: 6.1861
 postcode: "52159"
 city: Roetgen
 street: Bundesstraße
 housenumber: 30a
 phone: ""
-opening_hours: Mo-Sa 08:30-20:00
+opening_hours: Mo-Sa 08:30-20:00; Su,PH off
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Rhein-Sieg-Trikes"
+title: "Rhein-Sieg Trikes"
 url: /troisdorf/rhein-sieg-trikes/
-shop: Mieten
+shop: Motorrad
 ---

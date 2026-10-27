@@ -1,6 +1,6 @@
 ---
 title: Bedburg
 url: /bedburg/
-latitude: 50.981
-longitude: 6.572
+latitude: 50.976
+longitude: 6.571
 ---
