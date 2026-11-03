@@ -1,6 +1,6 @@
 ---
 title: Velen
 url: /velen/
-latitude: 51.896
-longitude: 6.987
+latitude: 51.886
+longitude: 6.919
 ---

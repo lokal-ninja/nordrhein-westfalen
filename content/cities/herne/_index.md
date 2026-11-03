@@ -1,6 +1,6 @@
 ---
 title: Herne
 url: /herne/
-latitude: 51.527
-longitude: 7.188
+latitude: 51.531
+longitude: 7.159
 ---

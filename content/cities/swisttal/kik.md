@@ -1,5 +1,5 @@
 ---
 title: "KiK"
 url: /swisttal/kik/
-shop: Kleidung
+shop: Kramladen
 ---
