@@ -1,5 +1,5 @@
 ---
 title: "Nur"
 url: /koeln/nur/
-shop: Friseur
+shop: Schmuck
 ---

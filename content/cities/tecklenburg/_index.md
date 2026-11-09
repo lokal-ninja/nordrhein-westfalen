@@ -1,6 +1,6 @@
 ---
 title: Tecklenburg
 url: /tecklenburg/
-latitude: 52.221
-longitude: 7.749
+latitude: 52.222
+longitude: 7.746
 ---

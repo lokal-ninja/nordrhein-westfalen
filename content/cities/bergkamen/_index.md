@@ -1,6 +1,6 @@
 ---
 title: Bergkamen
 url: /bergkamen/
-latitude: 51.608
-longitude: 7.59
+latitude: 51.62
+longitude: 7.638
 ---
